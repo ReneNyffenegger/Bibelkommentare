@@ -1,0 +1,233 @@
+@page :right { margin-left :17mm ;}
+@page :left  { margin-right:17mm ;}
+
+
+.akkutodo {color: red}
+.todo {color: red}
+
+body {
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+#kapitel {
+  position: fixed;
+  background-color:#f0f0f0;
+  width:100%;
+  height:100px;
+  top:0px;
+  padding-left: 45px;
+  z-index:1;
+  border-bottom: 2px solid  black;
+}
+#kap-name {
+  font-size:69px;
+  font-family: Gill Sans MT; 
+}
+.title-sep {
+  width: 50px;
+}
+:target:before { // http://stackoverflow.com/a/28824157/180275
+  background-color:#ffffff00; /* ???? */
+  content:"";
+  display:block;
+  height:108px; /* fixed header height*/
+  margin:-108px 0 0; /* negative fixed header height */
+}
+// #kapitel-bottom {
+//   position: fixed;
+//   width:100%;
+//   height: 8px; 
+//   color: white;
+// }
+#top {
+  height: 120px;
+  background-color: white;
+}
+
+.b {
+  font-family: Garamond; /* font-size:28; */
+  margin-bottom: 0.2cm;
+}
+
+.sch2k, .kjv, .elb {
+  font-family: Gorgia; /* font-size:10; */
+}
+
+.elb {
+  margin-bottom: 0.1cm;
+}
+
+
+.sch2k {
+  margin-bottom: 0.1cm;
+}
+
+.kjv {
+  color: #999999;
+  margin-bottom: 0.0cm;
+}
+
+.ylt {
+  color: #ff9900;
+  margin-bottom: 0.0cm;
+}
+
+.inl {
+  color: #0033ff;
+  margin-bottom: 0.0cm;
+}
+
+.hebr {
+  font-family: Times New Roman,Arial;
+}
+
+.kap-tab {
+  /* Opera only: */
+  /* page-break-inside:avoid; */
+}
+
+.kap-tab .v .n {
+    display: block;
+    float: left;
+    width: 20px;
+    color:#999999;
+    position: relative;
+    padding-left:8px;
+    top: 4px;  // TODO_02: offenbar in Chrome unterschiedlich wie in Firefox
+    font-size: 12;
+}
+
+.kap-tab .v .t,
+.kap-tab .v .b,
+.kap-tab .v .elb,
+.kap-tab .v .sch2k,
+.kap-tab .v .kjv,
+.kap-tab .v .ylt,
+.kap-tab .v .inl,
+.kap-tab .txt {
+    margin-left: 45px;
+}
+
+.mod_n { background-color: #fdd; }
+.mod_M { background-color: #dfd; }
+.mod_m { background-color: #ddf; }
+.mod_O { background-color: #cfc; }
+.mod_T { background-color: #ffddbb; }
+
+.kap-tab .v .t {
+  font-family: Gill Sans MT; font-size: 30; 
+  /* font-family: Garamond; font-size: 10; */
+  margin-bottom: 0.2cm;
+}
+
+.txt + .txt {
+  margin-top: 10px;
+}
+
+.kap-tab .v /* + .v */ {
+  margin-bottom: 0.4cm;
+}
+
+.kap-tab .v .t {
+  border-top:1px dotted #555;
+  margin-top:0.4cm;
+}
+
+.kap-tab .v .t  + .t {
+  border-top:0;
+  margin-top:0.2cm;
+}
+
+.gt { /* Erklärungen zum Grundtext */
+  background-color: #fff9f0;
+}
+
+
+.sch2k {
+  color: #6633aa;
+}
+
+.elb {
+  color: #33aa66;
+}
+
+.bt { /* Textzitat der Bibel */
+   font-style: italic;
+}
+
+h1 {margin-left  :45px; font-size:28px; margin-bottom:3px;}
+
+ul {margin-top   : 1px;
+    margin-bottom: 1px;
+   }
+
+tr {vertical-align:top}
+
+td.num {text-align:right; padding-right:10px}
+
+table.grid    {border-collapse:collapse}
+table.grid td {border:black 1px solid}
+
+.grey {color:#aaa}
+
+a.strongs,
+a.z {color:#aaa; text-decoration: none}
+
+a.fn {color:#03a; text-decoration: none}
+
+@media screen {
+
+
+  body { margin-bottom: 2000px}
+
+  a.kom {color:#2b4;}
+  a     {color:blue;}
+  .b    {font-size: 22px}
+
+  .u {color:#775114 ;}  /* Ausserbiblisch, evtl nicht ausdrucken? */
+  .f {color:#234512 ;}  /* Frage */
+
+  .kjv, .elb, .sch2k { font-size: 16px}
+  .kap-tab .v .t { font-size: 16px; color: #068;}
+
+
+
+}
+@media print {
+
+  body {
+/*  margin-left: 0cm; */
+    } 
+
+  .elb, .kjv, sch2k {
+    color: #222;
+  }
+
+  a.kom {/*text-decoration-style: dotted; 
+         -moz-text-decoration-style: dotted;*/
+         /*font-style:italic;*/
+        /*color:black; */}
+
+  a.kom:before {
+     content: "→";
+  }
+
+  a {text-decoration: none; color: black}
+
+  .v {
+     page-break-inside:avoid;
+  }
+
+   .kap-tab .v .n {
+     font-size: 10;
+     position:relative;
+     top: 0.5 mm;
+  }
+
+  h1 {
+    page-break-after:avoid;
+  }
+
+
+}
