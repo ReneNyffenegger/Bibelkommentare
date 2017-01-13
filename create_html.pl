@@ -49,7 +49,7 @@ Getopt::Long::GetOptions(
 
 
 my $target_env = $web ? 'web' : 'local';
-my $verbose = 1;
+my $verbose = 0;
 RN::init($target_env, $verbose);
 my $index_file = RN::url_path_abs_2_os_path_abs('/notes/.index');#  "${notes_input_root}notes/.index";
 
@@ -58,7 +58,7 @@ print "index_file = $index_file\n";
 my %index;
 
 die unless -f $index_file;
-notes::init($web, 0);
+notes::init($web, 0, $verbose); # 2nd parameter: test
 notes::load_index($index_file);
 
 
