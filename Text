@@ -9812,20 +9812,7 @@
 #}
 #2mo-25-13 {
  {
-  Es gibt <i>Tragstangen</i> für die Lade (<a href='http://bibel.renenyffenegger.ch/2mo_25.html#v15'>Vers 15</a>,
-  für den Tisch (<a href='http://bibel.renenyffenegger.ch/2mo_25.html#v27'>Vers 27</a>), für den (Brandopfer (?)-)Altar, mit Erz überzogen,
-  (<a href='http://bibel.renenyffenegger.ch/2mo_27.html#v6'>2.&nbsp;Mo&nbsp;27,6</a>)
-  und für den Räucheraltar (<a href='http://bibel.renenyffenegger.ch/2mo_30.html#v4'>2.&nbsp;Mo&nbsp;30,4</a>).
-  <br>TODO: Nur bei der Lade steht explizit, dass die Tragstangen nicht entfernt werden dürfen (Vers 15)
-      Allerdings steht in <a href='http://bibel.renenyffenegger.ch/4mo_4.html#v6'>4.&nbsp;Mo&nbsp;4,6</a>, dass die Tragstangen
-      in blauen Purpur(?) eingesteckt werden sollen. Warum? (TODO: Offenbar steht das gar nicht, sondern dass der blaue Purpur über
-      die Lade gehängt werden soll und dann die Tragstangen eingesteckt werden sollen).
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/2mo_37.html#v5'>2.&nbsp;Mo&nbsp;37,5</a> (die Tragstangen sind zum tragen).
-  <br>TODO: Implizieren <a href='http://bibel.renenyffenegger.ch/4mo_10.html#v33'>4.&nbsp;Mo&nbsp;10,33-35</a> und
-      <a href='http://bibel.renenyffenegger.ch/4mo_14.html#v44'>4.&nbsp;Mo&nbsp;14,44</a>, dass die Lade bis
-      <a href='http://bibel.renenyffenegger.ch/5mo_10.html#v8'>5.&nbsp;Mo&nbsp;10,8</a> selbstständig bewegte?
-      Vgl aber auch mit der Wohnung, die «aufbricht» (<a href='http://bibel.renenyffenegger.ch/4mo_1.html#v51'>4.&nbsp;Mo&nbsp;1,51</a>).
-  <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/2mo_35.html#v12'>2.&nbsp;Mo&nbsp;35,12-16</a> und <a class='kom' href='#I2mo-35-12'>2.&nbsp;Mo&nbsp;35,12</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Stangen
  }
  {
   In §2chr-5-9 scheinen die Tragstangen 20 Ellen lang zu sein.
@@ -9840,6 +9827,11 @@
   Levi wurde erst in <a href='http://bibel.renenyffenegger.ch/5mo_10.html#v8'>5.&nbsp;Mo&nbsp;10,8</a> ausgesondert, die
   Lade zu tragen, nachdem Aaron gestorben war (<a href='http://bibel.renenyffenegger.ch/5mo_10.html#v6'>5.&nbsp;Mo&nbsp;10,6</a>).
   <br>Siehe auch <a class='kom' href='#I4mo-20-28'>4.&nbsp;Mo&nbsp;20,28</a>.
+ }
+#}
+#2mo-25-15 {
+ {
+  Die → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Stangen[Stangen] dürfen nicht entfernt werden: vgl §4mo-4-6
  }
 #}
 #2mo-25-16 {
@@ -13182,8 +13174,7 @@
 #}
 #4mo-4-6 {
  {
-  Siehe <a class='kom' href='#I2mo-25-13'>2.&nbsp;Mo&nbsp;25,13</a>: Tragstangen sollen nicht aus den Ringen entfernt werden dürfen
-         (eigtl: <a href='http://bibel.renenyffenegger.ch/2mo_25.html#v15'>2.&nbsp;Mo&nbsp;25,15</a>)
+  Vgl §2mo-25-15: → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Stangen[Stangen] dürfen nicht aus den Ringen entfernt werden.
  }
 #}
 #4mo-4-7 {
@@ -28474,6 +28465,11 @@
   (<a href='http://bibel.renenyffenegger.ch/2chr_29.html#v25'>2.&nbsp;Chr&nbsp;29,25</a>).
  }
 #}
+#1chr-15-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Stangen
+ }
+#}
 #1chr-15-18 {
  {
   Auch zur Zeit Jojakims gibt es einen <i>Torhüter Maaseja</i> (<a href='http://bibel.renenyffenegger.ch/jer_35.html#v4'>Jer&nbsp;35,4</a>).
@@ -29155,7 +29151,7 @@
 #}
 #2chr-5-9 {
  {
-  <i>Tragstangen</i>: <a class='kom' href='#I2mo-25-13'>2.&nbsp;Mo&nbsp;25,13</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Stangen
  }
 #}
 @}
