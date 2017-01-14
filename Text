@@ -39269,8 +39269,7 @@
 #}
 #jes-29-10 {
  {
-  <i>Geist ausgegossen</i>: vgl <a href='http://bibel.renenyffenegger.ch/jes_32.html#v15'>Jes&nbsp;32,15</a>,
-  <a href='http://bibel.renenyffenegger.ch/jes_44.html#v3'>Jes&nbsp;44,3</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
  }
 #}
 #jes-29-11 {
@@ -39351,13 +39350,7 @@
 #}
 #jes-32-15 {
  {
-  <i>Geist ausgegossen</i>: <a class='kom' href='#Ijes-29-10'>Jes&nbsp;29,10</a>,
-  <a href='http://bibel.renenyffenegger.ch/jes_44.html#v3'>Jes&nbsp;44,3</a>,
-  <a href='http://bibel.renenyffenegger.ch/hes_39.html#v29'>Hes&nbsp;39,29</a>,
-  <a href='http://bibel.renenyffenegger.ch/joe_3.html#v1'>Joe 3,1-2</a>,
-  <a href='http://bibel.renenyffenegger.ch/sach_12.html#v10'>Sach&nbsp;12,10</a> ('Geist der Gnade und des Gebets')
-  <a class='kom' href='#Iapg-2-17'>Apg 2,17-18</a>,
-  <a class='kom' href='#Igal-3-14'>Gal&nbsp;3,14</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
  }
 #}
 #jes-32-17 {
@@ -39798,8 +39791,7 @@
 #}
 #jes-44-3 {
  {
-  <i>Geist augegossen</i>: <a class='kom' href='#Ijes-32-15'>Jes&nbsp;32,15</a>,
-  <a class='kom' href='#Iapg-2-17'>Apg&nbsp;2,17</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
  }
 #}
 #jes-44-6 {
@@ -44279,7 +44271,8 @@
 #}
 #hes-39-29 {
  {
-  <i>Ausgiessen des Geistes</i>: <a class='kom' href='#Ijes-32-15'>Jes&nbsp;32,15</a>, <a class='kom' href='#Ijoe-3-1'>Joe&nbsp;3,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen. Beachte: Hier wird er über
+  <i>das Haus Israel</i>, in §joe-3-1-2 über <i>alles Fleisch</i> ausgegossen.
  }
 #}
 @}
@@ -46021,9 +46014,8 @@
 @Joel 3 {
 #joe-3-1 {
  {
-  <i>Geist augegossen</i>: <a class='kom' href='#Ijes-32-15'>Jes&nbsp;32,15</a>.
-  <br>Beachte: Hier wird er über <i>alles Fleisch</i>, in <a href='http://bibel.renenyffenegger.ch/hes_39.html#v29'>Hes&nbsp;39,29</a>
-  über <i>das Haus Israel</i> ausgegossen.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen. Beachte: Hier wird er über
+  <i>alles Fleisch</i>, in §hes-39-29 über <i>das Haus Israel</i> ausgegossen.
  }
  {
   Die Verse 1 bis 5 werden von Petrus ab <a href='http://bibel.renenyffenegger.ch/apg_2.html#v17'>Apg&nbsp;2,17</a> zitiert.
@@ -47352,7 +47344,7 @@
 #}
 #sach-12-10 {
  {
-  <i>Geist augegossen</i>: <a class='kom' href='#Ijes-32-15'>Jes&nbsp;32,15</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
  }
  {
   <i>durchstochen</i>: <a href='http://bibel.renenyffenegger.ch/joh_19.html#v34'>Joh&nbsp;19,34</a>,
@@ -47398,6 +47390,10 @@
 #sach-14-2 {
  {
   <i>Und ich werde alle Nationen nach Jerusalem zum Krieg versammeln; und die Stadt wird eingenommen</i> vgl §jer-34-1, §sach-12-2, §sach-12-9, §lk-21-20
+  <br>
+  Beachte, dass «alle Übriggebliebenen von allen Nationen, welche gegen
+  Jerusalem gekommen sind, von Jahr zu Jahr hinaufziehen werden, um den König,
+  Jehova der Heerscharen, anzubeten und das → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfest] zu feiern». §Vsach-14-16
  }
 #}
 #sach-14-4 {
@@ -57157,13 +57153,7 @@
 #}
 #apg-2-17 {
  {
-  <i>Ausgegossener Geist</i>: <a class='kom' href='#Ijes-32-15'>Jes&nbsp;32,15</a>, <a href='http://bibel.renenyffenegger.ch/jes_44.html#v3'>Jes&nbsp;44,3</a>,
-    <a class='kom' href='#Ihes-39-29'>Hes&nbsp;39,29</a>.
-  <br>vgl mit 'Taufe im Heiligen Geist' (<a href='http://bibel.renenyffenegger.ch/apg_1.html#v5'>Apg&nbsp;1,5</a>),
-  'der Heilige Geist auf euch' <a href='http://bibel.renenyffenegger.ch/apg_1.html#v8'>Apg&nbsp;1,8</a>,
-  vom 'Heiligen Geist erfüllt sein' (<a href='http://bibel.renenyffenegger.ch/apg_2.html#v4'>Apg&nbsp;2,4</a>,
-  <a href='http://bibel.renenyffenegger.ch/apg_4.html#v8'>Apg&nbsp;4,8</a>, <a href='http://bibel.renenyffenegger.ch/apg_6.html#v3'>Apg&nbsp;6,3</a>)
-  Vgl auch <a href='http://bibel.renenyffenegger.ch/apg_2.html#v33'>Vers 33</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
  }
  {
   <i>Letzte Tage</i>: <a class='kom' href='#Ijoh-6-39'>Joh&nbsp;6,39</a>.
@@ -57308,8 +57298,9 @@
   Der <i>erhöhte Sohn des Menschen</i>: <a class='kom' href='#Ijoh-3-14'>Joh&nbsp;3,14</a>. Vgl <a href='http://bibel.renenyffenegger.ch/apg_5.html#v31'>Apg&nbsp;5,31</a>.
  }
  {
-  <i>Verheissung des Heiligen Geistes</i>: <a class='kom' href='#Ilk-24-49'>Lk&nbsp;24,49</a>.
+  <i>Verheissung des Heiligen Geistes</i>: §+lk-24-49, §gal-3-14
   <br>Vgl mit der 'Gabe des Heiligen Geistes' in Vers 38.
+  <br>S.a. → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
  }
 #}
 #apg-2-35 {
