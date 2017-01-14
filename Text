@@ -940,7 +940,6 @@
 #}
 @}
 @1. Mose 4 {
-         <object data="svg_alle_kapitel/1mo_4.svg" type="image/svg+xml" width='744' height='965'></object>
 #1mo-4-1 {
  {
   <i>ich habe erworben</i> (<span class='hebr'>קָנִ֥יתִי</span>, Strongs 7069), vgl mit <i>Kain</i> (<span class='hebr'>קַיִן</span>, Strongs 7014).
@@ -5388,9 +5387,6 @@
 #}
 @}
 @1. Mose 36 {
- {
-         <object data="svg_alle_kapitel/1mo_36_1.svg" type="image/svg+xml" width='741' height='391'></object>
- }
 #1mo-36-1 {
  {
    <i>Geschichte</i>: <a class='kom' href='#I1mo-2-4'>1.&nbsp;Mo&nbsp;2,4</a>.
@@ -5720,7 +5716,6 @@
 #}
 @}
 @1. Mose 38 {
-         <object data="svg_alle_kapitel/1mo_38.svg" type="image/svg+xml"></object>
 #1mo-38-1 {
  {
   Adullam (<span class='hebr'>עֲדֻלָּמִ֖י</span>) bedeutet 'Gerechtigkeit des Volkes'. Hira (<span class='hebr'>חִירָֽה</span>) bedeutet
@@ -6771,7 +6766,6 @@
  }
 #}
 #1mo-50-10 {
-
  {
   Beachte: der Trauerzug scheint über den Jordan nach Kanaan gezogen zu sein (Vers 13). Offenbar gingen sie nicht den direkten
   Weg von Ägypten nach Kanaan.
@@ -9715,7 +9709,6 @@
  {
   TODO: <i>weisses Leinen</i> (Strongs 8336) offenbar dasselbe Wort wie für 'weisse Leinwand' in <a href='http://bibel.renenyffenegger.ch/1mo_41.html#v42'>1.&nbsp;Mo&nbsp;41,42</a>.
  }
-
 #}
 #2mo-25-5 {
  {
@@ -10055,9 +10048,6 @@
 #}
 @}
 @2. Mose 27 {
- {
-         <object data="svg_alle_kapitel/2mo_27_vorhof.svg" type="image/svg+xml" width='700' height='350'></object>
- }
 #2mo-27-1 {
  {
   TODO: Ist dieser Altar der <i>eherne Altar</i> aus <a href='http://bibel.renenyffenegger.ch/2mo_39.html#v39'>2.&nbsp;Mo&nbsp;39,39</a>?
@@ -14865,9 +14855,6 @@
  }
 #}
 #4mo-26-33 {
-
-        <object data="svg_alle_kapitel/4mo_26_33.svg" type="image/svg+xml" width='470' height='120'></object>
-
  {
   Vgl mit <i>Zelophchad</i>, der Sohn Machirs (<a href='http://bibel.renenyffenegger.ch/1chr_7.html#v15'>1.&nbsp;Chr&nbsp;7,15</a>).
  }
@@ -17754,8 +17741,6 @@
 }
 { Josua
 @Josua 1 {
-    TODO: Wird Josua die Amoriter schlagen? Siehe <a href='http://bibel.renenyffenegger.ch/ri_1.html#v1'>Ri&nbsp;1,1</a>. Wohl nein,
-    denn siehe <a href='http://bibel.renenyffenegger.ch/ri_1.html#v34'>Ri&nbsp;1,34</a>.
 #jos-1-1 {
  {
   <i>Und es geschah nach dem Tod</i>: vgl mit dem Anfang von <a href='http://bibel.renenyffenegger.ch/ri_1.html#v1'>Richter</a> («nach dem Tod Josuas»), und dem Anfang
@@ -24009,7 +23994,6 @@
  }
 #}
 #2sam-23-8 {
-
  {
 
   <i>Die Helden → biblisches/Personen/David[Davids]</i>
@@ -28266,10 +28250,12 @@
  }
 #}
 #1chr-8-35 {
-         Nachkommen Michas (vgl <a href='http://bibel.renenyffenegger.ch/1chr_9.html#v41'>1.&nbsp;Chr&nbsp;9,41</a>).
-         <br>Siehe auch <a class='kom' href='#I2sam-9-12'>2.&nbsp;Sam&nbsp;9,12</a>.
  {
-         <object data="svg_alle_kapitel/1chr_8_35.svg" type="image/svg+xml"></object>
+  Nachkommen Michas (vgl <a href='http://bibel.renenyffenegger.ch/1chr_9.html#v41'>1.&nbsp;Chr&nbsp;9,41</a>).
+  <br>Siehe auch <a class='kom' href='#I2sam-9-12'>2.&nbsp;Sam&nbsp;9,12</a>.
+ }
+ {
+  <object data="svg_alle_kapitel/1chr_8_35.svg" type="image/svg+xml"></object>
  }
  {
   <i>Melech</i> (<span class='hebr'>מֶלֶךְ</span>, Strongs 4429) bedeutet König (Strongs 4428).
@@ -42067,6 +42053,16 @@
 #}
 @}
 @Jeremia 34 {
+#jer-34-1 {
+ {
+  <i>als … alle Königreiche der Erde … und alle Völker gegen Jerusalem und gegen alle seine Städte stritten … </i> Vgl §sach-12-2, §sach-14-2, §lk-21-20.
+ }
+#}
+#jer-34-3 {
+ {
+  <i>deine Augen werden die Augen des Königs von Babel sehen</i> vgl §jer-39-7
+ }
+#}
 #jer-34-4 {
  {
    → biblisches/Personen/Mattanja-Zedekia[Zedekia]
@@ -42081,11 +42077,6 @@
  {
   <i>Lachis</i>: <a class='kom' href='#Ijos-15-39'>Jos&nbsp;15,39</a>, <i>Aseka</i>: <a class='kom' href='#Ijos-15-35'>Jos&nbsp;15,35</a>.
   <br>Vgl <a class='kom' href='#I2chr-11-9'>2.&nbsp;Chr&nbsp;11,9</a>.
- }
-#}
-#jer-34-3 {
- {
-  <i>deine Augen werden die Augen des Königs von Babel sehen</i> vgl §jer-39-7
  }
 #}
 #jer-34-8 {
@@ -43061,7 +43052,6 @@
 { Hesekiel
 { 1-10
 @Hesekiel 1 {
-    TODO: http://www.preservedwords.com/disptruth/images/13-ezekiel.gif
 #hes-1-1 {
  {
   <i>Weggführung</i>: <a class='kom' href='#I2koe-24-14'>2.&nbsp;Kö&nbsp;24,14</a>.
@@ -44294,8 +44284,6 @@
 #}
 @}
 @Hesekiel 40 {
-    TODO: Siehe auch http://www.arielm.org/outlines/o-rev-charts.pdf für ein paar Grafiken.
-    <br>http://www.truebiblecode.com/images/EzekielsTemple.png
 #hes-40-1 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/An-eben-diesem-Tag
@@ -47352,6 +47340,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/ausspannen
  }
 #}
+#sach-12-2 {
+ {
+  <i>Belagerung von Jerusalem</i> §jer-34-1, §sach-14-2, §lk-21-20, §Vsach-12-9
+ }
+#}
 #sach-12-6 {
  {
   <i>brennende Fackel</i>: TODO siehe <a class='kom' href='#I1mo-15-17'>1.&nbsp;Mo&nbsp;15,17</a>.
@@ -47402,6 +47395,11 @@
 #}
 @}
 @Sacharja 14 {
+#sach-14-2 {
+ {
+  <i>Und ich werde alle Nationen nach Jerusalem zum Krieg versammeln; und die Stadt wird eingenommen</i> vgl §jer-34-1, §sach-12-2, §sach-12-9, §lk-21-20
+ }
+#}
 #sach-14-4 {
  {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/mt_24.html#v3'>Mt&nbsp;24,3</a>, wo der HERR auf dem Ölberg sitzt.
@@ -54335,6 +54333,9 @@
 #}
 #lk-21-20 {
  {
+  <i>Wenn ihr aber Jerusalem von Heerscharen umzingelt seht</i> vgl §jer-34-1, §sach-12-2, §sach-12-9, §sach-14-2
+ }
+ {
   <i>belagert</i>: <span class='gr'>κυκλόω</span> (Strongs 2944).
  }
  {
@@ -60724,7 +60725,6 @@
  {
   TODO: Oder «vom Jupiter heruntergefallen»? KJV überesezt «and of the <i>image</i> which fell down from Jupiter?»
  }
-  E:\Digitales-Backup\Lesbares\Geozentrik\1854-Riemann_-Ueber-die-Hypothesen,-welche-der-Geometrie-zugrunde-liegen.pdf
 #}
 #apg-19-37 {
  {
@@ -65524,7 +65524,6 @@
  {
   Achtung vor Geboten von Menschen (<a href='http://bibel.renenyffenegger.ch/tit_1.html#v14'>Tit&nbsp;1,14</a>).
  }
-
 #}
 #1kor-14-38 {
  {
@@ -75522,63 +75521,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 @}
 @1. Johannes 2 {
-    <table summary='.' style='border: 1px solid black;margin-bottom:0.4cm;'><!--{-->
-      <thead>
-        <tr><td> </td><td colspan=3>Daran erkennen wir..</td></tr>
-      </thead>
-      <tbody>
-        <tr><td><a href='http://bibel.renenyffenegger.ch/1joh_2.html#v3'>2,3</a></td><!--{-->
-    <td>dass wir ihn erkannt haben</td>
-    <td> </td>
-    <td>wenn wir seine Gebote halten</td>
-        </tr><!--}-->
-        <tr><td><a href='http://bibel.renenyffenegger.ch/1joh_2.html#v5'>2,5</a></td><!--{-->
-    <td>dass wir in ihm sind</td>
-    <td> </td>
-    <td>wer sein Wort hält</td>
-        </tr><!--}-->
-        <tr><td><a href='http://bibel.renenyffenegger.ch/1joh_2.html#v18'>2,18</a></td><!--{-->
-    <td>dass es die letzte Stunde ist</td>
-    <td> </td>
-    <td>viele Antichristen sind aufgetreten</td>
-        </tr><!--}-->
-        <tr><td><a href='http://bibel.renenyffenegger.ch/1joh_3.html#v16'>3,16</a></td><!--{-->
-    <td>die Liebe (erkannt)</td>
-    <td> </td>
-    <td>dass Er sein Leben für uns hingegeben hat</td>
-        </tr><!--}-->
-        <tr><td><a href='http://bibel.renenyffenegger.ch/1joh_3.html#v19'>3,19</a></td><!--{-->
-    <td>dass wir aus der Wahrheit sind</td>
-    <td> </td>
-    <td>wenn unser Herz uns verurteilt, Gott grösser ist als unser Herz und alles weiss</td>
-        </tr><!--}-->
-        <tr><td><a href='http://bibel.renenyffenegger.ch/1joh_3.html#v24'>3,24</a></td><!--{-->
-    <td>dass er in uns bleibt</td>
-    <td> </td>
-    <td>an dem Geist, den Er uns gegeben hat</td>
-        </tr><!--}-->
-        <tr><td><a href='http://bibel.renenyffenegger.ch/1joh_4.html#v2'>4,2</a></td><!--{-->
-    <td>den Geist Gottes</td>
-    <td> </td>
-    <td>jeder Geist, der bekennt, dass Jesus Christus im Fleisch gekommen ist, der ist aus Gott</td>
-        </tr><!--}-->
-        <tr><td><a href='http://bibel.renenyffenegger.ch/1joh_4.html#v6'>4,6</a></td><!--{-->
-    <td>den Geist der Wahrheit und den Geist des Irrtums</td>
-    <td> </td>
-    <td>wer Gott erkennt, hört auf uns, wer nicht aus Gott ist, hört nicht auf uns</td>
-        </tr><!--}-->
-        <tr><td><a href='http://bibel.renenyffenegger.ch/1joh_4.html#v13'>4,13</a></td><!--{-->
-    <td>dass wir in ihm bleiben und er in uns</td>
-    <td> </td>
-    <td>dass er uns von seinem Geist gegeben hat</td>
-        </tr><!--}-->
-        <tr><td><a href='http://bibel.renenyffenegger.ch/1joh_5.html#v2'>5,2</a></td><!--{-->
-    <td>dass wir die Kinder Gottes lieben</td>
-    <td> </td>
-    <td>wenn wir Gott lieben und seine Gebote halten</td>
-        </tr><!--}-->
-      </tbody>
-    </table><!--}-->
 #1joh-2-1 {
  {
   Siehe auch <a class='kom' href='#Ijoh-13-33'>Joh&nbsp;13,33</a> betreffend <span class='gr'>τεκνίον</span>. Ebenso
@@ -76092,136 +76034,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 }
 { Judas
 @Judas 1 {
-    Vergleich mit <a href='http://bibel.renenyffenegger.ch/2petr_2.html#v1'>2. Petr 2</a>
-    <br>Beachte, in  <a href='http://bibel.renenyffenegger.ch/2petr_2.html#v1'>2.&nbsp;Petr&nbsp;2,1-3</a> wird im Futur
-    geschrieben, <a href='http://bibel.renenyffenegger.ch/jud_1.html#v4'>Jud&nbsp;1,4</a> haben sich etliche bereits
-    eingeschlichen (TODO: mit Griechisch verifizieren).
-    <table summary='.' style='border:1px black solid;margin-bottom:0.2cm'><!--{-->
-      <thead style='background-color:#ccccc'>
-        <tr>
-  <td><b>2. Petrus</b></td>
-  <td><b>Judas</b></td>
-        </tr>
-      </thead>
-      <tbody>
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_2.html#v1'>1</a>
-   Falsche Propheten, führen heimlich verderbliche Sekten ein indem sie den Herrn, der sie erkauft hat, verleugnen.
-   <br>TODO: Vgl die Sekten mit den <i>verursachten Trennungen</i> in <a href='http://bibel.renenyffenegger.ch/jud_1.html#v19'>Jud 19</a>.
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v4'>4</a>
-  etliche Menschen, unbemerkt eingeschlichen ... verleugnen Gott, den einzigen Herrscher und unsern Herrn Jesus Christus.
-        </td>
-       </tr><!--}-->
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_2.html#v4'>4</a>
-  Gott verschonte die Engel nicht, die gesündigt hatten, sondern warf sie in
-  den Abgrund in Fesseln der Finsternis ... um sie zum Gericht aufzubewahren.
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v6'>6</a>
-  Engel, die ihren Herrschaftbsereich nicht bewahrten werden mit ewigen Fesseln unter der Finsternis verwahrt für das Gericht des
-  grossen Tages.
-        </td>
-       </tr><!--}-->
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_2.html#v5'>5</a>
-  Noah ... als Achten
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v14'>14</a>
-  Henoch, der siebte nach Adam
-        </td>
-       </tr><!--}-->
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_2.html#v6'>6</a>
-  Sodom und Gomorra als Beispiel für künftige Gottlose gesetzt.
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v7'>7</a>
-  S. und G und umliegende Städte (die Unzucht bis zum äussersten trieben): ein warnendes Beispiel, indem sie die Strafe eines ewigen Feuers erleiden.
-        </td>
-       </tr><!--}-->
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_2.html#v10'>10</a>
-  in unreiner Lust dem Fleisch nachlaufen und die Herrschergewalt verachten ... fürchten sich nicht, Majestäten zu lästern
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v8'>8</a>
-  beflecken mit Träumereien Fleisch, verachten Herrschaft und lästern Mächte
-        </td>
-       </tr><!--}-->
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_2.html#v11'>11</a>
-   Engel bringen kein lästerndes Urteil beim Herrn vor
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v9'>9</a>
-  Erzengel Michael (als er mit dem Teufel stritt), wagte kein lästerndes Urteil zu fällen.
-        </td>
-       </tr><!--}-->
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_2.html#v12'>12</a>
-  Diese aber, wie unvernünftige Tiere von Natur zum Fang und Verderben geboren, lästern über das, was sie nicht verstehen, und werden in ihrer Verdorbenheit völlig zugrundegerichtet werden,
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v10'>10</a>
-  Diese aber lästern alles, was sie nicht verstehen; was sie aber von Natur wie die unvernünftigen Tiere wissen, darin verderben sie sich.
-        </td>
-       </tr><!--}-->
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_2.html#v13'>13</a>
-  Als Schmutz- und Schandflecken tun sie gross mit ihren Betrügereien, wenn sie mit euch zusammen <b>schmausen</b>.
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v12'>12</a>
-   Diese sind Schandflecken bei euren Liebesmahlen und <b>schmausen</b> mit [euch], indem sie ohne Scheu sich selbst weiden.
-        </td>
-       </tr><!--}-->
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_2.html#v15'>15</a>
-  Den richtigen Weg verlassen und dem Weg Bileams gefolgt, der den Lohn der Ungerechtigkeit liebte.
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v11'>11</a>
-   Den Weg Kains gegangen und um des Gewinns willen dem Betrug Bileams hingegeben
-        </td>
-       </tr><!--}-->
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_2.html#v17'>17</a>
-  Brunnen ohne Wasser, Wolken vom Sturmwind getrieben, Dunkel der Finsternis aufbehalten in Ewigkeit
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v12'>12-13</a>
-  Wolken ohne Wasser, von Winden umhergetrieben ... Dunkel der Finsternis in Ewigkeit aufbewahrt
-        </td>
-       </tr><!--}-->
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_2.html#v18'>18</a>
-  Mit hochfahrenenden, leeren <b>Reden</b> locken sie durch ausschweifende fleischliche Lüste diejenigen an...
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v16'>16</a>
-  ... und ihr Mund <b>redet</b> übertriebene Worte, wenn sie aus Eigennutz ins Angesicht schmeicheln.Wolken ohne Wasser, von Winden umhergetrieben ... Dunkel der Finsternis in Ewigkeit aufbewahrt...
-        </td>
-       </tr><!--}-->
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_3.html#v2'>3,2</a>
-  Petrus: ein Apostel
-  <br>TODO: Kein Pendent zu 'heilige Propheten' in Judas?
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v17'>17</a>
-  Judas: wohl kein Apostel.
-        </td>
-       </tr><!--}-->
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_3.html#v3'>3,3</a>
-  Am Ende der Tage: Spötter  nach <i>eigenen</i> Lüsten
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v18'>18</a>
-  In der letzten Zeit: Spötter in <i>gottlosen</i> Lüsten
-        </td>
-       </tr><!--}-->
-       <tr><!--{-->
-        <td><a href='http://bibel.renenyffenegger.ch/2petr_3.html#v14'>3,14</a>
-  ..  seid eifrig darum bemüht, daß ihr als unbefleckt und tadellos vor ihm erfunden werdet ..
-        </td>
-        <td><a href='http://bibel.renenyffenegger.ch/jud_1.html#v24'>24</a>
-  .. der mächtig genug ist, euch ohne Straucheln zu bewahren ..
-        </td>
-       </tr><!--}-->
-      </tbody>
-    </table><!--}-->
 #jud-1-1 {
  {
   TODO: Judas scheint ein Bruder des Herrn gewesen zu sein (<a href='http://bibel.renenyffenegger.ch/mt_13.html#v55'>Mt&nbsp;13,55</a>).
@@ -78906,50 +78718,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @}
 @Offenbarung 16 {
 #offb-16-1 {
-    <table style='border:black solid 1px' summary='.'><!--{-->
-      <tr><!--{-->
-        <td><b>1. Schale</b> (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v2'>Offb&nbsp;16,2</a>)
-    Auf die Erde: Geschwüre an Menschen, die das Malzeichen des Tieres hatten und sein Bild anbeteten.
-    (Vgl 6. <a href='#zehn_plagen'>Plage</a>)
-        </td>
-      </tr><!--}-->
-      <tr><!--{-->
-        <td><b>2. Schale</b> (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v3'>Offb&nbsp;16,3</a>)
-    Ins Meer: wird zu Blut, und alle lebendigen Wesen im Meer sterben.
-        </td>
-      </tr><!--}-->
-      <tr><!--{-->
-        <td><b>3. Schale</b> (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v4'>Offb&nbsp;16,4</a>)
-  in die Flüsse und Wasserquellen, werden zu Blut.
-  'Blut der Heiligen und Propheten haben sie vergossen, und Blut hast du ihnen zu trinken gegeben, denn
-  sie verdienen es.' (Vgl 1. <a href='#zehn_plagen'>Plage</a>)
-        </td>
-      </tr><!--}-->
-      <tr><!--{-->
-        <td><b>4. Schale</b> (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v8'>Offb&nbsp;16,8</a>)
-    auf Sonne, Menschen mit Feuer versengt.  Menschen tun nicht Busse.
-        </td>
-      </tr><!--}-->
-      <tr><!--{-->
-        <td><b>5. Schale</b> (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v10'>Offb&nbsp;16,10</a>)
-    Auf Thron des Tieres. Sein Reich verfinstert. Sie zerbissen ihre Zungen vor Schmerz.
-        </td>
-      </tr><!--}-->
-      <tr><!--{-->
-        <td><b>6. Schale</b> (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v12'>Offb&nbsp;16,12</a>)
-    Auf Euphrat. Sein Wasser vertrocknet. Könige vom Aufgang der Sonne wird der Weg bereitet.
-        </td>
-      </tr><!--}-->
-      <tr><!--{-->
-        <td><b>7. Schale</b> (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v17'>Offb&nbsp;16,17</a>)
-    In die Luft. Laute Stimme vom Tempel des Himmels, vom Thron her: 'Es ist geschehen.'
-    Grosse Stadt in drei Teile [zerrissen],
-    Städte der Heidenvölker fielen,
-    Babylon wird der Becher des Glutweins seines Zornes gegeben
-    Inseln entflohen und keine Berge mehr zu finden (vgl 6. Siegel <a href='http://bibel.renenyffenegger.ch/offb_6.html#v14'>Offb&nbsp;6,14</a>)
-        </td>
-      </tr><!--}-->
-    </table><!--}-->
  {
   Vgl mit dem Lamm, das die Siegel öffnet: <a class='kom' href='#Ioffb-6-1'>Offb&nbsp;6,1</a>.
  }
