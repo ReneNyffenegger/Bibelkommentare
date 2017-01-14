@@ -8,4 +8,6 @@ nnoremap <buffer> ,mp :call tq84#buf#openFile($github_root . 'Bibelkommentare/ma
 setl foldmarker={,}
 setl foldmethod=marker
 
+so $github_root/notes/common.vim
+
 call TQ84_log_dedent()
