@@ -13459,14 +13459,7 @@
 #}
 #4mo-10-33 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#wer-traegt-die-lade, vgl §4mo-14-44
- }
- {
-   Die Lade erkundet einen Ruheplatz. <a href='http://bibel.renenyffenegger.ch/1chr_6.html#v16'>1.&nbsp;Chr&nbsp;6,16</a>.
-   Siehe auch <a href='#weg_der_lade'>Der Weg der Bundeslade</a>.
-   Siehe auch <i>wer trägt die Lade</i>: <a href='http://bibel.renenyffenegger.ch/2mo_25.html#v14'>2.&nbsp;Mo&nbsp;25,14</a>.
-  <br>
-   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/ps_132.html#v8'>Ps&nbsp;132,8</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#wer-traegt-die-lade, vgl §4mo-14-44 / → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#lade-ruheplatz
  }
  {
   Hier erste Erwähnung von «Lade des Bundes» (nicht nur «Lade»): <a class='kom' href='#I2mo-25-10'>2.&nbsp;Mo&nbsp;25,10</a>.
@@ -24726,8 +24719,7 @@
 #}
 #1koe-8-6 {
  {
-  TODO: Offenbar scheint die Lade von hier irgendwann wieder zu 'verschwinden', denn Josia lässt sie in das Haus des HERRN bringen
-      (<a href='http://bibel.renenyffenegger.ch/2chr_35.html#v3'>2.&nbsp;Chr&nbsp;35,3</a>).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#lade-ruheplatz. Offenbar nimmt jemand die Lade wieder weg, denn → biblisches/Personen/Josia lässt sie wieder in das Haus des HERRN bringen §2chr-35-3
  }
 #}
 #1koe-8-9 {
@@ -28051,11 +28043,7 @@
 #}
 #1chr-6-16 {
  {
-   Die Lade findet Ruhe (unter den Flügeln der Bundeslade, <a href='http://bibel.renenyffenegger.ch/1koe_8.html#v1'>1.&nbsp;Kö&nbsp;8,1-6</a>). Sie
-   hatte in <a href='http://bibel.renenyffenegger.ch/4mo_10.html#v33'>4.&nbsp;Mo&nbsp;10,33</a> einen Ruheplatz erkundet.
-   Siehe auch <a href='#weg_der_lade'>Der Weg der Bundeslade</a>.
-  <br>
-   Vgl mit <a class='kom' href='#Ijer-3-16'>Jer&nbsp;3,16</a>: Die Bundeslade wird niemandem mehr in den Sinn kommen.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#lade-ruheplatz
  }
 #}
 #1chr-6-18 {
@@ -30417,7 +30405,8 @@
 #}
 #2chr-35-3 {
  {
-  TODO Der letzte bekannte Ort der Lade scheint unter Salomo im Allerheiligsten gewesen zu sein: <a class='kom' href='#I1koe-8-6'>1.&nbsp;Kö&nbsp;8,6</a>.
+  Der letzte bekannte Ort der → biblisches/Eigene-Uebersetzung/Konkordanz/Lade scheint unter Salomo im Allerheiligsten an ihrem
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#lade-ruheplatz[Ruheplatz] gewesen zu sein §1koe-8-6.
  }
 #}
 #2chr-35-12 {
@@ -35752,7 +35741,7 @@
 @Psalm 132 {
 #ps-132-8 {
  {
-  TODO: <a class='kom' href='#I4mo-10-33'>4.&nbsp;Mo&nbsp;10,33</a>.
+  Sch2K übersetzt mit »Mache dich auf, o HERR, zu deiner Ruhestätte …« vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#lade-ruheplatz
  }
 #}
 #ps-132-17 {
@@ -40705,8 +40694,7 @@
 #}
 #jer-3-16 {
  {
-  <i>Bundeslade</i>: <a class='kom' href='#I1chr-6-16'>1.&nbsp;Chr&nbsp;6,16</a>.
-   <br>Trotzdem wird sie im Himmel sichtbar (<a href='http://bibel.renenyffenegger.ch/offb_11.html#v19'>Offb&nbsp;11,19</a>).
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Lade[Bundeslade]
  }
 #}
 #jer-3-17 {
@@ -78118,7 +78106,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   </span>
  }
  {
-  Siehe <a href='#weg_der_lade'>Der Weg der Bundeslade</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Lade[Lade Seines Bundes]
  }
  {
          Vgl <i>Blitze, Donner...</i> <a class='kom' href='#Ioffb-8-5'>Offb&nbsp;8,5</a>.
