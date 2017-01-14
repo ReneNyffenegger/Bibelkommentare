@@ -10092,8 +10092,9 @@
 #}
 #2mo-27-21 {
  {
-  'Stiftshütte': im Hebräischen <span class='hebr'><span class='hebr'>בְּ</span>אֹ֣הֶל מוֹעֵד֩</span> (Strongs 168 4150) wäre wohl besser übersetzt als
-  <i>Zelt der Zusammenkunft</i> (wie zum Beispiel in <a href='http://bibel.renenyffenegger.ch/2mo_33.html#v7'>2.&nbsp;Mo&nbsp;33,7</a>).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+ {
   <br>TODO: dasselbe oder ähnliche Wort wie in <a href='http://bibel.renenyffenegger.ch/2mo_25.html#v22'>2.&nbsp;Mo&nbsp;25,22</a>?
   <br>TODO: מוֹעֵד֩, Strongs 4150, oft mit »Fest«, »bestimmte Zeit« übersetzt. Siehe auch <a class='kom' href='#I1mo-1-14'>1.&nbsp;Mo&nbsp;1,14</a>.
  }
@@ -10201,6 +10202,11 @@
          (<a class='kom' href='#I1mo-41-42'>1.&nbsp;Mo&nbsp;41,42</a>).
  }
 #}
+#2mo-28-43 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+#}
 @}
 @2. Mose 29 {
 #2mo-29-1 {
@@ -10275,6 +10281,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Varianten/Ungesäuertes
+ }
+#}
+#2mo-29-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
 #}
 #2mo-29-14 {
@@ -10535,6 +10546,9 @@
 #}
 #2mo-30-16 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+ {
   TODO: 'Sühnegeld' offenbar <i>atonement money</i> (<span class='hebr'>כֶּ֣סֶף הַכִּפֻּרִ֗ים</span>, 3701 3725).
   Offenbar bedeutet Strongs 3701 «Silber». Müsste das als nicht besser mit «Silbergeld» übersetzt werden?
  }
@@ -10779,6 +10793,9 @@
 #}
 #2mo-33-6 {
  {
+  <i>Schmuck abreissen</i> vgl §2mo-35-22
+ }
+ {
   Siehe <a class='kom' href='#I2mo-17-6'>2.&nbsp;Mo&nbsp;17,6</a> betreffend <i>Felsen am Horeb</i> und <i>Berg Horeb</i>.
  }
 #}
@@ -11007,6 +11024,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot
  }
 #}
+#2mo-35-22 {
+ {
+  Vgl §2mo-33-6
+ }
+#}
 #2mo-35-29 {
  {
   TODO: Hier erstes Vorkommen von <span class='hebr'>נְדָבָה</span> (Strongs 5071), übersetzt mit 'freiwillige Gabe'.
@@ -11058,6 +11080,9 @@
 @}
 @2. Mose 38 {
 #2mo-38-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
  {
   Siehe Vergleich <a class='kom' href='#I2mo-26-1'>2.&nbsp;Mo&nbsp;26,1</a>
  }
@@ -11122,6 +11147,9 @@
  }
 #}
 #2mo-39-32 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
  {
   TODO: Beachte: zur <i>Vollendung der Wohnung</i> gehört offenbar auch die Kleidung Aarons (Verse 1-31).
  }
