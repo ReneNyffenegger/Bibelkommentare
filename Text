@@ -3007,6 +3007,9 @@
   TODO zusaetzliche_texte Nationen-in-Kanaan
  }
  {
+   Zehn Nationen: vgl §2mo-3-8, §2mo-23-23, §5mo-7-1, §jos-3-10, §+apg-13-19 und §neh-9-8
+ }
+ {
   Die <i>Keniter</i>, <i>Kenisiter</i>, <i>Kadmoniter</i> und <i>Rephaiter</i> kommen in der Aufzählung in
   <a href='http://bibel.renenyffenegger.ch/2mo_3.html#v8'>2.&nbsp;Mo&nbsp;3,8</a> nicht vor.
   TODO: Kadmoniter siehe <a class='kom' href='#I5mo-2-26'>5.&nbsp;Mo&nbsp;2,26</a>.
@@ -7096,13 +7099,14 @@
   TODO zusaetzliche_texte Nationen-in-Kanaan
  }
  {
-  Abraham wurden auch noch die Keniter, Kenisiter, Kadmoniter und Girgasiter gegeben (<a href='http://bibel.renenyffenegger.ch/1mo_15.html#v19'>1.&nbsp;Mo&nbsp;15,19</a>).
-  Die Girgasiter werden auch in
-    <a href='http://bibel.renenyffenegger.ch/5mo_7.html#v1'>5.&nbsp;Mo&nbsp;7,1</a>,
-    <a href='http://bibel.renenyffenegger.ch/neh_9.html#v8'>Neh&nbsp;9,8</a> und
-    <a href='http://bibel.renenyffenegger.ch/jos_3.html#v10'>Jos&nbsp;3,10</a>
-    erwähnt.
-         <p>Geographisches siehe unter <a href='http://bibel.renenyffenegger.ch/jos_11.html#v3'>Jos&nbsp;11,3</a> und <a href='http://bibel.renenyffenegger.ch/4mo_13.html#v30'>4.&nbsp;Mo&nbsp;13,30</a>.
+  Abraham wurden auch noch die Keniter, Kenisiter, Kadmoniter und Girgasiter gegeben §1mo-15-19.
+  <br>
+  Die Girgasiter werden auch in §5mo-7-1, §jos-3-10 und §neh-9-8 erwähnt.
+  <br>
+  §+apg-13-19
+ }
+ {
+  TODO Geographisches siehe unter <a href='http://bibel.renenyffenegger.ch/jos_11.html#v3'>Jos&nbsp;11,3</a> und <a href='http://bibel.renenyffenegger.ch/4mo_13.html#v30'>4.&nbsp;Mo&nbsp;13,30</a>.
  }
  {
   Vgl das <i>Land, wo Milch und Honig fliesst</i> mit dem <i>Land, voll Korn und Most</i> und <i>voll Brot und Weinbergen</i> (<a href='http://bibel.renenyffenegger.ch/jes_36.html#v17'>Jes&nbsp;36,17</a>).
@@ -16268,7 +16272,7 @@
 @5. Mose 7 {
 #5mo-7-1 {
  {
-  Diese Aufzählung hat zusätzlich die Girgasiter, vgl <a href='http://bibel.renenyffenegger.ch/2mo_3.html#v8'>2.&nbsp;Mo&nbsp;3,8</a>.
+  Diese Aufzählung hat zusätzlich die Girgasiter, vgl §2mo-3-8. §+apg-13-19, §jos-3-10
  }
 #}
 #5mo-7-3 {
@@ -31806,6 +31810,9 @@
  }
 #}
 #neh-9-8 {
+ {
+  In §1mo-15-19 werden zehn Nationen aufgezählt. Vgl §2mo-3-8, §2mo-23-23, §5mo-7-1, §jos-3-10, §apg-13-19
+ }
  {
   TODO zusaetzliche_texte Nationen-in-Kanaan
  }
@@ -59482,7 +59489,7 @@
 #}
 #apg-13-19 {
  {
-  <i>Sieben Nationen</i> vgl §2mo-23-23
+  <i>Sieben Nationen</i> vgl §2mo-3-8 und §2mo-23-23 (sechs Nationen werden aufgezählt) und §5mo-7-1, §jos-3-10 (sieben Nationen werden aufgezählt), §+neh-9-8.
  }
 #}
 #apg-13-20 {
