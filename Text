@@ -8996,9 +8996,8 @@
 #}
 #2mo-20-2 {
  {
-  →
-  biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-aus-knechtschaft-herausgefuehrt[Der
-  HERR führte die Israeliten aus der Knechtschaft] - und auch die Israeliten
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-aus-knechtschaft-herausgefuehrt[Der HERR führte die Israeliten aus der Knechtschaft] - und
+  auch die Israeliten
   sollen einen gekauften Knecht nach sechs Jahren frei ausgehen lassen:
   §+2mo-21-2.
   Israel selbst wird → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-gottes-knecht[Gottes Knechte] genannt.
@@ -9010,6 +9009,9 @@
  }
 #}
 #2mo-20-3 {
+ {
+  → biblisches/Bücher/Mose/2/Kapitel-20#zehn-gebote
+ }
  {
   Vgl das erste Gesetz (§5mo-6-4) und das zweite (§mk-12-31, §+3mo-19-18). Frage, warum kommt dieses erste Gesetz erst in 5. Mose vor?
  }
@@ -9052,6 +9054,9 @@
  }
 #}
 #2mo-20-11 {
+ {
+  Vgl Unterschied zu §5mo-5-15
+ }
  {
   <i>Den siebten Tag segnen</i>: <a class='kom' href='#I1mo-2-3'>1.&nbsp;Mo&nbsp;2,3</a>.
  }
@@ -16131,6 +16136,11 @@
    TODO [Vergleich 2. Mose 20:2-17 mit 5. Mose 5:6-21] localgit/kommentare/zusaetzliche_texte/vgl_2mo-20_5mo-5.
  }
 #}
+#5mo-5-7 {
+ {
+  Wiederholung der → biblisches/Bücher/Mose/2/Kapitel-20#zehn-gebote[zehn Gebote] aus → biblisches/Bücher/Mose/2/Kapitel-20[2. Mose 20] (mit Variationen).
+ }
+#}
 #5mo-5-9 {
  {
   <i>am dritten und am vierten Glied</i>: §+2mo-20-5.
@@ -16141,9 +16151,24 @@
   <i>die mich lieben</i>: <a class='kom' href='#I2mo-20-6'>2.&nbsp;Mo&nbsp;20,6</a>.
  }
 #}
+#5mo-5-12 {
+ {
+  <i>so wie Jehova, dein Gott, dir geboten hat</i> nicht in §2mo-20-8
+ }
+#}
+#5mo-5-14 {
+ {
+  <i>auf daß dein Knecht und deine Magd ruhen gleichwie du.</i> nicht in §2mo-20-10
+ }
+#}
+#5mo-5-15 {
+ {
+  Vgl Unterschied zu §2mo-20-11
+ }
+#}
 #5mo-5-16 {
  {
-  <i>Ehre Vater und Mutter</i>: §+2mo-20-12.
+  <i>so wie Jehova, dein Gott, dir geboten hat</i> nicht §+2mo-20-12
  }
 #}
 #5mo-5-20 {
