@@ -10113,7 +10113,7 @@
 #}
 #2mo-27-21 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft, → biblisches/Personen/Aaron/Söhne
  }
  {
   <br>TODO: dasselbe oder ähnliche Wort wie in <a href='http://bibel.renenyffenegger.ch/2mo_25.html#v22'>2.&nbsp;Mo&nbsp;25,22</a>?
@@ -10124,7 +10124,10 @@
 @2. Mose 28 {
 #2mo-28-1 {
  {
-  Auswahl zum Priesterdienst: vgl §2mo-19-6.
+  Auswahl zum → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/Priesterdienst vgl §2mo-19-6.
+ }
+ {
+  → biblisches/Personen/Aaron/Söhne
  }
 #}
 #2mo-28-2 {
@@ -10376,6 +10379,11 @@
   <i>Schenkel des → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer[Hebopfers]</i>: §3mo-7-32
  }
 #}
+#2mo-29-28 {
+ {
+  → biblisches/Personen/Aaron/Söhne
+ }
+#}
 #2mo-29-29 {
  {
   Eleasar kriegt Aarons Kleider in <a href='http://bibel.renenyffenegger.ch/4mo_20.html#v26'>4.&nbsp;Mo&nbsp;20,26-28</a>, auf dem Berg Hor, wo Aaron starb.
@@ -10603,6 +10611,14 @@
  }
  {
   Die erstmalige Waschung der Priester (bei deren Einsetzung) findet (vermutlich) nicht an diesem Becken statt (<a href='http://bibel.renenyffenegger.ch/2mo_29.html#v4'>2.&nbsp;Mo&nbsp;29,4</a>).
+ }
+#}
+#2mo-30-19 {
+ {
+  → biblisches/Personen/Aaron/Söhne
+ }
+ {
+  §2mo-40-12
  }
 #}
 #2mo-30-20 {
@@ -11257,6 +11273,14 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
  }
 #}
+#2mo-40-12 {
+ {
+  §2mo-30-19, §V2mo-40-31
+ }
+ {
+  → biblisches/Personen/Aaron/Söhne
+ }
+#}
 #2mo-40-17 {
  {
   Siehe <i>Der Tag, als Mose die Errichtung der Wohnung vollendet hat</i>: <a href='http://bibel.renenyffenegger.ch/4mo_7.html#v1'>4.&nbsp;Mo&nbsp;7,1</a>.
@@ -11275,6 +11299,11 @@
 #2mo-40-23 {
  {
   TODO: findet man irgendwo im Gesetz (oder sonstwo) eine Angabe darüber, was der HERR geboten hat, oder wieviele Brote es waren?
+ }
+#}
+#2mo-40-31 {
+ {
+  §2mo-30-19, §V2mo-40-12
  }
 #}
 #2mo-40-33 {
@@ -11562,6 +11591,9 @@
 @3. Mose 6 {
 #3mo-6-2 {
  {
+  → biblisches/Personen/Aaron/Söhne
+ }
+ {
   Dies ist das Gesetz (Opfer) <ul>
     <li>Vom Brandopfer (<a href='http://bibel.renenyffenegger.ch/3mo_6.html#v2'>3.&nbsp;Mo&nbsp;6,2</a>)
     <li>Vom Speisopfer (<a href='http://bibel.renenyffenegger.ch/3mo_6.html#v7'>3.&nbsp;Mo&nbsp;6,7</a>)
@@ -11694,6 +11726,11 @@
   <i>Blut nicht essen</i>: <a class='kom' href='#I3mo-3-17'>3.&nbsp;Mo&nbsp;3,17</a>.
  }
 #}
+#3mo-7-31 {
+ {
+  → biblisches/Personen/Aaron/Söhne
+ }
+#}
 #3mo-7-32 {
  {
   <i>Rechter Schenkel als → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer</i> §2mo-29-27
@@ -11720,6 +11757,9 @@
  }
 #}
 #3mo-8-2 {
+ {
+  → biblisches/Personen/Aaron/Söhne
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
  }
@@ -11770,6 +11810,11 @@
 #}
 @}
 @3. Mose 9 {
+#3mo-9-1 {
+ {
+  → biblisches/Personen/Aaron/Söhne
+ }
+#}
 #3mo-9-5 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
@@ -12771,6 +12816,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/ewig
  }
 #}
+#3mo-24-9 {
+ {
+  → biblisches/Personen/Aaron/Söhne
+ }
+#}
 #3mo-24-10 {
  {
   TODO: Geht Mose <i>wegen dieser</i> Begebenheit auf den Berg Sinai: <a class='kom' href='#I3mo-25-1'>3.&nbsp;Mo&nbsp;25,1</a>.
@@ -13263,6 +13313,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
 #}
+#4mo-3-9 {
+ {
+  <i>Du sollst die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] dem → biblisches/Personen/Aaron/Söhne[Aaron und seinen Söhnen] geben</i> §4mo-8-19
+ }
+#}
 #4mo-3-12 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi#levi-mitte-volk[Levi aus der Mitte des Volkes genommen], vgl §+1mo-49-7
@@ -13384,6 +13439,9 @@
  }
 #}
 #4mo-4-5 {
+ {
+  → biblisches/Personen/Aaron/Söhne
+ }
  {
   <i>Verhüllender Vorhang</i>: <a class='kom' href='#I2mo-26-31'>2.&nbsp;Mo&nbsp;26,31</a>.
  }
@@ -13595,6 +13653,11 @@
 #4mo-8-14 {
  {
   TODO: siehe <a class='kom' href='#I4mo-3-6'>4.&nbsp;Mo&nbsp;3,6</a>.
+ }
+#}
+#4mo-8-19 {
+ {
+  <i>Die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] dem → biblisches/Personen/Aaron/Söhne[Aaron und seinen Söhnen] … gegeben</i> §4mo-3-9
  }
 #}
 #4mo-8-24 {
@@ -28482,6 +28545,11 @@
 #1chr-6-30 {
  {
   TODO: Ist <i>Haschabja</i> derselbe wie <i>Hasabja</i> in <a href='http://bibel.renenyffenegger.ch/neh_12.html#v21'>Neh&nbsp;12,21</a>?
+ }
+#}
+#1chr-6-34 {
+ {
+  → biblisches/Personen/Aaron/Söhne
  }
 #}
 #1chr-6-39 {
