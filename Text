@@ -9760,7 +9760,10 @@
 #}
 #2mo-25-8 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose, → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels, → biblisches/Bücher/Mose/2/index#exodus-und-erstellung-der-wohnung
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose, → biblisches/Bücher/Mose/2/index#exodus-und-erstellung-der-wohnung
+ }
+ {
+  <i>… dass ich in ihrer → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels[Mitte] wohne</i> vgl §2mo-29-45-46.
  }
  {
   TODO: Ist mit diesem <i>Heiligtum</i> die Stiftshütte gemeint. Falls ja, gibt es betreffend dieses Heiligtums eine
@@ -9881,9 +9884,9 @@
 #}
 #2mo-25-22 {
  {
-  <i>Dort will ich mit dir zusammenkommen</i> siehe §2mo-29-24 (mit «reden») und §2mo-30-6 (ohne «reden»). §4mo-7-89
+  <i>Der HERR kommt mit Mose bei der → biblisches/Eigene-Uebersetzung/Konkordanz/Lade zusammen, um mit ihm zu reden</i> vgl §2mo-30-6, §2mo-30-36, §4mo-7-89
   <br>
-    In §ri-20-27 wird der HERR befragt, wo die Bundeslade ist.
+   Vgl mit §2mo-29-42-43, wo der HERR am <i>Eingang</i> des → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft[Zeltes der Zusammenkunft] mit <i>euch</i> (od. den <i>Kindern Israel</i>) zusammenkommt, um mit ihnen zu reden.
  }
 #}
 #2mo-25-26 {
@@ -10490,10 +10493,15 @@
 #}
 #2mo-29-42 {
  {
-  Siehe <a class='kom' href='#I2mo-25-22'>2.&nbsp;Mo&nbsp;25,22</a>.
+  Vgl §+2mo-25-22.
  }
  {
    TODO: <i>beständiges Brandopfer</i> siehe <a href='http://bibel.renenyffenegger.ch/4mo_28.html#v3'>4.&nbsp;Mo&nbsp;28,3</a>.
+ }
+#}
+#2mo-29-45 {
+ {
+  <i>Ich werde in der → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels[Mitte] Israels wohnen …</i> vgl §2mo-25-8
  }
 #}
 #2mo-29-46 {
@@ -10524,7 +10532,7 @@
 #}
 #2mo-30-6 {
  {
-  Siehe <a class='kom' href='#I2mo-25-22'>2.&nbsp;Mo&nbsp;25,22</a>.
+  <i>Wo ich mit dir zusammenkommen werde</i> §+2mo-25-22, §V2mo-30-36
  }
 #}
 #2mo-30-7 {
@@ -13353,6 +13361,12 @@
 #}
 @}
 @4. Mose 4 {
+#4mo-4-3 {
+ {
+  Die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] treten 25 jährig in den → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft#dienst-zelt-zusammenkunft[Dienst des Zeltes der Zusammenkunft] ein -
+  die Söhne Kahats, Gersons und Meraris allerdings erst 30 jährig (vgl §V4mo-4-23, §V4mo-4-30).
+ }
+#}
 #4mo-4-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
@@ -13554,7 +13568,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
  {
-  <i>reden</i>: <a class='kom' href='#I2mo-25-22'>2.&nbsp;Mo&nbsp;25,22</a>.
+   §+2mo-25-22.
  }
 #}
 @}
@@ -13582,6 +13596,13 @@
 #4mo-8-24 {
  {
   TODO: siehe <a class='kom' href='#I4mo-4-35'>4.&nbsp;Mo&nbsp;4,35</a>.
+ }
+#}
+#4mo-8-25 {
+ {
+  Die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] treten 25 jährig in den → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft#dienst-zelt-zusammenkunft[Dienst des Zeltes der Zusammenkunft] (§4mo-8-24-25) ein -
+  die Söhne Kahats, Gersons und Meraris allerdings erst 30 jährig (§4mo-4-3, §4mo-4-23, §4mo-4-30).
+
  }
 #}
 @}
