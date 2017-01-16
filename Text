@@ -10114,7 +10114,7 @@
 @2. Mose 28 {
 #2mo-28-1 {
  {
-  Auswahl zum Priesterdienst: Siehe <a href='http://bibel.renenyffenegger.ch/2mo_19.html#v6'>2.&nbsp;Mo&nbsp;19,6</a> und <a class='kom' href='#I2mo-19-6'>2.&nbsp;Mo&nbsp;19,6</a>.
+  Auswahl zum Priesterdienst: vgl §2mo-19-6.
  }
 #}
 #2mo-28-3 {
@@ -10123,10 +10123,6 @@
  }
  {
   <i>mit dem Geist der Weisheit erfüllt</i>: vgl mit Bezaleel in §2mo-31-2-3, den Gott «mit dem Geist Gottes erfüllt, in Weisheit und in Verstand und in Kenntnis und in jeglichem Werk» hat.
- }
- {
-  TODO: Wer sind die, die der Herr mit <i>dem Geist der Weisheit erfüllt</i> hat? Vgl mit <i>Bezaleel</i>, der
-  mit dem 'Geist Gottes erfüllt wurde, mit Weisheit, Verstand und Erkenntnis &hellip;' (<a class='kom' href='#I2mo-31-3'>2.&nbsp;Mo&nbsp;31,3</a>).
  }
 #}
 #2mo-28-4 {
@@ -10175,12 +10171,7 @@
 #}
 #2mo-28-30 {
  {
-  <i>Urim und Thummim</i>: <a href='http://bibel.renenyffenegger.ch/3mo_8.html#v8'>3.&nbsp;Mo&nbsp;8,8</a>,
-    <a class='kom' href='#Iesr-2-63'>Esr&nbsp;2,63</a>.
-  <br>Vgl mit der Weissagung über Levi (<a href='http://bibel.renenyffenegger.ch/5mo_33.html#v8'>5.&nbsp;Mo&nbsp;33,8</a>)
-  <br>Die <i>Urim</i> sind offenbar geignet, das Urteil des HERRN zu erfragen (<a href='http://bibel.renenyffenegger.ch/4mo_27.html#v21'>4.&nbsp;Mo&nbsp;27,21</a>,
-     <a href='http://bibel.renenyffenegger.ch/1sam_28.html#v6'>1.&nbsp;Sam&nbsp;28,6</a>)
-  <br>Beachte: es wird nicht gesagt, woraus die Urim und Thummim bestehen, oder wie sie hergestellt werden müssen, oder woher sie kommen.
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Urim-und-Thummim 
  }
 #}
 #2mo-28-31 {
@@ -11648,7 +11639,7 @@
 #}
 #3mo-8-8 {
  {
-  <i>Urim und Thummim</i>: <a class='kom' href='#I2mo-28-30'>2.&nbsp;Mo&nbsp;28,30</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Urim-und-Thummim
  }
 #}
 #3mo-8-10 {
@@ -14964,7 +14955,7 @@
 #}
 #4mo-27-21 {
  {
-  <i>Urim</i>: <a class='kom' href='#I2mo-28-30'>2.&nbsp;Mo&nbsp;28,30</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Urim-und-Thummim
  }
 #}
 @}
@@ -22852,11 +22843,8 @@
 #}
 #1sam-28-6 {
  {
-  Beachte: die <i>Urim</i> gehören in das «Brustschild des Rechtsspruchs» (<a href='http://bibel.renenyffenegger.ch/2mo_28.html#v30'>2.&nbsp;Mo&nbsp;28,30</a>,
-  <a href='http://bibel.renenyffenegger.ch/3mo_8.html#v8'>3.&nbsp;Mo&nbsp;8,8</a>) welches nicht vom Ephod gelöst werden soll
-         (<a href='http://bibel.renenyffenegger.ch/2mo_28.html#v28'>2.&nbsp;Mo&nbsp;28,28</a>). Das Ephod befand sich aber bei → biblisches/Personen/David und/oder Abjatar
-         (<a href='http://bibel.renenyffenegger.ch/1sam_23.html#v6'>1.&nbsp;Sam&nbsp;23,6</a>, <a href='http://bibel.renenyffenegger.ch/1sam_30.html#v7'>1.&nbsp;Sam&nbsp;30,7</a>).
-  <br>S.a. <a class='kom' href='#I2mo-28-30'>2.&nbsp;Mo&nbsp;28,30</a>.
+  Beachte: die → biblisches/Eigene-Uebersetzung/Konkordanz/Urim-und-Thummim[Urim] gehören in das *Brustschild des Gerichtes* (§2mo-28-30, §3mo-8-8) welches nicht vom Ephod verrückt werden soll (§2mo-28-28).
+  Dieses Gebot wurde bei → biblisches/Personen/David und/oder Abjatar (§1sam-23-6, §1sam-30-7) nicht beachtet.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
@@ -30916,10 +30904,7 @@
 #}
 #esr-2-63 {
  {
-  <i>Urim und Thummim</i>: <a class='kom' href='#I2mo-28-30'>2.&nbsp;Mo&nbsp;28,30</a>.
- }
- {
-  TODO: Gleicher Vers in <a href='http://bibel.renenyffenegger.ch/neh_7.html#v65'>Neh&nbsp;7,65</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Urim-und-Thummim
  }
 #}
 #esr-2-64 {
@@ -31767,6 +31752,9 @@
  }
 #}
 #neh-7-65 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Urim-und-Thummim
+ }
  {
   Gem §neh-8-9 ist Nehemia der Tirsatha. Da aber der Tirsatha im wörtlich gleichen Vers bereits in §+esr-2-63 erwähnt wird,
   kann bezweifelt werden, dass im vorliegenden Vers mit Tirsatha Nehemiah gemeint ist.
