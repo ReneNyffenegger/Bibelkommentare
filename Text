@@ -8297,15 +8297,15 @@
 #}
 @}
 @2. Mose 15 {
-#2mo-15-2 {
- {
-  <i>Meine Stärke und mein Gesang ist Jah, denn er ist mir zur Rettung geworden</i> §jes-12-2, §ps-118-14
- }
-#}
 #2mo-15-1 {
  {
   <i>Lied</i>: Vgl <a href='http://bibel.renenyffenegger.ch/4mo_21.html#v17'>4.&nbsp;Mo&nbsp;21,17</a>, <a class='kom' href='#I5mo-31-19'>5.&nbsp;Mo&nbsp;31,19</a> (Lied des Mose?),
   <a href='http://bibel.renenyffenegger.ch/5mo_32.html#v43'>5.&nbsp;Mo&nbsp;32,43</a>
+ }
+#}
+#2mo-15-2 {
+ {
+  <i>Meine Stärke und mein Gesang ist Jah, denn er ist mir zur Rettung geworden</i> §jes-12-2, §ps-118-14
  }
 #}
 #2mo-15-4 {
@@ -39901,6 +39901,11 @@
 #}
 @}
 @Jesaja 37 {
+#jes-37-8 {
+ {
+  <i>denn er hatte gehört</i>: wohl das angekündigte Gerücht aus §Vjes-37-7.
+ }
+#}
 #jes-37-20 {
  {
   <i>Den HERRN erkennen</i>: <a class='kom' href='#I2mo-6-7'>2.&nbsp;Mo&nbsp;6,7</a>
