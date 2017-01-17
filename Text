@@ -7381,19 +7381,7 @@
   (<a href='http://bibel.renenyffenegger.ch/mt_1.html#v4'>Mt 1,4-5</a>).
  }
  {
-  → biblisches/Personen/Eleasar
- }
- {
-  <i>Eleasar</i> wird der <i>Fürst über die Fürsten der Leviten</i>, er wird die Aufsicht haben über die, welche den Dienst am Heiligtum verrichten
-    (<a href='http://bibel.renenyffenegger.ch/4mo_3.html#v32'>4.&nbsp;Mo&nbsp;3,32</a>).
-    <br>wurde Priester an Aarons Stelle (<a href='http://bibel.renenyffenegger.ch/5mo_10.html#v6'>5.&nbsp;Mo&nbsp;10,6</a>)
- }
- {
-  Eleasar war wohl unter 20 Jahre, als er aus Ägypten zug, da er ins verheissene Land durfte (<a href='http://bibel.renenyffenegger.ch/jos_14.html#v1'>Jos&nbsp;14,1</a>,
-  <a href='http://bibel.renenyffenegger.ch/4mo_32.html#v11'>4.&nbsp;Mo&nbsp;32,11-12</a>).
- }
- {
-  → biblisches/Personen/Nadab
+  → biblisches/Personen/Aaron/Söhne, → biblisches/Personen/Eleasar, → biblisches/Personen/Nadab
  }
 #}
 #2mo-6-24 {
@@ -16767,11 +16755,13 @@
 #}
 #5mo-10-6 {
  {
-         Auswahl zum Priesterdienst: siehe <a class='kom' href='#I2mo-19-6'>2.&nbsp;Mo&nbsp;19,6</a>.
+    Auswahl zum Priesterdienst: siehe <a class='kom' href='#I2mo-19-6'>2.&nbsp;Mo&nbsp;19,6</a>.
  }
  {
-  <i>Eleasar</i> siehe <a class='kom' href='#I2mo-6-23'>2.&nbsp;Mo&nbsp;6,23</a>.
-  <i>Eleasar</i> und <i>Itamar</i>: Siehe <a class='kom' href='#I4mo-4-16'>4.&nbsp;Mo&nbsp;4,16</a>.
+  → biblisches/Personen/Eleasar/Aaron[Eleasar]
+ }
+ {
+  TODO <i>Eleasar</i> und <i>Itamar</i>: Siehe §+4mo-4-16.
  }
  {
   <i>Beerot-Bene-Jakaan</i> siehe <a class='kom' href='#I4mo-33-31'>4.&nbsp;Mo&nbsp;33,31</a>.
