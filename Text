@@ -10077,7 +10077,7 @@
 #}
 #2mo-28-2 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider, <i>Zur Herrlichkeit und zum Schmuck</i> vgl §V2mo-28-40
+  biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider, <i>Zur Herrlichkeit und zum Schmuck</i> vgl §V2mo-28-40
  }
 #}
 #2mo-28-3 {
@@ -10104,6 +10104,16 @@
 #2mo-28-6 {
  {
   TODO: Samuel war mit einem <i>leinenen Ephod</i> bekleidet (<a href='http://bibel.renenyffenegger.ch/1sam_2.html#v18'>1.&nbsp;Sam&nbsp;2,18</a>).
+ }
+#}
+#2mo-28-15 {
+ {
+  biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider#brustschild
+ }
+#}
+#2mo-28-17 {
+ {
+  <i>Eingesetzte Steine</i>: <a href='http://renenyffenegger.ch/Biblisches/Edelsteine.html#brustschild'>Edelsteine, 2. Mose Kapitel 28</a>
  }
 #}
 #2mo-28-18 {
@@ -44237,6 +44247,11 @@
  }
 #}
 #hes-28-13 {
+ {
+  Alle hier aufgezählten → biblisches/Eigene-Uebersetzung/Konkordanz/Stein/edel[Edelsteine] werden für → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider#brustschild[Brustschild] der
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider[Kleider Aarons] verwendet (aber das Brustschild hat noch drei weitere).
+  Vgl §2mo-28-17-20, <a href='http://renenyffenegger.ch/Biblisches/Edelsteine.html#brustschild'>Edelsteine, 2. Mose Kapitel 28</a>
+ }
  {
   <i>Karfunkel</i>: <a class='kom' href='#Ijes-54-12'>Jes&nbsp;54,12</a>.
  }
