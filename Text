@@ -55182,10 +55182,9 @@
 #}
 #lk-24-47 {
  {
-  Vgl §apg-1-8
-  <br>
-  Die Apostel predigen erst nur Busse und Vergebung in Israel (<a href='http://bibel.renenyffenegger.ch/apg_5.html#v31'>Apg&nbsp;5,31</a>) und
-  sind erstaunt, wenn es zu den Heiden kommt (<a href='http://bibel.renenyffenegger.ch/apg_10.html#v34'>Apg&nbsp;10,34</a>).
+  Vgl §+apg-1-2, §apg-1-8.
+  Die Apostel predigen erst nur Busse und Vergebung in Israel (§apg-5-31) und
+  sind erstaunt, wenn es zu den Heiden kommt (§apg-10-34).
  }
 #}
 #lk-24-49 {
@@ -57335,6 +57334,11 @@
  {
   TODO: Es wird zwar erwähnt, warum Lukas den <i>ersten Bericht</i> geschrieben hat, wo aber steht, warum er
   den zweiten Bericht geschrieben hat?
+ }
+#}
+#apg-1-2 {
+ {
+  Dieser <i>Befehl</i> ist wohl «[dass] in Seinem Namen Buße und Vergebung der Sünden gepredigt werden [soll] allen Nationen, anfangend von Jerusalem« §lk-24-46-49, vgl §Vapg-1-8
  }
 #}
 #apg-1-4 {
