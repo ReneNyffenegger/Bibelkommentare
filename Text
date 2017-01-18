@@ -42,12 +42,6 @@
   TODO: Das ganze Kapitel 1 redet offenbar von der Erschaffung des Himmels und der Erde samt ihrem ganzen Heer (vgl <a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>).
  }
  {
-  TODO: Hiskia scheint der erste zu sein, der im Gebet erwähnt, dass Gott <i>Himmel und Erde</i> gemacht hat
-  (<a href='http://bibel.renenyffenegger.ch/2koe_19.html#v15'>2.&nbsp;Kö&nbsp;19,15</a>, <a href='http://bibel.renenyffenegger.ch/jes_37.html#v16'>Jes&nbsp;37,16</a>).
-  Auch Jeremia: <a href='http://bibel.renenyffenegger.ch/jer_32.html#v17'>Jer&nbsp;32,17</a>. Und auch <a href='http://bibel.renenyffenegger.ch/apg_4.html#v24'>Apg&nbsp;4,24</a>.
-  Vgl aber auch mit Huram (<a href='http://bibel.renenyffenegger.ch/2chr_2.html#v12'>2.&nbsp;Chr&nbsp;2,12</a>).
- }
- {
   Der Himmel ist das Werk der Hände Gottes (<a href='http://bibel.renenyffenegger.ch/ps_102.html#v26'>Ps&nbsp;102,26</a>,
   <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v10'>Hebr&nbsp;1,10</a>).
  }
@@ -27138,7 +27132,7 @@
 #}
 #2koe-19-15 {
  {
-  <i>Himmel und Erde</i>: <a class='kom' href='#I1mo-1-1'>1.&nbsp;Mo&nbsp;1,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde, vgl §jes-37-16
  }
 #}
 #2koe-19-20 {
@@ -32245,6 +32239,11 @@
  }
  {
   <i>Vor dem HERRN niederwerfen</i>: vgl §neh-8-6.
+ }
+#}
+#neh-9-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde. <i>Die Meere und alles, was in ihnen ist</i> vgl §apg-4-24
  }
 #}
 #neh-9-7 {
@@ -40001,6 +40000,11 @@
   <i>denn er hatte gehört</i>: wohl das angekündigte Gerücht aus §Vjes-37-7.
  }
 #}
+#jes-37-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde, vgl §2koe-19-15
+ }
+#}
 #jes-37-20 {
  {
   <i>Den HERRN erkennen</i>: <a class='kom' href='#I2mo-6-7'>2.&nbsp;Mo&nbsp;6,7</a>
@@ -42489,7 +42493,7 @@
 #}
 #jer-32-17 {
  {
-  <i>Himmel und Erde im Gebet erwähnt</i>: <a class='kom' href='#I1mo-1-1'>1.&nbsp;Mo&nbsp;1,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde
  }
 #}
 #jer-32-20 {
@@ -58216,7 +58220,7 @@
 #}
 #apg-4-24 {
  {
-  <i>Himmel und Erde im Gebet erwähnen</i>: <a class='kom' href='#I1mo-1-1'>1.&nbsp;Mo&nbsp;1,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde. <i>das Meer gemacht hat und alles, was in ihnen ist</i> vgl §neh-9-6
  }
 #}
 #apg-4-25 {
