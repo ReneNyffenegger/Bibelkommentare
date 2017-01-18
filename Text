@@ -36221,6 +36221,11 @@
 }
 { 121-130
 @Psalm 121 {
+#ps-121-2 {
+ {
+  §ps-124-8, §ps-146-5-6, → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde
+ }
+#}
 #ps-121-4 {
  {
   Vgl
@@ -36233,6 +36238,13 @@
 #ps-122-5 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/mt_19.html#v28'>Mt&nbsp;19,28</a>.
+ }
+#}
+@}
+@Psalm 124 {
+#{ps-124-8
+ {
+  §+ps-121-2
  }
 #}
 @}
@@ -36494,6 +36506,11 @@
 #ps-146-5 {
  {
   <i>Wohl dem</i>: <a class='kom' href='#Ips-1-1'>Ps&nbsp;1,1</a>.
+ }
+#}
+#ps-146-6 {
+ {
+  §+ps-121-2
  }
 #}
 #ps-146-8 {
