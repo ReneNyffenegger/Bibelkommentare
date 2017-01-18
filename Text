@@ -477,8 +477,9 @@
 #}
 #1mo-1-30 {
  {
-  Hier wird das <i>grüne Kraut</i> den Tieren zur Nahrung gegeben, ab <a href='http://bibel.renenyffenegger.ch/1mo_9.html#v3'>1.&nbsp;Mo&nbsp;9,3</a> auch
-  den Menschen.
+  Hier wird das <i>grüne Kraut</i> den Tieren zur Nahrung gegeben, ab §1mo-9-3 auch den Menschen.
+ <br>
+  Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
 #1mo-1-31 {
@@ -17586,15 +17587,7 @@
 #}
 #5mo-28-26 {
  {
-  TODO Vgl <a href='http://bibel.renenyffenegger.ch/1sam_17.html#v44'>1.&nbsp;Sam&nbsp;17,44</a>,
-    <a href='http://bibel.renenyffenegger.ch/2sam_21.html#v10'>2.&nbsp;Sam&nbsp;21,10</a>,
-    <a class='kom' href='#I1koe-14-11'>1.&nbsp;Kö&nbsp;14,11</a>,
-    <a href='http://bibel.renenyffenegger.ch/ps_79.html#v2'>Ps&nbsp;79,2</a>,
-    <a href='http://bibel.renenyffenegger.ch/jer_7.html#v33'>Jer&nbsp;7,33</a>,
-    <a href='http://bibel.renenyffenegger.ch/jer_16.html#v4'>Jer&nbsp;16,4</a>,
-    <a href='http://bibel.renenyffenegger.ch/jer_19.html#v7'>Jer&nbsp;19,7</a>,
-    <a href='http://bibel.renenyffenegger.ch/jer_34.html#v20'>Jer&nbsp;34,20</a>,
-    <a href='http://bibel.renenyffenegger.ch/hes_29.html#v5'>Hes&nbsp;29,5</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
 #5mo-28-27 {
@@ -22656,7 +22649,7 @@
 #}
 #1sam-17-44 {
  {
-  TODO: Vgl <a class='kom' href='#I5mo-28-26'>5.&nbsp;Mo&nbsp;28,26</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
 #1sam-17-49 {
@@ -24233,7 +24226,7 @@
 #}
 #2sam-21-10 {
  {
-  TODO: Vgl <a class='kom' href='#I5mo-28-26'>5.&nbsp;Mo&nbsp;28,26</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
 #2sam-21-12 {
@@ -25603,9 +25596,8 @@
 #}
 #1koe-14-11 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1koe_16.html#v4'>1.&nbsp;Kö&nbsp;16,4</a> und
-  <a href='http://bibel.renenyffenegger.ch/1koe_21.html#v24'>1.&nbsp;Kö&nbsp;21,24</a>.
-  <br>Vgl auch <a class='kom' href='#I5mo-28-26'>5.&nbsp;Mo&nbsp;28,26</a>.
+  §1koe-16-4 und §1koe-21-24.
+  <br>Vgl auch → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
 #1koe-14-14 {
@@ -31404,6 +31396,8 @@
 #esr-5-11 {
  {
   <i>Wir sind die Knechte des Gottes des Himmels</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-gottes-knecht, §neh-9-36
+ }
+#}
 @}
 @Esra 6 {
 #esr-6-3 {
@@ -35140,7 +35134,7 @@
 @Psalm 79 {
 #ps-79-2 {
  {
-  Vgl <a class='kom' href='#I5mo-28-26'>5.&nbsp;Mo&nbsp;28,26</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
 #ps-79-13 {
@@ -36242,7 +36236,7 @@
 #}
 @}
 @Psalm 124 {
-#{ps-124-8
+#ps-124-8 {
  {
   §+ps-121-2
  }
@@ -41468,7 +41462,7 @@
 #}
 #jer-7-33 {
  {
-         Vgl <a class='kom' href='#I5mo-28-26'>5.&nbsp;Mo&nbsp;28,26</a>.
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
 #jer-7-34 {
@@ -41748,7 +41742,7 @@
 @Jeremia 16 {
 #jer-16-4 {
  {
-  Vgl <a class='kom' href='#I5mo-28-26'>5.&nbsp;Mo&nbsp;28,26</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
 #jer-16-7 {
@@ -41850,7 +41844,7 @@
 #}
 #jer-19-7 {
  {
-  Vgl <a class='kom' href='#I5mo-28-26'>5.&nbsp;Mo&nbsp;28,26</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
 @}
@@ -42616,7 +42610,7 @@
 #}
 #jer-34-20 {
  {
-  Vgl <a class='kom' href='#I5mo-28-26'>5.&nbsp;Mo&nbsp;28,26</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
 #jer-34-21 {
@@ -44428,7 +44422,7 @@
 #}
 #hes-29-5 {
  {
-  Vgl <a class='kom' href='#I5mo-28-26'>5.&nbsp;Mo&nbsp;28,26</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
 #hes-29-6 {
@@ -51066,9 +51060,15 @@
 #}
 #mt-24-28 {
  {
-  TODO: <i>Geier</i> möglicherweise besser mit «Adler» übersetzt (<span class='gr'>ἀετός</span>, Strongs 105).
-  Ebenso in <a href='http://bibel.renenyffenegger.ch/lk_17.html#v37'>Lk&nbsp;17,37</a>. Strongs 105 kommt auch in <a href='http://bibel.renenyffenegger.ch/offb_4.html#v7'>Offb&nbsp;4,7</a>
-  und <a href='http://bibel.renenyffenegger.ch/offb_12.html#v14'>Offb&nbsp;12,14</a> vor.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
+ }
+ {
+  <i>Adler</i> (<span class='gr'>ἀετός</span>, Strongs 105): Sch2K übersetzt mit «Geier».
+ }
+ {
+  TODO: <i>Geier</i> möglicherweise besser mit «Adler» übersetzt .
+  Ebenso in §lk-17-37. Strongs 105 kommt auch in §offb-4-7
+  und §offb-12-14 vor.
  }
 #}
 #mt-24-29 {
@@ -51093,6 +51093,9 @@
  }
 #}
 #mt-24-30 {
+ {
+  <i>und dann werden wehklagen alle Stämme des Landes</i> Sch2K übersetzt mit «und dann werden sich alle Geschlechter der Erde an die Brust schlagen».
+ }
  {
   <i>Sich an die Brust schlagen</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_1.html#v7'>Offb&nbsp;1,7</a>,
   <a class='kom' href='#Ijes-32-12'>Jes&nbsp;32,12</a>.
@@ -54641,7 +54644,7 @@
 #}
 #lk-17-37 {
  {
-  <i>Geier</i>: <a class='kom' href='#Imt-24-28'>Mt&nbsp;24,28</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere, vgl §mt-24-28
  }
 #}
 @}
