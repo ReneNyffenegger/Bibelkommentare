@@ -953,11 +953,9 @@
 #}
 #1mo-4-3 {
  {
-         <i>Opfer</i> <span class='hebr'>מִנְחָה</span> (Strongs 4503), dasselbe Wort für 'Geschenk' (zB <a href='http://bibel.renenyffenegger.ch/1mo_32.html#v14'>1.&nbsp;Mo&nbsp;32,14</a>,
-         <a href='http://bibel.renenyffenegger.ch/1mo_43.html#v11'>1.&nbsp;Mo&nbsp;43,11</a>) oder 'Tribut' (zb <a href='http://bibel.renenyffenegger.ch/ri_3.html#v15'>Ri&nbsp;3,15</a>).
-         Das Wort wird hier in Elberfelder mit «Opfergabe», in KJV mit «offering» übersetzt.
-         <br>TODO: dieses Wort wird offenbar auch mit 'Speisopfer' übersetzt, siehe <a class='kom' href='#I2mo-29-41'>2.&nbsp;Mo&nbsp;29,41</a>,
-   <a href='http://bibel.renenyffenegger.ch/3mo_2.html#v1'>3.&nbsp;Mo&nbsp;2,1</a>
+  <i>Opfergabe</i> <span class='hebr'>מִנְחָה</span> (Strongs 4503), dasselbe Wort für «Geschenk» (zB §1mo-32-14, §1mo-43-11) oder «Tribut» (zb §ri-3-15).
+  Das Wort wird hier in Sch2K mit «Opfer», in KJV mit «offering» übersetzt.
+  <br>Eventuell würde es besser mit → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer übersetzt (wie zB in §2mo-29-41, §3mo-2-1)
   <br>Vergleiche auch mit Strongs 4979.
  }
  {
@@ -10204,7 +10202,7 @@
 @2. Mose 29 {
 #2mo-29-1 {
  {
-  Aaron und seine Söhne werden in §3mo-8-1-ff für den Priesterdienst geheiligt (Vgl §3mo-8-5).
+  Aaron und seine Söhne werden in §3mo-8-1-ff für den → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/Priesterdienst geheiligt (Vgl §3mo-8-5).
  }
  {
   <br>TODO: in <a href='http://bibel.renenyffenegger.ch/3mo_9.html#v1'>3.&nbsp;Mo&nbsp;9,1</a> wird noch von einem
@@ -10662,6 +10660,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
  }
 #}
+#2mo-31-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat
+ }
+#}
 #2mo-31-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe, vgl §2mo-35-2.
@@ -10722,6 +10725,9 @@
 #2mo-32-4 {
  {
   Vgl 'bildete es mit dem Meissel' mit <a href='http://bibel.renenyffenegger.ch/2mo_32.html#v24'>Vers 24</a>.
+ }
+ {
+  Vgl §neh-9-18-19 Sogar als sie sich ein gegossenes Kalb machten … verließest du in deinen großen Erbarmungen sie doch nicht in der Wüste …
  }
  {
   <span class='u'>Vgl Suren 2:51-54, 2:92</span>
@@ -11698,15 +11704,15 @@
 #}
 #3mo-7-37 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze].
+   Beachte: Das <i>Einweihungsopfer</i> wurde zwischen §3mo-6-2 und hier nicht besprochen, s.a §+3mo-6-2.
+ }
+ {
   TODO: Wäre allenfalls <i>Einweihungsopfer</i> nicht besser mit 'Füllung' übersetzt worden? Siehe <a class='kom' href='#I2mo-29-22'>2.&nbsp;Mo&nbsp;29,22</a>.
   Das Zugrundeliegende Wort ist <span class='hebr'>וְלַ֨מִּלּוּאִ֔ים</span> (Strongs 4394).
   <br>Auf jeden Fall kommt dieses Wort (in der Schlachter 2000 als 'Einsetzung' übersetzt) in
   <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v22'>2. Mo 29,22/26/27/31 und 34</a> und
   <a href='http://bibel.renenyffenegger.ch/3mo_8.html#v22'>3. Mo 8,22/28/29/31 und 33</a> vor.
- }
- {
-   Beachte: Das Einweihungsopfer wurde zwischen <a href='http://bibel.renenyffenegger.ch/3mo_6.html#v2'>3.&nbsp;Mo&nbsp;6,2</a> und hier
-   nicht besprochen, s.a <a class='kom' href='#I3mo-6-2'>3.&nbsp;Mo&nbsp;6,2</a>.
  }
 #}
 @}
@@ -12909,7 +12915,7 @@
 #}
 #3mo-25-42 {
  {
-  Israel ist → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-gottes-knecht[Gottes Knecht], vgl §+V3mo-25-55.
+  Israel ist → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-gottes-knecht[Gottes Knecht], vgl §+V3mo-25-55, §neh-9-36
  }
  {
   <i>Knechte</i> wie auch <i>Sklaven</i> sind im Hebräischen <span class='hebr'>עֶבֶד</span> (Strongs 5650).
@@ -17665,6 +17671,11 @@
 #5mo-29-3 {
  {
   <i>Ohren, die hören</i>: vgl <a class='kom' href='#I2mo-24-7'>2.&nbsp;Mo&nbsp;24,7</a>.
+ }
+#}
+#5mo-29-4 {
+ {
+  §neh-9-21
  }
 #}
 #5mo-29-10 {
@@ -29568,6 +29579,13 @@
   TODO: <a class='kom' href='#I1koe-6-38'>1.&nbsp;Kö&nbsp;6,38</a>.
  }
 #}
+#2chr-5-3 {
+ {
+  Das Fest dauert sieben Tage (§2chr-7-8). Am achten Tag ist eine Festversammlung (§2chr-7-9). Am dreiunzwanzigsten Tag des siebten Monats entlässt Salomo das Volk nach ihren Zelten (§2chr-7-10).
+  Dieses Fest fällt deshalb auf die Zeit des → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfestes]. Da aber der Ausdruck »Laubhüttenfest« hier nicht erwähnt wird, und
+  vom Laubhüttenfest in §neh-8-17 gesagt wird, dass seit Josua »nicht so getan wurde«, handelt es sich hier wohl nicht um ein Laubhüttenfest.
+ }
+#}
 #2chr-5-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Levi] muss die → biblisches/Eigene-Uebersetzung/Konkordanz/Lade[Lade] tragen: §5mo-10-8, → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#wer-traegt-die-lade
@@ -29635,6 +29653,11 @@
 #2chr-7-6 {
  {
   Die <i>Musikinstrumente</i> sind von → biblisches/Personen/David, der eherne Altar von Salomo (Vers 7).
+ }
+#}
+#2chr-7-8 {
+ {
+  Dieses Fest beginnt in §+2chr-5-3 und fällt auf die Zeit des → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfestes].
  }
 #}
 @}
@@ -31240,6 +31263,12 @@
   TODO: siehe auch <a href='http://bibel.renenyffenegger.ch/neh_7.html#v61'>Neh&nbsp;7,61</a>.
  }
 #}
+#esr-2-61 {
+ {
+  Die Familie Hakkoz' wird vom Priestertum ausgeschlossen (s.a. §neh-7-63). §esr-8-33 erwähnt nun einen <i>Meremoth, des Sohnes Urijas, des Priesters</i>. Möglicherweise ist dieser derselbe wie
+  der <i>Meremeth, der Sohn Urijas, des Sohnes Hakkoz'</i> in §neh-3-4 und §neh-3-21.
+ }
+#}
 #esr-2-62 {
  {
   TODO: In diesem Vers kommt Strongs 3187, welches manchmal mit <i>Geschlechtsregister</i> übersetzt wird (<a class='kom' href='#I1chr-4-33'>1.&nbsp;Chr&nbsp;4,33</a>).
@@ -31289,7 +31318,7 @@
 #esr-3-4 {
  {
   Beachte: Auch in Nehemia wird ein → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten gefeiert. Und zwar so, wie es seit der Zeit → biblisches/Personen/Josua nicht mehr gemacht worden
-  war (§neh-8-16-17). Sie fanden die Anweisung erst dort im → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz (§neh-8-14).
+  war (§neh-8-16-17). Sie fanden die Anweisung erst dort im → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz (§neh-8-14), vgl → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia.
  }
 #}
 #esr-3-5 {
@@ -31428,6 +31457,11 @@
  {
   Beachte: Esra war wohlbewandert im Gesetz des Mose, er richtet (nun aber?) das Herz darauf, das Gesetz des HERRN zu erforschen (V. 10).
   Vgl auch <a class='kom' href='#Iesr-3-2'>Esr&nbsp;3,2</a>.
+ }
+#}
+#esr-7-7 {
+ {
+  <i>Im siebten Jahr des Königs Artasasta</i> vgl §neh-2-1, §neh-5-14, §neh-13-6, → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia
  }
 #}
 #esr-7-9 {
@@ -31578,8 +31612,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Susan[Susan]
  }
  {
-  TODO: Wovon ist das das 20. Jahr. In <a href='http://bibel.renenyffenegger.ch/neh_2.html#v1'>Neh&nbsp;2,1</a> ist Nehemia im
-  20 Jahr des Königs Artasta, aber im Monat Nisan (also dem ersten Monat, <a href='http://bibel.renenyffenegger.ch/est_3.html#v7'>Est&nbsp;3,7</a>).
+  TODO: Wovon ist das das 20. Jahr. In §neh-2-1 ist Nehemia im 20 Jahr des Königs Artasasta, aber im Monat Nisan (also dem ersten Monat, §est-3-7).
  }
 #}
 #neh-1-2 {
@@ -31600,6 +31633,9 @@
 @}
 @Nehemia 2 {
 #neh-2-1 {
+ {
+  <i>Im zwanzigsten Jahr des Königs Artasasta</i> vgl §esr-7-7, §neh-5-14, §neh-13-6, → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia
+ }
  {
   Der <i>Nisan</i> ist wohl der erste Monat (<a href='http://bibel.renenyffenegger.ch/est_3.html#v7'>Est&nbsp;3,7</a>).
  }
@@ -31668,8 +31704,8 @@
 #}
 #neh-3-4 {
  {
-  <i>Meremot</i> bauth auch in Vers 21 aus. Dieser Meromot ist möglicherweise derselbe, wie der Priester, in dessen Hand das Gold und die Geräte
-  abgewogen wurden, nachdem Esra aus Babel ankam (<a href='http://bibel.renenyffenegger.ch/esr_8.html#v33'>Esr&nbsp;8,33</a>).
+  <i>Meremoth</i> baut auch in Vers 21 aus. Dieser Meromot ist möglicherweise derselbe, wie der Priester, in dessen Hand das Gold und die Geräte
+  abgewogen wurden, nachdem Esra aus Babel ankam (§esr-8-33). Da er von der Familie Hakkoz stammt, wurde oder wird er vom Priestertum ausgeschlossen (§+esr-2-61).
  }
 #}
 #neh-3-5 {
@@ -31866,7 +31902,9 @@
   <i>Statthalter</i>: <a class='kom' href='#Ineh-2-7'>Neh&nbsp;2,7</a>.
  }
  {
-  Nehemia ging m 32. Jahr Artastas für einige Zeit zum König zurück (§neh-13-6).
+  <i>Im zwanzigsten Jahr bis zum zweiundreissigsten Jahr des Königs Artasasta</i> vgl §esr-7-7, §neh-2-1, §neh-13-6, → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia
+  <br>
+  Nehemia ging im 32. Jahr Artastas für einige Zeit zum König zurück (§neh-13-6).
  }
 #}
 @}
@@ -32089,6 +32127,11 @@
   §esr-2-58
  }
 #}
+#neh-7-63 {
+ {
+  §+esr-2-61
+ }
+#}
 #neh-7-64 {
  {
   TODO: Gab es Leute, die nicht im Geschlechtsregister gefunden wurden, weil in Babel einige Leute Juden wurden (<a href='http://bibel.renenyffenegger.ch/est_8.html#v17'>Est&nbsp;8,17</a>)?
@@ -32149,6 +32192,11 @@
   zeigt an, dass Esra eine gute Arbeit geleistet hatte, als er das Buch öffnete.
  }
 #}
+#neh-8-8 {
+ {
+  <i>Sie lasen im Buch, im Gesetz Gottes</i> §neh-9-3
+ }
+#}
 #neh-8-9 {
  {
    → biblisches/Personen/Nehemia/index wird in §neh-10-1 ebenfalls »Tirsatha«, aber in §neh-12-26 »Landpfleger« genannt.
@@ -32156,7 +32204,7 @@
 #}
 #neh-8-13 {
  {
-  <i>Laubhüttenfest</i>: vgl <a class='kom' href='#Iesr-3-4'>Esr&nbsp;3,4</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfest]: vgl §+esr-3-4.
  }
 #}
 #neh-8-14 {
@@ -32182,13 +32230,26 @@
   <br>
    Beachte: Das Volk hätte ja auch auf das Feiern des Festes verzichten können unter dem Vorwand und der Begründung, dass es eigentlich in der Geschichte Israels bis auf die Ausnahme von
    der Zeit von → biblisches/Personen/Josua/Nun auch nicht gefeiert worden ist.
+  <br>
+   Beachte allerdings auch, dass bereits unter Esra ein Laubhüttenfest gefeiert wurde §esr-3-4, vgl → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia.
+  <br>
+   Vgl auch mit dem Fest von Salomo, das auf die Zeit des Laubhüttenfestes fiel (§+2chr-5-3 bis §2chr-7-10).
  }
 #}
 @}
 @Nehemia 9 {
 #neh-9-3 {
  {
+  <i>Sie lasen im Buch des Gesetzes des HERRN, ihres Gottes</i> vgl §neh-8-8.
+  <br>Nachdem sie das Gesetz gelesen hatten, benötigten sie den Inhalt des Buches des Gesetzes für ihr Bussgebet ab §neh-9-6.
+ }
+ {
   <i>Vor dem HERRN niederwerfen</i>: vgl §neh-8-6.
+ }
+#}
+#neh-9-7 {
+ {
+  → biblisches/Personen/Abraham
  }
 #}
 #neh-9-8 {
@@ -32217,14 +32278,29 @@
   Vgl <a class='kom' href='#I2mo-20-1'>2.&nbsp;Mo&nbsp;20,1</a> (betreffend der Frage, ob das Gesetz von Engeln oder von Gott selbst verkündigt wurde).
  }
 #}
+#neh-9-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat
+ }
+#}
 #neh-9-15 {
  {
   <i>Brot vom Himmel</i>: <a class='kom' href='#I2mo-16-4'>2.&nbsp;Mo&nbsp;16,4</a>.
  }
 #}
+#neh-9-18 {
+ {
+  <i>Gegossenes Kalb</i> §2mo-32-4-ff
+ }
+#}
 #neh-9-20 {
  {
   Gibt es einen Grund, warum das Man hier <i>Manna</i> genannt wird? Vgl <a href='http://bibel.renenyffenegger.ch/ps_78.html#v24'>Ps&nbsp;78,24</a>.
+ }
+#}
+#neh-9-21 {
+ {
+  §5mo-29-4
  }
 #}
 #neh-9-26 {
@@ -32243,6 +32319,11 @@
  }
  {
   Frage: Beginnt diese <i>Zeit der Köîige von Assyrien</i> mit Pul <a class='kom' href='#I2koe-15-19'>2.&nbsp;Kö&nbsp;15,19</a>?
+ }
+#}
+#neh-9-36 {
+ {
+  <i>Wir sind Knechte</i> §3mo-25-42
  }
 #}
 @}
@@ -53364,6 +53445,12 @@
   TODO: <i>Kriegsleute</i> (<span class='gr'>στρατεύω</span>, Strongs 4754) vgl <a class='kom' href='#Ilk-23-11'>Lk&nbsp;23,11</a>.
  }
 #}
+#lk-3-15 {
+ {
+  *Das Volk war in Erwartung*: möglicherweise wegen der → biblisches/Bücher/Daniel/70-Wochen[70 Wochen] Prophetie von → biblisches/Bücher/Daniel in §dan-9-24-ff.
+  Beachte auch, dass sie → biblisches/Personen/Johannes/Täufer[Johannes den Täufer] fragten, wer er er ist - und er sagt, er sei nicht der Christus §joh-1-19-ff
+ }
+#}
 #lk-3-16 {
  {
     Mit Wasser taufen: zur Busse (<a href='http://bibel.renenyffenegger.ch/mt_3.html#v11'>Mt&nbsp;3,11</a>). Siehe <a class='kom' href='#Iapg-11-16'>Apg&nbsp;11,16</a>
@@ -55309,6 +55396,9 @@
 #}
 #joh-1-19 {
  {
+  <i>Wer bist du?</i> §+lk-3-15
+ }
+ {
   Die Gesandten gehören zu den Pharisäern (Vers 24).
  }
 #}
@@ -55379,6 +55469,11 @@
      <li>Am dritten Tag (<a href='http://bibel.renenyffenegger.ch/joh_2.html#v1'>Joh&nbsp;2,1</a>)
    </ul>
    Beachte: 'sie blieben wenige Tage dort' in <a href='http://bibel.renenyffenegger.ch/joh_2.html#v12'>Joh&nbsp;2,12</a>.
+ }
+#}
+#joh-1-30 {
+ {
+  <i>Er war vor mir</i> vgl §joh-8-58
  }
 #}
 #joh-1-31 {
@@ -56229,6 +56324,9 @@
  }
 #}
 #joh-8-58 {
+ {
+   <i>Ehe Abraham wurde, bin ich</i> vgl §joh-1-30
+ }
  {
   <i>bin ich</i>: Vgl <a href='http://bibel.renenyffenegger.ch/2mo_3.html#v15'>2.&nbsp;Mo&nbsp;3,15</a>,
   <a class='kom' href='#Ijoh-6-20'>Joh&nbsp;6,20</a>, <a class='kom' href='#Ijoh-6-35'>Joh&nbsp;6,35</a>.
