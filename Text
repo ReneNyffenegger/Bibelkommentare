@@ -32179,6 +32179,11 @@
   zeigt an, dass Esra eine gute Arbeit geleistet hatte, als er das Buch öffnete.
  }
 #}
+#neh-8-8 {
+ {
+  <i>Sie lasen im Buch, im Gesetz Gottes</i> §neh-9-3
+ }
+#}
 #neh-8-9 {
  {
    → biblisches/Personen/Nehemia/index wird in §neh-10-1 ebenfalls »Tirsatha«, aber in §neh-12-26 »Landpfleger« genannt.
@@ -32222,7 +32227,15 @@
 @Nehemia 9 {
 #neh-9-3 {
  {
+  <i>Sie lasen im Buch des Gesetzes des HERRN, ihres Gottes</i> §neh-8-8
+ }
+ {
   <i>Vor dem HERRN niederwerfen</i>: vgl §neh-8-6.
+ }
+#}
+#neh-9-7 {
+ {
+  → biblisches/Personen/Abraham
  }
 #}
 #neh-9-8 {
