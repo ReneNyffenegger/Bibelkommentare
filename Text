@@ -10660,6 +10660,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
  }
 #}
+#2mo-31-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat
+ }
+#}
 #2mo-31-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe, vgl §2mo-35-2.
@@ -12910,7 +12915,7 @@
 #}
 #3mo-25-42 {
  {
-  Israel ist → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-gottes-knecht[Gottes Knecht], vgl §+V3mo-25-55.
+  Israel ist → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-gottes-knecht[Gottes Knecht], vgl §+V3mo-25-55, §neh-9-36
  }
  {
   <i>Knechte</i> wie auch <i>Sklaven</i> sind im Hebräischen <span class='hebr'>עֶבֶד</span> (Strongs 5650).
@@ -17666,6 +17671,11 @@
 #5mo-29-3 {
  {
   <i>Ohren, die hören</i>: vgl <a class='kom' href='#I2mo-24-7'>2.&nbsp;Mo&nbsp;24,7</a>.
+ }
+#}
+#5mo-29-4 {
+ {
+  §neh-9-21
  }
 #}
 #5mo-29-10 {
@@ -32230,7 +32240,8 @@
 @Nehemia 9 {
 #neh-9-3 {
  {
-  <i>Sie lasen im Buch des Gesetzes des HERRN, ihres Gottes</i> §neh-8-8
+  <i>Sie lasen im Buch des Gesetzes des HERRN, ihres Gottes</i> vgl §neh-8-8.
+  <br>Nachdem sie das Gesetz gelesen hatten, benötigten sie den Inhalt des Buches des Gesetzes für ihr Bussgebet ab §neh-9-6.
  }
  {
   <i>Vor dem HERRN niederwerfen</i>: vgl §neh-8-6.
@@ -32279,12 +32290,17 @@
 #}
 #neh-9-18 {
  {
-  <i>Goldenes Kalb</i> §2mo-32-4-ff
+  <i>Gegossenes Kalb</i> §2mo-32-4-ff
  }
 #}
 #neh-9-20 {
  {
   Gibt es einen Grund, warum das Man hier <i>Manna</i> genannt wird? Vgl <a href='http://bibel.renenyffenegger.ch/ps_78.html#v24'>Ps&nbsp;78,24</a>.
+ }
+#}
+#neh-9-21 {
+ {
+  §5mo-29-4
  }
 #}
 #neh-9-26 {
@@ -32303,6 +32319,11 @@
  }
  {
   Frage: Beginnt diese <i>Zeit der Köîige von Assyrien</i> mit Pul <a class='kom' href='#I2koe-15-19'>2.&nbsp;Kö&nbsp;15,19</a>?
+ }
+#}
+#neh-9-36 {
+ {
+  <i>Wir sind Knechte</i> §3mo-25-42
  }
 #}
 @}
