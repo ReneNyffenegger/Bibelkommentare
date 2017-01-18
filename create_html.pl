@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#   vi: set local foldmarker={{{,}}}
+#   vim: foldmarker={{{,}}}
 #
 #   Change the links in alle_kapitel.html so that
 #   they point to the out directory.
@@ -22,6 +22,7 @@ use File::HomeDir;
 use Digest::MD5::File qw(file_md5_hex);
 use YAML::Tiny;
 use File::Copy;
+use Cwd;
 
 
 use lib "$ENV{github_root}/Biblisches";
@@ -32,24 +33,23 @@ use notes;
 use RN;
 
 
-# my $seperate_chapters = 1;
-
 my %ftp_file_md5_old;
 my %ftp_file_md5_new;
 my $ftp_file_md5_file = 'ftp_file_md5.yaml';
 
 my $skip_bible = 0;
+my $verbose    = 0;
 Getopt::Long::GetOptions(
     "web"        => \my $web,
     "skip-bible" => \   $skip_bible,
-    "file-modif" => \my $file_modif
+    "file-modif" => \my $file_modif,
+    "verbose"    => \   $verbose
 );
 
 # {{{ go.pl components
 
 
 my $target_env = $web ? 'web' : 'local';
-my $verbose = 0;
 RN::init($target_env, $verbose);
 my $index_file = RN::url_path_abs_2_os_path_abs('/notes/.index');#  "${notes_input_root}notes/.index";
 
@@ -65,19 +65,27 @@ notes::load_index($index_file);
 # }}}
 
 my $out_dir = RN::url_path_abs_2_os_path_abs('/Biblisches/Kommentare/');
-my $ftp;
+print "out_dir = $out_dir\n" if $verbose;
+my $ftp; # Ever used 2017-01-16
 
 if ($web) { # {{{
+  print "web copy /Biblisches/Kommentare/$ftp_file_md5_file\n";
   RN::copy_url_path_abs_2_os_path("/Biblisches/Kommentare/$ftp_file_md5_file", $ftp_file_md5_file);
+  print "done\n";
+
+# die unless -e $ftp_file_md5_file;
 } # }}}
 else { # {{{
-
-  copy ("$out_dir/$ftp_file_md5_file", $ftp_file_md5_file);
+  print "copy $out_dir/$ftp_file_md5_file to $ftp_file_md5_file (working dir = " . cwd() . "\n";
+  copy ("$out_dir/$ftp_file_md5_file", $ftp_file_md5_file) or die;
 } # }}}
 
 if (-e $ftp_file_md5_file) {
   my $yaml = YAML::Tiny->read($ftp_file_md5_file);
   %ftp_file_md5_old = %{ $yaml->[0] } if $yaml;
+}
+else {
+  print "! $ftp_file_md5_file does not exist!\n";
 }
 
 
@@ -505,7 +513,10 @@ sub print_verse { # {{{
 write_html_footer('offb', 22);  # Last converted book
 
 if ($web) {
-  ftp_put('BibelKommentare.css');
+  print "putting BibelKommentare.css\n";
+  RN::copy_url_path_abs_2_os_path('BibelKommentare.css', "/Biblisches/Kommentare/BibelKommentare.css");
+  print "done\n";
+# ftp_put('BibelKommentare.css');
 }
 else {
   copy 'BibelKommentare.css', $out_dir or die "Could not copy BibelKommentare.css to $out_dir";
@@ -715,6 +726,8 @@ sub close_html { # {{{
 
   if (is_file_modified("$out_dir/$last_opened_html_file")) {
 
+    print "$last_opened_html_file is modified\n";
+
     if ($^O eq 'linux') {
       system ("tid $out_dir/$last_opened_html_file" ) and print "\n in $last_opened_html_file\n";
     }
@@ -723,9 +736,7 @@ sub close_html { # {{{
     }
 
     if ($web) {
-  
       RN::copy_os_path_2_url_path_abs("$out_dir/$last_opened_html_file", "/Biblisches/Kommentare/$last_opened_html_file");
-  
     }
   }
 
@@ -802,11 +813,12 @@ sub replace_link_full { # {{{
 
 sub ftp_put { # {{{
 
+  die "ever reached?"; # 2017-01-16
   my $file = shift;
 
   return unless is_file_modified($file);
 
-  print "Put $file\n";
+  print "Ftp put $file\n";
   $ftp -> put("$file") or die "Could not put $file";
 
 } # }}}
@@ -815,10 +827,12 @@ sub write_md5_yaml { # {{{
 
   my $yaml = new YAML::Tiny (\%ftp_file_md5_new);
 
+  print "write md5 file $ftp_file_md5_file\n" if $verbose;
   $yaml -> write($ftp_file_md5_file);
 
   if ($web) {
-    ftp_put($ftp_file_md5_file);
+    RN::copy_url_path_abs_2_os_path($ftp_file_md5_file, "/Biblisches/Kommentare/$ftp_file_md5_file");
+#  2017-01-16 ftp_put($ftp_file_md5_file);
   }
   else {
     print "copy $ftp_file_md5_file, $out_dir/$ftp_file_md5_file\n";
@@ -833,6 +847,7 @@ sub is_file_modified { # {{{
   my $file = shift;
 
   my $md5 = file_md5_hex($file) or die "file_md5_hex $file\n";
+
   $ftp_file_md5_new{$file} = $md5;
 
   if (exists $ftp_file_md5_old{$file}) {
@@ -843,12 +858,13 @@ sub is_file_modified { # {{{
       return 0;
     }
 
-    print "file is modified $file\n" if $file_modif;
+    print "file $file is modified $md5 - " . $ftp_file_md5_old{$file} . "\n" if $file_modif;
 
   }
   else {
     print "unknown $file\n" if $file_modif;
   }
+
 
 
 # print "key does not exist $file\n";
