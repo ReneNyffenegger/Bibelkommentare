@@ -14090,6 +14090,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/zurückkehren[Nach Ägypten zurückkehren]
  }
 #}
+#4mo-14-4 {
+ {
+  Vgl §neh-9-17
+ }
+#}
 #4mo-14-6 {
  {
   TODO: Josua (Hosea), aus <b>Ephraim</b> und Kaleb aus <b>Juda</b>
@@ -17755,7 +17760,8 @@
 #}
 #5mo-31-11 {
  {
-  In §neh-8-2-ff las → biblisches/Personen/Esra das Gesetz vor dem → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten (§neh-8-14)
+  In §neh-8-2-ff las → biblisches/Personen/Esra das Gesetz vor dem → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfest]. In §neh-8-18
+  las man es während den Laubhütten, in §neh-9-3 nach dem Laubhüttenfest.
  }
 #}
 #5mo-31-14 {
@@ -32223,6 +32229,11 @@
    Vgl auch mit dem Fest von Salomo, das auf die Zeit des Laubhüttenfestes fiel (§+2chr-5-3 bis §2chr-7-10).
  }
 #}
+#neh-8-18 {
+ {
+  Vgl  §5mo-31-11: Am → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfest] soll das Gesetz vor dem ganzen Israel gelesen werden. 
+ }
+#}
 @}
 @Nehemia 9 {
 #neh-9-3 {
@@ -32237,6 +32248,9 @@
 #neh-9-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde. <i>Die Meere und alles, was in ihnen ist</i> vgl §apg-4-24
+ }
+ {
+  TODO andere Übersetzungen lesen «werfen sich vor dir nieder» statt <i>das Heer des Himmels betet dich an</i>.
  }
 #}
 #neh-9-7 {
@@ -32281,6 +32295,11 @@
 #neh-9-15 {
  {
   <i>Brot vom Himmel</i>: <a class='kom' href='#I2mo-16-4'>2.&nbsp;Mo&nbsp;16,4</a>.
+ }
+#}
+#neh-9-17 {
+ {
+  <i>… setzten sich in ihrer Widerspenstigkeit ein Haupt, um zu ihrer Knechtschaft zurückzukehren.</i> Vgl §4mo-14-4
  }
 #}
 #neh-9-18 {
