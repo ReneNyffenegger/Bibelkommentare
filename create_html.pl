@@ -309,7 +309,7 @@ my $at = 1;
  
    $current_text =~ s/\bChristo\b/Christus/g;
    $current_text =~ s/\bChristum\b/Christus/g;
-   $current_text =~ s/\bJesu\b/Jesus/g;
+#  $current_text =~ s/\bJesu\b/Jesus/g;
  
    $current_text =~ s/\bselbige(.)?\b/diese$1/g;
    $current_text =~ s/\bdaselbst\b/dort/g;
