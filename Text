@@ -31238,6 +31238,12 @@
   TODO: siehe auch <a href='http://bibel.renenyffenegger.ch/neh_7.html#v61'>Neh&nbsp;7,61</a>.
  }
 #}
+#esr-2-61 {
+ {
+  Die Familie Hakkoz' wird vom Priestertum ausgeschlossen (s.a. §neh-7-63). §esr-8-33 erwähnt nun einen <i>Meremoth, des Sohnes Urijas, des Priesters</i>. Möglicherweise ist dieser derselbe wie
+  der <i>Meremeth, der Sohn Urijas, des Sohnes Hakkoz'</i> in §neh-3-4 und §neh-3-21.
+ }
+#}
 #esr-2-62 {
  {
   TODO: In diesem Vers kommt Strongs 3187, welches manchmal mit <i>Geschlechtsregister</i> übersetzt wird (<a class='kom' href='#I1chr-4-33'>1.&nbsp;Chr&nbsp;4,33</a>).
@@ -32094,6 +32100,11 @@
 #neh-7-60 {
  {
   §esr-2-58
+ }
+#}
+#neh-7-63 {
+ {
+  §+esr-2-61
  }
 #}
 #neh-7-64 {
