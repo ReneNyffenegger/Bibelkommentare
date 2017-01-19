@@ -14127,7 +14127,7 @@
 #}
 #4mo-14-4 {
  {
-  Vgl §neh-9-17
+  Sie wollten wieder zu ihrer Knechtschaft zurückkehren §neh-9-17
  }
 #}
 #4mo-14-6 {
@@ -38991,8 +38991,7 @@
 #}
 #jes-11-2 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/jes_61.html#v1'>Jes&nbsp;61,1</a>. Der Geist des HERRN bringt sie zur Ruhe
-  (<a href='http://bibel.renenyffenegger.ch/jes_63.html#v14'>Jes&nbsp;63,14</a>)
+  Vgl mit §jes-61-1. Der Geist des HERRN bringt sie zur Ruhe (§jes-63-14)
  }
 #}
 #jes-11-4 {
@@ -40987,7 +40986,10 @@
 @Jesaja 61 {
 #jes-61-1 {
  {
-  Vgl <a class='kom' href='#Ijes-11-2'>Jes&nbsp;11,2</a>.
+  Der HERR zitiert bis, aber ohne <i>und den Tag der Rache unseres Gottes …</i> in §lk-4-18-19.
+ }
+ {
+  <i>Geist des HERRN</i> Vgl §+jes-11-2.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit/ausrufen
@@ -53704,6 +53706,9 @@
 #}
 #lk-4-18 {
  {
+  Der Herr zitiert §jes-61-1-2 (aber ohne das dortige »und den Tag der Rache unseres Gottes…«)
+ }
+ {
   <i>Der Herr macht Blinde sehend</i>: <a class='kom' href='#Ips-146-8'>Ps&nbsp;146,8</a>.
  }
  {
@@ -57134,8 +57139,8 @@
 #}
 #joh-15-15 {
  {
-  <i>Nicht mehr Knechte</i> vgl <a href='http://bibel.renenyffenegger.ch/gal_4.html#v7'>Gal&nbsp;4,7</a>.
-  <br>Vgl <i>der Knecht weiss nicht, was sein Herr tut</i> mit <a href='http://bibel.renenyffenegger.ch/offb_1.html#v1'>Offb&nbsp;1,1</a>.
+  <i>Nicht mehr Knechte</i> vgl §gal-4-7.
+  <br>Vgl <i>der Knecht weiss nicht, was sein Herr tut</i> mit §offb-1-1.
  }
 #}
 #joh-15-18 {
@@ -67498,6 +67503,9 @@
 #}
 #gal-1-4 {
  {
+  <i>böse Welt</i> vgl §eph-5-16
+ }
+ {
   <i>herausrette</i>: <span class='gr'>ἐξαιρέω</span> (Strongs 1807), in Elberfelder übersetzt mit «herausreisse».
  }
 #}
@@ -67927,8 +67935,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #gal-4-7 {
  {
   <i>Knecht</i> vs <i>Sohn</i>: <a class='kom' href='#Iroem-8-15'>Röm&nbsp;8,15</a>.
-  <br>Vgl auch <a class='kom' href='#Ijoh-15-15'>Joh&nbsp;15,15</a>.
   <br>Vgl auch <a class='kom' href='#Ioffb-21-7'>Offb&nbsp;21,7</a>.
+ }
+ {
+  <i>Nicht mehr Knecht</i> §joh-15-15
  }
 #}
 #gal-4-8 {
@@ -68803,6 +68813,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Werke der Finsternis</i>: vgl <a class='kom' href='#Iroem-13-12'>R&ouml;m&nbsp;13,12</a>.
  }
 #}
+#eph-5-16 {
+ {
+  <i>Die Tage sind böse</i> vgl §eph-6-13, §gal-1-4
+ }
+#}
 #eph-5-18 {
  {
   <i>Ausschweifung</i> (<span class='gr'>ἀσωτία</span>, Strongs 810) kommt noch vor in
@@ -68953,6 +68968,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Fleisch und Blut</i>: <a class='kom' href='#Imt-16-17'>Mt&nbsp;16,17</a>.
+ }
+#}
+#eph-6-13 {
+ {
+  <i>Am bösen Tag</i> vgl §eph-5-16
  }
 #}
 #eph-6-14 {
