@@ -1613,7 +1613,7 @@
 #}
 #1mo-8-21 {
  {
-  <i>lieblicher Geruch</i>: nächstes Vorkommen in <a class='kom' href='#I2mo-29-18'>2.&nbsp;Mo&nbsp;29,18</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
  }
  {
   <i>Verfluchter Erdboden</i>: <a class='kom' href='#I1mo-3-17'>1.&nbsp;Mo&nbsp;3,17</a>.
@@ -9099,6 +9099,11 @@
   Beachte: hier will Gott 'dich' segnen, in <a href='http://bibel.renenyffenegger.ch/2mo_23.html#v25'>2.&nbsp;Mo&nbsp;23,25</a> 'Wasser und Brot'.
  }
 #}
+#2mo-20-26 {
+ {
+  <i>… damit deine Nacktheit nicht aufgedeckt wird …</i> §2mo-28-42
+ }
+#}
 @}
 }
 { 2. Mose 21-30
@@ -10076,7 +10081,7 @@
 #}
 #2mo-28-2 {
  {
-  biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider, <i>Zur Herrlichkeit und zum Schmuck</i> vgl §V2mo-28-40
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider, <i>Zur Herrlichkeit und zum Schmuck</i> vgl §V2mo-28-40
  }
 #}
 #2mo-28-3 {
@@ -10105,9 +10110,14 @@
   TODO: Samuel war mit einem <i>leinenen Ephod</i> bekleidet (<a href='http://bibel.renenyffenegger.ch/1sam_2.html#v18'>1.&nbsp;Sam&nbsp;2,18</a>).
  }
 #}
+#2mo-28-9 {
+ {
+  <i>Söhne Israels</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme
+ }
+#}
 #2mo-28-15 {
  {
-  biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider#brustschild
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider#brustschild
  }
 #}
 #2mo-28-17 {
@@ -10136,6 +10146,9 @@
 #2mo-28-21 {
  {
   <i>Stein mit Namen</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_2.html#v17'>Offb&nbsp;2,17</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme
  }
  {
   TODO: Offenbar enthält dieser Vers Strongs 7626, siehe <a class='kom' href='#I1mo-49-10'>1.&nbsp;Mo&nbsp;49,10</a>.
@@ -10181,6 +10194,9 @@
  }
 #}
 #2mo-28-42 {
+ {
+  <i>… um das Fleisch der Nacktheit zu bedecken</i> §2mo-20-26
+ }
  {
   'leinene' <span class='hebr'>בַּד</span> (Strong 906). Beachte (TODO), auch Strongs 8336 wird mit <i>Leinen</i> oder <i>Leinwand</i> übersetzt
          (<a class='kom' href='#I1mo-41-42'>1.&nbsp;Mo&nbsp;41,42</a>).
@@ -10273,6 +10289,11 @@
   → biblisches/Eigene-Uebersetzung/Varianten/Ungesäuertes
  }
 #}
+#2mo-29-9 {
+ {
+  <i>das Priestertum sei zu einer ewigen Satzung</i> vgl §hebr-7-12 »Denn wenn das Priestertum geändert wird, so findet notwendig auch eine Änderung des Gesetzes statt.«
+ }
+#}
 #2mo-29-10 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
@@ -10280,38 +10301,38 @@
 #}
 #2mo-29-14 {
  {
-  <i>Sündopfer</i> (Strongs 2403) siehe <a class='kom' href='#I1mo-4-7'>1.&nbsp;Mo&nbsp;4,7</a>.
-  <br>TODO: Darf/muss so eine Sündopfer gegessen werden. (Vgl <a href='http://bibel.renenyffenegger.ch/hos_4.html#v8'>Hos&nbsp;4,8</a>).
-      Gemäss <a href='http://bibel.renenyffenegger.ch/3mo_6.html#v18'>3.&nbsp;Mo&nbsp;6,18-23</a> darf der Priester es essen, ausser wenn
-      vom Blut des Sündopfers in die Stiftshütte hineingebracht wird.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer
+ }
+ {
+  <br>TODO: Darf/muss so eine Sündopfer gegessen werden. (Vgl §hos-4-8).
+      Gemäss §3mo-6-18-23 darf der Priester es essen, ausser wenn vom Blut des Sündopfers in die Stiftshütte hineingebracht wird.
  }
 #}
 #2mo-29-18 {
  {
-  <i>Feueropfer</i> <span class='hebr'>אִשֶּׁה</span> (Strongs 801). Hier die erste Erwähnung dieses Wortes.
-  <br>TODO: Offenbar gibt es über das Feueropfer keine eigentlichen Gesetze (siehe <a class='kom' href='#I3mo-6-2'>3.&nbsp;Mo&nbsp;6,2</a>).
-  <br>TODO: die 12 Kuchen sind auch ein Feueropfer (<a href='http://bibel.renenyffenegger.ch/3mo_24.html#v7'>3.&nbsp;Mo&nbsp;24,7</a>).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer <span class='hebr'>אִשֶּׁה</span> (Strongs 801): Hier das erste Vorkommen dieses Wortes.
+  <br>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich: Dieser Ausdruck kommt in → biblisches/Bücher/Mose/2[2. Mose] nur in diesem Kapitel vor.
  }
  {
-  Die Feueropfer werden vom Samen Aarons dargebracht
-  (<a href='http://bibel.renenyffenegger.ch/3mo_21.html#v6'>3.&nbsp;Mo&nbsp;21,6</a>, <a href='http://bibel.renenyffenegger.ch/3mo_21.html#v21'>3.&nbsp;Mo&nbsp;21,21</a>).
- }
- {
-  <i>lieblicher Geruch</i>: Dieses Kapitel ist das einzige Kapitel in 2. Mose, wo dieser Ausdruck vorkommt.
-  <br>S.a. <a class='kom' href='#I1mo-8-21'>1.&nbsp;Mo&nbsp;8,21</a>.
+  TODO: Offenbar gibt es über das Feueropfer keine eigentlichen Gesetze (siehe <a class='kom' href='#I3mo-6-2'>3.&nbsp;Mo&nbsp;6,2</a>).
  }
 #}
 #2mo-29-20 {
+ {
+  <i>Blut auf dem rechten Ohrläppchen</i>: Malchus, dem Knecht des Hohepriesters, wurde das rechte Ohr mit dem Schwert abgehauen §+mt-26-51.
+ }
  {
   TODO: Blut auf das rechte Ohrlöppchen, Daumen... muss man auch bei der Reinigung der Aussatzplage tun
   (<a href='http://bibel.renenyffenegger.ch/3mo_14.html#v14'>3. Mo 14,14/17/25/28</a>, dort manchmal/immer?
   in Zusammenhang mit einem Schuldopfer).
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/3mo_8.html#v23'>3.&nbsp;Mo&nbsp;8,23</a>.
-  <br>TODO: Malchus, dem Knecht des Hohepriesters, wurde das rechte Ohr mit dem Schwert abgehauen
-     (<a class='kom' href='#Imt-26-51'>Mt&nbsp;26,51</a>).
  }
 #}
 #2mo-29-22 {
+ {
+  <i>Widder der Einweihung</i> §3mo-3-8
+ }
  {
   <i>Widder der Einsetzung</i> wäre wohl besser übersetzt worden mit 'Widder des Füllens (der Hände)'.
   Der Ausdruck <span class='hebr'>מִלֻּאִ֖ים הֽוּא</span> (Strongs 4394 1931) ist verwandt mit jenem aus <a href='http://bibel.renenyffenegger.ch/2mo_28.html#v41'>2.&nbsp;Mo&nbsp;28,41</a> (TODO: Verify).
@@ -10323,9 +10344,15 @@
 #}
 #2mo-29-24 {
  {
-  TODO: <i>Webopfer</i> <span class='hebr'>תְּנוּפָה</span> (Strongs 8573): hier das erste Vorkommen.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Webopfer: Hier das erste Vorkommen dieses Wortes.
+ }
+ {
   <br>TODO: hat das Webopfer etwas mit der Einsetzung Aarons und seiner Söhne zu tun?
-  <br>Siehe auch <a class='kom' href='#I2mo-38-29'>2.&nbsp;Mo&nbsp;38,29</a> (wo das Wort mit <i>freiwillige Gabe</i> übersetzt wird).
+ }
+#}
+#2mo-29-25 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer
  }
 #}
 #2mo-29-27 {
@@ -10335,12 +10362,12 @@
 #}
 #2mo-29-28 {
  {
-  → biblisches/Personen/Aaron/Söhne
+  → biblisches/Personen/Aaron/Söhne, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer
  }
 #}
 #2mo-29-29 {
  {
-  Eleasar kriegt Aarons Kleider in <a href='http://bibel.renenyffenegger.ch/4mo_20.html#v26'>4.&nbsp;Mo&nbsp;20,26-28</a>, auf dem Berg Hor, wo Aaron starb.
+  → biblisches/Personen/Eleasar/Aaron[Eleasar] kriegt → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider[Aarons Kleider] in §4mo-20-26-28, auf dem Berg Hor, wo Aaron starb.
  }
 #}
 #2mo-29-30 {
@@ -10384,6 +10411,9 @@
 #}
 #2mo-29-38 {
  {
+  In §4mo-28-3 wird zusätzlich erwähnt, dass die Lämmer «ohne Fehl» sein müssen.
+ }
+ {
   Das <i>beständige Brandopfer</i> (bis <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v42'>Vers 42</a>) (<span class='hebr'>עֹלַ֤ת תָּמִיד֙</span>, Strongs 8548 5930).
   <br>Dieses wird offenbar hier eingesetzt. Und in <a href='http://bibel.renenyffenegger.ch/4mo_28.html#v3'>4.&nbsp;Mo&nbsp;28,3</a> wiederholt.
   <br>Das Opfer besteht aus <ul>
@@ -10397,12 +10427,6 @@
          einem Viertel Hin <i>Öl</i> aus zerstossenen Oliven.
      </ul>
      Siehe auch <ul>
-       <li><a href='http://bibel.renenyffenegger.ch/4mo_29.html#v6'>4.&nbsp;Mo&nbsp;29,6</a>
-       <li><a href='http://bibel.renenyffenegger.ch/1chr_23.html#v31'>1.&nbsp;Chr&nbsp;23,31</a> (TODO: dürfen hier neu <i>auch</i> die Leviten opfern?)
-       <li><a href='http://bibel.renenyffenegger.ch/2chr_24.html#v14'>2.&nbsp;Chr&nbsp;24,14</a>
-       <li><a href='http://bibel.renenyffenegger.ch/esr_3.html#v5'>Esr&nbsp;3,5</a>
-       <li><a href='http://bibel.renenyffenegger.ch/neh_10.html#v34'>Neh&nbsp;10,34</a>
-       <li><a class='kom' href='#Ips-50-8'>Ps&nbsp;50,8</a> (TODO)
        <li><a href='http://bibel.renenyffenegger.ch/hes_46.html#v13'>Hes 46,13-16</a> (TODO: dort wird nur <i>ein</i> Lamm pro Tag geopfert, mit <i>einem Sechstel Epha</i>
               und <i>einem Drittel Hin</i> Ö.
      </ul>
@@ -10458,7 +10482,7 @@
   Vgl §+2mo-25-22.
  }
  {
-   TODO: <i>beständiges Brandopfer</i> siehe <a href='http://bibel.renenyffenegger.ch/4mo_28.html#v3'>4.&nbsp;Mo&nbsp;28,3</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer
  }
 #}
 #2mo-29-45 {
@@ -11156,10 +11180,6 @@
 #}
 #2mo-38-29 {
  {
-  TODO: 'freiwillige Gabe' wird in Elberfelder mit <i>Webopfer</i> übersetzt. Das hebräische Wort
-  ist <span class='hebr'>תְּנוּפָה</span> (Strongs 8573)
- }
- {
    Vgl <a href='http://bibel.renenyffenegger.ch/4mo_7.html#v85'>4.&nbsp;Mo&nbsp;7,85</a>.
  }
 #}
@@ -11401,6 +11421,9 @@
 #3mo-3-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+ {
+  <i>Widder der Einweihung</i> §2mo-29-22
  }
 #}
 #3mo-3-17 {
@@ -12521,6 +12544,11 @@
 }
 { 21-27
 @3. Mose 21 {
+#3mo-21-1 {
+ {
+  → biblisches/Personen/Aaron/Söhne
+ }
+#}
 #3mo-21-5 {
  {
   Frage: Soll damit sichergestellt sein, dass sie nicht unrein sind? Immerhin redet <a href='http://bibel.renenyffenegger.ch/3mo_13.html#v41'>3.&nbsp;Mo&nbsp;13,41-43</a> von
@@ -12529,6 +12557,11 @@
  }
  {
   TODO: Micha soll sich eine Glatze scheren (<a href='http://bibel.renenyffenegger.ch/mi_1.html#v16'>Mi&nbsp;1,16</a>), dort zwar anders übersetzt, aber dieselben Strongs Wörter.
+ }
+#}
+#3mo-21-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer, vgl §V3mo-21-21
  }
 #}
 #3mo-21-10 {
@@ -12555,6 +12588,11 @@
 #3mo-21-18 {
  {
   → biblisches/Personen/David[Davids] Seele sind die Lahmen und Blinden feind (<a href='http://bibel.renenyffenegger.ch/2sam_5.html#v8'>2.&nbsp;Sam&nbsp;5,8</a>).
+ }
+#}
+#3mo-21-21 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer, vgl §V3mo-21-6
  }
 #}
 #3mo-21-24 {
@@ -12765,10 +12803,7 @@
   <i>Weihrauch</i> siehe <a class='kom' href='#I2mo-30-34'>2.&nbsp;Mo&nbsp;30,34</a>.
  }
  {
-  <i>Feueropfer</i> ist angeblich im Grundtext das 77. Wort dieses Kapitels (und befindet sich im 7. Vers), und das 10000. Wort im → biblisches/Bücher/Mose/3/index[3. Buch von Mose].
- }
- {
-  TODO: <i>Feueropfer</i>: siehe <a class='kom' href='#I2mo-29-18'>2.&nbsp;Mo&nbsp;29,18</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer ist angeblich im Grundtext das 77. Wort dieses Kapitels (und befindet sich im 7. Vers), und das 10000. Wort im → biblisches/Bücher/Mose/3/index[3. Buch von Mose].
  }
 #}
 #3mo-24-8 {
@@ -14566,11 +14601,13 @@
 #}
 #4mo-20-26 {
  {
-  TODO: Eleasar kriegte (offenbar?) hier die heiligen Kleider Aarons, siehe <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v29'>2.&nbsp;Mo&nbsp;29,29</a>.
-  <br>Gemäss <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v30'>2.&nbsp;Mo&nbsp;29,30</a> soll(te?) Eleasar die Kleider 7 Tage lang tragen.
+  Eleasar kriegte hier die heiligen → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider[Kleider Aarons]. Er soll(te) sie nun 7 Tage lang tragen. §2mo-29-29-30.
  }
 #}
 #4mo-20-28 {
+ {
+  §5mo-10-6
+ }
  {
   TODO: Wo ist Aaron gestorben? <a class='kom' href='#I5mo-10-6'>5.&nbsp;Mo&nbsp;10,6</a>, <a class='kom' href='#I4mo-33-30'>4.&nbsp;Mo&nbsp;33,30</a>.
  }
@@ -15275,11 +15312,8 @@
 #}
 #4mo-28-3 {
  {
-  Das <i>beständige Brandopfer</i> wurde in <a class='kom' href='#I2mo-29-38'>2.&nbsp;Mo&nbsp;29,38-42</a> eingesetzt.
- }
- {
-  TODO: Hier, im Gegensatz zu <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v38'>2.&nbsp;Mo&nbsp;29,38</a> wird hier erwähnt,
-  dass die Lämmer <i>makellos</i> sein sollen.
+  Das → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer[beständige Brandopfer] wurde in §2mo-29-38 eingesetzt. Dort wird, im Gegensatz zu hier,
+  nicht erwähnt, dass die Lämmer «ohne Fehl» sein müssen.
  }
  {
   TODO: Offenbar kommen hier die (neuen?) Regeln von <a class='kom' href='#I4mo-15-3'>4.&nbsp;Mo&nbsp;15,3</a> zur Anwendung. Vgl dann auch mit 2. Mose 29...
@@ -15343,7 +15377,7 @@
 #}
 #4mo-29-6 {
  {
-  <i>Beständiges Brandopfer</i> siehe <a class='kom' href='#I2mo-29-38'>2.&nbsp;Mo&nbsp;29,38</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer
  }
  {
   Bedeutet 'ausser' hier 'neben' (also <i>zusätzlich</i> zum täglichen und monatlichen Opfer)?
@@ -16777,7 +16811,7 @@
 #}
 #5mo-10-6 {
  {
-    Auswahl zum Priesterdienst: siehe <a class='kom' href='#I2mo-19-6'>2.&nbsp;Mo&nbsp;19,6</a>.
+  Auswahl zum → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/Priesterdienst[Priesterdienst] vgl §+2mo-19-6.
  }
  {
   → biblisches/Personen/Eleasar/Aaron[Eleasar]
@@ -29163,7 +29197,7 @@
 #}
 #1chr-23-31 {
  {
-  TODO: <i>Beständiges Brandopfer</i> siehe <a class='kom' href='#I2mo-29-38'>2.&nbsp;Mo&nbsp;29,38</a>.
+  Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer
  }
 #}
 #1chr-23-32 {
@@ -30320,7 +30354,7 @@
 #}
 #2chr-24-14 {
  {
-  <i>Beständiges Brandopfer</i> siehe <a class='kom' href='#I2mo-29-38'>2.&nbsp;Mo&nbsp;29,38</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer
  }
 #}
 #2chr-24-15 {
@@ -31321,7 +31355,7 @@
 #}
 #esr-3-5 {
  {
-  <i>Beständiges Brandopfer</i> siehe <a class='kom' href='#I2mo-29-38'>2.&nbsp;Mo&nbsp;29,38</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer, vgl §neh-10-34
  }
 #}
 #esr-3-6 {
@@ -32354,8 +32388,7 @@
 #}
 #neh-10-34 {
  {
-  TODO: 'tägliche Brandopfer' wäre wohl besser übersetzt mit 'beständige Brandopfer'.
-  Siehe dann auch <a class='kom' href='#I2mo-29-38'>2.&nbsp;Mo&nbsp;29,38</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer, vgl §esr-3-5
  }
 #}
 #neh-10-38 {
@@ -34451,8 +34484,7 @@
 #}
 #ps-50-8 {
  {
-  TODO: mäglicherweise besser übersetzt mit 'Brandopfer beständig vor mir'. Siehe dann
-  auch <a class='kom' href='#I2mo-29-38'>2.&nbsp;Mo&nbsp;29,38</a>
+  <i>deine Brandopfer sind beständig vor mir</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer
  }
 #}
 #ps-50-14 {
@@ -38129,6 +38161,9 @@
 @Hohelied 1 {
 #hl-1-3 {
  {
+  <i>Lieblich an Geruch sind deine Salben … </i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich, §joh-12-3
+ }
+ {
   TODO: <i>Salböl</i> ist im Hebr «nur» <span class='he'>שֶׁמֶן</span> (Strongs 8081).
   <br>
   Kombination <i>Name</i> und <i>(Salb-)öl</i>: vgl §pred-7-1.
@@ -41458,6 +41493,9 @@
 #}
 #jer-7-18 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer#trankopfer-anderen-goettern
+ }
+ {
          <i>Himmelskönigin</i>: <a href='http://bibel.renenyffenegger.ch/jer_44.html#v17'>Jer 44,17-25</a>.
          Beachte, dass die Männer wussten, dass ihre Frauen der Himmelskönigin räucherten (<a href='http://bibel.renenyffenegger.ch/jer_44.html#v15'>Jer&nbsp;44,15</a>).
          Trotz Gerichtsandrohung (?) wollen die Männer und Frauen bezüglich der Himmelskönigin nicht auf Jeremia hören (<a href='http://bibel.renenyffenegger.ch/jer_44.html#v16'>Jer&nbsp;44,16</a>).
@@ -41869,6 +41907,11 @@
 #jer-19-7 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
+ }
+#}
+#jer-19-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer#trankopfer-anderen-goettern
  }
 #}
 @}
@@ -42538,6 +42581,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder#zeichen-wunder-auszug-aegypten
  }
 #}
+#jer-32-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer#trankopfer-anderen-goettern
+ }
+#}
 #jer-32-33 {
  {
   <i>indem ich mich früh aufmachte</i>: <a class='kom' href='#Ijer-7-13'>Jer&nbsp;7,13</a>.
@@ -42986,10 +43034,18 @@
  {
   <i>Himmelskönigin</i>: <a class='kom' href='#Ijer-7-18'>Jer&nbsp;7,18</a>.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer#trankopfer-anderen-goettern
+ }
 #}
 #jer-44-18 {
  {
   TODO: Ist das irgendwo in der Bibel beschrieben?
+ }
+#}
+#jer-44-25 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer#trankopfer-anderen-goettern
  }
 #}
 #jer-44-30 {
@@ -44187,6 +44243,11 @@
   TODO: <a class='kom' href='#I3mo-26-33'>3.&nbsp;Mo&nbsp;26,33</a>.
  }
 #}
+#hes-20-28 {
+ {
+  <i>Spendeten dort ihre → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer#trankopfer-anderen-goettern
+ }
+#}
 #hes-20-40 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/heilig
@@ -44938,6 +44999,9 @@
 @}
 @Hesekiel 46 {
 #hes-46-13 {
+ {
+  Vgl mit der Verordnung über das → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer[beständige Brandopfer] von §2mo-29-38.
+ }
  {
   TODO: <i>Beständiges Brandopfer</i> siehe <a class='kom' href='#I2mo-29-38'>2.&nbsp;Mo&nbsp;29,38</a>, vgl Unterschiede. Zb:
   Hier nur <i>ein</i> (statt zwei) Lämmer, ein sechstel (statt ?) Feinmehl, ein Drittel (statt ?) Ö. Das Trankopfer
@@ -51459,10 +51523,7 @@
 #}
 #mt-26-51 {
  {
-   Malchus wird das rechte Ohr abgehauen. Vgl <a href='http://bibel.renenyffenegger.ch/mk_14.html#v47'>Mk&nbsp;14,47</a>,
-   <a href='http://bibel.renenyffenegger.ch/lk_22.html#v50'>Lk&nbsp;22,50</a>,
-   <a href='http://bibel.renenyffenegger.ch/joh_18.html#v10'>Joh&nbsp;18,10</a>.
-   <br>TODO Vgl auch mit <a class='kom' href='#I2mo-29-20'>2.&nbsp;Mo&nbsp;29,20</a>.
+   Malchus wird das rechte Ohr abgehauen. Vgl §mk-14-47, §lk-22-50, §joh-18-10, §+2mo-29-20.
  }
 #}
 #mt-26-59 {
@@ -52945,7 +53006,7 @@
 #}
 #mk-14-47 {
  {
-  TODO: <i>Malchus</i>: <a class='kom' href='#Imt-26-51'>Mt&nbsp;26,51</a>.
+  <i>Abgehauenes Ohrläppchen</i>: §+mt-26-51, §2mo-29-20
  }
 #}
 #mk-14-58 {
@@ -55081,7 +55142,7 @@
 #}
 #lk-22-50 {
  {
-  TODO: <i>Malchus</i>: <a class='kom' href='#Imt-26-51'>Mt&nbsp;26,51</a>.
+  <i>Abgehauenes Ohrläppchen</i>: §+mt-26-51, §2mo-29-20
  }
 #}
 #lk-22-61 {
@@ -56669,6 +56730,9 @@
 #}
 #joh-12-3 {
  {
+  <i>Das Haus wurde vom Geruch der Salbe erfüllt</i> vgl §hl-1-3 
+ }
+ {
   TODO: <i>Chronologie</i> der Salbung, siehe <a class='kom' href='#Ijoh-11-2'>Joh&nbsp;11,2</a>, vgl auch <a class='kom' href='#Imt-26-6'>Mt&nbsp;26,6</a>.
  }
 #}
@@ -57218,7 +57282,7 @@
 #}
 #joh-18-10 {
  {
-  TODO: <i>Malchus</i>: <a class='kom' href='#Imt-26-51'>Mt&nbsp;26,51</a>.
+  <i>Abgehauenes Ohrläppchen</i>: §+mt-26-51, §2mo-29-20
  }
 #}
 #joh-18-11 {
@@ -73377,6 +73441,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   TODO <i>Levitisches Priestertum</i> <a class='kom' href='#I2mo-20-1'>2.&nbsp;Mo&nbsp;20,1</a>.
+ }
+#}
+#hebr-7-12 {
+ {
+  Vgl §+2mo-29-9 (Das Priestertum ist → biblisches/Personen/Aaron/Söhne[Aaron und seinen Söhnen] eine ewige Satzung.
  }
 #}
 #hebr-7-15 {
