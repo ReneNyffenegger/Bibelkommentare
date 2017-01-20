@@ -9079,9 +9079,9 @@
 #}
 #2mo-20-24 {
  {
-  <i>Brandopfer</i>: <a class='kom' href='#I1mo-8-20'>1.&nbsp;Mo&nbsp;8,20</a>.
-  <br>Hier erste Erwähnung des <i>Friedensopfer</i> (<span class='hebr'>שֶׁלֶם</span>, Strongs 8002), vgl <a class='kom' href='#I2mo-24-5'>2.&nbsp;Mo&nbsp;24,5</a>.
-    Vgl <a class='kom' href='#I3mo-3-1'>3.&nbsp;Mo&nbsp;3,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer §+1mo-8-20.
+  <br>Hier erste Erwähnung des → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer (<span class='hebr'>שֶׁלֶם</span>, Strongs 8002), vgl §+2mo-24-5.
+    Vgl §+3mo-3-1.
  }
  {
   TODO: Erst das Gesetz, dann der Altar.
@@ -9695,6 +9695,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
  }
+ {
+   Gewürze zum → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk: vgl §2mo-30-34-38
+ }
 #}
 #2mo-25-7 {
  {
@@ -10014,7 +10017,8 @@
 @2. Mose 27 {
 #2mo-27-1 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#brandopferaltar[Brandopferaltar]
+   vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucheraltar] ab §2mo-30-1
  }
  {
   TODO: Ist dieser Altar der <i>eherne Altar</i> aus <a href='http://bibel.renenyffenegger.ch/2mo_39.html#v39'>2.&nbsp;Mo&nbsp;39,39</a>?
@@ -10505,10 +10509,15 @@
 @2. Mose 30 {
 #2mo-30-1 {
  {
-  TODO: Hat Zacharias diesen Räucherdienst (Verse 1-10) verrichtet (<a href='http://bibel.renenyffenegger.ch/lk_1.html#v9'>Lk&nbsp;1,9</a>)?
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
  }
  {
-   Vgl mit <i>Altar aus Erde</i> <a class='kom' href='#I2mo-20-24'>2.&nbsp;Mo&nbsp;20,24</a> und <i>Altar aus Akazienholz</i> <a class='kom' href='#I2mo-27-1'>2.&nbsp;Mo&nbsp;27,1</a>.
+   vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucheraltar] vgl mit 
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#brandopferaltar[Brandopferaltar] ab §2mo-27-1 und
+    <i>Altar aus Erde</i> §+2mo-20-24.
+ }
+ {
+  <i>Räuchern des Räucherwerkes</i>: Zacharias in §lk-1-9, §V2mo-30-7
  }
 #}
 #2mo-30-4 {
@@ -10523,6 +10532,9 @@
 #}
 #2mo-30-7 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, Morgen für Morgen … §2chr-13-11
+ }
+ {
   TODO: Ussija hat auf dem Räucheraltar geräuchert, was er nicht durfte (<a href='http://bibel.renenyffenegger.ch/2chr_26.html#v16'>2.&nbsp;Chr&nbsp;26,16</a>).
   Da brach an ihm der Aussatz aus.
  }
@@ -10536,6 +10548,11 @@
 #2mo-30-8 {
  {
   <i>Zur Abendzeit</i> siehe <a class='kom' href='#I2mo-12-6'>2.&nbsp;Mo&nbsp;12,6</a>.
+ }
+#}
+#2mo-30-9 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer
  }
 #}
 #2mo-30-10 {
@@ -10555,12 +10572,7 @@
 #}
 #2mo-30-13 {
  {
-  1 Schekel = 20 Gera, siehe auch
-    <a href='http://bibel.renenyffenegger.ch/3mo_27.html#v25'>3.&nbsp;Mo&nbsp;27,25</a>,
-    <a href='http://bibel.renenyffenegger.ch/4mo_3.html#v47'>4.&nbsp;Mo&nbsp;3,47</a>,
-    <a href='http://bibel.renenyffenegger.ch/4mo_18.html#v16'>4.&nbsp;Mo&nbsp;18,16</a> und
-    <a href='http://bibel.renenyffenegger.ch/hes_45.html#v12'>Hes&nbsp;45,12</a>.
-  <br>Gera kommt nur in diesen Stellen vor.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten/index#schekel
  }
 #}
 #2mo-30-14 {
@@ -10615,12 +10627,20 @@
   <i>Hin</i> siehe <a class='kom' href='#I2mo-29-40'>2.&nbsp;Mo&nbsp;29,40</a>.
  }
 #}
+#2mo-30-27 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucheraltar]
+ }
+#}
 #2mo-30-33 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
  }
 #}
 #2mo-30-34 {
+ {
+  Gewürze fürs → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk §2mo-25-6
+ }
  {
   <i>Weihrauch</i>: <span class='hebr'>לְבוֹנָה</span> (Storngs 3828). Stammt offenbar von <span class='hebr'>לָבָן</span> (Strongs 3836) ab.
   Wird benötigt für <ul>
@@ -11283,6 +11303,11 @@
   TODO: findet man irgendwo im Gesetz (oder sonstwo) eine Angabe darüber, was der HERR geboten hat, oder wieviele Brote es waren?
  }
 #}
+#2mo-40-27 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
+ }
+#}
 #2mo-40-31 {
  {
   §2mo-30-19, §V2mo-40-12
@@ -11813,6 +11838,9 @@
 @}
 @3. Mose 10 {
 #3mo-10-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
+ }
  {
   → biblisches/Personen/Nadab-und-Abihu gingen mit Mose auf den Berg (<a href='http://bibel.renenyffenegger.ch/2mo_24.html#v1'>2.&nbsp;Mo&nbsp;24,1</a>).
  }
@@ -13065,7 +13093,7 @@
 #}
 #3mo-27-6 {
  {
-  <i>5 Schekel</i> pro Person: siehe <a class='kom' href='#I4mo-3-47'>4.&nbsp;Mo&nbsp;3,47</a> und <a href='http://bibel.renenyffenegger.ch/4mo_18.html#v16'>4.&nbsp;Mo&nbsp;18,16</a>.
+  <i>5 Schekel</i> pro Person: siehe §+4mo-3-47 und §4mo-18-16.
  }
 #}
 #3mo-27-16 {
@@ -13083,7 +13111,7 @@
 #}
 #3mo-27-25 {
  {
-  1 Schekel = 20 Gera, siehe <a class='kom' href='#I2mo-30-13'>2.&nbsp;Mo&nbsp;30,13</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten/index#schekel
  }
 #}
 #3mo-27-28 {
@@ -13397,13 +13425,10 @@
 #}
 #4mo-3-47 {
  {
-  1 Schekel = 20 Gera, siehe <a class='kom' href='#I2mo-30-13'>2.&nbsp;Mo&nbsp;30,13</a>.
- }
- {
-  TODO: Hier (und in <a href='http://bibel.renenyffenegger.ch/4mo_18.html#v16'>4.&nbsp;Mo&nbsp;18,16</a>)
-  5 Schekel pro Kopf, in <a href='http://bibel.renenyffenegger.ch/2mo_30.html#v15'>2.&nbsp;Mo&nbsp;30,15</a> ein halber Schekel pro Kopf.
-  <br>In <a href='http://bibel.renenyffenegger.ch/3mo_27.html#v6'>3.&nbsp;Mo&nbsp;27,6</a> sind <i>5 Schekel</i> die Schätzung (?) für männliche zwischen
-  einem Monat und fünf Jahren.
+  Hier (und in §4mo-18-16) werden 5 → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten/index#schekel pro Kopf erwähnt,
+  in §2mo-30-15 ein halber.
+ <br>
+  In §3mo-27-6 sind 5 Schekel die Schätzung für männliche zwischen einem Monat und fünf Jahren.
  }
 #}
 #4mo-3-51 {
@@ -13611,6 +13636,11 @@
 #4mo-7-12 {
  {
   TODO: was wird geopfert?
+ }
+#}
+#4mo-7-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
  }
 #}
 #4mo-7-85 {
@@ -14465,7 +14495,7 @@
 #}
 #4mo-18-16 {
  {
-  1 Schekel = 20 Gera, siehe <a class='kom' href='#I2mo-30-13'>2.&nbsp;Mo&nbsp;30,13</a>.
+   5 → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten/index#schekel: §+3mo-27-2, §+4mo-3-47
  }
  {
   <i>Fünf Schekel</i> siehe <a class='kom' href='#I3mo-27-2'>3.&nbsp;Mo&nbsp;27,2</a>.
@@ -21787,6 +21817,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Mann-Gottes
+ }
+#}
+#1sam-2-28 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
  }
 #}
 #1sam-2-35 {
@@ -29493,6 +29528,9 @@
 #}
 #2chr-2-4 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
+ }
+ {
    Vgl <a class='kom' href='#I1koe-3-2'>1.&nbsp;Kö&nbsp;3,2</a>.
  }
 #}
@@ -29952,6 +29990,9 @@
  }
 #}
 #2chr-13-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, Morgen für Morgen … §2mo-30-7-8
+ }
  {
   <i>Reiner Tisch</i>: <a class='kom' href='#I3mo-24-6'>3.&nbsp;Mo&nbsp;24,6</a>.
  }
@@ -34776,6 +34817,13 @@
  }
 #}
 @}
+@Psalm 66 {
+#ps-66-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
+ }
+#}
+@}
 @Psalm 67 {
 #ps-67-5 {
  {
@@ -36460,6 +36508,11 @@
 }
 { 141-150
 @Psalm 141 {
+#ps-141-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
+ }
+#}
 #ps-141-5 {
  {
    TODO: Menge schreibt, dass seine Übersetzung der Verse 5-7 unsicher ist und der hebräische Text verderbt sei.
@@ -37889,6 +37942,11 @@
 #}
 @}
 @Sprüche 27 {
+#spr-27-9 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, als Gebet vgl §offb-5-8, §offb-8-3-ff
+ }
+#}
 #spr-27-11 {
  {
   TODO: vgl <a class='kom' href='#Ispr-10-1'>Spr&nbsp;10,1</a>, <a class='kom' href='#Ispr-23-15'>Spr&nbsp;23,15</a>.
@@ -38416,6 +38474,11 @@
 #jes-1-10 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/offb_11.html#v8'>Offb&nbsp;11,8</a>.
+ }
+#}
+#jes-1-13 {
+ {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk ein Gräuel</i> vgl §jer-44-21-23
  }
 #}
 #jes-1-21 {
@@ -43055,6 +43118,11 @@
   TODO: Ist das irgendwo in der Bibel beschrieben?
  }
 #}
+#jer-44-22 {
+ {
+  Der HERR konnte das → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk[Räuchern] nicht mehr ertragen, vgl §jes-1-13
+ }
+#}
 #jer-44-25 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer#trankopfer-anderen-goettern
@@ -44136,6 +44204,11 @@
    Vgl <a class='kom' href='#Ijes-1-21'>Jes&nbsp;1,21</a>.
  }
 #}
+#hes-16-18 {
+ {
+  <i>mein Öl und mein → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk</i> §hes-23-41
+ }
+#}
 #hes-16-22 {
  {
   <i>Den Tagen seiner Jugend gedenken</i>: vgl <a class='kom' href='#Ihes-16-22'>Hes&nbsp;16,22</a> vgl <a href='http://bibel.renenyffenegger.ch/hes_16.html#v22'>Hes&nbsp;16,22</a>,
@@ -44327,6 +44400,11 @@
 #hes-23-34 {
  {
    → biblisches/Bücher/prophetisch/Hesekiel#ich-der-herr-habe-geredet-hes
+ }
+#}
+#hes-23-41 {
+ {
+  <i>mein → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk und mein Öl</i> §hes-16-18
  }
 #}
 @}
@@ -45272,6 +45350,11 @@
  {
    Beachte, bei den Füssen wird nicht von einem 'fünften Reich' gesprochen, obwohl sie sich
    von den Oberschenkeln unterscheiden (jene sind stark und aus Eisen [Vers 40], diese sind zerbrechlich).
+ }
+#}
+#dan-2-46 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
  }
 #}
 #dan-2-47 {
@@ -77785,7 +77868,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-5-8 {
  {
-  Vgl <a class='kom' href='#I2chr-30-27'>2.&nbsp;Chr&nbsp;30,27</a>.
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, als Gebet vgl §spr-27-9
+ }
+ {
+  Vgl §+2chr-30-27.
  }
 #}
 #offb-5-9 {
@@ -78148,6 +78234,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-8-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, vgl §+offb-5-8
+ }
  {
   TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/3mo_16.html#v13'>3.&nbsp;Mo&nbsp;16,13</a>: die hier beschriebene Situation ist ähnlich wie jene
   des Versöhnungstages.
@@ -79781,6 +79870,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Gold, Edelsteine und Perlen</i>: <a class='kom' href='#Ioffb-17-4'>Offb&nbsp;17,4</a>.
+ }
+#}
+#offb-18-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
  }
 #}
 #offb-18-14 {
