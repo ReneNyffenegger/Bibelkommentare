@@ -2328,6 +2328,9 @@
 #}
 #1mo-12-7 {
  {
+  → biblisches/Personen/Abraham/Same
+ }
+ {
   Der HERR will Abrahams Samen dieses Land geben.
   <br>In Bethel: Abraham und seinem Samen soll das ganze Land auf ewig gegeben werden, dass er dort sieht (<a href='http://bibel.renenyffenegger.ch/1mo_13.html#v14'>1.&nbsp;Mo&nbsp;13,14-15</a>)
   <br>Der HERR führte Abram von Ur in Chaldäa, um ihm 'dieses' Land zum Erbesitz zu geben
@@ -2527,7 +2530,7 @@
 #}
 #1mo-13-15 {
  {
-  Gott will Abram und seinem Samen das ganze Land <i>auf ewig</i> geben. Einen <i>ewigen</i> Bund will Gott mit Abraham in
+  Gott will Abram und → biblisches/Personen/Abraham/Same[seinem Samen] das ganze Land <i>auf ewig</i> geben. Einen <i>ewigen</i> Bund will Gott mit Abraham in
   <a href='http://bibel.renenyffenegger.ch/1mo_17.html#v7'>1.&nbsp;Mo&nbsp;17,7</a> aufrichten. In <a href='http://bibel.renenyffenegger.ch/1mo_21.html#v33'>1.&nbsp;Mo&nbsp;21,33</a> wird
   Abraham den 'ewigen Gott' anrufen.
  }
@@ -3552,7 +3555,10 @@
 #}
 #1mo-21-12 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1mo_16.html#v2'>1.&nbsp;Mo&nbsp;16,2</a>, wo Abram wohl besser nicht auf Sarai gehört hätte.
+  <i>In → biblisches/Personen/Isaak soll dir ein Same genannt werden</i> §roem-9-7, §hebr-11-18
+ }
+ {
+  Vgl §1mo-16-2, wo Abram wohl besser nicht auf Sarai gehört hätte.
  }
 #}
 #1mo-21-17 {
@@ -3739,6 +3745,9 @@
  }
 #}
 #1mo-22-17 {
+ {
+  → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
+ }
  {
   Segen: <a class='kom' href='#I1mo-12-3'>1.&nbsp;Mo&nbsp;12,3</a>.
   <br>Vgl <a href='http://bibel.renenyffenegger.ch/hebr_6.html#v14'>Hebr&nbsp;6,14</a>.
@@ -4214,9 +4223,14 @@
   TODO: <i>Segen</i>: <a class='kom' href='#I1mo-17-6'>1.&nbsp;Mo&nbsp;17,6</a>.
  }
 #}
+#1mo-26-4 {
+ {
+  → biblisches/Personen/Abraham/Same
+ }
+#}
 #1mo-26-5 {
  {
-  Frage: wann war Abraham gehorsam?
+  <i>Darum dass → biblisches/Personen/Abraham meiner Stimme gehorcht hat</i> §1mo-22-16-17
  }
  {
   <i>Gesetze</i> erstes Vorkommen von :<span class='hebr'><span class='grey'>וְ</span>תוֹרֹתָֽ<span class='grey'>י</span></span> (Strongs 8451).
@@ -7275,15 +7289,13 @@
 @2. Mose 6 {
 #2mo-6-3 {
  {
-  Name «Herr»: <a class='kom' href='#I1mo-15-7'>1.&nbsp;Mo&nbsp;15,7</a>, <a class='kom' href='#I1mo-17-1'>1.&nbsp;Mo&nbsp;17,1</a>.
-  <br><i>Der Allmächtigen</i>: <a href='http://bibel.renenyffenegger.ch/1mo_17.html#v1'>1.&nbsp;Mo&nbsp;17,1</a>, <a href='http://bibel.renenyffenegger.ch/1mo_28.html#v3'>1.&nbsp;Mo&nbsp;28,3</a>,
-  <a href='http://bibel.renenyffenegger.ch/mo_35.html#v11'>Mo&nbsp;35,11</a>
+ <i>mit meinem Namen Jehova (<span class='hebr'>יְהוָֽה</span>) habe ich mich ihnen nicht kundgegeben</i>: in §1mo-12-8 rief → biblisches/Personen/Abraham den Namen des HERRN an, in §+1mo-15-7 sagt der HERR zu Abraham »Ich bin der HERR, der dich … «.
+ }
+ {
+  <i>Gott der Allmächtige</i>: §+1mo-17-1, §1mo-28-3, §1mo-35-11
  }
  {
   TODO: <i>erschienen</i> eigentlich das <i>Niphal Imperfekt</i> von <span class='hebr'>רָאָה</span> (Strongs 7200, 'sehen'), also eigentlich: 'wurde gesehen'.
- }
- {
-  <span class='hebr'>יְהוָֽה</span>: siehe <a class='kom' href='#I1mo-17-1'>1.&nbsp;Mo&nbsp;17,1</a> und <a class='kom' href='#I1mo-12-7'>1.&nbsp;Mo&nbsp;12,7</a>.
  }
 #}
 #2mo-6-4 {
@@ -7617,6 +7629,9 @@
   Dieser Vers und <a href='http://bibel.renenyffenegger.ch/2mo_33.html#v19'>2.&nbsp;Mo&nbsp;33,19</a> werden in
   <a href='http://bibel.renenyffenegger.ch/roem_9.html#v15'>Röm&nbsp;9,15</a> und in <a href='http://bibel.renenyffenegger.ch/roem_9.html#v17'>Röm&nbsp;9,17</a>
   zitiert.
+ }
+ {
+  <i>damit man meinen Namen verkündige auf der ganzen Erde</i> vgl §neh-9-10
  }
 #}
 #2mo-9-18 {
@@ -8188,6 +8203,9 @@
 #}
 #2mo-13-21 {
  {
+  Vgl §neh-9-12
+ }
+ {
   Wolke bei Tag, Feuer bei Nacht: §jes-4-5
  }
 #}
@@ -8270,7 +8288,7 @@
   Israel ging auch auf 'trockenem Boden' durch den Jordan <a href='http://bibel.renenyffenegger.ch/jos_4.html#v22'>Jos&nbsp;4,22</a>.
   Elia ging auch durch den trockenen Jordan (<a href='http://bibel.renenyffenegger.ch/2koe_2.html#v7'>2.&nbsp;Kö&nbsp;2,7-8</a>).
   <br>Bei Elisas Rückkehr steht nicht explizit, dass es trocken gewesen wäre (Vers 14).
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/neh_9.html#v11'>Neh&nbsp;9,11</a>
+  <br>Vgl auch §neh-9-11
  }
 #}
 #2mo-14-30 {
@@ -8453,7 +8471,7 @@
   <i>Gesetz des HERRN</i>: <a class='kom' href='#I1mo-26-5'>1.&nbsp;Mo&nbsp;26,5</a>.
  }
  {
-  <i>Brot vom Himmel</i>: <a href='http://bibel.renenyffenegger.ch/joh_6.html#v31'>Joh&nbsp;6,31</a>, <a class='kom' href='#Ineh-9-15'>Neh&nbsp;9,15</a>.
+  <i>Brot vom Himmel</i>: → biblisches/Exodus/Nahrung
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/versuchen
@@ -8636,6 +8654,9 @@
  }
 #}
 #2mo-17-6 {
+ {
+  → biblisches/Exodus/Nahrung#exodus-wasser
+ }
  {
   TODO: Hier sind sie am <i>Felsen am Horeb</i> in <i>Rephidim</i>. In <a href='http://bibel.renenyffenegger.ch/2mo_19.html#v2'>2.&nbsp;Mo&nbsp;19,2</a> ziehen
   sie von <i>Rephidim</i> in die <i>Wüste Sinai</i>. In dieser Wüste Sinai scheint der <i>Berg Horeb</i> zu sein (<a href='http://bibel.renenyffenegger.ch/2mo_33.html#v6'>2.&nbsp;Mo&nbsp;33,6</a>).
@@ -9403,6 +9424,9 @@
  }
 #}
 #2mo-23-13 {
+ {
+  → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
+ }
  {
   §2mo-20-3
  }
@@ -10954,6 +10978,9 @@
  }
 #}
 #2mo-34-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte, vgl §4mo-14-18-19
+ }
  {
   Der HERR ging auf dem Horeb auch bei Elia vorüber (<a href='http://bibel.renenyffenegger.ch/1koe_19.html#v11'>1.&nbsp;Kö&nbsp;19,11</a>).
  }
@@ -13868,6 +13895,11 @@
   <i>70 Männer aus den Ältesten Israels</i> §2mo-24-1. Vgl «Männern der Wahrheit» §+2mo-18-21.
  }
 #}
+#4mo-11-17 {
+ {
+   Vgl §neh-9-20
+ }
+#}
 #4mo-11-20 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
@@ -14191,16 +14223,15 @@
 #}
 #4mo-14-18 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte, vgl §2mo-34-6-7
+ }
+ {
   <i>am dritten und am vierten Glied</i>: §+2mo-20-5.
  }
 #}
 #4mo-14-21 {
  {
-  <i>Erde von der Herrlichkeit des HERRN erfüllt</i> vgl
-  <a href='http://bibel.renenyffenegger.ch/ps_72.html#v19'>Ps&nbsp;72,19</a>,
-  <a href='http://bibel.renenyffenegger.ch/jes_6.html#v3'>Jes&nbsp;6,3</a>,
-  <a href='http://bibel.renenyffenegger.ch/jes_11.html#v9'>Jes&nbsp;11,9</a>,
-  <a href='http://bibel.renenyffenegger.ch/hab_2.html#v14'>Hab&nbsp;2,14</a>
+  <i>Erde von der Herrlichkeit des HERRN erfüllt</i> vgl §ps-72-19, §jes-6-3, §+offb-18-1, §jes-11-9, §hab-2-14
  }
 #}
 #4mo-14-22 {
@@ -14366,6 +14397,11 @@
 #4mo-16-21 {
  {
   <i>Sondert euch ab aus der Mitte dieser Gemeinde</i> vgl §4mo-17-10
+ }
+#}
+#4mo-16-22 {
+ {
+  <i>Gott der Geister alles Fleisches</i> §4mo-27-16
  }
 #}
 #4mo-16-26 {
@@ -15323,6 +15359,11 @@
   TODO: <a class='kom' href='#Ips-81-8'>Ps&nbsp;81,8</a>.
  }
 #}
+#4mo-27-16 {
+ {
+  <i>Gott der Geister alles Fleisches</i> §4mo-16-22
+ }
+#}
 #4mo-27-18 {
  {
    Durch die Handauflegung wird → biblisches/Personen/Josua/Nun mit dem Geist der Wahrheit erfüllt §5mo-34-9, Vgl §1tim-5-22
@@ -16061,6 +16102,11 @@
 #5mo-1-9 {
  {
   <i>Ich allein kann euch nicht tragen</i>: <a class='kom' href='#I4mo-11-14'>4.&nbsp;Mo&nbsp;11,14</a>
+ }
+#}
+#5mo-1-10 {
+ {
+  → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
  }
 #}
 #5mo-1-12 {
@@ -16885,6 +16931,9 @@
 #}
 #5mo-10-16 {
  {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten[Verhärtet euren Nacken] nicht mehr</i> §neh-9-16-17
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
  }
 #}
@@ -16901,6 +16950,9 @@
  }
 #}
 #5mo-10-22 {
+ {
+  → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
+ }
  {
   70 Seelen: <a class='kom' href='#I1mo-46-27'>1.&nbsp;Mo&nbsp;46,27</a>.
  }
@@ -17702,6 +17754,11 @@
   TODO: KJV üersetzt mit 'will make thy plagues wonderful', Elberfelder mit 'aussergewöhnlich'.
  }
 #}
+#5mo-28-62 {
+ {
+  → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
+ }
+#}
 #5mo-28-68 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/zurückkehren[Nach Ägypten zurückkehren]
@@ -17733,6 +17790,11 @@
 #5mo-29-4 {
  {
   §neh-9-21
+ }
+#}
+#5mo-29-5 {
+ {
+  → biblisches/Exodus/Nahrung
  }
 #}
 #5mo-29-10 {
@@ -17856,6 +17918,11 @@
  {
   Vgl das Buch des Gesetzes <i>neben</i> der (Bundes?-)lade  mit dem Zeugnis <i>in</i> der Lade: <a class='kom' href='#I2mo-25-16'>2.&nbsp;Mo&nbsp;25,16</a>.
   Vgl auch mit Vers 5.
+ }
+#}
+#5mo-31-27 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten[harter Nacken] §+5mo-10-16
  }
 #}
 #5mo-31-29 {
@@ -25982,6 +26049,11 @@
   mit 'prüfen' übersetzt wird.
  }
 #}
+#1koe-17-14 {
+ {
+  Hier: <i>Mehl und Öl</i>: §+2koe-4-2 nur Öl
+ }
+#}
 #1koe-17-18 {
  {
   <i>Du → biblisches/Eigene-Uebersetzung/Konkordanz/Mann-Gottes</i>: erst in Vers 24 erkennt sie, dass Elia ein Mann Gottes ist.
@@ -26028,6 +26100,11 @@
 #1koe-19-8 {
  {
   11 Tage sind es vom Horeb auf dem Weg zum Bergland Seir bid Kadesch-Barnea (<a href='http://bibel.renenyffenegger.ch/5mo_1.html#v2'>5.&nbsp;Mo&nbsp;1,2</a>).
+ }
+#}
+#1koe-19-10 {
+ {
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden
  }
 #}
 #1koe-19-11 {
@@ -26343,8 +26420,7 @@
 #}
 #2koe-4-2 {
  {
-  <i>Mehl und Öl</i>: <a class='kom' href='#I2koe-17-14'>2.&nbsp;Kö&nbsp;17,14</a>.
-  <br>Beachte, Mehl kommt in <a href='http://bibel.renenyffenegger.ch/2koe_4.html#v41'>Vers 41</a> vor.
+  <i>Mehl und Öl</i>: §+1koe-17-14 (Mehl in §V2koe-4-41)
  }
 #}
 #2koe-4-7 {
@@ -26997,7 +27073,7 @@
 #}
 #2koe-17-13 {
  {
-    Diese → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[en] wurden offenbar ermordet: §neh-9-26.
+    Diese → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] wurden offenbar → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] §neh-9-26.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten
@@ -27005,7 +27081,7 @@
 #}
 #2koe-17-14 {
  {
-  Hier: <i>Mehl und Öl</i>, in <a class='kom' href='#I2koe-4-2'>2.&nbsp;Kö&nbsp;4,2</a> nur Öl.
+  <i>sie → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten[verhärteten ihren Nacken], gleich dem Nacken ihrer Väter</i> §2chr-30-8
  }
 #}
 #2koe-17-23 {
@@ -29342,6 +29418,11 @@
   TODO: <i>Asser</i> und <i>Gad</i> im folgenden nicht erwähnt.
  }
 #}
+#1chr-27-23 {
+ {
+  → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
+ }
+#}
 #1chr-27-24 {
  {
   <a class='kom' href='#I2sam-24-2'>2.&nbsp;Sam&nbsp;24,2</a>c
@@ -29728,6 +29809,11 @@
 #2chr-7-8 {
  {
   Dieses Fest beginnt in §+2chr-5-3 und fällt auf die Zeit des → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfestes].
+ }
+#}
+#2chr-7-14 {
+ {
+  <i>Vom Himmel her hören</i> §neh-9-27
  }
 #}
 @}
@@ -30702,6 +30788,11 @@
   TODO: <a class='kom' href='#I2koe-17-6'>2.&nbsp;Kö&nbsp;17,6</a>.
  }
 #}
+#2chr-30-8 {
+ {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten[Nun verhärtet euren Nacken nicht], wie eure Väter</i> §2koe-17-14
+ }
+#}
 #2chr-30-10 {
  {
    Diese Verspottung ist wohl der Grund dafür, dass Salmanasser Samaria im vierten Jahr Hiskias belagerte und im sechsten Jahr einnahm.
@@ -31067,6 +31158,9 @@
  }
 #}
 #2chr-36-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten
+ }
  {
   TODO: <a class='kom' href='#I2koe-24-17'>2.&nbsp;Kö&nbsp;24,17</a>.
  }
@@ -31618,9 +31712,19 @@
 #}
 @}
 @Esra 9 {
+#esr-9-2 {
+ {
+  <i>so hat sich der heilige Same mit den Völkern der Länder vermischt</i> vgl §dan-2-43
+ }
+#}
 #esr-9-8 {
  {
   TODO: <i>Pflock</i>: <a href='http://bibel.renenyffenegger.ch/jes_22.html#v23'>Jes&nbsp;22,23</a>.
+ }
+#}
+#esr-9-9 {
+ {
+  <i>Denn Knechte sind wir</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-gottes-knecht, vgl §neh-9-36
  }
 #}
 #esr-9-10 {
@@ -32355,13 +32459,21 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder
  }
+ {
+  <i>du hast dir einen Namen gemacht</i> §2mo-9-16, vgl mit Gebet von → biblisches/Personen/Daniel in §dan-9-15.
+ }
 #}
 #neh-9-11 {
  {
-  <a class='kom' href='#I2mo-14-29'>2.&nbsp;Mo&nbsp;14,29</a>.
+  <i>sie zogen mitten durch das Meer auf dem Trockenen</i> §+2mo-14-29.
  }
  {
-  <i>in die Tiefen gestürzt wie einen Stein</i>: vgl <a href='http://bibel.renenyffenegger.ch/2mo_15.html#v5'>2.&nbsp;Mo&nbsp;15,5</a>.
+  <i>in die Tiefen gestürzt wie einen Stein</i> §2mo-15-5.
+ }
+#}
+#neh-9-12 {
+ {
+  §2mo-13-21-22, §Vneh-9-19
  }
 #}
 #neh-9-13 {
@@ -32369,7 +32481,7 @@
   Vgl §+2mo-20-1 (betreffend der Frage, ob das Gesetz von Engeln oder von Gott selbst verkündigt wurde).
  }
  {
-  <i>hast vom Himmel her geredet</i> vgl §+2mo-20-22, §5mo-4-36
+  <i>hast vom Himmel her geredet</i> vgl §+2mo-20-22, §5mo-4-36, §Vneh-9-27 (»vom Himmel her hören«)
  }
 #}
 #neh-9-14 {
@@ -32379,12 +32491,20 @@
 #}
 #neh-9-15 {
  {
-  <i>Brot vom Himmel</i>: <a class='kom' href='#I2mo-16-4'>2.&nbsp;Mo&nbsp;16,4</a>.
+  <i>Brot vom Himmel</i>: → biblisches/Exodus/Nahrung
+ }
+#}
+#neh-9-16 {
+ {
+  <i>sie → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten[verhärteten ihren Nacken]</i> §5mo-10-16, §5mo-31-27, §Vneh-9-29
  }
 #}
 #neh-9-17 {
  {
-  <i>… setzten sich in ihrer Widerspenstigkeit ein Haupt, um zu ihrer Knechtschaft zurückzukehren.</i> Vgl §4mo-14-4
+  <i>… setzten sich in ihrer Widerspenstigkeit ein Haupt, um zu ihrer Knechtschaft zurückzukehren.</i> vgl §4mo-14-4
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte vgl §4mo-14-18-20
  }
 #}
 #neh-9-18 {
@@ -32392,7 +32512,15 @@
   <i>Gegossenes Kalb</i> §2mo-32-4-ff
  }
 #}
+#neh-9-19 {
+ {
+  <i>Wolkensäule und Feuersäule</i> §Vneh-9-12
+ }
+#}
 #neh-9-20 {
+ {
+  <i>Und du gabst ihnen deinen guten Geist</i> vgl §4mo-11-17-ff
+ }
  {
   Gibt es einen Grund, warum das Man hier <i>Manna</i> genannt wird? Vgl <a href='http://bibel.renenyffenegger.ch/ps_78.html#v24'>Ps&nbsp;78,24</a>.
  }
@@ -32402,9 +32530,25 @@
   §5mo-29-4
  }
 #}
+#neh-9-23 {
+ {
+  → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
+ }
+#}
 #neh-9-26 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die wider sie zeugten: §2koe-17-13
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die wider sie zeugten (§2koe-17-13)
+   und → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] wurden.
+ }
+#}
+#neh-9-27 {
+ {
+  <i>Vom Himmel her hören</i> §2chr-7-14 vgl §Vneh-9-13 (»vom Himmel her reden«)
+ }
+#}
+#neh-9-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten §Vneh-9-16
  }
 #}
 #neh-9-30 {
@@ -32414,15 +32558,15 @@
 #}
 #neh-9-32 {
  {
-  <i>gross, stark und furchtbar</i>: vgk §neh-1-5 und §neh-4-8.
+  <i>gross, stark und furchtbar</i>: vgl §neh-1-5 und §neh-4-8.
  }
  {
-  Frage: Beginnt diese <i>Zeit der Köîige von Assyrien</i> mit Pul <a class='kom' href='#I2koe-15-19'>2.&nbsp;Kö&nbsp;15,19</a>?
+  Frage: Beginnt diese <i>Zeit der Könige von Assyrien</i> mit Pul <a class='kom' href='#I2koe-15-19'>2.&nbsp;Kö&nbsp;15,19</a>?
  }
 #}
 #neh-9-36 {
  {
-  <i>Wir sind Knechte</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-gottes-knecht, §esr-5-11
+  <i>Wir sind Knechte</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-gottes-knecht, §esr-5-11, §esr-9-9
  }
 #}
 @}
@@ -35272,6 +35416,11 @@
   Vgl mit <a class='kom' href='#Ips-78-70'>Ps 78,70-72</a>.
  }
 #}
+#ps-80-5 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/80/index#ps-80-gott-der-heerscharen in → biblisches/Bücher/Ketuvim/Psalmen/80/index
+ }
+#}
 #ps-80-14 {
  {
    Das Ayin in <span class='hebr'>מִיָּ֑עַר</span> (Strongs 3293) ist der <i>mittlere Buchstabe der Psalmen</i> und hochgestellt (Vgl <a class='kom' href='#I3mo-11-42'>3.&nbsp;Mo&nbsp;11,42</a>), siehe auch
@@ -35402,6 +35551,11 @@
 #ps-86-11 {
  {
   <i>Lehre mich, HERR, deinen Weg</i>: §ps-27-11
+ }
+#}
+#ps-86-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte
  }
 #}
 @}
@@ -35812,6 +35966,11 @@
 #}
 @}
 @Psalm 103 {
+#ps-103-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte
+ }
+#}
 #ps-103-11 {
  {
    TODO: Elberfelder übersetzt mit 'gewaltig' statt <i>gross</i>. Eine andere Übersetzung verwendet offenbar
@@ -35943,6 +36102,11 @@
 #ps-105-34 {
  {
   <span class='u'>http://linguascriptura.org/forum_de/viewtopic.php?f=15&amp;t=41</span>
+ }
+#}
+#ps-105-41 {
+ {
+  → biblisches/Exodus/Nahrung#exodus-wasser
  }
 #}
 @}
@@ -36176,7 +36340,10 @@
 @Psalm 114 {
 #ps-114-8 {
  {
-  <i>Kieselfels</i>: <a class='kom' href='#I5mo-8-15'>5.&nbsp;Mo&nbsp;8,15</a>.
+  → biblisches/Exodus/Nahrung#exodus-wasser
+ }
+ {
+  <i>Kieselfels</i>: §+5mo-8-15.
  }
 #}
 @}
@@ -36582,6 +36749,11 @@
  {
   Beachte: <i>Sein Name</i> im Zusammenhang mit <i>immer und ewiglich</i> erscheint am Anfang des Psalms (Verse 1 und 2), und auch
   am Schluss (Vers 21).
+ }
+#}
+#ps-145-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte
  }
 #}
 #ps-145-9 {
@@ -38015,6 +38187,11 @@
 #}
 @}
 @Sprüche 29 {
+#spr-29-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten
+ }
+#}
 #spr-29-4 {
  {
   <i>Geschenke</i>: Dasselbe Wort wie für → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer, in Sch2K mit «Abgaben» übersetzt.
@@ -40546,6 +40723,11 @@
 #}
 @}
 @Jesaja 48 {
+#jes-48-4 {
+ {
+  <i>dein Nacken eine eiserne Sehne</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten
+ }
+#}
 #jes-48-9 {
  {
   <i>Um meines Namens willen</i>: <a class='kom' href='#I1sam-12-22'>1.&nbsp;Sam&nbsp;12,22</a>.
@@ -41587,6 +41769,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten
  }
 #}
+#jer-7-26 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten §jer-17-23, §jer-19-15
+ }
+#}
 #jer-7-31 {
  {
   <i>Tophet</i>: <a class='kom' href='#I2koe-23-10'>2.&nbsp;Kö&nbsp;23,10</a>.
@@ -41942,6 +42129,11 @@
   Auf die Erde schreiben: vgl <a href='http://bibel.renenyffenegger.ch/joh_8.html#v6'>Joh&nbsp;8,6</a>.
  }
 #}
+#jer-17-23 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten §jer-7-26, §jer-19-15
+ }
+#}
 @}
 @Jeremia 18 {
 #jer-18-2 {
@@ -41987,6 +42179,11 @@
 #jer-19-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer#trankopfer-anderen-goettern
+ }
+#}
+#jer-19-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten §jer-7-26, §jer-17-23
  }
 #}
 @}
@@ -45352,6 +45549,11 @@
    von den Oberschenkeln unterscheiden (jene sind stark und aus Eisen [Vers 40], diese sind zerbrechlich).
  }
 #}
+#dan-2-43 {
+ {
+  <i>sie werden sich mit dem Samen der Menschen vermischen, aber sie werden nicht aneinander haften</i> vgl §esr-9-2  
+ }
+#}
 #dan-2-46 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
@@ -45886,6 +46088,11 @@
 #dan-9-10 {
  {
   Vgl mit <a class='kom' href='#I2chr-29-25'>2.&nbsp;Chr&nbsp;29,25</a>.
+ }
+#}
+#dan-9-15 {
+ {
+  <i>Du hast dir einen Namen gemacht</i> §2mo-9-16, vgl mit Gebet von → biblisches/Personen/Nehemia in §neh-9-10.
  }
 #}
 #dan-9-16 {
@@ -46711,6 +46918,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
  }
 #}
+#joe-2-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte
+ }
+#}
 #joe-2-16 {
  {
   TODO: <a class='kom' href='#Ips-19-6'>Ps&nbsp;19,6</a>.
@@ -47153,6 +47365,11 @@
   <i>Und es wurde ihm heiss</i>: Elb05 und Sch2K übersetzen mit «und er wurde zorning».
  }
 #}
+#jon-4-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte
+ }
+#}
 @}
 }
 { Micha
@@ -47379,6 +47596,11 @@
  {
   TODO: Beachte, dass ein Nahum auch als Vorfahre des Herrn aufgezählt wird
   (<a href='http://bibel.renenyffenegger.ch/lk_3.html#v25'>Lk&nbsp;3,25</a>).
+ }
+#}
+#nah-1-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte
  }
 #}
 #nah-1-5 {
@@ -51114,6 +51336,11 @@
   S.a. <a class='kom' href='#Ilk-1-5'>Lk&nbsp;1,5</a>.
  }
 #}
+#mt-23-37 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden vg §lk-13-34
+ }
+#}
 #mt-23-39 {
  {
   Vgl <a class='kom' href='#Imt-21-9'>Mt&nbsp;21,9</a>.
@@ -52951,6 +53178,11 @@
    Sa → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/index#zeichen-am-himmel
  }
 #}
+#mk-13-25 {
+ {
+  <i>Die Sterne des Himmels werden herabfallen</i> §+mt-24-29, §+offb-6-13
+ }
+#}
 #mk-13-27 {
  {
    Vgl §+mt-24-31, → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde
@@ -54440,7 +54672,7 @@
 #}
 #lk-11-47 {
  {
-  Vgl <a class='kom' href='#Ilk-13-33'>Lk&nbsp;13,33</a>.
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden, vgl §+lk-13-33
  }
 #}
 #lk-11-49 {
@@ -54623,6 +54855,11 @@
  {
   Vgl <a class='kom' href='#Ioffb-18-24'>Offb&nbsp;18,24</a>.
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/lk_11.html#v47'>Lk 11,47 ff</a>.
+ }
+#}
+#lk-13-34 {
+ {
+ → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden, vgl §mt-23-37
  }
 #}
 @}
@@ -56197,7 +56434,7 @@
 #}
 #joh-6-31 {
  {
-  <i>Brot vom Himmel</i>: <a class='kom' href='#I2mo-16-4'>2.&nbsp;Mo&nbsp;16,4</a>.
+  <i>Brot vom Himmel</i>: → biblisches/Exodus/Nahrung
  }
 #}
 #joh-6-35 {
@@ -63526,6 +63763,11 @@
    TODO: Wer ist denn Israel? Peter, Jakobus, Johannes, die 3000 und die 5000 aus der Apostelgeschichte?
  }
 #}
+#roem-9-7 {
+ {
+  <i>In → biblisches/Personen/Isaak wird dir ein Same genannt werden</i> §1mo-21-12, §hebr-11-18
+ }
+#}
 #roem-9-9 {
  {
   Verheissungswort: <a class='kom' href='#I1mo-18-10'>1.&nbsp;Mo&nbsp;18,10</a>.
@@ -63557,6 +63799,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Denn-die-Schrift-sagt
+ }
+ {
+  §+2mo-9-16
  }
 #}
 #roem-9-20 {
@@ -63731,7 +63976,7 @@
 #}
 #roem-11-3 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden
  }
 #}
 #roem-11-5 {
@@ -65696,7 +65941,7 @@
 #}
 #1kor-10-4 {
  {
-         Siehe auch <a href='http://bibel.renenyffenegger.ch/1kor_6.html#v18'>1.&nbsp;Kor&nbsp;6,18</a>: Flieht die Unzucht.
+  → biblisches/Exodus/Nahrung#exodus-wasser
  }
 #}
 #1kor-10-6 {
@@ -65746,7 +65991,7 @@
 #}
 #1kor-10-14 {
  {
-  <i>Flieht</i>: <a class='kom' href='#I1kor-6-18'>1.&nbsp;Kor&nbsp;6,18</a>.
+  <i>Flieht den Götzendienst</i> vgl §+1kor-6-18.
  }
 #}
 #1kor-10-16 {
@@ -70444,7 +70689,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-2-15 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden
  }
 #}
 #1thes-2-16 {
@@ -74095,6 +74340,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Grundlegung
  }
 #}
+#hebr-11-12 {
+ {
+  → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
+ }
+#}
 #hebr-11-13 {
  {
    <i>Erlangte Verheissungen</i>: diese sind im Glauben gestorben, ohne das Verheissene zu erlangen, aber Gidoen, Barak, Simson,
@@ -74126,6 +74376,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-11-17 {
  {
    Abraham wurde durch Werke gerechtfertigt, als er Isaak auf dem Altar darbrachte (<a href='http://bibel.renenyffenegger.ch/jak_2.html#v21'>Jak&nbsp;2,21</a>)
+ }
+#}
+#hebr-11-18 {
+ {
+  <i>In → biblisches/Personen/Isaak soll dein Same genannt werden</i> §1mo-21-12, §roem-9-7
  }
 #}
 #hebr-11-20 {
@@ -74665,7 +74920,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <a href='http://bibel.renenyffenegger.ch/spr_21.html#v23'>Spr&nbsp;21,23</a>.
  }
  {
-  <i>langsam zum Zorn</i>: §+neh-5-7.
+  <i>langsam zum Zorn</i>: §+neh-5-7, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte
  }
 #}
 #jak-1-22 {
@@ -78035,9 +78290,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-6-13 {
  {
-  <i>Sterne, die fallen</i>: <a class='kom' href='#Ioffb-8-10'>Offb 8,10-11</a>
-  <a class='kom' href='#Ioffb-9-1'>Offb&nbsp;9,1</a>, <a href='http://bibel.renenyffenegger.ch/offb_12.html#v4'>Offb&nbsp;12,4</a>.
-  Vgl <a class='kom' href='#Imt-24-29'>Mt&nbsp;24,29</a>.
+  <i>Die Sterne fielen auf die Erde</i>: §+offb-8-10-11 §+offb-9-1, §offb-12-4.  Vgl §+mt-24-29.
  }
  {
   <i>Feigenbaum</i>: <a class='kom' href='#Ijes-34-4'>Jes&nbsp;34,4</a>.
@@ -79500,7 +79753,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-16-6 {
  {
-  Blut der → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten]: §+offb-6-10, §+offb-18-24
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden: §+offb-6-10, §+offb-18-24
  }
 #}
 #offb-16-7 {
@@ -79796,9 +80049,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Offenbarung 18 {
 #offb-18-1 {
  {
-  Beachte: hier wird die Erde von der Herrlichkeit des Engels erleuchtet, <a href='http://bibel.renenyffenegger.ch/offb_21.html#v23'>Offb&nbsp;21,23</a> erleuchtet
-  die Herrlichkeit Gottes die Stadt. S. a. <a href='http://bibel.renenyffenegger.ch/offb_22.html#v5'>Offb&nbsp;22,5</a>.
-  <br>Vgl auch mit <a class='kom' href='#Ijoh-1-9'>Joh&nbsp;1,9</a>.
+  Beachte: hier wird die Erde von der Herrlichkeit des Engels erleuchtet, §offb-21-23 erleuchtet die Herrlichkeit Gottes die Stadt. S. a. §offb-22-5.
+  <br>Vgl auch mit §+4mo-14-18, §+joh-1-9.
  }
  {
   TODO: <i>Herrlichkeit</i>: <a class='kom' href='#Ioffb-11-13'>Offb&nbsp;11,13</a>.
@@ -79956,7 +80208,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-18-24 {
  {
-  Es geht nicht an, dass ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet ausserhalb von Jerusalem umkommt (§+lk-13-33)
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden:
+  Es geht nicht an, dass ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet ausserhalb von Jerusalem umkommt §+lk-13-33
   <br>Vgl §+offb-6-10, §+offb-16-6
  }
 #}
