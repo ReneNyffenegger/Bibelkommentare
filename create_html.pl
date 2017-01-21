@@ -73,7 +73,7 @@ if ($web) { # {{{
   RN::copy_url_path_abs_2_os_path("/Biblisches/Kommentare/$ftp_file_md5_file", $ftp_file_md5_file);
   print "done\n";
 
-# die unless -e $ftp_file_md5_file;
+  die unless -e $ftp_file_md5_file;
 } # }}}
 else { # {{{
   print "copy $out_dir/$ftp_file_md5_file to $ftp_file_md5_file (working dir = " . cwd() . "\n";
@@ -514,7 +514,8 @@ write_html_footer('offb', 22);  # Last converted book
 
 if ($web) {
   print "putting BibelKommentare.css\n";
-  RN::copy_url_path_abs_2_os_path('BibelKommentare.css', "/Biblisches/Kommentare/BibelKommentare.css");
+# 2017-01-20 RN::copy_url_path_abs_2_os_path('BibelKommentare.css', "/Biblisches/Kommentare/BibelKommentare.css");
+  RN::copy_os_path_2_url_path_abs('BibelKommentare.css', "/Biblisches/Kommentare/Bibelkommentare.css");
   print "done\n";
 # ftp_put('BibelKommentare.css');
 }
@@ -711,7 +712,6 @@ sub open_html { # {{{
   $last_buch             = $book;
   $last_kapitel          = $kapitel;
 
-
   $out_bible = RN::open_url_path_abs("/Biblisches/Kommentare/$filename.html");
 
   write_html_header($title, $book);
@@ -831,7 +831,10 @@ sub write_md5_yaml { # {{{
   $yaml -> write($ftp_file_md5_file);
 
   if ($web) {
-    RN::copy_url_path_abs_2_os_path($ftp_file_md5_file, "/Biblisches/Kommentare/$ftp_file_md5_file");
+    print "Trying to put $ftp_file_md5_file to webserver\n" if $verbose;
+# 2017-01-20    RN::copy_url_path_abs_2_os_path($ftp_file_md5_file, "/Biblisches/Kommentare/$ftp_file_md5_file");
+    RN::copy_os_path_2_url_path_abs($ftp_file_md5_file, "/Biblisches/Kommentare/$ftp_file_md5_file");
+    print "done putting $ftp_file_md5_file to webserver\n" if $verbose;
 #  2017-01-16 ftp_put($ftp_file_md5_file);
   }
   else {
@@ -851,7 +854,6 @@ sub is_file_modified { # {{{
   $ftp_file_md5_new{$file} = $md5;
 
   if (exists $ftp_file_md5_old{$file}) {
-
 
     if ($ftp_file_md5_old{$file} eq $md5) {
       print "file is not modified $file\n" if $file_modif;
