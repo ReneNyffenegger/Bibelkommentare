@@ -58899,6 +58899,11 @@
   TODO: <i>Und sie fügten sich ihm</i> in Elberfelder 'Und sie gaben ihm Gehör', in KJV: 'And to him they agreed'.
  }
 #}
+#apg-5-42 {
+ {
+  <i>verkündigen</i>: εὐαγγελίζω
+ }
+#}
 @}
 @Apostelgeschichte 6 {
 #apg-6-1 {
@@ -61000,10 +61005,10 @@
 #}
 #apg-16-3 {
  {
-  TODO: Beachte: Paulus liess Timotheus beschneiden und übergibt ab dem nächsten Vers die in <a href='http://bibel.renenyffenegger.ch/apg_15.html#v23'>Apg&nbsp;15,23</a>
-  gefassten Beschlüsse, die ausdrücklich wegen der Lehre der Beschneidung gemacht wurde (<a href='http://bibel.renenyffenegger.ch/apg_15.html#v24'>Apg&nbsp;15,24</a>).
-  <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/1kor_7.html#v18'>1.&nbsp;Kor&nbsp;7,18</a> und
-      <a href='http://bibel.renenyffenegger.ch/gal_2.html#v3'>Gal&nbsp;2,3</a>.
+  Beachte: Paulus liess → biblisches/Personen/Timotheus beschneiden und übergibt ab dem nächsten Vers die in §apg-15-23
+  gefassten Beschlüsse, die ausdrücklich wegen der Lehre der Beschneidung gemacht wurde (§apg-15-24).
+  <br>→ biblisches/Personen/Titus wurde nicht beschnitten §gal-2-3
+  <br>Vgl auch mit §1kor-7-18 (»Ist jemand beschnitten berufen worden, so ziehe er keine Vorhaut; ist jemand in der Vorhaut berufen worden, so werde er nicht beschnitten.«)
  }
  {
   Paulus hat wohl → biblisches/Personen/Timotheus/index beschnitten, um «nichts gegen die väterlichen Gebräuche zu tun» (§apg-28-17).
@@ -62807,9 +62812,9 @@
   §1tim-1-11, §gal-1-15, §+gal-2-7, §1thes-2-4, §1kor-1-17.
  }
  {
-  TODO: Vgl auch
-    «mein Evangelium» §+roem-2-16.
-    «unser Evangelium», zB in <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v14'>2.&nbsp;Thes&nbsp;2,14</a>.
+    «mein → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium» §+roem-2-16, → biblisches/2-Timotheus-2-15/Evangelium-des-Reiches-und-des-Paulus
+    <br>
+    «unser Evangelium» zB in §2thes-2-14.
  }
 #}
 #roem-1-2 {
@@ -63738,7 +63743,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
  }
  {
-   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/1tim_2.html#v7'>1.&nbsp;Tim&nbsp;2,7</a>.
+  <i>Ich sage die Wahrheit in Christo, ich lüge nicht</i> vgl §1tim-2-7, §2kor-11-31, §gal-1-20
  }
 #}
 #roem-9-3 {
@@ -64560,7 +64565,10 @@
 #}
 #roem-15-29 {
  {
-  Vgl Vers 20: Paulus will das Evangelium nur dort verkündigen, wo es nicht schon bekannt ist.
+  Vgl §Vroem-15-20: Paulus will das Evangelium nur dort verkündigen, wo es nicht schon bekannt ist.
+ }
+ {
+   <span class='gt'>In NA fehlt «des Evangeliums»</span>
  }
 #}
 #roem-15-30 {
@@ -65888,6 +65896,9 @@
 #1kor-9-18 {
  {
    Paulus macht das Evangelium kostenfrei: vgl §2kor-11-7.
+ }
+ {
+   <span class='gt'>In NA fehlt «von Christus».</span>
  }
 #}
 #1kor-9-20 {
@@ -67587,7 +67598,7 @@
 #}
 #2kor-11-4 {
  {
-  <i>anderes Evangelium</i>: <a href='http://bibel.renenyffenegger.ch/gal_1.html#v6'>Gal&nbsp;1,6</a>.
+  <i>anderes → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium</i>: §gal-1-6-9
  }
 #}
 #2kor-11-5 {
@@ -67684,6 +67695,9 @@
  }
 #}
 #2kor-11-31 {
+ {
+  <i>Weiss, dass ich nicht lüge</i> vgl §gal-1-20, §roem-9-1, §1tim-2-7
+ }
  {
   <i>Gott, gelobt in Ewigkeit</i>: <a class='kom' href='#Iroem-1-25'>Röm&nbsp;1,25</a>.
  }
@@ -67836,7 +67850,7 @@
 #}
 #gal-1-6 {
  {
-  <i>anderes Evangelium</i>: <a class='kom' href='#I2kor-11-4'>2.&nbsp;Kor&nbsp;11,4</a>.
+  <i>anderes → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium</i>: §+2kor-11-4.
  }
  {
   <i>ein anderes Evangelium, welches kein anderes ist</i> hat im Grundtext zuerst ἕτερος und dann ἄλλος, vgl → biblisches/Grundtext/Wörter/G243-allos_G2087-heteros.
@@ -67944,6 +67958,11 @@
   TODO: Wann hat Paulus welche Apostel kennengelernt: <a class='kom' href='#Iapg-9-27'>Apg&nbsp;9,27</a>.
  }
 #}
+#gal-1-20 {
+ {
+  <i>Ich lüge nicht</i> vgl §roem-9-1, §2kor-11-31, §1tim-2-7
+ }
+#}
 #gal-1-21 {
  {
   Verse 21-22: Es liegt Paulus offenbar viel daran, festzustellen, dass seine Lehre nicht von den andern Aposteln
@@ -67996,7 +68015,7 @@
 #}
 #gal-2-3 {
  {
-  TODO: vgl <a class='kom' href='#Iapg-16-3'>Apg&nbsp;16,3</a>.
+  → biblisches/Personen/Paulus hat zwar → biblisches/Personen/Titus nicht beschnitten, wohl aber → biblisches/Personen/Timotheus: §apg-16-3
  }
 #}
 #gal-2-4 {
@@ -68005,6 +68024,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+ }
+#}
+#gal-2-5 {
+ {
+  <i>Wahrheit des → biblisches/Eigene-Uebersetzung/Konkordanz/Evangeliums</i> §Vgal-2-14, §kol-1-5
  }
 #}
 #gal-2-6 {
@@ -68043,7 +68067,7 @@
 #}
 #gal-2-10 {
  {
-   TODO: Vgl <i>Sammlung</i>: <a class='kom' href='#Iroem-15-26'>Röm&nbsp;15,26</a>.
+   Vgl <i>Sammlung</i>: §+roem-15-26.
  }
 #}
 #gal-2-11 {
@@ -69886,7 +69910,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-4-13 {
  {
-  TODO: In NA scheint «Christus» zu fehlen.
+  <span class='gt'>In NA fehlt «Christus».</span>
  }
 #}
 #phil-4-15 {
@@ -69966,6 +69990,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #kol-1-5 {
  {
   Vgl Verse 5-6 mit <a href='http://bibel.renenyffenegger.ch/kol_1.html#v23'>Vers 23</a>.
+ }
+ {
+  <i>Wahrheit des → biblisches/Eigene-Uebersetzung/Konkordanz/Evangeliums</i> §gal-2-5, §gal-2-14
  }
 #}
 #kol-1-6 {
@@ -71579,7 +71606,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-2-7 {
  {
-   <i>Ich sage die Wahrheit und lüge nicht</i>: vgl <a href='http://bibel.renenyffenegger.ch/roem_9.html#v1'>Röm&nbsp;9,1</a>.
+   <i>Ich sage die Wahrheit und lüge nicht</i>: vgl §roem-9-1, §2kor-11-31, §gal-1-20
  }
  {
   <i>Lehrer und Apostel</i>: <a class='kom' href='#I1kor-12-29'>1.&nbsp;Kor&nbsp;12,29</a> und
