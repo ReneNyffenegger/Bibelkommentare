@@ -35916,6 +35916,11 @@
 #}
 @}
 @Psalm 92 {
+#ps-92-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/92[Psalm 92] ist für den Tag des → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat[Sabbats].
+ }
+#}
 #ps-92-11 {
  {
   <i>erhöhtes Horn</i>: <a class='kom' href='#I1sam-2-1'>1.&nbsp;Sam&nbsp;2,1</a>.
