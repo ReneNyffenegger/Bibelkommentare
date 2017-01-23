@@ -905,7 +905,7 @@
   <i>Schwert</i>: §+3mo-26-33
  }
  {
-  <i>Cherubim</i> TODO...
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
  }
  {
   Siehe auch <a class='kom' href='#I1mo-2-8'>1.&nbsp;Mo&nbsp;2,8</a>.
@@ -9845,9 +9845,8 @@
 #}
 #2mo-25-18 {
  {
-  Vgl mit den zwei Cherubim aus <a href='http://bibel.renenyffenegger.ch/1koe_6.html#v23'>1.&nbsp;Kö&nbsp;6,23</a> ff (hier aus Gold, dort aus Ölbaumholz, siehe aber
-  auch <a class='kom' href='#I1koe-6-23'>1.&nbsp;Kö&nbsp;6,23</a>).
-  <br>TODO: Hier am Sühnedeckel befestigt und gebeugt, dort 'freistehend', in Kreuzesform, und aufrecht.
+  Vgl mit den zwei → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim aus §1koe-6-23 ff (hier aus Gold, dort aus Ölbaumholz, siehe aber
+  auch §+1koe-6-23). Hier am Sühnedeckel befestigt und gebeugt, dort freistehend, in Kreuzesform, und aufrecht.
  }
 #}
 #2mo-25-21 {
@@ -9857,9 +9856,12 @@
 #}
 #2mo-25-22 {
  {
-  <i>Der HERR kommt mit Mose bei der → biblisches/Eigene-Uebersetzung/Konkordanz/Lade zusammen, um mit ihm zu reden</i> vgl §2mo-30-6, §2mo-30-36, §4mo-7-89
+  <i>Der HERR kommt mit Mose bei der → biblisches/Eigene-Uebersetzung/Konkordanz/Lade zusammen, um mit ihm zu reden</i> vgl §2mo-30-6, §2mo-30-36, §2mo-33-11, §4mo-7-89
   <br>
    Vgl mit §2mo-29-42-43, wo der HERR am <i>Eingang</i> des → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft[Zeltes der Zusammenkunft] mit <i>euch</i> (od. den <i>Kindern Israel</i>) zusammenkommt, um mit ihnen zu reden.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
  }
 #}
 #2mo-25-26 {
@@ -10018,6 +10020,9 @@
 #}
 #2mo-26-31 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+ }
+ {
   TODO: Vergleiche <span class='hebr'>פָּרֹכֶת</span> (Strongs 6532, hier erstes Vorkommen) mit <span class='hebr'>מָסָךְ</span> (Strongs 4539, erstes Vorkommen in Vers 36). Beide
   Wörter werden mit 'Vorhang' übersetzt (In KJV aber mit 'vail' (Vers 31) respektiv 'hanging' (Vers 36)).
   <br>TODO: In
@@ -10039,14 +10044,10 @@
 #2mo-27-1 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#brandopferaltar[Brandopferaltar]
-   vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucheraltar] ab §2mo-30-1
+   vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucheraltar] ab §2mo-30-1 und dem <i>Altar aus Erde</i> §+2mo-20-24
  }
  {
   TODO: Ist dieser Altar der <i>eherne Altar</i> aus <a href='http://bibel.renenyffenegger.ch/2mo_39.html#v39'>2.&nbsp;Mo&nbsp;39,39</a>?
- }
- {
-  Vgl <i>Altar aus Erde</i>: <a class='kom' href='#I2mo-20-24'>2.&nbsp;Mo&nbsp;20,24</a> und
-  <i>Altar für Räucherwerk</i> (<a href='http://bibel.renenyffenegger.ch/2mo_30.html#v1'>2.&nbsp;Mo&nbsp;30,1</a>.
  }
  {
   TODO: Altar ist doppelt so hoch und doppelt so lang wie die Lade.
@@ -10066,6 +10067,11 @@
  {
   TODO 'Vorhof' Strongs 2691. Hazerot ist davon abgeleitet (<a class='kom' href='#I4mo-11-35'>4.&nbsp;Mo&nbsp;11,35</a>, <a class='kom' href='#I5mo-1-1'>5.&nbsp;Mo&nbsp;1,1</a>).
   Vgl auch <a class='kom' href='#I1koe-6-36'>1.&nbsp;Kö&nbsp;6,36</a>.
+ }
+#}
+#2mo-27-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
  }
 #}
 #2mo-27-20 {
@@ -10474,20 +10480,7 @@
   'zerstossene Oliven': siehe <a class='kom' href='#I2mo-27-20'>2.&nbsp;Mo&nbsp;27,20</a>.
  }
  {
-  Hier erstes Vorkommen von <i>Hin</i> (<span class='hebr'>הִין</span>, Strongs 1969). <i>Hin</i> wird auch Gebraucht in den folgenden Zusammenhängen: <ul>
-    <li>Salböl (<a href='http://bibel.renenyffenegger.ch/2mo_30.html#v24'>2.&nbsp;Mo&nbsp;30,24</a>).
-    <li>'gerechtes Hin sollt ihr haben' (<a href='http://bibel.renenyffenegger.ch/3mo_19.html#v36'>3.&nbsp;Mo&nbsp;19,36</a>).
-    <li>Erstlingsgarbe (<a href='http://bibel.renenyffenegger.ch/3mo_23.html#v13'>3.&nbsp;Mo&nbsp;23,13</a>)
-    <li>Feueropfer (Brandopfer oder Schlachtopfer): 1/4 Hin Öl zum Speisopfer von 1/10 Feinmehl (<a href='http://bibel.renenyffenegger.ch/4mo_15.html#v4'>4.&nbsp;Mo&nbsp;15,4</a>) (TODO:
-        auch Verse 5-8
-    <li><a href='http://bibel.renenyffenegger.ch/4mo_15.html#v10'>4.&nbsp;Mo&nbsp;15,10</a>
-    <li>Beim täglichen Opfer: 1/4 Hin Ö zu 1/10 Epha Feinmehl (<a href='http://bibel.renenyffenegger.ch/4mo_28.html#v5'>4.&nbsp;Mo&nbsp;28,5</a>)
-    <li><a href='http://bibel.renenyffenegger.ch/4mo_28.html#v7'>4.&nbsp;Mo&nbsp;28,7</a>
-    <li>Beim ersten Tag der Monate: zum Trankopfer 1/2 Hin Wein zum Stier, 1/3 Hin zum Widder und 1/4 Hin zum Lamm (<a href='http://bibel.renenyffenegger.ch/4mo_28.html#v14'>4.&nbsp;Mo&nbsp;28,14</a>)
-    <li><a href='http://bibel.renenyffenegger.ch/hes_4.html#v11'>Hes&nbsp;4,11</a>
-    <li><a href='http://bibel.renenyffenegger.ch/hes_45.html#v24'>Hes&nbsp;45,24</a>
-    <li><a href='http://bibel.renenyffenegger.ch/hes_46.html#v14'>Hes&nbsp;46,14</a>ff
-  </ul>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
  }
  {
   <i>zum einen Lamm</i> §4mo-28-7
@@ -10533,9 +10526,8 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
  }
  {
-   vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucheraltar] vgl mit 
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#brandopferaltar[Brandopferaltar] ab §2mo-27-1 und
-    <i>Altar aus Erde</i> §+2mo-20-24.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucheraltar]: vgl mit 
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#brandopferaltar[Brandopferaltar] ab §2mo-27-1 und <i>Altar aus Erde</i> §+2mo-20-24.
  }
  {
   <i>Räuchern des Räucherwerkes</i>: Zacharias in §lk-1-9, §V2mo-30-7
@@ -10547,6 +10539,9 @@
  }
 #}
 #2mo-30-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+ }
  {
   <i>Wo ich mit dir zusammenkommen werde</i> §+2mo-25-22, §V2mo-30-36
  }
@@ -10583,7 +10578,7 @@
 #}
 #2mo-30-12 {
  {
-  <i>Wenn du die Summe der Kinder Israel aufnehmen wirst …</i> §4mo-1-2
+  <i>Wenn du die Summe der Kinder Israel aufnehmen wirst …</i> §4mo-1-2, §4mo-1-20, §4mo-26-2
   Diese <i>Summe</i> wird wohl in §+2chr-24-6 als «Steuer Moses» bezeichnet.
  }
  {
@@ -10618,7 +10613,7 @@
 #}
 #2mo-30-18 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Becken vgl §2mo-40-7
  }
  {
   Die erstmalige Waschung der Priester (bei deren Einsetzung) findet (vermutlich) nicht an diesem Becken statt (<a href='http://bibel.renenyffenegger.ch/2mo_29.html#v4'>2.&nbsp;Mo&nbsp;29,4</a>).
@@ -10627,6 +10622,9 @@
 #2mo-30-19 {
  {
   → biblisches/Personen/Aaron/Söhne
+ }
+ {
+  <i>Hände und Füsse waschen</i> §2mo-40-31, vgl mit dem «Meer für die Priester», um sich darin zu waschen §2chr-4-6
  }
  {
   §2mo-40-12
@@ -10645,7 +10643,7 @@
 #}
 #2mo-30-24 {
  {
-  <i>Hin</i> siehe <a class='kom' href='#I2mo-29-40'>2.&nbsp;Mo&nbsp;29,40</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
  }
 #}
 #2mo-30-27 {
@@ -10673,18 +10671,26 @@
   <br>TODO: Siehe auch <i>Lebona</i> (<a href='http://bibel.renenyffenegger.ch/ri_21.html#v19'>Ri&nbsp;21,19</a>).
  }
 #}
+#2mo-30-36 {
+ {
+  <i>Wo ich mit dir zusammenkommen werde</i> §+2mo-25-22, §V2mo-30-6
+ }
+#}
 @}
 }
 { 2. Mose 31-40
 @2. Mose 31 {
 #2mo-31-2 {
  {
-  TODO: vgl mit <a href='http://bibel.renenyffenegger.ch/2mo_35.html#v30'>2. Mo 35,30 ff</a>.
-  <br>in <a href='http://bibel.renenyffenegger.ch/2mo_35.html#v35'>2.&nbsp;Mo&nbsp;35,35</a> wird zusätzlich
-  erwähnt, dass Bezaleel und Oholiab auch mit Purpur, Karmesin und Leinen umgegehen können.
+  → biblisches/Personen/Bezaleel[Bezaleel] vgl §2mo-35-30-ff. Ab §V2mo-31-7 wird erwähnt, das in ihm un Oholiab die Weisheit gelegt ist, den
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Tisch[Tisch], den → biblisches/Eigene-Uebersetzung/Konkordanz/Leuchter-Menora[Leuchter], den
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucher-] und → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#brandopferaltar[Brandopferaltar] etc zu machen.
+  -
+  Ab §2mo-35-34 wird hingegen gesagt, dass Er sie mit Weisheit des Herzens erfüllt hat, um «jegliches Werk des Künstlers und des Kunstwebers und des
+  Buntwirkers zu machen, in blauem und rotem Purpur und Karmesin und Byssus, und des Webers; derer, die allerlei Werk machen und Künstliches ersinnen»
  }
  {
-  'Stamm' siehe <a class='kom' href='#I1mo-38-18'>1.&nbsp;Mo&nbsp;38,18</a>.
+  TODO 'Stamm' siehe <a class='kom' href='#I1mo-38-18'>1.&nbsp;Mo&nbsp;38,18</a>.
  }
 #}
 #2mo-31-3 {
@@ -10716,6 +10722,11 @@
    <br>Vgl <a class='kom' href='#I3mo-24-6'>3.&nbsp;Mo&nbsp;24,6</a>.
  }
 #}
+#2mo-31-9 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Becken
+ }
+#}
 #2mo-31-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
@@ -10723,7 +10734,8 @@
 #}
 #2mo-31-13 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat: beachte: der Sabbat wird hier als letztes geregelt (in §V2mo-31-13 gibt der HERR → biblisches/Personen/Mose die zwei Tafeln des Zeugnisses). Die Ruhe kommt nach der
+  Arbeit.
  }
 #}
 #2mo-31-15 {
@@ -10780,7 +10792,12 @@
 #}
 #2mo-32-2 {
  {
-  TODO: Wenn das Volk schon nicht hören will, dann sollen auch die Ohren nicht mit Gold bestückt sein...
+  Wenn das Volk schon nicht hören will, dann sollen auch die Ohren nicht mit Gold bestückt sein …
+ }
+#}
+#2mo-32-3 {
+ {
+  In §2mo-35-22 scheinen noch ein paar Ohrringe (goldene?) übrig geblieben zu sein. vgl §2mo-33-6
  }
 #}
 #2mo-32-4 {
@@ -10893,7 +10910,7 @@
 #}
 #2mo-33-6 {
  {
-  <i>Schmuck abreissen</i> vgl §2mo-35-22
+  <i>Schmuck abreissen</i> vgl §+2mo-32-3, §2mo-35-22
  }
  {
   Siehe <a class='kom' href='#I2mo-17-6'>2.&nbsp;Mo&nbsp;17,6</a> betreffend <i>Felsen am Horeb</i> und <i>Berg Horeb</i>.
@@ -10905,6 +10922,9 @@
  }
 #}
 #2mo-33-11 {
+ {
+  Der HERR redet mit → biblisches/Personen/Mose/ von <i>Angesicht zu Angesicht</i>, vgl §+2mo-25-22, §5mo-34-10
+ }
  {
   <i>Josua</i>: <a class='kom' href='#I2mo-17-9'>2.&nbsp;Mo&nbsp;17,9</a>.
  }
@@ -11127,9 +11147,19 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot
  }
 #}
+#2mo-35-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Becken
+ }
+#}
+#2mo-35-17 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+ }
+#}
 #2mo-35-22 {
  {
-  Vgl §2mo-33-6
+  <i>Ohrringe</i> vgl §+3mo-32-3, §2mo-33-6
  }
 #}
 #2mo-35-29 {
@@ -11138,6 +11168,9 @@
  }
 #}
 #2mo-35-30 {
+ {
+  → biblisches/Personen/Bezaleel[Bezaleel], vgl §2mo-31-2
+ }
  {
   TODO: Vgl mit <a class='kom' href='#I2mo-31-2'>2. Mo 31,2 ff</a>.
  }
@@ -11149,7 +11182,15 @@
 #}
 @}
 @2. Mose 36 {
+#2mo-36-1 {
+ {
+  → biblisches/Personen/Bezaleel[Bezaleel]
+ }
+#}
 #2mo-36-35 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+ }
  {
   TODO: die vier Farben (mit der griechischen Übersetzung in der LXX) (aus <span class='gr'>ὑακίνθου</span> haben wir
   die Hyazinthen, aus <span class='gr'>πορφύρας</span> das Purpur, aus <span class='gr'>κοκκίνου</span> die Kokons(?) und
@@ -11162,12 +11203,20 @@
 @2. Mose 37 {
 #2mo-37-1 {
  {
+  → biblisches/Personen/Bezaleel[Bezaleel]
+ }
+ {
   TODO: Ist dies dieselbe Lade, die Mose auf dem Berg angefertigt hat? (<a class='kom' href='#I5mo-10-1'>5. Mo 10,1 ff</a>).
  }
 #}
 #2mo-37-5 {
  {
   TODO: <i>Wer trägt die Lade</i>: <a class='kom' href='#I2mo-25-14'>2.&nbsp;Mo&nbsp;25,14</a>.
+ }
+#}
+#2mo-37-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
  }
 #}
 #2mo-37-17 {
@@ -11184,10 +11233,18 @@
 @2. Mose 38 {
 #2mo-38-8 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Becken
+ }
+ {
   <i>Frauen, die sich am Eingang des → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft[Zeltes der Zusammenkunft] scharen</i> §1sam-2-22
  }
  {
   Siehe Vergleich <a class='kom' href='#I2mo-26-1'>2.&nbsp;Mo&nbsp;26,1</a>
+ }
+#}
+#2mo-38-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
  }
 #}
 #2mo-38-21 {
@@ -11198,6 +11255,11 @@
  }
  {
   <i>Eleasar</i> und <i>Itamar</i>: Siehe <a class='kom' href='#I4mo-4-16'>4.&nbsp;Mo&nbsp;4,16</a>.
+ }
+#}
+#2mo-38-22 {
+ {
+  → biblisches/Personen/Bezaleel[Bezaleel]
  }
 #}
 #2mo-38-24 {
@@ -11274,10 +11336,13 @@
 #}
 #2mo-39-38 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
  }
 #}
 #2mo-39-39 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Becken
+ }
  {
   Der <i>eherne Altar</i>: TODO: siehe <a class='kom' href='#I2mo-27-1'>2.&nbsp;Mo&nbsp;27,1</a>.
  }
@@ -11289,9 +11354,14 @@
 #}
 @}
 @2. Mose 40 {
+#2mo-40-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+ }
+#}
 #2mo-40-7 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Becken vgl §2mo-30-18
  }
 #}
 #2mo-40-9 {
@@ -11517,6 +11587,11 @@
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/hebr_13.html#v11'>Hebr 13,11-12</a>: die Leiber der Tiere,
   deren Blut ins Heiligtum kommt, werden ausserhalb des Lagers verbrannt. Deshalb hat auch Jesus ausserhalb des
   Tores gelitten.
+ }
+#}
+#3mo-4-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
  }
 #}
 #3mo-4-7 {
@@ -11818,6 +11893,11 @@
 #3mo-8-10 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
+ }
+#}
+#3mo-8-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Becken
  }
 #}
 #3mo-8-22 {
@@ -12227,6 +12307,9 @@
 #}
 #3mo-16-2 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+ }
+ {
   Diese Söhne sind in <a class='kom' href='#I3mo-10-2'>3.&nbsp;Mo&nbsp;10,2</a> gestorben.
  }
  {
@@ -12503,6 +12586,9 @@
 #}
 #3mo-19-36 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
+ }
+ {
   'Gewicht' (<span class='hebr'>אֶבֶן</span>, Strongs 68) an andern Orten mit Stein übersetzt.
  }
 #}
@@ -12647,6 +12733,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer, vgl §V3mo-21-6
  }
 #}
+#3mo-21-23 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+ }
+#}
 #3mo-21-24 {
  {
   Bei den vielen Stellen, wo der HERR zu Mose redete, wird nicht explizit quittiert, dass Mose dies auch tat. Dieser Vers scheint eine (die einzige?)
@@ -12762,7 +12853,7 @@
 #}
 #3mo-23-13 {
  {
-  <i>Hin</i> siehe <a class='kom' href='#I2mo-29-40'>2.&nbsp;Mo&nbsp;29,40</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin, vgl §4mo-15-4
  }
 #}
 #3mo-23-14 {
@@ -12836,6 +12927,11 @@
 #3mo-24-2 {
  {
   §2mo-27-20-21
+ }
+#}
+#3mo-24-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
  }
 #}
 #3mo-24-4 {
@@ -13427,6 +13523,11 @@
   Machli war (auch?) der Sohn Muschis (<a class='kom' href='#I1chr-23-21'>1.&nbsp;Chr&nbsp;23,21</a>).
  }
 #}
+#4mo-3-25 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+ }
+#}
 #4mo-3-32 {
  {
   <i>Eleasar</i> siehe <a class='kom' href='#I2mo-6-23'>2.&nbsp;Mo&nbsp;6,23</a>.
@@ -13525,7 +13626,7 @@
 #}
 #4mo-4-25 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
  }
  {
   <i>Teppiche</i> (<span class='hebr'>יְרִיעָה</span>, Strongs 3407), sonst häufig mit «Zeltbahn» übersetzt.
@@ -13674,7 +13775,7 @@
 #}
 #4mo-7-89 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft, → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
  }
  {
    §+2mo-25-22.
@@ -14341,7 +14442,12 @@
 #}
 #4mo-15-4 {
  {
-  <i>Hin</i> siehe <a class='kom' href='#I2mo-29-40'>2.&nbsp;Mo&nbsp;29,40</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin, vgl §3mo-23-13
+ }
+#}
+#4mo-15-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich, → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
  }
 #}
 #4mo-15-32 {
@@ -14524,6 +14630,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi#levi-mitte-volk[Levi aus der Mitte des Volkes genommen]
+ }
+#}
+#4mo-18-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
  }
 #}
 #4mo-18-16 {
@@ -15152,7 +15263,7 @@
 @4. Mose 26 {
 #4mo-26-2 {
  {
-  Siehe <a class='kom' href='#I4mo-1-20'>4.&nbsp;Mo&nbsp;1,20</a>.
+  <i>die Summe der ganzen Gemeinde</i> §+4mo-1-20, §+2mo-30-12
  }
 #}
 #4mo-26-4 {
@@ -15400,12 +15511,15 @@
   'zerstossene Oliven': siehe <a class='kom' href='#I2mo-27-20'>2.&nbsp;Mo&nbsp;27,20</a>.
  }
  {
-  <i>Hin</i> siehe <a class='kom' href='#I2mo-29-40'>2.&nbsp;Mo&nbsp;29,40</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
  }
 #}
 #4mo-28-7 {
  {
   <i>Zum einen Lamm</i> §2mo-29-40
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
  }
 #}
 #4mo-28-9 {
@@ -15419,6 +15533,11 @@
  }
  {
   TODO: Gibt es bereits irgendwo eine Verordnung betreffend des ersten Tag des Monats?
+ }
+#}
+#4mo-28-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
  }
 #}
 #4mo-28-16 {
@@ -18211,6 +18330,9 @@
 #}
 #5mo-34-10 {
  {
+  Der HERR kannte → biblisches/Personen/Mose von <i>Angesicht zu Angesicht</i> vgl §2mo-33-11
+ }
+ {
    Vgl §5mo-18-18
  }
  {
@@ -20228,6 +20350,9 @@
 #}
 #ri-1-6 {
  {
+  <i>Daumen der Hände und Füsse abhauen</i> vgl §2sam-4-12
+ }
+ {
   <i>abschlagen</i> <span class='hebr'>קָצַץ</span> (Strongs 7112) ist verwandt mit dem Tal Keziz, siehe <a class='kom' href='#Ijos-18-21'>Jos&nbsp;18,21</a>.
  }
 #}
@@ -21959,6 +22084,11 @@
   und <a href='http://bibel.renenyffenegger.ch/1sam_7.html#v12'>1.&nbsp;Sam&nbsp;7,12</a>.
  }
 #}
+#1sam-4-4 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
+#}
 #1sam-4-20 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen[sich etwas zu Herzen nehmen]
@@ -23637,6 +23767,11 @@
   TODO: 'gelähmt war': der Niphal von <span class='hebr'>פָּסַח</span> (Strongs 6452) (vgl <a class='kom' href='#I2mo-12-13'>2.&nbsp;Mo&nbsp;12,13</a>).
  }
 #}
+#2sam-4-12 {
+ {
+  <i>Hände und Füsse abhauen</i> vgl §ri-1-6
+ }
+#}
 @}
 @2. Samuel 5 {
 #2sam-5-2 {
@@ -23717,7 +23852,7 @@
 @2. Samuel 6 {
 #2sam-6-2 {
  {
-  Siehe <a href='#weg_der_lade'>Der Weg der Bundeslade</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
  }
  {
   <i>Baale-Juda</i> ist Kirjat-Jearim, weil dort (im Haus Abinadabs) der letzte Aufenthalt der Bundeslade ist (<a href='http://bibel.renenyffenegger.ch/1sam_7.html#v1'>1.&nbsp;Sam&nbsp;7,1-2</a>).
@@ -24429,6 +24564,11 @@
   früherer Generationen (<a href='http://bibel.renenyffenegger.ch/jes_58.html#v12'>Jes&nbsp;58,12</a>, dort mit 'Grundmauern' übersetzt)
  }
 #}
+#2sam-22-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
+#}
 #2sam-22-12 {
  {
   Dunkel: <a class='kom' href='#I2mo-20-21'>2.&nbsp;Mo&nbsp;20,21</a>.
@@ -25081,6 +25221,9 @@
  }
 #}
 #1koe-6-23 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
  {
    <i>Ölbaumholz</i> <span class='hebr'>עֲצֵי־שָׁ֑מֶן</span> (Strongs 6086 8081). Das Wort 8081 wird sonst häufig mit Öl übersetzt,
    zB <a href='http://bibel.renenyffenegger.ch/1mo_28.html#v18'>1.&nbsp;Mo&nbsp;28,18</a>, <a href='http://bibel.renenyffenegger.ch/2mo_25.html#v6'>2.&nbsp;Mo&nbsp;25,6</a>,
@@ -27280,6 +27423,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde, vgl §jes-37-16
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
 #}
 #2koe-19-20 {
  {
@@ -28155,6 +28301,11 @@
   → biblisches/Personen/Hur/Kaleb
  }
 #}
+#1chr-2-20 {
+ {
+  → biblisches/Personen/Bezaleel[Bezaleel]
+ }
+#}
 #1chr-2-23 {
  {
   TODO: <i>Kenat</i> siehe <a class='kom' href='#I4mo-32-42'>4.&nbsp;Mo&nbsp;32,42</a>.
@@ -28996,6 +29147,11 @@
 #}
 @}
 @1. Chronik 13 {
+#1chr-13-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
+#}
 #1chr-13-9 {
  {
          <i>Tenne Kidon</i>: <a class='kom' href='#I2sam-6-6'>2.&nbsp;Sam&nbsp;6,6</a>.
@@ -29501,7 +29657,10 @@
 #}
 #1chr-28-18 {
  {
-  <a class='kom' href='#I1koe-6-23'>1 Kö 6,23</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
+ {
+  TODO <a class='kom' href='#I1koe-6-23'>1 Kö 6,23</a>.
  }
 #}
 #1chr-28-19 {
@@ -29592,6 +29751,11 @@
  }
  {
   §1chr-21-29
+ }
+#}
+#2chr-1-5 {
+ {
+  → biblisches/Personen/Bezaleel[Bezaleel]
  }
 #}
 #2chr-1-10 {
@@ -29687,6 +29851,11 @@
   <a class='kom' href='#I1koe-6-21'>1.&nbsp;Kö&nbsp;6,21</a>, <a class='kom' href='#I1chr-29-4'>1.&nbsp;Chr&nbsp;29,4</a>.
  }
 #}
+#2chr-3-14 {
+ {
+  Vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang[Vorhang] → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose[Heiligtums von Mose].
+ }
+#}
 @}
 @2. Chronik 4 {
 #2chr-4-1 {
@@ -29699,6 +29868,11 @@
 #2chr-4-5 {
  {
   3000 Bat: vgl <a class='kom' href='#I1koe-7-26'>1.&nbsp;Kö&nbsp;7,26</a>.
+ }
+#}
+#2chr-4-6 {
+ {
+  <i>Meer für die Priester, um sich darin zu waschen</i> vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Becken, um «Hände und Füsse daraus zu waschen» §2mo-30-19, §2mo-40-31.
  }
 #}
 #2chr-4-10 {
@@ -31777,6 +31951,11 @@
 #esr-10-26 {
  {
   <i>Söhne Elams</i>: §Vesr-10-2
+ }
+#}
+#esr-10-30 {
+ {
+  → biblisches/Personen/Bezaleel/index
  }
 #}
 @}
@@ -35415,7 +35594,10 @@
 #}
 #ps-80-2 {
  {
-  Vgl mit <a class='kom' href='#Ips-78-70'>Ps 78,70-72</a>.
+  Vgl mit §+ps-78-70-72
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
  }
 #}
 #ps-80-5 {
@@ -35890,6 +36072,9 @@
 @}
 @Psalm 99 {
 #ps-99-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
  {
   Vgl <i>Die Erde wankt</i> mit <a href='http://bibel.renenyffenegger.ch/ps_104.html#v5'>Ps&nbsp;104,5</a> (wo sie nicht wankt).
   <br>Vgl auch <a class='kom' href='#Ips-93-1'>Ps&nbsp;93,1</a>, <a href='http://bibel.renenyffenegger.ch/ps_96.html#v10'>Ps&nbsp;96,10</a>,
@@ -40327,6 +40512,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde, vgl §2koe-19-15
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
 #}
 #jes-37-20 {
  {
@@ -44127,7 +44315,7 @@
 #}
 #hes-4-11 {
  {
-  <i>Hin</i> siehe <a class='kom' href='#I2mo-29-40'>2.&nbsp;Mo&nbsp;29,40</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
  }
 #}
 #hes-4-13 {
@@ -44253,6 +44441,11 @@
   Das <i>obere Tor</i> wurde von Jotam gebaut: <a class='kom' href='#I2koe-15-35'>2.&nbsp;Kö&nbsp;15,35</a>.
  }
 #}
+#hes-9-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
+#}
 #hes-9-4 {
  {
   Ein 'Zeichen auf der Stirn' siehe <a class='kom' href='#Ioffb-7-3'>Offb&nbsp;7,3</a>. Das Hebräische Wort hier für Zeichen ist
@@ -44274,6 +44467,9 @@
  }
  {
   <i>Saphir</i>: <a class='kom' href='#I2mo-24-10'>2.&nbsp;Mo&nbsp;24,10</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
  }
 #}
 #hes-10-2 {
@@ -44336,6 +44532,11 @@
 #hes-11-19 {
  {
    Vgl §hes-36-26
+ }
+#}
+#hes-11-22 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
  }
 #}
 @}
@@ -44821,7 +45022,7 @@
 #}
 #hes-28-14 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/heilig
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/heilig, → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim[Cherub]
  }
 #}
 #hes-28-19 {
@@ -45275,6 +45476,11 @@
    TODO: Pfeiler = Strongs 352.
  }
 #}
+#hes-41-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
+#}
 #hes-41-22 {
  {
   TODO: Zum <i>Tisch</i> dürfen sich offenbar die Söhne Zadoks nahen (<a href='http://bibel.renenyffenegger.ch/hes_44.html#v16'>Hes&nbsp;44,16</a>).
@@ -45334,7 +45540,7 @@
 #}
 #hes-45-24 {
  {
-  <i>Hin</i> siehe <a class='kom' href='#I2mo-29-40'>2.&nbsp;Mo&nbsp;29,40</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
  }
 #}
 @}
@@ -45351,7 +45557,7 @@
 #}
 #hes-46-14 {
  {
-  <i>Hin</i> siehe <a class='kom' href='#I2mo-29-40'>2.&nbsp;Mo&nbsp;29,40</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
  }
 #}
 #hes-46-17 {
@@ -52144,6 +52350,9 @@
 #}
 #mt-27-51 {
  {
+  <i>Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang zerriss</i> mk-15-38, §lk-23-45
+ }
+ {
   TODO: Als der Vorhang zerris, wurde doch der Blick ins Allerheiligste geöffnet, und man konnte sehen, dass sich
   nichts (mehr?)(?) im Allerheiligsten befand, also, dass der "Alttestamentliche" Gottesdienst eigentlich wertlos war.
   <br>Ist dies die Bedeutung des Zerreissens? Vgl auch mit <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v8'>Hebr&nbsp;9,8</a>.
@@ -53495,6 +53704,11 @@
 #mk-15-37 {
  {
   TODO: <i>Jesus' letzter Schrei</i>: <a class='kom' href='#Imt-27-50'>Mt&nbsp;27,50</a>.
+ }
+#}
+#mk-15-38 {
+ {
+ <i>Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang zerriss</i> §mt-27-51, §lk-23-45
  }
 #}
 #mk-15-40 {
@@ -55671,6 +55885,9 @@
  }
 #}
 #lk-23-45 {
+ {
+  <i>Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang zerriss</i> §mt-27-15, mk-15-38
+ }
  {
   Beachte, dass sich die Sonne auch nach einer Drangsal verfinstert wird §mt-24-29, §mk-13-24
  }
@@ -73852,6 +74069,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-6-18 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+ }
+ {
   <i>in denen Gott unmöglich lügen kann</i>: vgl §tit-1-2.
  }
  {
@@ -74067,6 +74287,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Sühne</i>, im → biblisches/Grundtext → biblisches/Grundtext/Wörter/G2435-hilasterion[ἱλαστήριον], kommt noch in §+roem-3-25 vor. Sch2K übersetzt mit «Versöhnungsdeckel», Elberfelder mit «Sühnedeckel», KJV mit «mercyseat».
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
 #}
 #hebr-9-7 {
  {
@@ -74278,6 +74501,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #hebr-10-20 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+ }
  {
   TODO: der erste oder zweite Vorhang? Vgl <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v3'>Hebr&nbsp;9,3</a>.
  }
