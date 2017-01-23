@@ -40412,6 +40412,11 @@
   gesagt wird: 'Dies ist aber das Wort, welches euch als Evangelium verkündigt worden ist.'
  }
 #}
+#jes-40-10 {
+ {
+  <i>sein Lohn ist bei ihm, und seine Vergeltung geht vor ihm her</i> vgl §offb-22-12
+ }
+#}
 #jes-40-12 {
  {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/hi_38.html#v4'>Hi 38,4-5</a> und
@@ -40425,6 +40430,11 @@
   Und in <a href='http://bibel.renenyffenegger.ch/1kor_2.html#v16'>1.&nbsp;Kor&nbsp;2,16</a> wird es verwendet, um
   zu zeigen, dass der natürliche Mensch nichts annimt, was von Gott ist und es ihm eine Torheit ist, weil es
   geistlich ist.
+ }
+#}
+#jes-40-15 {
+ {
+  <i>Nationen wie Tropfen, Inseln wie Stäubchen</i> vgl §jes-41-1: sie sollen sich zum HERRN wenden, um neue Kraft zu gewinnen.
  }
 #}
 #jes-40-21 {
@@ -40463,6 +40473,9 @@
 @Jesaja 41 {
 #jes-41-1 {
  {
+  §+jes-40-15
+ }
+ {
    <i>Neues Lied</i>: <a class='kom' href='#Ips-33-3'>Ps&nbsp;33,3</a>.
  }
 #}
@@ -40471,9 +40484,19 @@
   <i>der Erste und der Letzte</i>: <a class='kom' href='#Ioffb-1-11'>Offb&nbsp;1,11</a>, <a class='kom' href='#Ijes-44-6'>Jes&nbsp;44,6</a>.
  }
 #}
+#jes-41-8 {
+ {
+  → biblisches/Personen/Abraham, Freund Gottes §jak-2-23
+ }
+#}
 #jes-41-9 {
  {
   TODO: Mind eine Übersetzung übersetzt: «from its farthest corners», vgl <a class='kom' href='#Ijes-11-12'>Jes&nbsp;11,12</a>.
+ }
+#}
+#jes-41-10 {
+ {
+  Dieses <i>Fürchte dich nicht</i> adressiert wohl die gläubigen Juden während der Trübsalzeit.
  }
 #}
 #jes-41-15 {
@@ -40484,6 +40507,11 @@
 #jes-41-18 {
  {
   Vgl <a class='kom' href='#Ijes-35-6'>Jes&nbsp;35,6</a>.
+ }
+#}
+#jes-41-25 {
+ {
+  <i>von Sonnenaufgang her den, der meinen Namen anruft</i> vgl §offb-16-12
  }
 #}
 @}
@@ -75124,7 +75152,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-2-23 {
  {
-  Vgl <a class='kom' href='#I1mo-15-6'>1.&nbsp;Mo&nbsp;15,6</a>.
+  Vgl §+1mo-15-6.
+ }
+ {
+  → biblisches/Personen/Abraham, Freund Gottes §jes-41-8
  }
 #}
 #jak-2-24 {
@@ -79902,6 +79933,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <br>Auch der Nil (/) wird vertrocken (<a href='http://bibel.renenyffenegger.ch/jes_19.html#v5'>Jes&nbsp;19,5</a>).
  }
  {
+  <i>Könige, die von Sonnenaufgang herkommen</i> vgl §jes-41-25
+ }
+ {
   <i>Aufgang der Sonne</i>: <a class='kom' href='#Ioffb-7-2'>Offb&nbsp;7,2</a>.
  }
  {
@@ -80813,7 +80847,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-22-12 {
  {
-  <i>Lohn</i>: <a class='kom' href='#I1kor-3-8'>1.&nbsp;Kor&nbsp;3,8</a>.
+  <i>Lohn</i>: <a class='kom' href='#I1kor-3-8'>1.&nbsp;Kor&nbsp;3,8</a>
+ }
+ {
+  <i>und mein Lohn mit mir, um einem jeden zu vergelten…</i> vgl §jes-40-10
  }
 #}
 #offb-22-13 {
