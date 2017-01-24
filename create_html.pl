@@ -315,6 +315,7 @@ my $at = 1;
    # {{{ Wörter
    $current_text =~ s/\bwider\b/gegen/g;
  
+   $current_text =~ s/\bChristo Jesu\b/Christus Jesus/g;
    $current_text =~ s/\bChristo\b/Christus/g;
    $current_text =~ s/\bChristum\b/Christus/g;
 #  $current_text =~ s/\bJesu\b/Jesus/g;
