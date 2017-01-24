@@ -9144,7 +9144,7 @@
 #}
 #2mo-21-2 {
  {
-  Vgl §5mo-15-12, §jer-34-13-14, §+2mo-20-2
+  Vgl §5mo-15-12, §jer-34-13-14, §+2mo-20-2, → biblisches/Texte/Knechtschaft-Freiheit
  }
  {
   Beachte: auch die «die Schöpfung wird freigemacht werden von der Knechtschaft des Verderbnisses zu der Freiheit der Herrlichkeit der Kinder Gottes.» §roem-8-21
@@ -54534,6 +54534,9 @@
 #}
 #lk-4-18 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit
+ }
+ {
   Der Herr zitiert §jes-61-1-2 (aber ohne das dortige »und den Tag der Rache unseres Gottes…«)
  }
  {
@@ -64188,7 +64191,7 @@
 #}
 #roem-8-21 {
  {
-  Von der Knechtschaft zu der Freiheit: §2mo-21-2
+  Von der Knechtschaft zur → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit §2mo-21-2, → biblisches/Texte/Knechtschaft-Freiheit
  }
 #}
 #roem-8-22 {
@@ -65539,6 +65542,11 @@
   <i>Nicht viele Edle</i>: die Edle gesinnung hat auch den Beröern nicht geholfen: <a class='kom' href='#Iapg-17-11'>Apg 17,11ff</a>.
  }
 #}
+#1kor-1-29 {
+ {
+  Vgl §2kor-11-18, §gal-6-13
+ }
+#}
 #1kor-1-30 {
  {
   <i>Weisheit</i> vgl <a class='kom' href='#Ispr-3-19'>Spr&nbsp;3,19</a>.
@@ -66264,7 +66272,7 @@
 #}
 #1kor-7-19 {
  {
-  <a class='kom' href='#Igal-5-6'>Gal&nbsp;5,6</a>.
+  <i>Die Beschneidung ist nichts, und die Vorhaut ist nichts</i> §gal-5-6, §gal-6-15
  }
 #}
 #1kor-7-20 {
@@ -66575,6 +66583,11 @@
   <i>Götzenopferfleisch essen</i>: <a class='kom' href='#Iapg-15-29'>Apg&nbsp;15,29</a>.
  }
 #}
+#1kor-10-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit
+ }
+#}
 #1kor-10-30 {
  {
   TODO: <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
@@ -66869,10 +66882,13 @@
 #}
 #1kor-13-2 {
  {
-  <i>Berge versetzen</i>: §+mt-17-20
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
+ }
+ {
+  <i>Berge versetzen</i>: §+mt-17-20
  }
 #}
 #1kor-13-4 {
@@ -66915,6 +66931,7 @@
  {
   <i>Glaube, Liebe, Hoffnung</i>: §1thes-1-3, §1thes-5-8
   <br>Vgl mit <i>Glaube, Liebe, Geduld</i> in §+tit-2-2.
+  <br>→ biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
 #}
 @}
@@ -67732,6 +67749,11 @@
   Nicht nur Israel ist bedeckt, sondern auch die Nationen (<a href='http://bibel.renenyffenegger.ch/jes_25.html#v7'>Jes&nbsp;25,7</a>).
  }
 #}
+#2kor-3-17 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit
+ }
+#}
 #2kor-3-18 {
  {
   Vgl <a class='kom' href='#I1kor-13-12'>1.&nbsp;Kor&nbsp;13,12</a>.
@@ -68195,6 +68217,11 @@
   Vgl die helfenden <i>Brüder aus Mazedonien</i> mit den helfenden Philipppern (<a class='kom' href='#Iphil-4-16'>Phil&nbsp;4,16</a>).
  }
 #}
+#2kor-11-18 {
+ {
+  Vgl §1kor-1-29, §gal-6-13
+ }
+#}
 #2kor-11-22 {
  {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/roem_11.html#v1'>Röm&nbsp;11,1</a>.
@@ -68576,6 +68603,9 @@
   <i>eingeschlichene Brüder</i> vgl <a href='http://bibel.renenyffenegger.ch/jud_1.html#v4'>Jud&nbsp;1,4</a>.
  }
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
  }
 #}
@@ -68670,11 +68700,10 @@
 @Galater 3 {
 #gal-3-1 {
  {
-   <span class='gt'>In NA fehlt «daß ihr der Wahrheit nicht gehorcht, euch».</span>
+  <i>Der Wahrheit nicht gehorchen</i> vgl §gal-5-7.  Vgl auch «der Wahrheit ungehorsam sein» (§roem-2-8) und die damit verbundenen harten Worte.
  }
  {
-  TODO: <i>Der Wahrheit nicht gehorchen</i> vgl <a href='http://bibel.renenyffenegger.ch/gal_5.html#v7'>Gal&nbsp;5,7</a>.
-  Vgl auch «der Wahrheit ungehorsam sein» (<a href='http://bibel.renenyffenegger.ch/roem_2.html#v8'>Röm&nbsp;2,8</a>) und die damit verbundenen harten Worte.
+   <span class='gt'>In NA fehlt «daß ihr der Wahrheit nicht gehorcht, euch».</span>
  }
 #}
 #gal-3-2 {
@@ -68925,7 +68954,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Galater 5 {
 #gal-5-1 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/feststehen
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit, → biblisches/Eigene-Uebersetzung/Konkordanz/feststehen
  }
  {
   TODO: Siehe <a class='kom' href='#I1kor-7-23'>1.&nbsp;Kor&nbsp;7,23</a>.
@@ -68938,8 +68967,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-5-6 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/gal_6.html#v15'>Gal&nbsp;6,15</a>
-  und <a class='kom' href='#I1kor-7-19'>1.&nbsp;Kor&nbsp;7,19</a>.
+  <i>Weder Beschneidung noch Vorhaut vermag etwas</i> §gal-6-15 und §+1kor-7-19.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
@@ -68961,11 +68992,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Einander dienen</i>: <a class='kom' href='#Iroem-1-9'>Röm&nbsp;1,9</a>.
-         <br>
-         <i>Dient einander durch die → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe</i>: §+1kor-16-14
+ <br>
+  <i>Dient einander durch die → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe</i>: §+1kor-16-14
  }
  {
-  <i>Freiheit</i>: <a class='kom' href='#Iroem-6-15'>Röm&nbsp;6,15</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit vgl §+roem-6-15.
  }
 #}
 #gal-5-14 {
@@ -68981,6 +69012,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #gal-5-18 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/roem_8.html#v14'>Röm&nbsp;8,14</a>: die durch den Geist Gottes geleitet werden, sind Söhne Gottes.
+ }
+#}
+#gal-5-19 {
+ {
+  <span class='gt'>In NA fehlt «Ehebruch»</span>
  }
 #}
 #gal-5-20 {
@@ -69111,9 +69147,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    Paulus <i>eigenhändiger Gruss</i> vgl <a class='kom' href='#I1kor-16-21'>1.&nbsp;Kor&nbsp;16,21</a>.
  }
 #}
+#gal-6-13 {
+ {
+  <i>dass sie sich eures Fleisches rühmen</i> §1kor-1-29, §2kor-11-18
+ }
+#}
 #gal-6-15 {
  {
-  Vgl <a class='kom' href='#Igal-5-6'>Gal&nbsp;5,6</a>.
+  <i>weder Beschneidung noch Vorhaut ist etwas</i> §1kor-7-19, §gal-5-6
  }
  {
   <i>Neue Schöpfung</i>: §2kor-5-17.
@@ -69247,6 +69288,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
    <i>Versiegelung mit dem Heiligen Geist</i>: Diese wird auch in <a href='http://bibel.renenyffenegger.ch/eph_4.html#v30'>Eph&nbsp;4,30</a>
    <a href='http://bibel.renenyffenegger.ch/2kor_1.html#v22'>2.&nbsp;Kor&nbsp;1,22</a> angetönt.
+ }
+#}
+#eph-1-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube, vgl §kol-1-4  
  }
 #}
 #eph-1-16 {
@@ -69509,6 +69555,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Vaterschaft</i>: in anderen Übersetzungen auch «Geschlecht» oder «Vaterschaft».
+ }
+#}
+#eph-3-17 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
 #}
 #eph-3-19 {
@@ -69936,6 +69987,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Diener</i>: <a class='kom' href='#I1kor-4-1'>1.&nbsp;Kor&nbsp;4,1</a>.
+ }
+#}
+#eph-6-23 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
 #}
 @}
@@ -70543,6 +70599,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-1-4 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube, vgl §eph-1-15
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
  }
 #}
@@ -71118,7 +71177,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Werk im Glauben</i>: <a class='kom' href='#Ijak-2-26'>Jak&nbsp;2,26</a>.
  }
  {
-  <i>Glaube, Liebe, Hoffnung</i>: <a class='kom' href='#I1kor-13-13'>1.&nbsp;Kor&nbsp;13,13</a>.
+  <i>Glaube, Liebe, Hoffnung</i>: §+1kor-13-13.
+  <br>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
  {
   Beachte: hier und in Vers 8 rühmt Paulus den <i>Glauben</i> der Thessaloniker, aber in <a href='http://bibel.renenyffenegger.ch/1thes_3.html#v5'>1.&nbsp;Thes&nbsp;3,5</a> erkundigte er
@@ -71354,6 +71415,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
    <i>[es] euch sehr verlangt</i>: §+1thes-2-8.
  }
+ {
+  <i>Evangelium</i>: Sch2K übersetzt mit «gute Nachricht», Elberfelder mit «gute Botschaft», KJV mit «good tidings».
+ }
 #}
 #1thes-3-8 {
  {
@@ -71561,6 +71625,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Glaube, Liebe, Hoffnung</i>: §1kor-13-13
+  <br>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
 #}
 #1thes-5-9 {
@@ -71667,11 +71733,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-1-3 {
  {
-  Im ersten Brief wurden die Thessaloniker noch ermahnt, in der Bruderliebe zuzunehmen (§1thes-4-9-10).
-  In diesem Brief wird → biblisches/Personen/Paulus die Thessaloniker aufrufen, ihre Herzen zu der → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-gottes zu richten.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube 
+  <br>
+  Paulus über den <i>Glauben</i> der Thessaloniker im ersten Brief: §+1thes-1-3.
  }
  {
-  Paulus über den <i>Glauben</i> der Thessaloniker im ersten Brief: <a class='kom' href='#I1thes-1-3'>1.&nbsp;Thes&nbsp;1,3</a>.
+  Im ersten Brief wurden die Thessaloniker noch ermahnt, in der Bruderliebe zuzunehmen (§1thes-4-9-10).
+  In diesem Brief wird → biblisches/Personen/Paulus die Thessaloniker aufrufen, ihre Herzen zu der → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-gottes zu richten.
  }
  {
   <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
@@ -72000,6 +72068,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-1-5 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
+ }
+ {
   <i>Gebot</i> <span class='gr'>παραγγελία</span>, Strongs 3852: <a class='kom' href='#Iapg-5-28'>Apg&nbsp;5,28</a>. Siehe auch
   Vers 18 und <a class='kom' href='#I1tim-6-14'>1.&nbsp;Tim&nbsp;6,14</a>.
  }
@@ -72204,6 +72275,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   TODO: Vgl dieses <i>ich</i> mit <a href='http://bibel.renenyffenegger.ch/1kor_7.html#v7'>1.&nbsp;Kor&nbsp;7,7</a>. (Die Frage ist, warum das vorliegende ich
   stärker sein sollte wie jenes im Korintherbrief.)
+ }
+#}
+#1tim-2-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
 #}
 @}
@@ -72488,7 +72564,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-4-12 {
  {
-         <i>Keuschheit</i>: <span class='gr'>ἁγνεία</span> (Strongs 47, 2x), vgl §1tim-5-2, §1tim-5-22
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
+ }
+ {
+  <i>Keuschheit</i>: <span class='gr'>ἁγνεία</span> (Strongs 47, 2x), vgl §1tim-5-2, §1tim-5-22
  }
  {
   <i>früherer Wandel</i>: <a class='kom' href='#Ieph-4-22'>Eph&nbsp;4,22</a>.
@@ -72664,6 +72743,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1tim-6-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
+ }
  {
   Die «du aber» von Paulus: <ul>
       <li>Du aber, o Mensch Gottes, fliehe diese Dinge, jage aber nach Gerechtigkeit, Gottesfurcht, Glauben, Liebe, Geduld, Sanftmut!
@@ -72870,6 +72952,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Glaube und → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe, die in Christo Jesu sind</i>: §1tim-1-14
   <br>
   Vgl «Glauben, der in Christo Jesu ist» §2tim-3-15
+  <br>
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
  {
   <i>Bild</i> <span class='gr'>ὑποτύπωσις</span> (Strongs 5296, 2x). In KJV mit «pattern» übersetzt. Das Wort kommt noch in §1tim-1-16 vor.
@@ -72990,11 +73074,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-2-22 {
  {
-  Vgl mit <a class='kom' href='#I1tim-6-11'>1.&nbsp;Tim&nbsp;6,11</a><br>
-  <i>Dem Frieden nachjagen</i>: vgl <a href='http://bibel.renenyffenegger.ch/ps_34.html#v15'>Ps&nbsp;34,15</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
  {
-  <i>Fliehe</i>: <a class='kom' href='#I1tim-6-11'>1.&nbsp;Tim&nbsp;6,11</a>.
+  <i>Fliehe</i> mit §+1tim-6-11
+  <br>
+  <i>Dem Frieden nachjagen</i>: vgl §ps-34-15.
  }
  {
   <i>Gerechtigkeit</i>: Dir Schrift erzieht darin (<a href='http://bibel.renenyffenegger.ch/2tim_3.html#v16'>2.&nbsp;Tim&nbsp;3,16</a>),
@@ -73100,7 +73185,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-3-10 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Vorsatz
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Vorsatz, → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
  {
    Siehe Paulus' «du aber» <a class='kom' href='#I1tim-6-11'>1.&nbsp;Tim&nbsp;6,11</a>.
@@ -73497,7 +73582,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Geduld</i>: <a class='kom' href='#Ilk-8-15'>Lk&nbsp;8,15</a>.
  }
  {
-  <i>Glaube, Liebe, Geduld</i>: <a class='kom' href='#I1kor-13-13'>1.&nbsp;Kor&nbsp;13,13</a>.
+  <i>Glaube, Liebe, Geduld</i>: §+1kor-13-13.
+  <br>
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
 #}
 #tit-2-3 {
@@ -73665,7 +73752,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #tit-3-15 {
  {
-   <a class='kom' href='#Itit-1-4'>Tit&nbsp;1,4</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
+ }
+ {
+   §+tit-1-4.
  }
 #}
 @}
@@ -73704,6 +73794,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #phim-1-4 {
  {
   <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>. In Kombination mit <i>denken</i>: <a class='kom' href='#Iphil-1-3'>Phil&nbsp;1,3</a>.
+ }
+#}
+#phim-1-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
 #}
 #phim-1-6 {
@@ -75533,8 +75628,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-1-25 {
  {
-  <i>Gesetz der Freiheit</i>: <a class='kom' href='#Ijak-2-12'>Jak&nbsp;2,12</a>.
-  <br>Vgl auch <a class='kom' href='#Iroem-6-15'>Röm&nbsp;6,15</a>.
+  <i>Gesetz der → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit</i> §+jak-2-12.
+  <br>Vgl auch §+roem-6-15.
  }
  {
   <i>Glückselig</i>: <a class='kom' href='#Ilk-11-28'>Lk&nbsp;11,28</a>.
@@ -75587,7 +75682,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-2-12 {
  {
-  <i>Gesetz der Freiheit</i>: <a class='kom' href='#Ijak-1-25'>Jak&nbsp;1,25</a>.
+  <i>Gesetz der → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit</i> §+jak-1-25.
  }
 #}
 #jak-2-13 {
@@ -76144,6 +76239,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   TODO: Beachte auch, dass im 1. Petrus Brief der Ausdruck 'Wille Gottes' vier Mal vorkommt.
+ }
+#}
+#1petr-2-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit
  }
 #}
 #1petr-2-17 {
@@ -76955,6 +77055,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: <i>Lohn</i> dasselbe Wort im Griechischen wie für <i>Gewinn</i> in <a href='http://bibel.renenyffenegger.ch/jud_1.html#v11'>Jud&nbsp;1,11</a>.
  }
 #}
+#2petr-2-19 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit
+ }
+#}
 #2petr-2-20 {
  {
   <i>Erkenntnis des Herrn und Retters Jesus Christus</i>: <a class='kom' href='#I2petr-1-2'>2.&nbsp;Petr&nbsp;1,2</a>.
@@ -77411,6 +77516,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1joh-3-22 {
  {
   <i>Gebot</i>: <a class='kom' href='#I1joh-2-3'>1.&nbsp;Joh&nbsp;2,3</a>
+ }
+#}
+#1joh-3-23 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
 #}
 #1joh-3-24 {
@@ -78327,6 +78437,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Ebenso schreibt Epiphanus ca 367, dass die Alogi-Sekte die Offenbarung wegen desselben Grundes ablehnte. Epiphanus gibt zwar der historischen Tatsache recht, sagt aber
   auch, dass Johannes über eine zukünftige Gemeinde schrieb.
   </span>
+ }
+#}
+#offb-2-19 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
 #}
 #offb-2-20 {
