@@ -7590,6 +7590,9 @@
  {
   <i>Verstocktes Herz des Pharao</i>: <a href='http://bibel.renenyffenegger.ch/1sam_6.html#v6'>1.&nbsp;Sam&nbsp;6,6</a>.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Finger/Gottes
+ }
 #}
 #2mo-8-18 {
  {
@@ -9115,6 +9118,11 @@
  }
  {
   Beachte: hier will Gott 'dich' segnen, in <a href='http://bibel.renenyffenegger.ch/2mo_23.html#v25'>2.&nbsp;Mo&nbsp;23,25</a> 'Wasser und Brot'.
+ }
+#}
+#2mo-20-25 {
+ {
+  → biblisches/Personen/Aaron wird das <i>goldene Kalb</i> mit einem <i>Meissel</i> bilden §2mo-32-4
  }
 #}
 #2mo-20-26 {
@@ -10705,9 +10713,7 @@
 #}
 #2mo-31-6 {
  {
-  <i>Oholiab</i> (<span class='hebr'>אָהֳלִיאָב</span>, Strongs 171) bedeutet wohl 'Zelt des Vaters', bestehend aus <span class='hebr'>אֹהֶל</span> (Strongs 168) und
-  <span class='hebr'>אָב</span> (Strongs 1), vgl <i>Oholiab</i> in <a class='kom' href='#Ihes-23-4'>Hes&nbsp;23,4</a>.
-  <br>Huram-Abi (<a class='kom' href='#I2chr-2-13'>2.&nbsp;Chr&nbsp;2,13</a>) ist mütterlicherseits vom Stamm Dan.
+  → biblisches/Personen/Oholiab
  }
 #}
 #2mo-31-7 {
@@ -10769,6 +10775,9 @@
   <br>S.a. §2mo-24-12
  }
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Finger/Gottes, vgl §5mo-9-10
+ }
+ {
   TODO: Ist das nach den 40 Tagen von <a href='http://bibel.renenyffenegger.ch/2mo_24.html#v18'>2.&nbsp;Mo&nbsp;24,18</a>?
  }
  {
@@ -10802,7 +10811,8 @@
 #}
 #2mo-32-4 {
  {
-  Vgl 'bildete es mit dem Meissel' mit <a href='http://bibel.renenyffenegger.ch/2mo_32.html#v24'>Vers 24</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#gegossenes-kalb: 
+  <i>bildete es mit dem Meissel</i> vgl §V2mo-32-24, §+2mo-20-25
  }
  {
   Vgl §neh-9-18-19 Sogar als sie sich ein gegossenes Kalb machten … verließest du in deinen großen Erbarmungen sie doch nicht in der Wüste …
@@ -10811,9 +10821,14 @@
   <span class='u'>Vgl Suren 2:51-54, 2:92</span>
  }
 #}
+#2mo-32-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/HERRN[Feste des HERRN]
+ }
+#}
 #2mo-32-6 {
  {
-  Das Volk wurde hier zu Götzendienern (<a href='http://bibel.renenyffenegger.ch/1kor_10.html#v7'>1.&nbsp;Kor&nbsp;10,7</a>).
+  Das Volk wurde hier zu Götzendienern §1kor-10-7.
  }
 #}
 #2mo-32-7 {
@@ -11037,6 +11052,11 @@
   Trotzdem werden sie einen Bund schliessen mit den Einwohnern von Gibeon (<a href='http://bibel.renenyffenegger.ch/jos_9.html#v3'>Jos 9,3-15</a>).
  }
 #}
+#2mo-34-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim
+ }
+#}
 #2mo-34-14 {
  {
   In <span class='hebr'>אַחֵ֑ר</span> (Strongs 312) ist das Resch vergrössert, siehe <a href='#typo_details'>Typografische Details im Alten Testament</a>.
@@ -11175,6 +11195,11 @@
   TODO: Vgl mit <a class='kom' href='#I2mo-31-2'>2. Mo 31,2 ff</a>.
  }
 #}
+#2mo-35-34 {
+ {
+  → biblisches/Personen/Oholiab
+ }
+#}
 #2mo-35-35 {
  {
   TODO: siehe <a class='kom' href='#I2mo-31-2'>2.&nbsp;Mo&nbsp;31,2</a>.
@@ -11184,7 +11209,7 @@
 @2. Mose 36 {
 #2mo-36-1 {
  {
-  → biblisches/Personen/Bezaleel[Bezaleel]
+  → biblisches/Personen/Bezaleel[Bezaleel], → biblisches/Personen/Oholiab
  }
 #}
 #2mo-36-35 {
@@ -11260,6 +11285,11 @@
 #2mo-38-22 {
  {
   → biblisches/Personen/Bezaleel[Bezaleel]
+ }
+#}
+#2mo-38-23 {
+ {
+  → biblisches/Personen/Oholiab
  }
 #}
 #2mo-38-24 {
@@ -12450,7 +12480,7 @@
 #}
 #3mo-18-21 {
  {
-  <i>Moloch</i> <span class='hebr'>מֹלֶךְ</span> (Strongs 4432), vgl <span class='hebr'>מָלַךְ</span> (Strongs 4427), s.a <a href='http://bibel.renenyffenegger.ch/3mo_20.html#v2'>3.&nbsp;Mo&nbsp;20,2</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#molech <span class='hebr'>מֹלֶךְ</span> (Strongs 4432), vgl <span class='hebr'>מָלַךְ</span> (Strongs 4427), s.a <a href='http://bibel.renenyffenegger.ch/3mo_20.html#v2'>3.&nbsp;Mo&nbsp;20,2</a>.
   <br>Moloch ist der <i>Gräuel der Ammoniter</i>: <a href='http://bibel.renenyffenegger.ch/1koe_11.html#v7'>1.&nbsp;Kö&nbsp;11,7</a>.
  }
  {
@@ -12596,9 +12626,7 @@
 @3. Mose 20 {
 #3mo-20-2 {
  {
-  <i>Moloch</i>: Offenbar hatte Manasse seinen Sohn dem Moloch gegeben (vgl <a href='http://bibel.renenyffenegger.ch/2koe_21.html#v6'>2.&nbsp;Kö&nbsp;21,6</a> in
-  Verbindung mit <a href='http://bibel.renenyffenegger.ch/2koe_23.html#v10'>2.&nbsp;Kö&nbsp;23,10</a>).
-  <a href='http://bibel.renenyffenegger.ch/jer_32.html#v35'>Jer&nbsp;32,35</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#molech: Offenbar hatte Manasse seinen Sohn dem Moloch gegeben (vgl §2koe-21-6 in Verbindung mit §2koe-23-10). §jer-32-35.
  }
  {
   Vgl auch <a class='kom' href='#Iri-11-35'>Ri&nbsp;11,35</a>,
@@ -14947,6 +14975,9 @@
 #}
 #4mo-21-29 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#kemosch
+ }
+ {
   <i>Moab</i> und <i>Flüchtlinge</i> vgl Last über Moab: <a href='http://bibel.renenyffenegger.ch/jes_16.html#v4'>Jes&nbsp;16,4</a>.
  }
 #}
@@ -15060,6 +15091,9 @@
  }
 #}
 #4mo-22-41 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#baal
+ }
  {
   <i>Höhen</i>: Siehe <a class='kom' href='#I3mo-26-30'>3.&nbsp;Mo&nbsp;26,30</a> und <a href='http://bibel.renenyffenegger.ch/4mo_21.html#v19'>4.&nbsp;Mo&nbsp;21,19</a>.
   Die Höhen Baals kommen auch in <a href='http://bibel.renenyffenegger.ch/jos_13.html#v17'>Jos&nbsp;13,17</a> vor.
@@ -15213,6 +15247,9 @@
  }
 #}
 #4mo-25-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#baal
+ }
  {
   <i>Peor</i>: Siehe <a class='kom' href='#I4mo-23-19'>4.&nbsp;Mo&nbsp;23,19</a>.
  }
@@ -16837,6 +16874,11 @@
    S.a. <a class='kom' href='#Iri-14-2'>Ri&nbsp;14,2</a>.
  }
 #}
+#5mo-7-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim
+ }
+#}
 #5mo-7-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum
@@ -16949,6 +16991,9 @@
      <br>
      Siehe auch §+2mo-31-18
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Finger/Gottes, vgl §2mo-31-18
+ }
 #}
 #5mo-9-12 {
  {
@@ -16958,6 +17003,11 @@
 #5mo-9-15 {
  {
   Siehe <a class='kom' href='#I5mo-32-15'>5.&nbsp;Mo&nbsp;32,15</a>.
+ }
+#}
+#5mo-9-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#gegossenes-kalb
  }
 #}
 #5mo-9-18 {
@@ -17103,6 +17153,11 @@
    Dieses Volk wollten den HERRN, der den Früh- und Spätregen gibt, nicht fürchten (§jer-5-24).
  }
 #}
+#5mo-11-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter
+ }
+#}
 #5mo-11-18 {
  {
   <i>Zeichen an der Hand</i> und <i>Stirnbänder zwischen den Augen</i>: vgl <a class='kom' href='#I2mo-13-16'>2.&nbsp;Mo&nbsp;13,16</a>.
@@ -17128,6 +17183,11 @@
 #}
 @}
 @5. Mose 12 {
+#5mo-12-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim
+ }
+#}
 #5mo-12-5 {
  {
   TODO: Hier erste Erwähnung des 'Ortes, den der HERR erwählen wird'?
@@ -17313,6 +17373,11 @@
 #5mo-16-19 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen
+ }
+#}
+#5mo-16-21 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim[Aschera]
  }
 #}
 #5mo-16-22 {
@@ -17932,6 +17997,11 @@
  {
    Siehe <a class='kom' href='#I1mo-19-24'>1.&nbsp;Mo&nbsp;19,24</a>.
    <br><i>Adama</i> und <i>Zeboim</i> vgl <a href='http://bibel.renenyffenegger.ch/hos_11.html#v8'>Hos&nbsp;11,8</a>.
+ }
+#}
+#5mo-29-25 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter
  }
 #}
 #5mo-29-27 {
@@ -20859,6 +20929,11 @@
   Mit <i>Jerub-Baal</i> ist wohl Gideon, nicht Joas, gemeint. Vgl auch <a href='http://bibel.renenyffenegger.ch/ri_7.html#v1'>Ri&nbsp;7,1</a>.
  }
 #}
+#ri-6-26 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim[Aschera]
+ }
+#}
 #ri-6-32 {
  {
   TODO: wer ist 'Bedan' (<a href='http://bibel.renenyffenegger.ch/1sam_12.html#v11'>1.&nbsp;Sam&nbsp;12,11</a>)?
@@ -21098,6 +21173,11 @@
 #ri-11-19 {
  {
   Vgl <a class='kom' href='#I4mo-21-21'>4.&nbsp;Mo&nbsp;21,21</a>.
+ }
+#}
+#ri-11-24 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#kemosch
  }
 #}
 #ri-11-29 {
@@ -23560,6 +23640,9 @@
 #}
 #1sam-31-10 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#astaroth
+ }
+ {
   Vgl <a href='http://bibel.renenyffenegger.ch/2sam_21.html#v12'>2.&nbsp;Sam&nbsp;21,12</a>, wo die Gebeine Sauls an einem [Markt-]Platz aufgehängt wurden.
  }
 #}
@@ -25297,7 +25380,7 @@
 #}
 #1koe-7-14 {
  {
-  <i>Huram-Abi</i>: <a class='kom' href='#I2chr-2-13'>2.&nbsp;Chr&nbsp;2,13</a>.
+  <i>Huram-Abi</i> ist gemäss §+2chr-2-13-14 «der Sohn einer Frau von den Töchtern Dans». Vgl mit 
  }
 #}
 #1koe-7-15 {
@@ -25647,7 +25730,15 @@
 #}
 #1koe-11-5 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#astaroth[Astoreth], → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#milkom
+ }
+ {
   TODO: Wie der König, so das Volk? vgl <a href='http://bibel.renenyffenegger.ch/1koe_11.html#v33'>Vers 33</a>. Oder sieht Gott das Volk 'durch' den König?
+ }
+#}
+#1koe-11-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#kemosch, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#molech
  }
 #}
 #1koe-11-13 {
@@ -25800,6 +25891,9 @@
  }
 #}
 #1koe-12-28 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#goldene-kaelber
+ }
  {
    <i>Bildnis in Dan</i>: <a class='kom' href='#Iri-18-30'>Ri&nbsp;18,30</a>.
  }
@@ -26019,6 +26113,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempelhurer
  }
 #}
+#1koe-15-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim[Aschera], → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild, §2chr-15-16
+ }
+#}
 #1koe-15-14 {
  {
   TODO: Warum wird hier gesagt, dass das Herz <i>sein Leben lang</i> ungeteilt mit dem HERRN war. Der Seher Hanani sagt etwas anderes
@@ -26147,7 +26246,7 @@
 #}
 #1koe-16-33 {
  {
-  Die <i>Aschera Standbilder</i> wurden offenbar von Hesekia (?) wieder umgehauen (<a href='http://bibel.renenyffenegger.ch/2chr_31.html#v1'>2.&nbsp;Chr&nbsp;31,1</a>).
+  Die → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim[Aschera] wurden offenbar von Hesekia (?) wieder umgehauen §2chr-31-1. Vgl aber §2koe-17-10
  }
 #}
 #1koe-16-34 {
@@ -26807,6 +26906,16 @@
   TODO: Ist hier die letzte (auch zeitlich) Erwähnung <i>Elias</i>. Es steht nirgends, dass er gestorben ist.
  }
 #}
+#2koe-10-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#baal
+ }
+#}
+#2koe-10-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#goldene-kaelber
+ }
+#}
 #2koe-10-30 {
  {
   Erfüllt in <a href='http://bibel.renenyffenegger.ch/2koe_15.html#v12'>2.&nbsp;Kö&nbsp;15,12</a>.
@@ -27196,6 +27305,9 @@
 #}
 #2koe-17-6 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#gegossenes-kalb
+ }
+ {
   <a href='http://bibel.renenyffenegger.ch/jes_10.html#v11'>Jes&nbsp;10,11</a>: wie Mit Samaria und ihren Götzen, so auch mit Jerusalem
   und ihren Götzenbildern (<a href='http://bibel.renenyffenegger.ch/jes_10.html#v10'>Jes&nbsp;10,10</a>).
  }
@@ -27216,6 +27328,11 @@
   TODO: Der HERR hat Israel den Scheidebrief gegeben (<a href='http://bibel.renenyffenegger.ch/jer_3.html#v8'>Jer&nbsp;3,8</a>).
  }
 #}
+#2koe-17-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim
+ }
+#}
 #2koe-17-13 {
  {
     Diese → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] wurden offenbar → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] §neh-9-26.
@@ -27227,6 +27344,11 @@
 #2koe-17-14 {
  {
   <i>sie → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten[verhärteten ihren Nacken], gleich dem Nacken ihrer Väter</i> §2chr-30-8
+ }
+#}
+#2koe-17-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#baal
  }
 #}
 #2koe-17-23 {
@@ -27246,6 +27368,11 @@
 #2koe-17-30 {
  {
   <i>Sukkot-Benot</i> bedeutet wohl 'Hütten der Töchter' (siehe auch <a class='kom' href='#I1mo-33-17'>1.&nbsp;Mo&nbsp;33,17</a>).
+ }
+#}
+#2koe-17-41 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild
  }
 #}
 @}
@@ -27275,8 +27402,11 @@
 #}
 #2koe-18-4 {
  {
-  Vgl <a class='kom' href='#I2chr-32-12'>2.&nbsp;Chr&nbsp;32,12</a>.
-  Die Höhen wurden von seinem Sohn Manasse wieder gebaut (<a href='http://bibel.renenyffenegger.ch/2koe_21.html#v3'>2.&nbsp;Kö&nbsp;21,3</a>).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim[Aschera]
+ }
+ {
+  Vgl §+2chr-32-12.
+  Die Höhen wurden von seinem Sohn Manasse wieder gebaut (§2koe-21-3).
  }
  {
   TODO: <i>Nechuschtan</i> (<span class='hebr'>נְחֻשְׁתָּן</span>, Strongs 5180, 1x) stammt von
@@ -27772,7 +27902,7 @@
   <br>Siehe auch <a class='kom' href='#Ijes-30-33'>Jes&nbsp;30,33</a>.
  }
  {
-  <a class='kom' href='#I3mo-20-2'>3.&nbsp;Mo&nbsp;20,2</a>, <a class='kom' href='#I2koe-21-6'>2.&nbsp;Kö&nbsp;21,6</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#molech §+3mo-20-2, §+2koe-21-6.
  }
 #}
 #2koe-23-11 {
@@ -27786,6 +27916,9 @@
  }
 #}
 #2koe-23-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#astaroth, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#kemosch, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#milkom
+ }
  {
   <i>Ölberg</i>: <a class='kom' href='#I2sam-15-30'>2.&nbsp;Sam&nbsp;15,30</a>.
  }
@@ -29798,9 +29931,8 @@
 #}
 #2chr-2-13 {
  {
-  Huram-Abi <a class='kom' href='#I2mo-31-6'>2.&nbsp;Mo&nbsp;31,6</a>.
-  <br>Gemäss <a href='http://bibel.renenyffenegger.ch/1koe_7.html#v14'>1.&nbsp;Kö&nbsp;7,14</a> ist er mütterlicherseits von Napthali, nicht
-      von Dan (wie im nächsten Vers steht).
+  Huram-Abi, vgl → biblisches/Personen/Oholiab (§+2mo-31-6).
+  <br>Gemäss §1koe-7-14 ist er mütterlicherseits von Napthali, nicht von Dan (wie im nächsten Vers steht).
  }
 #}
 #2chr-2-14 {
@@ -30235,6 +30367,9 @@
 #}
 #2chr-13-8 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#goldene-kaelber
+ }
+ {
   <a class='kom' href='#I1koe-12-28'>1.&nbsp;Kö&nbsp;12,28</a>.
  }
  {
@@ -30353,6 +30488,11 @@
 #2chr-15-12 {
  {
    <i>Den HERRN suchen</i>: §2chr-11-16 , §2chr-30-19
+ }
+#}
+#2chr-15-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim[Aschera], → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild, §1koe-15-13
  }
 #}
 #2chr-15-18 {
@@ -30666,6 +30806,9 @@
  }
 #}
 #2chr-24-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
+ }
  {
   <i>Zorngericht</i> (<span class='hebr'>קֶצֶף</span>, Strongs 7110) möglicherweise besser übersetzt mit 'Zorn'?
   Vgl Vers 24.
@@ -31016,7 +31159,7 @@
 @2. Chronik 31 {
 #2chr-31-1 {
  {
-   <i>Aschera Standbilder</i>: <a class='kom' href='#I1koe-16-33'>1.&nbsp;Kö&nbsp;16,33</a>.
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim §+1koe-16-33.
  }
 #}
 #2chr-31-3 {
@@ -40845,6 +40988,11 @@
   TODO: vgl <a href='http://bibel.renenyffenegger.ch/jes_6.html#v13'>Jes&nbsp;6,13</a>.
  }
 #}
+#jes-44-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild
+ }
+#}
 #jes-44-16 {
  {
   <i>Ah</i>: <a class='kom' href='#Ihi-39-25'>Hi&nbsp;39,25</a>.
@@ -42149,7 +42297,10 @@
 #}
 #jer-10-14 {
  {
-  Vgl <i>gegossenes Bild ohne Geist</i> mit <a class='kom' href='#Ioffb-13-15'>Offb&nbsp;13,15</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild,  vgl <i>gegossenes Bild ohne Geist</i> mit §+offb-13-15
+ }
+ {
+  Derselbe Vers in §jer-51-17
  }
 #}
 #jer-10-16 {
@@ -43098,7 +43249,7 @@
 #}
 #jer-32-35 {
  {
-  <i>Moloch</i>: <a class='kom' href='#I3mo-20-2'>3.&nbsp;Mo&nbsp;20,2</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#molech §+3mo-20-2.
  }
 #}
 #jer-32-40 {
@@ -43685,7 +43836,7 @@
 #}
 #jer-48-13 {
  {
-  TODO: Wann verliess sich Israel auf Bethel?
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#kemosch
  }
 #}
 #jer-48-18 {
@@ -43715,6 +43866,11 @@
 #jer-48-34 {
  {
   Die <i>Wasserplätze von Nimrim</i>: siehe <a class='kom' href='#Ijes-15-6'>Jes&nbsp;15,6</a>.
+ }
+#}
+#jer-48-46 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#kemosch
  }
 #}
 #jer-48-47 {
@@ -43837,7 +43993,10 @@
 @Jeremia 50 {
 #jer-50-2 {
  {
-  <i>Bel</i>: <a class='kom' href='#Ijes-46-1'>Jes&nbsp;46,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter[Götzen], → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
+ }
+ {
+  <i>Bel</i>: §+jes-46-1.
  }
 #}
 #jer-50-8 {
@@ -43937,7 +44096,13 @@
 #}
 #jer-51-17 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild
+ }
+ {
   Beachte: das «andere Tier» wird dem «Bild des Tieres» einen Geist verleihen (<a href='http://bibel.renenyffenegger.ch/offb_13.html#v15'>Offb&nbsp;13,15</a>).
+ }
+ {
+  Derselbe Vers in §jer-10-14
  }
 #}
 #jer-51-25 {
@@ -44863,8 +45028,7 @@
 @Hesekiel 23 {
 #hes-23-4 {
  {
-  <i>Oholiba</i> ist <span class='hebr'>אָהֳלִיבָה</span> (Strongs 172) und bedeutet offenbar 'Frau des Zeltes' oder 'Das Zelt ist in ihr',
-  vgl Oholiab, <a class='kom' href='#I2mo-31-6'>2.&nbsp;Mo&nbsp;31,6</a>.
+  <i>Oholiba</i> ist <span class='hebr'>אָהֳלִיבָה</span> (Strongs 172) und bedeutet offenbar «Frau des Zeltes» oder «Das Zelt ist in ihr», vgl Oholiab, §+2mo-31-6.
  }
 #}
 #hes-23-10 {
@@ -46969,6 +47133,11 @@
   TODO: Vgl auch <a href='http://bibel.renenyffenegger.ch/hos_7.html#v14'>Hos&nbsp;7,14</a>.
  }
 #}
+#hos-8-4 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder], vgl §hos-13-2
+ }
+#}
 #hos-8-5 {
  {
   TODO: Mit dem <i>Kalb</i> ist wohl jenes aus <a class='kom' href='#Ihos-10-5'>Hos&nbsp;10,5</a>.
@@ -47116,6 +47285,11 @@
 #}
 @}
 @Hosea 13 {
+#hos-13-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild, vgl §hos-8-4
+ }
+#}
 #hos-13-4 {
  {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/jes_43.html#v11'>Jes&nbsp;43,11</a>.
@@ -47480,6 +47654,9 @@
   <span class='gr'>Ῥαιφάν</span> (Strongs 4481) wiedergebeben. (Ebenso offenbar auch in der LXX).
  }
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
+ }
+ {
   TODO: Vgl das <i>Sternbild eurer Götter</i> mit <a href='http://bibel.renenyffenegger.ch/apg_7.html#v43'>Apg&nbsp;7,43</a>.
  }
 #}
@@ -47693,6 +47870,11 @@
   TODO: Hat <i>Moraschit</i> etwas mit 'Moreschet-Gat' und/oder 'Marescha' zu tun?
  }
 #}
+#mi-1-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
+ }
+#}
 #mi-1-10 {
  {
   Vgl <i>Beth-Leaphra</i> (<span class='hebr'>בֵּית לְעַפְרָה</span>, Strongs ) mit Staub (<span class='hebr'>עָפָר</span>, Strongs 6083).
@@ -47848,6 +48030,11 @@
 #mi-5-5 {
  {
   → biblisches/Personen/Nimrod
+ }
+#}
+#mi-5-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim
  }
 #}
 @}
@@ -54971,6 +55158,11 @@
   <i>Zeichen</i>: vgl Vers 29.
  }
 #}
+#lk-11-20 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Finger/Gottes
+ }
+#}
 #lk-11-26 {
  {
   <i>sieben Geister</i>: <a class='kom' href='#Ilk-8-2'>Lk&nbsp;8,2</a>.
@@ -59526,6 +59718,11 @@
   die Väter selbst waren nicht gehorsam.
  }
 #}
+#apg-7-41 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild
+ }
+#}
 #apg-7-42 {
  {
   <i>Buch der Propheten</i> siehe auch <a class='kom' href='#Imt-1-1'>Mt&nbsp;1,1</a>.
@@ -59533,7 +59730,7 @@
 #}
 #apg-7-43 {
  {
-  <i>Remphan</i>: <a class='kom' href='#Iam-5-26'>Am&nbsp;5,26</a>.
+  <i>Remphan</i> und → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#molech[Moloch]: §+am-5-26.
  }
  {
   <i>Babylon</i>: <a class='kom' href='#Iam-5-27'>Am&nbsp;5,27</a>. TODO: Macht Stephanus durch das Auswechseln von 'Damaskus' mit 'Babylon'
@@ -61639,6 +61836,11 @@
   <i>Auftrag</i> (Strongs 1785): <a class='kom' href='#Ijoh-10-18'>Joh&nbsp;10,18</a>.
  }
 #}
+#apg-17-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
+ }
+#}
 #apg-17-17 {
  {
   TODO: <i>Gottesfürchtige</i> (<span class='gr'>σέβω</span>, Strongs 4576) wird in Elberfelder mit 'Anbetern' übersetzt.
@@ -63539,6 +63741,9 @@
 #roem-2-22 {
  {
   Tempelraub: vgl <a href='http://bibel.renenyffenegger.ch/apg_19.html#v37'>Apg&nbsp;19,37</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
  }
 #}
 #roem-2-24 {
@@ -66150,6 +66355,11 @@
   Vgl <a class='kom' href='#Iroem-11-36'>Röm&nbsp;11,36</a>.
  }
 #}
+#1kor-8-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild
+ }
+#}
 #1kor-8-9 {
  {
   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/roem_14.html#v13'>Röm&nbsp;14,13ff</a>.
@@ -66291,7 +66501,10 @@
 #}
 #1kor-10-7 {
  {
-  Vgl Vers 14.
+  <i>Das Volk setzte sich nieder…</i> §2mo-32-6
+ }
+ {
+  <i>Götzendiener</i> vgl §V1kor-10-14
  }
 #}
 #1kor-10-8 {
@@ -66345,6 +66558,11 @@
 #1kor-10-17 {
  {
    <i>Ein Leib</i>: §+1kor-12-12, §eph-4-4
+ }
+#}
+#1kor-10-19 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild
  }
 #}
 #1kor-10-23 {
@@ -67710,7 +67928,10 @@
 #}
 #2kor-6-16 {
  {
-   TODO: <a href='http://bibel.renenyffenegger.ch/3mo_26.html#v11'>3.&nbsp;Mo&nbsp;26,11</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
+ }
+ {
+   TODO: §3mo-26-11.
  }
 #}
 @}
@@ -70940,6 +71161,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1thes-1-9 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
+ }
  {
   <i>Dem lebendigen Gott dienen</i>: <a class='kom' href='#Iroem-1-9'>Röm&nbsp;1,9</a>, <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v14'>Hebr&nbsp;9,14</a>.
  }
@@ -79145,6 +79369,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-9-20 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
+ }
+ {
   <i>Plage</i> (<span class='gr'>πληγή</span>, Strongs 4127) wird zB in <a href='http://bibel.renenyffenegger.ch/2kor_6.html#v5'>2.&nbsp;Kor&nbsp;6,5</a> mit
   'Schlägen' übersetzt.
   <br>Die <i>sieben letzten Plagen</i>: <a href='http://bibel.renenyffenegger.ch/offb_15.html#v1'>Offb&nbsp;15,1</a>.
@@ -79766,7 +79993,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-13-15 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/jer_51.html#v17'>Jer&nbsp;51,17</a> (Im Götzenbild ist kein Geist).
+  Sch2K übersetzt <i>Odem</i> mit «Geist», vgl mit §jer-51-17 (Im → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild ist kein Geist).
  }
  {
    TODO: Es gibt Überwinder über das Tier, sein Bild und die Zahl seines Namens (<a href='http://bibel.renenyffenegger.ch/offb_15.html#v2'>Offb&nbsp;15,2</a>).
