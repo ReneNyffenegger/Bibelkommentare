@@ -2879,8 +2879,11 @@
 #}
 #1mo-15-7 {
  {
-  Beachte: hier sagt Gott: «ich bin der HERR», in <a href='http://bibel.renenyffenegger.ch/2mo_6.html#v3'>2.&nbsp;Mo&nbsp;6,3</a> sagt der HERR zu Mose,
-  dass er sich unter diesem Namen Abraham, Isaak und Jakob nicht geoffenbart hat. Vgl auch mit <i>Jehovah Jireh</i> in <a href='http://bibel.renenyffenegger.ch/1mo_22.html#v14'>1.&nbsp;Mo&nbsp;22,14</a>.
+  → biblisches/Personen/Abraham
+ }
+ {
+  Beachte: hier sagt Gott: «ich bin der HERR», in §2mo-6-3 sagt der HERR zu Mose,
+  dass er sich unter diesem Namen Abraham, Isaak und Jakob nicht geoffenbart hat. Vgl auch mit <i>Jehovah Jireh</i> in §1mo-22-14.
  }
  {
   Vgl <a class='kom' href='#I1mo-12-7'>1.&nbsp;Mo&nbsp;12,7</a>.
@@ -3738,7 +3741,10 @@
 #}
 #1mo-22-14 {
  {
-  <i>Jehovah Jireh</i>: <a class='kom' href='#I1mo-15-7'>1.&nbsp;Mo&nbsp;15,7</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen[heutigen Tages]
+ }
+ {
+  <i>Jehovah Jireh</i>: §+1mo-15-7.
  }
 #}
 #1mo-22-17 {
@@ -4320,6 +4326,9 @@
  }
 #}
 #1mo-26-33 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+ }
  {
   Brunnen in Beerscheba, siehe: <a class='kom' href='#I1mo-21-30'>1.&nbsp;Mo&nbsp;21,30</a>.
  }
@@ -6421,6 +6430,11 @@
 #1mo-47-25 {
  {
   <i>Wir wollen des Pharao Knechte sein</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-knechte-aegyptens
+ }
+#}
+#1mo-47-26 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
  }
 #}
 #1mo-47-27 {
@@ -8896,6 +8910,11 @@
   <a href='http://bibel.renenyffenegger.ch/offb_1.html#v7'>Offb&nbsp;1,7</a>.
  }
 #}
+#2mo-19-11 {
+ {
+  → biblisches/Orte/Berg-Sinai
+ }
+#}
 #2mo-19-13 {
  {
   <i>Horn</i>, <span class='he'>יוֹבֵל</span> (Strongs 3104), sonst mit «Jubel» übersetzt, zB §3mo-25-11-ff.
@@ -8916,6 +8935,9 @@
  }
 #}
 #2mo-19-20 {
+ {
+  Der HERR stieg auf den → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/Sinai herab §neh-9-13
+ }
  {
   Der HERR stand zwischen dem HERRN und dem Volk, weil sich das Volk vor dem Feuer gefürchtet hat, und nicht auf den Berg gegangen ist
   (<a href='http://bibel.renenyffenegger.ch/5mo_5.html#v5'>5.&nbsp;Mo&nbsp;5,5</a>).
@@ -10776,6 +10798,8 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Finger/Gottes, vgl §5mo-9-10
+  <br>
+  → biblisches/Orte/Berg-Sinai
  }
  {
   TODO: Ist das nach den 40 Tagen von <a href='http://bibel.renenyffenegger.ch/2mo_24.html#v18'>2.&nbsp;Mo&nbsp;24,18</a>?
@@ -11886,6 +11910,11 @@
   <br>Auf jeden Fall kommt dieses Wort (in der Schlachter 2000 als 'Einsetzung' übersetzt) in
   <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v22'>2. Mo 29,22/26/27/31 und 34</a> und
   <a href='http://bibel.renenyffenegger.ch/3mo_8.html#v22'>3. Mo 8,22/28/29/31 und 33</a> vor.
+ }
+#}
+#3mo-7-38 {
+ {
+  → biblisches/Orte/Berg-Sinai
  }
 #}
 @}
@@ -13203,6 +13232,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
  }
 #}
+#3mo-26-46 {
+ {
+  → biblisches/Orte/Berg-Sinai
+ }
+#}
 @}
 @3. Mose 27 {
 #3mo-27-1 {
@@ -13286,6 +13320,11 @@
 #3mo-27-32 {
  {
   TODO: Offenbar enthält dieser Vers Strongs 7626, siehe <a class='kom' href='#I1mo-49-10'>1.&nbsp;Mo&nbsp;49,10</a>.
+ }
+#}
+#3mo-27-34 {
+ {
+  → biblisches/Orte/Berg-Sinai
  }
 #}
 @}
@@ -16561,8 +16600,11 @@
 #}
 #5mo-3-14 {
  {
-         TODO: <i>Geschuriter</i> in <a href='http://bibel.renenyffenegger.ch/1sam_27.html#v8'>1.&nbsp;Sam&nbsp;27,8</a> sind sie die Bewohner des Landes bis nach Schur hin und bis zum Land Ägypten.
-         Vgl <i>Geschuri</i> in <a href='http://bibel.renenyffenegger.ch/jos_13.html#v2'>Jos&nbsp;13,2</a> (das nach Josua noch einzunehmen blieb).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+ }
+ {
+   TODO: <i>Geschuriter</i> in <a href='http://bibel.renenyffenegger.ch/1sam_27.html#v8'>1.&nbsp;Sam&nbsp;27,8</a> sind sie die Bewohner des Landes bis nach Schur hin und bis zum Land Ägypten.
+   Vgl <i>Geschuri</i> in <a href='http://bibel.renenyffenegger.ch/jos_13.html#v2'>Jos&nbsp;13,2</a> (das nach Josua noch einzunehmen blieb).
  }
 #}
 #5mo-3-15 {
@@ -17965,6 +18007,9 @@
 #}
 #5mo-29-3 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+ }
+ {
   <i>Ohren, die hören</i>: vgl <a class='kom' href='#I2mo-24-7'>2.&nbsp;Mo&nbsp;24,7</a>.
  }
 #}
@@ -18053,6 +18098,9 @@
 { 31-34
 @5. Mose 31 {
 #5mo-31-6 {
+ {
+  <i>Seid stark und mutig…</i> §jos-1-9, §1chr-28-20
+ }
  {
    'er wird dich nicht aufgeben noch dich verlassen' wird in <a href='http://bibel.renenyffenegger.ch/hebr_13.html#v5'>Hebr&nbsp;13,5</a> zitert, da im
    Kontext 'Euer Lebenswandel sei frei von Geldliebe! Begnügt euch mit dem, was vorhanden ist.'
@@ -18384,6 +18432,11 @@
   Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Befehl-des-HERRN, <a href='http://bibel.renenyffenegger.ch/4mo_33.html#v38'>4.&nbsp;Mo&nbsp;33,38</a>
  }
 #}
+#5mo-34-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+ }
+#}
 #5mo-34-8 {
  {
   Vgl <a class='kom' href='#I4mo-20-29'>4.&nbsp;Mo&nbsp;20,29</a>.
@@ -18471,6 +18524,11 @@
 #jos-1-8 {
  {
   Vgl <a class='kom' href='#Ips-1-2'>Ps&nbsp;1,2</a>.
+ }
+#}
+#jos-1-9 {
+ {
+  <i>Sei stark und muti…</i> §5mo-31-6, §1chr-28-20
  }
 #}
 #jos-1-11 {
@@ -18963,6 +19021,11 @@
  {
   Ai wurde wieder aufgebaut: <a href='http://bibel.renenyffenegger.ch/esr_2.html#v28'>Esr&nbsp;2,28</a>,
   <a href='http://bibel.renenyffenegger.ch/neh_11.html#v31'>Neh&nbsp;11,31</a>.
+ }
+#}
+#jos-8-28 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
  }
 #}
 #jos-8-30 {
@@ -20523,6 +20586,11 @@
   <i>Liessen sie gehen</i>: andere Übersetzung: «liessen sie ziehen».
  }
 #}
+#ri-1-26 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+ }
+#}
 #ri-1-27 {
  {
   Beachte, mit Manasse und den folgenden Stämmen war der HERR nicht. Hat sich der HERR abgewendet, weil die Israeliten den Mann aus Vers 25 gehen liessen?
@@ -20927,6 +20995,11 @@
  }
  {
   Mit <i>Jerub-Baal</i> ist wohl Gideon, nicht Joas, gemeint. Vgl auch <a href='http://bibel.renenyffenegger.ch/ri_7.html#v1'>Ri&nbsp;7,1</a>.
+ }
+#}
+#ri-6-24 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
  }
 #}
 #ri-6-26 {
@@ -21405,10 +21478,13 @@
 #}
 #ri-15-19 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+ }
+ {
   <i>En-Hakore</i> (<span class='hebr'>עֵין  הַקּוֹרֵא</span>, Strongs 5875 = 5869 + 7121) = 'Quelle des Rufenden'.
  }
  {
-         <i>Lechi</i> (<span class='hebr'>לְחִי</span>, Strongs 3895) dasselbe Wort, wie jenes, welches in <a href='http://bibel.renenyffenegger.ch/5mo_18.html#v3'>5.&nbsp;Mo&nbsp;18,3</a> oder
+   <i>Lechi</i> (<span class='hebr'>לְחִי</span>, Strongs 3895) dasselbe Wort, wie jenes, welches in <a href='http://bibel.renenyffenegger.ch/5mo_18.html#v3'>5.&nbsp;Mo&nbsp;18,3</a> oder
   Vers 15, 16 und 17
   'Kinnbacken' übersetzt wird. Vgl <a class='kom' href='#Iri-15-9'>Vers 9</a>. KJV übersetzt 'But God clave an hollow place that [was] in the <i>jaw</i>, &hellip;'
  }
@@ -23838,6 +23914,9 @@
  }
 #}
 #2sam-4-3 {
+ {
+  → development/languages/Perl/modules/index
+ }
  {
   <i>Gittaim</i> <span class='hebr'>גִּתַּיִם</span> (Strongs 1644): der Dual von Gat (Weinpresse).
  }
@@ -27024,6 +27103,9 @@
 #}
 #2koe-14-7 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+ }
+ {
   <i>Sela</i>: <span class='hebr'>סֶלַע</span> (Strongs 5554): dasselbe Wort wie Strongs 5553, und bedeutet 'Fels' wie zB in
   <a href='http://bibel.renenyffenegger.ch/4mo_20.html#v8'>4.&nbsp;Mo&nbsp;20,8</a> oder <a href='http://bibel.renenyffenegger.ch/ri_1.html#v36'>Ri&nbsp;1,36</a>.
   Ebenso in <a href='http://bibel.renenyffenegger.ch/jes_16.html#v1'>Jes&nbsp;16,1</a>.
@@ -29802,6 +29884,11 @@
   <a class='kom' href='#Ihebr-9-23'>Hebr&nbsp;9,23</a>.
  }
 #}
+#1chr-28-20 {
+ {
+  <i>Sei stark und mutig…</i> §2chr-1-1, vgl §5mo-31-6, §jos-1-9
+ }
+#}
 @}
 @1. Chronik 29 {
 #1chr-29-2 {
@@ -29878,6 +29965,11 @@
 { 2. Chronik
 { 1-10
 @2. Chronik 1 {
+#2chr-1-1 {
+ {
+  <i>Salomo erstarkte</i> §+1chr-28-20
+ }
+#}
 #2chr-1-3 {
  {
   Hier ist das → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft in Gibea, unter Eli war sie noch in Silo: §+1sam-2-22.
@@ -32036,6 +32128,11 @@
   <i>so hat sich der heilige Same mit den Völkern der Länder vermischt</i> vgl §dan-2-43
  }
 #}
+#esr-9-6 {
+ {
+  Esra identifiziert sich mit den Sünden des Volkes, vgl → biblisches/Personen/Daniel (§dan-9-5-19), §neh-9-33
+ }
+#}
 #esr-9-8 {
  {
   TODO: <i>Pflock</i>: <a href='http://bibel.renenyffenegger.ch/jes_22.html#v23'>Jes&nbsp;22,23</a>.
@@ -32749,13 +32846,28 @@
 #}
 @}
 @Nehemia 9 {
+#neh-9-1 {
+#}
 #neh-9-3 {
  {
   <i>Sie lasen im Buch des Gesetzes des HERRN, ihres Gottes</i> vgl §neh-8-8.
   <br>Nachdem sie das Gesetz gelesen hatten, benötigten sie den Inhalt des Buches des Gesetzes für ihr Bussgebet ab §neh-9-6.
  }
  {
+  Sie lasen gleich lang im Gesetz wie sie Busse taten: Sündenerkenntnis korreliert mit der Wort-Erkenntnis.
+ }
+ {
   <i>Vor dem HERRN niederwerfen</i>: vgl §neh-8-6.
+ }
+#}
+#neh-9-4 {
+ {
+  <i>Bani, Kenani</i> → biblisches/Grundtext/LXX[LXX] und einige Cocexe lesen «Söhne Kenanis».
+ }
+#}
+#neh-9-5 {
+ {
+  → biblisches/Bücher/geschichtlich/Nehemia/Kapitel-09#neh-9-gebet[Gebet, Nehemia 9. Kapitel].
  }
 #}
 #neh-9-6 {
@@ -32768,10 +32880,13 @@
 #}
 #neh-9-7 {
  {
-  → biblisches/Personen/Abraham
+  → biblisches/Personen/Abraham[Abram] vgl §1mo-12-1
  }
 #}
 #neh-9-8 {
+ {
+  → biblisches/Personen/Abraham/Same
+ }
  {
   In §1mo-15-19 werden zehn Nationen aufgezählt. Vgl §2mo-3-8, §2mo-23-23, §5mo-7-1, §jos-3-10, §apg-13-19
  }
@@ -32781,10 +32896,10 @@
 #}
 #neh-9-10 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder beim → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder#zeichen-wunder-auszug-aegypten[Auszug von Ägypten].
  }
  {
-  <i>du hast dir einen Namen gemacht</i> §2mo-9-16, vgl mit Gebet von → biblisches/Personen/Daniel in §dan-9-15.
+  <i>du hast dir einen Namen gemacht</i> §2mo-9-16, vgl mit Gebet von → biblisches/Personen/Daniel in §dan-9-15 und §ps-106-8.
  }
 #}
 #neh-9-11 {
@@ -32807,6 +32922,9 @@
  {
   <i>hast vom Himmel her geredet</i> vgl §+2mo-20-22, §5mo-4-36, §Vneh-9-27 (»vom Himmel her hören«)
  }
+ {
+  Auf den → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/Sinai herabgestiegen §2mo-19-20
+ }
 #}
 #neh-9-14 {
  {
@@ -32819,6 +32937,9 @@
  }
 #}
 #neh-9-16 {
+ {
+  <i>sie, nämlich unsere Väter</i>: erst in §+Vneh-9-33 sagen die betenden «… du bist gerecht in allem, was über uns gekommen ist … wir aber … haben gesetzlos gehandelt.»
+ }
  {
   <i>sie → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten[verhärteten ihren Nacken]</i> §5mo-10-16, §5mo-31-27, §Vneh-9-29
  }
@@ -32833,17 +32954,22 @@
 #}
 #neh-9-18 {
  {
-  <i>Gegossenes Kalb</i> §2mo-32-4-ff
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#gegossenes-kalb: §2mo-32-4-ff
  }
 #}
 #neh-9-19 {
+ {
+  <i>Erbarmungen</i> auch in §Vneh-9-27, §Vneh-9-28, §Vneh-9-31
+  <br>
+   Vgl §ps-106-43-46
+ }
  {
   <i>Wolkensäule und Feuersäule</i> §Vneh-9-12
  }
 #}
 #neh-9-20 {
  {
-  <i>Und du gabst ihnen deinen guten Geist</i> vgl §4mo-11-17-ff
+  <i>Und du gabst ihnen deinen guten Geist</i> vgl §4mo-11-17-ff, vgl §Vneh-9-30
  }
  {
   Gibt es einen Grund, warum das Man hier <i>Manna</i> genannt wird? Vgl <a href='http://bibel.renenyffenegger.ch/ps_78.html#v24'>Ps&nbsp;78,24</a>.
@@ -32877,15 +33003,28 @@
 #}
 #neh-9-30 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/jer_37.html#v2'>Jer&nbsp;37,2</a>.
+  <i>zeugtest durch deinen Geist, durch die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten]</i> vgl §Vneh-9-20
+ }
+ {
+  <i>aber sie gaben kein Gehör</i> §jer-37-2.
  }
 #}
 #neh-9-32 {
  {
-  <i>gross, stark und furchtbar</i>: vgl §neh-1-5 und §neh-4-8.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+ }
+ {
+  <i>gross, stark und furchtbar</i>: in §neh-1-5 und §neh-4-8 wird Gott noch nicht als «stark» erkannt.
  }
  {
   Frage: Beginnt diese <i>Zeit der Könige von Assyrien</i> mit Pul <a class='kom' href='#I2koe-15-19'>2.&nbsp;Kö&nbsp;15,19</a>?
+ }
+#}
+#neh-9-33 {
+ {
+  Das erste <i>wir</i> in diesem → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet, vorher waren es immer «sie (nämlich unsere Väter)» §neh-9-16
+ <br>
+  Auch → biblisches/Personen/Esra (§esr-9-6-11) und → biblisches/Personen/Daniel (§dan-9-5-19) identifizieren sich mit den Sünden des Volkes.
  }
 #}
 #neh-9-36 {
@@ -36448,12 +36587,20 @@
 @Psalm 106 {
 #ps-106-1 {
  {
+  → biblisches/Bücher/Ketuvim/Psalmen/106/index
+ }
+ {
   <i>Dank</i> in den Psalmen: <a class='kom' href='#Ips-50-14'>Ps&nbsp;50,14</a>.
  }
 #}
 #ps-106-3 {
  {
   <i>Wohl dem</i>: <a class='kom' href='#Ips-1-1'>Ps&nbsp;1,1</a>.
+ }
+#}
+#ps-106-8 {
+ {
+  Vgl §+neh-9-10
  }
 #}
 #ps-106-12 {
@@ -39406,6 +39553,9 @@
  }
 #}
 #jes-9-5 {
+ {
+  <i>starker Gott</i> vgl §lk-2-40 «Das Kindlein … erstarkte …»
+ }
  {
   <i>Wunderbar</i>: <a class='kom' href='#Iri-13-18'>Ri&nbsp;13,18</a>.
  }
@@ -42751,6 +42901,9 @@
 #}
 #jer-25-3 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+ }
+ {
   <a class='kom' href='#I2koe-22-3'>2.&nbsp;Kö&nbsp;22,3</a>.
  }
  {
@@ -43689,6 +43842,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten
+ }
+#}
+#jer-44-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
  }
 #}
 #jer-44-14 {
@@ -46537,6 +46695,11 @@
   <i>Wort Jehovas</i>: Vgl mit dem »ausgegangenen Wort« in §Vdan-9-23 und dem »Ausgehen des Wortes« in §Vdan-9-25.
  }
 #}
+#dan-9-5 {
+ {
+  Daniel identifiziert sich mit den Sünden des Volkes, vgl → biblisches/Personen/Esra (§esr-9-6) und §neh-9-33
+ }
+#}
 #dan-9-6 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten
@@ -46548,6 +46711,9 @@
  }
 #}
 #dan-9-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+ }
  {
   <i>Du hast dir einen Namen gemacht</i> §2mo-9-16, vgl mit Gebet von → biblisches/Personen/Nehemia in §neh-9-10.
  }
@@ -52412,6 +52578,11 @@
   Nach seiner Erhängung stürtzte Judas offenbar kopfüber hinab und barst entzwei: <a href='http://bibel.renenyffenegger.ch/apg_1.html#v18'>Apg&nbsp;1,18</a>.
  }
 #}
+#mt-27-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+ }
+#}
 #mt-27-9 {
  {
    Vgl <a class='kom' href='#I2mo-21-32'>2.&nbsp;Mo&nbsp;21,32</a>.
@@ -52672,6 +52843,11 @@
    TODO: <i>besänftigen</i>: Strongs 3982.
  }
 #}
+#mt-28-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+ }
+#}
 #mt-28-16 {
  {
   <i>Berg</i>: <a class='kom' href='#Imt-4-8'>Mt&nbsp;4,8</a>.
@@ -52845,6 +53021,11 @@
 #mk-2-26 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot
+ }
+#}
+#mk-2-27 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat
  }
 #}
 @}
@@ -54310,6 +54491,11 @@
  }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
+ }
+#}
+#lk-2-40 {
+ {
+  <i>Das Kindlein … erstarkte</i> vgl §jes-9-5
  }
 #}
 #lk-2-41 {
@@ -59663,6 +59849,11 @@
   <a href='http://bibel.renenyffenegger.ch/2mo_4.html#v19'>2.&nbsp;Mo&nbsp;4,19</a> in Midian.
  }
 #}
+#apg-7-30 {
+ {
+  → biblisches/Orte/Berg-Sinai
+ }
+#}
 #apg-7-31 {
  {
     <i>Erscheinung</i> (<span class='gr'>ὅραμα</span>, Strongs 3705) wird an andern Orten auch mit 'Gesicht' übersetzt, zum
@@ -59770,6 +59961,11 @@
 #apg-7-51 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
+ }
+#}
+#apg-7-52 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden.
  }
 #}
 #apg-7-53 {
@@ -64534,6 +64730,11 @@
   TODO Beachte:  <i>nicht mehr aus Werken</i> impliziert, dass die Gnadenwahl einmal aus Werken geschah.
  }
 #}
+#roem-11-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+ }
+#}
 #roem-11-9 {
  {
   TODO: <i>Fallstrick</i> (<span class='gr'>θήρα</span>, Strongs 2339) wird in KJV mit 'Trap' übersetzt. Der Diminitiv
@@ -67735,7 +67936,7 @@
 #}
 #2kor-3-14 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/erster
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/erster; → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
  }
  {
   <i>Testament</i>: <a class='kom' href='#Imt-26-28'>Mt&nbsp;26,28</a>.
@@ -68930,7 +69131,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-4-24 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Bund#bund-vom-sinai
+  → biblisches/Orte/Berg-Sinai, → biblisches/Eigene-Uebersetzung/Konkordanz/Bund#bund-vom-sinai
  }
  {
   <i>bildlicher Sinn</i>: <span class='gr'>ἀλληγορέω</span> (Strongs 238, 1x)
