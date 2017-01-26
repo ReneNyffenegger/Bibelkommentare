@@ -886,7 +886,7 @@ sub verse_element { # {{{
 
     $vers_id = $v;
 
-    return  "<div class='v' id='I$b-$c-$v'><div class='n'>$vers_id</div>";
+    return  "<div class='v' id='I$b-$c-$v'><div class='n'><a href='#I$b-$c-$v'>$vers_id</a></div>";
 } # }}}
 
 sub modify_out_line { # {{{
