@@ -87,7 +87,7 @@ body {
   /* page-break-inside:avoid; */
 }
 
-.kap-tab .v .n {
+.kap-tab .v .n a {
     display: block;
     float: left;
     width: 20px;
@@ -96,6 +96,7 @@ body {
     padding-left:8px;
     top: 4px;  // TODO_02: offenbar in Chrome unterschiedlich wie in Firefox
     font-size: 12;
+    text-decoration: none;
 }
 
 .kap-tab .v .t,
