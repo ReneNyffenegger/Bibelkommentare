@@ -2002,7 +2002,7 @@
 #}
 #1mo-10-19 {
  {
-  </i>Das Gebiet der Kanaaniter</i> §1mo-12-6
+  <i>Das Gebiet der Kanaaniter</i> §1mo-12-6
  }
  {
   TODO: <i>Gaza</i> (<span class='hebr'>עַזָּה</span>, Strongs 5804), wohl als 'Azzah' ausgesprochen. Entsrpechend in KJV
@@ -2980,7 +2980,7 @@
   Landesgrenzen: Vgl §5mo-1-7, §5mo-11-24, §jos-1-4
  }
  {
-  → http://renenyffenegger.ch/Biblisches/Synopsen/Voelker.html[Völker (Bund von Abraham)]
+  <a href='http://renenyffenegger.ch/Biblisches/Synopsen/Voelker.html'>Völker (Bund von Abraham)</a>
  }
 #}
 #1mo-15-19 {
@@ -50889,10 +50889,8 @@
 #}
 #mt-11-30 {
  {
-  <i>Last</i>: <span class='gr'>φορτίον</span> (Strongs 5413). Dasselbe Wort wird in <a href='http://bibel.renenyffenegger.ch/mt_23.html#v4'>Mt&nbsp;23,4</a>,
-  <a href='http://bibel.renenyffenegger.ch/lk_11.html#v46'>Lk&nbsp;11,46</a> und
-  <a href='http://bibel.renenyffenegger.ch/gal_6.html#v5'>Gal&nbsp;6,5</a> mit 'Bürde' übersetzt.
-        <br>
+  <i>Last</i>: <span class='gr'>φορτίον</span> (Strongs 5413): §mt-23-4, §lk-11-46, §gal-6-5 
+ <br>
   Beachte: die Last des Herrn ist leicht, diejenige der Pharisäer ist schwer (<a href='http://bibel.renenyffenegger.ch/mt_23.html#v4'>Mt&nbsp;23,4</a>).
  }
 #}
@@ -69573,12 +69571,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-6-2 {
  {
-  Vgl §+roem-15-1
+  Vgl §+roem-15-1, §Vgal-6-5
  }
 #}
 #gal-6-5 {
  {
-  <i>Bürde</i>: <a class='kom' href='#Imt-11-30'>Mt&nbsp;11,30</a>.
+  <i>Last</i>: §+mt-11-30.
  }
 #}
 #gal-6-7 {
@@ -69591,10 +69589,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: 'Buchstaben' <span class='gr'>γράμμα</span> (Strongs 1121), dasselbe Wort wie in <a class='kom' href='#I2tim-3-15'>2.&nbsp;Tim&nbsp;3,15</a>.
  }
  {
-  <i>Grosse Buchstaben</i> vgl → biblisches/Personen/Paulus#paulus-sehschwaeche[Paulus' vermutete Sehschwäche]
+  <i>welch grossen Buchstaben</i> Elberfelder übersetzt mit «welch einen langen Brief» (Vgl §hebr-13-22, §1petr-5-12)
+ <br>
+  → biblisches/Personen/Paulus#paulus-sehschwaeche[Paulus' vermutete Sehschwäche].
  }
  {
-  <i>Langer Brief</i> vgl §hebr-13-22, §1petr-5-12
  }
  {
    Paulus <i>eigenhändiger Gruss</i> vgl <a class='kom' href='#I1kor-16-21'>1.&nbsp;Kor&nbsp;16,21</a>.
@@ -69611,6 +69610,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Neue Schöpfung</i>: §2kor-5-17.
+ }
+ {
+  <span class='gt'>In NA fehlt «in Christus Jesus»</span>
  }
 #}
 #gal-6-16 {
