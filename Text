@@ -643,7 +643,8 @@
 #}
 #1mo-2-12 {
  {
-  <i>Onyxsteine</i> werden für das Ephod benötigt (<a href='http://bibel.renenyffenegger.ch/2mo_25.html#v7'>2.&nbsp;Mo&nbsp;25,7</a>).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Stein/edel#onyxstein[Onyxsteine] werden für das 
+  Ephod benötigt §2mo-25-7.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Bedolach-Bedellion
@@ -8865,6 +8866,9 @@
 #}
 #2mo-19-5 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/index
+ }
+ {
   Welcher <i>Bund</i> ist hier gemeint? TODO: siehe auch <a href='http://bibel.renenyffenegger.ch/2mo_24.html#v7'>2.&nbsp;Mo&nbsp;24,7</a> (Buch des Bundes),
   <a href='http://bibel.renenyffenegger.ch/2mo_31.html#v16'>2.&nbsp;Mo&nbsp;31,16</a> (Bund des Sabbat-haltens),
   <a href='http://bibel.renenyffenegger.ch/2mo_34.html#v10'>2.&nbsp;Mo&nbsp;34,10</a> (TODO-Bund)
@@ -8938,6 +8942,9 @@
  {
   → biblisches/Orte/Berg-Sinai
  }
+ {
+  <i>Und sie seien bereit…</i> vgl §2mo-34-2-ff
+ }
 #}
 #2mo-19-13 {
  {
@@ -8956,6 +8963,14 @@
  {
   <i>Posaune</i> <span class='he'>שׁוֹפָר</span>, Strongs 7782. Dieses Wort wie auch «Trompete» <span class='he'>חֲצֹצְרָה</span> (Strongs 2689) werden in der LXX mit «σάλπιγξ» übersetzt, welches im NT mit «Posaune» übersetzt wird.
   Erstes Vorkommen von «Trompete» in <a class='kom' href='#I4mo-10-2'>4.&nbsp;Mo&nbsp;10,2</a>.
+ }
+ {
+  <i>Donner, Blitze, schwere Wolke, Posaunenschall</i> vgl §2mo-34-5
+ }
+#}
+#2mo-19-17 {
+ {
+  Hier führt Mose das Volk Gott entgegen, in §2mo-34-3 soll «niemand auf dem ganzen Berg gesehen werden, sogar Kleinvieh und Rindern sollen nicht gegen diesen Berg hin weiden».
  }
 #}
 #2mo-19-20 {
@@ -9484,7 +9499,7 @@
 #}
 #2mo-23-14 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/dreimal-Erscheinen
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/dreimal-Erscheinen[Dreimal im Jahr erscheinen]
  }
  {
   Siehe auch <a class='kom' href='#I2mo-34-18'>2.&nbsp;Mo&nbsp;34,18</a>, <a class='kom' href='#I3mo-23-2'>3.&nbsp;Mo&nbsp;23,2</a>, und <a class='kom' href='#I5mo-16-1'>5.&nbsp;Mo&nbsp;16,1</a>.
@@ -9517,6 +9532,11 @@
   welches zum Teil auch mit «Erstlinge» übersetzt wird (zB in <a href='http://bibel.renenyffenegger.ch/2chr_31.html#v5'>2.&nbsp;Chr&nbsp;31,5</a>).
   <br>
   Vgl auch NT in <a class='kom' href='#Iroem-8-23'>Röm&nbsp;8,23</a>.
+ }
+#}
+#2mo-23-17 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/dreimal-Erscheinen
  }
 #}
 #2mo-23-18 {
@@ -9727,7 +9747,9 @@
 @2. Mose 25 {
 #2mo-25-2 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer, in Sch2K mit «freiwillige Gaben» übersetzt.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer, vgl §2mo-35-5-ff.
+  <br>
+   Hebopfer wird in Sch2K mit «freiwillige Gaben» übersetzt.
  }
 #}
 #2mo-25-3 {
@@ -9740,6 +9762,9 @@
 #}
 #2mo-25-4 {
  {
+  §2mo-35-6
+ }
+ {
   TODO <i>Karmesin</i> ist Strongs 8144, siehe <a class='kom' href='#I1mo-38-28'>1.&nbsp;Mo&nbsp;38,28</a>. Weggelassen wurde in diesem Vers das Wort 'Wurm' (Strongs 8438).
  }
  {
@@ -9748,14 +9773,19 @@
 #}
 #2mo-25-5 {
  {
-  Akazienholz ist im Hebräischen <span class='hebr'><span class='grey'>וַ</span>עֲצֵי שִׁטִּֽים</span> (Strongs 7848/6086). Dabei ist <span class='hebr'>שִׁטִּֽים</span> die
-  Mehrzahl von <span class='hebr'>שִׁטָּה</span> und ist gleich (?) geschrieben wie 'Sittim' in <a href='http://bibel.renenyffenegger.ch/4mo_25.html#v1'>4.&nbsp;Mo&nbsp;25,1</a>.
+  §2mo-35-7
+ }
+ {
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz
  }
  {
   TODO <i>rötlich</i> <span class='hebr'>אָדַם</span> (Strongs 119).
  }
 #}
 #2mo-25-6 {
+ {
+  §2mo-35-8
+ }
  {
   <i>Spezerei</i> ist <span class='hebr'>בֶּשֶׂם</span> (Strongs 1314).
   Wird offenbar nur für das <i>Salböl</i> benötigt (TODO: stimmt das?). Eine genauere Auflistung der Zutaten folgt in
@@ -9776,7 +9806,10 @@
 #}
 #2mo-25-7 {
  {
-  Onyxstein kommt aus dem Land Hawila (<a href='http://bibel.renenyffenegger.ch/1mo_2.html#v12'>1.&nbsp;Mo&nbsp;2,12</a>).
+  §2mo-35-9
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Stein/edel#onyxstein[Onyxsteine]
  }
  {
   TODO: Das wort für <i>Besatz</i> ist Strongs 4394, siehe <a class='kom' href='#I2mo-29-22'>2.&nbsp;Mo&nbsp;29,22</a>.
@@ -10049,6 +10082,11 @@
   Die Rückseite ist gegen Westen zu (<a href='http://bibel.renenyffenegger.ch/2mo_26.html#v22'>Vers 22</a>).
  }
 #}
+#2mo-26-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz
+ }
+#}
 #2mo-26-18 {
  {
   TODO: Süden hier <span class='hebr'>תֵּימָן</span>, Strongs 8486, ein anderes Wort wie in <a class='kom' href='#I1mo-12-9'>1.&nbsp;Mo&nbsp;12,9</a>.
@@ -10097,7 +10135,7 @@
 @2. Mose 27 {
 #2mo-27-1 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#brandopferaltar[Brandopferaltar]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#brandopferaltar[Brandopferaltar]
    vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucheraltar] ab §2mo-30-1 und dem <i>Altar aus Erde</i> §+2mo-20-24
  }
  {
@@ -10196,6 +10234,9 @@
  }
 #}
 #2mo-28-9 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Stein/edel#onyxstein[Onyxsteine] vgl §2mo-39-6
+ }
  {
   <i>Söhne Israels</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme
  }
@@ -10577,7 +10618,7 @@
 @2. Mose 30 {
 #2mo-30-1 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucheraltar]: vgl mit 
@@ -10971,6 +11012,9 @@
 #}
 #2mo-33-2 {
  {
+  <a href='http://renenyffenegger.ch/Biblisches/Synopsen/Voelker.html'>Völker (Bund von Abraham)</a>
+ }
+ {
   TODO zusaetzliche_texte Nationen-in-Kanaan
  }
  {
@@ -11004,6 +11048,9 @@
 #2mo-33-11 {
  {
   Der HERR redet mit → biblisches/Personen/Mose/ von <i>Angesicht zu Angesicht</i>, vgl §+2mo-25-22, §5mo-34-10
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
  }
  {
   <i>Josua</i>: <a class='kom' href='#I2mo-17-9'>2.&nbsp;Mo&nbsp;17,9</a>.
@@ -11052,6 +11099,11 @@
     <a href='http://bibel.renenyffenegger.ch/2mo_32.html#v16'>2.&nbsp;Mo&nbsp;32,16</a> (Tafeln sind Werk Gottes, und Schrift ist Schrift Gottes).
  }
 #}
+#2mo-34-2 {
+ {
+  <i>Und sei bereit auf den Morgen…</i> vgl §2mo-19-11-ff
+ }
+#}
 #2mo-34-3 {
  {
   Beachte: Keine Schafe (und Rinder) dürfen gegen den Berg hin weiden.
@@ -11064,6 +11116,9 @@
  }
 #}
 #2mo-34-5 {
+ {
+  <i>Der HERR stieg in der Wolke hernieder</i>: in §2mo-19-16 waren da noch «Donner und Blitze und eine schwere Wolke auf dem Berg und ein sehr starker Posaunenschall»
+ }
  {
   Der HERR ruft seinen Namen aus. Seinen Namen soll man nicht missbrauchen, vgl <a href='http://bibel.renenyffenegger.ch/2mo_20.html#v5'>2.&nbsp;Mo&nbsp;20,5-7</a> und die
   Ähnlichkeit des Namens hier mit dem Text dort.
@@ -11104,7 +11159,7 @@
 #}
 #2mo-34-10 {
  {
-  <b>Bund</b>: siehe <a class='kom' href='#I2mo-19-5'>2.&nbsp;Mo&nbsp;19,5</a> und auch <a href='http://bibel.renenyffenegger.ch/2mo_31.html#v18'>2.&nbsp;Mo&nbsp;31,18</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Bund: vgl §+2mo-19-5 und auch §2mo-31-18.
  }
  {
   Das ganze Volk soll das → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werk Gottes] sehen: §5mo-11-7
@@ -11188,6 +11243,12 @@
   Die Tafeln, die Mose gemacht hat, legte er in die Lade, die auch er gemacht hat; und dort blieben sie, siehe <a href='http://bibel.renenyffenegger.ch/5mo_10.html#v5'>5.&nbsp;Mo&nbsp;10,5</a>.
  }
 #}
+#2mo-34-33 {
+ {
+  Vgl §2kor-3-13-16: → biblisches/Personen/Mose tat eine Decke auf sein Angesicht, damit die Söhne Israels das Ende dessen, was hinweggetan werden sollte, nicht anschaue möchten …
+  Wenn sie zum Herrn umkehren, wird die Decke weggenommen werden.
+ }
+#}
 @}
 @2. Mose 35 {
 #2mo-35-1 {
@@ -11196,6 +11257,9 @@
  }
 #}
 #2mo-35-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe, vgl §mo-31-15.
  }
@@ -11208,9 +11272,38 @@
   Siehe auch <a class='kom' href='#I4mo-15-32'>4.&nbsp;Mo&nbsp;15,32</a>.
  }
 #}
+#2mo-35-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer, vgl §2mo-25-2-ff
+ }
+#}
+#2mo-35-6 {
+ {
+  §2mo-25-4
+ }
+#}
+#2mo-35-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz
+ }
+ {
+  §2mo-25-5 
+ }
+#}
 #2mo-35-8 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
+  §2mo-25-6
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
+ }
+#}
+#2mo-35-9 {
+ {
+  §2mo-25-7
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Stein/edel#onyxstein[Onyxsteine]
  }
 #}
 #2mo-35-12 {
@@ -11245,6 +11338,11 @@
   <i>Ohrringe</i> vgl §+3mo-32-3, §2mo-33-6
  }
 #}
+#2mo-35-27 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Stein/edel#onyxstein[Onyxsteine]
+ }
+#}
 #2mo-35-29 {
  {
   TODO: Hier erstes Vorkommen von <span class='hebr'>נְדָבָה</span> (Strongs 5071), übersetzt mit 'freiwillige Gabe'.
@@ -11275,6 +11373,16 @@
   → biblisches/Personen/Bezaleel[Bezaleel], → biblisches/Personen/Oholiab
  }
 #}
+#2mo-36-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer
+ }
+#}
+#2mo-36-20 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz
+ }
+#}
 #2mo-36-35 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
@@ -11287,14 +11395,23 @@
   TODO: Gemäss Boris verbindet das Blaue zwei Sachen oder hält etwas.
  }
 #}
+#2mo-36-38 {
+ {
+  Beachte, hier wird, im Gegensatz zu vielen anderen Stellen, nicht erwähnt,
+  dass diese Säulen aus → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz gemacht waren.
+  Vgl zB §V2mo-36-36
+ }
+#}
 @}
 @2. Mose 37 {
 #2mo-37-1 {
  {
-  → biblisches/Personen/Bezaleel[Bezaleel]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz
  }
  {
-  TODO: Ist dies dieselbe Lade, die Mose auf dem Berg angefertigt hat? (<a class='kom' href='#I5mo-10-1'>5. Mo 10,1 ff</a>).
+   → biblisches/Personen/Bezaleel[Bezaleel] machte die → biblisches/Eigene-Uebersetzung/Konkordanz/Lade,
+   vgl mit §5mo-10-1-5, wo der HERR zu → biblisches/Personen/Mose sagt »steige zu mir herauf auf den Berg; und *mache dir* eine Lade von Holz«) und
+   → biblisches/Personen/Mose sagt »*ich machte* eine Lade von Akazienholz« und »ich legte die Tafeln in die Lade, *die ich gemacht* hatte«.
  }
 #}
 #2mo-37-5 {
@@ -11307,18 +11424,39 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
  }
 #}
+#2mo-37-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Tisch
+ }
+#}
+#2mo-37-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer
+ }
+#}
 #2mo-37-17 {
  {
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Leuchter-Menora[Leuchter],
    → biblisches/Eigene-Uebersetzung/Konkordanz/Kaphtor-Knauf
+ }
+#}
+#2mo-37-25 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucheralter]
  }
 #}
 #2mo-37-29 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
  }
 #}
 @}
 @2. Mose 38 {
+#2mo-38-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#brandopferaltar[Brandopferaltar], → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz
+ }
+#}
 #2mo-38-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Becken
@@ -11387,6 +11525,11 @@
 #2mo-39-2 {
  {
   Die Verse 2-31 entsprechen in der LXX offenbar den Versen 2. Mo 36:8-40.
+ }
+#}
+#2mo-39-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Stein/edel#onyxstein[Onyxsteine] vgl §2mo-28-9
  }
 #}
 #2mo-39-8 {
@@ -15328,7 +15471,7 @@
 @4. Mose 25 {
 #4mo-25-1 {
  {
-  Sittim (<span class='hebr'><span class='grey'>בַּ</span>שִּׁטִּים</span>, Strongs 7851) ist offenbar Bestandteil des Wortes für 'Akazienholz', siehe auch <a class='kom' href='#I2mo-25-5'>2.&nbsp;Mo&nbsp;25,5</a>.
+  Sittim (<span class='hebr'><span class='grey'>בַּ</span>שִּׁטִּים</span>, Strongs 7851) ist offenbar Bestandteil des Wortes für → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz
   <br>Gemäss <a href='http://bibel.renenyffenegger.ch/joe_4.html#v18'>Joe&nbsp;4,18</a> wird eine Quelle aus dem Haus des Herrn hervorbrechen und das Tal Sittim bewässern.
   <br>S.a. <a href='http://bibel.renenyffenegger.ch/mi_6.html#v5'>Mi&nbsp;6,5</a> und <a class='kom' href='#I4mo-22-2'>4.&nbsp;Mo&nbsp;22,2</a>.
  }
@@ -17141,6 +17284,11 @@
   <a class='kom' href='#I2mo-37-1'>2.&nbsp;Mo&nbsp;37,1</a>.
  }
 #}
+#5mo-10-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz
+ }
+#}
 #5mo-10-4 {
  {
   <i>Tag der Versammlung</i>: siehe <a class='kom' href='#I5mo-9-10'>5.&nbsp;Mo&nbsp;9,10</a>.
@@ -17356,6 +17504,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
+ }
+#}
+#5mo-13-7 {
+ {
+  Bis §V5mo-13-11 vgl §lk-21-16
  }
 #}
 #5mo-13-13 {
@@ -24547,6 +24700,13 @@
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/2koe_23.html#v13'>2.&nbsp;Kö&nbsp;23,13</a>.
  }
 #}
+#2sam-15-37 {
+ {
+  Husai, der → biblisches/Eigene-Uebersetzung/Konkordanz/Freund von → biblisches/Personen/David: §2sam-16-16, §1chr-27-33
+  -
+  Auch Hiram ist ein Freund Davids §1koe-5-15
+ }
+#}
 @}
 @2. Samuel 16 {
 #2sam-16-2 {
@@ -24571,6 +24731,13 @@
 #2sam-16-14 {
  {
   <i>sich erholen</i>: §2mo-23-12.
+ }
+#}
+#2sam-16-16 {
+ {
+  Husai, der → biblisches/Eigene-Uebersetzung/Konkordanz/Freund von → biblisches/Personen/David: §2sam-15-37, §1chr-27-33
+  -
+  Auch Hiram ist ein Freund Davids §1koe-5-15
  }
 #}
 #2sam-16-20 {
@@ -25235,6 +25402,9 @@
  {
   <i>Minister</i> siehe <a class='kom' href='#I2sam-8-18'>2.&nbsp;Sam&nbsp;8,18</a>.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
+ }
 #}
 #1koe-4-6 {
  {
@@ -25332,6 +25502,11 @@
 #1koe-5-11 {
  {
   TODO: Heman, Kalkol und Dara (nicht Darda!) kommen auch in <a href='http://bibel.renenyffenegger.ch/1chr_2.html#v6'>1.&nbsp;Chr&nbsp;2,6</a> vor (aber als Söhne Searchs, des Juda).
+ }
+#}
+#1koe-5-15 {
+ {
+  Auch Husai ist ein → biblisches/Eigene-Uebersetzung/Konkordanz/Freund von → biblisches/Personen/David: §2sam-15-37, §2sam-16-16, §1chr-27-33
  }
 #}
 #1koe-5-20 {
@@ -29913,6 +30088,13 @@
   Ein (anderer?) <i>Jechdeja</i> (Ein Sohn Levis) kommt in <a class='kom' href='#I1chr-24-20'>1.&nbsp;Chr&nbsp;24,20</a> vor.
  }
 #}
+#1chr-27-33 {
+ {
+  Husai, der → biblisches/Eigene-Uebersetzung/Konkordanz/Freund von → biblisches/Personen/David: §2sam-15-37, §2sam-16-16
+  -
+  Auch Hiram ist ein Freund Davids §1koe-5-15
+ }
+#}
 #1chr-27-34 {
  {
   Ahitophels brachte sich um: <a class='kom' href='#I2sam-15-12'>2.&nbsp;Sam&nbsp;15,12</a>, <a href='http://bibel.renenyffenegger.ch/2sam_17.html#v23'>2.&nbsp;Sam&nbsp;17,23-24</a>.
@@ -29961,6 +30143,9 @@
 @}
 @1. Chronik 29 {
 #1chr-29-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Stein/edel#onyxstein[Onyxsteine]
+ }
  {
    TODO: 'weisse Marmorsteine' (Strongs 7893 68) ist offenbar verwandt mit Strongs 8336 (<a class='kom' href='#I1mo-41-42'>1.&nbsp;Mo&nbsp;41,42</a>).
  }
@@ -30819,6 +31004,9 @@
  {
   <i>Hazezon-Tamar</i>: <a class='kom' href='#Ihes-47-19'>Hes&nbsp;47,19</a>, <a href='http://bibel.renenyffenegger.ch/1mo_14.html#v7'>1.&nbsp;Mo&nbsp;14,7</a>.
  }
+#}
+#2chr-20-7 {
+  → biblisches/Personen/Abraham, → biblisches/Eigene-Uebersetzung/Konkordanz/Freund Gottes §jes-41-8, §jak-2-23
 #}
 #2chr-20-9 {
  {
@@ -33462,6 +33650,11 @@
  {
   TODO: Hier kommt <i>Eliphas, der Temaniter</i> vor. In <a href='http://bibel.renenyffenegger.ch/jer_49.html#v7'>Jer&nbsp;49,7</a> wird gefragt, ob denn keine Weisheit
   mehr sei in Teman. Ist Eliphas möglicherweise ein Bild für die Weisheit von Teman?
+ }
+#}
+#hi-2-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
  }
 #}
 @}
@@ -39225,6 +39418,11 @@
   TODO: <i>Säulen aus weissem Marmor</i> wohl derselbe Ausdruck wie in <a class='kom' href='#Iest-1-6'>Est&nbsp;1,6</a>.
  }
 #}
+#hl-5-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
+ }
+#}
 @}
 @Hohelied 6 {
 #hl-6-1 {
@@ -41153,7 +41351,7 @@
 #}
 #jes-41-8 {
  {
-  → biblisches/Personen/Abraham, Freund Gottes §jak-2-23
+  → biblisches/Personen/Abraham, → biblisches/Eigene-Uebersetzung/Konkordanz/Freund Gottes §2chr-20-7, §jak-2-23
  }
 #}
 #jes-41-9 {
@@ -50833,6 +51031,11 @@
   <br>Vgl auch mit <a class='kom' href='#I2mo-24-7'>2.&nbsp;Mo&nbsp;24,7</a>.
  }
 #}
+#mt-11-19 {
+ {
+  <i>Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Freund der Zöllner und Sünder</i> §lk-7-34
+ }
+#}
 #mt-11-21 {
  {
   <i>Bethsaida</i>: Philippus ist von hier (<a class='kom' href='#Ijoh-1-44'>Joh&nbsp;1,44</a>). Diese Stadt gehört zu denen, die gewarnt werden (<a href='http://bibel.renenyffenegger.ch/lk_10.html#v13'>Lk&nbsp;10,13</a>).
@@ -51869,6 +52072,11 @@
   <i>Das Reich der Himmel gleicht...</i>: <a class='kom' href='#Imt-13-24'>Mt&nbsp;13,24</a>.
  }
 #}
+#mt-20-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
+ }
+#}
 #mt-20-16 {
  {
   <i>Erste und Letzte</i>: <a class='kom' href='#Imt-19-30'>Mt&nbsp;19,30</a>.
@@ -52085,7 +52293,15 @@
   <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
  }
 #}
+#mt-22-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
+ }
+#}
 #mt-22-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
+ }
  {
   <i>Heulen und Zähneknirschen</i>: vgl <a class='kom' href='#Imt-8-12'>Mt&nbsp;8,12</a>.
  }
@@ -52227,6 +52443,9 @@
  }
 #}
 #mt-24-3 {
+ {
+  <a href='http://renenyffenegger.ch/Biblisches/Synopsen/Endzeitrede.html'>Endzeitrede (Synopse)</a>  
+ }
  {
   Vgl <i>Vollendung</i> (<span class='gr'>συντέλεια</span>, Strongs 4930, in Sch2K mit «Ende» übersetzt) mit «Ende» (<span class='gr'>τέλος</span>, Strongs 5056)
   in den Versen 6, 13 und 14.
@@ -52711,6 +52930,11 @@
 #mt-26-48 {
  {
   <i>Zeichen</i>: <a class='kom' href='#Imt-12-38'>Mt&nbsp;12,38</a>.
+ }
+#}
+#mt-26-50 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
  }
 #}
 #mt-26-51 {
@@ -54034,6 +54258,11 @@
   <br>Vgl auch <a class='kom' href='#Imk-11-17'>Mk&nbsp;11,17</a>.
  }
 #}
+#mk-13-3 {
+ {
+  <a href='http://renenyffenegger.ch/Biblisches/Synopsen/Endzeitrede.html'>Endzeitrede (Synopse)</a>
+ }
+#}
 #mk-13-8 {
  {
   <i>Wehen</i>: <a class='kom' href='#Imt-24-8'>Mt&nbsp;24,8</a>
@@ -55190,6 +55419,11 @@
   <br>Vgl Vorhaben von Menschen (<a class='kom' href='#Iapg-5-38'>Apg&nbsp;5,38</a>).
  }
 #}
+#lk-7-34 {
+ {
+  <i>Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Freund der Zöllner und Sünder</i> §mt-11-19
+ }
+#}
 #lk-7-37 {
  {
   Salbungen Jesu, siehe <a class='kom' href='#Imt-26-6'>Mt&nbsp;26,6</a>.
@@ -55612,7 +55846,7 @@
 #}
 #lk-12-4 {
  {
-  Jesus nennt seine Jünger <i>Freunde</i>. Vgl <a href='http://bibel.renenyffenegger.ch/joh_15.html#v14'>Joh&nbsp;15,14</a>
+  Jesus nennt seine Jünger → biblisches/Eigene-Uebersetzung/Konkordanz/Freund[Freunde] Vgl §joh-15-14
  }
 #}
 #lk-12-13 {
@@ -55786,6 +56020,11 @@
 #lk-14-7 {
  {
   <i>Gleichnisse in den Evangelien</i>: <a class='kom' href='#Imt-13-3'>Mt&nbsp;13,3</a>.
+ }
+#}
+#lk-14-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
  }
 #}
 #lk-14-11 {
@@ -56205,6 +56444,11 @@
   zB in <a class='kom' href='#Iapg-23-14'>Apg&nbsp;23,14</a>.
  }
 #}
+#lk-21-7 {
+ {
+  <a href='http://renenyffenegger.ch/Biblisches/Synopsen/Endzeitrede.html'>Endzeitrede (Synopse)</a>
+ }
+#}
 #lk-21-8 {
  {
   <i>Die Zeit ist nahe</i>: vgl §offb-1-3 und §offb-22-10.
@@ -56213,6 +56457,12 @@
 #lk-21-10 {
  {
   TODO: etwa hier haben die beiden andern Endzeitreden der oder die <i>Anfänge der Wehen</i>: <a href='http://bibel.renenyffenegger.ch/mt_24.html#v8'>Mt&nbsp;24,8</a>.
+ }
+#}
+#lk-21-16 {
+ {
+  Offenbar werden Seine Jünger von <i>Eltern und Brüdern und Verwandten und Freunden überliefert</i> werden, weil man meint, sie sprächen
+  »Laß uns gehen und anderen Göttern dienen (die du nicht gekannt hast, du noch deine Väter …« §5mo-13-7-11
  }
 #}
 #lk-21-19 {
@@ -56446,6 +56696,11 @@
  }
  {
   TODO: <i>Kriegsleute</i> (<span class='gr'>στράτευμα</span>, Strongs 4753) vgl <a class='kom' href='#Ilk-3-14'>Lk&nbsp;3,14</a>.
+ }
+#}
+#lk-23-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
  }
 #}
 #lk-23-17 {
@@ -57099,6 +57354,9 @@
  }
 #}
 #joh-3-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
+ }
  {
   TODO: <i>Stimme des Bräutigams und der Braut</i>: <a class='kom' href='#Ijer-7-34'>Jer&nbsp;7,34</a>.
   <br>Vgl <a class='kom' href='#Ijoh-1-23'>Joh&nbsp;1,23</a>.
@@ -57933,6 +58191,11 @@
   TODO: Hier letztes Vorkommen von <i>Rabbi</i> (im NT und Johannesevangelium).
  }
 #}
+#joh-11-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
+ }
+#}
 #joh-11-14 {
  {
   → biblisches/Bücher/Evangelien/Johannes/index#strongs-3954-joh
@@ -58392,12 +58655,12 @@
 #}
 #joh-15-13 {
  {
-  <i>Freund Gottes</i>: vgl <a href='http://bibel.renenyffenegger.ch/jak_2.html#v23'>Jak&nbsp;2,23</a>.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Freund Gottes</i>: vgl §jak-2-23.
  }
 #}
 #joh-15-14 {
- {
-  <i>Freunde</i>: <a class='kom' href='#Ilk-12-4'>Lk&nbsp;12,4</a>.
+{
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund, vgl §+lk-12-4
  }
 #}
 #joh-15-15 {
@@ -62679,6 +62942,11 @@
   TODO: Was machten Gajus und Aristarchus im Theater?
  }
 #}
+#apg-19-31 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund, vgl §apg-27-3
+ }
+#}
 #apg-19-32 {
  {
   <i>Versammlung</i>: <span class='gr'>ἐκκλησία</span> (Strongs 1577). Ebenso <a href='http://bibel.renenyffenegger.ch/apg_19.html#v39'>Vers 39</a>
@@ -63509,6 +63777,9 @@
  }
 #}
 #apg-27-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund, vgl §apg-19-31
+ }
  {
   <i>freundlich</i>: <a href='http://bibel.renenyffenegger.ch/apg_28.html#v2'>Apg&nbsp;28,2</a> und
   <a href='http://bibel.renenyffenegger.ch/apg_28.html#v7'>Apg&nbsp;28,7</a>.
@@ -68182,6 +68453,11 @@
 #2kor-3-8 {
  {
   TODO <i>Dienst des Geistes</i>: <a class='kom' href='#Iapg-6-2'>Apg&nbsp;6,2</a>.
+ }
+#}
+#2kor-3-13 {
+ {
+  <i>Decke</i> vgl §+2mo-34-33-ff
  }
 #}
 #2kor-3-14 {
@@ -76160,7 +76436,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl §+1mo-15-6.
  }
  {
-  → biblisches/Personen/Abraham, Freund Gottes §jes-41-8
+  → biblisches/Personen/Abraham, → biblisches/Eigene-Uebersetzung/Konkordanz/Freund Gottes §2chr-20-7, §jes-41-8
  }
 #}
 #jak-2-24 {
