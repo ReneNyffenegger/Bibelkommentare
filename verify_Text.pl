@@ -195,6 +195,8 @@ while (my $l = <$h>) {
     next;
   }  
   die unless $in_t;
+
+  next if $l =~ /m\{!\} HERRN/; 
   die $l . ' @ ' . $. if $l =~ /[{}]/ and $l !~ m,<!--[{}]-->,;
 
 }

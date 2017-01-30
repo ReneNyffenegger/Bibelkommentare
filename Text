@@ -58,6 +58,11 @@
  }
  {
   Dieses erste Kapitel ist von 'scheiden' geprägt. TODO: welche alles.
+  <br>
+  Der HERR macht einen Unterschied zwischen den Ägyptern und den Israeliten §2mo-11-7, §2mo-9-4, er scheidet die Menschenkinder §5mo-32-8,
+  die Menschenkinder §5mo-32-8, die Schafe von den Böcken §mt-25-32
+  <br>
+  vgl auch §+3mo-10-10
  }
  {
   <table summary='..'>
@@ -951,7 +956,7 @@
  {
   <i>Opfergabe</i> <span class='hebr'>מִנְחָה</span> (Strongs 4503), dasselbe Wort für «Geschenk» (zB §1mo-32-14, §1mo-43-11) oder «Tribut» (zb §ri-3-15).
   Das Wort wird hier in Sch2K mit «Opfer», in KJV mit «offering» übersetzt.
-  <br>Eventuell würde es besser mit → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer übersetzt (wie zB in §2mo-29-41, §3mo-2-1)
+  <br>Eventuell würde es besser mit → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer[Speisopfer] übersetzt (wie zB in §2mo-29-41, §3mo-2-1)
   <br>Vergleiche auch mit Strongs 4979.
  }
  {
@@ -1368,6 +1373,9 @@
   <span class='hebr'>מבול</span> (hier übersetzt mit <i>(Wasser-)flut</i>) wird in andern Übersetzungen zum Teil mit «Sintflut» übersetzt.
  }
  {
+  <i>Alles, was auf der Erde ist, soll verscheiden</i> vgl §1mo-7-21
+ }
+ {
   <i>Lebensodem</i> siehe <a class='kom' href='#I1mo-7-22'>1.&nbsp;Mo&nbsp;7,22</a>.
  }
  {
@@ -1521,6 +1529,11 @@
 #1mo-7-20 {
  {
   15 Ellen ist die halbe Höhe des Kastens (Arche), vgl <a href='http://bibel.renenyffenegger.ch/1mo_6.html#v15'>1.&nbsp;Mo&nbsp;6,15</a>.
+ }
+#}
+#1mo-7-21 {
+ {
+  <i>Da verschied alles Fleisch…</i> vgl §1mo-6-17
  }
 #}
 #1mo-7-22 {
@@ -3925,6 +3938,11 @@
   'Jungfrau' im Hebräischen <span class='hebr'>בְּתוּלָ֕ה</span> (Strong's 1330).
   In <a href='http://bibel.renenyffenegger.ch/1mo_24.html#v43'>Vers 43</a> ist das hebräische Wort für Jungfrau:
   <span class='hebr'><span class='grey'>הָֽ</span>עַלְמָה֙</span> (Strong's 5959)
+ }
+#}
+#1mo-24-22 {
+ {
+  <i>ein halber Sekel</i> <span class='hebr'>בֶּקַע מִשְׁקָלֹו</span>, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#beka, §2mo-38-26
  }
 #}
 #1mo-24-29 {
@@ -7163,11 +7181,9 @@
 #}
 #2mo-3-22 {
  {
-  <i>Silberne und goldene Geräte</i>: <a class='kom' href='#I1mo-24-53'>1.&nbsp;Mo&nbsp;24,53</a>.
- }
- {
-  Beim Auszug nahmen die Israeliten dann tatsächlich silberne und goldene Geräte mit: <a href='http://bibel.renenyffenegger.ch/2mo_11.html#v2'>2.&nbsp;Mo&nbsp;11,2</a>,
-  <a href='http://bibel.renenyffenegger.ch/2mo_12.html#v35'>2.&nbsp;Mo&nbsp;12,35</a>.
+  <i>silberne und goldene Geräte und Kleider fordern</i> §2mo-11-2, §2mo-12-35
+ <br>
+  vgl §+1mo-24-53
  }
 #}
 @}
@@ -7645,6 +7661,11 @@
 #}
 @}
 @2. Mose 9 {
+#2mo-9-4 {
+ {
+  <i>Und der HERR wird einen Unterschied machen…</i> vgl §2mo-11-7
+ }
+#}
 #2mo-9-5 {
  {
   <i>Morgen</i> im Hebräischen <span class='hebr'>מָחָ֗ר</span>, <i>am Morgen</i> im Vers 6: <span class='hebr'>מִֽמָּחֳרָ֔ת</span>.
@@ -7766,7 +7787,7 @@
 @2. Mose 11 {
 #2mo-11-2 {
  {
-  <i>silberne und goldene Geräte</i>, die beim Auszug mitgenommen wurden: <a class='kom' href='#I2mo-3-22'>2.&nbsp;Mo&nbsp;3,22</a>.
+  <i>silberne und goldene Geräte</i>, die beim Auszug mitgenommen wurden: §+2mo-3-22, §2mo-12-35
  }
 #}
 #2mo-11-3 {
@@ -7782,6 +7803,11 @@
 #2mo-11-6 {
  {
   <i>Wie es nie gewesen ist</i>: <a class='kom' href='#I2mo-9-18'>2.&nbsp;Mo&nbsp;9,18</a>.
+ }
+#}
+#2mo-11-7 {
+ {
+  <i>dass der HERR einen Unterschied macht…</i> vgl §2mo-9-4
  }
 #}
 #2mo-11-8 {
@@ -8041,7 +8067,7 @@
 #}
 #2mo-12-35 {
  {
-  <i>silberne und goldene Geräte</i>, die beim Auszug mitgenommen wurden: <a class='kom' href='#I2mo-3-22'>2.&nbsp;Mo&nbsp;3,22</a>.
+  <i>silberne und goldene Geräte</i>, die beim Auszug mitgenommen wurden: §+2mo-3-22, §2mo-11-2
  }
 #}
 #2mo-12-37 {
@@ -9932,7 +9958,7 @@
 #}
 #2mo-25-18 {
  {
-  Vgl mit den zwei → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim aus §1koe-6-23 ff (hier aus Gold, dort aus Ölbaumholz, siehe aber
+  Vgl mit den zwei → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim aus §1koe-6-23-ff (hier aus Gold, dort aus Ölbaumholz, siehe aber
   auch §+1koe-6-23). Hier am Sühnedeckel befestigt und gebeugt, dort freistehend, in Kreuzesform, und aufrecht.
  }
 #}
@@ -9960,7 +9986,13 @@
 #}
 #2mo-25-29 {
  {
+  §2mo-37-24
+ }
+ {
   <i>Schüsseln, Schalen, Kannen, Spendschalen</i> §4mo-4-7
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer
  }
  {
   <i>Mit welchen das Trankopfer ausgegossen wird</i>: KJV übersetzt mit «to cover withal», Piscator (1755?) mit «mit welchen geschirren er soll bedecket werden».
@@ -9969,9 +10001,6 @@
  }
 #}
 #2mo-25-30 {
- {
-  <i>Schaubrote</i> TODO: <span class='hebr'>לֶ֥חֶם פָּנִ֖ים לְפָנַ֥י</span> (Strongs 3899 6440 6440), also etwa 'Brote des Angesichts vor meinem Angesicht'.
- }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot
  }
@@ -10009,7 +10038,7 @@
 #}
 #2mo-25-40 {
  {
-  <i>Wie auf dem Berg gezeigt</i> §2mo-26-30, §2mo-27-8, §hebr-8-5
+  <i>Wie auf dem Berg gezeigt</i> §2mo-26-30, §2mo-27-8, §apg-7-44, §hebr-8-5
  }
  {
   TODO: Warum 'auf dem Berg gezeigt worden ist'? Mose ist doch auf dem Berg? Vgl auch <a class='kom' href='#I2mo-25-9'>Vers 9</a>.
@@ -10018,6 +10047,9 @@
 @}
 @2. Mose 26 {
 #2mo-26-1 {
+ {
+  <i>Wohnung aus zehn Teppichen</i> §2mo-36-8
+ }
  {
   TODO:  c:\localgit\biblisches\kommentare\todo\2mo-26_Heiligtum-Skizzen.svg
  }
@@ -10104,7 +10136,7 @@
 #}
 #2mo-26-30 {
  {
-   <i>Wie auf dem Berg gezeigt</i> §2mo-25-40, §2mo-27-8, §hebr-8-5
+   <i>Wie auf dem Berg gezeigt</i> §2mo-25-40, §2mo-27-8, §apg-7-44, §hebr-8-5
  }
  {
   Die Wohnung soll am 1.1. aufgerichtet werden §2mo-40-2, §2mo-40-17, vgl §4mo-7-1, §4mo-9-15
@@ -10130,6 +10162,9 @@
   <br>Vgl Salomos Tempel, wo die innere Tür einen <i>fünffach</i>, die äussere einen <i>vierfach gestaffelten Rahmen</i> hat
   (<a href='http://bibel.renenyffenegger.ch/1koe_6.html#v31'>1.&nbsp;Kö&nbsp;6,31/33</a>).
  }
+ {
+  Dies gibt ingesamgt <i>100 Füsse aus Silber</i> §2mo-38-27
+ }
 #}
 @}
 @2. Mose 27 {
@@ -10152,7 +10187,7 @@
 #}
 #2mo-27-8 {
  {
-         <i>Wie auf dem Berg gezeigt</i> §2mo-25-40, §2mo-26-30, §hebr-8-5
+  <i>Wie auf dem Berg gezeigt</i> §2mo-25-40, §2mo-26-30, §apg-7-44, §hebr-8-5
  }
 #}
 #2mo-27-9 {
@@ -10298,6 +10333,16 @@
 #2mo-28-33 {
  {
   <i>Grantapfel</i> (<span class='hebr'>רִמּוֹן</span>, Strongs 7416): <a class='kom' href='#Ijos-15-32'>Jos&nbsp;15,32</a>.
+ }
+#}
+#2mo-28-34 {
+ {
+  §2mo-39-26
+ }
+#}
+#2mo-28-36 {
+ {
+  <i>Heiligkeit dem{!} HERRN</i> vgl §sach-14-20
  }
 #}
 #2mo-28-38 {
@@ -10566,7 +10611,7 @@
   Opfer, die am Morgen und am Abend geopfert werden sollen: <a href='http://bibel.renenyffenegger.ch/3mo_6.html#v13'>3.&nbsp;Mo&nbsp;6,13</a>,
   <a href='http://bibel.renenyffenegger.ch/4mo_28.html#v4'>4.&nbsp;Mo&nbsp;28,4</a>.
   <br>TODO: in <a href='http://bibel.renenyffenegger.ch/1chr_16.html#v40'>1.&nbsp;Chr&nbsp;16,40</a> wird ein Brandopfer, das morgens und abends
-  auf dem Brandopferalter dargebracht wird, als 'nach dem Gesetz des HERRN' bezeichnet. Welches Brandopfer ist dort gemeint.
+  auf dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#brandopferaltar dargebracht wird, als 'nach dem Gesetz des HERRN' bezeichnet. Welches Brandopfer ist dort gemeint.
   Vgl auch mit <a class='kom' href='#I1mo-26-5'>1.&nbsp;Mo&nbsp;26,5</a>.
  }
 #}
@@ -10663,7 +10708,7 @@
 #}
 #2mo-30-9 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer[Speisopfer], → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer
  }
 #}
 #2mo-30-10 {
@@ -10702,8 +10747,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
  {
-  TODO: 'Sühnegeld' offenbar <i>atonement money</i> (<span class='hebr'>כֶּ֣סֶף הַכִּפֻּרִ֗ים</span>, 3701 3725).
-  Offenbar bedeutet Strongs 3701 «Silber». Müsste das als nicht besser mit «Silbergeld» übersetzt werden?
+  Das Silber des <i>Sühnesilbers</i> war wohl »zum Gießen der Füße des Heiligtums und der Füße des Vorhanges« bestimmt §2mo-38-27.
+ <br> 
+  <span class='hebr'>כֶּ֣סֶף הַכִּפֻּרִ֗ים</span>, (Strongs 3701 3725) wird in KJV mit «atonement money», in Elberfelder mit «Sühngeld» übersetzt.
  }
 #}
 #2mo-30-18 {
@@ -11162,6 +11208,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Bund: vgl §+2mo-19-5 und auch §2mo-31-18.
  }
  {
+  <i>vor deinem ganzel Volk will ich Wunder tun</i>: die endgültige Erfüllung wird wohl in der → biblisches/Bücher/Daniel/70-Wochen[70. Jahrwoche Daniels] sein.
+ }
+ {
   Das ganze Volk soll das → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werk Gottes] sehen: §5mo-11-7
  }
 #}
@@ -11226,6 +11275,11 @@
   <i>Das Böcklein nicht in der Milch seiner Mutter kochen</i>: §+2mo-23-19.
  }
 #}
+#2mo-34-27 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/erster[Erster Bund]
+ }
+#}
 #2mo-34-28 {
  {
   Siehe <a class='kom' href='#I2mo-31-18'>2.&nbsp;Mo&nbsp;31,18</a>.
@@ -11280,6 +11334,8 @@
 #2mo-35-6 {
  {
   §2mo-25-4
+  <br>
+  Das → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer ist eine frewillige Gabe §+2mo-35-29
  }
 #}
 #2mo-35-7 {
@@ -11303,14 +11359,10 @@
   §2mo-25-7
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Stein/edel#onyxstein[Onyxsteine]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Stein/edel#onyxstein
  }
 #}
 #2mo-35-12 {
- {
-  Beachte: der Leuchter ist in der Mitte von zwei Gegenständen, die je Tragstangen benötigen. Er selbst aber hat keine Tragstangen.
-  <br><i>Tragstangen</i> siehe auch: <a class='kom' href='#I2mo-25-13'>2.&nbsp;Mo&nbsp;25,13</a>.
- }
  {
   <i>Verhüllender Vorhang</i>: <a class='kom' href='#I2mo-26-31'>2.&nbsp;Mo&nbsp;26,31</a>.
  }
@@ -11321,6 +11373,17 @@
 #2mo-35-13 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot
+ }
+#}
+#2mo-35-14 {
+ {
+  Beachte: der Leuchter ist in der Mitte von zwei Gegenständen, die je Tragstangen benötigen. Er selbst aber hat keine Tragstangen.
+  <br><i>Tragstangen</i> siehe auch: <a class='kom' href='#I2mo-25-13'>2.&nbsp;Mo&nbsp;25,13</a>.
+ }
+#}
+#2mo-35-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucheraltar]
  }
 #}
 #2mo-35-16 {
@@ -11338,6 +11401,11 @@
   <i>Ohrringe</i> vgl §+3mo-32-3, §2mo-33-6
  }
 #}
+#2mo-35-24 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz
+ }
+#}
 #2mo-35-27 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Stein/edel#onyxstein[Onyxsteine]
@@ -11345,25 +11413,17 @@
 #}
 #2mo-35-29 {
  {
-  TODO: Hier erstes Vorkommen von <span class='hebr'>נְדָבָה</span> (Strongs 5071), übersetzt mit 'freiwillige Gabe'.
+  Hier erstes Vorkommen von <span class='hebr'>נְדָבָה</span> (Strongs 5071), übersetzt mit <i>freiwillige Gabe</i>.
  }
 #}
 #2mo-35-30 {
  {
   → biblisches/Personen/Bezaleel[Bezaleel], vgl §2mo-31-2
  }
- {
-  TODO: Vgl mit <a class='kom' href='#I2mo-31-2'>2. Mo 31,2 ff</a>.
- }
 #}
 #2mo-35-34 {
  {
   → biblisches/Personen/Oholiab
- }
-#}
-#2mo-35-35 {
- {
-  TODO: siehe <a class='kom' href='#I2mo-31-2'>2.&nbsp;Mo&nbsp;31,2</a>.
  }
 #}
 @}
@@ -11376,6 +11436,11 @@
 #2mo-36-3 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer
+ }
+#}
+#2mo-36-8 {
+ {
+  <i>Wohnung aus zehn Teppichen</i> §2mo-26-1
  }
 #}
 #2mo-36-20 {
@@ -11407,6 +11472,7 @@
 #2mo-37-1 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz
+  → biblisches/Personen/Bezaleel[Bezaleel], → biblisches/Eigene-Uebersetzung/Konkordanz/Lade
  }
  {
    → biblisches/Personen/Bezaleel[Bezaleel] machte die → biblisches/Eigene-Uebersetzung/Konkordanz/Lade,
@@ -11432,17 +11498,23 @@
 #2mo-37-16 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Tisch[Tisch], → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz
  }
 #}
 #2mo-37-17 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Leuchter-Menora[Leuchter],
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Kaphtor-Knauf
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Kaphtor-Knauf,
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Leuchter-Menora[Leuchter], → biblisches/Eigene-Uebersetzung/Konkordanz/Kaphtor-Knauf
+ }
+#}
+#2mo-37-24 {
+ {
+  §2mo-25-39
  }
 #}
 #2mo-37-25 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucheralter]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar[Räucheraltar]
  }
 #}
 #2mo-37-29 {
@@ -11500,6 +11572,9 @@
 #}
 #2mo-38-25 {
  {
+  Das <i>Silber der Gemusterten</i> stammt wohl aus dem «Sühnesilber» in §2mo-30-16.
+ }
+ {
       603550 &#x2259; 301775 Schekel Silber
   <br>301775 Schekel = 300000 Schekel + 1775 Schekel
   <br> = 100 Talente + 1775 Schekel
@@ -11512,12 +11587,24 @@
   603&nbsp;550 Mann auch in <a href='http://bibel.renenyffenegger.ch/4mo_1.html#v46'>4.&nbsp;Mo&nbsp;1,46</a> und <a href='http://bibel.renenyffenegger.ch/4mo_2.html#v32'>4.&nbsp;Mo&nbsp;2,32</a>. Vgl mit den 600&nbsp;000 in <a href='http://bibel.renenyffenegger.ch/2mo_12.html#v37'>2.&nbsp;Mo&nbsp;12,37</a>.
  }
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#beka
+ }
+ {
   TODO: Wann erfolgte die Zählung? Vgl mit <a href='http://bibel.renenyffenegger.ch/4mo_1.html#v46'>4.&nbsp;Mo&nbsp;1,46</a>.
+ }
+#}
+#2mo-38-27 {
+ {
+  Die <i>hundert Füsse aus Silber</i> setzen sich zusammen aus je 40 Füssen der Mittagsseite der Wohnung (§2mo-26-19) und an der Nordseite (§2mo-26-21); 16 Füssen an der Hinterseite (§2mo-26-25) und 4 Füssen für
+  die Säulen, die den → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang, der das Heiligste vom Allerheilgsten trennt (§2mo-26-32)
  }
 #}
 #2mo-38-29 {
  {
    Vgl <a href='http://bibel.renenyffenegger.ch/4mo_7.html#v85'>4.&nbsp;Mo&nbsp;7,85</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Webopfer
  }
 #}
 @}
@@ -11537,10 +11624,25 @@
   <i>Brustschild</i>: in LXX (Vers 2. Mo 36:15!) offenbar mit «Oracle» übersetzt.
  }
 #}
+#2mo-39-10 {
+ {
+  <a href='http://renenyffenegger.ch/Biblisches/Edelsteine.html#brustschild'>Edelsteine im Brustschild</a>
+ }
+#}
+#2mo-39-26 {
+ {
+  vgl §2mo-28-34-35 «…dass sein Klang gehört werde, wenn er ins Heiligtum hineingeht vor dem HERRN und wenn er hinausgeht, dass er nicht sterbe.»
+ }
+#}
 #2mo-39-27 {
  {
   <i>Leibröcke</i>: siehe <a class='kom' href='#I2mo-28-4'>2.&nbsp;Mo&nbsp;28,4</a> und auch
   <a class='kom' href='#I3mo-3-21'>3.&nbsp;Mo&nbsp;3,21</a>.
+ }
+#}
+#2mo-39-30 {
+ {
+  <i>Heiligkeit dem{!} HERRN</i> vgl §sach-14-20
  }
 #}
 #2mo-39-32 {
@@ -11590,9 +11692,29 @@
 #}
 @}
 @2. Mose 40 {
+#2mo-40-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+#}
 #2mo-40-3 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Lade, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+ }
+#}
+#2mo-40-4 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Tisch[Tisch], → biblisches/Eigene-Uebersetzung/Konkordanz/Leuchter-Menora[Leuchter]
+ }
+#}
+#2mo-40-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar[Altar], → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
+ }
+#}
+#2mo-40-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#brandopferaltar
  }
 #}
 #2mo-40-7 {
@@ -11607,10 +11729,15 @@
 #}
 #2mo-40-12 {
  {
-  §2mo-30-19, §V2mo-40-31
+  <i>wasche sie mit Wasser</i> §2mo-30-19, §V2mo-40-31, vgl §hebr-10-22
  }
  {
   → biblisches/Personen/Aaron/Söhne
+ }
+#}
+#2mo-40-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/Priesterdienst
  }
 #}
 #2mo-40-17 {
@@ -11636,6 +11763,11 @@
 #2mo-40-27 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
+ }
+#}
+#2mo-40-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#brandopferaltar, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer[Speisopfer]
  }
 #}
 #2mo-40-31 {
@@ -12233,6 +12365,11 @@
   <i>berauschendes Getränk</i>: <a class='kom' href='#Ijoh-4-1'>Joh&nbsp;4,1</a>.
  }
 #}
+#3mo-10-10 {
+ {
+  <i>damit ihr unterscheidet zwischen dem Heiligen und dem Unheiligen</i> §3mo-11-47, §3mo-20-25, vgl §hes-22-26, §hes-42-20, §hes-44-23
+ }
+#}
 #3mo-10-14 {
  {
   TODO <a class='kom' href='#Ijos-5-11'>Jos&nbsp;5,11</a>.
@@ -12325,6 +12462,9 @@
  }
 #}
 #3mo-11-47 {
+ {
+  <i>um zu unterscheiden zwischen dem Unreinen und dem Reinen</i> §+3mo-10-10, §3mo-20-25 
+ }
  {
   <i>reine und unreine Tiere</i>: vgl <a class='kom' href='#I1mo-7-1'>1.&nbsp;Mo&nbsp;7,1</a>, <a href='http://bibel.renenyffenegger.ch/3mo_19.html#v25'>3.&nbsp;Mo&nbsp;19,25</a>.
   <br>S.a. <a href='http://bibel.renenyffenegger.ch/hes_44.html#v23'>Hes&nbsp;44,23</a>.
@@ -12909,6 +13049,11 @@
  {
   <i>Land erben</i>: <a href='http://bibel.renenyffenegger.ch/1mo_12.html#v7'>1.&nbsp;Mo&nbsp;12,7</a>, <a href='http://bibel.renenyffenegger.ch/1mo_17.html#v6'>1.&nbsp;Mo&nbsp;17,6</a>.
   Aaron soll nichts erben: <a href='http://bibel.renenyffenegger.ch/4mo_18.html#v20'>4.&nbsp;Mo&nbsp;18,20</a>.
+ }
+#}
+#3mo-20-25 {
+ {
+  <i>ihr sollt unterscheiden…</i> §+3mo-10-10, §3mo-11-47
  }
 #}
 #3mo-20-27 {
@@ -31006,7 +31151,9 @@
  }
 #}
 #2chr-20-7 {
+ {
   → biblisches/Personen/Abraham, → biblisches/Eigene-Uebersetzung/Konkordanz/Freund Gottes §jes-41-8, §jak-2-23
+ }
 #}
 #2chr-20-9 {
  {
@@ -45581,6 +45728,11 @@
    → biblisches/Bücher/prophetisch/Hesekiel#ich-der-herr-habe-geredet-hes
  }
 #}
+#hes-22-26 {
+ {
+  <i>zwischen Heiligem und Unheiligem unterscheiden sie nicht</i> §hes-42-20, §+3mo-10-10, §hes-44-23
+ }
+#}
 @}
 @Hesekiel 23 {
 #hes-23-4 {
@@ -46241,6 +46393,13 @@
  }
 #}
 @}
+@Hesekiel 42 {
+#hes-42-20 {
+ {
+  <i>um zwischen dem Heiligen und Unheiligen zu scheiden</i> §+hes-22-26, §+3mo-10-10
+ }
+#}
+@}
 @Hesekiel 43 {
 #hes-43-21 {
  {
@@ -46266,7 +46425,7 @@
 #}
 #hes-44-23 {
  {
-  TODO: Vgl <a class='kom' href='#I3mo-11-47'>3.&nbsp;Mo&nbsp;11,47</a>.
+   §+3mo-10-10, §hes-22-26, §hes-42-20
  }
 #}
 @}
@@ -49443,6 +49602,9 @@
  }
 #}
 #sach-14-20 {
+ {
+  <i>Heilig dem{!} HERRN</i> vgl §2mo-28-36, §2mo-39-30
+ }
  {
   <i>Kanaaniter</i> Andere Übersetzungen: «Händler».
  }
@@ -58659,7 +58821,7 @@
  }
 #}
 #joh-15-14 {
-{
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freund, vgl §+lk-12-4
  }
 #}
@@ -60436,6 +60598,9 @@
 #apg-7-44 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft#zelt-des-zeugnisses
+ }
+ {
+  <i>nach dem Abbild, das er gesehen hatte</i> §2mo-25-40, §2mo-26-30, §2mo-27-8, §hebr-8-5
  }
 #}
 #apg-7-45 {
@@ -75294,7 +75459,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Vgl <a class='kom' href='#Ijoh-13-15'>Joh&nbsp;13,15</a>.
  }
  {
-  <i>… das dir auf dem Berg gezeigt worden ist</i> §2mo-25-40, §2mo-26-30, §2mo-27-8
+  <i>… das dir auf dem Berg gezeigt worden ist</i> §2mo-25-40, §2mo-26-30, §2mo-27-8, §apg-7-44
  }
  {
   <i>Abbild</i>: <span class='gr'>τύπος</span>, Strongs 5179.
@@ -75594,6 +75759,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-10-22 {
  {
   <i>völliger Gewissheit</i>: Strongs 4136: <a class='kom' href='#Ikol-2-2'>Kol&nbsp;2,2</a>.
+ }
+ {
+  <i>gewaschen mit reinem Wasser</i> vgl §+2mo-40-12
  }
 #}
 #hebr-10-23 {
