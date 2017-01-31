@@ -9204,7 +9204,7 @@
        <i>Altar für Räucherwerk</i> <a href='http://bibel.renenyffenegger.ch/2mo_30.html#v1'>2.&nbsp;Mo&nbsp;30,1</a>.
  }
  {
-  Beachte: hier will Gott 'dich' segnen, in <a href='http://bibel.renenyffenegger.ch/2mo_23.html#v25'>2.&nbsp;Mo&nbsp;23,25</a> 'Wasser und Brot'.
+  Beachte: hier will Gott <i>dich</i> segnen, in §2mo-23-25 «Wasser und Brot».
  }
 #}
 #2mo-20-25 {
@@ -9611,7 +9611,7 @@
 #}
 #2mo-23-25 {
  {
-  <i>Segnen</i>: <a class='kom' href='#I2mo-20-24'>2.&nbsp;Mo&nbsp;20,24</a>.
+  <i>Wasser und Brot segnen</i> §+2mo-20-24
  }
 #}
 #2mo-23-28 {
@@ -10628,11 +10628,11 @@
 #}
 #2mo-29-41 {
  {
-  TODO: <i>Speisopfer</i> ist Strongs 4503 und bedeutet eigentlich (nur) 'Geschenk' oder 'Opfer', siehe <a class='kom' href='#I1mo-4-3'>1.&nbsp;Mo&nbsp;4,3</a>.
-  Siehe auch <a class='kom' href='#I3mo-2-1'>3.&nbsp;Mo&nbsp;2,1</a>.
- }
- {
-  TODO: KJV: <i>meat offering of the morning</i>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer[Speisopfer]
+ <br>
+  <i>Morgenspeisopfer</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer#zeit-des-speisopfers
+ <br>
+  KJV übersetzt mit «meat offering of the morning»
  }
 #}
 #2mo-29-42 {
@@ -10776,6 +10776,11 @@
   <i>Wenn sie in das → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft gehen … , damit sie nicht sterben</i> vgl §3mo-10-9
  }
 #}
+#2mo-30-22 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
+ }
+#}
 #2mo-30-23 {
  {
   <i>Myrrhe</i>: <span class='hebr'>מֹר</span> (Strongs 4753). TODO: hier offenbar das einzige Vorkommen des Wortes in den Büchern Mose.
@@ -10802,14 +10807,7 @@
   Gewürze fürs → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk §2mo-25-6
  }
  {
-  <i>Weihrauch</i>: <span class='hebr'>לְבוֹנָה</span> (Storngs 3828). Stammt offenbar von <span class='hebr'>לָבָן</span> (Strongs 3836) ab.
-  Wird benötigt für <ul>
-     <li>Speisopfer (<a href='http://bibel.renenyffenegger.ch/3mo_2.html#v1'>3.&nbsp;Mo&nbsp;2,1</a>, <a href='http://bibel.renenyffenegger.ch/3mo_6.html#v8'>3.&nbsp;Mo&nbsp;6,8</a>)
-        (Aber beim <i>Speisopfer der Eifersucht</i> sol kein Weihrauch drauf: <a href='http://bibel.renenyffenegger.ch/4mo_5.html#v15'>4.&nbsp;Mo&nbsp;5,15</a>)
-     <li>Auch auf ein Sündopfer gehört kein Weihrauch:  (TODO) (<a href='http://bibel.renenyffenegger.ch/3mo_5.html#v11'>3.&nbsp;Mo&nbsp;5,11</a>)
-     <li>Die zwei Kuchenschichten (<a href='http://bibel.renenyffenegger.ch/3mo_24.html#v7'>3.&nbsp;Mo&nbsp;24,7</a>)
-  </ul>
-  <br>TODO: Siehe auch <i>Lebona</i> (<a href='http://bibel.renenyffenegger.ch/ri_21.html#v19'>Ri&nbsp;21,19</a>).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
  }
 #}
 #2mo-30-36 {
@@ -11809,19 +11807,17 @@
 #}
 #3mo-1-2 {
  {
-  'Opfergabe': <span class='hebr'>קָרְבָּ֖ן</span> (Strongs 7133). Dieses Wort stammt von <span class='hebr'>קָרַב</span> (Strongs 7126) ab, welches hier mit
-  'darbringen' übersetzt wird.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Opfergabe
  }
  {
-  TODO: 'jemand': <span class='hebr'>אָדָ֗ם</span> (das ist <i>Adam</i>) (Strongs 120).
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/3mo_2.html#v1'>3.&nbsp;Mo&nbsp;2,1</a>, wo
-         <i>Seele</i> (<span class='hebr'>נֶפֶשׁ</span>, Strongs 5315) steht.
+  <i>Wenn ein Mensch (<span class='hebr'>אָדָ֗ם</span>) … eine Opfergabe darbringen will</i> vgl §3mo-2-1 «wenn jemand (<span class='hebr'>נֶפֶשׁ</span>) die Opfergabe eines
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer[Speisopfers] darbringen will»
  }
  {
   'Kleinvieh' siehe 'Schaf' in <a class='kom' href='#I1mo-4-2'>1.&nbsp;Mo&nbsp;4,2</a>.
  }
  {
-        <table class='grid' summary='.'>
+  TODO<table class='grid' summary='.'>
   <tr style='text-align:center'>
     <td colspan=2>Vieh <span class='hebr'>בְּהֵמָה</span> (Strongs 929)</td>
   </tr>
@@ -11829,7 +11825,7 @@
     <td>Rind <span class='hebr'>בָּקָר</span> (Strongs 1241)</td>
     <td>Kleinvieh <span class='hebr'>צֹאן</span> (Strongs 6629)</td>
   </tr>
-        </table>
+  </table>
  }
 #}
 #3mo-1-3 {
@@ -11865,17 +11861,15 @@
 @3. Mose 2 {
 #3mo-2-1 {
  {
-  <i>Seele</i>: <a class='kom' href='#I3mo-1-2'>3.&nbsp;Mo&nbsp;1,2</a>.
+  <i>Wenn jemand die Opfergabe eines Speisopfers darbringen will</i> vgl §3mo-1-2
  }
  {
-  <i>Speisopfer</i>: siehe <a class='kom' href='#I1mo-4-3'>1.&nbsp;Mo&nbsp;4,3</a> und <a class='kom' href='#I2mo-29-41'>2.&nbsp;Mo&nbsp;29,41</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer[Speisopfer], → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
  }
+#}
+#3mo-2-2 {
  {
-  <i>Weihrauch</i> siehe <a class='kom' href='#I2mo-30-34'>2.&nbsp;Mo&nbsp;30,34</a>.
- }
- {
-  TODO: Es gibt eine 'Zeit des Speisopfers' <a href='http://bibel.renenyffenegger.ch/1koe_18.html#v29'>1.&nbsp;Kö&nbsp;18,29</a> (nach dem Mittag) und
-  <a href='http://bibel.renenyffenegger.ch/1koe_18.html#v36'>1.&nbsp;Kö&nbsp;18,36</a>.
+  → biblisches/Personen/Aaron/Söhne[Söhne Aarons]
  }
 #}
 #3mo-2-13 {
@@ -11883,12 +11877,19 @@
   <i>Salz des Bundes</i> siehe <a class='kom' href='#I4mo-18-19'>4.&nbsp;Mo&nbsp;18,19</a>.
  }
 #}
+#3mo-2-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
+ }
+#}
 @}
 @3. Mose 3 {
 #3mo-3-1 {
  {
-  Das <i>Friedensopfer</i>. Das Fleisch darf am Tag der Opferung gegessen werden, nicht aber am dritten Tag (<a href='http://bibel.renenyffenegger.ch/3mo_7.html#v15'>3.&nbsp;Mo&nbsp;7,15</a>,
-  <a href='http://bibel.renenyffenegger.ch/3mo_19.html#v5'>3.&nbsp;Mo&nbsp;19,5-7</a>). TODO: Vom Fleisch des <i>Dank-Friedensopfers</i>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer
+ }
+ {
+  TODO: Vom Fleisch des <i>Dank-Friedensopfers</i>
   (<a href='http://bibel.renenyffenegger.ch/3mo_7.html#v15'>3.&nbsp;Mo&nbsp;7,15</a>) darf nichts bis zum Morgen übriggelassen werden, in der Bestimmung in
   <a href='http://bibel.renenyffenegger.ch/3mo_19.html#v6'>3.&nbsp;Mo&nbsp;19,6</a> darf aber noch Fleisch am folgenden Tag genossen werden.)
   <br>Vgl <a class='kom' href='#I2mo-20-24'>2.&nbsp;Mo&nbsp;20,24</a>.
@@ -12047,7 +12048,7 @@
 #}
 #3mo-5-11 {
  {
-  <i>Weihrauch</i> siehe <a class='kom' href='#I2mo-30-34'>2.&nbsp;Mo&nbsp;30,34</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch siehe §+2mo-30-34.
  }
 #}
 #3mo-5-13 {
@@ -12111,7 +12112,7 @@
 #}
 #3mo-6-8 {
  {
-  <i>Weihrauch</i> siehe <a class='kom' href='#I2mo-30-34'>2.&nbsp;Mo&nbsp;30,34</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
  }
 #}
 #3mo-6-9 {
@@ -12183,11 +12184,7 @@
   Siehe auch <a href='http://bibel.renenyffenegger.ch/3mo_22.html#v30'>3.&nbsp;Mo&nbsp;22,30</a>
  }
  {
-  TODO: Friedensopferfleisch nicht bis zum zweiten/dritten Tag übriglassen, siehe <a class='kom' href='#I3mo-3-1'>3.&nbsp;Mo&nbsp;3,1</a>.
- }
- {
-  TODO: Hier 'Dank-Friedensopfers', in <a href='http://bibel.renenyffenegger.ch/2chr_33.html#v16'>2.&nbsp;Chr&nbsp;33,16</a>
-  'Friedensopfer und Dankopfer'.
+   <i>Dank-Friedensopfer</i> <span class='hebr'>זֶבַח תֹּודַת שְׁלָמָיו</span> vgl §2chr-29-31, §2chr-33-16
  }
 #}
 #3mo-7-18 {
@@ -12863,7 +12860,7 @@
 @3. Mose 19 {
 #3mo-19-6 {
  {
-  TODO: Friedensopferfleisch nicht bis zum zweiten/dritten Tag übriglassen, siehe <a class='kom' href='#I3mo-3-1'>3.&nbsp;Mo&nbsp;3,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer
  }
 #}
 #3mo-19-8 {
@@ -13335,7 +13332,7 @@
 #}
 #3mo-24-7 {
  {
-  <i>Weihrauch</i> siehe <a class='kom' href='#I2mo-30-34'>2.&nbsp;Mo&nbsp;30,34</a>.
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer ist angeblich im Grundtext das 77. Wort dieses Kapitels (und befindet sich im 7. Vers), und das 10000. Wort im → biblisches/Bücher/Mose/3/index[3. Buch von Mose].
@@ -14093,7 +14090,7 @@
 #}
 #4mo-5-15 {
  {
-  <i>Weihrauch</i> siehe <a class='kom' href='#I2mo-30-34'>2.&nbsp;Mo&nbsp;30,34</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer#speisopfer-der-eifersucht
  }
  {
   In 2. Mose bis 5. Mose ist hier der einzige Ort, wo das hebräische Wort für <i>Mehl</i> <span class='hebr'>מַצָּה</span> (Strongs 4682) ist. An den anderen Stellen ist
@@ -14103,6 +14100,11 @@
 #4mo-5-18 {
  {
   TODO: <i>Frau mit entblösstem Haupt</i> vgl <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v5'>1.&nbsp;Kor&nbsp;11,5</a>.
+ }
+#}
+#4mo-5-25 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer#speisopfer-der-eifersucht
  }
 #}
 @}
@@ -15932,6 +15934,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
+ }
+#}
+#4mo-28-8 {
+ {
+  <i>Morgenspeisopfer</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer#zeit-des-speisopfers
  }
 #}
 #4mo-28-9 {
@@ -18711,6 +18718,9 @@
  }
 #}
 #5mo-33-10 {
+ {
+  <i>Weihrauch</i> <span class='hebr'>קְטוֹרָה</span> (Strongs 6988, 1x), ein anderes Wort wie das, das sonst mit → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch übersetzt wird.
+ }
  {
   <i>Gesetz</i>: <a class='kom' href='#I1mo-26-5'>1.&nbsp;Mo&nbsp;26,5</a>.
  }
@@ -26798,13 +26808,15 @@
 #}
 #1koe-18-29 {
  {
-  <i>Zeit des Speisopfers</i>: <a href='http://bibel.renenyffenegger.ch/1koe_18.html#v36'>1.&nbsp;Kö&nbsp;18,36</a>.
-  <br>Speisopfer: <a class='kom' href='#I3mo-2-1'>3.&nbsp;Mo&nbsp;2,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer#zeit-des-speisopfers
  }
 #}
 #1koe-18-36 {
  {
    → biblisches/Personen/Elia/index ist ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet und damit ein → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten[Knecht des Herrn].
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer#zeit-des-speisopfers
  }
 #}
 #1koe-18-40 {
@@ -29613,6 +29625,9 @@
 #}
 #1chr-9-29 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
+ }
+ {
   <b>Gewürze</b> wären wohl besser mit 'Spezerei' übersetzt worden (
     <a class='kom' href='#I1koe-10-2'>1.&nbsp;Kö&nbsp;10,2</a>,
     <a class='kom' href='#I2mo-25-6'>2.&nbsp;Mo&nbsp;25,6</a>
@@ -31592,6 +31607,10 @@
 #}
 #2chr-29-31 {
  {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schlachtopfer[Schlachtopfer] und → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Dankopfer</i>
+  <span class='hebr'>זְבָחִים וְתֹודֹות</span>, vgl §3mo-7-15, §2chr-33-16
+ }
+ {
   TODO: Es scheint, dass Hiskia der erste (von zwei Königen) war, der Dankopfer darbrachte (<a class='kom' href='#I3mo-7-12'>3.&nbsp;Mo&nbsp;7,12</a>).
   Der andere war Manasse (<a class='kom' href='#I2chr-33-16'>2.&nbsp;Chr&nbsp;33,16</a>).
  }
@@ -31825,7 +31844,7 @@
       (<a class='kom' href='#I3mo-7-12'>3.&nbsp;Mo&nbsp;7,12</a>).
  }
  {
-  TODO: <a class='kom' href='#I3mo-7-15'>3.&nbsp;Mo&nbsp;7,15</a>.
+  <i>Friedens- und Dankopfer</i> <span class='hebr'>זִבְחֵי שְׁלָמִים וְתֹודָה</span> vgl §3mo-7-15, §2chr-29-31
  }
 #}
 #2chr-33-19 {
@@ -33582,9 +33601,19 @@
 #}
 @}
 @Nehemia 13 {
+#neh-13-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
+ }
+#}
 #neh-13-6 {
  {
    <a href='http://bibel.renenyffenegger.ch/neh_5.html#v14'>Neh&nbsp;5,14</a>.
+ }
+#}
+#neh-13-9 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
  }
 #}
 #neh-13-23 {
@@ -39493,6 +39522,11 @@
   Die Wächter geben keine Antwort auf die Frage.
  }
 #}
+#hl-3-6 {
+ {
+  <i>Myrrhe</i> und → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch §hl-4-6, §mt-2-11
+ }
+#}
 #hl-3-7 {
  {
    Hier: 60 Helden, 30 Helden in <a href='http://bibel.renenyffenegger.ch/1chr_27.html#v6'>1.&nbsp;Chr&nbsp;27,6</a>.
@@ -39528,6 +39562,11 @@
  {
   <i>Gazelle</i>: <span class='hebr'>צְבִיָּה</span> (Strongs 6646, 2x): vgl mit 'Tabitha' in <a href='http://bibel.renenyffenegger.ch/apg_9.html#v36'>Apg&nbsp;9,36</a>.
   <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/hl_7.html#v4'>Hl&nbsp;7,4</a>.
+ }
+#}
+#hl-4-6 {
+ {
+  <i>Myrrhenberg und → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch</i> §hl-3-6, §mt-2-11
  }
 #}
 #hl-4-8 {
@@ -41657,6 +41696,11 @@
   Vgl <a class='kom' href='#Ijes-35-6'>Jes&nbsp;35,6</a>.
  }
 #}
+#jes-43-23 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
+ }
+#}
 @}
 @Jesaja 44 {
 #jes-44-1 {
@@ -42267,9 +42311,10 @@
   <br>TODO: Saba vs Scheba auch in <a class='kom' href='#Ijer-6-20'>Jer&nbsp;6,20</a>.
  }
  {
-  Beachte: Hier kommt Gold und Weihrauch von Saba (Scheba), offenbar in einem Gott wohlgefälligen Sinn, in
-  <a href='http://bibel.renenyffenegger.ch/jer_6.html#v20'>Jer&nbsp;6,20</a> kommen Weihrauch und Gewürzrohr aus Saba (Scheba), offenbar in einem
-  Gott nicht wohlgefälligen Sinn.
+  Beachte: Hier kommt Gold und → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch von Saba (Scheba), offenbar in einem Gott wohlgefälligen Sinn, in
+  §jer-6-20 kommen Weihrauch und Gewürzrohr aus Saba (Scheba), offenbar in einem Gott nicht wohlgefälligen Sinn.
+  <br>
+  Vgl §mt-2-11
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/jer_6.html#v20'>Jer&nbsp;6,20</a>: 'Was soll mir der Weihrauch von Saba'.
@@ -42473,6 +42518,11 @@
 #}
 @}
 @Jesaja 66 {
+#jes-66-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
+ }
+#}
 #jes-66-6 {
  {
   Vgl die <i>Stimme aus dem Tempel</i> mit <a class='kom' href='#Ioffb-16-1'>Offb&nbsp;16,1</a>.
@@ -42763,8 +42813,9 @@
   TODO: Vgl <i>Scheba</i> vs <i>Saba</i>: <a class='kom' href='#Ijes-60-6'>Jes&nbsp;60,6</a>.
  }
  {
-  vgl <a class='kom' href='#Ijes-60-6'>Jes&nbsp;60,6</a>: '... Dromedare von Midian und Epha; sie alle werden von Saba kommen, Gold und Weihrauch bringen ...'.
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/1koe_10.html#v2'>1.&nbsp;Kö&nbsp;10,2</a>.
+  §+jes-60-6: «…Dromedare von Midian und Epha; sie alle werden von Saba kommen, Gold und → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch bringen …'.
+ <br>
+  Vgl §1koe-10-2.
  }
 #}
 #jer-6-21 {
@@ -43222,6 +43273,11 @@
 #jer-17-23 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten §jer-7-26, §jer-19-15
+ }
+#}
+#jer-17-26 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
  }
 #}
 @}
@@ -44338,6 +44394,9 @@
 #}
 #jer-41-5 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
+ }
+ {
   <i>Silo</i>: <a class='kom' href='#Ijos-18-1'>Jos&nbsp;18,1</a>.
  }
 #}
@@ -45352,6 +45411,9 @@
   <i>Jaasanja</i>: <a class='kom' href='#I2koe-25-23'>2.&nbsp;Kö&nbsp;25,23</a>.
   <br>Vgl <a href='http://bibel.renenyffenegger.ch/hes_11.html#v1'>Hes&nbsp;11,1</a> wo Jaasanja, der Sohn Assurs unter 25 Männern am
   Osttor ist.
+ }
+ {
+  <i>Duft einer Wolke von → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk</i>: Elberfelder und Sch2K übersetzen mit «Duft einer → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch[Weihrauchwolke]», KJV mit «thick cloud of incense».
  }
 #}
 #hes-8-16 {
@@ -49900,6 +49962,10 @@
 #mt-2-11 {
  {
   <a class='kom' href='#Ijes-60-6'>Jes&nbsp;60,6</a>.
+ }
+ {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch und Myrrhe</i> §hl-3-6, §hl-4-6,
+  <i>Gold und Weihrauch</i> §jes-60-6
  }
  {
   Vgl <i>niederfallen und anbeten</i> mit <a href='http://bibel.renenyffenegger.ch/mt_4.html#v9'>Mt&nbsp;4,9</a>.
@@ -79551,15 +79617,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   nach diesem geschehen soll'?
  }
  {
-  TODO: Hier steigt Johannes in den Himmel, nachdem er gehört hat 'Komm hier herauf', in
-  <a href='http://bibel.renenyffenegger.ch/offb_11.html#v12'>Offb&nbsp;11,12</a> sind es die zwei Zeugen.
+  Hier steigt Johannes in den Himmel, nachdem er gehört hat <i>Komm hier herauf</i>, in §offb-11-12 sind es die zwei Zeugen.
  }
  {
-  <i>Posaune</i>: <a class='kom' href='#Imt-24-31'>Mt&nbsp;24,31</a>.
+  <i>Posaune</i> §+mt-24-31
  }
  {
-  Hier ist eine im Himmel geöffnet, in <a href='http://bibel.renenyffenegger.ch/offb_19.html#v11'>Offb&nbsp;19,11</a> ist der Himmel selbst
-  geöffnet.
+  Hier ist eine im Himmel geöffnet, in §offb-19-11 ist der Himmel selbst geöffnet.
  }
 #}
 #offb-4-2 {
@@ -80643,7 +80707,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-11-12 {
  {
-  Auch Johannes ist in den Himmel gestiegen: <a class='kom' href='#Ioffb-4-1'>Offb&nbsp;4,1</a>.
+  Auch Johannes ist in den Himmel gestiegen: §+offb-4-1.
  }
 #}
 #offb-11-13 {
@@ -81807,7 +81871,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-18-13 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
+ }
+ {
+  Myrrhe fehlt hier. Offenbar wollen die Kaufleute nicht ans Leiden erinnert werden.
  }
 #}
 #offb-18-14 {
@@ -81971,7 +82038,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte, Er sitzt hier auf dem Pferd, nicht auf dem Thron. (Vgl Vers 4).
  }
  {
-  <i>geöffneter Himmel</i>: <a class='kom' href='#Ioffb-4-1'>Offb&nbsp;4,1</a>.
+  <i>geöffneter Himmel</i> §+offb-4-1
  }
  {
   <i>Der Treue</i>: <a class='kom' href='#Ips-96-13'>Ps&nbsp;96,13</a>.
