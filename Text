@@ -26277,9 +26277,8 @@
 #}
 #1koe-11-19 {
  {
-  <i>Gebieterin</i> (<span class='hebr'>גְבִירָה</span>, Strongs 1377) in Elberfelder 1905 mit 'Königin', in KJV mit 'Queen' übersetzt.
-  Vgl <a class='kom' href='#Ineh-2-6'>Neh&nbsp;2,6</a> wo ein Strongs 7694 mit 'Königin' übersetzt wird.
-  <br>In <a href='http://bibel.renenyffenegger.ch/jer_29.html#v2'>Jer&nbsp;29,2</a> wird dieses Wort allerdings auch mit 'Königin' übersetzt.
+  <i>Königin</i> (<span class='hebr'>גְבִירָה</span>, Strongs 1377) in SchK mit «Gebieterin», in KJV mit «Queen» übersetzt.
+  Vgl §+neh-2-6, §jer-29-2
  }
  {
   TODO: vgl <i>Tachpenes</i> (<span class='hebr'>תַּחְפְּנֵיס</span>, Strongs 8472) mit <i>Tachpanches</i> (<span class='hebr'>תְּחַפְנְחֵס</span>, Strongs 8471) in
@@ -32454,10 +32453,16 @@
 #}
 #esr-4-6 {
  {
-  <i>Tabeel</i>: <a href='http://bibel.renenyffenegger.ch/jes_7.html#v6'>Jes&nbsp;7,6</a>.
+  → biblisches/Personen/Ahasveros
+ }
+ {
+  <i>Tabeel</i>: §jes-7-6.
  }
 #}
 #esr-4-7 {
+ {
+  → biblisches/Personen/Artasasta
+ }
  {
   TODO: Ist Mitrdat der Schatzmeister von <a href='http://bibel.renenyffenegger.ch/esr_1.html#v8'>Esr&nbsp;1,8</a>?
  }
@@ -32538,6 +32543,11 @@
   TODO <i>Misthaufen</i>: <a class='kom' href='#Idan-2-5'>Dan&nbsp;2,5</a>.
  }
 #}
+#esr-6-14 {
+ {
+  → biblisches/Personen/Artasasta
+ }
+#}
 #esr-6-15 {
  {
   Der <i>Adar</i> ist wohl der zwölfte Monat (<a href='http://bibel.renenyffenegger.ch/est_3.html#v7'>Est&nbsp;3,7</a>).
@@ -32573,7 +32583,7 @@
 #}
 #esr-7-12 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/König/der-Könige
+  → biblisches/Personen/Artasasta, → biblisches/Eigene-Uebersetzung/Konkordanz/König/der-Könige
  }
  {
   Ab hier bis <a href='http://bibel.renenyffenegger.ch/esr_7.html#v26'>Vers 26</a> ist der Text → biblisches/Grundtext/aramäisch
@@ -32758,11 +32768,16 @@
   <a href='http://bibel.renenyffenegger.ch/3mo_26.html#v33'>3.&nbsp;Mo&nbsp;26,33</a>.
  }
 #}
+#neh-1-11 {
+ {
+  → biblisches/Personen/Nehemia
+ }
+#}
 @}
 @Nehemia 2 {
 #neh-2-1 {
  {
-  <i>Im zwanzigsten Jahr des Königs Artasasta</i> vgl §esr-7-7, §neh-5-14, §neh-13-6, → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia
+  <i>Im zwanzigsten Jahr des Königs → biblisches/Personen/Artasasta</i> vgl §esr-7-7, §neh-5-14, §neh-13-6, → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia
  }
  {
   Der <i>Nisan</i> ist wohl der erste Monat (<a href='http://bibel.renenyffenegger.ch/est_3.html#v7'>Est&nbsp;3,7</a>).
@@ -32770,7 +32785,9 @@
 #}
 #neh-2-6 {
  {
-  <i>Königin</i> (<span class='hebr'>שֵׁגָל</span>, Strongs 7694), vgl <a class='kom' href='#I1koe-11-19'>1.&nbsp;Kö&nbsp;11,19</a>.
+  <i>Königin</i> (<span class='hebr'>שֵׁגָל</span>, Strongs 7694) §+1koe-11-19
+ <br>
+  Einige Ausleger gehen davon aus, dass diese Königin Esther ist.
  }
 #}
 #neh-2-7 {
@@ -33030,7 +33047,8 @@
   <i>Statthalter</i>: <a class='kom' href='#Ineh-2-7'>Neh&nbsp;2,7</a>.
  }
  {
-  <i>Im zwanzigsten Jahr bis zum zweiundreissigsten Jahr des Königs Artasasta</i> vgl §esr-7-7, §neh-2-1, §neh-13-6, → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia
+  <i>Im zwanzigsten Jahr bis zum zweiundreissigsten Jahr des Königs → biblisches/Personen/Artasasta</i> vgl §esr-7-7, §neh-2-1, §neh-13-6,
+  → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia
   <br>
   Nehemia ging im 32. Jahr Artastas für einige Zeit zum König zurück (§neh-13-6).
  }
@@ -33782,7 +33800,10 @@
 #}
 #neh-13-6 {
  {
-   <a href='http://bibel.renenyffenegger.ch/neh_5.html#v14'>Neh&nbsp;5,14</a>.
+  → biblisches/Personen/Artasasta
+ }
+ {
+  §neh-5-14
  }
 #}
 #neh-13-9 {
@@ -33853,6 +33874,9 @@
   Äthopien ist eigentlich <i>Kusch</i>.
  }
  {
+  → biblisches/Personen/Ahasveros
+ }
+ {
   TODO Vgl mit den 120 Satrapen (<a href='http://bibel.renenyffenegger.ch/dan_6.html#v2'>Dan&nbsp;6,2</a>).
  }
 #}
@@ -33885,6 +33909,11 @@
 #}
 @}
 @Esther 2 {
+#est-2-1 {
+ {
+  → biblisches/Personen/Ahasveros
+ }
+#}
 #est-2-3 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Susan[Susan]
@@ -33918,6 +33947,11 @@
 #}
 @}
 @Esther 3 {
+#est-3-1 {
+ {
+  → biblisches/Personen/Ahasveros
+ }
+#}
 #est-3-7 {
  {
   TODO: Der Monat <i>Adar</i> kommt nur im Buch Esther vor.
@@ -33953,13 +33987,30 @@
   → biblisches/Bücher/referenzierte-ausserbiblische
  }
 #}
+#est-6-2 {
+ {
+  → biblisches/Personen/Ahasveros
+ }
+#}
 #est-6-6 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
  }
 #}
 @}
+@Esther 7 {
+#est-7-5 {
+ {
+  → biblisches/Personen/Ahasveros
+ }
+#}
+@}
 @Esther 8 {
+#est-8-1 {
+ {
+  → biblisches/Personen/Ahasveros
+ }
+#}
 #est-8-11 {
  {
   <a class='kom' href='#Iest-3-12'>Est&nbsp;3,12</a>.
@@ -33977,6 +34028,11 @@
 #}
 @}
 @Esther 9 {
+#est-9-2 {
+ {
+  → biblisches/Personen/Ahasveros
+ }
+#}
 #est-9-6 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Susan[Susan]
@@ -33989,6 +34045,11 @@
 #}
 @}
 @Esther 10 {
+#est-10-1 {
+ {
+  → biblisches/Personen/Ahasveros
+ }
+#}
 @}
 }
 { Hiob
@@ -43996,7 +44057,7 @@
 @Jeremia 29 {
 #jer-29-2 {
  {
-  <i>Königin</i>: <a class='kom' href='#I1koe-11-19'>1.&nbsp;Kö&nbsp;11,19</a>.
+  <i>Königin</i> §+1koe-11-19
  }
  {
   → biblisches/Personen/Jekonja-Jojakin
@@ -47539,6 +47600,9 @@
 @}
 @Daniel 9 {
 #dan-9-1 {
+ {
+  → biblisches/Personen/Ahasveros
+ }
  {
   TODO: <i>Abstammung</i> wäre wohl besser mit 'Samen' übersetzt worden.
  }
