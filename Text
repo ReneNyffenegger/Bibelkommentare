@@ -33586,6 +33586,9 @@
  {
   Beachte: Weder → biblisches/Personen/Esra noch Eljaschib, der Hohepriester (§neh-3-1) werden in diesem Kapitel erwähnt.
  }
+ {
+  <i>fester Bund</i> §dan-9-27. Im Hebräischen Text steht nicht das übliche Wort, das sonst mit Bund übersetzt wird. Andere Übesetzungen übersetzen mit «Vereinbarung»
+ }
 #}
 #neh-10-2 {
  {
@@ -33605,7 +33608,7 @@
 #}
 #neh-10-31 {
  {
-  Vgl §neh-13-25
+  Vgl §neh-13-23-25
  }
 #}
 #neh-10-32 {
@@ -33615,7 +33618,7 @@
 #}
 #neh-10-33 {
  {
-  Der drittel eines → biblisches/Eigene-Uebersetzung/Konkordanz/Schekel[Schekels] hat nicht viel mit dem halben Schekel aus §2mo-30-13 zu tun, jener wurde nur bei einer Musterung genommen, dieser alljährlich. Möglicherweise ist
+  Der Drittel eines → biblisches/Eigene-Uebersetzung/Konkordanz/Schekel[Schekels] hat nicht viel mit dem halben Schekel aus §2mo-30-13 zu tun; jener wurde nur bei einer Musterung genommen, dieser alljährlich. Möglicherweise ist
   daraus die Einnahme der Doppeldrachme (§mt-17-24) entstanden.
  }
  {
@@ -47666,6 +47669,11 @@
  }
  {
   <i>Festbesschlossenes und Verwüstungen</i>: §+jes-22-10
+ }
+#}
+#dan-9-27 {
+ {
+  <i>feste Bund</i> §neh-10-1
  }
 #}
 @}
