@@ -24742,6 +24742,11 @@
   TODO: War Salomo das einzige Kind von Bathseba? Vgl <a href='http://bibel.renenyffenegger.ch/spr_4.html#v3'>Spr&nbsp;4,3</a>.
  }
 #}
+#2sam-12-26 {
+ {
+  → biblisches/Personen/Salomo#salomo-von-gott-geliebt, §neh-13-26
+ }
+#}
 #2sam-12-28 {
  {
   <a class='kom' href='#I1chr-16-1'>1.&nbsp;Chr&nbsp;16,1</a>.
@@ -25641,8 +25646,10 @@
 @1. Könige 5 {
 #1koe-5-1 {
  {
-  Vgl diesen Vers und Vers 4 mit <a href='http://bibel.renenyffenegger.ch/ps_72.html#v8'>Ps&nbsp;72,8</a> (der Psalm ist Salomo gewidmet:
-  <a href='http://bibel.renenyffenegger.ch/ps_72.html#v1'>Ps&nbsp;72,1</a>).
+  <i>Salomo war Herrscher über alle Königreiche</i> §neh-13-26
+ }
+ {
+  Vgl diesen Vers und Vers 4 mit §ps-72-8 (der Psalm ist Salomo gewidmet §ps-72-1).
  }
 #}
 #1koe-5-2 {
@@ -26227,7 +26234,9 @@
 @1. Könige 11 {
 #1koe-11-1 {
  {
-  Vgl <a class='kom' href='#I1koe-3-3'>1.&nbsp;Kö&nbsp;3,3</a>.
+  → biblisches/Personen/Salomo#salomo-fremde-frauen, §neh-13-26
+ <br>
+  Vgl §+1koe-3-3.
  }
 #}
 #1koe-11-4 {
@@ -33811,6 +33820,11 @@
   Vgl §neh-10-31
  }
 #}
+#neh-13-26 {
+ {
+  → biblisches/Personen/Salomo, vgl §1koe-11-1-ff, §2sam-12-26, §1koe-5-1, §1koe-10-23
+ }
+#}
 #neh-13-28 {
  {
   <i>Sanballat</i>: <a class='kom' href='#Ineh-2-10'>Neh&nbsp;2,10</a>.
@@ -36252,7 +36266,7 @@
   Psalmen, die benannten Personen gewidmet sind: <a class='kom' href='#Ips-39-1'>Ps&nbsp;39,1</a>.
  }
  {
-  Für Salomo: Vgl Vers 20.
+  Für → biblisches/Personen/Salomo: Vgl §Vps-72-20
  }
 #}
 #ps-72-5 {
@@ -36265,7 +36279,7 @@
 #}
 #ps-72-8 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1koe_5.html#v1'>1.&nbsp;Kö&nbsp;5,1/4</a>.
+  §1koe-5-1, §1koe-5-4
  }
 #}
 #ps-72-9 {
