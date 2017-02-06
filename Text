@@ -42081,8 +42081,10 @@
 #}
 #jes-45-23 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/roem_14.html#v11'>Röm&nbsp;14,11</a> und
-  <a href='http://bibel.renenyffenegger.ch/phil_2.html#v10'>Phil&nbsp;2,10</a>.
+  <i>dass jedes Knie sich vor mir beugen wird</i> Vgl §roem-14-11, §phil-2-10 und §eph-3-14
+ }
+ {
+  <i>dass jede Zunge mir schwören wird</i> vgl §phil-2-11
  }
 #}
 @}
@@ -66207,8 +66209,7 @@
 #}
 #roem-14-11 {
  {
-   TODO: <a class='kom' href='#Iphil-2-11'>Phil&nbsp;2,11</a>, <a class='kom' href='#Ijes-45-23'>Jes&nbsp;45,23</a>.
-   Vgl auch <a href='http://bibel.renenyffenegger.ch/eph_3.html#v14'>Eph&nbsp;3,14</a>.
+   Vgl §+phil-2-11, §+jes-45-23, auch §eph-3-14.
  }
 #}
 #roem-14-12 {
@@ -70885,9 +70886,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
  }
 #}
+#eph-3-12 {
+ {
+  <i>Zugang in Zuversicht durch Glauben</i> Vgl §hebr-10-19
+ }
+#}
 #eph-3-14 {
  {
-  Vgl <a class='kom' href='#Iroem-14-11'>Röm&nbsp;14,11</a>.
+  <i>beuge ich meine Knie</i> vgl §+roem-14-11, §phil-2-10
+ }
+ {
+  <span class='gr'>In NA fehlt «unseres Herrn Jesus Christus»</span>
  }
 #}
 #eph-3-15 {
@@ -71583,15 +71592,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-2-10 {
  {
+  <i>dass jedes Knie sich beuge</i> vgl §jes-45-23, §+roem-14-11, §eph-3-14 
+ }
+ {
   <i>Unterirdisch</i>: vgl §+kol-1-20.
  }
 #}
 #phil-2-11 {
  {
-  Vgl <a class='kom' href='#Ijes-45-23'>Jes&nbsp;45,23</a>.
- }
- {
-  TODO: Im Grundtext scheint 'Zungen' in Einzahl zu stehen, vgl mit <a href='http://bibel.renenyffenegger.ch/roem_14.html#v11'>Röm&nbsp;14,11</a>.
+  <i>dass jede Zunge bekenne</i> Vgl §+jes-45-23, §roem-14-11
  }
 #}
 #phil-2-12 {
@@ -76239,6 +76248,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-10-19 {
  {
   → biblisches/Bücher/jüdische-Briefe/Hebräer/index#freimuetigkeit-hebr im → biblisches/Bücher/jüdische-Briefe/Hebräer/index.
+  <br>Vgl §eph-3-12
  }
  {
   <i>Eintritt in das Heiligtum</i>: Der Weg zum Heiligtum war noch nicht geoffenbart, solange die vordere Hütte Bestand hatte §hebr-9-8, vgl §+hebr-9-12
