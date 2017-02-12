@@ -66352,7 +66352,7 @@
   vor.
  }
  {
-   Waffen: → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Waffen vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat
  }
  {
   <i>Werke der Finsternis</i>: vgl <a class='kom' href='#Ieph-5-11'>Eph&nbsp;5,11</a>.
@@ -69432,7 +69432,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Wahrheit
  }
  {
-   Waffen: → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Waffen: → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat
  }
 #}
 #2kor-6-8 {
@@ -71497,10 +71497,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-6-11 {
  {
-  Vgl <a class='kom' href='#Iroem-13-12'>Röm&nbsp;13,12</a>.
- }
- {
-  Vgl mit Waffen: notes/biblisches/Eigene-Uebersetzung/Konkordanz/Waffen
+  biblisches/Eigene-Uebersetzung/Konkordanz/Waffen vgl §+roem-13-12
  }
 #}
 #eph-6-12 {
