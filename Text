@@ -42059,9 +42059,7 @@
 #}
 #jes-42-6 {
  {
-         <i>Licht für die Heiden</i>: <a class='kom' href='#Ijes-49-6'>Jes&nbsp;49,6</a>,
-         <a href='http://bibel.renenyffenegger.ch/lk_2.html#v32'>Lk&nbsp;2,32</a>, <a href='http://bibel.renenyffenegger.ch/apg_13.html#v47'>Apg&nbsp;13,47</a>.
-         <a href='http://bibel.renenyffenegger.ch/apg_26.html#v23'>Apg&nbsp;26,23</a>
+   <i>Licht der Nationen</i>: §+jes-49-6, §lk-2-32, §apg-13-47.  §apg-26-23
  }
 #}
 #jes-42-11 {
@@ -42343,10 +42341,13 @@
 #}
 #jes-48-15 {
  {
-  <i>Denn ich habe geredet</i> vgl §jes-§46-11,  → biblisches/Bücher/prophetisch/Hesekiel#ich-der-herr-habe-geredet-hes im Buch → biblisches/Bücher/prophetisch/Hesekiel
+  <i>Denn ich habe geredet</i> vgl §jes-46-11,  → biblisches/Bücher/prophetisch/Hesekiel#ich-der-herr-habe-geredet-hes im Buch → biblisches/Bücher/prophetisch/Hesekiel
  }
 #}
 #jes-48-20 {
+ {
+  Vgl §offb-18-4
+ }
  {
   TODO: Israel ist doch noch gar nicht in Babel.
  }
@@ -42373,11 +42374,10 @@
 #}
 #jes-49-6 {
  {
-  <i>Licht</i>: vgl §jes-9-1.
+  <i>Licht</i>: vgl §jes-9-1, <i>Licht der Nationen</i> §+jes-42-6
  }
  {
-  TODO: Ist dies eine Anweisung an Paulus (und Barnabas)? <a class='kom' href='#Iapg-13-47'>Apg&nbsp;13,47</a>.
-  Vgl auch <a class='kom' href='#Ijes-42-6'>Jes&nbsp;42,6</a>.
+  TODO: Ist dies eine Anweisung an Paulus (und Barnabas)? §+apg-13-47.
  }
 #}
 #jes-49-7 {
@@ -82453,8 +82453,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-18-4 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/jer_50.html#v8'>Jer&nbsp;50,8</a> und.
-  <a href='http://bibel.renenyffenegger.ch/jer_51.html#v45'>Jer&nbsp;51,45</a>
+  Vgl §jes-48-20, §jer-50-8 und §jer-51-45
  }
 #}
 #offb-18-5 {
