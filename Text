@@ -67947,8 +67947,7 @@
   <i>Rennbahn</i> (<span class='gr'>στάδιον</span>, Strongs 4712), dasselbe Wort wie für das Längenmass.
  }
  {
-  <i>Preis</i> (<span class='gr'>βραβεῖον</span>, Strongs 1017), dasselbe Wort wie für 'Kampfpreis' in
-  <a href='http://bibel.renenyffenegger.ch/phil_3.html#v14'>Phil&nbsp;3,14</a>.
+  <i>Preis</i> (<span class='gr'>βραβεῖον</span>, Strongs 1017), dasselbe Wort wie für «Kampfpreis» in §phil-3-14.
  }
  {
   <i>Wisst ihr nicht</i>: <a class='kom' href='#I1kor-3-16'>1.&nbsp;Kor&nbsp;3,16</a>.
@@ -70849,6 +70848,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 @}
 @Epheser 2 {
+#eph-2-1 {
+ {
+  <i>tot in Vergehungen</i> §Veph-2-5, §kol-2-13
+ }
+#}
 #eph-2-2 {
  {
   Beachte: wir werden in die <i>Luft</i> entrückt (§1thes-4-17).
@@ -71971,8 +71975,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-3-14 {
  {
-  <i>Kampfpfreis</i>: <a class='kom' href='#I1kor-9-24'>1.&nbsp;Kor&nbsp;9,24</a>,
-  <a class='kom' href='#Ikol-2-18'>Kol&nbsp;2,18</a>.
+  <i>Kampfpreis</i>: §+1kor-9-24, §+kol-2-18.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
@@ -72454,6 +72457,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
  }
 #}
+#kol-2-13 {
+ {
+  <i>tot in Vergehungen</i> §eph-2-1
+ }
+#}
 #kol-2-14 {
  {
   Luther 1912 übersetzt <span class='gr'>χειρογραφον</span> (Strongs 5498) mit 'Handschrift'.
@@ -72466,9 +72474,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-2-18 {
  {
-  <i>Um den Kampfreis bringen</i> (<span class='gr'>καταβραβεύω</span>, Strongs 2603 [1x]).
-  Vgl <a class='kom' href='#Iphil-3-14'>Phil&nbsp;3,14</a>,
-  <a class='kom' href='#Ikol-3-15'>Kol&nbsp;3,15</a>.
+  <i>Um den Kampfpreis bringen</i> (<span class='gr'>καταβραβεύω</span>, Strongs 2603 [1x]).
+  Vgl §+phil-3-14
  }
  {
   TODO: <i>aufgebläht</i>, in Elberfelder und Schlachter 2000 mit «aufgeblasen» übersetzt, vgl <a class='kom' href='#I1kor-4-6'>1.&nbsp;Kor&nbsp;4,6</a>.
