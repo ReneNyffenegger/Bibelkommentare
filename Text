@@ -36355,6 +36355,11 @@
   Beachte: der <i>Tempel</i> ist noch gar nicht gebaut: <a class='kom' href='#Ips-5-8'>Ps&nbsp;5,8</a>.
  }
 #}
+#ps-65-8 {
+ {
+  <i>der da stillt das Brausen der Meere</i> vgl §jes-51-15
+ }
+#}
 @}
 @Psalm 66 {
 #ps-66-5 {
@@ -37020,6 +37025,9 @@
  }
 #}
 #ps-89-11 {
+ {
+  <i>Rahab</i> §jes-51-9
+ }
  {
   <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>.
  }
@@ -42476,6 +42484,9 @@
   <i>Wache auf, wache auf</i>: <a href='http://bibel.renenyffenegger.ch/jes_51.html#v17'>Jes&nbsp;51,17</a>, <a href='http://bibel.renenyffenegger.ch/jes_52.html#v1'>Jes&nbsp;52,1</a>
    (Jeweils Strongs 5782)
  }
+ {
+  <i>Rahab</i> §ps-89-11
+ }
 #}
 #jes-51-12 {
  {
@@ -42485,6 +42496,11 @@
 #jes-51-13 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/ausspannen
+ }
+#}
+#jes-51-15 {
+ {
+  <i>der das Meer erregt</i> vgl §ps-65-8
  }
 #}
 #jes-51-17 {
@@ -42579,6 +42595,11 @@
   TODO: Wo überall (in den Psalmen und Sprüchen) findet man Menschen mit Betrug im Mund?
  }
 #}
+#jes-53-10 {
+ {
+  <i>er wird seine Tage verlängern</i> deutet wohl auf die Auferstehung des Herrn Jesus hin.
+ }
+#}
 #jes-53-11 {
  {
   <i>wird er seine Lust sehen</i>, vgl <a href='http://bibel.renenyffenegger.ch/hebr_12.html#v2'>Hebr&nbsp;12,2</a>.
@@ -42627,7 +42648,7 @@
 @Jesaja 55 {
 #jes-55-1 {
  {
-  TODO: Vgl <a class='kom' href='#Ioffb-21-6'>Offb&nbsp;21,6</a>
+  §+offb-21-6
  }
 #}
 #jes-55-3 {
@@ -82884,7 +82905,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: Vgl <a class='kom' href='#Ioffb-13-17'>Offb&nbsp;13,17</a>.
  }
  {
-  TODO: Vgl <a href='http://bibel.renenyffenegger.ch/jes_55.html#v1'>Jes&nbsp;55,1</a>
+  <i>Ich will dem Dürstenden</i>: §jes-55-1
  }
 #}
 #offb-21-7 {
