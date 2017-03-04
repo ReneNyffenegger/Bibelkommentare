@@ -9324,8 +9324,9 @@
 #}
 #2mo-21-37 {
  {
-  → biblisches/Personen/David kannte offenbar dieses Gesetz (<a href='http://bibel.renenyffenegger.ch/2sam_12.html#v6'>2.&nbsp;Sam&nbsp;12,6</a>).
-  Vgl auch <a href='http://bibel.renenyffenegger.ch/lk_19.html#v8'>Lk&nbsp;19,8</a>.
+  → biblisches/Personen/David kannte offenbar dieses Gesetz: §2sam-12-6. Vgl auch §lk-19-8.
+ <br>
+  Vgl mit «einen Fünftel darüber hinzufügen» in §3mo-5-16
  }
 #}
 @}
@@ -11838,6 +11839,11 @@
   <i>abziehen</i>: TODO: siehe <a class='kom' href='#I1mo-37-23'>1.&nbsp;Mo&nbsp;37,23</a>.
  }
 #}
+#3mo-1-9 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
+ }
+#}
 @}
 @3. Mose 2 {
 #3mo-2-1 {
@@ -11851,6 +11857,14 @@
 #3mo-2-2 {
  {
   → biblisches/Personen/Aaron/Söhne[Söhne Aarons]
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
+ }
+#}
+#3mo-2-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer
  }
 #}
 #3mo-2-13 {
@@ -11892,6 +11906,11 @@
  }
  {
   TODO: Vgl auch <a class='kom' href='#I3mo-7-11'>3.&nbsp;Mo&nbsp;7,11</a>ff: Das (Dank-)Friedensopfer darf gegessen werden.
+ }
+#}
+#3mo-3-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
  }
 #}
 #3mo-3-8 {
@@ -11991,6 +12010,11 @@
   und <a class='kom' href='#Iri-3-26'>Ri&nbsp;3,26</a>. Das Wort stammt offenbar von Strongs 8163 ab.
  }
 #}
+#3mo-4-31 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
+ }
+#}
 @}
 @3. Mose 5 {
 #3mo-5-1 {
@@ -12043,6 +12067,12 @@
   <br>TODO <a class='kom' href='#I3mo-4-1'>3.&nbsp;Mo&nbsp;4,1</a>.
  }
 #}
+#3mo-5-16 {
+ {
+  <i>Einen Fünftel darüber hinzufügen</i> vgl §3mo-22-14, §3mo-27-13, §4mo-5-7
+  §2mo-21-37
+ }
+#}
 #3mo-5-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gerechtigkeit/Ungerechtigkeit-tragen vgl §V2mo-28-43
@@ -12060,29 +12090,7 @@
   → biblisches/Personen/Aaron/Söhne
  }
  {
-  Dies ist das Gesetz (Opfer) <ul>
-    <li>Vom Brandopfer (<a href='http://bibel.renenyffenegger.ch/3mo_6.html#v2'>3.&nbsp;Mo&nbsp;6,2</a>)
-    <li>Vom Speisopfer (<a href='http://bibel.renenyffenegger.ch/3mo_6.html#v7'>3.&nbsp;Mo&nbsp;6,7</a>)
-    <li>Vom Sündopfer (<a href='http://bibel.renenyffenegger.ch/3mo_6.html#v18'>3.&nbsp;Mo&nbsp;6,18</a>)
-    <li>Vom Schuldopfer (<a href='http://bibel.renenyffenegger.ch/3mo_7.html#v1'>3.&nbsp;Mo&nbsp;7,1</a>)
-    <li>Vom Friedensopfer (<a href='http://bibel.renenyffenegger.ch/3mo_7.html#v11'>3.&nbsp;Mo&nbsp;7,11</a>)
-  </ul>
-  Siehe auch Lobopfer <a href='http://bibel.renenyffenegger.ch/3mo_22.html#v29'>3.&nbsp;Mo&nbsp;22,29</a>, <i>Feueropfer</i> <a class='kom' href='#I2mo-29-18'>2.&nbsp;Mo&nbsp;29,18</a>,
-  (TODO) Einweihungsopfer <a class='kom' href='#I3mo-7-37'>3.&nbsp;Mo&nbsp;7,37</a> und (TODO) <i>Hebopfer</i>.
- }
- {
-  Andere Gesetze <ul>
-    <li>über das Vieh und die Vögel und alle lebendigen Wesen, die sich im Wasser regen und über alles Lebendige, das auf der Erde kriecht (<a href='http://bibel.renenyffenegger.ch/3mo_11.html#v46'>3.&nbsp;Mo&nbsp;11,46</a>): 3. Mo 11,1 - 3. Mo 11,47.<br>
-       Damit man zwischen Reinem und Unreinem unterscheide (<a href='http://bibel.renenyffenegger.ch/3mo_11.html#v47'>3.&nbsp;Mo&nbsp;11,47</a>)
-    <li>Über die Frau, die einen Knaben oder ein Mädchen gebiert (<a href='http://bibel.renenyffenegger.ch/3mo_12.html#v7'>3.&nbsp;Mo&nbsp;12,7</a>)
-    <li>Über die Aussatzplage an Kleidungsstücken (<a href='http://bibel.renenyffenegger.ch/3mo_13.html#v59'>3.&nbsp;Mo&nbsp;13,59</a>)
-    <li>Für den, der die Aussatzplage hat (<a href='http://bibel.renenyffenegger.ch/3mo_14.html#v32'>3.&nbsp;Mo&nbsp;14,32</a>)<br>
-        Gibt Belehrung, wann jemand für rein oder unrein zu erklären ist (<a href='http://bibel.renenyffenegger.ch/3mo_14.html#v57'>3.&nbsp;Mo&nbsp;14,57</a>)
-    <li>Über den, der einen Ausfluss oder einen Samenerguss hat, so dass er unrein wird (<a href='http://bibel.renenyffenegger.ch/3mo_15.html#v32'>3.&nbsp;Mo&nbsp;15,32</a>)
-    <li>Der Eifersucht (<a href='http://bibel.renenyffenegger.ch/4mo_5.html#v29'>4.&nbsp;Mo&nbsp;5,29</a>)
-    <li>Des Nasiräers (<a href='http://bibel.renenyffenegger.ch/4mo_6.html#v13'>4.&nbsp;Mo&nbsp;6,13</a>)
-    <li>Wenn ein Mensch im Zelt stirbt (<a href='http://bibel.renenyffenegger.ch/4mo_19.html#v14'>4.&nbsp;Mo&nbsp;19,14</a>)
-  </ul>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze]
  }
 #}
 #3mo-6-4 {
@@ -12101,9 +12109,17 @@
   Vgl §neh-10-35
  }
 #}
+#3mo-6-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze]
+ }
+#}
 #3mo-6-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
  }
 #}
 #3mo-6-9 {
@@ -12117,6 +12133,9 @@
  }
 #}
 #3mo-6-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze]
+ }
  {
   TODO: <i>Essen des Sündopfers</i>: <a class='kom' href='#I2mo-29-14'>2.&nbsp;Mo&nbsp;29,14</a>.
  }
@@ -12143,13 +12162,14 @@
 @3. Mose 7 {
 #3mo-7-1 {
  {
-  Beachte: das <i>Gesetz vom Schuldopfer</i> ist hochheilig, offenbar(?) im Gegensatz zu den andern Opfer.
- }
- {
-  Siehe auch <a class='kom' href='#I3mo-5-1'>3. Mo 5,1 ff</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze]
+  Beachte: das <i>Gesetz vom Schuldopfer</i> ist hochheilig, im Gegensatz zu den andern Opfern.
  }
 #}
 #3mo-7-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze]
+ }
  {
   TODO: Vgl <a class='kom' href='#I3mo-3-3'>3.&nbsp;Mo&nbsp;3,3</a>: offenbar darf das (Dank-)Friedensopfer (hier beschrieben) gegessen
   werden, während das 'andere' Friedensopfer (dort beschrieben) nicht gegessen werde darf.
@@ -12261,6 +12281,11 @@
 #3mo-8-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Becken
+ }
+#}
+#3mo-8-21 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
  }
 #}
 #3mo-8-22 {
@@ -12449,6 +12474,11 @@
    Bauch der Tora.
  }
 #}
+#3mo-11-46 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Dies-ist-das-Gesetz
+ }
+#}
 #3mo-11-47 {
  {
   <i>um zu unterscheiden zwischen dem Unreinen und dem Reinen</i> §+3mo-10-10, §3mo-20-25 
@@ -12482,6 +12512,11 @@
 #3mo-12-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+#}
+#3mo-12-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Dies-ist-das-Gesetz
  }
 #}
 #3mo-12-8 {
@@ -12605,6 +12640,11 @@
   <br>TODO: Siehe auch <a href='http://bibel.renenyffenegger.ch/1chr_4.html#v21'>1.&nbsp;Chr&nbsp;4,21</a>.
  }
 #}
+#3mo-13-59 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Dies-ist-das-Gesetz
+ }
+#}
 @}
 @3. Mose 14 {
 #3mo-14-2 {
@@ -12632,6 +12672,11 @@
  {
   Blut auf das Ohrläppchen musste auch bei der Einweihung Aarons (und seiner Söhne?) getan werden,
   siehe <a class='kom' href='#I2mo-29-20'>2.&nbsp;Mo&nbsp;29,20</a>.
+ }
+#}
+#3mo-14-32 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Dies-ist-das-Gesetz
  }
 #}
 #3mo-14-34 {
@@ -12664,6 +12709,14 @@
 #3mo-15-25 {
  {
   Vgl mit der Frau, die seit 12 Jahren den Blutfluss hatte: <a href='http://bibel.renenyffenegger.ch/mk_5.html#v25'>Mk&nbsp;5,25</a>.
+ }
+#}
+#3mo-15-32 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Dies-ist-das-Gesetz
+ }
+ {
+  <i>für den Flüssigen</i>: Sch2K übersetzt mit «der einen Ausfluss hat»
  }
 #}
 @}
@@ -12766,6 +12819,11 @@
 #3mo-17-5 {
  {
   <i>jetzt noch</i> ist zurecht in Klammern; es kommt im Grundtext nicht vor.
+ }
+#}
+#3mo-17-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
  }
 #}
 #3mo-17-7 {
@@ -13139,6 +13197,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer
  }
 #}
+#3mo-22-14 {
+ {
+  <i>das Fünftel davon hinzufügen</i> §3mo-5-16, §3mo-27-13, §4mo-5-7
+ }
+#}
 #3mo-22-19 {
  {
   'Schafe' (<span class='hebr'>בַּכְּשָׂבִ֖ים</span>, Strongs 3775)
@@ -13229,6 +13292,9 @@
 #3mo-23-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin, vgl §4mo-15-4
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
  }
 #}
 #3mo-23-14 {
@@ -13530,6 +13596,11 @@
   <a href='http://bibel.renenyffenegger.ch/jos_13.html#v17'>Jos&nbsp;13,17</a>.
  }
 #}
+#3mo-26-31 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
+ }
+#}
 #3mo-26-33 {
  {
   So wie das Schwert Adam daran hinderte, nach Eden zurückzukehren (§1mo-3-24), so sorgt das Schwert auch hier, dass die Israeliten nicht ins Land zurückkehren.
@@ -13594,6 +13665,11 @@
 #3mo-27-6 {
  {
   <i>5 Schekel</i> pro Person: siehe §+4mo-3-47 und §4mo-18-16.
+ }
+#}
+#3mo-27-13 {
+ {
+  <i>ein Fünftel hinzufügen</i> §3mo-5-16, §3mo-22-14, §3mo-27-13, §4mo-5-7
  }
 #}
 #3mo-27-16 {
@@ -14069,6 +14145,11 @@
   Vgl <a class='kom' href='#I3mo-5-21'>3.&nbsp;Mo&nbsp;5,21</a>.
  }
 #}
+#4mo-5-7 {
+ {
+  <i>das Fünftel davon hinzufügen</i> §3mo-5-16, §3mo-22-14, §3mo-27-13
+ }
+#}
 #4mo-5-8 {
  {
   <i>Blutsverwandter</i> <span class='hebr'>גֹּאֵ֗ל</span> (Strongs 1350): eigentlich das Wort für Löser, siehe
@@ -14098,6 +14179,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer#speisopfer-der-eifersucht
  }
 #}
+#4mo-5-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Dies-ist-das-Gesetz
+ }
+#}
 @}
 @4. Mose 6 {
 #4mo-6-2 {
@@ -14120,6 +14206,14 @@
 #4mo-6-10 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+#}
+#4mo-6-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Dies-ist-das-Gesetz
+ }
+ {
+  Sch2K übersetzt mit «Nasiräer»
  }
 #}
 #4mo-6-19 {
@@ -15038,6 +15132,11 @@
   <i>Fünf Schekel</i> siehe <a class='kom' href='#I3mo-27-2'>3.&nbsp;Mo&nbsp;27,2</a>.
  }
 #}
+#4mo-18-17 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
+ }
+#}
 #4mo-18-19 {
  {
   <i>Salzbund</i> kommt auch noch vor in <a href='http://bibel.renenyffenegger.ch/2chr_13.html#v5'>2.&nbsp;Chr&nbsp;13,5</a>.
@@ -15115,6 +15214,11 @@
 #4mo-19-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
+ }
+#}
+#4mo-19-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Dies-ist-das-Gesetz
  }
 #}
 @}
@@ -15898,6 +16002,9 @@
  {
   <i>Speise</i>: <span class='hebr'>לֶחֶם</span>.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
+ }
 #}
 #4mo-28-3 {
  {
@@ -15975,6 +16082,11 @@
 #4mo-29-1 {
  {
   TODO: Siehe <a class='kom' href='#I1sam-20-5'>1.&nbsp;Sam&nbsp;20,5</a>.
+ }
+#}
+#4mo-29-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
  }
 #}
 #4mo-29-6 {
@@ -32623,6 +32735,11 @@
   <i>Steuer</i>: Vgl §+esr-4-13.
  }
 #}
+#esr-6-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
+ }
+#}
 #esr-6-11 {
  {
   TODO <i>Misthaufen</i>: <a class='kom' href='#Idan-2-5'>Dan&nbsp;2,5</a>.
@@ -45846,6 +45963,11 @@
   <i>Berge Israels, hört das Wort des Herrn</i>, §hes-36-4, vgl §hes-25-3
  }
 #}
+#hes-6-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich, vgl §hes-16-19, §hes-20-41
+ }
+#}
 #hes-6-14 {
  {
   TODO: <b>R</b> und <b>D</b> (<a class='kom' href='#I1mo-10-4'>1.&nbsp;Mo&nbsp;10,4</a>). Offenbar wird diese Stadt in
@@ -46143,6 +46265,11 @@
   <i>mein Öl und mein → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk</i> §hes-23-41
  }
 #}
+#hes-16-19 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich, vgl §hes-6-13, §hes-20-41
+ }
+#}
 #hes-16-22 {
  {
   <i>Den Tagen seiner Jugend gedenken</i>: vgl <a class='kom' href='#Ihes-16-22'>Hes&nbsp;16,22</a> vgl <a href='http://bibel.renenyffenegger.ch/hes_16.html#v22'>Hes&nbsp;16,22</a>,
@@ -46275,6 +46402,11 @@
 #hes-20-40 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/heilig
+ }
+#}
+#hes-20-41 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich, vgl §hes-6-13, §hes-16-19
  }
 #}
 @}
@@ -53779,6 +53911,11 @@
   Nach seiner Erhängung stürtzte Judas offenbar kopfüber hinab und barst entzwei: <a href='http://bibel.renenyffenegger.ch/apg_1.html#v18'>Apg&nbsp;1,18</a>.
  }
 #}
+#mt-27-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Korban
+ }
+#}
 #mt-27-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
@@ -54587,6 +54724,11 @@
 #mk-7-10 {
  {
   Siehe §+2mo-21-15, §3mo-20-9.
+ }
+#}
+#mk-7-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Korban
  }
 #}
 #mk-7-16 {
@@ -70298,7 +70440,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
    → biblisches/Exodus/430-Jahre-vor-dem-Exodus
    <br>
-  <i>430 Jahre</i>: Das bestätigte Bündnis ist möglicherweise jenes von <a class='kom' href='#I1moe-46-3'>1. Mö 46,3-4</a>?
+  <i>430 Jahre</i>: Das bestätigte Bündnis ist wohl jenes von §+1mo-46-3-4?
   <br>siehe Grafik <a class='kom' href='#I2mo-6-16'>2.&nbsp;Mo&nbsp;6,16</a>.
   <br>Vgl mit <a class='kom' href='#I1mo-15-13'>1.&nbsp;Mo&nbsp;15,13</a>
  }
@@ -82205,6 +82347,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-16-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Drache
+ }
+ {
+  Im Textus Receptus ist <i>Geister</i> angeblich das 6666. Wort der Offenbarung.
  }
  {
   TODO: <i>unreine Geister</i>: <a href='http://bibel.renenyffenegger.ch/offb_18.html#v2'>Offb&nbsp;18,2</a>
