@@ -56625,7 +56625,7 @@
 #}
 #lk-9-55 {
  {
-  <i>Wisst ihr nicht</i>: <a class='kom' href='#I1kor-3-16'>1.&nbsp;Kor&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
  {
    <span class='gt'>In NA fehlt «Ihr wisst nicht, wes Geistes ihr seid.»</span>
@@ -63109,7 +63109,7 @@
    <span class='gt'>In NA fehlt «und sagen, ihr müßtet beschnitten werden und das Gesetz halten».</span>
  }
  {
-  TODO: Trotz diesen Beschlüssen hat Paulus Timotheus beschnitten (<a href='http://bibel.renenyffenegger.ch/apg_16.html#v3'>Apg&nbsp;16,3</a>)!
+  TODO: Trotz diesen Beschlüssen hat Paulus → biblisches/Personen/Timotheus beschnitten (§apg-16-3)!
  }
 #}
 #apg-15-29 {
@@ -63245,8 +63245,10 @@
 #}
 #apg-16-12 {
  {
-  Paulus (und wegen Briefanfang auch Silvanus (= Silas?) und Timotheus)?) wurden misshandelt in Philippi (<a href='http://bibel.renenyffenegger.ch/1thes_2.html#v2'>1.&nbsp;Thes&nbsp;2,2</a>).
-  Siehe auch <a class='kom' href='#I1thes-2-2'>1.&nbsp;Thes&nbsp;2,2</a>.
+  Paulus (und wegen Briefanfang auch → biblisches/Personen/Silvanus-Silas[Silvanus] (= Silas) und → biblisches/Personen/Timotheus) hatten in Philippi gelitten und wurden misshandelt §1thes-2-2.
+ }
+ {
+  → biblisches/Orte/Philippi
  }
  {
   TODO: Wie oft hat Paulus Philippi besucht (<a class='kom' href='#Iapg-20-1'>Apg&nbsp;20,1</a>).
@@ -63369,42 +63371,20 @@
 @Apostelgeschichte 17 {
 #apg-17-1 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge#synagoge-der-juden
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge#synagoge-der-juden,
+  → biblisches/Personen/Paulus/Thessalonich
  }
  {
-  Obwohl Paulus (und Timotheus und Silvanus (=Silas?) ?) zuvor in Philippi gelitten hatten und misshandelt worden waren,
-  hatten sie dennoch Freudigkeit in ihrem Gott, den Thessalonikern das Evangelium Gottes zu verkündigen.
-  (<a href='http://bibel.renenyffenegger.ch/1thes_2.html#v2'>1.&nbsp;Thes&nbsp;2,2</a>).
-  <br>TODO: Sie verkündigten das Evangelium offenbar, während sie Tag und Nacht arbeiteten (<a class='kom' href='#I1thes-2-9'>1.&nbsp;Thes&nbsp;2,9</a>).
+  Obwohl Paulus (und → biblisches/Personen/Timotheus? und → biblisches/Personen/Silvanus-Silas[Silvanus]) zuvor in Philippi gelitten hatten und misshandelt worden waren,
+  hatten sie dennoch Freudigkeit in ihrem Gott, den Thessalonikern das Evangelium Gottes zu verkündigen §1thes-2-2.
+  <br>Sie verkündigten das Evangelium , während sie Tag und Nacht arbeiteten, um niemanden zur Last zu fallen (§+1thes-2-9)
  }
  {
   Beachte: Offenbar betrachteten Paulus (und Silas/Silvanus) die (Un-)Gläubigen in einer Synagoge nicht als Beschneidung sondern als Heiden, denn in <a href='http://bibel.renenyffenegger.ch/gal_2.html#v9'>Gal&nbsp;2,9</a> hatten sie Beschlossen
   dass Paulus (und Barnabas und Titus?) unter den Heiden wirken sollten.
  }
  {
-  Die Thessalonicher in den Briefen
-  <ul>
-    <li>Das Evengelium ist nicht nur im Wort, sondern auch in Kraft und im Heiligen Geist zu den T. gekommen
-       (<a href='http://bibel.renenyffenegger.ch/1thes_1.html#v5'>1.&nbsp;Thes&nbsp;1,5</a>).
-    <li>Von den Thessalonichern aus ist das Wort des Herrn erklungen, nicht nur in Mazedonien und Achaja, sondern überall
-       (<a href='http://bibel.renenyffenegger.ch/1thes_1.html#v8'>1.&nbsp;Thes&nbsp;1,8</a>)
-    <li>Sie haben sich von den Gätzen bekehrt, um dem lebendigen und wahren Gott zu dienen (<a href='http://bibel.renenyffenegger.ch/1thes_1.html#v9'>1.&nbsp;Thes&nbsp;1,9</a>)
-    <li>Der Eingang von Paulus (TODO: und ...) war nicht vergeblich (<a href='http://bibel.renenyffenegger.ch/1thes_2.html#v1'>1.&nbsp;Thes&nbsp;2,1</a>)
-    <li>Sie sind Zeugen (und auch Gott), heilig, gerecht und untadelig Paulus und ... bei ihnen (den Gläubigen) waren (<a href='http://bibel.renenyffenegger.ch/1thes_2.html#v10'>1.&nbsp;Thes&nbsp;2,10</a>)
-    <li>Paulus und .. sagten voraus, dass sie (also Paulus und ...) Bedrängnisse erleiden müssten (<a href='http://bibel.renenyffenegger.ch/1thes_3.html#v4'>1.&nbsp;Thes&nbsp;3,4</a>)
-    <li>Paulus hat offenbar über das zweite Kommen und den 'Abfall' gesprochen (<a href='http://bibel.renenyffenegger.ch/2thes_1.html#v10'>2.&nbsp;Thes&nbsp;1,10</a> und
-        <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v5'>2.&nbsp;Thes&nbsp;2,5</a>).
-    <li>TODO: <a href='http://bibel.renenyffenegger.ch/2thes_3.html#v1'>2.&nbsp;Thes&nbsp;3,1</a>
-    <li>Paulus und ... geboten, 'wer nicht arbeiten will, soll auch nicht essen' (<a href='http://bibel.renenyffenegger.ch/2thes_3.html#v10'>2.&nbsp;Thes&nbsp;3,10</a>).
-  </ul>
- }
- {
-  TODO: Wer sind 'sie'? Es scheint, als ob es sich hier um Paulus und Silas handelt, aber im 1. Thessalonicherbrief, der
-  von Paulus, Sivanus und Timotheus geschrieben wurde (<a href='http://bibel.renenyffenegger.ch/1thes_1.html#v1'>1.&nbsp;Thes&nbsp;1,1</a>), steht
-  dass diese Autoren in Thessalonich waren (zB <a href='http://bibel.renenyffenegger.ch/1thes_2.html#v1'>1.&nbsp;Thes&nbsp;2,1</a>).
- }
- {
-  TODO: Vgl <i>Appolonia</i> mit <i>Apollo</i> (<a href='http://bibel.renenyffenegger.ch/apg_18.html#v24'>Apg&nbsp;18,24</a>).
+  Vgl <i>Appolonia</i> mit <i>Apollo</i> §apg-18-24.
  }
 #}
 #apg-17-2 {
@@ -63441,7 +63421,15 @@
   <a href='http://bibel.renenyffenegger.ch/apg_28.html#v7'>Apg&nbsp;28,7</a> und <a href='http://bibel.renenyffenegger.ch/apg_28.html#v17'>Apg&nbsp;28,17</a>.
  }
 #}
+#apg-17-5 {
+ {
+  <i>Die Juden aber wurden voll Neides</i> vgl §5mo-32-21, §roem-10-19 («Ich will euch zur Eifersuch Reizen») und §roem-11-14
+ }
+#}
 #apg-17-6 {
+ {
+   <i>Diese, welche den Erdkreis aufgewiegelt haben</i> vgl §apg-24-5 
+ }
  {
   TODO: Wer sind diese Brüder? (Vgl Vers 14).
  }
@@ -64543,6 +64531,11 @@
   <span class='gr'>χάρις</span> (Strongs 5485)).
  }
 #}
+#apg-24-5 {
+ {
+   <i>…der unter allen Juden auf dem Erdkreis Aufruhr erregt</i> vgl §apg-17-6
+ }
+#}
 #apg-24-6 {
  {
    <span class='gt'>In NA fehlt ab «und nach unserem Gesetz richten wollten.» bis «indem er seinen Anklägern befahl, zu dir zu kommen;» in Vers 8.</span>
@@ -65627,9 +65620,8 @@
   <i>Aber nicht nur das, sondern wir rühmen uns auch...</i>: Vgl Vers §Vroem-5-11.
  }
  {
-  TODO: Vgl <i>Hoffnung</i> und <i>standhaftes Ausharren</i> mit <a href='http://bibel.renenyffenegger.ch/roem_8.html#v25'>Röm&nbsp;8,25</a>
-  und <a href='http://bibel.renenyffenegger.ch/roem_15.html#v4'>Röm&nbsp;15,4</a>.
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/1thes_1.html#v3'>1.&nbsp;Thes&nbsp;1,3</a>.
+  Vgl <i>Hoffnung</i> und <i>standhaftes Ausharren</i> mit §roem-8-25 und §roem-15-4.
+  <br>Vgl auch §1thes-1-3.
  }
 #}
 #roem-5-6 {
@@ -65712,7 +65704,7 @@
 @Römer 6 {
 #roem-6-3 {
  {
-  <i>Wisst ihr nicht</i>: <a class='kom' href='#I1kor-3-16'>1.&nbsp;Kor&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
@@ -65732,7 +65724,7 @@
 #}
 #roem-6-16 {
  {
-  <i>Wisst ihr nicht</i>: <a class='kom' href='#I1kor-3-16'>1.&nbsp;Kor&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
  {
   <i>Gehorsam</i>: <a class='kom' href='#Iroem-1-5'>Röm&nbsp;1,5</a>.
@@ -65767,7 +65759,7 @@
 @Römer 7 {
 #roem-7-1 {
  {
-  <i>Wisst ihr nicht</i>: <a class='kom' href='#I1kor-3-16'>1.&nbsp;Kor&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
 #}
 #roem-7-2 {
@@ -66166,12 +66158,11 @@
 #}
 #roem-10-19 {
  {
-  <i>Zur Eifersucht reizen</i>: vgl <a href='http://bibel.renenyffenegger.ch/roem_11.html#v11'>Röm&nbsp;11,11/14</a>,
-  <a href='http://bibel.renenyffenegger.ch/5mo_32.html#v21'>5.&nbsp;Mo&nbsp;32,21</a>.
-  Vgl auch <a class='kom' href='#Iroem-11-14'>Röm&nbsp;11,14</a>.
-  <br>
-  Diese <i>Reizung zur Eifersucht</i> hat Paulus wohl in <a href='http://bibel.renenyffenegger.ch/apg_13.html#v45'>Apg&nbsp;13,45</a> durch das Blenden von Elymas (<a href='http://bibel.renenyffenegger.ch/apg_13.html#v8'>Apg&nbsp;13,8-11</a>)
-  praktiziert.
+  <i>Zur Eifersucht reizen</i>: vgl <a href='http://bibel.renenyffenegger.ch/roem_11.html#v11'>Röm&nbsp;11,11/14</a>, §5mo-32-21. 
+ <br>
+  Diese <i>Reizung zur Eifersucht</i> hat Paulus wohl in §apg-13-45 durch das Blenden von Elymas (§apg-13-8-11) praktiziert.
+ <br>
+  Vgl auch §apg-17-5
  }
 #}
 #roem-10-21 {
@@ -66191,7 +66182,7 @@
 #}
 #roem-11-2 {
  {
-  <i>Wisst ihr nicht</i>: <a class='kom' href='#I1kor-3-16'>1.&nbsp;Kor&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
 #}
 #roem-11-3 {
@@ -67381,32 +67372,15 @@
 #}
 #1kor-3-16 {
  {
-  <i>Wisst ihr nicht, dass ihr Gottes Tempel seid</i> vgl §1kor-6-19, §2kor-6-16, §eph-2-21
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht[Wisst ihr nicht], dass ihr Gottes Tempel seid</i> vgl §1kor-6-19, §2kor-6-16, §eph-2-21
+ <br> 
+  Vgl <a href='http://bibel.renenyffenegger.ch/1kor_8.html#v1'>1.&nbsp;Kor&nbsp;8,1</a>: was aber die Götenzopfenr angeht, so wissen wir...
+  <br>vgl <a href='http://bibel.renenyffenegger.ch/jak_4.html#v14'>Jak&nbsp;4,14</a>: - und doch wißt ihr nicht, was morgen sein wird!
  }
  {
    Dieser Geist Gottes ist der Heilige Geist (<a href='http://bibel.renenyffenegger.ch/1kor_6.html#v19'>1.&nbsp;Kor&nbsp;6,19</a>).
    <br>Vgl <a class='kom' href='#I3mo-26-11'>3.&nbsp;Mo&nbsp;26,11</a> und <a class='kom' href='#I2kor-6-16'>2.&nbsp;Kor&nbsp;6,16</a>
    und <a class='kom' href='#Iroem-8-11'>Röm&nbsp;8,11</a>.
- }
- {
-  <i>Wisst ihr nicht</i>: <ul>
-     <li><a href='http://bibel.renenyffenegger.ch/1kor_5.html#v6'>1.&nbsp;Kor&nbsp;5,6</a>: dass ein wenig Sauerteig den ganzen Teig durchsäuert
-     <li><a href='http://bibel.renenyffenegger.ch/1kor_6.html#v2'>1.&nbsp;Kor&nbsp;6,2</a>: dass die Heiligen die Welt richten werden
-     <li><a href='http://bibel.renenyffenegger.ch/1kor_6.html#v3'>1.&nbsp;Kor&nbsp;6,3</a>: dass wir die Engel richten werden
-     <li><a href='http://bibel.renenyffenegger.ch/1kor_6.html#v15'>1.&nbsp;Kor&nbsp;6,15</a>: dass eure Leiber Glieder des Christus sind
-     <li><a href='http://bibel.renenyffenegger.ch/1kor_6.html#v16'>1.&nbsp;Kor&nbsp;6,16</a>: dass wer einer Hure anhängt, ein Leib mit ihr ist
-     <li><a href='http://bibel.renenyffenegger.ch/1kor_6.html#v19'>1.&nbsp;Kor&nbsp;6,19</a>: dass euer Leib ein Tempel des in euch wohenden Heiligen Geistes ist, den ihr von Gott empfangen habt, und dass ihr nicht euch selbst gehört.
-     <li><a href='http://bibel.renenyffenegger.ch/1kor_9.html#v13'>1.&nbsp;Kor&nbsp;9,13</a>: dass die, welche die heiligen Dienste tun, auch vom Heiligtum essen, und dass die, welche am Altar dienen, vom Altar ihren Anteil erhalten?
-     <li><a href='http://bibel.renenyffenegger.ch/1kor_9.html#v24'>1.&nbsp;Kor&nbsp;9,24</a>: dass die, welche in der Rennbahn laufen, zwar alle laufen, aber nur einer den Preis erlangt?
-     <li><a href='http://bibel.renenyffenegger.ch/roem_6.html#v3'>Röm&nbsp;6,3</a>: dass wir alle, die wir in Christus Jesus hinein getauft sind, in seinen Tod getauft sind?
-     <li><a href='http://bibel.renenyffenegger.ch/roem_6.html#v16'>Röm&nbsp;6,16</a>: Wem ihr euch als Sklaven hingebt, um ihm zu gehorchen, dessen Sklaven seid ihr und müßt ihm gehorchen, es sei der Sünde zum Tode, oder dem Gehorsam zur Gerechtigkeit?
-     <li><a href='http://bibel.renenyffenegger.ch/roem_7.html#v1'>Röm&nbsp;7,1</a>: Brüder - denn ich rede ja mit Gesetzeskundigen -, daß das Gesetz [nur] so lange über den Menschen herrscht, wie er lebt?
-     <li><a href='http://bibel.renenyffenegger.ch/roem_11.html#v2'>Röm&nbsp;11,2</a>: was die Schrift bei Elia sagt, wie er vor Gott gegen Israel auftritt und spricht:
-     <li><a href='http://bibel.renenyffenegger.ch/jak_4.html#v4'>Jak&nbsp;4,4</a>: dass die Freundschaft mit der Welt Feindschaft gegen Gott ist? Wer also ein Freund der Welt sein will, der macht sich zum Feind Gottes!
-     <li><a href='http://bibel.renenyffenegger.ch/lk_9.html#v55'>Lk&nbsp;9,55</a>: welches Geistes [Kinder] ihr seid?
-  </ul>
-  Vgl <a href='http://bibel.renenyffenegger.ch/1kor_8.html#v1'>1.&nbsp;Kor&nbsp;8,1</a>: was aber die Götenzopfenr angeht, so wissen wir...
-  <br>vgl <a href='http://bibel.renenyffenegger.ch/jak_4.html#v14'>Jak&nbsp;4,14</a>: - und doch wißt ihr nicht, was morgen sein wird!
  }
 #}
 #1kor-3-18 {
@@ -67515,6 +67489,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
  }
 #}
+#1kor-4-12 {
+ {
+  <i>Mit unseren eigenen Händen arbeitend</i> vgl §1thes-2-9, §2thes-3-10
+ }
+#}
 #1kor-4-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Paulus-und-Johannes-Kinder
@@ -67535,15 +67514,7 @@
 #}
 #1kor-4-16 {
  {
-  <i>Nachahmer</i> (<span class='gr'>μιμητής</span>, Strongs 3402), vgl <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v1'>1.&nbsp;Kor&nbsp;11,1</a>,
-  <a href='http://bibel.renenyffenegger.ch/eph_5.html#v1'>Eph&nbsp;5,1</a>,
-  <a href='http://bibel.renenyffenegger.ch/phil_3.html#v17'>Phil&nbsp;3,17</a> (dort <span class='gr'>συμμιμητής</span>, Strongs 4831),
-  <a href='http://bibel.renenyffenegger.ch/1thes_1.html#v6'>1.&nbsp;Thes&nbsp;1,6</a> (Die Thessaloniker <i>sind</i> Nachahmer von Paulus, Silvanus und Timotheus und des Herrn geworden),
-  <a href='http://bibel.renenyffenegger.ch/1thes_2.html#v14'>1.&nbsp;Thes&nbsp;2,14</a> (Sie sind auch Nachahmer der Gemeinden in Judäa geworden, weil...),
-  <a href='http://bibel.renenyffenegger.ch/hebr_6.html#v12'>Hebr&nbsp;6,12</a> (mit 'Nachfolger' übersetzt) und
-  <a href='http://bibel.renenyffenegger.ch/1petr_3.html#v13'>1.&nbsp;Petr&nbsp;3,13</a>.
-  <br>
-    Vgl auch mit §+phil-4-9.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer, vgl §1kor-11-1
  }
 #}
 #1kor-4-17 {
@@ -67641,7 +67612,7 @@
 #}
 #1kor-5-6 {
  {
-  <i>Wisst ihr nicht</i>: <a class='kom' href='#I1kor-3-16'>1.&nbsp;Kor&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
 #}
 #1kor-5-7 {
@@ -67688,12 +67659,15 @@
 #}
 #1kor-6-2 {
  {
-  <i>Wisst ihr nicht</i>: <a class='kom' href='#I1kor-3-16'>1.&nbsp;Kor&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
 #}
 #1kor-6-3 {
  {
    Bezieht sich das <i>wir</i> auf Paulus und die Apostel oder auf alle Gläubigen?
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
 #}
 #1kor-6-4 {
@@ -67776,12 +67750,15 @@
   <i>Der Leib mit vielen Gliedern</i>: <a class='kom' href='#Iroem-12-4'>Röm&nbsp;12,4</a>.
  }
  {
-  <i>Wisst ihr nicht</i>: <a class='kom' href='#I1kor-3-16'>1.&nbsp;Kor&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
 #}
 #1kor-6-16 {
  {
    <i>Ein Fleisch</i>: §+1mo-2-24
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
 #}
 #1kor-6-17 {
@@ -67803,7 +67780,7 @@
 #}
 #1kor-6-19 {
  {
-  <i> wisst ihr nicht, daß euer Leib der Tempel des Heiligen Geistes ist</i> §+1kor-3-16
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht[wisst ihr nicht], dass euer Leib der Tempel des Heiligen Geistes ist</i> vgl §+1kor-3-16
  }
 #}
 #1kor-6-20 {
@@ -68099,7 +68076,7 @@
 #}
 #1kor-9-13 {
  {
-  <i>Wisst ihr nicht</i>: <a class='kom' href='#I1kor-3-16'>1.&nbsp;Kor&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
  {
   <i>Heiligtum</i> ist offenbar Strongs 2411, siehe <a class='kom' href='#Imt-4-11'>Mt&nbsp;4,11</a>.
@@ -68147,7 +68124,7 @@
   <i>Preis</i> (<span class='gr'>βραβεῖον</span>, Strongs 1017), dasselbe Wort wie für «Kampfpreis» in §phil-3-14.
  }
  {
-  <i>Wisst ihr nicht</i>: <a class='kom' href='#I1kor-3-16'>1.&nbsp;Kor&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
 #}
 #1kor-9-25 {
@@ -68276,7 +68253,7 @@
 @1. Korinther 11 {
 #1kor-11-1 {
  {
-  <i>Nachahmer</i>: <a class='kom' href='#I1kor-4-16'>1.&nbsp;Kor&nbsp;4,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer, vgl §1kor-4-16
  }
 #}
 #1kor-11-2 {
@@ -68318,7 +68295,7 @@
    Vgl <a class='kom' href='#I1kor-3-21'>1.&nbsp;Kor&nbsp;3,21</a>.
  }
  {
-  TODO: <a href='http://hermeneutics.stackexchange.com/questions/546/what-is-the-head-covering-referring-to-in-1-corinthians-114-6'>hermeneutigcs.stackexchange.com</a>.
+  <a href='http://hermeneutics.stackexchange.com/questions/546/what-is-the-head-covering-referring-to-in-1-corinthians-114-6'>hermeneutics.stackexchange.com</a>.
  }
  {
   <span class='u'>TODO: http://graceambassadors.com/christ/the-headship-verse</span>
@@ -68473,7 +68450,10 @@
   War dies der Grund, dass das Thema «Essen von Götzenopfer» ein Thema in <a href='http://bibel.renenyffenegger.ch/1kor_8.html#v1'>1. Kor 8,1 ff</a> ist?
  }
  {
-  <i>zu den stummen Götzenbildern hingeführt</i> vgl §gal-4-8
+  <i>zu den stummen → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder] hingeführt</i> vgl §gal-4-8, §1thes-1-9
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
 #}
 #1kor-12-4 {
@@ -69026,7 +69006,7 @@
 #}
 #1kor-15-58 {
  {
-  → biblisches/Bücher/Paulus/Timotheus arbeitet im → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-des-herrn[Werk des Herrn],
+  → biblisches/Personen/Timotheus arbeitet im → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-des-herrn[Werk des Herrn],
   wie auch → biblisches/Personen/Paulus §1kor-16-10.
  <br>
   Ephaphroditus ist für das <i>Werk des Christus</i> dem Tod nahe gekommen §phil-2-30.
@@ -69038,6 +69018,9 @@
  }
  {
   <i>fest sein</i>: Strongs 1476, <a class='kom' href='#I1kor-7-37'>1.&nbsp;Kor&nbsp;7,37</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
 #}
 @}
@@ -69884,8 +69867,7 @@
 #}
 #2kor-11-8 {
  {
-  TODO: Welche Gemeinde hat Paulus wie beraubt? Thessalonich scheint nicht dazuzugehören (<a class='kom' href='#I1thes-2-9'>1.&nbsp;Thes&nbsp;2,9</a>).
-  Vgl auch <a href='http://bibel.renenyffenegger.ch/phil_4.html#v15'>Phil&nbsp;4,15</a>.
+  Welche Gemeinde hat → biblisches/Personen/Paulus wie beraubt? Thessalonich scheint nicht dazuzugehören §+1thes-2-9. Vgl auch §phil-4-15.
  }
 #}
 #2kor-11-9 {
@@ -70583,6 +70565,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #gal-4-11 {
  {
   <i>vergeblich laufen</i>: <a class='kom' href='#Igal-2-2'>Gal&nbsp;2,2</a>.
+ }
+#}
+#gal-4-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
 #}
 #gal-4-14 {
@@ -71461,7 +71448,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Epheser 5 {
 #eph-5-1 {
  {
-  <i>Nachahmer</i>: §+1kor-4-16.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer
  <br>
   Beachte, dass ein Vers vorher (§eph-4-32) steht, dass Gott in Christus vergeben hat. Davon sollen die Epheser offensichtlich Nachahmer sein.
  }
@@ -71488,7 +71475,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-5-5 {
  {
-   Vgl, <a class='kom' href='#I1kor-5-11'>1.&nbsp;Kor&nbsp;5,11</a> und <a class='kom' href='#I1kor-6-9'>1.&nbsp;Kor&nbsp;6,9</a>.
+   Vg, §+1kor-5-11 und §+1kor-6-9.
  }
 #}
 #eph-5-6 {
@@ -71668,9 +71655,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>gutem Willen</i>: <a class='kom' href='#I1kor-7-3'>1.&nbsp;Kor&nbsp;7,3</a>.
  }
 #}
+#eph-6-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
+#}
 #eph-6-9 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen#kein-ansehen-der-person
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
 #}
 #eph-6-10 {
@@ -71932,7 +71927,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-1-30 {
  {
-  <i>an mir gesehen</i>: Was ihr auch gelernt und empfangen und gehört und an mir gesehen habt, das tut; und der Gott des Friedens wird mit euch sein. (§phil-4-9)
+  <i>den ihr an mir gesehen habt und jetz von mir hört </i> vgl §phil-4-9
  }
  {
   TODO: <a class='kom' href='#Iapg-16-12'>Apg&nbsp;16,12</a>.
@@ -72196,14 +72191,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-3-17 {
  {
-   Vgl <a href='http://bibel.renenyffenegger.ch/hebr_3.html#v17'>Hebr&nbsp;3,17</a>: '
-   Gedenkt an eure Führer, die euch das Wort Gottes gesagt haben; schaut das Ende ihres Wandels an und ahmt ihren Glauben nach!'
- }
- {
   <i>Vorbild</i>: <span class='gr'>τύπος</span>, Strongs 5179.
  }
  {
-   <i>Nachahmer</i>: <a class='kom' href='#I1kor-4-16'>1.&nbsp;Kor&nbsp;4,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer
  }
 #}
 #phil-3-20 {
@@ -72288,9 +72279,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-4-9 {
  {
+  <i>Was ihr gehört und an mir gesehen habt</i> vgl §phil-1-30 und  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer
+ }
+ {
   <i>an mir gesehen</i>: §+phil-1-30.
-  <br>
-  <i>das tut</i>: §+1kor-4-16.
  }
  {
   Vgl <i>Gott des Friedens</i> mit <a href='http://bibel.renenyffenegger.ch/roem_15.html#v5'>Röm&nbsp;15,5</a>.
@@ -72308,6 +72300,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Paulus, von den Philippern unterstützt: Vgl <a class='kom' href='#I2kor-11-8'>2.&nbsp;Kor&nbsp;11,8</a>,
   <a class='kom' href='#Iapg-16-14'>Apg&nbsp;16,14</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
 #}
 #phil-4-16 {
@@ -72825,6 +72820,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Christus, dem Herrn dienen</i>: <a class='kom' href='#Iroem-1-9'>Röm&nbsp;1,9</a>
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
 #}
 #kol-3-25 {
  {
@@ -72839,6 +72837,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Beachte: Dieser Vers gehört wohl eher noch ins dritte Kapitel.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
 #}
 #kol-4-2 {
@@ -72945,16 +72946,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @1. Thessaloniker 1 {
 #1thes-1-1 {
  {
-  In Thessalonich war eine 'Synagoge der Juden' (<a href='http://bibel.renenyffenegger.ch/apg_17.html#v1'>Apg&nbsp;17,1</a>).
+  In Thessalonich war eine Synagoge der Juden §apg-17-1.
  }
  {
   → biblisches/Personen/Silvanus-Silas, → biblisches/Personen/Timotheus/index
  }
  {
-  Paulus nennt sich hier weder <i>Knecht</i> noch <i>Apostel</i>.
-  TODO: War stellt sich Paulus in diesem Briefanfang nicht als «Apostel Jesu Christi» vor? Ebenso in
-  <a href='http://bibel.renenyffenegger.ch/2thes_1.html#v1'>2.&nbsp;Thes&nbsp;1,1</a> und <a class='kom' href='#Iphil-1-1'>Phil&nbsp;1,1</a>.
-  <br>Siehe auch <a class='kom' href='#I1thes-2-6'>1.&nbsp;Thes&nbsp;2,6</a>
+  Paulus nennt sich hier weder <i>Knecht</i> noch <i>Apostel</i>. Ebenso in §2thes-1-1 und §+phil-1-1. Vgl §eph-1-3.
+ <br>
+  Siehe auch §+1thes-2-6
  }
  {
   Vgl <i>dem Vater</i> hier und <i>unserem Vater</i> in <a href='http://bibel.renenyffenegger.ch/2thes_1.html#v1'>2.&nbsp;Thes&nbsp;1,1</a>.
@@ -72963,7 +72963,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Gemeinde der Thessalonicher</i>: <a class='kom' href='#Iroem-16-4'>Röm&nbsp;16,4</a>.
  }
  {
-  <i>Gemeinde der Thessalonicher in Gott</i> auch in <a href='http://bibel.renenyffenegger.ch/2thes_1.html#v1'>2.&nbsp;Thes&nbsp;1,1</a>.
+  Die <i>Versammlung der Thessalonicher</i> ist nicht in Thessalonich, sondern <i>in Gott</i>, §2thes-1-1.
  }
  {
   <span class='NA'>In NA fehlt «von Gott, unserem Vater, und dem Herrn Jesus Christus!»</span>
@@ -72988,12 +72988,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
  {
+  <i>Hoffnung auf unseren Herrn Jesus Christus</i> vgl mit dessen Erwartung aus den Himmeln §V1htes-1-10
+ }
+ {
   Beachte: hier und in Vers 8 rühmt Paulus den <i>Glauben</i> der Thessaloniker, aber in <a href='http://bibel.renenyffenegger.ch/1thes_3.html#v5'>1.&nbsp;Thes&nbsp;3,5</a> erkundigte er
   sich nach dem Glauben der Thessaloniker. Siehe dort Verse <a href='http://bibel.renenyffenegger.ch/1thes_3.html#v5'>1.&nbsp;Thes&nbsp;3,5-10</a>.
   <br>In <a href='http://bibel.renenyffenegger.ch/2thes_1.html#v3'>2.&nbsp;Thes&nbsp;1,3</a> schreibt Paulus sogar, dass der Glaube über die Massen wächst.
  }
  {
-  TODO: Vgl <a class='kom' href='#Iroem-5-3'>Röm&nbsp;5,3</a>.
+  <i>Ausharren</i> vgl §+roem-5-3.
  }
 #}
 #1thes-1-5 {
@@ -73006,10 +73009,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>grosser Gewissheit</i>: Strongs 4136: <a class='kom' href='#Ikol-2-2'>Kol&nbsp;2,2</a>.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
 #}
 #1thes-1-6 {
  {
-  <i>Nachahmer</i>: <a class='kom' href='#I1kor-4-16'>1.&nbsp;Kor&nbsp;4,16</a>. Vgl auch <a href='http://bibel.renenyffenegger.ch/1thes_2.html#v14'>1.&nbsp;Thes&nbsp;2,14</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer, vgl §1thes-2-14
  }
 #}
 #1thes-1-7 {
@@ -73021,15 +73027,18 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-1-8 {
  {
-  Vgl <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>: Der Glaube der Römer wird in der ganzen Welt verkündigt.
-         <br>
-  Vgl aber auch <a href='http://bibel.renenyffenegger.ch/2thes_3.html#v11'>2.&nbsp;Thes&nbsp;3,11</a> (wo Paulus (et al?) hören, dass etliche
-  unordentlich wandeln).
+  <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn] ist erschollen</i> vgl §+roem-1-8: «Der Glaube der Römer wird in der ganzen Welt verkündigt» und
+  §2thes-3-1 «Betet…, dass das Wort des Herrn laufe»
+ <br>
+  Vgl aber auch §2thes-3-11 (wo vaulus (et al?) hören, dass etliche unordentlich wandeln).
+ }
+ {
  }
 #}
 #1thes-1-9 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
+  <i>Wie ihr euch von den → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder] zu Gott bekehrt habt</i>: Offenbar waren die Mehrheit der bekehrten Heiden, Paulus würde die Juden kaum so bezeichnet haben.
+  Vgl §1kor-12-2
  }
  {
   <i>Dem lebendigen Gott dienen</i>: <a class='kom' href='#Iroem-1-9'>Röm&nbsp;1,9</a>, <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v14'>Hebr&nbsp;9,14</a>.
@@ -73050,7 +73059,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   und <a href='http://bibel.renenyffenegger.ch/1thes_5.html#v9'>1.&nbsp;Thes&nbsp;5,9</a>.
  }
  {
-  <i>Seinen Sohn aus den Himmeln erwarten</i>: vgl §phil-3-20
+  <i>Seinen Sohn aus den Himmeln erwarten</i>: vgl §phil-3-20, §1thes-3-13, §2thes-1-10, §tit-2-13
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
@@ -73058,6 +73067,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 @}
 @1. Thessaloniker 2 {
+#1thes-2-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
+#}
 #1thes-2-2 {
  {
   Paulus (und Timotheus und Silvanus (= Silas?)) waren in Philippi in <a href='http://bibel.renenyffenegger.ch/apg_16.html#v12'>Apg&nbsp;16,12</a>
@@ -73072,6 +73086,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>nachdem wir in Philippi zuvor gelitten hatten</i>: → biblisches/Personen/Paulus erinnert die Philipper daran, dass es ihnen geschenkt worden ist,
   nicht allein an ihn zu glauben, sondern auch für ihn zu leiden. §phil-1-29
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
 #}
 #1thes-2-4 {
  {
@@ -73081,6 +73098,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1thes-2-5 {
  {
   <i>Habsucht</i>: <a class='kom' href='#I2petr-2-3'>2.&nbsp;Petr&nbsp;2,3</a>
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
 #}
 #1thes-2-6 {
@@ -73101,9 +73121,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-2-9 {
  {
-   Vgl <a href='http://bibel.renenyffenegger.ch/2thes_3.html#v8'>2.&nbsp;Thes&nbsp;3,8</a>: Auch im zweiten Brief betont Paulus,
-   dass er 'Tag und Nacht' gearbeitet hat, um 'niemandem zur Last zu fallen'.
-   <br>Vgl auch <a class='kom' href='#I2kor-11-8'>2.&nbsp;Kor&nbsp;11,8</a>/<a class='kom' href='#I2kor-11-9'>2.&nbsp;Kor&nbsp;11,9</a>.
+   <i>Nacht und Tag arbeitend, um niemand von euch beschwerlich zu fallen</i> Vgl §2thes-3-8
+   <br>Vgl auch §1kor-4-12, §+2kor-11-8/§+2kor-11-9
  }
  {
   Beachte: es ist offenbar möglich, Tag und Nacht zu arbeiten <i>und</i> das Evangelium zu verkündigen. TODO: Möglicherweise
@@ -73114,6 +73133,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
    TODO: Das Wort 'ermutigt' (<span class='gr'>παραμυθέομαι</span>) wurde in der Luther 12 mit <i>getröstet</i> übersetzt.
   (TODO: Strongs 3888)
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
 #}
 #1thes-2-12 {
@@ -73131,7 +73153,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Gemeinde Gottes</i>: <a class='kom' href='#Iapg-20-28'>Apg&nbsp;20,28</a>.
  }
  {
-  <i>Nachahmer</i>: <a class='kom' href='#I1thes-1-6'>1.&nbsp;Thes&nbsp;1,6</a>, <a class='kom' href='#I1kor-4-16'>1.&nbsp;Kor&nbsp;4,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer, vgl §1thes-1-6
  }
  {
   <i>Von eigenen Volksgenossen erleiden</i>: <a class='kom' href='#I2kor-11-26'>2.&nbsp;Kor&nbsp;11,26</a>.
@@ -73214,6 +73236,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1thes-3-3 {
  {
   Vgl <i>berufen zu</i> <a class='kom' href='#Ikol-3-15'>Kol&nbsp;3,15</a>
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
+#}
+#1thes-3-4 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
 #}
 #1thes-3-5 {
@@ -73301,6 +73331,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl auch Verse 11-12.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
 #}
 #1thes-4-3 {
  {
@@ -73343,8 +73376,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-4-11 {
  {
-  Als 'sie' (TODO: Paulus und ...) bei den Thessalonikern waren, geboten sie 'wenn jemand nicht
-  arbeiten will, so soll er auch nicht essen' (<a href='http://bibel.renenyffenegger.ch/2thes_3.html#v10'>2.&nbsp;Thes&nbsp;3,10</a>).
+  Als «sie» bei den Thessalonikern waren, geboten sie «wenn jemand nicht
+  arbeiten will, so soll er auch nicht essen» §2thes-3-10.
   Obwohl Paulus (und ...) die Thessaloniker im ersten Brief ermahnt, 'mit [...] eigenen Händen zu arbeiten', muss
   er im zweiten Brief feststellen, dass er 'hört, dass etliche unordentlich wandeln und nicht arbeiten'
  }
@@ -73400,6 +73433,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1thes-5-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
 #}
 #1thes-5-3 {
@@ -73537,8 +73573,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>unserem Vater</i>: <a class='kom' href='#I1thes-1-1'>1.&nbsp;Thes&nbsp;1,1</a>.
  }
  {
-  Vgl <i>Gemeinde der Thessalonicher in Gott</i> auch in <a href='http://bibel.renenyffenegger.ch/1thes_1.html#v1'>1.&nbsp;Thes&nbsp;1,1</a>.
-  Vgl auch mit den den <i>Gemeinden in Galatien</i> (<a class='kom' href='#Igal-1-2'>Gal&nbsp;1,2</a>).
+  Vgl <i>Gemeinde der Thessalonicher in Gott</i> auch in §1thes-1-1. Vgl auch mit den den <i>Gemeinden in Galatien</i> (§+gal-1-2).
  }
  {
   <i>Gemeinde der Thessalonicher</i>: <a class='kom' href='#Iroem-16-4'>Röm&nbsp;16,4</a>.
@@ -73652,6 +73687,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: Offenbar ist im Griechischen hier <i>das, was zurückhält</i> im Netrum (und Pneuma wäre auch Neutrum); im nächsten Vers ist <i>der, welcher jetzt zurückhält</i> im Maskulinum.
   → biblisches/Bücher/Paulus/Thessalonicher/2/Kapitel-02/Der-Zurückhaltende
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
 #}
 #2thes-2-7 {
  {
@@ -73738,6 +73776,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2thes-3-1 {
  {
   <i>Brüder, betet für uns</i> §1thes-5-25
+  <br><i>dass das Wort … laufe</i> vgl §+1thes-1-8
  }
  {
   <i>Übrigens, Brüder</i>: §+2kor-13-11
@@ -73779,11 +73818,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Siehe auch <a class='kom' href='#I1kor-5-13'>1.&nbsp;Kor&nbsp;5,13</a>.
  }
 #}
+#2thes-3-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer[nachahmen]
+ }
+#}
 #2thes-3-8 {
  {
-  Als Paulus 'Tag und Nacht' arbeitete, verkündigten sie den Thessalonikern das Evangelium Gottes
-  (<a href='http://bibel.renenyffenegger.ch/1thes_2.html#v9'>1.&nbsp;Thes&nbsp;2,9</a>). Vgl auch <a class='kom' href='#I1thes-2-9'>1.&nbsp;Thes&nbsp;2,9</a>.
-  <br>Vgl auch <a class='kom' href='#Iapg-17-10'>Apg&nbsp;17,10</a>.
+  <i>wir haben mit Mühe und Beschwerde Nacht und Tag gearbeitet, um nicht jemand von euch beschwerlich zu fallen.</i>  vgl §1thes-2-9
+ <br>
+  Vgl auch §+apg-17-10.
  }
  {
   <i>Zur Last fallen</i>: <a class='kom' href='#I2kor-11-9'>2.&nbsp;Kor&nbsp;11,9</a>.
@@ -73799,13 +73844,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-3-10 {
  {
-  Bereits im ersten Brief hat Paulus darauf hingewiesen, dass sie 'mit eigenen Händen arbeiten' sollen,
-  vgl auch <a class='kom' href='#I1thes-4-11'>1.&nbsp;Thes&nbsp;4,11</a>.
+  Bereits im → biblisches/Bücher/Paulus/Thessalonicher/1[ersten Brief] hat Paulus darauf hingewiesen, dass sie «mit eigenen Händen arbeiten» sollen, vgl auch §+1thes-4-11, §1kor-4-12
  }
 #}
 #2thes-3-11 {
  {
-   <i>Wir hören</i>: <a class='kom' href='#I1thes-1-8'>1.&nbsp;Thes&nbsp;1,8</a>.
+   <i>Wir hören</i>: §+1thes-1-8.
  }
 #}
 #2thes-3-12 {
@@ -75465,8 +75509,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #tit-2-13 {
  {
-  <i>Gott und Retter Jesus Christus</i> Vgl <a href='http://bibel.renenyffenegger.ch/2petr_1.html#v1'>2.&nbsp;Petr&nbsp;1,1</a>,
-  <a class='kom' href='#Itit-1-3'>Tit&nbsp;1,3</a>.
+  <i>Gott und Retter Jesus Christus</i> Vgl §2petr-1-1, §+tit-1-3.
+ }
+ {
+   Vgl §1thes-1-10 
  }
  {
   TODO: Offensichtlich ist nicht ganz klar, wo das <i>unser</i> stehen sollte (KJV Debatte).
@@ -76210,11 +76256,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-6-12 {
  {
-  <i>Nachfolger</i>: <a class='kom' href='#I1kor-4-16'>1.&nbsp;Kor&nbsp;4,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer
  }
  {
-  <i>Durch Glauben und Geduld die Verheissung erben</i>: vgl Vers 15.
-  Beachte: Die Verheissung wird nicht durch Glauben allein geerbt.
+  <i>Durch Glauben und Geduld die Verheissung erben</i>: vgl Vers 15.  Beachte: Die Verheissung wird nicht durch Glauben allein geerbt.
  }
  {
   TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/hebr_12.html#v1'>Hebr 12,1 ff</a>
@@ -77085,7 +77130,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-12-17 {
  {
-  <a href='http://bibel.renenyffenegger.ch/1mo_27.html#v30'>1.&nbsp;Mo&nbsp;27,30-41</a>.
+  §1mo-27-30-41.
  }
 #}
 #hebr-12-18 {
@@ -77226,11 +77271,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-13-7 {
  {
-   Vgl <a href='http://bibel.renenyffenegger.ch/phil_3.html#v17'>Phil 3,17-19</a>: 'Werdet meine Nachahmer, ihr Brüder, und seht auf diejenigen, die so wandeln,
-   wie ihr uns zum Vorbild habt.
-   Denn viele wandeln, wie ich euch oft gesagt habe und jetzt auch weinend sage, als Feinde des Kreuzes des Christus;
-   ihr Ende ist das Verderben, ihr Gott ist der Bauch, sie rühmen sich ihrer Schande, sie sind irdisch gesinnt.
-   '
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer
  }
  {
   <i>Führer</i> auch in Versen 17 und 24.
@@ -77361,6 +77402,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    Die <i>Bewährung des Glaubens</i> hat Lob, Ehre und Herrlichkeit bei der Offenbarung Jesu Christi zur Folge
   (<a href='http://bibel.renenyffenegger.ch/1petr_1.html#v7'>1.&nbsp;Petr&nbsp;1,7</a>).
   <br>Vgl mit <a href='http://bibel.renenyffenegger.ch/roem_5.html#v3'>Röm&nbsp;5,3 ff</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
 #}
 #jak-1-4 {
@@ -77574,6 +77618,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Wer ist «wir»?
  }
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
+ {
   TODO: Wird hier und in den folgenden Versen gesagt, dass ein Lehrer der ist, der seinen Körper im Zaum halten kann?
  }
 #}
@@ -77640,7 +77687,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-4-4 {
  {
-  <i>Wisst ihr nicht</i>: <a class='kom' href='#I1kor-3-16'>1.&nbsp;Kor&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
 #}
 #jak-4-5 {
@@ -78540,6 +78587,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Bruderschaft</i>: <a href='http://bibel.renenyffenegger.ch/1petr_2.html#v17'>1.&nbsp;Petr&nbsp;2,17</a>.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
 #}
 #1petr-5-10 {
  {
@@ -78719,6 +78769,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Vgl auch §jud-1-5
   <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/phil_3.html#v1'>Phil&nbsp;3,1</a>.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
 #}
 #2petr-1-13 {
  {
@@ -78766,6 +78819,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl <i>Weissagung</i> (<span class='gr'>προφητεία</span>, Strongs 4394) mit 'falschen Propheten' (<span class='gr'>προφητεία</span>, Strongs 5578) in
   <a href='http://bibel.renenyffenegger.ch/2petr_2.html#v1'>2.&nbsp;Petr&nbsp;2,1</a>.
+ }
+ {
+  <i>indem ihr dies zuerst wisst</i> vgl §2petr-3-3
  }
 #}
 #2petr-1-21 {
@@ -78954,6 +79010,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Letzte Tage</i>: <a class='kom' href='#Ijoh-6-39'>Joh&nbsp;6,39</a>,
  }
+ {
+  <i>indem ihr zuerst dieses wisst</i> vgl §2petr-1-20
+ }
 #}
 #2petr-3-4 {
  {
@@ -79027,6 +79086,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2petr-3-15 {
  {
   TODO: Beachte, dass Paulus als erstem «die ganze Langmut erzeigt» hat (§1tim-1-16), deshalb schreibt Paulus wohl auch davon.
+ }
+#}
+#2petr-3-17 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
 #}
 #2petr-3-18 {
@@ -79253,7 +79317,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1joh-2-20 {
  {
-  <b>Ihr wisst/wir wissen</b>: <ul>
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst[Ihr wisst/wir wissen]: <ul>
     <li>Ihr habt die Salbung und wisst alles (<a href='http://bibel.renenyffenegger.ch/1joh_2.html#v20'>1.&nbsp;Joh&nbsp;2,20</a>)
     <li>Wenn ihr wisst, dass er gerecht ist ... (<a href='http://bibel.renenyffenegger.ch/1joh_2.html#v29'>1.&nbsp;Joh&nbsp;2,29</a>)
     <li>Wir wissen, dass wir ihm gleichgestaltet sein werden (<a href='http://bibel.renenyffenegger.ch/1joh_3.html#v2'>1.&nbsp;Joh&nbsp;3,2</a>)
@@ -79294,6 +79358,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: <i>Kommen</i>: <a class='kom' href='#I1thes-2-19'>1.&nbsp;Thes&nbsp;2,19</a>.
  }
 #}
+#1joh-2-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
+#}
 @}
 @1. Johannes 3 {
 #1joh-3-1 {
@@ -79324,6 +79393,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Erschienen</i> auch, um die Werke des Teufels zu zerstören (Vers 8).
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
 #}
 #1joh-3-7 {
  {
@@ -79336,6 +79408,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1joh-3-12 {
  {
    TODO: sind gerechte Werke 'das Opfer bringen'?
+ }
+#}
+#1joh-3-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
 #}
 #1joh-3-16 {
