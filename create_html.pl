@@ -18,6 +18,7 @@ use Getopt::Long;
 use Bibel_;
 use File::Find;
 use File::Copy;
+use File::Path qw(make_path);
 use File::HomeDir;
 use Digest::MD5::File qw(file_md5_hex);
 use YAML::Tiny;
@@ -65,6 +66,11 @@ notes::load_index($index_file);
 # }}}
 
 my $out_dir = RN::url_path_abs_2_os_path_abs('/Biblisches/Kommentare/');
+
+unless (-d $out_dir) {
+  print "$out_dir does not exist, creating it\n";
+  make_path $out_dir or die;
+}
 print "out_dir = $out_dir\n" if $verbose;
 my $ftp; # Ever used 2017-01-16
 
@@ -77,7 +83,7 @@ if ($web) { # {{{
 } # }}}
 else { # {{{
   print "copy $out_dir/$ftp_file_md5_file to $ftp_file_md5_file (working dir = " . cwd() . "\n";
-  copy ("$out_dir/$ftp_file_md5_file", $ftp_file_md5_file) or die;
+  copy ("$out_dir/$ftp_file_md5_file", $ftp_file_md5_file) or print "Could not copy $out_dir/$ftp_file_md5_file to $ftp_file_md5_file (working dir = " .cwd() . "\n";
 } # }}}
 
 if (-e $ftp_file_md5_file) {
