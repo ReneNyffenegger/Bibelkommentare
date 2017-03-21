@@ -32249,6 +32249,10 @@
  {
   Vgl mit §+dan-1-2.
  }
+ {
+  → biblisches/Personen/Belsazar, → biblisches/Personen/Nebukadnezar[Nebukadnezars] Soh, befahlt, dass man aus diesen Geräten trinke.
+  Die Geräte, werden in §esr-5-14 wieder herausgenommen, um in den Tempel von Jerusalem zu bringen.
+ }
 #}
 #2chr-36-8 {
  {
@@ -32717,6 +32721,11 @@
 #esr-5-11 {
  {
   <i>Wir sind die Knechte des Gottes des Himmels</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-gottes-knecht, §neh-9-36
+ }
+#}
+#esr-5-14 {
+ {
+  Vgl §2chr-36-7, §dan-5-2-ff
  }
 #}
 @}
@@ -47633,6 +47642,11 @@
   TODO: <a href="http://www.bibleinsight.com/menep1.html">http://www.bibleinsight.com/menep1.html</a>.
  }
 #}
+#dan-5-2 {
+ {
+  Vgl §+2chr-36-7, §esr-5-14
+ }
+#}
 #dan-5-6 {
  {
   <i>Seine Gedanken ängstigen ihn</i>: Vgl Daniel: §+dan-4-19.
@@ -53917,6 +53931,11 @@
    Malchus wird das rechte Ohr abgehauen. Vgl §mk-14-47, §lk-22-50, §joh-18-10, §+2mo-29-20.
  }
 #}
+#mt-26-55 {
+ {
+  Im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel lehrend: vgl §mk-12-35
+ }
+#}
 #mt-26-59 {
  {
   <i>Hoher Rat</i>: <a class='kom' href='#Imt-5-22'>Mt&nbsp;5,22</a>.
@@ -53924,7 +53943,7 @@
 #}
 #mt-26-61 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/joh_2.html#v19'>Joh 2,19-21</a>.
+  Vgl §joh-2-19-21, §mt-27-40
  }
 #}
 #mt-26-63 {
@@ -54114,7 +54133,7 @@
 #}
 #mt-27-40 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/joh_2.html#v19'>Joh 2,19-21</a>.
+  Vgl §joh-2-19-21, §mt-26-61
  }
  {
   <i>Wenn du Gottes Sohn bist</i>: <a class='kom' href='#Imt-4-3'>Mt&nbsp;4,3</a>.
@@ -55215,6 +55234,11 @@
   <i>Zweites</i> Gebot: <a class='kom' href='#I3mo-19-18'>3.&nbsp;Mo&nbsp;19,18</a>.
  }
 #}
+#mk-12-35 {
+ {
+  Als er im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel lehrte: vgl §mt-26-55
+ }
+#}
 #mk-12-39 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen
@@ -55441,10 +55465,17 @@
   <i>Abgehauenes Ohrläppchen</i>: §+mt-26-51, §2mo-29-20
  }
 #}
+#mk-14-49 {
+ {
+  im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel lehrend: vgl §mt-26-55, §mk-12-35
+ }
+#}
 #mk-14-58 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/joh_2.html#v19'>Joh 2,19-21</a>.
-  <br>TODO: das scheint keine falsche Anschuldigung gewesen zu sein, denn das hat Er ja wirklich gesagt.
+  Vgl §joh-2-19-21, §mt-26-61, §mt-27-40
+ }
+ {
+  TODO: das scheint keine falsche Anschuldigung gewesen zu sein, denn das hat Er ja wirklich gesagt.
  }
 #}
 #mk-14-61 {
@@ -55504,7 +55535,7 @@
 #}
 #mk-15-29 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/joh_2.html#v19'>Joh 2,19-21</a>.
+  Vgl §joh-2-19-21.
  }
 #}
 #mk-15-32 {
@@ -81755,9 +81786,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-11-19 {
  {
-  Der Tempel Gottes im Himmel wurde geöffnet und die Lade seines Bundes wurde darin Sichtbar. Vgl
-  <a href='http://bibel.renenyffenegger.ch/offb_15.html#v5'>Offb&nbsp;15,5</a>: der Tempel des Zeltes des Zeugnisses im Himmel wurde geöffnet.
-  In <a class='kom' href='#Ioffb-19-11'>Offb&nbsp;19,11</a> ist der Himmel geöffnet.
+  Der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel Gottes im Himmel wurde geöffnet und die Lade seines Bundes wurde darin Sichtbar. Vgl
+  §offb-15-5: der Tempel des Zeltes des Zeugnisses im Himmel wurde geöffnet.
+  In §+offb-19-11 ist der Himmel geöffnet.
   <span class='u'>
     Vgl Bild ganz unten in http://bibleprophecy.net/bibleinterp.htm
   </span>
@@ -82417,7 +82448,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-15-5 {
  {
-  <i>geöffneter Tempel</i>: Vgl <a class='kom' href='#Ioffb-11-19'>Offb&nbsp;11,19</a>.
+  <i>geöffneter → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel</i>: Vgl §+offb-11-19.
  }
  {
   <i>Zelt</i>: <a class='kom' href='#Ihebr-8-2'>Hebr&nbsp;8,2</a>.
