@@ -939,7 +939,7 @@
 #}
 #1mo-4-2 {
  {
-  Abel ('Nichtigkeit'/<span class='hebr'>הָ֑בֶל</span>) vgl mit 'Nichtigkeit der Nichtigkeiten'
+  → biblisches/Personen/Abel ('Nichtigkeit'/<span class='hebr'>הָ֑בֶל</span>) vgl mit 'Nichtigkeit der Nichtigkeiten'
   (<a class='kom' href='#Ipred-1-2'>Pred&nbsp;1,2</a>)
  }
  {
@@ -1090,6 +1090,9 @@
  }
 #}
 #1mo-4-25 {
+ {
+  → biblisches/Personen/Abel
+ }
  {
   Seth wird 'ein Sohn' genannt, und diesem wird auch ein Sohn geboren (<a href='http://bibel.renenyffenegger.ch/1mo_4.html#v26'>Vers 26</a>).
   Im fünften Kapitel kommt über Seths Linie immer wieder die Wendung 'zeugte Söhne und Töchter' vor. Bei Kains Linie
@@ -22545,8 +22548,8 @@
 #}
 #1sam-1-9 {
  {
-  Hier erstes Vorkommen von <i>Tempel</i> <span class='hebr'>הֵיכָל</span> (Strongs 1964). Beachte auch, dass der Tempel ja
-  noch gar nicht gebaut war, es handelt sich hier also wohl um das Zelt der Zusammenkunft.
+  Hier erstes Vorkommen von → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel <span class='hebr'>הֵיכָל</span> (Strongs 1964). Beachte auch, dass der Tempel ja
+  noch gar nicht gebaut war, es handelt sich hier also wohl um das → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft[Zelt der Zusammenkunft].
  }
  {
   Von einem Stuhl beim Türpfosten im Tempel liest man nichts im Gesetz...
@@ -22691,6 +22694,11 @@
 #}
 @}
 @1. Samuel 3 {
+#1sam-3-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #1sam-3-10 {
  {
   Verdoppelung des Namens, siehe <a class='kom' href='#I1mo-22-11'>1.&nbsp;Mo&nbsp;22,11</a>.
@@ -25245,6 +25253,11 @@
   Der Rest des Kapitels scheint Psalm 18 ab §ps-18-3 zu entsrpechen.
  }
 #}
+#2sam-22-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #2sam-22-8 {
  {
   <i>Grundfesten</i> (<span class='hebr'>מוֹסָדָה</span>, Strongs 4146): des Himmels (hier),
@@ -25860,6 +25873,9 @@
 #}
 #1koe-6-3 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
     <table summary='.'>
       <tr><td>Haus</td><td>60*20*30</td><td>=</td><td>36000</td></tr>
       <tr><td>Vorhalle (siehe <a href='http://bibel.renenyffenegger.ch/2chr_3.html#v4'>2.&nbsp;Chr&nbsp;3,4</a>)</td><td>20*120*10</td><td>=</td><td>24000</td></tr>
@@ -26024,6 +26040,9 @@
  }
 #}
 #1koe-7-21 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   <i>Jachin</i> ist der Name eines Sohnes von Simeon (<a href='http://bibel.renenyffenegger.ch/1mo_46.html#v10'>1.&nbsp;Mo&nbsp;46,10</a>) und
   der Name eines Priesters (<a href='http://bibel.renenyffenegger.ch/1chr_9.html#v10'>1.&nbsp;Chr&nbsp;9,10</a>).
@@ -28509,6 +28528,11 @@
 #}
 @}
 @2. Könige 23 {
+#2koe-23-4 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #2koe-23-5 {
  {
   <i>Sternbild</i> <span class='hebr'>מַזָּלוֹת</span> (Strongs 4208, 1x).
@@ -28767,8 +28791,10 @@
 #}
 #2koe-24-13 {
  {
-  Die übrigen Geräte (die Säulen, das Wasserbecken, die Gestelle) hat Nebukadnezar nicht weggenommen
-         (<a href='http://bibel.renenyffenegger.ch/jer_27.html#v19'>Jer 27,19-20</a>).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
+  Die übrigen Geräte (die Säulen, das Wasserbecken, die Gestelle) hat Nebukadnezar nicht weggenommen §jer-27-19-20.
  }
  {
   TODO: Die goldenen und silbernen Geräte des Hauses Gottes, welche Nebukadnezar aus dem Tempel herausgenommen und nach Babel gebracht hat, soll man zurückgeben: §esr-6-5.
@@ -30516,6 +30542,9 @@
 #}
 #1chr-28-11 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   Hier: einziger Vers ausserhalb des Gesetzes wo <i>Sühnedeckel</i> vorkommt.
  }
  {
@@ -30743,6 +30772,11 @@
   Vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang[Vorhang] → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose[Heiligtums von Mose].
  }
 #}
+#2chr-3-17 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 @}
 @2. Chronik 4 {
 #2chr-4-1 {
@@ -30770,6 +30804,11 @@
 #2chr-4-17 {
  {
   <i>Zartan</i> = <i>Zeredata</i>: <a class='kom' href='#I1koe-7-46'>1.&nbsp;Kö&nbsp;7,46</a>.
+ }
+#}
+#2chr-4-22 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 @}
@@ -31712,6 +31751,9 @@
 #}
 #2chr-26-16 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   <a class='kom' href='#I2mo-30-7'>2.&nbsp;Mo&nbsp;30,7</a>.
  }
  {
@@ -31732,6 +31774,9 @@
 @}
 @2. Chronik 27 {
 #2chr-27-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   <i>Nicht mehr in die Tempelhalle gehen</i> Vgl <a class='kom' href='#I2chr-26-16'>2.&nbsp;Chr&nbsp;26,16</a>.
  }
@@ -31833,6 +31878,11 @@
 #2chr-29-7 {
  {
   <a href='http://bibel.renenyffenegger.ch/2chr_28.html#v24'>2.&nbsp;Chr&nbsp;28,24</a>.
+ }
+#}
+#2chr-29-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #2chr-29-19 {
@@ -32251,7 +32301,7 @@
  }
  {
   → biblisches/Personen/Belsazar, → biblisches/Personen/Nebukadnezar[Nebukadnezars] Soh, befahlt, dass man aus diesen Geräten trinke.
-  Die Geräte, werden in §esr-5-14 wieder herausgenommen, um in den Tempel von Jerusalem zu bringen.
+  Die Geräte, werden in §esr-5-14 wieder herausgenommen, um in den → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel von Jerusalem zu bringen.
  }
 #}
 #2chr-36-8 {
@@ -32631,12 +32681,20 @@
 #}
 #esr-3-6 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   Am 1.7. ist das → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Posaunenhall. Vgl §neh-8-2
  }
 #}
 #esr-3-8 {
  {
   Beachte: «Die Hände Serubbabels haben dieses Haus gegründet, seine Hände sollen es auch vollenden» (§sach-4-9).
+ }
+#}
+#esr-3-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #esr-3-12 {
@@ -32646,6 +32704,11 @@
 #}
 @}
 @Esra 4 {
+#esr-4-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #esr-4-2 {
  {
   <i>Asar-Haddon</i>: <a class='kom' href='#I2koe-19-37'>2.&nbsp;Kö&nbsp;19,37</a>.
@@ -32725,6 +32788,9 @@
 #}
 #esr-5-14 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   Vgl §2chr-36-7, §dan-5-2-ff
  }
 #}
@@ -32736,6 +32802,9 @@
  }
 #}
 #esr-6-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
    TODO: §2koe-24-13.
  }
@@ -35147,14 +35216,8 @@
 #}
 #ps-5-8 {
  {
-  Beachte: der <i>Tempel</i> war noch gar nicht gebaut. S.a.
-  <a href='http://bibel.renenyffenegger.ch/ps_11.html#v4'>Ps&nbsp;11,4</a>,
-  <a href='http://bibel.renenyffenegger.ch/ps_18.html#v7'>Ps&nbsp;18,7</a>,
-  <a href='http://bibel.renenyffenegger.ch/ps_27.html#v4'>Ps&nbsp;27,4</a>,
-  <a href='http://bibel.renenyffenegger.ch/ps_29.html#v9'>Ps&nbsp;29,9</a>,
-  <a href='http://bibel.renenyffenegger.ch/ps_65.html#v5'>Ps&nbsp;65,5</a>,
-  <a href='http://bibel.renenyffenegger.ch/ps_68.html#v30'>Ps&nbsp;68,30</a>,
-  <a href='http://bibel.renenyffenegger.ch/ps_138.html#v2'>Ps&nbsp;138,2</a>.
+  Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel war noch gar nicht gebaut. S.a.  §ps-11-4,
+  §ps-18-7, §ps-27-4, §ps-29-9, §ps-65-5, §ps-68-30, §ps-138-2.
  }
 #}
 @}
@@ -35435,7 +35498,7 @@
 #}
 #ps-18-7 {
  {
-  Beachte: der <i>Tempel</i> ist noch gar nicht gebaut: <a class='kom' href='#Ips-5-8'>Ps&nbsp;5,8</a>.
+  Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel ist noch gar nicht gebaut: §+ps-5-8.
  }
 #}
 #ps-18-8 {
@@ -35672,7 +35735,7 @@
 @Psalm 27 {
 #ps-27-4 {
  {
-  Beachte: der <i>Tempel</i> ist noch gar nicht gebaut: <a class='kom' href='#Ips-5-8'>Ps&nbsp;5,8</a>.
+  Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel ist noch gar nicht gebaut: §+ps-5-8.
  }
 #}
 #ps-27-11 {
@@ -35711,7 +35774,7 @@
 #}
 #ps-29-9 {
  {
-  Beachte: der <i>Tempel</i> ist noch gar nicht gebaut: <a class='kom' href='#Ips-5-8'>Ps&nbsp;5,8</a>.
+  Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel ist noch gar nicht gebaut: §+ps-5-8.
  }
 #}
 @}
@@ -36165,6 +36228,11 @@
   <br>Beachte: Die Tarsisschiffe werden die Söhne heimbringen (<a href='http://bibel.renenyffenegger.ch/jes_60.html#v9'>Jes&nbsp;60,9</a>).
  }
 #}
+#ps-48-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #ps-48-12 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/ps_97.html#v8'>Ps&nbsp;97,8</a>,
@@ -36484,7 +36552,7 @@
   <i>Wohl dem</i>: <a class='kom' href='#Ips-1-1'>Ps&nbsp;1,1</a>.
  }
  {
-  Beachte: der <i>Tempel</i> ist noch gar nicht gebaut: <a class='kom' href='#Ips-5-8'>Ps&nbsp;5,8</a>.
+  Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel ist noch gar nicht gebaut: §+ps-5-8.
  }
 #}
 #ps-65-8 {
@@ -36930,6 +36998,11 @@
 #}
 @}
 @Psalm 79 {
+#ps-79-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #ps-79-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
@@ -38242,7 +38315,7 @@
 @Psalm 138 {
 #ps-138-2 {
  {
-  Beachte: der <i>Tempel</i> ist noch gar nicht gebaut: <a class='kom' href='#Ips-5-8'>Ps&nbsp;5,8</a>.
+  Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel ist noch gar nicht gebaut: §+ps-5-8.
  }
 #}
 #ps-138-8 {
@@ -40519,6 +40592,9 @@
 @Jesaja 6 {
 #jes-6-1 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   Vgl mit Todesjahr des Ahas <a class='kom' href='#Ijes-14-28'>Jes&nbsp;14,28</a>.
  }
  {
@@ -42361,6 +42437,9 @@
 #}
 #jes-44-28 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   <i>Kyrus</i>: Betreffend des Befehles, dass Jerusalem wieder gebaut werde, siehe §+esr-1-2, §2chr-36-23, → biblisches/Bücher/Daniel/70-Wochen
  }
 #}
@@ -43205,7 +43284,7 @@
 #}
 #jes-66-6 {
  {
-  Vgl die <i>Stimme aus dem Tempel</i> mit <a class='kom' href='#Ioffb-16-1'>Offb&nbsp;16,1</a>.
+  Vgl die <i>Stimme aus dem → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel</i> mit §+offb-16-1.
  }
 #}
 #jes-66-8 {
@@ -43529,6 +43608,11 @@
 #jer-7-2 {
  {
   TODO: Gehören diese Tore zum Haus des Herrn? Hat das Haus nicht nur eine Tür?
+ }
+#}
+#jer-7-4 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #jer-7-10 {
@@ -44168,6 +44252,9 @@
 @}
 @Jeremia 24 {
 #jer-24-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
    <i>Körbe</i>: <span class='hebr'>דּוּדָאֵ֣י</span>, dasselbe Wort wie für
    <i>Alraunenfrüchte</i> in <a href='http://bibel.renenyffenegger.ch/1mo_30.html#v14'>1.&nbsp;Mo&nbsp;30,14</a>
@@ -45503,6 +45590,9 @@
 #}
 #jer-50-28 {
  {
+  Die Rache seines → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel[Tempels], vgl §jer-51-11
+ }
+ {
   <i>Die Stimme von …</i>: Elb05 übersetzt mit «Horch!», vgl §+jes-13-4.
  }
 #}
@@ -45554,6 +45644,11 @@
 #jer-51-10 {
  {
   Vgl <a class='kom' href='#Ijer-23-6'>Jer&nbsp;23,6</a>.
+ }
+#}
+#jer-51-11 {
+ {
+  Die Rache seines → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel[Tempels], vgl §jer-50-28
  }
 #}
 #jer-51-13 {
@@ -46110,6 +46205,9 @@
  }
 #}
 #hes-8-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   <i>inneren Vorhof</i> eigentlich nur <span class='hebr'><span class='grey'>הָֽ</span>אוּלָם֙</span> (Strongs 197), also dasselbe Wort wie zB in
   <a href='http://bibel.renenyffenegger.ch/1koe_6.html#v3'>1.&nbsp;Kö&nbsp;6,3</a>.
@@ -47174,6 +47272,9 @@
 @Hesekiel 41 {
 #hes-41-1 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
    TODO: Pfeiler = Strongs 352.
  }
 #}
@@ -47189,6 +47290,11 @@
 #}
 @}
 @Hesekiel 42 {
+#hes-42-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #hes-42-20 {
  {
   <i>um zwischen dem Heiligen und Unheiligen zu scheiden</i> §+hes-22-26, §+3mo-10-10
@@ -47643,6 +47749,9 @@
  }
 #}
 #dan-5-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   Vgl §+2chr-36-7, §esr-5-14
  }
@@ -48994,6 +49103,11 @@
   TODO <i>Tal Josaphats</i>: <a class='kom' href='#I1koe-22-41'>1.&nbsp;Kö&nbsp;22,41</a>.
  }
 #}
+#joe-4-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #joe-4-6 {
  {
   <i>Griechen</i>: siehe <a class='kom' href='#Idan-8-21'>Dan&nbsp;8,21</a>.
@@ -49365,6 +49479,18 @@
 #jon-1-9 {
  {
    TODO: Ist die Wendung sonst nicht 'der Himmel und Erde gemacht hat'?
+ }
+#}
+@}
+@Jona 2 {
+#jon-2-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
+#jon-2-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 @}
@@ -49945,6 +50071,11 @@
   <br>S.a. <i>die Erde wankt (nicht)</i>: <a class='kom' href='#Ips-99-1'>Ps&nbsp;99,1</a>.
  }
 #}
+#hag-2-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #hag-2-19 {
  {
   Vgl <a class='kom' href='#Ihab-3-16'>Hab&nbsp;3,16</a>.
@@ -50189,6 +50320,9 @@
 #}
 #sach-6-12 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   <i>Spross</i>: <a class='kom' href='#Ijes-4-2'>Jes&nbsp;4,2</a>, <a href='http://bibel.renenyffenegger.ch/sach_3.html#v8'>Sach&nbsp;3,8</a>.
  }
 #}
@@ -50230,6 +50364,11 @@
 #sach-8-4 {
  {
   Vgl <a class='kom' href='#I1mo-48-9'>1.&nbsp;Mo&nbsp;48,9</a>.
+ }
+#}
+#sach-8-9 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #sach-8-22 {
@@ -50452,6 +50591,9 @@
 @}
 @Maleachi 3 {
 #mal-3-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   <i>Meinen Boten</i>: <a class='kom' href='#Ijes-40-3'>Jes&nbsp;40,3</a>.
  }
@@ -50927,6 +51069,9 @@
  }
 #}
 #mt-4-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   → biblisches/Orte/Jerusalem#heilige-stadt
  }
@@ -52124,6 +52269,9 @@
 #}
 #mt-12-5 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   TODO: Wo im Gesetz steht das? Eventuell in <a class='kom' href='#I4mo-28-9'>4.&nbsp;Mo&nbsp;28,9</a>.
  }
 #}
@@ -52146,6 +52294,11 @@
 #mt-12-11 {
  {
   <i>Schaf, das in die Grube fällt</i>: Vgl mit §2mo-21-33.
+ }
+#}
+#mt-12-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #mt-12-15 {
@@ -53182,6 +53335,11 @@
   <i>Prophet</i>: vgl Vers 46.
  }
 #}
+#mt-21-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #mt-21-13 {
  {
   <i>Räuberhöhle</i>: <a class='kom' href='#Ijer-7-11'>Jer&nbsp;7,11</a>.
@@ -53384,7 +53542,7 @@
 #}
 #mt-23-16 {
  {
-  <i>Tempel</i>: <span class='gr'>ναός</span> (Strongs 3485) vgl <a class='kom' href='#Imt-4-11'>Mt&nbsp;4,11</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel: <span class='gr'>ναός</span> (Strongs 3485) vgl <a class='kom' href='#Imt-4-11'>Mt&nbsp;4,11</a>.
  }
 #}
 #mt-23-22 {
@@ -53403,6 +53561,10 @@
  }
 #}
 #mt-23-35 {
+ {
+  → biblisches/Personen/Abel,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   <i>Zacharia</i> scheint Sacharja zu sein: <a class='kom' href='#Isach-1-1'>Sach&nbsp;1,1</a>. S.a. <a href='http://bibel.renenyffenegger.ch/lk_11.html#v51'>Lk&nbsp;11,51</a>.
   TODO: <i>Aber</i> in <a href='http://bibel.renenyffenegger.ch/2chr_24.html#v20'>2.&nbsp;Chr&nbsp;24,20</a> wird ein Sacharja (Elberfelder: Sekarja), Sohn Jojadas
@@ -53428,7 +53590,7 @@
 @Matthäus 24 {
 #mt-24-1 {
  {
-  TODO: <i>Ankündigung der Zerstörung des Tempels</i>: <a class='kom' href='#Imk-13-1'>Mk&nbsp;13,1</a>.
+  <i>Ankündigung der Zerstörung des → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel</i>: §+mk-13-1.
  }
 #}
 #mt-24-3 {
@@ -53943,6 +54105,9 @@
 #}
 #mt-26-61 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   Vgl §joh-2-19-21, §mt-27-40
  }
 #}
@@ -53991,6 +54156,9 @@
  }
 #}
 #mt-27-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   Nach seiner Erhängung stürtzte Judas offenbar kopfüber hinab und barst entzwei: <a href='http://bibel.renenyffenegger.ch/apg_1.html#v18'>Apg&nbsp;1,18</a>.
  }
@@ -54133,6 +54301,9 @@
 #}
 #mt-27-40 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   Vgl §joh-2-19-21, §mt-26-61
  }
  {
@@ -54162,6 +54333,9 @@
  }
 #}
 #mt-27-51 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   <i>Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang zerriss</i> mk-15-38, §lk-23-45
  }
@@ -55124,6 +55298,9 @@
 #}
 #mk-11-11 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   TODO: Der Tempel scheint ins Zentrum des Interesses zu gelangen. S.a. <a class='kom' href='#Imk-11-17'>Mk&nbsp;11,17</a>.
  }
 #}
@@ -55264,6 +55441,9 @@
 @Markus 13 {
 #mk-13-1 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   Beachte: Die Ankündigung der Zerstörung erfolgt, nachdem die Witwe ihren ganzen Lebensunterhalt
   in den Opferkasten eingelegt hat. Ebenso in <a href='http://bibel.renenyffenegger.ch/lk_21.html#v1'>Lk&nbsp;21,1</a>.
   <br>TODO: Nicht aber so in <a href='http://bibel.renenyffenegger.ch/mt_24.html#v1'>Mt&nbsp;24,1</a>.
@@ -55271,6 +55451,9 @@
  }
 #}
 #mk-13-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   <a href='http://renenyffenegger.ch/Biblisches/Synopsen/Endzeitrede.html'>Endzeitrede (Synopse)</a>
  }
@@ -55472,6 +55655,9 @@
 #}
 #mk-14-58 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   Vgl §joh-2-19-21, §mt-26-61, §mt-27-40
  }
  {
@@ -55534,6 +55720,9 @@
  }
 #}
 #mk-15-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   Vgl §joh-2-19-21.
  }
@@ -55728,6 +55917,9 @@
 #}
 #lk-1-9 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   Räucherdienst: <a class='kom' href='#I2mo-30-1'>2.&nbsp;Mo&nbsp;30,1</a>.
  }
 #}
@@ -55895,6 +56087,11 @@
   <i>Der Trost Israels</i> siehe <a class='kom' href='#I1mo-49-10'>1.&nbsp;Mo&nbsp;49,10</a>.
  }
 #}
+#lk-2-27 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #lk-2-30 {
  {
   <i>Heil</i> <span class='gr'>σωτήριος</span> (Strongs 4992, 5x), auch in
@@ -55948,6 +56145,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
  }
 #}
+#lk-2-37 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #lk-2-40 {
  {
   <i>Das Kindlein … erstarkte</i> vgl §jes-9-5
@@ -55961,6 +56163,11 @@
 #lk-2-42 {
  {
    TODO: Hat die Frau in <a href='http://bibel.renenyffenegger.ch/lk_13.html#v11'>Lk&nbsp;13,11</a> seit <i>diesem</i> Jahr den Geist der Krankheit? (12 + 18 = 30).
+ }
+#}
+#lk-2-46 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #lk-2-48 {
@@ -56142,6 +56349,11 @@
   TODO: Der Teufel zeigt dem Herrn <i>Die Reiche</i> und will ihm die <i>Macht</i> und ihre <i>
   Herrlichkeit</i> geben, doch dies gehört ihm bereits
   (<a href='http://bibel.renenyffenegger.ch/mt_6.html#v13'>Mt&nbsp;6,13</a>).
+ }
+#}
+#lk-4-9 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #lk-4-10 {
@@ -57249,6 +57461,11 @@
   <i>Gleichnisse in den Evangelien</i>: <a class='kom' href='#Imt-13-3'>Mt&nbsp;13,3</a>.
  }
 #}
+#lk-18-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #lk-18-13 {
  {
   Vgl mit den Scharen, die sich an die Brust schlagen (<a href='http://bibel.renenyffenegger.ch/lk_23.html#v48'>Lk&nbsp;23,48</a>).
@@ -57396,6 +57613,9 @@
 #}
 #lk-19-45 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   Vgl §+jes-56-7
  }
 #}
@@ -57466,6 +57686,9 @@
  }
 #}
 #lk-21-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   <i>Weihegeschenke</i>: <span class='gr'>ἀνάθημα</span> (Strongs 334, 1x), vgl mit <span class='gr'>ἀνάθεμα</span> (Strongs 331),
   zB in <a class='kom' href='#Iapg-23-14'>Apg&nbsp;23,14</a>.
@@ -57544,6 +57767,11 @@
  }
  {
   TODO: <i>Reich Gottes</i>: vgl <a class='kom' href='#Ilk-17-20'>Lk&nbsp;17,20</a>.
+ }
+#}
+#lk-21-37 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 @}
@@ -57666,6 +57894,11 @@
   <i>Abgehauenes Ohrläppchen</i>: §+mt-26-51, §2mo-29-20
  }
 #}
+#lk-22-52 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #lk-22-61 {
  {
   → biblisches/Personen/Petrus gedenkt auch in §apg-11-16 des <i>Wortes des Herrn</i>
@@ -57783,6 +58016,9 @@
  }
 #}
 #lk-23-45 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   <i>Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang zerriss</i> §mt-27-15, mk-15-38
  }
@@ -57942,7 +58178,7 @@
 #}
 #lk-24-53 {
  {
-  <i>Allezeit im Tempel</i>: <a class='kom' href='#Iapg-1-13'>Apg&nbsp;1,13</a>.
+  <i>Allezeit im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel</i>: <a class='kom' href='#Iapg-1-13'>Apg&nbsp;1,13</a>.
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/joh_2.html#v19'>Joh 2,19-21</a>.
@@ -58251,6 +58487,11 @@
   <br>Beachte: es ist das Passah der Juden, nicht jenes des Herrn (<a class='kom' href='#Ijoh-6-4'>Joh&nbsp;6,4</a>).
  }
 #}
+#joh-2-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #joh-2-16 {
  {
   Vgl das <i>jaus des Vaters</i>,
@@ -58272,6 +58513,9 @@
  }
 #}
 #joh-2-21 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   <i>Er aber sprach vom …</i>: Johannes erklärt die figürliche Rede des Herrn auch in <a href='http://bibel.renenyffenegger.ch/joh_7.html#v39'>Joh&nbsp;7,39</a>
     («Dies aber sagte er vom Geist …»), <a href='http://bibel.renenyffenegger.ch/joh_12.html#v33'>Joh&nbsp;12,33</a> («Dies aber sagte er …»)
@@ -58536,6 +58780,11 @@
   <a href='http://bibel.renenyffenegger.ch/joh_16.html#v16'>Joh 16,16-19</a>
  }
 #}
+#joh-5-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #joh-5-18 {
  {
    Sich Gott gleich (<span class='gr'>ἴσος</span>, Strongs 2470) machen: vgl <a href='http://bibel.renenyffenegger.ch/phil_2.html#v6'>Phil&nbsp;2,6</a>.
@@ -58759,6 +59008,11 @@
   → biblisches/Bücher/Evangelien/Johannes/index#strongs-3954-joh
  }
 #}
+#joh-7-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
 #joh-7-20 {
  {
   <i>Du hast einen Dämon</i>: <a href='http://bibel.renenyffenegger.ch/joh_8.html#v48'>Joh 8,48 ff</a> und
@@ -58849,6 +59103,11 @@
 #joh-8-1 {
  {
    Vermutlich müsste dieser und der vorangehende Vers als ein Satz gelesen werden (Jeder ging nach Hause, Jesus aber zum Ölberg).
+ }
+#}
+#joh-8-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #joh-8-5 {
@@ -58994,6 +59253,9 @@
 #}
 #joh-8-59 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
    Jesus verbirgt sich auch in <a class='kom' href='#Ijoh-12-36'>Joh&nbsp;12,36</a>.
  }
  {
@@ -59134,6 +59396,11 @@
 #joh-10-22 {
  {
   <i>Fest der Tempelweihe</i>: <span class='gr'>ἐγκαίνια</span> (Strongs 1456), vgl → Geschichte/Jahrhundert/2v/Makkabäeraufstand#chanukka.
+ }
+#}
+#joh-10-23 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #joh-10-24 {
@@ -60715,7 +60982,7 @@
 #apg-2-46 {
  {
   Sie <ul>
-    <li>waren jeden Tag im Tempel
+    <li>waren jeden Tag im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
     <li>brachen das Brot in den Häusern
     <li>nahmen Speise mit Frohlocken und Einfalt des Herzens
     <li>lobten Gott
@@ -60870,6 +61137,9 @@
 @}
 @Apostelgeschichte 4 {
 #apg-4-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
    <i>Volk</i>: <a class='kom' href='#Iapg-3-12'>Apg&nbsp;3,12</a>.
  }
@@ -61076,6 +61346,11 @@
  }
  {
   <i>Von Eifersucht erfüllt werden</i>: §+apg-13-45.
+ }
+#}
+#apg-5-20 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #apg-5-28 {
@@ -63564,6 +63839,9 @@
 #}
 #apg-17-14 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   → biblisches/Personen/Timotheus/index «taucht» wieder auf (<a class='kom' href='#Iapg-16-1'>Apg&nbsp;16,1</a>, <a class='kom' href='#Iapg-16-19'>Apg&nbsp;16,19</a>).
  }
  {
@@ -63601,6 +63879,9 @@
  }
 #}
 #apg-17-24 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   TODO: Dies wird auch in <a class='kom' href='#Iapg-7-48'>Apg&nbsp;7,48</a> zitiert.
  }
@@ -63952,7 +64233,10 @@
 #}
 #apg-19-24 {
  {
-  'Künstler' vgl 'Baumeister' <a class='kom' href='#Ihebr-11-10'>Hebr&nbsp;11,10</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
+  <i>Künstler</i> vgl «Baumeister» <a class='kom' href='#Ihebr-11-10'>Hebr&nbsp;11,10</a>.
   Ebenso <a href='http://bibel.renenyffenegger.ch/apg_19.html#v38'>Vers 38</a>.
  }
  {
@@ -64371,6 +64655,9 @@
 #}
 #apg-21-26 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   TODO: Von dieser Begebenheit erzählt Paulus doch in <a href='http://bibel.renenyffenegger.ch/apg_24.html#v18'>Apg&nbsp;24,18</a>. Nur sagt er dort, dass
   kein Volksauflauf oder Tumult entstanden wäre. (Vgl V 34).
  }
@@ -64479,6 +64766,9 @@
  }
 #}
 #apg-22-17 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   <i>Verzückung</i>: <a class='kom' href='#Iapg-10-10'>Apg&nbsp;10,10</a>
   <br>S.a.<a class='kom' href='#Imk-5-42'>Mk&nbsp;5,42</a>.
@@ -64627,6 +64917,9 @@
 #}
 #apg-24-6 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
    <span class='gt'>In NA fehlt ab «und nach unserem Gesetz richten wollten.» bis «indem er seinen Anklägern befahl, zu dir zu kommen;» in Vers 8.</span>
  }
  {
@@ -64674,6 +64967,11 @@
 #apg-25-6 {
  {
   <i>Richterstuhl</i>: <a class='kom' href='#Imt-27-19'>Mt&nbsp;27,19</a>.
+ }
+#}
+#apg-25-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #apg-25-9 {
@@ -64785,6 +65083,11 @@
 #apg-26-19 {
  {
   <i>Erscheinung</i> (Strongs 3701): <a class='kom' href='#Ilk-1-22'>Lk&nbsp;1,22</a>.
+ }
+#}
+#apg-26-21 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #apg-26-23 {
@@ -67467,7 +67770,8 @@
 #}
 #1kor-3-16 {
  {
-  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht[Wisst ihr nicht], dass ihr Gottes Tempel seid</i> vgl §1kor-6-19, §2kor-6-16, §eph-2-21
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht[Wisst ihr nicht], dass ihr Gottes → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel seid</i>
+  vgl §1kor-6-19, §2kor-6-16, §eph-2-21
  <br> 
   Vgl <a href='http://bibel.renenyffenegger.ch/1kor_8.html#v1'>1.&nbsp;Kor&nbsp;8,1</a>: was aber die Götenzopfenr angeht, so wissen wir...
   <br>vgl <a href='http://bibel.renenyffenegger.ch/jak_4.html#v14'>Jak&nbsp;4,14</a>: - und doch wißt ihr nicht, was morgen sein wird!
@@ -68175,6 +68479,9 @@
  }
  {
   <i>Heiligtum</i> ist offenbar Strongs 2411, siehe <a class='kom' href='#Imt-4-11'>Mt&nbsp;4,11</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #1kor-9-14 {
@@ -69714,7 +70021,7 @@
 #}
 #2kor-6-16 {
  {
-  <i>ihr seid der Tempel des lebendigen Gottes</i> §+1kor-3-16
+  <i>ihr seid der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel des lebendigen Gottes</i> §+1kor-3-16
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
@@ -71260,7 +71567,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-2-21 {
  {
-   <i>der ganze Bau … ein heiliger Tempel</i> §+1kor-3-16 
+   <i>der ganze Bau … ein heiliger → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel</i> §+1kor-3-16 
  }
  {
   Vgl §1petr-2-5
@@ -73786,6 +74093,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Judas Ischariat wurde auch <i>Sohn des Verderbens</i> genannt: <a href='http://bibel.renenyffenegger.ch/joh_17.html#v12'>Joh&nbsp;17,12</a>.
+ }
+#}
+#2thes-2-4 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #2thes-2-6 {
@@ -76968,6 +77280,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-11-4 {
  {
+  → biblisches/Personen/Abel
+ }
+ {
   Vgl <a class='kom' href='#I1mo-4-4'>1.&nbsp;Mo&nbsp;4,4</a>.
  }
  {
@@ -77314,8 +77629,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Besprengung</i>: <a class='kom' href='#Ihebr-11-28'>Hebr&nbsp;11,28</a>, vgl <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v2'>1.&nbsp;Petr&nbsp;1,2</a>.
  }
  {
-  <i>Abels Blut</i>: <a class='kom' href='#I1mo-4-10'>1.&nbsp;Mo&nbsp;4,10</a>. TODO: Arghelger (Arghelger_Gedanken-zu-einzelnen-Versen-des-Hebräerbriefs-in-der-Schlachter-2000.pdf) meint, es
-  sollte nicht das Blut Abels sein, sonder «Abel».
+  <i>→ biblisches/Personen/Abel[Abels] Blut</i>: <a class='kom' href='#I1mo-4-10'>1.&nbsp;Mo&nbsp;4,10</a>.
+  <br>
+  Arghelger (Arghelger_Gedanken-zu-einzelnen-Versen-des-Hebräerbriefs-in-der-Schlachter-2000.pdf) meint, es
+  sollte nicht das Blut Abels sein, sondern «Abel».
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/neu
@@ -80602,6 +80919,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-3-12 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   <i>Jerusalem, das herabkommt</i>: <a href='http://bibel.renenyffenegger.ch/offb_21.html#v2'>Offb&nbsp;21,2</a> (TODO: das
   griechische Wort dort ist das selbe wie hier).
  }
@@ -81194,6 +81514,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-7-15 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
   <i>Tag und Nacht</i>: <a class='kom' href='#Ioffb-4-8'>Offb&nbsp;4,8</a>.
  }
  {
@@ -81618,7 +81941,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Johannes soll weissagen über viele Völker, Nationen, Sprachen und Könige (<a href='http://bibel.renenyffenegger.ch/offb_10.html#v11'>Offb&nbsp;10,11</a>)
   &mdash; und es wird ihm eine Messrute gegeben
-  um den Tempel Gottes und die Anbeteten zu messen.
+  um den → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel Gottes und die Anbeteten zu messen.
  }
  {
   <i>Messrute</i> (<span class='gr'>κάλαμος</span>, Strongs 2563): vgl mit dem 'goldenen Rohr'
@@ -82357,6 +82680,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>weiterer Engel</i> (<span class='gr'>αλλος αγγελος</span>, Strongs 243 32), also wie 'anderer Engel' in Vers 6.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
 #offb-14-16 {
@@ -83371,6 +83697,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-21-22 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
  {
   TODO: siehe <a class='kom' href='#Ioffb-4-8'>Offb&nbsp;4,8</a>.
  }
