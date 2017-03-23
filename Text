@@ -35583,6 +35583,11 @@
 }
 { 21-30
 @Psalm 22 {
+#ps-22-2 {
+ {
+  <i>Mein Gott, mein Gott, warum hast du mich verlassen</i> vgl §mt-27-46, §mk-15-34, §joh-16-32
+ }
+#}
 #ps-22-19 {
  {
    <a class='kom' href='#Imt-27-35'>Mt&nbsp;27,35</a>.
@@ -54320,6 +54325,11 @@
    <i>Finsternis</i>: <a class='kom' href='#Iam-8-9'>Am&nbsp;8,9</a>
  }
 #}
+#mt-27-46 {
+ {
+  <i>Mein Gott, mein Gott, warum hast du mich verlassen</i> vgl §ps-22-2, §joh-16-32
+ }
+#}
 #mt-27-48 {
  {
   <i>Essig</i>: <a class='kom' href='#Imt-27-34'>Mt&nbsp;27,34</a>.
@@ -55736,6 +55746,11 @@
 #mk-15-33 {
  {
    <i>Finsternis</i>: <a class='kom' href='#Iam-8-9'>Am&nbsp;8,9</a>
+ }
+#}
+#mk-15-34 {
+ {
+  <i>Mein Gott, mein Gott, warum hast du mich verlassen</i> vgl §ps-22-2, §joh-16-32
  }
 #}
 #mk-15-37 {
@@ -60021,6 +60036,11 @@
 #joh-16-29 {
  {
   → biblisches/Bücher/Evangelien/Johannes/index#strongs-3954-joh
+ }
+#}
+#joh-16-32 {
+ {
+  <i>ich bin nicht allein, denn der Vater ist bei mir.</i> vgl «Mein Gott, mein Gott, warum hast du mich verlassen» (§mt-27-46, §mk-15-34).
  }
 #}
 @}
