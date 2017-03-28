@@ -695,9 +695,6 @@
 #}
 #1mo-2-17 {
  {
-  <i>Gehilfin</i>: <span class='hebr'>עֵזֶר</span> (Strongs 5828) (also eigentlich 'Hilfe').
- }
- {
   TODO: Strongs 4191, vgl mit Strongs 1478, <a class='kom' href='#I1mo-6-17'>1.&nbsp;Mo&nbsp;6,17</a>.
  }
  {
@@ -706,6 +703,8 @@
 #}
 #1mo-2-18 {
  {
+  <i>Hifle</i>: <span class='hebr'>עֵזֶר</span> (Strongs 5828) wird in Sch2K mit «Gehilfin» übersetzt. «Hilfe» ist wörtlicher.
+  <br>
   Beachte: die Hilfe wird nach dem Gebot gegeben, offenbar sollte sie Adam helfen, das Gebot zu halten.
  }
 #}
@@ -56462,8 +56461,8 @@
 #}
 #lk-4-28 {
  {
-  <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
-  <br>Beachte: hier werden die Leute in der Synagoge voll Zorn, in <a href='http://bibel.renenyffenegger.ch/mk_3.html#v5'>Mk&nbsp;3,5</a> wird der Herr voll Zorn.
+  <i>Zorn in den Evangelien</i>: §+mt-3-7.
+  <br>Beachte: hier werden die Leute in der Synagoge voll Zorn, in §mk-3-5 wird der Herr voll Zorn. Vgl auch §apg-19-28
  }
  {
   TODO: Werden sie voll Zorn, weil der Herr andeutet, dass die Rettung nicht auf die Israeliten beschränkt ist?
@@ -57755,7 +57754,9 @@
 #}
 #lk-21-23 {
  {
-  <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
+  <i>Zorn in den Evangelien</i>: §+mt-3-7.
+  <br>
+  <i>Zorn über dieses Volk</i> vgl §1thes-2-16
  }
 #}
 #lk-21-24 {
@@ -63774,15 +63775,17 @@
  {
   Vgl <i>Appolonia</i> mit <i>Apollo</i> §apg-18-24.
  }
+ {
+  <span class='gt'>NA hat «<i>die</i> Synagoge der Juden».</span>
+ }
 #}
 #apg-17-2 {
  {
   <i>Nach der Gewohnheit am Sabbat in die Synagoge gehen</i>: vgl <a class='kom' href='#Ilk-4-16'>Lk&nbsp;4,16</a>.
  }
  {
-  TODO: Obwohl Paulus (und ?) Tag und Nacht arbeiteten, um niemand zur Last zu fallen, haben die Philipper zwei Mal etwas zur Deckung seiner
-  Bedürfnisse geschickt. (<a href='http://bibel.renenyffenegger.ch/1thes_2.html#v9'>1.&nbsp;Thes&nbsp;2,9</a> und <a href='http://bibel.renenyffenegger.ch/phil_4.html#v16'>Phil&nbsp;4,16</a>).
-  Bedeutet das auch, dass Paulus länger als drei Wochen in Thessalonich blieb?
+  Obwohl → biblisches/Personen/Paulus/ (und ?) Tag und Nacht arbeiteten, um niemand zur Last zu fallen, haben die Philipper zwei Mal etwas zur Deckung seiner
+  Bedürfnisse geschickt. (§1thes-2-9 und §phil-4-16). Bedeutet das auch, dass Paulus länger als drei Wochen in Thessalonich blieb?
  }
 #}
 #apg-17-3 {
@@ -63815,6 +63818,9 @@
 #apg-17-5 {
  {
   <i>Die Juden aber wurden voll Neides</i> vgl §5mo-32-21, §roem-10-19 («Ich will euch zur Eifersuch Reizen») und §roem-11-14
+ }
+ {
+  Vers 5-9: die Thessalonicher haben das Wort «in vieler Drangsal mit Freude des Heiligen Geistes» aufgenommen §1thes-1-6
  }
 #}
 #apg-17-6 {
@@ -64280,6 +64286,11 @@
 #apg-19-25 {
  {
   TODO: 'Gewerbe' (Strongs 2039): dasselbe Wort wie für <i>Gewinn</i> in Vers 24.
+ }
+#}
+#apg-19-28 {
+ {
+  <i>voll Wut</i> vgl §+lk-4-28.
  }
 #}
 #apg-19-29 {
@@ -65788,6 +65799,9 @@
 #roem-2-5 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+ }
+ {
+  <i>Tag des Zorns</i> und <i>gerechtes Gericht Gottes</i> vgl §offb-11-18
  }
 #}
 #roem-2-8 {
@@ -72749,7 +72763,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-4-16 {
  {
-  <i>einmal und zweimal</i> §1thes-2-18
+  <i>einmal und zweimal</i> §1thes-2-18, §+agp-17-2
  }
  {
   TODO: Sind die Philipper diesselben wie die Mazedonier, die Paulus' Mangel ausgefüllt hatten (<a href='http://bibel.renenyffenegger.ch/2kor_11.html#v9'>2.&nbsp;Kor&nbsp;11,9</a>).
@@ -73464,6 +73478,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer, vgl §1thes-2-14
  }
+ {
+  <i>in vieler Drangsal</i> vgl §apg-17-5-9
+ }
 #}
 #1thes-1-7 {
  {
@@ -73499,7 +73516,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-1-10 {
  {
-  <i>Vor dem Zorn erretten</i>: Vgl §+roem-5-9, §1thes2-16
+  <i>Vor dem Zorn erretten</i>: Vgl §+roem-5-9, §1thes-2-16
  }
  {
   Vgl mit der «Offenbarung des Herrn Jesus vom Himmel her» in <a href='http://bibel.renenyffenegger.ch/2thes_1.html#v7'>2.&nbsp;Thes&nbsp;1,7</a>.
@@ -73582,6 +73599,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte: es ist offenbar möglich, Tag und Nacht zu arbeiten <i>und</i> das Evangelium zu verkündigen. TODO: Möglicherweise
   unterstützte die Arbeit sie sogar bei der Verkündigung (beachte das Wort 'dabei').
  }
+ {
+  §+agp-17-2
+ }
 #}
 #1thes-2-11 {
  {
@@ -73605,7 +73625,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-2-13 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  <i>Paulus dankt Gott</i>: §+roem-1-8.
+ }
+ {
+  <i>Menschenwort</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott
  }
 #}
 #1thes-2-14 {
@@ -73637,6 +73660,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>erretten</i> und <i>Zorn</i>: §+1thes-1-10.
+ }
+ {
+  <i>der Zorn ist völlig über sie gekommen</i> vgl §lk-21-23
  }
 #}
 #1thes-2-17 {
@@ -82152,6 +82178,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Lohn</i>: <a class='kom' href='#I1kor-3-8'>1.&nbsp;Kor&nbsp;3,8</a>.
+ }
+ {
+  <i>dein Zorn ist gekommen und die Zeit der Toten, um gerichtet zu werden…</i> vgl §roem-2-5
  }
 #}
 #offb-11-19 {
