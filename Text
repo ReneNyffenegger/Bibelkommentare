@@ -63605,11 +63605,13 @@
 #}
 #apg-16-6 {
  {
-  Siehe <a class='kom' href='#I1petr-1-1'>1.&nbsp;Petr&nbsp;1,1</a>.
+  <i>vom Heiligen Geist verhindert</i> und <i>der Geist Jesu erlaubte es ihnen nicht</i> vgl §1thes-2-18
  }
  {
-  In <a href='http://bibel.renenyffenegger.ch/apg_19.html#v10'>Apg&nbsp;19,10</a> hören dann doch alle in Asia das Wort des Herrn durch Paulus.
-  Siehe auch <a href='http://bibel.renenyffenegger.ch/apg_20.html#v18'>Apg&nbsp;20,18</a>.
+  Siehe §+1petr-1-1.
+ }
+ {
+  In §apg-19-10 hören dann doch alle in Asia das Wort des Herrn durch Paulus.  Siehe auch §apg-20-18.
  }
  {
   TODO: <a class='kom' href='#Iapg-8-36'>Apg&nbsp;8,36</a>.
@@ -69275,6 +69277,11 @@
   <br>Vgl auch <a class='kom' href='#Imt-11-11'>Mt&nbsp;11,11</a>.
  }
 #}
+#1kor-15-10 {
+ {
+  <i>seine Gnade gegen mich ist nicht vergeblich gewesen</i> vgl §2kor-6-1
+ }
+#}
 #1kor-15-12 {
  {
   <i>Aus den Toten auferstanden</i>: <a class='kom' href='#I1kor-1-23'>1.&nbsp;Kor&nbsp;1,23</a>.
@@ -69991,6 +69998,11 @@
 #}
 @}
 @2. Korinther 6 {
+#2kor-6-1 {
+ {
+  <i>dass ihr die Gnade Gottes nicht vergeblich empfangt</i> vgl §1kor-15-10.
+ }
+#}
 #2kor-6-2 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/jes_49.html#v8'>Jes&nbsp;49,8</a>.
@@ -70701,7 +70713,7 @@
 #}
 #gal-2-2 {
  {
-  <i>vergeblich laufen</i>: <a href='http://bibel.renenyffenegger.ch/gal_4.html#v11'>Gal&nbsp;4,11</a>.
+  <i>vergeblich laufen</i> vgl §+phil-2-16
  }
  {
   TODO: <span class='gr'>κατ᾽ ἰδίαν</span> (Strongs 2596+2398): <a class='kom' href='#Imt-14-13'>Mt&nbsp;14,13</a>.
@@ -71014,7 +71026,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-4-11 {
  {
-  <i>vergeblich laufen</i>: <a class='kom' href='#Igal-2-2'>Gal&nbsp;2,2</a>.
+  <i>vergeblich an euch gearbeitet</i> vgl §+phil-2-16
  }
 #}
 #gal-4-13 {
@@ -72493,6 +72505,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Tag des Christus</i>: <a class='kom' href='#Iphil-1-10'>Phil&nbsp;1,10</a>,
   <a class='kom' href='#I1kor-1-8'>1.&nbsp;Kor&nbsp;1,8</a>.
  }
+ {
+  <i>vergeblich laufen</i> vgl §gal-2-2. <i>vergeblich arbeiten</i> vgl §gal-4-11
+ }
 #}
 #phil-2-17 {
  {
@@ -72548,7 +72563,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-2-26 {
  {
-   <i>ihn verlangte sehnlich</i>: §+phil-1-8.
+   <i>ihn verlangte sehnlich</i>: §+phil-1-8, §+1thes-2-8
  }
 #}
 #phil-2-30 {
@@ -73562,7 +73577,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Mit dem Evangelium betraut</i>: <a class='kom' href='#Iroem-1-1'>Röm&nbsp;1,1</a>.
  }
  {
-  Vgl §gal-1-10
+  <i>nicht um Menschen zu gefallen, sondern Gott</i> vgl §gal-1-10
+ }
+ {
+  <i>von Gott bewährt sein</i> vgl §2tim-2-15
  }
 #}
 #1thes-2-5 {
@@ -73587,7 +73605,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-2-8 {
  {
-  <i>sehnliches Verlangen nach euch</i>: §roem-1-11, §V1thes-2-17, §1thes-3-6.
+  <i>sehnliches Verlangen nach euch</i>: §roem-1-11, §V1thes-2-17, §1thes-3-6, §phil-2-26
  }
 #}
 #1thes-2-9 {
@@ -73672,6 +73690,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-2-18 {
  {
+  <i>Der Satan hat uns verhindert</i> vgl §apg-16-6 («vom Heiligen Geist verhindert») und §apg-16-7 («der Geist Jesu erlaubte es ihnen nicht»)
+ <br>
   Beachte: die Absichten des Satans sind 'ihnen' nicht unbekannt (<a href='http://bibel.renenyffenegger.ch/2kor_2.html#v11'>2.&nbsp;Kor&nbsp;2,11</a>).
  }
  {
@@ -75398,6 +75418,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Wahrheit
+ }
+ {
+  <i>Dich Gott als bewährt zu erweisen</i> vgl §1thes-2-4
  }
 #}
 #2tim-2-16 {
