@@ -37937,6 +37937,11 @@
   'Zepter' (Strongs 4294): dasselbe Wort wie für Stab, siehe <a class='kom' href='#I1mo-38-18'>1.&nbsp;Mo&nbsp;38,18</a>.
  }
 #}
+#ps-110-5 {
+ {
+  TODO: Vgl §lk-1-52
+ }
+#}
 @}
 }
 { 111-120
@@ -38656,6 +38661,11 @@
  {
   TODO: <i>Hals</i>: <a href='http://bibel.renenyffenegger.ch/spr_3.html#v3'>Spr&nbsp;3,3</a>, <a href='http://bibel.renenyffenegger.ch/spr_3.html#v22'>Spr&nbsp;3,22</a>,
   <a href='http://bibel.renenyffenegger.ch/spr_6.html#v21'>Spr&nbsp;6,21</a>.
+ }
+#}
+#spr-1-16 {
+ {
+  Vgl §roem-3-15, §jes-59-7
  }
 #}
 #spr-1-17 {
@@ -42990,6 +43000,16 @@
 #}
 @}
 @Jesaja 59 {
+#jes-59-7 {
+ {
+  Vgl §spr-1-16, §roem-3-15
+ }
+#}
+#jes-59-8 {
+ {
+  <i>Weg des Friedesn</i> §lk-1-79, §roem-3-17
+ }
+#}
 #jes-59-14 {
  {
   <i>gestrauchelte Wahrheit</i> vgl §+dan-8-12.
@@ -44804,6 +44824,11 @@
 #jer-32-22 {
  {
   §jer-11-5
+ }
+#}
+#jer-32-27 {
+ {
+  Vgl §lk-1-37
  }
 #}
 #jer-32-29 {
@@ -51176,6 +51201,11 @@
   <i>Zabulon, Nephalim</i>, <i>das Volk, das in Finsternis sass</i>: vgl §+jes-8-23, §jes-9-1.
  }
 #}
+#mt-4-16 {
+ {
+  Vgl §lk-1-79, §lk-1-79
+ }
+#}
 #mt-4-17 {
  {
   <i>Tut Busse...das Reich der Himmel ist nahe herbeigekommen</i> : <a class='kom' href='#Imt-3-2'>Mt&nbsp;3,2</a>.
@@ -55955,6 +55985,8 @@
 #lk-1-12 {
  {
   Zacharias erschrak, als er den Engel sah, Maria über sein Wort, als sie ihn sah (Vers 29).
+ <br>
+ <i>Furcht</i> vgl §Vlk-1-65, §Vlk-1-74
  }
 #}
 #lk-1-15 {
@@ -55992,6 +56024,9 @@
 #}
 #lk-1-28 {
  {
+  <i>gesegnet bist du unter den Frauen</i> vgl §Vlk-1-42
+ }
+ {
    <span class='gt'>In NA fehlt: «gesegnet bist du unter den Frauen»</span>
  }
 #}
@@ -56004,6 +56039,16 @@
 #lk-1-36 {
  {
   Elisabeth, die Verwandte von Maria, ist aus von den Töchtern Aarons.
+ }
+#}
+#lk-1-37 {
+ {
+  Vgl §jer-32-2h
+ }
+#}
+#lk-1-52 {
+ {
+  TODO: vgl §ps-110-5
  }
 #}
 #lk-1-59 {
@@ -56031,6 +56076,19 @@
 #lk-1-74 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
+ }
+#}
+#lk-1-76 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
+ }
+#}
+#lk-1-79 {
+ {
+  <i>Weg des Friedens</i> §roem-3-17, §jes-59-8
+ }
+ {
+  <i>in Finsternis und Todesschatten sitzen</i> vgl §mt-4-16
  }
 #}
 @}
@@ -65882,6 +65940,16 @@
 #roem-3-4 {
  {
   Vgl <a class='kom' href='#Ips-51-6'>Ps&nbsp;51,6</a>.
+ }
+#}
+#roem-3-15 {
+ {
+  Vgl §spr-1-16, §jes-59-7
+ }
+#}
+#roem-3-17 {
+ {
+  <i>Weg des Friedens</i> §lk-1-79, §jes-59-8
  }
 #}
 #roem-3-20 {
