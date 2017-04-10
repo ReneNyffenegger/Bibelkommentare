@@ -51411,6 +51411,11 @@
   Vgl <a class='kom' href='#Ijak-5-12'>Jak&nbsp;5,12</a>.
  }
 #}
+#mt-5-40 {
+ {
+  Vgl §lk-3-11
+ }
+#}
 #mt-5-43 {
  {
   Beachte, dass es dieses Gesetz (du sollst deinen Feind hassen) gar nicht gab. Deshalb <i>...das gesagt ist</i>.
@@ -52835,7 +52840,10 @@
 #}
 #mt-15-24 {
  {
-  <i>Verlorene Schafe des Hauses Israel</i>: <a class='kom' href='#Imt-10-6'>Mt&nbsp;10,6</a>.
+  <i>Verlorene Schafe des Hauses Israel</i>: §+mt-10-6.
+ }
+ {
+  <i>gesandt</i> vgl §lk-4-43, §joh-3-17
  }
 #}
 #mt-15-29 {
@@ -53409,8 +53417,9 @@
 #}
 #mt-21-18 {
  {
-  Jesus hat Hunger (vgl <a href='http://bibel.renenyffenegger.ch/mk_11.html#v12'>Mk&nbsp;11,12</a>). Bedeutet das, dass er darauf wartete, den Willen des Vaters zu tun und sein Werk zu
-  vollenden (<a href='http://bibel.renenyffenegger.ch/joh_4.html#v34'>Joh&nbsp;4,34</a>).
+  Jesus hat Hunger (vgl §mk-11-12). Bedeutet das, dass er darauf wartete, den Willen des Vaters zu tun und sein Werk zu
+  vollenden (§joh-4-34).
+  <br>Vgl §lk-4-2
  }
 #}
 #mt-21-19 {
@@ -56295,7 +56304,7 @@
 #}
 #lk-3-2 {
  {
-  TODO: Hannas ist der Schwiegervater von Kajaphas (<a class='kom' href='#Ijoh-18-13'>Joh&nbsp;18,13</a>)
+  Annas ist der Schwiegervater von Kajaphas (§+joh-18-13)
  }
 #}
 #lk-3-3 {
@@ -56319,6 +56328,11 @@
 #lk-3-7 {
  {
   <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
+ }
+#}
+#lk-3-11 {
+ {
+  Vgl §mt-5-40
  }
 #}
 #lk-3-14 {
@@ -56420,6 +56434,11 @@
   mit «Einöde») getrieben.
  }
 #}
+#lk-4-2 {
+ {
+  Jesus hungert: vgl §+mt-21-18
+ }
+#}
 #lk-4-3 {
  {
   <i>Wenn du Gottes Sohn bist</i>: vgl mit dem Geschlechtsregister in
@@ -56445,7 +56464,7 @@
 #}
 #lk-4-14 {
  {
-  <i>Gerücht</i>: <a class='kom' href='#Imt-9-26'>Mt&nbsp;9,26</a>.
+  <i>Gerücht</i>: §Vlk-4-37, §+mt-9-26.
  }
  {
   TODO: Johannes der Täufer hätte wurde etwa jetzt gefangengesetzt, doch Lukas schreibt nicht darüber: <a class='kom' href='#Imt-4-12'>Mt&nbsp;4,12</a>.
@@ -56534,6 +56553,11 @@
   Chronologie: <a class='kom' href='#Ilk-4-23'>Lk&nbsp;4,23</a>.
  }
 #}
+#lk-4-35 {
+ {
+  Beachte: Jesus <i>bedrohte</i> auch das Fieber der Schwiegermutter des Simon §Vlk-4-39
+ }
+#}
 #lk-4-43 {
  {
   Der Herr <i>muss</i>: <a class='kom' href='#Ilk-9-22'>Lk&nbsp;9,22</a>, <a href='http://bibel.renenyffenegger.ch/lk_12.html#v50'>Lk&nbsp;12,50</a>,
@@ -56547,6 +56571,9 @@
   <a href='http://bibel.renenyffenegger.ch/joh_4.html#v4'>Joh&nbsp;4,4</a>,
   <a href='http://bibel.renenyffenegger.ch/joh_9.html#v4'>Joh&nbsp;9,4</a>,
   <a href='http://bibel.renenyffenegger.ch/joh_10.html#v16'>Joh&nbsp;10,16</a>.
+ }
+ {
+  <i>denn dazu bin ich gesandt worden</i> vgl §+mt-15-24, §lk-4-18
  }
 #}
 @}
@@ -60235,8 +60262,7 @@
 #}
 #joh-18-13 {
  {
-  Hannas und Kajaphas werden auch in <a href='http://bibel.renenyffenegger.ch/lk_3.html#v2'>Lk&nbsp;3,2</a>
-  und <a href='http://bibel.renenyffenegger.ch/apg_4.html#v6'>Apg&nbsp;4,6</a> erwähnt.
+  Annas und Kajaphas werden auch in §lk-3-2 und §apg-4-6 erwähnt.
  }
  {
    TODO: Sind das dieselben Hannas und Kajaphas wie in <a href='http://bibel.renenyffenegger.ch/apg_4.html#v6'>Apg&nbsp;4,6</a> (wo aber Hannas
