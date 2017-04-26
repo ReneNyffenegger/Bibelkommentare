@@ -13123,7 +13123,7 @@
   von tieferliegenden Hautmalen.
  }
  {
-  TODO: Micha soll sich eine Glatze scheren (<a href='http://bibel.renenyffenegger.ch/mi_1.html#v16'>Mi&nbsp;1,16</a>), dort zwar anders übersetzt, aber dieselben Strongs Wörter.
+  Micha soll sich eine Glatze scheren (§mi-1-16), dort zwar anders übersetzt, aber dieselben Strongs Wörter.
  }
 #}
 #3mo-21-6 {
@@ -47000,6 +47000,11 @@
   <i>Warnen</i>: <a class='kom' href='#Ihes-3-17'>Hes&nbsp;3,17</a>.
  }
 #}
+#hes-33-4 {
+ {
+  <i>Sein Blut auf seinem Kopf</i> vgl §apg-18-5-6
+ }
+#}
 #hes-33-31 {
  {
   <i>Becher</i> (Strongs 3563): <a class='kom' href='#I1mo-40-11'>1.&nbsp;Mo&nbsp;40,11</a>.
@@ -49617,8 +49622,9 @@
 #}
 #mi-1-16 {
  {
-  Das Gesetz verbietet, sich eine Glatze zu scheren (<a class='kom' href='#I3mo-21-5'>3.&nbsp;Mo&nbsp;21,5</a>).
-  <br><a class='kom' href='#I3mo-13-40'>3.&nbsp;Mo&nbsp;13,40</a>.
+  Das Gesetz verbietet, sich eine Glatze zu scheren (§+3mo-21-5).
+  <br>
+  §+3mo-13-40.
  }
 #}
 @}
@@ -50914,8 +50920,8 @@
 #}
 #mt-2-18 {
  {
-  <i>trösten</i> (<span class='gr'>παρακαλέω</span>, Strongs 3870), sonst häufig mit
-  'ermahnen', 'ermutigen' oder 'bitten' (TODO: <a class='kom' href='#Imt-8-5'>Mt&nbsp;8,5</a>) übersetzt.
+  <i>trösten</i> (<span class='gr'>παρακαλέω</span>, Strongs 3870), sonst häufig mit «ermahnen», «ermutigen» oder «bitten» (TODO: §+mt-8-5) übersetzt.
+  S.a. §+1thes-4-18
  }
  {
   <i>Rama</i>: <a class='kom' href='#Ijos-18-25'>Jos&nbsp;18,25</a>.
@@ -58015,7 +58021,7 @@
 #}
 #lk-22-61 {
  {
-  → biblisches/Personen/Petrus gedenkt auch in §apg-11-16 des <i>Wortes des Herrn</i>
+  → biblisches/Personen/Petrus gedenkt auch in §apg-11-16 des → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wortes des Herrn]
  }
 #}
 #lk-22-66 {
@@ -62064,7 +62070,10 @@
 #}
 #apg-8-25 {
  {
-  TODO: <i>bezeugt</i> (<span class='gr'>διαμαρτύρομαι</span>, Strongs 1263) <a class='kom' href='#Iapg-2-40'>Apg&nbsp;2,40</a>.
+  TODO: <i>bezeugt</i> (<span class='gr'>διαμαρτύρομαι</span>, Strongs 1263) §+apg-2-40.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
  }
 #}
 #apg-8-26 {
@@ -62733,7 +62742,7 @@
 #}
 #apg-11-16 {
  {
-  → biblisches/Personen/Petrus gedenkt auch in §lk-22-61 des <i>Wortes des Herrn</i>
+  → biblisches/Personen/Petrus gedenkt auch in §lk-22-61 des → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wortes des Herrn].
  }
  {
   Der Herr sagt 'Johannes hat mir Wasser getauft, ihr aber sollte mit Heiligem Geist getauft werden' in
@@ -63315,6 +63324,11 @@
   <i>Ende der Erde</i>: <a class='kom' href='#Iapg-1-8'>Apg&nbsp;1,8</a>.
  }
 #}
+#apg-13-48 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
+ }
+#}
 #apg-13-50 {
  {
    Ist diese Verfolgung eine der Leiden, die Paulus in Antiochia widerfuhr (<a class='kom' href='#I2tim-3-11'>2.&nbsp;Tim&nbsp;3,11</a>)?
@@ -63612,6 +63626,11 @@
   <span class='gt'>NA und MT lassen diesen Vers weg</span>.
  }
 #}
+#apg-15-35 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
+ }
+#}
 #apg-15-39 {
  {
   Beachte: Barnabas ist gebürtiger Zypriot (<a href='http://bibel.renenyffenegger.ch/apg_4.html#v36'>Apg&nbsp;4,36</a>).
@@ -63834,6 +63853,11 @@
  }
  {
   TODO: Bezieht sich <i>gerettet</i> auf die Ewigkeit?
+ }
+#}
+#apg-16-32 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
  }
 #}
 #apg-16-33 {
@@ -64114,11 +64138,14 @@
 #}
 #apg-18-6 {
  {
-  Paulus ist rein vom Blut: <a href='http://bibel.renenyffenegger.ch/apg_20.html#v26'>Apg&nbsp;20,26</a>.
+  Paulus ist rein vom Blut: §apg-20-26.
+  <br>
+   Vgl §hes-33-4
  }
  {
-  TODO: <i>erst Juden, dann Heiden</i>: <a class='kom' href='#Iapg-13-46'>Apg&nbsp;13,46</a>.
-  <br>Vgl <a class='kom' href='#Iapg-18-19'>Apg&nbsp;18,19</a>.
+  <i>erst Juden, dann Heiden</i>: §+apg-13-46.
+ <br>
+  Vgl §+apg-18-19.
  }
 #}
 #apg-18-8 {
@@ -64184,8 +64211,7 @@
 #}
 #apg-18-19 {
  {
-   TODO: Obwohl Paulus in Korinth noch sagte, er gehe jetzt zu den Heiden (<a href='http://bibel.renenyffenegger.ch/apg_18.html#v6'>Apg&nbsp;18,6</a>), geht er
-   jetzt doch zuerst zu den Juden. (<a href='http://bibel.renenyffenegger.ch/apg_13.html#v46'>Apg&nbsp;13,46</a>).
+  Obwohl Paulus in Korinth noch sagte, er gehe jetzt zu den Heiden (§apg-18-6), geht er jetzt doch zuerst zu den Juden. (§apg-13-46).
  }
 #}
 #apg-18-21 {
@@ -64318,6 +64344,9 @@
  {
   <i>Juden und Griechen</i>: auch in Vers 17.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
+ }
 #}
 #apg-19-11 {
  {
@@ -64335,6 +64364,11 @@
 #apg-19-19 {
  {
   <i>Bücher</i> siehe auch <a class='kom' href='#Imt-1-1'>Mt&nbsp;1,1</a>.
+ }
+#}
+#apg-19-20 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
  }
 #}
 #apg-19-21 {
@@ -64665,6 +64699,11 @@
 #apg-20-34 {
  {
   <a class='kom' href='#Iapg-17-10'>Apg&nbsp;17,10</a>.
+ }
+#}
+#apg-20-35 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
  }
 #}
 #apg-20-36 {
@@ -66111,6 +66150,11 @@
   <i>Vater vieler Nationen</i>: §1mo-17-5
  }
 #}
+#roem-4-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+ }
+#}
 #roem-4-20 {
  {
   <i>Ehre</i> (<span class='gr'>δόξα</span>, Strongs 1391) wird an andern Orten mit 'Herrlichkeit' übersetzt (Zb in
@@ -66141,7 +66185,7 @@
 #}
 #roem-5-2 {
  {
-  <i>Sich der Hoffnung der Herrlichkeit rühmen</i>: vgl §roem-8-17, §kol-3-4, §joh-17-22.
+  <i>Sich der → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung der Herrlichkeit rühmen</i>: vgl §roem-8-17, §kol-3-4, §joh-17-22.
  }
 #}
 #roem-5-3 {
@@ -66402,6 +66446,9 @@
 #roem-8-21 {
  {
   Von der Knechtschaft zur → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit §2mo-21-2, → biblisches/Texte/Knechtschaft-Freiheit
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
 #}
 #roem-8-22 {
@@ -66874,7 +66921,7 @@
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/hebr_13.html#v15'>Hebr&nbsp;13,15</a>.
  }
  {
-  Werden diese Gott wohlgefälligen Opfer und der vernünftige Gottesdienst in den nachfolgenden Versen, insbesonder ab Vers 9,
+  Werden diese Gott wohlgefälligen Opfer und der vernünftige Gottesdienst in den nachfolgenden Versen, insbesonders ab Vers 9,
   beschrieben?
  }
  {
@@ -66886,7 +66933,7 @@
   Das griechische Verb für 'anpassen' ist <span class='gr'>συσχηματίζω</span> (Strongs 4964) und
   steht im <i>Präsens <b>Passiv</b> Imperativ</i>, nicht im Aktiv (<span class='gr'>συσχηματιζεσθε</span>). TODO: wäre es eventuell besser übersetzt
   mit 'werdet nicht angepasst' (weil einem die Welt anpasst)?
-  <br>Das Wort enthät den Stamm <i>Schema</i>.
+  <br>Das Wort enthält den Stamm <i>Schema</i>.
   <br>Dasselbe Verb kommt übrigens auch in <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v14'>1.&nbsp;Petr&nbsp;1,14</a> vor.
  }
  {
@@ -66894,6 +66941,9 @@
   vor in <a href='http://bibel.renenyffenegger.ch/mt_17.html#v2'>Mt&nbsp;17,2</a>, <a href='http://bibel.renenyffenegger.ch/mk_9.html#v2'>Mk&nbsp;9,2</a>
   und <a href='http://bibel.renenyffenegger.ch/2kor_3.html#v18'>2.&nbsp;Kor&nbsp;3,18</a>. In den Evangelien wird es mit 'verklärt'
   übersetzt.
+ }
+ {
+  <i>damit ihr prüfen mögt …</i> vgl §eph-5-10, §phil-1-10, §1thes-5-21
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott
@@ -66951,8 +67001,7 @@
 #}
 #roem-12-12 {
  {
-  In Trübsal ausharren (<span class='gr'>ὑπομένω</span>, Strongs 5278) vgl <a class='kom' href='#Iroem-5-3'>Röm&nbsp;5,3</a>,
-  <a href='http://bibel.renenyffenegger.ch/2kor_6.html#v4'>2.&nbsp;Kor&nbsp;6,4</a>.
+  In Trübsal ausharren (<span class='gr'>ὑπομένω</span>, Strongs 5278) vgl §+roem-5-3, §2kor-6-4.
  }
 #}
 #roem-12-13 {
@@ -67154,7 +67203,7 @@
 #}
 #roem-15-4 {
  {
-  TODO: vgl <i>Ausharren</i> und <i>Hoffnung</i> mit <a class='kom' href='#Iroem-5-3'>Röm&nbsp;5,3</a>.
+  vgl <i>Ausharren</i> und → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung mit §+roem-5-3.
  }
 #}
 #roem-15-5 {
@@ -67215,7 +67264,7 @@
 #}
 #roem-15-13 {
  {
-  Vgl <i>Gott der Hoffnung</i> mit <a href='http://bibel.renenyffenegger.ch/roem_15.html#v5'>Vers 5</a>
+  Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#gott-des-der[Gott der] → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung mit §Vroem-15-5
  }
  {
   <i>Kraft</i>: <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a>.
@@ -67321,6 +67370,10 @@
  }
  {
   <i>Liebe des Geistes</i> vgl §kol-1-8
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Ermahnung/#ermahne-euch-brueder[Ich ermahne euch aber, Brüder]. Elberfelder übersetzt <i>Ich ermahne</i> mit »Ich bitte«,
+  obwohl es in §roem-12-1 und §roem-16-17 dasselbe Verb ist (<span class='gr'>παρακαλέω</span>, Strongs 3870).
  }
 #}
 #roem-15-31 {
@@ -67601,7 +67654,7 @@
   <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v3'>2.&nbsp;Thes&nbsp;2,3</a>.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung, → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
  {
   <i>Gnadengabe</i> (<span class='gr'>χάρισμα</span>, Strongs 5486): jeder hat seine Gnadengabe von Gott
@@ -67896,6 +67949,12 @@
 #1kor-3-13 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+ }
+ {
+  <i>prüfen</i> (<span class='gr'>δοκιμάζω</span>) wird in Elb mit »bewähren«, in Sch2K mit »erproben«, in KJV mit »try« übersetzt. Vgl das <i>geprüfte Werk</i>
+  mit §gal-6-4
+  <br>
+   <i>im Feuer geprüft</i> vgl §1petr-1-7
  }
 #}
 #1kor-3-15 {
@@ -68604,6 +68663,11 @@
   Vgl auch <a class='kom' href='#I1tim-5-18'>1.&nbsp;Tim&nbsp;5,18</a>
  }
 #}
+#1kor-9-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+ }
+#}
 #1kor-9-11 {
  {
    TODO: KJV übersetzt mit 'spiritual things' und 'carnal things', vgl <a class='kom' href='#I1kor-3-1'>1.&nbsp;Kor&nbsp;3,1</a>.
@@ -69239,7 +69303,7 @@
 #}
 #1kor-14-29 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1thes_5.html#v21'>1.&nbsp;Thes&nbsp;5,21</a>.
+  <i>Die anderen lasst urteilen</i> vgl §1thes-5-21.
  }
  {
   TODO: bezieht 'die anderen' auf die Propheten oder auf alle Anwesenden?
@@ -69392,6 +69456,11 @@
 #1kor-15-18 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+ }
+#}
+#1kor-15-19 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
 #}
 #1kor-15-20 {
@@ -69942,6 +70011,11 @@
   TODO <i>Dienst des Geistes</i>: <a class='kom' href='#Iapg-6-2'>Apg&nbsp;6,2</a>.
  }
 #}
+#2kor-3-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+ }
+#}
 #2kor-3-13 {
  {
   <i>Decke</i> vgl §+2mo-34-33-ff
@@ -70381,6 +70455,11 @@
  }
  {
   TODO: <i>Wirkungskreis</i>: <span class='gr'>κανών</span> (Strongs 2583).
+ }
+#}
+#2kor-10-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
 #}
 @}
@@ -71197,6 +71276,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>losgetrennt</i>: <span class='gr'>ἐκπίπτω</span> (Strongs 1601), eigentlich «gefallen von».
  }
 #}
+#gal-5-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+ }
+#}
 #gal-5-6 {
  {
   <i>Weder Beschneidung noch Vorhaut vermag etwas</i> §gal-6-15 und §+1kor-7-19.
@@ -71353,6 +71437,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #gal-6-2 {
  {
   Vgl §+roem-15-1, §Vgal-6-5
+ }
+#}
+#gal-6-4 {
+ {
+  <i>jeder prüfe sein eigenes Werk</i> vgl §1kor-3-13
  }
 #}
 #gal-6-5 {
@@ -71558,10 +71647,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Erleuchtet an den Augen ihres Herzens</i>: vgl §apg-26-18
  }
+ {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung seiner Berufung</i> vgl §eph-4-4
+ }
 #}
 #eph-1-19 {
  {
-  TODO <i>Kraftwirkung</i> (Strongs 1411) wohl besser übersetzt mit 'Kraft'). Vgl <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a>
+  <i>Kraft</i> (Strongs 1411) in Sch2K übersetzt mit »Kraftwirkung«. Vgl §+roem-1-16
  }
 #}
 #eph-1-20 {
@@ -71659,6 +71751,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-2-12 {
  {
   <i>Bürgerrecht</i> §eph-2-19
+ }
+ {
+  <i>Keine → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung haben</i> vgl §1thes-4-13
  }
 #}
 #eph-2-13 {
@@ -71885,6 +71980,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <i>berufen zu</i> <a class='kom' href='#Ikol-3-15'>Kol&nbsp;3,15</a>
  }
  {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung eurer Berufung</i> vgl §eph-1-18
+ }
+ {
   <i>Leib des Christus</i>: <a class='kom' href='#Iroem-12-5'>Röm&nbsp;12,5</a>. Vgl auch Verse 12-16.
          <br>
   <i>Ein Leib</i>: §1kor-10-17, §1kor-12-12,
@@ -72077,6 +72175,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <span class='gt'>NA hat «Frucht des Lichtes</span>. Dies ist interessant, weil hier die Frucht von X (Licht oder Geist) den unfruchtbaren Werken der Finsternis (V. 11) gegenübergestellt werden,
   in <a href='http://bibel.renenyffenegger.ch/gal_5.html#v19'>Gal&nbsp;5,19 ff</a> die «Werke des Fleisches» der «Frucht des Geistes». Es scheint also zumindest eine gute Argumentation zu geben,
   dass hier eigentlich «Frucht des Lichts» richtig wäre.
+ }
+#}
+#eph-5-10 {
+ {
+   Vgl §roem-12-2
  }
 #}
 #eph-5-11 {
@@ -72425,6 +72528,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Tag des Christus</i>: <a href='http://bibel.renenyffenegger.ch/phil_2.html#v16'>Phil&nbsp;2,16</a>, <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v2'>2.&nbsp;Thes&nbsp;2,2</a>.
  }
+ {
+  <i>dait ihr prüfen mögt…</i> vgl §roem-12-2 
+ }
 #}
 #phil-1-13 {
  {
@@ -72448,6 +72554,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   TODO: Beachte <i>(Er-)Rett(ung/er)</i> im Philipperbrief <a href='http://bibel.renenyffenegger.ch/phil_1.html#v28'>Phil&nbsp;1,28</a>, <a href='http://bibel.renenyffenegger.ch/phil_2.html#v12'>Phil&nbsp;2,12</a>,
   <a href='http://bibel.renenyffenegger.ch/phil_3.html#v20'>Phil&nbsp;3,20</a>.
+ }
+#}
+#phil-1-20 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
 #}
 #phil-1-22 {
@@ -72964,6 +73075,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Wahrheit
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, vgl §Vkol-1-23, §Vkol-1-7.
+  <br>Vgl die im Himmel aufgehobene Hoffnung mit der »Hoffnung, die in euch ist« §1petr-3-15
+ }
 #}
 #kol-1-6 {
  {
@@ -73086,6 +73201,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl <a class='kom' href='#Imk-16-15'>Mk&nbsp;16,15</a>.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, vgl §Vkol1-5
+ }
 #}
 #kol-1-25 {
  {
@@ -73106,6 +73224,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Vgl §eph-3-5
+ }
+#}
+#kol-1-27 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
 #}
 #kol-1-28 {
@@ -73555,7 +73678,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Werk im Glauben</i>: <a class='kom' href='#Ijak-2-26'>Jak&nbsp;2,26</a>.
  }
  {
-  <i>Glaube, Liebe, Hoffnung</i>: §1thes-5-8, §+1kor-13-13
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Glaube, Liebe, → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung</i>: §1thes-5-8, §+1kor-13-13
   <br>
   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
@@ -73613,6 +73736,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl aber auch §2thes-3-11 (wo vaulus (et al?) hören, dass etliche unordentlich wandeln).
  }
  {
+  <i>… so dass wir es nicht nötig haben, etwas zu sagen</i> vgl §1thes-4-9, §1thes-5-1
  }
 #}
 #1thes-1-9 {
@@ -73811,7 +73935,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <a href='http://bibel.renenyffenegger.ch/1thes_3.html#v13'>1.&nbsp;Thes&nbsp;3,13</a>
  }
  {
-  <i>Hoffnung</i> und <i>Kommen des Herrn Jesus Christus</i>: <a class='kom' href='#I1thes-4-13'>1.&nbsp;Thes&nbsp;4,13</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung und <i>Kommen des Herrn Jesus Christus</i>: §+1thes-4-13.
  }
  {
   TODO: Ist der 1. (und 2.) Thessalonikerbrief speziell dem «Kommen» (in anderen Übersetzungen mit «Wiederkunft» übersetzt) gewidmet? Das Griechische Wort <span class='gr'>παρουσία</span> (Strongs 3952) kommt hier
@@ -73978,7 +74102,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    Die Liebe jedes einzelnen nahm zu, und der Glaube wuchs (<a href='http://bibel.renenyffenegger.ch/2thes_1.html#v3'>2.&nbsp;Thes&nbsp;1,3</a>)
  }
  {
-  <i>so habt ihr nicht nötig, dass wir euch schreiben</i>: §1thes-5-1
+  <i>so habt ihr nicht nötig, dass wir euch schreiben</i> vgl §1thes-1-8 §1thes-5-1
  }
  {
   <i>Bruderliebe</i>: <a class='kom' href='#Iroem-12-10'>Röm&nbsp;12,10</a>.
@@ -74002,10 +74126,18 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-4-13 {
  {
-  <i>Hoffnung</i>: vgl mit <a href='http://bibel.renenyffenegger.ch/1thes_2.html#v19'>1.&nbsp;Thes&nbsp;2,19</a>, ebenfalls im Kontext des «Kommens des Herrn Jesus Christus».
+  <i>Hoffnung</i>: vgl mit §1thes-2-19, ebenfalls im Kontext des «Kommens des Herrn Jesus Christus».
+  <br>
+  <i>Keine → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung haben</i> vgl §eph-2-12
+ }
+ {
+  <i>die übrigen</i> §1thes-5-6
  }
 #}
 #1thes-4-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
+ }
  {
   TODO: <i>Kommen des Herrn</i>: <a class='kom' href='#I1thes-2-19'>1.&nbsp;Thes&nbsp;2,19</a>.
   Ist da <i>wirklich</i> die Entrückung gemeint?
@@ -74038,6 +74170,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Begegnung</i>: <a class='kom' href='#Imt-25-1'>Mt&nbsp;25,1</a>.
  }
 #}
+#1thes-4-18 {
+ {
+  <i>tröstet</i> (<span class='gr'>παρακαλέω</span>, Strongs 3870), in Elberfelder mit »ermuntert« übersetzt. Vgl §1thes-5-11.
+  <br>S.a. §+mt-2-18.
+ }
+#}
 @}
 @1. Thessaloniker 5 {
 #1thes-5-1 {
@@ -74045,7 +74183,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Zeiten oder Zeitpunkte</i>: §+apg-1-7
  }
  {
-   <i>so habt ihr nicht nötig, dass euch geschrieben werde</i>: §1thes-4-9
+   <i>so habt ihr nicht nötig, dass euch geschrieben werde</i>:  vgl §1thes-1-8, §1thes-4-9
  }
 #}
 #1thes-5-2 {
@@ -74082,6 +74220,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <i>Wachen und nüchtern sein</i> siehe auch <a href='http://bibel.renenyffenegger.ch/1petr_5.html#v8'>1.&nbsp;Petr&nbsp;5,8</a>.<br>
    <i>Wachen</i>: <a class='kom' href='#I1kor-16-13'>1.&nbsp;Kor&nbsp;16,13</a>.
  }
+ {
+  <i>die übrigen</i> §1thes-4-13
+ }
 #}
 #1thes-5-8 {
  {
@@ -74091,7 +74232,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Brustpanzer: siehe <a class='kom' href='#Ioffb-9-9'>Offb&nbsp;9,9</a>.
  }
  {
-  <i>Glaube, Liebe, Hoffnung</i>: §1thes-1-3, §1kor-13-13
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Glaube, Liebe, → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung</i>: §1thes-1-3, §1kor-13-13
   <br>
   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
@@ -74109,10 +74250,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <a class='kom' href='#Iroem-14-8'>Röm&nbsp;14,8</a>.
  }
 #}
+#1thes-5-11 {
+ {
+  <i>ermuntert</i>: im Griechischen dasselbe Wort wie für »trösten« in §1thes-4-18. Sch2K übersetzt mit »ermahnt«.
+ }
+#}
 #1thes-5-12 {
  {
-  TODO: <i>anerkennt</i> (<span class='gr'>εἴδω</span>, Strongs 1492), sonst häufig mit 'sehen' übersetzt.
-  <br>TODO: angeblich ist hier der einzige Ort, wo Strongs 1492 mit anerkennen übersetzt wird (sonst allenfalls mit erkennen).
+  <i>erkennt</i> (<span class='gr'>εἴδω</span>, Strongs 1492), sonst häufig mit »sehen« übersetzt.
+  <br>Angeblich übersetzen viele andere übersetzungen Strongs 1492 mit »anerkennen«.
  }
  {
   <i>bitten</i>: <a href='http://bibel.renenyffenegger.ch/1thes_4.html#v1'>1.&nbsp;Thes&nbsp;4,1</a>.
@@ -74126,7 +74272,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Unordentliche</i>: vgl <a href='http://bibel.renenyffenegger.ch/2thes_3.html#v6'>2.&nbsp;Thes&nbsp;3,6</a>.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Ermahnung/index#ermahne-euch-brueder
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Ermahnung/index#ermahne-euch-brueder[Wir ermahnen euch aber, Brüder]
  }
 #}
 #1thes-5-16 {
@@ -74147,7 +74293,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-5-21 {
  {
-  Vgl <a class='kom' href='#I1kor-14-29'>1.&nbsp;Kor&nbsp;14,29</a>.
+ <i>Prüft aber alles</i> vgl §roem-12-2, §+1kor-14-29.
  }
 #}
 #1thes-5-23 {
@@ -74209,7 +74355,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
-  <br>Vgl <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v13'>2.&nbsp;Thes&nbsp;2,13</a>.
+  <br><i>Wir sind schuldig, … Gott allezeit für euch zu danken</i> §2thes-2-13
  }
 #}
 #2thes-1-4 {
@@ -74365,7 +74511,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-2-13 {
  {
-  <i>Paulus dankt Gott</i>: §+roem-1-8.  <br>Vgl §2thes-1-3.
+  <i>Paulus dankt Gott</i>: §+roem-1-8.<br>
+  <i>Wir sind schuldig, Brüder, Gott allezeit für euch zu danken</i> §2thes-1-3.
  }
  {
   <i>erwählt</i>: §1thes-1-4, §+phil-1-22.
@@ -74391,6 +74538,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/feststehen
  }
 #}
+#2thes-2-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+ }
+#}
 @}
 @2. Thessaloniker 3 {
 #2thes-3-1 {
@@ -74403,6 +74555,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Verse 1-6: Jeder Vers enthält «Herr».
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn] 
  }
 #}
 #2thes-3-2 {
@@ -74498,6 +74653,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1tim-1-1 {
  {
    Wendung <i>Befehl Gottes, unseres Retters</i> auch in <a href='http://bibel.renenyffenegger.ch/tit_1.html#v3'>Tit&nbsp;1,3</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
  {
   TODO: Vgl <i>Apostel nach dem Willen Gottes</i>: <a class='kom' href='#Iroem-12-2'>Röm&nbsp;12,2</a>.
@@ -74925,6 +75083,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte auch, dass hier Paulus zu Timotheus gehen will, in <a href='http://bibel.renenyffenegger.ch/2tim_3.html#v1'>2.&nbsp;Tim&nbsp;3,1</a> soll sich Timotheus beeilen,
   zu Paulus zu kommen.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+ }
 #}
 #1tim-3-15 {
  {
@@ -75126,7 +75287,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-5-20 {
  {
-   Gemäss UB soll die Überführung nicht zur Blamage des Sünders geschehen, sondern damit die übrigen erkennen, wozu sie fähig sind.
+  Gemäss UB soll die Überführung nicht zur Blamage des Sünders geschehen, sondern damit die übrigen erkennen, wozu sie fähig sind.
+ }
+ {
+  <i>dass auch die übrigen Furcht haben</i> vgl §offb-11-13
  }
 #}
 #1tim-5-21 {
@@ -75326,6 +75490,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>voll Verlangen, dich zu sehen</i>: §+roem-1-11.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
 #}
 #1tim-6-18 {
@@ -75938,6 +76105,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Gott, der nicht lügen kann</i>: vgl §hebr-6-18, §4mo-23-19
  }
+ {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung des ewigen Lebens</i> §tit-3-7
+ }
 #}
 #tit-1-3 {
  {
@@ -76158,6 +76328,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Erscheinung</i>: <span class='gr'>ἐπιφάνεια</span> (Strongs 2015), vgl → biblisches/Grundtext/Wörter/G602-Apokalypsis_G2015-Epiphaneia_G3952-Parousia.
  }
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+ }
+ {
   TODO: Offensichtlich ist nicht ganz klar, wo das <i>unser</i> stehen sollte (KJV Debatte).
  }
 #}
@@ -76211,6 +76384,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   TODO: <i>Wiedergeburt</i>: <a class='kom' href='#Ijoh-3-3'>Joh&nbsp;3,3</a>.
+ }
+#}
+#tit-3-7 {
+ {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung des ewigen Lebens</i> §tit-1-2
  }
 #}
 #tit-3-8 {
@@ -76648,7 +76826,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-3-6 {
  {
-   <i>Bis ans Ende standhaft festhalten</i>: Vgl V. 14.
+   <i>Bis ans Ende standhaft festhalten</i> vgl §Vhebr-3-14, §hebr-6-11
  }
 #}
 #hebr-3-7 {
@@ -76906,6 +77084,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>volle Gewissheit</i>: Strongs 4136: <a class='kom' href='#Ikol-2-2'>Kol&nbsp;2,2</a>.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+ }
+ {
+  <i>bis ans Ende</i> vgl §hebr-3-6
+ }
 #}
 #hebr-6-12 {
  {
@@ -77021,10 +77205,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-7-19 {
  {
-  <i>Vollkommenheit</i>: <a class='kom' href='#Ihebr-2-10'>Hebr&nbsp;2,10</a>.
+  <i>Vollkommenheit</i>: §+hebr-2-10.
  }
  {
   <i>Das Gesetz hat nichts vollendet</i>, aber Er wurde durch Leiden vollendet: §+hebr-2-10
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
 #}
 #hebr-7-25 {
@@ -77410,6 +77597,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Im Himmel angeschrieben</i>: <a class='kom' href='#Ilk-10-20'>Lk&nbsp;10,20</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
 #}
 #hebr-10-24 {
@@ -78536,6 +78726,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    Vgl auch <a class='kom' href='#I2petr-1-1'>2.&nbsp;Petr&nbsp;1,1</a>.
  }
  {
+  <i>Durch Feuer erpropt</i> vgl §1kor-3-13 (<i>erpropt</i> hier ist dasselbe Verb wie »geprüft« dort). 
+ }
+ {
   TODO: <i>Offenbarung Jesu Christi</i>: hier wohl ein zukünftiges Ereignis, im Gegensatz zu Vers 13.
  }
 #}
@@ -78622,6 +78815,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Gott die Ehre/Herrlichkeit geben</i>: <a class='kom' href='#Ijoh-9-24'>Joh&nbsp;9,24</a>.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung (auf Gott vgl §1petr-3-5)
+ }
 #}
 #1petr-1-22 {
  {
@@ -78635,6 +78831,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Durch das Wort wurde die Welt geschaffen (TODO: stimmt das?) und durch das Wort gibt's Wiedergeburten.
+ }
+#}
+#1petr-1-25 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
  }
 #}
 @}
@@ -78894,6 +79095,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   (<a href='http://bibel.renenyffenegger.ch/1mo_12.html#v11'>1.&nbsp;Mo&nbsp;12,11</a>). Rebekka hingegen nahm Schmuck an
   (<a href='http://bibel.renenyffenegger.ch/1mo_24.html#v53'>1.&nbsp;Mo&nbsp;24,53</a>)
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung (auf Gott setzen vgl §1petr-1-21)
+ }
 #}
 #1petr-3-7 {
  {
@@ -78931,6 +79135,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1petr-3-14 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1petr_4.html#v13'>1.&nbsp;Petr&nbsp;4,13</a>.
+ }
+#}
+#1petr-3-15 {
+ {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, die in euch ist</i> vgl mit der «Hoffnung, die für euch in den Himmeln aufgehoben wird» §kol-1-5
  }
 #}
 #1petr-3-16 {
@@ -80045,6 +80254,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   TODO: Vgl <i>offenbar werden</i> mit <i>erschienen</i> in Vers 5 und 8: im Griechischen sind beide: <span class='gr'>φανερόω</span> (Strongs 5319).
   <br>Vgl auch <i>offenbar</i> (<span class='gr'>φανερός</span>, Strongs 5318) in Vers 10.
+ }
+#}
+#1joh-3-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
 #}
 #1joh-3-5 {
@@ -82299,6 +82513,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Hier fällt wegen eines Erdbebens der zehnte Teil der Stadt (welche ist das?), in <a href='http://bibel.renenyffenegger.ch/offb_16.html#v19'>Offb&nbsp;16,19</a> wird die
   grosse Stadt (auch wegen eines Erdbebens) in drei Teile zerrissen.
+ }
+ {
+  <i>und die übrigen wurden voll Furcht</i> vgl §1tim-5-20
  }
 #}
 #offb-11-14 {
