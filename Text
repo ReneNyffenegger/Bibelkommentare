@@ -11890,6 +11890,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Opfergabe
  }
  {
+  TODO In diesem Vers kommt <span class='hebr'>זֶ֫בַח</span> (Strongs 2077) vor.
+ }
+ {
   TODO: Vom Fleisch des <i>Dank-Friedensopfers</i>
   (<a href='http://bibel.renenyffenegger.ch/3mo_7.html#v15'>3.&nbsp;Mo&nbsp;7,15</a>) darf nichts bis zum Morgen übriggelassen werden, in der Bestimmung in
   <a href='http://bibel.renenyffenegger.ch/3mo_19.html#v6'>3.&nbsp;Mo&nbsp;19,6</a> darf aber noch Fleisch am folgenden Tag genossen werden.)
@@ -11904,6 +11907,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft#eingang-zelt-zusammenkunft[Eingang] des → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft[Zeltes der Zusammenkunft]
  }
+ {
+  <i>Opfer</i>: <span class='hebr'>קָרְבָן</span> (Strongs 7133).
+ }
 #}
 #3mo-3-3 {
  {
@@ -11916,7 +11922,8 @@
 #}
 #3mo-3-5 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich. Die <i>Opfergabe des Kleinviehs</i> (§3mo-3-6-11) ist eine »Speise des → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer[Feueropfers] dem HERRN« (§3mo-3-11);
+  die <i>Opfergabe einer Ziege</i> (§3mo-3-12-16) ist eine »Speise des Feueropfers zum lieblichen Geruch« (§3mo-3-16)
  }
 #}
 #3mo-3-8 {
@@ -11925,6 +11932,21 @@
  }
  {
   <i>Widder der Einweihung</i> §2mo-29-22
+ }
+#}
+#3mo-3-11 {
+ {
+  <i>Speise</i>: <span class='hebr'>לָ֫חֶם</span> (Strongs 3899).
+  <br>
+  <i>Eine Speise des Feueropfers</i> vgl §+3mo-3-5
+ }
+#}
+#3mo-3-16 {
+ {
+  <i>Speise des → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer[Feueropfers] zum → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich[lieblichen Geruch]</i> vgl §+3mo-3-5.
+ }
+ {
+  <i>Alles Fett gehört dem HERRN</i> vgl §3mo-7-25
  }
 #}
 #3mo-3-17 {
@@ -12220,6 +12242,11 @@
 #3mo-7-20 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
+ }
+#}
+#3mo-7-25 {
+ {
+  Vgl §3mo-3-16 »Alles Fett gehört dem HERRN«.
  }
 #}
 #3mo-7-26 {
