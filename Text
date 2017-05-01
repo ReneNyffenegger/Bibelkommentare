@@ -23814,6 +23814,10 @@
 @1. Samuel 21 {
 #1sam-21-7 {
  {
+  Offenbar nahm David das sieben Tage alte Brot, nicht das warme Brot.
+  <br>Vgl §lk-6-3-ff
+ }
+ {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot
  }
 #}
@@ -34749,7 +34753,7 @@
  {
   Mit den <i>Zähnen knirschen</i>:
   <a href='http://bibel.renenyffenegger.ch/ps_37.html#v12'>Ps&nbsp;37,12</a>
-  <a href='http://bibel.renenyffenegger.ch/ps_112.html#v9'>Ps&nbsp;112,9</a>,
+  §ps-112-10,
   <a href='http://bibel.renenyffenegger.ch/kla_2.html#v16'>Kla&nbsp;2,16</a>,
   <a href='http://bibel.renenyffenegger.ch/mt_8.html#v12'>Mt&nbsp;8,12</a>,
   <a href='http://bibel.renenyffenegger.ch/mt_13.html#v42'>Mt 13,42/50</a>,
@@ -56669,9 +56673,19 @@
   TODO: Wann werden die Jünger berufen? Vgl <a href='http://bibel.renenyffenegger.ch/lk_6.html#v13'>Lk&nbsp;6,13</a>.
  }
 #}
+#lk-5-6 {
+ {
+  Vgl mit §joh-21-11: dort ist das Netz nicht gerissen; die Fische können gezählt werden.
+ }
+#}
 #lk-5-11 {
  {
   <i>Alles verlassen</i>: vgl Vers 28.
+ }
+#}
+#lk-5-16 {
+ {
+  In §lk-6-12 geht Er auf einen Berg, um zu beten.
  }
 #}
 #lk-5-17 {
@@ -56712,9 +56726,17 @@
   Vgl &lsaquo;folgender Sabbat&rsaquo; in <a href='http://bibel.renenyffenegger.ch/apg_13.html#v44'>Apg&nbsp;13,44</a>, wo sich Paulus und Barnabas zu den Heiden wenden.
  }
 #}
+#lk-6-2 {
+ {
+  Offenbar verbietet das Gesetz dies gar nicht. Möglicherweise suchten die Pharisäer, wie in §Vlk-6-7, eine Beshuldigung gegen den Herrn.
+ }
+#}
 #lk-6-4 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot
+ }
+ {
+  Vgl §1sam-21-7
  }
 #}
 #lk-6-7 {
@@ -56728,12 +56750,17 @@
 #}
 #lk-6-12 {
  {
-  TODO: <i>Jesus auf Berg, um zu beten</i>: <a class='kom' href='#Imk-6-46'>Mk&nbsp;6,46</a>.
+   <i>Jesus auf Berg, um zu beten</i>: §+mk-6-46.
+  <br>
+   Vgl §lk-5-16, wo Er sich in die Wüsteneien zurückzog, um zu beten.
  }
 #}
 #lk-6-13 {
  {
-  TODO: Hier erstes vorkommen von <i>Apostel</i> in Lukas. Vgl <a class='kom' href='#Imt-10-2'>Mt&nbsp;10,2</a>.
+  Möglicherweise bestimmt der Herr die Apostel, um Sein Werk fortzuführen, da Er nun weiss, dass die Schriftgelehrten und Pharisäer sich überlegten, was sie Ihm tun sollten (§Vlk-6-11).
+ }
+ {
+  Hier erstes vorkommen von <i>Apostel</i> in Lukas. Vgl §+mt-10-2.
  }
 #}
 #lk-6-15 {
@@ -60564,6 +60591,9 @@
  }
 #}
 #joh-21-11 {
+ {
+  Vgl mit §lk-5-6: dort reisst das Netz.
+ }
  {
   153=1³+5³+3³=1+2+3…+17=1!+2!+3!+4!+5!
  }
