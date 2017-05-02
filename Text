@@ -974,15 +974,13 @@
 #}
 #1mo-4-7 {
  {
-  Luther 1912: 'Wenn du fromm bist'.
+  Luther 1912: »Wenn du fromm bist«.
  }
  {
-  <i>Sünde</i> im Hebräischen <span class='hebr'>חַטָּ֣את</span> (Strongs 2403), dasselbe Wort wird (zB) in <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v14'>2.&nbsp;Mo&nbsp;29,14</a>
-  oder <a href='http://bibel.renenyffenegger.ch/3mo_4.html#v3'>3.&nbsp;Mo&nbsp;4,3</a>
-  mit 'Sündopfer' übersetzt.
+  <i>Sünde</i> im Hebräischen <span class='hebr'>חַטָּ֣את</span> (Strongs 2403), dasselbe Wort wird (zB) in §2mo-29-14 oder §3mo-4-3 mit → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer übersetzt.
  }
  {
-  Vgl <a class='kom' href='#I1mo-3-16'>1.&nbsp;Mo&nbsp;3,16</a>.
+  Vgl §+1mo-3-16
  }
 #}
 #1mo-4-8 {
@@ -11890,6 +11888,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Opfergabe
  }
  {
+  Beachte, dass gewisse Anweisungen betreffend des <i>Friedensopfers</i> in Kapitel 4 referenziert werden: §3mo-4-10, §3mo-4-26, §3mo-4-31, §3mo-4-35.
+ }
+ {
   TODO In diesem Vers kommt <span class='hebr'>זֶ֫בַח</span> (Strongs 2077) vor.
  }
  {
@@ -11897,10 +11898,6 @@
   (<a href='http://bibel.renenyffenegger.ch/3mo_7.html#v15'>3.&nbsp;Mo&nbsp;7,15</a>) darf nichts bis zum Morgen übriggelassen werden, in der Bestimmung in
   <a href='http://bibel.renenyffenegger.ch/3mo_19.html#v6'>3.&nbsp;Mo&nbsp;19,6</a> darf aber noch Fleisch am folgenden Tag genossen werden.)
   <br>Vgl <a class='kom' href='#I2mo-20-24'>2.&nbsp;Mo&nbsp;20,24</a>.
- }
- {
-  TODO: Beachte, dass gewisse Anweisungen betreffend des <i>Friedensopfers</i> im Kapitel 4 referenziert werden
-  <a href='http://bibel.renenyffenegger.ch/3mo_4.html#v10'>3. Mo 4,10/26/31/35</a>.
  }
 #}
 #3mo-3-2 {
@@ -11975,7 +11972,7 @@
 #}
 #3mo-4-3 {
  {
-   <i>Sündopfer</i>: Siehe <a class='kom' href='#I1mo-4-7'>1.&nbsp;Mo&nbsp;4,7</a>.
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer: Siehe §+1mo-4-7.
  }
  {
   <i>Jungstier für den gesalbten Priester</i> siehe <a class='kom' href='#I2mo-29-1'>2.&nbsp;Mo&nbsp;29,1</a>.
@@ -12005,7 +12002,10 @@
 #}
 #3mo-4-10 {
  {
-  TODO: <i>Rind</i> (Strongs 7794) wäre wohl besser mit 'Ochse' übersetzt worden.
+  <i>Rind</i> (<span class='hebr'>שׁוֹר</span>, Strongs 7794): hier das erste Vorkommen in 3. Mose. Evtl. wäre das Wort besser mit «Ochse» übersetzt worden.
+ }
+ {
+  <i>so … wie vom … Friedensopfer</i> vgl §3mo-3-1-ff
  }
 #}
 #3mo-4-12 {
@@ -12028,11 +12028,19 @@
 #}
 #3mo-4-23 {
  {
-  'Ziegenbock' <span class='hebr'>שְׂעִ֥יר עִזִּ֖ים</span> (Strongs 8163 5795), siehe <a class='kom' href='#I1mo-37-31'>1.&nbsp;Mo&nbsp;37,31</a>.
-  In Vers 24 steht dnn nur noch <i>der Haarige</i>.
+  <i>Ziegenbock</i> <span class='hebr'>שְׂעִ֥יר עִזִּ֖ים</span> (Strongs 8163 5795), siehe §+1mo-37-31. In Vers 24 steht dann nur noch <i>der Haarige</i>.
+  <br>Vgl <i>Ziege ohne Fehl</i> §3mo-4-28 (<span class='hebr'>שְׂעִירַת עִזִּים</span>, Strongs 8166 5795).
+ }
+#}
+#3mo-4-26 {
+ {
+  <i>wie das Fett des → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer[Friedensopfers]</i> vgl §3mo-3-1-ff
  }
 #}
 #3mo-4-28 {
+ {
+  <i>Ziege</i>: <span class='hebr'>שְׂעִירַת עִזִּים</span> (Strongs 8166 5795), vgl <i>Ziegenbock<i> in §3mo-4-23.
+ }
  {
   TODO: Strongs 8166 (offenbar weibliche Ziege), siehe auch <a href='http://bibel.renenyffenegger.ch/3mo_5.html#v6'>3.&nbsp;Mo&nbsp;5,6</a>
   und <a class='kom' href='#Iri-3-26'>Ri&nbsp;3,26</a>. Das Wort stammt offenbar von Strongs 8163 ab.
@@ -12042,13 +12050,18 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
  }
+ {
+  <i>wie das Fett des → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer[Friedensopfers]</i> vgl §3mo-3-1-ff
+ }
+#}
+#3mo-4-35 {
+ {
+  <i>so wie … Friedensopfer</i> vgl §3mo-3-1-ff
+ }
 #}
 @}
 @3. Mose 5 {
 #3mo-5-1 {
- {
-  Das <b>Schuldopfer</b>. Vgl auch mit <a href='http://bibel.renenyffenegger.ch/3mo_7.html#v1'>3.&nbsp;Mo&nbsp;7,1</a> ff.
- }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gerechtigkeit/Ungerechtigkeit-tragen vgl §V2mo-28-43
  }
@@ -34728,18 +34741,7 @@
 @Hiob 16 {
 #hi-16-9 {
  {
-  Mit den <i>Zähnen knirschen</i>:
-  <a href='http://bibel.renenyffenegger.ch/ps_37.html#v12'>Ps&nbsp;37,12</a>
-  <a href='http://bibel.renenyffenegger.ch/ps_112.html#v9'>Ps&nbsp;112,9</a>,
-  <a href='http://bibel.renenyffenegger.ch/kla_2.html#v16'>Kla&nbsp;2,16</a>,
-  <a href='http://bibel.renenyffenegger.ch/mt_8.html#v12'>Mt&nbsp;8,12</a>,
-  <a href='http://bibel.renenyffenegger.ch/mt_13.html#v42'>Mt 13,42/50</a>,
-  <a href='http://bibel.renenyffenegger.ch/mt_22.html#v13'>Mt&nbsp;22,13</a>,
-  <a href='http://bibel.renenyffenegger.ch/mt_24.html#v51'>Mt&nbsp;24,51</a>,
-  <a href='http://bibel.renenyffenegger.ch/mt_25.html#v30'>Mt&nbsp;25,30</a>,
-  <a href='http://bibel.renenyffenegger.ch/mk_9.html#v18'>Mk&nbsp;9,18</a>,
-  <a href='http://bibel.renenyffenegger.ch/lk_13.html#v28'>Lk&nbsp;13,28</a>,
-  <a href='http://bibel.renenyffenegger.ch/apg_7.html#v54'>Apg&nbsp;7,54</a>
+ → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen
  }
 #}
 #hi-16-15 {
@@ -36048,7 +36050,7 @@
 #}
 #ps-37-12 {
  {
-  Mit den 'Zähnen knirschen': <a class='kom' href='#Ihi-16-9'>Hi&nbsp;16,9</a>.
+ → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen
  }
 #}
 #ps-37-34 {
@@ -38031,10 +38033,12 @@
 #}
 #ps-112-9 {
  {
-  Mit den 'Zähnen knirschen': <a class='kom' href='#Ihi-16-9'>Hi&nbsp;16,9</a>.
- }
- {
   <i>emporragendes Horn</i>: <a class='kom' href='#I1sam-2-1'>1.&nbsp;Sam&nbsp;2,1</a>.
+ }
+#}
+#ps-112-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen
  }
 #}
 @}
@@ -45940,7 +45944,7 @@
 #}
 #kla-2-16 {
  {
-  Mit den 'Zähnen knirschen': <a class='kom' href='#Ihi-16-9'>Hi&nbsp;16,9</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen
  }
 #}
 #kla-2-17 {
@@ -51721,7 +51725,7 @@
   <a href='http://bibel.renenyffenegger.ch/mt_24.html#v51'>Mt&nbsp;24,51</a>,
   <a href='http://bibel.renenyffenegger.ch/mt_25.html#v30'>Mt&nbsp;25,30</a>
          <br>
-  Mit den 'Zähnen knirschen': <a class='kom' href='#Ihi-16-9'>Hi&nbsp;16,9</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen[Zähneknirschen]
  }
 #}
 #mt-8-14 {
@@ -52700,7 +52704,7 @@
 #}
 #mt-13-42 {
  {
-  Mit den 'Zähnen knirschen': <a class='kom' href='#Ihi-16-9'>Hi&nbsp;16,9</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen[Zähneknirschen]
  }
 #}
 #mt-13-43 {
@@ -53554,13 +53558,11 @@
 #}
 #mt-22-13 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Freund,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen[Zähneknirschen]
  }
  {
   <i>Heulen und Zähneknirschen</i>: vgl <a class='kom' href='#Imt-8-12'>Mt&nbsp;8,12</a>.
- }
- {
-  Mit den 'Zähnen knirschen': <a class='kom' href='#Ihi-16-9'>Hi&nbsp;16,9</a>.
  }
 #}
 #mt-22-14 {
@@ -53964,7 +53966,8 @@
 #}
 #mt-24-51 {
  {
-  <i>Heulen und Zähneknirschen</i>: vgl <a class='kom' href='#Imt-8-12'>Mt&nbsp;8,12</a>.
+  <i>Heulen und Zähneknirschen</i>: vgl §+mt-8-12,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen
  }
 #}
 @}
@@ -53987,7 +53990,7 @@
 #}
 #mt-25-30 {
  {
-  <i>Heulen und Zähneknirschen</i>: vgl <a class='kom' href='#Imt-8-12'>Mt&nbsp;8,12</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen[Zähneknirschen]
  }
 #}
 #mt-25-31 {
@@ -55238,7 +55241,7 @@
 #}
 #mk-9-18 {
  {
-  Mit den 'Zähnen knirschen': <a class='kom' href='#Ihi-16-9'>Hi&nbsp;16,9</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen
  }
 #}
 #mk-9-19 {
@@ -57380,7 +57383,7 @@
 #}
 #lk-13-28 {
  {
-  Mit den 'Zähnen knirschen': <a class='kom' href='#Ihi-16-9'>Hi&nbsp;16,9</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen[Zähneknirschen]
  }
 #}
 #lk-13-29 {
@@ -61969,7 +61972,7 @@
   <i>schnitt es ihnen ins Herz</i>: <a class='kom' href='#Iapg-2-37'>Apg&nbsp;2,37</a>.
  }
  {
-  Mit den 'Zähnen knirschen': <a class='kom' href='#Ihi-16-9'>Hi&nbsp;16,9</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen
  }
 #}
 #apg-7-55 {
