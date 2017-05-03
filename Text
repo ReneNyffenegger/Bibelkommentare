@@ -11923,8 +11923,7 @@
 #}
 #3mo-3-3 {
  {
-  TODO: Aaron soll das Fett in Rauch aufgehen lassen (<a href='http://bibel.renenyffenegger.ch/3mo_3.html#v5'>Vers 5</a>).
-  Wird dies in <a href='http://bibel.renenyffenegger.ch/3mo_6.html#v5'>3.&nbsp;Mo&nbsp;6,5</a> beschrieben?
+  Die → biblisches/Personen/Aaron/Söhne[Söhne Aarons] sollen das Fett auf dem Altar räuchern §V3mo-3-5. Vgl §3mo-6-5.
  }
  {
   TODO: Vgl auch <a class='kom' href='#I3mo-7-11'>3.&nbsp;Mo&nbsp;7,11</a>ff: Das (Dank-)Friedensopfer darf gegessen werden.
@@ -12023,7 +12022,7 @@
 #}
 #3mo-4-12 {
  {
-   <i>Reiner Ort</i>: vgl <a class='kom' href='#I3mo-6-4'>3.&nbsp;Mo&nbsp;6,4</a>.
+   <i>Ausserhalb des Lagers, an einem reinem Ort</i>: vgl §+3mo-6-4, §4mo-19-9
  }
 #}
 #3mo-4-13 {
@@ -12164,21 +12163,19 @@
 @3. Mose 6 {
 #3mo-6-2 {
  {
-  → biblisches/Personen/Aaron/Söhne
- }
- {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze]
+  → biblisches/Personen/Aaron/Söhne, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze], → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
  }
 #}
 #3mo-6-4 {
  {
-  <i>Reiner Ort</i> vgl mit <i>heiliger Ort</i> in Vers  9.
-  <br>Siehe auch <a class='kom' href='#I3mo-4-12'>3.&nbsp;Mo&nbsp;4,12</a>.
+  <i>Reiner Ort</i> vgl mit <i>heiliger Ort</i> in Vers §V3mo-6-9.
+  <br>
+   <i>Ausserhalb des Lagers, an einem reinem Ort</i>: §+3mo-4-12, §4mo-19-9
  }
 #}
 #3mo-6-5 {
  {
-  Siehe <a class='kom' href='#I3mo-3-3'>3.&nbsp;Mo&nbsp;3,3</a>.
+  <i>Fettstücke der Friedensopfer auf ihm räuchern</i>: §+3mo-3-3.
  }
 #}
 #3mo-6-6 {
@@ -12188,7 +12185,7 @@
 #}
 #3mo-6-7 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze], → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer[Speisopfer]
  }
 #}
 #3mo-6-8 {
@@ -12204,6 +12201,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
 #}
+#3mo-6-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer
+ }
+#}
 #3mo-6-13 {
  {
   Opfer, die am Morgen und Abend geopfert werden sollen: <a class='kom' href='#I2mo-29-39'>2.&nbsp;Mo&nbsp;29,39</a>.
@@ -12211,7 +12213,7 @@
 #}
 #3mo-6-18 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze], → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer
  }
  {
   TODO: <i>Essen des Sündopfers</i>: <a class='kom' href='#I2mo-29-14'>2.&nbsp;Mo&nbsp;29,14</a>.
@@ -12239,7 +12241,8 @@
 @3. Mose 7 {
 #3mo-7-1 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze], → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schuldopfer
+  <br>
   Beachte: das <i>Gesetz vom Schuldopfer</i> ist hochheilig, im Gegensatz zu den andern Opfern.
  }
 #}
@@ -12253,7 +12256,7 @@
 #}
 #3mo-7-11 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze], → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer
  }
  {
   TODO: Vgl <a class='kom' href='#I3mo-3-3'>3.&nbsp;Mo&nbsp;3,3</a>: offenbar darf das (Dank-)Friedensopfer (hier beschrieben) gegessen
@@ -15298,6 +15301,9 @@
 #4mo-19-9 {
  {
   Die Asche der <i>jungen</i> Kuh heiligt zur Reinheit des Fleisches (<a href='http://bibel.renenyffenegger.ch/hebr_9.html#v13'>Hebr&nbsp;9,13</a>).
+ }
+ {
+  <i>Ausserhalb des Lagers, an einem reinen Ort</i>: §3mo-6-4
  }
 #}
 #4mo-19-11 {
