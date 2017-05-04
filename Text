@@ -1666,8 +1666,7 @@
 #}
 #1mo-9-4 {
  {
-  TODO: Hier darf das Fleisch nicht gegessen werden, solange das Blut noch in ihm ist, im Gesetz (<a class='kom' href='#I3mo-3-17'>3.&nbsp;Mo&nbsp;3,17</a>) darf das
-  Blut überhaupt nicht gegessen werden.
+  Vgl. → biblisches/Eigene-Uebersetzung/Konkordanz/Blut#blut-nicht-essen
  }
 #}
 #1mo-9-6 {
@@ -11765,10 +11764,15 @@
 @3. Mose 1 {
 #3mo-1-1 {
  {
-  Der HERR <i>rief</i> redete aus → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft[dem Zelt der Zusammenkunft] (nicht vom Berg (TODO: wo in 2. Mose redete er vom Berg, wenn überhaupt?),
-  <a class='kom' href='#I3mo-25-1'>3.&nbsp;Mo&nbsp;25,1</a>).
-  <br>Beachte, wie häufig in 3. Mose die Wendung 'Und der HERR zu Mose...' vorkommt.
+  Beachte: Der HERR <i>redete</i> aus → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft[dem Zelt der Zusammenkunft],
+  aber in §3mo-7-38 heisst es, dass die Gesetze auf dem → biblisches/Orte/Berg-Sinai gegeben wurden.
+  <br>
+  Vgl. §+3mo-25-1
  }
+ {
+  Beachte, wie häufig in 3. Mose die Wendung «Und der HERR redete zu Mose…» vorkommt.
+  <br>Hier ist einer der wenigen Orte, wo er <i>rief<i>.
+ } 
  {
   Das erste Aleph in diesem Vers (im ersten Wort) ist klein geschrieben (siehe <a href='#typo_details'>Typographische Details im Alten Testament</a>.
   TODO: Ohne dieses Aleph wäre dies dasselbe Wort wie 'begegnen' in <a href='http://bibel.renenyffenegger.ch/4mo_23.html#v4'>4.&nbsp;Mo&nbsp;23,4</a>.
@@ -11926,7 +11930,7 @@
   Die → biblisches/Personen/Aaron/Söhne[Söhne Aarons] sollen das Fett auf dem Altar räuchern §V3mo-3-5. Vgl §3mo-6-5.
  }
  {
-  TODO: Vgl auch <a class='kom' href='#I3mo-7-11'>3.&nbsp;Mo&nbsp;7,11</a>ff: Das (Dank-)Friedensopfer darf gegessen werden.
+  Vgl. §+3mo-7-11-ff: Das (Dank-)→ biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer darf gegessen werden.
  }
 #}
 #3mo-3-5 {
@@ -11955,22 +11959,19 @@
   <i>Speise des → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer[Feueropfers] zum → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich[lieblichen Geruch]</i> vgl §+3mo-3-5.
  }
  {
-  <i>Alles Fett gehört dem HERRN</i> vgl §3mo-7-25
+  <i>Alles Fett gehört dem HERRN</i> vgl §3mo-7-23-25
  }
 #}
 #3mo-3-17 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Blut#blut-nicht-essen
+ }
+ {
   TODO:
   <i>Blut (und Fett) nicht essen</i>:
-  <a href='http://bibel.renenyffenegger.ch/3mo_7.html#v26'>3.&nbsp;Mo&nbsp;7,26</a>,
   <a href='http://bibel.renenyffenegger.ch/3mo_10.html#v18'>3.&nbsp;Mo&nbsp;10,18</a> (TODO: Hätte es hier gegessen werden sollen?),
   <a href='http://bibel.renenyffenegger.ch/3mo_17.html#v11'>3.&nbsp;Mo&nbsp;17,11-14</a> (Das Leben des Fleisches ist im Blut),
-  <a href='http://bibel.renenyffenegger.ch/3mo_19.html#v26'>3.&nbsp;Mo&nbsp;19,26</a>,
   <a href='http://bibel.renenyffenegger.ch/5mo_12.html#v16'>5.&nbsp;Mo&nbsp;12,16</a> (Blut des Brandopfers auf die Erde giessen wie Wasser),
-  <a href='http://bibel.renenyffenegger.ch/5mo_12.html#v23'>5. Mo 12,23/27</a> (Blut ist das Leben),
-  <a href='http://bibel.renenyffenegger.ch/5mo_15.html#v23'>5.&nbsp;Mo&nbsp;15,23</a> (Blut des Brandopfers auf die Erde giessen wie Wasser)
-  <br>Unter Saul ass das Volk Fleisch mit dem Blut (<a href='http://bibel.renenyffenegger.ch/1sam_14.html#v32'>1. Sam 14,32 ff</a>).
-  <br>Siehe auch <a class='kom' href='#I1mo-9-4'>1.&nbsp;Mo&nbsp;9,4</a>.
  }
 #}
 @}
@@ -12080,7 +12081,7 @@
 #}
 #3mo-5-2 {
  {
-  <i>Aas</i> §3mo-17-15, §3mo-22-8, §5mo-14-21
+  <i>Aas</i> §3mo-7-24, §3mo-17-15, §3mo-22-8, §5mo-14-21
  }
  {
   Hier erstes Vorkommen von <span class='hebr'>טָמֵא</span> (Strongs 2931), übersetzt mit «Unrein».
@@ -12246,6 +12247,16 @@
   Beachte: das <i>Gesetz vom Schuldopfer</i> ist hochheilig, im Gegensatz zu den andern Opfern.
  }
 #}
+#3mo-7-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
+ }
+#}
+#3mo-7-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schuldopfer
+ }
+#}
 #3mo-7-9 {
  {
   <i>Speisopfer, das im Ofen gebacken</i> vgl §3mo-2-4
@@ -12259,11 +12270,13 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer#opfer-gesetze[Opfergesetze], → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer
  }
  {
-  TODO: Vgl <a class='kom' href='#I3mo-3-3'>3.&nbsp;Mo&nbsp;3,3</a>: offenbar darf das (Dank-)Friedensopfer (hier beschrieben) gegessen
-  werden, während das 'andere' Friedensopfer (dort beschrieben) nicht gegessen werde darf.
+  Vgl. §+3mo-3-3: offenbar darf das (Dank-)Friedensopfer (hier beschrieben) gegessen werden, während das "andere" Friedensopfer (dort beschrieben) nicht gegessen werde darf.
  }
 #}
 #3mo-7-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Dankopfer
+ }
  {
   <i>Dankopfer</i> (<span class='hebr'>תּוֹדָה</span>, Strongs 8426), in Elberfelder mit 'zum Danke', in KJV mit 'thanksgiving' übersetzt.
   <br>TODO: Warum also in Schlachter 2000 noch das Suffix <i>-opfer</i>? (TODO es wird aber zB in <a href='http://bibel.renenyffenegger.ch/2chr_33.html#v16'>2.&nbsp;Chr&nbsp;33,16</a>
@@ -12278,12 +12291,22 @@
    Siehe auch <a class='kom' href='#I3mo-22-29'>3.&nbsp;Mo&nbsp;22,29</a> und (TODO) <a href='http://bibel.renenyffenegger.ch/3mo_22.html#v29'>3.&nbsp;Mo&nbsp;22,29-33</a>.
  }
 #}
+#3mo-7-13 {
+ {
+  <i>Dankfriedensopfer</i> (<span class='hebr'>זֶ֖בַח תּוֹדַ֥ת שְׁלָמָֽיו</span>, Strongs 2077 8426 8002) vgl. §V3mo-7-15, §2chr-29-31, §2chr-33-16
+ }
+#}
+#3mo-7-14 {
+ {
+  Hier erstes Vorkommen von → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer in 3. Mose.
+ }
+#}
 #3mo-7-15 {
  {
   Siehe auch <a href='http://bibel.renenyffenegger.ch/3mo_22.html#v30'>3.&nbsp;Mo&nbsp;22,30</a>
  }
  {
-   <i>Dank-Friedensopfer</i> <span class='hebr'>זֶבַח תֹּודַת שְׁלָמָיו</span> vgl §2chr-29-31, §2chr-33-16
+   <i>Dank-Friedensopfer</i> §+V3mo-7-13
  }
 #}
 #3mo-7-18 {
@@ -12296,6 +12319,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
  }
 #}
+#3mo-7-24 {
+ {
+  <i>Aas</i> §+3mo-5-2
+ }
+#}
 #3mo-7-25 {
  {
   Vgl §3mo-3-16 »Alles Fett gehört dem HERRN«.
@@ -12303,7 +12331,7 @@
 #}
 #3mo-7-26 {
  {
-  <i>Blut nicht essen</i>: <a class='kom' href='#I3mo-3-17'>3.&nbsp;Mo&nbsp;3,17</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Blut#blut-nicht-essen
  }
 #}
 #3mo-7-31 {
@@ -12331,7 +12359,7 @@
 #}
 #3mo-7-38 {
  {
-  → biblisches/Orte/Berg-Sinai
+  Beachte: Die Opfergesetze wurden vom HERRN auf dem → biblisches/Orte/Berg-Sinai gegeben, aber Mose wurde in §3mo-1-1 aus dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft gerufen.
  }
 #}
 @}
@@ -12937,7 +12965,7 @@
 #}
 #3mo-17-11 {
  {
-  <i>Blut nicht essen</i>: <a class='kom' href='#I3mo-3-17'>3.&nbsp;Mo&nbsp;3,17</a>.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Blut nicht essen</i>: <a class='kom' href='#I3mo-3-17'>3.&nbsp;Mo&nbsp;3,17</a>.
  }
 #}
 #3mo-17-15 {
@@ -13094,7 +13122,7 @@
 #}
 #3mo-19-26 {
  {
-  <i>Blut nicht essen</i>: <a class='kom' href='#I3mo-3-17'>3.&nbsp;Mo&nbsp;3,17</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Blut#blut-nicht-essen
  }
 #}
 #3mo-19-27 {
@@ -17839,7 +17867,7 @@
 #}
 #5mo-12-16 {
  {
-  <i>Blut nicht essen</i>: <a class='kom' href='#I3mo-3-17'>3.&nbsp;Mo&nbsp;3,17</a>, <a href='http://bibel.renenyffenegger.ch/5mo_15.html#v23'>5.&nbsp;Mo&nbsp;15,23</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Blut#blut-nicht-essen, Vgl. §5mo-15-23.
  }
 #}
 #5mo-12-21 {
@@ -17850,7 +17878,12 @@
 #}
 #5mo-12-23 {
  {
-  <i>Blut nicht essen</i>: <a class='kom' href='#I3mo-3-17'>3.&nbsp;Mo&nbsp;3,17</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Blut#blut-nicht-essen
+ }
+#}
+#5mo-12-27 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Blut#blut-nicht-essen
  }
 #}
 #5mo-12-31 {
@@ -23435,7 +23468,7 @@
 #}
 #1sam-14-32 {
  {
-  Blut essen im Gesetz: <a class='kom' href='#I3mo-3-17'>3.&nbsp;Mo&nbsp;3,17</a>.
+  Das → biblisches/Eigene-Uebersetzung/Konkordanz/Blut#blut-nicht-essen[Blut darf nicht gegessen werden].
  }
 #}
 #1sam-14-35 {
@@ -32036,7 +32069,7 @@
 #2chr-29-31 {
  {
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schlachtopfer[Schlachtopfer] und → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Dankopfer</i>
-  <span class='hebr'>זְבָחִים וְתֹודֹות</span>, vgl §3mo-7-15, §2chr-33-16
+  <span class='hebr'>זְבָחִים וְתֹודֹות</span>, vgl §3mo-7-13, §2chr-33-16
  }
  {
   TODO: Es scheint, dass Hiskia der erste (von zwei Königen) war, der Dankopfer darbrachte (<a class='kom' href='#I3mo-7-12'>3.&nbsp;Mo&nbsp;7,12</a>).
@@ -32295,7 +32328,7 @@
       (<a class='kom' href='#I3mo-7-12'>3.&nbsp;Mo&nbsp;7,12</a>).
  }
  {
-  <i>Friedens- und Dankopfer</i> <span class='hebr'>זִבְחֵי שְׁלָמִים וְתֹודָה</span> vgl §3mo-7-15, §2chr-29-31
+  <i>Friedens- und Dankopfer</i> <span class='hebr'>זִבְחֵי שְׁלָמִים וְתֹודָה</span> vgl §3mo-7-13, §2chr-29-31
  }
 #}
 #2chr-33-19 {
@@ -49456,7 +49489,7 @@
 #}
 #am-5-18 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN, vgl §+1thes-5-4
  }
 #}
 #am-5-26 {
@@ -74375,7 +74408,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-5-4 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/offb_3.html#v3'>Offb&nbsp;3,3</a>.
+  Vgl §offb-3-3.
+ }
+ {
+  Vgl §am-5-18: Der → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN ist Finesternis, nicht Licht.
  }
 #}
 #1thes-5-6 {
