@@ -10444,6 +10444,11 @@
       Gemäss §3mo-6-18-23 darf der Priester es essen, ausser wenn vom Blut des Sündopfers in die Stiftshütte hineingebracht wird.
  }
 #}
+#2mo-29-15 {
+ {
+  §3mo-8-18-ff 
+ }
+#}
 #2mo-29-18 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer <span class='hebr'>אִשֶּׁה</span> (Strongs 801): Hier das erste Vorkommen dieses Wortes.
@@ -10452,6 +10457,11 @@
  }
  {
   TODO: Offenbar gibt es über das Feueropfer keine eigentlichen Gesetze (siehe <a class='kom' href='#I3mo-6-2'>3.&nbsp;Mo&nbsp;6,2</a>).
+ }
+#}
+#2mo-29-19 {
+ {
+  §3mo-8-22
  }
 #}
 #2mo-29-20 {
@@ -10476,6 +10486,11 @@
       <a class='kom' href='#I3mo-8-22'>3.&nbsp;Mo&nbsp;8,22</a>
   <br>TODO: Dieser Widder ist offenbar der <i>zweite</i> Widder: <a href='http://bibel.renenyffenegger.ch/3mo_8.html#v22'>3.&nbsp;Mo&nbsp;8,22</a>.
   <br>Der
+ }
+#}
+#2mo-29-23 {
+ {
+  <i>Korb des Ungesäuerten</i> §3mo-8-2
  }
 #}
 #2mo-29-24 {
@@ -11771,8 +11786,8 @@
  }
  {
   Beachte, wie häufig in 3. Mose die Wendung «Und der HERR redete zu Mose…» vorkommt.
-  <br>Hier ist einer der wenigen Orte, wo er <i>rief<i>.
- } 
+  <br>Hier ist einer der wenigen Orte, wo er <i>rief</i>.
+ }
  {
   Das erste Aleph in diesem Vers (im ersten Wort) ist klein geschrieben (siehe <a href='#typo_details'>Typographische Details im Alten Testament</a>.
   TODO: Ohne dieses Aleph wäre dies dasselbe Wort wie 'begegnen' in <a href='http://bibel.renenyffenegger.ch/4mo_23.html#v4'>4.&nbsp;Mo&nbsp;23,4</a>.
@@ -12041,7 +12056,7 @@
 #}
 #3mo-4-23 {
  {
-  <i>Ziegenbock</i> <span class='hebr'>שְׂעִ֥יר עִזִּ֖ים</span> (Strongs 8163 5795), siehe §+1mo-37-31. In Vers 24 steht dann nur noch <i>der Haarige</i>.
+  <i>Ziegenbock</i> <span class='hebr'>שְׂעִ֥יר עִזִּ֖ים</span> (Strongs 8163 5795), siehe §+1mo-37-31. In Vers 24 steht dann nur noch <i>der Haarige</i>. KJV übersetzt mit «kid of the goats».
   <br>Vgl <i>Ziege ohne Fehl</i> §3mo-4-28 (<span class='hebr'>שְׂעִירַת עִזִּים</span>, Strongs 8166 5795).
  }
 #}
@@ -12052,7 +12067,7 @@
 #}
 #3mo-4-28 {
  {
-  <i>Ziege</i>: <span class='hebr'>שְׂעִירַת עִזִּים</span> (Strongs 8166 5795), vgl <i>Ziegenbock<i> in §3mo-4-23.
+  <i>Ziege</i>: <span class='hebr'>שְׂעִירַת עִזִּים</span> (Strongs 8166 5795), vgl <i>Ziegenbock</i> in §3mo-4-23.
  }
  {
   TODO: Strongs 8166 (offenbar weibliche Ziege), siehe auch <a href='http://bibel.renenyffenegger.ch/3mo_5.html#v6'>3.&nbsp;Mo&nbsp;5,6</a>
@@ -12350,6 +12365,9 @@
    Beachte: Das <i>Einweihungsopfer</i> wurde zwischen §3mo-6-2 und hier nicht besprochen, s.a §+3mo-6-2.
  }
  {
+  <i>Einweihungsopfer</i> §3mo-8-28-ff
+ }
+ {
   TODO: Wäre allenfalls <i>Einweihungsopfer</i> nicht besser mit 'Füllung' übersetzt worden? Siehe <a class='kom' href='#I2mo-29-22'>2.&nbsp;Mo&nbsp;29,22</a>.
   Das Zugrundeliegende Wort ist <span class='hebr'>וְלַ֨מִּלּוּאִ֔ים</span> (Strongs 4394).
   <br>Auf jeden Fall kommt dieses Wort (in der Schlachter 2000 als 'Einsetzung' übersetzt) in
@@ -12371,13 +12389,19 @@
 #}
 #3mo-8-2 {
  {
-  → biblisches/Personen/Aaron/Söhne
- }
- {
+  → biblisches/Personen/Aaron/Söhne,
   → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
  }
  {
+  <i>Korb des Ungesäuerten</i> §2mo-29-23
+ }
+ {
   TODO: geschah diese Einsetzung am 50. Tag nach dem Passah? Siehe <a href='http://bibel.renenyffenegger.ch/3mo_23.html#v18'>3.&nbsp;Mo&nbsp;23,18</a> und <a class='kom' href='#I2mo-29-1'>2.&nbsp;Mo&nbsp;29,1</a>.
+ }
+#}
+#3mo-8-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
 #}
 #3mo-8-5 {
@@ -12404,12 +12428,32 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Becken
  }
 #}
+#3mo-8-15 {
+ {
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#altar-entsuendigen[Entsündigen des Altars] vgl §hebr-9-22 («Fast alle Dinge werden mit Blut gereinigt»).
+ }
+ {
+  Beachte, dass → biblisches/Personen/Mose hier den Altar entsündigt und im nächsten Vers auf dem Altar räuchert. Nach der Entsündigung des Altars und der Einsetzung der Priester ist es (immer?) Aufgabe (nur) der Priester,
+  auf dem Altar zu räuchern.
+ }
+#}
+#3mo-8-18 {
+ {
+  §2mo-29-15-ff
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
+ }
+#}
 #3mo-8-21 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
  }
 #}
 #3mo-8-22 {
+ {
+  §2mo-29-19-ff
+ }
  {
   TODO: 'Widder der Einsetzung' wohl besser übersetzt als 'Widder der Füllung' (hier fehlt das Wort 'Hände'),
   siehe <a class='kom' href='#I2mo-29-22'>2.&nbsp;Mo&nbsp;29,22</a>.
@@ -12418,6 +12462,19 @@
 #3mo-8-26 {
  {
    → biblisches/Eigene-Uebersetzung/Varianten/Ungesäuertes
+ }
+#}
+#3mo-8-27 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Webopfer
+ }
+#}
+#3mo-8-28 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer
+ }
+ {
+  <i>Einweihungsopfer</i>: §3mo-7-37
  }
 #}
 #3mo-8-31 {
@@ -13445,7 +13502,7 @@
 #}
 #3mo-23-18 {
  {
-  <i>Ein Jungstier und zwei Widder</i>: siehe <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v1'>2.&nbsp;Mo&nbsp;29,1</a> ff.
+  <i>Ein Jungstier und zwei Widder</i>: siehe §2mo-29-1-ff.
  }
  {
   TODO: Worauf bezieht sich das 'Trankopfer' hier?
@@ -77661,6 +77718,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #hebr-9-22 {
+ {
+  <i>fast alle Dinge werden mit Blut gereinigt</i> vgl §3mo-8-15 (wo der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar[Altar] entsündigt wurde).
+ }
  {
   TODO: Gibt es mit der 'roten Kuh' Vergebung ohne Blut? <a class='kom' href='#I5mo-21-4'>5.&nbsp;Mo&nbsp;21,4</a>.
   <br>Vgl auch <a class='kom' href='#Ips-51-9'>Ps&nbsp;51,9</a>.
