@@ -12390,7 +12390,9 @@
 #3mo-8-2 {
  {
   → biblisches/Personen/Aaron/Söhne,
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer[Speisopfer]
  }
  {
   <i>Korb des Ungesäuerten</i> §2mo-29-23
@@ -12503,6 +12505,11 @@
 #3mo-9-6 {
  {
   <i>Das ist es, was der HERR...</i> siehe <a class='kom' href='#I2mo-16-23'>2.&nbsp;Mo&nbsp;16,23</a>.
+ }
+#}
+#3mo-9-21 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Webopfer
  }
 #}
 @}
