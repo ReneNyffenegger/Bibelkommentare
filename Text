@@ -34682,7 +34682,7 @@
 #}
 #hi-1-7 {
  {
-  <i>Vom Durchstreifen der Erde</i> vgl §sach-1-11.
+  <i>Vom Durchstreifen der Erde</i> vgl. §sach-1-11, §+dan-12-4.
  }
 #}
 #hi-1-10 {
@@ -37500,6 +37500,9 @@
  {
   <i>Thron</i>: Vers 30.
  }
+ {
+  <i>Gerechtigkeit und Gericht sind deines Thrones Grundfeste</i> §ps-97-2 
+ }
 #}
 #ps-89-16 {
  {
@@ -37731,6 +37734,11 @@
 #}
 @}
 @Psalm 97 {
+#ps-97-2 {
+ {
+  <i>Gerechtigkeit und Gericht sind deines Thrones Grundfeste</i> §ps-89-15
+ }
+#}
 #ps-97-5 {
  {
    <i>Zerschmelzende Berge</i>: vgl <a class='kom' href='#Iri-5-5'>Ri&nbsp;5,5</a>.
@@ -48758,8 +48766,12 @@
 #}
 #dan-12-4 {
  {
-  <i>Versiegle das Buch</i>: vgl Johannes, der die Worte der Weissagung seines Buches nicht versiegeln soll (<a href='http://bibel.renenyffenegger.ch/offb_22.html#v10'>Offb&nbsp;22,10</a>).
-  <br>TODO: vgl <a class='kom' href='#Ioffb-10-4'>Offb&nbsp;10,4</a>.
+  <i>Versiegle das Buch</i>: vgl Johannes, der die Worte der Weissagung seines Buches nicht versiegeln soll (§offb-22-10).
+  <br>vgl §+offb-10-4.
+ }
+ {
+  <i>durchforschen</i> <span class='hebr'>שׁוּט</span> (Strongs 7751), in KJV mit «run to and fro» übersetzt. In §am-8-12 wird das Wort mit
+  «umherlaufen», in §hi-1-7 mit «durchstreifen» übersetzt.
  }
 #}
 #dan-12-5 {
@@ -49674,6 +49686,11 @@
     <a href='http://bibel.renenyffenegger.ch/mt_27.html#v45'>Mt&nbsp;27,45</a>,
     <a href='http://bibel.renenyffenegger.ch/mk_15.html#v33'>Mk&nbsp;15,33</a>,
     <a href='http://bibel.renenyffenegger.ch/lk_23.html#v44'>Lk&nbsp;23,44</a>.
+ }
+#}
+#am-8-12 {
+ {
+  <i>umherlaufen</i> §+dan-12-4.
  }
 #}
 @}
