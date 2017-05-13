@@ -55086,8 +55086,17 @@
 #}
 #mk-3-5 {
  {
-  <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
-  <br>Beachte:hier ist der Herr voll Zorn, in <a href='http://bibel.renenyffenegger.ch/lk_4.html#v28'>Lk&nbsp;4,28</a> werden die Leute in der Synagoge voll Zorn.
+  <i>Zorn in den Evangelien</i>: §+mt-3-7.
+ <br>
+  Beachte: hier ist der Herr voll Zorn, in §lk-4-28 werden die Leute in der Synagoge voll Zorn.
+ }
+ {
+  §lk-6-10
+ }
+#}
+#mk-3-6 {
+ {
+  §lk-6-11
  }
 #}
 #mk-3-11 {
@@ -57055,6 +57064,16 @@
       <a href='http://bibel.renenyffenegger.ch/gal_4.html#v10'>Gal&nbsp;4,10</a> mit 'beachten' übersetzt.
  }
 #}
+#lk-6-10 {
+ {
+  In §mk-3-5 steht zusätzlich, dass Er sie «mit Zorn, betrübt über die Verstockung ihres Herzens» angeblickt hat.
+ }
+#}
+#lk-6-11 {
+ {
+  In §mk-3-6 steht zusätzlich, dass die Pharisäer mit den Herodianern Rat gegen Ihn hielten, wie sie Ihn umbrächten.
+ }
+#}
 #lk-6-12 {
  {
    <i>Jesus auf Berg, um zu beten</i>: §+mk-6-46.
@@ -57068,6 +57087,9 @@
  }
  {
   Hier erstes vorkommen von <i>Apostel</i> in Lukas. Vgl §+mt-10-2.
+ }
+ {
+  Einer von den Zwölfen ist ein Teufel: §joh-6-70
  }
 #}
 #lk-6-15 {
@@ -59510,6 +59532,11 @@
  }
  {
    <span class='gt'>NA: «daß du der Heilige Gottes bist.»</span>
+ }
+#}
+#joh-6-70 {
+ {
+  §lk-6-13
  }
 #}
 @}
