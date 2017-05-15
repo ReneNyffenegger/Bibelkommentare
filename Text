@@ -55096,7 +55096,7 @@
 #}
 #mk-3-6 {
  {
-  §lk-6-11
+  In §lk-6-11 wird zusätzlich erwähnt, dass sie mit Unverstand erfüllt wurden.
  }
 #}
 #mk-3-11 {
@@ -57148,6 +57148,9 @@
 #}
 #lk-7-14 {
  {
+  Vgl §lk-8-54, §apg-9-40
+ }
+ {
   TODO: vgl <a class='kom' href='#Ilk-5-24'>Lk&nbsp;5,24</a>.
  }
 #}
@@ -57264,12 +57267,22 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse/Sämann
  }
 #}
+#lk-8-8 {
+ {
+  <i>Wer Ohren hat zu hören, der höre</i> vgl §Vlk-8-18, §Vlk-8-21
+ }
+#}
 #lk-8-10 {
  {
   <a class='kom' href='#Imt-13-13'>Mt&nbsp;13,13</a>.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
+ }
+#}
+#lk-8-11 {
+ {
+  Der Same ist das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott vgl §1petr-1-23
  }
 #}
 #lk-8-12 {
@@ -57338,7 +57351,7 @@
 #}
 #lk-8-54 {
  {
-  Totenauferweckungen in den Evangelien: <a class='kom' href='#Imk-5-41'>Mk&nbsp;5,41</a>.
+  Totenauferweckungen in den Evangelien: §+mk-5-41, §lk-7-14
  }
 #}
 @}
@@ -62920,6 +62933,9 @@
  }
 #}
 #apg-9-40 {
+ {
+  Vgl §lk-7-14
+ }
  {
   Beachte: Philippus scheint auch in Cäsarea zu sein (<a class='kom' href='#Iapg-8-40'>Apg&nbsp;8,40</a>).
  }
@@ -79306,7 +79322,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-1-23 {
  {
-   Vgl <a href='http://bibel.renenyffenegger.ch/jak_1.html#v18'>Jak&nbsp;1,18</a>: gezeugt durch das Wort der Wahrheit.
+   Vgl §+lk-8-11
+  <br>
+   Vgl §jak-1-18: gezeugt durch das Wort der Wahrheit.
  }
  {
   Durch das Wort wurde die Welt geschaffen (TODO: stimmt das?) und durch das Wort gibt's Wiedergeburten.

@@ -335,6 +335,7 @@ my $at = 1;
    $current_text =~ s/\b([Bb])ei dem /$1eim /g;
 
    $current_text =~ s/in\{!\} dem/in dem/g;
+   $current_text =~ s/on\{!\} dem/on dem/g;
    $current_text =~ s/an\{!\} dem/an dem/g;
    $current_text =~ s/\b([Bb])ei\{!\} dem/$1ei dem/g;
 
