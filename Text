@@ -12594,6 +12594,9 @@
 #}
 #3mo-10-8 {
  {
+  Hier beginnt offenbar ein Einschub, der bis §3mo-16-1 reicht («Und Jehova redete zu Mose nach dem Tod der beiden Söhne Aarons…;»)
+ }
+ {
   TODO: Offenbar eines der wenigen Male, wo der HERR direkt und nur mit Aaron spricht?
  }
 #}
@@ -12778,12 +12781,20 @@
 #3mo-13-2 {
  {
   Aussatz scheint die Folge von Ungehorsam gegenüber Leviten (Priester) zu sein: <a href='http://bibel.renenyffenegger.ch/5mo_24.html#v8'>5.&nbsp;Mo&nbsp;24,8-9</a>.
+ <br>
+  Offenbar kann auch eine Plage entstehen, wenn die Kinder Israel sich dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/index[Heiligtum] nahen. §4mo-8-19
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Uebel-des-Aussatzes
+ }
+ {
+  → biblisches/Personen/Aaron/Söhne
  }
  {
   TODO: Aussätzige sollen aus dem Lager hinausgeschickt werden, weil Gott in der Mitte der Kinder Israel wohnt (<a class='kom' href='#I4mo-5-3'>4.&nbsp;Mo&nbsp;5,3</a>)
  }
  {
-  <b>Wenn sich bei einem Menschen an der Haut seines Fleisches ein Hautmal oder ein Ausschlag oder ein heller Fleck zeigt</b>
+  TODO: <b>Wenn sich bei einem Menschen an der Haut seines Fleisches ein Hautmal oder ein Ausschlag oder ein heller Fleck zeigt</b>
    <object data="svg_alle_kapitel/3mo_13_2.svg" type="image/svg+xml" width='700' height='300'></object>
  }
 #}
@@ -12794,43 +12805,48 @@
   <a href='http://bibel.renenyffenegger.ch/3mo_13.html#v23'>Vers 23</a>,
   <a href='http://bibel.renenyffenegger.ch/3mo_3.html#v28'>Vers 28</a>,
   <a href='http://bibel.renenyffenegger.ch/3mo_3.html#v34'>Vers 34</a>.
-  <br>TODO: Was ist mit <a href='http://bibel.renenyffenegger.ch/3mo_3.html#v37'>Vers 37</a>
+  <br>TODO: Was ist mit §V3mo-13-37.
   <br>Nicht aber in <a href='http://bibel.renenyffenegger.ch/3mo_13.html#v13'>Vers 13</a>,
       <a href='http://bibel.renenyffenegger.ch/3mo_13.html#v40'>Vers 40</a> / <a href='http://bibel.renenyffenegger.ch/3mo_13.html#v41'>Vers 41</a>
   <br>TODO:<br>
    <object data="svg_alle_kapitel/3mo_13_todo.svg" type="image/svg+xml" width='400' height='120'></object>
  }
 #}
+#3mo-13-11 {
+ {
+  Bei einem alten Aussatz ist eine «Quarantäne» offenbar sinnlos, der kranke Mensch kann sofort als unrein erklärt werden.
+ }
+#}
 #3mo-13-12 {
  {
-  <b>Wenn aber der Aussatz an der Haut ausbricht</b><br>
+  TODO: <b>Wenn aber der Aussatz an der Haut ausbricht</b><br>
    <object data="svg_alle_kapitel/3mo_13_12.svg" type="image/svg+xml" width='700' height='200'></object>
  }
 #}
 #3mo-13-14 {
  {
-  TODO: Offenbar darf das <i>rohe Fleisch</i> nicht gesehen werden.
+  Offenbar darf das <i>rohe Fleisch</i> nicht gesehen werden, vgl §V3mo-13-10
  }
 #}
 #3mo-13-18 {
  {
-  <b>Und wenn im Fleisch an der Haut ein Geschwür entsteht und wieder heilt, es bildet sich aber an der Stelle des Geschwürs ein weißes Hautmal oder ein weiß-rötlicher Fleck,</b>
+  TODO: <b>Und wenn im Fleisch an der Haut ein Geschwür entsteht und wieder heilt, es bildet sich aber an der Stelle des Geschwürs ein weißes Hautmal oder ein weiß-rötlicher Fleck,</b>
    <object data="svg_alle_kapitel/3mo_13_18.svg" type="image/svg+xml" width='500' height='270'></object>
  }
 #}
 #3mo-13-24 {
  {
-  <b>Oder wenn jemandes Fleisch an der Haut eine Brandwunde erhält, und es bildet sich am Mal der Verbrennung ein weißrötlicher oder weißer Fleck;</b>
+  TODO: <b>Oder wenn jemandes Fleisch an der Haut eine Brandwunde erhält, und es bildet sich am Mal der Verbrennung ein weißrötlicher oder weißer Fleck;</b>
    <object data="svg_alle_kapitel/3mo_13_24.svg" type="image/svg+xml" width='500' height='220'></object>
  }
 #}
 #3mo-13-29 {
  {
-  <b>Wenn ein Mann oder eine Frau auf dem Haupt oder am Bart ein Mal hat</b><br>
-   <object data="svg_alle_kapitel/3mo_13_29.svg" type="image/svg+xml" width='700' height='270'></object>
+  Hier <i>Mann oder Frau</i>, sonst bis hier: Mensch.
  }
  {
-  Hier 'Mann oder Frau' (sonst bis hier: 'Mensch').
+  TODO <b>Wenn ein Mann oder eine Frau auf dem Haupt oder am Bart ein Mal hat</b><br>
+   <object data="svg_alle_kapitel/3mo_13_29.svg" type="image/svg+xml" width='700' height='270'></object>
  }
 #}
 #3mo-13-30 {
@@ -12848,13 +12864,13 @@
 #}
 #3mo-13-38 {
  {
-  <b>Wenn sich bei einem Mann oder einer Frau an der Haut ihres Fleisches weiße Flecken zeigen</b><br>
+ TODO: <b>Wenn sich bei einem Mann oder einer Frau an der Haut ihres Fleisches weiße Flecken zeigen</b><br>
    <object data="svg_alle_kapitel/3mo_13_38.svg" type="image/svg+xml" width='500' height='90'></object>
  }
 #}
 #3mo-13-40 {
  {
-  <b>Wenn einem Mann die Haupthaare ausfallen</b><br>
+  TODO: <b>Wenn einem Mann die Haupthaare ausfallen</b><br>
    <object data="svg_alle_kapitel/3mo_13_40.svg" type="image/svg+xml" width='650' height='100'></object>
  }
  {
@@ -12874,7 +12890,11 @@
 #}
 #3mo-13-45 {
  {
-  <i>entblässen</i> siehe <a class='kom' href='#I3mo-10-6'>3.&nbsp;Mo&nbsp;10,6</a> und <a class='kom' href='#I2mo-5-4'>2.&nbsp;Mo&nbsp;5,4</a>.
+  <i>Haupt entblössen</i> §+3mo-10-6, §3mo-21-10, §4mo-5-18
+ }
+ {
+  
+  TODO: Strongs 6544: §+2mo-5-4
  }
 #}
 #3mo-13-47 {
@@ -12943,6 +12963,12 @@
   TODO: Ein Haus kann also entsündigt werden?
  }
 #}
+#3mo-14-54 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Dies-ist-das-Gesetz,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Uebel-des-Aussatzes
+ }
+#}
 @}
 @3. Mose 15 {
 #3mo-15-2 {
@@ -12976,6 +13002,9 @@
 @}
 @3. Mose 16 {
 #3mo-16-1 {
+ {
+  Offenbar ist hier ein Einschub beendet, der in §3mo-10-8 begonnen hat.
+ }
  {
   TODO: Ist dies die Beschreibung der Erwirkung der Sühne auf dem 'goldenen Altar' (<a href='http://bibel.renenyffenegger.ch/2mo_30.html#v3'>2.&nbsp;Mo&nbsp;30,3</a>),
   die einmal im Jahr stattfinden soll (<a href='http://bibel.renenyffenegger.ch/2mo_30.html#v10'>2.&nbsp;Mo&nbsp;30,10</a>). Auf jeden Fall darf darauf kein
@@ -14553,6 +14582,9 @@
 #4mo-8-19 {
  {
   <i>Die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] dem → biblisches/Personen/Aaron/Söhne[Aaron und seinen Söhnen] … gegeben</i> §4mo-3-9
+ }
+ {
+  <i>Plage</i> vgl §3mo-13-2
  }
 #}
 #4mo-8-24 {
@@ -18386,6 +18418,11 @@
 #5mo-21-4 {
  {
   TODO: Frage: gibt es hier Vergebung ohne Blutvergiessen? (<a href='http://bibel.renenyffenegger.ch/hebr_9.html#v22'>Hebr&nbsp;9,22</a>)
+ }
+#}
+#5mo-21-5 {
+ {
+  <i>Verletzung</i> Sch2K übersetzt mit «Körperverletzung», KJV mit «strike».
  }
 #}
 #5mo-21-6 {
