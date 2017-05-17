@@ -10493,10 +10493,10 @@
   <i>Blut auf dem rechten Ohrläppchen</i>: Malchus, dem Knecht des Hohepriesters, wurde das rechte Ohr mit dem Schwert abgehauen §+mt-26-51.
  }
  {
-  TODO: Blut auf das rechte Ohrlöppchen, Daumen... muss man auch bei der Reinigung der Aussatzplage tun
-  (<a href='http://bibel.renenyffenegger.ch/3mo_14.html#v14'>3. Mo 14,14/17/25/28</a>, dort manchmal/immer?
-  in Zusammenhang mit einem Schuldopfer).
-  <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/3mo_8.html#v23'>3.&nbsp;Mo&nbsp;8,23</a>.
+  Blut auf das rechte Ohrlöppchen, Daumen... muss man auch bei der Reinigung der Aussatzplage tun
+  (§3mo-14-14-ff, dort manchmal/immer(?) in Zusammenhang mit einem → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schuldopfer).
+  <br>
+  Siehe auch §3mo-8-23.
  }
 #}
 #2mo-29-22 {
@@ -12924,10 +12924,13 @@
 #}
 #3mo-14-4 {
  {
-  <i>Vögel</i>: siehe <a class='kom' href='#I4mo-22-2'>4.&nbsp;Mo&nbsp;22,2</a>.
+  <i>Zedernholz, Karmesin und Ysop</i> §V3mo-14-49, §4mo-19-6
  }
 #}
 #3mo-14-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer
+ }
  {
   <i>Log</i>, <span class='hebr'>לֹג</span> (Strongs 3849), kommt nur in diesem Kapitel vor.
  }
@@ -12939,13 +12942,21 @@
 #}
 #3mo-14-13 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Priester#was-den-priestern-gehoert
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schuldopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Priester#was-den-priestern-gehoert
+ }
+ {
+  §2koe-12-17
  }
 #}
 #3mo-14-14 {
  {
   Blut auf das Ohrläppchen musste auch bei der Einweihung Aarons (und seiner Söhne?) getan werden,
   siehe <a class='kom' href='#I2mo-29-20'>2.&nbsp;Mo&nbsp;29,20</a>.
+ }
+#}
+#3mo-14-21 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schuldopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Webopfer
  }
 #}
 #3mo-14-32 {
@@ -12960,7 +12971,7 @@
 #}
 #3mo-14-49 {
  {
-  TODO: Ein Haus kann also entsündigt werden?
+  <i>Zedernholz, Karmesin und Ysop</i> §+V3mo-14-4
  }
 #}
 #3mo-14-54 {
@@ -15491,6 +15502,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
 #}
+#4mo-19-6 {
+ {
+  <i>Zedernholz, Ysop und Karmesin</i> §3mo-14-4
+ }
+#}
 #4mo-19-9 {
  {
   Die Asche der <i>jungen</i> Kuh heiligt zur Reinheit des Fleisches (<a href='http://bibel.renenyffenegger.ch/hebr_9.html#v13'>Hebr&nbsp;9,13</a>).
@@ -15791,10 +15807,11 @@
   gerechten Taten des HERRN erkenne.
  }
  {
-  <i>Zippor</i> <span class='hebr'>צִפּוֹר</span> bedeutet offenbar 'Vogel' (wie zB <a href='http://bibel.renenyffenegger.ch/1mo_15.html#v10'>1.&nbsp;Mo&nbsp;15,10</a>),
-  'gefiederter Vogel' (wie in <a href='http://bibel.renenyffenegger.ch/1mo_7.html#v14'>1.&nbsp;Mo&nbsp;7,14</a>)
-  oder 'Sperling' (wie zB in <a href='http://bibel.renenyffenegger.ch/ps_84.html#v4'>Ps&nbsp;84,4</a>)
-  <br>Vgl auch mit Zippora (<span class='hebr'>צִפֹּרָה</span>).
+  <i>Zippor</i> <span class='hebr'>צִפּוֹר</span> bedeutet offenbar «Vogel» (wie zB §1mo-15-10),
+  «gefiederter Vogel» (wie in §1mo-7-14)
+  oder «Sperling» (wie zB in §ps-84-4)
+  <br>
+   Vgl. auch mit Zippora (<span class='hebr'>צִפֹּרָה</span>).
  }
 #}
 #4mo-22-3 {
@@ -27990,6 +28007,9 @@
 #2koe-12-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schuldopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer[Speisopfer], → biblisches/Eigene-Uebersetzung/Konkordanz/Priester#was-den-priestern-gehoert
+ }
+ {
+  §3mo-14-13
  }
 #}
 #2koe-12-18 {
