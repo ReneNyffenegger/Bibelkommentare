@@ -10241,7 +10241,7 @@
 #}
 #2mo-28-4 {
  {
-  <i>Lebirock von Zellenförmigem Gewebe</i>: Sch2K übersetzt mit «Leibrock aus gemustertem Stoff», KJV mit «broidered coat». Das Adjektiv ist <span class='he'>תַּשְׁבֵּץ</span> (Strongs 8665, 1x). Vgl mit dem Verb <span class='he'>שָׁבַץ</span> (Strongs 7660, 2x),
+  <i>Leibrock von zellenförmigem Gewebe</i>: Sch2K übersetzt mit «Leibrock aus gemustertem Stoff», KJV mit «broidered coat». Das Adjektiv ist <span class='he'>תַּשְׁבֵּץ</span> (Strongs 8665, 1x). Vgl mit dem Verb <span class='he'>שָׁבַץ</span> (Strongs 7660, 2x),
   welches in §V2mo-28-20 («eingefasst») und §V2mo-28-39 vorkommt.
  }
  {
@@ -10249,7 +10249,7 @@
    §3mo-16-4, dass er in Weberarbeit gemacht werden soll.
  }
  {
-   TODO: Weitere vorkommen dieses Leibrockes: §2mo-39-27, §3mo-16-4, §3mo-8-7-ff.
+   Weitere Vorkommen dieses Leibrockes: §2mo-39-27, §3mo-8-7-ff, §3mo-16-4.
  }
 #}
 #2mo-28-6 {
@@ -10716,6 +10716,9 @@
  }
 #}
 #2mo-30-10 {
+ {
+  <i>einmal im Jahr</i> §3mo-16-34, §hebr-9-7
+ }
  {
   TODO: Das geschieht wohl am <i>Versöhnungstag</i>, dessen Ausführungen in <a href='http://bibel.renenyffenegger.ch/3mo_16.html#v1'>3.&nbsp;Mo&nbsp;16,1</a> beschrieben werden.
  }
@@ -13044,6 +13047,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
  }
  {
+  <i>nicht zu aller Zeit</i> vgl §hebr-9-7-ff, §V3mo-16-34 («einmal im Jahr»).
+ }
+ {
   Diese Söhne sind in <a class='kom' href='#I3mo-10-2'>3.&nbsp;Mo&nbsp;10,2</a> gestorben.
  }
  {
@@ -13056,7 +13062,7 @@
 #}
 #3mo-16-4 {
  {
-  <i>Heilige leinenen Leibräcke</i> siehe <a class='kom' href='#I2mo-28-4'>2.&nbsp;Mo&nbsp;28,4</a>.
+  <i>Heilige leinenen Leibröcke</i> siehe §+2mo-28-4.
  }
  {
   TODO: Ist <i>Linnen</i> dasselbe Wort wie sonst für «Byssus» verwendet wird?
@@ -13088,6 +13094,11 @@
   TODO: Wer hat dieses Feuer angezündet?
  }
 #}
+#3mo-16-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+#}
 #3mo-16-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
@@ -13107,11 +13118,19 @@
 #}
 #3mo-16-29 {
  {
-  Siehe <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v7'>Hebr 9,7ff</a>: Der Heilige Geist zeigt <i>deutlich</i> an, dass der
+  Am zehnten des siebten Monats ist der → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Versöhnungstag
+ }
+ {
+  TODO Siehe <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v7'>Hebr 9,7ff</a>: Der Heilige Geist zeigt <i>deutlich</i> an, dass der
   Weg zum Heiligtum noch nicht offenbar gemacht ist, solange das vordere Zelt Bestand hat. Das Blut von Böcken und Kälbern und
   die Besprengung mit der Asche der jungen Kuh (<a href='http://bibel.renenyffenegger.ch/4mo_19.html#v9'>4.&nbsp;Mo&nbsp;19,9</a>?)
   heiligt die Verunreinigten zur Reinheit des Fleisches, aber das Blut des Christus reinigt das Gewissen, damit wir dem lebendigen
   Gott dienen können (<a href='http://bibel.renenyffenegger.ch/hebr_9.html#v12'>Hebr 9,12-13</a>).
+ }
+#}
+#3mo-16-34 {
+ {
+  <i>einmal im Jahr</i> vgl §hebr-9-7-ff, §2mo-30-10, §+V3mo-16-2
  }
 #}
 @}
@@ -13618,7 +13637,7 @@
 #}
 #3mo-23-14 {
  {
-  Das Laubhüttenfest ist wohl das <i>Fest der Einsammlung</i> (<a class='kom' href='#I2mo-23-14'>2.&nbsp;Mo&nbsp;23,14</a>).
+  Das → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfest] ist wohl das <i>Fest der Einsammlung</i> (§+2mo-23-14-ff).
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/An-eben-diesem-Tag
@@ -13659,6 +13678,9 @@
 #}
 #3mo-23-27 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Versöhnungstag
+ }
+ {
   TODO: 'Versöhnung' möglicherweise besser übersetzt mit 'Tag der Versöhnungen'
   siehe <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v33'>2.&nbsp;Mo&nbsp;29,33</a>.
   Hier und in <a href='http://bibel.renenyffenegger.ch/3mo_25.html#v9'>3.&nbsp;Mo&nbsp;25,9</a>. Versöhnungstag erscheint nur noch in Vers 28 und <a href='http://bibel.renenyffenegger.ch/3mo_25.html#v9'>3.&nbsp;Mo&nbsp;25,9</a>.
@@ -13670,7 +13692,7 @@
 #}
 #3mo-23-34 {
  {
-  <i>Laubhüttenfest</i>: <span class='hebr'>חַ֧ג הַסֻּכּ֛וֹת</span>, Strongs 2282+5521.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfest]: <span class='hebr'>חַ֧ג הַסֻּכּ֛וֹת</span>, Strongs 2282+5521.
  }
 #}
 #3mo-23-40 {
@@ -78194,7 +78216,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-9-7 {
  {
-  TODO: vgl mit <a href='http://bibel.renenyffenegger.ch/3mo_16.html#v2'>3.&nbsp;Mo&nbsp;16,2</a> ff.
+  <i>einmal im Jahr</i> §3mo-16-2-ff, §2mo-30-10, §3mo-16-34
  }
 #}
 #hebr-9-8 {
@@ -83532,7 +83554,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Drache
  }
 #}
-offb-12-9 {
+#offb-12-9 {
  {
   <i>Beinamen/Übernamen im Neuen Testament</i>: <a class='kom' href='#Imt-10-3'>Mt&nbsp;10,3</a>.
  }
