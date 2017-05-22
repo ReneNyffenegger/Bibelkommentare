@@ -12064,6 +12064,7 @@
 #3mo-4-10 {
  {
   <i>Rind</i> (<span class='hebr'>שׁוֹר</span>, Strongs 7794): hier das erste Vorkommen in 3. Mose. Evtl. wäre das Wort besser mit «Ochse» übersetzt worden.
+  Vgl. §+3mo-17-3
  }
  {
   <i>so … wie vom … Friedensopfer</i> vgl §3mo-3-1-ff
@@ -13140,6 +13141,14 @@
   <i>Das ist es, was der HERR...</i> siehe <a class='kom' href='#I2mo-16-23'>2.&nbsp;Mo&nbsp;16,23</a>.
  }
 #}
+#3mo-17-3 {
+ {
+  <i>Stier</i>: <span class='hebr'>שׁוֹר</span> (Strongs 7794), in Sch2K mit «Stier», in KJV mit «ox» übersetzt. §+3mo-4-10
+ }
+ {
+  <i>Schaf</i>: <span class='hebr'>כֶּ֫שֶׂב</span> (Strongs 3775), in Sch2K mit «Lamm», in KJV mit «lamb» übersetzt.
+ }
+#}
 #3mo-17-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
@@ -13147,7 +13156,10 @@
 #}
 #3mo-17-5 {
  {
-  <i>jetzt noch</i> ist zurecht in Klammern; es kommt im Grundtext nicht vor.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schlachtopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer
+ }
+ {
+  Sch2K fügt hinzu: «die sie <i>[jetzt noch]</i> auf freiem Feld opfern»
  }
 #}
 #3mo-17-6 {
@@ -13157,18 +13169,33 @@
 #}
 #3mo-17-7 {
  {
-  'Dämonen' <span class='hebr'>לַשְּׂעִירִ֕ם</span> (Strongs 8163) bedeutet auch <i>rauh/haaring</i> oder <i>Bock</i>,
-  siehe <a class='kom' href='#I1mo-27-11'>1.&nbsp;Mo&nbsp;27,11</a> und <a class='kom' href='#I2chr-11-15'>2.&nbsp;Chr&nbsp;11,15</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Dämon#daemonen-opfern[den Dämonen opfern] §1kor-10-20, §5mo-32-17, §ps-106-37
+  <br>
+   In der → biblisches/Grundtext/LXX ist das Wort für <i>Dämon</i> <span class='gr'>μάταιος</span> (Strongs 3152), welches «nichtig», «eitel» etc. bedeutet.
+  <br>
+  <i>Dämonen</i> <span class='hebr'>לַשְּׂעִירִ֕ם</span> (Strongs 8163) bedeutet auch <i>rauh/haaring</i> oder <i>Bock</i>,
+  siehe §+1mo-27-11 und §+2chr-11-15.
  }
 #}
 #3mo-17-8 {
  {
-   Verse 8+9: vgl <a class='kom' href='#I1sam-9-12'>1.&nbsp;Sam&nbsp;9,12</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
+ }
+ {
+   Verse 8+9: vgl §+1sam-9-12.
+ }
+#}
+#3mo-17-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Blut#blut-nicht-essen
  }
 #}
 #3mo-17-11 {
  {
-  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Blut nicht essen</i>: <a class='kom' href='#I3mo-3-17'>3.&nbsp;Mo&nbsp;3,17</a>.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Blut nicht essen</i>: §+3mo-3-17.
+ }
+ {
+  <i>denn das Blut ist es, welches Sühnung tut …</i> vgl. §hebr-9-22
  }
 #}
 #3mo-17-15 {
@@ -13238,6 +13265,11 @@
 #}
 @}
 @3. Mose 19 {
+#3mo-19-2 {
+ {
+  §+1petr-1-16
+ }
+#}
 #3mo-19-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer
@@ -19095,7 +19127,7 @@
 #}
 #5mo-32-17 {
  {
-  <i>Dämonen opfern, die nicht Gott sind</i> §1kor-10-20.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Dämon#daemonen-opfern[den Dämonen opfern], die nicht Gott sind</i> §1kor-10-20, §+3mo-17-7
  }
 #}
 #5mo-32-18 {
@@ -31499,7 +31531,7 @@
 #}
 #2chr-11-15 {
  {
-  'Bäcke' in KJV mit <i>devils</i> übersetzt, siehe <a class='kom' href='#I3mo-17-7'>3.&nbsp;Mo&nbsp;17,7</a>.
+  <i>Böcke</i> in KJV mit «devils» übersetzt, siehe §+3mo-17-7.
  }
 #}
 #2chr-11-16 {
@@ -38314,6 +38346,11 @@
   <i>Haderwasser</i>: <a href='http://bibel.renenyffenegger.ch/4mo_20.html#v1'>4.&nbsp;Mo&nbsp;20,1-13</a>, <a class='kom' href='#I4mo-20-13'>4.&nbsp;Mo&nbsp;20,13</a>.
  }
 #}
+#ps-106-37 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Dämon#daemonen-opfern[den Dämonen opfern] §+3mo-17-7
+ }
+#}
 #ps-106-38 {
  {
   Siehe <a class='kom' href='#I4mo-35-33'>4.&nbsp;Mo&nbsp;35,33</a>.
@@ -40379,6 +40416,11 @@
    <i>Ausspruch</i> <span class='hebr'>מַשָּׂא</span> (Strongs 4853), häufig mit 'Last' übersetzt,
    in <a href='http://bibel.renenyffenegger.ch/spr_31.html#v1'>Spr&nbsp;31,1</a> mit 'Lehre'.
    <br>S.a. <a class='kom' href='#Ijes-13-1'>Jes&nbsp;13,1</a>.
+ }
+#}
+#spr-30-3 {
+ {
+  <i>des Heiligen</i> müsste angeblich (R.L.) mit «des Allerheiligsten» übersetzt werden.
  }
 #}
 #spr-30-4 {
@@ -69557,7 +69599,7 @@
 #}
 #1kor-10-20 {
  {
-  <i>Dämonen opfern und nicht Gott</i> vgl §5mo-32-17.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Dämon#daemonen-opfern[den Dämonen opfern] und nicht Gott</i> vgl §+3mo-17-7, §5mo-32-17.
  }
 #}
 #1kor-10-23 {
@@ -78345,6 +78387,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>fast alle Dinge werden mit Blut gereinigt</i> vgl §3mo-8-15 (wo der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar[Altar] entsündigt wurde).
  }
  {
+  <i>ohne Blutvergiessung gibt es keine Vergebung</i> vgl §3mo-17-11 («… denn das Blut ist es, welches Sühnung tut durch die Seele.»)
+ }
+ {
   TODO: Gibt es mit der 'roten Kuh' Vergebung ohne Blut? <a class='kom' href='#I5mo-21-4'>5.&nbsp;Mo&nbsp;21,4</a>.
   <br>Vgl auch <a class='kom' href='#Ips-51-9'>Ps&nbsp;51,9</a>.
  }
@@ -79680,7 +79725,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-1-16 {
  {
-  <i>Seid heilig, denn ich bin heilig</i> vgl §+3mo-11-44-45, §3mo-20-7 
+  <i>Seid heilig, denn ich bin heilig</i> vgl §+3mo-11-44-45, §3mo-19-2, §3mo-20-7 
  }
 #}
 #1petr-1-17 {
