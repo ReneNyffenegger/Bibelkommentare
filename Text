@@ -13205,13 +13205,15 @@
 #}
 #3mo-19-18 {
  {
-   'du sollst deinen Nächsten lieben wie dich selbst' wird in <a href='http://bibel.renenyffenegger.ch/jak_2.html#v8'>Jak&nbsp;2,8</a>
+  'du sollst deinen Nächsten lieben wie dich selbst' wird in <a href='http://bibel.renenyffenegger.ch/jak_2.html#v8'>Jak&nbsp;2,8</a>
    das <i>königliche Gesetz</i> genannt.
    <br>In <a href='http://bibel.renenyffenegger.ch/mk_12.html#v31'>Mk&nbsp;12,31</a> wird es das 'zweite' genannt.
       S.a. <a class='kom' href='#I2mo-20-3'>2.&nbsp;Mo&nbsp;20,3</a> und <a class='kom' href='#I5mo-6-4'>5.&nbsp;Mo&nbsp;6,4</a>.
    <br>
    Vgl <a href='http://bibel.renenyffenegger.ch/gal_5.html#v14'>Gal&nbsp;5,14</a>: in diesem (einen) Wort
    wird das ganze Gesetz erfüllt.
+   <br>
+     §lk-10-27
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/roem_12.html#v19'>Röm&nbsp;12,19</a>.
@@ -52006,7 +52008,10 @@
 #}
 #mt-8-4 {
  {
-  <a class='kom' href='#I3mo-14-2'>3.&nbsp;Mo&nbsp;14,2</a>.
+  <i>sage es niemandem</i> §mt-9-30, §+mt-16-20
+ }
+ {
+  §+3mo-14-2.
  }
 #}
 #mt-8-5 {
@@ -52262,6 +52267,11 @@
   <br>woher wussten die Blinden, dass es Jesus war.
   <br>sind das etwa dieselben Blinden, und sind sie wieder Blind geworden? Hier wurden die Augen geöffnet
     (<span class='gr'>ἀνοίγω</span>, Strongs 455), dort werden sie <i>wieder</i> sehend (<span class='gr'>ἀναβλέπω</span>, Strongs 308).
+ }
+#}
+#mt-9-30 {
+ {
+  <i>niemand erfahre es</i> §+mt-8-4
  }
 #}
 #mt-9-33 {
@@ -53351,6 +53361,9 @@
 #}
 #mt-16-20 {
  {
+  <i>niemandem sagen, dass Er der Christus ist</i> §lk-9-20-21, vgl §mt-8-4
+ }
+ {
   <i>Jesus der Christus</i>:
     <a href='http://bibel.renenyffenegger.ch/joh_20.html#v31'>Joh&nbsp;20,31</a> (daran glauben),
     <a href='http://bibel.renenyffenegger.ch/apg_9.html#v34'>Apg&nbsp;9,34</a>,
@@ -53456,8 +53469,7 @@
   → biblisches/Personen/Elia/index
  }
  {
-  TODO: 'wiederherstellen' (=in den rechten Stand setzten). Vgl auch <a href='http://bibel.renenyffenegger.ch/mk_9.html#v12'>Mk&nbsp;9,12</a> und
-  <a class='kom' href='#Iapg-3-21'>Apg&nbsp;3,21</a>.
+  <i>wiederherstellen</i> (=in den rechten Stand setzten). Vgl auch §mk-9-12 und §+apg-3-21.
  }
 #}
 #mt-17-20 {
@@ -55540,6 +55552,11 @@
   Beachte, es ist zwar möglich, Christus zu erkennen und trotzdem nicht zu wissen, dass er getötet werden muss (Vers 31-33).
  }
 #}
+#mk-8-30 {
+ {
+  <i>Niemandm etwas sagen</i> §+mt-16-20
+ }
+#}
 #mk-8-31 {
  {
   <i>Der Menschensohn muss viel leiden</i>: <a class='kom' href='#Imt-16-21'>Mt&nbsp;16,21</a>.
@@ -55578,8 +55595,9 @@
 #}
 #mk-9-12 {
  {
-  <a class='kom' href='#Imt-17-11'>Mt&nbsp;17,11</a>.
-  <br>Vgl hier <i>Elia</i> mit <i>Johannes</i> in <a href='http://bibel.renenyffenegger.ch/lk_16.html#v16'>Lk&nbsp;16,16</a>.
+  <i>alle Dinge wiederherstellen</i> §+mt-17-11.
+  <br>
+  Vgl hier <i>Elia</i> mit <i>Johannes</i> in §lk-16-16.
  }
 #}
 #mk-9-18 {
@@ -56282,6 +56300,9 @@
  }
 #}
 #mk-16-17 {
+ {
+  Vgl §lk-10-19
+ }
  {
   TODO: <i>begleiten</i> <span class='gr'>παρακολουθέω</span> (Strongs 3877, 4x) wird so übersetzt:
   <table class='grid' summary='...'>
@@ -57363,6 +57384,10 @@
 #}
 #lk-9-3 {
  {
+  Beachte: Hier gehen die Jünger ohne Brot und Geld aus. In §Vlk-9-13 sagt der Herr, dass sie anderen Menschen zu essen geben sollen. Das scheinen sie sich aber nicht zuzutrauen.
+  Auf diese Begebenheit hin erkennt Petrus, dass der Herr der Christus Gottes ist (§lk-9-20).
+ }
+ {
   Beachte, in <a href='http://bibel.renenyffenegger.ch/mk_6.html#v8'>Mk&nbsp;6,8</a> sollen die Jünger einen <i>Stab</i> mitnehmen.
  }
  {
@@ -57387,9 +57412,14 @@
   Vgl Vers 19.
  }
 #}
+#lk-9-20 {
+#}
 #lk-9-21 {
  {
-  <i>Niemandem etwas sagen</i>: vgl Vers 36.
+  Es scheint, als ob der Herr nicht möchte, dass Petrus verkündigt, dass er der Christus ist, weil sonst sein Auftrag, getötet zu werden, in Gefahr stünde. Vgl §1kor-2-8
+ }
+ {
+  <i>Niemandem etwas sagen</i>: vgl §mt-16-20, §mk-8-30, §Vlk-9-36
  }
 #}
 #lk-9-22 {
@@ -57425,10 +57455,11 @@
   Sohn des Menschen geschrieben haben, wird erfüllt).
  }
 #}
-#lk-9-37 {
+#lk-9-36 {
  {
-  TODO: Beachte: in <a href='http://bibel.renenyffenegger.ch/mt_17.html#v9'>Mt 17,9 ff</a> und <a href='http://bibel.renenyffenegger.ch/mk_9.html#v9'>Mk 9,9 ff</a>
-  sagt Jesus, dass sie nichts erzählen sollen, bis er aus den Toten auferstehe.
+  <i>… verkündigten in jenen Tagen niemand etwas von dem, …</i> §Vlk-9-21
+  <br>
+  Beachte: in §mt-17-9-ff und §mk-9-9-ff gebietet der Herr, dass sie nichts erzählen sollen, bis er aus den Toten auferstehe.
  }
 #}
 #lk-9-38 {
@@ -57513,6 +57544,11 @@
   Vgl mit «Der Arbeiter ist seiner Nahrung wert» in <a class='kom' href='#Imt-10-10'>Mt&nbsp;10,10</a>.
  }
 #}
+#lk-10-19 {
+ {
+  Vgl §mk-16-17-18
+ }
+#}
 #lk-10-20 {
  {
   Vgl <i>Im Himmel geschriebenen Namen</i> mit der <i>Gemeinde der Erstgeborenen, die im Himmel angeschrieben sind</i>:
@@ -57522,6 +57558,16 @@
 #lk-10-21 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+ }
+#}
+#lk-10-25 {
+ {
+  §lk-18-18
+ }
+#}
+#lk-10-27 {
+ {
+  <i>den Nächsten lieben wie dich selbst</i> §3mo-19-18
  }
 #}
 #lk-10-37 {
@@ -58039,6 +58085,11 @@
 #lk-18-15 {
  {
   TODO: In diesem Vers kommt Strongs 2873 vor. vgl <a class='kom' href='#Imk-14-6'>Mk&nbsp;14,6</a>.
+ }
+#}
+#lk-18-18 {
+ {
+  §lk-10-25
  }
 #}
 #lk-18-20 {
@@ -68318,6 +68369,9 @@
 #}
 #1kor-2-8 {
  {
+  Vgl §+lk-9-21
+ }
+ {
   TODO: Was über Gott bekannt ist: <a class='kom' href='#Iroem-1-19'>Röm&nbsp;1,19</a>.
  }
 #}
@@ -74835,6 +74889,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Gemeinde Gottes</i>: <a class='kom' href='#Iapg-20-28'>Apg&nbsp;20,28</a>.
  }
  {
+  <i>Ausharren</i> vgl «Ausharren des Christus» in §2thes-3-5
+ }
+ {
   <i>Bedrängnis</i>: Vgl <a class='kom' href='#Iroem-5-3'>Röm&nbsp;5,3</a>.
   <br>Die Thessaloniker (?) sind dazu bestimmt (<a href='http://bibel.renenyffenegger.ch/1thes_3.html#v3'>1.&nbsp;Thes&nbsp;3,3-4</a>.
   <br>In <a href='http://bibel.renenyffenegger.ch/1thes_3.html#v5'>1.&nbsp;Thes&nbsp;3,5</a> hatte Paulus noch Angst, dass der Versucher
@@ -75045,6 +75102,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
+ }
+#}
+#2thes-3-5 {
+ {
+  <i>Ausharren des Christus</i> §2thes-1-4
  }
 #}
 #2thes-3-6 {
