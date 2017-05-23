@@ -2,6 +2,14 @@
 use strict;
 use warnings;
 
+my %verses;
+open my $e, '<', "$ENV{github_root}Bibeluebersetzungen/tq84.bibel" or die;
+while (<$e>) {
+  my ($vers) = split '\|';
+  $verses{$vers}=1;
+}
+close $e;
+
 open my $h, '<', 'Text' or die;
 
 my %books_seen;
@@ -14,7 +22,7 @@ my $in_v = 0;
 my $in_t = 0;   
 my $in_c = 0;
 
-my %map_books_abbreviation = ( # {
+my %map_books_abbreviation = ( #_{
 
   '1. Mose'           => '1mo',
   '2. Mose'           => '2mo',
@@ -82,12 +90,12 @@ my %map_books_abbreviation = ( # {
   '3. Johannes'       => '3joh',
   'Judas'             => 'jud',
   'Offenbarung'       => 'offb',
-); # }
+); #_}
 
 
-while (my $l = <$h>) {
+while (my $l = <$h>) { #_{
 
-  if ( my ($book, $chapter) = $l =~ /@(.+) (\d+)/) {
+  if ( my ($book, $chapter) = $l =~ /@(.+) (\d+)/) { #_{
 
      die if $in_v;
      die if $in_t;
@@ -126,9 +134,9 @@ while (my $l = <$h>) {
 
      next
 
-  }
+  } #_}
 
-  if ( my ($book_ch, $v) = $l =~ /^#(\w+-\d+)-(\d+) \{$/) {
+  if ( my ($book_ch, $v) = $l =~ /^#(\w+-\d+)-(\d+) \{$/) { #_{
 
     die if $in_v;
     die if $in_t;
@@ -142,11 +150,15 @@ while (my $l = <$h>) {
       print "Mismatch vv $book_ch $cur_abbr_with_ch $cur_v $v ($.)\n";
     }
 
+    unless (exists $verses{"$book_ch-$v"}) {
+      print "Verse $book_ch-$v does not exist\n";
+    }
+
     $cur_v = $v;
     next;
 
-  }
-  if ($l =~ /^#\}/) {
+  } #_}
+  if ($l =~ /^#\}/) { #_{
 
     die unless $in_c;
     die unless $in_v;
@@ -155,41 +167,41 @@ while (my $l = <$h>) {
 
     next;
 
-  }
-  if ($l =~ /^ \{$/) {
+  } #_}
+  if ($l =~ /^ \{$/) { #_{
     die unless $in_c;
     die unless $in_v;
     die if     $in_t;
     $in_t = 1;
     next;
-  }
-  if ($l =~ /^ \}$/) {
+  } #_}
+  if ($l =~ /^ \}$/) { #_{
     die unless $in_c;
     die unless $in_v;
     die unless $in_t;
     $in_t = 0;
     next;
-  }
-  if ($l =~ /^#\}/) {
+  } #_}
+  if ($l =~ /^#\}/) { #_{
     die unless $in_c;
     die unless $in_v;
     die if     $in_t;
     $in_v = 0;
     next;
-  }
-  if ($l =~ /^\@\}$/) {
+  } #_}
+  if ($l =~ /^\@\}$/) { #_{
     die unless $in_c;
     die if     $in_v;
     die if     $in_t;
     $in_c = 0;
     next;
-  }
-  if ($l =~ /^\{/) {
+  } #_}
+  if ($l =~ /^\{/) { #_{
     next;
-  }
-  if ($l =~ /^\}$/) {
+  } #_}
+  if ($l =~ /^\}$/) { #_{
     next;
-  }
+  } #_}
   die $l . ' @ ' . $. unless $in_c and $in_t and $in_v;
   if ($l =~ /<!--[{}]-->/) {
     next;
@@ -199,6 +211,6 @@ while (my $l = <$h>) {
   next if $l =~ /m\{!\} HERRN/; 
   die $l . ' @ ' . $. if $l =~ /[{}]/ and $l !~ m,<!--[{}]-->,;
 
-}
+} #}
 
 close $h;
