@@ -10241,7 +10241,7 @@
 #}
 #2mo-28-4 {
  {
-  <i>Lebirock von Zellenförmigem Gewebe</i>: Sch2K übersetzt mit «Leibrock aus gemustertem Stoff», KJV mit «broidered coat». Das Adjektiv ist <span class='he'>תַּשְׁבֵּץ</span> (Strongs 8665, 1x). Vgl mit dem Verb <span class='he'>שָׁבַץ</span> (Strongs 7660, 2x),
+  <i>Leibrock von zellenförmigem Gewebe</i>: Sch2K übersetzt mit «Leibrock aus gemustertem Stoff», KJV mit «broidered coat». Das Adjektiv ist <span class='he'>תַּשְׁבֵּץ</span> (Strongs 8665, 1x). Vgl mit dem Verb <span class='he'>שָׁבַץ</span> (Strongs 7660, 2x),
   welches in §V2mo-28-20 («eingefasst») und §V2mo-28-39 vorkommt.
  }
  {
@@ -10249,7 +10249,7 @@
    §3mo-16-4, dass er in Weberarbeit gemacht werden soll.
  }
  {
-   TODO: Weitere vorkommen dieses Leibrockes: §2mo-39-27, §3mo-16-4, §3mo-8-7-ff.
+   Weitere Vorkommen dieses Leibrockes: §2mo-39-27, §3mo-8-7-ff, §3mo-16-4.
  }
 #}
 #2mo-28-6 {
@@ -10493,10 +10493,10 @@
   <i>Blut auf dem rechten Ohrläppchen</i>: Malchus, dem Knecht des Hohepriesters, wurde das rechte Ohr mit dem Schwert abgehauen §+mt-26-51.
  }
  {
-  TODO: Blut auf das rechte Ohrlöppchen, Daumen... muss man auch bei der Reinigung der Aussatzplage tun
-  (<a href='http://bibel.renenyffenegger.ch/3mo_14.html#v14'>3. Mo 14,14/17/25/28</a>, dort manchmal/immer?
-  in Zusammenhang mit einem Schuldopfer).
-  <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/3mo_8.html#v23'>3.&nbsp;Mo&nbsp;8,23</a>.
+  Blut auf das rechte Ohrlöppchen, Daumen... muss man auch bei der Reinigung der Aussatzplage tun
+  (§3mo-14-14-ff, dort manchmal/immer(?) in Zusammenhang mit einem → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schuldopfer).
+  <br>
+  Siehe auch §3mo-8-23.
  }
 #}
 #2mo-29-22 {
@@ -10716,6 +10716,9 @@
  }
 #}
 #2mo-30-10 {
+ {
+  <i>einmal im Jahr</i> §3mo-16-34, §hebr-9-7
+ }
  {
   TODO: Das geschieht wohl am <i>Versöhnungstag</i>, dessen Ausführungen in <a href='http://bibel.renenyffenegger.ch/3mo_16.html#v1'>3.&nbsp;Mo&nbsp;16,1</a> beschrieben werden.
  }
@@ -12061,6 +12064,7 @@
 #3mo-4-10 {
  {
   <i>Rind</i> (<span class='hebr'>שׁוֹר</span>, Strongs 7794): hier das erste Vorkommen in 3. Mose. Evtl. wäre das Wort besser mit «Ochse» übersetzt worden.
+  Vgl. §+3mo-17-3
  }
  {
   <i>so … wie vom … Friedensopfer</i> vgl §3mo-3-1-ff
@@ -12594,6 +12598,9 @@
 #}
 #3mo-10-8 {
  {
+  Hier beginnt offenbar ein Einschub, der bis §3mo-16-1 reicht («Und Jehova redete zu Mose nach dem Tod der beiden Söhne Aarons…;»)
+ }
+ {
   TODO: Offenbar eines der wenigen Male, wo der HERR direkt und nur mit Aaron spricht?
  }
 #}
@@ -12778,12 +12785,20 @@
 #3mo-13-2 {
  {
   Aussatz scheint die Folge von Ungehorsam gegenüber Leviten (Priester) zu sein: <a href='http://bibel.renenyffenegger.ch/5mo_24.html#v8'>5.&nbsp;Mo&nbsp;24,8-9</a>.
+ <br>
+  Offenbar kann auch eine Plage entstehen, wenn die Kinder Israel sich dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/index[Heiligtum] nahen. §4mo-8-19
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Uebel-des-Aussatzes
+ }
+ {
+  → biblisches/Personen/Aaron/Söhne
  }
  {
   TODO: Aussätzige sollen aus dem Lager hinausgeschickt werden, weil Gott in der Mitte der Kinder Israel wohnt (<a class='kom' href='#I4mo-5-3'>4.&nbsp;Mo&nbsp;5,3</a>)
  }
  {
-  <b>Wenn sich bei einem Menschen an der Haut seines Fleisches ein Hautmal oder ein Ausschlag oder ein heller Fleck zeigt</b>
+  TODO: <b>Wenn sich bei einem Menschen an der Haut seines Fleisches ein Hautmal oder ein Ausschlag oder ein heller Fleck zeigt</b>
    <object data="svg_alle_kapitel/3mo_13_2.svg" type="image/svg+xml" width='700' height='300'></object>
  }
 #}
@@ -12794,43 +12809,48 @@
   <a href='http://bibel.renenyffenegger.ch/3mo_13.html#v23'>Vers 23</a>,
   <a href='http://bibel.renenyffenegger.ch/3mo_3.html#v28'>Vers 28</a>,
   <a href='http://bibel.renenyffenegger.ch/3mo_3.html#v34'>Vers 34</a>.
-  <br>TODO: Was ist mit <a href='http://bibel.renenyffenegger.ch/3mo_3.html#v37'>Vers 37</a>
+  <br>TODO: Was ist mit §V3mo-13-37.
   <br>Nicht aber in <a href='http://bibel.renenyffenegger.ch/3mo_13.html#v13'>Vers 13</a>,
       <a href='http://bibel.renenyffenegger.ch/3mo_13.html#v40'>Vers 40</a> / <a href='http://bibel.renenyffenegger.ch/3mo_13.html#v41'>Vers 41</a>
   <br>TODO:<br>
    <object data="svg_alle_kapitel/3mo_13_todo.svg" type="image/svg+xml" width='400' height='120'></object>
  }
 #}
+#3mo-13-11 {
+ {
+  Bei einem alten Aussatz ist eine «Quarantäne» offenbar sinnlos, der kranke Mensch kann sofort als unrein erklärt werden.
+ }
+#}
 #3mo-13-12 {
  {
-  <b>Wenn aber der Aussatz an der Haut ausbricht</b><br>
+  TODO: <b>Wenn aber der Aussatz an der Haut ausbricht</b><br>
    <object data="svg_alle_kapitel/3mo_13_12.svg" type="image/svg+xml" width='700' height='200'></object>
  }
 #}
 #3mo-13-14 {
  {
-  TODO: Offenbar darf das <i>rohe Fleisch</i> nicht gesehen werden.
+  Offenbar darf das <i>rohe Fleisch</i> nicht gesehen werden, vgl §V3mo-13-10
  }
 #}
 #3mo-13-18 {
  {
-  <b>Und wenn im Fleisch an der Haut ein Geschwür entsteht und wieder heilt, es bildet sich aber an der Stelle des Geschwürs ein weißes Hautmal oder ein weiß-rötlicher Fleck,</b>
+  TODO: <b>Und wenn im Fleisch an der Haut ein Geschwür entsteht und wieder heilt, es bildet sich aber an der Stelle des Geschwürs ein weißes Hautmal oder ein weiß-rötlicher Fleck,</b>
    <object data="svg_alle_kapitel/3mo_13_18.svg" type="image/svg+xml" width='500' height='270'></object>
  }
 #}
 #3mo-13-24 {
  {
-  <b>Oder wenn jemandes Fleisch an der Haut eine Brandwunde erhält, und es bildet sich am Mal der Verbrennung ein weißrötlicher oder weißer Fleck;</b>
+  TODO: <b>Oder wenn jemandes Fleisch an der Haut eine Brandwunde erhält, und es bildet sich am Mal der Verbrennung ein weißrötlicher oder weißer Fleck;</b>
    <object data="svg_alle_kapitel/3mo_13_24.svg" type="image/svg+xml" width='500' height='220'></object>
  }
 #}
 #3mo-13-29 {
  {
-  <b>Wenn ein Mann oder eine Frau auf dem Haupt oder am Bart ein Mal hat</b><br>
-   <object data="svg_alle_kapitel/3mo_13_29.svg" type="image/svg+xml" width='700' height='270'></object>
+  Hier <i>Mann oder Frau</i>, sonst bis hier: Mensch.
  }
  {
-  Hier 'Mann oder Frau' (sonst bis hier: 'Mensch').
+  TODO <b>Wenn ein Mann oder eine Frau auf dem Haupt oder am Bart ein Mal hat</b><br>
+   <object data="svg_alle_kapitel/3mo_13_29.svg" type="image/svg+xml" width='700' height='270'></object>
  }
 #}
 #3mo-13-30 {
@@ -12848,13 +12868,13 @@
 #}
 #3mo-13-38 {
  {
-  <b>Wenn sich bei einem Mann oder einer Frau an der Haut ihres Fleisches weiße Flecken zeigen</b><br>
+ TODO: <b>Wenn sich bei einem Mann oder einer Frau an der Haut ihres Fleisches weiße Flecken zeigen</b><br>
    <object data="svg_alle_kapitel/3mo_13_38.svg" type="image/svg+xml" width='500' height='90'></object>
  }
 #}
 #3mo-13-40 {
  {
-  <b>Wenn einem Mann die Haupthaare ausfallen</b><br>
+  TODO: <b>Wenn einem Mann die Haupthaare ausfallen</b><br>
    <object data="svg_alle_kapitel/3mo_13_40.svg" type="image/svg+xml" width='650' height='100'></object>
  }
  {
@@ -12874,7 +12894,11 @@
 #}
 #3mo-13-45 {
  {
-  <i>entblässen</i> siehe <a class='kom' href='#I3mo-10-6'>3.&nbsp;Mo&nbsp;10,6</a> und <a class='kom' href='#I2mo-5-4'>2.&nbsp;Mo&nbsp;5,4</a>.
+  <i>Haupt entblössen</i> §+3mo-10-6, §3mo-21-10, §4mo-5-18
+ }
+ {
+  
+  TODO: Strongs 6544: §+2mo-5-4
  }
 #}
 #3mo-13-47 {
@@ -12904,10 +12928,13 @@
 #}
 #3mo-14-4 {
  {
-  <i>Vögel</i>: siehe <a class='kom' href='#I4mo-22-2'>4.&nbsp;Mo&nbsp;22,2</a>.
+  <i>Zedernholz, Karmesin und Ysop</i> §V3mo-14-49, §4mo-19-6
  }
 #}
 #3mo-14-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer
+ }
  {
   <i>Log</i>, <span class='hebr'>לֹג</span> (Strongs 3849), kommt nur in diesem Kapitel vor.
  }
@@ -12919,13 +12946,21 @@
 #}
 #3mo-14-13 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Priester#was-den-priestern-gehoert
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schuldopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Priester#was-den-priestern-gehoert
+ }
+ {
+  §2koe-12-17
  }
 #}
 #3mo-14-14 {
  {
   Blut auf das Ohrläppchen musste auch bei der Einweihung Aarons (und seiner Söhne?) getan werden,
   siehe <a class='kom' href='#I2mo-29-20'>2.&nbsp;Mo&nbsp;29,20</a>.
+ }
+#}
+#3mo-14-21 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schuldopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Webopfer
  }
 #}
 #3mo-14-32 {
@@ -12940,19 +12975,30 @@
 #}
 #3mo-14-49 {
  {
-  TODO: Ein Haus kann also entsündigt werden?
+  <i>Zedernholz, Karmesin und Ysop</i> §+V3mo-14-4
+ }
+#}
+#3mo-14-54 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Dies-ist-das-Gesetz,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Uebel-des-Aussatzes
  }
 #}
 @}
 @3. Mose 15 {
 #3mo-15-2 {
  {
-  TODO: Ausflüssige sollen aus dem Lager hinausgeschickt werden, weil Gott in der Mitte der Kinder Israel wohnt (<a class='kom' href='#I4mo-5-3'>4.&nbsp;Mo&nbsp;5,3</a>)
+  Vgl §4mo-5-2-3: Flüssige sollen aus dem Lager hinausgeschickt werden, weil Gott in der → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels[Mitte der Kinder Israel] wohnt.
  }
 #}
 #3mo-15-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+#}
+#3mo-15-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
  }
 #}
 #3mo-15-19 {
@@ -12963,6 +13009,17 @@
 #3mo-15-25 {
  {
   Vgl mit der Frau, die seit 12 Jahren den Blutfluss hatte: <a href='http://bibel.renenyffenegger.ch/mk_5.html#v25'>Mk&nbsp;5,25</a>.
+ }
+#}
+#3mo-15-30 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
+ }
+#}
+#3mo-15-31 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft#wohnung-gottes,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
  }
 #}
 #3mo-15-32 {
@@ -12977,6 +13034,9 @@
 @3. Mose 16 {
 #3mo-16-1 {
  {
+  Offenbar ist hier ein Einschub beendet, der in §3mo-10-8 begonnen hat.
+ }
+ {
   TODO: Ist dies die Beschreibung der Erwirkung der Sühne auf dem 'goldenen Altar' (<a href='http://bibel.renenyffenegger.ch/2mo_30.html#v3'>2.&nbsp;Mo&nbsp;30,3</a>),
   die einmal im Jahr stattfinden soll (<a href='http://bibel.renenyffenegger.ch/2mo_30.html#v10'>2.&nbsp;Mo&nbsp;30,10</a>). Auf jeden Fall darf darauf kein
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer, Speisopfer oder Trankopfer stattfinden (<a href='http://bibel.renenyffenegger.ch/2mo_30.html#v9'>2.&nbsp;Mo&nbsp;30,9</a>) und Aaron muss mit dem Blut des Sündopfers
@@ -12986,6 +13046,9 @@
 #3mo-16-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+ }
+ {
+  <i>nicht zu aller Zeit</i> vgl §hebr-9-7-ff, §V3mo-16-34 («einmal im Jahr»).
  }
  {
   Diese Söhne sind in <a class='kom' href='#I3mo-10-2'>3.&nbsp;Mo&nbsp;10,2</a> gestorben.
@@ -13000,7 +13063,7 @@
 #}
 #3mo-16-4 {
  {
-  <i>Heilige leinenen Leibräcke</i> siehe <a class='kom' href='#I2mo-28-4'>2.&nbsp;Mo&nbsp;28,4</a>.
+  <i>Heilige leinenen Leibröcke</i> siehe §+2mo-28-4.
  }
  {
   TODO: Ist <i>Linnen</i> dasselbe Wort wie sonst für «Byssus» verwendet wird?
@@ -13032,6 +13095,11 @@
   TODO: Wer hat dieses Feuer angezündet?
  }
 #}
+#3mo-16-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+#}
 #3mo-16-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
@@ -13051,11 +13119,19 @@
 #}
 #3mo-16-29 {
  {
-  Siehe <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v7'>Hebr 9,7ff</a>: Der Heilige Geist zeigt <i>deutlich</i> an, dass der
+  Am zehnten des siebten Monats ist der → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Versöhnungstag
+ }
+ {
+  TODO Siehe <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v7'>Hebr 9,7ff</a>: Der Heilige Geist zeigt <i>deutlich</i> an, dass der
   Weg zum Heiligtum noch nicht offenbar gemacht ist, solange das vordere Zelt Bestand hat. Das Blut von Böcken und Kälbern und
   die Besprengung mit der Asche der jungen Kuh (<a href='http://bibel.renenyffenegger.ch/4mo_19.html#v9'>4.&nbsp;Mo&nbsp;19,9</a>?)
   heiligt die Verunreinigten zur Reinheit des Fleisches, aber das Blut des Christus reinigt das Gewissen, damit wir dem lebendigen
   Gott dienen können (<a href='http://bibel.renenyffenegger.ch/hebr_9.html#v12'>Hebr 9,12-13</a>).
+ }
+#}
+#3mo-16-34 {
+ {
+  <i>einmal im Jahr</i> vgl §hebr-9-7-ff, §2mo-30-10, §+V3mo-16-2
  }
 #}
 @}
@@ -13065,6 +13141,14 @@
   <i>Das ist es, was der HERR...</i> siehe <a class='kom' href='#I2mo-16-23'>2.&nbsp;Mo&nbsp;16,23</a>.
  }
 #}
+#3mo-17-3 {
+ {
+  <i>Stier</i>: <span class='hebr'>שׁוֹר</span> (Strongs 7794), in Sch2K mit «Stier», in KJV mit «ox» übersetzt. §+3mo-4-10
+ }
+ {
+  <i>Schaf</i>: <span class='hebr'>כֶּ֫שֶׂב</span> (Strongs 3775), in Sch2K mit «Lamm», in KJV mit «lamb» übersetzt.
+ }
+#}
 #3mo-17-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
@@ -13072,7 +13156,10 @@
 #}
 #3mo-17-5 {
  {
-  <i>jetzt noch</i> ist zurecht in Klammern; es kommt im Grundtext nicht vor.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schlachtopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer
+ }
+ {
+  Sch2K fügt hinzu: «die sie <i>[jetzt noch]</i> auf freiem Feld opfern»
  }
 #}
 #3mo-17-6 {
@@ -13082,18 +13169,33 @@
 #}
 #3mo-17-7 {
  {
-  'Dämonen' <span class='hebr'>לַשְּׂעִירִ֕ם</span> (Strongs 8163) bedeutet auch <i>rauh/haaring</i> oder <i>Bock</i>,
-  siehe <a class='kom' href='#I1mo-27-11'>1.&nbsp;Mo&nbsp;27,11</a> und <a class='kom' href='#I2chr-11-15'>2.&nbsp;Chr&nbsp;11,15</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Dämon#daemonen-opfern[den Dämonen opfern] §1kor-10-20, §5mo-32-17, §ps-106-37
+  <br>
+   In der → biblisches/Grundtext/LXX ist das Wort für <i>Dämon</i> <span class='gr'>μάταιος</span> (Strongs 3152), welches «nichtig», «eitel» etc. bedeutet.
+  <br>
+  <i>Dämonen</i> <span class='hebr'>לַשְּׂעִירִ֕ם</span> (Strongs 8163) bedeutet auch <i>rauh/haaring</i> oder <i>Bock</i>,
+  siehe §+1mo-27-11 und §+2chr-11-15.
  }
 #}
 #3mo-17-8 {
  {
-   Verse 8+9: vgl <a class='kom' href='#I1sam-9-12'>1.&nbsp;Sam&nbsp;9,12</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
+ }
+ {
+   Verse 8+9: vgl §+1sam-9-12.
+ }
+#}
+#3mo-17-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Blut#blut-nicht-essen
  }
 #}
 #3mo-17-11 {
  {
-  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Blut nicht essen</i>: <a class='kom' href='#I3mo-3-17'>3.&nbsp;Mo&nbsp;3,17</a>.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Blut nicht essen</i>: §+3mo-3-17.
+ }
+ {
+  <i>denn das Blut ist es, welches Sühnung tut …</i> vgl. §hebr-9-22
  }
 #}
 #3mo-17-15 {
@@ -13163,6 +13265,11 @@
 #}
 @}
 @3. Mose 19 {
+#3mo-19-2 {
+ {
+  §+1petr-1-16
+ }
+#}
 #3mo-19-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer
@@ -13564,7 +13671,7 @@
 #}
 #3mo-23-14 {
  {
-  Das Laubhüttenfest ist wohl das <i>Fest der Einsammlung</i> (<a class='kom' href='#I2mo-23-14'>2.&nbsp;Mo&nbsp;23,14</a>).
+  Das → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfest] ist wohl das <i>Fest der Einsammlung</i> (§+2mo-23-14-ff).
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/An-eben-diesem-Tag
@@ -13605,6 +13712,9 @@
 #}
 #3mo-23-27 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Versöhnungstag
+ }
+ {
   TODO: 'Versöhnung' möglicherweise besser übersetzt mit 'Tag der Versöhnungen'
   siehe <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v33'>2.&nbsp;Mo&nbsp;29,33</a>.
   Hier und in <a href='http://bibel.renenyffenegger.ch/3mo_25.html#v9'>3.&nbsp;Mo&nbsp;25,9</a>. Versöhnungstag erscheint nur noch in Vers 28 und <a href='http://bibel.renenyffenegger.ch/3mo_25.html#v9'>3.&nbsp;Mo&nbsp;25,9</a>.
@@ -13616,7 +13726,7 @@
 #}
 #3mo-23-34 {
  {
-  <i>Laubhüttenfest</i>: <span class='hebr'>חַ֧ג הַסֻּכּ֛וֹת</span>, Strongs 2282+5521.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfest]: <span class='hebr'>חַ֧ג הַסֻּכּ֛וֹת</span>, Strongs 2282+5521.
  }
 #}
 #3mo-23-40 {
@@ -13834,7 +13944,14 @@
 #3mo-26-12 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
-  Vgl §offb-2-1.
+ }
+ {
+  <i>Ich werde in eurer Mitte wandeln</i> §offb-2-1
+ }
+#}
+#3mo-26-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-aus-knechtschaft-herausgefuehrt 
  }
 #}
 #3mo-26-19 {
@@ -14401,8 +14518,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
  }
  {
-  TODO: Aussätzige <a class='kom' href='#I3mo-13-2'>3.&nbsp;Mo&nbsp;13,2</a>, Tote <a class='kom' href='#I4mo-19-11'>4.&nbsp;Mo&nbsp;19,11</a>,
-     Ausflüssige: <a class='kom' href='#I3mo-15-2'>3.&nbsp;Mo&nbsp;15,2</a>.
+  Aussätzige §+3mo-13-2, Tote §+4mo-19-11; Ausflüssige: §+3mo-15-2.
  }
 #}
 #4mo-5-6 {
@@ -14555,6 +14671,9 @@
 #4mo-8-19 {
  {
   <i>Die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] dem → biblisches/Personen/Aaron/Söhne[Aaron und seinen Söhnen] … gegeben</i> §4mo-3-9
+ }
+ {
+  <i>Plage</i> vgl §3mo-13-2
  }
 #}
 #4mo-8-24 {
@@ -15461,6 +15580,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
 #}
+#4mo-19-6 {
+ {
+  <i>Zedernholz, Ysop und Karmesin</i> §3mo-14-4
+ }
+#}
 #4mo-19-9 {
  {
   Die Asche der <i>jungen</i> Kuh heiligt zur Reinheit des Fleisches (<a href='http://bibel.renenyffenegger.ch/hebr_9.html#v13'>Hebr&nbsp;9,13</a>).
@@ -15761,10 +15885,11 @@
   gerechten Taten des HERRN erkenne.
  }
  {
-  <i>Zippor</i> <span class='hebr'>צִפּוֹר</span> bedeutet offenbar 'Vogel' (wie zB <a href='http://bibel.renenyffenegger.ch/1mo_15.html#v10'>1.&nbsp;Mo&nbsp;15,10</a>),
-  'gefiederter Vogel' (wie in <a href='http://bibel.renenyffenegger.ch/1mo_7.html#v14'>1.&nbsp;Mo&nbsp;7,14</a>)
-  oder 'Sperling' (wie zB in <a href='http://bibel.renenyffenegger.ch/ps_84.html#v4'>Ps&nbsp;84,4</a>)
-  <br>Vgl auch mit Zippora (<span class='hebr'>צִפֹּרָה</span>).
+  <i>Zippor</i> <span class='hebr'>צִפּוֹר</span> bedeutet offenbar «Vogel» (wie zB §1mo-15-10),
+  «gefiederter Vogel» (wie in §1mo-7-14)
+  oder «Sperling» (wie zB in §ps-84-4)
+  <br>
+   Vgl. auch mit Zippora (<span class='hebr'>צִפֹּרָה</span>).
  }
 #}
 #4mo-22-3 {
@@ -18390,6 +18515,11 @@
   TODO: Frage: gibt es hier Vergebung ohne Blutvergiessen? (<a href='http://bibel.renenyffenegger.ch/hebr_9.html#v22'>Hebr&nbsp;9,22</a>)
  }
 #}
+#5mo-21-5 {
+ {
+  <i>Verletzung</i> Sch2K übersetzt mit «Körperverletzung», KJV mit «strike».
+ }
+#}
 #5mo-21-6 {
  {
   <i>Hände waschen</i> vgl <a class='kom' href='#Imt-27-24'>Mt&nbsp;27,24</a>.
@@ -18999,7 +19129,7 @@
 #}
 #5mo-32-17 {
  {
-  <i>Dämonen opfern, die nicht Gott sind</i> §1kor-10-20.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Dämon#daemonen-opfern[den Dämonen opfern], die nicht Gott sind</i> §1kor-10-20, §+3mo-17-7
  }
 #}
 #5mo-32-18 {
@@ -25127,7 +25257,9 @@
 #}
 #2sam-11-4 {
  {
-  TODO: Damit sind wohl die 7 Tage aus <a href='http://bibel.renenyffenegger.ch/3mo_15.html#v19'>3.&nbsp;Mo&nbsp;15,19</a> gemeint.
+  TODO: Damit sind wohl die 7 Tage aus §3mo-15-19 gemeint.
+  <br>
+  Alternativ besteht die Mölgichkeit, dass sie für 14 Tage nach ihrer Blutung unrein war, und nun gereinigt war und damit empfänglich.
  }
 #}
 #2sam-11-21 {
@@ -27955,6 +28087,9 @@
 #2koe-12-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schuldopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer[Speisopfer], → biblisches/Eigene-Uebersetzung/Konkordanz/Priester#was-den-priestern-gehoert
+ }
+ {
+  §3mo-14-13
  }
 #}
 #2koe-12-18 {
@@ -31398,7 +31533,7 @@
 #}
 #2chr-11-15 {
  {
-  'Bäcke' in KJV mit <i>devils</i> übersetzt, siehe <a class='kom' href='#I3mo-17-7'>3.&nbsp;Mo&nbsp;17,7</a>.
+  <i>Böcke</i> in KJV mit «devils» übersetzt, siehe §+3mo-17-7.
  }
 #}
 #2chr-11-16 {
@@ -36706,9 +36841,11 @@
 #}
 #ps-55-10 {
  {
-  KJV übersetzt: 'Destroy, O Lord, and divide their tongues...'
-  <br>Das Wort für <i>entzweie</i> ist <span class='hebr'>פָּלַג</span> (Strongs 6385), vgl
-  <a class='kom' href='#I1mo-10-25'>1.&nbsp;Mo&nbsp;10,25</a>.
+  KJV übersetzt: «… and divide their tongues …», Sch2K mit «… entzweihe ihre Zunge …»
+  <br>
+   Vgl §apg-2-3
+  <br>
+  Das Wort für <i>zerteile</i> ist <span class='hebr'>פָּלַג</span> (Strongs 6385), vgl §+1mo-10-25.
  }
 #}
 #ps-55-14 {
@@ -37835,6 +37972,11 @@
   <i>Gerechtigkeit und Gericht sind deines Thrones Grundfeste</i> §ps-89-15
  }
 #}
+#ps-97-3 {
+ {
+  Vgl §2thes-1-8
+ }
+#}
 #ps-97-5 {
  {
    <i>Zerschmelzende Berge</i>: vgl <a class='kom' href='#Iri-5-5'>Ri&nbsp;5,5</a>.
@@ -38204,6 +38346,11 @@
 #ps-106-32 {
  {
   <i>Haderwasser</i>: <a href='http://bibel.renenyffenegger.ch/4mo_20.html#v1'>4.&nbsp;Mo&nbsp;20,1-13</a>, <a class='kom' href='#I4mo-20-13'>4.&nbsp;Mo&nbsp;20,13</a>.
+ }
+#}
+#ps-106-37 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Dämon#daemonen-opfern[den Dämonen opfern] §+3mo-17-7
  }
 #}
 #ps-106-38 {
@@ -40273,6 +40420,11 @@
    <br>S.a. <a class='kom' href='#Ijes-13-1'>Jes&nbsp;13,1</a>.
  }
 #}
+#spr-30-3 {
+ {
+  <i>des Heiligen</i> müsste angeblich (R.L.) mit «des Allerheiligsten» übersetzt werden.
+ }
+#}
 #spr-30-4 {
  {
   <a class='kom' href='#Ijoh-3-13'>Joh&nbsp;3,13</a>.
@@ -41012,6 +41164,11 @@
   <a href='http://bibel.renenyffenegger.ch/jes_65.html#v1'>Jes&nbsp;65,1</a> (wo Gott dies sagt)
  }
 #}
+#jes-6-9 {
+ {
+  Paulus verwendet dieses Zitat in §apg-28-26-ff
+ }
+#}
 #jes-6-10 {
  {
   Wird in <a href='http://bibel.renenyffenegger.ch/mt_13.html#v14'>Mt&nbsp;13,14</a> erfüllt und in
@@ -41492,6 +41649,11 @@
 #jes-14-7 {
  {
   <i>Stille Erde</i> vgl <a href='http://bibel.renenyffenegger.ch/sach_1.html#v11'>Sach&nbsp;1,11</a>
+ }
+#}
+#jes-14-12 {
+ {
+  <i>Zur Erde gefällt</i> vgl §offb-12-9
  }
 #}
 #jes-14-13 {
@@ -51745,6 +51907,9 @@
   <br>Vgl <a href='http://bibel.renenyffenegger.ch/mt_7.html#v12'>Mt&nbsp;7,12</a> («...dies ist das Gesetz und die Propheten» und
    <a href='http://bibel.renenyffenegger.ch/mt_7.html#v23'>Mt&nbsp;7,23</a> («weicht von mir, ihr Gesetzlosen»)
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
+ }
 #}
 #mt-5-18 {
  {
@@ -52518,6 +52683,12 @@
 #mt-10-34 {
  {
   Erfüllung in <a href='http://bibel.renenyffenegger.ch/apg_12.html#v2'>Apg&nbsp;12,2</a>?
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
+ }
+ {
+  Beachte: wenn Er zum 2. Mal kommt, wird er kommen, um Sein Friedensreich aufzurichten.
  }
 #}
 #mt-10-38 {
@@ -53540,12 +53711,14 @@
 #}
 #mt-18-8 {
  {
-  <i>Ewiges Feuer</i>: <a href='http://bibel.renenyffenegger.ch/mt_25.html#v41'>Mt&nbsp;25,41</a>,
-  <a href='http://bibel.renenyffenegger.ch/jud_1.html#v7'>Jud&nbsp;1,7</a>.
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/offb_20.html#v10'>Offb&nbsp;20,10</a>.
+  <i>Ewiges Feuer</i>: §mt-25-41, §jud-1-7.
+  <br>Vgl auch §offb-20-10, §2thes-1-9, §mk-3-29, §hebr-6-2
  }
 #}
 #mt-18-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
+ }
  {
   <span class='gt'>Vers fehlt in NA</span>.
  }
@@ -53733,8 +53906,12 @@
 #}
 #mt-20-28 {
  {
-   <i>Lösegeld für viele</i>: vgl <a href='http://bibel.renenyffenegger.ch/1tim_2.html#v6'>1.&nbsp;Tim&nbsp;2,6</a> («Lösegeld für alle»).
+   <i>Lösegeld für viele</i>: vgl §1tim-2-6 («Lösegeld für alle»).
    Beachte, dass im Timotheusbrief diese Aussage gefolgt wird von «das ist das Zeugnis zur rechten Zeit».
+ }
+ {
+  Jesus ist gekommen, → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen[um zu dienen und sein Leben zu geben], aber auch,
+  damit «sie» das Leben im Überfluss haben §joh-10-10
  }
 #}
 #mt-20-29 {
@@ -55035,6 +55212,11 @@
    <i>einsam</i> (Strongs 2048): <a class='kom' href='#Imt-14-13'>Mt&nbsp;14,13</a>. Dasselbe Wort wird in Vers 12 und 13 mit «Wüste» übersetzt.
  }
 #}
+#mk-1-38 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
+ }
+#}
 #mk-1-40 {
  {
   Vgl <i>wenn du willst</i> mit «wenn du etwas kannst» in <a href='http://bibel.renenyffenegger.ch/mk_9.html#v22'>Mk&nbsp;9,22</a>.
@@ -55065,6 +55247,11 @@
 #mk-2-13 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/mk_4.html#v1'>Mk&nbsp;4,1</a>, wo er «wiederum ... am See lehren» wird.
+ }
+#}
+#mk-2-17 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
 #}
 #mk-2-19 {
@@ -55168,6 +55355,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch[Söhne der Menschen]
  }
 #}
+#mk-3-29 {
+ {
+  <i>keine Vergebung in Ewigkeit</i> §mt-18-8
+ }
+#}
 @}
 @Markus 4 {
 #mk-4-1 {
@@ -55264,7 +55456,7 @@
 #}
 #mk-5-25 {
  {
-  TODO: <a class='kom' href='#I3mo-15-25'>3.&nbsp;Mo&nbsp;15,25</a>.
+  §+3mo-15-25.
  }
 #}
 #mk-5-28 {
@@ -55595,8 +55787,8 @@
 #}
 #mk-9-12 {
  {
-  <i>alle Dinge wiederherstellen</i> §+mt-17-11.
-  <br>
+  <i>Alle Dinge wiederherstellen</i> §+mt-17-11, §apg-3-21
+ <br>
   Vgl hier <i>Elia</i> mit <i>Johannes</i> in §lk-16-16.
  }
 #}
@@ -55742,6 +55934,11 @@
 #mk-10-38 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
+ }
+#}
+#mk-10-45 {
+ {
+  §+mt-20-28
  }
 #}
 #mk-10-47 {
@@ -56500,7 +56697,7 @@
   <br>Vgl mit <a href='http://bibel.renenyffenegger.ch/apg_3.html#v21'>Apg&nbsp;3,21</a>.
  }
  {
-  <i>Mund der Propheten</i>: vgl <a href='http://bibel.renenyffenegger.ch/apg_3.html#v18'>Apg 3,18/21</a>.
+  <i>Mund der Propheten</i> vgl §apg-3-18, §apg-3-21, §2petr-1-21
  }
 #}
 #lk-1-74 {
@@ -56995,6 +57192,8 @@
  }
  {
   <i>denn dazu bin ich gesandt worden</i> vgl §+mt-15-24, §lk-4-18
+  <br>
+   Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
 #}
 @}
@@ -57121,6 +57320,11 @@
  }
  {
   Simon, Eiferer genannt vgl §apg-1-13.
+ }
+#}
+#lk-6-22 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung
  }
 #}
 #lk-6-35 {
@@ -57517,6 +57721,9 @@
 #}
 #lk-9-56 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
+ }
+ {
    <span class='gt'>In NA fehlt «Denn der Sohn des Menschen ist nicht gekommen, um die Seelen der Menschen zu verderben, sondern zu erretten!»</span>
  }
 #}
@@ -57746,6 +57953,11 @@
  }
  {
   Verse 42-48: Vgl <a href='http://bibel.renenyffenegger.ch/1kor_4.html#v2'>1.&nbsp;Kor&nbsp;4,2</a>.
+ }
+#}
+#lk-12-49 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
 #}
 #lk-12-50 {
@@ -58169,6 +58381,11 @@
  }
  {
   Vgl auch <a class='kom' href='#Ilk-16-25'>Lk&nbsp;16,25</a>.
+ }
+#}
+#lk-19-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
 #}
 #lk-19-11 {
@@ -59540,6 +59757,14 @@
       <a href='http://bibel.renenyffenegger.ch/joh_19.html#v35'>Joh&nbsp;19,35</a>.
  }
 #}
+#joh-6-38 {
+ {
+  Jesus ist vom Himmel auf die Erde herabgekommen, dass die auf der Erde in den Himmel hinaufkommen können.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
+ }
+#}
 #joh-6-39 {
  {
   <i>Letzter Tag</i>: <a href='http://bibel.renenyffenegger.ch/joh_9.html#v24'>Joh&nbsp;9,24</a>, in diesem Kapitel bis Vers 54,
@@ -59552,6 +59777,9 @@
    <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v2'>Hebr&nbsp;1,2</a>
    <a href='http://bibel.renenyffenegger.ch/jak_5.html#v3'>Jak&nbsp;5,3</a> und
    <a href='http://bibel.renenyffenegger.ch/2petr_3.html#v3'>2.&nbsp;Petr&nbsp;3,3</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott
  }
 #}
 #joh-6-42 {
@@ -59649,6 +59877,11 @@
  {
   <i>woher er ist</i>: vgl <a href='http://bibel.renenyffenegger.ch/joh_8.html#v14'>Joh&nbsp;8,14</a>, <a href='http://bibel.renenyffenegger.ch/joh_9.html#v29'>Joh&nbsp;9,29</a>,
   <a href='http://bibel.renenyffenegger.ch/joh_19.html#v9'>Joh&nbsp;19,9</a>
+ }
+#}
+#joh-7-29 {
+ {
+  <i>Ich kenne ihn</i> §+2thes-1-8
  }
 #}
 #joh-7-30 {
@@ -59781,6 +60014,9 @@
 #joh-8-19 {
  {
   <i>Wo ist dein Vater</i>: vgl §+Vjoh-8-39 «Abraham ist unser Vater».
+ }
+ {
+  <i>Ihr kennt weder mich noch meinen Vater</i> §+2thes-1-8, §joh-10-15, §joh-14-7, §joh-17-3, §1joh-2-13
  }
 #}
 #joh-8-20 {
@@ -59981,6 +60217,11 @@
  }
  {
   <i>Tür der Schafe</i>: vgl §neh-3-1.
+ }
+#}
+#joh-10-10 {
+ {
+  Jesus ist → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen[gekommen, damit sie Leben haben], Er selbst gibt sein Lösegeld für viele §mt-20-28, §mk-10-45
  }
 #}
 #joh-10-12 {
@@ -60336,6 +60577,9 @@
 #}
 #joh-12-46 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
+ }
+ {
    <i>Licht</i>: <a class='kom' href='#Ijoh-8-12'>Joh&nbsp;8,12</a>.
  }
 #}
@@ -60484,6 +60728,9 @@
  }
 #}
 #joh-14-7 {
+ {
+  §+joh-8-19
+ }
  {
   TODO: 'von nun an'.
  }
@@ -60672,6 +60919,11 @@
    <i>verherrlicht</i>: <a class='kom' href='#Ijoh-7-39'>Joh&nbsp;7,39</a>.
  }
 #}
+#joh-17-3 {
+ {
+   <i>Gott erkennen</i> §+joh-8-19
+ }
+#}
 #joh-17-4 {
  {
   <i>Das Werk vollenden</i>: <a class='kom' href='#Ijoh-4-34'>Joh&nbsp;4,34</a>.
@@ -60827,6 +61079,9 @@
  }
 #}
 #joh-18-37 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
+ }
  {
   TODO: <a class='kom' href='#Ijoh-5-33'>Joh&nbsp;5,33</a>.
  }
@@ -61275,6 +61530,9 @@
  }
 #}
 #apg-2-3 {
+ {
+  <i>zerteilte Zungen</i> §ps-55-10
+ }
  {
   <i>Zungen von Feuer</i>: <a class='kom' href='#Ijes-5-24'>Jes&nbsp;5,24</a>.
  }
@@ -61731,10 +61989,10 @@
 #}
 #apg-3-21 {
  {
-  In die <i>Wiederherstellung aller Dinge</i> ist offenbar → biblisches/Personen/Elia involviert §mt-17-11
+  In die <i>Wiederherstellung aller Dinge</i> ist offenbar → biblisches/Personen/Elia involviert §mt-17-11, §mk-9-12
  }
  {
-  <i>Durch den Mund seiner heiligen → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] geredet</i> §+lk-1-70
+  <i>Durch den Mund seiner heiligen → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] geredet</i> §+lk-1-70, vgl §2petr-1-21
  }
 #}
 #apg-3-22 {
@@ -63540,6 +63798,9 @@
 #}
 #apg-13-2 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung, → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung#absonderung-paulus[Sondert mir … Saulus aus] (vgl. §roem-1-1)
+ }
+ {
   In Antiochia wurden sie zum Werk berufen, und in Antiochia hatten sie es vollbracht (<a href='http://bibel.renenyffenegger.ch/apg_14.html#v26'>Apg&nbsp;14,26</a>).
   Wird also bis Apg 14,26 dieses Werk beschrieben? Siehe <a class='kom' href='#I2tim-3-11'>2.&nbsp;Tim&nbsp;3,11</a>.
   <br>Möglicherweise steht dieses Werk in Verbindung damit, dass Gott den Heiden die <i>Tür des Glaubens</i> öffnete
@@ -64851,7 +65112,10 @@
 #}
 #apg-19-9 {
  {
-  'Weg': <a class='kom' href='#Iapg-9-2'>Apg&nbsp;9,2</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung
+ }
+ {
+  <i>Weg</i> §+apg-9-2.
  }
  {
   TODO: Erst nachdem Paulus die Jünger absonderte, hörte ganz Asia das Wort des Herrn (Vers 10).
@@ -65944,6 +66208,9 @@
 @Apostelgeschichte 28 {
 #apg-28-1 {
  {
+  Bei Melite handelt es sich möglicherweise um Kefalonia.
+ }
+ {
   TODO: Beachte: Paulus hat auf dieser Insel nicht gepredigt. Weil es keine Synagoge hat?
  }
 #}
@@ -66061,6 +66328,11 @@
    TODO: <i>Zeugnis</i>: <a class='kom' href='#Iapg-23-11'>Apg&nbsp;23,11</a>.
  }
 #}
+#apg-28-26 {
+ {
+  Das Zitat stammt aus §jes-6-9-ff
+ }
+#}
 #apg-28-28 {
  {
   <i>Heil</i>: <a class='kom' href='#Ilk-2-30'>Lk&nbsp;2,30</a>.
@@ -66095,8 +66367,8 @@
   Beachte: Paulus: <i>berufener Apostel</i>, die Adressaten: <i>Berufene Jesu Christi</i> (Vers 6).
  }
  {
-  Paulus, abgesondert für das Evangelium: vgl
-  §1tim-1-11, §gal-1-15, §+gal-2-7, §1thes-2-4, §1kor-1-17.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung#absonderung-paulus[Paulus, abgesondert] für das Evangelium: vgl
+  §apg-13-2, §1tim-1-11, §gal-1-15, §+gal-2-7, §1thes-2-4, §1kor-1-17.
  }
  {
     «mein → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium» §+roem-2-16, → biblisches/2-Timotheus-2-15/Evangelium-des-Reiches-und-des-Paulus
@@ -66218,10 +66490,9 @@
       <a href='http://bibel.renenyffenegger.ch/eph_5.html#v4'>Eph&nbsp;5,4</a> (Danksagung)
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1thes_1.html#v8'>1.&nbsp;Thes&nbsp;1,8</a>: überall (nicht nur Mazedonien und Achaja?) ist der
-  Glaube an Gott der Thessaloniker bekannt geworden.
-  <br>Vgl auch mit <a class='kom' href='#I1kor-1-11'>1.&nbsp;Kor&nbsp;1,11</a>, wo die Streitgikeiten den Leuten der Chloe bekannt geworden sind.
-  <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/roem_16.html#v19'>Röm&nbsp;16,19</a> (der Gehorsam der Römer ist überall bekannt geworden).
+  Vgl §1thes-1-8: überall (nicht nur Mazedonien und Achaja?) ist der Glaube an Gott der Thessaloniker bekannt geworden.
+  <br>Vgl auch mit §+1kor-1-11, wo die Streitgikeiten den Leuten der Chloe bekannt geworden sind.
+  <br>Vgl auch mit §roem-16-19 (der Gehorsam der Römer ist überall bekannt geworden).
  }
 #}
 #roem-1-9 {
@@ -66380,6 +66651,9 @@
  {
   <i>Dankbarkeit</i>: vgl <a href='http://bibel.renenyffenegger.ch/1thes_5.html#v18'>1.&nbsp;Thes&nbsp;5,18</a>.
  }
+ {
+  <i>Gott kennend</i> vgl §2thes-1-8
+ }
 #}
 #roem-1-23 {
  {
@@ -66456,6 +66730,9 @@
  }
  {
   <i>Tag des Zorns</i> und <i>gerechtes Gericht Gottes</i> vgl §offb-11-18
+ }
+ {
+  <i>Gerechtes Gericht Gottes</i> §2thes-1-5
  }
 #}
 #roem-2-8 {
@@ -66836,6 +67113,9 @@
  {
   <i>Vorbild</i>: <span class='gr'>τύπος</span>, Strongs 5179.
  }
+ {
+  TODO <i>Bild der Lehre</i> vgl «Bild gesunder Worte» §2tim-1-13
+ }
 #}
 #roem-6-19 {
  {
@@ -66844,6 +67124,10 @@
   <a class='kom' href='#Ikol-3-5'>Kol&nbsp;3,5</a>
   <a href='http://bibel.renenyffenegger.ch/jak_3.html#v5'>Jak 3,5-6</a>,
   <a href='http://bibel.renenyffenegger.ch/jak_4.html#v1'>Jak&nbsp;4,1</a>.
+  <br>
+ }
+ {
+  <i>Glieder zur Sklaverei der Gerechtigkeit zur Heiligkeit</i> vgl §roem-12-1 (eure Leiber als ein → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schlachtopfer[Schlachtopfer] darstellen).
  }
  {
   TODO: <i>Fleisch</i> vs <i>Glieder</i>, s.a. <a href='http://bibel.renenyffenegger.ch/roem_7.html#v23'>Röm&nbsp;7,23</a>
@@ -66953,6 +67237,9 @@
 #roem-8-18 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+ }
+ {
+  Vgl §2thes-1-5
  }
 #}
 #roem-8-19 {
@@ -67245,11 +67532,10 @@
 #}
 #roem-10-16 {
  {
-  <i>Dem Evangelium nicht gehorcht</i>: vgl <a class='kom' href='#Iroem-1-5'>Röm&nbsp;1,5</a>.
+  <i>Dem Evangelium nicht gehorcht</i>: vgl §2thes-1-8, 1petr-4-17, §+roem-1-5, §
  }
  {
-  Dieses Zitat wird auch in <a href='http://bibel.renenyffenegger.ch/joh_12.html#v38'>Joh&nbsp;12,38</a> verwendet.
-  Es stammt aus <a href='http://bibel.renenyffenegger.ch/jes_53.html#v1'>Jes&nbsp;53,1</a>.
+  Dieses Zitat wird auch in §joh-12-38 verwendet.  Es stammt aus §jes-53-1.
  }
 #}
 #roem-10-17 {
@@ -67437,8 +67723,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Ermahnung/index#ermahne-euch-brueder
  }
  {
-  Ein <i>Gott wohlgefälliges Opfer</i>: vgl <a href='http://bibel.renenyffenegger.ch/phil_4.html#v18'>Phil&nbsp;4,18</a>.
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/hebr_13.html#v15'>Hebr&nbsp;13,15</a>.
+  Ein <i>Gott wohlgefälliges Opfer</i>: vgl §phil-4-18.
+  <br>Vgl auch §hebr-13-15.
+ }
+ {
+  <i>eure Leiber darstellen als ein → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schlachtopfer[Schlachtopfer]</i> vgl §roem-6-19
  }
  {
   Werden diese Gott wohlgefälligen Opfer und der vernünftige Gottesdienst in den nachfolgenden Versen, insbesonders ab Vers 9,
@@ -68006,6 +68295,12 @@
   TODO: vgl <a href='http://bibel.renenyffenegger.ch/kol_2.html#v4'>Kol&nbsp;2,4</a>.
  }
 #}
+#roem-16-19 {
+ {
+  <i>Euer → biblisches/Eigene-Uebersetzung/Konkordanz/Glaube ist zu allen hingelangt</i> vgl §1thes-1-8 («von euch aus ist das Wort des Herrn erschollen, … an jedem Ort ist euer Glaube an Gott ausgebreitet worden …»),
+  §+roem-1-8
+ }
+#}
 #roem-16-20 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#gott-des-der[Gott des] Friedens: §roem-15-33, §1kor-14-33, §2kor-13-11, §phil-4-9, §1thes-5-23
@@ -68058,6 +68353,9 @@
  }
 #}
 #roem-16-24 {
+ {
+  Mit diesen oder ähnlichen Worten schliesst Paulus jeden Brief. Im → biblisches/Bücher/Paulus/Korinther/1[1. Korintherbrief] ist es der zweitletzte Vers (§1kor-16-23)
+ }
  {
    <span class='gt'>Vers fehlt in NA</span>.
  }
@@ -68279,6 +68577,11 @@
   <i>Weisheit der Welt</i>: vgl mit der «Weisheit Ägyptens» (<a href='http://bibel.renenyffenegger.ch/apg_7.html#v22'>Apg&nbsp;7,22</a>, <a href='http://bibel.renenyffenegger.ch/2mo_4.html#v10'>2.&nbsp;Mo&nbsp;4,10</a>).
  }
 #}
+#1kor-1-21 {
+ {
+   <i>Gott nicht erkennen</i> §+2thes-1-8 
+ }
+#}
 #1kor-1-22 {
  {
    <i>Zeichen</i>: <a class='kom' href='#Imt-12-38'>Mt&nbsp;12,38</a>.
@@ -68410,6 +68713,9 @@
 #1kor-3-3 {
  {
   Vgl mit den Werken des Fleisches in <a href='http://bibel.renenyffenegger.ch/gal_5.html#v20'>Gal 5,19-20</a>.
+ }
+ {
+  <i>Neid und Streit</i> §phil-1-15
  }
 #}
 #1kor-3-5 {
@@ -69346,7 +69652,7 @@
 #}
 #1kor-10-20 {
  {
-  <i>Dämonen opfern und nicht Gott</i> vgl §5mo-32-17.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Dämon#daemonen-opfern[den Dämonen opfern] und nicht Gott</i> vgl §+3mo-17-7, §5mo-32-17.
  }
 #}
 #1kor-10-23 {
@@ -70775,6 +71081,11 @@
    TODO: §3mo-26-11.
  }
 #}
+#2kor-6-17 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung
+ }
+#}
 @}
 @2. Korinther 7 {
 #2kor-7-1 {
@@ -71308,7 +71619,7 @@
 #}
 #gal-1-15 {
  {
-  <i>abgesondert</i>: <a class='kom' href='#Iroem-1-1'>Röm&nbsp;1,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung#absonderung-paulus[abgesondert] vgl. §+roem-1-1.
  }
  {
   <i>Von Mutterleib an berufen</i>: vgl <a class='kom' href='#Ijes-49-1'>Jes&nbsp;49,1</a>.
@@ -71488,6 +71799,11 @@
  }
  {
   TODO: Kephas oder Petrus? Vgl §+gal-1-18.
+ }
+#}
+#gal-2-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung
  }
 #}
 #gal-2-14 {
@@ -71709,6 +72025,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Denen dienen, die nicht Götter sind</i> Vgl §1kor-12-2
   <br>
     Der vernünftige → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/index wird in §roem-12-1 beschrieben.
+ }
+ {
+  <i>Als ihr Gott nicht kanntet</i> §+2thes-1-8
  }
 #}
 #gal-4-9 {
@@ -73064,6 +73383,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Christus verkündigen</i>: <a class='kom' href='#Imt-3-1'>Mt&nbsp;3,1</a>.
  }
+ {
+  <i>Neid und Streit</i> §1kor-3-3
+ }
 #}
 #phil-1-16 {
  {
@@ -73112,6 +73434,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/würdig/wandeln
+ }
+#}
+#phil-1-28 {
+ {
+  <i>Anzeichen des Verderbens</i> vgl. §2thes-1-5
  }
 #}
 #phil-1-29 {
@@ -74192,7 +74519,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1thes-1-3 {
  {
   <i>Anstrengung</i> (<span class='gr'>κόπος</span>, Strongs 2873), wird häufig mit «Arbeit» übersetzt.
-  <br><i>Anstrengung in der Liebe</i> kommt auch in §hebr-6-10 vor.
+  <br>
+   <i>Anstrengung in der Liebe</i> kommt auch in §hebr-6-10 vor.
  }
  {
   <i>Werk im Glauben</i>: <a class='kom' href='#Ijak-2-26'>Jak&nbsp;2,26</a>.
@@ -74246,6 +74574,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Vorbilder</i>: <span class='gr'>τύπος</span>, Strongs 5179.
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/2thes_3.html#v9'>2.&nbsp;Thes&nbsp;3,9</a>
   <br>TODO: Die Korinther (die doch in Achaja sind?), sind nicht Vorbilder geworden. <a class='kom' href='#Iapg-18-1'>Apg&nbsp;18,1</a>.
+ }
+ {
+  Vgl §1thes-4-10 («denn das tut ihr gegen alle Brüder, die in ganz Mazedonien sind»)
  }
 #}
 #1thes-1-8 {
@@ -74386,7 +74717,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Reich
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/würdig/wandeln
+  → biblisches/Eigene-Uebersetzung/Konkordanz/würdig/wandeln, §2thes-1-11
  }
 #}
 #1thes-2-13 {
@@ -74471,6 +74802,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <a href='http://bibel.renenyffenegger.ch/1joh_2.html#v28'>1.&nbsp;Joh&nbsp;2,28</a>.
  }
 #}
+#1thes-2-20 {
+ {
+  Vgl §2thes-1-4 («daß wir selbst uns euer rühmen…»)
+ }
+#}
 @}
 @1. Thessaloniker 3 {
 #1thes-3-1 {
@@ -74484,6 +74820,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Diener Gottes</i>: <a class='kom' href='#I1kor-4-1'>1.&nbsp;Kor&nbsp;4,1</a>.
+ }
+ {
+  Sie sandten Timotheus, die Thessaloniker (ihres Glaubens halber) zu trösten, wurden dann aber nach Timotheus' Rückkehr selbst durch den Glauben der Thessaloniker getröstet (§V1thes-3-7)
  }
  {
   → biblisches/Personen/Paulus/Mitarbeiter
@@ -74524,6 +74863,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Evangelium</i>: Sch2K übersetzt mit «gute Nachricht», Elberfelder mit «gute Botschaft», KJV mit «good tidings».
  }
 #}
+#1thes-3-7 {
+ {
+  Hier wird → biblisches/Personen/Paulus durch den Glauben der Thessaloniker getröstet, in §2thes-1-3 dankt er
+  für ihren wachsenden Glauben.
+ }
+#}
 #1thes-3-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/feststehen, im Herrn feststehen: <a class='kom' href='#Iphil-4-1'>Phil&nbsp;4,1</a>.
@@ -74544,6 +74889,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-3-12 {
  {
+  Vgl §1thes-4-9-10, §+2thes-1-3
+ }
+ {
   TODO: Beachte die Auswirkung der Liebe auf das Kommen (Vers 13).
  }
 #}
@@ -74552,10 +74900,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Mit <i>allen seine Heiligen</i> sind wohl die «Engel» aus <a class='kom' href='#Imt-16-27'>Mt&nbsp;16,27</a> (oder <a href='http://bibel.renenyffenegger.ch/mt_25.html#v31'>Mt&nbsp;25,31</a>) gemeint.
  }
  {
-  TODO: <i>beim Kommen</i>: <a class='kom' href='#I1thes-2-19'>1.&nbsp;Thes&nbsp;2,19</a>, <a href='http://bibel.renenyffenegger.ch/1thes_4.html#v15'>1.&nbsp;Thes&nbsp;4,15</a>,
-  <a href='http://bibel.renenyffenegger.ch/1thes_5.html#v23'>1.&nbsp;Thes&nbsp;5,23</a>, <a href='http://bibel.renenyffenegger.ch/2thes_1.html#v10'>2.&nbsp;Thes&nbsp;1,10</a>,
-  <a href='http://bibel.renenyffenegger.ch/2thes_1.html#v10'>2.&nbsp;Thes&nbsp;1,10</a>.
-  <br>Vgl auch <a class='kom' href='#I2thes-1-7'>2.&nbsp;Thes&nbsp;1,7</a>.
+  <i>beim Kommen</i>: §+1thes-2-19, §1thes-4-15, §1thes-5-23, §2thes-1-10.
+  <br>Vgl auch §+2thes-1-7.
  }
 #}
 @}
@@ -74571,6 +74917,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Hier: <i>bitten und ermahnen</i>, in Vers 10: <i>ermahnen</i> in <a href='http://bibel.renenyffenegger.ch/1thes_5.html#v12'>1.&nbsp;Thes&nbsp;5,12</a>: <i>bitten</i>.
+ }
+ {
+  <i>dass ihr reichlicher zunehmt</i> vgl §V1thes-4-10
  }
 #}
 #1thes-4-2 {
@@ -74612,6 +74961,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   S.a. <a class='kom' href='#Imt-12-29'>Mt&nbsp;12,29</a>.
  }
 #}
+#1thes-4-5 {
+ {
+  <i>Gott nicht kennen</i> §+2thes-1-8
+ }
+#}
 #1thes-4-7 {
  {
   Vgl <i>berufen zu</i> <a class='kom' href='#Ikol-3-15'>Kol&nbsp;3,15</a>
@@ -74619,7 +74973,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-4-9 {
  {
-   Die Liebe jedes einzelnen nahm zu, und der Glaube wuchs (<a href='http://bibel.renenyffenegger.ch/2thes_1.html#v3'>2.&nbsp;Thes&nbsp;1,3</a>)
+  <i>Was aber die Bruderliebe betrifft</i> vgl §1thes-3-12.
+  In §2thes-1-3 schreibt → biblisches/Personen/Paulus, dass «die Liebe jedes einzelnen von euch allen gegeneinander überströmend ist».
+ <br>
+  Die Liebe jedes einzelnen nahm zu, und der Glaube wuchs (§2thes-1-3)
+ <br>
+  Paulus musste den Thessalonikern zwar nicht über die Bruderliebe schreiben, wohl aber, ihre Herzen zu der → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-gottes zu richten.
  }
  {
   <i>so habt ihr nicht nötig, dass wir euch schreiben</i> vgl §1thes-1-8 §1thes-5-1
@@ -74633,6 +74992,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-4-10 {
  {
+   <i>reichlicher zuzunehmen</i> vgl §V1thes-4-1 
+ }
+ {
+  <i>denn das tut ihr auch gegen alle Brüder, die in ganz Macedonien sind</i>
+  vgl §1thes-1-7
+ }
+ {
   TODO <i>Bruderliebe in Mazedonien</i>: <a href='http://bibel.renenyffenegger.ch/phil_1.html#v1'>Phil&nbsp;1,1</a>.
  }
 #}
@@ -74642,6 +75008,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   arbeiten will, so soll er auch nicht essen» §2thes-3-10.
   Obwohl Paulus (und ...) die Thessaloniker im ersten Brief ermahnt, 'mit [...] eigenen Händen zu arbeiten', muss
   er im zweiten Brief feststellen, dass er 'hört, dass etliche unordentlich wandeln und nicht arbeiten'
+ }
+ {
+  <i>euch zu beeifern, still zu sein</i>: Sch2K übersetzt mit «eure Ehre darin
+  sucht, ein stilles Leben zu führen»,
+  KJV mit «that ye study to be quiet, and to do your own business»
  }
 #}
 #1thes-4-13 {
@@ -74876,8 +75247,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Paulus über den <i>Glauben</i> der Thessaloniker im ersten Brief: §+1thes-1-3.
  }
  {
-  Im ersten Brief wurden die Thessaloniker noch ermahnt, in der Bruderliebe zuzunehmen (§1thes-4-9-10).
-  In diesem Brief wird → biblisches/Personen/Paulus die Thessaloniker aufrufen, ihre Herzen zu der → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-gottes zu richten.
+  Hier dankt Paulus für den wachstenden Glauben der Thessaloniker, in §1thes-3-7 wurde er durch ihren Glauben getröstet.
+ }
+ {
+  Im ersten Brief schrieb Paulus, dass der Herr die Thessaloniker in der Liebe gegeneinander völlig überströmend gegeneinander mache (§1thes-3-12) und dass sie es
+  nicht nötig haben, über die Bruderliebe zu schreiben (§1thes-4-9)
+  <br>
+  In diesem Brief wird → biblisches/Personen/Paulus die Thessaloniker aufrufen, ihre Herzen zu der → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-gottes zu richten (§2thes-3-5).
  }
  {
   <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
@@ -74892,6 +75268,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Ausharren</i> vgl «Ausharren des Christus» in §2thes-3-5
  }
  {
+  <i>… dasswir selbst uns euer rühmen …</i> §1thes-2-20
+ }
+ {
   <i>Bedrängnis</i>: Vgl <a class='kom' href='#Iroem-5-3'>Röm&nbsp;5,3</a>.
   <br>Die Thessaloniker (?) sind dazu bestimmt (<a href='http://bibel.renenyffenegger.ch/1thes_3.html#v3'>1.&nbsp;Thes&nbsp;3,3-4</a>.
   <br>In <a href='http://bibel.renenyffenegger.ch/1thes_3.html#v5'>1.&nbsp;Thes&nbsp;3,5</a> hatte Paulus noch Angst, dass der Versucher
@@ -74900,11 +75279,22 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-1-5 {
  {
-  Die Thessaloniker <i>leiden</i> auch im ersten Brief
-  (<a href='http://bibel.renenyffenegger.ch/1thes_2.html#v14'>1.&nbsp;Thes&nbsp;2,14</a>)
+  Die Thessaloniker <i>leiden</i> auch im ersten Brief. §1thes-2-14
  }
  {
   Die einen leiden um des Reiches Gottes willen, andere weil sie dem Evangelium nicht gehorchen (§V2thes-1-9-10)
+ }
+ {
+  <i>Gerechtes Gericht Gottes</i> §roem-2-5
+ }
+ {
+  <i>ein offenbares Zeichen des gerechten Gerichts Gottes</i> vgl. §phil-1-28
+ }
+ {
+  <i>dass ihr würdig geachtet werdet des Reiches Gottes, um dessentwillen ihr auch leidet</i> vgl §roem-8-18
+ }
+ {
+  In <i>Zeichen</i> (<span class='gr'>ἔνδειγμα</span>, Strongs 1730, 1x) schwingt offenbar auch die Bedeutung von «Beweis» mit.
  }
 #}
 #2thes-1-7 {
@@ -74918,7 +75308,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-1-8 {
  {
-  <i>Dem Evangelium nicht gehorsam sein</i>: <a class='kom' href='#Iroem-1-5'>Röm&nbsp;1,5</a>.
+  <i>Dem Evangelium nicht gehorsam sein</i>: §roem-10-16, §1petr-4-17, §+roem-1-5
+ }
+ {
+  <i>Gott nicht kennen</i> vgl §roem-1-21, §gal-4-8, §1thes-4-5, §1kor-1-21, §joh-7-29, §joh-8-19
+ }
+ {
+  <i>flammendes Feuer</i> vgl §ps-97-3
  }
  {
   TODO: <i>anerkennen</i> (<span class='gr'>εἴδω</span>, Strongs 1492), sonst häufig mit 'sehen' übersetzt.
@@ -74926,12 +75322,23 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-1-9 {
  {
-  <i>Strafe</i>: <a class='kom' href='#Iapg-25-15'>Apg&nbsp;25,15</a>.
+  <i>Strafe</i>: §+apg-25-15.
+ }
+ {
+  <i>ewiges Verderben</i> §mt-18-8, §hebr-10-39
  }
 #}
 #2thes-1-10 {
  {
   <i>wenn er kommen wird</i>: <a class='kom' href='#I1thes-3-13'>1.&nbsp;Thes&nbsp;3,13</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
+ }
+#}
+#2thes-1-11 {
+ {
+  <i>würdig erachte</i> §1thes-2-12
  }
 #}
 #2thes-1-12 {
@@ -75107,6 +75514,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2thes-3-5 {
  {
   <i>Ausharren des Christus</i> §2thes-1-4
+ }
+ {
+  Beachte: den Thessalonikern musste Paulus nicht über die Bruderliebe schreiben §1thes-4-9
  }
 #}
 #2thes-3-6 {
@@ -75319,6 +75729,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Von denen ich der grösste bin</i> wörtlich «von den ich der Erste bin» <span class='u'>Vgl http://doctrine.org/paul-chief-of-sinners/</span>
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
 #}
 #1tim-1-16 {
@@ -76047,6 +76460,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Dieses edle anvertraute Gut bewahre durch den Heiligen Geist, der in uns wohnt!
  }
 #}
+#1tim-6-21 {
+ {
+  Beachte, dieser Brief hört mit «Die Gnade sei mit euch» auf, der → biblisches/Bücher/Paulus/Timotheus/2/index[2. Timotheusbrief] mit «Die Gnade sei mit euch!» §2tim-4-22
+ }
+#}
 @}
 }
 { 2. Timotheus
@@ -76149,6 +76567,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Bild</i> <span class='gr'>ὑποτύπωσις</span> (Strongs 5296, 2x). In KJV mit «pattern» übersetzt. Das Wort kommt noch in §1tim-1-16 vor.
+ }
+ {
+  TODO <i>Bild gesunder Worte</i> vgl «Bild der Lehre» §roem-6-17
  }
 #}
 #2tim-1-14 {
@@ -76540,6 +76961,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-4-9 {
  {
+  Vgl §V2tim-4-21
+ }
+ {
   TODO: Also bevor Paulus stirbt? Aber siehe «denn» im nächsten Vers. Vgl auch Vers 21.
  }
 #}
@@ -76612,9 +77036,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Siehe auch <a class='kom' href='#I1kor-4-17'>1.&nbsp;Kor&nbsp;4,17</a>.
  }
 #}
+#2tim-4-21 {
+ {
+  <i>Befleissige dich, vor dem Winter zu kommen</i> vgl §V2tim-4-9
+ }
+#}
 #2tim-4-22 {
  {
-  <i>Der Herr Jesus Christus sei mit deinem Geist</i>: <a class='kom' href='#Igal-6-18'>Gal&nbsp;6,18</a>.
+  <i>Der Herr Jesus Christus sei mit deinem Geist</i>: §+gal-6-18.
+ }
+ {
+  Beachte, dieser Brief hört mit «Die Gnade sei mit euch» auf, der → biblisches/Bücher/Paulus/Timotheus/1/index[1. Timotheusbrief] mit «Die Gnade sei mit dir!» §1tim-6-21
  }
 #}
 @}
@@ -77582,6 +78014,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
         <br>
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
  }
+ {
+  <i>Ewiges Gericht</i> vgl §+mt-18-8
+ }
 #}
 #hebr-6-3 {
  {
@@ -77616,8 +78051,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>dienen</i>: <a class='kom' href='#Iroem-1-9'>Röm&nbsp;1,9</a>.
  }
  {
+  <i>Anstrengung in der Liebe</i> kommt auch in §+1thes-1-3 vor.
+ }
+ {
   TODO <i>Anstrengung</i> ist Strongs 2873.
-  <br><i>Anstrengung in der Liebe</i> kommt auch in <a class='kom' href='#I1thes-1-3'>1.&nbsp;Thes&nbsp;1,3</a> vor.
  }
 #}
 #hebr-6-11 {
@@ -77864,6 +78301,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot: Elb05 übersetzt hier mit «Darstellung der Brote», KJV mit «bread of the presence».
  }
+ {
+  <i>die erste</i>: Sch2K und Elberfelder übersetzen mit «die vordere», KJV mit «the first». Ebenso in §Vhebr-9-6, §Vhebr-9-8
+ }
 #}
 #hebr-9-3 {
  {
@@ -77891,7 +78331,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-9-7 {
  {
-  TODO: vgl mit <a href='http://bibel.renenyffenegger.ch/3mo_16.html#v2'>3.&nbsp;Mo&nbsp;16,2</a> ff.
+  <i>einmal im Jahr</i> §3mo-16-2-ff, §2mo-30-10, §3mo-16-34
  }
 #}
 #hebr-9-8 {
@@ -78004,6 +78444,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-9-22 {
  {
   <i>fast alle Dinge werden mit Blut gereinigt</i> vgl §3mo-8-15 (wo der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar[Altar] entsündigt wurde).
+ }
+ {
+  <i>ohne Blutvergiessung gibt es keine Vergebung</i> vgl §3mo-17-11 («… denn das Blut ist es, welches Sühnung tut durch die Seele.»)
  }
  {
   TODO: Gibt es mit der 'roten Kuh' Vergebung ohne Blut? <a class='kom' href='#I5mo-21-4'>5.&nbsp;Mo&nbsp;21,4</a>.
@@ -78222,6 +78665,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #hebr-10-39 {
+ {
+  <i>Verderben</i> vgl §+2thes-1-10
+ }
  {
   TODO: Beachte den Inhalt dieses Verses und das ganze nachfolgende Kapitel!
  }
@@ -79338,7 +79784,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-1-16 {
  {
-  <i>Seid heilig, denn ich bin heilig</i> vgl §+3mo-11-44-45, §3mo-20-7 
+  <i>Seid heilig, denn ich bin heilig</i> vgl §+3mo-11-44-45, §3mo-19-2, §3mo-20-7 
  }
 #}
 #1petr-1-17 {
@@ -79894,6 +80340,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>sich weigern zu glauben</i>: <a class='kom' href='#Ijoh-3-36'>Joh&nbsp;3,36</a>.
  }
  {
+  <i>Dem Evangelium  Gottes nicht gehorchen</i> §roem-10-16, §2thes-1-8
+ }
+ {
   Vgl <a href='http://bibel.renenyffenegger.ch/hes_9.html#v6'>Hes&nbsp;9,6</a>.
  }
  {
@@ -80258,8 +80707,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <span class='gt'>NA hat etwa «sondern Männer reden von Gott, getrieben vom …».</span>
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Mann-Gottes[Männer Gottes].
-  Vgl mit den <i>heiligen Propheten</i> in §2petr-3-2.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Mann-Gottes[Männer Gottes]. Vgl mit den <i>heiligen Propheten</i> in §2petr-3-2.
+ }
+ {
+   Vgl §+lk-1-70, §apg-3-21
  }
  {
   <i>Heilige Männer</i>: §2mo-22-30
@@ -80722,6 +81173,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    Vgl <a href='http://bibel.renenyffenegger.ch/1joh_5.html#v18'>1.&nbsp;Joh&nbsp;5,18</a>: Wer aus Gott geboren ist, bewahrt sich selbst, und der Böse tastet ihn nicht an.
  }
  {
+   <i>weil ihr den erkannt habt…</i> §+joh-8-19
+ }
+ {
   <i>überwinden</i> <span class='gr'>νικάω</span> (Strongs 3528) auch Vers 14,
   <a href='http://bibel.renenyffenegger.ch/1joh_4.html#v4'>1. Joh 4,4/5</a> und
   <a href='http://bibel.renenyffenegger.ch/1joh_5.html#v4'>1. Joh 5,4/5</a>.
@@ -80833,7 +81287,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Erschienen</i> auch, um die Werke des Teufels zu zerstören (Vers 8).
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
 #}
 #1joh-3-7 {
@@ -80842,6 +81297,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Verführung</i>: <a class='kom' href='#I1joh-1-8'>1.&nbsp;Joh&nbsp;1,8</a>.
+ }
+#}
+#1joh-3-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
 #}
 #1joh-3-12 {
@@ -81989,6 +82449,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl <i>Smaragd</i> (<span class='gr'>σμαράγδινος</span>, Strongs 4664, 1x) mit <span class='gr'>σμάραγδος</span> (Strongs 4665, 1x) in
   <a href='http://bibel.renenyffenegger.ch/offb_21.html#v19'>Offb&nbsp;21,19</a>.
+ }
+ {
+  <i>Jaspis</i> <span class='gr'>ἴασπις</span> (Strongs 2393): angeblich ist damit ein Diamant gemeint. Ebenso in §offb-21-11-ff
  }
 #}
 #offb-4-4 {
@@ -83225,6 +83688,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte die Einheit des Drachens und der Schlange auch in den Versen 15 bis 16. Vgl mit <a href='http://bibel.renenyffenegger.ch/offb_20.html#v2'>Offb&nbsp;20,2</a>.
  }
  {
+   <i>wurde auf die Erde geworfen</i> vgl §jes-14-12
+ <br>
   Beachte: Das Niederwerfen des Satans hat offenbar etwas mit der Rettung, der Macht und dem Reich zu tun (Vers 10).
  }
 #}
@@ -84660,6 +85125,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-21-11 {
  {
   <i>Lichtglanz</i>: Strongs 5458 <a class='kom' href='#Iphil-2-15'>Phil&nbsp;2,15</a>.
+ }
+ {
+  <i>Jaspis</i>: angeblich ist damit ein Diamant gemeint, §+offb-4-3
  }
  {
   <i>Edelstein</i> (besser überstetzt als 'Stein'?): <a class='kom' href='#I1kor-3-12'>1.&nbsp;Kor&nbsp;3,12</a>.
