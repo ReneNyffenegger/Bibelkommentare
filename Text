@@ -12755,7 +12755,7 @@
 #}
 #3mo-11-44 {
  {
-  <i>seid heilig</i> vgl §3mo-20-7, §1petr-1-15-16
+  <i>seid heilig</i> vgl §3mo-19-2, §3mo-20-7, §1petr-1-15-16
  }
 #}
 #3mo-11-45 {
@@ -13248,6 +13248,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott
  }
 #}
+#3mo-18-3 {
+ {
+  §3mo-20-23
+ }
+#}
 #3mo-18-5 {
  {
   Siehe §roem-10-5: Mose beschreibt nämlich die Gerechtigkeit, die aus dem Gesetz kommt, so: »Der Mensch, der diese Dinge tut, wird durch sie leben«.
@@ -13267,6 +13272,16 @@
   «Nacktheit» übersetzt.
  }
 #}
+#3mo-18-7 {
+ {
+  <i>Blösse des Vaters nicht aufdecken</i> §3mo-20-11
+ }
+#}
+#3mo-18-9 {
+ {
+  <i>Die Blösse der Schwester nicht aufdecken</i> §3mo-20-17
+ }
+#}
 #3mo-18-11 {
  {
   TODO: Halbschwester nur väterlicherseits?
@@ -13275,6 +13290,16 @@
 #3mo-18-12 {
  {
   TODO: Schwester näher als Bruder?
+ }
+#}
+#3mo-18-14 {
+ {
+  §3mo-20-20
+ }
+#}
+#3mo-18-16 {
+ {
+  §3mo-20-21, §+mk-6-18
  }
 #}
 #3mo-18-21 {
@@ -13287,7 +13312,9 @@
 #}
 #3mo-18-22 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/3mo_20.html#v13'>3.&nbsp;Mo&nbsp;20,13</a>.
+  Vgl §3mo-20-13.
+ }
+ {
   <span class='u'>Vgl. <i>Knabenschänder</i> in §+1kor-6-9</span>.
  }
 #}
@@ -13305,7 +13332,7 @@
 @3. Mose 19 {
 #3mo-19-2 {
  {
-  §+1petr-1-16
+  §+3mo-11-44, §+1petr-1-16
  }
 #}
 #3mo-19-3 {
@@ -13460,6 +13487,9 @@
 #}
 #3mo-19-26 {
  {
+  <i>Wahrsagerei</i> §+3mo-20-27
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Blut#blut-nicht-essen
  }
 #}
@@ -13550,20 +13580,22 @@
 #}
 #3mo-20-7 {
  {
-  <i>Seid heilig</i> §+3mo-11-44
+  <i>Seid heilig</i> §+3mo-11-44, §V3mo-20-26
  }
 #}
 #3mo-20-9 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe, vgl §+2mo-21-15.
  }
- {
-  Vgl <a class='kom' href='#I4mo-35-33'>4.&nbsp;Mo&nbsp;35,33</a>.
- }
 #}
 #3mo-20-10 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe, vgl §5mo-22-22, §3mo-19-20
+ }
+#}
+#3mo-20-11 {
+ {
+  <i>Blösse des Vaters aufdecken</i> §3mo-18-7
  }
 #}
 #3mo-20-13 {
@@ -13573,8 +13605,7 @@
 #}
 #3mo-20-14 {
  {
-  Beachte den Einschub hier zwischen einem Mann, der bei eine Mann liegt und einem Mann, der bei einem Tier liegt, die beide in <a href='http://bibel.renenyffenegger.ch/1mo_18.html#v23'>1.&nbsp;Mo&nbsp;18,23-24</a> vorkommen.
-  TODO: Aber das nächste dieses Verses liegt in <a href='http://bibel.renenyffenegger.ch/3mo_18.html#v17'>3.&nbsp;Mo&nbsp;18,17</a>.
+  Beachte den Einschub hier zwischen einem Mann, der bei eine Mann liegt und einem Mann, der bei einem Tier liegt, die beide in §3mo-18-22-24 vorkommen.
  }
 #}
 #3mo-20-15 {
@@ -13585,6 +13616,9 @@
 #3mo-20-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gerechtigkeit/Ungerechtigkeit-tragen vgl §V2mo-28-43
+ }
+ {
+  <i>Blösse der Schwester aufdecken</i> §3mo-18-9
  }
  {
   Abraham hatte eine Halbschwester, siehe auch <a class='kom' href='#I1mo-20-12'>1.&nbsp;Mo&nbsp;20,12</a>.
@@ -13600,9 +13634,19 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gerechtigkeit/Ungerechtigkeit-tragen vgl §V2mo-28-43
  }
 #}
+#3mo-20-20 {
+ {
+  §3mo-18-14
+ }
+#}
 #3mo-20-21 {
  {
-  TODO: <a class='kom' href='#Imk-6-18'>Mk&nbsp;6,18</a>.
+  §3mo-18-16, §+mk-6-18
+ }
+#}
+#3mo-20-23 {
+ {
+  §3mo-18-3
  }
 #}
 #3mo-20-24 {
@@ -13611,7 +13655,7 @@
   Aaron soll nichts erben: <a href='http://bibel.renenyffenegger.ch/4mo_18.html#v20'>4.&nbsp;Mo&nbsp;18,20</a>.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott, → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung
  }
 #}
 #3mo-20-25 {
@@ -13619,10 +13663,14 @@
   <i>ihr sollt unterscheiden…</i> §+3mo-10-10, §3mo-11-47
  }
 #}
+#3mo-20-26 {
+ {
+  §+V3mo-20-7
+ }
+#}
 #3mo-20-27 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/5mo_18.html#v10'>5.&nbsp;Mo&nbsp;18,10-11</a>,
-  <a class='kom' href='#I1sam-28-3'>1.&nbsp;Sam&nbsp;28,3</a>.
+  <i>Wahrsagergeist</i> vgl §3mo-19-26, §5mo-18-10-11, §+1sam-28-3.
  }
  {
   <i>Wahrsagergeist</i>: <a href='http://bibel.renenyffenegger.ch/apg_16.html#v16'>Apg&nbsp;16,16</a>.
@@ -18576,10 +18624,10 @@
 #}
 #5mo-18-10 {
  {
-  Vgl <a class='kom' href='#I3mo-20-27'>3.&nbsp;Mo&nbsp;20,27</a>.
+  <i>Wahrsagerei</i> §+3mo-20-27
  }
  {
-  Vgl <a class='kom' href='#I3mo-18-21'>3.&nbsp;Mo&nbsp;18,21</a>.
+  <i>Durchs Feuer gehen lassen</i> §+3mo-18-21
  }
 #}
 #5mo-18-13 {
