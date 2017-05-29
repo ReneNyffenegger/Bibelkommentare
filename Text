@@ -11913,10 +11913,20 @@
   <i>abziehen</i>: TODO: siehe <a class='kom' href='#I1mo-37-23'>1.&nbsp;Mo&nbsp;37,23</a>.
  }
 #}
+#3mo-1-8 {
+ {
+   → biblisches/Personen/Aaron/Söhne#soehne-aarons-die-priester
+ }
+#}
 #3mo-1-9 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer,
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
+ }
+#}
+#3mo-1-11 {
+ {
+  → biblisches/Personen/Aaron/Söhne#soehne-aarons-die-priester
  }
 #}
 #3mo-1-14 {
@@ -11996,7 +12006,8 @@
 #}
 #3mo-3-2 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft#eingang-zelt-zusammenkunft[Eingang] des → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft[Zeltes der Zusammenkunft]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft#eingang-zelt-zusammenkunft[Eingang] des → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft[Zeltes der Zusammenkunft],
+  → biblisches/Personen/Aaron/Söhne#soehne-aarons-die-priester
  }
  {
   <i>Opfer</i>: <span class='hebr'>קָרְבָן</span> (Strongs 7133).
@@ -12755,7 +12766,7 @@
 #}
 #3mo-11-44 {
  {
-  <i>seid heilig</i> vgl §3mo-19-2, §3mo-20-7, §1petr-1-15-16
+  <i>seid heilig</i> vgl §3mo-19-2, §3mo-20-7, §1petr-1-15-16, §3mo-21-8
  }
 #}
 #3mo-11-45 {
@@ -13682,7 +13693,12 @@
 @3. Mose 21 {
 #3mo-21-1 {
  {
-  → biblisches/Personen/Aaron/Söhne
+  → biblisches/Personen/Aaron/Söhne, → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche#leiche-verunreinigen
+ }
+ {
+  Offenbar ist die Reihenfolge <i>zu den Priestern, den → biblisches/Personen/Aaron/Söhne[Söhnen Aarons]</i> hier speziell; an andern Orten ist
+  sie «die Söhne Aarons, die Priester» (vgl. → biblisches/Personen/Aaron/Söhne#soehne-aarons-die-priester). Damit soll möglichweise klargestellt werden,
+  dass sie nicht aufgrund eigenes Vermögens Priester sind, sondern wegen ihrer Abstammung.
  }
 #}
 #3mo-21-5 {
@@ -13693,7 +13709,7 @@
   <i>Keine Einschnitte machen</i> §3mo-19-28
  }
  {
-  Frage: Soll damit sichergestellt sein, dass sie nicht unrein sind? Immerhin redet <a href='http://bibel.renenyffenegger.ch/3mo_13.html#v41'>3.&nbsp;Mo&nbsp;13,41-43</a> von
+  TODO: Soll damit sichergestellt sein, dass sie nicht unrein sind? Immerhin redet <a href='http://bibel.renenyffenegger.ch/3mo_13.html#v41'>3.&nbsp;Mo&nbsp;13,41-43</a> von
   Glatze, <a href='http://bibel.renenyffenegger.ch/3mo_13.html#v29'>3.&nbsp;Mo&nbsp;13,29-30</a> von Bart und <a href='http://bibel.renenyffenegger.ch/3mo_13.html#v3'>3.&nbsp;Mo&nbsp;13,3</a> (und weitere)
   von tieferliegenden Hautmalen.
  }
@@ -13706,6 +13722,16 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer, vgl §V3mo-21-21
  }
 #}
+#3mo-21-8 {
+ {
+  <i>er soll dir heilig sein; denn heilig bin ich</i> §+3mo-11-44
+ }
+#}
+#3mo-21-9 {
+ {
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
+ }
+#}
 #3mo-21-10 {
  {
   Beachte: Vor der Kreuzigung Jesu zerriss der (amtierende) Hohepriester seine Kleider: <a class='kom' href='#Imt-26-65'>Mt&nbsp;26,65</a>.
@@ -13716,6 +13742,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
+ }
+#}
+#3mo-21-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche#leiche-verunreinigen
  }
 #}
 #3mo-21-17 {
@@ -13750,6 +13781,11 @@
 #}
 @}
 @3. Mose 22 {
+#3mo-22-4 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche#leiche-verunreinigen
+ }
+#}
 #3mo-22-8 {
  {
  <i>Aas … soll er nicht essen</i> vgl §5mo-14-21, §3mo-11-39-40, §3mo-17-15
@@ -14812,9 +14848,19 @@
   <br>Siehe auch <a class='kom' href='#I4mo-6-2'>Vers 2</a>
  }
 #}
+#4mo-6-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche#leiche-verunreinigen
+ }
+#}
 #4mo-6-10 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+#}
+#4mo-6-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche#leiche-verunreinigen
  }
 #}
 #4mo-6-13 {
@@ -14932,6 +14978,11 @@
   <i>Zur Abendzeit</i> siehe <a class='kom' href='#I2mo-12-6'>2.&nbsp;Mo&nbsp;12,6</a>.
  }
 #}
+#4mo-9-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche#leiche-verunreinigen
+ }
+#}
 #4mo-9-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft#zelt-des-zeugnisses
@@ -14960,6 +15011,11 @@
 #4mo-10-5 {
  {
   TODO 'Lärm blasen' (Strongs 8643) siehe <a class='kom' href='#I4mo-23-21'>4.&nbsp;Mo&nbsp;23,21</a>.
+ }
+#}
+#4mo-10-8 {
+ {
+  → biblisches/Personen/Aaron/Söhne#soehne-aarons-die-priester
  }
 #}
 #4mo-10-10 {
@@ -15831,7 +15887,7 @@
 #}
 #4mo-19-11 {
  {
-  TODO: Wegen Toter unrein gewordene sollen aus dem Lager hinausgeschickt werden, weil Gott in der Mitte der Kinder Israel wohnt (<a class='kom' href='#I4mo-5-3'>4.&nbsp;Mo&nbsp;5,3</a>)
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche#leiche-verunreinigen
  }
 #}
 #4mo-19-12 {
@@ -21457,6 +21513,11 @@
   <i>Anatot</i> ist auch ein Sohn des Bechers, des Benjamin (<a href='http://bibel.renenyffenegger.ch/1chr_7.html#v8'>1.&nbsp;Chr&nbsp;7,8</a>).
   <br>Nachdem Salomo den Abjatar verstossen hat, schickte er ihn nach Anatot (<a href='http://bibel.renenyffenegger.ch/1koe_2.html#v26'>1.&nbsp;Kö&nbsp;2,26-27</a>).
   <br>Jeremias Vater Hilkia war von den Priestern in Anatot (<a href='http://bibel.renenyffenegger.ch/jer_1.html#v1'>Jer&nbsp;1,1</a>).
+ }
+#}
+#jos-21-19 {
+ {
+  → biblisches/Personen/Aaron/Söhne#soehne-aarons-die-priester
  }
 #}
 #jos-21-21 {
@@ -37773,7 +37834,7 @@
 #}
 #ps-79-2 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere, → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche
  }
 #}
 #ps-79-13 {
@@ -38718,6 +38779,11 @@
 #ps-110-5 {
  {
   TODO: Vgl §lk-1-52
+ }
+#}
+#ps-110-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche
  }
 #}
 @}
@@ -42533,6 +42599,11 @@
   TODO: Vgl §offb-12-2.
  }
 #}
+#jes-26-19 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche
+ }
+#}
 @}
 @Jesaja 27 {
 #jes-27-1 {
@@ -44615,6 +44686,11 @@
   <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/offb_8.html#v11'>Offb&nbsp;8,11</a>.
  }
 #}
+#jer-9-21 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche
+ }
+#}
 #jer-9-22 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1kor_1.html#v27'>1.&nbsp;Kor&nbsp;1,27-31</a>: Der Herr erwählt
@@ -44868,6 +44944,11 @@
 #jer-16-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen, vgl §jer-23-7
+ }
+#}
+#jer-16-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche
  }
 #}
 #jer-16-21 {
@@ -45590,6 +45671,7 @@
 #}
 #jer-31-40 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche,
    <i>Rosstor</i>: §2chr-23-15, → biblisches/Eigene-Uebersetzung/Konkordanz/Tor#tore-jerusalems
  }
 #}
@@ -50287,6 +50369,11 @@
 #}
 @}
 @Amos 8 {
+#am-8-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche
+ }
+#}
 #am-8-5 {
  {
   Siehe auch <a href='http://bibel.renenyffenegger.ch/5mo_25.html#v14'>5.&nbsp;Mo&nbsp;25,14</a> und <a href='http://bibel.renenyffenegger.ch/spr_20.html#v10'>Spr&nbsp;20,10</a>.
@@ -50716,6 +50803,11 @@
 #}
 @}
 @Nahum 3 {
+#nah-3-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche
+ }
+#}
 #nah-3-8 {
  {
   TODO: Strongs 2975
@@ -51004,6 +51096,11 @@
  {
   TODO: vgl Vers mit 21 und <a href='http://bibel.renenyffenegger.ch/jes_24.html#v19'>Jes&nbsp;24,19</a>.
   <br>S.a. <i>die Erde wankt (nicht)</i>: <a class='kom' href='#Ips-99-1'>Ps&nbsp;99,1</a>.
+ }
+#}
+#hag-2-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche#leiche-verunreinigen
  }
 #}
 #hag-2-15 {
