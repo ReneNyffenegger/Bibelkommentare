@@ -8035,6 +8035,9 @@
  {
   <i>Dienst zum Beobachten</i>: Passah (Verse 25-27) vgl mit Sieben Tage Ungesäuertes essen (<a href='http://bibel.renenyffenegger.ch/2mo_13.html#v5'>2.&nbsp;Mo&nbsp;13,5ff</a>).
  }
+ {
+  <i>wenn ihr in das Land kommt</i> §+3mo-14-34
+ }
 #}
 #2mo-12-27 {
  {
@@ -11456,7 +11459,7 @@
 #}
 #2mo-35-29 {
  {
-  Hier erstes Vorkommen von <span class='hebr'>נְדָבָה</span> (Strongs 5071), übersetzt mit <i>freiwillige Gabe</i>.
+  Hier erstes Vorkommen von <span class='hebr'>נְדָבָה</span> (Strongs 5071), übersetzt mit → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/freiwillige-Gabe
  }
 #}
 #2mo-35-30 {
@@ -12411,6 +12414,10 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
  }
+ {
+  <i>diese Seele soll ausgerottet werden aus ihren Völkern.</i>: §V3mo-7-21, §V3mo-7-25, §V3mo-7-29, §3mo-19-8, §3mo-23-29.
+  Vgl. §3mo-22-3
+ }
 #}
 #3mo-7-24 {
  {
@@ -13014,7 +13021,9 @@
 #}
 #3mo-14-34 {
  {
-  <i>Wenn ihr in das Land Kanaan kommt …</i> §3mo-19-23, §3mo-23-10, §3mo-25-2
+  <i>Wenn ihr in das Land Kanaan kommt …</i> §3mo-19-23, §3mo-23-10, §3mo-25-2, §4mo-34-2, vgl §2mo-12-25, §4mo-14-30, §4mo-15-2, §4mo-15-2
+  <br>
+   Vgl. §3mo-22-24
  }
  {
   Beachte: Mose und Aaron, zu welchen hier der HERR redet, kommen nicht in das Land Kanaan.
@@ -13046,6 +13055,11 @@
 #3mo-15-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
+ }
+#}
+#3mo-15-16 {
+ {
+  §3mo-22-4
  }
 #}
 #3mo-15-19 {
@@ -13781,9 +13795,18 @@
 #}
 @}
 @3. Mose 22 {
+#3mo-22-3 {
+ {
+  <i>selbige Seele soll ausgerottet werden vor meinem Angesicht</i>: diese Formel kommt offenbar nur ein Mal vor (S. aber §jes-48-19). Vgl
+  «selbige Seele soll ausgerottet werden aus ihren Völkern</i> §+3mo-7-20
+ }
+#}
 #3mo-22-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche#leiche-verunreinigen
+ }
+ {
+  <i>dem der Samenerguss entgeht</i> §3mo-15-16
  }
 #}
 #3mo-22-8 {
@@ -13798,7 +13821,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Mietling In Elb05 und Sch2K mit «Tagelöhnern» übersetzt.
  }
  {
-  TODO: <i>Gast</i>: <a class='kom' href='#I2mo-12-45'>2.&nbsp;Mo&nbsp;12,45</a>.
+  §+2mo-12-45
  }
 #}
 #3mo-22-12 {
@@ -13811,6 +13834,11 @@
   <i>das Fünftel davon hinzufügen</i> §3mo-5-16, §3mo-27-13, §4mo-5-7
  }
 #}
+#3mo-22-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Opfergabe, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
+ }
+#}
 #3mo-22-19 {
  {
   'Schafe' (<span class='hebr'>בַּכְּשָׂבִ֖ים</span>, Strongs 3775)
@@ -13821,10 +13849,18 @@
 #}
 #3mo-22-21 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer
+ }
+ {
   <i>Gelübde</i>, vgl <a href='http://bibel.renenyffenegger.ch/3mo_27.html#v2'>3.&nbsp;Mo&nbsp;27,2</a>.
  }
  {
   TODO: Strongs 6381.
+ }
+#}
+#3mo-22-24 {
+ {
+  <i>in eurem Land … </i> vgl «wenn ihr in das Land kommt» §+3mo-14-34
  }
 #}
 #3mo-22-27 {
@@ -13834,9 +13870,8 @@
 #}
 #3mo-22-29 {
  {
-  'Lobopfer' <span class='hebr'>זֶֽבַח־תּוֹדָ֖ה</span> (2077 8426) wird in <a href='http://bibel.renenyffenegger.ch/3mo_7.html#v12'>3. Mo 7,12/13/15</a>
-  mit <i>Dankopfer</i> übersetzt.
-  <br><a class='kom' href='#I3mo-7-12'>3.&nbsp;Mo&nbsp;7,12</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Dankopfer (<span class='hebr'>זֶֽבַח־תּוֹדָ֖ה</span>, Strongs 2077 8426) wird in in Sch2K mit «Lobopfer», in KJV mit «sacrifice of thanksgiving» übersetzt.
+  Vgl. §3mo-7-12, §3mo-7-13, §3mo-7-15.
  }
  {
    Wir sollen Gott beständig ein Opfer des Lobes darbringen, weil wir hier keine bleibende Stadt haben, sondern die Zukünftige suchen
@@ -15533,6 +15568,11 @@
   TODO Vgl <a href='http://bibel.renenyffenegger.ch/ps_90.html#v7'>Ps&nbsp;90,7</a>
  }
 #}
+#4mo-14-30 {
+ {
+  <i>Wenn ihr in das Land kommen werdet</i> §+3mo-14-34
+ }
+#}
 #4mo-14-33 {
  {
   → biblisches/Exodus/40-Jahre-in-der-Wüste
@@ -15582,6 +15622,11 @@
 #}
 @}
 @4. Mose 15 {
+#4mo-15-2 {
+ {
+  <i>Wenn ihr in das Land eurer Wohnsitze kommt</i> §4mo-14-30, §+3mo-14-34
+ }
+#}
 #4mo-15-3 {
  {
   TODO: <i>Feueropfer</i> = Brandopfer oder Schlachtopfer.
@@ -17158,6 +17203,11 @@
 #}
 @}
 @4. Mose 34 {
+#4mo-34-2 {
+ {
+  <i>Wenn ihr in das Land Kanaan kommt</i> §3mo-14-34
+ }
+#}
 #4mo-34-3 {
  {
   Beachte: 'südlich' ist <span class='hebr'>נֶגֶב</span>.
@@ -43484,6 +43534,11 @@
 #jes-48-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott[Ich bin der HERR, dein Gott]
+ }
+#}
+#jes-48-19 {
+ {
+  <i>nicht ausgerottet … werden vor meinem Angesicht</i> vgl. §+3mo-22-3
  }
 #}
 #jes-48-20 {
