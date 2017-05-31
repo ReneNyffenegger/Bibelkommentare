@@ -11978,6 +11978,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer
  }
 #}
+#3mo-2-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Garbe-der-Erstlinge
+ }
+#}
 #3mo-2-13 {
  {
   <i>Salz des Bundes</i> siehe <a class='kom' href='#I4mo-18-19'>4.&nbsp;Mo&nbsp;18,19</a>.
@@ -13401,7 +13406,7 @@
 #}
 #3mo-19-9 {
  {
-  … denn für den Armen und für den Fremdling sollen sie gelassen werden §3mo-23-22. Vgl. §5mo-24-19-ff
+  … denn für den Armen und für den Fremdling sollen sie gelassen werden §3mo-23-22 (als Verordnung des → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Wochen[Festes der Wochen]). Vgl. §5mo-24-19-ff
  }
  {
    TODO <i>und keine Nachlese deiner Ernte halten</i> <span class='hebr'>וְלֶ֥קֶט קְצִֽירְךָ֖ לֹ֥א תְלַקֵּֽט</span> (Strongs 3951 7105 3808 3950),
@@ -13900,13 +13905,10 @@
  {
   Siehe auch <a class='kom' href='#I2mo-23-14'>2.&nbsp;Mo&nbsp;23,14</a>
     TODO: Hier ist Fest nicht <span class='hebr'>חָג</span> (Strongs 2282) sondern <span class='hebr'>מוֹעֵד</span> (Strongs 4150).
-    <br>TODO: Aus den <i>Festen des HERRN</i> wurden im Johannes Evangelium die «Feste der Juden». Dieser Begriff kommt in den anderen Evangelien nicht vor (?).
     <br>TODO: Hier werden (im Gegensatz zu anderen Aufzählungen der Feste des Herrn) Daten angegeben und mehr als nur «die drei» Feste aufgezählt.
  }
-#}
-#3mo-23-3 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/HERRN
  }
 #}
 #3mo-23-5 {
@@ -13932,6 +13934,11 @@
   TODO: Hat Simon von Kyrene an diesem Tag gearbeitet (<a class='kom' href='#Imt-27-32'>Mt&nbsp;27,32</a>).
  }
 #}
+#3mo-23-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer
+ }
+#}
 #3mo-23-10 {
  {
   <i>Wenn ihr in das Land kommt …</i> §+3mo-14-34
@@ -13951,13 +13958,13 @@
 #}
 #3mo-23-14 {
  {
-  Das → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfest] ist wohl das <i>Fest der Einsammlung</i> (§+2mo-23-14-ff).
- }
- {
   → biblisches/Eigene-Uebersetzung/Konkordanz/An-eben-diesem-Tag
  }
 #}
 #3mo-23-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Wochen
+ }
  {
   <i>komplett</i>: <span class='he'>תָּמִים</span> (Strongs 8549). Dasselbe Wort wird in Vers 12 mit «ohne Fehl» übersetzt.
  }
@@ -13975,7 +13982,7 @@
 #}
 #3mo-23-19 {
  {
-  TODO: <i>Friedensopfer</i> fehlt in Aufzählung in <a href='http://bibel.renenyffenegger.ch/3mo_23.html#v37'>Vers 37</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer fehlt in Aufzählung in §V3mo-23-37
  }
 #}
 #3mo-23-22 {
@@ -13985,14 +13992,15 @@
 #}
 #3mo-23-24 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Posaunenhall, die Opferdetails werden in §4mo-29-1-ff beschrieben.
+ }
+ {
   <b>1.7: Gedenken unter Hörnerschall</b> <span class='hebr'>זִכְר֥וֹן תְּרוּעָ֖ה</span> (2146 8643).
-  <br>In <a href='http://bibel.renenyffenegger.ch/4mo_29.html#v1'>4.&nbsp;Mo&nbsp;29,1</a> ff werden
-  die Opferdetails beschrieben.
  }
 #}
 #3mo-23-27 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Versöhnungstag
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Versöhnungstag, die Details (auch der Opferungen) werden in §4mo-29-7-ff beschrieben.
  }
  {
   TODO: 'Versöhnung' möglicherweise besser übersetzt mit 'Tag der Versöhnungen'
@@ -14007,6 +14015,13 @@
 #3mo-23-34 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfest]: <span class='hebr'>חַ֧ג הַסֻּכּ֛וֹת</span>, Strongs 2282+5521.
+  <br>   
+  Es ist wohl das <i>Fest der Einsammlung</i> (§+2mo-23-14-ff).
+ }
+#}
+#3mo-23-37 {
+ {
+  Beachte: in dieser Aufzählung fehlt das → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer, vgl. §V3mo-23-19
  }
 #}
 #3mo-23-40 {
@@ -16834,6 +16849,11 @@
   <br>TODO: Wieviel wird dann am 1.7. insgesamt geopfert?
  }
 #}
+#4mo-29-7 {
+ {
+  An diesem Datum ist der → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Versöhnungstag, §3mo-23-27
+ }
+#}
 #4mo-29-11 {
  {
   TODO: 'Versöhnung' siehe <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v33'>2.&nbsp;Mo&nbsp;29,33</a>.
@@ -18648,9 +18668,14 @@
   <i>Beim Untergang der Sonne</i>, vgl «zwischen den zwei Abenden» (<a class='kom' href='#I2mo-12-6'>2.&nbsp;Mo&nbsp;12,6</a>).
  }
 #}
+#5mo-16-9 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Wochen
+ }
+#}
 #5mo-16-13 {
  {
-  Das <i>Fest der Laubhütten</i> siehe <a class='kom' href='#I2mo-23-14'>2.&nbsp;Mo&nbsp;23,14</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten 
  }
 #}
 #5mo-16-17 {
@@ -62033,6 +62058,9 @@
 @Apostelgeschichte 2 {
 #apg-2-1 {
  {
+  <i>Pfingsten</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Wochen
+ }
+ {
    TODO: <i>erfüllte</i> hier, in Vers 2 und in Vers 4 sind nicht ganz die gleichen Verben.
  }
 #}
@@ -69561,7 +69589,7 @@
 #}
 #1kor-5-7 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah, → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Ungesäuertes
  }
 #}
 #1kor-5-9 {
@@ -70334,6 +70362,9 @@
  }
  {
   → biblisches/Lehre/Abendessen-des-Herrn/index
+ }
+ {
+  <i>Abendessen des Herrn</i>: <span class='gr'>κυριακὸν δεῖπνον</span>, ist möglicherweise besser übersetzt mit «dem Herrn gehöriges Abendessen», vgl. §+offb-1-10.
  }
  {
   TODO: An einem Ort: vgl §1kor-14-23.
@@ -82470,6 +82501,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte, dass hier keine Posaune gehört wird, sondern eine Stimme <i>wie</i> von einer Posaune. Diese
   Stimme redet wieder in <a href='http://bibel.renenyffenegger.ch/offb_4.html#v1'>Offb&nbsp;4,1</a>.
   <br>Beachte auch, dass die Stimme in Vers 15 wie <i>das Rauschen vieler Wasser</i> ist.
+ }
+ {
+   → biblisches/Bücher/prophetisch/Offenbarung/Tag-des-Herrn
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN, vgl <i>Tag des Zorns</i> (<a href='http://bibel.renenyffenegger.ch/offb_6.html#v17'>Offb&nbsp;6,17</a>,
