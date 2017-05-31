@@ -41410,6 +41410,11 @@
   TODO: wäre das im Grundtext eignetlich 'voll von des Ostens'?
  }
 #}
+#jes-2-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#anspielung-tag-herrn
+ }
+#}
 #jes-2-16 {
  {
   <i>Tarsisschiffe</i>: <a class='kom' href='#I1koe-10-22'>1.&nbsp;Kö&nbsp;10,22</a>.
@@ -42962,6 +42967,11 @@
  {
   TODO <i>Bozra</i> (=schafhürde, Strongs 1224), <a class='kom' href='#I1mo-36-33'>1.&nbsp;Mo&nbsp;36,33</a>.
   <br><a href='http://bibel.renenyffenegger.ch/jes_63.html#v1'>Jes&nbsp;63,1</a>: 'Wer kommt von Edom, von Bozra'?
+ }
+#}
+#jes-34-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#anspielung-tag-herrn
  }
 #}
 #jes-34-10 {
@@ -46373,6 +46383,11 @@
 #jer-46-9 {
  {
   <a class='kom' href='#I1mo-10-6'>1.&nbsp;Mo&nbsp;10,6</a>.
+ }
+#}
+#jer-46-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#anspielung-tag-herrn
  }
 #}
 #jer-46-11 {
@@ -51629,6 +51644,11 @@
 #}
 @}
 @Sacharja 14 {
+#sach-14-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#anspielung-tag-herrn
+ }
+#}
 #sach-14-2 {
  {
   <i>Und ich werde alle Nationen nach Jerusalem zum Krieg versammeln; und die Stadt wird eingenommen</i> vgl §jer-34-1, §sach-12-2, §sach-12-9, §lk-21-20
@@ -51732,6 +51752,11 @@
  }
  {
   TODO: <i>prüfen</i> hier und <i>versuchen</i> in Vers 15 sind beide Strongs 974.
+ }
+#}
+#mal-3-19 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#anspielung-tag-herrn
  }
 #}
 #mal-3-22 {
@@ -66133,6 +66158,9 @@
  {
    <i>Gebräuche</i>: <a class='kom' href='#Iapg-16-21'>Apg&nbsp;16,21</a>.
  }
+ {
+  <i>Abfall</i> §+2thes-2-3
+ }
 #}
 #apg-21-23 {
  {
@@ -69030,11 +69058,7 @@
 #}
 #1kor-1-8 {
  {
-  <i>Tag unseres Herrn Jesus Christus</i> vgl <a href='http://bibel.renenyffenegger.ch/1kor_5.html#v5'>1.&nbsp;Kor&nbsp;5,5</a>,
-  <a href='http://bibel.renenyffenegger.ch/2kor_1.html#v14'>2.&nbsp;Kor&nbsp;1,14</a>,
-  <a href='http://bibel.renenyffenegger.ch/phil_1.html#v6'>Phil 1,6/10</a>,
-  <a href='http://bibel.renenyffenegger.ch/phil_2.html#v16'>Phil&nbsp;2,16</a> und
-  <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v2'>2.&nbsp;Thes&nbsp;2,2</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag unseres Herrn Jesus Christus]
  }
 #}
 #1kor-1-9 {
@@ -69575,7 +69599,7 @@
    <i>Dem Satan überliefern</i> §1tim-1-20
  }
  {
-  <i>Tag des Herrn Jesus</i>: <a class='kom' href='#I1kor-1-8'>1.&nbsp;Kor&nbsp;1,8</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag des Herrn Jesus] §2kor-1-14
  }
  {
   Vgl <i>Verderben</i> (<span class='gr'>ὄλεθρος</span>, Strongs 3639, 4x) mit <span class='gr'>ἀπώλεια</span> (Strongs 684) zB
@@ -71250,7 +71274,7 @@
 #}
 #2kor-1-14 {
  {
-  <i>Tag des Herrn Jesus</i>: <a class='kom' href='#I1kor-1-8'>1.&nbsp;Kor&nbsp;1,8</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag des Herrn Jesus] §1kor-5-5
  }
 #}
 #2kor-1-15 {
@@ -71906,6 +71930,11 @@
  }
  {
   Vgl die helfenden <i>Brüder aus Mazedonien</i> mit den helfenden Philipppern (<a class='kom' href='#Iphil-4-16'>Phil&nbsp;4,16</a>).
+ }
+#}
+#2kor-11-14 {
+ {
+  <i>Gestalt eines Engels des Lichts annehmen</i> vgl. mit dem «Menschen der Sünde», der sich «in den Tempel Gottes setzt». §2thes-2-4
  }
 #}
 #2kor-11-18 {
@@ -73051,6 +73080,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Kraft</i> (Strongs 1411) in Sch2K übersetzt mit »Kraftwirkung«. Vgl §+roem-1-16
  }
+ {
+  <i>Wirksamkeit seiner Kraft</i> vgl. §eph-3-7
+ }
 #}
 #eph-1-20 {
  {
@@ -73280,6 +73312,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-3-7 {
  {
    <i>Diener des Evangeliums</i>: <a class='kom' href='#I1kor-4-1'>1.&nbsp;Kor&nbsp;4,1</a>.
+ }
+ {
+  <i>Wirksamkeit seiner Stärke</i> vgl. §eph-1-19
  }
 #}
 #eph-3-8 {
@@ -73890,11 +73925,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-1-6 {
  {
-  <i>Tag Jesu Christi</i>: <a class='kom' href='#I1kor-1-8'>1.&nbsp;Kor&nbsp;1,8</a>, <a href='http://bibel.renenyffenegger.ch/phil_1.html#v10'>Vers 10</a>,
-  <a href='http://bibel.renenyffenegger.ch/phil_2.html#v16'>Phil&nbsp;2,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag Christi], §Vphil-1-10, §phil-2-16, §2thes-2-2
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/phil_2.html#v13'>Phil&nbsp;2,13</a>.
+  Vgl. §phil-2-13.
  }
 #}
 #phil-1-7 {
@@ -73930,10 +73964,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-1-10 {
  {
-  <i>Tag des Christus</i>: <a href='http://bibel.renenyffenegger.ch/phil_2.html#v16'>Phil&nbsp;2,16</a>, <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v2'>2.&nbsp;Thes&nbsp;2,2</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag Christi] §+Vphil-1-6
  }
  {
-  <i>dait ihr prüfen mögt…</i> vgl §roem-12-2 
+  <i>damit ihr prüfen mögt…</i> vgl. §roem-12-2 
+ }
+ {
+  <i>lauter und unanstössig</i> vgl §phil-2-15
  }
 #}
 #phil-1-13 {
@@ -74121,13 +74158,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-2-15 {
  {
+  <i>tadellos und lauter</i> vgl §phil-1-10
+ }
+ {
   TODO: <i>Lichter</i>: <span class='gr'>φωστήρ</span> (Strongs 5458, 2x), vgl <a class='kom' href='#Ioffb-21-11'>Offb&nbsp;21,11</a>.
  }
 #}
 #phil-2-16 {
  {
-  <i>Tag des Christus</i>: <a class='kom' href='#Iphil-1-10'>Phil&nbsp;1,10</a>,
-  <a class='kom' href='#I1kor-1-8'>1.&nbsp;Kor&nbsp;1,8</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag Christi] §+phil-1-6, §2thes-2-2
  }
  {
   <i>vergeblich laufen</i> vgl §gal-2-2. <i>vergeblich arbeiten</i> vgl §gal-4-11
@@ -74657,7 +74696,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #kol-1-29 {
  {
   <i>Kraft</i>: <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a>.
-  <br>Vgl <a href='http://bibel.renenyffenegger.ch/eph_3.html#v20'>Eph&nbsp;3,20</a>.
+  <br>Vgl §eph-3-20.
  }
  {
    TODO: 'wirksame Kraft' kommt auch noch in <a href='http://bibel.renenyffenegger.ch/2ths_2.html#v11'>2.&nbsp;Ths&nbsp;2,11</a> vor. Kommt es (im Griechischen)
@@ -75915,8 +75954,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @2. Thessaloniker 2 {
 #2thes-2-1 {
  {
-  <i>Vereinigung</i> ist im Griechischen 'ἐπισυναγωγή' (Strongs 1997), kommt sonst nur noch in <a href='http://bibel.renenyffenegger.ch/hebr_10.html#v25'>Hebr&nbsp;10,25</a> vor,
-  dort als 'Versammlung' übersetzt.
+  <i>Vereinigung</i> <span class='gr'>ἐπισυναγωγή</span>, Strongs 1997, 2x, wird in §hebr-10-25 mit «Zusammenkommen» übersetzt.
+ }
+ {
+  <i>Kommen</i> <span class='gr'>παρουσία</span>, Strongs 3952, in Elberfelder mit «Wiederkunft» übersetzt.
  }
  {
   TODO: <i>Kommen unseres Herrn</i>: <a class='kom' href='#I1thes-2-19'>1.&nbsp;Thes&nbsp;2,19</a>.
@@ -75927,16 +75968,22 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-2-2 {
  {
-  <i>Tag des Christus</i>: <a class='kom' href='#Iphil-1-10'>Phil&nbsp;1,10</a>, <a class='kom' href='#I1kor-1-8'>1.&nbsp;Kor&nbsp;1,8</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag Christi] §+phil-1-10, §phil-2-16
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
+ }
+ {
+   <span class='gt'>NA hat «Tag des Herrn» statt «Tag des Christus».</span>
  }
  {
   Vgl <i>Wort oder angeblichen Brief</i> mit Vers 15.
  }
 #}
 #2thes-2-3 {
+ {
+  <i>Abfall</i> <span class='gr'>ἀποστασία</span> (Strongs 646) vgl. §apg-21-21
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung. Vgl mit der <i>Offenbarung des Herrn Jesus Christus</i>: <a class='kom' href='#I1kor-1-7'>1.&nbsp;Kor&nbsp;1,7</a>.
  }
@@ -75950,6 +75997,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2thes-2-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
+  <i>Sich in den Tempel Gottes setzen</i> vgl. mit Satan, der die «Gestalt eines Engels des Lichts annimmt</i> §2kor-11-14
  }
 #}
 #2thes-2-6 {
@@ -76002,7 +76052,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <br>Beachte auch: es ist Liebe zur Wahrheit, nicht Liebe zu Gott.
  }
  {
-  Die <i>Liebe zur Wahrheit nicht annehmen</i> vgl §+2tim-3-8
+  Die <i>Liebe zur Wahrheit nicht annehmen</i> vgl §+2tim-3-8, §offb-22-15 («Die Lüge lieben»)
  }
 #}
 #2thes-2-11 {
@@ -76042,6 +76092,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2thes-2-16 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+ }
+#}
+#2thes-2-17 {
+ {
+  <span class='gt'>NA hat offenbar «in jedem guten Werk und Wort»</span>
  }
 #}
 @}
@@ -79161,8 +79216,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-10-25 {
  {
-  <i>Zusammenkommen</i> <span class='gr'>ἐπισυναγωγή</span>, Strongs 1997, in
-  <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v1'>2.&nbsp;Thes&nbsp;2,1</a> mit 'Vereinigung' übersetzt.
+  <i>Zusammenkommen</i> <span class='gr'>ἐπισυναγωγή</span>, Strongs 1997, 2x, in §2thes-2-1 mit «Vereinigung» übersetzt.
  }
 #}
 #hebr-10-26 {
@@ -85908,6 +85962,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-22-15 {
+ {
+  <i>Die Lüge lieben</i> vgl «Die Liebe zur Wahrheit nicht annehmen</i> §2thes-2-10
+ }
  {
   Vgl <a class='kom' href='#Ioffb-21-8'>Offb&nbsp;21,8</a>.
  }
