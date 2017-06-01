@@ -8097,7 +8097,9 @@
 #}
 #2mo-12-38 {
  {
-  Das <i>Mischvolk</i>, das in Israels Mitte war, wurde lüstern §4mo-11-4
+  Das <i>Mischvolk</i>, das in Israels Mitte war, wurde lüstern §4mo-11-4.
+ <br>
+  Der Sohn von Schelomit (aus dem Stamm Dan) und dem ägyptischen Mann, der den Namen des HERRN fluchte, gehörte wohl auch zum Mischvolk. §3mo-24-10-ff
  }
 #}
 #2mo-12-39 {
@@ -12348,6 +12350,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
  }
 #}
+#3mo-7-6 {
+ {
+  <i>an heiligem Ort soll es gegessen werden</i> §3mo-10-13, §3mo-24-9
+ }
+#}
 #3mo-7-7 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schuldopfer
@@ -12673,6 +12680,11 @@
 #3mo-10-12 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Priester#was-den-priestern-gehoert
+ }
+#}
+#3mo-10-13 {
+ {
+  <i>essen an heiligem Ort</i> §3mo-7-6, §3mo-24-9
  }
 #}
 #3mo-10-14 {
@@ -13950,7 +13962,7 @@
 #}
 #3mo-23-13 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin, vgl §4mo-15-4
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer (hier erstes Vorkommen in → biblisches/Bücher/Mose/3), → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin, vgl §4mo-15-4
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
@@ -14056,6 +14068,9 @@
   Der Tisch wird auch 'rein' in <a href='http://bibel.renenyffenegger.ch/2chr_13.html#v11'>2.&nbsp;Chr&nbsp;13,11</a> genannt
   <br>Vgl auch <a class='kom' href='#I2mo-31-8'>2.&nbsp;Mo&nbsp;31,8</a> und <a href='http://bibel.renenyffenegger.ch/mal_1.html#v12'>Mal&nbsp;1,12</a>.
  }
+ {
+  <i>Schicht</i>: <span class='hebr'>מַעֲרֶכֶת</span> (Strongs 4635). In späterer Zeit wird das → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot «Schichtbrot» genannt werden, §1chr-9-32, §1chr-23-29
+ }
 #}
 #3mo-24-7 {
  {
@@ -14074,15 +14089,31 @@
  {
   → biblisches/Personen/Aaron/Söhne
  }
+ {
+  <i>essen an heiligem Ort</i> §3mo-7-6, §3mo-10-13
+ }
 #}
 #3mo-24-10 {
+ {
+  Dieser Sohn gehört wohl zum <i>Mischvolk</i> §+2mo-12-38. Da der Name des Vaters nicht genannt wird und der Vater auch sonst keine Rolle spielt, schliesst Ellicot daraus, dass
+  der Vater in Ägypten geblieben ist.
+ }
+ {
+  <i>zankten sich im Lager</i>: möglicherweise deshalb, weil dieser Sohn kein Panier hatte, bei dem er sich lagern konnte. Er sollte sich ja beim Zeichen seines Vaterhauses lagern: §4mo-2-2
+ }
+ {
+  Raschi sagt, dass der ägyptische Vater der Mann sei, den → biblisches/Personen/Mose umgebracht hat. §2mo-2-12
+ }
+ {
+  Beachte: Ägypter sollen ausdrücklich nicht verabscheut werden; sie können aber erst ab der dritten Generation in die Versammlung kommen: §5mo-23-8-9
+ }
  {
   TODO: Geht Mose <i>wegen dieser</i> Begebenheit auf den Berg Sinai: <a class='kom' href='#I3mo-25-1'>3.&nbsp;Mo&nbsp;25,1</a>.
  }
 #}
 #3mo-24-11 {
  {
-  Siehe <a class='kom' href='#I3mo-25-32'>3.&nbsp;Mo&nbsp;25,32</a>.
+  <i>Stamm Dan</i> §+3mo-25-32.
  }
  {
   <i>Dibri</i> <span class='hebr'>דִּבְרִי</span> = mein Wort.
@@ -14093,7 +14124,14 @@
 #}
 #3mo-24-12 {
  {
-  In Gewahrsam behalten, weil es unklar ist, was zu tun ist, vgl <a href='http://bibel.renenyffenegger.ch/4mo_15.html#v34'>4.&nbsp;Mo&nbsp;15,34</a>.
+  Vgl §4mo-15-34, wo der Holzaufleser in Gewahrsam gelegt wurde, weil «nicht genau bestimmt war, was ihm getan werden sollte».
+ }
+#}
+#3mo-24-14 {
+ {
+  Vgl §hebr-10-28-29 <i>Jemand, der das Gesetz Moses verworfen hat, stirbt ohne Barmherzigkeit auf die Aussage von zwei oder drei Zeugen; wieviel ärgerer
+  Strafe, meint ihr, wird der wertgeachtet werden, der den Sohn Gottes mit Füßen getreten und das Blut des Bundes, durch welches er geheiligt worden
+  ist, für gemein geachtet und den Geist der Gnade geschmäht hat?</i>
  }
 #}
 #3mo-24-16 {
@@ -14573,6 +14611,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
+ {
+  §+3mo-24-10
+ }
 #}
 #4mo-2-9 {
  {
@@ -14757,6 +14798,10 @@
  }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Tisch[Tisch] → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot
+ }
+ {
+  <i>Tisch der → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot[Schaubrote]</i>: <span class='hebr'>שֻׁלְחַן הַפָּנִים</span>, also wörtl. etwa «Tisch der Angesichter». Eine engl. Übersetzung
+  hat «table of the presence».
  }
 #}
 #4mo-4-16 {
@@ -15678,7 +15723,7 @@
 #}
 #4mo-15-34 {
  {
-  In Gewahrsam behalten, weil es unklar ist, was zu tun ist, vgl <a class='kom' href='#I3mo-24-12'>3.&nbsp;Mo&nbsp;24,12</a>.
+  <i>In Gewahrsam legen</i> §+3mo-24-12
  }
 #}
 #4mo-15-41 {
@@ -30743,6 +30788,11 @@
   ).
  }
 #}
+#1chr-9-32 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
+ }
+#}
 #1chr-9-35 {
  {
   <i>Der Vater Gibeons</i>: <a class='kom' href='#I1chr-8-29'>1.&nbsp;Chr&nbsp;8,29</a>.
@@ -31220,6 +31270,11 @@
   TODO: Die Leviten wurden in <a href='http://bibel.renenyffenegger.ch/4mo_1.html#v50'>4.&nbsp;Mo&nbsp;1,50</a> eingesetzt, um die Wohnung zu tragen.
  }
 #}
+#1chr-23-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
+ }
+#}
 #1chr-23-31 {
  {
   Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer
@@ -31451,6 +31506,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/Haus-Gottes
  }
 #}
+#1chr-28-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
+ }
+#}
 #1chr-28-18 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
@@ -31587,7 +31647,7 @@
 #}
 #2chr-2-4 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
  }
  {
    Vgl <a class='kom' href='#I1koe-3-2'>1.&nbsp;Kö&nbsp;3,2</a>.
@@ -32077,7 +32137,7 @@
 #}
 #2chr-13-11 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, Morgen für Morgen … §2mo-30-7-8
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, Morgen für Morgen … §2mo-30-7-8, → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
  }
  {
   <i>Reiner Tisch</i>: <a class='kom' href='#I3mo-24-6'>3.&nbsp;Mo&nbsp;24,6</a>.
@@ -32775,6 +32835,11 @@
 #2chr-29-16 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
+#2chr-29-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
  }
 #}
 #2chr-29-19 {
@@ -33564,6 +33629,9 @@
  {
   Beachte: Auch in Nehemia wird ein → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten gefeiert. Und zwar so, wie es seit der Zeit → biblisches/Personen/Josua nicht mehr gemacht worden
   war (§neh-8-16-17). Sie fanden die Anweisung erst dort im → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz (§neh-8-14), vgl → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia.
+ }
+ {
+  <i>wie es vorgeschrieben ist/nach der Vorschrift</i>: Wo sind diese Vorschriften? 
  }
 #}
 #esr-3-5 {
@@ -34843,7 +34911,7 @@
 #}
 #neh-10-34 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer, vgl §esr-3-5
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer vgl §esr-3-5, → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
  }
 #}
 #neh-10-35 {
@@ -79222,6 +79290,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-10-26 {
  {
   <i>Erkenntnis der Wahrheit</i>: <a class='kom' href='#I1tim-2-4'>1.&nbsp;Tim&nbsp;2,4</a>.
+ }
+#}
+#hebr-10-28 {
+ {
+  Vgl mit dem Flucher, der (dort im Zusammenhang mit den vorangehenden Gesetzen) vermutlich das Gesetz Moses verworfen hat §3mo-24-10-ff
  }
 #}
 #hebr-10-29 {
