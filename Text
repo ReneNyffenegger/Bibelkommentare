@@ -9076,7 +9076,7 @@
   Vgl das erste Gesetz (§5mo-6-4) und das zweite (§mk-12-31, §+3mo-19-18). Frage, warum kommt dieses erste Gesetz erst in 5. Mose vor?
  }
  {
-  Vgl §2mo-3-16, §2mo-23-13, §3mo-19-4
+  Vgl §2mo-3-16, §2mo-23-13, §3mo-19-4, §3mo-26-1
  }
 #}
 #2mo-20-4 {
@@ -13565,6 +13565,9 @@
  {
   <i>Meine → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat[Sabbate] sollt ihr beobachten</i> §2mo-31-13
  }
+ {
+  Derselbe Vers auch in §3mo-26-2
+ }
 #}
 #3mo-19-31 {
  {
@@ -14280,6 +14283,22 @@
 #}
 @}
 @3. Mose 26 {
+#3mo-26-1 {
+ {
+  §+2mo-20-3
+ }
+#}
+#3mo-26-2 {
+ {
+  Derselbe Vers auch in §3mo-19-30
+ }
+#}
+#3mo-26-3 {
+ {
+   Ellicot weist darauf hin, dass die Verse 1-2 dieses Kapitels im Hebräischen Original zum vorangehenden Kapitel gerechnet werden. Er argumentiert, dass folglich
+   dieses Kapitel eigentlich mit diesem Vers beginnen müsste.
+ }
+#}
 #3mo-26-8 {
  {
   Vgl «einer jagt tausend» <a class='kom' href='#I5mo-32-30'>5.&nbsp;Mo&nbsp;32,30</a>.
@@ -31046,9 +31065,112 @@
   <a href='http://bibel.renenyffenegger.ch/2chr_20.html#v14'>2.&nbsp;Chr&nbsp;20,14</a>.
  }
 #}
+#1chr-16-9 {
+ {
+  Vgl folgende Verse mit §ps-105-2-ff
+ }
+#}
+#1chr-16-10 {
+ {
+  §ps-105-3
+ }
+#}
+#1chr-16-11 {
+ {
+  §ps-105-4
+ }
+#}
+#1chr-16-12 {
+ {
+  §ps-105-5
+ }
+#}
+#1chr-16-13 {
+ {
+  §ps-105-6
+ }
+#}
+#1chr-16-14 {
+ {
+  §ps-105-7
+ }
+#}
+#1chr-16-15 {
+ {
+  §ps-105-8 
+ }
+#}
+#1chr-16-16 {
+ {
+  §ps-105-9
+ }
+#}
 #1chr-16-17 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/ewig
+ }
+ {
+  §ps-105-10
+ }
+#}
+#1chr-16-18 {
+ {
+  §ps-105-11
+ }
+#}
+#1chr-16-19 {
+ {
+  §ps-105-12
+ }
+#}
+#1chr-16-20 {
+ {
+  §ps-105-13
+ }
+#}
+#1chr-16-21 {
+ {
+  §ps-105-14
+ }
+#}
+#1chr-16-22 {
+ {
+  §ps-105-15
+ }
+#}
+#1chr-16-23 {
+ {
+  Vgl. folgende Verse mit §ps-96-2-ff
+ }
+#}
+#1chr-16-24 {
+ {
+  §ps-96-3
+ }
+#}
+#1chr-16-25 {
+ {
+  §ps-96-4
+ }
+#}
+#1chr-16-26 {
+ {
+  §ps-96-5
+ }
+#}
+#1chr-16-27 {
+ {
+  §ps-96-6
+ }
+#}
+#1chr-16-28 {
+ {
+  §ps-96-7
+ }
+#}
+#1chr-16-29 {
+ {
+  §ps-96-8
  }
 #}
 #1chr-16-30 {
@@ -38430,9 +38552,42 @@
    <i>Neues Lied</i>: <a class='kom' href='#Ips-33-3'>Ps&nbsp;33,3</a>.
  }
 #}
+#ps-96-2 {
+ {
+  Vgl. folgende Verse mit §1chr-16-23-ff
+ }
+#}
+#ps-96-3 {
+ {
+  §1chr-16-24
+ }
+#}
 #ps-96-4 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/ps_97.html#v7'>Ps&nbsp;97,7</a>.
+  §1chr-16-25
+ }
+ {
+  Vgl §ps-97-7
+ }
+#}
+#ps-96-5 {
+ {
+  §1chr-16-26
+ }
+#}
+#ps-96-6 {
+ {
+  §1chr-16-27
+ }
+#}
+#ps-96-7 {
+ {
+  §1chr-16-28
+ }
+#}
+#ps-96-8 {
+ {
+  §1chr-16-29
  }
 #}
 #ps-96-10 {
@@ -38686,7 +38841,30 @@
   <i>Dank</i> in den Psalmen: <a class='kom' href='#Ips-50-14'>Ps&nbsp;50,14</a>.
  }
 #}
+#ps-105-2 {
+ {
+  Vgl folgende Verse mit §1chr-16-9-ff
+ }
+#}
+#ps-105-3 {
+ {
+  §1chr-16-10
+ }
+#}
+#ps-105-4 {
+ {
+  §1chr-16-11
+ }
+#}
+#ps-105-5 {
+ {
+  §1chr-16-12
+ }
+#}
 #ps-105-6 {
+ {
+  §1chr-16-13
+ }
  {
   TODO: Hier ist Abraham der Knecht, die Kinder Jakobs die Auserwählten, in Vers 26 Mose der Knecht und Aaron der erwählte.
   In <a href='http://bibel.renenyffenegger.ch/ps_106.html#v16'>Ps&nbsp;106,16</a> ist Aaron der Heilige, in <a href='http://bibel.renenyffenegger.ch/ps_106.html#v23'>Ps&nbsp;106,23</a> ist
@@ -38694,9 +38872,52 @@
   <br>Vgl auch Vers 42.
  }
 #}
+#ps-105-7 {
+ {
+  §1chr-16-14
+ }
+#}
+#ps-105-8 {
+ {
+  §1chr-16-15
+ }
+#}
+#ps-105-9 {
+ {
+  §1chr-16-16
+ }
+#}
 #ps-105-10 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/ewig
+ }
+ {
+  §1chr-16-17
+ }
+#}
+#ps-105-11 {
+ {
+  §1chr-16-18
+ }
+#}
+#ps-105-12 {
+ {
+  §1chr-16-19
+ }
+#}
+#ps-105-13 {
+ {
+  §1chr-16-20
+ }
+#}
+#ps-105-14 {
+ {
+  §1chr-16-21
+ }
+#}
+#ps-105-15 {
+ {
+  §1chr-16-22
  }
 #}
 #ps-105-16 {
