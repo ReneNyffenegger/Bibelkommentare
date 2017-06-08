@@ -2961,7 +2961,7 @@
 #}
 #1mo-15-16 {
  {
-  <i>Vier Generationen</i>: siehe <a class='kom' href='#I2mo-6-16'>2.&nbsp;Mo&nbsp;6,16</a>.
+  → biblisches/Exodus/Vier-Generationen: siehe §+2mo-6-16.
  }
 #}
 #1mo-15-17 {
@@ -6366,6 +6366,9 @@
   <br>Es gibt auch einen Ort Hezron (<a href='http://bibel.renenyffenegger.ch/jos_15.html#v3'>Jos&nbsp;15,3</a>) und
       Keriot-Hezron (=Hazor) (<a href='http://bibel.renenyffenegger.ch/jos_15.html#v25'>Jos&nbsp;15,25</a>).
  }
+ {
+  TODO: §1chr-9-4, §neh-11-4
+ }
 #}
 #1mo-46-13 {
  {
@@ -7401,11 +7404,10 @@
   <object data="svg_alle_kapitel/2mo_6_16.svg" type="image/svg+xml" width=620 height=320></object>
  }
  {
-  137 jährig gestorben: siehe <a class='kom' href='#I1mo-23-1'>1.&nbsp;Mo&nbsp;23,1</a>.
+  137 jährig gestorben: siehe §+1mo-23-1.
  }
  {
-  Die vier Generationen von <a href='http://bibel.renenyffenegger.ch/1mo_15.html#v16'>1.&nbsp;Mo&nbsp;15,16</a> bezieht sich also auf
-  Levi, Kahat, Amram und Mose.
+  Die vier Generationen von §1mo-15-16 bezieht sich also auf Levi, Kahat, Amram und Mose.
  }
 #}
 #2mo-6-20 {
@@ -14193,13 +14195,13 @@
 #}
 #3mo-25-9 {
  {
-  <i>unbeschnittener Weinstock</i>: <a class='kom' href='#I3mo-25-5'>3.&nbsp;Mo&nbsp;25,5</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Versöhnungstag
  }
  {
-  TODO: 'Versöhnung' siehe <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v33'>2.&nbsp;Mo&nbsp;29,33</a>.
+  TODO §+3mo-25-5.
  }
  {
-  TODO: Ist dieser <i>Versöhnungstag</i> nur alle 50 Jahre?
+  TODO: 'Versöhnung' siehe §2mo-29-33.
  }
 #}
 #3mo-25-10 {
@@ -30727,6 +30729,9 @@
  {
    → biblisches/Personen/Perez/Judas-Sohn
  }
+ {
+  TODO: Ist Bani direkter Nachfahre von Perez? Ist er einer von Hezron und Hamul? Vgl §1mo-46-12, §neh-11-4
+ }
 #}
 #1chr-9-10 {
  {
@@ -35092,6 +35097,9 @@
 #neh-11-4 {
  {
   Vgl §1chr-9-3
+ }
+ {
+  TODO: Ist Mahalel direkter Nachfahre von Perez? Ist er einer von Hezron und Hamul? Vgl §1mo-46-12, §neh-11-4
  }
 #}
 #neh-11-5 {
