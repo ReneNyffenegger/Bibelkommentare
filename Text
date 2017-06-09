@@ -2961,7 +2961,7 @@
 #}
 #1mo-15-16 {
  {
-  <i>Vier Generationen</i>: siehe <a class='kom' href='#I2mo-6-16'>2.&nbsp;Mo&nbsp;6,16</a>.
+  → biblisches/Exodus/Vier-Generationen: siehe §+2mo-6-16.
  }
 #}
 #1mo-15-17 {
@@ -6366,6 +6366,9 @@
   <br>Es gibt auch einen Ort Hezron (<a href='http://bibel.renenyffenegger.ch/jos_15.html#v3'>Jos&nbsp;15,3</a>) und
       Keriot-Hezron (=Hazor) (<a href='http://bibel.renenyffenegger.ch/jos_15.html#v25'>Jos&nbsp;15,25</a>).
  }
+ {
+  TODO: §1chr-9-4, §neh-11-4
+ }
 #}
 #1mo-46-13 {
  {
@@ -7269,7 +7272,8 @@
 #2mo-4-22 {
  {
   Israel, der <i>erstgeborene Sohn</i>: auch Ephraim ist der Erstgeborene: §jer-31-9.
-  <br>Vgl §hos-11-1
+  <br>
+   Vgl §hos-11-1 (Aus Ägypten habe ich meinen Sohn gerufen); §5mo-32-18 (Den Felsen, der dich gezeugt, vernachlässigtest du, und vergaßest den Gott, der dich geboren)
  }
 #}
 #2mo-4-23 {
@@ -7400,11 +7404,10 @@
   <object data="svg_alle_kapitel/2mo_6_16.svg" type="image/svg+xml" width=620 height=320></object>
  }
  {
-  137 jährig gestorben: siehe <a class='kom' href='#I1mo-23-1'>1.&nbsp;Mo&nbsp;23,1</a>.
+  137 jährig gestorben: siehe §+1mo-23-1.
  }
  {
-  Die vier Generationen von <a href='http://bibel.renenyffenegger.ch/1mo_15.html#v16'>1.&nbsp;Mo&nbsp;15,16</a> bezieht sich also auf
-  Levi, Kahat, Amram und Mose.
+  Die vier Generationen von §1mo-15-16 bezieht sich also auf Levi, Kahat, Amram und Mose.
  }
 #}
 #2mo-6-20 {
@@ -8035,6 +8038,9 @@
  {
   <i>Dienst zum Beobachten</i>: Passah (Verse 25-27) vgl mit Sieben Tage Ungesäuertes essen (<a href='http://bibel.renenyffenegger.ch/2mo_13.html#v5'>2.&nbsp;Mo&nbsp;13,5ff</a>).
  }
+ {
+  <i>wenn ihr in das Land kommt</i> §+3mo-14-34
+ }
 #}
 #2mo-12-27 {
  {
@@ -8094,7 +8100,9 @@
 #}
 #2mo-12-38 {
  {
-  Das <i>Mischvolk</i>, das in Israels Mitte war, wurde lüstern §4mo-11-4
+  Das <i>Mischvolk</i>, das in Israels Mitte war, wurde lüstern §4mo-11-4.
+ <br>
+  Der Sohn von Schelomit (aus dem Stamm Dan) und dem ägyptischen Mann, der den Namen des HERRN fluchte, gehörte wohl auch zum Mischvolk. §3mo-24-10-ff
  }
 #}
 #2mo-12-39 {
@@ -9070,7 +9078,7 @@
   Vgl das erste Gesetz (§5mo-6-4) und das zweite (§mk-12-31, §+3mo-19-18). Frage, warum kommt dieses erste Gesetz erst in 5. Mose vor?
  }
  {
-  Vgl §2mo-3-16, §2mo-23-13, §3mo-19-4
+  Vgl §2mo-3-16, §2mo-23-13, §3mo-19-4, §3mo-26-1
  }
 #}
 #2mo-20-4 {
@@ -11456,7 +11464,7 @@
 #}
 #2mo-35-29 {
  {
-  Hier erstes Vorkommen von <span class='hebr'>נְדָבָה</span> (Strongs 5071), übersetzt mit <i>freiwillige Gabe</i>.
+  Hier erstes Vorkommen von <span class='hebr'>נְדָבָה</span> (Strongs 5071), übersetzt mit → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/freiwillige-Gabe
  }
 #}
 #2mo-35-30 {
@@ -11975,6 +11983,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer
  }
 #}
+#3mo-2-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Garbe-der-Erstlinge
+ }
+#}
 #3mo-2-13 {
  {
   <i>Salz des Bundes</i> siehe <a class='kom' href='#I4mo-18-19'>4.&nbsp;Mo&nbsp;18,19</a>.
@@ -12340,6 +12353,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
  }
 #}
+#3mo-7-6 {
+ {
+  <i>an heiligem Ort soll es gegessen werden</i> §3mo-10-13, §3mo-24-9
+ }
+#}
 #3mo-7-7 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schuldopfer
@@ -12410,6 +12428,10 @@
 #3mo-7-20 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
+ }
+ {
+  <i>diese Seele soll ausgerottet werden aus ihren Völkern.</i>: §V3mo-7-21, §V3mo-7-25, §V3mo-7-29, §3mo-19-8, §3mo-23-29.
+  Vgl. §3mo-22-3
  }
 #}
 #3mo-7-24 {
@@ -12661,6 +12683,11 @@
 #3mo-10-12 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Priester#was-den-priestern-gehoert
+ }
+#}
+#3mo-10-13 {
+ {
+  <i>essen an heiligem Ort</i> §3mo-7-6, §3mo-24-9
  }
 #}
 #3mo-10-14 {
@@ -13014,7 +13041,9 @@
 #}
 #3mo-14-34 {
  {
-  <i>Wenn ihr in das Land Kanaan kommt …</i> §3mo-19-23, §3mo-23-10, §3mo-25-2
+  <i>Wenn ihr in das Land Kanaan kommt …</i> §3mo-19-23, §3mo-23-10, §3mo-25-2, §4mo-34-2, vgl §2mo-12-25, §4mo-14-30, §4mo-15-2, §4mo-15-2
+  <br>
+   Vgl. §3mo-22-24
  }
  {
   Beachte: Mose und Aaron, zu welchen hier der HERR redet, kommen nicht in das Land Kanaan.
@@ -13046,6 +13075,11 @@
 #3mo-15-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
+ }
+#}
+#3mo-15-16 {
+ {
+  §3mo-22-4
  }
 #}
 #3mo-15-19 {
@@ -13387,7 +13421,7 @@
 #}
 #3mo-19-9 {
  {
-  … denn für den Armen und für den Fremdling sollen sie gelassen werden §3mo-23-22. Vgl. §5mo-24-19-ff
+  … denn für den Armen und für den Fremdling sollen sie gelassen werden §3mo-23-22 (als Verordnung des → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Wochen[Festes der Wochen]). Vgl. §5mo-24-19-ff
  }
  {
    TODO <i>und keine Nachlese deiner Ernte halten</i> <span class='hebr'>וְלֶ֥קֶט קְצִֽירְךָ֖ לֹ֥א תְלַקֵּֽט</span> (Strongs 3951 7105 3808 3950),
@@ -13532,6 +13566,9 @@
  }
  {
   <i>Meine → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat[Sabbate] sollt ihr beobachten</i> §2mo-31-13
+ }
+ {
+  Derselbe Vers auch in §3mo-26-2
  }
 #}
 #3mo-19-31 {
@@ -13781,9 +13818,18 @@
 #}
 @}
 @3. Mose 22 {
+#3mo-22-3 {
+ {
+  <i>selbige Seele soll ausgerottet werden vor meinem Angesicht</i>: diese Formel kommt offenbar nur ein Mal vor (S. aber §jes-48-19). Vgl
+  «selbige Seele soll ausgerottet werden aus ihren Völkern</i> §+3mo-7-20
+ }
+#}
 #3mo-22-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche#leiche-verunreinigen
+ }
+ {
+  <i>dem der Samenerguss entgeht</i> §3mo-15-16
  }
 #}
 #3mo-22-8 {
@@ -13798,7 +13844,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Mietling In Elb05 und Sch2K mit «Tagelöhnern» übersetzt.
  }
  {
-  TODO: <i>Gast</i>: <a class='kom' href='#I2mo-12-45'>2.&nbsp;Mo&nbsp;12,45</a>.
+  §+2mo-12-45
  }
 #}
 #3mo-22-12 {
@@ -13811,6 +13857,11 @@
   <i>das Fünftel davon hinzufügen</i> §3mo-5-16, §3mo-27-13, §4mo-5-7
  }
 #}
+#3mo-22-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Opfergabe, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
+ }
+#}
 #3mo-22-19 {
  {
   'Schafe' (<span class='hebr'>בַּכְּשָׂבִ֖ים</span>, Strongs 3775)
@@ -13821,10 +13872,18 @@
 #}
 #3mo-22-21 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer
+ }
+ {
   <i>Gelübde</i>, vgl <a href='http://bibel.renenyffenegger.ch/3mo_27.html#v2'>3.&nbsp;Mo&nbsp;27,2</a>.
  }
  {
   TODO: Strongs 6381.
+ }
+#}
+#3mo-22-24 {
+ {
+  <i>in eurem Land … </i> vgl «wenn ihr in das Land kommt» §+3mo-14-34
  }
 #}
 #3mo-22-27 {
@@ -13834,9 +13893,8 @@
 #}
 #3mo-22-29 {
  {
-  'Lobopfer' <span class='hebr'>זֶֽבַח־תּוֹדָ֖ה</span> (2077 8426) wird in <a href='http://bibel.renenyffenegger.ch/3mo_7.html#v12'>3. Mo 7,12/13/15</a>
-  mit <i>Dankopfer</i> übersetzt.
-  <br><a class='kom' href='#I3mo-7-12'>3.&nbsp;Mo&nbsp;7,12</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Dankopfer (<span class='hebr'>זֶֽבַח־תּוֹדָ֖ה</span>, Strongs 2077 8426) wird in in Sch2K mit «Lobopfer», in KJV mit «sacrifice of thanksgiving» übersetzt.
+  Vgl. §3mo-7-12, §3mo-7-13, §3mo-7-15.
  }
  {
    Wir sollen Gott beständig ein Opfer des Lobes darbringen, weil wir hier keine bleibende Stadt haben, sondern die Zukünftige suchen
@@ -13865,13 +13923,10 @@
  {
   Siehe auch <a class='kom' href='#I2mo-23-14'>2.&nbsp;Mo&nbsp;23,14</a>
     TODO: Hier ist Fest nicht <span class='hebr'>חָג</span> (Strongs 2282) sondern <span class='hebr'>מוֹעֵד</span> (Strongs 4150).
-    <br>TODO: Aus den <i>Festen des HERRN</i> wurden im Johannes Evangelium die «Feste der Juden». Dieser Begriff kommt in den anderen Evangelien nicht vor (?).
     <br>TODO: Hier werden (im Gegensatz zu anderen Aufzählungen der Feste des Herrn) Daten angegeben und mehr als nur «die drei» Feste aufgezählt.
  }
-#}
-#3mo-23-3 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/HERRN
  }
 #}
 #3mo-23-5 {
@@ -13897,6 +13952,11 @@
   TODO: Hat Simon von Kyrene an diesem Tag gearbeitet (<a class='kom' href='#Imt-27-32'>Mt&nbsp;27,32</a>).
  }
 #}
+#3mo-23-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer
+ }
+#}
 #3mo-23-10 {
  {
   <i>Wenn ihr in das Land kommt …</i> §+3mo-14-34
@@ -13908,7 +13968,7 @@
 #}
 #3mo-23-13 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin, vgl §4mo-15-4
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer (hier erstes Vorkommen in → biblisches/Bücher/Mose/3), → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin, vgl §4mo-15-4
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
@@ -13916,13 +13976,13 @@
 #}
 #3mo-23-14 {
  {
-  Das → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfest] ist wohl das <i>Fest der Einsammlung</i> (§+2mo-23-14-ff).
- }
- {
   → biblisches/Eigene-Uebersetzung/Konkordanz/An-eben-diesem-Tag
  }
 #}
 #3mo-23-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Wochen
+ }
  {
   <i>komplett</i>: <span class='he'>תָּמִים</span> (Strongs 8549). Dasselbe Wort wird in Vers 12 mit «ohne Fehl» übersetzt.
  }
@@ -13940,7 +14000,7 @@
 #}
 #3mo-23-19 {
  {
-  TODO: <i>Friedensopfer</i> fehlt in Aufzählung in <a href='http://bibel.renenyffenegger.ch/3mo_23.html#v37'>Vers 37</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer fehlt in Aufzählung in §V3mo-23-37
  }
 #}
 #3mo-23-22 {
@@ -13950,14 +14010,15 @@
 #}
 #3mo-23-24 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Posaunenhall, die Opferdetails werden in §4mo-29-1-ff beschrieben.
+ }
+ {
   <b>1.7: Gedenken unter Hörnerschall</b> <span class='hebr'>זִכְר֥וֹן תְּרוּעָ֖ה</span> (2146 8643).
-  <br>In <a href='http://bibel.renenyffenegger.ch/4mo_29.html#v1'>4.&nbsp;Mo&nbsp;29,1</a> ff werden
-  die Opferdetails beschrieben.
  }
 #}
 #3mo-23-27 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Versöhnungstag
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Versöhnungstag, die Details (auch der Opferungen) werden in §4mo-29-7-ff beschrieben.
  }
  {
   TODO: 'Versöhnung' möglicherweise besser übersetzt mit 'Tag der Versöhnungen'
@@ -13972,6 +14033,13 @@
 #3mo-23-34 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfest]: <span class='hebr'>חַ֧ג הַסֻּכּ֛וֹת</span>, Strongs 2282+5521.
+  <br>   
+  Es ist wohl das <i>Fest der Einsammlung</i> (§+2mo-23-14-ff).
+ }
+#}
+#3mo-23-37 {
+ {
+  Beachte: in dieser Aufzählung fehlt das → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer, vgl. §V3mo-23-19
  }
 #}
 #3mo-23-40 {
@@ -14006,6 +14074,9 @@
   Der Tisch wird auch 'rein' in <a href='http://bibel.renenyffenegger.ch/2chr_13.html#v11'>2.&nbsp;Chr&nbsp;13,11</a> genannt
   <br>Vgl auch <a class='kom' href='#I2mo-31-8'>2.&nbsp;Mo&nbsp;31,8</a> und <a href='http://bibel.renenyffenegger.ch/mal_1.html#v12'>Mal&nbsp;1,12</a>.
  }
+ {
+  <i>Schicht</i>: <span class='hebr'>מַעֲרֶכֶת</span> (Strongs 4635). In späterer Zeit wird das → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot «Schichtbrot» genannt werden, §1chr-9-32, §1chr-23-29
+ }
 #}
 #3mo-24-7 {
  {
@@ -14024,15 +14095,31 @@
  {
   → biblisches/Personen/Aaron/Söhne
  }
+ {
+  <i>essen an heiligem Ort</i> §3mo-7-6, §3mo-10-13
+ }
 #}
 #3mo-24-10 {
+ {
+  Dieser Sohn gehört wohl zum <i>Mischvolk</i> §+2mo-12-38. Da der Name des Vaters nicht genannt wird und der Vater auch sonst keine Rolle spielt, schliesst Ellicot daraus, dass
+  der Vater in Ägypten geblieben ist.
+ }
+ {
+  <i>zankten sich im Lager</i>: möglicherweise deshalb, weil dieser Sohn kein Panier hatte, bei dem er sich lagern konnte. Er sollte sich ja beim Zeichen seines Vaterhauses lagern: §4mo-2-2
+ }
+ {
+  Raschi sagt, dass der ägyptische Vater der Mann sei, den → biblisches/Personen/Mose umgebracht hat. §2mo-2-12
+ }
+ {
+  Beachte: Ägypter sollen ausdrücklich nicht verabscheut werden; sie können aber erst ab der dritten Generation in die Versammlung kommen: §5mo-23-8-9
+ }
  {
   TODO: Geht Mose <i>wegen dieser</i> Begebenheit auf den Berg Sinai: <a class='kom' href='#I3mo-25-1'>3.&nbsp;Mo&nbsp;25,1</a>.
  }
 #}
 #3mo-24-11 {
  {
-  Siehe <a class='kom' href='#I3mo-25-32'>3.&nbsp;Mo&nbsp;25,32</a>.
+  <i>Stamm Dan</i> §+3mo-25-32.
  }
  {
   <i>Dibri</i> <span class='hebr'>דִּבְרִי</span> = mein Wort.
@@ -14043,7 +14130,14 @@
 #}
 #3mo-24-12 {
  {
-  In Gewahrsam behalten, weil es unklar ist, was zu tun ist, vgl <a href='http://bibel.renenyffenegger.ch/4mo_15.html#v34'>4.&nbsp;Mo&nbsp;15,34</a>.
+  Vgl §4mo-15-34, wo der Holzaufleser in Gewahrsam gelegt wurde, weil «nicht genau bestimmt war, was ihm getan werden sollte».
+ }
+#}
+#3mo-24-14 {
+ {
+  Vgl §hebr-10-28-29 <i>Jemand, der das Gesetz Moses verworfen hat, stirbt ohne Barmherzigkeit auf die Aussage von zwei oder drei Zeugen; wieviel ärgerer
+  Strafe, meint ihr, wird der wertgeachtet werden, der den Sohn Gottes mit Füßen getreten und das Blut des Bundes, durch welches er geheiligt worden
+  ist, für gemein geachtet und den Geist der Gnade geschmäht hat?</i>
  }
 #}
 #3mo-24-16 {
@@ -14101,13 +14195,13 @@
 #}
 #3mo-25-9 {
  {
-  <i>unbeschnittener Weinstock</i>: <a class='kom' href='#I3mo-25-5'>3.&nbsp;Mo&nbsp;25,5</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Versöhnungstag
  }
  {
-  TODO: 'Versöhnung' siehe <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v33'>2.&nbsp;Mo&nbsp;29,33</a>.
+  TODO §+3mo-25-5.
  }
  {
-  TODO: Ist dieser <i>Versöhnungstag</i> nur alle 50 Jahre?
+  TODO: 'Versöhnung' siehe §2mo-29-33.
  }
 #}
 #3mo-25-10 {
@@ -14191,6 +14285,22 @@
 #}
 @}
 @3. Mose 26 {
+#3mo-26-1 {
+ {
+  §+2mo-20-3
+ }
+#}
+#3mo-26-2 {
+ {
+  Derselbe Vers auch in §3mo-19-30
+ }
+#}
+#3mo-26-3 {
+ {
+   Ellicot weist darauf hin, dass die Verse 1-2 dieses Kapitels im Hebräischen Original zum vorangehenden Kapitel gerechnet werden. Er argumentiert, dass folglich
+   dieses Kapitel eigentlich mit diesem Vers beginnen müsste.
+ }
+#}
 #3mo-26-8 {
  {
   Vgl «einer jagt tausend» <a class='kom' href='#I5mo-32-30'>5.&nbsp;Mo&nbsp;32,30</a>.
@@ -14523,6 +14633,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
+ {
+  §+3mo-24-10
+ }
 #}
 #4mo-2-9 {
  {
@@ -14707,6 +14820,10 @@
  }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Tisch[Tisch] → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot
+ }
+ {
+  <i>Tisch der → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot[Schaubrote]</i>: <span class='hebr'>שֻׁלְחַן הַפָּנִים</span>, also wörtl. etwa «Tisch der Angesichter». Eine engl. Übersetzung
+  hat «table of the presence».
  }
 #}
 #4mo-4-16 {
@@ -15533,6 +15650,11 @@
   TODO Vgl <a href='http://bibel.renenyffenegger.ch/ps_90.html#v7'>Ps&nbsp;90,7</a>
  }
 #}
+#4mo-14-30 {
+ {
+  <i>Wenn ihr in das Land kommen werdet</i> §+3mo-14-34
+ }
+#}
 #4mo-14-33 {
  {
   → biblisches/Exodus/40-Jahre-in-der-Wüste
@@ -15582,6 +15704,11 @@
 #}
 @}
 @4. Mose 15 {
+#4mo-15-2 {
+ {
+  <i>Wenn ihr in das Land eurer Wohnsitze kommt</i> §4mo-14-30, §+3mo-14-34
+ }
+#}
 #4mo-15-3 {
  {
   TODO: <i>Feueropfer</i> = Brandopfer oder Schlachtopfer.
@@ -15618,7 +15745,7 @@
 #}
 #4mo-15-34 {
  {
-  In Gewahrsam behalten, weil es unklar ist, was zu tun ist, vgl <a class='kom' href='#I3mo-24-12'>3.&nbsp;Mo&nbsp;24,12</a>.
+  <i>In Gewahrsam legen</i> §+3mo-24-12
  }
 #}
 #4mo-15-41 {
@@ -16789,6 +16916,11 @@
   <br>TODO: Wieviel wird dann am 1.7. insgesamt geopfert?
  }
 #}
+#4mo-29-7 {
+ {
+  An diesem Datum ist der → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Versöhnungstag, §3mo-23-27
+ }
+#}
 #4mo-29-11 {
  {
   TODO: 'Versöhnung' siehe <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v33'>2.&nbsp;Mo&nbsp;29,33</a>.
@@ -17158,6 +17290,11 @@
 #}
 @}
 @4. Mose 34 {
+#4mo-34-2 {
+ {
+  <i>Wenn ihr in das Land Kanaan kommt</i> §3mo-14-34
+ }
+#}
 #4mo-34-3 {
  {
   Beachte: 'südlich' ist <span class='hebr'>נֶגֶב</span>.
@@ -18598,9 +18735,14 @@
   <i>Beim Untergang der Sonne</i>, vgl «zwischen den zwei Abenden» (<a class='kom' href='#I2mo-12-6'>2.&nbsp;Mo&nbsp;12,6</a>).
  }
 #}
+#5mo-16-9 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Wochen
+ }
+#}
 #5mo-16-13 {
  {
-  Das <i>Fest der Laubhütten</i> siehe <a class='kom' href='#I2mo-23-14'>2.&nbsp;Mo&nbsp;23,14</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten 
  }
 #}
 #5mo-16-17 {
@@ -19437,6 +19579,9 @@
 #}
 #5mo-32-13 {
  {
+  <i>Auf den Höhen der Erde einherfahren lassen</i>: §jes-58-14, §5mo-33-29
+ }
+ {
   <i>Hartes Gestein</i>: <a class='kom' href='#I5mo-8-15'>5.&nbsp;Mo&nbsp;8,15</a>.
  }
 #}
@@ -19460,6 +19605,9 @@
  }
 #}
 #5mo-32-18 {
+ {
+  §+2mo-4-22
+ }
  {
   TODO: Offenbar ist ein Jod verkleinert worden in <i>der dich gezeugt hat</i> (Siehe auch <a href='#typo_details'>Typografische Details im Alten Testament</a>)
  }
@@ -19648,7 +19796,10 @@
 #}
 #5mo-33-29 {
  {
-  Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>.
+  <i>einherschreiten auf ihren Höhen</i> vgl §5mo-32-13, §jes-58-14
+ }
+ {
+  Der HERR ist ein <i>Schild</i>: §+1mo-15-1.
  }
 #}
 @}
@@ -30584,6 +30735,9 @@
  {
    → biblisches/Personen/Perez/Judas-Sohn
  }
+ {
+  TODO: Ist Bani direkter Nachfahre von Perez? Ist er einer von Hezron und Hamul? Vgl §1mo-46-12, §neh-11-4
+ }
 #}
 #1chr-9-10 {
  {
@@ -30666,6 +30820,11 @@
     <a class='kom' href='#I1koe-10-2'>1.&nbsp;Kö&nbsp;10,2</a>,
     <a class='kom' href='#I2mo-25-6'>2.&nbsp;Mo&nbsp;25,6</a>
   ).
+ }
+#}
+#1chr-9-32 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
  }
 #}
 #1chr-9-35 {
@@ -30917,9 +31076,112 @@
   <a href='http://bibel.renenyffenegger.ch/2chr_20.html#v14'>2.&nbsp;Chr&nbsp;20,14</a>.
  }
 #}
+#1chr-16-9 {
+ {
+  Vgl folgende Verse mit §ps-105-2-ff
+ }
+#}
+#1chr-16-10 {
+ {
+  §ps-105-3
+ }
+#}
+#1chr-16-11 {
+ {
+  §ps-105-4
+ }
+#}
+#1chr-16-12 {
+ {
+  §ps-105-5
+ }
+#}
+#1chr-16-13 {
+ {
+  §ps-105-6
+ }
+#}
+#1chr-16-14 {
+ {
+  §ps-105-7
+ }
+#}
+#1chr-16-15 {
+ {
+  §ps-105-8 
+ }
+#}
+#1chr-16-16 {
+ {
+  §ps-105-9
+ }
+#}
 #1chr-16-17 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/ewig
+ }
+ {
+  §ps-105-10
+ }
+#}
+#1chr-16-18 {
+ {
+  §ps-105-11
+ }
+#}
+#1chr-16-19 {
+ {
+  §ps-105-12
+ }
+#}
+#1chr-16-20 {
+ {
+  §ps-105-13
+ }
+#}
+#1chr-16-21 {
+ {
+  §ps-105-14
+ }
+#}
+#1chr-16-22 {
+ {
+  §ps-105-15
+ }
+#}
+#1chr-16-23 {
+ {
+  Vgl. folgende Verse mit §ps-96-2-ff
+ }
+#}
+#1chr-16-24 {
+ {
+  §ps-96-3
+ }
+#}
+#1chr-16-25 {
+ {
+  §ps-96-4
+ }
+#}
+#1chr-16-26 {
+ {
+  §ps-96-5
+ }
+#}
+#1chr-16-27 {
+ {
+  §ps-96-6
+ }
+#}
+#1chr-16-28 {
+ {
+  §ps-96-7
+ }
+#}
+#1chr-16-29 {
+ {
+  §ps-96-8
  }
 #}
 #1chr-16-30 {
@@ -31143,6 +31405,11 @@
 #1chr-23-26 {
  {
   TODO: Die Leviten wurden in <a href='http://bibel.renenyffenegger.ch/4mo_1.html#v50'>4.&nbsp;Mo&nbsp;1,50</a> eingesetzt, um die Wohnung zu tragen.
+ }
+#}
+#1chr-23-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
  }
 #}
 #1chr-23-31 {
@@ -31376,6 +31643,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/Haus-Gottes
  }
 #}
+#1chr-28-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
+ }
+#}
 #1chr-28-18 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
@@ -31512,7 +31784,7 @@
 #}
 #2chr-2-4 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
  }
  {
    Vgl <a class='kom' href='#I1koe-3-2'>1.&nbsp;Kö&nbsp;3,2</a>.
@@ -32002,7 +32274,7 @@
 #}
 #2chr-13-11 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, Morgen für Morgen … §2mo-30-7-8
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, Morgen für Morgen … §2mo-30-7-8, → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
  }
  {
   <i>Reiner Tisch</i>: <a class='kom' href='#I3mo-24-6'>3.&nbsp;Mo&nbsp;24,6</a>.
@@ -32700,6 +32972,11 @@
 #2chr-29-16 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
+#2chr-29-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
  }
 #}
 #2chr-29-19 {
@@ -33489,6 +33766,9 @@
  {
   Beachte: Auch in Nehemia wird ein → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten gefeiert. Und zwar so, wie es seit der Zeit → biblisches/Personen/Josua nicht mehr gemacht worden
   war (§neh-8-16-17). Sie fanden die Anweisung erst dort im → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz (§neh-8-14), vgl → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia.
+ }
+ {
+  <i>wie es vorgeschrieben ist/nach der Vorschrift</i>: Wo sind diese Vorschriften? 
  }
 #}
 #esr-3-5 {
@@ -34768,7 +35048,7 @@
 #}
 #neh-10-34 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer, vgl §esr-3-5
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer vgl §esr-3-5, → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
  }
 #}
 #neh-10-35 {
@@ -34823,6 +35103,9 @@
 #neh-11-4 {
  {
   Vgl §1chr-9-3
+ }
+ {
+  TODO: Ist Mahalel direkter Nachfahre von Perez? Ist er einer von Hezron und Hamul? Vgl §1mo-46-12, §neh-11-4
  }
 #}
 #neh-11-5 {
@@ -38283,9 +38566,42 @@
    <i>Neues Lied</i>: <a class='kom' href='#Ips-33-3'>Ps&nbsp;33,3</a>.
  }
 #}
+#ps-96-2 {
+ {
+  Vgl. folgende Verse mit §1chr-16-23-ff
+ }
+#}
+#ps-96-3 {
+ {
+  §1chr-16-24
+ }
+#}
 #ps-96-4 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/ps_97.html#v7'>Ps&nbsp;97,7</a>.
+  §1chr-16-25
+ }
+ {
+  Vgl §ps-97-7
+ }
+#}
+#ps-96-5 {
+ {
+  §1chr-16-26
+ }
+#}
+#ps-96-6 {
+ {
+  §1chr-16-27
+ }
+#}
+#ps-96-7 {
+ {
+  §1chr-16-28
+ }
+#}
+#ps-96-8 {
+ {
+  §1chr-16-29
  }
 #}
 #ps-96-10 {
@@ -38539,7 +38855,30 @@
   <i>Dank</i> in den Psalmen: <a class='kom' href='#Ips-50-14'>Ps&nbsp;50,14</a>.
  }
 #}
+#ps-105-2 {
+ {
+  Vgl folgende Verse mit §1chr-16-9-ff
+ }
+#}
+#ps-105-3 {
+ {
+  §1chr-16-10
+ }
+#}
+#ps-105-4 {
+ {
+  §1chr-16-11
+ }
+#}
+#ps-105-5 {
+ {
+  §1chr-16-12
+ }
+#}
 #ps-105-6 {
+ {
+  §1chr-16-13
+ }
  {
   TODO: Hier ist Abraham der Knecht, die Kinder Jakobs die Auserwählten, in Vers 26 Mose der Knecht und Aaron der erwählte.
   In <a href='http://bibel.renenyffenegger.ch/ps_106.html#v16'>Ps&nbsp;106,16</a> ist Aaron der Heilige, in <a href='http://bibel.renenyffenegger.ch/ps_106.html#v23'>Ps&nbsp;106,23</a> ist
@@ -38547,9 +38886,52 @@
   <br>Vgl auch Vers 42.
  }
 #}
+#ps-105-7 {
+ {
+  §1chr-16-14
+ }
+#}
+#ps-105-8 {
+ {
+  §1chr-16-15
+ }
+#}
+#ps-105-9 {
+ {
+  §1chr-16-16
+ }
+#}
 #ps-105-10 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/ewig
+ }
+ {
+  §1chr-16-17
+ }
+#}
+#ps-105-11 {
+ {
+  §1chr-16-18
+ }
+#}
+#ps-105-12 {
+ {
+  §1chr-16-19
+ }
+#}
+#ps-105-13 {
+ {
+  §1chr-16-20
+ }
+#}
+#ps-105-14 {
+ {
+  §1chr-16-21
+ }
+#}
+#ps-105-15 {
+ {
+  §1chr-16-22
  }
 #}
 #ps-105-16 {
@@ -41380,6 +41762,11 @@
   TODO: wäre das im Grundtext eignetlich 'voll von des Ostens'?
  }
 #}
+#jes-2-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#anspielung-tag-herrn
+ }
+#}
 #jes-2-16 {
  {
   <i>Tarsisschiffe</i>: <a class='kom' href='#I1koe-10-22'>1.&nbsp;Kö&nbsp;10,22</a>.
@@ -42934,6 +43321,11 @@
   <br><a href='http://bibel.renenyffenegger.ch/jes_63.html#v1'>Jes&nbsp;63,1</a>: 'Wer kommt von Edom, von Bozra'?
  }
 #}
+#jes-34-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#anspielung-tag-herrn
+ }
+#}
 #jes-34-10 {
  {
   <a class='kom' href='#Ioffb-14-11'>Offb&nbsp;14,11</a>.
@@ -43531,6 +43923,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott[Ich bin der HERR, dein Gott]
  }
 #}
+#jes-48-19 {
+ {
+  <i>nicht ausgerottet … werden vor meinem Angesicht</i> vgl. §+3mo-22-3
+ }
+#}
 #jes-48-20 {
  {
   Vgl §offb-18-4
@@ -43931,6 +44328,9 @@
 #}
 #jes-58-14 {
  {
+  <i>Auf den Höhen der Erde einherfahren lassen</i>: §5mo-32-13, §5mo-33-29
+ }
+ {
   <i>An dem HERRN ergötzen</i>: §ps-37-4
  }
 #}
@@ -43949,6 +44349,11 @@
 #jes-59-14 {
  {
   <i>gestrauchelte Wahrheit</i> vgl §+dan-8-12.
+ }
+#}
+#jes-59-16 {
+ {
+  <i>Kein Mittler</i> vgl §1tim-2-5
  }
 #}
 #jes-59-17 {
@@ -45646,7 +46051,7 @@
 #}
 #jer-31-9 {
  {
-  Manasse ist Josephs Erstgeborener (<a class='kom' href='#I1mo-41-52'>1.&nbsp;Mo&nbsp;41,52</a>, <a class='kom' href='#I1mo-29-32'>1.&nbsp;Mo&nbsp;29,32</a>).
+  Manasse ist Josephs Erstgeborener (§+1mo-41-52, §+1mo-29-32).
  }
  {
   Auch Israel ist Gottes <i>Erstgeborener</i>: §+2mo-4-22.
@@ -46338,6 +46743,11 @@
 #jer-46-9 {
  {
   <a class='kom' href='#I1mo-10-6'>1.&nbsp;Mo&nbsp;10,6</a>.
+ }
+#}
+#jer-46-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#anspielung-tag-herrn
  }
 #}
 #jer-46-11 {
@@ -49893,7 +50303,7 @@
 @Hosea 11 {
 #hos-11-1 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/2mo_4.html#v22'>2.&nbsp;Mo&nbsp;4,22</a>.
+  Vgl §+2mo-4-22.
  }
  {
   Vgl mit «erste Liebe verlassen» in <a href='http://bibel.renenyffenegger.ch/offb_2.html#v4'>Offb&nbsp;2,4</a>.
@@ -49916,7 +50326,7 @@
 #}
 #hos-11-9 {
  {
-  Beachte: obwohl <i>Gott und nicht Mensch</i> beschreibt Er hier sein erstes Kommen als Mensch. Vgl <a class='kom' href='#I1tim-2-5'>1.&nbsp;Tim&nbsp;2,5</a>.
+  <i>Gott und nicht Mensch</i>: vgl §+1tim-2-5.
  }
 #}
 #hos-11-10 {
@@ -51594,6 +52004,11 @@
 #}
 @}
 @Sacharja 14 {
+#sach-14-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#anspielung-tag-herrn
+ }
+#}
 #sach-14-2 {
  {
   <i>Und ich werde alle Nationen nach Jerusalem zum Krieg versammeln; und die Stadt wird eingenommen</i> vgl §jer-34-1, §sach-12-2, §sach-12-9, §lk-21-20
@@ -51697,6 +52112,11 @@
  }
  {
   TODO: <i>prüfen</i> hier und <i>versuchen</i> in Vers 15 sind beide Strongs 974.
+ }
+#}
+#mal-3-19 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#anspielung-tag-herrn
  }
 #}
 #mal-3-22 {
@@ -62023,6 +62443,9 @@
 @Apostelgeschichte 2 {
 #apg-2-1 {
  {
+  <i>Pfingsten</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Wochen
+ }
+ {
    TODO: <i>erfüllte</i> hier, in Vers 2 und in Vers 4 sind nicht ganz die gleichen Verben.
  }
 #}
@@ -66095,6 +66518,9 @@
  {
    <i>Gebräuche</i>: <a class='kom' href='#Iapg-16-21'>Apg&nbsp;16,21</a>.
  }
+ {
+  <i>Abfall</i> §+2thes-2-3
+ }
 #}
 #apg-21-23 {
  {
@@ -68992,11 +69418,7 @@
 #}
 #1kor-1-8 {
  {
-  <i>Tag unseres Herrn Jesus Christus</i> vgl <a href='http://bibel.renenyffenegger.ch/1kor_5.html#v5'>1.&nbsp;Kor&nbsp;5,5</a>,
-  <a href='http://bibel.renenyffenegger.ch/2kor_1.html#v14'>2.&nbsp;Kor&nbsp;1,14</a>,
-  <a href='http://bibel.renenyffenegger.ch/phil_1.html#v6'>Phil 1,6/10</a>,
-  <a href='http://bibel.renenyffenegger.ch/phil_2.html#v16'>Phil&nbsp;2,16</a> und
-  <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v2'>2.&nbsp;Thes&nbsp;2,2</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag unseres Herrn Jesus Christus]
  }
 #}
 #1kor-1-9 {
@@ -69537,7 +69959,7 @@
    <i>Dem Satan überliefern</i> §1tim-1-20
  }
  {
-  <i>Tag des Herrn Jesus</i>: <a class='kom' href='#I1kor-1-8'>1.&nbsp;Kor&nbsp;1,8</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag des Herrn Jesus] §2kor-1-14
  }
  {
   Vgl <i>Verderben</i> (<span class='gr'>ὄλεθρος</span>, Strongs 3639, 4x) mit <span class='gr'>ἀπώλεια</span> (Strongs 684) zB
@@ -69551,7 +69973,7 @@
 #}
 #1kor-5-7 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah, → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Ungesäuertes
  }
 #}
 #1kor-5-9 {
@@ -70326,6 +70748,9 @@
   → biblisches/Lehre/Abendessen-des-Herrn/index
  }
  {
+  <i>Abendessen des Herrn</i>: <span class='gr'>κυριακὸν δεῖπνον</span>, ist möglicherweise besser übersetzt mit «dem Herrn gehöriges Abendessen», vgl. §+offb-1-10.
+ }
+ {
   TODO: An einem Ort: vgl §1kor-14-23.
  }
 #}
@@ -70352,6 +70777,11 @@
  }
  {
   TODO: <i>überliefern, was ich auch von dem Herrn empfangen habe</i> vgl <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v3'>1.&nbsp;Kor&nbsp;15,3</a>.
+ }
+#}
+#1kor-11-24 {
+ {
+  <span class='gt'>In NA fehlt «Nehmt, eßt!» und «gebrochen».</span>
  }
 #}
 #1kor-11-25 {
@@ -71209,7 +71639,7 @@
 #}
 #2kor-1-14 {
  {
-  <i>Tag des Herrn Jesus</i>: <a class='kom' href='#I1kor-1-8'>1.&nbsp;Kor&nbsp;1,8</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag des Herrn Jesus] §1kor-5-5
  }
 #}
 #2kor-1-15 {
@@ -71865,6 +72295,11 @@
  }
  {
   Vgl die helfenden <i>Brüder aus Mazedonien</i> mit den helfenden Philipppern (<a class='kom' href='#Iphil-4-16'>Phil&nbsp;4,16</a>).
+ }
+#}
+#2kor-11-14 {
+ {
+  <i>Gestalt eines Engels des Lichts annehmen</i> vgl. mit dem «Menschen der Sünde», der sich «in den Tempel Gottes setzt». §2thes-2-4
  }
 #}
 #2kor-11-18 {
@@ -73010,6 +73445,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Kraft</i> (Strongs 1411) in Sch2K übersetzt mit »Kraftwirkung«. Vgl §+roem-1-16
  }
+ {
+  <i>Wirksamkeit seiner Kraft</i> vgl. §eph-3-7
+ }
 #}
 #eph-1-20 {
  {
@@ -73239,6 +73677,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-3-7 {
  {
    <i>Diener des Evangeliums</i>: <a class='kom' href='#I1kor-4-1'>1.&nbsp;Kor&nbsp;4,1</a>.
+ }
+ {
+  <i>Wirksamkeit seiner Stärke</i> vgl. §eph-1-19
  }
 #}
 #eph-3-8 {
@@ -73849,11 +74290,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-1-6 {
  {
-  <i>Tag Jesu Christi</i>: <a class='kom' href='#I1kor-1-8'>1.&nbsp;Kor&nbsp;1,8</a>, <a href='http://bibel.renenyffenegger.ch/phil_1.html#v10'>Vers 10</a>,
-  <a href='http://bibel.renenyffenegger.ch/phil_2.html#v16'>Phil&nbsp;2,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag Christi], §Vphil-1-10, §phil-2-16, §2thes-2-2
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/phil_2.html#v13'>Phil&nbsp;2,13</a>.
+  Vgl. §phil-2-13.
  }
 #}
 #phil-1-7 {
@@ -73889,10 +74329,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-1-10 {
  {
-  <i>Tag des Christus</i>: <a href='http://bibel.renenyffenegger.ch/phil_2.html#v16'>Phil&nbsp;2,16</a>, <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v2'>2.&nbsp;Thes&nbsp;2,2</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag Christi] §+Vphil-1-6
  }
  {
-  <i>dait ihr prüfen mögt…</i> vgl §roem-12-2 
+  <i>damit ihr prüfen mögt…</i> vgl. §roem-12-2 
+ }
+ {
+  <i>lauter und unanstössig</i> vgl §phil-2-15
  }
 #}
 #phil-1-13 {
@@ -74080,13 +74523,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-2-15 {
  {
+  <i>tadellos und lauter</i> vgl §phil-1-10
+ }
+ {
   TODO: <i>Lichter</i>: <span class='gr'>φωστήρ</span> (Strongs 5458, 2x), vgl <a class='kom' href='#Ioffb-21-11'>Offb&nbsp;21,11</a>.
  }
 #}
 #phil-2-16 {
  {
-  <i>Tag des Christus</i>: <a class='kom' href='#Iphil-1-10'>Phil&nbsp;1,10</a>,
-  <a class='kom' href='#I1kor-1-8'>1.&nbsp;Kor&nbsp;1,8</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag Christi] §+phil-1-6, §2thes-2-2
  }
  {
   <i>vergeblich laufen</i> vgl §gal-2-2. <i>vergeblich arbeiten</i> vgl §gal-4-11
@@ -74616,7 +75061,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #kol-1-29 {
  {
   <i>Kraft</i>: <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a>.
-  <br>Vgl <a href='http://bibel.renenyffenegger.ch/eph_3.html#v20'>Eph&nbsp;3,20</a>.
+  <br>Vgl §eph-3-20.
  }
  {
    TODO: 'wirksame Kraft' kommt auch noch in <a href='http://bibel.renenyffenegger.ch/2ths_2.html#v11'>2.&nbsp;Ths&nbsp;2,11</a> vor. Kommt es (im Griechischen)
@@ -75874,8 +76319,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @2. Thessaloniker 2 {
 #2thes-2-1 {
  {
-  <i>Vereinigung</i> ist im Griechischen 'ἐπισυναγωγή' (Strongs 1997), kommt sonst nur noch in <a href='http://bibel.renenyffenegger.ch/hebr_10.html#v25'>Hebr&nbsp;10,25</a> vor,
-  dort als 'Versammlung' übersetzt.
+  <i>Vereinigung</i> <span class='gr'>ἐπισυναγωγή</span>, Strongs 1997, 2x, wird in §hebr-10-25 mit «Zusammenkommen» übersetzt.
+ }
+ {
+  <i>Kommen</i> <span class='gr'>παρουσία</span>, Strongs 3952, in Elberfelder mit «Wiederkunft» übersetzt.
  }
  {
   TODO: <i>Kommen unseres Herrn</i>: <a class='kom' href='#I1thes-2-19'>1.&nbsp;Thes&nbsp;2,19</a>.
@@ -75886,16 +76333,22 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-2-2 {
  {
-  <i>Tag des Christus</i>: <a class='kom' href='#Iphil-1-10'>Phil&nbsp;1,10</a>, <a class='kom' href='#I1kor-1-8'>1.&nbsp;Kor&nbsp;1,8</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag Christi] §+phil-1-10, §phil-2-16
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
+ }
+ {
+   <span class='gt'>NA hat «Tag des Herrn» statt «Tag des Christus».</span>
  }
  {
   Vgl <i>Wort oder angeblichen Brief</i> mit Vers 15.
  }
 #}
 #2thes-2-3 {
+ {
+  <i>Abfall</i> <span class='gr'>ἀποστασία</span> (Strongs 646) vgl. §apg-21-21
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung. Vgl mit der <i>Offenbarung des Herrn Jesus Christus</i>: <a class='kom' href='#I1kor-1-7'>1.&nbsp;Kor&nbsp;1,7</a>.
  }
@@ -75909,6 +76362,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2thes-2-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
+  <i>Sich in den Tempel Gottes setzen</i> vgl. mit Satan, der die «Gestalt eines Engels des Lichts annimmt</i> §2kor-11-14
  }
 #}
 #2thes-2-6 {
@@ -75961,7 +76417,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <br>Beachte auch: es ist Liebe zur Wahrheit, nicht Liebe zu Gott.
  }
  {
-  Die <i>Liebe zur Wahrheit nicht annehmen</i> vgl §+2tim-3-8
+  Die <i>Liebe zur Wahrheit nicht annehmen</i> vgl §+2tim-3-8, §offb-22-15 («Die Lüge lieben»)
  }
 #}
 #2thes-2-11 {
@@ -76001,6 +76457,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2thes-2-16 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+ }
+#}
+#2thes-2-17 {
+ {
+  <span class='gt'>NA hat offenbar «in jedem guten Werk und Wort»</span>
  }
 #}
 @}
@@ -76341,7 +76802,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-2-5 {
  {
-  <i>Der Mensch Christus Jesus</i>, vgl <a class='kom' href='#Ihos-11-9'>Hos&nbsp;11,9</a>.
+  <i>Der Mensch Christus Jesus</i>, vgl §+hos-11-9.
+ }
+ {
+  <i>Einer ist Mittler</i> vgl §jes-59-16
  }
 #}
 #1tim-2-6 {
@@ -79120,13 +79584,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-10-25 {
  {
-  <i>Zusammenkommen</i> <span class='gr'>ἐπισυναγωγή</span>, Strongs 1997, in
-  <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v1'>2.&nbsp;Thes&nbsp;2,1</a> mit 'Vereinigung' übersetzt.
+  <i>Zusammenkommen</i> <span class='gr'>ἐπισυναγωγή</span>, Strongs 1997, 2x, in §2thes-2-1 mit «Vereinigung» übersetzt.
  }
 #}
 #hebr-10-26 {
  {
   <i>Erkenntnis der Wahrheit</i>: <a class='kom' href='#I1tim-2-4'>1.&nbsp;Tim&nbsp;2,4</a>.
+ }
+#}
+#hebr-10-28 {
+ {
+  Vgl mit dem Flucher, der (dort im Zusammenhang mit den vorangehenden Gesetzen) vermutlich das Gesetz Moses verworfen hat §3mo-24-10-ff
  }
 #}
 #hebr-10-29 {
@@ -82462,6 +82930,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Beachte auch, dass die Stimme in Vers 15 wie <i>das Rauschen vieler Wasser</i> ist.
  }
  {
+   → biblisches/Bücher/prophetisch/Offenbarung/Tag-des-Herrn
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN, vgl <i>Tag des Zorns</i> (<a href='http://bibel.renenyffenegger.ch/offb_6.html#v17'>Offb&nbsp;6,17</a>,
   der <i>grosse Tag Gottes</i> (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v14'>Offb&nbsp;16,14</a>)
   <br>TODO: vgl <a href='http://bibel.renenyffenegger.ch/offb_18.html#v8'>Offb&nbsp;18,8</a>.
@@ -84475,7 +84946,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Grosse Zeichen</i>: <a class='kom' href='#Ioffb-12-1'>Offb&nbsp;12,1</a>.
  }
  {
-  TODO: <i>Feuer vom Himmel</i> imitiert möglicherweise das Gericht Gottes, vgl <a href='http://bibel.renenyffenegger.ch/offb_20.html#v9'>Offb&nbsp;20,9</a>.
+  TODO: <i>Feuer vom Himmel</i> imitiert möglicherweise das Gericht Gottes, vgl §offb-20-9.
+ <br>
+  Gott weihte den Tempel Salamos mit Feuer ein. Möglicherweise ist es Teil der zukünftigen Verführung, dass der Widersacher Feuer vom Himmel herabkommen lässt, um «seinen» Tempel zu legitimieren.
  }
 #}
 #offb-13-14 {
@@ -85864,6 +86337,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-22-15 {
+ {
+  <i>Die Lüge lieben</i> vgl «Die Liebe zur Wahrheit nicht annehmen</i> §2thes-2-10
+ }
  {
   Vgl <a class='kom' href='#Ioffb-21-8'>Offb&nbsp;21,8</a>.
  }
