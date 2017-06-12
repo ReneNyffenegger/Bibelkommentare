@@ -54392,8 +54392,7 @@
 #}
 #mt-16-6 {
  {
-  TODO: <i>Sauerteig der Pharisäer</i>. Vgl <a href='http://bibel.renenyffenegger.ch/mk_8.html#v15'>Mk&nbsp;8,15</a>
-  und <a href='http://bibel.renenyffenegger.ch/lk_12.html#v1'>Lk&nbsp;12,1</a>.
+  <i>Sauerteig der Pharisäer</i>. Vgl §mk-8-15 und §lk-12-1.
  }
 #}
 #mt-16-8 {
@@ -56639,7 +56638,7 @@
 @Markus 8 {
 #mk-8-15 {
  {
-   TODO: <i>Sauerteig der Pharisäer</i>: <a class='kom' href='#Imt-16-6'>Mt&nbsp;16,6</a>.
+   <i>Sauerteig der Pharisäer</i>: §+mt-16-6.
  }
 #}
 #mk-8-22 {
@@ -58806,7 +58805,10 @@
 @Lukas 12 {
 #lk-12-1 {
  {
-   TODO: <i>Sauerteig der Pharisäer</i>: <a class='kom' href='#Imt-16-6'>Mt&nbsp;16,6</a>
+   <i>Sauerteig der Pharisäer</i>: §+mt-16-6
+ }
+ {
+  <i>Hütet euch</i> vgl §Vlk-12-15
  }
 #}
 #lk-12-2 {
@@ -58821,8 +58823,7 @@
 #}
 #lk-12-13 {
  {
-  TODO: Hier spricht einer aus der Volksmenge zu Jesus, in <a href='http://bibel.renenyffenegger.ch/lk_12.html#v54'>Vers 54</a> Jesus
-  zur Volksmenge.
+  Hier spricht einer aus der Volksmenge zu Jesus, in §Vlk-12-54 Jesus zur Volksmenge.
  }
 #}
 #lk-12-16 {
@@ -58830,10 +58831,15 @@
   <i>Gleichnisse in den Evangelien</i>: <a class='kom' href='#Imt-13-3'>Mt&nbsp;13,3</a>.
  }
 #}
+#lk-12-18 {
+ {
+  <i>Scheune</i>: die Raben haben weder Vorratskammern noch Scheunen, doch Gott ernährt sie §lk-12-24.
+ }
+#}
 #lk-12-22 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/mt_6.html#v25'>Mt&nbsp;6,25</a>.
-  <br>Vergleiche auch mit 'Endzeitrede' (Vers 40 mit <a href='http://bibel.renenyffenegger.ch/mt_24.html#v36'>Mt&nbsp;24,36</a>).
+  Vgl mit §mt-6-25. <br>
+  Vergleiche auch mit <i>Endzeitrede</i> (Vers 40 mit §mt-24-36).
  }
 #}
 #lk-12-31 {
@@ -58860,6 +58866,9 @@
  }
 #}
 #lk-12-39 {
+ {
+  <i>Hausherr</i> §lk-13-25
+ }
  {
    TODO: wer ist der <i>Hausherr</i>? Der Teufel, die Jünger...?
  }
@@ -58942,13 +58951,16 @@
 #}
 #lk-13-25 {
  {
+  <i>Hausherr</i> §lk-12-39
+ }
+ {
+  <i>Herr, Herr</i>: §+mt-7-21.
+ }
+ {
   TODO: Wann wird der Hausherr aufgestanden sein? Bevor die Gemeinde kommt. In <a href='http://bibel.renenyffenegger.ch/apg_7.html#v55'>Apg&nbsp;7,55</a>?
  }
  {
   TODO: Schlachter übersetzt mit «Herr, Herr».
- }
- {
-  <i>Herr, Herr</i>: <a class='kom' href='#Imt-7-21'>Mt&nbsp;7,21</a>.
  }
 #}
 #lk-13-28 {
