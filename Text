@@ -18374,7 +18374,7 @@
 #}
 #5mo-9-26 {
  {
-  <i>Verdirb nicht</i>: vgl <a class='kom' href='#Ips-57-1'>Ps&nbsp;57,1</a>.
+  → biblisches/Bücher/Ketuvim/Psalmen#verdirb-nicht[Verdirb nicht] in den → biblisches/Bücher/Ketuvim/Psalmen.
  }
 #}
 @}
@@ -36933,15 +36933,14 @@
 #}
 #ps-32-11 {
  {
-  Beachte, hier <i>Freut euch im HERRN... ihr Gerechten</i>, im nächsten Vers (<a href='http://bibel.renenyffenegger.ch/ps_33.html#v1'>Ps&nbsp;33,1</a>)
-  «Jauchzt dem HERRN, ihr Gerechten».
+  Beachte, hier <i>Freut euch im HERRN... ihr Gerechten</i>, im nächsten Vers (§ps-33-1) «Jubelt ihr Gerechten, im HERRN».
  }
 #}
 @}
 @Psalm 33 {
 #ps-33-1 {
  {
-  Vgl <a class='kom' href='#Ips-32-11'>Ps&nbsp;32,11</a>.
+  §+ps-32-11.
  }
 #}
 #ps-33-2 {
@@ -37532,10 +37531,7 @@
    <i>Gedicht</i>: <a class='kom' href='#Ips-16-1'>Ps&nbsp;16,1</a>.
  }
  {
-  TODO: <i>Verdirb nicht</i> auch in <a href='http://bibel.renenyffenegger.ch/ps_58.html#v1'>Ps&nbsp;58,1</a>,
-  <a href='http://bibel.renenyffenegger.ch/ps_59.html#v1'>Ps&nbsp;59,1</a> und
-  <a href='http://bibel.renenyffenegger.ch/ps_75.html#v1'>Ps&nbsp;75,1</a>.
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/5mo_9.html#v26'>5.&nbsp;Mo&nbsp;9,26</a>.
+   → biblisches/Bücher/Ketuvim/Psalmen#verdirb-nicht
  }
  {
   <a class='kom' href='#I1sam-22-1'>1.&nbsp;Sam&nbsp;22,1</a>.
@@ -37553,7 +37549,7 @@
    <i>Gedicht</i>: <a class='kom' href='#Ips-16-1'>Ps&nbsp;16,1</a>.
  }
  {
-  <i>Verdirb nicht</i>: <a class='kom' href='#Ips-57-1'>Ps&nbsp;57,1</a>.
+  → biblisches/Bücher/Ketuvim/Psalmen#verdirb-nicht
  }
 #}
 #ps-58-11 {
@@ -37571,7 +37567,7 @@
    <i>Gedicht</i>: <a class='kom' href='#Ips-16-1'>Ps&nbsp;16,1</a>.
  }
  {
-  <i>Verdirb nicht</i>: <a class='kom' href='#Ips-57-1'>Ps&nbsp;57,1</a>.
+  → biblisches/Bücher/Ketuvim/Psalmen#verdirb-nicht
  }
 #}
 #ps-59-7 {
@@ -37948,7 +37944,7 @@
 @Psalm 75 {
 #ps-75-1 {
  {
-  <i>Verdirb nicht</i>: <a class='kom' href='#Ips-57-1'>Ps&nbsp;57,1</a>.
+   → biblisches/Bücher/Ketuvim/Psalmen#verdirb-nicht
  }
 #}
 #ps-75-3 {
@@ -52370,7 +52366,10 @@
 #}
 #mt-2-17 {
  {
-  Erfüllung von <a class='kom' href='#Ijer-31-15'>Jer&nbsp;31,15</a>.
+  <i>Da wurde erfüllt, was durch den Propheten Jeremias geredet ist</i> §mt-27-9
+ }
+ {
+  Erfüllung von §+jer-31-15.
  }
 #}
 #mt-2-18 {
@@ -55730,11 +55729,14 @@
 #}
 #mt-27-9 {
  {
-   Vgl <a class='kom' href='#I2mo-21-32'>2.&nbsp;Mo&nbsp;21,32</a>.
+   <i>Dreissig Silberlinge</i> vgl §+2mo-21-32.
  }
  {
-   Dieses Zitat kommt offenbar wörtlich in Jeremia nicht vor, sondern in <a href='http://bibel.renenyffenegger.ch/sach_11.html#v13'>Sach&nbsp;11,13</a>.
+   Dieses Zitat kommt offenbar wörtlich in Jeremia nicht vor, sondern in §sach-11-13.
    Vgl auch §Vmt-27-35.
+ }
+ {
+  <i>Da wurde erfüllt, was durch den Propheten Jeremias geredet ist</i> §mt-2-17
  }
 #}
 #mt-27-11 {
@@ -57309,6 +57311,9 @@
  }
 #}
 #mk-15-28 {
+ {
+  <i>Die Schrift wurde erfüllt</i> §jak-2-23
+ }
  {
    <span class='gt'>Vers fehlt in NA</span>.
  }
@@ -59489,6 +59494,11 @@
   <i>Verwüstung ist nahe gekommen</i> §+dan-9-26
  }
 #}
+#lk-21-22 {
+ {
+  <i>auf das alles erfüllt werde, was geschrieben steht</i> vgl §lk-24-44
+ }
+#}
 #lk-21-23 {
  {
   <i>Zorn in den Evangelien</i>: §+mt-3-7.
@@ -59894,6 +59904,11 @@
  }
  {
   Er ist denen erschienen, die mit ihm aus Galiläa nach Jeruselem heraufgezogen waren, welche seine Zeugen sind vor dem Volk (<a href='http://bibel.renenyffenegger.ch/apg_13.html#v31)'>Apg 13,31)</a>).
+ }
+#}
+#lk-24-44 {
+ {
+  <i>dass alles erfüllte werden muss, was über mich geschrieben steht</i> vgl §lk-21-22
  }
 #}
 #lk-24-46 {
@@ -80440,6 +80455,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #jak-2-23 {
  {
   Vgl §+1mo-15-6.
+ }
+ {
+  <i>Die Schrift wurde erfüllt</i> §mk-15-28
  }
  {
   → biblisches/Personen/Abraham, → biblisches/Eigene-Uebersetzung/Konkordanz/Freund Gottes §2chr-20-7, §jes-41-8
