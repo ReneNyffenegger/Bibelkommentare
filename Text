@@ -60090,6 +60090,9 @@
 #}
 #joh-1-26 {
  {
+  <i>den ihr nicht kennt</i> vgl §Vjoh-1-31
+ }
+ {
   TODO: Die Gesandten kannten Elia und wussten vom Prophet, aber der, der mitten unter euch stand, kannten sie nicht.
  }
  {
@@ -60124,10 +60127,16 @@
 #}
 #joh-1-30 {
  {
+  Das Lamm Gottes ist <i>ein Mann</i>. Vgl §1tim-2-5
+ }
+ {
   <i>Er war vor mir</i> vgl §joh-8-58
  }
 #}
 #joh-1-31 {
+ {
+  <i>ich kannte ihn nicht</i> vgl §Vjoh-1-26
+ }
  {
   <i>Offenbaren/Offenbar machen</i>: <a class='kom' href='#Imt-11-25'>Mt&nbsp;11,25</a>.
  }
@@ -60153,7 +60162,7 @@
 #}
 #joh-1-39 {
  {
-  'wo er wohnte' vgl <a class='kom' href='#Ijoh-1-14'>Vers 14</a>
+  <i>wo er sich aufhielt</i> vgl §Vjoh-1-14
  }
  {
   Der Tag hat 12 Stunden: <a href='http://bibel.renenyffenegger.ch/joh_11.html#v9'>Joh&nbsp;11,9</a>.
@@ -60194,8 +60203,7 @@
 #}
 #joh-1-46 {
  {
-  <i>Komm und sieh</i>: <a class='kom' href='#Ijoh-11-34'>Joh&nbsp;11,34</a>.
-  Vgl <a href='http://bibel.renenyffenegger.ch/offb_6.html#v1'>Offb 6,1-7</a>
+  <i>Komm und sieh</i>: §+joh-11-34.  Vgl §offb-6-1-7, §joh-1-39
  }
 #}
 #joh-1-48 {
@@ -76832,7 +76840,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-2-5 {
  {
-  <i>Der Mensch Christus Jesus</i>, vgl §+hos-11-9.
+  <i>Der Mensch Christus Jesus</i>, vgl §+hos-11-9, §joh-1-30
  }
  {
   <i>Einer ist Mittler</i> vgl §jes-59-16
