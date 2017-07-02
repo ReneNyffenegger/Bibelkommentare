@@ -11168,7 +11168,10 @@
 #}
 #2mo-33-18 {
  {
-  Mose wollte die Herrlichkeit (<span class='hebr'>כָּבוֹד</span>, Strongs 3519) sehen, → biblisches/Personen/David die Herrlichkeit und die Macht (<a href='http://bibel.renenyffenegger.ch/ps_63.html#v3'>Ps&nbsp;63,3</a>).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit#gottes-herrlichkeit-sehen
+ }
+ {
+  Mose wollte die Herrlichkeit (<span class='hebr'>כָּבוֹד</span>, Strongs 3519) sehen, → biblisches/Personen/David die Herrlichkeit und die Macht (§ps-63-3).
  }
 #}
 #2mo-33-19 {
@@ -15612,7 +15615,7 @@
 #}
 #4mo-14-22 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/versuchen
+  → biblisches/Eigene-Uebersetzung/Konkordanz/versuchen, → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
  }
  {
   → biblisches/Exodus/Zehnmalige-Versuchung
@@ -18087,6 +18090,9 @@
  {
   <i>Ihr</i>: die Angesprochenen waren zu jener Zeit alle unter 20 Jahre (TODO: wo steht das?) (einige waren wohl noch gar nicht geboren? TODO: kann man das belegen) , vgl
   <a href='http://bibel.renenyffenegger.ch/5mo_5.html#v3'>Vers 3</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit#gottes-herrlichkeit-sehen
  }
 #}
 #5mo-5-26 {
@@ -36643,10 +36649,13 @@
   Die Himmel verkünden Seine Gerechtigkeit (§ps-97-6) und sind das → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werk seiner Hände] (§ps-102-26).
  }
  {
-  <i>Ausdehung</i>: <a class='kom' href='#I1mo-1-6'>1.&nbsp;Mo&nbsp;1,6</a>.
+  <i>Ausdehung</i>: §+1mo-1-6.
  }
  {
-  <i>erzählen</i> (<span class='hebr'>סָפַר</span>, Strongs 5608): <a class='kom' href='#I1mo-15-5'>1.&nbsp;Mo&nbsp;15,5</a>.
+  <i>erzählen</i> (<span class='hebr'>סָפַר</span>, Strongs 5608): §+1mo-15-5.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
  }
 #}
 #ps-19-5 {
@@ -37630,8 +37639,8 @@
  }
 #}
 #ps-63-3 {
- {
-  Siehe <a class='kom' href='#I2mo-33-18'>2.&nbsp;Mo&nbsp;33,18</a>.
+{
+  Siehe §+2mo-33-18.
  }
 #}
 #ps-63-7 {
@@ -41814,7 +41823,7 @@
   <br>Vgl auch mit 'Zweig' in <a href='http://bibel.renenyffenegger.ch/jes_11.html#v1'>Jes&nbsp;11,1</a>.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Zierde
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zierde, → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
  }
 #}
 #jes-4-5 {
@@ -44676,6 +44685,11 @@
   <i>Schweinefleisch essen</i> §jes-65-4
  }
 #}
+#jes-66-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit#gottes-herrlichkeit-sehen
+ }
+#}
 #jes-66-19 {
  {
   <i>Pul</i>: <a class='kom' href='#I2koe-15-19'>2.&nbsp;Kö&nbsp;15,19</a>.
@@ -47487,6 +47501,11 @@
   TODO: Beachte die Stellen in Hesekiel, wo Strongs 4383 vorkommt.
  }
 #}
+#hes-3-23 {
+ {
+  §hes-8-4
+ }
+#}
 #hes-3-24 {
  {
   <i>Der Geist kommt in Hesekiel</i>: <a class='kom' href='#Ihes-2-2'>Hes&nbsp;2,2</a>.
@@ -47604,6 +47623,11 @@
  }
  {
   TODO: <i>etwas wie eine Hand</i> vgl <a class='kom' href='#Ihes-10-8'>Hes&nbsp;10,8</a>. Siehe auch <a class='kom' href='#I2mo-25-9'>2.&nbsp;Mo&nbsp;25,9</a>.
+ }
+#}
+#hes-8-4 {
+ {
+  §hes-3-23 
  }
 #}
 #hes-8-5 {
@@ -61525,6 +61549,11 @@
   <i>er hat ihre Augen verblendet</i> vgl §1joh-2-11
  }
 #}
+#joh-12-41 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit#gottes-herrlichkeit-sehen
+ }
+#}
 #joh-12-42 {
  {
   Vgl <a class='kom' href='#Iapg-18-17'>Apg&nbsp;18,17</a> wo vermutlich ein Synagogenvorsteher aus der Synagoge
@@ -68259,7 +68288,7 @@
   Von der Knechtschaft zur → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit §2mo-21-2, → biblisches/Texte/Knechtschaft-Freiheit
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
  }
 #}
 #roem-8-22 {
@@ -73815,7 +73844,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-3-21 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+  → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus, → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
  }
 #}
 @}
@@ -74891,7 +74920,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-4-19 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+  → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus, → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
  }
 #}
 #phil-4-21 {
@@ -75106,7 +75135,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-1-27 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
  }
 #}
 #kol-1-28 {
@@ -75745,10 +75774,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <i>berufen zu</i> §+kol-3-15
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Reich
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Reich, → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/würdig/wandeln, §2thes-1-11
+  → biblisches/Eigene-Uebersetzung/Konkordanz/würdig/wandeln vgl §2thes-1-11
  }
 #}
 #1thes-2-13 {
@@ -77945,7 +77974,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Erscheinung</i>: <span class='gr'>ἐπιφάνεια</span> (Strongs 2015), vgl → biblisches/Grundtext/Wörter/G602-Apokalypsis_G2015-Epiphaneia_G3952-Parousia.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Reich
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Reich, → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
  }
  {
   Luther 1912: 'Angesicht' fehlt. Auch in KJV.
@@ -78349,7 +78378,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Erscheinung</i>: <span class='gr'>ἐπιφάνεια</span> (Strongs 2015), vgl → biblisches/Grundtext/Wörter/G602-Apokalypsis_G2015-Epiphaneia_G3952-Parousia.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
  }
  {
   TODO: Offensichtlich ist nicht ganz klar, wo das <i>unser</i> stehen sollte (KJV Debatte).
@@ -78785,6 +78814,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>um dessentwillen alles ist und durch den alles ist</i>: §+roem-11-36.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
  }
 #}
 #hebr-2-11 {
@@ -81539,7 +81571,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen#vollkommener-mensch[wird euch vollkommen machen]
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+  → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus, → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
  }
 #}
 #1petr-5-11 {
