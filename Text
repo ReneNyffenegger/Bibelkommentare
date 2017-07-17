@@ -59685,12 +59685,12 @@
 #}
 #lk-22-26 {
  {
-  <i>Grösster</i> (Strongs 2233): <a class='kom' href='#Imt-2-6'>Mt&nbsp;2,6</a>. Vgl auch <a href='http://bibel.renenyffenegger.ch/apg_14.html#v12'>Apg&nbsp;14,12</a>.
+  <i>Grösster</i> (Strongs 2233): §+mt-2-6. Vgl auch §apg-14-12.
  }
 #}
 #lk-22-28 {
  {
-  <i>Anfechtung</i> (<span class='gr'>πειρασμός</span>, Strongs 3986) wird sonst mit 'Versuchung' übersetzt,
+  TODO: <i>Anfechtung</i> (<span class='gr'>πειρασμός</span>, Strongs 3986) wird sonst mit 'Versuchung' übersetzt,
   zum Beispiel in Vers 40 und Vers 46.
  }
 #}
@@ -59710,12 +59710,22 @@
   TODO: <a class='kom' href='#Ilk-9-3'>Lk&nbsp;9,3</a>.
  }
 #}
+#lk-22-38 {
+ {
+  <i>Zwei Schwerter</i>: Vgl §joh-18-10
+ }
+#}
 #lk-22-39 {
  {
   TODO: Seit wann hatte Er diese <i>Gewohnheit</i>?
   <br>Beachte: das entsprechende Griechische Wort (<span class='gr'>ἔθος</span>, Strongs 1485) wird an andern Orten mit «Brauch» (<a href='http://bibel.renenyffenegger.ch/lk_1.html#v9'>Lk&nbsp;1,9</a>,
   <a href='http://bibel.renenyffenegger.ch/lk_2.html#v42'>Lk&nbsp;2,42</a>) oder «Gebräuche» (<a href='http://bibel.renenyffenegger.ch/apg_6.html#v14'>Apg&nbsp;6,14</a>) übersetzt.
   oder «
+ }
+#}
+#lk-22-40 {
+ {
+  <i>Versuchung</i> §Vlk-22-28. <i>Beten, um nicht in Versuchung zu kommen</i> §Vlk-22-46
  }
 #}
 #lk-22-43 {
@@ -59779,7 +59789,9 @@
  {
   Dabei hat Jesus ausdrücklich darauf hingewiesen, dem Kaiser zu geben was des Kaisers ist
   (<a href='http://bibel.renenyffenegger.ch/lk_20.html#v22'>Lk 20,22-25</a>).
-  <br>TODO: Ist Lukas der einzige, der die Anklage wiedergibt, dass Jesus das Volk abhalten wolle, die Steuern zu
+ }
+ {
+  TODO: Ist Lukas der einzige, der die Anklage wiedergibt, dass Jesus das Volk abhalten wolle, die Steuern zu
   bezahlen?
  }
  {
@@ -59887,11 +59899,6 @@
  {
   Vgl mit dem Zöllner, der sich an die Brust schlägt (<a href='http://bibel.renenyffenegger.ch/lk_23.html#v48'>Lk&nbsp;23,48</a>).
   <br>S.a. <a class='kom' href='#Imt-24-30'>Mt&nbsp;24,30</a>.
- }
-#}
-#lk-23-56 {
- {
-  <i>Gesetz</i> (Strongs 1785), sonst hüfig mit 'Gebot' übersetzt.
  }
 #}
 @}
@@ -62062,6 +62069,9 @@
 #joh-18-10 {
  {
   <i>Abgehauenes Ohrläppchen</i>: §+mt-26-51, §2mo-29-20
+ }
+ {
+  <i>Petrus, der ein Schwert hatte</i> vgl §lk-22-38
  }
 #}
 #joh-18-11 {
