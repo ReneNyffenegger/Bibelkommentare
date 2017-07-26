@@ -18464,6 +18464,9 @@
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten[Verhärtet euren Nacken] nicht mehr</i> §neh-9-16-17
  }
  {
+   <i>Beschneidung der Vorhaut des Herzens</i> vgl §5mo-30-6 
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
  }
 #}
@@ -19462,7 +19465,7 @@
   Vgl: <a class='kom' href='#I5mo-6-5'>5.&nbsp;Mo&nbsp;6,5</a>. Auch Verse 16 und 20.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung des Herzens</i> vgl §5mo-10-16
  }
 #}
 #5mo-30-9 {
@@ -49205,6 +49208,11 @@
   <i>Seine Gedanken ängstigen ihn</i>: Vgl Belsazar: §dan-5-6.
  }
 #}
+#dan-4-34 {
+ {
+  <i>ewig Lebenden</i> §dan-12-2
+ }
+#}
 @}
 @Daniel 5 {
 #dan-5-1 {
@@ -49928,6 +49936,11 @@
  }
  {
   TODO: Völker gab's wohl erst seit <a class='kom' href='#I1mo-10-5'>1. Mo 10,5/21/31</a>.
+ }
+#}
+#dan-12-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig, vgl §dan-4-34
  }
 #}
 #dan-12-3 {
@@ -52509,6 +52522,9 @@
   'Werke des Christus' (<a href='http://bibel.renenyffenegger.ch/mt_11.html#v2'>Mt&nbsp;11,2</a>) überhaupt nicht so aussehen, wie dies, was Johannes
   hier predigt?
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer
+ }
 #}
 #mt-3-9 {
  {
@@ -54754,7 +54770,7 @@
 #}
 #mt-19-16 {
  {
-  TODO: Vgl <i>ewiges Leben erlangen</i> mit <i>ewiges Leben erben</i> in Vers 29.
+  Vgl <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig erlangen</i> mit <i>ewiges Leben erben</i> in Vers 29.
  }
 #}
 #mt-19-19 {
@@ -54784,6 +54800,11 @@
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/ps_122.html#v5'>Ps&nbsp;122,5</a>.
+ }
+#}
+#mt-19-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
 #}
 #mt-19-30 {
@@ -55065,6 +55086,11 @@
 #mt-22-22 {
  {
   TODO <i>sich verwundern</i>: <a class='kom' href='#Imt-8-10'>Mt&nbsp;8,10</a>
+ }
+#}
+#mt-22-23 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer
  }
 #}
 #mt-22-34 {
@@ -55505,6 +55531,11 @@
 #mt-25-41 {
  {
   <i>Ewiges Feuer</i>: <a class='kom' href='#Imt-18-8'>Mt&nbsp;18,8</a>.
+ }
+#}
+#mt-25-46 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
 #}
 @}
@@ -56867,6 +56898,9 @@
 #}
 #mk-10-17 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+ {
   TODO Beachte: in Vers 15 wird erklärt, wer ins Reich Gottes kommt und nun diese Frage.
  }
  {
@@ -56887,6 +56921,11 @@
 #mk-10-24 {
  {
    <span class='gt'>In NA fehlt «daß die, welche auf Güter vertrauen»</span>
+ }
+#}
+#mk-10-30 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
 #}
 #mk-10-32 {
@@ -58743,7 +58782,7 @@
 #}
 #lk-10-25 {
  {
-  §lk-18-18
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig, vgl §lk-18-18
  }
 #}
 #lk-10-27 {
@@ -59300,7 +59339,7 @@
 #}
 #lk-18-18 {
  {
-  §lk-10-25
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig, vgl §lk-10-25
  }
 #}
 #lk-18-20 {
@@ -59316,6 +59355,11 @@
 #lk-18-24 {
  {
    <i>Reich</i>: vgl Zachäus in <a href='http://bibel.renenyffenegger.ch/lk_19.html#v2'>Lk 19,2 ff</a>.
+ }
+#}
+#lk-18-30 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
 #}
 #lk-18-31 {
@@ -60068,6 +60112,9 @@
  {
   → biblisches/Personen/Johannes/Täufer
  }
+ {
+  <i>Da war ein Mensch</i> §joh-3-1
+ }
 #}
 #joh-1-7 {
  {
@@ -60105,6 +60152,11 @@
 #joh-1-12 {
  {
   TODO <i>an seinen Namen glauben</i>: <a href='http://bibel.renenyffenegger.ch/joh_2.html#v23'>Joh&nbsp;2,23</a>
+ }
+#}
+#joh-1-13 {
+ {
+  Vgl §joh-3-3
  }
 #}
 #joh-1-14 {
@@ -60411,16 +60463,37 @@
 #}
 #joh-2-25 {
  {
-  Beachte: im nächsten Vers wird Nikodemus ein <i>Mensch</i> genannt.
+  Beachte: im nächsten Vers wird → biblisches/Personen/Nikodemus ein <i>Mensch</i> genannt.
  }
 #}
 @}
 @Johannes 3 {
+#joh-3-1 {
+ {
+  → biblisches/Personen/Nikodemus, → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer
+ }
+ {
+  <i>Es war aber ein Mensch</i> §joh-1-6, §+joh-2-25
+ }
+#}
+#joh-3-2 {
+ {
+  <i>Bei Nacht</i> vgl §joh-12-42-43.
+ }
+ {
+  <i>von Gott gekommen</i> vgl §joh-9-16, §joh-9-33
+ }
+#}
 #joh-3-3 {
  {
   <i>von neuem</i>: <span class='gr'>ἄνωθεν</span> (Strongs 509), wird häufig mit «von oben» übersetzt,
-  zum Beispiel in <a href='http://bibel.renenyffenegger.ch/mt_27.html#v51'>Mt&nbsp;27,51</a>.
-  In <a href='http://bibel.renenyffenegger.ch/gal_4.html#v9'>Gal&nbsp;4,9</a> wird es mit «wiederum» übersetzt. Vgl aber auch <a class='kom' href='#Iapg-26-5'>Apg&nbsp;26,5</a>.
+  zum Beispiel in §mt-27-51. 
+  In §gal-4-9 wird es mit «wiederum» übersetzt. Vgl aber auch §+apg-26-5.
+  <br>
+   Vgl §joh-3-31, §joh-19-11, §joh-19-23, §lk-1-3 (»Von Anfang an«)
+ }
+ {
+  Vgl §joh-1-13
  }
  {
   TODO: <i>Wiedergeburt</i>, <i>von neuem geboren werden</i> und <i>wiedergeboren</i> im NT:
@@ -60433,8 +60506,14 @@
 #}
 #joh-3-5 {
  {
-  TODO: <i>Wasser und Geist</i>: <a class='kom' href='#Itit-3-5'>Tit&nbsp;3,5</a>.
-  Beachte auch, dass weder Wasser noch der Geist erschaffen wurden: <a class='kom' href='#I1mo-1-2'>1.&nbsp;Mo&nbsp;1,2</a>.
+  <i>Wasser und Geist</i>: §joh-1-26, §joh-1-33, §hes-36-25-27, §+tit-3-5.
+  <br>
+  Beachte auch, dass weder Wasser noch der Geist erschaffen wurden: §+1mo-1-2.
+ }
+#}
+#joh-3-6 {
+ {
+  §gal-5-16-ff, §gal-6-8
  }
 #}
 #joh-3-7 {
@@ -60446,15 +60525,44 @@
  {
   Vgl §pred-11-5
  }
+ {
+   Angeblich kommt das Wort Pneuma im NT 370 mal vor, und wird sonst (bis auf die andere Ausnahme von §hebr-1-7) immer mit Geist übersetzt. (Wind hat im Griechischen ein eigenes Wort: <span class='gr'>ἄνεμος</span>).
+   Entsprechend übersetzt die → biblisches/Uebersetzungen/Vulgata mit «Spiritus ubi vult spirat».
+   Der Vers könnte, grammatisch korrekt, aber wohl nicht wie gewünscht, mit »Der Geist weht, wo er will und du hörst seine Stimme« übersetzt werden.
+ }
+#}
+#joh-3-10 {
+ {
+  <i>Lehrer Israels</i> vgl → biblisches/Personen/Paulus, ein »Lehrer der Nationen«, §1tim-2-7.
+ }
+ {
+  Evtl. könnte man diesen Vers mit »Bist du der Lehrer Israels …« übersetzen.
+ }
 #}
 #joh-3-11 {
  {
-  TODO: Warum 'wir'?
+  Der Plural «wir» erklärt sich wohl aus §Vjoh-3-8 («Jeder, der aus dem Geist geboren ist»). Vgl. §1joh-2-20
+  <br>
+   Vgl das <i>wir wissen</i> mit dem von §Vjoh-3-2.
+ }
+#}
+#joh-3-12 {
+ {
+  Das <i>Irdische</i> bezieht sich offenbar auf das bereits gesagte, das <i>Himmlische</i> wohl auf das,
+  was der Herr ab dem nächsten Vers sagen wird.
+ <br>
+  Vgl auch §joh-16-12
+ }
+ {
+  Vgl §kol-3-2
  }
 #}
 #joh-3-13 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/spr_30.html#v4'>Spr&nbsp;30,4</a>.
+  Himmlische Wahrheit (§Vjoh-3-12) kann nur von jemandem empfangen werden, der im Himmel ist/war.
+ }
+ {
+  Dieser Vers beantwortet die Frage von Agur in §spr-30-4.
  }
 #}
 #joh-3-14 {
@@ -60467,6 +60575,11 @@
   <a href='http://bibel.renenyffenegger.ch/phil_2.html#v9'>Phil&nbsp;2,9</a>
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/jes_52.html#v13'>Jes&nbsp;52,13</a>.
   <br>Vgl auch <a class='kom' href='#Imt-23-12'>Mt&nbsp;23,12</a>.
+ }
+#}
+#joh-3-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
 #}
 #joh-3-16 {
@@ -60505,9 +60618,17 @@
   <br>Vgl <a class='kom' href='#Ijoh-1-23'>Joh&nbsp;1,23</a>.
  }
 #}
+#joh-3-31 {
+ {
+  Vgl §hebr-12-25
+ }
+#}
 #joh-3-36 {
  {
   <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
  {
   <i>nicht glaubt</i> (<span class='gr'>ἀπειθέω</span>, Strongs 544) an andern Orten auch mit 'weigern zu glauben'
@@ -60570,6 +60691,11 @@
   Vgl <i>bist du grösser als unser Vater</i> mit <a href='http://bibel.renenyffenegger.ch/joh_8.html#v53'>Joh&nbsp;8,53</a>.
  }
 #}
+#joh-4-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+#}
 #joh-4-23 {
  {
   <i>Die Stunde kommt und ist schon da</i>: <a href='http://bibel.renenyffenegger.ch/joh_5.html#v25'>Joh&nbsp;5,25</a>.
@@ -60594,6 +60720,11 @@
 #joh-4-35 {
  {
   §mt-9-37
+ }
+#}
+#joh-4-36 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
 #}
 #joh-4-37 {
@@ -60694,6 +60825,11 @@
   Vgl <a class='kom' href='#Iapg-10-42'>Apg&nbsp;10,42</a>.
  }
 #}
+#joh-5-24 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+#}
 #joh-5-25 {
  {
   <i>Die Stunde kommt und ist schon da</i>: <a class='kom' href='#Ijoh-4-23'>Joh&nbsp;4,23</a>.
@@ -60741,6 +60877,11 @@
   <i>Gott sehen</i>: <a class='kom' href='#Ijoh-1-18'>Joh&nbsp;1,18</a>.
  }
 #}
+#joh-5-39 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+#}
 @}
 @Johannes 6 {
 #joh-6-4 {
@@ -60770,6 +60911,11 @@
 #joh-6-25 {
  {
   TODO: Wann ist Jesus in die Synagoge von Kapernaum gekommen (<a href='http://bibel.renenyffenegger.ch/joh_6.html#v59'>Vers 59</a>)?
+ }
+#}
+#joh-6-27 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
 #}
 #joh-6-29 {
@@ -60836,6 +60982,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott
  }
 #}
+#joh-6-40 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+#}
 #joh-6-42 {
  {
   <i>Sohn Josephs</i>: <a class='kom' href='#Ijoh-1-45'>Joh&nbsp;1,45</a>.
@@ -60848,7 +60999,10 @@
 #}
 #joh-6-47 {
  {
-  Vgl mit «Wer an mich glaubt, wie die Schrift gesagt hat» in <a href='http://bibel.renenyffenegger.ch/joh_7.html#v38'>Joh&nbsp;7,38</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+ {
+  Vgl mit «Wer an mich glaubt, wie die Schrift gesagt hat» in §joh-7-38.
  }
 #}
 #joh-6-54 {
@@ -60867,6 +61021,11 @@
   während Jesus noch in Galiläa ist (<a href='http://bibel.renenyffenegger.ch/joh_7.html#v1'>Joh&nbsp;7,1</a>)?
   <br>Nach Joh 7,1 kommt 'Jünger' wieder in <a href='http://bibel.renenyffenegger.ch/joh_8.html#v31'>Joh&nbsp;8,31</a>
   vor ('Wenn ihr in meinem Wort bleibt')
+ }
+#}
+#joh-6-68 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
 #}
 #joh-6-69 {
@@ -60989,6 +61148,11 @@
  {
    TODO: <i>Spaltung unter der Volksmenge</i>: vgl <a href='http://bibel.renenyffenegger.ch/joh_9.html#v16'>Joh&nbsp;9,16</a> (Spaltung unter den Pharisäern)
    und <a href='http://bibel.renenyffenegger.ch/joh_10.html#v19'>Joh&nbsp;10,19</a> (Spaltung unter den Juden)
+ }
+#}
+#joh-7-50 {
+ {
+  → biblisches/Personen/Nikodemus
  }
 #}
 #joh-7-52 {
@@ -61198,6 +61362,9 @@
  {
   <i>Spaltung unter den Pharisäern</i>: <a class='kom' href='#Ijoh-7-43'>Joh&nbsp;7,43</a>.
  }
+ {
+  <i>nicht von Gott</i> vgl §+joh-3-2, §Vjoh-9-33
+ }
 #}
 #joh-9-17 {
  {
@@ -61250,6 +61417,11 @@
 #joh-9-32 {
  {
   <i>Der Herr macht Blinde sehend</i>: <a class='kom' href='#Ips-146-8'>Ps&nbsp;146,8</a>.
+ }
+#}
+#joh-9-33 {
+ {
+  <i>von Gott sein</i> vgl §+joh-3-2, §Vjoh-9-16
  }
 #}
 @}
@@ -61328,6 +61500,9 @@
  }
 #}
 #joh-10-28 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
  {
   <i>rauben</i>: <span class='gr'>ἁρπάζω</span> (Strongs 726).
  }
@@ -61530,7 +61705,10 @@
 #}
 #joh-12-25 {
  {
-  TODO: die beiden ersten <i>Leben</i> in diesem Vers sind <span class='gr'>ψυχή</span> (Strongs 559)
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+ {
+  Die beiden ersten <i>Leben</i> in diesem Vers sind <span class='gr'>ψυχή</span> (Strongs 559)
   <span class='gr'>ζωή</span> (Strongs 2222).
  }
 #}
@@ -61650,6 +61828,11 @@
 #joh-12-48 {
  {
   <i>Letzter Tag</i>: <a class='kom' href='#Ijoh-6-39'>Joh&nbsp;6,39</a>.
+ }
+#}
+#joh-12-50 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
 #}
 @}
@@ -61978,6 +62161,11 @@
    <i>verherrlicht</i>: <a class='kom' href='#Ijoh-7-39'>Joh&nbsp;7,39</a>.
  }
 #}
+#joh-17-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+#}
 #joh-17-3 {
  {
    <i>Gott erkennen</i> §+joh-8-19
@@ -62236,6 +62424,11 @@
  {
   TODO: Bezieht sich das <i>durchstochhen haben</i> auf den Speer (Vers 34)?
   S.a. <a class='kom' href='#Isach-12-10'>Sach&nbsp;12,10</a>.
+ }
+#}
+#joh-19-39 {
+ {
+  → biblisches/Personen/Nikodemus
  }
 #}
 #joh-19-40 {
@@ -65147,6 +65340,9 @@
 #}
 #apg-13-46 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+ {
   TODO:
   Offenbar ist hier die erste von drei Ablehnungen des Evangeliums von Paulus durch die Juden, nach denen sich Paulus jeweils zu den
   Juden wendet. Die beiden andern sind in
@@ -66851,6 +67047,11 @@
    <i>Auferstehung</i>: <a href='http://bibel.renenyffenegger.ch/apg_1.html#v22'>Apg&nbsp;1,22</a>,
  }
 #}
+#apg-23-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer, → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer
+ }
+#}
 #apg-23-9 {
  {
   <i>Gegen Gott kämpfen</i>: <a href='http://bibel.renenyffenegger.ch/apg_5.html#v39'>Apg&nbsp;5,39</a>.
@@ -67832,6 +68033,11 @@
   <i>Gerechtes Gericht Gottes</i> §2thes-1-5
  }
 #}
+#roem-2-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+#}
 #roem-2-8 {
  {
   <i>Der Wahrheit ungehorsam sein</i> vgl <a class='kom' href='#Igal-3-1'>Gal&nbsp;3,1</a>.
@@ -68176,6 +68382,11 @@
   TODO: Offenbar ist <i>eine</i> in <i>eine Übertretung</i> und in <i>eine Gerechtigkeit</i> im Grundtext betont.
  }
 #}
+#roem-5-21 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+#}
 @}
 @Römer 6 {
 #roem-6-3 {
@@ -68231,6 +68442,11 @@
  }
  {
   TODO: <i>Dienst der Gerechtigkeit</i>: <a class='kom' href='#Iapg-6-2'>Apg&nbsp;6,2</a>.
+ }
+#}
+#roem-6-22 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
 #}
 #roem-6-23 {
@@ -73402,6 +73618,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Irrt euch nicht</i>: <a class='kom' href='#I1kor-6-9'>1.&nbsp;Kor&nbsp;6,9</a>.
  }
 #}
+#gal-6-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+#}
 #gal-6-11 {
  {
   TODO: 'Buchstaben' <span class='gr'>γράμμα</span> (Strongs 1121), dasselbe Wort wie in <a class='kom' href='#I2tim-3-15'>2.&nbsp;Tim&nbsp;3,15</a>.
@@ -74206,6 +74427,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>sich selbst für sie hingegeben hat</i> §Veph-5-2
+ }
+#}
+#eph-5-26 {
+ {
+  §tit-3-5
  }
 #}
 #eph-5-27 {
@@ -75351,7 +75577,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Kolosser 3 {
 #kol-3-2 {
  {
-  Vgl mit 'Glieder auf Erden' (<a href='http://bibel.renenyffenegger.ch/kol_3.html#v5'>Kol&nbsp;3,5</a>).
+  Vgl mit «Glieder auf Erden» (§Vkol-3-5).
+ }
+ {
+  Vgl §joh-3-12
  }
 #}
 #kol-3-4 {
@@ -76879,6 +77108,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-1-16 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+ {
   <i>Vorbild</i> <span class='gr'>ὑποτύπωσις</span> (Strongs 5296, 2x): in KJV mit «pattern» übersetzt. Das Wort kommt noch in §2tim-1-13 vor.
  }
  {
@@ -76976,9 +77208,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <i>Ich sage die Wahrheit und lüge nicht</i>: vgl §roem-9-1, §2kor-11-31, §gal-1-20
  }
  {
-  <i>Lehrer und Apostel</i>: <a class='kom' href='#I1kor-12-29'>1.&nbsp;Kor&nbsp;12,29</a> und
-  <a href='http://bibel.renenyffenegger.ch/2tim_1.html#v11'>2.&nbsp;Tim&nbsp;1,11</a>.
-  <br><i>Lehrer der Heiden</i>: <a class='kom' href='#Iroem-11-13'>Röm&nbsp;11,13</a>.
+  <i>Lehrer und Apostel</i>: §+1kor-12-29 und
+  §2tim-1-11.
+  <br>
+  <i>Lehrer der Nationen</i>: §+roem-11-13.
+ }
+ {
+  <i>Lehrer der Nationen</i> vgl → biblisches/Personen/Nikodemus, der »Lehrer Israels« genannt wird (§joh-3-10).
  }
 #}
 #1tim-2-9 {
@@ -77527,6 +77763,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-6-12 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+ {
   <i>Den guten Kampf kämpfen</i>: Siehe auch <a class='kom' href='#I1tim-1-18'>1.&nbsp;Tim&nbsp;1,18</a>.
  }
  {
@@ -77596,6 +77835,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1tim-6-18 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk/index#gute-werke
+ }
+#}
+#1tim-6-19 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
 #}
 #1tim-6-20 {
@@ -78497,7 +78741,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl §apg-10-34-35
  }
  {
-   TODO: Vgl mit <i>Wasser und Geist</i> in <a href='http://bibel.renenyffenegger.ch/joh_3.html#v5'>Joh&nbsp;3,5</a>.
+   Vgl mit <i>Wasser und Geist</i> in §joh-3-5.
+ }
+ {
+   §eph-5-26
  }
  {
   TODO: <i>Wiedergeburt</i>: <a class='kom' href='#Ijoh-3-3'>Joh&nbsp;3,3</a>.
@@ -80210,7 +80457,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-12-25 {
  {
-  Vgl <a class='kom' href='#Ihebr-1-2'>Hebr&nbsp;1,2</a>.
+  Vgl §+hebr-1-2, §joh-3-31
  }
 #}
 #hebr-12-28 {
@@ -82160,6 +82407,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1joh-1-2 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig 
+ }
+ {
   Siehe auch <i>Paulus' und Johannes' Kinder</i> <a class='kom' href='#I1kor-4-14'>1.&nbsp;Kor&nbsp;4,14</a>
  }
 #}
@@ -82653,6 +82903,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <span class='gt'>Comma Johanneum: NA und MT haben in in den Versen 7-8 «Denn drei sind, die da zeugen der Geist und das Wasser und das Blut, und die drei sind einstimmig.»</span>.
  }
 #}
+#1joh-5-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+#}
 #1joh-5-13 {
  {
   Wer schreibt den Brief? <a class='kom' href='#I1joh-1-4'>1.&nbsp;Joh&nbsp;1,4</a>.
@@ -82673,6 +82928,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1joh-5-20 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
  {
   → biblisches/Lehre/Gott-Jehova-Jahwe-Jesus
  }
@@ -82883,6 +83141,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Trennung/Einheit</i>: <a class='kom' href='#Ijoh-17-23'>Joh&nbsp;17,23</a><br>
   TODO: <i>Trennungen verursachen</i> (<span class='gr'>ἀποδιορίζω</span>, Strongs 592), vgl <a class='kom' href='#I1kor-1-10'>1.&nbsp;Kor&nbsp;1,10</a>.
+ }
+#}
+#jud-1-21 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
 #}
 #jud-1-22 {
