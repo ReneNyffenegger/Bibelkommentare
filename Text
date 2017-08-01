@@ -52470,12 +52470,13 @@
   <br>Vgl auch mit <a class='kom' href='#Ips-45-7'>Ps&nbsp;45,7</a>.
  }
  {
-  <i>Reich der Himmel ist nahe herbeigekommen</i>: <a href='http://bibel.renenyffenegger.ch/mt_4.html#v17'>Mt&nbsp;4,17</a>,
-  <a href='http://bibel.renenyffenegger.ch/mt_10.html#v7'>Mt&nbsp;10,7</a>
+  <i>Reich der Himmel ist nahe herbeigekommen</i>: §mt-4-17, §mt-10-7
+  <br>
+    In §mt-12-28 *ist* es zu euch gekommen
+     <br>
+      In §mt-21-43 wird es genommen und einem Volk gegeben, das dessen Früchte trägt.
          <br>
-  In <a href='http://bibel.renenyffenegger.ch/mt_21.html#v43'>Mt&nbsp;21,43</a> wird es genommen und einem Volk gegeben, das dessen Früchte trägt.
-         <br>
-  In <a href='http://bibel.renenyffenegger.ch/lk_17.html#v20'>Lk&nbsp;17,20</a> fragen die Pharisäer, wann denn das Reich kommt.
+    In §lk-17-20 fragen die Pharisäer, wann denn das Reich kommt.
  }
  {
   <i>[König]Reich der Himmel</i> kommt nur mit Matthäus vor.
@@ -52597,6 +52598,11 @@
  {
   Beachte: <i>versuchen</i> und <i>Versucher</i> (Vers 3): <span class='gr'>πειράζω</span> (Strongs 3985).
   <i>versuchen</i> in Vers 7: <span class='gr'>ἐκπειράζω</span> (Strongs 1598, 4x).
+ }
+#}
+#mt-4-2 {
+ {
+  <i>ihn hungerte</i> §mt-21-18, §joh-19-28
  }
 #}
 #mt-4-3 {
@@ -52757,9 +52763,10 @@
 #}
 #mt-4-23 {
  {
-   TODO: In <a href='http://bibel.renenyffenegger.ch/mt_9.html#v35'>Mt&nbsp;9,35</a> steht 'verkündigte
-   das Evangelium von dem Reich und heilte jede Krankheit und jedes Gebrechen im Volk'.
-   <br>Vgl mit <a class='kom' href='#Imt-3-1'>Mt&nbsp;3,1</a>
+   Das Reich ist nahe: §+mt-3-2
+ }
+ {
+  §mt+3-1
  }
  {
   TODO: Vgl das <i>Evangelium vom Reich</i> mit dem «Evangelium von Jesus Christus» (<a class='kom' href='#Imk-1-1'>Mk&nbsp;1,1</a>).
@@ -52796,8 +52803,9 @@
   Hier treten seine <i>Jünger</i> zu ihm, als die Bergpredigt beendet wird, erstaunt die <i>Volksmenge</i> (<a href='http://bibel.renenyffenegger.ch/mt_7.html#v28'>Mt&nbsp;7,28</a>).
  }
  {
-   Hier sieht Jesus die <i>Volksmenge</i> und er steigt auf den Berg, als er in <a href='http://bibel.renenyffenegger.ch/mt_8.html#v1'>Mt&nbsp;8,1</a> vom Berg herabstige, folgte ihm
-   eine grosse Volksmenge.
+   Hier sieht Jesus die <i>Volksmenge</i> und er steigt auf den Berg, als er in §mt-8-1 vom Berg herabstige, folgte ihm eine grosse Volksmenge.
+   <br>Als er in §mt-8-18 wieder eine grosse Volksmenge sah, befahlt er, ans jenseite Ufer hinwegzufahren.
+   <br>Vgl auch §mt-9-36, §mt-14-14
  }
  {
   <i>Berg</i>: <a class='kom' href='#Imt-4-8'>Mt&nbsp;4,8</a>. TODO: Beachte, dass er sich auch auf dem Berg in <a href='http://bibel.renenyffenegger.ch/mt_15.html#v29'>Mt&nbsp;15,29</a>
@@ -53122,7 +53130,7 @@
 @Matthäus 8 {
 #mt-8-1 {
  {
-  <i>Volksmenge</i> und <i>Berg</i>: <a class='kom' href='#Imt-5-1'>Mt&nbsp;5,1</a>.
+  <i>Volksmenge</i> und <i>Berg</i>: §+mt-5-1.
  }
 #}
 #mt-8-4 {
@@ -53158,6 +53166,9 @@
 #}
 #mt-8-10 {
  {
+  <i>nicht in Israel habe ich so grossen Glauben gefunden</i> vgl §mt-9-33
+ }
+ {
   TODO: <i>sich verwundern</i>: <ul>
     <li>hier
     <li><a href='http://bibel.renenyffenegger.ch/mt_8.html#v27'>Mt&nbsp;8,27</a>
@@ -53173,8 +53184,11 @@
 #}
 #mt-8-11 {
  {
+  <i>Viele werden von Osten und Westen kommen … aber die Söhne des Reiches werden hinausgeworfen…</i> vgl §mt-21-43
+ }
+ {
   Beachte: hier kommen viele vom <i>Osten und Westen</i> umt im Reich der Himmel mit Abraham, Isaak und Jakob zu Tisch zu sitzen,
-  in <a href='http://bibel.renenyffenegger.ch/lk_13.html#v29'>Lk&nbsp;13,29</a> kommen «sie» vom «Osten, Westen, Norden und Süden» und sitzen zu Tisch im Reich Gottes
+  in §lk-13-29 kommen «sie» vom «Osten, Westen, Norden und Süden» und sitzen zu Tisch im Reich Gottes
  }
 #}
 #mt-8-12 {
@@ -53198,6 +53212,11 @@
  }
  {
   Vgl §+roem-15-1.
+ }
+#}
+#mt-8-18 {
+ {
+  <i>Als Jesus die grosse Volksmenge sah</i> vgl §mt-5-1
  }
 #}
 #mt-8-19 {
@@ -53405,17 +53424,30 @@
 #}
 #mt-9-33 {
  {
+  <i>Niemals wurde es also in Israel gesehen</i> §mt-8-10
+ }
+ {
   TODO: <i>Volksmenge</i> <a class='kom' href='#Imt-15-31'>Mt&nbsp;15,31</a>.
+ }
+#}
+#mt-9-34 {
+ {
+  <i>Er treibt die Dämonen aus durch den Obersten der Dämonen</i> vgl §mt-12-22-ff (§mt-12-24)
  }
 #}
 #mt-9-35 {
  {
-  <a class='kom' href='#Imt-4-23'>Mt&nbsp;4,23</a>.
+  Vgl §+mt-4-23.
+ }
+#}
+#mt-9-36 {
+ {
+  <i>Als er die Volksmengen sah</i> §+mt-5-1
  }
 #}
 #mt-9-37 {
  {
-  §joh-4-35
+  §lk-10-2, §joh-4-35
  }
 #}
 #mt-9-38 {
@@ -53567,11 +53599,17 @@
 #}
 #mt-10-7 {
  {
-   <i>Das Reich der Himmel ist nahe herbeigekommen</i>: <a class='kom' href='#Imt-3-2'>Mt&nbsp;3,2</a>.
+   <i>Das Reich der Himmel ist nahe herbeigekommen</i>: §+mt-3-2.
    Beachte: hier steht nicht «tut Busse».
  }
  {
-  Beachte: hier sendet der Herr seine Jünger, in <a href='http://bibel.renenyffenegger.ch/mt_11.html#v1'>Mt&nbsp;11,1</a> geht Er selbst.
+  Hier schickt der Herr seine Jünger nur ans Haus Israel, in §mt-24-14 wird das Evangelium des Reiches auf dem ganzen Erdkreis gepredigt werden.
+ }
+ {
+  Beachte: hier sendet der Herr seine Jünger, in §mt-11-1 geht Er selbst.
+ }
+ {
+  Vgl mit der Aussendung der Siebzig (§lk-10-1-ff), denen er auch aufträgt, zu ihnen zu sprechen, dass das Reich Gottes nahe gekommen ist. (§lk-10-9)
  }
 #}
 #mt-10-8 {
@@ -53676,7 +53714,7 @@
 @Matthäus 11 {
 #mt-11-1 {
  {
-  <a class='kom' href='#Imt-10-7'>Mt&nbsp;10,7</a>.
+  Vgl §mt-4-23, §mt-9-35, §+mt-10-7. Beachte: hier steht nur noch, dass Er lehrte und predigte, nichts mehr von Heilungen etc.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/vollenden/index#mt-jesus-worte-vollenden
@@ -53935,7 +53973,10 @@
 #}
 #mt-12-24 {
  {
-  <i>Beelzebul</i>: <a class='kom' href='#Imt-10-25'>Mt&nbsp;10,25</a>.
+  <i>Beelzebul</i>: §+mt-10-25.
+ }
+ {
+  <i>Dieser treibt die Dämonen nicht anders aus, als durch den Beelzebub, den Obersten der Dämonen.</i> vgl §mt-9-34
  }
 #}
 #mt-12-29 {
@@ -54004,6 +54045,11 @@
  {
   <i>Ninive</i>: <a class='kom' href='#Ijon-1-2'>Jon&nbsp;1,2</a>.
   <br>Vgl <a href='http://bibel.renenyffenegger.ch/lk_11.html#v32'>Lk&nbsp;11,32</a>.
+ }
+#}
+#mt-12-50 {
+ {
+  <i>Den Willen des Vaters tun</i> §mt-21-31
  }
 #}
 @}
@@ -54258,6 +54304,9 @@
  {
    <i>Unglaube</i>: vgl <a href='http://bibel.renenyffenegger.ch/mt_17.html#v20'>Mt&nbsp;17,20</a>.
  }
+ {
+  <i>nicht viele Wunderwerke tun</i> vgl §mt-14-2 (3 Verse weiter)
+ }
 #}
 @}
 @Matthäus 14 {
@@ -54272,6 +54321,11 @@
   <i>Zu jener Zeit</i>: <a class='kom' href='#Imt-11-25'>Mt&nbsp;11,25</a>.
  }
 #}
+#mt-14-2 {
+ {
+  <i>Darum wirken solche Kräfte in ihm</i> vgl §mt-13-58 (3 Verse früher) 
+ }
+#}
 #mt-14-13 {
  {
   <i>einsam</i>: <span class='gr'>ἔρημος</span> (Strongs 2048), wird zum Beispiel in <a href='http://bibel.renenyffenegger.ch/mt_3.html#v1'>Mt&nbsp;3,1</a>
@@ -54282,6 +54336,11 @@
  {
   TODO: Beachte, dieser Vers enthält <span class='gr'>κατ᾽ ἰδίαν</span> (Strongs 2596+2398), das offenbar mit «allein» oder in anderem Kontext
   mit «bei jemandem zu Hause» übersetzt werden kann. KJV übersetzt mit «apart» und «privately».
+ }
+#}
+#mt-14-14 {
+ {
+  <i>Die grosse Volksmenge sah</i> §+mt-5-1
  }
 #}
 #mt-14-15 {
@@ -54989,16 +55048,19 @@
  {
   Jesus hat Hunger (vgl §mk-11-12). Bedeutet das, dass er darauf wartete, den Willen des Vaters zu tun und sein Werk zu
   vollenden (§joh-4-34).
-  <br>Vgl §lk-4-2
+  <br>
+  Vgl §lk-4-2, §joh-19-28
  }
 #}
 #mt-21-19 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/hl_2.html#v13'>Hl&nbsp;2,13</a>.
+  Vgl §hl-2-13.
  }
  {
-  Beachte, der Feigenbaum wird saftig und treibt Blätter in <a href='http://bibel.renenyffenegger.ch/mt_24.html#v32'>Mt&nbsp;24,32</a>.
-  In <a href='http://bibel.renenyffenegger.ch/offb_6.html#v13'>Offb&nbsp;6,13</a> wirft er seine unreifen Früchte ab.
+  Beachte, der Feigenbaum wird saftig und treibt Blätter in §mt-24-32.  In §offb-6-13 wirft er seine unreifen Früchte ab.
+ }
+ {
+  Vgl den <i>unfruchtbaren Feigenbaum</i> mit der «Nation, die Früchte bringt» §mt-21-43.
  }
 #}
 #mt-21-20 {
@@ -55019,7 +55081,18 @@
 #}
 #mt-21-31 {
  {
-  Vgl <a class='kom' href='#Imt-19-24'>Mt&nbsp;19,24</a>.
+  <i>Den Willen des Vaters tun</i> §mt-12-50
+ }
+ {
+  <i>Zöllner und Huren gehen voran ins → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Reich[Reich Gottes]</i> §mt-23-13
+ }
+ {
+  Vgl §+mt-19-24.
+ }
+#}
+#mt-21-32 {
+ {
+   <i>Die Zöllner und Huren glaubten an ihn… euch aber …</i> vgl §lk-7-29  
  }
 #}
 #mt-21-33 {
@@ -55034,6 +55107,12 @@
  }
 #}
 #mt-21-43 {
+ {
+   Vgl §mt-8-11-12 
+ }
+ {
+  <i>Eine Nation, die Früchte bringt</i> vgl mit dem fruchtlosen Feigenbaum §mt-21-19
+ }
  {
   <i>Nation</i>: <span class='gr'>ἔθνος</span> (Strongs 1484), in Sch2K zum Teil mit «Heiden» (<a href='http://bibel.renenyffenegger.ch/mt_4.html#v15'>Mt&nbsp;4,15</a>)
   oder «Heidenvolk» (<a href='http://bibel.renenyffenegger.ch/mt_24.html#v7'>Mt&nbsp;24,7</a>) übersetzt.
@@ -55164,6 +55243,11 @@
   <br>Vgl auch <a class='kom' href='#Ijoh-3-14'>Joh&nbsp;3,14</a>.
   <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/lk_18.html#v13'>Lk&nbsp;18,13</a> (der Pharisäer, der vertraute,
   dass er gerecht wäre).
+ }
+#}
+#mt-23-13 {
+ {
+  <i>ihr geht nicht ins → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Reich[Reich Gottes] hinein</i> §mt-21-31
  }
 #}
 #mt-23-14 {
@@ -55308,7 +55392,8 @@
 #}
 #mt-24-14 {
  {
-  <i>Das Evangelium vom Reich verkündigen</i>: <a class='kom' href='#Imt-3-1'>Mt&nbsp;3,1</a>.
+  <i>Das Evangelium vom Reich predigen.</i>: §+mt-3-1.
+  <br>Hier: auf dem ganzen Erdkreis. In §mt-10-7 schickt der Herr seine Jünger «nur» ans Haus Israel.
  }
 #}
 #mt-24-15 {
@@ -58445,6 +58530,9 @@
 #}
 #lk-7-29 {
  {
+  §+mt-21-32 
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
  }
 #}
@@ -58769,6 +58857,11 @@
 #}
 @}
 @Lukas 10 {
+#lk-10-2 {
+ {
+  §mt-9-37, §joh-4-35
+ }
+#}
 #lk-10-3 {
  {
   Vgl <a class='kom' href='#Imt-10-16'>Mt&nbsp;10,16</a>. Hier einziges Vorkommen von <span class='gr'>ἀρήν</span> (Strongs 704).
@@ -58779,6 +58872,11 @@
  {
   <i>Der Arbeiter ist seines Lohnes wert</i>: <a class='kom' href='#I1tim-5-18'>1.&nbsp;Tim&nbsp;5,18</a>.
   Vgl mit «Der Arbeiter ist seiner Nahrung wert» in <a class='kom' href='#Imt-10-10'>Mt&nbsp;10,10</a>.
+ }
+#}
+#lk-10-9 {
+ {
+  Vgl mit der Aussendung der 12 Jünger (§mt-10-1), denen er auch aufträgt, zu ihnen zu sprechen, dass das Reich Gottes nahe gekommen ist (§mt-10-7)
  }
 #}
 #lk-10-13 {
@@ -60713,6 +60811,11 @@
   Vgl <i>bist du grösser als unser Vater</i> mit <a href='http://bibel.renenyffenegger.ch/joh_8.html#v53'>Joh&nbsp;8,53</a>.
  }
 #}
+#joh-4-13 {
+ {
+   <i>wird wiederum dürsten</i> §joh-6-35, §joh-7-37, §joh-19-28
+ }
+#}
 #joh-4-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
@@ -60741,7 +60844,7 @@
 #}
 #joh-4-35 {
  {
-  §mt-9-37
+  §mt-9-37, §lk-10-2
  }
 #}
 #joh-4-36 {
@@ -60952,6 +61055,9 @@
 #}
 #joh-6-35 {
  {
+  <i>Wird nimmermehr dürsten</i> §joh-4-13, §joh-7-37, §joh-19-28
+ }
+ {
   Ich bin <ul>
      <li>Das Brot des Lebens (<a href='http://bibel.renenyffenegger.ch/joh_6.html#v35'>Joh&nbsp;6,35</a>)
      <li>Das Licht der Welt (<a href='http://bibel.renenyffenegger.ch/joh_8.html#v12'>Joh&nbsp;8,12</a>,
@@ -61145,6 +61251,9 @@
  }
 #}
 #joh-7-37 {
+ {
+  <i>Wenn jemand dürstet</i> §joh-4-13, §joh-6-35, §joh-19-28
+ }
  {
   <i>Letzter Tag</i>: <a class='kom' href='#Ijoh-6-39'>Joh&nbsp;6,39</a>.
  }
@@ -62420,7 +62529,12 @@
 #}
 #joh-19-28 {
  {
-  Vgl <a class='kom' href='#Ijoh-13-1'>Joh&nbsp;13,1</a>.
+  <i>Mich dürstet</i> §joh-4-13, §joh-6-35, §joh-7-37.
+  <br>
+  Vgl §mt-4-2, §mt-21-18
+ }
+ {
+  Vgl §+joh-13-1.
  }
 #}
 #joh-19-29 {
