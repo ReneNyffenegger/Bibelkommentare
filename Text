@@ -53384,16 +53384,23 @@
   Hier erste Anrede in Matthäus mit <i>Sohn Davids</i>.
  }
  {
-  Vgl mit den zwei Blinden, die am Weg sassen und sprachen '<i>Herr, </i>du Sohn Davids, erbarme dich über uns'.
-  (<a class='kom' href='#Imt-20-30'>Mt&nbsp;20,30</a>). Hier ohne <i>Herr</i>.
+  Vgl mit den zwei Blinden, die am Weg sassen und sprachen «<i>Herr,</i> du Sohn Davids, erbarme dich über uns».
+  (§+mt-20-30). Hier ohne <i>Herr</i>.
   <br>woher wussten die Blinden, dass es Jesus war.
   <br>sind das etwa dieselben Blinden, und sind sie wieder Blind geworden? Hier wurden die Augen geöffnet
     (<span class='gr'>ἀνοίγω</span>, Strongs 455), dort werden sie <i>wieder</i> sehend (<span class='gr'>ἀναβλέπω</span>, Strongs 308).
+  <br>
+  Vgl auch mit §mt-12-22-ff
  }
 #}
 #mt-9-30 {
  {
   <i>niemand erfahre es</i> §+mt-8-4
+ }
+#}
+#mt-9-32 {
+ {
+  Vgl mit §mt-12-22-ff
  }
 #}
 #mt-9-33 {
@@ -53761,8 +53768,8 @@
 #}
 #mt-11-21 {
  {
-  <i>Bethsaida</i>: Philippus ist von hier (<a class='kom' href='#Ijoh-1-44'>Joh&nbsp;1,44</a>). Diese Stadt gehört zu denen, die gewarnt werden (<a href='http://bibel.renenyffenegger.ch/lk_10.html#v13'>Lk&nbsp;10,13</a>).
-  <br>S.a. <a class='kom' href='#Imk-6-45'>Mk&nbsp;6,45</a>, <a href='http://bibel.renenyffenegger.ch/lk_9.html#v10'>Lk&nbsp;9,10</a>.
+  → biblisches/Orte/Bethsaida: Philippus ist von hier (§+joh-1-44). Diese Stadt gehört zu denen, die gewarnt werden (§lk-10-13).
+  <br>S.a. §+mk-6-45, §lk-9-10.
  }
 #}
 #mt-11-22 {
@@ -53919,6 +53926,11 @@
 #mt-12-21 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/roem_15.html#v12'>Röm&nbsp;15,12</a>.
+ }
+#}
+#mt-12-22 {
+ {
+  Vgl §mt-9-27-ff (zwei Blinde) und §mt-9-32-ff (ein stummer und besessener Mensch)
  }
 #}
 #mt-12-24 {
@@ -56595,9 +56607,9 @@
 #}
 #mk-6-45 {
  {
-  Beachte: hier werden die Jünger nach <i>Bethsaida</i> geschickt, in <a href='http://bibel.renenyffenegger.ch/mk_8.html#v22'>Mk&nbsp;8,22</a> kommt
+  Beachte: hier werden die Jünger nach → biblisches/Orte/Bethsaida geschickt, in §mk-8-22 kommt
   der Herr selbst dahin. In Vers 53 kommen Jesus mit seinen Jüngern im Land Genezareth an.
-  <br>S.a. <a class='kom' href='#Imt-11-21'>Mt&nbsp;11,21</a>.
+  <br>S.a. §+mt-11-21.
  }
 #}
 #mk-6-46 {
@@ -56721,7 +56733,7 @@
 #}
 #mk-8-22 {
  {
-  <i>Bethsaida</i>: <a class='kom' href='#Imk-6-45'>Mk&nbsp;6,45</a>.
+  → biblisches/Orte/Bethsaida: §+mk-6-45.
  }
 #}
 #mk-8-27 {
@@ -58631,6 +58643,11 @@
   Vgl Vers 19.
  }
 #}
+#lk-9-10 {
+ {
+  → biblisches/Orte/Bethsaida
+ }
+#}
 #lk-9-21 {
  {
   Es scheint, als ob der Herr nicht möchte, dass Petrus verkündigt, dass er der Christus ist, weil sonst sein Auftrag, getötet zu werden, in Gefahr stünde. Vgl §1kor-2-8
@@ -58762,6 +58779,11 @@
  {
   <i>Der Arbeiter ist seines Lohnes wert</i>: <a class='kom' href='#I1tim-5-18'>1.&nbsp;Tim&nbsp;5,18</a>.
   Vgl mit «Der Arbeiter ist seiner Nahrung wert» in <a class='kom' href='#Imt-10-10'>Mt&nbsp;10,10</a>.
+ }
+#}
+#lk-10-13 {
+ {
+  → biblisches/Orte/Bethsaida
  }
 #}
 #lk-10-19 {
@@ -60334,7 +60356,7 @@
 #}
 #joh-1-44 {
  {
-   <i>Philippus von Bethsaida</i> vgl <a href='http://bibel.renenyffenegger.ch/joh_12.html#v21'>Joh&nbsp;12,21</a>.
+   <i>Philippus von → biblisches/Orte/Bethsaida</i> vgl §joh-12-21.
  }
 #}
 #joh-1-45 {
@@ -61680,11 +61702,10 @@
 #}
 #joh-12-21 {
  {
-   <i>Philippus von Bethsaida</i>: <a class='kom' href='#Ijoh-1-44'>Joh&nbsp;1,44</a>.
+   <i>Philippus von → biblisches/Orte/Bethsaida</i>: §+joh-1-44.
  }
  {
-  Beachte: sie gehen zu Philippus und wollen Jesus sehen, in <a href='http://bibel.renenyffenegger.ch/joh_14.html#v8'>Joh&nbsp;14,8</a> möchte den Vater sehen. Wie sich
-  in <a href='http://bibel.renenyffenegger.ch/joh_14.html#v9'>Joh&nbsp;14,9</a> herausstellt, hat Philippus nicht einmal den Sohn erkannt.
+  Beachte: sie gehen zu Philippus und wollen Jesus sehen, in §joh-14-8 möchte den Vater sehen. Wie sich in §joh-14-9 herausstellt, hat Philippus nicht einmal den Sohn erkannt.
  }
 #}
 #joh-12-23 {
