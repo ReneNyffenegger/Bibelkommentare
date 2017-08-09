@@ -52695,13 +52695,11 @@
 #}
 #mt-4-13 {
  {
-  'liess sich nieder' ist im Griechischen <span class='gr'>κατοικέω</span> (Strongs 2730), wie auch in <a href='http://bibel.renenyffenegger.ch/mt_2.html#v23'>Mt&nbsp;2,23</a>.
-  An anderer Stelle wird dieses Wort mit 'wohnen' übersetzt, zB in <a href='http://bibel.renenyffenegger.ch/apg_1.html#v20'>Apg&nbsp;1,20</a>
-  oder <a href='http://bibel.renenyffenegger.ch/kol_1.html#v19'>Kol&nbsp;1,19</a>.
+  <i>liess sich nieder</i> ist im Griechischen <span class='gr'>κατοικέω</span> (Strongs 2730), wie auch in §mt-2-23.
+  An anderer Stelle wird dieses Wort mit 'wohnen' übersetzt, zB in §apg-1-20 oder §kol-1-19.
  }
  {
-  <i>Kapernaum</i> wird wohl 'Seine Stadt' genannt (<a class='kom' href='#Imt-9-1'>Mt&nbsp;9,1</a>). TODO: wurde sie deshalb 'bis zum Himmel erhöht' und wird
-  deshalb 'zum Totenreich hinabgeworfen werden'? (<a href='http://bibel.renenyffenegger.ch/mt_11.html#v23'>Mt&nbsp;11,23</a>).
+   → biblisches/Orte/Kapernaum
  }
 #}
 #mt-4-15 {
@@ -53142,6 +53140,9 @@
 #}
 #mt-8-5 {
  {
+  → biblisches/Orte/Kapernaum
+ }
+ {
   Vgl mit Vers 14, wo Jesus die Schwiegermutter von Petrus ohne gebeten zu werden heilt.
  }
  {
@@ -53321,7 +53322,7 @@
 @Matthäus 9 {
 #mt-9-1 {
  {
-  <i>Seine Stadt</i> ist wohl Kapernaum. Dort hat er sich in <a href='http://bibel.renenyffenegger.ch/mt_4.html#v13'>Mt&nbsp;4,13</a> niedergelassen.
+  <i>Seine Stadt</i> ist wohl → biblisches/Orte/Kapernaum. Dort hat er sich in §mt-4-13 niedergelassen.
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/mk_2.html#v1'>Mk&nbsp;2,1</a>.
  }
 #}
@@ -53815,7 +53816,7 @@
 #}
 #mt-11-23 {
  {
-  <i>Kapernaum</i>: <a class='kom' href='#Imt-4-13'>Mt&nbsp;4,13</a>.
+  → biblisches/Orte/Kapernaum, vgl §lk-10-15
  }
 #}
 #mt-11-25 {
@@ -54705,6 +54706,9 @@
  }
 #}
 #mt-17-24 {
+ {
+  → biblisches/Orte/Kapernaum
+ }
  {
   <i>Doppeldrachmen</i> (<span class='gr'>δίδραχμον</span>, Strongs 1323): Sch2K übersetzt das erste Vorkommen in diesem Vers mit «Tempelsteuer», das zweite mit «zwei Drachmen», KJV mit «tribute money» und «tribute»
   <br>
@@ -56290,6 +56294,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Mietling: In Elb05 und Sch2K mit «Tagelöhnern», in KJV mit «hired servants» übersetzt.
  }
 #}
+#mk-1-21 {
+ {
+  → biblisches/Orte/Kapernaum
+ }
+#}
 #mk-1-32 {
  {
   TODO: Der Sonnenuntergang markiert wohl das Ende des Sabbats (Vers 21).
@@ -56320,6 +56329,11 @@
 #}
 @}
 @Markus 2 {
+#mk-2-1 {
+ {
+  → biblisches/Orte/Kapernaum
+ }
+#}
 #mk-2-5 {
  {
   Beachte: Jesus <i>sah</i> den Glauben. Der Glaube hat Werke, vgl <a href='http://bibel.renenyffenegger.ch/jak_2.html#v14'>Jak 2,14-26</a>.
@@ -56914,6 +56928,11 @@
  {
   TODO: verstehen die Jünger zwar nicht, dass Jesus in die Hände der Menschen ausgeliefert werden muss, aber dass er auferstehen muss, verstehen sie?
   Vgl <a class='kom' href='#Imt-17-10'>Mt&nbsp;17,10</a> und <a href='http://bibel.renenyffenegger.ch/lk_9.html#v44'>Lk 9,44-45</a>.
+ }
+#}
+#mk-9-33 {
+ {
+  → biblisches/Orte/Kapernaum
  }
 #}
 #mk-9-34 {
@@ -58246,9 +58265,8 @@
 #}
 #lk-4-23 {
  {
-  Beachte, die <i>grossen Taten in Kapernaum</i> scheint Lukas (in nicht strikter chronologiescher Reihenfolge) ab
-  <a href='http://bibel.renenyffenegger.ch/lk_4.html#v31'>Lk&nbsp;4,31</a> beschrieben. Vgl auch
-  <a class='kom' href='#Iapg-9-25'>Apg&nbsp;9,25</a>.
+  Beachte, die <i>grossen Taten in → biblisches/Orte/Kapernaum</i> scheint Lukas (in nicht strikter chronologiescher Reihenfolge) ab
+  §lk-4-31 beschrieben. Vgl auch §+apg-9-25.
  }
  {
   TODO <i>deiner Vaterstadt</i>: <a class='kom' href='#Imt-13-54'>Mt&nbsp;13,54</a>.
@@ -58272,7 +58290,10 @@
 #}
 #lk-4-31 {
  {
-  Chronologie: <a class='kom' href='#Ilk-4-23'>Lk&nbsp;4,23</a>.
+  → biblisches/Orte/Kapernaum
+ }
+ {
+  Chronologie: §+lk-4-23.
  }
 #}
 #lk-4-35 {
@@ -58458,6 +58479,11 @@
 #}
 @}
 @Lukas 7 {
+#lk-7-1 {
+ {
+  → biblisches/Orte/Kapernaum
+ }
+#}
 #lk-7-2 {
  {
   <i>Hauptmann</i>: <a class='kom' href='#Imt-8-5'>Mt&nbsp;8,5</a>.
@@ -58879,6 +58905,11 @@
 #lk-10-13 {
  {
   → biblisches/Orte/Bethsaida
+ }
+#}
+#lk-10-15 {
+ {
+  → biblisches/Orte/Kapernaum, vgl §mt-11-23
  }
 #}
 #lk-10-19 {
@@ -60519,7 +60550,10 @@
 #}
 #joh-2-12 {
  {
-  <i>Wenige Tage</i>: <a class='kom' href='#Ijoh-1-29'>Joh&nbsp;1,29</a>.
+  → biblisches/Orte/Kapernaum
+ }
+ {
+  <i>Wenige Tage</i>: §+joh-1-29.
  }
 #}
 #joh-2-13 {
@@ -60889,6 +60923,11 @@
    <a class='kom' href='#Ijoh-2-23'>Joh&nbsp;2,23</a>.
  }
 #}
+#joh-4-46 {
+ {
+  → biblisches/Orte/Kapernaum
+ }
+#}
 #joh-4-48 {
  {
   <i>Glauben wegen Zeichen</i>: §+joh-2-23
@@ -61050,9 +61089,19 @@
   TODO: <i>Prophet</i>: <a class='kom' href='#Ijoh-1-21'>Joh&nbsp;1,21</a>.
  }
 #}
+#joh-6-17 {
+ {
+  → biblisches/Orte/Kapernaum
+ }
+#}
 #joh-6-20 {
  {
   <i>Ich bin</i> (<span class='gr'>Ἐγώ εἰμι</span>). Siehe auch <a class='kom' href='#Ijoh-6-35'>Vers 35</a>.
+ }
+#}
+#joh-6-24 {
+ {
+  → biblisches/Orte/Kapernaum
  }
 #}
 #joh-6-25 {
@@ -61166,6 +61215,9 @@
  }
 #}
 #joh-6-59 {
+ {
+  → biblisches/Orte/Kapernaum
+ }
  {
   TODO: <a class='kom' href='#Ijoh-6-25'>Vers 25</a>.
  }
