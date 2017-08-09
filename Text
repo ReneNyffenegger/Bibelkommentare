@@ -45100,10 +45100,9 @@
 #}
 #jer-7-34 {
  {
-  TODO: <i>Stimme des Bräutigams und der Braut</i> sollen auch verstummen in <a href='http://bibel.renenyffenegger.ch/jer_16.html#v9'>Jer&nbsp;16,9</a> und
-  <a href='http://bibel.renenyffenegger.ch/jer_25.html#v10'>Jer&nbsp;25,10</a>. In <a href='http://bibel.renenyffenegger.ch/jer_33.html#v11'>Jer&nbsp;33,11</a>
-  soll man sie wieder vernehmen.
-  <br>TODO vgl auch <a href='http://bibel.renenyffenegger.ch/joh_3.html#v29'>Joh&nbsp;3,29</a>, <a href='http://bibel.renenyffenegger.ch/offb_18.html#v23'>Offb&nbsp;18,23</a>.
+  <i>Stimme des Bräutigams und der Braut</i> sollen auch verstummen in §jer-16-9 und §jer-25-10. In §jer-33-11 soll man sie wieder vernehmen.
+  <br>
+   Vgl §joh-3-29, §offb-18-23.
  }
 #}
 @}
@@ -60503,12 +60502,10 @@
 #}
 #joh-2-11 {
  {
-   Das <i>zweite Zeichen</i> (<a href='http://bibel.renenyffenegger.ch/joh_4.html#v54'>Joh&nbsp;4,54</a>) auch in Kana
-   (<a href='http://bibel.renenyffenegger.ch/joh_4.html#v46'>Joh&nbsp;4,46</a>).
-   <br>Beachte, dass Jesus auch in Jerusalem Zeichen macht (<a href='http://bibel.renenyffenegger.ch/joh_2.html#v23'>Joh&nbsp;2,23</a>)
-       und viele Zeichen macht (<a href='http://bibel.renenyffenegger.ch/joh_12.html#v37'>Joh&nbsp;12,37</a>)
-   <br>TODO: Einem böses Geschlecht wurd nur das <i>Zeichen des Jona</i> gegeben werden (<a href='http://bibel.renenyffenegger.ch/mt_12.html#v39'>Mt&nbsp;12,39</a>)
-   <br>Vgl <i>Zeichen</i>: <a class='kom' href='#Imt-12-38'>Mt&nbsp;12,38</a>.
+   Das <i>zweite Zeichen</i> (§joh-4-54) auch in Kana (§joh-4-46). In §joh-4-48 wird der Herr sagen «Wenn ihr nicht Zeichen und Wunder seht».
+   <br>Beachte, dass Jesus auch in Jerusalem Zeichen macht (§joh-2-23) und viele Zeichen macht (§joh-12-37)
+   <br>Einem böses Geschlecht wurd nur das <i>Zeichen des Jona</i> gegeben werden (§mt-12-39)
+   <br>Vgl <i>Zeichen</i>: §+mt-12-38.
  }
  {
   <i>Offenbaren/Offenbar machen</i>: <a class='kom' href='#Imt-11-25'>Mt&nbsp;11,25</a>.
@@ -60684,6 +60681,9 @@
  {
   Dieser Vers beantwortet die Frage von Agur in §spr-30-4.
  }
+ {
+  <i>als nur der aus dem Himmel herabgestiegen ist</i> vgl mit dem Brot Gottes, der der ist, der aus dem Himmel herniederkommt §joh-6-33-ff
+ }
 #}
 #joh-3-14 {
  {
@@ -60729,18 +60729,34 @@
   <i>Johannes im Gefängnis</i>: <a class='kom' href='#Imt-4-12'>Mt&nbsp;4,12</a>.
  }
 #}
+#joh-3-26 {
+ {
+  <i>Alle kommen zu ihm</i> §joh-4-1
+ }
+#}
+#joh-3-27 {
+ {
+  <i>es sei ihm denn aus dem Himmel gegeben</i> vgl §joh-19-11
+ }
+#}
 #joh-3-29 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
  }
  {
-  TODO: <i>Stimme des Bräutigams und der Braut</i>: <a class='kom' href='#Ijer-7-34'>Jer&nbsp;7,34</a>.
-  <br>Vgl <a class='kom' href='#Ijoh-1-23'>Joh&nbsp;1,23</a>.
+  <i>Stimme des Bräutigams und der Braut</i>: §+jer-7-34.
+  <br>
+  Vgl §+joh-1-23.
  }
 #}
 #joh-3-31 {
  {
   Vgl §hebr-12-25
+ }
+#}
+#joh-3-34 {
+ {
+  <i>Gott gibt den Geist nicht nach Mass</i> vgl §+roem-12-3
  }
 #}
 #joh-3-36 {
@@ -60764,6 +60780,9 @@
 #joh-4-1 {
  {
   Beachte <i>Herr</i> vs <i>Jesus</i>.
+ }
+ {
+  Jesus macht mehr Jünger als → biblisches/Personen/Johannes/Täufer[Johannes]: §joh-3-26
  }
  {
   <i>Sichar</i> (<span class='gr'>Συχάρ</span>, Strongs 4965, offenbar hebräischen Ursprungs:
@@ -60872,11 +60891,14 @@
 #}
 #joh-4-48 {
  {
-  <i>Glauben wegen Zeichen</i>: <a class='kom' href='#Ijoh-2-23'>Joh&nbsp;2,23</a>
-  <br>TODO: <a class='kom' href='#Ijoh-1-7'>Joh&nbsp;1,7</a>
+  <i>Glauben wegen Zeichen</i>: §+joh-2-23
+  <br>
+  §+joh-1-7
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder
+  <br>
+   Beachte, dass der Herr in Kana den «Anfang der Zeichen» machte (§joh-2-11)
  }
  {
   Vgl §apg-14-2-3
@@ -61051,6 +61073,11 @@
 #joh-6-31 {
  {
   <i>Brot vom Himmel</i>: → biblisches/Exodus/Nahrung
+ }
+#}
+#joh-6-33 {
+ {
+  <i>Das Brot Gottes aus dem Himmel</i> §joh-3-13  
  }
 #}
 #joh-6-35 {
@@ -62495,6 +62522,11 @@
 #joh-19-10 {
  {
   <i>Richterstuhl</i>: <a class='kom' href='#Imt-27-19'>Mt&nbsp;27,19</a>.
+ }
+#}
+#joh-19-11 {
+ {
+  <i>wenn sie dir nicht von oben gegeben wäre</i> vgl §joh-3-27
  }
 #}
 #joh-19-12 {
@@ -69204,6 +69236,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott
+ }
+#}
+#roem-12-3 {
+ {
+  <i>das Mass des Glaubens zugeteilt</i> §Vroem-12-6. Vgl §joh-3-34 («denn Gott gibt den Geist nicht nach Mass»).
  }
 #}
 #roem-12-4 {
