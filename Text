@@ -52282,14 +52282,14 @@
   TODO: KJV enthält in diesem Vers «public», Elberfelder «öffentlich».
  }
 #}
-#mt-1-20 {
+mt-1-20 {
  {
   Beachte: <i><b>in</b> ihr gezeigt</i>. Sonst steht in diesem Kapitel <i><b>mit</b> Tamar</i>, <i>mit der Rahab</i>, <i>mit der Ruth</i>, <i>mit der Frau des Uria</i>.
  }
 #}
 #mt-1-21 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/ps_130.html#v8'>Ps&nbsp;130,8</a>.
+  Vgl §ps-130-8, §lk-24-21
  }
  {
   <i>Volk</i> (<span class='gr'>λαός</span>, Strongs 2992).
@@ -55804,6 +55804,9 @@
  {
   <i>Reich meines Vaters</i> (hier wohl einzige Erwähnung) vgl <a href='http://bibel.renenyffenegger.ch/mt_13.html#v43'>Mt&nbsp;13,43</a>,
   <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v24'>1.&nbsp;Kor&nbsp;15,24</a>
+ }
+ {
+  In §lk-24-30 bricht Er tatsächlich nur das Brot (ohne den Wein).
  }
 #}
 #mt-26-30 {
@@ -60144,7 +60147,7 @@
 #}
 #lk-24-4 {
  {
-   Vgl die <i>zwei Männer in strahlenden Gewändern</i> mit denen in weissen Kleidung in <a href='http://bibel.renenyffenegger.ch/apg_1.html#v10'>Apg&nbsp;1,10</a>.
+   Vgl die <i>zwei Männer in strahlenden Gewändern</i> mit denen in weisser Kleidung in §apg-1-10.
    <br>Sind es zwei, weil das Gesetz zwei Zeugen verlangt?
   <br>TODO: sind sie <a href='#mose_und_elia'>Mose und Elia</a>.
  }
@@ -60177,6 +60180,9 @@
 #}
 #lk-24-21 {
  {
+  Vgl §mt-1-21
+ }
+ {
   TODO <a class='kom' href='#Ilk-24-7'>Vers 7</a>.
  }
 #}
@@ -60195,11 +60201,16 @@
 #lk-24-30 {
  {
   Beachte: Er bricht das Brot, obwohl er «nur» Gast ist.
+ <br>
+  Er nimmt auch keinen Wein §+mt-26-29.
  }
 #}
 #lk-24-33 {
  {
   <i>Elf</i>: <a class='kom' href='#I1kor-15-5'>1.&nbsp;Kor&nbsp;15,5</a>.
+ }
+ {
+  TODO: <i>die mit ihnen versammelt waren</i> sind wohl die Frauen (z.B. §Vlk-24-10).
  }
 #}
 #lk-24-34 {
@@ -60244,6 +60255,8 @@
  {
   <i>Verheissung des Vaters</i>: <a href='http://bibel.renenyffenegger.ch/apg_1.html#v4'>Apg&nbsp;1,4</a>. Vgl mit
   der 'Verheissung des Heiligen Geistes', die der Herr selbst empfängt (<a class='kom' href='#Iapg-2-33'>Apg&nbsp;2,33</a>)
+  <br>
+   Vgl auch §joh-14-26
  }
  {
   Vgl <i>Verheissung</i> (<span class='gr'>ἐπαγγελία</span>, Strongs 1861)
@@ -62278,6 +62291,11 @@
   'offenbaren' (Strongs 1718): <a class='kom' href='#Imt-27-53'>Mt&nbsp;27,53</a>.
  }
 #}
+#joh-14-26 {
+ {
+  Vgl §lk-24-49
+ }
+#}
 #joh-14-29 {
  {
   <i>damit ihr glaubt</i>: <a class='kom' href='#Ijoh-6-35'>Joh&nbsp;6,35</a>.
@@ -62903,7 +62921,7 @@
 #}
 #apg-1-10 {
  {
-  TODO: <i>zwei Männer in weisser Kleidung</i>: <a class='kom' href='#Ilk-24-4'>Lk&nbsp;24,4</a>.
+  TODO: <i>zwei Männer in weisser Kleidung</i>: §+lk-24-4.
  }
 #}
 #apg-1-11 {
