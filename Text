@@ -51948,7 +51948,7 @@
 #}
 #sach-9-9 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/mt_21.html#v4'>Mt 21,4-5</a>.
+  §mt-21-4-5, §joh-12-15
  }
 #}
 #sach-9-12 {
@@ -52246,7 +52246,7 @@
 #}
 #mt-1-6 {
  {
-  <i>David</i> ist der einzige König, der hier auch 'König' genannt wird.
+  → biblisches/Personen/David ist der einzige König, der hier auch <i>König</i> genannt wird.
  }
 #}
 #mt-1-7 {
@@ -52286,10 +52286,16 @@
  {
   Beachte: <i><b>in</b> ihr gezeigt</i>. Sonst steht in diesem Kapitel <i><b>mit</b> Tamar</i>, <i>mit der Rahab</i>, <i>mit der Ruth</i>, <i>mit der Frau des Uria</i>.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Herrn
+ }
 #}
 #mt-1-21 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/ps_130.html#v8'>Ps&nbsp;130,8</a>.
+  <i>Du sollst seinen Namen Jesus heissen</i> §lk-1-31, §Vmt-1-25
+ }
+ {
+  Vgl §ps-130-8
  }
  {
   <i>Volk</i> (<span class='gr'>λαός</span>, Strongs 2992).
@@ -52455,7 +52461,10 @@
 #}
 #mt-2-23 {
  {
-  'liess sich nieder' vgl <a class='kom' href='#Imt-4-13'>Mt&nbsp;4,13</a>.
+   → biblisches/Orte/Nazareth
+ }
+ {
+  <i>wohnte</i> in Sch2K mit «liess sich nieder» übersetzt. vgl §+mt-4-13.
  }
 #}
 @}
@@ -52563,6 +52572,9 @@
  {
   Hier könnte der Herr aus <i>Steinen Kindern erwecken</i>, in <a href='http://bibel.renenyffenegger.ch/mt_4.html#v3'>Mt 4,3 ff</a> lehnt er es ab,
   aus <i>Steinen Brot zu machen</i>.
+ }
+ {
+  → biblisches/Personen/Abraham/Same#abraham-vater
  }
 #}
 #mt-3-10 {
@@ -52701,12 +52713,12 @@
 #mt-4-12 {
  {
    <i>Johannes im Gefängnis</i>
-   <br>Nachdem Johannes gefangengenommen worden war, verkündigt Jesus das Evangelium vom Reich Gotes in Galiläa (<a href='http://bibel.renenyffenegger.ch/mk_1.html#v14'>Mk&nbsp;1,14</a>).
-   <br>Er wurde offenbar während der 40 tägigen Versuchung Jesu oder vor dem Beginn der Verkündigung des Evangeliums zwischen (<a href='http://bibel.renenyffenegger.ch/mk_1.html#v10'>Mk&nbsp;1,10</a> und Mk 1,14)
+   <br>Nachdem Johannes gefangengenommen worden war, verkündigt Jesus das Evangelium vom Reich Gotes in Galiläa (§mk-1-14).
+   <br>Er wurde offenbar während der 40 tägigen Versuchung Jesu oder vor dem Beginn der Verkündigung des Evangeliums zwischen (§mk-1-10-14)
        gefangengesetzt. (Ebenso auch in Versen hier und vorher.)
-    <br>Johannes und Lukas scheinen nicht über Johannes' Gefangennahme zu schreiben: <a href='http://bibel.renenyffenegger.ch/lk_4.html#v14'>Lk&nbsp;4,14</a>, <a class='kom' href='#Ijoh-3-24'>Joh&nbsp;3,24</a>.
-    <br>Johannes hört im Gefängnis von den Werken des Christus (<a href='http://bibel.renenyffenegger.ch/mt_11.html#v2'>Mt&nbsp;11,2</a>)
-    <br>TODO: Vgl <a class='kom' href='#Imk-1-4'>Mk&nbsp;1,4</a>
+    <br>Johannes und Lukas scheinen nicht über Johannes' Gefangennahme zu schreiben: §lk-4-14, §+joh-3-24.
+    <br>Johannes hört im Gefängnis von den Werken des Christus (§mt-11-2)
+    <br>TODO: Vgl §+mk-1-4
  }
  {
   <i>Gefangensetzen</i> (<span class='gr'>παραδίδωμι</span>, Strongs 3860 , abgeleitet(?) von <span class='gr'>δίδωμι</span>, Strongs 1325), übersetzt
@@ -52728,11 +52740,11 @@
 #}
 #mt-4-13 {
  {
-  <i>liess sich nieder</i> ist im Griechischen <span class='gr'>κατοικέω</span> (Strongs 2730), wie auch in §mt-2-23.
-  An anderer Stelle wird dieses Wort mit 'wohnen' übersetzt, zB in §apg-1-20 oder §kol-1-19.
+  <i>wohnen</i> ist im Griechischen <span class='gr'>κατοικέω</span> (Strongs 2730), wie auch in §mt-2-23 und wird in Sch2K mit «liess sich nieder» übersetzt.
+  An anderer Stelle wird dieses Wort auch in Sch2K mit »wohnen« übersetzt, zB in §apg-1-20 oder §kol-1-19.
  }
  {
-   → biblisches/Orte/Kapernaum
+   → biblisches/Orte/Kapernaum, → biblisches/Orte/Nazareth
  }
 #}
 #mt-4-15 {
@@ -52750,7 +52762,9 @@
 #}
 #mt-4-17 {
  {
-  <i>Tut Busse...das Reich der Himmel ist nahe herbeigekommen</i> : <a class='kom' href='#Imt-3-2'>Mt&nbsp;3,2</a>.
+  <i>Tut Busse...das Reich der Himmel ist nahe herbeigekommen</i> : §+mt-3-2, §
+  <br>
+   Beachte: Er ist nicht gekommen, Gerechte zu rufen, sondern Sünder zur Busse §lk-5-32
  }
 #}
 #mt-4-18 {
@@ -53278,6 +53292,11 @@
   das Reich Gottes verkündigen.
  }
 #}
+#mt-8-22 {
+ {
+  §lk-9-60 ergänzt: »…du aber gehe hin und verkündige das → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Reich[Reich Gottes]«.
+ }
+#}
 #mt-8-23 {
  {
   Beachte: die Jünger folgen ihm, ohne dass sie sagen, sie wollten folgen. Bis hier wurden die Jünger auch kaum in Matthäus erwähnt.
@@ -53383,6 +53402,9 @@
  }
 #}
 #mt-9-14 {
+ {
+   <i>Warum fasten wir</i> vgl §mt-11-18, §mk-2-18 
+ }
  {
   TODO: Es scheint kein Gesetz von Mose zu geben, das das Fasten regelt.
  }
@@ -53739,6 +53761,11 @@
   <i>Kreuz auf sich nehmen</i>: <a href='http://bibel.renenyffenegger.ch/mt_16.html#v24'>Mt&nbsp;16,24</a>.
  }
 #}
+#mt-10-42 {
+ {
+  Vgl §mt-25-34-40
+ }
+#}
 @}
 }
 { 11-20
@@ -53830,6 +53857,11 @@
   <br>Vgl auch mit <a class='kom' href='#I2mo-24-7'>2.&nbsp;Mo&nbsp;24,7</a>.
  }
 #}
+#mt-11-18 {
+ {
+   <i>der weder ass noch trank</i> vgl §mt-9-14 
+ }
+#}
 #mt-11-19 {
  {
   <i>Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Freund der Zöllner und Sünder</i> §lk-7-34
@@ -53887,6 +53919,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+ }
+#}
+#mt-11-29 {
+ {
+  <i>sanftmütig</i> §mt-21-5
  }
 #}
 #mt-11-30 {
@@ -54008,6 +54045,11 @@
  }
  {
   <i>Dieser treibt die Dämonen nicht anders aus, als durch den Beelzebub, den Obersten der Dämonen.</i> vgl §mt-9-34
+ }
+#}
+#mt-12-28 {
+ {
+  oder: durch den Finger Gottes §lk-11-20
  }
 #}
 #mt-12-29 {
@@ -55015,14 +55057,15 @@
   <i>Zwei Jünger</i>: <a class='kom' href='#Imt-11-2'>Mt&nbsp;11,2</a>.
  }
 #}
-#mt-21-4 {
- {
-  Vgl <a class='kom' href='#Isach-9-9'>Sach&nbsp;9,9</a>.
- }
-#}
 #mt-21-5 {
  {
+  §+sach-9-9
+ }
+ {
   <i>Tochter Zion</i>: vgl <a href='http://bibel.renenyffenegger.ch/joh_12.html#v15'>Joh&nbsp;12,15</a>.
+ }
+ {
+  <i>sanftmütig</i> §mt-11-29, §+Vmt-21-12.
  }
 #}
 #mt-21-9 {
@@ -55045,12 +55088,18 @@
 #}
 #mt-21-11 {
  {
-  <i>Prophet</i>: vgl Vers 46.
+  → biblisches/Orte/Nazareth
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet: vgl §Vmt-21-46
  }
 #}
 #mt-21-12 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
+  Beachte, diese Handlung verträgt sich mit Seiner Sanftmut (§Vmt-21-5).
  }
 #}
 #mt-21-13 {
@@ -55438,6 +55487,11 @@
   Vgl <i>Winter</i> mit «Sommer» in <a href='http://bibel.renenyffenegger.ch/mt_24.html#v32'>Vers 32</a>.
  }
 #}
+#mt-24-23 {
+ {
+  <i>so glaubt nicht</i> vgl §Vmt-24-26, §lk-18-8.
+ }
+#}
 #mt-24-24 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder, vgl §2thes-2-9
@@ -55559,7 +55613,7 @@
 #}
 #mt-24-36 {
  {
-  Vgl <a class='kom' href='#Imk-13-32'>Mk&nbsp;13,32</a>.
+  <i>Von jenem Tag aber und jener Stunde weiss niemand</i> §mk-13-32, §V24-42, §mt-25-13
  }
  {
   <span class='gt'>NA enthält zusätzlich: «auch nicht der Sohn»</span>
@@ -55622,6 +55676,11 @@
    TODO: vgl <i>kenne</i> (<span class='gr'>εἴδω</span>, Strongs 1492) mit <a class='kom' href='#Imt-7-23'>Mt&nbsp;7,23</a>.
  }
 #}
+#mt-25-13 {
+ {
+  <i>Ihr wisst weder den Tag noch die Stunde</i> §mt-24-36, §mt-24-42
+ }
+#}
 #mt-25-30 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen[Zähneknirschen]
@@ -55653,6 +55712,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Grundlegung[Von Grundlegung der Welt an]
+ }
+#}
+#mt-25-40 {
+ {
+  Vgl §mt-10-42
  }
 #}
 #mt-25-41 {
@@ -56285,7 +56349,10 @@
 #}
 #mk-1-9 {
  {
-   Jesu Dienst beginnt in Galiläa: §apg-10-37
+  → biblisches/Orte/Nazareth
+ }
+ {
+   Jesu Dienst beginnt in → biblisches/Orte/Galiläa: §apg-10-37
  }
 #}
 #mk-1-10 {
@@ -56304,6 +56371,9 @@
  }
 #}
 #mk-1-14 {
+ {
+  §mt-4-12
+ }
  {
   Elberfelder üsetzt <i>gefangengenommen</i> mit 'überliefert'.
  }
@@ -56386,6 +56456,11 @@
 #mk-2-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
+ }
+#}
+#mk-2-18 {
+ {
+  §mt-9-14
  }
 #}
 #mk-2-19 {
@@ -57347,7 +57422,7 @@
 #}
 #mk-13-32 {
  {
-  Vgl <a class='kom' href='#Imt-24-36'>Mt&nbsp;24,36</a>.
+   <i>Von jenem Tag aber oder der Stunde weiss niemand</i>: §+mt-24-36.
  }
 #}
 @}
@@ -57761,7 +57836,7 @@
 #}
 #lk-1-11 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar, → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Herrn
  }
 #}
 #lk-1-12 {
@@ -57796,7 +57871,10 @@
 #}
 #lk-1-26 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Gabriel
+  → biblisches/Orte/Nazareth, → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Gabriel
+ }
+ {
+  Vgl mit dem 
  }
 #}
 #lk-1-27 {
@@ -57810,6 +57888,11 @@
  }
  {
    <span class='gt'>In NA fehlt: «gesegnet bist du unter den Frauen»</span>
+ }
+#}
+#lk-1-31 {
+ {
+  <i>du sollst seinen Namen Jesus heissen</i> §mt-1-21
  }
 #}
 #lk-1-33 {
@@ -57898,6 +57981,9 @@
  }
 #}
 #lk-2-4 {
+ {
+  → biblisches/Orte/Nazareth
+ }
  {
   <i>Geschlecht</i> (<span class='gr'>πατριά</span>, Strongs 3965, 3x) kommt auch noch vor in <a href='http://bibel.renenyffenegger.ch/apg_3.html#v25'>Apg&nbsp;3,25</a>
   und <a class='kom' href='#Ieph-3-15'>Eph&nbsp;3,15</a>.
@@ -58014,6 +58100,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
+#lk-2-39 {
+ {
+  → biblisches/Orte/Nazareth
+ }
+#}
 #lk-2-40 {
  {
   <i>Das Kindlein … erstarkte</i> vgl §jes-9-5
@@ -58040,6 +58131,9 @@
  }
 #}
 #lk-2-51 {
+ {
+  → biblisches/Orte/Nazareth
+ }
  {
   <a class='kom' href='#Ilk-2-19'>Lk&nbsp;2,19</a>.
  }
@@ -58248,6 +58342,9 @@
 #}
 #lk-4-16 {
  {
+  → biblisches/Orte/Nazareth
+ }
+ {
   Beachte, hier steht Er auf. Häufig setzt Er sich zum Lehren. Vgl <a class='kom' href='#Imt-5-1'>Mt&nbsp;5,1</a>.
  }
  {
@@ -58394,6 +58491,11 @@
 #lk-5-26 {
  {
   <i>Staunen</i>: <a class='kom' href='#Imk-5-42'>Mk&nbsp;5,42</a>.
+ }
+#}
+#lk-5-32 {
+ {
+  <i>Sünder zur Busse rufen</i>: §+mt-4-17
  }
 #}
 #lk-5-33 {
@@ -58905,6 +59007,11 @@
   Vgl <a class='kom' href='#Imt-8-21'>Mt&nbsp;8,21</a>.
  }
 #}
+#lk-9-60 {
+ {
+  §+mt-8-22
+ }
+#}
 #lk-9-61 {
  {
   Dieser andere fehlt in der Parallelstelle von <a href='http://bibel.renenyffenegger.ch/mt_8.html#v19'>Mt 8,19-22</a>.
@@ -59024,6 +59131,9 @@
  }
 #}
 #lk-11-20 {
+ {
+  oder: durch den Geist Gottes §mt-12-28
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Finger/Gottes
  }
@@ -59490,6 +59600,11 @@
 #lk-18-1 {
  {
   <i>Gleichnisse in den Evangelien</i>: <a class='kom' href='#Imt-13-3'>Mt&nbsp;13,3</a>.
+ }
+#}
+#lk-18-8 {
+ {
+  <i>Wird Er … den Glauben finden?</i> vgl §+mt-24-23.
  }
 #}
 #lk-18-10 {
@@ -60521,10 +60636,16 @@
 #}
 #joh-1-45 {
  {
+  → biblisches/Orte/Nazareth
+ }
+ {
   <i>Sohn Josephs</i>: <a href='http://bibel.renenyffenegger.ch/joh_6.html#v42'>Joh&nbsp;6,42</a>
  }
 #}
 #joh-1-46 {
+ {
+  → biblisches/Orte/Nazareth
+ }
  {
   <i>Komm und sieh</i>: §+joh-11-34.  Vgl §offb-6-1-7, §joh-1-39
  }
@@ -61917,7 +62038,7 @@
 #}
 #joh-12-15 {
  {
-  <i>Tochter Zion</i>: <a class='kom' href='#Imt-21-5'>Mt&nbsp;21,5</a>.
+  §+sach-9-9, §mt-21-5
  }
 #}
 #joh-12-21 {
@@ -64929,6 +65050,9 @@
  }
 #}
 #apg-10-38 {
+ {
+  → biblisches/Orte/Nazareth
+ }
  {
   <i>gesalbt</i>: <a class='kom' href='#Ilk-4-18'>Lk&nbsp;4,18</a>.
  }
@@ -68449,7 +68573,7 @@
 @Römer 4 {
 #roem-4-1 {
  {
-  <i>Abraham, unser Vater</i> nach dem Fleisch. Ein Vater aller unbeschnittenen Gläubigen und der Beschnittenen (<a href='http://bibel.renenyffenegger.ch/roem_4.html#v11'>Verse 11-12</a>).
+  → biblisches/Personen/Abraham/Same#abraham-vater[Abraham, unser Vater] nach dem Fleisch. Ein Vater aller unbeschnittenen Gläubigen und der Beschnittenen (<a href='http://bibel.renenyffenegger.ch/roem_4.html#v11'>Verse 11-12</a>).
   <br>Die aus Glauben sind, diese sind Abrahams Kinder: <a href='http://bibel.renenyffenegger.ch/gal_3.html#v7'>Gal&nbsp;3,7</a>.
   <br>Vgl <a href='http://bibel.renenyffenegger.ch/hebr_2.html#v16'>Hebr&nbsp;2,16</a>.
   <br><a href='http://bibel.renenyffenegger.ch/jak_2.html#v21'>Jak&nbsp;2,21</a>.
