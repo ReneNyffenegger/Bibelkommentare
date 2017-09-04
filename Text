@@ -41346,7 +41346,7 @@
 @Prediger 3 {
 #pred-3-11 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes, vgl §pred-8-17
  }
 #}
 #pred-3-14 {
@@ -41389,6 +41389,11 @@
   Vgl §hi-1-21, §1tim-6-7
  }
 #}
+#pred-5-18 {
+ {
+  Vgl §pred-6-1-ff
+ }
+#}
 @}
 @Prediger 6 {
 #pred-6-3 {
@@ -41396,6 +41401,11 @@
    <i>Fehlgeburt</i> in der LXX: <span class='gr'>ἔκτρωμα</span> (das in <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v8'>1.&nbsp;Kor&nbsp;15,8</a> mit
    «unzeitige Geburt» übersetzt wird).
    <br>TODO: Ebenso in <a href='http://bibel.renenyffenegger.ch/hi_3.html#v16'>Hi&nbsp;3,16</a> und <a href='http://bibel.renenyffenegger.ch/ps_58.html#v9'>Ps&nbsp;58,9</a>?
+ }
+#}
+#pred-6-8 {
+ {
+  <i>Arme</i>: in Sch2K mit «Demütige» übersetzt.
  }
 #}
 @}
@@ -41428,7 +41438,7 @@
 @Prediger 8 {
 #pred-8-17 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes 
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes, vgl §pred-3-11
  }
 #}
 @}
@@ -52282,7 +52292,7 @@
   TODO: KJV enthält in diesem Vers «public», Elberfelder «öffentlich».
  }
 #}
-mt-1-20 {
+#mt-1-20 {
  {
   Beachte: <i><b>in</b> ihr gezeigt</i>. Sonst steht in diesem Kapitel <i><b>mit</b> Tamar</i>, <i>mit der Rahab</i>, <i>mit der Ruth</i>, <i>mit der Frau des Uria</i>.
  }
