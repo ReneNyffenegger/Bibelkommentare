@@ -1643,7 +1643,7 @@
   <i>Saat</i>: <span class='hebr'>שְׁאוֹל</span> (Strongs 2233), sonst häufig mit «Samen» übersetzt.
  }
  {
-  <i>Sommer</i> und <i>Winter</i>: vgl <a href='http://bibel.renenyffenegger.ch/ps_74.html#v17'>Ps&nbsp;74,17</a>.
+  <i>Sommer</i> und <i>Winter</i>: vgl §ps-74-17.
  }
 #}
 @}
@@ -6230,6 +6230,11 @@
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/2mo_8.html#v22'>2.&nbsp;Mo&nbsp;8,22</a>.
  }
 #}
+#1mo-43-34 {
+ {
+  Benjamins Ehrengericht ist <i>fünfmal Grösser</i> vgl §1mo-45-22.
+ }
+#}
 @}
 @1. Mose 44 {
 #1mo-44-9 {
@@ -6291,6 +6296,11 @@
 #1mo-45-17 {
  {
   Hier: Der Pharao lässt Jakob zu sich kommen, in <a class='kom' href='#Iapg-7-14'>Apg 7 14</a> ist es Joseph. Hier 70 Seelen, dort 75 Seelen.
+ }
+#}
+#1mo-45-22 {
+ {
+   Benjamin erhält <i>fünf Wecselkleider</i> vgl §1mo-43-34.
  }
 #}
 @}
@@ -10294,6 +10304,13 @@
    Weitere Vorkommen dieses Leibrockes: §2mo-39-27, §3mo-8-7-ff, §3mo-16-4.
  }
 #}
+#2mo-28-5 {
+ {
+  <i>Byssus</i> evtl. besser mit Leinen oder Leinwand übersetzt? Vgl
+  <i>Feine Leinwand</i> als → biblisches/Lehre/Bilder-im-Alten-Testament#feine-leinwand[Bild] für → biblisches/Eigene-Uebersetzung/Konkordanz/Gerechtigkeit.
+
+ }
+#}
 #2mo-28-6 {
  {
   TODO: Samuel war mit einem <i>leinenen Ephod</i> bekleidet (<a href='http://bibel.renenyffenegger.ch/1sam_2.html#v18'>1.&nbsp;Sam&nbsp;2,18</a>).
@@ -12004,7 +12021,10 @@
 #}
 #3mo-2-13 {
  {
-  <i>Salz des Bundes</i> siehe <a class='kom' href='#I4mo-18-19'>4.&nbsp;Mo&nbsp;18,19</a>.
+  <i>Bei allen Opfergaben sollst du Salz darbringen</i> vgl §mk-9-49.
+ }
+ {
+  <i>Salz des Bundes</i> siehe §+4mo-18-19.
  }
 #}
 #3mo-2-15 {
@@ -36984,6 +37004,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes
  }
 #}
+#ps-33-6 {
+ {
+  durch des HERRN Wort sind die Himmel gemacht: vgl §joh-1-3, §hebr-11-3
+ }
+#}
 #ps-33-7 {
  {
   TODO: «tiefe» statt <i>Fluten</i>?
@@ -37957,7 +37982,7 @@
 #}
 #ps-74-17 {
  {
-  <i>Sommer</i> und <i>Winter</i>: <a class='kom' href='#I1mo-8-22'>1.&nbsp;Mo&nbsp;8,22</a>.
+  <i>Sommer</i> und <i>Winter</i>: §+1mo-8-22.
  }
 #}
 @}
@@ -40148,9 +40173,7 @@
 #}
 #spr-6-8 {
  {
-   <i>Sommer</i> und <i>Ernte</i>:
-     Vgl <a href='http://bibel.renenyffenegger.ch/spr_10.html#v5'>Spr&nbsp;10,5</a>,
-     <a href='http://bibel.renenyffenegger.ch/spr_26.html#v1'>Spr&nbsp;26,1</a>.
+   <i>Sommer</i> und <i>Ernte</i>: Vgl §spr-10-5, §spr-26-1.
  }
  {
   <i>Ameisen bereiten im Sommer ihr Brot</i>: vgl <a href='http://bibel.renenyffenegger.ch/spr_30.html#v25'>Spr&nbsp;30,25</a>.
@@ -40320,7 +40343,7 @@
 #}
 #spr-10-5 {
  {
-  <i>Sommer</i> und <i>Ernte</i>: Vgl <a class='kom' href='#Ispr-6-8'>Spr&nbsp;6,8</a>.
+   <i>Sommer</i> und <i>Ernte</i>: Vgl §+spr-6-8.
  }
 #}
 #spr-10-11 {
@@ -41087,7 +41110,7 @@
 @Sprüche 26 {
 #spr-26-1 {
  {
-  <i>Sommer</i> und <i>Ernte</i>: Vgl <a class='kom' href='#Ispr-6-8'>Spr&nbsp;6,8</a>.
+  <i>Sommer</i> und <i>Ernte</i>: Vgl §+spr-6-8.
  }
 #}
 #spr-26-13 {
@@ -50915,6 +50938,12 @@
 #}
 @}
 @Amos 8 {
+#am-8-1 {
+ {
+  <i>reifes Obst</i>: <span class='hebr'>קָֽיִץ</span> (Strongs 7019). Das Wort kann offenbar auch mit «Sommer» übersetzt werden (z. B. §am-3-15). Entsprechend wird
+  in der KJV das Wort mit «summer fruit» übersetzt. Vgl mit <i>Ende</i> in §Vam-8-2: <span class='hebr'>קֵץ</span> (Strongs 7093).
+ }
+#}
 #am-8-3 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche
@@ -52906,6 +52935,11 @@
 #mt-5-11 {
  {
   Beachte den Wechsel von 'die' auf 'euch'.
+ }
+#}
+#mt-5-13 {
+ {
+  <i>Kraftloses Salz</i> vgl §mk-9-50, §lk-14-34.
  }
 #}
 #mt-5-14 {
@@ -57104,7 +57138,15 @@
 #}
 #mk-9-49 {
  {
+   <i>Jedes Schlachtopfer wird mit Salz gesalzen werden</i> vgl §3mo-2-13.セ 
+ }
+ {
    <span class='gt'>In NA fehlt «und jedes Schlachtopfer wird mit Salz gesalzen werden.»</span>
+ }
+#}
+#mk-9-50 {
+ {
+  <i>Unsalziges Salz</i> vgl セmt-5-13, §lk-14-34
  }
 #}
 @}
@@ -59457,6 +59499,11 @@
    <i>berechnen</i>: <span class='gr'>ψηφίζω</span> (Strongs 5585, 2x), das andere Vorkommen in <a href='http://bibel.renenyffenegger.ch/offb_13.html#v18'>Offb&nbsp;13,18</a>.
  }
 #}
+#lk-14-34 {
+ {
+  <i>Kraftloses Salz</i> vgl §mt-5-13, §mk-9-50.
+ }
+#}
 #lk-14-35 {
  {
   Beachte: im nächsten Vers (<a href='http://bibel.renenyffenegger.ch/lk_15.html#v1'>Lk&nbsp;15,1</a>) sind es dann die Zöllner und Sünder, die
@@ -60431,6 +60478,11 @@
 #joh-1-1 {
  {
   <i>Wort</i>: <a class='kom' href='#I1mo-1-3'>1.&nbsp;Mo&nbsp;1,3</a>.
+ }
+#}
+#joh-1-3 {
+ {
+  Alles wurde durch dasselbe (das Wort): vgl §ps-33-6, §hebr-11-3
  }
 #}
 #joh-1-5 {
@@ -67348,6 +67400,11 @@
  }
  {
    TODO Vgl <a class='kom' href='#Iapg-20-22'>Apg&nbsp;20,22</a>.
+ }
+#}
+#apg-21-37 {
+ {
+  <i>Verstehst du Griechisch</i> vgl §Vapg-21-40 (in hebräischer Mundart).
  }
 #}
 #apg-21-40 {
@@ -74853,7 +74910,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-5-26 {
  {
-  §tit-3-5
+  Wasser als → biblisches/Lehre/Bilder-im-Alten-Testament#wasser-waschung[Bild] auf Reinigung. Vgl §tit-3-5
  }
 #}
 #eph-5-27 {
@@ -75979,6 +76036,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #kol-2-16 {
  {
   Vgl <a class='kom' href='#Iroem-14-5'>Röm&nbsp;14,5</a> und §gal-4-10-ff.
+ }
+#}
+#kol-2-17 {
+ {
+  <i>Schatten der zukünftigen Dinge</i> vgl §+hebr-8-5, §hebr-10-1.
  }
 #}
 #kol-2-18 {
@@ -79166,10 +79228,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    Vgl mit <i>Wasser und Geist</i> in §joh-3-5.
  }
  {
-   §eph-5-26
+   <i>Waschung</i> als → biblisches/Lehre/Bilder-im-Alten-Testament#wasser-waschung[Bild] auf die Wiedergeburt. Vgl. §eph-5-26
  }
  {
-  TODO: <i>Wiedergeburt</i>: <a class='kom' href='#Ijoh-3-3'>Joh&nbsp;3,3</a>.
+  TODO: <i>Wiedergeburt</i>: §+joh-3-3.
  }
 #}
 #tit-3-7 {
@@ -80066,10 +80128,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>… das dir auf dem Berg gezeigt worden ist</i> §2mo-25-40, §2mo-26-30, §2mo-27-8, §apg-7-44
  }
  {
+  <i>Abbild und Schatten der himmlischen Dinge</i>: vgl §hebr-10-1, §kol-2-17.
+  <br>
   <i>Abbild</i>: <span class='gr'>τύπος</span>, Strongs 5179.
- }
- {
-  <i>Schatten</i>: vgl <a href='http://bibel.renenyffenegger.ch/hebr_10.html#v1'>Hebr&nbsp;10,1</a>.
  }
  {
    <i>Siehe</i> in Sch2K übersetzt mit «Achte darauf».
@@ -80315,11 +80376,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Hebräer 10 {
 #hebr-10-1 {
  {
-  <i>Vollendung</i>: <a class='kom' href='#Ihebr-2-10'>Hebr&nbsp;2,10</a>,
-  <a href='http://bibel.renenyffenegger.ch/hebr_10.html#v14'>Hebr&nbsp;10,14</a>.
+  <i>Vollendung</i>: §+hebr-2-10, §hebr-10-14.
  }
  {
-  <i>Schatten</i>: <a class='kom' href='#Ihebr-8-5'>Hebr&nbsp;8,5</a>.
+  <i>Schatten der zukünftigen Güter</i> vgl §+hebr-8-5, §kol-2-17.
  }
  {
   TODO <i>Gestalt</i>: Elberfelder übersetzt mit «Ebenbild», KJV mit «image».
@@ -80506,6 +80566,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-11-3 {
  {
    Vgl §2kor-4-18.
+ }
+ {
+  dass die Welten durch Gottes Wort bereitet sind: vgl §joh-1-3, §ps-33-6 
  }
 #}
 #hebr-11-4 {
@@ -83837,16 +83900,16 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Philadelphia</i> (<span class='gr'>Φιλαδέλφεια</span>, Strongs 5359): <a class='kom' href='#Iroem-12-10'>Röm&nbsp;12,10</a>.
  }
  {
-   <i>Ich bin der Erste und der Letzte</i>:
-  <a href='http://bibel.renenyffenegger.ch/jes_41.html#v4'>Jes&nbsp;41,4</a>,
-   <a href='http://bibel.renenyffenegger.ch/jes_44.html#v6'>Jes&nbsp;44,6</a>,
-   <a href='http://bibel.renenyffenegger.ch/jes_48.html#v12'>Jes&nbsp;48,12</a>.
+   <i>Ich bin der Erste und der Letzte</i>: §jes-41-4, §jes-44-6, §jes-48-12.
  }
  {
   TODO <i>Ein Buch</i>, nicht <i>sieben Briefe</i>: <a class='kom' href='#Ioffb-2-1'>Offb&nbsp;2,1</a>.
  }
  {
   <span class='u'>Laodizea wurde angeblich 60-62 n.Chr. zerstört. Das würde anzeigen, dass die Offenbarung vorher geschrieben wurde</span>.
+ }
+ {
+  <i>Ich bin das A und das O</i> vgl §offb-22-13
  }
  {
   <span class='gt'>NA und MT lassen «Ich bin das A und das O, der Erste und der Letzte!» und «die in Asia sind» weg</span>.
@@ -86718,6 +86781,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-19-8 {
  {
+  Feine Leinwand als → biblisches/Lehre/Bilder-im-Alten-Testament#feine-leinwand[Bild] für → biblisches/Eigene-Uebersetzung/Konkordanz/Gerechtigkeit.
+ }
+ {
   TODO: wörtl. wohl «gerechte Taten».
  }
 #}
@@ -87193,7 +87259,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-22-13 {
  {
-  <i>Ich bin das A und das O, der Anfang und das Ende</i>: <a class='kom' href='#Ioffb-1-8'>Offb&nbsp;1,8</a>.
+  <i>Ich bin das A und das O, der Anfang und das Ende</i>: §+offb-1-8, §+offb-1-11
  }
 #}
 #offb-22-14 {
