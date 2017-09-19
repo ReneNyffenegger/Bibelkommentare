@@ -39484,13 +39484,18 @@
 @Psalm 120 {
 #ps-120-1 {
  {
-   <i>Wallfahrtslied</i>: alle (?) Psalmen bis Psalm 134. In Elberfelder übersetzt mit «Stufenlied».
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
  }
 #}
 @}
 }
 { 121-130
 @Psalm 121 {
+#ps-121-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
+ }
+#}
 #ps-121-2 {
  {
   §ps-124-8, §ps-146-5-6, → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde
@@ -39505,20 +39510,56 @@
 #}
 @}
 @Psalm 122 {
+#ps-122-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
+ }
+#}
 #ps-122-5 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/mt_19.html#v28'>Mt&nbsp;19,28</a>.
  }
 #}
 @}
+@Psalm 123 {
+#ps-123-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
+ }
+#}
+@}
 @Psalm 124 {
+#ps-124-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
+ }
+#}
 #ps-124-8 {
  {
   §+ps-121-2
  }
 #}
 @}
+@Psalm 125 {
+#ps-125-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
+ }
+#}
+@}
+@Psalm 126 {
+#ps-126-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
+ }
+#}
+@}
 @Psalm 127 {
+#ps-127-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
+ }
+#}
 #ps-127-5 {
  {
   <i>Wohl dem</i>: <a class='kom' href='#Ips-1-1'>Ps&nbsp;1,1</a>.
@@ -39528,11 +39569,26 @@
 @Psalm 128 {
 #ps-128-1 {
  {
-  <i>Wohl dem</i>: <a class='kom' href='#Ips-1-1'>Ps&nbsp;1,1</a>.
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
+ }
+ {
+  <i>Wohl dem</i>: §+ps-1-1.
+ }
+#}
+@}
+@Psalm 129 {
+#ps-129-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
  }
 #}
 @}
 @Psalm 130 {
+#ps-130-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
+ }
+#}
 #ps-130-3 {
  {
   <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>.
@@ -39551,7 +39607,19 @@
 @}
 }
 { 131-140
+@Psalm 131 {
+#ps-131-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
+ }
+#}
+@}
 @Psalm 132 {
+#ps-132-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
+ }
+#}
 #ps-132-8 {
  {
   Sch2K übersetzt mit »Mache dich auf, o HERR, zu deiner Ruhestätte …« vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#lade-ruheplatz
@@ -39564,9 +39632,21 @@
 #}
 @}
 @Psalm 133 {
+#ps-133-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied] 
+ }
+#}
 #ps-133-2 {
  {
   TODO: <i>Kleider</i>: Strongs 4060.
+ }
+#}
+@}
+@Psalm 134 {
+#ps-134-1 {
+ {
+  → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied] 
  }
 #}
 @}
@@ -79747,8 +79827,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-4-9 {
  {
-  Sabbat heisst doch schon 'Ruhe'? Das Griechische Wort, das mit 'Sabbatruhe' übersetzt wird, ist
-  <span class='gr'>σαββατισμός</span> (und hier ist dieses Wortes einzige Vorkommen im Neuen Testament).
+  <i>Sabbatruhe</i>: <span class='gr'>σαββατισμός</span> (1x).
+  Sabbat heisst doch schon «Ruhe»?
  }
 #}
 #hebr-4-11 {
