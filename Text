@@ -17977,6 +17977,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Zehn-Worte
  }
 #}
+#5mo-4-15 {
+ {
+  <i>Ihr habt keinerlei Gestalt gesehen</i> vgl §joh-5-37
+ }
+#}
 #5mo-4-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Bild/Tier
@@ -53519,6 +53524,11 @@
   Vgl <i>mein Sohn</i> mit «meine Tochter» in Vers 22.
  }
 #}
+#mt-9-6 {
+ {
+  <i>nimm dein Bett auf ung geh nach deinem Haus</i> vgl §joh-5-8
+ }
+#}
 #mt-9-8 {
  {
   TODO <i>sich verwundern</i>: <a class='kom' href='#Imt-8-10'>Mt&nbsp;8,10</a>
@@ -61301,6 +61311,11 @@
   <a href='http://bibel.renenyffenegger.ch/joh_16.html#v16'>Joh 16,16-19</a>
  }
 #}
+#joh-5-8 {
+ {
+  <i>Nimm dein Bett und wandle</i> vgl §mt-9-6
+ }
+#}
 #joh-5-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
@@ -61382,7 +61397,7 @@
 #}
 #joh-5-37 {
  {
-  <i>Gott sehen</i>: <a class='kom' href='#Ijoh-1-18'>Joh&nbsp;1,18</a>.
+  <i>Seine Gestalt nicht sehen</i>: §+joh-1-18, §5mo-4-15.
  }
 #}
 #joh-5-39 {
@@ -65255,6 +65270,11 @@
  }
  {
   TODO <i>bezeugen</i> vgl <a class='kom' href='#Iapg-20-21'>Apg&nbsp;20,21</a>.
+ }
+#}
+#apg-10-43 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
  }
 #}
 #apg-10-44 {
