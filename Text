@@ -331,7 +331,8 @@
        <br>TODO: Beachte, wie häufig das Wort mit 'bestimmte Zeit' übersetzt wird.
  }
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/index#zeichen-am-himmel
+
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen (<span class='hebr'>אוֹת</span>, Strongs 226) auch in
@@ -18638,7 +18639,7 @@
  {
   Vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], der Lüge lehrt: §jes-9-14 und die Lügen im Namen des HERRN weissagen: §jer-14-14.
         <br>
-         Vgl auch mit §mt-24-24: Denn es werden … falsche Propheten aufstehen und werden große → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/index#zeichen-am-himmel[Zeichen und Wunder] tun …
+         Vgl auch mit §mt-24-24: Denn es werden … falsche Propheten aufstehen und werden große → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder tun …
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder
@@ -43454,7 +43455,7 @@
   <i>Heer des Himmels</i>: <a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>.
  }
  {
-  Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen#zeichen-am-himmel
+  Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel
  }
  {
   Vgl das <i>Laub des Weinstocks</i> und den <i>verdorrten Feigenbaum</i> mit
@@ -45349,7 +45350,7 @@
 @Jeremia 10 {
 #jer-10-2 {
  {
-  TODO: Welches sind die <i>Zeichen des Himmels</i>? Vgl <a class='kom' href='#I1mo-1-14'>1.&nbsp;Mo&nbsp;1,14</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel
  }
 #}
 #jer-10-7 {
@@ -49462,7 +49463,8 @@
 #}
 #dan-6-28 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder,
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel
  }
 #}
 @}
@@ -54698,9 +54700,9 @@
 @Matthäus 16 {
 #mt-16-1 {
  {
-  TODO: <i>Zeichen aus dem Himmel</i>: <a class='kom' href='#Imt-12-38'>Mt&nbsp;12,38</a>.
-  <br>Vgl mit dem «Zeichen des Menschensohnes am Himmel» in <a href='http://bibel.renenyffenegger.ch/mt_24.html#v30'>Mt&nbsp;24,30</a>.
-  <br>Vgl dieses Zeichen mit dem «Zeichen Jonas» in Vers 4.
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel, vgl §mt-12-38, §mt-24-30 (Zeichen des Sohnes des Menschen im Himmel), §Vmt-16-4 (Zeichen Jonas).
+  <br>
+   S.a. §mk-8-11, §lk-11-16
  }
 #}
 #mt-16-2 {
@@ -55636,7 +55638,7 @@
   <br>Vgl auch Vers 11.
  }
  {
-  Vgl §5mo-13-2 Wenn in deiner Mitte ein Prophet aufsteht, … und er gibt dir ein → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/index#zeichen-am-himmel[Zeichen oder ein Wunder];
+  Vgl §5mo-13-2 Wenn in deiner Mitte ein Prophet aufsteht, … und er gibt dir ein → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder[Zeichen oder ein Wunder];
  }
 #}
 #mt-24-27 {
@@ -55659,23 +55661,15 @@
 #}
 #mt-24-29 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/index#zeichen-am-himmel
- }
- {
   <i>Sonne verfinstert sich</i>: §lk-23-45
   <br>
-   Sa → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/index#zeichen-am-himmel
- }
- {
-  <i>Mond verfinstert</i> sich: <a class='kom' href='#Ihes-32-7'>Hes&nbsp;32,7</a>.
-  S.a. §+lk-21-25, <a class='kom' href='#Ilk-23-45'>Lk&nbsp;23,45</a>.
- }
- {
-  <i>Sterne die vom Himmel fallen</i>: <a class='kom' href='#Ioffb-6-13'>Offb&nbsp;6,13</a>.
- }
- {
-  TODO: Beachte, dass Israel offenbar aufhört, ein Volk zu sein, sobald die Ordnung der Sonne, Mond und Sterne aufhören
-  (<a href='http://bibel.renenyffenegger.ch/jer_31.html#v35'>Jer 31,35-36</a>).
+  <i>Mond verfinstert</i> sich: §+hes-32-7.
+  <br>
+  <i>Sterne die vom Himmel fallen</i>: §+offb-6-13.
+  <br>
+  Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel (Vgl §+lk-21-25)
+  <br>
+  Beachte, dass Israel aufhört, ein Volk zu sein, sobald die Ordnung der Sonne, Mond und Sterne aufhören (§jer-31-35-36).
  }
 #}
 #mt-24-30 {
@@ -57066,6 +57060,11 @@
 #}
 @}
 @Markus 8 {
+#mk-8-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel[Zeichen vom Himmel]: vgl §mt-16-1, §lk-11-16
+ }
+#}
 #mk-8-15 {
  {
    <i>Sauerteig der Pharisäer</i>: §+mt-16-6.
@@ -57532,7 +57531,7 @@
  {
   <i>Sonne verfinstert sich</i> vgl §lk-23-45
          <br>
-   Sa → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/index#zeichen-am-himmel
+   Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel
  }
 #}
 #mk-13-25 {
@@ -59272,7 +59271,7 @@
 #}
 #lk-11-16 {
  {
-  <i>Zeichen</i>: vgl Vers 29.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel[Zeichen vom Himmel]: vgl Vers §Vlk-11-29, §mt-16-1, §mk-8-11
  }
 #}
 #lk-11-20 {
@@ -60040,6 +60039,11 @@
   TODO: etwa hier haben die beiden andern Endzeitreden der oder die <i>Anfänge der Wehen</i>: <a href='http://bibel.renenyffenegger.ch/mt_24.html#v8'>Mt&nbsp;24,8</a>.
  }
 #}
+#lk-21-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel
+ }
+#}
 #lk-21-16 {
  {
   Offenbar werden Seine Jünger von <i>Eltern und Brüdern und Verwandten und Freunden überliefert</i> werden, weil man meint, sie sprächen
@@ -60092,7 +60096,7 @@
   <i>Brausendes Meer</i>: §+ps-96-11
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/index#zeichen-am-himmel
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel
  }
  {
   Vgl das <i>Brausende Meer</i> und die <i>Zeichen an Sonne und Mond</i> mit §jer-31-35-36 mit §jer-31-35-36. Bedeutet dies, dass
@@ -63424,7 +63428,7 @@
    Beachte: Jesus wurde beglaubigt durch <i>Wunder und Zeichen</i> (Vers 22).
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/index#zeichen-am-himmel
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel
  }
  {
   <i>Rauchdampf</i> (KJV: «vapour of smoke») enthält <span class='gr'>ἀτμίς</span> (Strongs 822, 2x) welches in
@@ -85639,7 +85643,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Offenbarung 12 {
 #offb-12-1 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/index#zeichen-am-himmel[Ein grosses Zeichen im Himmel]: eine Frau, mit der Sonne bekleidet, und der Mond unter ihren Füssen, und auf ihrem Haupt eine Krone
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel[Ein grosses Zeichen im Himmel]: eine Frau, mit der Sonne bekleidet, und der Mond unter ihren Füssen, und auf ihrem Haupt eine Krone
   mit zwölf Sternen.
   <br>Vergleiche auch <a href='http://bibel.renenyffenegger.ch/1mo_37.html#v9'>1.&nbsp;Mo&nbsp;37,9</a>: Josephs Traum mit <i>elf</i> Sternen.
   <br>Beachte: das Tier aus der Erde tut 'grosse Zeichen' (<a href='http://bibel.renenyffenegger.ch/offb_13.html#v13'>Offb&nbsp;13,13</a>).
@@ -85649,9 +85653,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Vgl auch §+lk-21-25
  }
  {
-  <i>Ein anderes Zeichen im Himmel</i>: Vgl Vers 3 und
-  <a href='http://bibel.renenyffenegger.ch/offb_15.html#v1'>Offb&nbsp;15,1</a>:
-  'gross und wunderbar: sieben Engel, welche die sieben Plagen hatten, denn mit ihnen ist der Zorn Gottes vollendet'
+  <i>Ein anderes Zeichen im Himmel</i>: Vgl Vers 3 und §offb-15-1 (gross und wunderbar: sieben Engel, welche die sieben Plagen hatten, denn mit ihnen ist der Zorn Gottes vollendet).
  }
 #}
 #offb-12-2 {
@@ -86227,7 +86229,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Offenbarung 15 {
 #offb-15-1 {
  {
-         → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/index#zeichen-am-himmel[Ein anderes Zeichen im Himmel] Vgl §+offb-12-1
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel[Ein anderes Zeichen im Himmel] Vgl §+offb-12-1
  }
  {
    Vgl 7. Schale: 'es ist geschehen' (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v17'>Offb&nbsp;16,17</a>).
