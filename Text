@@ -17717,7 +17717,7 @@
 #}
 #5mo-2-4 {
  {
-  Vgl <a class='kom' href='#I5mo-1-8'>5.&nbsp;Mo&nbsp;1,8</a>.
+  Vgl §+5mo-1-8
  }
 #}
 #5mo-2-5 {
@@ -17821,6 +17821,8 @@
 #5mo-2-14 {
  {
   → biblisches/Exodus/40-Jahre-in-der-Wüste
+<br>
+  38 Jahre vgl §joh-5-5
  }
 #}
 #5mo-2-18 {
@@ -26936,7 +26938,10 @@
 #}
 #1koe-6-20 {
  {
-  <a class='kom' href='#I2chr-4-1'>2.&nbsp;Chr&nbsp;4,1</a>.
+  Würfel: vgl §offb-21-16
+ }
+ {
+  §+2chr-4-1.
  }
 #}
 #1koe-6-21 {
@@ -34320,8 +34325,7 @@
 #}
 #neh-3-15 {
  {
-  <i>Siloah</i>: <a class='kom' href='#Ilk-13-4'>Lk&nbsp;13,4</a>.
-  <br>TODO: Vgl <a href='http://bibel.renenyffenegger.ch/jes_8.html#v6'>Jes&nbsp;8,6</a>.
+  <i>Siloah</i>: §+lk-13-4, vgl §jes-8-6.
  }
  {
   <i>Quelltor</i>: §neh-2-14, §neh-12-37.
@@ -42261,7 +42265,7 @@
 #}
 #jes-8-6 {
  {
-  <i>Siloah</i>: <a class='kom' href='#Ineh-3-15'>Neh&nbsp;3,15</a>, <a class='kom' href='#Ilk-13-4'>Lk&nbsp;13,4</a>.
+  <i>Siloah</i>: §+neh-3-15, §+lk-13-4.
  }
 #}
 #jes-8-8 {
@@ -53926,16 +53930,13 @@
 #}
 #mt-11-2 {
  {
-  <i>Johannes im Gefängnis</i>: <a class='kom' href='#Imt-4-12'>Mt&nbsp;4,12</a>.
+  <i>Johannes im Gefängnis</i>: §+mt-4-12.
  }
  {
-  Siehe <a class='kom' href='#Imt-10-5'>Mt&nbsp;10,5</a>.
+  Siehe §+mt-10-5.
  }
  {
   Hier erste Erwähnung von <i>Christus</i> in Matthäus.
- }
- {
-  Elberfelder übersetzt ohne von, also etwa: 'die Werke hören'.
  }
  {
   Hier (und in <a href='http://bibel.renenyffenegger.ch/lk_7.html#v19'>Lk&nbsp;7,19</a>)
@@ -53946,6 +53947,9 @@
   sendet Jesus zwei Jünger.
   <br>
    Vgl mit <a href='http://bibel.renenyffenegger.ch/joh_1.html#v35'>Joh&nbsp;1,35</a> und <a href='http://bibel.renenyffenegger.ch/joh_21.html#v2'>Joh&nbsp;21,2</a>.
+ }
+ {
+  <span class='gt'>NA hat <i>sandte durch seine Jünger</i></span>
  }
 #}
 #mt-11-5 {
@@ -56577,6 +56581,11 @@
   → biblisches/Orte/Kapernaum
  }
 #}
+#mk-2-4 {
+ {
+  <i>Liegematte</i> (<span class='gr'>κράβαττος</span>, Strongs 2895): Elberfelder übersetzt mit «Ruhebett» (auch in §Vmk-2-9, §Vmk-2-11, §Vmk-2-12).
+ }
+#}
 #mk-2-5 {
  {
   Beachte: Jesus <i>sah</i> den Glauben. Der Glaube hat Werke, vgl <a href='http://bibel.renenyffenegger.ch/jak_2.html#v14'>Jak 2,14-26</a>.
@@ -56584,9 +56593,10 @@
 #}
 #mk-2-11 {
  {
-  <i>Ich sage dir, steh auf</i>: <a href='http://bibel.renenyffenegger.ch/mk_5.html#v41'>Mk&nbsp;5,41</a>,
-  <a href='http://bibel.renenyffenegger.ch/lk_5.html#v24'>Lk&nbsp;5,24</a>,
-  <a href='http://bibel.renenyffenegger.ch/lk_7.html#v14'>Lk&nbsp;7,14</a>
+  <i>Ich sage dir, steh auf</i>: §mk-5-41, §lk-5-24, §lk-7-14
+ }
+ {
+  <i>Steh auf, nimm deine Liegematte…</i> vgl §joh-5-8
  }
 #}
 #mk-2-13 {
@@ -57341,6 +57351,14 @@
   <br>TODO: Sind diese <i>zwei Jünger</i> Jakobus und Johannes (<a href='http://bibel.renenyffenegger.ch/mk_10.html#v35'>Mk&nbsp;10,35</a>)?
  }
 #}
+#mk-11-2 {
+ {
+  §lk-19-30
+ }
+ {
+  <i>Geht in das Dorf</i> vgl §mk-14-13 
+ }
+#}
 #mk-11-10 {
  {
   Sie erwarteten wohl das <i>Reich [ihres Vaters] Davids</i>, nicht das Reich der Himmel oder Gottes Reich (des wirklichen? Vaters).
@@ -57627,7 +57645,10 @@
 #}
 #mk-14-13 {
  {
-  <i>Zwei Jünger</i>: <a class='kom' href='#Imt-11-2'>Mt&nbsp;11,2</a>.
+  <i>Geht in die Stadt</i> vgl §mk-11-2
+ }
+ {
+  <i>Zwei Jünger</i>: §+mt-11-2.
  }
 #}
 #mk-14-14 {
@@ -59449,10 +59470,8 @@
 #}
 #lk-13-4 {
  {
-  <i>Siloah</i> auch in <a href='http://bibel.renenyffenegger.ch/joh_9.html#v7'>Joh 9,7/11</a> (wo erklärt wird, dass dies
-   übersetzt heisst: 'der Gesandte').
-   Offenbar stammt das Wort von <span class='hebr'>שִׁלֹחַ</span> (Strongs 7975) ab, welches in <a class='kom' href='#Ineh-3-15'>Neh&nbsp;3,15</a> und <a href='http://bibel.renenyffenegger.ch/jes_8.html#v6'>Jes&nbsp;8,6</a>
-   vorkommt.
+  <i>Siloam</i> auch in §joh-9-7-ff(wo erklärt wird, dass dies übersetzt heisst: «der Gesandte»).
+   Offenbar stammt das Wort von <span class='hebr'>שִׁלֹחַ</span> (Strongs 7975) ab, welches in §+neh-3-15 und §jes-8-6 vorkommt.
  }
  {
   TODO: Vgl die <i>achtzehn</i> hier mit den <i>achtzehn Jahren</i> in <a href='http://bibel.renenyffenegger.ch/lk_13.html#v11'>Lk 13,11/16</a>.
@@ -59640,7 +59659,11 @@
 #}
 #lk-16-8 {
  {
-  <i>Kinder des Lichts</i>: <a href='http://bibel.renenyffenegger.ch/eph_5.html#v8'>Eph&nbsp;5,8</a>.
+  <i>Söhne des des Lichts</i> vgl §joh-12-36, §eph-5-8, §1thes-5-5
+  <br>
+   Vgl auch «Vater der Lichter» §jak-1-17
+  <br>
+  Gott ist Licht: §1joh-1-5
  }
 #}
 #lk-16-10 {
@@ -59924,6 +59947,11 @@
 #lk-19-29 {
  {
   <i>Zwei Jünger</i>: <a class='kom' href='#Imt-11-2'>Mt&nbsp;11,2</a>.
+ }
+#}
+#lk-19-30 {
+ {
+  §mk-11-2
  }
 #}
 #lk-19-38 {
@@ -60577,6 +60605,8 @@
 #joh-1-3 {
  {
   Alles wurde durch dasselbe (das Wort): vgl §ps-33-6, §hebr-11-3, §kol-1-16, §+hebr-1-2
+ <br>
+  Vgl §Vjoh-1-10
  }
 #}
 #joh-1-5 {
@@ -60611,10 +60641,16 @@
 #}
 #joh-1-9 {
  {
-  <i>erleuchten</i>: <a class='kom' href='#Ihebr-6-4'>Hebr&nbsp;6,4</a>.
+  <i>erleuchten</i>: §+hebr-6-4.
   <br>Vgl auch mit
-  <a class='kom' href='#Ijoh-8-12'>Joh&nbsp;8,12</a>
-  und <a class='kom' href='#Ioffb-18-1'>Offb&nbsp;18,1</a>.
+  §+joh-8-12 und §+offb-18-1.
+ }
+ {
+  Das Licht, in die Welt gekommen, ist das Gericht: §joh-3-19-ff.
+  <br>
+   Er ist als Licht in die Welt gekommen, dass jeder, der an ihn glaubt, nicht in der Finsternis bleibe §joh-12-46
+  <br>
+   S.a. §joh-8-12
  }
 #}
 #joh-1-11 {
@@ -61073,6 +61109,11 @@
    Vgl §roem-5-8
  }
 #}
+#joh-3-19 {
+ {
+   Das in die Welt gekommene Licht: vgl §+joh-1-9 
+ }
+#}
 #joh-3-22 {
  {
   Jesus → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe[taufte] nicht selbst, sondern seine Jünger (<a href='http://bibel.renenyffenegger.ch/joh_4.html#v2'>Joh&nbsp;4,2</a>).
@@ -61284,22 +61325,27 @@
 @Johannes 5 {
 #joh-5-1 {
  {
-   <i>Fest der Juden</i>
-   TODO: <a class='kom' href='#Ijoh-6-4'>Joh&nbsp;6,4</a> (Passah, das Fest der Juden, nicht das Fest Jehovas),
-   <a href='http://bibel.renenyffenegger.ch/joh_7.html#v2'>Joh&nbsp;7,2</a> (Laubhüttenfest der Juden)
+   <i>Fest der Juden</i>: §+joh-6-4 (→ biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah, das Fest der Juden, nicht das Fest Jehovas), §joh-7-2 (→ biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Labuhüttenfest] der Juden)
  }
 #}
 #joh-5-2 {
  {
-  <i>Bethesda</i> (<span class='gr'>Βηθεσδά</span>, Strongs 964) heisst offenbar 'Haus der Gnade' (<span class='hebr'>חסד</span>, Strongs 2617).
+  <i>Bethesda</i> (<span class='gr'>Βηθεσδά</span>, Strongs 964) heisst offenbar «Haus der Gnade» (<span class='hebr'>חסד</span>, Strongs 2617).
+  <br>
+   Vgl mit «Teich Siloam» §joh-9-7
  }
  {
-         Vgl §joh-10-7, → biblisches/Eigene-Uebersetzung/Konkordanz/Tor#tore-jerusalems
+   Vgl §joh-10-7, → biblisches/Eigene-Uebersetzung/Konkordanz/Tor#tore-jerusalems
  }
 #}
 #joh-5-3 {
  {
    <span class='gt'>In NA fehlt «die auf die Bewegung des Wassers warteten.» und der ganze nächste Vers.</span>
+ }
+#}
+#joh-5-5 {
+ {
+  38 Jahre vgl §5mo-2-14
  }
 #}
 #joh-5-6 {
@@ -61311,9 +61357,19 @@
   <a href='http://bibel.renenyffenegger.ch/joh_16.html#v16'>Joh 16,16-19</a>
  }
 #}
+#joh-5-7 {
+ {
+  <i>In den Teich werfen</i> vgl §joh-21-7
+ }
+#}
 #joh-5-8 {
  {
-  <i>Nimm dein Bett und wandle</i> vgl §mt-9-6
+  <i>Steh auf, nimm deine Liegematte und wandle</i> vgl §mt-9-6, §+mk-2-11
+ }
+#}
+#joh-5-12 {
+ {
+   TODO: <span class='gt'>NA: fehlt «Liegematte» im kritischen Text?</span>
  }
 #}
 #joh-5-14 {
@@ -61350,7 +61406,7 @@
 #}
 #joh-5-24 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig, vgl §Vjoh-5-39
  }
 #}
 #joh-5-25 {
@@ -61751,7 +61807,7 @@
 #}
 #joh-8-12 {
  {
-  <i>Licht der Welt</i>: vgl <a href='http://bibel.renenyffenegger.ch/joh_12.html#v46'>Joh&nbsp;12,46</a>.
+  <i>Licht der Welt</i>: vgl §joh-12-46, §joh-1-9
  }
  {
   Beachte: Hier redet der Herr wieder zu ihnen, obwohl er mit der Frau allein gelassen wurde (Vers 9) und er niemanden sah (Vers 10).
@@ -61892,12 +61948,19 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes, vgl §+joh-4-34
  }
 #}
+#joh-9-5 {
+ {
+  Das Licht ist nicht mehr lange da: §joh-12-35
+ }
+#}
 #joh-9-7 {
  {
-  <i>Siloah</i> auch in <a class='kom' href='#Ilk-13-4'>Lk&nbsp;13,4</a>.
+  <i>Siloam</i> auch in §+lk-13-4
+ <br>
+  <i>Teich Siloam</i> vgl §neh-3-15, §jes-8-6
  }
  {
-  <i>Das heisst übersetzt</i>: <a class='kom' href='#Ijoh-1-38'>Joh&nbsp;1,38</a>.
+  <i>Das heisst übersetzt</i>: §+joh-1-38.
  }
 #}
 #joh-9-9 {
@@ -62296,17 +62359,23 @@
 #}
 #joh-12-35 {
  {
-  Vgl mit <a class='kom' href='#Ijoh-7-33'>Joh&nbsp;7,33</a>.
+  <i>Noch eine kleine Zeit</i>: §+joh-7-33.
  }
  {
-  <i>Kurze/lange/kleine Zeit</i> in Johannes: <a class='kom' href='#Ijoh-5-6'>Joh&nbsp;5,6</a>.
+  <i>Kurze/lange/kleine Zeit</i> in Johannes: §+joh-5-6.
+ }
+ {
+  <i>Während ihr das Licht habt</i> §joh-9-5
  }
 #}
 #joh-12-36 {
  {
-  TODO: <a class='kom' href='#Ijoh-12-44'>Joh 12,44-45</a>.
-  <br>Jesus verbarg sich auch in <a class='kom' href='#Ijoh-8-59'>Joh&nbsp;8,59</a>.
-  <br>TODO: Jesus scheint tatsächlich bis zumindest <a href='http://bibel.renenyffenegger.ch/joh_18.html#v3'>Joh&nbsp;18,3</a> verborgen zu bleiben.
+  <i>Söhne des Lichts</i> vgl §+lk-16-8, §eph-5-8, §1thes-5-5
+ }
+ {
+  TODO: §+joh-12-44-45.
+  <br>Jesus verbarg sich auch in §+joh-8-59.
+  <br>TODO: Jesus scheint tatsächlich bis zumindest §joh-18-3 verborgen zu bleiben.
  }
 #}
 #joh-12-37 {
@@ -62363,7 +62432,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
  {
-   <i>Licht</i>: <a class='kom' href='#Ijoh-8-12'>Joh&nbsp;8,12</a>.
+   <i>Licht</i>: §+joh-8-12.
+  <br>
+   Als Licht in die Welt gekommen: §joh-1-9
  }
 #}
 #joh-12-47 {
@@ -63060,6 +63131,9 @@
 #joh-21-7 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/den-Jesus-liebte
+ }
+ {
+  <i>Warf sich in den See</i> vgl §joh-5-7
  }
 #}
 #joh-21-9 {
@@ -64081,6 +64155,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
+#apg-5-23 {
+ {
+  <i>Wachen an den Türen des Gefängisses</i> vgl §apg-12-6, §apg-16-26
+ }
+#}
 #apg-5-28 {
  {
   TODO: <a class='kom' href='#Iapg-1-8'>Apg&nbsp;1,8</a>.
@@ -65030,6 +65109,11 @@
   TODO: Vers 32, 35 und 38 einzige Vorkommen von <i>Lydda</i> in der Bibel.
  }
 #}
+#apg-9-33 {
+ {
+  <i>Liegematte</i>: Sch2K und Elberfelder übersetzen mit «Bett», vgl §mk-2-4.
+ }
+#}
 #apg-9-34 {
  {
    TODO: Es steht nirgends, dass <i>Aenas</i> sein Bett machte. Ebenso stand Tabitha nicht auf, wie Petrus ihr 'befohlen' hatte, sondern
@@ -65521,6 +65605,9 @@
  }
 #}
 #apg-12-6 {
+ {
+  <i>Wächter vor der Tür verahrten das Gefängnis</i> vgl §apg-5-23, §apg-16-26
+ }
  {
   Beachte, hier ist Petrus mit <i>zwei Ketten</i> gefesselt, in §apg-21-33 ist es Paulus.
  }
@@ -66453,6 +66540,9 @@
 #apg-16-26 {
  {
   Alle entkommen dem Gefängnis, nicht nur die, die Gott lobten.
+ }
+ {
+  <i>Die Türen öffneten sich</i> vgl §apg-5-23, §apg-12-6
  }
  {
   <i>Fesseln</i> (<span class='gr'>δεσμός</span>, Strongs 1199). TODO: in <a href='http://bibel.renenyffenegger.ch/2tim_2.html#v9'>2.&nbsp;Tim&nbsp;2,9</a> mit
@@ -67483,6 +67573,11 @@
 #apg-21-29 {
  {
   <i>Trophimus</i>: <a class='kom' href='#Iapg-20-15'>Apg&nbsp;20,15</a>.
+ }
+#}
+#apg-21-30 {
+ {
+  <i>Verschlossene Türen im Tempel</i> vgl §+offb-11-19, §offb-15-5
  }
 #}
 #apg-21-32 {
@@ -74920,7 +75015,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-5-8 {
  {
-  <i>Kinder des Lichts</i>: <a class='kom' href='#Ilk-16-8'>Lk&nbsp;16,8</a>.
+  <i>Kinder des Lichts</i> vgl §+lk-16-8, §joh-12-36, §1thes-5-5
  }
  {
   Vgl <a class='kom' href='#Iroem-13-14'>Röm&nbsp;13,14</a>.
@@ -77052,6 +77147,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Vgl §am-5-18: Der → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN ist Finesternis, nicht Licht.
+ }
+#}
+#1thes-5-5 {
+ {
+  <i>Söhne des Lichts</i> vgl §+lk-16-8, §joh-12-36, §eph-5-8 
  }
 #}
 #1thes-5-6 {
@@ -81313,7 +81413,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-1-17 {
  {
-   <a class='kom' href='#Ijak-1-6'>Jak&nbsp;1,6</a>.
+  <i>Vater der Lichter</i> vgl «Söhne des Lichts» §lk-16-8, «Kinder des Lichts» §eph-5-8
+ }
+ {
+   §+jak-1-6.
  }
 #}
 #jak-1-18 {
@@ -83022,8 +83125,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1joh-1-4 {
  {
-  Vgl <i>Wir schreiben</i> vs <i>ich schreibe</i> (<a href='http://bibel.renenyffenegger.ch/1joh_2.html#v1'>1. Joh 2,1/7/8/12/13</a>,
-  <a href='http://bibel.renenyffenegger.ch/1joh_5.html#v13'>1.&nbsp;Joh&nbsp;5,13</a>)
+  Vgl <i>Wir schreiben</i> vs <i>ich schreibe</i> (<a href='http://bibel.renenyffenegger.ch/1joh_2.html#v1'>1. Joh 2,1/7/8/12/13</a>, §1joh-5-13)
+ }
+ {
+  <i>Dies ist die Botschaft</i> §1joh-3-11
+ }
+#}
+#1joh-1-5 {
+ {
+  <i>Gott ist Licht</i>: vgl «Söhne des Lichts» §+lk-16-8, «Vater der Lichter» §jak-1-17
  }
 #}
 #1joh-1-8 {
@@ -83328,6 +83438,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1joh-3-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
+ }
+#}
+#1joh-3-11 {
+ {
+  <i>Dies ist die Botschaft</i> §1joh-1-4
  }
 #}
 #1joh-3-12 {
@@ -84408,6 +84523,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   den Sohn Hilkijas, des Knechtes des HERRN legen (<a href='http://bibel.renenyffenegger.ch/jes_22.html#v22'>Jes&nbsp;22,22</a>).
  }
 #}
+#offb-3-8 {
+ {
+  <i>geöffnete Tür</i> vgl §offb-3-20, §offb-4-1
+ }
+#}
 #offb-3-9 {
  {
   Beachte: <i>geliebt</i> (<span class='gr'>ἀγαπάω</span>, Strongs 25) vs Philadelphia (Bruderliebe).
@@ -84473,21 +84593,20 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Offenbarung 4 {
 #offb-4-1 {
  {
-  <i>Posaune</i>: <a class='kom' href='#Imt-24-31'>Mt&nbsp;24,31</a>.
-  <br><a class='kom' href='#Ioffb-1-10'>Offb&nbsp;1,10</a>
+  <i>Posaune</i>: §+mt-24-31.
+  <br>
+  §+offb-1-10
  }
  {
-  Ist jetzt 'was ist' (<a href='http://bibel.renenyffenegger.ch/offb_1.html#v19'>Offb&nbsp;1,19</a>) vorbei, und es kommt 'was
-  nach diesem geschehen soll'?
+  Ist jetzt «was ist» (§offb-1-19) vorbei, und es kommt «was nach diesem geschehen soll»?
  }
  {
   Hier steigt Johannes in den Himmel, nachdem er gehört hat <i>Komm hier herauf</i>, in §offb-11-12 sind es die zwei Zeugen.
  }
  {
-  <i>Posaune</i> §+mt-24-31
- }
- {
-  Hier ist eine im Himmel geöffnet, in §offb-19-11 ist der Himmel selbst geöffnet.
+  Hier ist eine Tür im Himmel aufgetan, in §offb-19-11 ist der Himmel selbst geöffnet.
+ <br>
+  Vgl §+offb-3-8, §offb-3-20
  }
 #}
 #offb-4-2 {
@@ -85394,11 +85513,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-10-2 {
  {
-  <i>offenes Büchlein</i>: <a href='http://bibel.renenyffenegger.ch/offb_5.html#v2'>Offb&nbsp;5,2</a>.
+  <i>offenes Büchlein</i>: §offb-5-2.
  }
  {
-  Hier ist der starke Engel zwischen Meer und Erde, in <a href='http://bibel.renenyffenegger.ch/offb_12.html#v18'>Offb&nbsp;12,18</a> stellt sich Johannes auf den Sand des Meeres.
-  Beachte aber auch, dass Johannes bereits in Vers 10 zum Engel geht.
+  Hier ist der starke Engel zwischen Meer und Erde, in §offb-12-18 stellt sich Johannes auf den Sand des Meeres.
+  Beachte aber auch, dass Johannes bereits in §Voffb-10-10 zum Engel geht.
  }
  {
   Beachte: hier hält der Engel in der <i>Hand</i> ein Büchlein, im Vers 5 erhebt er seine (gleiche?) Hand zum Himmel.
@@ -85645,18 +85764,23 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel Gottes im Himmel wurde geöffnet und die Lade seines Bundes wurde darin Sichtbar. Vgl
   §offb-15-5: der Tempel des Zeltes des Zeugnisses im Himmel wurde geöffnet.
   In §+offb-19-11 ist der Himmel geöffnet.
-  <span class='u'>
-    Vgl Bild ganz unten in http://bibleprophecy.net/bibleinterp.htm
-  </span>
+  <br>
+   In § apg-21-30 wurde der Tempel verschlossen.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Lade[Lade Seines Bundes]
  }
  {
-         Vgl <i>Blitze, Donner...</i> <a class='kom' href='#Ioffb-8-5'>Offb&nbsp;8,5</a>.
+    Vgl <i>Blitze, Donner...</i> <a class='kom' href='#Ioffb-8-5'>Offb&nbsp;8,5</a>.
  }
  {
   Vgl <i>Hagel</i>: <a class='kom' href='#Ioffb-8-7'>Offb&nbsp;8,7</a>.
+ }
+ {
+  TODO:
+  <span class='u'>
+    Vgl Bild ganz unten in http://bibleprophecy.net/bibleinterp.htm
+  </span>
  }
 #}
 @}
@@ -86929,7 +87053,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>geöffneter Himmel</i> §+offb-4-1
  }
  {
-  <i>Der Treue</i>: <a class='kom' href='#Ips-96-13'>Ps&nbsp;96,13</a>.
+  <i>Der Treue</i>: §+ps-96-13.
  }
 #}
 #offb-19-12 {
@@ -87206,7 +87330,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-21-16 {
  {
-  <i>Grosse Stadt</i>: <a class='kom' href='#Ioffb-11-8'>Offb&nbsp;11,8</a>.
+  Würfel: vgl §1koe-6-20
+ }
+ {
+  <i>Grosse Stadt</i>: §+offb-11-8.
  }
 #}
 #offb-21-19 {
