@@ -169,9 +169,9 @@ while (my $l = <$h>) { #_{
 
   } #_}
   if ($l =~ /^ \{$/) { #_{
-    die unless $in_c;
-    die unless $in_v;
-    die if     $in_t;
+    die "in_c" unless $in_c;
+    die "in_v" unless $in_v;
+    die "in_t" if     $in_t;
     $in_t = 1;
     next;
   } #_}
