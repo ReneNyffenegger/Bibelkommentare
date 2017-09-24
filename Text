@@ -36305,7 +36305,10 @@
 #}
 #ps-2-7 {
  {
-  <i>Du bist mein Sohn …</i>: zitiert in <a class='kom' href='#Iapg-13-33'>Apg&nbsp;13,33</a>.
+  <i>Du bist mein Sohn …</i>: zitiert in §+apg-13-33.
+ }
+ {
+  <i>Sohn</i>: <span class='hebr'>בֵּן</span>, in §Vps-2-12 <span class='hebr'>בַּר</span>.
  }
 #}
 #ps-2-11 {
@@ -56584,6 +56587,8 @@
 #mk-2-4 {
  {
   <i>Liegematte</i> (<span class='gr'>κράβαττος</span>, Strongs 2895): Elberfelder übersetzt mit «Ruhebett» (auch in §Vmk-2-9, §Vmk-2-11, §Vmk-2-12).
+  <br>
+   Evtl. könnte dieses Wort mit «Bahre» übersetzt werden.
  }
 #}
 #mk-2-5 {
@@ -83772,6 +83777,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl §+1kor-10-8
  }
  {
+  <span class='gt'>Offenbar gibt es eine → biblisches/Grundtext/Varianten[Grundtext Variante], gemäss welcher Jesus anstelle des Herrn das Volk
+  aus Ägypten errettet hat.</span>
+ }
+ {
   TODO <i>erinnern</i>: §+2petr-1-12.
  }
 #}
@@ -84927,7 +84936,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Die Ältesten fallen nieder: <a class='kom' href='#Ioffb-4-6'>Offb&nbsp;4,6</a>.
  }
  {
-  <span class='gt'>NA und MT lassen «den an, der lebt von Ewigkeit zu Ewigkeit.» weg</span>.
+  <span class='gt'>NA und MT lassen «den an, der lebt von Ewigkeit zu Ewigkeit.» und die Zahl <i>vierundzwanzig</i> weg.</span>.
  }
 #}
 @}
@@ -85770,7 +85779,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   §offb-15-5: der Tempel des Zeltes des Zeugnisses im Himmel wurde geöffnet.
   In §+offb-19-11 ist der Himmel geöffnet.
   <br>
-   In § apg-21-30 wurde der Tempel verschlossen.
+   In §apg-21-30 wurde der Tempel verschlossen.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Lade[Lade Seines Bundes]
@@ -86194,6 +86203,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Berechnen</i>: <a class='kom' href='#Ilk-14-28'>Lk&nbsp;14,28</a>.
+ }
+ {
+  Angeblich ist dies der einzige Vers, wo im Grundtext eine Zahl nicht ausgeschrieben wurde, sondern als Zahl (χξς) formuliert wurde.
  }
 #}
 @}
