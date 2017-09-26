@@ -48534,10 +48534,20 @@
 @}
 }
 { 31-40
+@Hesekiel 31 {
+#hes-31-6 {
+ {
+  <i>Alle Vögel des Himmels nisteten in seinen Zweigen</i> vgl §lk-13-19
+ }
+#}
+@}
 @Hesekiel 32 {
 #hes-32-2 {
  {
   TODO: <i>Seeungeheuer</i> (<span class='hebr'>תַּן</span>, Strongs 8565, 1x) ist verwandt mit Strongs 8577 (<a class='kom' href='#I1mo-1-21'>1.&nbsp;Mo&nbsp;1,21</a>).
+ }
+ {
+  
  }
 #}
 #hes-32-3 {
@@ -49363,6 +49373,11 @@
 #dan-4-9 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
+ }
+#}
+#dan-4-11 {
+ {
+  <i>Grosser Baum</i> vgl §lk-13-19
  }
 #}
 #dan-4-16 {
@@ -52722,7 +52737,7 @@
 #}
 #mt-3-10 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/mt_7.html#v19'>Mt&nbsp;7,19</a>
+  Vgl §mt-7-19, §mt-12-33
  }
 #}
 #mt-3-11 {
@@ -53275,7 +53290,7 @@
 #}
 #mt-7-18 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/mt_12.html#v33'>Mt&nbsp;12,33</a>.
+  Vgl §mt-12-33.
  }
 #}
 #mt-7-19 {
@@ -54219,7 +54234,7 @@
 #}
 #mt-12-33 {
  {
-  gl <a class='kom' href='#Imt-7-18'>Mt&nbsp;7,18</a>.
+  Vgl §+mt-3-10, §+mt-7-18
  }
 #}
 #mt-12-36 {
@@ -54424,6 +54439,11 @@
 #mt-13-30 {
  {
   <i>Ernte</i>: Vgl Vers 39 und <a href='http://bibel.renenyffenegger.ch/offb_14.html#v15'>Offb&nbsp;14,15</a>.
+ }
+#}
+#mt-13-32 {
+ {
+  Vgl §+lk-13-19
  }
 #}
 #mt-13-33 {
@@ -59506,6 +59526,15 @@
 #lk-13-16 {
  {
   Vgl die <i>Tochter Abrahams</i> mit Zachäus, dem <i>Sohn Abrahams</i> in <a class='kom' href='#Ilk-19-9'>Lk&nbsp;19,9</a>.
+ }
+#}
+#lk-13-19 {
+ {
+  <i>Grosser Baum</i> vgl §dan-4-11
+  <br>
+  <i>Die Vögel des Himmels liessen sich nieder in seinen Zweigen</i> vgl §hes-31-6
+  <br>
+  §+mt-13-32
  }
 #}
 #lk-13-22 {
