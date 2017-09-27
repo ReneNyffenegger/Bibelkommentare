@@ -57362,6 +57362,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
  }
 #}
+#mk-10-40 {
+ {
+   → biblisches/Grundtext/Scriptio-continua 
+ }
+#}
 #mk-10-45 {
  {
   §+mt-20-28
@@ -57907,7 +57912,10 @@
      <span class='gr'>σάββατον</span> (Strongs 4521) in der Einzahl vorkommt.
  }
  {
-   <span class='gt'>Die Verse 9 bis 20 fehlen in NA. Damit wäre der letzte Vers im Markusevangelium (Vers 16:8) gemäss Nestle Aland der 666.!</span>
+   <span class='gt'>Die Verse 9 bis 20 fehlen in NA. Damit wäre der letzte Vers im Markusevangelium (Vers 16:8) gemäss Nestle Aland der 666.!
+   <br>
+    Vgl → biblisches/Grundtext/Varianten/Unterschiede#variante-mk-16-9-ff[Relevante Varianten in Biblischen Manuskripten]
+   </span>
  }
  {
   TODO: <i>Maria Magdalena</i>: <a class='kom' href='#Imt-28-1'>Mt&nbsp;28,1</a>.
@@ -61809,7 +61817,7 @@
 #}
 #joh-7-53 {
  {
-   <span class='gt'>Verse 7:53 bis 8:11 fehlen in NA.</span>
+   <span class='gt'>Verse 7:53 bis 8:11 fehlen in NA. Vgl → biblisches/Grundtext/Varianten/Unterschiede#pericope-adulterae</span>
  }
 #}
 @}
@@ -61817,6 +61825,9 @@
 #joh-8-1 {
  {
    Vermutlich müsste dieser und der vorangehende Vers als ein Satz gelesen werden (Jeder ging nach Hause, Jesus aber zum Ölberg).
+ }
+ {
+   <span class='gt'>→ biblisches/Grundtext/Varianten/Unterschiede#pericope-adulterae</span>
  }
 #}
 #joh-8-2 {
@@ -66378,6 +66389,11 @@
   nehmen an Zahl täglich zu (<a href='http://bibel.renenyffenegger.ch/apg_16.html#v5'>Apg&nbsp;16,5</a>).
  }
 #}
+#apg-15-30 {
+ {
+  Vgl §1thes-5-27, §+kol-4-16
+ }
+#}
 #apg-15-32 {
  {
   Propheten: ermahnen und stärken sie?
@@ -69209,6 +69225,11 @@
   <i>Gebunden</i>: <span class='gr'>δέω</span> (Strongs 1210), vgl <a class='kom' href='#I1kor-7-15'>1.&nbsp;Kor&nbsp;7,15</a>.
  }
 #}
+#roem-7-14 {
+ {
+  → biblisches/Grundtext/Scriptio-continua
+ }
+#}
 #roem-7-15 {
  {
    <i>denn nicht, was ich will, das tue ich…</i> §gal-5-17
@@ -71567,7 +71588,7 @@
 #}
 #1kor-9-18 {
  {
-   Paulus macht das Evangelium kostenfrei: vgl §2kor-11-7.
+   Paulus macht das Evangelium kostenfrei: vgl §2kor-11-7. Vgl §1thes-2-9
  }
  {
    <span class='gt'>In NA fehlt «von Christus».</span>
@@ -72645,7 +72666,10 @@
 #}
 #1kor-16-22 {
  {
-  <i>Verflucht</i> (<span class='gr'>ἀνάθεμα</span> (Strongs 331)), vgl <a href='http://bibel.renenyffenegger.ch/gal_1.html#v8'>Gal 1,8-9</a>.
+  <i>Verflucht</i> (<span class='gr'>ἀνάθεμα</span> (Strongs 331)), vgl §gal-1-8-9.
+ }
+ {
+  → biblisches/Grundtext/Scriptio-continua
  }
 #}
 #1kor-16-24 {
@@ -76556,7 +76580,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Gemeinde der Laodizeer</i>: <a class='kom' href='#Iroem-16-4'>Röm&nbsp;16,4</a>.
  }
  {
-  Der Brief an die Thessaloniker soll hingegen allen heiligen Brüdern vorgelesen werden. §1thes-5-27
+  Der Brief an die Thessaloniker soll hingegen allen heiligen Brüdern vorgelesen werden. §1thes-5-27. Vgl §apg-15-30.
  }
 #}
 #kol-4-17 {
@@ -76784,7 +76808,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1thes-2-9 {
  {
    <i>Nacht und Tag arbeitend, um niemand von euch beschwerlich zu fallen</i> Vgl §2thes-3-8
-   <br>Vgl auch §1kor-4-12, §+2kor-11-8/§+2kor-11-9
+   <br>Vgl auch §1kor-4-12, §1kor-9-18, §+2kor-11-8/§+2kor-11-9
  }
  {
   Beachte: es ist offenbar möglich, Tag und Nacht zu arbeiten <i>und</i> das Evangelium zu verkündigen. TODO: Möglicherweise
@@ -77315,7 +77339,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-5-27 {
  {
-  §+kol-4-16.
+  Vgl §+kol-4-16, §apg-15-30
  }
 #}
 @}
@@ -78188,6 +78212,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Vgl <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index der Gottseligkeit</i> mit dem «Geheimnis der Gottlosigkeit» (§+2thes-2-7).
+ }
+ {
+  → biblisches/Grundtext/Scriptio-continua
  }
  {
    <span class='gt'>In NA steht «er» statt «Gott».</span>
