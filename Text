@@ -36245,7 +36245,7 @@
 @Psalm 1 {
 #ps-1-1 {
  {
-   Beachte, dass <i>Spätter</i> (<span class='hebr'>לוּץ</span> bereits in Psalm 1,1 vorkommen, und dann in den Psalmen nur noch in
+   Beachte, dass <i>Spötter</i> (<span class='hebr'>לוּץ</span> bereits in Psalm 1,1 vorkommen, und dann in den Psalmen nur noch in
    <a href='http://bibel.renenyffenegger.ch/ps_119.html#v51'>Ps&nbsp;119,51</a>.
    (Vgl aber <a href='http://bibel.renenyffenegger.ch/ps_44.html#v17'>Ps&nbsp;44,17</a>.)
    Dafür kommt das Wort sehr oft in den Sprüchen vor.
@@ -36293,7 +36293,7 @@
    <i>ersinnen</i>: <a class='kom' href='#Ips-1-2'>Ps&nbsp;1,2</a>.
  }
  {
-  Der Zweite Psalm wurde vom 'Knecht David' geschrieben (<a href='http://bibel.renenyffenegger.ch/apg_4.html#v25'>Apg&nbsp;4,25</a>).
+  Der → biblisches/Bücher/Ketuvim/Psalmen/2[zweite Psalm] wurde vom 'Knecht David' geschrieben (<a href='http://bibel.renenyffenegger.ch/apg_4.html#v25'>Apg&nbsp;4,25</a>).
  }
  {
   <i>Warum toben die Nationen</i>: vgl §ps-46-7
@@ -36314,9 +36314,21 @@
 #ps-2-7 {
  {
   <i>Du bist mein Sohn …</i>: zitiert in §+apg-13-33.
+  <br>
+  Vgl §spr-30-4
  }
  {
   <i>Sohn</i>: <span class='hebr'>בֵּן</span>, in §Vps-2-12 <span class='hebr'>בַּר</span>.
+ }
+#}
+#ps-2-8 {
+ {
+  <i>Zum Erbteil geben die Nationen</i> vgl §ps-82-2, §jer-3-19.
+ }
+#}
+#ps-2-9 {
+ {
+  <i>Eisernes Zepter</i> vgl §offb-2-27, §offb-12-5, §offb-19-15
  }
 #}
 #ps-2-11 {
@@ -41365,10 +41377,13 @@
 #}
 #spr-30-4 {
  {
-  <a class='kom' href='#Ijoh-3-13'>Joh&nbsp;3,13</a>.
+  <i>Was ist der Name seines Sohnes</i> vgl §ps-2-7
  }
  {
-  <a class='kom' href='#Ijes-40-12'>Jes&nbsp;40,12</a>.
+  §+joh-3-13.
+ }
+ {
+  §+jes-40-12.
  }
 #}
 #spr-30-5 {
@@ -84578,6 +84593,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-2-27 {
  {
+  <i>Eiserne Rute</i> vgl §offb-12-5, §offb-19-15, §ps-2-9
+ }
+ {
   TODO: <i>Gefäss</i> als Synonym für Körper?: <a class='kom' href='#I2kor-4-7'>2.&nbsp;Kor&nbsp;4,7</a>.
   S.a. <a class='kom' href='#Imt-12-29'>Mt&nbsp;12,29</a>.
  }
@@ -85938,6 +85956,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-12-5 {
  {
+  <i>Eiserne Rute</i> vgl §offb-2-27, §offb-19-15, §ps-2-9
+ }
+ {
   <i>Entrückt</i>: <a class='kom' href='#Imt-11-12'>Mt&nbsp;11,12</a>.
  }
 #}
@@ -87187,6 +87208,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-19-15 {
+ {
+  <i>Eiserne Rute</i> vgl §offb-2-27, §offb-12-5, §ps-2-9
+ }
  {
   <i>Kelter</i>: <a class='kom' href='#Ioffb-14-19'>Offb&nbsp;14,19</a>.
  }
