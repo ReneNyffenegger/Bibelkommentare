@@ -9813,6 +9813,9 @@
   Dies im Gegensatz zur 'zweiten' Besteigung <a href='http://bibel.renenyffenegger.ch/2mo_34.html#v4'>2.&nbsp;Mo&nbsp;34,4</a>.
  }
  {
+  <i>Mose ging mitten in die Wolke hinein</i> vgl §+2mo-40-35
+ }
+ {
   TODO: Sind diese 40 Tage in <a href='http://bibel.renenyffenegger.ch/2mo_31.html#v18'>2.&nbsp;Mo&nbsp;31,18</a> fertig?
  }
 #}
@@ -11486,7 +11489,7 @@
 #}
 #2mo-35-22 {
  {
-  <i>Ohrringe</i> vgl §+3mo-32-3, §2mo-33-6
+  <i>Ohrringe</i> vgl §+2mo-32-3, §2mo-33-6
  }
 #}
 #2mo-35-24 {
@@ -11873,6 +11876,21 @@
  }
  {
   <i>vollenden</i> (Strongs 3615): §+1mo-2-1-2
+ }
+#}
+#2mo-40-35 {
+ {
+  <i>→ biblisches/Personen/Mose konnte nicht in das Zelt der Zusammenkunft hineingehen</i> vgl §1koe-8-11, §2chr-7-2, §offb-15-8.
+  <br>
+   Mose konnte aber in die Wolke hineingehen, als er den Berg bestieg (§2mo-24-18)
+ }
+#}
+#2mo-40-38 {
+ {
+  <i>Wolke Jehovas</i> und <i>Feuer</i>: beachte, dass der HERR in einer Wolkensäule und in einer Feuersäule vor den Israeliten herzog, als er sie aus Ägypten herausführte (§2mo-13-21-22, §2mo-14-24).
+  <br>
+   Bevor der HERR Mose das Gesetz gab, lag eine dichte Wolke auf dem Berg (§2mo-19-16) und der HERR stieg im Feuer auf den Berg hinab (§2mo-19-18, §2mo-24-15)
+   Der Herr stieg im Feuer auf den Berg hinab (§2mo-19-18)
  }
 #}
 @}
@@ -27152,6 +27170,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#inhalt-der-lade: Der <i>Stab Aarons</i> und der <i>goldene Krug</i> werden hier nicht erwähnt (vgl §+hebr-9-4)
  }
 #}
+#1koe-8-11 {
+ {
+  Vgl §2chr-7-2, §+2mo-40-35
+ }
+#}
 #1koe-8-12 {
  {
   Im <i>Dunkeln wohnen</i>: vgl mit §1tim-6-16, §+2mo-20-21
@@ -31998,6 +32021,11 @@
 #2chr-5-9 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Stangen
+ }
+#}
+#2chr-5-14 {
+ {
+  Vgl §2chr-7-2, §1koe-8-11
  }
 #}
 @}
@@ -60754,10 +60782,7 @@
  }
  {
   <i>wohnen</i> (<span class='hebr'>σκηνόω</span>, Strongs 4637) = 'to fix one's tabernacle', 'to dwell'. Dieses Wort kommt noch vor in
-  <a href='http://bibel.renenyffenegger.ch/offb_7.html#v15'>Offb&nbsp;7,15</a> («Zelt aufschlagen»),
-  <a href='http://bibel.renenyffenegger.ch/offb_12.html#v12'>Offb&nbsp;12,12</a> ([Im Himmel] wohnen),
-  <a href='http://bibel.renenyffenegger.ch/offb_13.html#v6'>Offb&nbsp;13,6</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_21.html#v3'>Offb&nbsp;21,3</a>.
+  §offb-7-15, §offb-12-12 ([Im Himmel] wohnen), §offb-13-6, §offb-21-3.
  }
  {
   <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>.
@@ -61161,6 +61186,9 @@
  }
  {
   <i>als nur der aus dem Himmel herabgestiegen ist</i> vgl mit dem Brot Gottes, der der ist, der aus dem Himmel herniederkommt §joh-6-33-ff
+ }
+ {
+  Vgl §eph-4-10
  }
 #}
 #joh-3-14 {
@@ -64646,7 +64674,7 @@
   klar, dass es eine zweite (und grössere?) Zerstreuung der Juden geben wird?
  }
  {
-  <i>Abbild</i>: <span class='gr'>τύπος</span> (Strongs 5179), dasselbe Wort kommt in Vers 44 vor, auch als «Abbild» übersetzt.
+  <i>Abbilder</i>: <span class='gr'>τύπος</span> (Strongs 5179), dasselbe Wort kommt in Vers 44 vor, auch als «Abbild» übersetzt.
  }
  {
   TODO: <i>Sternbild eures Gottes</i>: <a class='kom' href='#Iam-5-26'>Am&nbsp;5,26</a>.
@@ -74164,7 +74192,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-4-11 {
  {
-  <i>vergeblich an euch gearbeitet</i> vgl §+phil-2-16
+  <i>vergeblich an euch gearbeitet</i> vgl §+phil-2-16, §+1thes-2-1
  }
 #}
 #gal-4-13 {
@@ -74982,6 +75010,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <span class='gt'><i>zuvor</i> fehlt in NA fehlt in NA</span>
+ }
+#}
+#eph-4-10 {
+ {
+  Vgl §joh-3-13
  }
 #}
 #eph-4-11 {
@@ -76789,7 +76822,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
  {
-  <i>vergeblich</i> vgl §1thes-3-5
+  <i>vergeblich</i> vgl §1thes-3-5, §+gal-4-11
  }
 #}
 #1thes-2-2 {
@@ -85298,8 +85331,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Tag und Nacht</i>: <a class='kom' href='#Ioffb-4-8'>Offb&nbsp;4,8</a>.
  }
  {
-  <i>Zelt aufschlagen</i>: <a class='kom' href='#Ijoh-1-14'>Joh&nbsp;1,14</a>.
-  <br>Vgl mit dem 'Zelt Gottes bei den Menschen' in <a href='http://bibel.renenyffenegger.ch/offb_21.html#v3'>Offb&nbsp;21,3</a>.
+  <i>wird unter ihnen wohnen</i>: vgl §joh-1-14, §offb-21-3 «wird bei ihnen wohnen».
+  <br>
+   Sch2K übersetzt mit «wird sein Zelt über ihnen errichten», Elberfelder mit «wird sein Zelt über ihnen errichten», KJV mit «hokommhall dwell among them».
  }
  {
   <i>Im Tempel dienen</i>: vgl die Massnahme derer, die im Tempel anbeten (<a href='http://bibel.renenyffenegger.ch/offb_11.html#v1'>Offb&nbsp;11,1</a>)
@@ -86175,10 +86209,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-13-6 {
  {
-  <i>Im Himmel wohnen</i>: <a class='kom' href='#Ioffb-3-10'>Offb&nbsp;3,10</a>.
- }
- {
-  <i>Zelt</i>: <a class='kom' href='#Ihebr-8-2'>Hebr&nbsp;8,2</a>.
+  <i>Im Himmel wohnen</i>: §+offb-3-10, §+hebr-8-2
  }
 #}
 #offb-13-7 {
@@ -86599,13 +86630,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-15-8 {
  {
-  In den Tempel hineingehen: in <a class='kom' href='#Ioffb-11-1'>Offb&nbsp;11,1</a> hat es welche, die im Tempel anbeten.
+  <i>Niemand konnte in den Tempel hineingehen</i>:
+   Weil die Herrlichkeit das → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft[Wohnung] erfüllte, konnte → biblisches/Personen/Mose konnte nicht hineingehen (§2mo-40-35).
+   In §2chr-7-2 konnten die → biblisches/Eigene-Uebersetzung/Konkordanz/Priester deswegen nicht in → biblisches/Eigene-Uebersetzung/Konkordanz/Haus/Gott[das Haus des HERRN] hineingehen.
+  <br>
+   In §+offb-11-1 hat es welche, die im Tempel anbeten.
  }
  {
   TODO: siehe <a class='kom' href='#I3mo-16-13'>3.&nbsp;Mo&nbsp;16,13</a>, <a href='http://bibel.renenyffenegger.ch/jes_6.html#v4'>Jes&nbsp;6,4</a>.
- }
- {
-  <a class='kom' href='#I2chr-7-2'>2.&nbsp;Chr&nbsp;7,2</a>.
  }
  {
   TODO: <i>Tempel</i>: <a class='kom' href='#Ioffb-7-15'>Offb&nbsp;7,15</a>.
