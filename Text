@@ -36386,6 +36386,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/heilig
  }
 #}
+#ps-3-6 {
+ {
+  Vgl §ps-4-9
+ }
+#}
 #ps-3-8 {
  {
   Kinnbacken (<span class='hebr'>לְחִי</span>, Strongs 3895). TODO: <i>Auf die Kinnbacken schlagen</i> vgl <a class='kom' href='#I1koe-22-24'>1.&nbsp;Kö&nbsp;22,24</a>.
@@ -36404,6 +36409,11 @@
   Vgl §+eph-4-26
  }
 #}
+#ps-4-9 {
+ {
+  Vgl §ps-3-6
+ }
+#}
 @}
 @Psalm 5 {
 #ps-5-1 {
@@ -36416,6 +36426,11 @@
  {
   Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel war noch gar nicht gebaut. S.a.  §ps-11-4,
   §ps-18-7, §ps-27-4, §ps-29-9, §ps-65-5, §ps-68-30, §ps-138-2.
+ }
+#}
+#ps-5-10 {
+ {
+  Vgl §roem-3-13
  }
 #}
 @}
@@ -36433,6 +36448,11 @@
 #ps-6-4 {
  {
   Menge übersetzt mit: «Du aber, o HERR, – wie lange noch (willst du fern sein)?».
+ }
+#}
+#ps-6-6 {
+ {
+  Vgl §jes-38-18
  }
 #}
 @}
@@ -36459,7 +36479,7 @@
      <a href='http://bibel.renenyffenegger.ch/offb_2.html#v23'>Offb&nbsp;2,23</a>
  }
  {
-  Der gerechte Gott prüf Herzen und Nieren, in <a href='http://bibel.renenyffenegger.ch/ps_11.html#v5'>Ps&nbsp;11,5</a> prüft der HERR den Gerechten.
+  Der gerechte Gott prüft Herzen und Nieren, in §ps-11-5 prüft der HERR den Gerechten.
  }
 #}
 #ps-7-11 {
@@ -36488,6 +36508,9 @@
  }
 #}
 #ps-8-5 {
+ {
+  Vgl §hebr-2-6
+ }
  {
   TODO: Adam vs Ben Enosch
   <br>
@@ -39812,6 +39835,13 @@
 #ps-139-3 {
  {
   TODO: <i>äussersten</i> (Strongs 319) siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
+ }
+#}
+@}
+@Psalm 140 {
+#ps-140-4 {
+ {
+  Vgl §roem-3-13
  }
 #}
 @}
@@ -43706,6 +43736,11 @@
 #jes-38-11 {
  {
    <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>.
+ }
+#}
+#jes-38-18 {
+ {
+  Vgl §ps-6-6
  }
 #}
 @}
@@ -68906,6 +68941,11 @@
   Vgl <a class='kom' href='#Ips-51-6'>Ps&nbsp;51,6</a>.
  }
 #}
+#roem-3-13 {
+ {
+  Vgl §ps-5-10, §ps-140-4
+ }
+#}
 #roem-3-15 {
  {
   Vgl §spr-1-16, §jes-59-7
@@ -79915,6 +79955,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-2-5 {
  {
   <i>zukünftige Welt</i>: <a class='kom' href='#Ihebr-1-2'>Hebr&nbsp;1,2</a>.
+ }
+#}
+#hebr-2-6 {
+ {
+  Vgl §ps-8-5
  }
 #}
 #hebr-2-7 {
