@@ -61515,6 +61515,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
+ {
+  <i>sündige nicht mehr</i> §joh-8-11
+ }
 #}
 #joh-5-18 {
  {
@@ -61524,6 +61527,11 @@
    TODO: <a href='http://bibel.renenyffenegger.ch/joh_8.html#v59'>Joh&nbsp;8,59</a>,
    <a class='kom' href='#Ijoh-10-33'>Joh&nbsp;10,33</a> und
    <a class='kom' href='#Ijoh-19-7'>Joh&nbsp;19,7</a>.
+ }
+#}
+#joh-5-19 {
+ {
+  <i>kann nichts von sich selbst tun</i> §joh-8-28, §joh-9-33, §joh-15-5
  }
 #}
 #joh-5-20 {
@@ -61564,6 +61572,11 @@
   <i>aus den Gräbern heraus</i>: <a class='kom' href='#Ips-107-20'>Ps&nbsp;107,20</a>.
  }
 #}
+#joh-5-31 {
+ {
+   Vgl §joh-8-13-14
+ }
+#}
 #joh-5-32 {
  {
   Beachte: Vers 37: Der Vater hat Zeugnis gegeben, Vers 39: Die Schriften geben Zeugnis.
@@ -61588,6 +61601,9 @@
 #joh-5-36 {
  {
   <i>Das Werk vollbringen</i>: §+joh-4-34.
+ }
+ {
+  <i>Werke, welche der Vater mir gegeben hat</i> vgl §joh-10-25
  }
 #}
 #joh-5-37 {
@@ -61947,6 +61963,11 @@
     <a class='kom' href='#Ihebr-9-9'>Hebr&nbsp;9,9</a>.
  }
 #}
+#joh-8-11 {
+ {
+  <i>sündige nicht mehr</i> §joh-5-14
+ }
+#}
 #joh-8-12 {
  {
   <i>Licht der Welt</i>: vgl §joh-12-46, §joh-1-9
@@ -61957,6 +61978,9 @@
  }
 #}
 #joh-8-14 {
+ {
+  <i>wenn ich von mir selbst zeuge, ist mein Zeugnis wahr</i> vgl §joh-5-31
+ }
  {
   <i>woher gekommen</i>: <a class='kom' href='#Ijoh-7-27'>Joh&nbsp;7,27</a>.
  }
@@ -62006,6 +62030,9 @@
 #joh-8-28 {
  {
   Der <i>erhöhte Sohn des Menschen</i>: <a class='kom' href='#Ijoh-3-14'>Joh&nbsp;3,14</a>.
+ }
+ {
+  <i>dass ich nichts von mir selbst tue</i> §joh-5-19, joh-9-33, §joh-15-5
  }
  {
   TODO: Auch Jesus wurde gelehrt.
@@ -62173,6 +62200,9 @@
 #}
 #joh-9-33 {
  {
+  <i>so könnte er nichts tun</i> §joh-5-19, §joh-8-28, §joh-15-5
+ }
+ {
   <i>von Gott sein</i> vgl §+joh-3-2, §Vjoh-9-16
  }
 #}
@@ -62249,6 +62279,9 @@
 #joh-10-25 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes, vgl §+joh-4-34
+ }
+ {
+  <i>Werke, die ich im Nmen meines Vaters tue</i> vgl §joh-5-36
  }
 #}
 #joh-10-28 {
@@ -62817,7 +62850,10 @@
 #}
 #joh-15-5 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/offb_14.html#v18'>Offb 14,18-19</a>.
+  <i>Könnt ihr nichts tun</i> §joh-5-19, §joh-8-28, §joh-9-33, §joh-15-5
+ }
+ {
+  Vgl mit §offb-14-18-19.
  }
 #}
 #joh-15-8 {
