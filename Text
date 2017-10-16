@@ -12887,7 +12887,7 @@
 #3mo-11-45 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
-  <br>seid heilig denn ich bin heilig</i> vgl §3mo-22-33
+  <br><i>seid heilig denn ich bin heilig</i> vgl §3mo-22-33
  }
 #}
 #3mo-11-46 {
@@ -36598,14 +36598,14 @@
 #}
 #ps-7-16 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/spr_26.html#v27'>Spr&nbsp;26,27</a>.
+  <i>Grube</i> Vgl §ps-9-16, §spr-26-27
  }
 #}
 @}
 @Psalm 8 {
 #ps-8-2 {
  {
-  <i>HERR, unser Herrscher, wie herrlich ist dein Name auf der ganzen Erde</i> vgl Vers 10.
+  <i>HERR, unser Herrscher, wie herrlich ist dein Name auf der ganzen Erde</i> vgl §Vps-8-10.
  }
 #}
 #ps-8-3 {
@@ -36662,6 +36662,11 @@
   <br>Vgl auch mit §joh-21-25: Die Welt würde die geschriebenen Bücher nicht fassen, wenn die Dinge niedergeschrieben würden, die Jesus getan hat.
  }
 #}
+#ps-9-16 {
+ {
+  <i>Grube</i> vgl §ps-7-16
+ }
+#}
 #ps-9-20 {
  {
   <i>Stehe auf, HERR</i> §ps-10-12
@@ -36671,6 +36676,11 @@
 }
 { 11-20
 @Psalm 10 {
+#ps-10-4 {
+ {
+  <i>Es ist kein Gott</i> vgl §ps-14-1
+ }
+#}
 #ps-10-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
@@ -36700,7 +36710,7 @@
 #}
 #ps-11-5 {
  {
-  <a class='kom' href='#Ips-7-10'>Ps&nbsp;7,10</a>.
+   <i>den Gerechten prüfen</i> vgl §+ps-7-10.
  }
 #}
 #ps-11-6 {
@@ -36741,6 +36751,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
+ }
+ {
+  <i>Es ist kein Gott</i> vgl §ps-10-4
  }
 #}
 @}
