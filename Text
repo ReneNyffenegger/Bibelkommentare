@@ -70297,7 +70297,7 @@
 #}
 #roem-14-12 {
  {
-  <i>Gott Rechenschaft geben</i>: <a class='kom' href='#Imt-12-36'>Mt&nbsp;12,36</a>.
+  <i>Gott Rechenschaft geben</i>: §+mt-12-36.
  }
 #}
 #roem-14-13 {
@@ -70315,7 +70315,7 @@
 #}
 #roem-14-20 {
  {
-  <i>Zerstöre nicht einer Speise wegen …</i> vgl §Vroem-14-15, §hebr-12-16
+  <i>Zerstöre nicht einer Speise wegen …</i> vgl §Vroem-14-15, §hebr-12-16, §1kor-3-17
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes
@@ -71127,6 +71127,8 @@
 #1kor-3-17 {
  {
   <i>Wenn jemand den Tempel Gottes verdirbt, den wird Gott verderben</i> vgl §5mo-9-12 und §5mo-9-26
+  <br>
+   Vgl §roem-14-20
  }
 #}
 #1kor-3-18 {
@@ -71962,7 +71964,7 @@
 #}
 #1kor-10-14 {
  {
-  <i>Flieht den Götzendienst</i> vgl §+1kor-6-18.
+  <i>Flieht den Götzendienst</i> vgl §1joh-5-21, §+1kor-6-18
  }
 #}
 #1kor-10-16 {
@@ -73214,14 +73216,17 @@
 #}
 #2kor-3-18 {
  {
-  Vgl <a class='kom' href='#I1kor-13-12'>1.&nbsp;Kor&nbsp;13,12</a>.
+  Vgl §+1kor-13-12.
  }
  {
-  'verwandelt werden' vgl <a class='kom' href='#Iroem-12-2'>Röm&nbsp;12,2</a>.
-  <br>Vgl auch <a class='kom' href='#Iroem-8-29'>Röm&nbsp;8,29</a>
+  <i>verwandelt werden</i> vgl §+roem-12-2.
+  <br>Vgl auch §+roem-8-29
  }
  {
-  TODO: Siehe auch <a href='http://bibel.renenyffenegger.ch/roem_8.html#v28'>Röm&nbsp;8,28</a> und <a class='kom' href='#Imt-22-20'>Mt&nbsp;22,20</a>.
+  <i>Die Herrlichkeit des Herrn anschauend</i> vgl §hebr-12-2
+ }
+ {
+  <i>Bild</i> vgl §+mt-22-20.
  }
 #}
 @}
@@ -81389,8 +81394,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Freude</i>: vgl <a class='kom' href='#Ijes-53-11'>Jes&nbsp;53,11</a>.
  }
  {
-  <i>hinschauen</i>: <a class='kom' href='#Ihebr-2-8'>Hebr&nbsp;2,8</a>.
-  <br>TODO Das Wort ist <span class='gr'>ἀφοράω</span> (Strongs 872) welches vielleicht besser mit «weggschauend» übersetzt würde.
+  <i>wegschauen auf Jesus</i> vgl §2kor-3-18
+  <br>
+  <br><i>wegschauen</i> ist <span class='gr'>ἀφοράω</span> (Strongs 872) welches vielleicht besser mit «weggschauend» übersetzt würde.
+  Elberfelder übersetzt mit «hinschauend», Sch2K mit «hinschauen», KJV mit «Looking unto».
+ }
+ {
+  <i>hinschauen</i>: §+hebr-2-8.
  }
 #}
 #hebr-12-5 {
@@ -84033,7 +84043,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1joh-5-21 {
  {
-  Siehe auch <a class='kom' href='#Ijoh-13-33'>Joh&nbsp;13,33</a> betreffend <span class='gr'>τεκνίον</span>.
+  Siehe auch §+joh-13-33 betreffend <span class='gr'>τεκνίον</span>.
+ }
+ {
+  Vgl §1kor-10-14
  }
  {
   <span class='gt'>NA ohne «Amen».</span>.
