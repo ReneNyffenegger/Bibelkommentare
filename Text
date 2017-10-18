@@ -73083,6 +73083,11 @@
 #}
 @}
 @2. Korinther 5 {
+#2kor-5-1 {
+ {
+  Hütte (Zelt) vgl §V2kor-5-4, §2petr-1-13-14
+ }
+#}
 #2kor-5-4 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v53'>1.&nbsp;Kor&nbsp;15,53</a>.
@@ -80460,13 +80465,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-8-2 {
  {
-  <i>Stiftshüte</i> (<span class='gr'>σκηνή</span>, Strongs 4633) wird häufig mit 'Hütte' oder 'Zelt' übersetzt
-  (Vgl <a class='kom' href='#Imt-17-4'>Mt&nbsp;17,4</a>)
-  Dieses Wort wird in <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v2'>Hebr 9,2-21</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_13.html#v6'>Offb&nbsp;13,6</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_15.html#v5'>Offb&nbsp;15,5</a> und
-  <a href='http://bibel.renenyffenegger.ch/offb_21.html#v3'>Offb&nbsp;21,3</a> mit 'Zelt' übersetzt. (TODO: Möglicherweise
-  wird es auch an andern Orten mit Zelt übersetzt.)
+  <i>Zelt</i> (<span class='gr'>σκηνή</span>, Strongs 4633) wird in Sch2K mit «Stiftshütte», in Elberfelder mit «Hütte» übersetzt.
+  <br>
+  Vgl §+mt-17-4
+ }
+ {
+  TODO Zelt: Dieses Wort wird in §hebr-9-2-21,
+  §offb-13-6,
+  §offb-15-5 und
+  §offb-21-3 mit 'Zelt' übersetzt.
  }
  {
   <i>Heiligtum</i> <span class='gr'>ἅγιον</span>, Strongs 39. TODO: Ist offenbar das Neutrum von <span class='gr'>ἅγιος</span>, Strongs 40.
@@ -82923,7 +82930,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2petr-1-13 {
  {
-  <i>Zelt</i>: <span class='gr'>σκήνωμα</span> (Strongs 4638): <a class='kom' href='#Imt-17-4'>Mt&nbsp;17,4</a>.
+  <i>Hütte/Zelt</i>: <span class='gr'>σκήνωμα</span> (Strongs 4638): §+mt-17-4.
+  <br>
+   Vgl §2kor-5-1
  }
 #}
 #2petr-1-15 {
@@ -86610,7 +86619,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>geöffneter → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel</i>: Vgl §+offb-11-19.
  }
  {
-  <i>Zelt</i>: <a class='kom' href='#Ihebr-8-2'>Hebr&nbsp;8,2</a>.
+  <i>Zelt</i>: §+hebr-8-2, §offb-21-3
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft#zelt-des-zeugnisses
@@ -87409,11 +87418,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-21-3 {
  {
-  <i>wohnen</i>: <a class='kom' href='#Ijoh-1-14'>Joh&nbsp;1,14</a>.
-  <br>TODO: Ist das eine Erfüllung von <a class='kom' href='#Ioffb-7-15'>Offb&nbsp;7,15</a>?
+  <i>wohnen</i>: §+joh-1-14.
  }
  {
-  <i>Zelt</i>: <a class='kom' href='#Ihebr-8-2'>Hebr&nbsp;8,2</a>.
+  <i>Zelt</i>: §+hebr-8-2, §offb-15-5
+ }
+ {
+  <br>TODO: Ist das eine Erfüllung von §+offb-7-15?
  }
 #}
 #offb-21-4 {
