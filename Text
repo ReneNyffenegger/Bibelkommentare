@@ -7143,6 +7143,11 @@
   Beachte: der HERR ist <i>herabgekommen</i>.
  }
 #}
+#2mo-3-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+#}
 #2mo-3-12 {
  {
   <i>wenn du das Volk aus Ägypten herausgeführt hast, werdet ihr auf diesem Berg Gott dienen</i>: Dies hat Jethro wohl mitgekriegt, denn nach dem Auszug des Volkes
@@ -7589,6 +7594,9 @@
 #}
 #2mo-7-5 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+ {
   <i>Die Ägypter sollen erkennen, dass ich der HERR bin</i>: Vgl
   <a href='http://bibel.renenyffenegger.ch/hes_29.html#v6'>Hes 29,6/9</a>, <a href='http://bibel.renenyffenegger.ch/hes_30.html#v19'>Hes&nbsp;30,19</a>,
   <a href='http://bibel.renenyffenegger.ch/hes_32.html#v15'>Hes&nbsp;32,15</a>.
@@ -8017,7 +8025,9 @@
 #}
 #2mo-12-17 {
  {
-  <i>Heerscharen aus Ägypten herausführen</i>: <a class='kom' href='#I2mo-6-26'>2.&nbsp;Mo&nbsp;6,26</a>.
+  <i>Heere aus Ägypten herausführen</i>: §+2mo-6-26, → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+  <br>
+   Sch2K übersetzt <i>Heere</i> mit «Heerscharen».
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/An-eben-diesem-Tag
@@ -8163,6 +8173,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/An-eben-diesem-Tag
  }
 #}
+#2mo-12-42 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+#}
 #2mo-12-45 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Mietling
@@ -8212,7 +8227,8 @@
 #}
 #2mo-13-3 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-aus-knechtschaft-herausgefuehrt vgl §2mo-20-2
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-aus-knechtschaft-herausgefuehrt vgl §2mo-20-2,
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
  {
   <a class='kom' href='#Ijos-4-9'>Jos&nbsp;4,9</a>.
@@ -8348,6 +8364,9 @@
  }
 #}
 #2mo-14-11 {
+ {
+  <i>Warum hast du uns → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen[aus Ägypten herausgeführt]?</i> vgl §2mo-17-3
+ }
  {
   TODO Dies ist die erste von zehn Versuchungen → biblisches/Exodus/Zehnmalige-Versuchung
  }
@@ -8577,6 +8596,9 @@
 #}
 #2mo-16-6 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+ {
   <i>Den HERRN erkennen</i>: <a class='kom' href='#I2mo-6-7'>2.&nbsp;Mo&nbsp;6,7</a>
  }
 #}
@@ -8661,6 +8683,9 @@
 #2mo-16-32 {
  {
   <i>Das ist es, was der HERR...</i> siehe <a class='kom' href='#I2mo-16-23'>2.&nbsp;Mo&nbsp;16,23</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
  {
   TODO: vgl mit dem «verborgenen Manna» in <a class='kom' href='#Ioffb-2-17'>Offb&nbsp;2,17</a>.
@@ -8857,6 +8882,9 @@
  }
  {
   Jethro: siehe §+2mo-2-16.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 #2mo-18-3 {
@@ -10728,6 +10756,8 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
  }
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+  <br>
   <i>Den HERRN erkennen</i>: <a class='kom' href='#I2mo-6-7'>2.&nbsp;Mo&nbsp;6,7</a>
  }
 #}
@@ -12857,6 +12887,7 @@
 #3mo-11-45 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+  <br><i>seid heilig denn ich bin heilig</i> vgl §3mo-22-33
  }
 #}
 #3mo-11-46 {
@@ -13661,7 +13692,7 @@
 #}
 #3mo-19-36 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin, → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
  {
   'Gewicht' (<span class='hebr'>אֶבֶן</span>, Strongs 68) an andern Orten mit Stein übersetzt.
@@ -13972,7 +14003,12 @@
 #}
 #3mo-22-33 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott,
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+  <br>
+  <i>der euch heiligt</i> vgl §3mo-11-45
  }
 #}
 @}
@@ -14107,6 +14143,11 @@
  }
  {
   <i>Bach</i>: <a class='kom' href='#I1mo-26-17'>1.&nbsp;Mo&nbsp;26,17</a>.
+ }
+#}
+#3mo-23-43 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 @}
@@ -14303,7 +14344,8 @@
 #}
 #3mo-25-38 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 #3mo-25-39 {
@@ -14326,6 +14368,9 @@
  }
  {
   <i>Knechte</i> wie auch <i>Sklaven</i> sind im Hebräischen <span class='hebr'>עֶבֶד</span> (Strongs 5650).
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 #3mo-25-43 {
@@ -14383,7 +14428,8 @@
 #3mo-26-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-aus-knechtschaft-herausgefuehrt ,
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 #3mo-26-19 {
@@ -14433,6 +14479,11 @@
 #3mo-26-41 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
+ }
+#}
+#3mo-26-45 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 #3mo-26-46 {
@@ -15330,7 +15381,8 @@
 #}
 #4mo-11-20 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels,
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 #4mo-11-24 {
@@ -15808,7 +15860,8 @@
 #}
 #4mo-15-41 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 @}
@@ -16127,6 +16180,11 @@
 #4mo-20-14 {
  {
   TODO: Gemäss <a href='http://bibel.renenyffenegger.ch/ri_11.html#v17'>Ri&nbsp;11,17</a> wurde auch zum König der Moabiter gesandt. Passierte dies hier?
+ }
+#}
+#4mo-20-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 #4mo-20-22 {
@@ -16483,6 +16541,11 @@
   oder 'Lärm blasen' (<a href='http://bibel.renenyffenegger.ch/4mo_10.html#v5'>4.&nbsp;Mo&nbsp;10,5</a>)
  }
 #}
+#4mo-23-22 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen, vgl §4mo-24-8
+ }
+#}
 #4mo-23-28 {
  {
   TODO: Bileam, der Sohn <b>B</b>eors auf dem Gipfel des <b>P</b>eors.
@@ -16531,6 +16594,11 @@
   <i>Agag</i> ist der Name des amalekischen Königs, den Saul schlägt (<a href='http://bibel.renenyffenegger.ch/1sam_15.html#v8'>1.&nbsp;Sam&nbsp;15,8</a>).
   <br>Offenbar bedeutet Agag (<span class='hebr'>אֲגַג</span>, Strongs 90) 'zornig werden' oder 'I will overtop' und sei der
       Titel der amalekitischen Könige.
+ }
+#}
+#4mo-24-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen, vgl §4mo-23-22
  }
 #}
 #4mo-24-9 {
@@ -17671,6 +17739,9 @@
 #}
 #5mo-1-27 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+ {
   Murren: <a class='kom' href='#I2mo-15-24'>2.&nbsp;Mo&nbsp;15,24</a>
  }
 #}
@@ -18050,6 +18121,11 @@
   <i>Vom Himel her hat er dich seine Stime hören lassen</i> §+2mo-20-22, §neh-9-13
  }
 #}
+#5mo-4-37 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+#}
 #5mo-4-40 {
  {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/joh_20.html#v31'>Joh&nbsp;20,31</a> (Leben in Seinem Namen).
@@ -18126,7 +18202,8 @@
   Vgl Unterschied zu §2mo-20-11
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-knechte-aegyptens[Wir waren Knechte des Pharao], → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat/index
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-knechte-aegyptens[Wir waren Knechte des Pharao], → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat/index,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 #5mo-5-16 {
@@ -18237,7 +18314,8 @@
 #}
 #5mo-6-21 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-knechte-aegyptens[Wir waren Knechte des Pharao]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-knechte-aegyptens[Wir waren Knechte des Pharao],
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen (vgl §5mo-8-14)
  }
 #}
 #5mo-6-22 {
@@ -18359,7 +18437,8 @@
 #}
 #5mo-8-14 {
  {
-  <i>Haus der Knechschaft</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-knechte-aegyptens
+  <i>Haus der Knechschaft</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-knechte-aegyptens,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen (Vgl §5mo-6-21)
  }
 #}
 #5mo-8-15 {
@@ -18403,6 +18482,9 @@
  {
    Vgl §2mo-32-7-ff
  }
+ {
+  <i>hat sich verdirbt</i> vgl §5mo-9-26, §1kor-3-17
+ }
 #}
 #5mo-9-13 {
  {
@@ -18417,6 +18499,11 @@
 #5mo-9-16 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#gegossenes-kalb
+ }
+#}
+#5mo-9-17 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 #5mo-9-18 {
@@ -18677,7 +18764,8 @@
 #}
 #5mo-13-6 {
  {
-  <i>Haus der Knechschaft</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-knechte-aegyptens, §V5mo-13-11
+  <i>Haus der Knechschaft</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-knechte-aegyptens, §V5mo-13-11,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
@@ -18790,7 +18878,8 @@
 #5mo-16-1 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Monat/Aehren,
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah (vgl §4mo-33-3)
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah (vgl §4mo-33-3),
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 #5mo-16-2 {
@@ -18999,6 +19088,9 @@
 @}
 @5. Mose 20 {
 #5mo-20-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
  {
   <i>nicht vor ihnen fürchten</i> vgl. §5mo-18-22
  }
@@ -19276,7 +19368,8 @@
 @5. Mose 26 {
 #5mo-26-8 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder#zeichen-wunder-auszug-aegypten
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder#zeichen-wunder-auszug-aegypten,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 #5mo-26-15 {
@@ -19488,6 +19581,11 @@
  {
    Siehe <a class='kom' href='#I1mo-19-24'>1.&nbsp;Mo&nbsp;19,24</a>.
    <br><i>Adama</i> und <i>Zeboim</i> vgl <a href='http://bibel.renenyffenegger.ch/hos_11.html#v8'>Hos&nbsp;11,8</a>.
+ }
+#}
+#5mo-29-24 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
 #5mo-29-25 {
@@ -25636,6 +25734,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
+ {
+  Vgl §2chr-6-5
+ }
 #}
 #2sam-7-7 {
  {
@@ -29025,7 +29126,7 @@
 #}
 #2koe-17-7 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen, vgl §2chr-7-22
  }
 #}
 #2koe-17-10 {
@@ -32038,7 +32139,7 @@
 #}
 #2chr-6-5 {
  {
-  <a class='kom' href='#I2chr-4-1'>2.&nbsp;Chr&nbsp;4,1</a>.
+  §+2chr-4-1, §2sam-7-6
  }
 #}
 #2chr-6-16 {
@@ -32095,6 +32196,11 @@
 #2chr-7-14 {
  {
   <i>Vom Himmel her hören</i> §neh-9-27
+ }
+#}
+#2chr-7-22 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen, vgl §2koe-17-7
  }
 #}
 @}
@@ -36386,6 +36492,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/heilig
  }
 #}
+#ps-3-6 {
+ {
+  Vgl §ps-4-9
+ }
+#}
 #ps-3-8 {
  {
   Kinnbacken (<span class='hebr'>לְחִי</span>, Strongs 3895). TODO: <i>Auf die Kinnbacken schlagen</i> vgl <a class='kom' href='#I1koe-22-24'>1.&nbsp;Kö&nbsp;22,24</a>.
@@ -36404,6 +36515,11 @@
   Vgl §+eph-4-26
  }
 #}
+#ps-4-9 {
+ {
+  Vgl §ps-3-6
+ }
+#}
 @}
 @Psalm 5 {
 #ps-5-1 {
@@ -36416,6 +36532,11 @@
  {
   Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel war noch gar nicht gebaut. S.a.  §ps-11-4,
   §ps-18-7, §ps-27-4, §ps-29-9, §ps-65-5, §ps-68-30, §ps-138-2.
+ }
+#}
+#ps-5-10 {
+ {
+  Vgl §roem-3-13
  }
 #}
 @}
@@ -36433,6 +36554,11 @@
 #ps-6-4 {
  {
   Menge übersetzt mit: «Du aber, o HERR, – wie lange noch (willst du fern sein)?».
+ }
+#}
+#ps-6-6 {
+ {
+  Vgl §jes-38-18
  }
 #}
 @}
@@ -36459,7 +36585,7 @@
      <a href='http://bibel.renenyffenegger.ch/offb_2.html#v23'>Offb&nbsp;2,23</a>
  }
  {
-  Der gerechte Gott prüf Herzen und Nieren, in <a href='http://bibel.renenyffenegger.ch/ps_11.html#v5'>Ps&nbsp;11,5</a> prüft der HERR den Gerechten.
+  Der gerechte Gott prüft Herzen und Nieren, in §ps-11-5 prüft der HERR den Gerechten.
  }
 #}
 #ps-7-11 {
@@ -36472,14 +36598,14 @@
 #}
 #ps-7-16 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/spr_26.html#v27'>Spr&nbsp;26,27</a>.
+  <i>Grube</i> Vgl §ps-9-16, §spr-26-27
  }
 #}
 @}
 @Psalm 8 {
 #ps-8-2 {
  {
-  <i>HERR, unser Herrscher, wie herrlich ist dein Name auf der ganzen Erde</i> vgl Vers 10.
+  <i>HERR, unser Herrscher, wie herrlich ist dein Name auf der ganzen Erde</i> vgl §Vps-8-10.
  }
 #}
 #ps-8-3 {
@@ -36488,6 +36614,9 @@
  }
 #}
 #ps-8-5 {
+ {
+  Vgl §hebr-2-6
+ }
  {
   TODO: Adam vs Ben Enosch
   <br>
@@ -36533,6 +36662,11 @@
   <br>Vgl auch mit §joh-21-25: Die Welt würde die geschriebenen Bücher nicht fassen, wenn die Dinge niedergeschrieben würden, die Jesus getan hat.
  }
 #}
+#ps-9-16 {
+ {
+  <i>Grube</i> vgl §ps-7-16
+ }
+#}
 #ps-9-20 {
  {
   <i>Stehe auf, HERR</i> §ps-10-12
@@ -36542,6 +36676,11 @@
 }
 { 11-20
 @Psalm 10 {
+#ps-10-4 {
+ {
+  <i>Es ist kein Gott</i> vgl §ps-14-1
+ }
+#}
 #ps-10-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
@@ -36571,7 +36710,7 @@
 #}
 #ps-11-5 {
  {
-  <a class='kom' href='#Ips-7-10'>Ps&nbsp;7,10</a>.
+   <i>den Gerechten prüfen</i> vgl §+ps-7-10.
  }
 #}
 #ps-11-6 {
@@ -36612,6 +36751,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
+ }
+ {
+  <i>Es ist kein Gott</i> vgl §ps-10-4
  }
 #}
 @}
@@ -39812,6 +39954,13 @@
 #ps-139-3 {
  {
   TODO: <i>äussersten</i> (Strongs 319) siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
+ }
+#}
+@}
+@Psalm 140 {
+#ps-140-4 {
+ {
+  Vgl §roem-3-13
  }
 #}
 @}
@@ -43706,6 +43855,11 @@
 #jes-38-11 {
  {
    <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>.
+ }
+#}
+#jes-38-18 {
+ {
+  Vgl §ps-6-6
  }
 #}
 @}
@@ -60955,7 +61109,9 @@
   → biblisches/Orte/Nazareth
  }
  {
-  <i>Sohn Josephs</i>: <a href='http://bibel.renenyffenegger.ch/joh_6.html#v42'>Joh&nbsp;6,42</a>
+  <i>Sohn Josephs</i>: §joh-6-42.
+ <br>
+  Nathanael erkennt Ihn in §Vjoh-1-49 als Sohn Gottes.
  }
 #}
 #joh-1-46 {
@@ -61480,6 +61636,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
+ {
+  <i>sündige nicht mehr</i> §joh-8-11
+ }
 #}
 #joh-5-18 {
  {
@@ -61489,6 +61648,11 @@
    TODO: <a href='http://bibel.renenyffenegger.ch/joh_8.html#v59'>Joh&nbsp;8,59</a>,
    <a class='kom' href='#Ijoh-10-33'>Joh&nbsp;10,33</a> und
    <a class='kom' href='#Ijoh-19-7'>Joh&nbsp;19,7</a>.
+ }
+#}
+#joh-5-19 {
+ {
+  <i>kann nichts von sich selbst tun</i> §joh-8-28, §joh-9-33, §joh-15-5
  }
 #}
 #joh-5-20 {
@@ -61529,6 +61693,11 @@
   <i>aus den Gräbern heraus</i>: <a class='kom' href='#Ips-107-20'>Ps&nbsp;107,20</a>.
  }
 #}
+#joh-5-31 {
+ {
+   Vgl §joh-8-13-14
+ }
+#}
 #joh-5-32 {
  {
   Beachte: Vers 37: Der Vater hat Zeugnis gegeben, Vers 39: Die Schriften geben Zeugnis.
@@ -61553,6 +61722,9 @@
 #joh-5-36 {
  {
   <i>Das Werk vollbringen</i>: §+joh-4-34.
+ }
+ {
+  <i>Werke, welche der Vater mir gegeben hat</i> vgl §joh-10-25
  }
 #}
 #joh-5-37 {
@@ -61912,6 +62084,11 @@
     <a class='kom' href='#Ihebr-9-9'>Hebr&nbsp;9,9</a>.
  }
 #}
+#joh-8-11 {
+ {
+  <i>sündige nicht mehr</i> §joh-5-14
+ }
+#}
 #joh-8-12 {
  {
   <i>Licht der Welt</i>: vgl §joh-12-46, §joh-1-9
@@ -61922,6 +62099,9 @@
  }
 #}
 #joh-8-14 {
+ {
+  <i>wenn ich von mir selbst zeuge, ist mein Zeugnis wahr</i> vgl §joh-5-31
+ }
  {
   <i>woher gekommen</i>: <a class='kom' href='#Ijoh-7-27'>Joh&nbsp;7,27</a>.
  }
@@ -61971,6 +62151,9 @@
 #joh-8-28 {
  {
   Der <i>erhöhte Sohn des Menschen</i>: <a class='kom' href='#Ijoh-3-14'>Joh&nbsp;3,14</a>.
+ }
+ {
+  <i>dass ich nichts von mir selbst tue</i> §joh-5-19, joh-9-33, §joh-15-5
  }
  {
   TODO: Auch Jesus wurde gelehrt.
@@ -62138,6 +62321,9 @@
 #}
 #joh-9-33 {
  {
+  <i>so könnte er nichts tun</i> §joh-5-19, §joh-8-28, §joh-15-5
+ }
+ {
   <i>von Gott sein</i> vgl §+joh-3-2, §Vjoh-9-16
  }
 #}
@@ -62214,6 +62400,9 @@
 #joh-10-25 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes, vgl §+joh-4-34
+ }
+ {
+  <i>Werke, die ich im Nmen meines Vaters tue</i> vgl §joh-5-36
  }
 #}
 #joh-10-28 {
@@ -62782,7 +62971,10 @@
 #}
 #joh-15-5 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/offb_14.html#v18'>Offb 14,18-19</a>.
+  <i>Könnt ihr nichts tun</i> §joh-5-19, §joh-8-28, §joh-9-33, §joh-15-5
+ }
+ {
+  Vgl mit §offb-14-18-19.
  }
 #}
 #joh-15-8 {
@@ -68906,6 +69098,11 @@
   Vgl <a class='kom' href='#Ips-51-6'>Ps&nbsp;51,6</a>.
  }
 #}
+#roem-3-13 {
+ {
+  Vgl §ps-5-10, §ps-140-4
+ }
+#}
 #roem-3-15 {
  {
   Vgl §spr-1-16, §jes-59-7
@@ -70925,6 +71122,11 @@
    Dieser Geist Gottes ist der Heilige Geist (<a href='http://bibel.renenyffenegger.ch/1kor_6.html#v19'>1.&nbsp;Kor&nbsp;6,19</a>).
    <br>Vgl <a class='kom' href='#I3mo-26-11'>3.&nbsp;Mo&nbsp;26,11</a> und <a class='kom' href='#I2kor-6-16'>2.&nbsp;Kor&nbsp;6,16</a>
    und <a class='kom' href='#Iroem-8-11'>Röm&nbsp;8,11</a>.
+ }
+#}
+#1kor-3-17 {
+ {
+  <i>Wenn jemand den Tempel Gottes verdirbt, den wird Gott verderben</i> vgl §5mo-9-12 und §5mo-9-26
  }
 #}
 #1kor-3-18 {
@@ -79920,6 +80122,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-2-5 {
  {
   <i>zukünftige Welt</i>: <a class='kom' href='#Ihebr-1-2'>Hebr&nbsp;1,2</a>.
+ }
+#}
+#hebr-2-6 {
+ {
+  Vgl §ps-8-5
  }
 #}
 #hebr-2-7 {
