@@ -36820,9 +36820,16 @@
 #}
 @}
 @Psalm 18 {
+#ps-18-2 {
+ {
+  <i>HERR, meine Stärke</i> vgl §eph-6-10
+ }
+#}
 #ps-18-3 {
  {
-  Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>. Ebenso Verse 31 und 36.
+  Der HERR ist ein <i>Schild</i>: §+1mo-15-1. Ebenso Verse 31 und 36.
+  <br>
+   <i>Schild meines Heils</i> vgl «Helm des Heils» §jes-59-17, §eph-6-17, §ps-18-36
  }
  {
   Der Rest dieses Psalmes scheint §2sam-22-3-ff zu entsprechen.
@@ -44751,7 +44758,7 @@
 #}
 #jes-59-17 {
  {
-  <i>Panzer der Gerechtigkeit</i> und <i>Helm des Heils</i>: <a class='kom' href='#Ieph-6-14'>Eph 6,14/17</a>.
+  <i>Panzer der Gerechtigkeit</i> und <i>Helm des Heils</i>: §eph-6-14, §eph-6-17, §ps-18-3
  }
 #}
 #jes-59-20 {
@@ -63888,8 +63895,7 @@
   <a href='http://bibel.renenyffenegger.ch/offb_16.html#v5'>Offb&nbsp;16,5</a>.
  }
  {
-  TODO: Dieses Zitat stammt aus <a class='kom' href='#Ips-16-8'>Ps 16,8-10</a>. Es wird in der Apostelgeschichte in <a href='http://bibel.renenyffenegger.ch/apg_13.html#v34'>Apg&nbsp;13,34</a>
-  nochmals zitiert.
+  Dieses Zitat stammt aus §+ps-16-8-10. Es wird in der §apg-13-34 nochmals zitiert.
  }
 #}
 #apg-2-29 {
@@ -66259,6 +66265,9 @@
 #apg-13-35 {
  {
   <i>Du wirst nicht zugeben, …</i>: Zitat stammt aus <a class='kom' href='#Ips-16-10'>Ps&nbsp;16,10</a>.
+ }
+ {
+  <i>Deshalb sagt er auch an einer anderen Stelle</i> vgl §hebr-5-6
  }
 #}
 #apg-13-36 {
@@ -75555,6 +75564,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Übrigens, Brüder</i>: §+2kor-13-11
  }
+ {
+  <i>seid stark in dem Herrn</i> vgl §ps-18-2
+ }
 #}
 #eph-6-11 {
  {
@@ -75610,6 +75622,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-6-17 {
  {
   <i>Heil</i>: <a class='kom' href='#Ilk-2-30'>Lk&nbsp;2,30</a>.
+ }
+ {
+  <i>Helm des Heils</i> vgl §ps-18-3, §jes-59-17
  }
 #}
 #eph-6-19 {
@@ -80398,6 +80413,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-5-6 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v5'>Hebr&nbsp;1,5</a>.
+ }
+ {
+  <i>Wie er auch an einer anderen Stelle sagt</i> vgl §apg-13-35
  }
 #}
 #hebr-5-7 {
