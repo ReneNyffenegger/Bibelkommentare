@@ -12887,7 +12887,7 @@
 #3mo-11-45 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
-  <br>seid heilig denn ich bin heilig</i> vgl §3mo-22-33
+  <br><i>seid heilig denn ich bin heilig</i> vgl §3mo-22-33
  }
 #}
 #3mo-11-46 {
@@ -36598,14 +36598,14 @@
 #}
 #ps-7-16 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/spr_26.html#v27'>Spr&nbsp;26,27</a>.
+  <i>Grube</i> Vgl §ps-9-16, §spr-26-27
  }
 #}
 @}
 @Psalm 8 {
 #ps-8-2 {
  {
-  <i>HERR, unser Herrscher, wie herrlich ist dein Name auf der ganzen Erde</i> vgl Vers 10.
+  <i>HERR, unser Herrscher, wie herrlich ist dein Name auf der ganzen Erde</i> vgl §Vps-8-10.
  }
 #}
 #ps-8-3 {
@@ -36662,6 +36662,11 @@
   <br>Vgl auch mit §joh-21-25: Die Welt würde die geschriebenen Bücher nicht fassen, wenn die Dinge niedergeschrieben würden, die Jesus getan hat.
  }
 #}
+#ps-9-16 {
+ {
+  <i>Grube</i> vgl §ps-7-16
+ }
+#}
 #ps-9-20 {
  {
   <i>Stehe auf, HERR</i> §ps-10-12
@@ -36671,6 +36676,11 @@
 }
 { 11-20
 @Psalm 10 {
+#ps-10-4 {
+ {
+  <i>Es ist kein Gott</i> vgl §ps-14-1
+ }
+#}
 #ps-10-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
@@ -36700,7 +36710,7 @@
 #}
 #ps-11-5 {
  {
-  <a class='kom' href='#Ips-7-10'>Ps&nbsp;7,10</a>.
+   <i>den Gerechten prüfen</i> vgl §+ps-7-10.
  }
 #}
 #ps-11-6 {
@@ -36741,6 +36751,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
+ }
+ {
+  <i>Es ist kein Gott</i> vgl §ps-10-4
  }
 #}
 @}
@@ -36807,9 +36820,16 @@
 #}
 @}
 @Psalm 18 {
+#ps-18-2 {
+ {
+  <i>HERR, meine Stärke</i> vgl §eph-6-10
+ }
+#}
 #ps-18-3 {
  {
-  Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>. Ebenso Verse 31 und 36.
+  Der HERR ist ein <i>Schild</i>: §+1mo-15-1. Ebenso Verse 31 und 36.
+  <br>
+   <i>Schild meines Heils</i> vgl «Helm des Heils» §jes-59-17, §eph-6-17, §ps-18-36
  }
  {
   Der Rest dieses Psalmes scheint §2sam-22-3-ff zu entsprechen.
@@ -44755,7 +44775,7 @@
 #}
 #jes-59-17 {
  {
-  <i>Panzer der Gerechtigkeit</i> und <i>Helm des Heils</i>: <a class='kom' href='#Ieph-6-14'>Eph 6,14/17</a>.
+  <i>Panzer der Gerechtigkeit</i> und <i>Helm des Heils</i>: §eph-6-14, §eph-6-17, §ps-18-3
  }
 #}
 #jes-59-20 {
@@ -61640,6 +61660,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
+ {
+  <i>sündige nicht mehr</i> §joh-8-11
+ }
 #}
 #joh-5-18 {
  {
@@ -61649,6 +61672,11 @@
    TODO: <a href='http://bibel.renenyffenegger.ch/joh_8.html#v59'>Joh&nbsp;8,59</a>,
    <a class='kom' href='#Ijoh-10-33'>Joh&nbsp;10,33</a> und
    <a class='kom' href='#Ijoh-19-7'>Joh&nbsp;19,7</a>.
+ }
+#}
+#joh-5-19 {
+ {
+  <i>kann nichts von sich selbst tun</i> §joh-8-28, §joh-9-33, §joh-15-5
  }
 #}
 #joh-5-20 {
@@ -61689,6 +61717,11 @@
   <i>aus den Gräbern heraus</i>: <a class='kom' href='#Ips-107-20'>Ps&nbsp;107,20</a>.
  }
 #}
+#joh-5-31 {
+ {
+   Vgl §joh-8-13-14
+ }
+#}
 #joh-5-32 {
  {
   Beachte: Vers 37: Der Vater hat Zeugnis gegeben, Vers 39: Die Schriften geben Zeugnis.
@@ -61713,6 +61746,9 @@
 #joh-5-36 {
  {
   <i>Das Werk vollbringen</i>: §+joh-4-34.
+ }
+ {
+  <i>Werke, welche der Vater mir gegeben hat</i> vgl §joh-10-25
  }
 #}
 #joh-5-37 {
@@ -62072,6 +62108,11 @@
     <a class='kom' href='#Ihebr-9-9'>Hebr&nbsp;9,9</a>.
  }
 #}
+#joh-8-11 {
+ {
+  <i>sündige nicht mehr</i> §joh-5-14
+ }
+#}
 #joh-8-12 {
  {
   <i>Licht der Welt</i>: vgl §joh-12-46, §joh-1-9
@@ -62082,6 +62123,9 @@
  }
 #}
 #joh-8-14 {
+ {
+  <i>wenn ich von mir selbst zeuge, ist mein Zeugnis wahr</i> vgl §joh-5-31
+ }
  {
   <i>woher gekommen</i>: <a class='kom' href='#Ijoh-7-27'>Joh&nbsp;7,27</a>.
  }
@@ -62131,6 +62175,9 @@
 #joh-8-28 {
  {
   Der <i>erhöhte Sohn des Menschen</i>: <a class='kom' href='#Ijoh-3-14'>Joh&nbsp;3,14</a>.
+ }
+ {
+  <i>dass ich nichts von mir selbst tue</i> §joh-5-19, joh-9-33, §joh-15-5
  }
  {
   TODO: Auch Jesus wurde gelehrt.
@@ -62298,6 +62345,9 @@
 #}
 #joh-9-33 {
  {
+  <i>so könnte er nichts tun</i> §joh-5-19, §joh-8-28, §joh-15-5
+ }
+ {
   <i>von Gott sein</i> vgl §+joh-3-2, §Vjoh-9-16
  }
 #}
@@ -62374,6 +62424,9 @@
 #joh-10-25 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes, vgl §+joh-4-34
+ }
+ {
+  <i>Werke, die ich im Nmen meines Vaters tue</i> vgl §joh-5-36
  }
 #}
 #joh-10-28 {
@@ -62942,7 +62995,10 @@
 #}
 #joh-15-5 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/offb_14.html#v18'>Offb 14,18-19</a>.
+  <i>Könnt ihr nichts tun</i> §joh-5-19, §joh-8-28, §joh-9-33, §joh-15-5
+ }
+ {
+  Vgl mit §offb-14-18-19.
  }
 #}
 #joh-15-8 {
@@ -63856,8 +63912,7 @@
   <a href='http://bibel.renenyffenegger.ch/offb_16.html#v5'>Offb&nbsp;16,5</a>.
  }
  {
-  TODO: Dieses Zitat stammt aus <a class='kom' href='#Ips-16-8'>Ps 16,8-10</a>. Es wird in der Apostelgeschichte in <a href='http://bibel.renenyffenegger.ch/apg_13.html#v34'>Apg&nbsp;13,34</a>
-  nochmals zitiert.
+  Dieses Zitat stammt aus §+ps-16-8-10. Es wird in der §apg-13-34 nochmals zitiert.
  }
 #}
 #apg-2-29 {
@@ -66227,6 +66282,9 @@
 #apg-13-35 {
  {
   <i>Du wirst nicht zugeben, …</i>: Zitat stammt aus <a class='kom' href='#Ips-16-10'>Ps&nbsp;16,10</a>.
+ }
+ {
+  <i>Deshalb sagt er auch an einer anderen Stelle</i> vgl §hebr-5-6
  }
 #}
 #apg-13-36 {
@@ -70265,7 +70323,7 @@
 #}
 #roem-14-12 {
  {
-  <i>Gott Rechenschaft geben</i>: <a class='kom' href='#Imt-12-36'>Mt&nbsp;12,36</a>.
+  <i>Gott Rechenschaft geben</i>: §+mt-12-36.
  }
 #}
 #roem-14-13 {
@@ -70283,7 +70341,7 @@
 #}
 #roem-14-20 {
  {
-  <i>Zerstöre nicht einer Speise wegen …</i> vgl §Vroem-14-15, §hebr-12-16
+  <i>Zerstöre nicht einer Speise wegen …</i> vgl §Vroem-14-15, §hebr-12-16, §1kor-3-17
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes
@@ -71095,6 +71153,8 @@
 #1kor-3-17 {
  {
   <i>Wenn jemand den Tempel Gottes verdirbt, den wird Gott verderben</i> vgl §5mo-9-12 und §5mo-9-26
+  <br>
+   Vgl §roem-14-20
  }
 #}
 #1kor-3-18 {
@@ -71930,7 +71990,7 @@
 #}
 #1kor-10-14 {
  {
-  <i>Flieht den Götzendienst</i> vgl §+1kor-6-18.
+  <i>Flieht den Götzendienst</i> vgl §1joh-5-21, §+1kor-6-18
  }
 #}
 #1kor-10-16 {
@@ -73182,14 +73242,17 @@
 #}
 #2kor-3-18 {
  {
-  Vgl <a class='kom' href='#I1kor-13-12'>1.&nbsp;Kor&nbsp;13,12</a>.
+  Vgl §+1kor-13-12.
  }
  {
-  'verwandelt werden' vgl <a class='kom' href='#Iroem-12-2'>Röm&nbsp;12,2</a>.
-  <br>Vgl auch <a class='kom' href='#Iroem-8-29'>Röm&nbsp;8,29</a>
+  <i>verwandelt werden</i> vgl §+roem-12-2.
+  <br>Vgl auch §+roem-8-29
  }
  {
-  TODO: Siehe auch <a href='http://bibel.renenyffenegger.ch/roem_8.html#v28'>Röm&nbsp;8,28</a> und <a class='kom' href='#Imt-22-20'>Mt&nbsp;22,20</a>.
+  <i>Die Herrlichkeit des Herrn anschauend</i> vgl §hebr-12-2
+ }
+ {
+  <i>Bild</i> vgl §+mt-22-20.
  }
 #}
 @}
@@ -73253,6 +73316,11 @@
 #}
 @}
 @2. Korinther 5 {
+#2kor-5-1 {
+ {
+  Hütte (Zelt) vgl §V2kor-5-4, §2petr-1-13-14
+ }
+#}
 #2kor-5-4 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v53'>1.&nbsp;Kor&nbsp;15,53</a>.
@@ -75523,6 +75591,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Übrigens, Brüder</i>: §+2kor-13-11
  }
+ {
+  <i>seid stark in dem Herrn</i> vgl §ps-18-2
+ }
 #}
 #eph-6-11 {
  {
@@ -75578,6 +75649,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-6-17 {
  {
   <i>Heil</i>: <a class='kom' href='#Ilk-2-30'>Lk&nbsp;2,30</a>.
+ }
+ {
+  <i>Helm des Heils</i> vgl §ps-18-3, §jes-59-17
  }
 #}
 #eph-6-19 {
@@ -80367,6 +80441,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v5'>Hebr&nbsp;1,5</a>.
  }
+ {
+  <i>Wie er auch an einer anderen Stelle sagt</i> vgl §apg-13-35
+ }
 #}
 #hebr-5-7 {
  {
@@ -80635,13 +80712,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-8-2 {
  {
-  <i>Stiftshüte</i> (<span class='gr'>σκηνή</span>, Strongs 4633) wird häufig mit 'Hütte' oder 'Zelt' übersetzt
-  (Vgl <a class='kom' href='#Imt-17-4'>Mt&nbsp;17,4</a>)
-  Dieses Wort wird in <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v2'>Hebr 9,2-21</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_13.html#v6'>Offb&nbsp;13,6</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_15.html#v5'>Offb&nbsp;15,5</a> und
-  <a href='http://bibel.renenyffenegger.ch/offb_21.html#v3'>Offb&nbsp;21,3</a> mit 'Zelt' übersetzt. (TODO: Möglicherweise
-  wird es auch an andern Orten mit Zelt übersetzt.)
+  <i>Zelt</i> (<span class='gr'>σκηνή</span>, Strongs 4633) wird in Sch2K mit «Stiftshütte», in Elberfelder mit «Hütte» übersetzt.
+  <br>
+  Vgl §+mt-17-4
+ }
+ {
+  TODO Zelt: Dieses Wort wird in §hebr-9-2-21,
+  §offb-13-6,
+  §offb-15-5 und
+  §offb-21-3 mit 'Zelt' übersetzt.
  }
  {
   <i>Heiligtum</i> <span class='gr'>ἅγιον</span>, Strongs 39. TODO: Ist offenbar das Neutrum von <span class='gr'>ἅγιος</span>, Strongs 40.
@@ -81350,8 +81429,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Freude</i>: vgl <a class='kom' href='#Ijes-53-11'>Jes&nbsp;53,11</a>.
  }
  {
-  <i>hinschauen</i>: <a class='kom' href='#Ihebr-2-8'>Hebr&nbsp;2,8</a>.
-  <br>TODO Das Wort ist <span class='gr'>ἀφοράω</span> (Strongs 872) welches vielleicht besser mit «weggschauend» übersetzt würde.
+  <i>wegschauen auf Jesus</i> vgl §2kor-3-18
+  <br>
+  <br><i>wegschauen</i> ist <span class='gr'>ἀφοράω</span> (Strongs 872) welches vielleicht besser mit «weggschauend» übersetzt würde.
+  Elberfelder übersetzt mit «hinschauend», Sch2K mit «hinschauen», KJV mit «Looking unto».
+ }
+ {
+  <i>hinschauen</i>: §+hebr-2-8.
  }
 #}
 #hebr-12-5 {
@@ -83098,7 +83182,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2petr-1-13 {
  {
-  <i>Zelt</i>: <span class='gr'>σκήνωμα</span> (Strongs 4638): <a class='kom' href='#Imt-17-4'>Mt&nbsp;17,4</a>.
+  <i>Hütte/Zelt</i>: <span class='gr'>σκήνωμα</span> (Strongs 4638): §+mt-17-4.
+  <br>
+   Vgl §2kor-5-1
  }
 #}
 #2petr-1-15 {
@@ -83992,7 +84078,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1joh-5-21 {
  {
-  Siehe auch <a class='kom' href='#Ijoh-13-33'>Joh&nbsp;13,33</a> betreffend <span class='gr'>τεκνίον</span>.
+  Siehe auch §+joh-13-33 betreffend <span class='gr'>τεκνίον</span>.
+ }
+ {
+  Vgl §1kor-10-14
  }
  {
   <span class='gt'>NA ohne «Amen».</span>.
@@ -86785,7 +86874,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>geöffneter → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel</i>: Vgl §+offb-11-19.
  }
  {
-  <i>Zelt</i>: <a class='kom' href='#Ihebr-8-2'>Hebr&nbsp;8,2</a>.
+  <i>Zelt</i>: §+hebr-8-2, §offb-21-3
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft#zelt-des-zeugnisses
@@ -87584,11 +87673,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-21-3 {
  {
-  <i>wohnen</i>: <a class='kom' href='#Ijoh-1-14'>Joh&nbsp;1,14</a>.
-  <br>TODO: Ist das eine Erfüllung von <a class='kom' href='#Ioffb-7-15'>Offb&nbsp;7,15</a>?
+  <i>wohnen</i>: §+joh-1-14.
  }
  {
-  <i>Zelt</i>: <a class='kom' href='#Ihebr-8-2'>Hebr&nbsp;8,2</a>.
+  <i>Zelt</i>: §+hebr-8-2, §offb-15-5
+ }
+ {
+  <br>TODO: Ist das eine Erfüllung von §+offb-7-15?
  }
 #}
 #offb-21-4 {
