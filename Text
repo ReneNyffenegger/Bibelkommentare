@@ -36878,6 +36878,11 @@
   <i>geläutert</i>: <a class='kom' href='#I2sam-22-31'>2.&nbsp;Sam&nbsp;22,31</a>.
  }
 #}
+#ps-18-33 {
+ {
+  <i>Kraft</i> vgl §ps-21-2, §Vps-18-40
+ }
+#}
 #ps-18-50 {
  {
   Vers zitiert in <a href='http://bibel.renenyffenegger.ch/roem_15.html#v9'>R&ouml;m&nbsp;15,9</a>.
@@ -36932,6 +36937,18 @@
 @}
 }
 { 21-30
+@Psalm 21 {
+#ps-21-2 {
+ {
+  <i>In deiner Kraft</i> vgl §ps-18-33
+ }
+#}
+#ps-21-5 {
+ {
+  Meint David mit <i>König</i> sich selbst? Vgl §ps-20-2.
+ }
+#}
+@}
 @Psalm 22 {
 #ps-22-2 {
  {
