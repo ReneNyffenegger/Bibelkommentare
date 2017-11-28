@@ -8200,7 +8200,7 @@
 #}
 #2mo-12-46 {
  {
-  <i>Kein Bein an ihm zerbrechen</i> vgl §ps-34-21, §joh-19-33
+  <i>Kein Bein an ihm zerbrechen</i> vgl §ps-34-21, §+joh-19-36
  }
 #}
 #2mo-12-48 {
@@ -15207,6 +15207,11 @@
 #4mo-9-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche#leiche-verunreinigen
+ }
+#}
+#4mo-9-12 {
+ {
+  Vgl §2mo-12-46, §joh-19-36
  }
 #}
 #4mo-9-15 {
@@ -37293,7 +37298,7 @@
 #}
 #ps-34-21 {
  {
-  Vgl §2mo-12-46, §joh-19-33
+  Vgl §2mo-12-46, §4mo-9-12, §+joh-19-36
  }
 #}
 @}
@@ -63383,6 +63388,11 @@
 #joh-19-35 {
  {
   <i>damit ihr glaubt</i>: <a class='kom' href='#Ijoh-6-35'>Joh&nbsp;6,35</a>.
+ }
+#}
+#joh-19-36 {
+ {
+   <i>Kein Bein zerbrochen</i> vgl §2mo-12-46, §4mo-9-12 
  }
 #}
 #joh-19-37 {
