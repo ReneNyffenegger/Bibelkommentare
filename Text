@@ -11908,6 +11908,11 @@
   <i>vollenden</i> (Strongs 3615): §+1mo-2-1-2
  }
 #}
+#2mo-40-34 {
+ {
+  <i>Die Herrlichkeit erfüllte die Wohnung</i> vgl §ps-26-8
+ }
+#}
 #2mo-40-35 {
  {
   <i>→ biblisches/Personen/Mose konnte nicht in das Zelt der Zusammenkunft hineingehen</i> vgl §1koe-8-11, §2chr-7-2, §offb-15-8.
@@ -36735,6 +36740,11 @@
    <i>Scheminith</i> (<span class='hebr'><span class='grey'>הַ</span>שְּׁמִינִ֗ית</span>) siehe <a class='kom' href='#I1chr-15-21'>1.&nbsp;Chr&nbsp;15,21</a>.
  }
 #}
+#ps-12-3 {
+ {
+  Vgl §ps-28-3
+ }
+#}
 #ps-12-7 {
  {
   <i>geläutert</i> <span class='hebr'>זָקַק</span> (Strongs 2212)
@@ -36793,6 +36803,9 @@
  }
 #}
 #ps-16-7 {
+ {
+  <i>Den HERRN werde ich preisen</i> vgl §ps-26-12
+ }
  {
    TODO: eigtl wörtlich «Nieren» statt «Inneres». Vgl <a class='kom' href='#Ispr-23-16'>Spr&nbsp;23,16</a>.
  }
@@ -37039,9 +37052,19 @@
   <i>harren</i>: <a class='kom' href='#I1mo-49-18'>1.&nbsp;Mo&nbsp;49,18</a>.
  }
 #}
+#ps-25-5 {
+ {
+  Vgl §ps-26-3
+ }
+#}
 #ps-25-6 {
  {
   TODO: Vgl <i>Gnade</i> mit «Gnade und Wahrheit» in Vers 10.
+ }
+#}
+#ps-25-7 {
+ {
+  <i>Gedenke nicht der Sünden …</i> vgl §ps-26-6
  }
 #}
 #ps-25-9 {
@@ -37089,7 +37112,7 @@
 #}
 #ps-25-22 {
  {
-  TODO: Nachdem → biblisches/Personen/David im ganzen Psalm nur von sich selbst geredet hat, macht er jetzt Fürbitte für Israel.
+  Nachdem → biblisches/Personen/David im ganzen Psalm nur von sich selbst geredet hat, macht er jetzt Fürbitte für Israel. Vgl §ps-28-9
  }
 #}
 @}
@@ -37102,10 +37125,18 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/versuchen
  }
 #}
+#ps-26-3 {
+ {
+  Vgl §ps-25-5
+ }
+#}
 #ps-26-6 {
  {
   <i>Hände in Unschuld waschen</i>: vgl <a href='http://bibel.renenyffenegger.ch/ps_73.html#v13'>Ps&nbsp;73,13</a>,
   <a href='http://bibel.renenyffenegger.ch/mt_27.html#v24'>Mt&nbsp;27,24</a>.
+ }
+ {
+  Vgl §+25-7
  }
 #}
 #ps-26-7 {
@@ -37113,8 +37144,23 @@
   <i>die Wundertaten erzählen</i>: §+ps-9-1.
  }
 #}
+#ps-26-8 {
+ {
+  <i>Wohnort deiner Herrlichkeit</i> vgl §2mo-40-34
+ }
+#}
+#ps-26-12 {
+ {
+  <i>Den HERRN werde ich preisen</i> vgl §ps-16-7
+ }
+#}
 @}
 @Psalm 27 {
+#ps-27-1 {
+ {
+  <i>Der HERR ist mein Licht</i> vgl §joh-8-12
+ }
+#}
 #ps-27-4 {
  {
   Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel ist noch gar nicht gebaut: §+ps-5-8.
@@ -37135,6 +37181,11 @@
 #}
 @}
 @Psalm 28 {
+#ps-28-3 {
+ {
+  Vgl §ps-12-3
+ }
+#}
 #ps-28-7 {
  {
   Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>.
@@ -37147,6 +37198,9 @@
  {
   <i>David, der Schafhirte</i>: <a class='kom' href='#I1sam-16-11'>1.&nbsp;Sam&nbsp;16,11</a>.
   <br>Vgl auch <a class='kom' href='#Ips-23-1'>Ps&nbsp;23,1</a>.
+ }
+ {
+  Vgl §+ps-25-22
  }
 #}
 @}
@@ -62120,7 +62174,7 @@
 #}
 #joh-8-12 {
  {
-  <i>Licht der Welt</i>: vgl §joh-12-46, §joh-1-9
+  <i>Licht der Welt</i>: vgl §joh-12-46, §joh-1-9, §ps-27-1
  }
  {
   Beachte: Hier redet der Herr wieder zu ihnen, obwohl er mit der Frau allein gelassen wurde (Vers 9) und er niemanden sah (Vers 10).
