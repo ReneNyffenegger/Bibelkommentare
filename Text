@@ -18017,6 +18017,9 @@
  {
   <i>Senir</i>: <a class='kom' href='#I1chr-5-23'>1.&nbsp;Chr&nbsp;5,23</a>.
  }
+ {
+  <i>Sirjon</i> §ps-29-6
+ }
 #}
 #5mo-3-11 {
  {
@@ -36443,6 +36446,11 @@
   <i>Warum toben die Nationen</i>: vgl §ps-46-7
  }
 #}
+#ps-2-2 {
+ {
+  Vgl §ps-33-11
+ }
+#}
 #ps-2-6 {
  {
    <i>Zion</i> ist der <i>heilige Berg</i> (oder auf ihm): <a href='http://bibel.renenyffenegger.ch/joe_4.html#v17'>Joe&nbsp;4,17</a>.
@@ -37112,7 +37120,8 @@
 #}
 #ps-25-22 {
  {
-  Nachdem → biblisches/Personen/David im ganzen Psalm nur von sich selbst geredet hat, macht er jetzt Fürbitte für Israel. Vgl §ps-28-9
+  Nachdem → biblisches/Personen/David im ganzen Psalm nur von sich selbst geredet hat, macht er jetzt Fürbitte für Israel. Vgl §ps-28-9,
+  §ps-19-11
  }
 #}
 @}
@@ -37181,6 +37190,11 @@
 #}
 @}
 @Psalm 28 {
+#ps-28-1 {
+ {
+  §+ps-30-4
+ }
+#}
 #ps-28-3 {
  {
   Vgl §ps-12-3
@@ -37211,9 +37225,19 @@
   <br>Vgl <a href='http://bibel.renenyffenegger.ch/ps_89.html#v7'>Ps&nbsp;89,7</a>.
  }
 #}
+#ps-29-6 {
+ {
+  <i>Sirjon</i> ist der zidonische Name für den Hermon §5mo-3-9.
+ }
+#}
 #ps-29-9 {
  {
   Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel ist noch gar nicht gebaut: §+ps-5-8.
+ }
+#}
+#ps-29-11 {
+ {
+  TODO: Im letzten Vers eines Psalms wird das Volk Israel erwähht, vgl §+ps-25-22
  }
 #}
 @}
@@ -37221,6 +37245,13 @@
 #ps-30-1 {
  {
   Beachte: das Haus Gottes war zu Lebzeiten noch nicht gebaut. Dieses Haus bezieht sich wohl auf das Haus von David, oder auf das von Salomo gebaute.
+ }
+#}
+#ps-30-4 {
+ {
+  Beachte: Hier sagt → biblisches/Personen/David, dass der HERR seine Seele aus dem Scheol heraufgeführt hat, in
+  §apg-2-29-ff sagt → biblisches/Personen/Petrus, dass David gestorben und begraben ist, aber auch, dass er ein
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet war.
  }
 #}
 @}
@@ -37255,6 +37286,11 @@
  }
  {
   Vgl §roem-4-6-ff, §jes-26-10.
+ }
+#}
+#ps-32-5 {
+ {
+  Vgl §1joh-1-9
  }
 #}
 #ps-32-11 {
@@ -37308,6 +37344,11 @@
 #ps-33-10 {
  {
   Vgl Gedanken und Ratschluss der Heiden mit denen des HERRN.
+ }
+#}
+#ps-33-11 {
+ {
+  Vgl §ps-2-2
  }
 #}
 #ps-33-12 {
@@ -63990,8 +64031,10 @@
   <a href='http://bibel.renenyffenegger.ch/hebr_7.html#v4'>Hebr&nbsp;7,4</a> (Abraham) mit 'Patriarch' übersetzt.
  }
  {
-  <i>Davids Grab</i> ist noch da, er ist also (noch nicht) auferstanden. Vgl: <a class='kom' href='#I1koe-2-10'>1.&nbsp;Kö&nbsp;2,10</a>. Christus hingegen ist
+  <i>Davids Grab</i> ist noch da, er ist also (noch nicht) auferstanden. Vgl: §+1koe-2-10. Christus hingegen ist
   ausserdem ist bereits auferstanden: §Vapg-2-31.
+  <br>
+   Vgl §+ps-30-4, §ps-28-1
  }
  {
   <i>Männer und Brüder</i>: <a class='kom' href='#Iapg-1-16'>Apg&nbsp;1,16</a>.
@@ -83635,7 +83678,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1joh-1-9 {
  {
-  <i>Wenn wir unsere Sünden bekennen</i> vgl §3mo-5-5
+  <i>Wenn wir unsere Sünden bekennen</i> vgl §3mo-5-5, §ps-32-5
  }
  {
    <i>uns reinigt</i>: vgl §+2kor-7-1.
