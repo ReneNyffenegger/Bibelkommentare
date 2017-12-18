@@ -37343,7 +37343,7 @@
 #}
 #ps-33-10 {
  {
-  Vgl Gedanken und Ratschluss der Heiden mit denen des HERRN.
+  Vgl Gedanken und Ratschluss der Heiden mit denen des HERRN im nächsten Vers.
  }
 #}
 #ps-33-11 {
@@ -37391,6 +37391,13 @@
   Vgl <a class='kom' href='#Ips-33-14'>Ps&nbsp;33,14</a>.
  }
 #}
+#ps-34-19 {
+ {
+  <i>zerbrochenes Herz</i> vgl §ps-147-3, §jes-61-1
+  <br>
+  <i>zerschlagener Geist</i> vgl §+jes-57-15
+ }
+#}
 #ps-34-21 {
  {
   Vgl §2mo-12-46, §4mo-9-12, §+joh-19-36
@@ -37405,6 +37412,11 @@
  {
   TODO: <i>Kleinschild</i> <span class='hebr'>מָגֵן</span> (Strongs 4043). <i>Langschild</i> <span class='hebr'>צִנָּה</span> (Strongs 6793).
   Siehe auch <a href='http://bibel.renenyffenegger.ch/1koe_10.html#v16'>1.&nbsp;Kö&nbsp;10,16</a>.
+ }
+#}
+#ps-35-7 {
+ {
+  Vgl §ps-69-5
  }
 #}
 #ps-35-20 {
@@ -38122,6 +38134,11 @@
 #ps-69-3 {
  {
   <i>Schlamm</i>: vgl Vers 15. Vgl auch <a href='http://bibel.renenyffenegger.ch/jer_38.html#v6'>Jer 38,6-13</a>.
+ }
+#}
+#ps-69-5 {
+ {
+  <i>Ohne Ursache hassen</i> vgl §ps-35-7
  }
 #}
 #ps-69-7 {
@@ -40238,6 +40255,9 @@
 #ps-147-3 {
  {
   <i>Wunden</i>: <a class='kom' href='#I1mo-3-16'>1.&nbsp;Mo&nbsp;3,16</a>.
+ }
+ {
+  <i>zerbrochenes Herz</i> vgl §+ps-34-19
  }
 #}
 #ps-147-4 {
@@ -44803,6 +44823,11 @@
   Vgl mit <a class='kom' href='#Ijer-6-21'>Jer&nbsp;6,21</a>, wo dem Volk Anstösse in den Weg gelegt werden sollen.
  }
 #}
+#jes-57-15 {
+ {
+  <i>zerschlagener Geist</i> vgl §ps-34-19, §jes-66-2
+ }
+#}
 #jes-57-19 {
  {
   <i>Friede, Friede</i>: <ul>
@@ -44988,6 +45013,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit/ausrufen
  }
+ {
+  <i>zerbrochenes Herz</i> vgl §+ps-34-19
+ }
 #}
 #jes-61-2 {
  {
@@ -45169,6 +45197,11 @@
 #}
 @}
 @Jesaja 66 {
+#jes-66-2 {
+ {
+  <i>zerschlagener Geist</i> vgl §+jes-57-15
+ }
+#}
 #jes-66-3 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
@@ -63487,7 +63520,7 @@
 #}
 #joh-19-36 {
  {
-   <i>Kein Bein zerbrochen</i> vgl §2mo-12-46, §4mo-9-12 
+   <i>Kein Bein zerbrochen</i> vgl §2mo-12-46, §4mo-9-12, §ps-34-21
  }
 #}
 #joh-19-37 {
