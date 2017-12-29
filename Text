@@ -444,6 +444,11 @@
   <br>S.a. <a class='kom' href='#I1kor-11-7'>1.&nbsp;Kor&nbsp;11,7</a>.
  }
 #}
+#1mo-1-27 {
+ {
+  Die Erschaffung des Menschen scheint stark mit der Zahl → biblisches/Grundtext/Zahlen#n27 zusammenzuhängen.
+ }
+#}
 #1mo-1-28 {
  {
   TODO: herrschen hier: «radah», in <a href='http://bibel.renenyffenegger.ch/1mo_3.html#v16'>1.&nbsp;Mo&nbsp;3,16</a>: «maschal».
@@ -3814,10 +3819,8 @@
 @1. Mose 23 {
 #1mo-23-1 {
  {
-  Als Sarah starb, war Abram wohl 137 Jahre alt (vgl <a href='http://bibel.renenyffenegger.ch/1mo_17.html#v17'>1.&nbsp;Mo&nbsp;17,17</a>). Ebenso alt
-  wurden Ismael (<a href='http://bibel.renenyffenegger.ch/1mo_25.html#v17'>1.&nbsp;Mo&nbsp;25,17</a>), Levi
-  (<a href='http://bibel.renenyffenegger.ch/2mo_6.html#v16'>2.&nbsp;Mo&nbsp;6,16</a>) und Amram (<a href='http://bibel.renenyffenegger.ch/2mo_6.html#v20'>2.&nbsp;Mo&nbsp;6,20</a>).
-  137 ist die 33. Primzahl.
+  Als Sarah starb, war → biblisches/Personen/Abraham[Abram] → biblisches/Grundtext/Zahlen/137 Jahre alt (vgl §1mo-17-17). Ebenso alt
+  wurden Ismael (§1mo-25-17), Levi (§2mo-6-16) und Amram (§2mo-6-20).
  }
 #}
 #1mo-23-2 {
@@ -4177,7 +4180,10 @@
 #}
 #1mo-25-17 {
  {
-  137 jährig gestorben: siehe <a class='kom' href='#I1mo-23-1'>1.&nbsp;Mo&nbsp;23,1</a>.
+  → biblisches/Grundtext/Zahlen/137 jährig gestorben: siehe §+1mo-23-1.
+ }
+ {
+  → biblisches/Personen/Ismael
  }
 #}
 #1mo-25-18 {
@@ -7434,10 +7440,10 @@
   <object data="svg_alle_kapitel/2mo_6_16.svg" type="image/svg+xml" width=620 height=320></object>
  }
  {
-  137 jährig gestorben: siehe §+1mo-23-1.
+  → biblisches/Grundtext/Zahlen/137 jährig gestorben: siehe §+1mo-23-1.
  }
  {
-  Die vier Generationen von §1mo-15-16 bezieht sich also auf Levi, Kahat, Amram und Mose.
+  Die vier Generationen von §1mo-15-16 beziehen sich auf Levi, Kahat, Amram und Mose.
  }
 #}
 #2mo-6-20 {
@@ -22426,11 +22432,10 @@
 #}
 #ri-3-31 {
  {
-  Zu den Zeiten <i>Schamgars</i> waren die Wege verödet; und die Wanderer gingen auf Schleichwegen, es fehlten Führer in Israel.
-  Ebenso in den Zeiten <i>Jaels</i> (<a href='http://bibel.renenyffenegger.ch/ri_5.html#v7'>Ri&nbsp;5,7</a>, <a href='http://bibel.renenyffenegger.ch/ri_4.html#v17'>Ri&nbsp;4,17</a>).
+  → biblisches/Personen/Schamgar, vgl §ri-5-6
  }
  {
-  <i>Anat</i> (<span class='hebr'>עֲנָת</span>, Strongs 6067) bedeutet wohl 'Antwort'.
+  <i>Anat</i> (<span class='hebr'>עֲנָת</span>, Strongs 6067) bedeutet wohl «Antwort», vgl «Beth-Anath» §ri-1-33
  }
 #}
 @}
@@ -22501,9 +22506,24 @@
 @Richter 5 {
 #ri-5-5 {
  {
-  <i>Zerfliessende Berge</i>: vgl <a href='http://bibel.renenyffenegger.ch/ps_97.html#v5'>Ps&nbsp;97,5</a>,
-  <a href='http://bibel.renenyffenegger.ch/hi_9.html#v5'>Hi&nbsp;9,5</a>,
-  <a href='http://bibel.renenyffenegger.ch/nah_1.html#v5'>Nah&nbsp;1,5</a> (eigtl: erhebende Berge).
+  <i>Erbebende Berge</i>: vgl §ps-97-5, §hi-9-5, §nah-1-5
+  <br>(Sch2K übersetzt mit: <i>Die Berge zerfolossen vor dem HERRN</i>, KJV mit <i>The mountains melted from before the LORD</i>).
+ }
+#}
+#ri-5-6 {
+ {
+  → biblisches/Personen/Schamgar, vgl §ri-3-31
+ }
+ {
+  Sch2K übersetzt mit <i>… zu den Zeiten Jaels waren die Wege verödet; und die Wanderer gingen auf Schleichwegen</i>,
+  KJV mit <i>in the days of Jael, the highways were unoccupied, and the travellers walked through byways.</i>
+ }
+#}
+#ri-5-7 {
+ {
+  Sch2K übersetzt mit <i>Es fehlten Führer in Israel, sie fehlten, bis ich, Debora, … </i>,
+  KJV mit <i>The inhabitants of the villages ceased, they ceased in Israel, until that I Deborah …</i>
+
  }
 #}
 #ri-5-8 {
@@ -23942,7 +23962,7 @@
 #}
 #1sam-7-6 {
  {
-  <i>Wasser ausschütten</i> dürfte kaum etwas zur Sündenvergebung beigetragen haben.
+  <i>Wasser ausschütten</i> dürfte kaum etwas zur Sündenvergebung beigetragen haben. (§hebr-9-22)
  }
  {
   <i>Zelt</i> und <i>Wohnung</i>: <a class='kom' href='#I2mo-25-9'>2.&nbsp;Mo&nbsp;25,9</a>.
@@ -58142,10 +58162,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
-  Vgl §joh-2-19-21, §mt-26-61, §mt-27-40
- }
- {
-  TODO: das scheint keine falsche Anschuldigung gewesen zu sein, denn das hat Er ja wirklich gesagt.
+  <i>der mit Händen gemacht ist</i> wurde von den Anklägern hinzugefügt, vgl §joh-2-19-21, §mt-26-61, §mt-27-40
  }
 #}
 #mk-14-61 {
@@ -83465,21 +83482,18 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2petr-2-5 {
  {
-  <i>Gottlose</i>: <a class='kom' href='#Ispr-17-15'>Spr&nbsp;17,15</a>.
+  <i>Gottlose</i>: §+spr-17-15.
  }
  {
   Vgl <i>alte Welt</i> und <i>Sintflut</i> mit <a class='kom' href='#I2petr-3-6'>2.&nbsp;Petr&nbsp;3,6</a>.
  }
  {
-  <i>als Achten</i>: einige Ausleger beziehen dies darauf, dass Noah die achte Person (neben seiner Frau, seinen drei Söhnen und ihren Frauen) auf der Arche war.
+  <i>als Achten</i>: einige Ausleger beziehen dies darauf, dass → biblisches/Personen/Noah die achte Person (neben seiner Frau, seinen drei Söhnen und ihren Frauen) auf der Arche war.
   Andere Ausleger beziehen dies darauf, dass Noah der achte (sogenannte) Patriarch war, der den Tod seines Vaters überlebte (→ biblisches/Personen/Henoch wurde entrückt und
   Lamech starb vor → biblisches/Personen/Methusalah, s.
    <a href='http://renenyffenegger.ch/Biblisches/Grafiken/Lebensalter-Adam-bis-Noah.html'>Lebensalter Adam bis Noah</a>.)
   <br>
-   Vgl mit »Henoch, der siebte nach Adam« (§jud-1-14).
- }
- {
-  TODO: Beachte: auch Henoch hat von Gottlosen geweissagt (<a href='http://bibel.renenyffenegger.ch/jud_1.html#v15'>Jud&nbsp;1,15</a>).
+   Vgl den »Verkündiger der Gerechtigkeit« (als Achten) mit »Henoch, der siebte nach Adam« hat von Gottlosen geweissagt (§jud-1-14-15)
  }
 #}
 #2petr-2-6 {
