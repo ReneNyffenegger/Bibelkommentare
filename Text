@@ -996,7 +996,8 @@
 #}
 #1mo-4-8 {
  {
-  Warum erschlug Kain seinen Bruder? Weil seine Werke böse waren, die seines Bruders aber gerecht (<a href='http://bibel.renenyffenegger.ch/1joh_3.html#v12'>1.&nbsp;Joh&nbsp;3,12</a>).
+  Warum erschlug Kain seinen Bruder? Weil seine Werke böse waren, die seines Bruders aber gerecht (§1joh-3-12).
+  <br>Vgl §ps-37-32
  }
  {
   <i>Feld</i>: <span class='hebr'>שָׂדֶה</span> (Strongs 7704).
@@ -36459,6 +36460,7 @@
  }
  {
   Der → biblisches/Bücher/Ketuvim/Psalmen/2[zweite Psalm] wurde vom «Knecht David» geschrieben §apg-4-25.
+  Vgl §ps-36-1
  }
  {
   <i>Warum toben die Nationen</i>: vgl §ps-46-7
@@ -37437,6 +37439,11 @@
   Vgl §ps-69-5
  }
 #}
+#ps-35-19 {
+ {
+  <i>die ohne Grund mir feind sind</i> vgl §ps-38-20
+ }
+#}
 #ps-35-20 {
  {
   TODO: <i>betrügerische Dinge</i> könnte wohl besser übersetzt werden.
@@ -37452,6 +37459,11 @@
 #}
 @}
 @Psalm 36 {
+#ps-36-1 {
+ {
+  <i>Vom Knecht des HERRN</i> vgl §ps-2-1
+ }
+#}
 #ps-36-2 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
@@ -37459,7 +37471,7 @@
 #}
 #ps-36-10 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Quelle/des-Lebens.
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Quelle/des-Lebens, → biblisches/Eigene-Uebersetzung/Konkordanz/Licht
  }
 #}
 @}
@@ -37467,6 +37479,11 @@
 #ps-37-1 {
  {
   <i>entzürnen</i>: Vgl Vers 7 und 8.
+ }
+#}
+#ps-37-2 {
+ {
+  <i>wie Gras vergehen</i> vgl §jak-1-10-11
  }
 #}
 #ps-37-3 {
@@ -37508,6 +37525,21 @@
  → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen
  }
 #}
+#ps-37-15 {
+ {
+  <i>Ihr Schwert wird in das eigene Herz dringen</i> vgl §lk-2-35
+ }
+#}
+#ps-37-19 {
+ {
+  <i>Hunger</i>: Sch2K übersetzt mit »Hungersnot«.
+ }
+#}
+#ps-37-32 {
+ {
+  Vgl §1joh-3-12, §1mo-4-8
+ }
+#}
 #ps-37-34 {
  {
   <i>harren</i>: <a class='kom' href='#I1mo-49-18'>1.&nbsp;Mo&nbsp;49,18</a>.
@@ -37530,6 +37562,16 @@
 #ps-38-13 {
  {
   <i>Betrug ersinnen</i>: <a class='kom' href='#Ips-35-20'>Ps&nbsp;35,20</a>.
+ }
+#}
+#ps-38-14 {
+ {
+  <i>seinen Mund nicht auftun</i> vgl §jes-53-7
+ }
+#}
+#ps-38-20 {
+ {
+  <i>die ohne Grund mich hassen</i> vgl §ps-35-19, §joh-15-25
  }
 #}
 @}
@@ -44709,8 +44751,7 @@
 #}
 #jes-53-7 {
  {
-  <i>Schaf</i> <span class='hebr'><span class='grey'>וּכְ</span>רָחֵ֕ל</span>: sonst mit <i>Mutterschaf</i> übersetzt (zB in
-  <a href='http://bibel.renenyffenegger.ch/1mo_31.html#v38'>1.&nbsp;Mo&nbsp;31,38</a>).
+  <i>Schaf</i> <span class='hebr'><span class='grey'>וּכְ</span>רָחֵ֕ל</span>: sonst mit <i>Mutterschaf</i> übersetzt (zB in §1mo-31-38).
  }
  {
   Vers 7 und 8 werden vom äthiopischen Kämmerer in §apg-8-32-33 gelesen.
@@ -44719,6 +44760,9 @@
   Vgl <a class='kom' href='#Ioffb-5-6'>Offb&nbsp;5,6</a>.
   TODO: Vgl <a class='kom' href='#Ijer-11-19'>Jer&nbsp;11,19</a>, <a href='http://bibel.renenyffenegger.ch/jer_12.html#v3'>Jer&nbsp;12,3</a>
   (Die Wörter für Schaf und Schlachtbank scheinen im Grundtext zu variieren).
+ }
+ {
+  <i>seinen Mund nicht auftun</i> vgl §ps-38-14
  }
 #}
 #jes-53-8 {
@@ -58690,6 +58734,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
+ {
+  <i>Schwert, das die Seele durchdringt</i> vgl §ps-37-15
+ }
 #}
 #lk-2-36 {
  {
@@ -63205,6 +63252,7 @@
 #}
 #joh-15-25 {
  {
+  <i>Sie haben mich ohne Urache gehasst</i>: §ps-38-20.
   Beachte: Das Gesetz umfasst auch die Psalmen.
  }
  {
@@ -81964,6 +82012,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <a href='http://bibel.renenyffenegger.ch/1petr_5.html#v6'>1.&nbsp;Petr&nbsp;5,6</a> (Petrus: fast gleicher Wortlaut)
  }
 #}
+#jak-1-10 {
+ {
+  <i>wie Gras vergehen</i> vgl §ps-37-2
+ }
+#}
 #jak-1-11 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Zierde
@@ -84043,6 +84096,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1joh-3-12 {
+ {
+  Vgl §ps-37-32
+ }
  {
    TODO: sind gerechte Werke 'das Opfer bringen'?
  }
