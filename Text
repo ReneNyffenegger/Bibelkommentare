@@ -1261,6 +1261,9 @@
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Söhne
  }
+ {
+  Gemäss dem → biblisches/Apokryphen/Buch-Henoch[Buch Henoch] ist der Strafort dieser <i>Söhne Gottes</i> für diese Tat der Tartaros.
+ }
 #}
 #1mo-6-3 {
  {
@@ -19905,6 +19908,11 @@
   <br>Vgl <i>Mensch Gottes</i> in <a class='kom' href='#I1tim-6-11'>1.&nbsp;Tim&nbsp;6,11</a>.
  }
 #}
+#5mo-33-2 {
+ {
+  <i>gekommen von heiligen Myriaden</i> vgl §jud-1-14.  
+ }
+#}
 #5mo-33-5 {
  {
   <i> Jeschurun</i>: <a class='kom' href='#I5mo-32-15'>5.&nbsp;Mo&nbsp;32,15</a>.
@@ -36355,6 +36363,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Behemoth, vgl §1mo-1-24
  }
 #}
+#hi-40-20 {
+ {
+  Dieser Vers enthält in der → biblisches/Grundtext/LXX das Wort → biblisches/Eigene-Uebersetzung/Konkordanz/Tartaros. Vgl §hi-41-24.
+ }
+#}
 #hi-40-25 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Leviathan
@@ -36365,6 +36378,12 @@
 #hi-41-15 {
  {
   KJV übersetzt <i>Schilder</i> mit «scales».
+ }
+#}
+#hi-41-24 {
+ {
+  Offenbar lautet dieser Vers in der → biblisches/Grundtext/LXX: <span class='gr'>τὸν δὲ τάρταρον τῆς ἀβύσσου ὥσπερ αἰχμάλωτον ἐλογίσατο ἄβυσσον εἰς περίπατον</span>.
+  Er enthält als → biblisches/Eigene-Uebersetzung/Konkordanz/Tartaros und Abyssos. 
  }
 #}
 @}
@@ -51663,6 +51682,11 @@
   TODO: Hat <i>Moraschit</i> etwas mit 'Moreschet-Gat' und/oder 'Marescha' zu tun?
  }
 #}
+#mi-1-4 {
+ {
+  <span class='u'>Vgl → biblisches/Apokryphen/Himmelfahrt-des-Moses#v10_4[Himmelfahrt des Moses, 10:4]</span>
+ }
+#}
 #mi-1-7 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
@@ -51769,8 +51793,8 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/sach_3.html#v10'>Sach&nbsp;3,10</a>.
  }
  {
-  TODO: Vgl mit Nathanael unter dem Feigenbaum (<a href='http://bibel.renenyffenegger.ch/joh_1.html#v48'>Joh&nbsp;1,48</a>).
-  Vgl auch mit <a href='http://bibel.renenyffenegger.ch/sach_3.html#v10'>Sach&nbsp;3,10</a>.
+  Vgl mit Nathanael unter dem Feigenbaum (§joh-1-48).
+  Vgl auch mit §sach-3-10.
  }
 #}
 #mi-4-7 {
@@ -51902,7 +51926,10 @@
 #}
 #nah-1-5 {
  {
-  <i>Sich erhebende Berge</i>: <a class='kom' href='#Iri-5-5'>Ri&nbsp;5,5</a>.
+  <i>Sich erhebende Berge</i>: §+ri-5-5.
+ }
+ {
+  <span class='u'>Vgl → biblisches/Apokryphen/Himmelfahrt-des-Moses#v10_4[Himmelfahrt des Moses, 10:4]</span>
  }
 #}
 #nah-1-6 {
@@ -52333,10 +52360,9 @@
 #}
 #sach-3-2 {
  {
-  TODO <i>der HERR schelte dich</i>: <a href='http://bibel.renenyffenegger.ch/jud_1.html#v9'>Jud&nbsp;1,9</a>.
- }
- {
-  TODO: beachte, dass in Judas auch die Rede ist von 'aus dem Feuer reissen' (<a href='http://bibel.renenyffenegger.ch/jud_1.html#v23'>Jud&nbsp;1,23</a>). Zufall?
+  <i>der HERR schelte dich</i>: §jud-1-9.
+  <br>
+  Beachte, dass in → biblisches/Bücher/jüdische-Briefe/Judas[Judasbrief] auch die Rede ist von »aus dem Feuer reissen« (§jud-1-23). Zufall?
  }
 #}
 #sach-3-8 {
@@ -59845,6 +59871,10 @@
  {
   <i>Hütet euch</i> vgl §Vlk-12-15
  }
+ {
+  <i>viele Tausende</i>: <span class='gr'><a href="http://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s3461"><a href="http://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s3461">μυριάς</a></a></span> (Strongs 3461),
+  könnte wohl auch mit «Zehntausende» übersetzt werden, vgl §apg-19-19, §apg-21-20, §hebr-12-22.
+ }
 #}
 #lk-12-2 {
  {
@@ -61351,8 +61381,8 @@
 #}
 #joh-1-48 {
  {
-  TODO. <i>Unter dem Feigenbaum</i>: <a class='kom' href='#I1koe-5-5'>1.&nbsp;Kö&nbsp;5,5</a> und <a class='kom' href='#Imi-4-4'>Mi&nbsp;4,4</a>.
-  <br>Vgl auch <a class='kom' href='#Ijes-34-4'>Jes&nbsp;34,4</a>.
+  <i>Unter dem Feigenbaum</i>: §+1koe-5-5 und §+mi-4-4.
+  <br>Vgl auch §+jes-34-4.
  }
 #}
 @}
@@ -67319,9 +67349,9 @@
 #apg-17-28 {
  {
   <span class='u'>
-  Das Zitat <i>Denn auch wir sind von seinem Geschlecht</i> stammt von <a href='http://de.wikipedia.org/wiki/Aratos_von_Soloi'>Aratos von Solois</a> Werk 'Phainomena'.
-  Offenbar bezieht sich dort 'seinem' auf Zeus.
-         </span>
+  Das Zitat <i>Denn wir sind sein Geschlecht</i> stammt von <a href='http://de.wikipedia.org/wiki/Aratos_von_Soloi'>Aratos von Solois</a> Werk <i>Phainomena</i>.
+  Offenbar bezieht sich dort »sein« auf Zeus.
+ </span>
  }
 #}
 #apg-17-29 {
@@ -68071,12 +68101,13 @@
 #}
 #apg-21-20 {
  {
-  <i>grosse Zahl</i> (<span class='gr'>μυριάς</span>, Strongs 3461), an anderen Orten mit 'Tausenden' übersetzt
-  (zB <a href='http://bibel.renenyffenegger.ch/lk_12.html#v1'>Lk&nbsp;12,1</a>). Vgl auch
-  Elberfelder 1905: '...wie viele Tausende der Juden es gibt...' und KJV:
-  '... how many thousands of Jews...'.
-  <br>Vgl auch <a class='kom' href='#Ihebr-12-22'>Hebr&nbsp;12,22</a>.
-  <br>TODO: Vgl auch Strongs 5505 (welches offenbar 'tausend' bedeutet'?)
+  <i>wie viele Tausende</i> (<span class='gr'><a href="http://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s3461">μυριάς</a></span>, Strongs 3461),
+  könnte wohl auch mit «Zehntausende» übersetzt werden., an anderen Orten mit 'Tausenden' übersetzt
+  Vgl §+lk-12-1, §apg-19-19, §+hebr-12-22
+  <br>
+  Sch2K übersetzt mit «welch grosse Zahl», KJV mit «how many thousands of Jews».
+  <br>
+    S.a. Strongs 5505 (welches offenbar «tausend» bedeutet)
  }
  {
   TODO: Ist dieses <i>Eifern für das Gesetz</i> etwas Gutes? Es scheint, als hätten bis hierhin
@@ -81756,10 +81787,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl mit <i>gekommen zu dem lebendigen Stein</i>: <a href='http://bibel.renenyffenegger.ch/1petr_2.html#v4'>1.&nbsp;Petr&nbsp;2,4</a>.
  }
  {
-  <i>Zehntausenden</i> (<span class='gr'>μυριάς</span>, Strongs 3461), an anderen Orten mit 'Tausenden' übersetzt
-  (zB <a href='http://bibel.renenyffenegger.ch/lk_12.html#v1'>Lk&nbsp;12,1</a>). Vgl auch <a class='kom' href='#Iapg-21-20'>Apg&nbsp;21,20</a>.
-  KJV: 'innumerable company', Elberfelder 1905: 'Myriaden'.
-  <br>Ebenso <a href='http://bibel.renenyffenegger.ch/jud_1.html#v14'>Jud&nbsp;1,14</a>
+  <i>Zehntausenden</i> (<span class='gr'><a href="http://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s3461">μυριάς</a></span>, Strongs 3461),
+  an anderen Orten mit «Tausenden» übersetzt.
+  (zB §+lk-12-1). Vgl auch §+apg-21-20.
+  Elberfelder transkribiert mit «Myriaden», KJV überetzt mit «innumerable company».
+  <br>Ebenso §jud-1-14
  }
  {
   <i>Berg Zion</i>: <a href='http://bibel.renenyffenegger.ch/offb_14.html#v1'>Offb&nbsp;14,1</a>,
@@ -83524,9 +83556,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2petr-2-4 {
  {
-  Das Wort das hier für Abgrund verwendet wird (<span class='gr'>ταρταρόω</span>) kommt im NT nur 1 Mal vor und ist somit
-  nicht dasselbe, wie jenes, welches in der Offenbarung (zB <a href='http://bibel.renenyffenegger.ch/offb_9.html#v1'>Offb&nbsp;9,1</a>)
-  vorkommt (<span class='gr'>ἄβυσσος</span>). TODO: vgl mit <a class='kom' href='#Ilk-8-31'>Lk&nbsp;8,31</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tartaros (Eigentlich ein Verb: <span class='gr'>ταρταρόω</span>) kommt im NT nur 1 Mal vor.
+  In Elberfelder mit «tiefster Abgrund», in Sch2K mit «Abgrund», in KJV mit «Tartarus» übersetzt oder transkribiert.
+  Vgl <span class='gr'>ἄβυσσος</span>, zB in §offb-9-1.
+  <br>Vgl mit §+lk-8-31.
  }
  {
   Beachte: Gott verschonte weder die Engel noch die alte Welt (Vers 5), aber die Engel wurden in den Abgrund geworfen, während
@@ -84470,7 +84503,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Michael
  }
  {
-  TODO vgl <a href='http://bibel.renenyffenegger.ch/sach_3.html#v2'>Sach&nbsp;3,2</a>.
+  Vgl §sach-3-2.
+ }
+ {
+  Gemäss → Geschichte/Kirche/Personen/Väter/Clemens-von-Alexandria zitiert Judas aus einem nun verschollenen Abschnitt aus der → biblisches/Apokryphen/Himmelfahrt-des-Moses.
  }
 #}
 #jud-1-11 {
@@ -84503,10 +84539,16 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jud-1-14 {
  {
-   <i>Zehntausenden</i>: <a class='kom' href='#Ihebr-12-22'>Hebr&nbsp;12,22</a>.
+   <i>Tausende</i> <span class='gr'><a href="http://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s3461">μυριάς</a></span> (Strongs 3461),
+   könnte wohl auch mit «Zehntausende» übersetzt werden: §+lk-12-1, §+hebr-12-22.
+   <br>
+    <i>gekommen inmitten seiner Myriaden</i> vgl §5mo-33-2
  }
  {
   <i>Der siebte</i>: vgl §+2petr-2-5.
+ }
+ {
+  → biblisches/Personen/Henoch
  }
 #}
 #jud-1-15 {
@@ -84514,7 +84556,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    TODO: <i>gegen ihn</i> gegen Henoch oder gegen den Herrn?
  }
  {
-  TODO: Vgl <a class='kom' href='#I2petr-2-5'>2.&nbsp;Petr&nbsp;2,5</a>.
+  Vgl §+2petr-2-5.
  }
 #}
 #jud-1-17 {
@@ -86046,7 +86088,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>In <a href='http://bibel.renenyffenegger.ch/offb_20.html#v1'>Offb&nbsp;20,1</a> hat ein Engel den <i>Schlüssel des Abgrundes</i>.
  }
  {
-  <i>Abgrund</i> (<span class='gr'>ἄβυσσος</span>, Strongs 12): <a class='kom' href='#Ilk-8-31'>Lk&nbsp;8,31</a>.
+  <i>Abgrund</i> (<span class='gr'>ἄβυσσος</span>, Strongs 12): §+lk-8-31 und → biblisches/Eigene-Uebersetzung/Konkordanz/Tartaros (§2petr-2-4).
+ }
+ {
   Das Tier steigt aus dem Abgrund (TODO: nicht aus dem 'Schlund es Abgrunds'): <a href='http://bibel.renenyffenegger.ch/offb_11.html#v7'>Offb&nbsp;11,7</a>,
   <a href='http://bibel.renenyffenegger.ch/offb_17.html#v8'>Offb&nbsp;17,8</a>.
   <br>Der Drache  wird für 1000 Jahre im Abgrund eingschlossen (<a href='http://bibel.renenyffenegger.ch/offb_20.html#v1'>Offb 20,1-3</a>).
