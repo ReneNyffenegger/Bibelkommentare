@@ -567,7 +567,8 @@
      <li>Esau (<a href='http://bibel.renenyffenegger.ch/1mo_36.html#v1'>1. Mo 36,1/9</a>)
      <li>Jakob (<a href='http://bibel.renenyffenegger.ch/1mo_37.html#v2'>1.&nbsp;Mo&nbsp;37,2</a>)
   </ul>
-  TODO: Das Wort kommt auch noch vor in <a href='http://bibel.renenyffenegger.ch/1mo_10.html#v32'>1.&nbsp;Mo&nbsp;10,32</a>.
+  TODO: Das Wort kommt auch noch vor in <a href='http://bibel.renenyffenegger.ch/1mo_10.html#v32'>1.&nbsp;Mo&nbsp;10,32</a> und
+  §1chr-5-7 und ???
         <br><span class='u'>TODO: Vgl mit der <i>Tablet Theory</i>. File unter <i>dokumente\www.trueorigin.org\tablet.html</i></span>
  }
 #}
@@ -18284,8 +18285,9 @@
 #}
 #5mo-6-4 {
  {
-  Dies ist das 'erste Gesetz' (<a href='http://bibel.renenyffenegger.ch/mk_12.html#v29'>Mk 12,29-30</a>).
-  <br>Siehe auch <a class='kom' href='#I2mo-20-3'>2.&nbsp;Mo&nbsp;20,3</a>.
+  Dies ist das <i>erste Gesetz</i> (§mk-12-29-30).
+ <br>
+  Vgl §+2mo-20-3 und §sach-14-9
  }
  {
   In <span class='hebr'>שְׁמַ֖ע</span> (Strongs 8058) ist das Ayin vergrössert, siehe <a href='#typo_details'>Typografische Details im Alten Testament</a>.
@@ -30633,16 +30635,7 @@
 #}
 #1chr-4-33 {
  {
-  <i>Geschlechtsregister</i> (<span class='hebr'>יָחַשׂ</span>, Strongs 3187): hier erstes Vorkommen dieses Wortes. Weitere Vorkommen in <ul>
-     <li><a href='http://bibel.renenyffenegger.ch/1chr_5.html#v1'>1.&nbsp;Chr&nbsp;5,1</a>: Im Geschlechtsregister wird Joseph nicht als erstgeborener eingetragen, obwohl es ihm zugefallen ist.
-     <li><a class='kom' href='#I1chr-5-7'>1.&nbsp;Chr&nbsp;5,7</a>
-     <li><a class='kom' href='#I1chr-5-17'>1.&nbsp;Chr&nbsp;5,17</a>
-     <li><a class='kom' href='#I1chr-7-5'>1. Chr 7,5/7/9/40</a>, <a class='kom' href='#I1chr-9-1'>1.&nbsp;Chr&nbsp;9,1</a>
-     <li><a class='kom' href='#I2chr-12-15'>2.&nbsp;Chr&nbsp;12,15</a>
-     <li><a class='kom' href='#Iesr-2-62'>Esr&nbsp;2,62</a>: Wer sein Geschlechtsregister nicht fand, wurde als unrein vom Priesterdienst ausgeschlossen.
-     <li><a class='kom' href='#Iesr-8-1'>Esr 8,1/3</a>
-     <li><a href='http://bibel.renenyffenegger.ch/neh_7.html#v5'>Neh 7,5/64</a>
-   </ul>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
  }
 #}
 #1chr-4-37 {
@@ -30673,7 +30666,7 @@
   Ruben: vgl <a class='kom' href='#I1mo-35-22'>1.&nbsp;Mo&nbsp;35,22</a>.
  }
  {
-  TODO: Sch2k enthält <i>Geschlechtsregister</i>: <a class='kom' href='#I1chr-4-33'>1.&nbsp;Chr&nbsp;4,33</a>.
+  <i>nach der Erstgeburt verzeichnet</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
  }
 #}
 #1chr-5-2 {
@@ -30697,7 +30690,9 @@
 #}
 #1chr-5-7 {
  {
-  TODO: In diesem Vers kommt Strongs 3187, welches manchmal mit Geschlechtsregister übersetzt wird (<a class='kom' href='#I1chr-4-33'>1.&nbsp;Chr&nbsp;4,33</a>).
+  <i>nach dem Verzeichnis</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis[בְּהִתְיַחֵשׂ]
+  <br>
+  <i>ihrer Geschlechter</i>: Toledot (לְתֹלְדֹותָם)
  }
  {
   TODO Jehiel: <a class='kom' href='#I1chr-9-35'>1.&nbsp;Chr&nbsp;9,35</a>.
@@ -30721,8 +30716,10 @@
 #}
 #1chr-5-17 {
  {
-  TODO: In diesem Vers kommt Strongs 3187, welches manchmal mit <i>Geschlechtsregister</i> übersetzt wird (<a class='kom' href='#I1chr-4-33'>1.&nbsp;Chr&nbsp;4,33</a>).
-  <br>TODO: Auch unter Hisikia fand eine Einschreibung ins Geschlechtsregister statt: <a class='kom' href='#I2chr-31-16'>2.&nbsp;Chr&nbsp;31,16</a>.
+  <i>Verzeichnet worden sind</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
+ }
+ {
+  Auch unter → biblisches/Personen/Hiskia fand eine Einschreibung ins → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis statt: §+2chr-31-16.
  }
 #}
 #1chr-5-23 {
@@ -30879,8 +30876,15 @@
 #}
 #1chr-7-5 {
  {
-  TODO: In diesem Vers (und auch Vers 7, 9 und 40) kommt Strongs 3187, welches manchmal mit <i>Geschlechtsregister</i> übersetzt wird (<a class='kom' href='#I1chr-4-33'>1.&nbsp;Chr&nbsp;4,33</a>).
-  <br>TODO: Gehört Abschnitt bis <a class='kom' href='#I1chr-9-1'>1.&nbsp;Chr&nbsp;9,1</a> zusammen?
+  <i>Verzeichneten</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
+ }
+ {
+  TODO: Gehört Abschnitt bis §+1chr-9-1 zusammen?
+ }
+#}
+#1chr-7-7 {
+ {
+  <i>verzeichnet sein</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis, ebenso §V1chr-7-9.
  }
 #}
 #1chr-7-8 {
@@ -30919,6 +30923,11 @@
 #1chr-7-28 {
  {
   TODO: <i>Geser</i>: <a class='kom' href='#Ijos-10-33'>Jos&nbsp;10,33</a>.
+ }
+#}
+#1chr-7-40 {
+ {
+  <i>Verzeichneten</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
  }
 #}
 @}
@@ -30993,10 +31002,11 @@
 @1. Chronik 9 {
 #1chr-9-1 {
  {
-  TODO: In diesem Vers kommt Strongs 3187, welches manchmal mit <i>Geschlechtsregister</i> übersetzt wird (<a class='kom' href='#I1chr-4-33'>1.&nbsp;Chr&nbsp;4,33</a>).
-  <br>TODO: Gehört, was die Geschlechtsregister angehen, der Abschnitt von <a href='http://bibel.renenyffenegger.ch/1chr_7.html#v5'>1.&nbsp;Chr&nbsp;7,5</a> bis
-      hier zusammen?
-  <br>TODO: Hat diese Aufzeichnung Hiskia vorgenommen (<a class='kom' href='#I2chr-31-16'>2.&nbsp;Chr&nbsp;31,16</a>)?
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
+ }
+ {
+  Möglicherweise wurde diese Vereichnung ins → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis unter
+  → biblisches/Personen/Hiskia vorgenommen, §+2chr-31-16.
  }
 #}
 #1chr-9-2 {
@@ -31080,6 +31090,9 @@
  }
 #}
 #1chr-9-22 {
+ {
+  <i>verzeichnet sein</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
+ }
  {
   Vgl mit §neh-11-19: hier 212, dort 172 Torhüter.
  }
@@ -32500,7 +32513,7 @@
   → biblisches/Bücher/referenzierte-ausserbiblische
  }
  {
-  TODO: In diesem Vers kommt Strongs 3187, welches manchmal mit <i>Geschlechtsregister</i> übersetzt wird (<a class='kom' href='#I1chr-4-33'>1.&nbsp;Chr&nbsp;4,33</a>).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
  }
  {
   <i>Krieg zwischen</i>: <a class='kom' href='#I1koe-14-30'>1.&nbsp;Kö&nbsp;14,30</a>.
@@ -33416,11 +33429,18 @@
 #}
 #2chr-31-16 {
  {
-  TODO: In diesem Vers kommt Strongs 3187, welches manchmal mit <i>Geschlechtsregister</i> übersetzt wird (<a class='kom' href='#I1chr-4-33'>1.&nbsp;Chr&nbsp;4,33</a>).
-  <br>In <a class='kom' href='#I1chr-5-17'>1.&nbsp;Chr&nbsp;5,17</a> wird speziell erwähnt, dass unter Jotam und Jerobeam eine Aufzeichnung stattgefunden hat.
-  <br>TODO: Ist diese Aufzeichnung in <a href='http://bibel.renenyffenegger.ch/1chr_9.html#v1'>1. Chr 9,1 ff</a>?
-      Es spricht zumindest dies dafür: von den Priestern wurde Asarja eingeschrieben (<a href='http://bibel.renenyffenegger.ch/1chr_9.html#v11'>1.&nbsp;Chr&nbsp;9,11</a>) und
-      unter Hiskia gab es einen 'Asarja, der Oberpriester aus dem Haus Zadok' (<a href='http://bibel.renenyffenegger.ch/2chr_31.html#v10'>2.&nbsp;Chr&nbsp;31,10</a>).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
+ }
+ {
+  In §+1chr-5-17 wird speziell erwähnt, dass auch unter Jotam und Jerobeam eine Verzeichnung (ins → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis?) stattgefunden hat.
+ }
+ {
+  Möglicherweise handelt es sich bei → biblisches/Personen/Hiskia[Hiskias] Aufzeichnung um die, die auch in §1chr-9-1-ff erwähnt wird.
+ <br>
+  Es spricht zumindest dies dafür: von den Priestern wurde Asarja eingeschrieben (§1chr-9-11) und
+  unter Hiskia gab es einen «Asarja, der Oberpriester aus dem Haus Zadok» (§2chr-31-10).
+ <br>
+  Vgl §+neh-7-5
  }
  {
   §neh-7-5
@@ -34012,7 +34032,11 @@
 #}
 #esr-2-62 {
  {
-  TODO: In diesem Vers kommt Strongs 3187, welches manchmal mit <i>Geschlechtsregister</i> übersetzt wird (<a class='kom' href='#I1chr-4-33'>1.&nbsp;Chr&nbsp;4,33</a>).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis, vgl §esr-8-1, §neh-7-5
+ }
+ {
+  Beachte: Preister ohne → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis wurden als unrein vom Priesterdienst ausgeschlossen. Der wahre Priester des
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/neu[neuen Bundes] hatte kein Geschlechtsverzeichnis, §+hebr-7-3.
  }
 #}
 #esr-2-63 {
@@ -34307,7 +34331,7 @@
 @Esra 8 {
 #esr-8-1 {
  {
-  TODO: In diesem Vers kommt Strongs 3187, welches manchmal mit <i>Geschlechtsregister</i> übersetzt wird (<a class='kom' href='#I1chr-4-33'>1.&nbsp;Chr&nbsp;4,33</a>).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis, vgl §esr-2-62, §+neh-7-5
  }
 #}
 #esr-8-7 {
@@ -34317,7 +34341,7 @@
 #}
 #esr-8-16 {
  {
-  <i>Ariel</i> = 'Löwe Gotts', vgl <a class='kom' href='#I2sam-23-20'>2.&nbsp;Sam&nbsp;23,20</a>.
+  <i>Ariel</i> = «Gottes Löwe», vgl. §+jes-29-1, §+2sam-23-20.
  }
 #}
 #esr-8-17 {
@@ -34824,8 +34848,7 @@
 #}
 #neh-7-5 {
  {
-  Unter Hiskia wurden ins Geschlechtsregister eingatragen, alle von drei Jahren und darüber, die in das Haus des HERRN gehen sollten
-  (<a href='http://bibel.renenyffenegger.ch/2chr_31.html#v16'>2. Chr 31,16 ff</a>).
+  Unter → biblisches/Personen/Hiskia (Jehiskia) wurden ins Geschlechtsregister eingetragen, alle von drei Jahren und darüber, die in das Haus des HERRN gehen sollten, §2chr-31-16-ff
  }
  {
   TODO: In diesem Vers kommt Strongs 3187, welches manchmal mit <i>Geschlechtsregister</i> übersetzt wird (<a class='kom' href='#I1chr-4-33'>1.&nbsp;Chr&nbsp;4,33</a>).
@@ -34977,6 +35000,9 @@
  }
 #}
 #neh-7-64 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis, vgl §+Vneh-7-5, §+esr-2-62
+ }
  {
   TODO: Gab es Leute, die nicht im Geschlechtsregister gefunden wurden, weil in Babel einige Leute Juden wurden (<a href='http://bibel.renenyffenegger.ch/est_8.html#v17'>Est&nbsp;8,17</a>)?
  }
@@ -43287,6 +43313,14 @@
   <br>
   Möglicherweise hat die Zerstörung von Damaskus und die Verlassenheit der Städte Aroer (beachte die Mehrzahl!) etwas mit
   §jer-48-19 zu tun.
+  <br>
+    Die → biblisches/Grundtext/LXX verwendet <span class='gr'>εις τον αιωνα</span> («für immer») für <i>Aroer</i>.
+ }
+#}
+#jes-17-3 {
+ {
+  <i>der Überrest von Aram: er wird sein wie die Herrlichkeit der Kinder Israel</i>: Kevin Lea interpretiert dies so, dass in dem hier beschriebenen Krieg Syriens Bevölkerung
+  auf Israels Bevölkerung dezimiert wird (Wäre der Krieg heute: also von ca. 18 Millionen auf ca. 9 Millionen).
  }
 #}
 #jes-17-4 {
@@ -43829,6 +43863,11 @@
 @}
 @Jesaja 29 {
 #jes-29-1 {
+ {
+  <i>Ariel</i>: <span class='hebr'>אֲרִיאֵל</span> (Strongs 740): »Gottes Löwe«. Hier offenbar auf → biblisches/Orte/Jerusalem angewendet.
+ <br>
+  Ariel ist auch der Name eines aus dem Exil Zurückkehrender: §esr-8-16
+ }
  {
   Verdoppelung des Namens, siehe <a class='kom' href='#I1mo-22-11'>1.&nbsp;Mo&nbsp;22,11</a>.
  }
@@ -52821,7 +52860,12 @@
 #}
 #sach-14-8 {
  {
-  Vgl <a class='kom' href='#Ips-46-5'>Ps&nbsp;46,5</a>.
+  Vgl §+ps-46-5.
+ }
+#}
+#sach-14-9 {
+ {
+  <i>an jenem Tag wird Jehova einer sein</i> vgl §5mo-6-4
  }
 #}
 #sach-14-10 {
@@ -54797,6 +54841,11 @@
   'Segel' in <a href='http://bibel.renenyffenegger.ch/apg_27.html#v17'>Apg&nbsp;27,17</a>.
  }
 #}
+#mt-12-31 {
+ {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
+ }
+#}
 #mt-12-33 {
  {
   Vgl §+mt-3-10, §+mt-7-18
@@ -55249,6 +55298,11 @@
  }
  {
   <i>Erkläre dieses Gleichnis</i>: <a class='kom' href='#Imt-13-36'>Mt&nbsp;13,36</a>.
+ }
+#}
+#mt-15-19 {
+ {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
  }
 #}
 #mt-15-22 {
@@ -56020,6 +56074,11 @@
   TODO: <a class='kom' href='#I5mo-6-5'>5.&nbsp;Mo&nbsp;6,5</a>.
  }
 #}
+#mt-22-38 {
+ {
+  <i>das erste Gebot</i> vgl §mk-12-29
+ }
+#}
 #mt-22-39 {
  {
   §mt-19-19, §+3mo-19-18, §3mo-19-34
@@ -56683,6 +56742,9 @@
   Beachte: der (gesalbte) Hohepriester soll seine Kleider nicht zerreissen (<a href='http://bibel.renenyffenegger.ch/3mo_21.html#v10'>3.&nbsp;Mo&nbsp;21,10</a>).
   <br>Jesu Kleider wurden nicht zerrissen (?); es wurde das Los über die Kleider geworfen. (<a href='http://bibel.renenyffenegger.ch/mt_27.html#v35'>Mt&nbsp;27,35</a>)
  }
+ {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
+ }
 #}
 #mt-26-69 {
  {
@@ -56826,7 +56888,10 @@
 #}
 #mt-27-33 {
  {
-  <i>Schädelstätte</i>: <a class='kom' href='#I2mo-16-16'>2.&nbsp;Mo&nbsp;16,16</a>.
+  <i>Schädelstätte</i>: §+2mo-16-16.
+ }
+ {
+  → biblisches/Orte/Golgatha
  }
 #}
 #mt-27-34 {
@@ -57181,6 +57246,11 @@
   Beachte: Jesus <i>sah</i> den Glauben. Der Glaube hat Werke, vgl <a href='http://bibel.renenyffenegger.ch/jak_2.html#v14'>Jak 2,14-26</a>.
  }
 #}
+#mk-2-7 {
+ {
+  <i>er lästert</i>: <span class='gr'>βλασφημία</span>
+ }
+#}
 #mk-2-11 {
  {
   <i>Ich sage dir, steh auf</i>: §mk-5-41, §lk-5-24, §lk-7-14
@@ -57302,7 +57372,10 @@
 #}
 #mk-3-28 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch[Söhne der Menschen]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch[Söhne der Menschen]
+ }
+ {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
  }
 #}
 #mk-3-29 {
@@ -57642,6 +57715,9 @@
     <li><a href='http://bibel.renenyffenegger.ch/2kor_9.html#v5'>2.&nbsp;Kor&nbsp;9,5</a> (Geiz)
     <li><a href='http://bibel.renenyffenegger.ch/eph_4.html#v19'>Eph&nbsp;4,19</a> (unersättliche Gier)
   </ul>
+ }
+ {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
  }
  {
   Beachte: <i>Unvernunft</i> scheint etwas Böses zu sein.
@@ -58070,7 +58146,10 @@
 #}
 #mk-12-29 {
  {
-  Vgl <a class='kom' href='#I5mo-6-4'>5.&nbsp;Mo&nbsp;6,4</a>, <a class='kom' href='#I2mo-20-3'>2.&nbsp;Mo&nbsp;20,3</a>.
+  Vgl §+5mo-6-4, §+2mo-20-3.
+ }
+ {
+  <i>das erste Gebot</i> vgl §mt-22-38
  }
 #}
 #mk-12-31 {
@@ -58342,6 +58421,11 @@
    und <a href='http://bibel.renenyffenegger.ch/mk_15.html#v2'>Mk&nbsp;15,2</a>.
  }
 #}
+#mk-14-64 {
+ {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
+ }
+#}
 @}
 @Markus 15 {
 #mk-15-1 {
@@ -58374,6 +58458,9 @@
  }
 #}
 #mk-15-22 {
+ {
+  → biblisches/Orte/Golgatha
+ }
  {
   <i>das heisst übersetzt</i>: <a class='kom' href='#Imt-1-23'>Mt&nbsp;1,23</a>.
  }
@@ -59256,6 +59343,11 @@
 #lk-5-17 {
  {
   Das geschah in Kapernaum (<a href='http://bibel.renenyffenegger.ch/mk_2.html#v1'>Mk&nbsp;2,1</a>), in 'seiner Stadt' (<a class='kom' href='#Imt-9-1'>Mt&nbsp;9,1</a>).
+ }
+#}
+#lk-5-21 {
+ {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
  }
 #}
 #lk-5-24 {
@@ -62792,7 +62884,11 @@
 #joh-10-33 {
  {
   Tatsächlich machte sich Jesus, der Gott ist, zum Menschen!
-  <br>Vgl <a class='kom' href='#Ijoh-5-18'>Joh&nbsp;5,18</a>.
+  <br>
+  Vgl §+joh-5-18.
+ }
+ {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
  }
 #}
 #joh-10-34 {
@@ -63667,6 +63763,9 @@
  }
 #}
 #joh-19-17 {
+ {
+  → biblisches/Orte/Golgatha
+ }
  {
   TODO: <a class='kom' href='#Imt-27-32'>Mt&nbsp;27,32</a>.
  }
@@ -75700,6 +75799,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>versiegelt</i>: <a class='kom' href='#I2kor-1-22'>2.&nbsp;Kor&nbsp;1,22</a>.
  }
 #}
+#eph-4-31 {
+ {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
+ }
+#}
 #eph-4-32 {
  {
   Vgl §+mt-6-14, §kol-3-13.
@@ -77054,6 +77158,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Hässliche Redensarten</i>: <span class='gr'>αἰσχρολογία</span> (Strongs 148, 1x), in KJV mit 'filthy communication', in
   Elberfelder mit 'schändliches Reden' übersetzt.
+ }
+ {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
  }
 #}
 #kol-3-10 {
@@ -78456,9 +78563,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
     <a href='http://bibel.renenyffenegger.ch/2petr_1.html#v16'>2.&nbsp;Petr&nbsp;1,16</a>
  }
  {
-  <i>Geschlechtsregister</i>: <span class='gr'>γενεαλογία</span> (Strongs 1076, 2x) auch in
-  <a href='http://bibel.renenyffenegger.ch/tit_3.html#v9'>Tit&nbsp;3,9</a>.
-  Vgl auch <a class='kom' href='#Ihebr-7-3'>Hebr&nbsp;7,3</a>.
+  <i>Geschlechtsregister</i>: <span class='gr'>γενεαλογία</span> (Strongs 1076, 2x) auch in §tit-3-9.
+  <br>
+  Vgl §+hebr-7-3 und → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis.
  }
 #}
 #1tim-1-5 {
@@ -79131,6 +79238,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1tim-6-4 {
+ {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
+ }
  {
   TODO: Vgl <a class='kom' href='#I2kor-12-20'>2.&nbsp;Kor&nbsp;12,20</a>.
  }
@@ -80208,7 +80318,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #tit-3-9 {
  {
-  <i>Geschlechtsregister</i>: <a class='kom' href='#I1tim-1-4'>1.&nbsp;Tim&nbsp;1,4</a>.
+  <i>Geschlechtsregister</i>: §+1tim-1-4, → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
  }
  {
   TODO: Warum wird hier Strongs 3544 mit «Gesetz» übersetzt? Interessanterweise kommt es in Vers 13 («Gesetzesgelehrter»° wieder vor.
@@ -80988,7 +81098,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-7-3 {
  {
   <i>Ohne Geschlechtsregister</i>: <span class='gr'>ἀγενεαλόγητος</span> (Strongs 35, 1x).
-  Vgl <a class='kom' href='#I1tim-1-4'>1.&nbsp;Tim&nbsp;1,4</a> und <a class='kom' href='#Ihebr-7-6'>Vers 6</a>.
+  Vgl §+1tim-1-4, §+Vhebr-7-6 und → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis.
+ }
+ {
+  Beachte: der Herr Jesus konnte ohne Geschlechtsregister Priester werden. Das war Priestern das alten Bundes nicht möglich, ohne Geschlechtsregister wurden sie vom Priestertum
+  als unrein ausgechlossen, §esr-2-62
+ <br>
+  Dies ist wohl auch eine Auswirkung der »Änderung des Gesetzes« (§Vhebr-7-12)
  }
 #}
 #hebr-7-6 {
@@ -84602,6 +84718,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Michael
  }
  {
+  <i>lästernd</i>: <span class='gr'>βλασφημία</span>
+ }
+ {
   Vgl §sach-3-2.
  }
  {
@@ -86491,12 +86610,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-11-8 {
  {
-  <i>grosse Stadt</i>:  <a href='http://bibel.renenyffenegger.ch/offb_14.html#v8'>Offb&nbsp;14,8</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_16.html#v19'>Offb&nbsp;16,19</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_17.html#v18'>Offb&nbsp;17,18</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_18.html#v10'>Offb&nbsp;18,10</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_18.html#v16'>Offb 18,16-21</a> (TODO: hier scheint es sich um Babylon zu handeln)
-  <br>Vgl <a href='http://bibel.renenyffenegger.ch/offb_21.html#v10'>Offb&nbsp;21,10</a>, wo es sich um Jerusalem handelt.
+  → biblisches/Orte/Jerusalem#jerusalem-grosse-stadt[grosse Stadt]:  §offb-14-8, §offb-16-19, §offb-17-18, §offb-18-10, §offb-18-16-21 (hier → biblisches/Orte/Babel[Babylon]?)
+ <br>
+  Vgl §offb-21-10, wo es sich um Jerusalem handelt.
+ <br>
+  Beachte, dass die Stadt noch in §Voffb-11-2 <i>heilige Stadt</i> genannt wurde. Offenbar hat das Tier aus dem Abgrund (§Voffb-11-7) zur Änderung dieses Attributes geführt.
  }
  {
   <i>Sodom</i>: vgl <a class='kom' href='#Ijes-1-10'>Jes&nbsp;1,10</a> und <a href='http://bibel.renenyffenegger.ch/jer_23.html#v14'>Jer&nbsp;23,14</a>.
@@ -86781,6 +86899,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   in §offb-12-3 hat es 7 Diademe.
  }
  {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
+ }
+ {
+  <i>Namen der Lästerung</i>: KJV und Sch2K übersetzen in Einzahl: «the name of blasphemy», «einen Namen der Lästerung».
+  <br>
+  Vgl. §offb-17-3
+ }
+ {
    TODO: vgl die <i>sieben Köpfe</i> mit den <i>sieben Königen</i> mit den sieben Königen in <a href='http://bibel.renenyffenegger.ch/offb_17.html#v10'>Offb&nbsp;17,10</a>, wovon
    fünf gefallen sind.
  }
@@ -86849,6 +86975,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Ein Mund wird ihm gegeben: vgl mit dem feuerroten Pferde, dem ein Schwert gegeben wird: §+offb-6-4.
+ }
+ {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
  }
  {
   TODO: Ist 'ihm' das Tier oder der Drache?
@@ -87472,6 +87601,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Im Geist</i>: <a class='kom' href='#Ioffb-1-10'>Offb&nbsp;1,10</a>.
   <br>Vgl 'brachte mich im Geist auf einen grossen und hohen Berg' (<a href='http://bibel.renenyffenegger.ch/offb_21.html#v10'>Offb&nbsp;21,10</a>).
+ }
+ {
+  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
+ }
+ {
+  <i>Namen der Lästerung</i> vgl §offb-13-1
  }
  {
    <i>7 Köpfe...</i>: <a class='kom' href='#Ioffb-12-3'>Offb&nbsp;12,3</a>.
@@ -88239,7 +88374,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Offenbarung 22 {
 #offb-22-1 {
  {
-  <i>Strom, der aus dem Thron Gottes und des Lammes hervorging</i> §ps-46-5-6, §sach-14-8
+  <i>Strom, der aus dem Thron Gottes und des Lammes hervorging</i> §ps-46-5-6, §sach-14-9
  <br>
   Vgl mit dem Strom, der von Eden ausging, um den Garten zu bewässern §1mo-2-5
  }
