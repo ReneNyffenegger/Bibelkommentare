@@ -87236,7 +87236,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-14-8 {
  {
-  <i>Gefallen ist Babylon</i>: <a class='kom' href='#Ijes-21-9'>Jes&nbsp;21,9</a>, <a href='http://bibel.renenyffenegger.ch/offb_18.html#v2'>Offb&nbsp;18,2</a>.
+  <i>Gefallen ist Babylon</i>: §+jes-21-9, §offb-18-2.
+ }
+ {
+  → biblisches/Bücher/prophetisch/Offenbarung/Babylon
  }
  {
   <i>Glutwein</i> vgl <a class='kom' href='#Ijer-25-15'>Jer&nbsp;25,15</a>.
@@ -87587,7 +87590,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Erdbeben, grosse Stadt zerreist in drei Teile</i>: <a class='kom' href='#Ioffb-11-13'>Offb&nbsp;11,13</a>.
  }
  {
-  <i>Grosse Stadt</i>: <a class='kom' href='#Ioffb-11-8'>Offb&nbsp;11,8</a>.
+  <i>Grosse Stadt</i>: §+offb-11-8.
+ }
+ {
+  → biblisches/Bücher/prophetisch/Offenbarung/Babylon
  }
 #}
 #offb-16-20 {
@@ -87669,7 +87675,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Name auf der Stirn</i>: <a class='kom' href='#Ioffb-14-1'>Offb&nbsp;14,1</a>.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index,
+  → biblisches/Bücher/prophetisch/Offenbarung/Babylon
  }
 #}
 #offb-17-6 {
@@ -87801,6 +87808,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Gefallen ist Babylon</i>: <a class='kom' href='#Ijes-21-9'>Jes&nbsp;21,9</a>, <a href='http://bibel.renenyffenegger.ch/offb_14.html#v8'>Offb&nbsp;14,8</a>.
  }
  {
+  → biblisches/Bücher/prophetisch/Offenbarung/Babylon
+ }
+ {
    TODO: <i>Unreine Geister</i>: <a class='kom' href='#Ioffb-16-13'>Offb&nbsp;16,13</a>.
  }
  {
@@ -87915,6 +87925,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-18-21 {
+ {
+  → biblisches/Bücher/prophetisch/Offenbarung/Babylon
+ }
  {
   TODO vgl mit 2. Posaune: <a class='kom' href='#Ioffb-8-8'>Offb&nbsp;8,8</a>.
  }
