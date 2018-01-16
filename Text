@@ -37740,7 +37740,7 @@
   <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>.
  }
 #}
-#ps-40-15 {
+#ps-40-16 {
  {
   <i>Haha</i>: <a class='kom' href='#Ihi-39-25'>Hi&nbsp;39,25</a>.
  }
@@ -37748,6 +37748,13 @@
 @}
 }
 { 41-50
+@Psalm 41 {
+#ps-41-10 {
+ {
+   §joh-13-18   
+ }
+#}
+@}
 @Psalm 42 {
 #ps-42-6 {
  {
@@ -37769,7 +37776,7 @@
 #}
 #ps-43-5 {
  {
-  §+ps-42-12
+  Gleicher Schluss wie in §+ps-42-12
  }
 #}
 @}
@@ -63266,6 +63273,11 @@
 #joh-13-17 {
  {
   <i>Glückselig</i>: <a class='kom' href='#Ilk-11-28'>Lk&nbsp;11,28</a>.
+ }
+#}
+#joh-13-18 {
+ {
+  §ps-41-10
  }
 #}
 #joh-13-19 {
