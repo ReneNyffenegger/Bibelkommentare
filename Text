@@ -3231,6 +3231,9 @@
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
  }
+ {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Bund brechen</i> vgl §3mo-26-15
+ }
 #}
 #1mo-17-15 {
  {
@@ -11009,6 +11012,11 @@
   <i>Meine Sabbate sollt ihr beobachten</i> §3mo-19-30
  }
 #}
+#2mo-31-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat
+ }
+#}
 #2mo-31-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe, vgl §2mo-35-2.
@@ -13499,6 +13507,9 @@
 #}
 #3mo-19-3 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott
  }
  {
@@ -14348,6 +14359,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht#sollst-dich-vor-gott-fuerchten
  }
 #}
+#3mo-25-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
+ }
+#}
 #3mo-25-22 {
  {
   TODO: vgl 18. Jahr (?) des Hiskia: <a class='kom' href='#I2koe-19-29'>2.&nbsp;Kö&nbsp;19,29</a>.
@@ -14423,6 +14439,9 @@
 #}
 #3mo-26-2 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat
+ }
+ {
   Derselbe Vers auch in §3mo-19-30
  }
 #}
@@ -14432,17 +14451,31 @@
    dieses Kapitel eigentlich mit diesem Vers beginnen müsste.
  }
 #}
+#3mo-26-4 {
+ {
+  <i>eure → biblisches/Eigene-Uebersetzung/Konkordanz/Regen</i>: Die Mehrzahlform bezieht sich wohl auf den → biblisches/Eigene-Uebersetzung/Konkordanz/Regen#frueh-und-spaetregen[Früh- und Spätregen], §5mo-11-14
+ }
+#}
+#3mo-26-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
+ }
+#}
+#3mo-26-6 {
+ {
+  <i>ich werde die bösen Tiere aus dem Land vertilgen</i> §hes-34-25 
+ }
+#}
 #3mo-26-8 {
  {
-  Vgl «einer jagt tausend» <a class='kom' href='#I5mo-32-30'>5.&nbsp;Mo&nbsp;32,30</a>.
+  <i>fünf von euch werden hundert jagen, …</i> vgl §5mo-32-30, §jos-23-10, §jes-30-17
  }
 #}
 #3mo-26-11 {
  {
-   TODO Beachte: In Israel soll der Tempel in 'ihrer' Mitte sein, und Gott will in 'ihrer' Mitte
+   Beachte: In Israel soll der Tempel in 'ihrer' Mitte sein, und Gott will in ihrer Mitte
    wandeln. Für die Gemeinde gilt: Die Gemeinde ist der Tempel Gottes und der Geist Gottes wohnt in den Gläubigen
-   (<a href='http://bibel.renenyffenegger.ch/1kor_3.html#v16'>1.&nbsp;Kor&nbsp;3,16</a>).
-   Vgl auch <a href='http://bibel.renenyffenegger.ch/2kor_6.html#v16'>2.&nbsp;Kor&nbsp;6,16</a>.
+   (§1kor-3-16 und §2kor-6-16.
  }
 #}
 #3mo-26-12 {
@@ -14450,7 +14483,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
  }
  {
-  <i>Ich werde in eurer Mitte wandeln</i> §offb-2-1
+  <i>Ich werde in eurer Mitte wandeln</i> §offb-2-1, §2kor-6-16
  }
 #}
 #3mo-26-13 {
@@ -14459,18 +14492,53 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott,
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
+ {
+  <i>ich habe die Stäbe eures Joches zerbrochen</i> vgl §5mo-28-48, §jes-9-3, §jes-10-27, §jes-14-25
+ }
+#}
+#3mo-26-15 {
+ {
+  <i>und daß ihr meinen Bund brecht</i> evtl. besser übersetzt mit «und <i>so</i> meinen Bund brecht»
+ }
+ {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Bund brechen</i> vgl §1mo-17-14
+ }
+#}
+#3mo-26-16 {
+ {
+  <i>Schwindsucht und Fieberglut</i> vgl §5mo-28-22
+ }
+ {
+  <i>ihr werdet vergeblich euren Samen säen, denn eure Feinde werden ihn verzehren</i> vgl §5mo-28-33, §ri-6-3-ff, §mi-6-15 und die Umkehrung:
+  §jes-62-8, §jes-65-22
+ }
 #}
 #3mo-26-19 {
  {
-  TODO: Strongs 5154.
+  In §5mo-28-23 wird dieselbe Strafe angedroht, aber dort ist der Himmel aus Erz und die Erde aus Eisen.
+ }
+ {
+   <i>Erz</i>: <span class='hebr'>נְחוּשָׁה</span> (Strongs 5154)
+ }
+#}
+#3mo-26-22 {
+ {
+  <i>ich werde das Getier des Feldes unter euch senden, daß es euch eurer Kinder beraube</i> vgl §2koe-2-24 (zwei Bären), §2koe-17-25 (Löwen)
+  Vgl. §4mo-21-6
+  <br>
+  Bär und Löwe: vgl §spr-28-15
  }
 #}
 #3mo-26-26 {
  {
-     'den Stab des Brotes zerbrechen' <span class='hebr'>בְּשִׁבְרִ֣י לָכֶם֮ מַטֵּה</span> (Strongs 7665 3899 4294) bedeutet offenbar (?) eine
-     Hungersnot herbeirufen,
-     siehe auch <a href='http://bibel.renenyffenegger.ch/ps_105.html#v16'>Ps&nbsp;105,16</a>, <a href='http://bibel.renenyffenegger.ch/hes_4.html#v16'>Hes&nbsp;4,16</a>,
-     <a href='http://bibel.renenyffenegger.ch/hes_5.html#v16'>Hes&nbsp;5,16</a> und <a href='http://bibel.renenyffenegger.ch/hes_14.html#v13'>Hes&nbsp;14,13</a>.
+  <i>den Stab des Brotes zerbrechen</i> <span class='hebr'>בְּשִׁבְרִ֣י לָכֶם֮ מַטֵּה</span> (Strongs 7665 3899 4294) bedeutet offenbar (?) eine
+  Hungersnot herbeirufen,
+  siehe auch §ps-105-16, §hes-4-16, §hes-5-16 und §hes-14-13.
+ }
+#}
+#3mo-26-29 {
+ {
+  Vgl §jer-19-9
  }
 #}
 #3mo-26-30 {
@@ -14488,6 +14556,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich
  }
+ {
+  Beachte: Hier sind es <i>eure</i> Städte und <i>eure</i> Heiligtümter
+ }
 #}
 #3mo-26-33 {
  {
@@ -14504,9 +14575,24 @@
   TODO: <a class='kom' href='#Ineh-1-8'>Neh&nbsp;1,8</a>.
  }
 #}
+#3mo-26-34 {
+ {
+  <i>Dann wird das Land seine → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat[Sabbate] genießen</i>: §2chr-36-21
+ }
+#}
+#3mo-26-38 {
+ {
+  Bezieht sich das auf die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/[10 Stämme] des Nordreichs?
+ }
+#}
 #3mo-26-41 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
+ }
+#}
+#3mo-26-42 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/Abraham
  }
 #}
 #3mo-26-45 {
@@ -16314,6 +16400,9 @@
   <br>Das Wort <i>Seraph</i> kommt auch noch vor in §jes-6-2, §jes-6-6, §jes-14-29 und §jes-30-6. (Schlachter 2000 übersetzt bei den letzten drei Stellen mit Drache).
   <br>Siehe auch <a class='kom' href='#I5mo-8-15'>5.&nbsp;Mo&nbsp;8,15</a>
  }
+ {
+  Vgl §3mo-26-22
+ }
 #}
 #4mo-21-8 {
  {
@@ -16651,6 +16740,9 @@
  }
 #}
 #4mo-24-17 {
+ {
+  <i>es tritt hervor ein Stern aus Jakob</i> vgl §mt-2-2
+ }
  {
   TODO: Offenbar enthält dieser Vers Strongs 7626, siehe <a class='kom' href='#I1mo-49-10'>1.&nbsp;Mo&nbsp;49,10</a>.
  }
@@ -18232,10 +18324,16 @@
 #}
 #5mo-5-10 {
  {
-  <i>die mich lieben</i>: <a class='kom' href='#I2mo-20-6'>2.&nbsp;Mo&nbsp;20,6</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben
+ }
+ {
+  <i>die mich lieben</i>: §+2mo-20-6.
  }
 #}
 #5mo-5-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat
+ }
  {
   <i>so wie Jehova, dein Gott, dir geboten hat</i> nicht in §2mo-20-8
  }
@@ -18309,6 +18407,9 @@
  }
 #}
 #5mo-6-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben
+ }
  {
   TODO: Ist hier die erste Erwähnung des Grössten Gebotes im Gesetz (<a href='http://bibel.renenyffenegger.ch/mt_22.html#v36'>Mt 22,36-37</a>)?
   <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/5mo_11.html#v1'>5.&nbsp;Mo&nbsp;11,1</a> (TODO: Sind die Gebote ab hier bis dort über die Liebe zu Gott?)
@@ -18425,7 +18526,10 @@
 #}
 #5mo-7-9 {
  {
-  <i>die ihn lieben</i>: <a class='kom' href='#I2mo-20-6'>2.&nbsp;Mo&nbsp;20,6</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben
+ }
+ {
+  <i>die ihn lieben</i>: §+2mo-20-6.
  }
 #}
 #5mo-7-19 {
@@ -18648,7 +18752,7 @@
 #}
 #5mo-10-12 {
  {
-  Vgl: <a class='kom' href='#I5mo-6-5'>5.&nbsp;Mo&nbsp;6,5</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl: §+5mo-6-5
  }
 #}
 #5mo-10-16 {
@@ -18691,6 +18795,9 @@
 @5. Mose 11 {
 #5mo-11-1 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, §V5mo-11-13, §V5mo-11-22
+ }
+ {
   TODO: Ist dieser Vers der Abschlussvers eines Abschnittes über die Liebe zu Gott, der in <a class='kom' href='#I5mo-6-5'>5.&nbsp;Mo&nbsp;6,5</a> beginnt?
  }
 #}
@@ -18716,6 +18823,9 @@
  }
 #}
 #5mo-11-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Regen#frueh-und-spaetregen[Frühregen und Spätregen]: §3mo-26-4
+ }
  {
    Dieses Volk wollten den HERRN, der den Früh- und Spätregen gibt, nicht fürchten (§jer-5-24).
  }
@@ -18763,6 +18873,11 @@
 #5mo-12-6 {
  {
   <i>Zehnter</i>: <a class='kom' href='#I3mo-27-30'>3.&nbsp;Mo&nbsp;27,30</a>.
+ }
+#}
+#5mo-12-10 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
  }
 #}
 #5mo-12-11 {
@@ -19415,6 +19530,11 @@
 #}
 @}
 @5. Mose 26 {
+#5mo-26-5 {
+ {
+  Vgl §am-9-13
+ }
+#}
 #5mo-26-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder#zeichen-wunder-auszug-aegypten,
@@ -19514,6 +19634,16 @@
   <i>In den Werken der Händen gesegnet werden</i>: vgl <a class='kom' href='#I5mo-2-7'>5.&nbsp;Mo&nbsp;2,7</a>.
  }
 #}
+#5mo-28-22 {
+ {
+  <i>Schwindsucht und Fieberglut</i> vgl §5mo-26-16
+ }
+#}
+#5mo-28-23 {
+ {
+  In §3mo-26-19 wird dieselber Strafe angedroht, aber dort wird der Himmel zu Eisen und die Erde wie Erz gemacht.
+ }
+#}
 #5mo-28-26 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
@@ -19532,6 +19662,11 @@
    <i>Macht deiner Hand</i>: §+1mo-31-9.
  }
 #}
+#5mo-28-33 {
+ {
+  §+3mo-26-16
+ }
+#}
 #5mo-28-37 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/ps_44.html#v15'>Ps&nbsp;44,15</a>.
@@ -19541,6 +19676,11 @@
 #5mo-28-46 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder 
+ }
+#}
+#5mo-28-48 {
+ {
+  <i>Joch</i>: §+3mo-26-13
  }
 #}
 #5mo-28-49 {
@@ -19665,7 +19805,7 @@
 #}
 #5mo-30-6 {
  {
-  Vgl: <a class='kom' href='#I5mo-6-5'>5.&nbsp;Mo&nbsp;6,5</a>. Auch Verse 16 und 20.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl: §+5mo-6-5. Auch Verse 16 und 20.
  }
  {
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung des Herzens</i> vgl §5mo-10-16
@@ -19684,6 +19824,11 @@
 #5mo-30-14 {
  {
   Vgl <a class='kom' href='#Iroem-10-8'>Röm&nbsp;10,8</a>.
+ }
+#}
+#5mo-30-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl §jos-22-5
  }
 #}
 @}
@@ -19850,8 +19995,7 @@
 #}
 #5mo-32-30 {
  {
-  <i>Einer jagt tausend</i>: vgl <a href='http://bibel.renenyffenegger.ch/jos_23.html#v10'>Jos&nbsp;23,10</a>.
-  <br><a href='http://bibel.renenyffenegger.ch/3mo_26.html#v8'>3.&nbsp;Mo&nbsp;26,8</a>: 5 jagen 100, und 100 jagen 10&nbsp;000.
+  <i>Einer jagt tausend</i>: vgl §3mo-26-8, §jos-23-10, §jes-30-17, §+2mo-24-7
  }
 #}
 #5mo-32-31 {
@@ -19975,6 +20119,11 @@
   <i>Werke seiner Hände</i>: <a class='kom' href='#I5mo-2-7'>5.&nbsp;Mo&nbsp;2,7</a>.
  }
 #}
+#5mo-33-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
+ }
+#}
 #5mo-33-15 {
  {
   <i>uralt</i>: <a class='kom' href='#I1mo-10-30'>1.&nbsp;Mo&nbsp;10,30</a>. Vgl auch mit <a class='kom' href='#I4mo-23-7'>4.&nbsp;Mo&nbsp;23,7</a>.
@@ -20018,6 +20167,11 @@
 #5mo-33-27 {
  {
   <i>Urzeit</i>: Strongs 6924: <a class='kom' href='#I1mo-10-30'>1.&nbsp;Mo&nbsp;10,30</a>.
+ }
+#}
+#5mo-33-28 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
  }
 #}
 #5mo-33-29 {
@@ -20382,7 +20536,7 @@
   <i>Alle Könige der Amoriter</i>: <a class='kom' href='#Ijos-10-5'>Jos&nbsp;10,5</a>.
  }
  {
-  <i>König(e) der Kanaaniter</i>: Hier Mehrzahl, in <a href='http://bibel.renenyffenegger.ch/ri_4.html#v2'>Ri&nbsp;4,2</a> Einzahl und in
+  <i>König(e) der Kanaaniter</i>: Hier Mehrzahl, in §ri-4-2 Einzahl und in
   <a href='http://bibel.renenyffenegger.ch/ri_5.html#v19'>Ri&nbsp;5,19</a> wieder Mehrzahl.
  }
 #}
@@ -21953,6 +22107,11 @@
   gebracht worden. (Ebenso <a href='http://bibel.renenyffenegger.ch/ps_95.html#v11'>Ps&nbsp;95,11</a>).
  }
 #}
+#jos-22-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl §5mo-30-16
+ }
+#}
 #jos-22-9 {
  {
   TODO Vgl <a class='kom' href='#Ijos-15-13'>Jos&nbsp;15,13</a>.
@@ -21987,8 +22146,8 @@
 #}
 #jos-23-10 {
  {
-  <i>Ein Mann jagd tausend</i>: vgl <a class='kom' href='#I5mo-32-30'>5.&nbsp;Mo&nbsp;32,30</a> und
-  <a class='kom' href='#I2mo-14-7'>2.&nbsp;Mo&nbsp;14,7</a>.
+  <i>Ein Mann von euch jagt tausend</i> vgl §3mo-26-8, §+5mo-32-30, §jes-30-17,
+  §+2mo-14-7.
  }
 #}
 #jos-23-13 {
@@ -22618,6 +22777,11 @@
 #}
 @}
 @Richter 6 {
+#ri-6-3 {
+ {
+  Vgl §3mo-26-16
+ }
+#}
 #ri-6-7 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
@@ -24362,6 +24526,11 @@
 #1sam-12-6 {
  {
   Vgl <a class='kom' href='#I1sam-11-15'>1.&nbsp;Sam&nbsp;11,15</a>.
+ }
+#}
+#1sam-12-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
  }
 #}
 #1sam-12-12 {
@@ -27029,6 +27198,9 @@
 #}
 #1koe-5-5 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
+ }
+ {
   <i>Unter dem Feigenbaum sitzen</i>: Mit den vorangehenden Versen scheint «unter dem Feigenbaum sitzen» ein Bild auf Sicherheit zu sein, ebenso in
    <a class='kom' href='#Imi-4-4'>Mi&nbsp;4,4</a> («Krieg nicht mehr lernen» in <a href='http://bibel.renenyffenegger.ch/mi_4.html#v3'>Mi&nbsp;4,3</a>).
    Beachte, dass Nathanael unter dem Feigenbaum sitzt (<a class='kom' href='#Ijoh-1-48'>Joh&nbsp;1,48</a>)
@@ -28506,6 +28678,11 @@
   <a class='kom' href='#I2mo-15-25'>2.&nbsp;Mo&nbsp;15,25</a>.
  }
 #}
+#2koe-2-24 {
+ {
+  Vgl §3mo-26-22
+ }
+#}
 @}
 @2. Könige 3 {
 #2koe-3-1 {
@@ -29270,6 +29447,11 @@
  }
  {
    <span class='u'><i>Kuta</i>: gemäss Q_0001 Araber.</span>
+ }
+#}
+#2koe-17-25 {
+ {
+  Vgl §3mo-26-22
  }
 #}
 #2koe-17-30 {
@@ -33774,13 +33956,10 @@
 #}
 #2chr-36-21 {
  {
-  <i>70 Jahre</i> als Gericht auch in
-  <a href='http://bibel.renenyffenegger.ch/jes_23.html#v15'>Jes&nbsp;23,15</a>,
-  <a href='http://bibel.renenyffenegger.ch/jer_25.html#v11'>Jer&nbsp;25,11</a>,
-  <a href='http://bibel.renenyffenegger.ch/jer_29.html#v10'>Jer&nbsp;29,10</a>,
-  <a href='http://bibel.renenyffenegger.ch/dan_9.html#v2'>Dan&nbsp;9,2</a>,
-  <a href='http://bibel.renenyffenegger.ch/sach_1.html#v12'>Sach&nbsp;1,12</a>,
-  <a href='http://bibel.renenyffenegger.ch/sach_7.html#v5'>Sach&nbsp;7,5</a>
+  <i>bis das Land seine → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat[Sabbate] genossen hätte</i>: vgl die Androhung bereits in §3mo-26-34
+ }
+ {
+  <i>70 Jahre</i> als Gericht auch in §jes-23-15, §jer-25-11, §jer-29-10, §dan-9-2, §sach-1-12, §sach-7-5
  }
 #}
 #2chr-36-22 {
@@ -36017,8 +36196,7 @@
  {
    <i>Siebengestirn</i> <span class='hebr'>כִּימָה</span> (Strongs 3598), gemäss Donald W Patten handelt es sich um den Saturn,
    gemäss Gerardus Bouw um die Plejaden (Bibl. Astronomer, Vol 9, No 87, Winter 1c99).
-   <br>Beachte, mit den <i>7 Sternen</i> in der Offenbarung (<a class='kom' href='#Ioffb-1-16'>Offb&nbsp;1,16</a>) kommt man auf
-   7x7 Sterne.
+   <br>Beachte, mit den <i>7 Sternen</i> in der Offenbarung (§+offb-1-16) kommt man auf 7x7 Sterne.
  }
  {
   <i>Kammern des Südens</i>: Gemäss Donald W Patten handelt es sich um die Milchstrasse.
@@ -36677,6 +36855,9 @@
 #}
 #ps-4-9 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
+ }
+ {
   Vgl §ps-3-6
  }
 #}
@@ -36989,6 +37170,9 @@
 @}
 @Psalm 18 {
 #ps-18-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben
+ }
  {
   <i>HERR, meine Stärke</i> vgl §eph-6-10
  }
@@ -38370,6 +38554,11 @@
   <a href='http://bibel.renenyffenegger.ch/ps_124.html#v8'>Ps&nbsp;124,8</a>, <a href='http://bibel.renenyffenegger.ch/ps_134.html#v3'>Ps&nbsp;134,3</a>, <a href='http://bibel.renenyffenegger.ch/ps_146.html#v6'>Ps&nbsp;146,6</a>
  }
 #}
+#ps-69-37 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben
+ }
+#}
 @}
 @Psalm 70 {
 #ps-70-4 {
@@ -38823,6 +39012,9 @@
  }
 #}
 #ps-84-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Regen#frueh-und-spaetregen[Früh- und Spätregen]
+ }
  {
   <i>Tal der Tränen</i>: <a class='kom' href='#Ips-23-4'>Ps&nbsp;23,4</a>.
  }
@@ -39843,6 +40035,11 @@
 #}
 @}
 @Psalm 116 {
+#ps-116-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben
+ }
+#}
 #ps-116-13 {
  {
     TODO: <i>Kelch meines Heils</i>.
@@ -39930,6 +40127,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Wahrheit
  }
 #}
+#ps-119-47 {
+ {
+  <i>deine Gebote, die ich liebe</i>, vgl §Vps-119-97, §Vps-119-113, §Vps-119-127, §ps-119-163-167
+ }
+#}
 #ps-119-51 {
  {
    <i>verspotten</i>: <a class='kom' href='#Ips-1-1'>Ps&nbsp;1,1</a>.
@@ -39957,6 +40159,11 @@
   <i>lauern</i>: <a class='kom' href='#I1mo-49-18'>1.&nbsp;Mo&nbsp;49,18</a>.
  }
 #}
+#ps-119-97 {
+ {
+  <i>Wie liebe ich dein Gesetz</i> vgl §ps-119-47, §Vps-119-113
+ }
+#}
 #ps-119-98 {
  {
   TODO: Je nach Schlachterübersetzung <i>Gebote</i> oder <i>Gebot</i>.
@@ -39965,6 +40172,11 @@
 #ps-119-107 {
  {
   → biblisches/Bücher/Ketuvim/Psalmen/119#ps-119-belebe-mich[Belebe mich] in → biblisches/Bücher/Ketuvim/Psalmen/119
+ }
+#}
+#ps-119-113 {
+ {
+  <i>ich liebe dein Gesetz</i>, vgl §Vps-119-47, §ps-119-97
  }
 #}
 #ps-119-114 {
@@ -40400,6 +40612,11 @@
   TODO: Menge übersetzt <i>Wahrheit</i> mit 'Treue'.
  }
 #}
+#ps-145-20 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben
+ }
+#}
 @}
 @Psalm 146 {
 #ps-146-1 {
@@ -40625,6 +40842,11 @@
   <span class='u'>TODO: Gemäss C. Missler teilt Sprüche die Menschen in Unverständige, Spötter,Tore und Weise (scorner, fool, simple and wise) ein.</span>
  }
 #}
+#spr-1-33 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
+ }
+#}
 @}
 @Sprüche 2 {
 #spr-2-7 {
@@ -40721,6 +40943,11 @@
 #spr-3-27 {
  {
   <i>Macht deiner Hand</i>: §+1mo-31-9.
+ }
+#}
+#spr-3-29 {
+ {
+  <i>vertrauensfoll bei dir wohnt</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
  }
 #}
 #spr-3-32 {
@@ -42865,6 +43092,11 @@
   <i>Licht</i>: vgl §jes-10-17, §jes-49-6.
  }
 #}
+#jes-9-3 {
+ {
+  <i>Joch</i>: §+3mo-26-13
+ }
+#}
 #jes-9-5 {
  {
   <i>starker Gott</i> vgl §lk-2-40 «Das Kindlein … erstarkte …»
@@ -42978,6 +43210,9 @@
  }
  {
   → biblisches/Bücher/prophetisch/Jesaja/index#es-wird-geschehen-an-jenem-tag-jes in → biblisches/Bücher/prophetisch/Jesaja
+ }
+ {
+  <i>Joch</i>: §+3mo-26-13
  }
 #}
 #jes-10-28 {
@@ -43193,6 +43428,9 @@
 #jes-14-25 {
  {
   <i>Last</i>: <a class='kom' href='#Ijes-10-27'>Jes&nbsp;10,27</a>.
+ }
+ {
+  <i>Joch</i>: §+3mo-26-13
  }
 #}
 #jes-14-28 {
@@ -43671,7 +43909,7 @@
 #}
 #jes-23-15 {
  {
-   <i>70 Jahre</i>: <a class='kom' href='#I2chr-36-21'>2.&nbsp;Chr&nbsp;36,21</a>.
+   <i>70 Jahre</i>: §+2chr-36-21.
  }
  {
   → biblisches/Bücher/prophetisch/Jesaja/index#es-wird-geschehen-an-jenem-tag-jes in → biblisches/Bücher/prophetisch/Jesaja
@@ -43954,6 +44192,11 @@
 #jes-30-11 {
  {
    <i>Weicht ab vom Weg</i>: vgl §Vjes-30-21.
+ }
+#}
+#jes-30-17 {
+ {
+  <i>Ein Tausend wird fliehen vor dem Dräuen eines einzigen</i> §3mo-26-8, §5mo-32-30, §jos-23-10, §jes-30-17
  }
 #}
 #jes-30-33 {
@@ -44647,7 +44890,10 @@
   <i>Ich bin's und gar keine sonst</i> vgl §zeph-2-15, §Vjes-47-10
  }
  {
-  <i>Ich werde nicht als Witw sitzen, noch Kinderlosigkeit kennen</i> Vgl §+offb-18-7, §
+  <i>Ich werde nicht als Witwe sitzen, noch Kinderlosigkeit kennen</i> Vgl §+offb-18-7, §
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
  }
 #}
 @}
@@ -45300,6 +45546,11 @@
   <i>das vermählte Land</i>: vgl mit der «Hochzeit» (<a class='kom' href='#Ioffb-19-7'>Offb&nbsp;19,7</a>).
  }
 #}
+#jes-62-8 {
+ {
+  <i>Wenn ich fortan deinen Feinden dein Korn zur Speise gebe</i> §+3mo-26-16
+ }
+#}
 #jes-62-11 {
  {
   <i>Sein Lohn ist bei ihm, und seine Vergeltung geht vor ihm her</i> §jes-40-10, §offb-22-12
@@ -45411,6 +45662,11 @@
 #jes-65-19 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/offb_21.html#v4'>Offb&nbsp;21,4</a>.
+ }
+#}
+#jes-65-22 {
+ {
+  <i>Sie werden nicht bauen und ein anderer es bewohnen, sie werden nicht pflanzen und ein anderer essen;</i>: §+3mo-26-16
  }
 #}
 #jes-65-25 {
@@ -45705,7 +45961,7 @@
 #}
 #jer-5-24 {
  {
-  Wenn das Volk die Gebote hält, so wird Gott den Früh- und Spätregen geben (<a href='http://bibel.renenyffenegger.ch/5mo_11.html#v13'>5.&nbsp;Mo&nbsp;11,13-14</a>).
+  Wenn das Volk die Gebote hält, so wird Gott den → biblisches/Eigene-Uebersetzung/Konkordanz/Regen#frueh-und-spaetregen[Früh- und Spätregen] geben (§5mo-11-13-14).
  }
  {
   Vgl §5mo-11-14
@@ -46280,6 +46536,14 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
+#jer-19-9 {
+ {
+  <i>ich werde sie das Fleisch ihrer Söhne und das Fleisch ihrer Töchter essen lassen</i> vgl §3mo-26-29
+ <br>
+  → Geschichte/Israel/Personen/Flavius-Josephus[Josephus] berichtet in → Geschichte/Israel/Quellen/Geschichte-des-jüdischen-Krieges von <i>Maria von Bethesob</i>, die ihr Kind in der Jerusalemer Belagerung
+  gegessen hat <a href="https://de.wikisource.org/wiki/Seite:JosephusBellumGermanKohout.djvu/463">Buch VI, 201 ff</a>
+ }
+#}
 #jer-19-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer#trankopfer-anderen-goettern
@@ -46379,6 +46643,9 @@
  }
 #}
 #jer-23-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
+ }
  {
   <i>Der HERR, unsere Gerechtigkeit</i>: §jer-33-16 (Beachte: der ganze Vers ist derselbe),
   §jer-51-10
@@ -46509,8 +46776,10 @@
 #}
 #jer-25-11 {
  {
-  <i>70 Jahre</i>: <a class='kom' href='#I2chr-36-21'>2.&nbsp;Chr&nbsp;36,21</a>.
-  <br>TODO: in <a class='kom' href='#Idan-9-2'>Dan&nbsp;9,2</a> sind diese 70 Jahre wohl vorbei.
+  <i>70 Jahre</i>: §+2chr-36-21.
+ }
+ {
+  TODO: in <a class='kom' href='#Idan-9-2'>Dan&nbsp;9,2</a> sind diese 70 Jahre wohl vorbei.
  }
  {
   TODO: Angeblich hat → biblisches/Chronologie/Quellen/1894-Anderson_The-Coming-Prince#prophetische-jahre[Robert Anderson] nachgewiesen, dass es sich bei den 70 Jahren von §jer-25-11 um Jahre von 360 Tagen handle.
@@ -46756,8 +47025,10 @@
 #}
 #jer-29-10 {
  {
-   <i>70 Jahre</i>: <a class='kom' href='#I2chr-36-21'>2.&nbsp;Chr&nbsp;36,21</a>.
-  <br>TODO: <i>70 Jahre</i>: <a class='kom' href='#Idan-9-2'>Dan&nbsp;9,2</a>.
+   <i>70 Jahre</i>: §+2chr-36-21.
+ }
+ {
+  TODO: <i>70 Jahre</i>: <a class='kom' href='#Idan-9-2'>Dan&nbsp;9,2</a>.
  }
 #}
 #jer-29-14 {
@@ -47035,6 +47306,9 @@
 #jer-33-16 {
  {
    <i>Der HERR, unsere Gerechtigkeit</i>: §+jer-23-6
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
  }
 #}
 @}
@@ -47713,6 +47987,11 @@
 #jer-49-28 {
  {
   <i>Söhne des Ostens</i>: <a class='kom' href='#I1mo-29-1'>1.&nbsp;Mo&nbsp;29,1</a>.
+ }
+#}
+#jer-49-31 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
  }
 #}
 #jer-49-32 {
@@ -49058,6 +49337,11 @@
    → biblisches/Bücher/prophetisch/Hesekiel#ich-der-herr-habe-geredet-hes
  }
 #}
+#hes-28-26 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
+ }
+#}
 @}
 @Hesekiel 29 {
 #hes-29-4 {
@@ -49248,6 +49532,16 @@
    → biblisches/Bücher/prophetisch/Hesekiel#ich-der-herr-habe-geredet-hes
  }
 #}
+#hes-34-25 {
+ {
+  <i>ich werde die bösen Tiere aus dem Land vertilgen</i> §3mo-26-6
+ }
+#}
+#hes-34-27 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
+ }
+#}
 #hes-34-29 {
  {
   'Ruhm' siehe <a class='kom' href='#Ihes-16-14'>Hes&nbsp;16,14</a>.
@@ -49359,6 +49653,9 @@
 #}
 #hes-38-8 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
+ }
+ {
   TODO: wörtlich 'Ende der Jahre' (vgl Vers 16) oder 'Letzte Jahre'
  }
 #}
@@ -49432,6 +49729,11 @@
   <i>auf dem freien Feld</i> vgl. §hes-33-27
  }
 #}
+#hes-39-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
+ }
+#}
 #hes-39-7 {
  {
   <a class='kom' href='#Ihes-36-26'>Hes&nbsp;36,26</a>.
@@ -49483,6 +49785,11 @@
 #hes-39-25 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gefangenschaft/wenden
+ }
+#}
+#hes-39-26 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
  }
 #}
 #hes-39-29 {
@@ -50417,8 +50724,9 @@
 #}
 #dan-9-2 {
  {
-   <i>70 Jahre</i>: <a class='kom' href='#I2chr-36-21'>2.&nbsp;Chr&nbsp;36,21</a>.
-   <br>
+   <i>70 Jahre</i>: §+2chr-36-21.
+ }
+ {
   TODO: In <a href='http://bibel.renenyffenegger.ch/jer_25.html#v11'>Jer 25,11-12</a> wird eine 70 jährige Herrschaft des Königs von Babel angekündigt. Mit
   Darius (Vers 1) ist diese vorbei. Möglicherweise fragt sich Daniel hier, ob diese 70 Jahre wirklich schon vorbei sind, und was jetzt passieren soll.
   <br>TODO: Vielleicht weiss aber Daniel auch nicht, wann die 70 Jahre von <a href='http://bibel.renenyffenegger.ch/jer_29.html#v10'>Jer&nbsp;29,10</a> begonnen haben.
@@ -51140,6 +51448,9 @@
  {
   Vgl mit «erste Liebe verlassen» in <a href='http://bibel.renenyffenegger.ch/offb_2.html#v4'>Offb&nbsp;2,4</a>.
  }
+ {
+  Verweis: §mt-2-15
+ }
 #}
 #hos-11-4 {
  {
@@ -51324,8 +51635,7 @@
 #}
 #joe-2-23 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/5mo_11.html#v13'>5.&nbsp;Mo&nbsp;11,13-14</a> und
-  <a href='http://bibel.renenyffenegger.ch/jer_5.html#v24'>Jer&nbsp;5,24</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Regen#frueh-und-spaetregen[Früh- und Spätregen], Vgl §5mo-11-13-14 und §jer-5-24.
  }
 #}
 #joe-2-25 {
@@ -51729,6 +52039,11 @@
   TODO <i>Hütte</i>: Strongs 5521, was sonst mit 'Laubhütte' übersetzt wird (<a class='kom' href='#I3mo-23-34'>3.&nbsp;Mo&nbsp;23,34</a>).
  }
 #}
+#am-9-13 {
+ {
+  Vgl §5mo-26-5
+ }
+#}
 #am-9-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gefangenschaft/wenden
@@ -51978,10 +52293,10 @@
 @Micha 5 {
 #mi-5-1 {
  {
-         <i>Ephrata</i>: <a class='kom' href='#I1mo-35-16'>1.&nbsp;Mo&nbsp;35,16</a>.
+  <i>Ephrata</i>: <a class='kom' href='#I1mo-35-16'>1.&nbsp;Mo&nbsp;35,16</a>.
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/mt_2.html#v6'>Mt&nbsp;2,6</a>.
+  Verweis: §mt-2-6.
  }
  {
   Vgl auch <a class='kom' href='#Iri-17-9'>Ri&nbsp;17,9</a>.
@@ -52039,6 +52354,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten/zweierlei
+ }
+#}
+#mi-6-15 {
+ {
+  <i>Säen aber nicht ernten</i> §+3mo-26-16
  }
 #}
 #mi-6-16 {
@@ -52317,6 +52637,9 @@
 #}
 #zeph-2-15 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
+ }
+ {
   <i>Ich bin's und gar keine sonst</i> vgl §jes-47-8
  }
 #}
@@ -52451,7 +52774,7 @@
 #}
 #sach-1-12 {
  {
-   <i>70 Jahre</i>: <a class='kom' href='#I2chr-36-21'>2.&nbsp;Chr&nbsp;36,21</a>.
+   <i>70 Jahre</i>: §+2chr-36-21.
  }
 #}
 #sach-1-16 {
@@ -52672,7 +52995,7 @@
 #}
 #sach-7-5 {
  {
-   <i>70 Jahre</i>: <a class='kom' href='#I2chr-36-21'>2.&nbsp;Chr&nbsp;36,21</a>.
+   <i>70 Jahre</i>: §+2chr-36-21.
  }
 #}
 #sach-7-9 {
@@ -52889,6 +53212,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tor#tore-jerusalems
+ }
+#}
+#sach-14-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
  }
 #}
 #sach-14-16 {
@@ -53129,10 +53457,18 @@
   Dasselbe Wort wird in <a class='kom' href='#Iapg-13-6'>Apg 13,6/8</a> für 'Zauberer' verwendet.
  }
  {
+  Warren Cage meint, dass die Magier §mi-5-1 nicht gekannt hätten und darum nach → biblisches/Orte/Jerusalem statt nach → biblisches/Orte/Bethlehem kamen.
+ }
+ {
   → biblisches/Chronologie/Geburt-Jesus-Christus
  }
 #}
 #mt-2-2 {
+ {
+  <i>Seinen Stern</i> vgl §4mo-24-17.
+ <br>
+  Sogar nach dem Tod des Herrn versuchten falsche Propheten sich mit einem Stern zu legitimieren: <i>Bar <a href="http://renenyffenegger.ch/Biblisches/Sprachen/Hebraeisch-Altes-Testament-bekannt.html#s3556">Kochba</a></i> zum Beispiel heisst »Sohn des Sterns«.
+ }
  {
   <i>anbeten</i>: <span class='gr'>προσκυνέω</span> (Strongs 4352),
   in Matthäus
@@ -53150,9 +53486,6 @@
   <br>
    In KJV scheint dieses Wort durchgängig mit «to worship» übersetzt worden zu sein.
  }
- {
-  TODO: Der Stern führte bis zu dem Ort, wo das Kind war (Vers 9). Warum gehen die Waisen also erst nach Jerusalem?
- }
 #}
 #mt-2-4 {
  {
@@ -53169,7 +53502,7 @@
   <i>Herrscher</i> (<span class='gr'>ἡγέομαι</span>, Strongs 2233). Vgl auch 'Grösste' in <a class='kom' href='#Ilk-22-26'>Lk&nbsp;22,26</a>.
  }
  {
-  Prophezeiung aus <a class='kom' href='#Imi-5-1'>Mi&nbsp;5,1</a>.
+  Prophezeiung aus §+mi-5-1.
  }
 #}
 #mt-2-7 {
@@ -53184,7 +53517,10 @@
 #}
 #mt-2-11 {
  {
-  <a class='kom' href='#Ijes-60-6'>Jes&nbsp;60,6</a>.
+  <i>Gold und Weihrauch</i>: Offenbar kannten die Magier nicht nur §+jes-60-6, sondern auch die Prophezeiung aus Jesaja §jes-52-13-ff.
+ }
+ {
+  Beachte: sie fanden das <i>Kind</i>, nicht den <i>Säugling</i> in einem <i>Haus</i>, nicht in einem <i>Stall</i>.
  }
  {
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch und Myrrhe</i> §hl-3-6, §hl-4-6,
@@ -53212,6 +53548,9 @@
  }
 #}
 #mt-2-15 {
+ {
+  Verweis: §hos-11-1
+ }
  {
   TODO: → biblisches/Chronologie/Quellen/1894-Anderson_The-Coming-Prince#todesjahr-herodes[Robert Anderson] geht davon aus, dass Herodes 1 v. Chr. gestorben ist.
  }
@@ -56086,7 +56425,7 @@
 #}
 #mt-22-37 {
  {
-  TODO: <a class='kom' href='#I5mo-6-5'>5.&nbsp;Mo&nbsp;6,5</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl §+5mo-6-5.
  }
 #}
 #mt-22-38 {
@@ -58874,6 +59213,11 @@
  }
 #}
 #lk-2-12 {
+ {
+  Krippen wurden im Nahen Osten offenbar aus Sandstein gefertigt. Möglicherweise ist das <i>Zeichen</i> ist deshalb, dass das Kind wie eine Mumie in einem Sarkophag aussah. Obwohl als scheinbar tot, doch lebendig.
+ <br>
+  Dass der Herr Jesus in einer Krippe lag, kann so gedeutet werden, dass er sich »als Nahrung« opfert (vgl §joh-6-51).
+ }
  {
   TODO: <i>Zeichen</i>: <a class='kom' href='#Imt-12-38'>Mt&nbsp;12,38</a>. Siehe auch Vers 34.
  }
@@ -62344,6 +62688,11 @@
  }
  {
   Vgl mit «Wer an mich glaubt, wie die Schrift gesagt hat» in §joh-7-38.
+ }
+#}
+#joh-6-51 {
+ {
+  <i>Mein Fleisch, welches ich geben werde für das Leben der Welt</i> vgl. mit dem Herrn Jesus in der Krippe liegend, §lk-2-12.
  }
 #}
 #joh-6-54 {
@@ -73940,7 +74289,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
  }
  {
-   TODO: §3mo-26-11.
+   §3mo-26-11-12
  }
 #}
 #2kor-6-17 {
@@ -85178,9 +85527,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-1-16 {
  {
-  Die <i>sieben Sterne</i> sind die Engel der sieben Gemeinden (<a href='http://bibel.renenyffenegger.ch/offb_1.html#v20'>Vers 20</a>).
-  Sie kommen noch vor in Vers 20, <a href='http://bibel.renenyffenegger.ch/offb_2.html#v1'>Offb&nbsp;2,1</a> und <a href='http://bibel.renenyffenegger.ch/offb_3.html#v1'>Offb&nbsp;3,1</a>.
-  <br>Vgl <a class='kom' href='#Ihi-9-9'>Hi&nbsp;9,9</a>.
+  Die <i>sieben Sterne</i> sind die Engel der sieben Gemeinden (§Voffb-1-20).
+  Sie werden auch in §offb-2-1 und §offb-3-1 erwähnt.
+  <br>
+   Vgl §+hi-9-9.
  }
  {
   Beachte, dass dieselbe Hand, die die Sterne (die Engel der sieben Gemeinden) hält, auch auf Johannes gelegt wird (Vers 17).
@@ -85195,6 +85545,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Johannes <i>sah</i> ihn, unf fällt zu seinen Füssen nieder wie tot. Daniel <i>hörte</i> den Klang der Worte und sank ohnmächtig
   auf sein Angesicht zur Erde nieder (<a href='http://bibel.renenyffenegger.ch/dan_10.html#v9'>Dan&nbsp;10,9</a>).
+ }
+ {
+  Bachte, die Hand, die die <i>sieben Sterne</i> (§Voffb-1-16), hat, ist die selbe Hand, mit der Johannes beruhigt/getröstet wird.
  }
  {
   TODO: Vgl <a class='kom' href='#Iapg-26-14'>Apg&nbsp;26,14</a>.
