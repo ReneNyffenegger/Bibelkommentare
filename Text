@@ -29853,7 +29853,7 @@
  {
   <i>Friede und Sicherheit</i>: <a href='http://bibel.renenyffenegger.ch/jes_32.html#v17'>Jes&nbsp;32,17</a>
   (<a href='http://bibel.renenyffenegger.ch/jes_39.html#v8'>Jes&nbsp;39,8</a>),
-  <a class='kom' href='#I1thes-5-3'>1.&nbsp;Thes&nbsp;5,3</a><a class='kom' href='#I1thes-5-3'>1.&nbsp;Thes&nbsp;5,3</a>.
+  §+1thes-5-3
  }
 #}
 #2koe-20-20 {
@@ -69371,10 +69371,10 @@
 #}
 #apg-27-35 {
  {
-  TODO: Beachte ähnlichkeit zum Abendmahl.
+  → biblisches/Personen/Paulus/dankt
  }
  {
-  TODO <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  TODO: Beachte ähnlichkeit zum Abendmahl.
  }
 #}
 #apg-27-37 {
@@ -69455,7 +69455,7 @@
   Beachte: Paulus fasste Mut, obwohl er gerade kürzlich auf aussergewöhnliche Art gerettet wurde.
  }
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a> (Vgl insbesondere, wo Paulus in einem Brief für die Brüder dankt).
+  → biblisches/Personen/Paulus/dankt
  }
  {
   <i>Begegnung</i>: <a class='kom' href='#Imt-25-1'>Mt&nbsp;25,1</a>.
@@ -69464,9 +69464,6 @@
 #apg-28-16 {
  {
   Paulus muss in Rom «ebenso Zeugnis vom Herrn ablegen, wie in Jerusalem» (<a href='http://bibel.renenyffenegger.ch/apg_23.html#v11'>Apg&nbsp;23,11</a>).
- }
- {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
  }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat
@@ -69548,9 +69545,9 @@
 @Römer 1 {
 #roem-1-1 {
  {
-  Beachte: Paulus: <i>berufener Apostel</i>, die Adressaten: <i>Berufene Jesu Christi</i> (Vers 6).
+  Beachte: → biblisches/Personen/Paulus: <i>berufener Apostel</i>, die Adressaten: <i>Berufene Jesu Christi</i> (Vers 6).
   <br>
-   Vgl §jud-1-1
+   Vgl §jud-1-1, wo die Adressaten die «in Gott, dem Vater, geliebten und in Jesu Christus bewahrten Berufenen» sind.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung#absonderung-paulus[Paulus, abgesondert] für das Evangelium: vgl
@@ -69564,37 +69561,38 @@
 #}
 #roem-1-2 {
  {
-  Der Brief beginnt auch mit der Erwähnung des Evangeliums, das Gott in <i>heiligen Schriften durch seine Propheten</i> verheissen hat, und
-  endet damit, dass «das Geheimnis» von ewigen Zeiten her verschwiegen war (<a class='kom' href='#Iroem-16-25'>Röm&nbsp;16,25</a> ff).
+  Der → biblisches/Bücher/Paulus/Römerbrief beginnt auch mit der Erwähnung des → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium[Evangeliums], das Gott in <i>heiligen Schriften durch seine → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten]</i> verheissen hat, und
+  endet damit, dass «das Geheimnis» von ewigen Zeiten her verschwiegen war, §+roem-16-25-ff.
  }
  {
   Evangelium, das Gott durch → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] in heiligen Schriften verheissen hat
   Vgl §roem-3-21, §roem-16-26, §eph-3-5
  }
  {
-   <i>Heilige Schriften</i> (<span class='gr'>γραφαῖς ἁγίαις</span>, Strongs 1124, 40), vgl <a class='kom' href='#I2tim-3-15'>2.&nbsp;Tim&nbsp;3,15</a> (<span class='gr'>ἱερὰ γράμματα</span>, Strongs 2413, 1121).
+   <i>Heilige Schriften</i> (<span class='gr'>γραφαῖς ἁγίαις</span>, Strongs 1124, 40), vgl §+2tim-3-15 (<span class='gr'>ἱερὰ γράμματα</span>, Strongs 2413, 1121).
  }
 #}
 #roem-1-3 {
  {
-  Vgl <a class='kom' href='#I2tim-2-8'>2.&nbsp;Tim&nbsp;2,8</a>.
+  Vgl §+1tim-3-16.
  }
+#}
+#roem-1-4 {
  {
-  TODO: Vgl <a class='kom' href='#I1tim-3-16'>1.&nbsp;Tim&nbsp;3,16</a>.
+  <i>Aus dem Samen → biblisches/Personen/David[Davids]</i> und <i>Totenauferstehung</i>: §+2tim-2-8.
  }
 #}
 #roem-1-5 {
  {
-  Der Brief beginnt mit einer Erwähnung von <i>Glaubensgehorsam</i> und endet mit einer solchen Erwähnung
-  §roem-16-26.
-  <br>Vgl auch mit dem «Gehorsam zur Gerechtigkeit» (<a href='http://bibel.renenyffenegger.ch/roem_6.html#v16'>Röm&nbsp;6,16-17</a>).
-  <br>Vgl auch <i>Heiden zum Gehorsam bringen</i> in <a href='http://bibel.renenyffenegger.ch/roem_15.html#v18'>Röm&nbsp;15,18</a>.
+  Der → biblisches/Bücher/Paulus/Römerbrief beginnt und endet mit einer Erwähnung von <i>Glaubensgehorsam</i> §roem-16-26.
+  <br>Vgl auch mit dem «Gehorsam zur Gerechtigkeit» (§roem-6-16-17).
+  <br>Vgl auch <i>Heiden zum Gehorsam bringen</i> in §roem-15-18.
   <br>Vgl auch mit dem <i>Gehorsam gegenüber dem Evangelium</i>:
-    <a href='http://bibel.renenyffenegger.ch/roem_10.html#v16'>Röm&nbsp;10,16</a>,
-    <a class='kom' href='#I2kor-9-13'>2.&nbsp;Kor&nbsp;9,13</a>,
-    <a href='http://bibel.renenyffenegger.ch/2thes_1.html#v8'>2.&nbsp;Thes&nbsp;1,8</a> (Gericht an denen, die <i>nicht</i> gehorsam sind)
-    <br>Vgl mit den Priestern, die dem Glauben gehorsam wurden (<a href='http://bibel.renenyffenegger.ch/apg_6.html#v7'>Apg&nbsp;6,7</a>) und
-        mit denen, die dem Evangelium nicht gehorcht haben (<a href='http://bibel.renenyffenegger.ch/roem_10.html#v16'>Röm&nbsp;10,16</a>).
+    §roem-10-16,
+    §+2kor-9-13,
+    §2thes-1-8 (Gericht an denen, die <i>nicht</i> gehorsam sind)
+    <br>Vgl mit den Priestern, die dem Glauben gehorsam wurden (§apg-6-7) und
+        mit denen, die dem Evangelium nicht gehorcht haben (§roem-10-16).
   <br>
   Vgl mit Abraham, der »durch glauben gehorsam war« (§hebr-11-8)
  }
@@ -69602,7 +69600,7 @@
   Wer ist «wir»?
  }
  {
-  TODO: <i>Paulus, der Apostel für die Heiden</i>: <a class='kom' href='#Igal-1-16'>Gal&nbsp;1,16</a>.
+  <i>Unter allen Heiden</i>, vgl §gal-1-16, → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, der Apostel der Nationen]
  }
 #}
 #roem-1-7 {
@@ -69610,21 +69608,13 @@
   <i>Geliebte Gottes</i>: vgl <a href='http://bibel.renenyffenegger.ch/roem_11.html#v28'>Röm&nbsp;11,28</a>.
  }
  {
-   TODO: <i>Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus!</i> in Paulus' Briefen:
-      <a href='http://bibel.renenyffenegger.ch/1kor_1.html#v3'>1.&nbsp;Kor&nbsp;1,3</a>,
-      <a href='http://bibel.renenyffenegger.ch/2kor_1.html#v2'>2.&nbsp;Kor&nbsp;1,2</a>,
-      <a href='http://bibel.renenyffenegger.ch/gal_1.html#v3'>Gal&nbsp;1,3</a>,
-      <a href='http://bibel.renenyffenegger.ch/eph_1.html#v2'>Eph&nbsp;1,2</a>,
-      <a href='http://bibel.renenyffenegger.ch/phil_1.html#v2'>Phil&nbsp;1,2</a>,
-      <a href='http://bibel.renenyffenegger.ch/kol_1.html#v2'>Kol&nbsp;1,2</a>,
-      <a href='http://bibel.renenyffenegger.ch/1thes_1.html#v1'>1.&nbsp;Thes&nbsp;1,1</a>,
-      <a href='http://bibel.renenyffenegger.ch/phim_1.html#v3'>Phim&nbsp;1,3</a>
-      In <a href='http://bibel.renenyffenegger.ch/1tim_1.html#v2'>1.&nbsp;Tim&nbsp;1,2</a>,
-      <a href='http://bibel.renenyffenegger.ch/2tim_1.html#v2'>2.&nbsp;Tim&nbsp;1,2</a> und
-      <a href='http://bibel.renenyffenegger.ch/tit_1.html#v4'>Tit&nbsp;1,4</a> zusätzlich noch mit «Barmherzigkeit».
-    <br>
-     Beachte: in <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v2'>1.&nbsp;Petr&nbsp;1,2</a> und
-     <a href='http://bibel.renenyffenegger.ch/2petr_1.html#v2'>2.&nbsp;Petr&nbsp;1,2</a> soll «Gnade und Friede mehr und mehr zuteil werden».
+  <i>Berufene Jesu Christi</i> (§Vroem-1-5) und <i>berufene Heilige</i>: Nicht nur die Adressaten, auch der Autor ist berufen: §roem-1-1
+ }
+ {
+  → biblisches/Bücher/Paulus#paulusbriefe-gnade-euch[Gnade euch und Friede von Gott, unserem Vater…]
+ }
+ {
+
     <br>Vgl mit «Friede und Sicherheit» in <a href='http://bibel.renenyffenegger.ch/1thes_5.html#v3'>1.&nbsp;Thes&nbsp;5,3</a>.
     <br>
      TODO: Vgl auch <a href='http://bibel.renenyffenegger.ch/ps_85.html#v11'>Ps&nbsp;85,11</a>.
@@ -69635,29 +69625,9 @@
 #}
 #roem-1-8 {
  {
-  Paulus dankt Gott: <ul>
-    <li><a class='kom' href='#Iapg-27-35'>Apg&nbsp;27,35</a> (TODO)
-    <li><a class='kom' href='#Iapg-28-15'>Apg&nbsp;28,15</a>.
-    <li>Dass der Glaube der Römer in der ganzen Welt verkündigt wird
-    <li>Für die Gnade Gottes die den Korinthern in Christus Jesus gegeben ist (<a href='http://bibel.renenyffenegger.ch/1kor_1.html#v4'>1.&nbsp;Kor&nbsp;1,4</a>)
-    <li>Dass er kein Korinther ausser Krispus und Gajus getauft hat (<a href='http://bibel.renenyffenegger.ch/1kor_1.html#v14'>1.&nbsp;Kor&nbsp;1,14</a>)
-    <li>Dass er mehr in Sprachen redet als die Korinther (<a href='http://bibel.renenyffenegger.ch/1kor_14.html#v18'>1.&nbsp;Kor&nbsp;14,18</a>)
-    <li>wegen(?) des Sieges, den Gott gibt durch unsern Herrn Jesus Christus (<a href='http://bibel.renenyffenegger.ch/1kor_15.html#v57'>1.&nbsp;Kor&nbsp;15,57</a>)
-    <li>Gott sei Dank für Titus' Eifer (<a href='http://bibel.renenyffenegger.ch/2kor_8.html#v16'>2.&nbsp;Kor&nbsp;8,16</a>)
-    <li>Für Gottes unaussprechliche Gabe (<a href='http://bibel.renenyffenegger.ch/2kor_9.html#v15'>2.&nbsp;Kor&nbsp;9,15</a>)
-    <li>Indem sie für die Kolosser beten (<a href='http://bibel.renenyffenegger.ch/kol_1.html#v3'>Kol&nbsp;1,3</a>)
-    <li>Für die Epheser in seinen Gebeten (TODO) (<a href='http://bibel.renenyffenegger.ch/eph_1.html#v16'>Eph&nbsp;1,16</a>)
-    <li>Sooft er an die Philipper denkt (<a href='http://bibel.renenyffenegger.ch/phil_1.html#v3'>Phil&nbsp;1,3</a>)
-    <li>Für die Thessaloniker, wenn er und Silvanus und Timotheus diese in ihren Geben erwähnen (<a href='http://bibel.renenyffenegger.ch/1thes_1.html#v2'>1.&nbsp;Thes&nbsp;1,2</a>),
-        weil sie das Wort nicht als Menschenwort empfangen haben (<a href='http://bibel.renenyffenegger.ch/1thes_2.html#v13'>1.&nbsp;Thes&nbsp;2,13</a>),
-        weil sie ihm offenbar Freude machen (<a href='http://bibel.renenyffenegger.ch/1thes_3.html#v9'>1.&nbsp;Thes&nbsp;3,9</a>)
-    <li>wie es sich geziemt, weil der Glaube der Thessaloniker über die Massen wächst und die Liebe jedes einzelnen von euch zunimmt allen gegenüber
-        (<a href='http://bibel.renenyffenegger.ch/2thes_1.html#v3'>2.&nbsp;Thes&nbsp;1,3</a>)
-    <li>Dass die Thessaloniker von Anfang an zur Errettung erwählt worden sind (<a href='http://bibel.renenyffenegger.ch/2thes_2.html#v13'>2.&nbsp;Thes&nbsp;2,13</a>).
-    <li>TODO <a href='http://bibel.renenyffenegger.ch/1tim_1.html#v12'>1.&nbsp;Tim&nbsp;1,12</a>
-    <li>Wenn er an Timotheus gedenkt in seinen Gebeten Tag und Nacht (<a href='http://bibel.renenyffenegger.ch/2tim_1.html#v3'>2.&nbsp;Tim&nbsp;1,3</a>)
-    <li>Wenn er an Philemon gedenkt in seinen Gebeten (<a href='http://bibel.renenyffenegger.ch/phim_1.html#v4'>Phim&nbsp;1,4</a>)
-  </ul>
+  → biblisches/Personen/Paulus/dankt
+ }
+ {
   TODO: <a class='kom' href='#Iroem-7-25'>Röm&nbsp;7,25</a>,
    <a href='http://bibel.renenyffenegger.ch/1kor_10.html#v30'>1.&nbsp;Kor&nbsp;10,30</a>,
    <a href='http://bibel.renenyffenegger.ch/2kor_2.html#v14'>2.&nbsp;Kor&nbsp;2,14</a>,
@@ -69706,10 +69676,6 @@
  {
   <i>durch den → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott[Willen Gottes] … zu euch zu kommen</i> vgl §roem-15-32
  }
- {
-  TODO: Wenn Jesus aus dem Himmel kommt, kommt er im Zorn, aber für die Gläubigen so, dass er sie
-  vom zukünftigen Zorn erettet.
- }
 #}
 #roem-1-11 {
  {
@@ -69731,10 +69697,10 @@
   <br>TODO: Beachte, dass nach dem 2. Korintherbrief die 'Gnadengabe' kaum noch eine Rolle spielt.
  }
  {
-  <i>Gnadengabe</i> <span class='gr'>χάρισμα</span> (Strongs 5486).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe
  }
  {
-  Vgl <i>mich verlang euch zu sehen</i> mit §roem-15-23: «habe grosses Verlangen, zu euch zu kommen». S.a. §+phil-1-8, §+1thes-2-8, §1thes-2-17, §1tim-6-17, §2tim-1-4. §2kor-9-14.
+  Vgl <i>mich verlang euch zu sehen</i> mit §roem-15-23: «habe grosses Verlangen, zu euch zu kommen». S.a. §+phil-1-8, §+1thes-2-8, §1thes-2-17, §2tim-1-4. §2kor-9-14.
  }
 #}
 #roem-1-13 {
@@ -70278,10 +70244,16 @@
 #}
 #roem-5-15 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe
+ }
+ {
    Vgl mit dem ersten und letzten Adam: §1kor-15-45
  }
 #}
 #roem-5-16 {
+ {
+  <i>Gabe</i>: <span class='gr'>δώρημα</span> (Strongs 1434), <i>Gnadengabe</i>: <span class='gr'>χάρισμα</span> (Strongs 5486)
+ }
  {
    Vgl <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v21'>1.&nbsp;Kor&nbsp;15,21</a>.
  }
@@ -70363,7 +70335,9 @@
 #}
 #roem-6-23 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe
+  <br>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
  }
 #}
 @}
@@ -70478,6 +70452,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+ }
+ {
+  <i>sehnsüchtiges Harren</i> vgl §2kor-5-2
  }
 #}
 #roem-8-21 {
@@ -70912,6 +70889,11 @@
   <i>Geliebte</i>: <a href='http://bibel.renenyffenegger.ch/roem_1.html#v7'>Röm&nbsp;1,7</a>
  }
 #}
+#roem-11-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe
+ }
+#}
 #roem-11-30 {
  {
   TODO: <i>Unglaube</i> vs <i>Ungehorsam</i>: siehe <a class='kom' href='#Ieph-2-2'>Eph&nbsp;2,2</a>.
@@ -71018,6 +71000,11 @@
   <a href='http://bibel.renenyffenegger.ch/kol_1.html#v18'>Kol 1,18/24</a>,
   <a href='http://bibel.renenyffenegger.ch/kol_2.html#v19'>Kol&nbsp;2,19</a>,
   <a href='http://bibel.renenyffenegger.ch/kol_3.html#v15'>Kol&nbsp;3,15</a>
+ }
+#}
+#roem-12-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe
  }
 #}
 #roem-12-9 {
@@ -71427,6 +71414,9 @@
   schlechten und bösen Menschen errettet werde».
  }
  {
+  → biblisches/Personen/Paulus hat einen Dienst für → biblisches/Orte/Jerusalem, obwohl er der → biblisches/Personen/Paulus/Apostel-der-Nationen ist.
+ }
+ {
    → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
  }
 #}
@@ -71686,15 +71676,9 @@
   Vgl die <i>geheiligten → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus[in Christo Jesu]</i> mit den «Heiligen und Treuen in Christo Jesu, die in Ephesus sind»: §eph-1-1.
  }
 #}
-#1kor-1-3 {
- {
-  Beachte, wieviele Briefe <i>Gnade sei mit euch</i> im Anfang haben. Beachte auch, dass der letzte Vers lautet
-  «Die Gnade unseres Herrn Jesus Christus sei mit euch allen! Amen.» (<a class='kom' href='#Ioffb-22-21'>Offb&nbsp;22,21</a>).
- }
-#}
 #1kor-1-4 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
@@ -71715,9 +71699,8 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung, → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
  {
-  <i>Gnadengabe</i> (<span class='gr'>χάρισμα</span>, Strongs 5486): jeder hat seine Gnadengabe von Gott
-  (<a href='http://bibel.renenyffenegger.ch/1kor_7.html#v7'>1.&nbsp;Kor&nbsp;7,7</a>, <a href='http://bibel.renenyffenegger.ch/1petr_4.html#v10'>1.&nbsp;Petr&nbsp;4,10</a>).
-  Es gibt verschiedene Gnadengaben (<a href='http://bibel.renenyffenegger.ch/1kor_12.html#v4'>1.&nbsp;Kor&nbsp;12,4-31</a>)
+  jeder hat seine → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe von Gott (§1kor-7-7, §1petr-4-10).
+  Es gibt verschiedene Gnadengaben (§1kor-12-4-31)
  }
 #}
 #1kor-1-8 {
@@ -72517,7 +72500,7 @@
 #}
 #1kor-7-7 {
  {
-  <i>Gnadengabe</i>: <a class='kom' href='#I1kor-1-7'>1.&nbsp;Kor&nbsp;1,7</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe: §+1kor-1-7.
  }
  {
   TODO: <a class='kom' href='#I1tim-2-12'>1.&nbsp;Tim&nbsp;2,12</a>.
@@ -72929,7 +72912,7 @@
 #}
 #1kor-10-30 {
  {
-  TODO: <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
 #}
 #1kor-10-32 {
@@ -73157,13 +73140,18 @@
 #}
 #1kor-12-4 {
  {
-  <i>Gnadengabe</i>: <a class='kom' href='#I1kor-1-7'>1.&nbsp;Kor&nbsp;1,7</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe: §+1kor-1-7
  }
 #}
 #1kor-12-6 {
  {
   <i>Kraftwirkungen</i> (<span class='gr'>ἐνέργημα</span>, Strongs 1755) kommt nur noch in Vers 10 vor, dort mit 'Wirkungen' übersetzt.
   Das wort ist mit Strongs 1754 verwandt.
+ }
+#}
+#1kor-12-9 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe
  }
 #}
 #1kor-12-10 {
@@ -73198,6 +73186,9 @@
  }
 #}
 #1kor-12-28 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe
+ }
  {
    Vgl mit <a href='http://bibel.renenyffenegger.ch/eph_4.html#v11'>Eph&nbsp;4,11</a>: dort hat es zusätzlich noch Evangelisten
    und Hirten. Dafür fehlen dort Wunderkräfte, Gnadengaben der Heilungen, der Hilfeleistung, der Leitung, sowie
@@ -73352,7 +73343,7 @@
 #}
 #1kor-14-18 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
 #}
 #1kor-14-19 {
@@ -73713,7 +73704,7 @@
 #}
 #1kor-15-57 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
 #}
 #1kor-15-58 {
@@ -73911,6 +73902,11 @@
   <i>Wille Gottes</i>: <a class='kom' href='#Iroem-12-2'>Röm&nbsp;12,2</a>.
  }
 #}
+#2kor-1-2 {
+ {
+  → biblisches/Bücher/Paulus#paulusbriefe-gnade-euch[Gnade euch und Friede von Gott, unserem Vater…]
+ }
+#}
 #2kor-1-3 {
  {
   Im 1. Korintherbrief erwähnt Paulus in der Eröffnung des Briefes nichts von Trost, hier aber ist Trost fünf Verse lang das Thema.
@@ -73959,6 +73955,9 @@
  }
 #}
 #2kor-1-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe
+ }
  {
    KJV: 'You also helping together by prayer for us, that for the gift bestowed on us by the means of many persons thanks may be given
    by many on our behalf.'. Barness Notes on the Bible schreibt 'That for the gift bestowed upon us - The sentence which occurs here is very perplexing in the original, and the construction is difficult.'.
@@ -74017,7 +74016,7 @@
 #}
 #2kor-1-24 {
  {
-   <i>Mitarbeiter</i> (<span class='gr'>συνεργός</span>, Strongs 4904) in Sch2K mit »Gehilfe« übersetzt.
+   <i>Mitarbeiter</i> (<span class='gr'>συνεργός</span>, Strongs 4904) in Sch2K mit «Gehilfe», in KJV mit «helpers» übersetzt.
   <br>
    Vgl → biblisches/Personen/Paulus/Mitarbeiter
  }
@@ -74070,7 +74069,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
  }
  {
-  TODO: <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
 #}
 #2kor-2-17 {
@@ -74205,7 +74204,7 @@
 #}
 #2kor-4-15 {
  {
-  TODO: <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
 #}
 #2kor-4-18 {
@@ -74218,6 +74217,11 @@
 #2kor-5-1 {
  {
   Hütte (Zelt) vgl §V2kor-5-4, §2petr-1-13-14
+ }
+#}
+#2kor-5-2 {
+ {
+  <i>uns sehnend</i> vgl §roem-8-19
  }
 #}
 #2kor-5-4 {
@@ -74452,7 +74456,7 @@
 #}
 #2kor-8-16 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
 #}
 #2kor-8-17 {
@@ -74491,7 +74495,7 @@
 #}
 #2kor-9-11 {
  {
-  TODO: <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
 #}
 #2kor-9-12 {
@@ -74522,7 +74526,7 @@
 #}
 #2kor-9-15 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
 #}
 @}
@@ -74842,6 +74846,11 @@
   <a href='http://bibel.renenyffenegger.ch/1thes_2.html#v1'>1.&nbsp;Thes&nbsp;2,1</a>).
  }
 #}
+#gal-1-3 {
+ {
+  → biblisches/Bücher/Paulus#paulusbriefe-gnade-euch[Gnade euch und Friede von Gott, unserem Vater…]
+ }
+#}
 #gal-1-4 {
  {
   <i>böse Welt</i> vgl §eph-5-16
@@ -75048,8 +75057,8 @@
 #}
 #gal-2-7 {
  {
-  <i>Paulus</i> (und Barnabas, Vers 9) ist vertraut mit dem Evangelium an die Unbeschnitten, <i>Petrus</i> (und Jakobus und Johannes, Vers 9) mit dem Evangelium an die Beschneidung.
-  Vgl <a  class='kom' href='#Iapg-9-15'>Apg 9, 15</a>.
+  → biblisches/Personen/Paulus ist vertraut mit dem Evangelium an die Unbeschnitten (§Vgal-2-7, §+apg-9-15), → biblisches/Personen/Petrus/ (und Jakobus und → biblisches/Personen/Johannes, §Vgal-2-9) mit dem Evangelium an die Beschneidung.
+  <br>
   Aber auch die Heiden sollen durch Petrus das Evangelium hören und zum Glauben kommen (<a href='http://bibel.renenyffenegger.ch/apg_15.html#v7'>Apg&nbsp;15,7</a>).
   <br>S.a. <a class='kom' href='#Iroem-11-13'>Röm&nbsp;11,13</a>.
  }
@@ -75658,6 +75667,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl die <i>Heiligen und Treuen in → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus[in Christo Jesu]</i> mit den «geheiligten in Christo Jesu» in Korinth: §1kor-1-2.
  }
 #}
+#eph-1-2 {
+ {
+  → biblisches/Bücher/Paulus#paulusbriefe-gnade-euch[Gnade euch und Friede von Gott, unserem Vater…]
+ }
+#}
 #eph-1-3 {
  {
   Vgl mit <i>Gott, der Vater der Herrlichkeit</i> (Vers 17).
@@ -75766,7 +75780,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-1-16 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
 #}
 #eph-1-17 {
@@ -76366,7 +76380,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-5-20 {
  {
-  TODO: <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
 #}
 #eph-5-21 {
@@ -76625,14 +76639,18 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-1-2 {
  {
+  → biblisches/Bücher/Paulus#paulusbriefe-gnade-euch[Gnade euch und Friede von Gott, unserem Vater…]
+ }
+ {
   <i>Einmütig</i>: <a class='kom' href='#Iapg-1-14'>Apg&nbsp;1,14</a>.
  }
 #}
 #phil-1-3 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
-  Vgl <i>Danken</i> in Kombination mit <i>Denken</i>: <a href='http://bibel.renenyffenegger.ch/2tim_1.html#v3'>2.&nbsp;Tim&nbsp;1,3</a>,
-  <a href='http://bibel.renenyffenegger.ch/phim_1.html#v4'>Phim&nbsp;1,4</a>
+  → biblisches/Personen/Paulus/dankt
+  <br>
+  Kombination mit <i>jemandes gedenken</i>: §2tim-1-3,
+  §phim-1-4
  }
 #}
 #phil-1-4 {
@@ -76678,10 +76696,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-1-8 {
  {
-  <i>Gott ist mein Zeuge</i>: <a class='kom' href='#Iroem-1-9'>Röm&nbsp;1,9</a>
+  <i>Gott ist mein Zeuge</i>: §+roem-1-9
  }
  {
-    <i>ich mich nach euch allen sehne</i>: vgl §+roem-1-11. Vgl mit Timotheus: §phil-2-26.
+  <i>ich mich nach euch allen sehne</i>: vgl §+roem-1-11, §phil-4-1. Vgl mit Timotheus: §phil-2-26.
  }
 #}
 #phil-1-9 {
@@ -77075,6 +77093,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/feststehen[steht fest], im Herrn feststehen: <a href='http://bibel.renenyffenegger.ch/1thes_3.html#v8'>1.&nbsp;Thes&nbsp;3,8</a>.
  }
  {
+  <i>ersehnte Brüder</i> vgl §phil-1-8, §roem-1-11
+ }
+ {
   Vgl Paulus' <i>Freude und Krone</i> mit den Thessalonichern (<a href='http://bibel.renenyffenegger.ch/1thes_2.html#v19'>1.&nbsp;Thes&nbsp;2,19</a> und der
   «Krone der Gerechtigkeit» (<a href='http://bibel.renenyffenegger.ch/2tim_4.html#v8'>2.&nbsp;Tim&nbsp;4,8</a>), der 'Krone des Lebens'
   (<a href='http://bibel.renenyffenegger.ch/jak_1.html#v12'>Jak&nbsp;1,12</a>, <a href='http://bibel.renenyffenegger.ch/offb_2.html#v10'>Offb&nbsp;2,10</a>)
@@ -77218,6 +77239,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-1-2 {
  {
+  → biblisches/Bücher/Paulus#paulusbriefe-gnade-euch[Gnade euch und Friede von Gott, unserem Vater…]
+ }
+ {
   <i>treu</i> (<span class='gr'>πιστός</span>, Strongs 4103, kann offenbar auch mit «gläubig» übersetzt werden. vgl §+2thes-3-2.
  }
  {
@@ -77229,7 +77253,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-1-3 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
  {
   <i>allezeit</i> vgl §Vkol-1-9 («Deshalb hören auch wir nicht auf»)
@@ -77839,6 +77863,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @1. Thessaloniker 1 {
 #1thes-1-1 {
  {
+  → biblisches/Bücher/Paulus#paulusbriefe-gnade-euch[Gnade euch und Friede von Gott, unserem Vater…]
+ }
+ {
   In Thessalonich war eine Synagoge der Juden §apg-17-1.
  }
  {
@@ -77864,7 +77891,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-1-2 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
 #}
 #1thes-1-3 {
@@ -77973,6 +78000,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
  }
+ {
+  TODO: Wenn Jesus aus dem Himmel kommt, kommt er im Zorn, aber für die Gläubigen so, dass er sie
+  vom zukünftigen Zorn erettet.
+ }
 #}
 @}
 @1. Thessaloniker 2 {
@@ -78073,7 +78104,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-2-13 {
  {
-  <i>Paulus dankt Gott</i>: §+roem-1-8.
+  → biblisches/Personen/Paulus/dankt
  }
  {
   <i>Menschenwort</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott
@@ -78227,7 +78258,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-3-9 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
  {
   <i>abstatten</i> (<span class='gr'>ἀνταποδίδωμι</span>, Strongs 467), sonst mit 'vergelten' übersetzt, zum Beispiel in <a href='http://bibel.renenyffenegger.ch/lk_14.html#v14'>Lk&nbsp;14,14</a>.
@@ -78612,8 +78643,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   In diesem Brief wird → biblisches/Personen/Paulus die Thessaloniker aufrufen, ihre Herzen zu der → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-gottes zu richten (§2thes-3-5).
  }
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
-  <br><i>Wir sind schuldig, … Gott allezeit für euch zu danken</i> §2thes-2-13
+  → biblisches/Personen/Paulus/dankt
+  <br>
+  <i>Wir sind schuldig, … Gott allezeit für euch zu danken</i> §2thes-2-13
  }
 #}
 #2thes-1-4 {
@@ -78814,7 +78846,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-2-13 {
  {
-  <i>Paulus dankt Gott</i>: §+roem-1-8.<br>
+  → biblisches/Personen/Paulus/dankt
+  <br>
   <i>Wir sind schuldig, Brüder, Gott allezeit für euch zu danken</i> §2thes-1-3.
  }
  {
@@ -78983,6 +79016,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-1-2 {
  {
+  → biblisches/Bücher/Paulus#paulusbriefe-gnade-euch[Gnade euch und Friede von Gott, unserem Vater…]
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Paulus-und-Johannes-Kinder
  }
  {
@@ -79069,7 +79105,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-1-12 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
+  → biblisches/Personen/Paulus/dankt
  }
  {
   TODO: Elberfelder: «denn ich weiß, <i>wem ich geglaubt habe</i>, und bin überzeugt, daß er mächtig ist, das <i>ihm von mir</i> anvertraute Gut auf jenen Tag zu bewahren.»,
@@ -79564,7 +79600,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Ältestenschaft</i>: <a class='kom' href='#Ilk-22-66'>Lk&nbsp;22,66</a>.
  }
  {
-    Diese Gnadengabe wurde offensichtlich auch von Paulus vermittelt; Timotheus wird von Paulus erinnert, sie wieder anzufachen
+    Diese → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe wurde offensichtlich auch von Paulus vermittelt; Timotheus wird von Paulus erinnert, sie wieder anzufachen
     (<a href='http://bibel.renenyffenegger.ch/2tim_1.html#v6'>2.&nbsp;Tim&nbsp;1,6</a>), er hat sie also wohl vernachlässigt.
  }
 #}
@@ -79832,9 +79868,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Lebendiger Gott</i>: <a class='kom' href='#I1tim-3-15'>1.&nbsp;Tim&nbsp;3,15</a>.
  }
  {
-  <i>voll Verlangen, dich zu sehen</i>: §+roem-1-11.
- }
- {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
 #}
@@ -79880,7 +79913,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-1-3 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>. In Kombination mit <i>denken</i>: <a class='kom' href='#Iphil-1-3'>Phil&nbsp;1,3</a>.
+  → biblisches/Personen/Paulus/dankt
+  <br>In Kombination mit <i>jemandes gedenken</i>: §+phil-1-3.
  }
  {
   <i>Reines Gewissen</i>: <a class='kom' href='#I1tim-3-9'>1.&nbsp;Tim&nbsp;3,9</a>.
@@ -79909,8 +79943,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-1-6 {
  {
-  Offensichtlich hat Timotheus diese Gnadengabe vernachlässigt
-         (<a href='http://bibel.renenyffenegger.ch/1tim_4.html#v14'>1.&nbsp;Tim&nbsp;4,14</a>).
+  Offensichtlich hat Timotheus diese → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe vernachlässigt (§1tim-4-14).
  }
 #}
 #2tim-1-7 {
@@ -80495,7 +80528,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #tit-1-4 {
  {
-  Vgl <a class='kom' href='#I1tim-1-2'>1.&nbsp;Tim&nbsp;1,2</a>.
+  <span class='gt'>NA ohne «Barmherzigkeit»</span>.
+ }
+ {
+  → biblisches/Bücher/Paulus#paulusbriefe-gnade-euch[Gnade euch und Friede von Gott, unserem Vater…], vgl §1tim-1-2
  }
  {
   Paulus schreibt den Brief an Titus, schreibt aber am Ende des Briefes: 'Die Gnade sei mit euch allen'
@@ -80844,9 +80880,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Möglicherweise ist dieser Brief nach Kollosäa geschrieben worden (<a href='http://bibel.renenyffenegger.ch/kol_4.html#v17'>Kol&nbsp;4,17</a>).
  }
 #}
+#phim-1-3 {
+ {
+  → biblisches/Bücher/Paulus#paulusbriefe-gnade-euch[Gnade euch und Friede von Gott, unserem Vater…]
+ }
+#}
 #phim-1-4 {
  {
-  <i>Paulus dankt Gott</i>: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>. In Kombination mit <i>denken</i>: <a class='kom' href='#Iphil-1-3'>Phil&nbsp;1,3</a>.
+  → biblisches/Personen/Paulus/dankt
+  <br>In Kombination mit <i>denken</i>: <a class='kom' href='#Iphil-1-3'>Phil&nbsp;1,3</a>.
  }
 #}
 #phim-1-5 {
@@ -83147,6 +83189,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-1-2 {
  {
+  <i>Gnade und Friede sei euch vermehrt</i>, vgl §2petr-1-2, → biblisches/Bücher/Paulus#paulusbriefe-gnade-euch[Briefanfänge von Paulus: Gnade euch und Friede von Gott, unserem Vater…]
+ }
+ {
    Das <i>Blut der Besprengung</i> redet Besseres als jenes von Abel (§+hebr-12-24)
   <br>
    Vgl §hebr-9-13
@@ -83734,8 +83779,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Haushalter</i>: siehe <a class='kom' href='#Iroem-16-23'>Röm&nbsp;16,23</a>.
  }
  {
-  <i>Gnadengabe</i>: einziger Ort wo <span class='gr'>χάρισμα</span> (Strongs 5486) vorkommt, wo nicht Paulus es geschrieben hat.
-  Vgl <a class='kom' href='#I1kor-7-7'>1.&nbsp;Kor&nbsp;7,7</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe: einziger Brief, wo <span class='gr'>χάρισμα</span> (Strongs 5486) vorkommt, der nicht Paulus geschrieben hat.
+  Vgl §+1kor-7-7.
  }
  {
   <i>Einander dienen</i>: <a class='kom' href='#Iroem-1-9'>Röm&nbsp;1,9</a>.
@@ -84021,6 +84066,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #2petr-1-2 {
+ {
+  <i>Gnade und Friede sei euch vermehrt</i>, vgl §1petr-1-2, → biblisches/Bücher/Paulus#paulusbriefe-gnade-euch[Briefanfänge von Paulus: Gnade euch und Friede von Gott, unserem Vater…]
+ }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/2petr_3.html#v18'>2.&nbsp;Petr&nbsp;3,18</a> (Ende des Briefes):
   'Wachst dagegen in der Gnade und in der Erkenntnis unseres Herrn und Retters Jesus Christus!'
@@ -85087,14 +85135,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Judas 1 {
 #jud-1-1 {
  {
-  TODO: Judas scheint ein Bruder des Herrn gewesen zu sein (<a href='http://bibel.renenyffenegger.ch/mt_13.html#v55'>Mt&nbsp;13,55</a>).
-  Judas bezeichnet sich nicht als ein Bruder des Herrn (oder Jesus), was doch eigentlich korrekt gewesen wäre, sondern als seinen Knecht!
+  <i>den … Berufenenen</i>: vgl die Anfänge von §roem-1-1 und §1kor-1-1, wo sich → biblisches/Personen/Paulus, der Schreiber des Briefes, als «Berufen» bezeichnet.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
  }
  {
-  TODO <i>den … Berufenenen</i>: vgl die Anfänge von §roem-1-1 und §1kor-1-1, wo sich Paulus, der Schreiber des Briefes, als «Berufen» bezeichnet.
+  TODO: Judas scheint ein Bruder des Herrn gewesen zu sein (<a href='http://bibel.renenyffenegger.ch/mt_13.html#v55'>Mt&nbsp;13,55</a>).
+  Judas bezeichnet sich nicht als ein Bruder des Herrn (oder Jesus), was doch eigentlich korrekt gewesen wäre, sondern als seinen Knecht!
  }
  {
   TODO: <i>bewahrt</i> (<span class='gr'>τηρέω</span>, Strongs 5083) kommt im Judasbrief noch vor in den
