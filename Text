@@ -4225,10 +4225,7 @@
 #}
 #1mo-25-26 {
  {
-  Jakob: <span class='hebr'>יַעֲקֹב</span>, Verse: <span class='hebr'>עָקֵב</span>
- }
- {
-  Jakob heisst mit Recht so: <a href='http://bibel.renenyffenegger.ch/1mo_27.html#v36'>1.&nbsp;Mo&nbsp;27,36</a>.
+  <i>Jakob</i>: <span class='hebr'>יַעֲקֹב</span>, <i>Ferse</i>: <span class='hebr'>עָקֵב</span>, vgl → biblisches/Personen/Jakob#jakobs-name und §1mo-27-36.
  }
  {
   TODO: Beachte, dass Israel auch Gott nicht los liess: §1mo-32-27
@@ -4516,12 +4513,13 @@
 #}
 #1mo-27-35 {
  {
-  <i>mit Betrug</i>: <span class='hebr'>בְּמִרְמָה</span> (Strongs 4820). Vgl mit Jakobs Söhnen: <a class='kom' href='#I1mo-34-13'>1.&nbsp;Mo&nbsp;34,13</a>.
+  <i>mit Betrug</i>: <span class='hebr'>בְּמִרְמָה</span> (Strongs 4820). Vgl mit Jakobs Söhnen: §+1mo-34-13 und
+  <i>Nathanael</i>, dem Israeliten, in dem kein Trug ist (§joh-1-47).
  }
 #}
 #1mo-27-36 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1mo_25.html#v36'>1.&nbsp;Mo&nbsp;25,36</a>.
+  → biblisches/Personen/Jakob#jakobs-name, vgl §1mo-25-26.
  }
  {
   Frage: hat Jakob <i>wirklich</i> das Erstgeburtsrecht weggenommen? Esau hat es ihm ja verkauft: <a href='http://bibel.renenyffenegger.ch/1mo_25.html#v31'>1.&nbsp;Mo&nbsp;25,31-33</a>.
@@ -42266,6 +42264,11 @@
   Vgl den <i>Wind</i> der sich gegen <i>Süden</i> und <i>Norden</i> wendet, sowie Vers 7 mit <a href='http://bibel.renenyffenegger.ch/pred_11.html#v3'>Pred&nbsp;11,3</a>.
  }
 #}
+#pred-1-9 {
+ {
+  Der Prediger sagt: <i>Nichts Neues unter der Sonne</i>. Jesus sagt: «Ich mache alles neu». §offb-21-5
+ }
+#}
 #pred-1-10 {
  {
   <i>Längst schon</i>: <a class='kom' href='#Ihes-1-1'>Hes&nbsp;1,1</a>.
@@ -53668,6 +53671,9 @@
   Verweis: §hos-11-1
  }
  {
+  Beachte: hier ist <i>Ägypten</i> ein Bild für Israel, vgl §offb-11-8. Interessanterweise erhielt der junge Jesus in dem Land Schutz, wo die Israeliten unterdrückt wurden.
+ }
+ {
   TODO: → biblisches/Chronologie/Quellen/1894-Anderson_The-Coming-Prince#todesjahr-herodes[Robert Anderson] geht davon aus, dass Herodes 1 v. Chr. gestorben ist.
  }
 #}
@@ -55895,6 +55901,9 @@
  }
  {
   <i>Versammlung</i> <span class='gr'>ἐκκλησία</span> (Strongs 1577): hier zusammen mit §mt-18-17 die beiden einzigen Vorkommen dieses Wortes in den Evangelien.
+ }
+ {
+  <i>du bist Petrus und auf diesen Felsen…</i> vgl §+joh-1-42
  }
 #}
 #mt-16-19 {
@@ -62016,10 +62025,10 @@
 #}
 #joh-1-42 {
  {
-  <i>Kephas</i> siehe <a class='kom' href='#Ihi-30-6'>Hi&nbsp;30,6</a>.
+  <i>Kephas</i> siehe §+hi-30-6.
  }
  {
-  <i>Stein</i>: dasselbe Wort wie für Petrus (<span class='gr'>Πέτρος</span>).
+  <i>Stein</i>: dasselbe Wort wie für → biblisches/Personen/Petrus (<span class='gr'>Πέτρος</span>), vgl §mt-16-18
  }
  {
   <i>Simon, Sohn des Jonas</i>: §+mt-16-17.
@@ -62039,6 +62048,9 @@
  <br>
   Nathanael erkennt Ihn in §Vjoh-1-49 als Sohn Gottes.
  }
+ {
+  Gemäss einer alten Überlieferung handelte es sich bei Nathanael um Bartholomäus.
+ }
 #}
 #joh-1-46 {
  {
@@ -62048,10 +62060,24 @@
   <i>Komm und sieh</i>: §+joh-11-34.  Vgl §offb-6-1-7, §joh-1-39
  }
 #}
+#joh-1-47 {
+ {
+  <i>Ein Israelit, in welchem kein Trug ist</i>. Vgl mit → biblisches/Personen/Jakob, der mit <i>Betrug</i> (in der → biblisches/Grundtext/LXX dasselbe Wort wie hier für «Trug») gekommen ist (§1mo-27-35) und seinen Namen
+  später zu <i>Israel</i> geändert hat.
+ }
+ {
+  <i>Trug</i> <span class='gr'>δόλος</span> (Strongs 1388), häufig mit «List» übersetzt.
+ }
+#}
 #joh-1-48 {
  {
   <i>Unter dem Feigenbaum</i>: §+1koe-5-5 und §+mi-4-4.
   <br>Vgl auch §+jes-34-4.
+ }
+#}
+#joh-1-51 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen
  }
 #}
 @}
@@ -62397,6 +62423,9 @@
  }
  {
   Beachte auch, dass die Jünger erst in Vers 27 dazustossen.
+ }
+ {
+  Alte syrische Evangelien haben Sichem statt Sichar, vgl §apg-7-16
  }
 #}
 #joh-4-6 {
@@ -65897,7 +65926,7 @@
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/jes_3.html#v13'>Jes&nbsp;3,13</a>.
  }
  {
-  Auch Petrus sah den «Himmel geöffnet»: <a href='http://bibel.renenyffenegger.ch/apg_10.html#v11'>Apg&nbsp;10,11</a>.
+  Auch Petrus sah den »→ biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen[Himmel geöffnet]«: §apg-10-11.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch
@@ -66521,7 +66550,7 @@
   vier Enden vom Himmel herabgelassen.
  }
  {
-  Auch Stephanus sah den <i>Himmel offen</i>: <a class='kom' href='#Iapg-7-56'>Apg&nbsp;7,56</a>.
+  Auch Stephanus sah den »→ biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen[Himmel geöffnet]«: §+apg-7-56.
  }
  {
   TODO: <a class='kom' href='#Iapg-3-26'>Apg&nbsp;3,26</a>.
@@ -71198,6 +71227,9 @@
 #}
 #roem-13-13 {
  {
+  <i>Schwelgereien</i>: <span class='gr'><a href='http://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s2970'>κῶμος</a></span>
+ }
+ {
   TODO: <i>Ausschweifungen</i>: <a class='kom' href='#I1petr-4-3'>1.&nbsp;Petr&nbsp;4,3</a>.
  }
 #}
@@ -75542,6 +75574,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #gal-5-21 {
  {
   Das Reich Gottes nicht erben: <a class='kom' href='#I1kor-6-9'>1.&nbsp;Kor&nbsp;6,9</a>.
+ }
+ {
+  <i>Gelage</i>: <span class='gr'><a href='http://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s2970'>κῶμος</a></span>
  }
 #}
 #gal-5-22 {
@@ -83460,7 +83495,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @1. Petrus 2 {
 #1petr-2-1 {
  {
-  Vgl <a class='kom' href='#Ikol-3-8'>Kol&nbsp;3,8</a>.
+  <i>Trug</i> <span class='gr'>δόλος</span> (Strongs 1388), häufig mit «List» übersetzt.
+ }
+ {
+  Vgl §+kol-3-8.
  }
 #}
 #1petr-2-2 {
@@ -83844,6 +83882,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <tr><td>frevelhaftem Götzendienst    </td><td>greulichen Abgöttereien   </td></tr>
          </tbody>
          </table>
+ }
+ {
+  <i>Trinkgelage</i>: <span class='gr'><a href='http://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s2970'>κῶμος</a></span>
  }
  {
   TODO: <i>Ausschweifungen</i> (<span class='gr'>ἀσέλγεια</span>, Strongs 766) auch
@@ -86639,7 +86680,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl <i>Engel vom Sonnenaufgang</i> mit
   den 'Königen vom Aufgang der Sonne' in <a href='http://bibel.renenyffenegger.ch/offb_16.html#v12'>Offb&nbsp;16,12</a>
-  und dem 'Engel in der Sonne' in <a href='http://bibel.renenyffenegger.ch/offb_19.html#v17'>Offb&nbsp;19,17</a>
+  und dem 'Engel in der Sonne' in §offb-19-17
  }
  {
   <i>Siegel des lebendigen Gottes</i>: vgl §offb-9-4
@@ -87246,6 +87287,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Sodom</i>: vgl <a class='kom' href='#Ijes-1-10'>Jes&nbsp;1,10</a> und <a href='http://bibel.renenyffenegger.ch/jer_23.html#v14'>Jer&nbsp;23,14</a>.
+ }
+ {
+  <i>geistlicherweise Ägypten</i>: Als der junge Jesus im richtigen Ägypten Schutz erhielt, war er aus dem geistlichen Ägypten gerufen worden (§mt-2-15)
  }
 #}
 #offb-11-9 {
@@ -88213,11 +88257,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    Tier mit → biblisches/Eigene-Uebersetzung/Konkordanz/Sieben-Köpfe-und-zehn-Hörner[7 Köpfen und 10 Hörnern].
  }
  {
-  Hier will der Engel das <i>Gericht über die grosse Hure</i> zeigen, in <a href='http://bibel.renenyffenegger.ch/offb_21.html#v9'>Offb&nbsp;21,9</a> über
-  die 'Braut des Lammes'.
+  Hier will der Engel <i>das Gericht über die grosse Hure</i> zeigen, in §offb-21-9 über
+  <i>die Braut des Lammes</i> (ohne Gericht!), vgl → biblisches/Bücher/prophetisch/Offenbarung/Die-grosse-Hure-vs-das-neue-Jerusalem
  }
  {
   <i>Viele Wasser</i>: Vgl <a href='http://bibel.renenyffenegger.ch/jer_51.html#v13'>Jer&nbsp;51,13</a>.
+ }
+ {
+  <i>Gericht</i>: Sch2K übersetzt mit «Urteil».
  }
 #}
 #offb-17-2 {
@@ -88265,6 +88312,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Vgl <i>Gold, Edelsteine und Perlen</i> mit <a href='http://bibel.renenyffenegger.ch/offb_18.html#v12'>Offb 18,12/16</a>
+ }
+ {
+  <i>Edelsteine</i> (wohl besser übersetzt als 'kostbare Steine'): <a class='kom' href='#I1kor-3-12'>1.&nbsp;Kor&nbsp;3,12</a>.
  }
 #}
 #offb-17-5 {
@@ -88367,9 +88417,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Herr der Herren</i>: <a class='kom' href='#I5mo-10-17'>5.&nbsp;Mo&nbsp;10,17</a>.
  }
- {
-  <i>Edelsteine</i> (wohl besser übersetzt als 'kostbare Steine'): <a class='kom' href='#I1kor-3-12'>1.&nbsp;Kor&nbsp;3,12</a>.
- }
 #}
 #offb-17-15 {
  {
@@ -88398,6 +88445,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Beachte: hier wird die Erde von der Herrlichkeit des Engels erleuchtet, §offb-21-23 erleuchtet die Herrlichkeit Gottes die Stadt. S. a. §offb-22-5.
   <br>Vgl auch mit §+4mo-14-18, §+joh-1-9.
+ }
+ {
+  <i>einen anderen Engel aus dem Himmel herniederkommen</i> vgl §offb-20-1. Dieser hat <i>grosse Gewalt</i>, jener die <i>Schlüssel des Abgrundes</i>.
  }
  {
   TODO: <i>Herrlichkeit</i>: <a class='kom' href='#Ioffb-11-13'>Offb&nbsp;11,13</a>.
@@ -88491,6 +88541,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   TODO: Vgl mit der Frucht in <a href='http://bibel.renenyffenegger.ch/1mo_3.html#v6'>1.&nbsp;Mo&nbsp;3,6</a>.
+ }
+#}
+#offb-18-15 {
+ {
+  Die Kaufleute sind <i>weinend und trauernd</i>, der Himmel, die Heiligen, Apostel und Propheten sollen jedoch <i>fröhlich</i> sein, denn Gott hat das Urteil vollzogen, §Voffb-18-20.
  }
 #}
 #offb-18-16 {
@@ -88603,9 +88658,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: Die Hochzeit ist gekommen. Wird die Braut deshalb in <a class='kom' href='#Ioffb-21-9'>Offb&nbsp;21,9</a> nicht mehr
   «Jungfrau» (<a href='http://bibel.renenyffenegger.ch/offb_14.html#v4'>Offb&nbsp;14,4</a>) genannt?
  }
- {
-  <i>Engel in der Sonne</i>: <a class='kom' href='#Ioffb-7-2'>Offb&nbsp;7,2</a>.
- }
 #}
 #offb-19-8 {
  {
@@ -88648,7 +88700,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte, Er sitzt hier auf dem Pferd, nicht auf dem Thron. (Vgl Vers 4).
  }
  {
-  <i>geöffneter Himmel</i> §+offb-4-1
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen: §+offb-4-1
  }
  {
   <i>Der Treue</i>: §+ps-96-13.
@@ -88691,7 +88743,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-19-17 {
  {
-  <i>Engel in der Sonne</i>: <a class='kom' href='#Ioffb-7-2'>Offb&nbsp;7,2</a>.
+  <i>Engel in der Sonne</i>: §+offb-7-2.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen
@@ -88724,6 +88776,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-20-1 {
  {
   <i>Schlüssel des Abgrundes</i>: <a class='kom' href='#Ioffb-9-1'>Offb&nbsp;9,1</a>.
+ }
+ {
+  <i>einen Engel aus dem Himmel herniederkommen</I> vgl $+offb-18-1
  }
 #}
 #offb-20-2 {
@@ -88857,6 +88912,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <a class='kom' href='#I2kor-5-17'>2.&nbsp;Kor&nbsp;5,17</a>.
  }
  {
+  <i>Ich mache alles neu</i>: vgl mit den Worten des Predigers «Nichts Neues unter der Sonne», §pred-1-9.
+ }
+ {
   TODO (Wörter hier anders übersetzt): → biblisches/Eigene-Uebersetzung/Konkordanz/Das-Wort-ist-gewiss
  }
 #}
@@ -88890,7 +88948,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-21-9 {
  {
-  Vgl <a class='kom' href='#Ioffb-17-1'>Offb&nbsp;17,1</a>.
+  Vgl §+offb-17-1, → biblisches/Bücher/prophetisch/Offenbarung/Die-grosse-Hure-vs-das-neue-Jerusalem
  }
  {
   TODO: Warum wird die Braut hier 'Frau' und nicht 'Jungfrau' genannt? Vgl <a class='kom' href='#Ioffb-19-7'>Offb&nbsp;19,7</a>.
