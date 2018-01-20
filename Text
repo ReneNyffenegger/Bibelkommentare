@@ -45206,13 +45206,18 @@
   Der <i>erhöhte Sohn des Menschen</i>: <a class='kom' href='#Ijoh-3-14'>Joh&nbsp;3,14</a>.
  }
 #}
+#jes-52-15 {
+ {
+  Verweis: §roem-15-21
+ }
+#}
 @}
 @Jesaja 53 {
 #jes-53-1 {
  {
-   Dieser Vers wird in <a href='http://bibel.renenyffenegger.ch/joh_12.html#v38'>Joh&nbsp;12,38</a> und ein Teil davon in
-   <a href='http://bibel.renenyffenegger.ch/roem_10.html#v16'>Röm&nbsp;10,16</a> zitiert. Im Römerbrief steht als Erklärung dazu:
-   «nicht alll haben dem Evangelium geglaubt».
+   Dieser Vers wird in §joh-12-38 und ein Teil davon in
+   §roem-10-16 zitiert. Im Römerbrief steht als Erklärung dazu:
+   «nicht alle haben dem Evangelium geglaubt».
  }
 #}
 #jes-53-2 {
@@ -45227,10 +45232,12 @@
 #}
 #jes-53-4 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/mt_8.html#v17'>Mt&nbsp;8,17</a>.
+  Verse 4 und 5: Verweis §mt-8-17.
  }
+#}
+#jes-53-5 {
  {
-  Verse 4 und 5: vgl <a href='http://bibel.renenyffenegger.ch/1petr_2.html#v24'>1.&nbsp;Petr&nbsp;2,24-25</a>.
+  Verweis: §1petr-2-24
  }
 #}
 #jes-53-7 {
@@ -54490,7 +54497,7 @@
 #}
 #mt-8-17 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/jes_53.html#v4'>Jes&nbsp;53,4</a>.
+  Verweis: §jes-53-4.
  }
  {
   Vgl §+roem-15-1.
@@ -63620,8 +63627,8 @@
 #}
 #joh-12-38 {
  {
-  Dieses Zitat wird auch in <a href='http://bibel.renenyffenegger.ch/roem_10.html#v16'>Röm&nbsp;10,16</a> verwendet. Es stammt aus
-  <a href='http://bibel.renenyffenegger.ch/jes_53.html#v1'>Jes&nbsp;53,1</a>.
+  Dieses Zitat wird auch in §roem-10-16 verwendet. Es stammt aus
+  §jes-53-1.
  }
  {
   <i>Verkündigung</i>: <a class='kom' href='#Imt-4-24'>Mt&nbsp;4,24</a>.
@@ -68495,7 +68502,7 @@
 #}
 #apg-20-4 {
  {
-  → biblisches/Personen/Timotheus/index
+  → biblisches/Personen/Timotheus/index, → biblisches/Personen/Tychikus
  }
  {
   <i>Gajus</i> vgl <a class='kom' href='#Iroem-16-23'>Röm&nbsp;16,23</a>.
@@ -69720,28 +69727,21 @@
 #}
 #roem-1-11 {
  {
-  <i>Gabe</i>. Im Römerbrief:
-  <a href='http://bibel.renenyffenegger.ch/roem_5.html#v15'>Röm&nbsp;5,15-16</a> (Übertretung vs Gnadengabe),
-  <a href='http://bibel.renenyffenegger.ch/roem_6.html#v23'>Röm&nbsp;6,23</a> (Lohn der Sünde: Tod, Gnadengabe Gottes: ewige Leben in Christus Jesus),
-  <a href='http://bibel.renenyffenegger.ch/roem_11.html#v29'>Röm&nbsp;11,29</a>,
-  <a href='http://bibel.renenyffenegger.ch/roem_12.html#v6'>Röm&nbsp;12,6</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe: Über einzelne Gnadengaben redet Paulus »erst« ab §roem-12-6 im Detail. Offenbar ist die bis dahin formulierte Lehre wichtig, um
+  mit den Gnadengaben umgehen zu können.
   <br>
-  <a href='http://bibel.renenyffenegger.ch/1kor_1.html#v7'>1.&nbsp;Kor&nbsp;1,7</a>,
-  <a href='http://bibel.renenyffenegger.ch/1kor_7.html#v7'>1.&nbsp;Kor&nbsp;7,7</a>,
-  <a href='http://bibel.renenyffenegger.ch/1kor_12.html#v4'>1.&nbsp;Kor&nbsp;12,4</a>,
-  <a href='http://bibel.renenyffenegger.ch/1kor_12.html#v9'>1.&nbsp;Kor&nbsp;12,9</a>,
-  <a href='http://bibel.renenyffenegger.ch/1kor_28.html#v28'>1.&nbsp;Kor&nbsp;28,28-30</a>
-  <a href='http://bibel.renenyffenegger.ch/2kor_1.html#v11'>2.&nbsp;Kor&nbsp;1,11</a>,
-  <br>
-  <a class='kom' href='#I1tim-4-14'>1.&nbsp;Tim&nbsp;4,14</a>/<a class='kom' href='#I2tim-1-6'>2.&nbsp;Tim&nbsp;1,6</a>,
-  <a href='http://bibel.renenyffenegger.ch/1petr_4.html#v10'>1.&nbsp;Petr&nbsp;4,10</a>
-  <br>TODO: Beachte, dass nach dem 2. Korintherbrief die 'Gnadengabe' kaum noch eine Rolle spielt.
+   Vgl. aber auch §roem-5-15-16 (Übertretung vs. Gnadengabe), §roem-6-23 (Lohn der Sünde vs. Gnadengabe Gottes) und §roem-11-29 (Gnadengaben sind unbereubar).
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe
+  Vgl <i>mich verlangt euch zu sehen</i> mit §roem-15-23: «habe grosses Verlangen, zu euch zu kommen». S.a. §+phil-1-8, §+1thes-2-8, §1thes-2-17, §2tim-1-4. §2kor-9-14.
+ }
+#}
+#roem-1-12 {
+ {
+  <i>mit … getröstet</i>: <span class='gr'>συμπαρακαλέω</span> (Strongs 4837, 1x). Beachte die Vorsilbe <span class='gr'>συμ</span>.
  }
  {
-  Vgl <i>mich verlang euch zu sehen</i> mit §roem-15-23: «habe grosses Verlangen, zu euch zu kommen». S.a. §+phil-1-8, §+1thes-2-8, §1thes-2-17, §2tim-1-4. §2kor-9-14.
+  <i>mit euch → biblisches/Eigene-Uebersetzung/Konkordanz/Trost#durch-glauben-anderer-getroestet[getröstet] zu werden in eurer Mitte, ein jeder durch den Glauben, der im anderen ist</i> vgl §1thes-3-7
  }
 #}
 #roem-1-13 {
@@ -69756,10 +69756,11 @@
 #}
 #roem-1-15 {
  {
+   Vgl mit §roem-15-20: → biblisches/Personen/Paulus/ will das Evangelium nur dort verkündigen, wo der Name des Christus noch nicht bekannt ist.
+ }
+ {
    TODO: Das Evangelium scheint nicht nur für die Ungläubigen zu sein. Vgl auch <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v1'>1.&nbsp;Kor&nbsp;15,1</a>,
    wo Paulus zwar sagt, dass die Korinther das Evangelium <i>angenommen haben</i>, aber durch dieses <i>gerettet werden, wenn sie an dem Wort festhalten</i>.
-   <br>Vgl aber auch <a href='http://bibel.renenyffenegger.ch/roem_15.html#v20'>Röm&nbsp;15,20</a>, wo Paulus das Evangelium nur dort verkündigen will,
-       wo der Name des Christus noch nicht bekannt ist.
  }
 #}
 #roem-1-16 {
@@ -70788,7 +70789,7 @@
   <i>Dem Evangelium nicht gehorcht</i>: vgl §2thes-1-8, 1petr-4-17, §+roem-1-5, §
  }
  {
-  Dieses Zitat wird auch in §joh-12-38 verwendet.  Es stammt aus §jes-53-1.
+  Dieses Zitat wird auch in §joh-12-38 verwendet. Es stammt aus §jes-53-1.
  }
 #}
 #roem-10-17 {
@@ -71050,7 +71051,10 @@
 #}
 #roem-12-6 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe
+  Paulus verlangte sehr, den Römern etwas geistliche → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe mitzuteilen. Sie dienen zur Befestigung. §+roem-1-11
+ }
+ {
+  <i>Gnadengaben nach der uns verliehenen Gnade</i> vgl §1kor-12-31 «Eifert aber um die größeren Gnadengaben …»
  }
 #}
 #roem-12-9 {
@@ -71394,6 +71398,15 @@
  {
   <i>Fundament</i>: Vgl <a href='http://bibel.renenyffenegger.ch/1kor_3.html#v10'>1.&nbsp;Kor&nbsp;3,10-12</a>,
     <a href='http://bibel.renenyffenegger.ch/eph_2.html#v20'>Eph&nbsp;2,20</a>.
+ }
+ {
+  <i>das Evangelium nicht verkündigen, wo der Name des Christus schon bekannt ist</i>: Trotzdem will → biblisches/Personen/Paulus das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium den Empfängern des
+  → biblisches/Bücher/Paulus/Römerbrief[Römerbriefs] verkündigen, §roem-1-15
+ }
+#}
+#roem-15-21 {
+ {
+  Verweis: §jes-52-15
  }
 #}
 #roem-15-23 {
@@ -73165,12 +73178,8 @@
 @1. Korinther 12 {
 #1kor-12-1 {
  {
-  TODO: <i>Geisteswirkungen</i> ist eigentlich 'nur' <span class='gr'>πνευματικός</span> (Strongs 4152), also 'Geistliches'.
-  KJV übersetzt mit 'spiritual [gifts]', Elberfelder mit 'geistlichen Offenbarungen'. Ähnlich
-  in <a href='http://bibel.renenyffenegger.ch/1kor_14.html#v1'>1.&nbsp;Kor&nbsp;14,1</a> (Elberfelder üersetzt dort mit
-  'geistliche Gaben'.
-  <br>In <a href='http://bibel.renenyffenegger.ch/1kor_14.html#v12'>1.&nbsp;Kor&nbsp;14,12</a> wird <span class='gr'>πνεῦμα</span> (Strongs 4151) also 'Geister'
-  ebenfalss mit <i>Geisteswirkungen</i> übersetzt.
+  <i>geistliche Gaben</i>: <span class='gr'>πνευματικός</span> (Strongs 4152), eigentlich «Geistliches».
+  KJV übersetzt mit «spiritual gifts», Sch2K mit «Geisteswirkungen». Ebenso in §1kor-14-1. Vgl §V1kor-14-12
  }
 #}
 #1kor-12-2 {
@@ -73257,10 +73266,13 @@
 #}
 #1kor-12-31 {
  {
-  Das griechische Verb für 'strebt aber' ist <span class='gr'>ζηλουτε</span>. Diese Form ist in der 2. Person Mehrzahl Präsens Aktiv
+  <i>Eifert aber um die grösseren → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe[Gnadengaben]</i>: vgl §+roem-12-6
+ }
+ {
+  Das griechische Verb für <i>eifert aber</i> ist <span class='gr'>ζηλουτε</span>. Diese Form ist in der 2. Person Mehrzahl Präsens Aktiv
   dieselbe für den Indikativ und den Imperativ. Diese Form kommt ebenfalls vor in
-  <a href='http://bibel.renenyffenegger.ch/1kor_14.html#v1'>1.&nbsp;Kor&nbsp;14,1</a>, <a href='http://bibel.renenyffenegger.ch/1kor_14.html#v39'>1.&nbsp;Kor&nbsp;14,39</a>
-  und <a href='http://bibel.renenyffenegger.ch/jak_4.html#v2'>Jak&nbsp;4,2</a> (wo es im Indikativ mit 'ihr neidet' übersetzt wird).
+  §1kor-14-1, §1kor-14-39
+  und §jak-4-2 (wo es im Indikativ mit «ihr neidet» übersetzt wird).
  }
 #}
 @}
@@ -73328,7 +73340,7 @@
 @1. Korinther 14 {
 #1kor-14-1 {
  {
-  <i>Geisteswirkungen</i>: <a class='kom' href='#I1kor-12-1'>1.&nbsp;Kor&nbsp;12,1</a>.
+  <i>geistliche Gaben</i>: §+1kor-12-1.
  }
 #}
 #1kor-14-2 {
@@ -73379,7 +73391,7 @@
 #}
 #1kor-14-12 {
  {
-  <i>Geisteswirkungen</i>: <a href='http://bibel.renenyffenegger.ch/1kor_12.html#v1'>1.&nbsp;Kor&nbsp;12,1</a>.
+  <i>geistliche Gaben</i>: <span class='gr'>πνεῦμα</span> (Strongs 4151), eigentlich «Geister», vgl §1kor-12-1.
  }
 #}
 #1kor-14-15 {
@@ -74528,7 +74540,10 @@
 #}
 #2kor-9-5 {
  {
-  <i>Geiz</i> siehe <a class='kom' href='#Imk-7-22'>Mk&nbsp;7,22</a>.
+  <i>Habsucht</i> siehe §+mk-7-22.
+ }
+ {
+  <i>bitten</i> <span class='gr'>παρακαλέω</span> (Strongs 3870), in KJV mit «exhort», in Sch2K (möglicherweise besster) mit «ermahnen» übersetzt.
  }
  {
   TODO: Sind diese <i>Brüder</i> Titus und der anonyme von <a href='http://bibel.renenyffenegger.ch/2kor_8.html#v17'>2.&nbsp;Kor&nbsp;8,17-18</a>.
@@ -76505,6 +76520,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Ehre Vater und Mutter</i>: §+2mo-20-12, §kol-3-20.
  }
 #}
+#eph-6-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trost#herzen-troesten
+ }
+#}
 #eph-6-4 {
  {
   <i>Kinder zum Zorn reizen</i>: <a href='http://bibel.renenyffenegger.ch/kol_3.html#v21'>Kol&nbsp;3,21</a>.
@@ -76639,6 +76659,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Diener</i>: <a class='kom' href='#I1kor-4-1'>1.&nbsp;Kor&nbsp;4,1</a>.
+ }
+ {
+  → biblisches/Personen/Tychikus
  }
 #}
 #eph-6-23 {
@@ -77518,6 +77541,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Dieses Wort wurde in der einen Schlachter 2000 mit 'ermutigt', in der andern mit 'ermahnt' übersetzt.
  }
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trost#herzen-troesten: Sch2K übersetzt mit «dass ihre Herzen ermutigt werden»
+  <br>
+   Paulus hat → biblisches/Personen/Tychikus gesendet, dass er die Kolosser tröste, §kol-4-7-8
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index, <i>Gottes Geheimnis</i>: §+offb-10-7
  }
  {
@@ -77820,8 +77848,16 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-4-7 {
  {
+  → biblisches/Personen/Tychikus
+ }
+ {
   <i>Der treue Diener</i>: <a class='kom' href='#I1kor-4-1'>1.&nbsp;Kor&nbsp;4,1</a>.
   <br>Siehe auch <a class='kom' href='#Ieph-6-21'>Eph&nbsp;6,21</a>.
+ }
+#}
+#kol-4-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trost#herzen-troesten
  }
 #}
 #kol-4-10 {
@@ -78295,6 +78331,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Hier wird → biblisches/Personen/Paulus durch den Glauben der Thessaloniker getröstet, in §2thes-1-3 dankt er
   für ihren wachsenden Glauben.
+ }
+ {
+  <i>durch euren Glauben → biblisches/Eigene-Uebersetzung/Konkordanz/Trost#durch-glauben-anderer-getroestet[getröstet] werden</i> vgl §roem-1-12. 
  }
 #}
 #1thes-3-8 {
@@ -78928,6 +78967,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2thes-2-17 {
  {
   <span class='gt'>NA hat offenbar «in jedem guten Werk und Wort»</span>
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trost#herzen-troesten
  }
 #}
 @}
@@ -80459,6 +80501,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-4-12 {
  {
+  → biblisches/Personen/Tychikus
+ }
+ {
   TODO: Möglicherweise ist Tychikus der Überbringer des Briefes an die Epheser, vgl <a class='kom' href='#Ieph-6-21'>Eph&nbsp;6,21</a>.
  }
 #}
@@ -80866,6 +80911,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #tit-3-12 {
+ {
+  → biblisches/Personen/Tychikus
+ }
  {
   Ist Titus in Ephesus? Paulus erwähnt zwei Mal, dass er Tychikus nach Ephesus senden will (<a href='http://bibel.renenyffenegger.ch/2tim_4.html#v12'>2.&nbsp;Tim&nbsp;4,12</a>,
   <a href='http://bibel.renenyffenegger.ch/eph_6.html#v21'>Eph&nbsp;6,21</a>).
@@ -81304,6 +81352,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Heute</i>: s. Vers 13, 15, <a href='http://bibel.renenyffenegger.ch/hebr_4.html#v7'>Hebr&nbsp;4,7</a>
+ }
+#}
+#hebr-3-13 {
+ {
+  <i>ermahnt euch selbst jeden Tag</i> vgl §hebr-10-25. Elberfelder übersetzt mit «ermuntert», KJV mit «exhort» (→ biblisches/Eigene-Uebersetzung/Konkordanz/Trost#troesten-parakaleo)
  }
 #}
 #hebr-3-15 {
@@ -82104,6 +82157,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-10-25 {
  {
   <i>Zusammenkommen</i> <span class='gr'>ἐπισυναγωγή</span>, Strongs 1997, 2x, in §2thes-2-1 mit «Vereinigung» übersetzt.
+ }
+ {
+  <i>einander ermahnen</i> vgl §hebr-3-13. Elberfelder übersetzt mit «ermuntern», KJV mit «exhort» (→ biblisches/Eigene-Uebersetzung/Konkordanz/Trost#troesten-parakaleo)
  }
 #}
 #hebr-10-26 {
@@ -83611,7 +83667,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-2-24 {
  {
-  Siehe <a class='kom' href='#Ijes-53-4'>Jes&nbsp;53,4</a>.
+  Verweis §+jes-53-4.
  }
 #}
 #1petr-2-25 {
