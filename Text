@@ -69794,40 +69794,30 @@
 #}
 #roem-1-16 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
+ }
+ {
   <i>Gottes Kraft</i>: das Evangelium (hier),
-  <a href='http://bibel.renenyffenegger.ch/roem_9.html#v17'>Röm&nbsp;9,17</a> (am Pharao erwiesen)
-  <a href='http://bibel.renenyffenegger.ch/roem_15.html#v13'>Röm&nbsp;15,13</a> (Kraft des Heiligen Geistes [TODO: auch <a href='http://bibel.renenyffenegger.ch/roem_15.html#v19'>Röm&nbsp;15,19</a>?]),
-  <a href='http://bibel.renenyffenegger.ch/1kor_1.html#v18'>1.&nbsp;Kor&nbsp;1,18</a> (Das Wort vom Kreuz),
-  <a href='http://bibel.renenyffenegger.ch/1kor_1.html#v24'>1.&nbsp;Kor&nbsp;1,24</a> (Christus)
+  §roem-15-13 (Kraft des Heiligen Geistes [TODO: auch §roem-15-19?]),
   <a href='http://bibel.renenyffenegger.ch/1kor_2.html#v4'>1.&nbsp;Kor&nbsp;2,4-5</a>,
-  <a href='http://bibel.renenyffenegger.ch/1kor_6.html#v14'>1.&nbsp;Kor&nbsp;6,14</a> (hatte den Herrn auferweckt, wird uns auferwecken, vgl auch <a class='kom' href='#I1kor-15-43'>1.&nbsp;Kor&nbsp;15,43</a>),
-  <a href='http://bibel.renenyffenegger.ch/2kor_12.html#v9'>2.&nbsp;Kor&nbsp;12,9</a> (wird in der Schwachheit vollkommen [Vgl dort auch die 'Kraft des Christus'] und siehe auch
-     <a href='http://bibel.renenyffenegger.ch/2kor_4.html#v7'>2.&nbsp;Kor&nbsp;4,7</a>),
+  <br>
   <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v5'>1.&nbsp;Petr&nbsp;1,5</a> (In Seiner Kraft bewahrt werden)
          <br> vgl mit Vers 20
-         <br>Das Reich Gottes besteht in Kraft: <a href='http://bibel.renenyffenegger.ch/1kor_4.html#v19'>1.&nbsp;Kor&nbsp;4,19-20</a>
          <br>TODO Vgl mit der <i>Kraft unseres Herrn Jesus Christus</i>: <a href='http://bibel.renenyffenegger.ch/1kor_5.html#v4'>1.&nbsp;Kor&nbsp;5,4</a>.
          <br>TODO: Gabe der Kräfte: <a class='kom' href='#I1kor-12-10'>1.&nbsp;Kor&nbsp;12,10</a>.
          <br>TODO: Wenn jede Kraft beseitigt ist, wird der Herr das Reich seinem Vater übergeben: <a class='kom' href='#I1kor-15-24'>1.&nbsp;Kor&nbsp;15,24</a>.
-         <br>TODO: <a class='kom' href='#I2kor-4-7'>2.&nbsp;Kor&nbsp;4,7</a>
-         <br>TODO: <a href='http://bibel.renenyffenegger.ch/2kor_6.html#v7'>2.&nbsp;Kor&nbsp;6,7</a>.
-         <br>TODO: <a href='http://bibel.renenyffenegger.ch/2kor_13.html#v4'>2.&nbsp;Kor&nbsp;13,4</a>.
-         <br>TODO: <a href='http://bibel.renenyffenegger.ch/eph_1.html#v19'>Eph&nbsp;1,19</a>.
          <br>TODO auch <a href='http://bibel.renenyffenegger.ch/eph_3.html#v16'>Eph&nbsp;3,16</a>,
     <a href='http://bibel.renenyffenegger.ch/eph_3.html#v20'>Eph&nbsp;3,20</a>
          <br>TODO: In Paulus (uns?) wirkt die Kraft: <a href='http://bibel.renenyffenegger.ch/eph_3.html#v20'>Eph&nbsp;3,20</a>, <a href='http://bibel.renenyffenegger.ch/kol_1.html#v29'>Kol&nbsp;1,29</a>
-         <br>TODO: <a href='http://bibel.renenyffenegger.ch/2tit_1.html#v8'>2.&nbsp;Tit&nbsp;1,8</a>
  }
  {
-  <i>Zuerst für den Juden, dann auch für den Griechen</i>: vgl <a href='http://bibel.renenyffenegger.ch/apg_13.html#v46'>Apg&nbsp;13,46</a>.
+  <i>Zuerst für den Juden, dann auch für den Griechen</i>: §roem-2-10-11, vgl §apg-13-46.
  }
  {
-  <i>Juden und Griechen</i>: <a href='http://bibel.renenyffenegger.ch/roem_2.html#v10'>Röm&nbsp;2,10-11</a>,
-  <a href='http://bibel.renenyffenegger.ch/roem_3.html#v9'>Röm&nbsp;3,9</a>,
-  <a href='http://bibel.renenyffenegger.ch/roem_10.html#v12'>Röm&nbsp;10,12</a>
+  <i>Juden und Griechen</i>: §roem-3-9, §roem-10-12
          <br>
-   Vgl auch <i>Juden und Heiden</i>: <a href='http://bibel.renenyffenegger.ch/roem_3.html#v29'>Röm&nbsp;3,29</a> und
-   <a href='http://bibel.renenyffenegger.ch/roem_9.html#v24'>Röm&nbsp;9,24</a>.
+   Vgl auch <i>Juden und Heiden</i>: §roem-3-29 und §roem-9-24.
  }
 #}
 #roem-1-17 {
@@ -69989,7 +69979,7 @@
 #}
 #roem-2-10 {
  {
-  <i>Juden und Griechen</i>: <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a>.
+  <i>sowohl dem Juden zuerst als auch dem Griechen</i>: §+roem-1-16.
  }
 #}
 #roem-2-11 {
@@ -70684,7 +70674,7 @@
 #}
 #roem-9-17 {
  {
-  <i>Macht</i> (<span class='gr'>δύναμις</span>, Strongs 1411), möglicherweise besser übersetzt mit 'Kraft'.
+  <i>Macht</i> (<span class='gr'>δύναμις</span>, Strongs 1411), möglicherweise besser übersetzt mit «Kraft», vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Denn-die-Schrift-sagt
@@ -71885,7 +71875,7 @@
 #}
 #1kor-1-18 {
  {
-  TODO: <i>Gotteskraft</i> evtl besser übersetzt mit 'Kraft Gottes'. Vgl <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
  }
 #}
 #1kor-1-20 {
@@ -71915,7 +71905,7 @@
 #}
 #1kor-1-24 {
  {
-  <i>Kraft Gottes</i>: <a class='kom' href='#Iroem-15-13'>Röm&nbsp;15,13</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
  }
 #}
 #1kor-1-26 {
@@ -72479,13 +72469,13 @@
 #}
 #1kor-6-14 {
  {
-  Siehe <a href='http://bibel.renenyffenegger.ch/2kor_1.html#v9'>2.&nbsp;Kor&nbsp;1,9</a>: Paulus vertraut auf Gott, der die
-  Toten auferweckt.
+  <i>Kraft</i>: Elberfelder übersetzt mit »Macht«. Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
  }
  {
-   Vgl <a class='kom' href='#I1kor-15-43'>1.&nbsp;Kor&nbsp;15,43</a> und <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a>.
-   <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/phil_3.html#v10'>Phil&nbsp;3,10</a> (Paulus will offenbar die Kraft seiner
-   Auferstehung kennenlernen!)
+  Siehe §2kor-1-9: Paulus vertraut auf Gott, der die Toten auferweckt.
+ }
+ {
+   S. a. §+1kor-15-43 und §phil-3-10 (Paulus will offenbar die Kraft seiner Auferstehung kennenlernen!)
  }
 #}
 #1kor-6-15 {
@@ -73248,7 +73238,7 @@
   mit Strongs 2059 (<a class='kom' href='#Ijoh-1-38'>Joh&nbsp;1,38</a>).
  }
  {
-  TODO: <i>iinderkräfte</i> wohl besser übersetzt mit 'Kräfte'. Vgl <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a>.
+  <i>Wunderwirkungen</i> evtl. besser übersetzt mit «Kräfte». In Sch2K übersetzt mit »Wunderkräften«.
  }
 #}
 #1kor-12-12 {
@@ -74274,8 +74264,7 @@
 #}
 #2kor-4-7 {
  {
-  <i>Kraft</i>: <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a>.
-  <br>Vgl auch mit <a class='kom' href='#I2kor-12-9'>2.&nbsp;Kor&nbsp;12,9</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft, vgl §2kor-12-9
  }
  {
    TODO: Hier scheint Gefäss ein Synonym für Körper zu sein. Vgl auch
@@ -74421,7 +74410,7 @@
 #}
 #2kor-6-7 {
  {
-  <i>Kraft Gottes</i>: <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Wahrheit
@@ -74825,7 +74814,7 @@
 #}
 #2kor-12-9 {
  {
-  <i>Kraft</i>: <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a> und <a class='kom' href='#I2kor-4-7'>2.&nbsp;Kor&nbsp;4,7</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft, vgl §+2kor-4-7
  }
 #}
 #2kor-12-10 {
@@ -74895,7 +74884,7 @@
 #}
 #2kor-13-4 {
  {
-  <i>Kraft Gottes</i>: <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
  }
 #}
 #2kor-13-11 {
@@ -75894,10 +75883,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-1-19 {
  {
-  <i>Kraft</i> (Strongs 1411) in Sch2K übersetzt mit »Kraftwirkung«. Vgl §+roem-1-16
+  <i>Kraft</i> (Strongs 1411) in Sch2K übersetzt mit »Kraftwirkung«. Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
  }
  {
-  <i>Wirksamkeit seiner Kraft</i> vgl. §eph-3-7
+  <i>Wirksamkeit seiner Kraft</i> vgl. §eph-3-7, §eph-3-16, §eph-3-20
  }
 #}
 #eph-1-20 {
@@ -80080,7 +80069,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-1-8 {
  {
-  → biblisches/Personen/Paulus/Gefangener
+  → biblisches/Personen/Paulus/Gefangener, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
  }
 #}
 #2tim-1-9 {
