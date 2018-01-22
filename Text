@@ -52583,11 +52583,11 @@
 #}
 #hab-2-4 {
  {
-  <i>Der Gerechte wird aus Glauben leben</i>: <a href='http://bibel.renenyffenegger.ch/roem_1.html#v17'>Röm&nbsp;1,17</a>, <a href='http://bibel.renenyffenegger.ch/gal_3.html#v11'>Gal&nbsp;3,11</a>,
-  <a href='http://bibel.renenyffenegger.ch/hebr_10.html#v38'>Hebr&nbsp;10,38</a>.
+  <i>Der Gerechte wird aus Glauben leben</i>: §roem-1-17, §gal-3-11, §hebr-10-38.
  }
  {
-  TODO: Ist hier der einzige Ort im Alten Testament, wo das Nomen 'Glaube' vorkommt?
+  <i>Glaube</i> <span class='hebr'>אֱמוּנָה</span> (Strongs 530): Hier der einzig Ort, wo dieses Wort mit «Glaube» übersetzt wird. Überhaupt kommt das Nomen «Glaube» – zumindest in der deutschen
+  Übersetztung – im Alten Testament nur hier vor.
  }
 #}
 #hab-2-14 {
@@ -69648,6 +69648,9 @@
  {
    <i>Heilige Schriften</i> (<span class='gr'>γραφαῖς ἁγίαις</span>, Strongs 1124, 40), vgl §+2tim-3-15 (<span class='gr'>ἱερὰ γράμματα</span>, Strongs 2413, 1121).
  }
+ {
+  <i>durch Propheten in seinen Heiligen Schriften verheissen</i> vgl §gal-3-8: Die Schrift hat vorausgesehen, dass Gott die Nationen aus Glauben rechtfertigen würde.
+ }
 #}
 #roem-1-3 {
  {
@@ -69822,14 +69825,15 @@
 #}
 #roem-1-17 {
  {
-  <i>Der Gerechte wird aus Glauben leben</i>: <a class='kom' href='#Ihab-2-4'>Hab&nbsp;2,4</a>,
-  <br>Vgl mit «der Gerechtigkeit, die aus dem Gesetz kommt»: <a class='kom' href='#Iroem-10-5'>Röm&nbsp;10,5</a>.
+  <i>Der Gerechte wird aus Glauben leben</i>: §+hab-2-4, §gal-3-11, §hebr-10-38
+  <br>Vgl mit «der Gerechtigkeit, die aus dem Gesetz kommt»: §+roem-10-5.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
  {
-   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/roem_3.html#v21'>Röm&nbsp;3,21</a> (Geoffenbarte Gerechtigkeit)
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit und die <i>Ungerechtigkeit der Menschen</i> (nächster Vers): → biblisches/Personen/Paulus beschreibt bis §roem-3-20
+  die Ungerechtigkeit der Menschen, ab §roem-3-21 dann Gottes Gerechtigkeit («Jetzt aber ist, ohne Gesetz, Gottes Gerechtigkeit geoffenbart worden…»)
  }
 #}
 #roem-1-18 {
@@ -70052,6 +70056,11 @@
   Vgl <a class='kom' href='#Ips-51-6'>Ps&nbsp;51,6</a>.
  }
 #}
+#roem-3-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit
+ }
+#}
 #roem-3-13 {
  {
   Vgl §ps-5-10, §ps-140-4
@@ -70085,10 +70094,10 @@
   <i>Gesetz und Propheten</i>: §roem-1-2
  }
  {
-  TODO: Vgl <a class='kom' href='#I5mo-6-25'>5.&nbsp;Mo&nbsp;6,25</a>
+  Es scheint, dass Paulus ab §+roem-1-17 bis zum vorangehenden Vers die <i>Ungerechtigkeit des Menschen</i> beschrieben hat, <i>jetzt aber</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit.
  }
  {
-  TODO: vgl <a class='kom' href='#Iroem-1-17'>Röm&nbsp;1,17</a>.
+  TODO: Vgl <a class='kom' href='#I5mo-6-25'>5.&nbsp;Mo&nbsp;6,25</a>
  }
 #}
 #roem-3-22 {
@@ -70738,6 +70747,11 @@
  }
  {
   <i>Flehen</i>: KJV übersetzt mit «prayer».
+ }
+#}
+#roem-10-3 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit
  }
 #}
 #roem-10-4 {
@@ -74359,6 +74373,11 @@
   <br>Vgl §eph-6-20.
  }
 #}
+#2kor-5-21 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit
+ }
+#}
 @}
 @2. Korinther 6 {
 #2kor-6-1 {
@@ -75244,12 +75263,12 @@
 #}
 #gal-3-8 {
  {
-  TODO: Welche <i>Schrift</i> ist hier gemeint. Zu Abrahams Zeiten gab es doch die Bibel noch nicht.
+  <i>Die Schrift aber, voraussehend, daß Gott die Nationen aus Glauben rechtfertigen würde…</i> Vgl §roem-1-1-2: Das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium[Evangelium Gottes] wurde durch seine → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] in heiligen Schriften zuvor verheissen.
  }
 #}
 #gal-3-11 {
  {
-  <i>Der Gerechte wird aus Glauben leben</i>: <a class='kom' href='#Ihab-2-4'>Hab&nbsp;2,4</a>.
+  <i>Der Gerechte wird aus Glauben leben</i>: §+hab-2-4, §roem-1-17, §hebr-10-38
  }
 #}
 #gal-3-14 {
@@ -82248,7 +82267,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-10-38 {
  {
-  <i>Der Gerechte wird aus Glauben leben</i>: <a class='kom' href='#Ihab-2-4'>Hab&nbsp;2,4</a>.
+  <i>Der Gerechte wird aus Glauben leben</i>: §+hab-2-4, §roem-1-17, §gal-3-11
  }
  {
   TODO: Gemäss Arghelger sollte hier statt <i>er</i> «jemand» stehen (Arghelger_Gedanken-zu-einzelnen-Versen-des-Hebräerbriefs-in-der-Schlachter-2000.pdf)
@@ -82951,6 +82970,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>langsam zum Zorn</i>: §+neh-5-7, §+eph-4-26, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte
+ }
+#}
+#jak-1-20 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit
  }
 #}
 #jak-1-22 {
