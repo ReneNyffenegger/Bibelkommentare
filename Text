@@ -2903,17 +2903,19 @@
 #}
 #1mo-15-6 {
  {
-   Die Schrift erfüllte sich, als Abraham den Isaak auf dem Altar darbrachte (<a href='http://bibel.renenyffenegger.ch/jak_2.html#v21'>Jak 2,21-23</a>,
-   <a href='http://bibel.renenyffenegger.ch/1mo_22.html#v9'>1.&nbsp;Mo&nbsp;22,9</a>)
+  Verweis: §roem-4-3
  }
  {
-  Als <i>Gerechtigkeit angerechnet</i> wurde auch die Tat von Pinehas (<a href='http://bibel.renenyffenegger.ch/ps_106.html#v31'>Ps&nbsp;106,31</a>).
+   Die Schrift erfüllte sich, als Abraham den Isaak auf dem Altar darbrachte (§jak-2-21-23, §1mo-22-9)
  }
  {
-  Siehe <a class='kom' href='#I1mo-16-2'>1.&nbsp;Mo&nbsp;16,2</a>.
+  Als <i>Gerechtigkeit angerechnet</i> wurde auch die Tat von Pinehas (§ps-106-31).
  }
  {
-  Dieser Vers wird in <a href='http://bibel.renenyffenegger.ch/jak_2.html#v23'>Jak&nbsp;2,23</a> zitiert und mit «und er wurde ein Freund Gottes genannt» ergänzt.
+  Siehe §+1mo-16-2.
+ }
+ {
+  Dieser Vers wird in §jak-2-23 zitiert und mit «und er wurde ein Freund Gottes genannt» ergänzt.
  }
 #}
 #1mo-15-7 {
@@ -37084,6 +37086,9 @@
 #}
 #ps-10-7 {
  {
+  Verweis: §roem-3-14
+ }
+ {
   TODO: Strongs 4820.
  }
 #}
@@ -37155,6 +37160,11 @@
  }
  {
   <i>Es ist kein Gott</i> vgl §ps-10-4
+ }
+#}
+#ps-14-3 {
+ {
+  Verweis: §roem-3-12
  }
 #}
 @}
@@ -37827,6 +37837,9 @@
 #}
 #ps-36-2 {
  {
+  Verweis: §roem-3-18
+ }
+ {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
  }
 #}
@@ -37910,7 +37923,7 @@
 @Psalm 38 {
 #ps-38-2 {
  {
-   Vgl <a class='kom' href='#Ips-6-2'>Ps&nbsp;6,2</a>.
+   Vgl §+ps-6-2.
  }
 #}
 #ps-38-8 {
@@ -38221,7 +38234,7 @@
 #}
 #ps-51-6 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/roem_3.html#v4'>Röm&nbsp;3,4</a>.
+  Verweis §roem-3-4.
  }
 #}
 #ps-51-7 {
@@ -38270,6 +38283,16 @@
 #ps-53-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
+ }
+#}
+#ps-53-3 {
+ {
+  Verweis: §roem-3-11
+ }
+#}
+#ps-53-4 {
+ {
+  Verweis: §roem-3-10
  }
 #}
 @}
@@ -69665,6 +69688,7 @@
 #roem-1-5 {
  {
   Der → biblisches/Bücher/Paulus/Römerbrief beginnt und endet mit einer Erwähnung von <i>Glaubensgehorsam</i> §roem-16-26.
+  <br>Vgl auch mit «die selbstsüchtig und der Wahrheit nicht gehorchen» §roem-2-8
   <br>Vgl auch mit dem «Gehorsam zur Gerechtigkeit» (§roem-6-16-17).
   <br>Vgl auch <i>Heiden zum Gehorsam bringen</i> in §roem-15-18.
   <br>Vgl auch mit dem <i>Gehorsam gegenüber dem Evangelium</i>:
@@ -69838,9 +69862,10 @@
 #}
 #roem-1-18 {
  {
-  <i>Wahrheit</i>: vgl Vers 25 und <a href='http://bibel.renenyffenegger.ch/roem_2.html#v2'>Röm&nbsp;2,2</a>,
-  <a href='http://bibel.renenyffenegger.ch/vroem_2.html#v8'>Vröm 2,8</a>,
-  <a href='http://bibel.renenyffenegger.ch/roem_3.html#v7'>Röm&nbsp;3,7</a>.
+  <i>Gottes Zorn über die, die Wahrheit in Ungerechtigkeit besitzen</i> vgl §roem-2-8 (die «der Wahrheit nicht gehorchen, sondern der Ungerechtigkeit gehorchen, Grimm und Zorn!»)
+ }
+ {
+  <i>Wahrheit</i>: vgl §Vroem-1-25 und §roem-2-2, §roem-3-7.
  }
  {
   <i>Ungerechtigkeit</i> wird in Vers 29 als erstes aufgezählt.
@@ -69857,8 +69882,11 @@
   Sch2K übersetzt mit «den Werken», KJV mit «things tat are made».
  }
  {
-  <i>ewig</i>: <span class='gr'>ἀΐδιος</span> (Strongs 126, 2x, <a href='http://bibel.renenyffenegger.ch/jud_1.html#v6'>Jud&nbsp;1,6</a>).
-  TODO: Sonst wird für ewig Strongs 165 genommen.
+  <i>ewig</i>: <span class='gr'>ἀΐδιος</span> (Strongs 126, 2x, §jud-1-6).
+  An anderen Orten wird Strongs 165 mit <i>ewig</i> übersetzt.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
  }
  {
   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/roem_2.html#v1'>Röm&nbsp;2,1</a> (Strongs 379).
@@ -69933,6 +69961,11 @@
    <span class='gt'>In NA fehlt <i>Unversöhnliche</i>, Sch2K übersetzt mit dem Adjektiv «unversöhnlich».</span>
  }
 #}
+#roem-1-32 {
+ {
+  <i>des Todes würdig sein</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
+ }
+#}
 @}
 @Römer 2 {
 #roem-2-1 {
@@ -69957,7 +69990,7 @@
 #}
 #roem-2-4 {
  {
-   Vgl <i>Gottes Langmut</i> mit <a href='http://bibel.renenyffenegger.ch/roem_9.html#v22'>Röm&nbsp;9,22</a>.
+   Vgl <i>Gottes Langmut</i> mit §roem-9-22, §1petr-3-20, §1tim-1-16
  }
 #}
 #roem-2-5 {
@@ -69974,6 +70007,9 @@
 #roem-2-7 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+ {
+  Beachte: denen, die <i>Herrlichkeit und Ehre</i> suchen, wird mit Herrlichkeit und Ehre vergolten, §Vroem-2-10
  }
 #}
 #roem-2-8 {
@@ -70053,7 +70089,7 @@
 @Römer 3 {
 #roem-3-4 {
  {
-  Vgl <a class='kom' href='#Ips-51-6'>Ps&nbsp;51,6</a>.
+  Verweis §+ps-51-6.
  }
 #}
 #roem-3-5 {
@@ -70061,9 +70097,29 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit
  }
 #}
+#roem-3-10 {
+ {
+  Verweis: §ps-53-4
+ }
+#}
+#roem-3-11 {
+ {
+  Verweis: §ps-53-3
+ }
+#}
+#roem-3-12 {
+ {
+  Verweis: §ps-14-3
+ }
+#}
 #roem-3-13 {
  {
   Vgl §ps-5-10, §ps-140-4
+ }
+#}
+#roem-3-14 {
+ {
+  Verweis: §ps-10-7
  }
 #}
 #roem-3-15 {
@@ -70074,6 +70130,16 @@
 #roem-3-17 {
  {
   <i>Weg des Friedens</i> §lk-1-79, §jes-59-8
+ }
+#}
+#roem-3-18 {
+ {
+  Verweis: §ps-36-2
+ }
+#}
+#roem-3-19 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz
  }
 #}
 #roem-3-20 {
@@ -70132,6 +70198,11 @@
   <i>Sühne</i>: §1joh-2-2, §1joh-4-10
  }
 #}
+#roem-3-26 {
+ {
+  <i>… daß er gerecht sei und den rechtfertige, der des Glaubens an Jesus ist</i> vgl §roem-4-3
+ }
+#}
 #roem-3-28 {
  {
   <span class='u'>TODO: E:\Digitales-Backup\Lesbares\Biblisches\TODO-alle-kommentare\apg-2-38_rom-3-28_jak-2-24__How-do-I-reconcile.pdf</span>
@@ -70173,6 +70244,9 @@
 #roem-4-3 {
  {
    <i>Was sagt die Schrift</i>: §gal-4-30.
+ }
+ {
+  Vgl §+roem-3-26, §1mo-15-6
  }
 #}
 #roem-4-5 {
@@ -70708,7 +70782,7 @@
 #}
 #roem-9-22 {
  {
-   <i>Gottes Langmut</i>: <a href='http://bibel.renenyffenegger.ch/roem_2.html#v4'>Röm&nbsp;2,4</a>.
+   <i>Gottes Langmut</i>: §+roem-2-4.
  }
 #}
 #roem-9-24 {
@@ -79281,6 +79355,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Vorbild</i> <span class='gr'>ὑποτύπωσις</span> (Strongs 5296, 2x): in KJV mit «pattern» übersetzt. Das Wort kommt noch in §2tim-1-13 vor.
  }
  {
+  <i>Langmut</i>: §+roem-2-4
+ }
+ {
   TODO: Beachte: Paulus wird als erstem die <i>ganze Langut</i> gezeigt, darum schreibt er auch davon, wie Petrus in §2petr-3-15-16 bemerkt. Petrus
   bemerkt darüberhinaus, dass «diese Dinge schwer zu verstehen sind», evtl darum, weil es für die Juden, an die Petrus schreibt, völlig neu ist.
  }
@@ -83844,6 +83921,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1petr-3-20 {
  {
   <i>Kasten</i>: <a class='kom' href='#Imt-24-37'>Mt&nbsp;24,37</a>.
+ }
+ {
+  <i>Langmut</i>: §+roem-2-4
  }
 #}
 #1petr-3-21 {
