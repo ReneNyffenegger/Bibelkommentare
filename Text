@@ -18441,7 +18441,8 @@
 #}
 #5mo-6-4 {
  {
-  <i>Der HERR … ist ein einziger HERR</i> §roem-3-30, §1tim-2-5, § }
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#ist-einer[Der HERR … ist ein einziger HERR]
+ }
  {
   Dies ist das <i>erste Gesetz</i> (§mk-12-29-30).
  <br>
@@ -20091,7 +20092,10 @@
 #}
 #5mo-32-40 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/offb_10.html#v5'>Offb 10,5-6</a>.
+  <i>ich erhebe zum Himmel meine Hand</i> Vgl §offb-10-5-6.
+ }
+ {
+  <i>Ich lebe ewiglich</i> vgl §offb-1-18
  }
 #}
 #5mo-32-43 {
@@ -55589,7 +55593,7 @@
 #}
 #mt-13-39 {
  {
-  <a href='Vollendung-des-Zeitalters.html'>Vollendung des Zeitalters</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Vollendung-des-Zeitalters
  }
  {
   <i>Ernte</i> vgl Vers 30 und <a href='http://bibel.renenyffenegger.ch/offb_14.html#v15'>Offb&nbsp;14,15</a>.
@@ -55622,6 +55626,11 @@
 #mt-13-48 {
  {
   TODO: wer sind <i>sie</i>?
+ }
+#}
+#mt-13-49 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Vollendung-des-Zeitalters
  }
 #}
 #mt-13-50 {
@@ -56699,7 +56708,7 @@
   in den Versen 6, 13 und 14.
  }
  {
-  <a href='Vollendung-des-Zeitalters.html'>Vollendung des Zeitalters</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Vollendung-des-Zeitalters
  }
  {
   TODO: <i>Kommens</i> (<span class='gr'>παρουσία</span>, Strongs 3952): <a class='kom' href='#I1thes-2-19'>1.&nbsp;Thes&nbsp;2,19</a>.
@@ -57603,12 +57612,10 @@
   <i>Ich bin bei euch alle Tage...</i>: <a class='kom' href='#Imt-1-23'>Mt&nbsp;1,23</a>.
  }
  {
-  <a href='Vollendung-des-Zeitalters.html'>Vollendung des Zeitalters</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Vollendung-des-Zeitalters
  }
  {
-  Beachte: die vier Evangelien hören alle mit «Amen» auf (<a href='http://bibel.renenyffenegger.ch/mk_16.html#v20'>Mk&nbsp;16,20</a>,
-    <a href='http://bibel.renenyffenegger.ch/lk_24.html#v53'>Lk&nbsp;24,53</a>,
-    <a href='http://bibel.renenyffenegger.ch/joh_21.html#v25'>Joh&nbsp;21,25</a>)
+  Beachte: die vier Evangelien hören alle mit «Amen» auf: §mk-16-20, §lk-24-53, §joh-21-25
  }
 #}
 @}
@@ -60863,6 +60870,11 @@
  {
   <i>gemästet</i>: <span class='gr'>σιτευτός</span> (Strongs 4618) stammt von <span class='gr'>σῖτος</span> (Strongs 4621) ab, welches offenbar
   «Weizen» bedeutet.
+ }
+#}
+#lk-15-24 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/tot-und-lebendig
  }
 #}
 @}
@@ -70217,7 +70229,7 @@
 #}
 #roem-3-30 {
  {
-  <i>ein einziger Gott</i> §5mo-6-4, §1tim-2-5
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#ist-einer[ein einiger Gott]
  }
  {
   TODO: vgl 'aus Glauben' und 'durch den Glauben'.
@@ -74085,6 +74097,9 @@
   Im 1. Korintherbrief erwähnt Paulus in der Eröffnung des Briefes nichts von Trost, hier aber ist Trost fünf Verse lang das Thema.
   Trost ist offenbar eng an Leiden geknüpft (Vers 4).
  }
+ {
+  <i>Jesus Christus, der Vater der Erbarmungen</i> vgl §eph-1-17. S. a. §hebr-12-9, §jak-1-17
+ }
 #}
 #2kor-1-4 {
  {
@@ -75415,6 +75430,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: Ist Jesus dieser <i>Mittler</i>?
  }
 #}
+#gal-3-20 {
+ {
+  Vgl §1tim-2-5
+ }
+#}
 #gal-3-21 {
  {
    Vgl §+3mo-18-5 (Der Mensch wird durchs beobachten des Gesetzes leben).
@@ -75968,6 +75988,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-1-17 {
  {
+  <i>Jesus Christus, der Vater der Herrlichkeit</i> vgl §2kor-1-3
+ }
+ {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
 #}
@@ -76044,6 +76067,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-2-4 {
  {
    §+roem-5-8
+ }
+#}
+#eph-2-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/tot-und-lebendig, vgl §kol-2-13
  }
 #}
 #eph-2-6 {
@@ -77750,6 +77778,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>tot in Vergehungen</i> §eph-2-1
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/tot-und-lebendig, vgl §eph-2-5
+ }
 #}
 #kol-2-14 {
  {
@@ -78023,8 +78054,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-4-14 {
  {
-  Demas wird in <a href='http://bibel.renenyffenegger.ch/phim_1.html#v24'>Phim&nbsp;1,24</a> noch 'geliebter Mitarbeiter'
-  genannt, und in <a href='http://bibel.renenyffenegger.ch/2tim_4.html#v10'>2.&nbsp;Tim&nbsp;4,10</a> hat er die Welt liebgewonnen
+  Demas wird in §phim-1-24 noch «geliebter Mitarbeiter»
+  genannt, und in §2tim-4-10 hat er die Welt liebgewonnen
   und ist nach Thessalonich gegangen.
  }
  {
@@ -79441,7 +79472,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-2-5 {
  {
-  <i>Gott ist einer</i>: §5mo-6-4, §roem-3-30
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#ist-einer
+ }
+ {
+  Vgl. §gal-3-20
  }
  {
   <i>Der Mensch Christus Jesus</i>, vgl §+hos-11-9, §joh-1-30
@@ -80613,7 +80647,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-4-10 {
  {
-  Siehe <a class='kom' href='#Ikol-4-14'>Kol&nbsp;4,14</a>.
+  Demas: Siehe §+kol-4-14.
+  <br>
+  <i>hat den jetztigen Zeitlauf liebgewonnen</i> vgl §1joh-2-15
+ }
+ {
+  <i>Den jetztigen Zeitlauf</i>: <span class='gr'>τὸν νῦν αἰῶνα</span>. Sch2K übersetzt mit «die jetzige Weltzeit</i>, KJV mit «this present world».
  }
 #}
 #2tim-4-11 {
@@ -82095,6 +82134,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  <br>
   S.a. §2petr-3-14
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/tot-und-lebendig
+ }
 #}
 #hebr-9-15 {
  {
@@ -82663,6 +82705,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Unterordnen</i>: <a class='kom' href='#Iroem-13-1'>Röm&nbsp;13,1</a>.
  }
  {
+  <i>Vater der Geister</i> vgl §2kor-1-3, §eph-1-17, §jak-1-17
+ }
+ {
   TODO: kann <i>Vater der Geister</i> auch mit 'geistliche Väter' übersetzt werden?
  }
 #}
@@ -82976,7 +83021,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-1-6 {
  {
-  Vergleiche die (unbeständige) <i>Meereswoge</i> mit dem <i>Vater der Lichter, bei dem keine Veränderung ist</i> (Vers 17).
+  Vergleiche die (unbeständige) <i>Meereswoge</i> mit dem <i>Vater der Lichter, bei dem keine Veränderung ist</i> (§Vjak-1-17).
  }
 #}
 #jak-1-9 {
@@ -83034,7 +83079,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-1-17 {
  {
-  <i>Vater der Lichter</i> vgl «Söhne des Lichts» §lk-16-8, «Kinder des Lichts» §eph-5-8
+  <i>Vater der Lichter</i> vgl §2kor-1-3, §eph-1-17, §hebr-12-9
+  <br>
+  Siehe auch «Söhne des Lichts» §lk-16-8, «Kinder des Lichts» §eph-5-8
  }
  {
    §+jak-1-6.
@@ -84979,6 +85026,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   </ul>
  }
 #}
+#1joh-2-15 {
+ {
+  <i>Liebt nicht die Welt…</i> vgl §2tim-4-10
+ }
+#}
 #1joh-2-16 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1mo_3.html#v6'>1.&nbsp;Mo&nbsp;3,6</a>.
@@ -85924,7 +85976,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-1-18 {
  {
-  TODO Beachte: Der Herr hat die <i>Schlüssel des Todes und des Hades</i>, die Schlüssel «des Reiches der Himmel» hat er Petrus gegeben (§+mt-16-19).
+  <i>ich bin lebendig von Ewigkeit zu Ewigkeit</i> vgl §5mo-32-40
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/tot-und-lebendig
+ }
+ {
+  Beachte: Der Herr hat die <i>Schlüssel des Todes und des Hades</i>, die Schlüssel «des Reiches der Himmel» hat er Petrus gegeben (§+mt-16-19).
  }
 #}
 #offb-1-19 {
@@ -87252,10 +87310,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-10-5 {
  {
-  Vgl <a class='kom' href='#I5mo-32-40'>5.&nbsp;Mo&nbsp;32,40</a>.
+  <i> erhob seine rechte Hand zum Himmel</i> Vgl §+5mo-32-40.
  }
  {
-  <i>Bei dem schwören,d er von Ewigkeit zu Ewigkeit lebt</i>: vgl §dan-12-7.
+  <i>Bei dem schwören, der von Ewigkeit zu Ewigkeit lebt</i>: vgl §dan-12-7.
  }
 #}
 #offb-10-6 {
