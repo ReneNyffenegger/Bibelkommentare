@@ -162,7 +162,7 @@
 #}
 #1mo-1-2 {
  {
-  <i>wüst und leer</i>: vgl §jer-4-23 und §+jes-34-11.
+  <i>wüst und leer</i>: vgl §jer-4-23 und §+jes-34-11. Die Erde wurde nicht als eine Öde geschaffen, sondern um bewohnt zu werden §jes-45-18
   <br>Siehe auch → biblisches/Lehre/Lückentheorie.
  }
  {
@@ -18441,7 +18441,7 @@
 #}
 #5mo-6-4 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#ist-einer[Der HERR … ist ein einziger HERR]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#ist-einer[Der HERR … ist ein einziger HERR], §joh-10-30
  }
  {
   Dies ist das <i>erste Gesetz</i> (§mk-12-29-30).
@@ -20088,6 +20088,9 @@
   <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/ps_31.html#v7'>Ps&nbsp;31,7</a>,
       <a href='http://bibel.renenyffenegger.ch/jer_49.html#v9'>Jer&nbsp;49,9</a>,
       <a href='http://bibel.renenyffenegger.ch/hos_14.html#v9'>Hos&nbsp;14,9</a>
+ }
+ {
+  <i>Ich töte und mache lebendig</i>, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/tot-und-lebendig, §neh-9-6 
  }
 #}
 #5mo-32-40 {
@@ -27652,6 +27655,11 @@
   TODO: Ab 'und alle ihre Übertretungen' bis Vers 51 fehlt nahc <a href='http://bibel.renenyffenegger.ch/2chr_6.html#v39'>2.&nbsp;Chr&nbsp;6,39</a>.
  }
 #}
+#1koe-8-60 {
+ {
+  <i>keiner mehr</i>: Sch2K übersetzt mit »und keiner sonst«.
+ }
+#}
 #1koe-8-64 {
  {
   TODO: in KJV: 'middle of the court', in Elberfelder 1905: 'die Mitte des Hofes,'
@@ -31807,6 +31815,11 @@
   Vgl <a class='kom' href='#I2sam-7-14'>2.&nbsp;Sam&nbsp;7,14</a>.
  }
 #}
+#1chr-17-16 {
+ {
+  Dies ist offenbar die einzige Stelle in der Bibel, wo sich jemand vor Gott gesetzt hat, um zu beten.
+ }
+#}
 @}
 @1. Chronik 18 {
 #1chr-18-1 {
@@ -35397,6 +35410,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde. <i>Die Meere und alles, was in ihnen ist</i> vgl §apg-4-24
  }
  {
+  <i>du machst alles lebendig</i> vgl §5mo-32-39
+ }
+ {
   TODO andere Übersetzungen lesen «werfen sich vor dir nieder» statt <i>das Heer des Himmels betet dich an</i>.
  }
 #}
@@ -36409,11 +36425,23 @@
 @}
 }
 { 21-30
+@Hiob 20 {
+#hi-20-28 {
+ {
+  <i>Tag seines Zorns</i>: §hi-21-30, §offb-6-17
+ }
+#}
+@}
 @Hiob 21 {
 #hi-21-12 {
  {
   <i>Orgel</i> <span class='he'>עוּגָב</span> (Strongs 7548): Elb05 und Sch2K übersetzen mit «Schalmei», KJV mit «Orgel».
   Vgl <a class='kom' href='#I1mo-4-21'>1.&nbsp;Mo&nbsp;4,21</a> und <a href='http://bibel.renenyffenegger.ch/hi_30.html#v31'>Hi&nbsp;30,31</a>.
+ }
+#}
+#hi-21-30 {
+ {
+  <i>Tag der Zornesfluten</i> vgl §hi-20-28
  }
 #}
 @}
@@ -40032,7 +40060,9 @@
 #}
 #ps-110-5 {
  {
-  TODO: Vgl §lk-1-52
+   <i>Tag seines Zornes</i>: §offb-6-17
+  <br>
+   Vgl §lk-1-52
  }
 #}
 #ps-110-6 {
@@ -41335,7 +41365,10 @@
 #}
 #spr-11-4 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/spr_10.html#v2'>Spr&nbsp;10,2</a>.
+  <i>Tag des Zorns</i> §offb-6-17
+ }
+ {
+  Vgl §spr-10-2.
  }
 #}
 #spr-11-5 {
@@ -44797,7 +44830,7 @@
   <i>Ich, ich</i>: <a class='kom' href='#I5mo-32-39'>5.&nbsp;Mo&nbsp;32,39</a>. Vgl auch Vers 25.
  }
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/hos_13.html#v4'>Hos&nbsp;13,4</a>.
+  <i>ausser mir ist kein Heiland</i> vgl §hos-13-4, §jes-59-16
  }
 #}
 #jes-43-12 {
@@ -44937,6 +44970,11 @@
  {
   Der <i>verborgene Gott</i>: vgl §mt-6-6.
   <br>Vgl mit §Vjes-45-19, §jes-48-6, §jes-55-8, §jes-64-6.
+ }
+#}
+#jes-45-18 {
+ {
+  <i>nicht als eine Öde hat er sie geschaffen…</i> §1mo-1-2-ff 
  }
 #}
 #jes-45-21 {
@@ -45480,7 +45518,7 @@
 #}
 #jes-59-16 {
  {
-  <i>Kein Mittler</i> vgl §1tim-2-5
+  <i>Kein Mittler</i> vgl §1tim-2-5, §jes-43-11
  }
 #}
 #jes-59-17 {
@@ -51668,7 +51706,7 @@
 #}
 #hos-13-4 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/jes_43.html#v11'>Jes&nbsp;43,11</a>.
+  <i>kein Retter als ich</i> vgl §jes-43-11.
  }
 #}
 #hos-13-7 {
@@ -53351,7 +53389,7 @@
 #}
 #sach-14-9 {
  {
-  <i>an jenem Tag wird Jehova einer sein</i> vgl §5mo-6-4
+  <i>an jenem Tag wird Jehova einer sein</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#ist-einer, §5mo-6-4
  }
 #}
 #sach-14-10 {
@@ -53814,6 +53852,9 @@
  }
 #}
 #mt-3-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
+ }
  {
   <i>Zorn in den Evangelien</i>: <ul>
     <li><a href='http://bibel.renenyffenegger.ch/mt_2.html#v16'>Mt&nbsp;2,16</a>: Herodes, der sich von den Weisen betrogen sah.
@@ -59573,6 +59614,9 @@
 #}
 #lk-3-7 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
+ }
+ {
   <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
  }
 #}
@@ -61343,6 +61387,8 @@
 #}
 #lk-21-23 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
+  <br>
   <i>Zorn in den Evangelien</i>: §+mt-3-7.
   <br>
   <i>Zorn über dieses Volk</i> vgl §1thes-2-16
@@ -62417,10 +62463,10 @@
 #}
 #joh-3-36 {
  {
-  <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
+  <i>Zorn in den Evangelien</i>: §+mt-3-7.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
  }
  {
   <i>nicht glaubt</i> (<span class='gr'>ἀπειθέω</span>, Strongs 544) an andern Orten auch mit 'weigern zu glauben'
@@ -63422,7 +63468,7 @@
 #}
 #joh-10-30 {
  {
-  <i>sind eins</i>: <a class='kom' href='#I1joh-5-7'>1.&nbsp;Joh&nbsp;5,7</a>.
+  <i>sind eins</i>: §joh-17-22, §+1joh-5-7, §5mo-6-4
  }
 #}
 #joh-10-31 {
@@ -64153,10 +64199,13 @@
 #}
 #joh-17-22 {
  {
-  <i>Gott die Ehre/Herrlichkeit geben</i>: <a class='kom' href='#Ijoh-9-24'>Joh&nbsp;9,24</a>.
+  <i>Gott die Ehre/Herrlichkeit geben</i>: §+joh-9-24.
  }
  {
   <i>Ihnen die Herrlichkeit gegeben</i>: §+roem-5-2.
+ }
+ {
+  <i>auf dass sie eins seien</i>: §+joh-10-30
  }
 #}
 #joh-17-23 {
@@ -69876,7 +69925,7 @@
 #}
 #roem-1-18 {
  {
-  <i>Gottes Zorn über die, die Wahrheit in Ungerechtigkeit besitzen</i> vgl §roem-2-8 (die «der Wahrheit nicht gehorchen, sondern der Ungerechtigkeit gehorchen, Grimm und Zorn!»)
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn[Gottes Zorn] über die, die Wahrheit in Ungerechtigkeit besitzen</i> vgl §roem-2-8 (die «der Wahrheit nicht gehorchen, sondern der Ungerechtigkeit gehorchen, Grimm und Zorn!»)
  }
  {
   <i>Wahrheit</i>: vgl §Vroem-1-25 und §roem-2-2, §roem-3-7.
@@ -70009,10 +70058,10 @@
 #}
 #roem-2-5 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
  }
  {
-  <i>Tag des Zorns</i> und <i>gerechtes Gericht Gottes</i> vgl §offb-11-18
+  <i>Tag des Zorns</i> und <i>gerechtes Gericht Gottes</i> vgl §offb-6-17, §offb-11-18
  }
  {
   <i>Gerechtes Gericht Gottes</i> §2thes-1-5
@@ -70028,7 +70077,7 @@
 #}
 #roem-2-8 {
  {
-  <i>Der Wahrheit ungehorsam sein</i> vgl <a class='kom' href='#Igal-3-1'>Gal&nbsp;3,1</a>.
+  <i>Der Wahrheit ungehorsam sein</i> vgl §+gal-3-1.
  }
 #}
 #roem-2-10 {
@@ -70101,6 +70150,11 @@
 #}
 @}
 @Römer 3 {
+#roem-3-3 {
+ {
+  <i>Unglaube</i>: <span class='gr'>ἀπιστία</span>, <i>Treue</i>: <span class='gr'>πίστις</span>
+ }
+#}
 #roem-3-4 {
  {
   Verweis §+ps-51-6.
@@ -70108,7 +70162,7 @@
 #}
 #roem-3-5 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
  }
 #}
 #roem-3-10 {
@@ -70364,12 +70418,13 @@
 #}
 #roem-5-9 {
  {
-  Rechtfertigung: <a class='kom' href='#Iroem-4-25'>Röm&nbsp;4,25</a>.
+  Rechtfertigung: §+roem-4-25.
  }
  {
   <i>Vor dem Zorn gerettet</i>: Vgl §1thes-1-10. Beachte, hier ist das Griechische Wort für
   retten <span class='gr'>σῴζω</span>, dort ist es <span class='gr'>ῥύομαι</span>.
-  <br>Vgl auch §1thes-5-9
+  <br>Vgl auch §1thes-5-9, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
+
  }
  {
   Die 4 <i>vielmehr</i> in Römer 5: hier, §Vroem-5-10, §Vroem-5-15, §roem-5-17.
@@ -71812,6 +71867,11 @@
   <i>geoffenbart durch prophetische Schriften</i> vgl §roem-1-2
  }
 #}
+#roem-16-27 {
+ {
+  <i>dem allein weisen Gott</i>: §jud-1-25
+ }
+#}
 @}
 }
 { Korinther
@@ -72853,7 +72913,7 @@
 #}
 #1kor-8-6 {
  {
-  Vgl <a class='kom' href='#Iroem-11-36'>Röm&nbsp;11,36</a>.
+  <i>von welchem alle Dinge sind</i>: §+roem-11-36.
  }
 #}
 #1kor-8-7 {
@@ -75432,7 +75492,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-3-20 {
  {
-  Vgl §1tim-2-5
+  Vgl §1tim-2-5, §jes-43-11
  }
 #}
 #gal-3-21 {
@@ -75922,7 +75982,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-1-8 {
  {
-  Vgl <i>Weisheit und Einsicht</i> mit <a href='http://bibel.renenyffenegger.ch/kol_1.html#v9'>Kol&nbsp;1,9</a>.
+  Vgl <i>Weisheit und Einsicht</i> mit §kol-1-9
  }
 #}
 #eph-1-9 {
@@ -75935,12 +75995,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-1-10 {
  {
-  <i>Christus, das Haupt</i>: vgl
-    <a href='http://bibel.renenyffenegger.ch/eph_1.html#v22'>Eph&nbsp;1,22</a>,
-    <a href='http://bibel.renenyffenegger.ch/eph_4.html#v15'>Eph&nbsp;4,15</a>,
-    <a href='http://bibel.renenyffenegger.ch/kol_1.html#v18'>Kol&nbsp;1,18</a>,
-    <a href='http://bibel.renenyffenegger.ch/kol_2.html#v10'>Kol&nbsp;2,10</a>,
-    <a href='http://bibel.renenyffenegger.ch/kol_2.html#v19'>Kol&nbsp;2,19</a>.
+  <i>Christus, das Haupt</i>: vgl §eph-1-22, §eph-4-15, §kol-1-18, §kol-2-10, §kol-2-19.
  }
  {
   <i>Unter einem Haupt zusammenzufassen</i>: <span class='gr'>ἀνακεφαλαιώσασθαι</span> (Strongs 346, 2x). Das selbe Verb wird in §roem-13-9 lediglich mit «zusammenfassen» übersetzt, entsprechend
@@ -76028,9 +76083,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-1-23 {
  {
-  <i>Fülle</i>: <a href='http://bibel.renenyffenegger.ch/eph_3.html#v19'>Eph&nbsp;3,19</a>,
-  <a href='http://bibel.renenyffenegger.ch/kol_1.html#v19'>Kol&nbsp;1,19</a>,
-  <a href='http://bibel.renenyffenegger.ch/kol_2.html#v9'>Kol&nbsp;2,9</a>.
+  <i>Fülle</i>: §eph-3-19, §kol-1-19, §kol-2-9.
  }
  {
   <i>Leib des Christus</i>: <a class='kom' href='#Iroem-12-5'>Röm&nbsp;12,5</a>.
@@ -76063,6 +76116,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl <i>Begierden des Fleisches</i> mit «Begierden der Herzen» in <a class='kom' href='#Iroem-1-24'>Röm&nbsp;1,24</a>.
  }
+ {
+  <i>Kinder des Zorns</i> vgl §eph-5-6, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
+ }
 #}
 #eph-2-4 {
  {
@@ -76085,6 +76141,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-2-7 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+ }
+#}
+#eph-2-8 {
+ {
+  <i>Elemente der Welt</i>: §eph-2-20
  }
 #}
 #eph-2-9 {
@@ -76132,7 +76193,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-2-15 {
  {
-  Vgl §kol-1-21-22.
+  Vgl §kol-1-21-22
  }
  {
   <i>Friede</i>, <i>Feindschaft</i> (Vers 16) und <i>Versöhnung</i> (Vers 16): vgl §+roem-5-1 und §roem-5-10.
@@ -76147,6 +76208,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #eph-2-18 {
+ {
+  <i>den Zugang … zum Vater</i> vgl §eph-3-12
+ }
  {
   Vgl §joh-14-6 
  }
@@ -76219,7 +76283,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
  {
-  Vgl §kol-1-26
+  <i>seinen heiligen Aposteln und Propheten im Geist geoffenbart</i>: Vgl §kol-1-26
  }
  {
   <i>geoffenbart seinen heiligen Aposteln und Propheten im Geist</i> vgl §+roem-1-2
@@ -76234,7 +76298,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Leib des Christus</i>: <a class='kom' href='#Iroem-12-5'>Röm&nbsp;12,5</a>.
  }
  {
-  <i>Mitteilhaber</i>: <a class='kom' href='#Ieph-5-7'>Eph&nbsp;5,7</a>.
+  <i>Mitteilhaber</i>: §+eph-5-7.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
@@ -76263,6 +76327,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
  }
+ {
+  <i>Gemeinschaft des Geheimnisses, das … verborgen ist</i> §kol-1-26
+ }
 #}
 #eph-3-10 {
  {
@@ -76279,7 +76346,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-3-12 {
  {
-  <i>Zugang in Zuversicht durch Glauben</i> Vgl §hebr-10-19
+  <i>Zugang in Zuversicht durch Glauben</i> Vgl §eph-2-18, §hebr-10-19
  }
 #}
 #eph-3-14 {
@@ -76334,7 +76401,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-4-3 {
  {
-  <i>Einheit</i>: <a class='kom' href='#Ijoh-17-23'>Joh&nbsp;17,23</a>.
+  <i>Band des Friedens</i> vgl §kol-3-14
+ }
+ {
+  <i>Einheit</i>: §+joh-17-23.
  }
 #}
 #eph-4-4 {
@@ -76434,8 +76504,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-4-24 {
  {
-   <i>Den neuen Menschen anziehen</i>: vgl <a class='kom' href='#Iroem-13-14'>Röm&nbsp;13,14</a>,
-   <a href='http://bibel.renenyffenegger.ch/kol_3.html#v10'>Kol&nbsp;3,10</a>.
+   <i>Den neuen Menschen anziehen</i>: vgl §+roem-13-14, §kol-3-9
  }
 #}
 #eph-4-25 {
@@ -76470,6 +76539,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #eph-4-31 {
+ {
+  Vgl §kol-3-8
+ }
  {
   <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
  }
@@ -76518,7 +76590,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-5-6 {
  {
-  §kol-3-6
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn: §kol-3-6, vgl §eph-2-3
  }
  {
   <i>Söhne des Ungehorsams</i>: siehe §+eph-2-2.
@@ -76529,7 +76601,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-5-7 {
  {
-  <i>Mitteilhaber</i> <span class='gr'>συμμέτοχος</span> (Strongs 4830, 2x), in Elb05 mit «Mitgenossen» übersetzt, kommt noch in <a class='kom' href='#Ieph-3-6'>Eph&nbsp;3,6</a> vor.
+  <i>Mitteilhaber</i> <span class='gr'>συμμέτοχος</span> (Strongs 4830, 2x), in Elb05 mit «Mitgenossen» übersetzt, kommt noch in §+eph-3-6 vor.
  }
 #}
 #eph-5-8 {
@@ -76579,8 +76651,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-5-19 {
  {
-  <i>geistliche Lieder</i>: <a href='http://bibel.renenyffenegger.ch/kol_3.html#v16'>Kol&nbsp;3,16</a>.
-  <br>Das <i>neue Lied</i> in <a href='http://bibel.renenyffenegger.ch/offb_5.html#v9'>Offb 5,9-10</a> ist 'Du bist würdig....'.
+  <i>geistliche Lieder</i>: §kol-3-16.
+  <br>Das <i>neue Lied</i> in §offb-5-9-10 ist «Du bist würdig…».
  }
  {
   <i>spielen</i> (Woh Strongs 5567?): <a class='kom' href='#Iroem-15-9'>Röm&nbsp;15,9</a>.
@@ -76677,7 +76749,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-6-4 {
  {
-  <i>Kinder zum Zorn reizen</i>: <a href='http://bibel.renenyffenegger.ch/kol_3.html#v21'>Kol&nbsp;3,21</a>.
+  <i>Kinder zum Zorn reizen</i>: §kol-3-21.
  }
 #}
 #eph-6-5 {
@@ -76690,7 +76762,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-6-6 {
  {
-  <i>Augendienerei</i> (<span class='gr'>ὀφθαλμοδουλία</span>, Strongs 3787) kommt auch noch in <a href='http://bibel.renenyffenegger.ch/kol_3.html#v22'>Kol&nbsp;3,22</a> vor.
+  <i>Augendienerei</i> (<span class='gr'>ὀφθαλμοδουλία</span>, Strongs 3787) kommt auch noch in §kol-3-22 vor.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott
@@ -76804,7 +76876,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-6-21 {
  {
-  Wie es Paulus geht und was er tut, muss offenbar nicht in den Briefen festgehalten werden. Vgl mit <a href='http://bibel.renenyffenegger.ch/kol_4.html#v7'>Kol&nbsp;4,7</a>
+  Wie es Paulus geht und was er tut, muss offenbar nicht in den Briefen festgehalten werden. Vgl mit §kol-4-7
   (Vor allem die ähnliche Wendung).
  }
  {
@@ -77645,7 +77717,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
  }
  {
-  Vgl §eph-3-5
+  <i>seinen Heiligen geoffenbart</i>: vgl §eph-3-5
+ }
+ {
+  <i>verborgenes Geheimnis</i> §eph-3-9. Vgl mit den «verborgenen Schätzen» (§kol-2-3) und dem «verborgenen Leben» (§kol-3-3)
  }
 #}
 #kol-1-27 {
@@ -77706,6 +77781,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <span class='gt'>NA lässt «des Vaters, und des Christus» weg.</span>
+ }
+#}
+#kol-2-3 {
+ {
+  <i>verborgene Schätze</i> vgl §+kol-1-26
  }
 #}
 #kol-2-4 {
@@ -77821,6 +77901,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl §joh-3-12
  }
 #}
+#kol-3-3 {
+ {
+  <i>verborgenes Leben</i> vgl §+kol-1-26
+ }
+#}
 #kol-3-4 {
  {
   <i>Mit ihm in Herrlichkeit geoffenbart werden</i>: §+roem-5-2.
@@ -77852,23 +77937,30 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-3-8 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1petr_2.html#v1'>1.&nbsp;Petr&nbsp;2,1</a>.
+  Vgl §eph-4-31
  }
  {
-  <i>Hässliche Redensarten</i>: <span class='gr'>αἰσχρολογία</span> (Strongs 148, 1x), in KJV mit 'filthy communication', in
-  Elberfelder mit 'schändliches Reden' übersetzt.
+  <i>Jetzt aber legt auch ihr das alles ab</i>: Vgl §1petr-2-1.
+ }
+ {
+  <i>schändliches Reden</i>: <span class='gr'>αἰσχρολογία</span> (Strongs 148, 1x), in KJV mit «filthy communication», in
+  Sch2K mit «hässliche Redensarten» übersetzt.
  }
  {
   <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
  }
 #}
-#kol-3-10 {
+#kol-3-9 {
  {
-  TODO: <i>Ebenbild</i>: <a class='kom' href='#Iroem-8-29'>Röm&nbsp;8,29</a>.
+  <i>den neuen Menschen angezogen haben</i>: §eph-4-24, vgl §+roem-13-14
  }
  {
   TODO: 'angezogen habt': ist dies dasselbe Wort wi in Vers 12 ('zieht an')?
-  <br><a class='kom' href='#Iroem-13-14'>Röm&nbsp;13,14</a> und <a href='http://bibel.renenyffenegger.ch/eph_4.html#v24'>Eph&nbsp;4,24</a>.
+ }
+#}
+#kol-3-10 {
+ {
+  TODO: <i>Ebenbild</i>: <a class='kom' href='#Iroem-8-29'>Röm&nbsp;8,29</a>.
  }
 #}
 #kol-3-11 {
@@ -77885,7 +77977,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-3-13 {
  {
-  Vgl <a class='kom' href='#Imt-6-12'>Mt&nbsp;6,12</a>, <a href='http://bibel.renenyffenegger.ch/eph_4.html#v32'>Eph&nbsp;4,32</a>.
+  Vgl §+mt-6-12, §eph-4-32.
+ }
+#}
+#kol-3-14 {
+ {
+  <i>Band der Vollkommenheit</i> vgl §eph-4-3
  }
 #}
 #kol-3-15 {
@@ -77934,17 +78031,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   </ul>
  }
  {
-  <i>Unterordnung</i>: <a class='kom' href='#Iroem-13-1'>Röm&nbsp;13,1</a>. Vgl Unterordnung der Frau unter den Mann: <a href='http://bibel.renenyffenegger.ch/eph_5.html#v22'>Eph&nbsp;5,22</a>.
+  <i>Unterordnung</i>: §+roem-13-1. Vgl Unterordnung der Frau unter den Mann: §eph-5-22.
  }
 #}
 #kol-3-20 {
  {
-   Vgl <a class='kom' href='#Ieph-6-1'>Eph&nbsp;6,1</a>.
+   Vgl §+eph-6-1.
  }
 #}
 #kol-3-21 {
  {
-  <i>Kinder zum Zorn reizen</i>: <a href='http://bibel.renenyffenegger.ch/eph_6.html#v4'>Eph&nbsp;6,4</a>.
+  <i>Kinder zum Zorn reizen</i>: §eph-6-4.
  }
 #}
 #kol-3-22 {
@@ -78376,7 +78473,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>erretten</i> und <i>Zorn</i>: §+1thes-1-10.
  }
  {
-  <i>der Zorn ist völlig über sie gekommen</i> vgl §lk-21-23
+  <i>der Zorn ist völlig über sie gekommen</i> vgl §lk-21-23, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
  }
 #}
 #1thes-2-17 {
@@ -79475,13 +79572,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#ist-einer
  }
  {
-  Vgl. §gal-3-20
- }
- {
   <i>Der Mensch Christus Jesus</i>, vgl §+hos-11-9, §joh-1-30
  }
  {
-  <i>Einer ist Mittler</i> vgl §jes-59-16
+  <i>Einer ist Mittler</i> vgl §jes-43-11, §jes-59-16, §gal-3-20
  }
 #}
 #1tim-2-6 {
@@ -81524,6 +81618,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Heute</i>: s. Vers 13, 15, <a href='http://bibel.renenyffenegger.ch/hebr_4.html#v7'>Hebr&nbsp;4,7</a>
  }
 #}
+#hebr-3-11 {
+ {
+  Vgl §hebr-4-3
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
+ }
+#}
 #hebr-3-13 {
  {
   <i>ermahnt euch selbst jeden Tag</i> vgl §hebr-10-25. Elberfelder übersetzt mit «ermuntert», KJV mit «exhort» (→ biblisches/Eigene-Uebersetzung/Konkordanz/Trost#troesten-parakaleo)
@@ -81552,7 +81654,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Grundlegung[Von Grundlegung der Welt an]
  }
  {
-  <i>Werke</i>: <a class='kom' href='#Ihebr-1-10'>Hebr&nbsp;1,10</a> und Vers 10.
+  <i>So schwur ich in meinem → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn[Zorn] …</i>: §hebr-3-11
+ }
+ {
+  <i>Werke</i>: §+hebr-1-10 und Vers 10.
  }
 #}
 #hebr-4-4 {
@@ -81590,7 +81695,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-4-11 {
  {
-  Beachte den 'Widerspruch' bestrebt zu sein, in die Ruhe zu gehen.
+  Beachte den Widerspruch, bestrebt zu sein, in die Ruhe zu gehen.
  }
 #}
 #hebr-4-12 {
@@ -83200,6 +83305,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte: Glaube hat Werke. Vgl auch <a class='kom' href='#Imk-2-5'>Mk&nbsp;2,5</a>.
  }
 #}
+#jak-2-19 {
+ {
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#ist-einer  
+ }
+#}
 #jak-2-21 {
  {
   Abraham, unser Vater: <a class='kom' href='#Iroem-4-1'>Röm&nbsp;4,1</a>.
@@ -83646,7 +83756,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Trug</i> <span class='gr'>δόλος</span> (Strongs 1388), häufig mit «List» übersetzt.
  }
  {
-  Vgl §+kol-3-8.
+  <i>Legt nun ab</i>: Vgl §+kol-3-8.
  }
 #}
 #1petr-2-2 {
@@ -85327,7 +85437,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Sind eins</i>: <a class='kom' href='#Ijoh-10-30'>Joh&nbsp;10,30</a>.
  }
  {
-  <span class='gt'>Comma Johanneum: NA und MT haben in in den Versen 7-8 «Denn drei sind, die da zeugen der Geist und das Wasser und das Blut, und die drei sind einstimmig.»</span>.
+  <span class='gt'>→ biblisches/Grundtext/Varianten/Unterschiede#comma-johanneum: NA und MT haben in in den Versen 7-8 «Denn drei sind, die da zeugen der Geist und das Wasser und das Blut, und die drei sind einstimmig.»</span>.
  }
 #}
 #1joh-5-11 {
@@ -85461,7 +85571,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jud-1-4 {
  {
-   'eingeschlichen' vgl <a href='http://bibel.renenyffenegger.ch/gal_2.html#v4'>Gal&nbsp;2,4</a>.
+   <i>eingeschlichen</i> vgl §gal-2-4.
+ }
+ {
+  <i>unseren alleinigen Gebieter …</i> vgl §Vjud-1-25
  }
  {
   <i>Herrn</i>: <a class='kom' href='#I2petr-2-1'>2.&nbsp;Petr&nbsp;2,1</a>. TODO: Warum hier Despotes und nicht Kyrios genannt?
@@ -85639,6 +85752,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>bewahrt</i> <a class='kom' href='#Ijud-1-1'>Vers 1</a>.
+ }
+#}
+#jud-1-25 {
+ {
+  <i>dem allein weisen Gott</i>: §roem-16-27. Vgl «unseren alleinigen Gebieter» §Vjud-1-4
  }
 #}
 @}
@@ -85820,12 +85938,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Beachte auch, dass die Stimme in Vers 15 wie <i>das Rauschen vieler Wasser</i> ist.
  }
  {
-   → biblisches/Bücher/prophetisch/Offenbarung/Tag-des-Herrn
- }
- {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN, vgl <i>Tag des Zorns</i> (<a href='http://bibel.renenyffenegger.ch/offb_6.html#v17'>Offb&nbsp;6,17</a>,
-  der <i>grosse Tag Gottes</i> (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v14'>Offb&nbsp;16,14</a>)
-  <br>TODO: vgl <a href='http://bibel.renenyffenegger.ch/offb_18.html#v8'>Offb&nbsp;18,8</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN[Tag des Herrn], vgl <i>Tag des Zorns</i> (§offb-6-17,
+  der <i>grosse Tag Gottes</i> (§offb-16-14)
+  <br>§offb-18-8.
+  <br> → biblisches/Bücher/prophetisch/Offenbarung/Tag-des-Herrn
  }
  {
   <i>Im Geist</i>: am Tag des Herrn (hier), <a href='http://bibel.renenyffenegger.ch/offb_4.html#v2'>Offb&nbsp;4,2</a>, brachte
@@ -86821,7 +86937,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-6-17 {
  {
-  <i>Tag des Zorns</i>: <a class='kom' href='#Ioffb-1-10'>Offb&nbsp;1,10</a>.
+  <i>Tag des Zorns</i>: §hi-20-28, §ps-110-5, §spr-11-4, §roem-2-5
+  <br>Vgl §+offb-1-10.
  }
 #}
 @}
@@ -87523,10 +87640,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten[Knechte, die Propheten]: §offb-10-7
  }
  {
-  <i>Lohn</i>: <a class='kom' href='#I1kor-3-8'>1.&nbsp;Kor&nbsp;3,8</a>.
+  <i>Lohn</i>: §+1kor-3-8.
  }
  {
-  <i>dein Zorn ist gekommen und die Zeit der Toten, um gerichtet zu werden…</i> vgl §roem-2-5
+  <i>dein → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn[Zorn] ist gekommen und die Zeit der Toten, um gerichtet zu werden…</i> vgl §roem-2-5
  }
 #}
 #offb-11-19 {
@@ -88145,6 +88262,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-14-19 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
+ }
+ {
    Eine <i>Kelter</i> wird in Bozra getreten (<a class='kom' href='#Ijes-63-3'>Jes&nbsp;63,3</a>).
    Siehe auch <a href='http://bibel.renenyffenegger.ch/offb_19.html#v15'>Offb&nbsp;19,15</a> (Beachte: dort 'Weinkelter').
    <br>Vgl auch <a class='kom' href='#Imt-21-33'>Mt&nbsp;21,33</a>.
@@ -88259,6 +88379,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @}
 @Offenbarung 16 {
 #offb-16-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
+ }
  {
   Vgl mit dem Lamm, das die Siegel öffnet: <a class='kom' href='#Ioffb-6-1'>Offb&nbsp;6,1</a>.
  }
@@ -88394,6 +88517,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-16-19 {
  {
   <i>Erdbeben, grosse Stadt zerreist in drei Teile</i>: <a class='kom' href='#Ioffb-11-13'>Offb&nbsp;11,13</a>.
+ }
+ {
+  <i>Wein des Grimmes seines → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn[Zornes]</i>: §offb-19-15
  }
  {
   <i>Grosse Stadt</i>: §+offb-11-8.
@@ -88888,6 +89014,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-19-15 {
+ {
+  <i>Wein des Grimmes seines → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn[Zornes]</i>: §offb-16-19
+ }
  {
   <i>Eiserne Rute</i> vgl §offb-2-27, §offb-12-5, §ps-2-9
  }
