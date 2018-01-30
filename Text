@@ -59227,7 +59227,10 @@
 #}
 #lk-1-6 {
  {
-   Vgl <a class='kom' href='#I5mo-6-25'>5.&nbsp;Mo&nbsp;6,25</a>.
+   Vgl §+5mo-6-25.
+ }
+ {
+  <i>Satzungen</i>: <span class='gr'>→ biblisches/Grundtext/Wörter/G1345-dikaioma[δικαίωμα]</span> (Strongs 1345)
  }
 #}
 #lk-1-7 {
@@ -60637,6 +60640,11 @@
   Jesus nennt seine Jünger → biblisches/Eigene-Uebersetzung/Konkordanz/Freund[Freunde] Vgl §joh-15-14
  }
 #}
+#lk-12-11 {
+ {
+  <i>womit ihr euch verantworten … sollt</i> vgl §lk-21-14
+ }
+#}
 #lk-12-13 {
  {
   Hier spricht einer aus der Volksmenge zu Jesus, in §Vlk-12-54 Jesus zur Volksmenge.
@@ -61351,6 +61359,11 @@
 #lk-21-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel
+ }
+#}
+#lk-21-14 {
+ {
+  <i>wie ihr euch verantworten sollt</i> vgl §lk-12-11
  }
 #}
 #lk-21-16 {
@@ -69957,10 +69970,13 @@
 #}
 #roem-1-21 {
  {
-  <i>Dankbarkeit</i>: vgl <a href='http://bibel.renenyffenegger.ch/1thes_5.html#v18'>1.&nbsp;Thes&nbsp;5,18</a>.
+  <i>Dankbarkeit</i>: vgl §1thes-5-18.
  }
  {
   <i>Gott kennend</i> vgl §2thes-1-8
+ }
+ {
+  <i>verfinstertes unverständiges Herz</i> vgl eph-4-18 
  }
 #}
 #roem-1-23 {
@@ -70018,6 +70034,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Verleumder
  }
+ {
+  <i>den Eltern Ungerhorsame</i> vgl §eph-6-1, §kol-3-20
+ }
 #}
 #roem-1-31 {
  {
@@ -70028,14 +70047,20 @@
  {
   <i>des Todes würdig sein</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
  }
+ {
+  <i>gerechtes Urteil</i>: <span class='gr'>→ biblisches/Grundtext/Wörter/G1345-dikaioma[δικαίωμα]</span> (Strongs 1345)
+ }
 #}
 @}
 @Römer 2 {
 #roem-2-1 {
  {
-  Frage: Redet hier Paulus mit 'o Mensch' nicht die Brüder an?
-  <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/roem_9.html#v20'>Röm&nbsp;9,20</a> und
-     <a href='http://bibel.renenyffenegger.ch/1tim_6.html#v11'>1.&nbsp;Tim&nbsp;6,11</a>.
+  <i>richten</i>: <span class='gr'>κρίνω</span>; <i>verdammen</i>: <span class='gr'>κατακρίνω</span>
+ }
+ {
+  Frage: Redet hier Paulus mit <i>o Mensch</i> nicht die Brüder an?
+  <br>
+  Siehe auch §roem-9-20 und §1tim-6-11.
  }
 #}
 #roem-2-2 {
@@ -70132,6 +70157,11 @@
  }
  {
   Vgl <a class='kom' href='#Ijes-52-5'>Jes&nbsp;52,5</a>.
+ }
+#}
+#roem-2-26 {
+ {
+  <i>Rechte</i>: <span class='gr'>→ biblisches/Grundtext/Wörter/G1345-dikaioma[δικαίωμα]</span> (Strongs 1345)
  }
 #}
 #roem-2-28 {
@@ -70480,6 +70510,9 @@
  }
  {
   <i>Verdammnis</i>: vgl mit «keine Verdammnis» in §+roem-8-1.
+ }
+ {
+  <i>Gerechtigkeit</i>: <span class='gr'>→ biblisches/Grundtext/Wörter/G1345-dikaioma[δικαίωμα]</span> (Strongs 1345). Ebenso §Vroem-5-18
  }
 #}
 #roem-5-18 {
@@ -76404,7 +76437,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Band des Friedens</i> vgl §kol-3-14
  }
  {
-  <i>Einheit</i>: §+joh-17-23.
+  <i>Einheit des Geistes</i>: vgl «Einheit des Glauben» §Veph-4-13. Zwischen diesen beiden Versen die Aufzählung: ein Leib, ein Glaube etc.
+  <br>
+   §+joh-17-23.
  }
 #}
 #eph-4-4 {
@@ -76490,6 +76525,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-4-17 {
  {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/1petr_4.html#v2'>1.&nbsp;Petr&nbsp;4,2</a>.
+ }
+#}
+#eph-4-18 {
+ {
+  <i>verfinstert am Verstand</i> vgl §eph-4-18
  }
 #}
 #eph-4-19 {
@@ -76740,6 +76780,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-6-1 {
  {
   <i>Ehre Vater und Mutter</i>: §+2mo-20-12, §kol-3-20.
+  <br>
+  Vgl §roem-1-30
  }
 #}
 #eph-6-2 {
@@ -78036,7 +78078,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-3-20 {
  {
-   Vgl §+eph-6-1.
+   Vgl §+eph-6-1, §roem-1-30
  }
 #}
 #kol-3-21 {
@@ -82074,6 +82116,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Eingesetzte Priester</i>: §+hebr-5-1
  }
 #}
+#hebr-8-4 {
+ {
+  <i>Recht</i>: <span class='gr'>→ biblisches/Grundtext/Wörter/G1345-dikaioma[δικαίωμα]</span> (Strongs 1345)
+ }
+#}
 #hebr-8-5 {
  {
   TODO: <i>Muster</i>: <span class='gr'>ὑπόδειγμα</span> (Strongs 5262) in KJV mit «pattern» übersetzt.
@@ -82121,6 +82168,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-9-1 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/erster[Erster Bund]
+ }
+ {
+  <i>Satzungen</i>: <span class='gr'>→ biblisches/Grundtext/Wörter/G1345-dikaioma[δικαίωμα]</span> (Strongs 1345). Ebenso §Vhebr-9-10
  }
  {
   TODO: Vgl: Hier <i>von dieser Welt</i>, in Vers 11 «nicht von dieser Schöpfung».
@@ -88338,6 +88388,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: Vgl mit dem Engel, der vom Altar her redet in <a href='http://bibel.renenyffenegger.ch/offb_16.html#v7'>Offb&nbsp;16,7</a>.
  }
 #}
+#offb-15-4 {
+ {
+  <i>gerechten Taten</i>: <span class='gr'>→ biblisches/Grundtext/Wörter/G1345-dikaioma[δικαίωμα]</span> (Strongs 1345). KJV übersetzt mit «judgments». Vgl §offb-19-8
+ }
+#}
 #offb-15-5 {
  {
   <i>geöffneter → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel</i>: Vgl §+offb-11-19.
@@ -88952,7 +89007,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Feine Leinwand als → biblisches/Lehre/Bilder-im-Alten-Testament#feine-leinwand[Bild] für → biblisches/Eigene-Uebersetzung/Konkordanz/Gerechtigkeit.
  }
  {
-  TODO: wörtl. wohl «gerechte Taten».
+  <i>Gerechtigkeiten</i>: <span class='gr'>→ biblisches/Grundtext/Wörter/G1345-dikaioma[δικαίωμα]</span> (Strongs 1345). Vgl §offb-15-4
  }
 #}
 #offb-19-9 {
