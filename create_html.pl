@@ -329,10 +329,10 @@ my $at = 1;
    $current_text =~ s/\bselbige(.)?\b/diese$1/g;
    $current_text =~ s/\bdaselbst\b/dort/g;
  
-   $current_text =~ s/\b([Vv])on dem /$1om /g;
-   $current_text =~ s/\b([Ii])n dem /$1m /g;
-   $current_text =~ s/\b([Aa])n dem /$1m /g;
-   $current_text =~ s/\b([Bb])ei dem /$1eim /g;
+   $current_text =~ s/(?<!, )\b([Vv])on dem /$1om /g;
+   $current_text =~ s/(?<!, )\b([Ii])n dem /$1m /g;
+   $current_text =~ s/(?<!, )\b([Aa])n dem /$1m /g;
+   $current_text =~ s/(?<!, )\b([Bb])ei dem /$1eim /g;
 
    $current_text =~ s/in\{!\} dem/in dem/g;
    $current_text =~ s/on\{!\} dem/on dem/g;
