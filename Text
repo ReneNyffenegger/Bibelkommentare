@@ -53368,7 +53368,7 @@
  {
   <i>durchstochen</i>: <a href='http://bibel.renenyffenegger.ch/joh_19.html#v34'>Joh&nbsp;19,34</a>,
   <a class='kom' href='#Ijoh-19-37'>Joh&nbsp;19,37</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_1.html#v7'>Offb&nbsp;1,7</a>
+  <br>§offb-1-7 (auch zusammen mit §Vsach-12-12)
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/sach_13.html#v6'>Sach&nbsp;13,6</a>.
   <br>Vgl auch <a class='kom' href='#Ihi-26-13'>Hi&nbsp;26,13</a>.
  }
@@ -53377,6 +53377,11 @@
  {
   <i>Ebene von Megiddo</i>: vgl <a href='http://bibel.renenyffenegger.ch/2chr_35.html#v22'>2.&nbsp;Chr&nbsp;35,22</a>.
   <br><i>Megiddo</i>: <a class='kom' href='#Ioffb-16-16'>Offb&nbsp;16,16</a>.
+ }
+#}
+#sach-12-12 {
+ {
+  <i>Geschlecht</i>: <span class='hebr'>מִשְׁפָּחָה</span> (Strongs 4940), in der → biblisches/Grundtext/LXX mit <span class='gr'>φυλή</span> (etwa: «Stämme») übersetzt. Vgl. §+offb-1-7.
  }
 #}
 @}
@@ -85918,17 +85923,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   . Vgl Anrede Sardes (<a href='http://bibel.renenyffenegger.ch/offb_3.html#v1'>Offb&nbsp;3,1</a>).
  }
  {
-  TODO <i>Wort Gottes</i> und <i>Zeugnis Jesu Christi</i>: Vers 9,
-    <a href='http://bibel.renenyffenegger.ch/offb_6.html#v9'>Offb&nbsp;6,9</a>
-    <a href='http://bibel.renenyffenegger.ch/offb_20.html#v4'>Offb&nbsp;20,4</a>
-  <br>TODO: vgl auch <a href='http://bibel.renenyffenegger.ch/offb_11.html#v7'>Offb&nbsp;11,7</a> (Zeugnis der zwei Zeugen),
-  <a href='http://bibel.renenyffenegger.ch/offb_20.html#v4'>Offb&nbsp;20,4</a>
-  <a href='http://bibel.renenyffenegger.ch/offb_12.html#v11'>Offb&nbsp;12,11</a> (überwunden um des Blut des Lammes und um des Wort des Zeugnisses willen),
-  <a href='http://bibel.renenyffenegger.ch/offb_12.html#v17'>Offb&nbsp;12,17</a> und
-  <a href='http://bibel.renenyffenegger.ch/offb_12.html#v19'>Offb&nbsp;12,19</a> (Gebote Gottes befolgen und das Zeugnis Jesu Christi haben),
+  <i>das Wort Gottes</i> und das <i>Zeugnis Jesu Christi</i>: vgl §Voffb-1-9, §offb-6-9 §offb-20-4
+  <br>Vgl auch §offb-11-7 (Zeugnis der zwei Zeugen), §offb-12-11 (überwunden um des Blut des Lammes und um des Wort des Zeugnisses willen),
+  §offb-12-17 §offb-12-19 (Gebote Gottes befolgen und das Zeugnis Jesu Christi haben),
  }
  {
-  <i>was er sah</i>: vgl Vers 19.
+  <i>was er sah</i>: vgl §Voffb-1-19
  }
 #}
 #offb-1-3 {
@@ -85996,7 +85996,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Tag des Herrn beschäftigt, und nicht mit der Gemeinde (vgl Vers 10).
  }
  {
-  <i>durchstochen</i>: <a class='kom' href='#Isach-12-10'>Sach&nbsp;12,10</a>.
+  <i>durchstochen</i>: §+sach-12-10, <i>Stämme</i>: §+sach-12-12
  }
  {
   <i>Wolke</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_10.html#v1'>Offb&nbsp;10,1</a>,
@@ -86022,8 +86022,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-1-9 {
  {
-  <i>Ich, Johannes</i>: <a class='kom' href='#Ioffb-21-2'>Offb&nbsp;21,2</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_22.html#v8'>Offb&nbsp;22,8</a>
+  <i>Ich, Johannes</i>: §+offb-21-2, §offb-22-8
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
@@ -86031,6 +86030,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Standhaftes Ausharren</i> (<span class='gr'>ὑπομονή</span>, Strongs 5281): §offb-13-10, §offb-14-12 («hier ist das standhafte Ausharren»), §lk-21-19
   <br>Siehe auch <a class='kom' href='#Ilk-8-15'>Lk&nbsp;8,15</a>.
+ }
+ {
+   → biblisches/Personen/Johannes#johannes-auf-patmos
  }
  {
   TODO: <i>Bedrängnis</i> (<span class='gr'>θλῖψις</span>, Strongs 2347), in
@@ -86213,7 +86215,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-1-19 {
  {
-  <i>Was du gesehen hast</i>: Vgl Vers 2.
+  <i>Was du gesehen hast</i>: Vgl §Voffb-1-2
  }
  {
   TODO <i>Was ist</i>: oder etwas: «was dies bedeutet»? (TODO: Vgl <a href='http://bibel.renenyffenegger.ch/mt_9.html#v13'>Mt&nbsp;9,13</a>, wo
@@ -87936,6 +87938,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte: hier hat die Frau Samen.
  }
  {
+  <i>Gebote Gottes halten</i> §offb-14-12, vgl §offb-22-14
+ }
+ {
   <i>Jesus</i>: <a class='kom' href='#Ioffb-1-1'>Offb&nbsp;1,1</a>.
  }
 #}
@@ -88311,6 +88316,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Hier ist</i>: <a class='kom' href='#Ioffb-13-10'>Offb&nbsp;13,10</a>.
   <br><i>Ausharren</i>: §lk-21-19, §+offb-1-9
+ }
+ {
+  <i>Gebote Gottes halten</i> §offb-12-17, vgl §offb-22-14
  }
  {
   <i>Jesus</i>: <a class='kom' href='#Ioffb-1-1'>Offb&nbsp;1,1</a>
@@ -89574,6 +89582,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <span class='gt'>NA hat: Glückselig, die ihre Kleider waschen …</span>.
+ }
+ {
+  <i>die seine Gebote tun</i> vgl §offb-12-17, §offb-14-12
  }
  {
   TODO <i>Anrecht</i> (<span class='gr'>ἐξουσία</span>, Strongs 1849), sonst häufig mit 'Macht' oder 'Vollmacht' übersetzt.
