@@ -497,14 +497,15 @@
 #}
 #1mo-1-31 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/2mo_39.html#v43'>2.&nbsp;Mo&nbsp;39,43</a>.
+  <i>Gott sah alles, was er gemacht hatte</i>: Vgl §2mo-39-43, wo → biblisches/Personen/Mose das ganze Werk betrachtet. Im nächsten Vers (§1mo-2-1) wird von der 
+  Vollendung des Himmels und der Erde gesprochen. Gleicherweise wird auch bei bei Mose von vom «Vollenden des Aufrichtens der Wohnung» gesprochen (§4mo-7-1).
  }
 #}
 @}
 @1. Mose 2 {
 #1mo-2-1 {
  {
-  <i>Himmel</i> (Singular): <a class='kom' href='#I1mo-1-1'>1.&nbsp;Mo&nbsp;1,1</a>.
+  <i>Himmel</i> (Singular): §+1mo-1-1.
  }
  {
   Das Heer (hebräisch <span class='hebr'>צְבָאָֽם</span>, Strongs 6635) wird im ersten Kapitel nicht erwähnt. Frage: wurde es deshalb gar nicht erschaffen?
@@ -514,11 +515,13 @@
  }
  {
   <i>Vollenden</i> (<span class='hebr'>כָּלָה</span>, Strongs 3615).
-  <br>Moses Werk <a class='kom' href='#I2mo-40-33'>2.&nbsp;Mo&nbsp;40,33</a>
-  <br>Die Errichtung der Wohnung <a class='kom' href='#I4mo-7-1'>4.&nbsp;Mo&nbsp;7,1</a>
-  <br>Der Tempel Salomos <a class='kom' href='#I1koe-6-9'>1.&nbsp;Kö&nbsp;6,9</a>
-  <br>Das Haus Salomos <a class='kom' href='#I1koe-7-1'>1.&nbsp;Kö&nbsp;7,1</a>
-  <br>S.a. <a class='kom' href='#Idan-12-7'>Dan&nbsp;12,7</a>, <a class='kom' href='#Iesr-1-1'>Esr&nbsp;1,1</a>
+  <br>Moses Werk §+2mo-40-33
+  <br>Die Errichtung der Wohnung §+4mo-7-1
+  <br>Der Tempel Salomos §+1koe-6-9
+  <br>Das Haus Salomos §+1koe-7-1
+  <br>S.a. §+dan-12-7, §+esr-1-1
+  <br>
+   Beachte: Himmel <i>und</i> Erde wurden hier vollendet. Bis auf die «Lichter an der Ausdehnung des Himmels» (§1mo-1-14) und allenfalls das «Gevögel des Himmels» wurde alles auf der Erde geschaffen.
  }
 #}
 #1mo-2-2 {
@@ -6908,7 +6911,10 @@
 @2. Mose 1 {
 #2mo-1-1 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1mo_46.html#v8'>1.&nbsp;Mo&nbsp;46,8</a>.
+  Vgl §1mo-46-8.
+ }
+ {
+  <i>Die Namen der Söhne Israels</i>: vgl mit dem Beginn von 4. Mose, wo die «Summe der … Kinder Israe … nach der Zahl [ihrer] Namen» aufgenommen werden muss, §4mo-1-2
  }
 #}
 #2mo-1-5 {
@@ -7810,6 +7816,9 @@
  {
   Hier: Mose und Aaron, in <a href='http://bibel.renenyffenegger.ch/2mo_10.html#v6'>Vers 6</a>: '<i>er</i> wandte sich um' (Einzahl).
  }
+ {
+  <i>vor mir zu demütigen</i>, vgl §+3mo-26-41
+ }
 #}
 #2mo-10-9 {
  {
@@ -8170,7 +8179,9 @@
   Vgl biblisches/Chronologie/Paul-Gerhard-Zint[Zint]: *Chronologie der Bibel, 1. Aufl.*, S. 193.
  }
  {
-  Vgl die 600&nbsp;000 Mann mit den 603&nbsp;550 Mann in <a href='http://bibel.renenyffenegger.ch/2mo_38.html#v26'>2.&nbsp;Mo&nbsp;38,26</a>.
+  → biblisches/Exodus#summe-der-kinder-israel
+  <br>
+  Vgl die 600&nbsp;000 Mann mit den 603&nbsp;550 Mann in §2mo-38-26.
  }
 #}
 #2mo-12-38 {
@@ -10866,7 +10877,8 @@
 #}
 #2mo-30-12 {
  {
-  <i>Wenn du die Summe der Kinder Israel aufnehmen wirst …</i> §4mo-1-2, §4mo-1-20, §4mo-26-2
+  <i>Wenn du die Summe der Kinder Israel aufnehmen wirst</i>: → biblisches/Exodus#summe-der-kinder-israel
+  <br>
   Diese <i>Summe</i> wird wohl in §+2chr-24-6 als «Steuer Moses» bezeichnet.
  }
  {
@@ -10901,6 +10913,8 @@
   Das Silber des <i>Sühnesilbers</i> war wohl »zum Gießen der Füße des Heiligtums und der Füße des Vorhanges« bestimmt §2mo-38-27.
  <br> 
   <span class='hebr'>כֶּ֣סֶף הַכִּפֻּרִ֗ים</span>, (Strongs 3701 3725) wird in KJV mit «atonement money», in Elberfelder mit «Sühngeld» übersetzt.
+<br>
+ Vgl mit den «Kosten für das Haus Gottes» die aus dem «Haus des Königs» bestritten werden sollen: §esr-6-4.
  }
  {
   Vgl. §3mo-27-2-ff
@@ -11750,19 +11764,18 @@
       603550 &#x2259; 301775 Schekel Silber
   <br>301775 Schekel = 300000 Schekel + 1775 Schekel
   <br> = 100 Talente + 1775 Schekel
-  <br> =&gt; <b>1 → biblisches/Eigene-Uebersetzung/Konkordanz/Talent = → biblisches/Eigene-Uebersetzung/Konkordanz/Schekel</b>
+  <br> =&gt; <b>1 → biblisches/Eigene-Uebersetzung/Konkordanz/Talent = 3000 → biblisches/Eigene-Uebersetzung/Konkordanz/Schekel</b>
   <br>Siehe auch <a class='kom' href='#I2koe-15-20'>2.&nbsp;Kö&nbsp;15,20</a>.
  }
 #}
 #2mo-38-26 {
  {
-  603&nbsp;550 Mann auch in <a href='http://bibel.renenyffenegger.ch/4mo_1.html#v46'>4.&nbsp;Mo&nbsp;1,46</a> und <a href='http://bibel.renenyffenegger.ch/4mo_2.html#v32'>4.&nbsp;Mo&nbsp;2,32</a>. Vgl mit den 600&nbsp;000 in <a href='http://bibel.renenyffenegger.ch/2mo_12.html#v37'>2.&nbsp;Mo&nbsp;12,37</a>.
+  603&nbsp;550 Mann auch in §4mo-1-46 und §4mo-2-32. Vgl mit den 600&nbsp;000 in §2mo-12-37.
+  <br>
+   Vgl → biblisches/Exodus#summe-der-kinder-israel
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#beka
- }
- {
-  TODO: Wann erfolgte die Zählung? Vgl mit <a href='http://bibel.renenyffenegger.ch/4mo_1.html#v46'>4.&nbsp;Mo&nbsp;1,46</a>.
  }
 #}
 #2mo-38-27 {
@@ -11859,7 +11872,10 @@
 #}
 #2mo-39-43 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1mo_1.html#v31'>1.&nbsp;Mo&nbsp;1,31</a>.
+  <i>→ biblisches/Personen/Mose sah das ganze Werk</i> vgl §1mo-1-31.
+ }
+ {
+  Beachte (<i>siehe</i>): <i>sie</i>, nicht Mose allein, hatten das Werk gemacht.
  }
 #}
 @}
@@ -11867,6 +11883,12 @@
 #2mo-40-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+ {
+  → biblisches/Exodus#summe-der-kinder-israel
+ }
+ {
+  §4mo-9-15
  }
 #}
 #2mo-40-3 {
@@ -11914,7 +11936,7 @@
 #}
 #2mo-40-17 {
  {
-  Siehe <i>Der Tag, als Mose die Errichtung der Wohnung vollendet hat</i>: <a href='http://bibel.renenyffenegger.ch/4mo_7.html#v1'>4.&nbsp;Mo&nbsp;7,1</a>.
+  Siehe <i>Der Tag, als Mose die Errichtung der Wohnung vollendet hat</i>: §4mo-7-1, → biblisches/Exodus#summe-der-kinder-israel
  }
 #}
 #2mo-40-20 {
@@ -11949,7 +11971,7 @@
 #}
 #2mo-40-33 {
  {
-  Mose vollendete das → biblisches/Eigene-Uebersetzung/Konkordanz/Werk,
+  → biblisches/Personen/Mose vollendete das → biblisches/Eigene-Uebersetzung/Konkordanz/Werk,
   aber die Opfergesetze kommen noch, und geopfert werden muss auch noch.
  <br>
   Die Aufrichtung der Wohnung wird in §4mo-7-1 vollendet. Vgl §2mo-39-32,
@@ -11991,6 +12013,8 @@
   aber in §3mo-7-38 heisst es, dass die Gesetze auf dem → biblisches/Orte/Berg-Sinai gegeben wurden.
   <br>
   Vgl. §+3mo-25-1
+  <br>
+  Auch 4. Mose (§4mo-1-1) beginnt damit, dass der HERR aus dem Zelt der Zusammenkunft redet.
  }
  {
   Beachte, wie häufig in 3. Mose die Wendung «Und der HERR redete zu Mose…» vorkommt.
@@ -14614,6 +14638,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
  }
+ {
+  <i>Wenn sich ihr Herz demütigt</i> vgl §2mo-10-3, §5mo-8-2
+ }
 #}
 #3mo-26-42 {
  {
@@ -14757,8 +14784,10 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
  {
-  Hier: der <b>1. 2. 2 n.Ex</b> vgl <a class='kom' href='#I4mo-7-1'>4.&nbsp;Mo&nbsp;7,1</a>, der wohl den <b>1. 1. 2 n.Ex</b> beschreibt und
-  <a href='http://bibel.renenyffenegger.ch/4mo_9.html#v1'>4.&nbsp;Mo&nbsp;9,1</a>, wo der HERR im ersten Monat redet.
+  Auch 3. Mose (§3mo-1-1) beginnt damit, dass der HERR aus dem Zelt der Zusammenkunft redet.
+ }
+ {
+  Hier: der <b>1. 2. 2 n.Ex</b> vgl §+4mo-7-1, der wohl den <b>1. 1. 2 n.Ex</b> beschreibt und §4mo-9-1, wo der HERR im ersten Monat redet.
  }
  {
   TODO: http://www.ruediger-heinzerling.de/forts4.htm#Akzent+7 The Numbers In The Book Of Numbers 1 And 26
@@ -14766,7 +14795,13 @@
 #}
 #4mo-1-2 {
  {
-  <i>Nehmt die Summe … auf</i> §2mo-30-12
+  <i>Nehmt die Summe … auf</i> §2mo-30-12, → biblisches/Exodus#summe-der-kinder-israel
+ }
+ {
+  <i>Zahl der Namen</i>: <span class='gr'>ἀριθμὸν ἐξ ὀνόματος</span>. Vgl §+offb-13-17 («Zahl seines Names»)
+ }
+ {
+  Vgl mit dem Beginn von 2. Mose («Dies sind die Namen der Söhne Israels…», §2mo-1-1)
  }
  {
   Von den hier gemusterten wird niemand nach Kanaan kommen (<a href='http://bibel.renenyffenegger.ch/4mo_26.html#v64'>4.&nbsp;Mo&nbsp;26,64</a>).
@@ -14872,7 +14907,7 @@
 #}
 #4mo-1-46 {
  {
-  603&nbsp;550: <a class='kom' href='#I2mo-38-26'>2.&nbsp;Mo&nbsp;38,26</a>.
+  603&nbsp;550: §+2mo-38-26, §4mo-2-32, → biblisches/Exodus#summe-der-kinder-israel
  }
 #}
 #4mo-1-47 {
@@ -14928,7 +14963,7 @@
 #}
 #4mo-2-32 {
  {
-  603&nbsp;550 Mann auch in <a class='kom' href='#I2mo-38-26'>2.&nbsp;Mo&nbsp;38,26</a>.
+  603&nbsp;550 Mann auch in §+2mo-38-26, §4mo-1-46, → biblisches/Exodus#summe-der-kinder-israel
  }
 #}
 @}
@@ -15266,8 +15301,8 @@
 @4. Mose 7 {
 #4mo-7-1 {
  {
-  Dieser Tag ist wohl der 1.1 des zweiten Jahres des Auszuges: <a href='http://bibel.renenyffenegger.ch/2mo_40.html#v17'>2.&nbsp;Mo&nbsp;40,17</a>.
-  Siehe auch <a class='kom' href='#I4mo-1-1'>4.&nbsp;Mo&nbsp;1,1</a>.
+  Dieser Tag ist wohl der erste des ersten Monats des zweiten Jahres des Auszuges: §2mo-40-17, vgl aber → biblisches/Exodus#summe-der-kinder-israel.
+  Siehe auch §+4mo-1-1.
  }
  {
   <i>vollenden</i> (Strongs 3615): <a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>.
@@ -15382,6 +15417,9 @@
 #4mo-9-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft#zelt-des-zeugnisses
+ }
+ {
+  <i>Tag, da die Wohnung aufgerichtet wurde</i>: §2mo-40-2
  }
 #}
 #4mo-9-18 {
@@ -15631,8 +15669,7 @@
 #}
 #4mo-12-3 {
  {
-  Vergleiche <i>Moses Sanftmut</i> mit <a href='http://bibel.renenyffenegger.ch/2mo_11.html#v8'>2.&nbsp;Mo&nbsp;11,8</a>.
-  S.a. §+2mo-11-3.
+  Vergleiche <i>Moses Sanftmut</i> mit §2mo-11-8 und §mt-11-29.  S.a. §+2mo-11-3.
  }
  {
    TODO: Offenbar wurde in <i>ana</i> (sanftmütig, demütig) ein Jod eingefügt, um die Demut zu unterstreichen.
@@ -16868,14 +16905,19 @@
 #}
 #4mo-25-11 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/ps_106.html#v30'>Ps 106,30-31</a>: Pinehas übte Gericht. Es wird ihm zur
-  Gerechtigkeit in Ewigkeit angerechnet. Vgl auch Vers 13.
+  Vgl mit §ps-106-30-31: Pinehas übte Gericht. Es wird ihm zur
+  Gerechtigkeit in Ewigkeit angerechnet. Vgl auch Vers §V4mo-25-13
  }
 #}
 #4mo-25-12 {
  {
    Das Wort für <i>Frieden</i> (<span class='hebr'>שָׁלֽוֹם</span>) hat offenbar ein <i>gebrochenes Wav</i>, siehe <a href='#typo_details'>Typografische Details im Alten Testament</a>.
    <br>TODO: Damit eine Ausnahme der Regeln von <i>Soferut</i>
+ }
+#}
+#4mo-25-13 {
+ {
+  <i>Ewiges Priestertum</i>: vgl §ps-110-4
  }
 #}
 #4mo-25-15 {
@@ -16894,7 +16936,7 @@
 @4. Mose 26 {
 #4mo-26-2 {
  {
-  <i>die Summe der ganzen Gemeinde</i> §+4mo-1-20, §+2mo-30-12
+  <i>die Summe der ganzen Gemeinde</i> §+4mo-1-20, §+2mo-30-12, → biblisches/Exodus#summe-der-kinder-israel
  }
 #}
 #4mo-26-4 {
@@ -18616,6 +18658,9 @@
 #5mo-8-2 {
  {
   <i>um zu erkennen, was in deinem Herzen ist</i>: vgl <a href='http://bibel.renenyffenegger.ch/2chr_32.html#v31'>2.&nbsp;Chr&nbsp;32,31</a>.
+ }
+ {
+  <i>um dich zu demütigen</i>: §+3mo-26-41
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/versuchen
@@ -33299,7 +33344,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft#zelt-des-zeugnisses
  }
  {
-  Diese <i>Steuer Moses</i> bezieht sich wohl auf §2mo-30-12-ff.
+   Diese <i>Steuer Moses</i> bezieht sich wohl auf §2mo-30-12-ff.
  }
 #}
 #2chr-24-14 {
@@ -34123,7 +34168,7 @@
 #}
 #esr-1-2 {
  {
-  <i>Kyrus, beauftragt, das Haus Gottes zu bauen</i> vgl §+jes-44-28, §esr-5-13, §esr-6-3.
+  <i>Kyrus, beauftragt, das Haus Gottes zu bauen</i> vgl §+jes-44-28, §esr-5-13, §esr-6-3, → biblisches/Texte/Gott-wohnt-unter-seinem-Volk
  }
  {
   <i>Gott des Himmels</i>: <a class='kom' href='#I1mo-24-3'>1.&nbsp;Mo&nbsp;24,3</a>.
@@ -34515,6 +34560,11 @@
   <i>Wir sind die Knechte des Gottes des Himmels</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-gottes-knecht, §neh-9-36
  }
 #}
+#esr-5-13 {
+ {
+  §+esr-1-2
+ }
+#}
 #esr-5-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
@@ -34528,6 +34578,11 @@
 #esr-6-3 {
  {
   Der Befehl von Kores: §esr-1-1-2.
+ }
+#}
+#esr-6-4 {
+ {
+  <i>Kosten für das Haus</i>: vgl §2mo-30-16-ff
  }
 #}
 #esr-6-5 {
@@ -40099,6 +40154,14 @@
 #ps-110-2 {
  {
   'Zepter' (Strongs 4294): dasselbe Wort wie für Stab, siehe <a class='kom' href='#I1mo-38-18'>1.&nbsp;Mo&nbsp;38,18</a>.
+ }
+#}
+#ps-110-4 {
+ {
+  Verweis: §hebr-5-6, §hebr-7-17-ff
+ }
+ {
+  <i>Priester in Ewigkeit</i>: vgl mit Pinehas, §4mo-25-13
  }
 #}
 #ps-110-5 {
@@ -55299,7 +55362,7 @@
 #}
 #mt-11-29 {
  {
-  <i>sanftmütig</i> §mt-21-5
+  <i>sanftmütig</i> §mt-21-5, §+4mo-12-3
  }
 #}
 #mt-11-30 {
@@ -81880,10 +81943,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-5-6 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v5'>Hebr&nbsp;1,5</a>.
+  Vgl §hebr-1-5.
  }
  {
   <i>Wie er auch an einer anderen Stelle sagt</i> vgl §apg-13-35
+ }
+ {
+  Verweis: §ps-110-4
  }
 #}
 #hebr-5-7 {
@@ -82119,6 +82185,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-7-16 {
  {
   <span class='u'>TODO: TR vs NA: siehe Arghelger_Gedanken-zu-einzelnen-Versen-des-Hebräerbriefs-in-der-Schlachter-2000.</span>
+ }
+#}
+#hebr-7-17 {
+ {
+  Verweis: §ps-110-4
  }
 #}
 #hebr-7-19 {
@@ -88181,6 +88252,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Zahl des Tieres</i> ist die <i>Zahl eines Menschen</i>. Vgl auch <i>Malzeichen seines Namens</i> (§offb-14-11)
   <br>Beachte: <i>Sein</i> Name ist »Das Wort Gottes« (§offb-19-13).
   <br>Vgl auch <i>Name des Vaters</i> in §offb-14-1.
+ }
+ {
+  <i>Zahl seines Namens</i>: <span class='gr'>τὸν ἀριθμὸν τοῦ ὀνόματος αὐτοῦ</span>: §offb-15-2. Vgl §4mo-1-2
  }
  {
   Es gibt Überwinder über die <i>Zahl seines Namens</i>: <a href='http://bibel.renenyffenegger.ch/offb_15.html#v2'>Offb&nbsp;15,2</a>.
