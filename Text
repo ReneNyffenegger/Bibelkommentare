@@ -9917,6 +9917,9 @@
  {
   <i>Erz</i> (Strongs 5178): Siehe <a class='kom' href='#I1mo-4-22'>1.&nbsp;Mo&nbsp;4,22</a>.
  }
+ {
+  §2mo-35-5
+ }
 #}
 #2mo-25-4 {
  {
@@ -10166,6 +10169,9 @@
  {
   Auch die Krone, die → biblisches/Personen/David vom König von Ammon nahm, wog 1 Talent Gold §+2sam-12-30.
   <br>Im ganzen Heiligtum wurden 29 Talente und 730 Sekel Gold verwendet: §2mo-38-24.
+ }
+ {
+  §2mo-37-24 
  }
 #}
 #2mo-25-40 {
@@ -11515,6 +11521,9 @@
 #2mo-35-5 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer, vgl §2mo-25-2-ff
+ }
+ {
+  §2mo-25-3
  }
 #}
 #2mo-35-6 {
@@ -34154,16 +34163,19 @@
 @Esra 1 {
 #esr-1-1 {
  {
-  → biblisches/Personen/Esra/index
+  → biblisches/Personen/Esra/index, → biblisches/Personen/Jeremia
  }
  {
    <i>erfüllt</i> (Strongs 3615) u.a. auch mit 'vollenden': <a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>.
  }
  {
-  Vgl <a class='kom' href='#I2chr-36-22'>2.&nbsp;Chr&nbsp;36,22</a>.
+  Vgl §+2chr-36-22.
  }
  {
   Ist Esra 1:1-4 der → biblisches/Bücher/Daniel/70-Wochen#daniel-70-wochen-beginn[Beginn der 70 Wochen von Daniel]?
+ }
+ {
+  §dan-9-2
  }
 #}
 #esr-1-2 {
@@ -38138,6 +38150,11 @@
    §joh-13-18   
  }
 #}
+#ps-41-14 {
+ {
+  <i>Amen, ja, Amen</i> schliesst angeblich das → biblisches/Bücher/Ketuvim/Psalmen#die-5-psalmbuecher[1. Psalmbuch] ab.
+ }
+#}
 @}
 @Psalm 42 {
 #ps-42-6 {
@@ -38857,6 +38874,9 @@
  {
   <i>Die Erde werde erfüllt mit seiner Herrlichkeit</i>: <a class='kom' href='#I4mo-14-21'>4.&nbsp;Mo&nbsp;14,21</a>.
  }
+ {
+  <i>Amen, ja, Amen</i> schliesst angeblich das → biblisches/Bücher/Ketuvim/Psalmen#die-5-psalmbuecher[2. Psalmbuch] ab.
+ }
 #}
 #ps-72-20 {
  {
@@ -39402,6 +39422,11 @@
 #ps-89-50 {
  {
   <i>Gnadenerweise</i>: <a class='kom' href='#Ips-89-2'>Vers 2</a>.
+ }
+#}
+#ps-89-53 {
+ {
+  <i>Amen, ja, Amen</i> schliesst angeblich das → biblisches/Bücher/Ketuvim/Psalmen#die-5-psalmbuecher[3. Psalmbuch] ab.
  }
 #}
 @}
@@ -40084,6 +40109,11 @@
 #ps-106-38 {
  {
   Siehe <a class='kom' href='#I4mo-35-33'>4.&nbsp;Mo&nbsp;35,33</a>.
+ }
+#}
+#ps-106-48 {
+ {
+  <i>Amen, Lobt den HERRN</i> schliesst angeblich das → biblisches/Bücher/Ketuvim/Psalmen#die-5-psalmbuecher[4. Psalmbuch] ab.
  }
 #}
 @}
@@ -51017,6 +51047,8 @@
 #dan-9-2 {
  {
    <i>70 Jahre</i>: §+2chr-36-21.
+  <br>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet → biblisches/Personen/Jeremia vgl §esr-1-1
  }
  {
   TODO: In <a href='http://bibel.renenyffenegger.ch/jer_25.html#v11'>Jer 25,11-12</a> wird eine 70 jährige Herrschaft des Königs von Babel angekündigt. Mit
@@ -53867,7 +53899,8 @@
 #}
 #mt-2-17 {
  {
-  <i>Da wurde erfüllt, was durch den Propheten Jeremias geredet ist</i> §mt-27-9
+  <i>Da wurde erfüllt, was durch den Propheten Jeremias geredet ist</i>:
+  → biblisches/Personen/Jeremia wird im Neuen Testament → biblisches/Bücher/Evangelien/Matthäus#jeremia[nur im Matthäusevangelium] erwähnt, vgl §mt-16-14, §mt-27-9.
  }
  {
   Erfüllung von §+jer-31-15.
@@ -56058,6 +56091,11 @@
   <i>Kleingläubig in den Evangelien</i>: <a class='kom' href='#Imt-6-30'>Mt&nbsp;6,30</a>.
  }
 #}
+#mt-16-14 {
+ {
+  → biblisches/Personen/Jeremia wird im Neuen Testament → biblisches/Bücher/Evangelien/Matthäus#jeremia[nur im Matthäusevangelium] erwähnt, vgl §mt-2-17, §mt-27-9.
+ }
+#}
 #mt-16-16 {
  {
   <i>Sohn Gottes</i>: Beachte, hier spricht dieses Bekenntnis Petrus aus, in
@@ -57466,7 +57504,7 @@
    Vgl auch §Vmt-27-35.
  }
  {
-  <i>Da wurde erfüllt, was durch den Propheten Jeremias geredet ist</i> §mt-2-17
+  <i>Da wurde erfüllt, was durch den Propheten Jeremias geredet ist</i>: → biblisches/Personen/Jeremia wird im Neuen Testament → biblisches/Bücher/Evangelien/Matthäus#jeremia[nur im Matthäusevangelium] erwähnt, vgl §mt-2-17, §mt-16-14
  }
 #}
 #mt-27-11 {
