@@ -14804,7 +14804,7 @@
 #}
 #4mo-1-2 {
  {
-  <i>Nehmt die Summe … auf</i> §2mo-30-12, → biblisches/Exodus#summe-der-kinder-israel
+  <i>Nehmt die Summe … auf</i> §2mo-30-12, §4mo-26-2 → biblisches/Exodus#summe-der-kinder-israel
  }
  {
   <i>Zahl der Namen</i>: <span class='gr'>ἀριθμὸν ἐξ ὀνόματος</span>. Vgl §+offb-13-17 («Zahl seines Names»)
@@ -14848,17 +14848,19 @@
 #}
 #4mo-1-10 {
  {
-  TODO <i>Gamaliel</i> siehe <a class='kom' href='#Iapg-5-34'>Apg&nbsp;5,34</a>.
+  <i>Gamliel</i>: vgl → biblisches/Personen/Gamaliel
  }
 #}
 #4mo-1-16 {
  {
-  'Berufen' im Hebräischen <span class='hebr'>קְרוּאֵ֣י</span>, Strongs 7148. Dieses Wort kommt ausserdem vor in
-  <a href='http://bibel.renenyffenegger.ch/4mo_16.html#v2'>4.&nbsp;Mo&nbsp;16,2</a> und
-  <a href='http://bibel.renenyffenegger.ch/4mo_26.html#v9'>4.&nbsp;Mo&nbsp;26,9</a> und wird in der KJV mit 'renowned' und 'famous' übersetzt.
+  <i>Berufen</i> im Hebräischen <span class='hebr'>קְרוּאֵ֣י</span>, Strongs 7148. Dieses Wort kommt ausserdem vor in
+  §4mo-16-2 und §4mo-26-9 und wird in der KJV mit «renowned» und «famous» übersetzt.
  }
 #}
 #4mo-1-18 {
+ {
+  <i>in die Geburtsverzeichnisse eintragen</i>: Sch2K übersetzt mit «in die Geburtsregister eintragen», KJV mit «declared their pedigrees».
+ }
  {
   TODO: Geburtsregister: 1. Vorkommen?
  }
@@ -14904,7 +14906,7 @@
 #}
 #4mo-1-33 {
  {
-  Ephraim zieht mit 40'500 aus, Gad zählt in §4mo-26-17 40'500. (Vgl auch §V4mo-1-43).
+  Ephraim zieht mit 40'500 aus, Gad zählt in §4mo-26-18 40'500. (Vgl auch §V4mo-1-43).
  }
 #}
 #4mo-1-43 {
@@ -14920,6 +14922,11 @@
 #4mo-1-47 {
  {
   Levi (sogar ab einem Monat) wurden in <a href='http://bibel.renenyffenegger.ch/4mo_3.html#v15'>4.&nbsp;Mo&nbsp;3,15</a> gemustert.
+ }
+#}
+#4mo-1-49 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi
  }
 #}
 #4mo-1-50 {
@@ -15180,7 +15187,7 @@
 #}
 #4mo-4-35 {
  {
-   TODO: Hier Dienst von 30 bis 50 Jahre. In <a href='http://bibel.renenyffenegger.ch/4mo_8.html#v24'>4.&nbsp;Mo&nbsp;8,24</a> Dienst ab 25 Jahre.
+   Beachte: Hier Dienst von 30 bis 50 Jahre. In §+4mo-8-24 Dienst ab 25 Jahren.
  }
 #}
 #4mo-4-37 {
@@ -15385,7 +15392,8 @@
 #}
 #4mo-8-24 {
  {
-  TODO: siehe <a class='kom' href='#I4mo-4-35'>4.&nbsp;Mo&nbsp;4,35</a>.
+  Beachte: Hier beginnen die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] ihren Dienst mit 25 Jahren, später wird das wohl auf 20 Jahre gesenkt: §1chr-23-24.
+  Vgl auch §4mo-4-35, wo der Dienst dann mit 30 Jahren beginnt.
  }
 #}
 #4mo-8-25 {
@@ -16943,7 +16951,7 @@
 @4. Mose 26 {
 #4mo-26-2 {
  {
-  <i>die Summe der ganzen Gemeinde</i> §+4mo-1-20, §+2mo-30-12, → biblisches/Exodus#summe-der-kinder-israel
+  <i>die Summe der ganzen Gemeinde</i>: §4mo-1-2, §+4mo-1-20, §+2mo-30-12, → biblisches/Exodus#summe-der-kinder-israel
  }
 #}
 #4mo-26-4 {
@@ -16984,9 +16992,9 @@
   <b>Zephon</b> <span class='hebr'><span class='grey'>לִ</span>צְפ֗וֹן</span>, Strongs 6827, Vgl <a class='kom' href='#Ijos-13-27'>Jos&nbsp;13,27</a>.
  }
 #}
-#4mo-26-17 {
+#4mo-26-18 {
  {
-   §+4mo-1-33
+   Hier zählen die Gaditer 40'500, in §+4mo-1-33 sind es die Ephraimiter.
  }
 #}
 #4mo-26-19 {
@@ -32031,6 +32039,9 @@
 #1chr-23-24 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/Haus-Gottes
+ }
+ {
+  Beachte: hier dienen die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] ab 20 Jahren am Haus des Herrn, in §4mo-8-24 mussten sie den Dienst erst mit 25 Jahren beginnen.
  }
 #}
 #1chr-23-26 {
@@ -65758,7 +65769,7 @@
 #}
 #apg-5-34 {
  {
-   TODO: Hat <i>Gamaliel</i> etwas mit <i>Gamliel</i> (<a href='http://bibel.renenyffenegger.ch/4mo_1.html#v10'>4.&nbsp;Mo&nbsp;1,10</a>) zu tun?
+  → biblisches/Personen/Gamaliel
  }
 #}
 #apg-5-37 {
@@ -69181,6 +69192,11 @@
  {
   Frage: ist dies die 'erste Verteidigung', bei dem Paulus niemand beistand, ausser der Herr?
   (<a href='http://bibel.renenyffenegger.ch/2tim_4.html#v16'>2.&nbsp;Tim&nbsp;4,16</a>)
+ }
+#}
+#apg-22-3 {
+ {
+  → biblisches/Personen/Gamaliel
  }
 #}
 #apg-22-5 {
