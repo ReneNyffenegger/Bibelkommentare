@@ -32746,6 +32746,9 @@
 #}
 #2chr-9-21 {
  {
+  → biblisches/Orte/Tarsis
+ }
+ {
   <i>Affe</i> und <i>Pfau</i>: <a class='kom' href='#I1koe-10-22'>1.&nbsp;Kö&nbsp;10,22</a>.
  }
 #}
@@ -33278,6 +33281,11 @@
 #2chr-20-34 {
  {
    → biblisches/Bücher/referenzierte-ausserbiblische
+ }
+#}
+#2chr-20-36 {
+ {
+  → biblisches/Orte/Tarsis
  }
 #}
 #2chr-20-37 {
@@ -38849,6 +38857,11 @@
   <a href='http://bibel.renenyffenegger.ch/jes_50.html#v39'>Jes&nbsp;50,39</a>.
  }
 #}
+#ps-72-10 {
+ {
+  → biblisches/Orte/Tarsis
+ }
+#}
 #ps-72-12 {
  {
   Beachte das <i>denn</i>.
@@ -44161,6 +44174,9 @@
 #}
 #jes-23-6 {
  {
+  → biblisches/Orte/Tarsis
+ }
+ {
   <i>Küste</i>: siehe <a class='kom' href='#Ihes-27-7'>Hes&nbsp;27,7</a>.
  }
 #}
@@ -46012,6 +46028,9 @@
 #}
 #jes-66-19 {
  {
+  → biblisches/Orte/Tarsis
+ }
+ {
   <i>Pul</i>: <a class='kom' href='#I2koe-15-19'>2.&nbsp;Kö&nbsp;15,19</a>.
  }
 #}
@@ -46517,6 +46536,9 @@
  }
 #}
 #jer-10-9 {
+ {
+  → biblisches/Orte/Tarsis
+ }
  {
   <i>Gold von Uphas</i>: vgl <a href='http://bibel.renenyffenegger.ch/dan_10.html#v5'>Dan&nbsp;10,5</a>.
  }
@@ -49587,6 +49609,11 @@
   <i>Gebal</i>: siehe <a href='http://bibel.renenyffenegger.ch/jos_13.html#v5'>Jos&nbsp;13,5</a>.
  }
 #}
+#hes-27-12 {
+ {
+  → biblisches/Orte/Tarsis
+ }
+#}
 #hes-27-14 {
  {
   <i>Haus Togarma</i>: vgl <a href='http://bibel.renenyffenegger.ch/hes_38.html#v6'>Hes&nbsp;38,6</a>.
@@ -50006,6 +50033,9 @@
  }
 #}
 #hes-38-13 {
+ {
+   → biblisches/Orte/Tarsis
+ }
  {
   <b>Saba</b>: siehe <a class='kom' href='#Ihes-27-22'>Hes&nbsp;27,22</a>.
  }
@@ -52430,6 +52460,11 @@
   <br>Vgl <a class='kom' href='#Imt-12-41'>Mt&nbsp;12,41</a>
  }
 #}
+#jon-1-3 {
+ {
+  → biblisches/Orte/Tarsis
+ }
+#}
 #jon-1-9 {
  {
    TODO: Ist die Wendung sonst nicht 'der Himmel und Erde gemacht hat'?
@@ -52464,6 +52499,9 @@
  }
 #}
 #jon-4-2 {
+ {
+  → biblisches/Orte/Tarsis
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte
  }
@@ -66395,17 +66433,19 @@
 #}
 #apg-8-40 {
  {
-  <i>Cäsarea</i>: in <a href='http://bibel.renenyffenegger.ch/apg_9.html#v30'>Apg&nbsp;9,30</a> wird Paulus nach Cäsarea gebracht. Frage: Lernt er dort Philippus kennen?
+  <i>Cäsarea</i>: in §apg-9-30 wird Paulus nach Cäsarea gebracht. Lernt er dort Philippus kennen?
+ }
+ {
+  Von Philippus wird bis §apg-21-8 nichts mehr gehört. Er wird dort «Evangelist» und «einer von den Sieben» genannt.
+  Ist das derselbe Philippus wie der dieses Verses?
+ }
+ {
   <br>In Cäsarea lebt auch <i>Kornelius</i> (<a href='http://bibel.renenyffenegger.ch/apg_10.html#v1'>Apg&nbsp;10,1</a>).
   <br>Herodes geht (nach der Hinrichtung der Wachen) nach Cäsarea hinab (<a href='http://bibel.renenyffenegger.ch/apg_12.html#v19'>Apg&nbsp;12,19</a>)
   <br>TODO: <a href='http://bibel.renenyffenegger.ch/apg_18.html#v22'>Apg&nbsp;18,22</a>.
   <br>TODO: in <a href='http://bibel.renenyffenegger.ch/apg_21.html#v8'>Apg&nbsp;21,8</a> gibt es ein 'Haus des Evangelisten Philippus'. Dieser ist einer
       'von den Sieben'.
   <br>Cäsarea wird in <a href='http://bibel.renenyffenegger.ch/mk_8.html#v27'>Mk&nbsp;8,27</a> Cäsarea Philippi genannt.
- }
- {
-  Von Philippus wird bis <a href='http://bibel.renenyffenegger.ch/apg_21.html#v8'>Apg&nbsp;21,8</a> nichts mehr gehört. Er wird dort
-  'Evangelist' und 'einer von den Sieben' genannt. TODO: ist das derselbe Philippus wie der dieses Verses?
  }
 #}
 @}
@@ -66564,6 +66604,11 @@
   Vgl auch <a href='http://bibel.renenyffenegger.ch/apg_22.html#v12'>Apg&nbsp;22,12</a>.
  }
 #}
+#apg-9-11 {
+ {
+  → biblisches/Orte/Tarsus
+ }
+#}
 #apg-9-13 {
  {
   Beachte: Der schlechte Ruf von Paulus hat sich bis Damaskus herumgesprochen (s.a. Vers 21), aber als Paulus nach Jerusalem kommt
@@ -66660,10 +66705,10 @@
 #}
 #apg-9-30 {
  {
-  <a class='kom' href='#Iapg-8-40'>Apg&nbsp;8,40</a>.
+  Möglicherweise befand sich Philippus immer noch in <i>Cäsarea</i> §+apg-8-40.
  }
  {
-  Beachte: Paulus ist von Tarsus (Vers 11).
+  Beachte: Paulus ist von → biblisches/Orte/Tarsus (§Vapg-9-11).
  }
  {
   Von Paulus hört man nichts mehr bis <a href='http://bibel.renenyffenegger.ch/apg_11.html#v25'>Apg&nbsp;11,25</a>. Offenbar ist Paulus in Tarsus versteckt,
@@ -67073,7 +67118,7 @@
 #}
 #apg-11-25 {
  {
-  <i>Paulus</i>: <a class='kom' href='#Iapg-9-30'>Apg&nbsp;9,30</a>.
+ → biblisches/Personen/Paulus ist von → biblisches/Orte/Tarsus: §+apg-9-30.
  }
 #}
 #apg-11-26 {
@@ -69181,6 +69226,11 @@
   <i>Verstehst du Griechisch</i> vgl §Vapg-21-40 (in hebräischer Mundart).
  }
 #}
+#apg-21-39 {
+ {
+  → biblisches/Orte/Tarsus
+ }
+#}
 #apg-21-40 {
  {
   <i>Mit der Hand ein Zeichen geben</i>: <a class='kom' href='#Iapg-12-17'>Apg&nbsp;12,17</a>.
@@ -70717,6 +70767,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
  }
 #}
+#roem-6-4 {
+ {
+  <i>Neuheit</i>: <span class='gr'>καινότης</span> (Strongs 2538, 2x), vgl §roem-7-6
+ }
+#}
 #roem-6-8 {
  {
   <i>Wenn wir aber mit Christo gestorben sind… wir auch mit ihm leben werden</i>: vgl §2tim-2-11 (hier «glauben wir», dort «→ biblisches/Eigene-Uebersetzung/Konkordanz/Das-Wort-ist-gewiss[das Wort ist gewiss]»).
@@ -70789,6 +70844,11 @@
  }
  {
   Was ist das <i>Gesetz des Mannes</i>?
+ }
+#}
+#roem-7-6 {
+ {
+  <i>Neuheit</i>: <span class='gr'>καινότης</span> (Strongs 2538, 2x): Sch2K übersetzt mit «im neuen Wesen», Elberfelder mit «in dem Neuen», KJV mit «newness». Vgl §roem-6-4
  }
 #}
 #roem-7-7 {
