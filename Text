@@ -53727,7 +53727,10 @@
        <a href='http://bibel.renenyffenegger.ch/offb_22.html#v19'>Offb&nbsp;22,19</a>)
     <li>Buch des Lebens des Lammes (<a href='http://bibel.renenyffenegger.ch/offb_13.html#v8'>Offb&nbsp;13,8</a>)
     <li>Buch dieser Weissagung (<a href='http://bibel.renenyffenegger.ch/offb_22.html#v19'>Offb&nbsp;22,19</a>)
-         </ul>
+     </ul>
+ }
+ {
+  Die → biblisches/Bücher/Evangelien beginnen mit <span class='gr'>Βίβλος</span> und enden mit <span class='gr'>βιβλία ἀμήν</span> §joh-21-25.
  }
 #}
 #mt-1-3 {
@@ -64236,7 +64239,13 @@
 #}
 #joh-14-26 {
  {
+  Der Sachwalter wird: lehren (Lehrbriefe des Neuen Testaementes), erinnern (Die → biblisches/Bücher/Evangelien), zeugen (§joh-25-26, → biblisches/Bücher/Apostelgeschichte/),
+  das Kommende verkündigen (§joh-16-13, → biblisches/Bücher/prophetisch/Offenbarung/) und in die ganze Wahrheit leiten (das gesamte Neue Testament).
+  <br>
   Vgl §lk-24-49
+ }
+ {
+  <i>Sachwalter</i>: Sch2K übersetzt mit «Beistand», KJV mit «Comforter».
  }
 #}
 #joh-14-29 {
@@ -64783,6 +64792,9 @@
  }
 #}
 #joh-21-25 {
+ {
+  Die → biblisches/Bücher/Evangelien beginnen mit <span class='gr'>Βίβλος</span> (§mt-1-1) und enden mit <span class='gr'>βιβλία ἀμήν</span>.
+ }
  {
   Vgl §joh-2-19-21.
  }
