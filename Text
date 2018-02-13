@@ -37474,7 +37474,7 @@
 @Psalm 19 {
 #ps-19-2 {
  {
-  Die Himmel verkünden Seine Gerechtigkeit (§ps-97-6) und sind das → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werk seiner Hände] (§ps-102-26).
+  Die Himmel verkünden Seine Gerechtigkeit (§ps-50-7, §ps-97-6) und sind das → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werk seiner Hände] (§ps-102-26).
  }
  {
   <i>Ausdehung</i>: §+1mo-1-6.
@@ -38317,6 +38317,16 @@
 #}
 @}
 @Psalm 47 {
+#ps-47-6 {
+ {
+  <i>emporgestiegen</i> vgl §ps-68-19
+ }
+#}
+#ps-47-7 {
+ {
+  Vgl §eph-5-19
+ }
+#}
 #ps-47-10 {
  {
   S.a: Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>.
@@ -38377,6 +38387,11 @@
 #ps-50-1 {
  {
   Neben den Psalmen <a href='http://bibel.renenyffenegger.ch/ps_73.html#v1'>73</a> bis <a href='http://bibel.renenyffenegger.ch/ps_83.html#v1'>83</a> ist dieser der einzige von Asaph.
+ }
+#}
+#ps-50-6 {
+ {
+  <i>die Himmel verkünden seine Gerechtigkeit</i> §ps-97-6, vgl §ps-19-2
  }
 #}
 #ps-50-8 {
@@ -38729,6 +38744,12 @@
   <a href='http://bibel.renenyffenegger.ch/ps_135.html#v1'>Ps&nbsp;135,1</a>, <a href='http://bibel.renenyffenegger.ch/ps_147.html#v1'>Ps&nbsp;147,1</a>,
   <a class='kom' href='#Ips-148-1'>Ps&nbsp;148,1</a>, <a class='kom' href='#Ips-149-1'>Ps&nbsp;149,1</a>, <a class='kom' href='#Ips-150-1'>Ps&nbsp;150,1</a>,
   <a href='http://bibel.renenyffenegger.ch/jes_38.html#v11'>Jes&nbsp;38,11</a>.
+ }
+ {
+  §eph-4-8
+ }
+ {
+  <i>aufgefahren</i> Vgl §ps-47-6, §apg-2-34
  }
 #}
 #ps-68-30 {
@@ -39689,7 +39710,7 @@
 #}
 #ps-97-6 {
  {
-   Vgl <a class='kom' href='#Ips-19-2'>Ps&nbsp;19,2</a>.
+   Vgl §+ps-19-2, §50-6
  }
 #}
 #ps-97-7 {
@@ -40186,6 +40207,11 @@
   fürchteten sich mit grosser Furcht»).
  }
 #}
+#ps-107-41 {
+ {
+  Vgl §ps-113-7
+ }
+#}
 @}
 @Psalm 109 {
 #ps-109-8 {
@@ -40289,6 +40315,11 @@
  }
  {
   <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>. Ebenso Vers 9.
+ }
+#}
+#ps-113-7 {
+ {
+  Vgl §ps-107-41
  }
 #}
 #ps-113-9 {
@@ -64239,7 +64270,7 @@
 #}
 #joh-14-26 {
  {
-  Der Sachwalter wird: lehren (Lehrbriefe des Neuen Testaementes), erinnern (Die → biblisches/Bücher/Evangelien), zeugen (§joh-25-26, → biblisches/Bücher/Apostelgeschichte/),
+  Der Sachwalter wird: lehren (Lehrbriefe des Neuen Testamentes), erinnern (die → biblisches/Bücher/Evangelien), zeugen (§joh-25-26, → biblisches/Bücher/Apostelgeschichte/),
   das Kommende verkündigen (§joh-16-13, → biblisches/Bücher/prophetisch/Offenbarung/) und in die ganze Wahrheit leiten (das gesamte Neue Testament).
   <br>
   Vgl §lk-24-49
@@ -65250,6 +65281,11 @@
   <i>Verheissung des Heiligen Geistes</i>: §+lk-24-49, §gal-3-14
   <br>Vgl mit der 'Gabe des Heiligen Geistes' in Vers 38.
   <br>S.a. → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
+ }
+#}
+#apg-2-34 {
+ {
+  <i>aufgefahren</i> vgl §ps-68-19
  }
 #}
 #apg-2-35 {
@@ -76733,6 +76769,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <a class='kom' href='#Ieph-3-2'>Eph&nbsp;3,2</a>.
  }
 #}
+#eph-4-8 {
+ {
+  §ps-68-19
+ }
+#}
 #eph-4-9 {
  {
   <i>Untere Teile der Erde</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/unter-der-Erde
@@ -76958,6 +76999,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>spielen</i> (Woh Strongs 5567?): <a class='kom' href='#Iroem-15-9'>Röm&nbsp;15,9</a>.
+ }
+ {
+  Vgl ps-47-7
  }
  {
   TODO: <i>spielen</i> bedeutet im Griechischen offenbar auch, dass eine Saite klingt. (Jan Hammer)
