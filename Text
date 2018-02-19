@@ -37332,6 +37332,16 @@
   Verweis: §roem-3-12
  }
 #}
+#ps-14-4 {
+ {
+  §ps-53-5
+ }
+#}
+#ps-14-7 {
+ {
+  §ps-53-7
+ }
+#}
 @}
 @Psalm 15 {
 #ps-15-1 {
@@ -37949,7 +37959,7 @@
 #}
 #ps-34-19 {
  {
-  <i>zerbrochenes Herz</i> vgl §ps-147-3, §jes-61-1
+  <i>zerbrochenes Herz</i> vgl §ps-147-3, §jes-61-1, §ps-51-19
   <br>
   <i>zerschlagener Geist</i> vgl §+jes-57-15
  }
@@ -38401,7 +38411,7 @@
 #}
 #ps-50-14 {
  {
-   <i>Gott Dank opfern</i>: Vgl Vers 23.
+   <i>Gott Dank opfern</i>: Vgl Vers §Vps-50-23.
    <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/ps_100.html#v1'>Ps&nbsp;100,1</a> (Ein Psalm zum Dankopfer),
        <a href='http://bibel.renenyffenegger.ch/ps_56.html#v13'>Ps&nbsp;56,13</a>, <a href='http://bibel.renenyffenegger.ch/ps_69.html#v31'>Ps&nbsp;69,31</a>,
        <a href='http://bibel.renenyffenegger.ch/ps_105.html#v1'>Ps&nbsp;105,1</a>, <a href='http://bibel.renenyffenegger.ch/ps_106.html#v1'>Ps&nbsp;106,1</a>,
@@ -38430,6 +38440,11 @@
 #ps-51-9 {
  {
   Beachte: Entsündigung ohne Blut. Vgl auch <a class='kom' href='#Ihebr-9-22'>Hebr&nbsp;9,22</a>.
+ }
+#}
+#ps-51-19 {
+ {
+  Vgl §ps-34-19
  }
 #}
 #ps-51-20 {
@@ -38480,6 +38495,16 @@
   Verweis: §roem-3-10
  }
 #}
+#ps-53-5 {
+ {
+  §ps-14-4
+ }
+#}
+#ps-53-7 {
+ {
+  §ps-14-7
+ }
+#}
 @}
 @Psalm 54 {
 #ps-54-2 {
@@ -38496,7 +38521,7 @@
 #}
 #ps-55-10 {
  {
-  KJV übersetzt: «… and divide their tongues …», Sch2K mit «… entzweihe ihre Zunge …»
+  KJV übersetzt: «… and divide their tongues …», Sch2K mit «… entzweie ihre Zunge …»
   <br>
    Vgl §apg-2-3
   <br>
@@ -39874,6 +39899,11 @@
    oder auf Noahs Flut?
  }
 #}
+#ps-104-14 {
+ {
+  Vgl ps-147-9
+ }
+#}
 #ps-104-15 {
  {
   <i>Herz mit Brot stärken</i>: <a class='kom' href='#Iri-19-5'>Ri&nbsp;19,5</a>.
@@ -40999,6 +41029,11 @@
 #ps-147-7 {
  {
   <i>Dank</i> in den Psalmen: <a class='kom' href='#Ips-50-14'>Ps&nbsp;50,14</a>.
+ }
+#}
+#ps-147-9 {
+ {
+  Vgl ps-104-14
  }
 #}
 #ps-147-10 {
