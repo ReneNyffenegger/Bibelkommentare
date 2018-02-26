@@ -36993,6 +36993,11 @@
   Vgl §ps-33-11
  }
 #}
+#ps-2-4 {
+ {
+  <i>lachen und spotten</i> vgl §ps-59-9
+ }
+#}
 #ps-2-6 {
  {
    <i>Zion</i> ist der <i>heilige Berg</i> (oder auf ihm): <a href='http://bibel.renenyffenegger.ch/joe_4.html#v17'>Joe&nbsp;4,17</a>.
@@ -38018,6 +38023,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
  }
 #}
+#ps-36-8 {
+ {
+   Vgl §ps-57-2
+ }
+#}
 #ps-36-10 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Quelle/des-Lebens, → biblisches/Eigene-Uebersetzung/Konkordanz/Licht
@@ -38536,7 +38546,10 @@
 #}
 #ps-55-22 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/ps_64.html#v4'>Ps&nbsp;64,4</a>.
+  Vgl §ps-64-4.
+ }
+ {
+  <i>gezogene Schwerter</i> vgl §ps-57-5
  }
 #}
 #ps-55-23 {
@@ -38553,10 +38566,13 @@
  {
   <a class='kom' href='#I1sam-21-11'>1.&nbsp;Sam&nbsp;21,11</a>.
  }
+ {
+  Sch2K übersetzt mit «Die stumme Taube unter den Fremden», KJV mit «On the dumb Dove far off».
+ }
 #}
 #ps-56-5 {
  {
-  Vgl Vers 12.
+  Vgl §Vps-56-12
  }
 #}
 #ps-56-7 {
@@ -38568,6 +38584,13 @@
  {
   'fliehen' siehe <a class='kom' href='#I1mo-4-16'>1.&nbsp;Mo&nbsp;4,16</a>.
  }
+#}
+#ps-56-10 {
+ {
+  Vgl §roem-8-31
+ }
+#}
+#ps-56-12 {
 #}
 #ps-56-13 {
  {
@@ -38587,9 +38610,24 @@
   <a class='kom' href='#I1sam-22-1'>1.&nbsp;Sam&nbsp;22,1</a>.
  }
 #}
+#ps-57-2 {
+ {
+  Vgl §ps-36-8
+ }
+#}
 #ps-57-4 {
  {
   <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>.
+ }
+#}
+#ps-57-5 {
+ {
+  <i>scharfes Schwert</i> vgl §ps-55-22
+ }
+#}
+#ps-57-8 {
+ {
+  <i>Ich will … Psalmen singen</i> vgl §ps-59-18
  }
 #}
 @}
@@ -38604,7 +38642,15 @@
 #}
 #ps-58-11 {
  {
-  <i>Rache</i>: <a class='kom' href='#I5mo-32-35'>5.&nbsp;Mo&nbsp;32,35</a>.
+  <i>Rache</i>: §+5mo-32-35.
+ }
+ {
+  Vgl §offb-14-20
+ }
+#}
+#ps-58-12 {
+ {
+  <i>Lohn</i> vgl §offb-11-18, §offb-22-12
  }
 #}
 @}
@@ -38625,9 +38671,19 @@
    Vgl Vers 15.
  }
 #}
+#ps-59-9 {
+ {
+  <i>lachen und spotten</i> vgl §ps-2-4
+ }
+#}
 #ps-59-12 {
  {
   Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>.
+ }
+#}
+#ps-59-18 {
+ {
+  <i>Dir … will ich Psalmen singen</i> vgl §ps-57-8.
  }
 #}
 @}
@@ -71118,6 +71174,11 @@
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/kol_3.html#v10'>Kol&nbsp;3,10</a>.
  }
 #}
+#roem-8-31 {
+ {
+  <i>Wenn Got für uns ist …</i> vgl §ps-56-10
+ }
+#}
 #roem-8-32 {
  {
   Vgl diese Verse mit <a href='http://bibel.renenyffenegger.ch/jes_50.html#v8'>Jes 50,8-9</a>.
@@ -88036,7 +88097,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten[Knechte, die Propheten]: §offb-10-7
  }
  {
-  <i>Lohn</i>: §+1kor-3-8.
+  <i>Lohn</i>: §+1kor-3-8, §ps-58-12
  }
  {
   <i>dein → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn[Zorn] ist gekommen und die Zeit der Toten, um gerichtet zu werden…</i> vgl §roem-2-5
@@ -88679,6 +88740,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   TODO: Beachte, Jesus ist der <i>wahre Weinstock</i>: <a href='http://bibel.renenyffenegger.ch/joh_15.html#v1'>Joh&nbsp;15,1</a>.
+ }
+#}
+#offb-14-20 {
+ {
+  Vgl §ps-58-11
  }
 #}
 @}
@@ -89849,10 +89915,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-22-12 {
  {
-  <i>Lohn</i>: <a class='kom' href='#I1kor-3-8'>1.&nbsp;Kor&nbsp;3,8</a>
- }
- {
+  <i>Lohn</i>: §+1kor-3-8
+  <br>
   <i>und mein Lohn mit mir, um einem jeden zu vergelten…</i> vgl §jes-40-10, §jes-62-11
+  <br>
+    Vgl auch §ps-58-12
  }
 #}
 #offb-22-13 {
