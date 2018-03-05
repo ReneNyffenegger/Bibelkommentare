@@ -70511,6 +70511,11 @@
   <a href='http://bibel.renenyffenegger.ch/roem_7.html#v1'>Röm&nbsp;7,1</a>.
  }
 #}
+#roem-2-18 {
+ {
+  <i>prüfen, worauf es ankommt</i> vgl §roem-12-2
+ }
+#}
 #roem-2-21 {
  {
   TODO: Strongs 2784 kommt in diesem Vers vor.
@@ -71619,7 +71624,7 @@
   übersetzt.
  }
  {
-  <i>damit ihr prüfen mögt …</i> vgl §eph-5-10, §phil-1-10, §1thes-5-21
+  <i>damit ihr prüfen mögt …</i> vgl §eph-5-10, §phil-1-10, §1thes-5-21, §roem-2-18
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott
@@ -73777,6 +73782,11 @@
   <i>Bis er (der Herr) kommt</i>: <a class='kom' href='#I1kor-4-5'>1.&nbsp;Kor&nbsp;4,5</a>.
  }
 #}
+#1kor-11-28 {
+ {
+  <i>prüfe sich selbst</i> vgl §2kor-13-5, §gal-6-4
+ }
+#}
 #1kor-11-32 {
  {
   <i>Vom Herrn gezüchtigt werden</i>, vgl <a href='http://bibel.renenyffenegger.ch/hebr_12.html#v5'>Hebr&nbsp;12,5</a>.
@@ -75489,6 +75499,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
  }
 #}
+#2kor-13-5 {
+ {
+  <i>prüft euch selbst</i> vgl §1kor-11-28, §gal-6-4
+ }
+#}
 #2kor-13-11 {
  {
   <i>Einheit</i>: <a class='kom' href='#Ijoh-17-23'>Joh&nbsp;17,23</a>.
@@ -76268,7 +76283,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-6-4 {
  {
-  <i>jeder prüfe sein eigenes Werk</i> vgl §1kor-3-13
+  <i>jeder prüfe sein eigenes Werk</i> vgl §1kor-3-13, §1kor-11-28, §2kor-13-5
  }
 #}
 #gal-6-5 {
@@ -76447,8 +76462,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Vorsatz
  }
  {
-  Vgl <a class='kom' href='#Iapg-20-27'>Apg&nbsp;20,27</a> wo Paulus den Ätesten von Ephesus sagt, dass er ihnen den ganzen
-  Ratschluss Gottes verkündigt hat.
+  Vgl §+apg-20-27 wo Paulus den Ätesten von Ephesus sagt, dass er ihnen den ganzen Ratschluss Gottes verkündigt hat.
+ }
+ {
+  <i>Erbteil</i> vgl §eph-5-5
  }
 #}
 #eph-1-13 {
@@ -76633,7 +76650,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-2-17 {
  {
-  Vgl <a class='kom' href='#Ijes-57-19'>Jes&nbsp;57,19</a>.
+  Vgl §+jes-57-19.
+ }
+ {
+  <i>Er verkündigte Frieden</i> vgl eph-4-3, §eph-6-15
  }
 #}
 #eph-2-18 {
@@ -76670,7 +76690,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-2-21 {
  {
-   <i>der ganze Bau … ein heiliger → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel</i> §+1kor-3-16 
+   <i>der ganze Bau … ein heiliger → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel</i> §+1kor-3-16.
+   <br>
+  Der Bau wächst, vgl §eph-4-16
  }
  {
   Vgl §1petr-2-5
@@ -76869,7 +76891,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-4-8 {
  {
-  §ps-68-19
+  <i>Darum sagt er</i> vgl §eph-5-14
+ }
+ {
+  Verweis: §ps-68-19
  }
 #}
 #eph-4-9 {
@@ -76923,6 +76948,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Christus, das Haupt</i>: <a class='kom' href='#Ieph-1-10'>Eph&nbsp;1,10</a>.
  }
 #}
+#eph-4-16 {
+ {
+  <i>Wachstum</i>: §eph-2-21, §kol-2-19
+ }
+#}
 #eph-4-17 {
  {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/1petr_4.html#v2'>1.&nbsp;Petr&nbsp;4,2</a>.
@@ -76950,7 +76980,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-4-25 {
  {
-  <i>Der Leib mit vielen Gliedern</i>: <a class='kom' href='#Iroem-12-4'>Röm&nbsp;12,4</a>.
+  <i>Der Leib mit vielen Gliedern</i>: §+roem-12-4, §eph-5-30
  }
 #}
 #eph-4-26 {
@@ -77026,7 +77056,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-5-5 {
  {
-   Vg, §+1kor-5-11 und §+1kor-6-9.
+   Vgl §+1kor-5-11 und §+1kor-6-9.
+ }
+ {
+  <i>Erbteil</i> vgl §eph-1-11
  }
 #}
 #eph-5-6 {
@@ -77075,6 +77108,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-5-11 {
  {
   <i>Werke der Finsternis</i>: vgl <a class='kom' href='#Iroem-13-12'>R&ouml;m&nbsp;13,12</a>.
+ }
+#}
+#eph-5-14 {
+ {
+  <i>Deshalb sagt er</i> vgl §eph-4-8
  }
 #}
 #eph-5-16 {
@@ -77158,7 +77196,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   aus dem nächsten Vers in der Schöpfungsgeschichte ist (<a href='http://bibel.renenyffenegger.ch/1mo_2.html#v24'>1.&nbsp;Mo&nbsp;2,24</a>).
  }
  {
-  <i>Der Leib mit vielen Gliedern</i>: <a class='kom' href='#Iroem-12-4'>Röm&nbsp;12,4</a>.
+  <i>Der Leib mit vielen Gliedern</i>: §+roem-12-4, §eph-4-25
  }
  {
    <span class='gt'>In NA fehlt «von seinem Fleisch und von seinen Gebeinen».</span>
