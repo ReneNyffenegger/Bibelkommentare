@@ -57005,6 +57005,9 @@
 #}
 #mt-23-6 {
  {
+  <i>Sie lieben den ersten Platz bei den Abendessen</i>: §lk-20-46
+ }
+ {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen: in Elb05 mit «Gastmählern» in Sch2K mit «Mahlzeiten», in KJV mit «feasts» übersetzt.
  }
 #}
@@ -61083,6 +61086,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Mittagessen
  }
 #}
+#lk-11-43 {
+ {
+  <i>ihr liebt den ersten Sitz in den → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge[Synagogen]</i> §lk-20-46
+ }
+#}
 #lk-11-46 {
  {
   <i>Bürde</i>: <a class='kom' href='#Imt-11-30'>Mt&nbsp;11,30</a>.
@@ -61809,6 +61817,9 @@
  }
 #}
 #lk-20-46 {
+ {
+  Sie lieben den ersten Sitz in den → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge[Synagogen]: §lk-11-43, §mt-23-6
+ }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen
  }
