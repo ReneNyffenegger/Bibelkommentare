@@ -891,6 +891,11 @@
   Simon von Kyrene: <a class='kom' href='#Ilk-23-26'>Lk&nbsp;23,26</a>.
  }
 #}
+#1mo-3-18 {
+ {
+  Land, das <i>Dornen und Disteln trägt</i> vgl §hebr-6-8
+ }
+#}
 #1mo-3-19 {
  {
   <i>Zu Staub zurückkehren</i> vgl §pred-3-20, §pred-12-7
@@ -18643,7 +18648,7 @@
 #}
 #5mo-6-25 {
  {
-  Vgl mit der Gerechtigkeit aus Gnade (<a class='kom' href='#Iroem-3-21'>Röm&nbsp;3,21</a>).
+  Vgl mit *Gottes Gerechtigkeit aus Gnade* (§+roem-3-21).
   S.a.
   <a href='http://bibel.renenyffenegger.ch/ps_18.html#v21'>Ps 18,21-25</a>,
   <a href='http://bibel.renenyffenegger.ch/ps_25.html#v10'>Ps&nbsp;25,10</a>
@@ -45619,7 +45624,7 @@
 #}
 #jes-52-5 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/roem_2.html#v24'>Röm&nbsp;2,24</a>, Hesekiel 36 (TODO: Ab ca Vers 20?)
+  <i>wird mein Name gelästert</i> vgl §roem-2-24, §hes-36-20-ff
  }
 #}
 #jes-52-6 {
@@ -50125,6 +50130,11 @@
 #hes-36-5 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Edom/index#gericht-ueber-edom
+ }
+#}
+#hes-36-20 {
+ {
+  <i>sie entweihten meinen heiligen Namen</i> vgl §jes-52-5
  }
 #}
 #hes-36-23 {
@@ -70511,10 +70521,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
  }
  {
-  <i>Gottes Kraft</i>: das Evangelium (hier),
-  §roem-15-13 (Kraft des Heiligen Geistes [TODO: auch §roem-15-19?]),
-  <a href='http://bibel.renenyffenegger.ch/1kor_2.html#v4'>1.&nbsp;Kor&nbsp;2,4-5</a>,
+  <i>Gottes Kraft</i>: das Evangelium (hier), §roem-15-13 (Kraft des Heiligen Geistes [TODO: auch §roem-15-19?]),
   <br>
+  §1kor-2-4-5
+ }
+ {
   <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v5'>1.&nbsp;Petr&nbsp;1,5</a> (In Seiner Kraft bewahrt werden)
          <br> vgl mit Vers 20
          <br>TODO Vgl mit der <i>Kraft unseres Herrn Jesus Christus</i>: <a href='http://bibel.renenyffenegger.ch/1kor_5.html#v4'>1.&nbsp;Kor&nbsp;5,4</a>.
@@ -70554,12 +70565,14 @@
   <i>Wahrheit</i>: vgl §Vroem-1-25 und §roem-2-2, §roem-3-7.
  }
  {
-  <i>Ungerechtigkeit</i> wird in Vers 29 als erstes aufgezählt.
+  <i>Ungerechtigkeit</i> wird in §Vroem-1-29 als erstes aufgezählt.
  }
 #}
 #roem-1-19 {
  {
   Die <i>Weisheit Gottes</i> gehört offenbar nicht zu dem Erkennbaren: <a href='http://bibel.renenyffenegger.ch/1kor_2.html#v8'>1. Kor 2,8/11/14</a>.
+  <br>
+   Beachte, dass <i>sie</i> sich als Weise ausgaben (§Vroem-1-22).
  }
 #}
 #roem-1-20 {
@@ -70575,7 +70588,10 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
  }
  {
-  TODO: Vgl <a href='http://bibel.renenyffenegger.ch/roem_2.html#v1'>Röm&nbsp;2,1</a> (Strongs 379).
+  <i>Göttlichkeit</i> (<span class='gr'>θειότης</span>, Strongs 2305, 1x).
+ }
+ {
+  <i>unentschuldbar</i>: <span class='gr'>ἀναπολόγητος</span>, Strongs 379, 2x, vgl §roem-2-1
  }
 #}
 #roem-1-21 {
@@ -70583,10 +70599,10 @@
   <i>Dankbarkeit</i>: vgl §1thes-5-18.
  }
  {
-  <i>Gott kennend</i> vgl §2thes-1-8
+  <i>Gott kennend</i> vgl §2thes-1-8. Sie erkennen auch <i>Gottes gerechtes Urteil</i> (§Vroem-1-32).
  }
  {
-  <i>verfinstertes unverständiges Herz</i> vgl eph-4-18 
+  <i>verfinstertes unverständiges Herz</i> vgl §eph-4-18 
  }
 #}
 #roem-1-23 {
@@ -70604,11 +70620,10 @@
 #}
 #roem-1-25 {
  {
-  <i>Gott die Ehre geben</i>: <a class='kom' href='#Iroem-4-20'>Röm&nbsp;4,20</a>.
+  <i>Gott die Ehre geben</i>: §+roem-4-20.
  }
  {
-  <i>der gelobt ist in Ewigkeit, Amen</i>: vgl <a href='http://bibel.renenyffenegger.ch/roem_9.html#v5'>Röm&nbsp;9,5</a>,
-  <a href='http://bibel.renenyffenegger.ch/2kor_11.html#v31'>2.&nbsp;Kor&nbsp;11,31</a>
+  <i>welcher gepriesen ist in Ewigkeit. Amen.</i>: vgl §roem-9-5, §2kor-11-31
  }
 #}
 #roem-1-26 {
@@ -70623,7 +70638,7 @@
 #}
 #roem-1-28 {
  {
-   TODO: beachte das Wortspiel: <i>Anerkennung</i> ist <span class='gr'>δοκιμάζω</span>, <i>unwürdig</i> ist <span class='gr'>ἀδόκιμος</span>.
+   Beachte das Wortspiel: <i>für gut finden</i> ist <span class='gr'>δοκιμάζω</span> (Strongs 1381), <i>verworfen</i> ist <span class='gr'>ἀδόκιμος</span> (Strongs 96).
  }
 #}
 #roem-1-29 {
@@ -70655,6 +70670,9 @@
 #}
 #roem-1-32 {
  {
+  <i>wiewohl sie Gottes gerechtes Urteil erkennen</i> vgl §roem-2-2
+ }
+ {
   <i>des Todes würdig sein</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
  }
  {
@@ -70672,8 +70690,14 @@
   <br>
   Siehe auch §roem-9-20 und §1tim-6-11.
  }
+ {
+  <i>nicht zu entschuldigen</i>: <span class='gr'>ἀναπολόγητος</span>, Strongs 379, 2x, vgl §roem-1-20, §Vroem-2-15.
+ }
 #}
 #roem-2-2 {
+ {
+  <i>Wir wissen aber, daß das Gericht Gottes …</i> vgl §roem-1-21
+ }
  {
   <i>Wahrheit</i>: §+roem-1-18.
  }
@@ -70683,7 +70707,7 @@
   Beachte, dass im Griechischen das Pronomen «du» explizit geschrieben steht, also etwa «dass <i>du</i> dem Gericht Gottes entfliehen wirst».
  }
  {
-  Eventuell könnte man das <i>denkst du</i> mit «rechnest du wirklich» übersetzten? (http://linguascriptura.org/forum_de/viewtopic.php?f=7&amp;t=55)
+  Eventuell könnte man das <i>denkst du</i> mit «rechnest du wirklich» übersetzten? (<a href='http://linguascriptura.org/forum_de/viewtopic.php?f=7&amp;t=55'>linguascriptura.org</a>)
  }
 #}
 #roem-2-4 {
@@ -70747,10 +70771,18 @@
   <i>Hörer und Täter des Gesetzes</i> Vgl §jak-1-22 (Hörer und Täter des Wortes).
  }
 #}
+#roem-2-15 {
+ {
+  <i>entschuldigen</i> <span class='gr'>ἀπολογέομαι</span> (Strongs 626) vgl §Vroem-2-1.
+ }
+#}
 #roem-2-16 {
  {
   <i>Mein Evangelium</i>: vgl §roem-16-25 und §2tim-2-8. «Unser Evangelium»: §2thes-2-14.
   S.a. §+roem-1-1.
+ }
+ {
+  <i>das Verborgene</i>: <span class='gr'>κρυπτός</span> (Strongs 2927). In KJV mit «the secrets» übersetzt. Vgl §Vroem-2-29.
  }
 #}
 #roem-2-17 {
@@ -70762,11 +70794,6 @@
 #roem-2-18 {
  {
   <i>prüfen, worauf es ankommt</i> vgl §roem-12-2
- }
-#}
-#roem-2-21 {
- {
-  TODO: Strongs 2784 kommt in diesem Vers vor.
  }
 #}
 #roem-2-22 {
@@ -70803,8 +70830,8 @@
    <i>Lob</i>: Beachte, Juda (wovon Jude abstammt) bedeutet Lob, oder preisen (§1mo-29-35). Elberfelder übersetzt mit «Anerkennung», KJV mit «praise».
  }
  {
-  <i>Im Verborgenen</i>: <span class='gr'>ἐν τῷ κρυπτῷ</span>, derselbe Ausdruck, wie zum Beispiel in <a href='http://bibel.renenyffenegger.ch/mt_6.html#v9'>Mt&nbsp;6,9</a>. In Schlachter und Elberfelder mit «innerlich», in
-  KJV mit «inwardly» übersetzt.
+  <i>Im Verborgenen</i>: <span class='gr'>ἐν τῷ κρυπτῷ</span>, derselbe Ausdruck, wie zum Beispiel in §mt-6-4-ff. In Schlachter und Elberfelder mit «innerlich», in KJV mit «inwardly» übersetzt.
+  Vgl §Vroem-2-16.
  }
 #}
 @}
@@ -70895,7 +70922,7 @@
   Es scheint, dass Paulus ab §+roem-1-17 bis zum vorangehenden Vers die <i>Ungerechtigkeit des Menschen</i> beschrieben hat, <i>jetzt aber</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit.
  }
  {
-  TODO: Vgl <a class='kom' href='#I5mo-6-25'>5.&nbsp;Mo&nbsp;6,25</a>
+  Vgl. mit «unserer Gerechtigkeit» wenn das Gesetz gehalten wird: §+5mo-6-25
  }
 #}
 #roem-3-22 {
@@ -71471,7 +71498,7 @@
 #}
 #roem-9-5 {
  {
-   <i>hochgelobter Gott in Ewigkeit, Amen</i>: vgl <a href='http://bibel.renenyffenegger.ch/roem_1.html#v25'>Röm&nbsp;1,25</a>.
+   <i>Gott, gepriesen in Ewigkeit. Amen.</i>: vgl §roem-1-25.
  }
 #}
 #roem-9-6 {
@@ -72827,7 +72854,7 @@
   Vgl §+lk-9-21
  }
  {
-  TODO: Was über Gott bekannt ist: <a class='kom' href='#Iroem-1-19'>Röm&nbsp;1,19</a>.
+  Vgl mit dem <i>von Gott erkennbaren</i>: §+roem-1-19.
  }
 #}
 #1kor-2-10 {
@@ -82610,6 +82637,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-6-6 {
  {
   TODO: Vgl mit <a class='kom' href='#Ihebr-10-29'>Hebr&nbsp;10,29</a>.
+ }
+#}
+#hebr-6-8 {
+ {
+  Land, das <i>Dornen und Disteln trägt</i> vgl §1mo-3-18
  }
 #}
 #hebr-6-9 {
