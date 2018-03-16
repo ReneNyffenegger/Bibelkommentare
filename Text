@@ -14849,12 +14849,17 @@
 #}
 #4mo-1-6 {
  {
-  Vgl <i>Zuri-Schaddai</i> und <i>Ammi-Schaddai</i> (Vers 12).
+  Vgl <i>Zuri-Schaddai</i> und <i>Ammi-Schaddai</i> (§V4mo-1-6).
  }
 #}
 #4mo-1-10 {
  {
   <i>Gamliel</i>: vgl → biblisches/Personen/Gamaliel
+ }
+#}
+#4mo-1-14 {
+ {
+  Eljasaph wird in §4mo-2-14 der Sohn Deghuels genannt.
  }
 #}
 #4mo-1-16 {
@@ -15012,24 +15017,85 @@
   §+3mo-24-10
  }
 #}
+#4mo-2-3 {
+ {
+  §4mo-1-7
+ }
+#}
+#4mo-2-5 {
+ {
+  §4mo-1-8
+ }
+#}
+#4mo-2-7 {
+ {
+  §4mo-1-9
+ }
+#}
 #4mo-2-9 {
  {
   Der erste (?) Aufbruch (vom <i>20.2. 2 n.Ex</i>) wird in <a href='http://bibel.renenyffenegger.ch/4mo_10.html#v11'>4.&nbsp;Mo&nbsp;10,11</a>ff
   beschrieben.
  }
 #}
-#4mo-2-14 {
+#4mo-2-10 {
  {
-  TODO: Eljasaph wird sonst der Sohn <i><b>D</b>eguels</i> genannt (<a href='http://bibel.renenyffenegger.ch/4mo_1.html#v14'>4.&nbsp;Mo&nbsp;1,14</a>).
-  <br>TODO: <b>R</b> und <b>D</b> (<a class='kom' href='#I1mo-10-4'>1.&nbsp;Mo&nbsp;10,4</a>)
+  Gegen <i>Süden</i> lagerten sich auch die Söhne Kahats, §4mo-3-29
  }
  {
-  Reguel ist auch der Name des Vaters von Hobab (<a href='http://bibel.renenyffenegger.ch/4mo_10.html#v29'>4.&nbsp;Mo&nbsp;10,29</a>).
+  §4mo-1-5
+ }
+#}
+#4mo-2-12 {
+ {
+  §4mo-1-6
+ }
+#}
+#4mo-2-14 {
+ {
+  Eljasaph wird in §4mo-1-14 der Sohn Reghuels genannt.
+ }
+ {
+  <br>TODO: <b>R</b> und <b>D</b> (§+1mo-10-4)
+ }
+ {
+  Reguel ist auch der Name des Vaters von Hobab (§4mo-10-29).
  }
 #}
 #4mo-2-17 {
  {
   Siehe <a class='kom' href='#I1mo-49-7'>1.&nbsp;Mo&nbsp;49,7</a>.
+ }
+#}
+#4mo-2-18 {
+ {
+  §4mo-1-10 
+ }
+ {
+  Gegen <i>Westen</i> lagerten auch die Gersoniter, §4mo-3-23
+ }
+#}
+#4mo-2-20 {
+ {
+   §4mo-1-10
+ }
+#}
+#4mo-2-25 {
+ {
+  Gegen <i>Norden</i> lagerten auch die Merariter, §4mo-3-35
+ }
+ {
+  §4mo-1-12
+ }
+#}
+#4mo-2-27 {
+ {
+  §4mo-1-13
+ }
+#}
+#4mo-2-29 {
+ {
+  §4mo-1-15
  }
 #}
 #4mo-2-32 {
@@ -15039,7 +15105,15 @@
 #}
 @}
 @4. Mose 3 {
+#4mo-3-4 {
+ {
+  → biblisches/Personen/Nadab-und-Abihu
+ }
+#}
 #4mo-3-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi
+ }
  {
   TODO: beschreibt <a href='http://bibel.renenyffenegger.ch/4mo_8.html#v14'>4.&nbsp;Mo&nbsp;8,14</a> dasselbe Ereignis?
  }
@@ -15118,14 +15192,34 @@
   Machli war (auch?) der Sohn Muschis (<a class='kom' href='#I1chr-23-21'>1.&nbsp;Chr&nbsp;23,21</a>).
  }
 #}
+#4mo-3-23 {
+ {
+  Gegen <i>Westen</i> lagerte auch das Panier des Lagers Ephraim, §4mo-2-18
+ }
+#}
 #4mo-3-25 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
+  Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang ist auch in der Hut der Kahatiter, §V4mo-3-31
+ }
+#}
+#4mo-3-29 {
+ {
+  Gegen <i>Süden</i> lagerte sich auch das Panier des Lagers Rubens, §4mo-2-10
+ }
+#}
+#4mo-3-31 {
+ {
+  Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang ist auch in der Hut der Gersoniter, §V4mo-3-25
  }
 #}
 #4mo-3-32 {
  {
   <i>Eleasar</i> siehe <a class='kom' href='#I2mo-6-23'>2.&nbsp;Mo&nbsp;6,23</a>.
+ }
+#}
+#4mo-3-35 {
+ {
+  Gegen <i>Norden</i> lagerte auch auch das Panier des Lagers Dan, §4mo-2-25
  }
 #}
 #4mo-3-38 {
@@ -15134,6 +15228,9 @@
  }
 #}
 #4mo-3-39 {
+ {
+  Beachte, 7500 (§V4mo-3-22) + 8600 (§V4mo-3-28) + 6200 (§V4mo-3-34) = 22300.
+ }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Befehl-des-HERRN.
  }
