@@ -14632,6 +14632,9 @@
   So wie das Schwert Adam daran hinderte, nach Eden zurückzukehren (§1mo-3-24), so sorgt das Schwert auch hier, dass die Israeliten nicht ins Land zurückkehren.
  }
  {
+  <i>unter die Nationen zerstreuen</i>: §5mo-28-64.
+ }
+ {
   TODO: Ist dies die erste Ankündigung, dass der HERR Israel verstreuen will?
   <br>Vgl mit <a href='http://bibel.renenyffenegger.ch/hes_20.html#v23'>Hes&nbsp;20,23</a>: der HERR will Israel verstreuen, weil
   die Kinder der aus Ägypten Ausgezogenen die Rechtsordnungen nicht hielten, die Sabbate entheiligten und ihre Augen nach
@@ -19954,6 +19957,11 @@
 #5mo-28-62 {
  {
   → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
+ }
+#}
+#5mo-28-64 {
+ {
+  <i>unter alle Völker zerstreuen</i> §3mo-26-33
  }
 #}
 #5mo-28-68 {
@@ -64803,10 +64811,13 @@
 @Johannes 16 {
 #joh-16-5 {
  {
-  Vgl mit <a class='kom' href='#Ijoh-7-33'>Joh&nbsp;7,33</a>.
+  Vgl mit §+joh-7-33.
  }
  {
-  <a class='kom' href='#Ijoh-14-5'>Joh&nbsp;14,5</a>.
+  §+joh-14-5.
+ }
+ {
+  <i>Jetzt ber gehe ich hin zu dem…</i> §joh-17-13
  }
 #}
 #joh-16-13 {
@@ -64882,6 +64893,11 @@
  }
  {
   <i>Sohn des Verderbens</i>: <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v3'>2.&nbsp;Thes&nbsp;2,3</a>.
+ }
+#}
+#joh-17-13 {
+ {
+  <i>Jetzt aber komme ich zu dir…</i> §joh-16-5
  }
 #}
 #joh-17-15 {
@@ -70614,8 +70630,8 @@
 #}
 #roem-1-16 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium,
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
+  Vgl die Themen <i>ich schäme mich nicht</i> <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium</i> und 
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft</i> mit §2tim-1-8
  }
  {
   <i>Gottes Kraft</i>: das Evangelium (hier), §roem-15-13 (Kraft des Heiligen Geistes [TODO: auch §roem-15-19?]),
@@ -70942,6 +70958,12 @@
  {
   <i>Unglaube</i>: <span class='gr'>ἀπιστία</span>, <i>Treue</i>: <span class='gr'>πίστις</span>
  }
+ {
+  <i>Was denn?</i>: <span class='gr'>τί γὰρ</span>. Ebenso in §phil-1-18
+ }
+ {
+  §roem-11-29: Die Gnadengaben und die Berufung Gottes sind unbereubar.
+ }
 #}
 #roem-3-4 {
  {
@@ -71013,13 +71035,16 @@
 #}
 #roem-3-21 {
  {
-  <i>Gesetz und Propheten</i>: §roem-1-2
+  <i>bezeugt durch das Gesetz und die Propheten</i> vgl §roem-1-2
  }
  {
   Es scheint, dass Paulus ab §+roem-1-17 bis zum vorangehenden Vers die <i>Ungerechtigkeit des Menschen</i> beschrieben hat, <i>jetzt aber</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit.
  }
  {
   Vgl. mit «unserer Gerechtigkeit» wenn das Gesetz gehalten wird: §+5mo-6-25
+ }
+ {
+   → biblisches/Bücher/Paulus/Römerbrief#roemer-jetzt-aber[Jetzt aber im Römerbrief] 
  }
 #}
 #roem-3-22 {
@@ -71349,6 +71374,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
+ {
+  <i>→ biblisches/Bücher/Paulus/Römerbrief#roemer-jetzt-aber[Jetzt aber] von der Sünde freigemacht</i> vgl §roem-7-6
+ }
 #}
 #roem-6-23 {
  {
@@ -71375,6 +71403,9 @@
 #roem-7-6 {
  {
   <i>Neuheit</i>: <span class='gr'>καινότης</span> (Strongs 2538, 2x): Sch2K übersetzt mit «im neuen Wesen», Elberfelder mit «in dem Neuen», KJV mit «newness». Vgl §roem-6-4
+ }
+ {
+  <i>→ biblisches/Bücher/Paulus/Römerbrief#roemer-jetzt-aber[Jetzt aber] von dem Gesetz losgemacht</i> vgl §roem-6-22
  }
 #}
 #roem-7-7 {
@@ -71925,8 +71956,14 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe
  }
+ {
+  Vgl §roem-3-3-4
+ }
 #}
 #roem-11-30 {
+ {
+  → biblisches/Bücher/Paulus/Römerbrief#roemer-jetzt-aber[Jetzt aber im Römerbrief]
+ }
  {
   TODO: <i>Unglaube</i> vs <i>Ungehorsam</i>: siehe <a class='kom' href='#Ieph-2-2'>Eph&nbsp;2,2</a>.
   <br>Hat das vielleicht etwas zu tun mit dem (in diesem Brief erwähnten?) Glaubensgehorsam?
@@ -72406,6 +72443,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/index#dienst-fuer-die-heiligen
  }
  {
+  → biblisches/Bücher/Paulus/Römerbrief#roemer-jetzt-aber[Jetzt aber im Römerbrief]
+ }
+ {
   TODO: Möglicherweise wird der Römerbrief in ca <a class='kom' href='#Iapg-20-22'>Apg&nbsp;20,22</a> geschrieben?
  }
  {
@@ -72647,6 +72687,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/Paulus
  }
  {
+  <i>Geheimnis, das … verschwiegen war, jetzt aber geoffenbart</i> vgl §kol-1-26, §2tim-2-10
+ }
+ {
   Vgl <i>Von ewigen Zeiten verschwiegen</i> mit <a class='kom' href='#Iapg-3-18'>Apg&nbsp;3,18</a> («Was Gott durch den Mund aller seiner Propheten verkündigt hat).
  }
  {
@@ -72667,6 +72710,9 @@
 #roem-16-26 {
  {
   <i>Glaubensgehorsam</i> §+roem-1-5
+ }
+ {
+  → biblisches/Bücher/Paulus/Römerbrief#roemer-jetzt-aber[Jetzt aber im Römerbrief]
  }
  {
   <i>geoffenbart durch prophetische Schriften</i> vgl §roem-1-2
@@ -77105,7 +77151,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
  {
-  <i>seinen heiligen Aposteln und Propheten im Geist geoffenbart</i>: Vgl §kol-1-26
+  <i>seinen heiligen Aposteln und → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] im Geist geoffenbart</i>: Vgl §kol-1-26
  }
  {
   <i>geoffenbart seinen heiligen Aposteln und Propheten im Geist</i> vgl §+roem-1-2
@@ -77888,6 +77934,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <span class='gt'>TR und NA vertauschen die Anfänge der Verse 16 und 17.</span>
  }
 #}
+#phil-1-18 {
+ {
+   <i>Was denn?</i>: <span class='gr'>τί γὰρ</span>. Ebenso in §roem-3-3
+ }
+#}
 #phil-1-19 {
  {
   TODO: Beachte <i>(Er-)Rett(ung/er)</i> im Philipperbrief <a href='http://bibel.renenyffenegger.ch/phil_1.html#v28'>Phil&nbsp;1,28</a>, <a href='http://bibel.renenyffenegger.ch/phil_2.html#v12'>Phil&nbsp;2,12</a>,
@@ -78589,6 +78640,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #kol-1-27 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
+ }
+ {
+   <i>Das Geheimnis…, das verborgen war, jetzt aber … geoffenbart wordent ist</i> vgl §roem-16-25-26, §2tim-1-10
  }
 #}
 #kol-1-28 {
@@ -81164,7 +81218,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-1-8 {
  {
-  → biblisches/Personen/Paulus/Gefangener, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
+  Vgl die drei Themem <i>schäme dich nicht</i>, <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium</i> und 
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft</i> mit §roem-1-16
+ }
+ {
+  → biblisches/Personen/Paulus/Gefangener
  }
 #}
 #2tim-1-9 {
