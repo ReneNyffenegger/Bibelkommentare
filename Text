@@ -7489,6 +7489,11 @@
   Die vier Generationen von §1mo-15-16 beziehen sich auf Levi, Kahat, Amram und Mose.
  }
 #}
+#2mo-6-18 {
+ {
+  §4mo-3-19, §1chr-5-28, §1chr-6-3, §1chr-23-12
+ }
+#}
 #2mo-6-20 {
  {
   137 jährig gestorben: siehe <a class='kom' href='#I1mo-23-1'>1.&nbsp;Mo&nbsp;23,1</a>.
@@ -7499,12 +7504,18 @@
 #}
 #2mo-6-21 {
  {
-  <i>Korah</i>: <a class='kom' href='#I1mo-36-5'>1.&nbsp;Mo&nbsp;36,5</a>.
+  §1chr-23-18 erwähnt zusätzlich <i>Schelomith</i> als einen Sohn von Jizhar.
+ }
+ {
+  <i>Korah</i>: §+1mo-36-5.
  }
 #}
 #2mo-6-22 {
  {
   <i>Misael und Elzaphan</i> müssen → biblisches/Personen/Nadab-und-Abihu nach dem Darbringen fremden Feuers wegtragen §3mo-10-4
+ }
+ {
+  §1chr-23-20
  }
 #}
 #2mo-6-23 {
@@ -8190,7 +8201,7 @@
  {
   → biblisches/Exodus#summe-der-kinder-israel
   <br>
-  Vgl die 600&nbsp;000 Mann mit den 603&nbsp;550 Mann in §2mo-38-26.
+  Vgl die <i>600&nbsp;000 Mann zu Fuss</i> mit den 603&nbsp;550 Mann in §2mo-38-26 und den 600&nbsp;000 Mann zu Fuss in §4mo-11-21.
  }
 #}
 #2mo-12-38 {
@@ -15131,6 +15142,11 @@
   <i>Du sollst die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] dem → biblisches/Personen/Aaron/Söhne[Aaron und seinen Söhnen] geben</i> §4mo-8-19
  }
 #}
+#4mo-3-10 {
+ {
+  → biblisches/Personen/Aaron/Söhne#soehne-aarons-die-priester
+ }
+#}
 #4mo-3-12 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi#levi-mitte-volk[Levi aus der Mitte des Volkes genommen], vgl §+1mo-49-7
@@ -15143,7 +15159,7 @@
 #}
 #4mo-3-15 {
  {
-  Der 'Rest' Israels wurde ab 20 Jahre gemustert: <a href='http://bibel.renenyffenegger.ch/4mo_1.html#v2'>4.&nbsp;Mo&nbsp;1,2-3</a>.
+  Die anderen Stämme wurden ab 20 Jahre gemustert: §4mo-1-2-3.
  }
  {
   <table summary='Musterung Levi'>
@@ -15190,6 +15206,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Befehl-des-HERRN.
  }
 #}
+#4mo-3-19 {
+ {
+  §2mo-6-18, §1chr-23-12
+ }
+#}
 #4mo-3-20 {
  {
   Machli war (auch?) der Sohn Muschis (<a class='kom' href='#I1chr-23-21'>1.&nbsp;Chr&nbsp;23,21</a>).
@@ -15199,10 +15220,18 @@
  {
   Gegen <i>Westen</i> lagerte auch das Panier des Lagers Ephraim, §4mo-2-18
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
 #}
 #4mo-3-25 {
  {
-  Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang ist auch in der Hut der Kahatiter, §V4mo-3-31
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang: §V4mo-3-31
+ }
+#}
+#4mo-3-28 {
+ {
+  <i>welche der Hut des Heiligtums warteten</i> §1chr-23-32
  }
 #}
 #4mo-3-29 {
@@ -15212,7 +15241,7 @@
 #}
 #4mo-3-31 {
  {
-  Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang ist auch in der Hut der Gersoniter, §V4mo-3-25
+  Bei diesem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang handelt es sich wohl um den Vorhang <i>im Innern</i> des Heiligtums, vgl §V4mo-3-25
  }
 #}
 #4mo-3-32 {
@@ -15240,7 +15269,7 @@
 #}
 #4mo-3-46 {
  {
-  TODO: siehe <a href='http://bibel.renenyffenegger.ch/2mo_30.html#v12'>2.&nbsp;Mo&nbsp;30,12</a> ff.
+  §2mo-30-12-ff
  }
 #}
 #4mo-3-47 {
@@ -15763,6 +15792,11 @@
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels,
    → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+#}
+#4mo-11-21 {
+ {
+  <i>600&nbsp;000 Mann zu Fuss</i>: §2mo-12-37, → biblisches/Exodus#summe-der-kinder-israel
  }
 #}
 #4mo-11-24 {
@@ -31282,11 +31316,31 @@
   Ebenso <i>Urija</i> aus <a href='http://bibel.renenyffenegger.ch/2koe_16.html#v10'>2.&nbsp;Kö&nbsp;16,10</a>.
  }
 #}
+#1chr-5-28 {
+ {
+  §+2mo-6-18
+ }
+#}
 @}
 @1. Chronik 6 {
 #1chr-6-1 {
  {
   <i>Die Söhne Levis</i>: <a class='kom' href='#I1chr-5-27'>1.&nbsp;Chr&nbsp;5,27</a>.
+ }
+#}
+#1chr-6-3 {
+ {
+  §+2mo-6-18
+ }
+#}
+#1chr-6-4 {
+ {
+  Der Neffe von <i>Machli</i> heisst auch Machli: §V1chr-6-32
+ }
+#}
+#1chr-6-5 {
+ {
+  Der Cousin von Jachath heisst ebenfalls Jachath, §1chr-23-10
  }
 #}
 #1chr-6-13 {
@@ -31322,6 +31376,11 @@
 #1chr-6-30 {
  {
   TODO: Ist <i>Haschabja</i> derselbe wie <i>Hasabja</i> in <a href='http://bibel.renenyffenegger.ch/neh_12.html#v21'>Neh&nbsp;12,21</a>?
+ }
+#}
+#1chr-6-32 {
+ {
+  Der Onkel von <i>Machli</i> heisst auch Machli: §V1chr-6-4
  }
 #}
 #1chr-6-33 {
@@ -32192,9 +32251,35 @@
    → biblisches/Personen/Haran
  }
 #}
+#1chr-23-10 {
+ {
+  Der Cousin von Jachath heisst ebenfalls Jachath, §1chr-6-5
+ }
+#}
+#1chr-23-12 {
+ {
+  §2mo-6-18
+ }
+#}
+#1chr-23-13 {
+ {
+  → biblisches/Personen/Aaron/Söhne
+ }
+#}
 #1chr-23-14 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Mann-Gottes
+ }
+#}
+#1chr-23-18 {
+ {
+  §2mo-6-21 nennt als Söhne von Jizhar: Korah, Nepheg und Sichri.
+  Möglicherweise sollte Schelomith, wie die anderen Häupter Schebuel und Rechabja in die 28. Generation angesiedelt werden.
+ }
+#}
+#1chr-23-20 {
+ {
+  §2mo-6-22, §1chr-24-24
  }
 #}
 #1chr-23-21 {
@@ -32228,7 +32313,7 @@
 #}
 #1chr-23-32 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+  <i>sie warteten der Hut des → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft[Zeltes der Zusammenkunft] …</i> §+4mo-3-28
  }
 #}
 @}
@@ -32261,6 +32346,11 @@
 #1chr-24-20 {
  {
   Ein (anderer) <i>Jechdeja</i> (ein Meroniter) war Hirte von David: <a class='kom' href='#I1chr-27-29'>1.&nbsp;Chr&nbsp;27,29</a>.
+ }
+#}
+#1chr-24-24 {
+ {
+  §1chr-23-20
  }
 #}
 #1chr-24-27 {
