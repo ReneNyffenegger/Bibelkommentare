@@ -302,6 +302,9 @@
 #}
 #1mo-1-11 {
  {
+  <i>Erde und Kraut</i>: vgl §ps-72-16
+ }
+ {
   Vgl <a href='http://bibel.renenyffenegger.ch/1mo_2.html#v5'>1.&nbsp;Mo&nbsp;2,5</a>.
  }
  {
@@ -37684,6 +37687,9 @@
  {
   Der Rest dieses Psalmes scheint §2sam-22-3-ff zu entsprechen.
  }
+ {
+  <i>Fels und Burg</i>: §ps-31-4, §ps-71-3
+ }
 #}
 #ps-18-6 {
  {
@@ -37802,7 +37808,7 @@
 @Psalm 22 {
 #ps-22-2 {
  {
-  <i>Mein Gott, mein Gott, warum hast du mich verlassen</i> vgl §mt-27-46, §mk-15-34, §joh-16-32
+  <i>Mein Gott, mein Gott, warum hast du mich verlassen</i> vgl §mt-27-46, §mk-15-34, §joh-16-32, §ps-71-11
  }
 #}
 #ps-22-19 {
@@ -38082,6 +38088,11 @@
 }
 { 31-40
 @Psalm 31 {
+#ps-31-4 {
+ {
+  <i>Fels und Burg</i>: §ps-18-3, §ps-71-3
+ }
+#}
 #ps-31-6 {
  {
   Vgl <a class='kom' href='#Ilk-23-46'>Lk&nbsp;23,46</a>.
@@ -38259,6 +38270,11 @@
 #ps-35-21 {
  {
   <i>Haha</i>: <a class='kom' href='#Ihi-39-25'>Hi&nbsp;39,25</a>.
+ }
+#}
+#ps-35-26 {
+ {
+  <i>Unglück</i> Vgl §ps-38-13, §ps-40-15, §ps-70-3
  }
 #}
 @}
@@ -39183,9 +39199,29 @@
 }
 { 71-80
 @Psalm 71 {
+#ps-71-1 {
+ {
+  Der Psalm beginnt mit <i>Lass mich nnimmer beschämt werden</i> und endet mit «denn beschämt … die mein Unglück suchen.» §Vps-71-24, vgl §Vps-71-13.
+ }
+#}
 #ps-71-2 {
  {
   <i>Gerechtigkeit</i>: Verse 15, 16 und 24.
+ }
+#}
+#ps-71-3 {
+ {
+  <i>Fels und Burg</i> §ps-18-3, §ps-31-4
+ }
+#}
+#ps-71-11 {
+ {
+  <i>Gott hat in verlassen</i>: §+ps-22-2, §Vps-71-18
+ }
+#}
+#ps-71-13 {
+ {
+  <i>die mein Unglück suchen</i> vgl §Vps-71-24
  }
 #}
 #ps-71-20 {
@@ -39205,10 +39241,10 @@
 #}
 #ps-72-5 {
  {
-  <i>Mond</i>: <a class='kom' href='#I1mo-1-16'>1.&nbsp;Mo&nbsp;1,16</a>.
+  <i>Mond</i>: §+1mo-1-16.
  }
  {
-  Beachte: der Psalm ist für Salamo (Vers 1). Doch dieser ist nicht mehr, während der Mond noch ist.
+  Beachte: der Psalm ist für Salamo (§Vps-72-1). Doch dieser ist nicht mehr, während der Mond noch ist. Vgl §Vps-72-17
  }
 #}
 #ps-72-8 {
@@ -39253,6 +39289,9 @@
 #}
 #ps-72-16 {
  {
+  <i>Kraut der Erde</i>: §1mo-1-11
+ }
+ {
   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/1koe_4.html#v20'>1.&nbsp;Kö&nbsp;4,20</a>.
  }
 #}
@@ -39282,6 +39321,9 @@
 @}
 @Psalm 73 {
 #ps-73-1 {
+ {
+  <i>reines Herz</i>: §Vps-73-13, §mt-5-8
+ }
  {
    TODO Psalme Asaphs: <a class='kom' href='#Ips-50-1'>Ps&nbsp;50,1</a>.
  }
@@ -39331,6 +39373,9 @@
 #ps-74-17 {
  {
   <i>Sommer</i> und <i>Winter</i>: §+1mo-8-22.
+ }
+ {
+  <i>Du hast festgestelt alle Grenzen der Erde</i> §apg-17-26
  }
 #}
 @}
@@ -54794,7 +54839,10 @@
 #}
 #mt-5-8 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/ps_11.html#v7'>Ps&nbsp;11,7</a>.
+  <i>reines Herz</i>: §ps-73-1
+ }
+ {
+  Vgl §ps-11-7.
  }
 #}
 #mt-5-9 {
@@ -68975,6 +69023,11 @@
  }
  {
   TODO: Dies wird auch in <a class='kom' href='#Iapg-7-48'>Apg&nbsp;7,48</a> zitiert.
+ }
+#}
+#apg-17-26 {
+ {
+  <i>er verordnete … die Grenzen …</i> §ps-74-17
  }
 #}
 #apg-17-27 {
