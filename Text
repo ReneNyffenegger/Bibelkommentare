@@ -59619,6 +59619,11 @@
   <i>Wehen</i>: <a class='kom' href='#Imt-24-8'>Mt&nbsp;24,8</a>
  }
 #}
+#mk-13-9 {
+ {
+  <i>an → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge[Synagogen] überliefern</i> vgl §lk-21-12, §joh-16-2
+ }
+#}
 #mk-13-11 {
  {
   TODO: <i>Der Heilige Geist spricht</i>: <a class='kom' href='#Iapg-13-2'>Apg&nbsp;13,2</a>.
@@ -62277,6 +62282,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel
  }
 #}
+#lk-21-12 {
+ {
+  <i>an die → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge überliefern</i>: vgl §mk-13-9, §lk-21-12, §joh-16-2
+ }
+#}
 #lk-21-14 {
  {
   <i>wie ihr euch verantworten sollt</i> vgl §lk-12-11
@@ -63917,7 +63927,7 @@
 #}
 #joh-6-70 {
  {
-  §lk-6-13
+  §joh-13-18, §joh-15-16, §lk-6-13
  }
 #}
 @}
@@ -64279,8 +64289,9 @@
 #}
 #joh-9-22 {
  {
-  Vgl <a class='kom' href='#Iapg-18-17'>Apg&nbsp;18,17</a> wo vermutlich ein Synagogenvorsteher aus der Synagoge
-  ausgeschlossen wurde, nachdem er gläubig geworden ist.
+   <i>aus der biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge ausschliessen</i>: §joh-12-42, §+joh-16-2
+  <br>
+   Vgl §+apg-18-17 wo vermutlich ein Synagogenvorsteher aus der Synagoge ausgeschlossen wurde, nachdem er gläubig geworden ist.
  }
 #}
 #joh-9-24 {
@@ -64702,8 +64713,8 @@
 #}
 #joh-12-42 {
  {
-  Vgl <a class='kom' href='#Iapg-18-17'>Apg&nbsp;18,17</a> wo vermutlich ein Synagogenvorsteher aus der Synagoge
-  ausgeschlossen wurde, nachdem er gläubig geworden ist.
+  <i>aus der biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge aussschliessen</i>: §joh-9-22
+   Vgl §+apg-18-17 wo vermutlich ein Synagogenvorsteher aus der Synagoge ausgeschlossen wurde, nachdem er gläubig geworden ist.
  }
 #}
 #joh-12-44 {
@@ -64765,6 +64776,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen
  }
 #}
+#joh-13-3 {
+ {
+  Auch wenn der Teufel hinter der Überlieferung steht, ist doch <i>alles</i> in die Hände des Herrn gegeben.
+ }
+#}
 #joh-13-10 {
  {
   Wie können die Jünger rein sein, wenn sie nicht einmal verstanden, dass ihr Herr gekreuzigt werden muss?
@@ -64786,7 +64802,7 @@
   <i>Gesandte</i> (<span class='gr'>ἀπόστολος</span>, Strongs 652), einziges Vorkommen in Johannes. Vgl <a class='kom' href='#Imt-10-2'>Mt&nbsp;10,2</a>.
  }
  {
-  TODO: <a class='kom' href='#Imt-20-26'>Mt&nbsp;20,26</a>.
+  <i>Ein Knecht ist nicht grösser als sein Herr</i>: §joh-15-20. Vgl. §+mt-20-26
  }
 #}
 #joh-13-17 {
@@ -64795,6 +64811,9 @@
  }
 #}
 #joh-13-18 {
+ {
+  <i>welche ich auserwählt habe</i>: §joh-6-70
+ }
  {
   §ps-41-10
  }
@@ -64916,6 +64935,9 @@
  {
   Der Vater wird dadurch verherrlicht, dass 'sie' viel Frucht bringen und seine Jünger werden (<a href='http://bibel.renenyffenegger.ch/joh_15.html#v8'>Joh&nbsp;15,8</a>).
  }
+ {
+  <i>bitten in meinem Namen</i>: §joh-15-16, §joh-16-23-ff
+ }
 #}
 #joh-14-16 {
  {
@@ -65020,9 +65042,22 @@
   <br>Vgl <i>der Knecht weiss nicht, was sein Herr tut</i> mit §offb-1-1.
  }
 #}
+#joh-15-16 {
+ {
+  <i>bitten in meinem Namen</i>: §joh-14-13, §joh-16-23-ff
+ }
+ {
+  <i>ich habe euch auserwählt</i> §joh-6-70
+ }
+#}
 #joh-15-18 {
  {
   <a class='kom' href='#Ijoh-1-11'>Joh&nbsp;1,11</a>.
+ }
+#}
+#joh-15-20 {
+ {
+  <i>Ein Knecht ist nicht grösser als sein Herr</i>: §joh-13-16
  }
 #}
 #joh-15-25 {
@@ -65044,6 +65079,11 @@
 #}
 @}
 @Johannes 16 {
+#joh-16-2 {
+ {
+  <i>aus der → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge ausschliessen</i> §joh-9-22, §mk-13-9, §lk-21-12
+ }
+#}
 #joh-16-5 {
  {
   Vgl mit §+joh-7-33.
@@ -65063,6 +65103,11 @@
 #joh-16-16 {
  {
   <i>Kurze/lange/kleine Zeit</i> in Johannes: <a class='kom' href='#Ijoh-5-6'>Joh&nbsp;5,6</a>.
+ }
+#}
+#joh-16-23 {
+ {
+  <i>bitten in meinem Namen</i>: §joh-15-16
  }
 #}
 #joh-16-25 {
