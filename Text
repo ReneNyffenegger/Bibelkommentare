@@ -2897,6 +2897,9 @@
   <i>Blicke gen Himmel</i>: vgl §+1mo-13-14.
  }
  {
+  <i>So wird dein Same sein</i>, vgl §roem-4-18 
+ }
+ {
   Vgl mit <a class='kom' href='#Ijes-40-26'>Jes&nbsp;40,26</a>.
  }
  {
@@ -8535,6 +8538,10 @@
   Vgl <i>es verzagten alle Bewohner Kanaans</i> mit dem Verzagen der Israeliten in <a href='http://bibel.renenyffenegger.ch/4mo_13.html#v31'>4.&nbsp;Mo&nbsp;13,31</a>.
   Beachte auch, dass die Israeliten in Vers 17 sagen «Du wirst sie bringen…», und dann genau dies nicht geglaubt haben.
  }
+ {
+  <i>Starken</i>: <span class='hebr'>אַיִל</span> (Strongs 352), dasselbe Wort wie für Widder, vgl
+  §hes-17-13, §2koe-24-15
+ }
 #}
 #2mo-15-17 {
  {
@@ -9216,6 +9223,9 @@
  }
 #}
 #2mo-20-5 {
+ {
+  <i>ein eifernder Gott</i>: §2mo-34-14, §5mo-4-24, Vgl §2kor-11-2
+ }
  {
   <i>am dritten und am vierten Glied</i>: vgl §2mo-34-7, §4mo-14-18, §5mo-5-9
  }
@@ -11438,6 +11448,9 @@
 #}
 #2mo-34-14 {
  {
+  §2mo-20-5, §5mo-4-24
+ }
+ {
   In <span class='hebr'>אַחֵ֑ר</span> (Strongs 312) ist das Resch vergrössert, siehe <a href='#typo_details'>Typografische Details im Alten Testament</a>.
   TODO: Siehe typographische Ähnlichkeit in <a class='kom' href='#I5mo-6-4'>5.&nbsp;Mo&nbsp;6,4</a>.
  }
@@ -13069,7 +13082,8 @@
   → biblisches/Personen/Aaron/Söhne
  }
  {
-  TODO: Aussätzige sollen aus dem Lager hinausgeschickt werden, weil Gott in der Mitte der Kinder Israel wohnt (<a class='kom' href='#I4mo-5-3'>4.&nbsp;Mo&nbsp;5,3</a>)
+  Aussätzige sollen aus dem Lager hinausgeschickt werden, weil Gott in der
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels[Mitte der Kinder Israel wohnt], §+4mo-5-2-ff
  }
  {
   TODO: <b>Wenn sich bei einem Menschen an der Haut seines Fleisches ein Hautmal oder ein Ausschlag oder ein heller Fleck zeigt</b>
@@ -15398,12 +15412,14 @@
 #}
 @}
 @4. Mose 5 {
+#4mo-5-2 {
+ {
+  Aussätzige: §+3mo-13-2, → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche.html#leiche-verunreinigen[wegen einer Leiche verunreinigt]: §+4mo-19-11; Ausflüssige: §+3mo-15-2.
+ }
+#}
 #4mo-5-3 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
- }
- {
-  Aussätzige §+3mo-13-2, Tote §+4mo-19-11; Ausflüssige: §+3mo-15-2.
  }
 #}
 #4mo-5-6 {
@@ -15422,6 +15438,12 @@
   auch <a class='kom' href='#I4mo-35-12'>4.&nbsp;Mo&nbsp;35,12</a>.
  }
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Widder
+ }
+ {
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Priester#was-den-priestern-gehoert
+ }
+ {
   TODO: 'Versöhnung' siehe <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v33'>2.&nbsp;Mo&nbsp;29,33</a>.
   TODO auch: hier offenbar einziges Vorkommen von 'Widder der Versöhnung'.
  }
@@ -15435,9 +15457,23 @@
   es immer(?) <span class='hebr'>סֹלֶת</span> (Strongs 5560).
  }
 #}
+#4mo-5-17 {
+ {
+  Beachte: das <i>heilige Wasser</i> kann sich in <i>fluchbringendes Wasser</i> verwndeln (§V4mo-5-18).
+ }
+ {
+  <i>Irdenes Gefäss</i>: §2kor-4-7
+ }
+#}
 #4mo-5-18 {
  {
-  TODO: <i>Frau mit entblösstem Haupt</i> vgl <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v5'>1.&nbsp;Kor&nbsp;11,5</a>.
+  <i>Frau mit entblösstem Haupt</i> vgl <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v5'>1.&nbsp;Kor&nbsp;11,5</a>.
+ }
+#}
+#4mo-5-23 {
+ {
+  <i>auslöschen</i>: <span class='hebr'>מָחָה</span> (Strongs 4229), in der → biblisches/Grundtext/LXX[Septuaginta] mit
+  <span class='gr'>ἐξαλείφω</span> (Strongs 1813) übersetzt, vgl §kol-2-14
  }
 #}
 #4mo-5-25 {
@@ -17974,12 +18010,10 @@
 #}
 #4mo-35-12 {
  {
-  <i>Bluträcher</i> <span class='hebr'>גָּאַל</span> (Strongs 1350) wird an andern Orten mit 'Löser' übersetzt,
-    (zB in <a href='http://bibel.renenyffenegger.ch/3mo_25.html#v25'>3.&nbsp;Mo&nbsp;25,25</a> ff,
-           <a href='http://bibel.renenyffenegger.ch/rt_4.html#v1'>Rt&nbsp;4,1</a>),
-    oder mit 'auslösen'), (zB in <a href='http://bibel.renenyffenegger.ch/3mo_27.html#v13'>3.&nbsp;Mo&nbsp;27,13</a>)
-    <br>TODO: Das Wort Blut kommt in diesem Vers nicht vor, wohl aber in Vers 19.
-    <br>Siehe auch <a class='kom' href='#I4mo-5-8'>4.&nbsp;Mo&nbsp;5,8</a>.
+  <i>Rächer</i> <span class='hebr'>גָּאַל</span> (Strongs 1350) wird an andern Orten mit «Löser» übersetzt,
+    (zB in §3mo-25-25-ff, §rt-4-1), oder mit «auslösen», (zB in §3mo-27-13)
+    <br>Vgl mit «Bluträcher» in §V4mo-35-19.
+    <br>Siehe auch §+4mo-5-8.
  }
 #}
 #4mo-35-15 {
@@ -18539,6 +18573,14 @@
   TODO: <a class='kom' href='#I1mo-15-13'>1.&nbsp;Mo&nbsp;15,13</a>.
  }
 #}
+#5mo-4-24 {
+ {
+  <i>ein eifernder Gott</i>: §2mo-20-5, §2mo-34-14
+ }
+ {
+  <i>ein verzehrendes Feuer</i> §5mo-9-3, §jes-30-27, §hebr-12-29
+ }
+#}
 #5mo-4-30 {
  {
   <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
@@ -18925,6 +18967,11 @@
   Bis an den Himmel befestigte Städte: <a class='kom' href='#I5mo-1-28'>5.&nbsp;Mo&nbsp;1,28</a>.
  }
 #}
+#5mo-9-3 {
+ {
+  <i>verzehrendes Feuer</i>: §+5mo-4-24
+ }
+#}
 #5mo-9-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/hartnäckig
@@ -18972,6 +19019,11 @@
 #5mo-9-18 {
  {
   <i>Und ich warf mich vor dem HERRN nieder</i>: §V5mo-9-25.
+ }
+#}
+#5mo-9-21 {
+ {
+  §2mo-32-20
  }
 #}
 #5mo-9-22 {
@@ -30585,6 +30637,12 @@
   Unter den <i>Weggeführten</i> war auch Hesekiel (<a href='http://bibel.renenyffenegger.ch/hes_1.html#v1'>Hes&nbsp;1,1</a>).
  }
 #}
+#2koe-24-15 {
+ {
+  <i>Mächtigen</i>: <span class='hebr'>אַיִל</span> (Strongs 352), dasselbe Wort wie für Widder, vgl
+  §2mo-15-15, §hes-17-13
+ }
+#}
 #2koe-24-17 {
  {
   → biblisches/Personen/Mattanja-Zedekia[Zedekia]
@@ -32057,6 +32115,11 @@
   <a href='http://bibel.renenyffenegger.ch/ps_79.html#v9'>Ps&nbsp;79,9</a>, <a href='http://bibel.renenyffenegger.ch/ps_85.html#v5'>Ps&nbsp;85,5</a>,
   <a href='http://bibel.renenyffenegger.ch/ps_88.html#v2'>Ps&nbsp;88,2</a>, <a href='http://bibel.renenyffenegger.ch/js_17.html#v10'>Js&nbsp;17,10</a>,
   <a href='http://bibel.renenyffenegger.ch/mi_7.html#v7'>Mi&nbsp;7,7</a>, <a href='http://bibel.renenyffenegger.ch/hab_3.html#v18'>Hab&nbsp;3,18</a>.
+ }
+#}
+#1chr-16-36 {
+ {
+  <i>Amen! und lobte den HERRN</i>: vgl §neh-5-13
  }
 #}
 #1chr-16-38 {
@@ -35403,6 +35466,11 @@
    TODO: Was steht im Grundtext wirklich (→ biblisches/Eigene-Uebersetzung/Konkordanz/Zins).
  }
 #}
+#neh-5-13 {
+ {
+  <i>Amen! und sie lobten den HERRN</i> vgl §1chr-16-36, §neh-8-6
+ }
+#}
 #neh-5-14 {
  {
   <i>Statthalter</i>: <a class='kom' href='#Ineh-2-7'>Neh&nbsp;2,7</a>.
@@ -35712,6 +35780,9 @@
  {
   <i>Und Esra pries den HERRN</i>: das ist die Motivation von Esra, wenn er das Buch vor den Augen des ganzen Volkes öffnet (§Vneh-8-5). Dass das ganze Volk mit «Amen, Amen» antwortet,
   zeigt an, dass Esra eine gute Arbeit geleistet hatte, als er das Buch öffnete.
+ }
+ {
+  <i>Amen, Amen</i> §neh-5-13
  }
 #}
 #neh-8-8 {
@@ -38960,6 +39031,11 @@
   TODO: Wurde dieser Psalm in <a href='http://bibel.renenyffenegger.ch/2sam_8.html#v13'>2.&nbsp;Sam&nbsp;8,13</a> geschrieben?
  }
 #}
+#ps-60-5 {
+ {
+  <i>Taumelwein</i>: §jes-28-7, §spr-20-1
+ }
+#}
 #ps-60-8 {
  {
   §ps-108-8
@@ -41700,6 +41776,9 @@
  {
   <i>Zweischneidiges Schwert</i>: <a class='kom' href='#Iri-3-16'>Ri&nbsp;3,16</a>.
  }
+ {
+  <i>Bitter wie Wermut</i> vgl §offb-8-11
+ }
 #}
 @}
 @Sprüche 6 {
@@ -41755,6 +41834,8 @@
  {
   <i>Lehre</i>: <a class='kom' href='#Ispr-1-8'>Spr&nbsp;1,8</a>.
  }
+#}
+#spr-6-34 {
 #}
 @}
 @Sprüche 7 {
@@ -42367,7 +42448,7 @@
 #}
 #spr-19-25 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/spr_21.html#v11'>Spr&nbsp;21,11</a>.
+  Vgl mit §spr-21-11.
  }
 #}
 #spr-19-27 {
@@ -42380,8 +42461,21 @@
   TODO: KJV übersetzt <i>nichtsnutzig</i> mit 'ungodly'.
  }
 #}
+#spr-19-29 {
+ {
+  <i>Spötter</i> auch im nächsten Vers: §spr-20-1
+ }
+#}
 @}
 @Sprüche 20 {
+#spr-20-1 {
+ {
+  §ps-60-5, §jes-28-7
+ }
+ {
+  <i>Spötter</i> auch im vorangehenden Vers: §spr-19-29
+ }
+#}
 #spr-20-2 {
  {
   Vgl <a class='kom' href='#Ispr-19-12'>Spr&nbsp;19,12</a>.
@@ -42488,7 +42582,7 @@
 #}
 #spr-21-11 {
  {
-  Vgl mit <a class='kom' href='#Ispr-19-25'>Spr&nbsp;19,25</a>.
+  Vgl mit §+spr-19-25.
  }
 #}
 #spr-21-23 {
@@ -44763,6 +44857,11 @@
 #}
 @}
 @Jesaja 28 {
+#jes-28-7 {
+ {
+  <i>taumeln von starkem Getränk</i>: §ps-60-5, §spr-20-1
+ }
+#}
 #jes-28-9 {
  {
    <i>Erkenntnis</i>: §+jes-1-3.
@@ -44894,6 +44993,11 @@
 #jes-30-17 {
  {
   <i>Ein Tausend wird fliehen vor dem Dräuen eines einzigen</i> §3mo-26-8, §5mo-32-30, §jos-23-10, §jes-30-17
+ }
+#}
+#jes-30-27 {
+ {
+  <i>verzehrendes Feuer</i>: §+5mo-4-24
  }
 #}
 #jes-30-33 {
@@ -46883,10 +46987,8 @@
 #}
 #jer-9-14 {
  {
-  <i>Wermut</i>: Vgl <a href='http://bibel.renenyffenegger.ch/jer_23.html#v15'>Jer&nbsp;23,15</a>,
-  <a class='kom' href='#Iam-5-7'>Am&nbsp;5,7</a>.
-  <br>Vgl <a class='kom' href='#I5mo-29-17'>5.&nbsp;Mo&nbsp;29,17</a>.
-  <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/offb_8.html#v11'>Offb&nbsp;8,11</a>.
+  <i>mit Wermut speisen und sie mit bitterem Wasser tränken</i>: §jer-23-15, §offb-8-11
+  <br> Vgl §+am-5-7, §+5mo-29-17.
  }
 #}
 #jer-9-21 {
@@ -47389,7 +47491,7 @@
 #}
 #jer-23-15 {
  {
-  <i>Wermut</i>: <a class='kom' href='#Ijer-9-14'>Jer&nbsp;9,14</a>.
+  <i>ich will sie mit Wermut speisen und sie mit bitterem Wasser tränken</i>: §+jer-9-14.
  }
 #}
 #jer-23-16 {
@@ -49733,6 +49835,12 @@
 #hes-17-12 {
  {
   TODO: <a class='kom' href='#I2koe-24-17'>2.&nbsp;Kö&nbsp;24,17</a>.
+ }
+#}
+#hes-17-13 {
+ {
+  <i>Mächtigen</i>: <span class='hebr'>אַיִל</span> (Strongs 352), dasselbe Wort wie für Widder, vgl
+  §2mo-15-15, §2koe-24-15
  }
 #}
 #hes-17-24 {
@@ -54821,13 +54929,13 @@
 #}
 #mt-5-17 {
  {
-  <i>Gesetz nicht auflösen</i> und <i>kein einziges Strichlein wird vom Gesetz vergehen</i> (Vers 18):
+  → → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz#gesetz-aufheben[Gesetz nicht auflösen] und <i>kein einziges Strichlein wird vom Gesetz vergehen</i> (Vers 18):
   vgl §lk-16-17
   <br>
-  vgl <a href='http://bibel.renenyffenegger.ch/roem_10.html#v4'>Röm&nbsp;10,4</a>: «Christus is das Ende des Gesetzes zur Gerechtigkeit für jeden,
+  vgl §roem-10-4: «Christus is das Ende des Gesetzes zur Gerechtigkeit für jeden,
     der glaubt».
-  <br>Vgl <a href='http://bibel.renenyffenegger.ch/mt_7.html#v12'>Mt&nbsp;7,12</a> («...dies ist das Gesetz und die Propheten» und
-   <a href='http://bibel.renenyffenegger.ch/mt_7.html#v23'>Mt&nbsp;7,23</a> («weicht von mir, ihr Gesetzlosen»)
+  <br>Vgl §mt-7-12 («...dies ist das Gesetz und die Propheten» und
+   §mt-7-23 («weicht von mir, ihr Gesetzlosen»)
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
@@ -57782,6 +57890,11 @@
   Wasserkrug trägt.
  }
 #}
+#mt-26-23 {
+ {
+  §lk-22-21
+ }
+#}
 #mt-26-25 {
  {
   Beachte, die andern Jünger sagten '<i>Herr</i>, doch nicht ich'; (Vers 22). Judas sagt '<i>Rabbi</i>, doch nicht ich'.
@@ -57792,14 +57905,26 @@
 #}
 #mt-26-26 {
  {
+  §mk-14-22, §lk-22-19
+ }
+ {
   <i>Einsetzung des Mahles</i>.
   Beachte: bei Johannes wird diese Einsetzung nicht überliefert (<a class='kom' href='#Ijoh-18-11'>Joh&nbsp;18,11</a>).
   <br>
    Paulus hat zusätzlich empfangen: 'Denn so oft ihr dieses Brot eßt und diesen Kelch trinkt, verkündigt ihr den Tod des Herrn, bis er kommt.'
   (<a href='http://bibel.renenyffenegger.ch/1kor_11.html#v26'>1.&nbsp;Kor&nbsp;11,26</a>).
  }
+ {
+  Vgl §1kor-11-24: der Herr nahm das Brot und <i>dankte</i>.
+ }
+ {
+  TODO: <a href='https://biblicalhorizons.wordpress.com/2011/03/03/strange-and-glorious-new-rites-2/'>Strange and Glorious New Rites</a>.
+ }
 #}
 #mt-26-27 {
+ {
+  §mk-14-23. Beachte, der Kelch wurde <i>nach dem Mahl</i> genommen: §lk-22-20, §1kor-11-25
+ }
  {
   Jesus sagt 'Trinkt alle daraus' und gemäss <a href='http://bibel.renenyffenegger.ch/mk_14.html#v24'>Mk&nbsp;14,24</a> 'tranken sie
   alle daraus'.
@@ -57828,6 +57953,9 @@
 #}
 #mt-26-29 {
  {
+  §mk-14-25
+ }
+ {
   <i>Reich meines Vaters</i> (hier wohl einzige Erwähnung) vgl <a href='http://bibel.renenyffenegger.ch/mt_13.html#v43'>Mt&nbsp;13,43</a>,
   <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v24'>1.&nbsp;Kor&nbsp;15,24</a>
  }
@@ -57836,6 +57964,9 @@
  }
 #}
 #mt-26-30 {
+ {
+  §mk-14-26
+ }
  {
   TODO Lobgesang (Strongs 5214): <a href='http://bibel.renenyffenegger.ch/apg_16.html#v25'>Apg&nbsp;16,25</a>, <a href='http://bibel.renenyffenegger.ch/hebr_2.html#v12'>Hebr&nbsp;2,12</a>
  }
@@ -59634,12 +59765,15 @@
 #}
 #mk-14-22 {
  {
-  <i>Einsetzung des Mahles</i>: <a class='kom' href='#Imt-26-26'>Mt&nbsp;26,26</a>.
+  §mt-26-26, §lk-22-19
+ }
+ {
+  <i>Einsetzung des Mahles</i>: §+mt-26-26.
  }
 #}
 #mk-14-23 {
  {
-  <i>Kelch</i>: <a class='kom' href='#Imt-26-27'>Mt&nbsp;26,27</a>.
+  <i>Kelch</i>: §+mt-26-27, §lk-22-20
  }
 #}
 #mk-14-24 {
@@ -59648,6 +59782,16 @@
  }
  {
   <span class='gt'>In NA fehlt <i>neuen</i> in <i>Blut des Bundes</i>, ebenso in §mt-26-28</span>
+ }
+#}
+#mk-14-25 {
+ {
+  §mt-26-29
+ }
+#}
+#mk-14-26 {
+ {
+  §mt-26-30
  }
 #}
 #mk-14-32 {
@@ -61737,7 +61881,7 @@
 #}
 #lk-16-17 {
  {
-   Vgl §+mt-5-17
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz#gesetz-aufheben, Vgl §+mt-5-17
  }
 #}
 #lk-16-20 {
@@ -62260,12 +62404,23 @@
 #}
 #lk-22-19 {
  {
+  §mt-26-26, §mk-14-22, vgl §+1kor-11-24
+ }
+ {
   TODO: <a href="https://en.wikipedia.org/wiki/Last_Supper#Institution_of_the_Eucharist">https://en.wikipedia.org/wiki/Last_Supper#Institution_of_the_Eucharist</a>
  }
 #}
 #lk-22-20 {
  {
+  §mt-26-27, §mk-14-23, §1kor-11-25
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/neu, → biblisches/Eigene-Uebersetzung/Konkordanz/Blut/Bund
+ }
+#}
+#lk-22-21 {
+ {
+  §mt-26-23
  }
 #}
 #lk-22-24 {
@@ -64126,23 +64281,9 @@
 #}
 #joh-9-24 {
  {
-   <i>Gott die Ehre/Herrlichkeit geben</i>, das Wort <span class='gr'>δόξα</span> (Strongs 1391) is manchmal mit 'Ehre'
-   manchmal mit 'Herrlichkeit' übersetzt: <ul>
-      <li><a href='http://bibel.renenyffenegger.ch/joh_17.html#v22'>Joh&nbsp;17,22</a>
-      <li><a href='http://bibel.renenyffenegger.ch/apg_12.html#v23'>Apg&nbsp;12,23</a>
-      <li><a href='http://bibel.renenyffenegger.ch/roem_4.html#v20'>Röm&nbsp;4,20</a>
-      <li><a href='http://bibel.renenyffenegger.ch/1petr_1.html#v21'>1.&nbsp;Petr&nbsp;1,21</a>
-      <li><a href='http://bibel.renenyffenegger.ch/offb_4.html#v9'>Offb&nbsp;4,9</a> (TODO Ehre und Herrlichkeit kommen beide vor.)
-      <li><a href='http://bibel.renenyffenegger.ch/offb_11.html#v13'>Offb&nbsp;11,13</a>
-      <li><a href='http://bibel.renenyffenegger.ch/offb_14.html#v7'>Offb&nbsp;14,7</a>
-      <li><a href='http://bibel.renenyffenegger.ch/offb_16.html#v9'>Offb&nbsp;16,9</a>
-      <li><a href='http://bibel.renenyffenegger.ch/offb_21.html#v26'>Offb&nbsp;21,26</a> (TODO Ehre und Herrlichkeit kommen beide vor.)
-   </ul>
-   Beachte, in <a href='http://bibel.renenyffenegger.ch/2petr_1.html#v17'>2.&nbsp;Petr&nbsp;1,17</a> empfing Jesus Christus
-     Ehre (<span class='gr'>τιμή</span>, Strongs 5092) und Herrlichkeit (Strongs 1391) von Gott, dem Vater.
-   <br>
-     Haben die Juden erwartet, dass der Mensch Gott die Ehre gibt, wenn er gesagt hätte, Gott (und nicht ein Mensch) habe
-     ihn sehend gemacht? Vgl auch mit den Versen 11, 32 und 33 und <a class='kom' href='#Ips-146-8'>Ps&nbsp;146,8</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben:
+  Haben die Juden erwartet, dass der Mensch Gott die Ehre gibt, wenn er gesagt hätte, Gott (und nicht ein Mensch) habe
+     ihn sehend gemacht? Vgl auch mit den Versen 11, 32 und 33 und §+ps-146-8.
  }
 #}
 #joh-9-28 {
@@ -65007,7 +65148,7 @@
 #}
 #joh-17-22 {
  {
-  <i>Gott die Ehre/Herrlichkeit geben</i>: §+joh-9-24.
+  Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben, §joh-9-24.
  }
  {
   <i>Ihnen die Herrlichkeit gegeben</i>: §+roem-5-2.
@@ -67895,7 +68036,7 @@
 #}
 #apg-12-23 {
  {
-  <i>Gott die Ehre/Herrlichkeit geben</i>: <a class='kom' href='#Ijoh-9-24'>Joh&nbsp;9,24</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
 #}
 #apg-12-25 {
@@ -68087,9 +68228,10 @@
 #}
 #apg-13-21 {
  {
-   Dies ist die einzige Stelle im NT, wo der alttestamentliche Saul erwähnt wird. Er wird hier nicht König genannt.
+   Dies ist die einzige Stelle im NT, wo der alttestamentliche → biblisches/Personen/Saul erwähnt wird. Er wird hier nicht König genannt.
    <br>Beachte, dass diese Rede ebenfalls ein Saul vom Stamm Benjamin hält (§roem-11-1, §phil-3-5); er wurde allerdings in §Vapg-13-9 in Paulus umbenannt.
    <br>So wie der alttestamentliche Saul den König David verfolgte, verfolgte auch der neutestamentliche Saul einen König, nämlich Jesus Christus (§apg-9-4-5).
+   <br>Siehe auch → biblisches/Personen/Paulus#vgl-paulus-saul[Vergleich Saul / Paulus]
  }
 #}
 #apg-13-22 {
@@ -70807,6 +70949,9 @@
  {
   <i>verfinstertes unverständiges Herz</i> vgl §eph-4-18 
  }
+ {
+  <i>verherrlichen</i>: <span class='gr'>δοξάζω</span> (Strongs 1392), vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
+ }
 #}
 #roem-1-23 {
  {
@@ -70823,10 +70968,13 @@
 #}
 #roem-1-25 {
  {
-  <i>Gott die Ehre geben</i>: §+roem-4-20.
+  → biblisches/Personen/Abraham hat <i>Gott Ehre gegeben</i>: §+roem-4-20.
  }
  {
-  <i>welcher gepriesen ist in Ewigkeit. Amen.</i>: vgl §roem-9-5, §2kor-11-31
+  <i>welcher gepriesen ist in Ewigkeit. Amen.</i>: vgl §roem-9-5, §2kor-11-31, §roem-11-36
+ }
+ {
+  <i>Verehrung darbringen</i>: <span class='gr'>σεβάζομαι</span> (Strongs 4573), KJV übersetzt mit «worshipped».
  }
 #}
 #roem-1-26 {
@@ -71181,15 +71329,17 @@
 #}
 #roem-3-29 {
  {
-  <i>Juden und Heiden</i>: <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a>.
+  <i>Juden und Heiden</i>: §+roem-1-16.
  }
 #}
 #roem-3-30 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#ist-einer[ein einiger Gott]
  }
+#}
+#roem-3-31 {
  {
-  TODO: vgl 'aus Glauben' und 'durch den Glauben'.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz#gesetz-aufheben, → biblisches/Eigene-Uebersetzung/Konkordanz/Glaube
  }
 #}
 @}
@@ -71236,6 +71386,11 @@
   Vgl §+apg-10-35
  }
 #}
+#roem-4-6 {
+ {
+  → biblisches/Personen/David
+ }
+#}
 #roem-4-7 {
  {
   Vgl §+ps-32-1-ff, §jes-26-10.
@@ -71244,6 +71399,11 @@
 #roem-4-11 {
  {
   Siehe <a class='kom' href='#I1mo-17-10'>1.&nbsp;Mo&nbsp;17,10</a>.
+ }
+#}
+#roem-4-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz
  }
 #}
 #roem-4-17 {
@@ -71255,14 +71415,16 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
+ {
+  <i>Also soll dein Same sein</i>: §1mo-15-5
+ }
 #}
 #roem-4-20 {
  {
-  <i>Ehre</i> (<span class='gr'>δόξα</span>, Strongs 1391) wird an andern Orten mit 'Herrlichkeit' übersetzt (Zb in
-  <a href='http://bibel.renenyffenegger.ch/roem_3.html#v23'>Röm&nbsp;3,23</a>). Das gibt dann hier eigentlich
-  den Ausdruck «Gott die Herrlichkeit geben» (vgl <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v21'>1.&nbsp;Petr&nbsp;1,21</a>).
-  <br>Vgl <i>Gott die Ehre/Herrlichkeit geben</i>: <a class='kom' href='#Ijoh-9-24'>Joh&nbsp;9,24</a>.
-  <br>Gott die Ehre nicht geben: <a href='http://bibel.renenyffenegger.ch/roem_1.html#v25'>Röm&nbsp;1,25</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Glaube im Zusammenhang mit → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben[Gott die Ehre geben]: §1petr-1-2
+ }
+ {
+  Eine Anklage von Paulus an die Menscheit ist, dass sie dem Geschöpf mehr Verehrung dargebracht haben, als dem Schöpfer: §roem-1-25.
  }
 #}
 #roem-4-25 {
@@ -71824,7 +71986,7 @@
 #}
 #roem-10-3 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit, → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz#gesetz-aufheben
  }
 #}
 #roem-10-4 {
@@ -71832,7 +71994,7 @@
   <i>Christus: das Ende des Gesetzes</i>: vgl <a class='kom' href='#Imt-5-17'>Mt&nbsp;5,17</a>.
  }
  {
-  TODO: <i>Ende</i> im Griechisch bedeutet auch «Ziel».
+  <i>Ende</i> im Griechisch bedeutet auch «Ziel».
  }
 #}
 #roem-10-5 {
@@ -72077,7 +72239,7 @@
   <a href='http://bibel.renenyffenegger.ch/kol_1.html#v16'>Kol&nbsp;1,16</a> und §hebr-2-10.
  }
  {
-  <i>Ihm sei die Herrlichkeit in Ewigkeit</i>: §roem-16-27 (letzter Vers des Römerbriefes),
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben[Ihm sei die Herrlichkeit in Ewigkeit]: §roem-16-27 (letzter Vers des Römerbriefes),
   §1tim-1-17, §phil-4-20, §1tim-6-13-17
  }
 #}
@@ -72605,6 +72767,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#gott-des-der[Gott des] Friedens: §roem-16-20, §1kor-14-33, §2kor-13-11, §phil-4-9, §1thes-5-23
  }
+ {
+  <i>…sei mit euch allen! Amen</i> §roem-16-24
+ }
 #}
 @}
 @Römer 16 {
@@ -72769,6 +72934,9 @@
   Mit diesen oder ähnlichen Worten schliesst Paulus jeden Brief. Im → biblisches/Bücher/Paulus/Korinther/1[1. Korintherbrief] ist es der zweitletzte Vers (§1kor-16-23)
  }
  {
+  <i>…sei mit euch allen! Amen.</i> §roem-15-33
+ }
+ {
    <span class='gt'>Vers fehlt in NA</span>.
  }
 #}
@@ -72811,6 +72979,9 @@
 #roem-16-27 {
  {
   <i>dem allein weisen Gott</i>: §jud-1-25
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben[ihm sei die Herrlichkeit]
  }
 #}
 @}
@@ -74273,12 +74444,22 @@
 #}
 #1kor-11-24 {
  {
+  Vgl §mt-26-26 und §mk-14-22: Der Herr nahm das Brot und <i>segnete</i>. Offenbar zitiert → biblisches/Personen/Paulus aus §lk-22-19. Ebenso ist Lukas der einzige
+  Evangelist, der erwähnt, dass der Kelch <i>nach dem Mahl</i> genommen wurde.
+ }
+ {
   <span class='gt'>In NA fehlt «Nehmt, eßt!» und «gebrochen».</span>
  }
 #}
 #1kor-11-25 {
  {
+  §lk-22-20, §mt-26-27, §mk-14-23
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/neu, → biblisches/Eigene-Uebersetzung/Konkordanz/Blut/Bund, §+mt-26-27
+ }
+ {
+  <i>Kelch</i>: Beachte, im ganzen Kapitel wird immer vom Kelch, nie vom Wein gesprochen.
  }
 #}
 #1kor-11-26 {
@@ -75389,6 +75570,9 @@
    <a href='http://bibel.renenyffenegger.ch/offb_2.html#v27'>Offb&nbsp;2,27</a>
   <br>Vgl <i>Gefäss</i>: <a class='kom' href='#Imt-12-29'>Mt&nbsp;12,29</a>.
  }
+ {
+  <i>irdenes Gefäss</i>: §4mo-5-17
+ }
 #}
 #2kor-4-10 {
  {
@@ -75787,6 +75971,11 @@
    TODO: Vgl Vers 19.
  }
 #}
+#2kor-11-2 {
+ {
+  <i>Gottes Eifer</i>: §+2mo-20-5 
+ }
+#}
 #2kor-11-3 {
  {
   <i>verdorben</i> (<span class='gr'>φθείρω</span>, Strongs 5351): dasselbe Wort wie in
@@ -76065,6 +76254,11 @@
   <i>herausrette</i>: <span class='gr'>ἐξαιρέω</span> (Strongs 1807), in Elberfelder übersetzt mit «herausreisse».
  }
 #}
+#gal-1-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
+ }
+#}
 #gal-1-6 {
  {
   <i>anderes → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium</i>: §+2kor-11-4.
@@ -76332,7 +76526,7 @@
 #}
 #gal-2-18 {
  {
-  TODO: Bezieht sich das abgerissene auf das Gesetz?
+  Bezieht sich das abgerissene auf das Gesetz? Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz#gesetz-aufheben.
  }
  {
   TODO: Kephas oder Petrus? Vgl §+gal-1-18.
@@ -77388,6 +77582,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-4-5 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
+ }
+#}
+#eph-4-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#ist-einer[ein Gott]
  }
 #}
 #eph-4-7 {
@@ -78507,7 +78706,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-4-20 {
  {
-  <i>die Herrlichkeit von Ewigkeit zu Ewigkeit</i> §roem-11-36, §roem-16-27, §1tim-1-17, §1tim-6-13-17
+  <i>die Herrlichkeit von Ewigkeit zu Ewigkeit</i> §roem-11-36, §roem-16-27, §1tim-1-17, §1tim-6-13-17, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
 #}
 #phil-4-21 {
@@ -78871,7 +79070,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-2-14 {
  {
-  Luther 1912 übersetzt <span class='gr'>χειρογραφον</span> (Strongs 5498) mit 'Handschrift'.
+  <i>ausgetilgt</i>: §4mo-5-23
+ }
+ {
+  Luther 1912 übersetzt <span class='gr'>χειρογραφον</span> (Strongs 5498) mit «Handschrift».
  }
 #}
 #kol-2-16 {
@@ -80511,6 +80713,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Ruhm</i>: <a href='http://bibel.renenyffenegger.ch/offb_4.html#v11'>Offb&nbsp;4,11</a>,
   <a href='http://bibel.renenyffenegger.ch/offb_5.html#v12'>Offb 5,12-13</a>
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
+ }
 #}
 #1tim-1-18 {
  {
@@ -81210,6 +81415,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>der allein Unsterblichkeit hat</i>: vgl <a class='kom' href='#I1kor-15-53'>1.&nbsp;Kor&nbsp;15,53</a>.
  }
+ {
+  <i>Ehre</i>: <span class='gr'>τιμή</span> (Strongs 5092)
+ }
 #}
 #1tim-6-17 {
  {
@@ -81812,6 +82020,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
+ }
+#}
+#2tim-4-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
 #}
 #2tim-4-19 {
@@ -83959,6 +84172,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-12-29 {
  {
+  <i>verzehrendes Feuer</i>: §+5mo-4-24
+ }
+ {
   Beachte: Unser Gott ist ein verzehrendes Feuer, wie <i>auch</i> der Gott Sinais (<a href='http://bibel.renenyffenegger.ch/hebr_12.html#v18'>Verse 18 ff</a>).
  }
 #}
@@ -84092,7 +84308,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-13-21 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk/index#gute-werke, → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen#vollendeter-mensch[vollende euch]
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk/index#gute-werke, → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen#vollendeter-mensch[vollende euch],
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
 #}
 #hebr-13-22 {
@@ -84755,10 +84972,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-1-21 {
  {
-  <i>Gott die Ehre/Herrlichkeit geben</i>: <a class='kom' href='#Ijoh-9-24'>Joh&nbsp;9,24</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Glaube im Zusammenhang mit → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben[Gott die Ehre geben]: §roem-4-20
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung (auf Gott vgl §1petr-3-5)
+ }
+ {
+  TODO: worauf bezieht sich «ihn»?
  }
 #}
 #1petr-1-22 {
@@ -85225,10 +85445,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-4-11 {
  {
-  TODO: <i>reden</i> (Aussprüche Gottes) vs <i>dienen</i> vgl <a href='http://bibel.renenyffenegger.ch/apg_6.html#v2'>Apg&nbsp;6,2</a>.
+  <i>reden</i> (Aussprüche Gottes) vs <i>dienen</i> vgl §apg-6-2.
  }
  {
-  <i>Ihm sei die Herrlichkeit...</i> auch in <a href='http://bibel.renenyffenegger.ch/1petr_5.html#v11'>1.&nbsp;Petr&nbsp;5,11</a>.
+  <i>Ihm sei die Herrlichkeit...</i> auch in §1petr-5-11.
+  Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
 #}
 #1petr-4-12 {
@@ -85430,7 +85651,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-5-11 {
  {
-  <a class='kom' href='#I1petr-4-11'>1.&nbsp;Petr&nbsp;4,11</a>.
+  §+1petr-4-11, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
 #}
 #1petr-5-12 {
@@ -85941,7 +86162,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>In der Erkenntnis wachsen</i>: <a href='http://bibel.renenyffenegger.ch/kol_1.html#v10'>Kol&nbsp;1,10</a>.
  }
  {
-  <a href='http://bibel.renenyffenegger.ch/2petr_1.html#v2'>2.&nbsp;Petr&nbsp;1,2</a>.
+  <i>wachst aber in … der Erkenntnis …</i>: §2petr-1-2.
  }
 #}
 @}
@@ -86790,6 +87011,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #jud-1-25 {
  {
   <i>dem allein weisen Gott</i>: §roem-16-27. Vgl «unseren alleinigen Gebieter» §Vjud-1-4
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
 #}
 @}
@@ -87676,7 +87900,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-4-9 {
  {
-  <i>Gott die Ehre/Herrlichkeit geben</i>: <a class='kom' href='#Ijoh-9-24'>Joh&nbsp;9,24</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
  {
   TODO <i>Dank darbringen</i> (<span class='gr'>εὐχαριστία</span>, Strongs 2169) kommt in der Offenbarung nur noch vor in
@@ -88245,6 +88469,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl mit <a class='kom' href='#Ijer-9-14'>Jer&nbsp;9,14</a>.
  }
+ {
+  <i>Wermut</i> und <i>bitter</i>: §spr-5-4, §jer-9-14
+ }
 #}
 #offb-8-12 {
  {
@@ -88621,8 +88848,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-11-13 {
  {
-  <i>Gott die Ehre/Herrlichkeit geben</i>: <a class='kom' href='#Ijoh-9-24'>Joh&nbsp;9,24</a>.
-  <br>Beachte: in <a href='http://bibel.renenyffenegger.ch/offb_14.html#v7'>Offb&nbsp;14,7</a> spricht ein Engel: '... gebt Gott die Ehre ... ',
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
+ }
+ {
+  TODOBeachte: in <a href='http://bibel.renenyffenegger.ch/offb_14.html#v7'>Offb&nbsp;14,7</a> spricht ein Engel: '... gebt Gott die Ehre ... ',
   in <a href='http://bibel.renenyffenegger.ch/offb_16.html#v9'>Offb&nbsp;16,9</a> tun die Menschen nicht Busse und geben keine Ehre.
   TODO: Einige sagen dann aber in <a href='http://bibel.renenyffenegger.ch/offb_19.html#v7'>Offb&nbsp;19,7</a> 'lasst uns Ehre geben'.
   <br>Beachte auch, dass der Engel fordert, <i>Gott</i>, nicht <i>Gott des Himmels</i> Ehre zu geben, und ihn zu fürchten. Hier fürchten sich die
@@ -89188,9 +89417,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <a class='kom' href='#Iapg-14-15'>Apg&nbsp;14,15</a>.
  }
  {
-  <i>Gott die Ehre/Herrlichkeit geben</i>: <a class='kom' href='#Ijoh-9-24'>Joh&nbsp;9,24</a>.
-  <br>Vgl <a class='kom' href='#Ioffb-11-13'>Offb&nbsp;11,13</a>.
-  <br>TODO: <a class='kom' href='#I1petr-2-17'>1.&nbsp;Petr&nbsp;2,17</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
 #}
 #offb-14-8 {
@@ -89472,8 +89699,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-16-9 {
  {
-  <i>Gott die Ehre/Herrlichkeit geben</i>: <a class='kom' href='#Ijoh-9-24'>Joh&nbsp;9,24</a>.
-  <br>Vgl <a class='kom' href='#Ioffb-11-13'>Offb&nbsp;11,13</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
  {
   <i>Macht über die Plage</i>: <a href='http://bibel.renenyffenegger.ch/offb_11.html#v6'>Offb&nbsp;11,6</a>.
@@ -89985,11 +90211,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-19-7 {
  {
-  <i>Hochzeit</i>: <a class='kom' href='#Imt-9-15'>Mt&nbsp;9,15</a>.
-  <br>TODO: Beachte, dass in <a href='http://bibel.renenyffenegger.ch/jes_62.html#v4'>Jes&nbsp;62,4</a> «das Land vermählt wird».
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
  {
-  TODO: <i>Ehre geben</i>: <a class='kom' href='#Ioffb-11-13'>Offb&nbsp;11,13</a>.
+  <i>Hochzeit</i>: <a class='kom' href='#Imt-9-15'>Mt&nbsp;9,15</a>.
+  <br>TODO: Beachte, dass in <a href='http://bibel.renenyffenegger.ch/jes_62.html#v4'>Jes&nbsp;62,4</a> «das Land vermählt wird».
  }
  {
   TODO: Die Hochzeit ist gekommen. Wird die Braut deshalb in <a class='kom' href='#Ioffb-21-9'>Offb&nbsp;21,9</a> nicht mehr
@@ -90406,7 +90632,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-21-26 {
  {
-  <i>Gott die Ehre/Herrlichkeit geben</i>: <a class='kom' href='#Ijoh-9-24'>Joh&nbsp;9,24</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
 #}
 @}
