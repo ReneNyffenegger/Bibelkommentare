@@ -54574,17 +54574,20 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
  }
  {
+  <i>Wer hat euch gewiesen, dem kommenden Zorn zu entfliehen</i>: §lk-3-7, §joh-3-36
+ }
+ {
   <i>Zorn in den Evangelien</i>: <ul>
-    <li><a href='http://bibel.renenyffenegger.ch/mt_2.html#v16'>Mt&nbsp;2,16</a>: Herodes, der sich von den Weisen betrogen sah.
-    <li>Hier. Vgl auch <a href='http://bibel.renenyffenegger.ch/lk_3.html#v7'>Lk&nbsp;3,7</a>
-    <li><a href='http://bibel.renenyffenegger.ch/mt_18.html#v34'>Mt&nbsp;18,34</a>: Über den Knecht, der seinem Mitknecht die 100 Denare Schulden nicht erlassen wollte.
-    <li><a href='http://bibel.renenyffenegger.ch/mt_22.html#v7'>Mt&nbsp;22,7</a>: Weil das Hochzeit bereit war, aber die Geladenen nicht würdig.
-        <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/lk_14.html#v21'>Lk&nbsp;14,21</a>: der, der ein grosses Mahl machte, und jeder liess sich entschuldigen.
-    <li><a href='http://bibel.renenyffenegger.ch/mk_3.html#v5'>Mk&nbsp;3,5</a>: Über die Verstocktheit der Herzen, die nicht wollten, dass Jesus am Sabbat heilte.
-    <li><a href='http://bibel.renenyffenegger.ch/lk_4.html#v28'>Lk&nbsp;4,28</a>: TODO: die in der Synagoge.
-    <li><a href='http://bibel.renenyffenegger.ch/lk_15.html#v2'>Lk&nbsp;15,2</a>: Der Bruder des 'verlorenen Sohnes'.
-    <li><a href='http://bibel.renenyffenegger.ch/lk_21.html#v23'>Lk&nbsp;21,23</a>: TODO
-    <li><a href='http://bibel.renenyffenegger.ch/joh_3.html#v36'>Joh&nbsp;3,36</a>
+    <li>§mt-2-16: Herodes, der sich von den Weisen betrogen sah.
+    <li>Hier. Vgl auch §lk-3-7
+    <li>§mt-18-34: Über den Knecht, der seinem Mitknecht die 100 Denare Schulden nicht erlassen wollte.
+    <li>§mt-22-7: Weil das Hochzeit bereit war, aber die Geladenen nicht würdig.
+        <br>Vgl auch §lk-14-21: der, der ein grosses Mahl machte, und jeder liess sich entschuldigen.
+    <li>§mk-3-5: Über die Verstocktheit der Herzen, die nicht wollten, dass Jesus am Sabbat heilte.
+    <li>§lk-4-28: TODO: die in der Synagoge.
+    <li>§lk-15-2: Der Bruder des 'verlorenen Sohnes'.
+    <li>§lk-21-23: TODO
+    <li>§joh-3-36
   </ul>
  }
  {
@@ -60520,6 +60523,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
  }
  {
+  <i>Wer hat euch gewiesen, dem kommenden Zorn zu entfliehen</i>: §mt-3-7, §joh-3-36
+ }
+ {
   <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
  }
 #}
@@ -60745,7 +60751,8 @@
 #lk-4-28 {
  {
   <i>Zorn in den Evangelien</i>: §+mt-3-7.
-  <br>Beachte: hier werden die Leute in der Synagoge voll Zorn, in §mk-3-5 wird der Herr voll Zorn. Vgl auch §apg-19-28
+  <br>Beachte: hier werden die Leute in der Synagoge voll Wut (<span class='gr'>θυμός</span>, Strongs 2372), in §mk-3-5 wird der Herr voll
+  Zorn (<span class='gr'>ὀργή</span>, Strongs 3709). Vgl §apg-19-28
  }
  {
   TODO: Werden sie voll Zorn, weil der Herr andeutet, dass die Rettung nicht auf die Israeliten beschränkt ist?
@@ -63423,10 +63430,13 @@
 #}
 #joh-3-36 {
  {
+  <i>Der → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn[Zorn Gottes] bleibt auf ihm</i>: §mt-3-7, §lk-3-7
+ }
+ {
   <i>Zorn in den Evangelien</i>: §+mt-3-7.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig 
  }
  {
   <i>nicht glaubt</i> (<span class='gr'>ἀπειθέω</span>, Strongs 544) an andern Orten auch mit 'weigern zu glauben'
@@ -71511,7 +71521,7 @@
   Vgl mit <a class='kom' href='#Ijak-1-3'>Jak&nbsp;1,3</a>.
  }
  {
-  <i>Aber nicht nur das, sondern wir rühmen uns auch...</i>: Vgl Vers §Vroem-5-11.
+  <i>Aber nicht nur das, sondern wir rühmen uns auch...</i>: Vgl §Vroem-5-11.
  }
  {
   Vgl <i>Hoffnung</i> und <i>standhaftes Ausharren</i> mit §roem-8-25 und §roem-15-4.
@@ -71574,7 +71584,7 @@
 #}
 #roem-5-14 {
  {
-  <i>Vorbild</i>: <span class='gr'>τύπος</span>, Strongs 5179.
+  <i>Vorbild</i>: <span class='gr'>τύπος</span>, Strongs 5179, vgl §+1kor-10-6, §hebr-8-5
  }
 #}
 #roem-5-15 {
@@ -74228,7 +74238,7 @@
 #}
 #1kor-10-6 {
  {
-  <i>Vorbild</i>: <span class='gr'>τύπος</span>, Strongs 5179.
+  <i>Vorbild</i>: <span class='gr'>τύπος</span>, Strongs 5179, vgl §roem-5-14, §V1kor-10-11, §hebr-8-5
  }
 #}
 #1kor-10-7 {
@@ -77381,7 +77391,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-2-14 {
  {
-  <i>er ist unser Friede</i> vgl <a href='http://bibel.renenyffenegger.ch/mi_5.html#v4'>Mi&nbsp;5,4</a>.
+  <i>er ist unser Friede</i> vgl §roem-5-1, §mi-5-4.
  }
  {
   <i>Die Zwischenwand der Umzäunung abreissen</i>: §jes-5-5
@@ -77395,7 +77405,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Friede</i>, <i>Feindschaft</i> (Vers 16) und <i>Versöhnung</i> (Vers 16): vgl §+roem-5-1 und §roem-5-10.
  }
  {
-  <i>ein neuer Mensch</i> §2kor-5-17
+  <i>ein neuer Mensch</i>: §eph-4-24, §2kor-5-17
  }
 #}
 #eph-2-17 {
@@ -77732,6 +77742,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #eph-4-24 {
+ {
+  <i>neuer Mensch<i>: §eph-2-15
+ }
  {
    <i>Den neuen Menschen anziehen</i>: vgl §+roem-13-14, §kol-3-9
  }
@@ -78878,6 +78891,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
  }
+ {
+  <i>Finsternis</i>: kommt im Kolosserbrief ein Mal, im Epheserbrief vier Mal vor.
+ }
 #}
 #kol-1-14 {
  {
@@ -79534,7 +79550,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer, vgl §1thes-2-14
  }
  {
-  <i>in vieler Drangsal</i> vgl §apg-17-5-9
+  <i>in vieler Drangsal</i> vgl §1thes-3-4, §2thes-1-4, §apg-17-5-9
  }
 #}
 #1thes-1-7 {
@@ -79814,6 +79830,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1thes-3-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
+ {
+  <i>Drangsale</i>: §+1thes-1-6
  }
 #}
 #1thes-3-5 {
@@ -80159,7 +80178,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott
  }
  {
-  <i>Dankbarkeit</i>: Beachte, dass Paulus in <a href='http://bibel.renenyffenegger.ch/roem_1.html#v21'>Röm&nbsp;1,21</a> bei den Gottlosen(?) undankbarkeit aufführt.
+  <i>Dankbarkeit</i>: Beachte, dass Paulus in <a href='http://bibel.renenyffenegger.ch/roem_1.html#v21'>Röm&nbsp;1,21</a> bei den Gottlosen(?) Undankbarkeit aufführt.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
@@ -80252,10 +80271,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>… dasswir selbst uns euer rühmen …</i> §1thes-2-20
  }
  {
-  <i>Bedrängnis</i>: Vgl <a class='kom' href='#Iroem-5-3'>Röm&nbsp;5,3</a>.
-  <br>Die Thessaloniker (?) sind dazu bestimmt (<a href='http://bibel.renenyffenegger.ch/1thes_3.html#v3'>1.&nbsp;Thes&nbsp;3,3-4</a>.
-  <br>In <a href='http://bibel.renenyffenegger.ch/1thes_3.html#v5'>1.&nbsp;Thes&nbsp;3,5</a> hatte Paulus noch Angst, dass der Versucher
-  die Thessaloniker versucht habe.
+  <i>Dtrangsalen</i>: Vgl §+roem-5-3.
+  <br>Die Thessaloniker (?) sind dazu bestimmt (§1thes-3-3-4).
+  <br>In §1thes-3-5 hatte → biblisches/Personen/Paulus noch Angst, dass der Versucher die Thessaloniker versuchen würde.
  }
 #}
 #2thes-1-5 {
@@ -80546,6 +80564,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst,
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer[nachahmen]
+ }
+ {
+  Beachte, im → biblisches/Bücher/Paulus/Thessalonicher/1/index[1. Thessalonikerbrief] stellte → biblisches/Personen/Paulus noch das Zeugnis aus,
+  dass sie seine Nachahmer geworden sind und soger zum Vorbild geworden sind (§1thes-1-6-7).
  }
 #}
 #2thes-3-8 {
@@ -83368,10 +83390,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-8-5 {
  {
-  TODO: <i>Muster</i>: <span class='gr'>ὑπόδειγμα</span> (Strongs 5262) in KJV mit «pattern» übersetzt.
-  Vgl <a href='http://bibel.renenyffenegger.ch/hebr_4.html#v11'>Hebr&nbsp;4,11</a> («Beispiel») und
-  <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v23'>Hebr&nbsp;9,23</a> («Abbilder»).
-  <br>Vgl <a class='kom' href='#Ijoh-13-15'>Joh&nbsp;13,15</a>.
+  <i>Muster</i>: <span class='gr'>ὑπόδειγμα</span> (Strongs 5262) in KJV mit «pattern» übersetzt, Vgl §roem-5-14, §+1kor-10-6
+  <br>
+  Vgl §hebr-4-11 («Beispiel») und
+  §hebr-9-23 («Abbilder»).
+  <br>Vgl §+joh-13-15.
  }
  {
   <i>… das dir auf dem Berg gezeigt worden ist</i> §2mo-25-40, §2mo-26-30, §2mo-27-8, §apg-7-44
@@ -89490,8 +89513,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-14-10 {
  {
-  Jeremia wird von Gott beauftrag, den Völkern den 'Kelch voll Zornwein aus der Hand des HERRN den Völkern zu trinken zu geben'
-  (<a href='http://bibel.renenyffenegger.ch/jer_25.html#v15'>Jer&nbsp;25,15</a>).
+  <i>Wein des Grimmes Gottes, der unvermischt im Kelch seines Zornes bereitet ist</i>: vgl §offb-16-19.
+  <br>
+  Jeremia wird von Gott beauftrag, den Völkern den «Kelch voll Zornwein aus der Hand des HERRN den Völkern zu trinken zu geben», §jer-25-15.
  }
  {
   TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/offb_18.html#v6'>Offb&nbsp;18,6</a> (Strongs 2767, 2x)
@@ -89843,7 +89867,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Erdbeben, grosse Stadt zerreist in drei Teile</i>: <a class='kom' href='#Ioffb-11-13'>Offb&nbsp;11,13</a>.
  }
  {
-  <i>Wein des Grimmes seines → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn[Zornes]</i>: §offb-19-15
+  <i>Wein des Grimmes seines → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn[Zornes]</i>: §offb-14-10, §offb-19-15
  }
  {
   <i>Grosse Stadt</i>: §+offb-11-8.
