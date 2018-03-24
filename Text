@@ -6428,6 +6428,9 @@
 #}
 #1mo-46-11 {
  {
+  → biblisches/Personen/Kahat
+ }
+ {
   Siehe <a class='kom' href='#I4mo-26-55'>4.&nbsp;Mo&nbsp;26,55</a>.
   <br>TODO: Kahat: siehe auch <a href='http://bibel.renenyffenegger.ch/4mo_3.html#v27'>4.&nbsp;Mo&nbsp;3,27</a>.
  }
@@ -7160,7 +7163,9 @@
 #}
 #2mo-3-5 {
  {
-  <i>Ziehe deine Schuhe aus</i>: Vgl mit <a href='http://bibel.renenyffenegger.ch/jos_5.html#v15'>Jos&nbsp;5,15</a> (Dort: «Deinen Schuh»).
+  <i>Ziehe deine Schuhe aus</i>: Vgl mit §jos-5-15 (Dort: «Deinen Schuh»).
+  <br>
+   Beachte auch, dass die Israeliten mit Schuhen an den Füssen das → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah assen: §2mo-12-11
  }
 #}
 #2mo-3-6 {
@@ -7492,10 +7497,13 @@
   → biblisches/Grundtext/Zahlen/137 jährig gestorben: siehe §+1mo-23-1.
  }
  {
-  Die vier Generationen von §1mo-15-16 beziehen sich auf Levi, Kahat, Amram und Mose.
+  Die vier Generationen von §1mo-15-16 beziehen sich auf Levi, → biblisches/Personen/Kahat, Amram und Mose.
  }
 #}
 #2mo-6-18 {
+ {
+  → biblisches/Personen/Kahat
+ }
  {
   §4mo-3-19, §1chr-5-28, §1chr-6-3, §1chr-23-12
  }
@@ -7530,12 +7538,17 @@
   (<a href='http://bibel.renenyffenegger.ch/mt_1.html#v4'>Mt 1,4-5</a>).
  }
  {
-  → biblisches/Personen/Aaron/Söhne, → biblisches/Personen/Eleasar, → biblisches/Personen/Nadab
+  → biblisches/Personen/Aaron/Söhne, → biblisches/Personen/Eleasar, → biblisches/Personen/Nadab, → biblisches/Personen/Itamar
  }
 #}
 #2mo-6-24 {
  {
   <i>Söhne Korahs</i>: <a class='kom' href='#I4mo-16-30'>4.&nbsp;Mo&nbsp;16,30</a>.
+ }
+#}
+#2mo-6-25 {
+ {
+  → biblisches/Personen/Eleasar/Aaron
  }
 #}
 #2mo-6-26 {
@@ -8069,6 +8082,9 @@
 #2mo-12-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah <span class='hebr'>פֶּסַח</span> (Strongs 6453), hier erstes Vorkommen. Vgl mit «vorübergehen» in <a class='kom' href='#I2mo-12-13'>Vers 13</a>.
+ }
+ {
+  <i>Schuhe an den Füssen</i>: §2mo-3-5
  }
  {
   TODO <a class='kom' href='#I2mo-10-25'>2.&nbsp;Mo&nbsp;10,25</a>.
@@ -10405,7 +10421,7 @@
   Auswahl zum → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/Priesterdienst vgl §2mo-19-6.
  }
  {
-  → biblisches/Personen/Aaron/Söhne
+  → biblisches/Personen/Aaron/Söhne, → biblisches/Personen/Eleasar/Aaron, → biblisches/Personen/Itamar
  }
 #}
 #2mo-28-2 {
@@ -10744,8 +10760,7 @@
   TODO: Vgl mit 'Korb der Füllung' (<a class='kom' href='#I3mo-8-31'>3.&nbsp;Mo&nbsp;8,31</a>)
  }
  {
-  TODO: Was darf alles gekocht werden? Siehe auch <a class='kom' href='#I1sam-2-13'>1.&nbsp;Sam&nbsp;2,13</a>
-  und <a class='kom' href='#I4mo-6-19'>4.&nbsp;Mo&nbsp;6,19</a>.
+  <i>Fleisch kochen</i>: §+1sam-2-13 und §+4mo-6-19.
  }
 #}
 #2mo-29-32 {
@@ -11778,12 +11793,12 @@
 #}
 #2mo-38-21 {
  {
-  'Berechnung' (<span class='hebr'>פְקוּדֵ֤י</span>, Strongs 6485) ist im Hebräischen dasselbe Wort wie in <a href='http://bibel.renenyffenegger.ch/2mo_38.html#v25'>Vers 25</a>
+  <i>Berechnung</i> (<span class='hebr'>פְקוּדֵ֤י</span>, Strongs 6485) ist im Hebräischen dasselbe Wort wie in <a href='http://bibel.renenyffenegger.ch/2mo_38.html#v25'>Vers 25</a>
   für 'Gezählten' (<span class='hebr'>פְּקוּדֵ֥י</span>) und 'gezählt wurden' (<span class='hebr'>הַפְּקֻדִ֗ים</span>) in
   <a href='http://bibel.renenyffenegger.ch/2mo_38.html#v26'>2.&nbsp;Mo&nbsp;38,26</a>.
  }
  {
-  <i>Eleasar</i> und <i>Itamar</i>: Siehe <a class='kom' href='#I4mo-4-16'>4.&nbsp;Mo&nbsp;4,16</a>.
+  <i>Eleasar und → biblisches/Personen/Itamar</i>: Siehe <a class='kom' href='#I4mo-4-16'>4.&nbsp;Mo&nbsp;4,16</a>.
  }
 #}
 #2mo-38-22 {
@@ -12012,6 +12027,9 @@
 #2mo-40-31 {
  {
   §2mo-30-19, §V2mo-40-12
+ }
+ {
+  <i>Hände und Füsse waschen</i> vgl §joh-13-9
  }
 #}
 #2mo-40-33 {
@@ -12867,6 +12885,9 @@
  }
 #}
 #3mo-10-6 {
+ {
+  → biblisches/Personen/Eleasar/Aaron, → biblisches/Personen/Itamar
+ }
  {
   TODO: <i>entblössen</i> ist Strong 6544, siehe <a class='kom' href='#I2mo-5-4'>2.&nbsp;Mo&nbsp;5,4</a>.
   <br>Ebenso <a class='kom' href='#I3mo-13-45'>3.&nbsp;Mo&nbsp;13,45</a>
@@ -15024,8 +15045,10 @@
 #}
 #4mo-1-50 {
  {
-  Nachdem der HERR seinem Volk Ruhe gegeben hat, müssen auf Anordnung → biblisches/Personen/David[Davids] die Leviten die Wohnung nicht mehr tragen
-         (<a href='http://bibel.renenyffenegger.ch/1chr_23.html#v25'>1.&nbsp;Chr&nbsp;23,25-26</a>).
+  <i>Die Wohnung und ihr Gerät tragen</i>: §4mo-4-15, §4mo-4-25, §4mo-4-31. Mose gibt den Söhnen Gersons zwei Wagen und vier Rinder, den Söhnen Meraris vier Wagen und
+  acht Rinder, aber den Söhnen Kahats gar nichts, die müssen alles auf ihren Schultern tragen (§4mo-7-6-ff).
+  <br>
+  Nachdem der HERR seinem Volk Ruhe gegeben hat, müssen auf Anordnung → biblisches/Personen/David[Davids] die Leviten die Wohnung nicht mehr tragen: §1chr-23-25-26.
  }
 #}
 #4mo-1-51 {
@@ -15136,6 +15159,11 @@
 #}
 @}
 @4. Mose 3 {
+#4mo-3-2 {
+ {
+  → biblisches/Personen/Eleasar/Aaron, → biblisches/Personen/Itamar
+ }
+#}
 #4mo-3-4 {
  {
   → biblisches/Personen/Nadab-und-Abihu
@@ -15223,6 +15251,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Befehl-des-HERRN.
  }
 #}
+#4mo-3-17 {
+ {
+  → biblisches/Personen/Kahat
+ }
+#}
 #4mo-3-19 {
  {
   §2mo-6-18, §1chr-23-12
@@ -15253,6 +15286,9 @@
 #}
 #4mo-3-29 {
  {
+  → biblisches/Personen/Kahat
+ }
+ {
   Gegen <i>Süden</i> lagerte sich auch das Panier des Lagers Rubens, §4mo-2-10
  }
 #}
@@ -15263,7 +15299,7 @@
 #}
 #4mo-3-32 {
  {
-  <i>Eleasar</i> siehe <a class='kom' href='#I2mo-6-23'>2.&nbsp;Mo&nbsp;6,23</a>.
+  → biblisches/Personen/Eleasar/Aaron, → biblisches/Personen/Itamar, vgl §+2mo-6-23.
  }
 #}
 #4mo-3-35 {
@@ -15304,6 +15340,11 @@
 #}
 @}
 @4. Mose 4 {
+#4mo-4-2 {
+ {
+  → biblisches/Personen/Kahat
+ }
+#}
 #4mo-4-3 {
  {
   Die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] treten 25 jährig in den → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft#dienst-zelt-zusammenkunft[Dienst des Zeltes der Zusammenkunft] ein -
@@ -15312,7 +15353,7 @@
 #}
 #4mo-4-4 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+  → biblisches/Personen/Kahat, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
  {
   TODO: ist mit dem <i>Hochheiligen</i> die Lade, der Tisch, der Leuchter, die Altäre und die Geräte des Heiligtums usw gemeint
@@ -15347,9 +15388,14 @@
   hat «table of the presence».
  }
 #}
+#4mo-4-15 {
+ {
+  → biblisches/Personen/Kahat
+ }
+#}
 #4mo-4-16 {
  {
-  <i>Eleasar</i>: Aufsicht über Heiligtum und Geräte.
+  → biblisches/Personen/Eleasar/Aaron: Aufsicht über Heiligtum und Geräte.
   <br>Eleasar wird der Nachfolger von Aaron (<a href='http://bibel.renenyffenegger.ch/4mo_20.html#v25'>4.&nbsp;Mo&nbsp;20,25</a>).
   <br>TODO: Siehe <a href='http://bibel.renenyffenegger.ch/4mo_17.html#v2'>4.&nbsp;Mo&nbsp;17,2</a> ff
   <br>TODO: Siehe <a class='kom' href='#I4mo-19-3'>4.&nbsp;Mo&nbsp;19,3</a>ff
@@ -15362,6 +15408,11 @@
  }
  {
   TODO: siehe auch <a class='kom' href='#I2mo-6-23'>2.&nbsp;Mo&nbsp;6,23</a>.
+ }
+#}
+#4mo-4-18 {
+ {
+  Die → biblisches/Personen/Kahat[Kahatiter] dürfen nicht ausgerottet werden, vgl §4mo-16-1
  }
 #}
 #4mo-4-20 {
@@ -15380,12 +15431,22 @@
   In <a href='http://bibel.renenyffenegger.ch/hl_1.html#v5'>Hl&nbsp;1,5</a> mit <i>Vorhang</i> übersetzt.
  }
 #}
+#4mo-4-28 {
+ {
+  → biblisches/Personen/Itamar
+ }
+#}
 #4mo-4-33 {
  {
-  <i>Eleasar</i> und <i>Itamar</i>: Siehe <a class='kom' href='#I4mo-4-16'>4.&nbsp;Mo&nbsp;4,16</a>.
+  <i>Eleasar</i> und <i>→ biblisches/Personen/Itamar</i>: Siehe <a class='kom' href='#I4mo-4-16'>4.&nbsp;Mo&nbsp;4,16</a>.
  }
  {
   TODO: siehe <a href='http://bibel.renenyffenegger.ch/4mo_7.html#v8'>4.&nbsp;Mo&nbsp;7,8</a>
+ }
+#}
+#4mo-4-34 {
+ {
+  → biblisches/Personen/Kahat
  }
 #}
 #4mo-4-35 {
@@ -15520,7 +15581,13 @@
 #}
 #4mo-6-11 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche#leiche-verunreinigen
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Leiche#leiche-verunreinigen, → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer
+ }
+#}
+#4mo-6-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schuldopfer
  }
 #}
 #4mo-6-13 {
@@ -15531,9 +15598,14 @@
   Sch2K übersetzt mit «Nasiräer»
  }
 #}
+#4mo-6-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer
+ }
+#}
 #4mo-6-19 {
  {
-  TODO: was darf gekocht werden? siehe <a class='kom' href='#I2mo-29-31'>2.&nbsp;Mo&nbsp;29,31</a> und <a class='kom' href='#I1sam-2-13'>1.&nbsp;Sam&nbsp;2,13</a>.
+  <i>gekochter Bug vom Widder</i>:§+2mo-29-31 und §+1sam-2-13.
  }
 #}
 @}
@@ -15547,6 +15619,11 @@
   <i>vollenden</i> (Strongs 3615): <a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>.
  }
 #}
+#4mo-7-3 {
+ {
+  Vgl mit den <i>12 Rindern</i> unter dem Meer: §1koe-7-25, §2chr-4-4
+ }
+#}
 #4mo-7-5 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
@@ -15554,7 +15631,15 @@
 #}
 #4mo-7-8 {
  {
+  → biblisches/Personen/Itamar
+ }
+ {
   TODO: Siehe <a class='kom' href='#I4mo-4-33'>4.&nbsp;Mo&nbsp;4,33</a>.
+ }
+#}
+#4mo-7-9 {
+ {
+  → biblisches/Personen/Kahat
  }
 #}
 #4mo-7-12 {
@@ -15718,6 +15803,11 @@
 #4mo-10-13 {
  {
   Vgl <a class='kom' href='#I2mo-17-1'>2.&nbsp;Mo&nbsp;17,1</a> (Nach dem Befehl des HERRN aufbrechen).
+ }
+#}
+#4mo-10-21 {
+ {
+  → biblisches/Personen/Kahat
  }
 #}
 #4mo-10-29 {
@@ -16317,7 +16407,7 @@
 @4. Mose 16 {
 #4mo-16-1 {
  {
-  TODO: Die Kahatiter dürfen nicht ausgerottet werden (<a href='http://bibel.renenyffenegger.ch/4mo_4.html#v18'>4.&nbsp;Mo&nbsp;4,18</a>).
+  Die → biblisches/Personen/Kahat[Kahatiter] dürfen nicht ausgerottet werden, vgl §4mo-4-18.
  }
  {
   Abiram und Dathan werden in <a href='http://bibel.renenyffenegger.ch/4mo_26.html#v9'>4.&nbsp;Mo&nbsp;26,9</a> 'Berufene' genannt.
@@ -16386,6 +16476,11 @@
 #}
 @}
 @4. Mose 17 {
+#4mo-17-2 {
+ {
+  → biblisches/Personen/Eleasar/Aaron
+ }
+#}
 #4mo-17-5 {
  {
   <i>Räucherwerk</i> darf offensichtlich nur vom Samen Aarons geopfert werden. (TODO: wo ist das entsprechende Gesetz?).
@@ -16554,6 +16649,11 @@
   In <a href='http://bibel.renenyffenegger.ch/1sam_16.html#v2'>1.&nbsp;Sam&nbsp;16,2</a> wird eine <i>junge Kuh</i> geopfert.
  }
 #}
+#4mo-19-3 {
+ {
+  → biblisches/Personen/Eleasar/Aaron
+ }
+#}
 #4mo-19-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
@@ -16654,9 +16754,15 @@
   TODO: Vgl <a class='kom' href='#I4mo-27-13'>4.&nbsp;Mo&nbsp;27,13</a>.
  }
 #}
+#4mo-20-25 {
+ {
+  → biblisches/Personen/Eleasar/Aaron
+ }
+#}
 #4mo-20-26 {
  {
-  Eleasar kriegte hier die heiligen → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider[Kleider Aarons]. Er soll(te) sie nun 7 Tage lang tragen. §2mo-29-29-30.
+  → biblisches/Personen/Eleasar/Aaron kriegte hier die heiligen → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider[Kleider Aarons].
+  Er soll(te) sie nun 7 Tage lang tragen. §2mo-29-29-30.
  }
 #}
 #4mo-20-28 {
@@ -17138,6 +17244,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
 #}
+#4mo-25-7 {
+ {
+  → biblisches/Personen/Eleasar/Aaron
+ }
+#}
 #4mo-25-9 {
  {
   An einem Tag wurden 23000 erschlagen (<a href='http://bibel.renenyffenegger.ch/1kor_10.html#v8'>1.&nbsp;Kor&nbsp;10,8</a>).
@@ -17348,10 +17459,20 @@
   noch die neuen (?) Namen <i>Muschi</i> und <i>Korah</i>.
  }
 #}
+#4mo-26-58 {
+ {
+  Beachte: Amram ist nicht der einzige Sohn von Kahat.
+ }
+#}
 #4mo-26-59 {
  {
   TODO: Barnes' notes on the bible:
   <i>whom her mother bare - literally, "whom she bare;" the subject is wanting, and the verb is in the feminine gender. The words "her mother" are merely conjectural. The text is probably imperfect.</i>
+ }
+#}
+#4mo-26-60 {
+ {
+  → biblisches/Personen/Eleasar/Aaron, → biblisches/Personen/Itamar
  }
 #}
 #4mo-26-62 {
@@ -17369,7 +17490,7 @@
 #}
 #4mo-27-2 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft, → biblisches/Personen/Eleasar/Aaron
  }
 #}
 #4mo-27-5 {
@@ -17398,6 +17519,11 @@
 #4mo-27-18 {
  {
    Durch die Handauflegung wird → biblisches/Personen/Josua/Nun mit dem Geist der Wahrheit erfüllt §5mo-34-9, Vgl §1tim-5-22
+ }
+#}
+#4mo-27-19 {
+ {
+  → biblisches/Personen/Eleasar/Aaron
  }
 #}
 #4mo-27-21 {
@@ -17535,7 +17661,10 @@
 @4. Mose 31 {
 #4mo-31-6 {
  {
-  <i>Trompete</i>: <a class='kom' href='#I4mo-10-2'>4.&nbsp;Mo&nbsp;10,2</a>.
+  → biblisches/Personen/Eleasar/Aaron
+ }
+ {
+  <i>Trompete</i>: §+4mo-10-2.
  }
 #}
 #4mo-31-8 {
@@ -17597,6 +17726,11 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/jos_1.html#v12'>Jos&nbsp;1,12</a>.
  }
 #}
+#4mo-32-2 {
+ {
+  → biblisches/Personen/Eleasar/Aaron
+ }
+#}
 #4mo-32-3 {
  {
   <i>Ataroth</i> <span class='hebr'>עֲטָרוֹת</span> (Strongs 5852): 'Kronen'. Es gibt ein weiteres Atarot im Gebiet Josephs
@@ -17637,6 +17771,11 @@
 #4mo-32-8 {
  {
   Hier wohl das erste Mal, das Kadesch 'Kadesch-Barnea' genannt wird.
+ }
+#}
+#4mo-32-11 {
+ {
+  → biblisches/Personen/Eleasar/Aaron war offenbar unter 20 Jahren, als er aus Ägypten heraufzog.
  }
 #}
 #4mo-32-12 {
@@ -17980,7 +18119,7 @@
 #}
 #4mo-34-17 {
  {
-  → biblisches/Personen/Josua/Nun soll zusammen mit Eleasar das Land austeilen vgl §jos-14-1
+  → biblisches/Personen/Josua/Nun soll zusammen mit → biblisches/Personen/Eleasar/Aaron das Land austeilen vgl §jos-14-1, §jos-19-51
  }
 #}
 #4mo-34-19 {
@@ -21660,7 +21799,7 @@
 @Josua 14 {
 #jos-14-1 {
  {
-  <i>Eleasar und → biblisches/Personen/Josua/Nun teilen das Land als Erbe aus</i> §4mo-34-17
+  <i>→ biblisches/Personen/Eleasar/Aaron und → biblisches/Personen/Josua/Nun teilen das Land als Erbe aus</i> §4mo-34-17, §jos-19-51
  }
 #}
 #jos-14-3 {
@@ -22060,7 +22199,10 @@
 #}
 #jos-17-4 {
  {
-  <i>Nach dem Befehl des HERRN ein Erbteil geben</i>: <a class='kom' href='#Ijos-15-13'>Jos&nbsp;15,13</a>.
+  → biblisches/Personen/Eleasar/Aaron
+ }
+ {
+  <i>Nach dem Befehl des HERRN ein Erbteil geben</i>: §+jos-15-13.
  }
 #}
 #jos-17-11 {
@@ -22353,7 +22495,10 @@
 #}
 #jos-19-51 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft, → biblisches/Personen/Eleasar/Aaron
+ }
+ {
+  <i>Austeilung des Landes als Erbe</i>: §4mo-34-17, §jos-19-51
  }
 #}
 @}
@@ -22385,6 +22530,11 @@
 #}
 @}
 @Josua 21 {
+#jos-21-1 {
+ {
+  → biblisches/Personen/Eleasar/Aaron
+ }
+#}
 #jos-21-2 {
  {
   <i>Weideplätze</i>: <a class='kom' href='#I2sam-5-2'>2.&nbsp;Sam&nbsp;5,2</a>.
@@ -22475,6 +22625,11 @@
 #jos-22-9 {
  {
   TODO Vgl <a class='kom' href='#Ijos-15-13'>Jos&nbsp;15,13</a>.
+ }
+#}
+#jos-22-13 {
+ {
+  → biblisches/Personen/Eleasar/Aaron
  }
 #}
 #jos-22-28 {
@@ -22611,6 +22766,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+#}
+#jos-24-33 {
+ {
+  → biblisches/Personen/Eleasar/Aaron
  }
 #}
 @}
@@ -24349,11 +24509,10 @@
 #}
 #1sam-2-13 {
  {
-  Laut Gestetz darf gekocht werden: <ul>
-    <li>Widder der Einsetzung (<a href='http://bibel.renenyffenegger.ch/2mo_29.html#v31'>2.&nbsp;Mo&nbsp;29,31</a>)
-    <li>Vorderkeule des Nasiräers (<a href='http://bibel.renenyffenegger.ch/4mo_6.html#v19'>4.&nbsp;Mo&nbsp;6,19</a>).
+  Laut Gesetz darf gekocht werden: <ul>
+    <li>Widder der Einsetzung (§2mo-29-31)
+    <li>Vorderkeule des Nasiräers (§4mo-6-19).
   </ul>
-  TODO: Ist diese Aufzählung vollständig, siehe <a class='kom' href='#I2mo-29-31'>2.&nbsp;Mo&nbsp;29,31</a>.
  }
  {
   <i>Gabel</i> <span class='hebr'>מַזְלֵג</span> (Strongs 4207), dasselbe Wort wie in <a href='http://bibel.renenyffenegger.ch/2mo_27.html#v3'>2.&nbsp;Mo&nbsp;27,3</a>,
@@ -27829,6 +27988,9 @@
  }
 #}
 #1koe-7-25 {
+ {
+  <i>12 Rinder</i>: §4mo-7-3, §2chr-4-4
+ }
  {
   Beachte: <i>gegen Westen</i> (<span class='hebr'>יָ֜מָּה</span>) und <i>Wasserbecken</i> (eigtl: 'Meer') <span class='hebr'><span class='grey'>וְהַ</span>יָּ֥ם</span>.
  }
@@ -31333,6 +31495,9 @@
 #}
 #1chr-5-27 {
  {
+  → biblisches/Personen/Kahat
+ }
+ {
   <i>Die Söhne Levis</i> auch in <a href='http://bibel.renenyffenegger.ch/1chr_6.html#v1'>1.&nbsp;Chr&nbsp;6,1</a>.
   Aber hier mit 'Gerso<b>n</b>', dort mit 'Gerso<b>m</b>'.
  }
@@ -31382,11 +31547,16 @@
   §+2mo-6-18
  }
 #}
+#1chr-5-29 {
+ {
+  → biblisches/Personen/Itamar
+ }
+#}
 @}
 @1. Chronik 6 {
 #1chr-6-1 {
  {
-  <i>Die Söhne Levis</i>: <a class='kom' href='#I1chr-5-27'>1.&nbsp;Chr&nbsp;5,27</a>.
+  → biblisches/Personen/Kahat, <i>Die Söhne Levis</i>: §+1chr-5-27.
  }
 #}
 #1chr-6-3 {
@@ -31416,7 +31586,7 @@
 #}
 #1chr-6-17 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+  → biblisches/Personen/Kahat, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
 #}
 #1chr-6-18 {
@@ -31456,6 +31626,9 @@
 #}
 #1chr-6-39 {
  {
+  → biblisches/Personen/Kahat
+ }
+ {
   Beachte, dass hier der Stamm bei der Vergabe von Städten nicht erwähnt wird.
  }
 #}
@@ -31466,7 +31639,10 @@
 #}
 #1chr-6-46 {
  {
-    <a class='kom' href='#Ijos-21-5'>Jos&nbsp;21,5</a>.
+  → biblisches/Personen/Kahat
+ }
+ {
+  <a class='kom' href='#Ijos-21-5'>Jos&nbsp;21,5</a>.
  }
 #}
 #1chr-6-52 {
@@ -31740,7 +31916,7 @@
 #}
 #1chr-9-32 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
+  → biblisches/Personen/Kahat, → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
  }
 #}
 #1chr-9-35 {
@@ -32384,6 +32560,11 @@
 #}
 @}
 @1. Chronik 24 {
+#1chr-24-1 {
+ {
+  → biblisches/Personen/Itamar
+ }
+#}
 #1chr-24-9 {
  {
   <i>Malchija</i> (Strongs 4441): <a class='kom' href='#I1chr-9-12'>1.&nbsp;Chr&nbsp;9,12</a>.
@@ -32854,6 +33035,11 @@
   Die Grundfläche des Altars entspricht jener des Allerheiligsten, aber der Altar ist nur halb so hoch
          (<a href='http://bibel.renenyffenegger.ch/1koe_6.html#v20'>1.&nbsp;Kö&nbsp;6,20</a>).
          <br>Podium: <a href='http://bibel.renenyffenegger.ch/2chr_6.html#v5'>2.&nbsp;Chr&nbsp;6,5</a>.
+ }
+#}
+#2chr-4-4 {
+ {
+  <i>12 Rinder</i>: §4mo-7-3, §1koe-7-25
  }
 #}
 #2chr-4-5 {
@@ -33573,12 +33759,15 @@
 #}
 #2chr-20-19 {
  {
+  → biblisches/Personen/Kahat
+ }
+ {
   TODO <i>Söhne Korahs</i>: <a class='kom' href='#I4mo-26-11'>4.&nbsp;Mo&nbsp;26,11</a>.
  }
 #}
 #2chr-20-22 {
  {
-         TODO: Frage: greift GOTT 'übernatürlich' ein, wenn man mit Jauchzen und Loben beginnt? Die Judäer mussten ja nicht selbst kämpfen.
+  TODO: Frage: greift GOTT 'übernatürlich' ein, wenn man mit Jauchzen und Loben beginnt? Die Judäer mussten ja nicht selbst kämpfen.
  }
  {
   TODO: Wird hier <a class='kom' href='#Iam-1-11'>Am 1,11-15</a> erfüllt?
@@ -58474,6 +58663,9 @@
   <i>Evangelium von Jesus Christus</i>: <a class='kom' href='#Imt-4-23'>Mt&nbsp;4,23</a>.
   S.a. Vers 14.
  }
+ {
+  <i>Anfang des → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium[Evangeliums]</i>: §phil-4-15
+ }
 #}
 #mk-1-2 {
  {
@@ -64839,6 +65031,11 @@
   Auch wenn der Teufel hinter der Überlieferung steht, ist doch <i>alles</i> in die Hände des Herrn gegeben.
  }
 #}
+#joh-13-9 {
+ {
+  <i>Hände und Füsse waschen</i> vgl §2mo-40-31
+ }
+#}
 #joh-13-10 {
  {
   Wie können die Jünger rein sein, wenn sie nicht einmal verstanden, dass ihr Herr gekreuzigt werden muss?
@@ -68914,6 +69111,9 @@
 #}
 #apg-16-9 {
  {
+  → biblisches/Orte/Macedonien
+ }
+ {
    TODO: Wer ist dieser mazedonische Mann?
  }
 #}
@@ -69312,7 +69512,7 @@
 #}
 #apg-18-5 {
  {
-  → biblisches/Personen/Silvanus-Silas, → biblisches/Personen/Timotheus/index
+  → biblisches/Personen/Silvanus-Silas, → biblisches/Personen/Timotheus/index, → biblisches/Orte/Macedonien
  }
  {
   <i>Jesus der Christus</i>: <a class='kom' href='#Imt-16-20'>Mt&nbsp;16,20</a>. Hier wird dies bezeugt, in
@@ -69355,6 +69555,9 @@
  }
 #}
 #apg-18-12 {
+ {
+  → biblisches/Orte/Achaja
+ }
  {
   <i>Richterstuhl</i>: <a class='kom' href='#Imt-27-19'>Mt&nbsp;27,19</a>.
  }
@@ -69458,6 +69661,9 @@
  }
 #}
 #apg-18-27 {
+ {
+  → biblisches/Orte/Achaja
+ }
  {
   Apollos war zwar eine grosse Hilfe, aber 'nicht der, der pflanzt, noch der, der begiesst, ist etwas, sondern Gott, der das Gedeihen gibt'.
   Trotzdem wird jeder entsprechend seiner eigenen Arbeit Lohn empfangen (<a href='http://bibel.renenyffenegger.ch/1kor_3.html#v7'>1.&nbsp;Kor&nbsp;3,7-8</a>).
@@ -69565,6 +69771,9 @@
 #}
 #apg-19-21 {
  {
+  → biblisches/Orte/Achaja, → biblisches/Orte/Macedonien
+ }
+ {
   TODO: Wurde Paulus hier verhindert, Rom zu sehen (<a class='kom' href='#Iroem-1-13'>Röm&nbsp;1,13</a>)?
  }
 #}
@@ -69660,6 +69869,9 @@
 @}
 @Apostelgeschichte 20 {
 #apg-20-1 {
+ {
+  → biblisches/Orte/Macedonien
+ }
  {
   Paulus liess bei seiner Abreise nach Mazedonien Timotheus in Ephesus zurück, damit&hellip; <a href='http://bibel.renenyffenegger.ch/1tim_1.html#v3'>1.&nbsp;Tim&nbsp;1,3</a>.
   <br>Er hat vor, wieder zu Timotheus zu kommen (<a href='http://bibel.renenyffenegger.ch/1tim_4.html#v13'>1.&nbsp;Tim&nbsp;4,13</a>), dieses Kommen könnte sich aber
@@ -72818,6 +73030,9 @@
 #}
 #roem-15-26 {
  {
+  → biblisches/Orte/Achaja, → biblisches/Orte/Macedonien
+ }
+ {
   Vgl mit <a class='kom' href='#Iapg-2-45'>Apg&nbsp;2,45</a> (wo sich die Gläubigen in Jerusalem alle Güter teilten, je nachdem
   einer bedürftig war).
  }
@@ -73640,6 +73855,9 @@
  }
 #}
 #1kor-4-17 {
+ {
+  Später wird → biblisches/Personen/Paulus → biblisches/Personen/Timotheus anweisen, in Paulus' Abwesenheit mit Vorlesen, Ermahnen und Lehren etc. anzuhalten: §1tim-4-13
+ }
  {
   → biblisches/Personen/Timotheus/index ist noch nicht angekommen (und gemäss <a class='kom' href='#I1kor-16-10'>1.&nbsp;Kor&nbsp;16,10</a> ist es gar nicht sicher, ob er überhaupt ankommt.).
  }
@@ -75227,6 +75445,9 @@
 #}
 #1kor-16-5 {
  {
+  → biblisches/Orte/Macedonien
+ }
+ {
   TODO: Hat Paulus Mazedonien durchzogen, und ist er nach Korinth gekommen? <a href='http://bibel.renenyffenegger.ch/2kor_1.html#v15'>2.&nbsp;Kor&nbsp;1,15</a> scheint
   darauf hinzuweisen, dass dieser Plan nicht in Erfüllung ging. Dabei hätte Paulus gewollt, dass die Korinther eine
   'weitere Gnade empfangt' (ebenda).
@@ -75286,6 +75507,9 @@
   <i>Haus des Stephanas</i>: §+1kor-1-16.
   <i>Epänetus</i> (<a href='http://bibel.renenyffenegger.ch/roem_16.html#v5'>Röm&nbsp;16,5</a>) gehörte möglicherweise zu Stephanas Haus. Dieser ging nach Rom
     (<a href='http://bibel.renenyffenegger.ch/roem_16.html#v5'>Röm&nbsp;16,5</a>).
+ }
+ {
+  → biblisches/Orte/Achaja
  }
 #}
 #1kor-16-16 {
@@ -75360,6 +75584,9 @@
 { 2. Korinther
 @2. Korinther 1 {
 #2kor-1-1 {
+ {
+  → biblisches/Orte/Achaja
+ }
  {
    Zu den Autoren <i>Paulus und Timotheus</i> siehe <a class='kom' href='#I1kor-1-1'>1.&nbsp;Kor&nbsp;1,1</a>.
  }
@@ -75461,6 +75688,11 @@
   TODO: vgl mit Plänen in <a class='kom' href='#I1kor-16-5'>1.&nbsp;Kor&nbsp;16,5</a>.
  }
 #}
+#2kor-1-16 {
+ {
+  → biblisches/Orte/Macedonien
+ }
+#}
 #2kor-1-19 {
  {
    → biblisches/Personen/Silvanus-Silas, → biblisches/Personen/Timotheus/index
@@ -75540,6 +75772,9 @@
  }
 #}
 #2kor-2-13 {
+ {
+  → biblisches/Orte/Macedonien
+ }
  {
   TODO: Wäre Paulus geblieben, wenn er Titus gefunden hätte? Immerhin war ihm ja eine Tür geöffnet im Herrn.
  }
@@ -75876,6 +76111,9 @@
 #}
 #2kor-7-5 {
  {
+  → biblisches/Orte/Macedonien
+ }
+ {
   TODO: <a class='kom' href='#I2kor-2-13'>2.&nbsp;Kor&nbsp;2,13</a>
  }
 #}
@@ -75920,6 +76158,11 @@
 #}
 @}
 @2. Korinther 8 {
+#2kor-8-1 {
+ {
+  → biblisches/Orte/Macedonien
+ }
+#}
 #2kor-8-3 {
  {
    TODO: Vgl <i>über sein Vermögen</i> mit <a class='kom' href='#I2kor-1-8'>2.&nbsp;Kor&nbsp;1,8</a>.
@@ -75972,6 +76215,14 @@
 #2kor-9-1 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/index#dienst-fuer-die-heiligen
+ }
+#}
+#2kor-9-2 {
+ {
+  → biblisches/Orte/Achaja
+ }
+ {
+  Vgl §2kor-11-10
  }
 #}
 #2kor-9-5 {
@@ -76128,6 +76379,9 @@
 #}
 #2kor-11-9 {
  {
+  → biblisches/Orte/Macedonien
+ }
+ {
   <i>Zur Last fallen</i>: vgl <a href='http://bibel.renenyffenegger.ch/2kor_12.html#v13'>2.&nbsp;Kor&nbsp;12,13</a>,
   <a href='http://bibel.renenyffenegger.ch/1thes_2.html#v9'>1.&nbsp;Thes&nbsp;2,9</a>,
   <a href='http://bibel.renenyffenegger.ch/2thes_3.html#v8'>2.&nbsp;Thes&nbsp;3,8</a>)
@@ -76136,7 +76390,16 @@
    Paulus arbeitete als Zeltmacher in Korinth <a href='http://bibel.renenyffenegger.ch/apg_18.html#v3'>Apg&nbsp;18,3</a>.
  }
  {
-  Vgl die helfenden <i>Brüder aus Mazedonien</i> mit den helfenden Philipppern (<a class='kom' href='#Iphil-4-16'>Phil&nbsp;4,16</a>).
+  Vgl die helfenden <i>Brüder aus Mazedonien</i> mit den helfenden Philipppern, §+phil-4-16. → biblisches/Orte/Philippi liegt in
+  → biblisches/Orte/Macedonien, §apg-16-12.
+ }
+#}
+#2kor-11-10 {
+ {
+  → biblisches/Orte/Achaja
+ }
+ {
+  Vgl §2kor-9-2
  }
 #}
 #2kor-11-14 {
@@ -78781,6 +79044,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-4-15 {
  {
+  → biblisches/Orte/Macedonien
+ }
+ {
+  <i>Anfang des → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium[Evangeliums]</i>: §mk-1-1
+ }
+ {
   <a class='kom' href='#Iapg-17-10'>Apg&nbsp;17,10</a>.
  }
  {
@@ -79608,6 +79877,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-1-7 {
  {
+  → biblisches/Orte/Achaja, → biblisches/Orte/Macedonien
+ }
+ {
   <i>Vorbilder</i>: <span class='gr'>τύπος</span>, Strongs 5179.
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/2thes_3.html#v9'>2.&nbsp;Thes&nbsp;3,9</a>
   <br>TODO: Die Korinther (die doch in Achaja sind?), sind nicht Vorbilder geworden. <a class='kom' href='#Iapg-18-1'>Apg&nbsp;18,1</a>.
@@ -80038,6 +80310,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1thes-4-10 {
+ {
+  → biblisches/Orte/Macedonien
+ }
  {
    <i>reichlicher zuzunehmen</i> vgl §V1thes-4-1 
  }
@@ -80707,6 +80982,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-1-3 {
  {
+  → biblisches/Orte/Macedonien
+ }
+ {
   <i>Fremde Lehren</i>: <a class='kom' href='#I1tim-6-3'>1.&nbsp;Tim&nbsp;6,3</a>
   <a href='http://bibel.renenyffenegger.ch/hebr_13.html#v9'>Hebr&nbsp;13,9</a>.
  }
@@ -81271,6 +81549,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1tim-4-13 {
+ {
+  → biblisches/Personen/Paulus hatte → biblisches/Personen/Timotheus in Paulus' Abwesenheit bereits nach Korinth gesandt, um die Korinther an Paulus' Wege in Christus zu erinnern, §+1kor-4-17.
+ }
  {
   TODO: <a class='kom' href='#Iapg-20-1'>Apg&nbsp;20,1</a>.
  }
