@@ -58641,6 +58641,9 @@
  {
   Beachte: Unter Paulus gibt es keine Anweisung, alle Völker zu Jüngern zu machen.
  }
+ {
+  Vgl §mk-16-15
+ }
 #}
 #mt-28-20 {
  {
@@ -60267,7 +60270,10 @@
 #}
 #mk-16-15 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/kol_1.html#v23'>Kol&nbsp;1,23</a>.
+  <i>predigt das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium der ganzen Schöpfung</i> Vgl §kol-1-23.
+ }
+ {
+  Vgl §mt-28-19
  }
 #}
 #mk-16-16 {
@@ -60511,6 +60517,11 @@
   <i>in Finsternis und Todesschatten sitzen</i> vgl §mt-4-16
  }
 #}
+#lk-1-80 {
+ {
+  <i>Das Kindlein aber wuchs</i> §lk-2-40
+ }
+#}
 @}
 @Lukas 2 {
 #lk-2-1 {
@@ -60669,6 +60680,9 @@
  }
 #}
 #lk-2-40 {
+ {
+  <i>Das Kindlein aber wuchs</i> §lk-1-80
+ }
  {
   <i>Das Kindlein … erstarkte</i> vgl §jes-9-5
  }
@@ -66985,6 +66999,9 @@
  {
   <i>Dem Glauben gehorsam werden</i>: <a class='kom' href='#Iroem-1-5'>Röm&nbsp;1,5</a>.
  }
+ {
+  <i>Das Wort wuchs</i>: §apg-12-24, §apg-19-20
+ }
 #}
 #apg-6-8 {
  {
@@ -67674,7 +67691,7 @@
 #}
 #apg-9-15 {
  {
-  <i>Paulus</i>: den Namen des Herrn vor Heiden, Könige und die Kinder Israels zu tragen. Er muss leiden um seines Namens willen.
+  → biblisches/Personen/Paulus: den Namen des Herrn vor Heiden, Könige und die Kinder Israels zu tragen. Er muss leiden um seines Namens willen.
   Vgl <a href='http://bibel.renenyffenegger.ch/gal_1.html#v16'>Gal&nbsp;1,16</a>: Den Herrn unter den Heiden durch das Evangleium zu verkünden.
   Vgl auch <a class='kom' href='#Igal-2-7'>Gal&nbsp;2,7</a>.
   Er nennt sich auch <i>Apostel der Heiden</i> (<a href='http://bibel.renenyffenegger.ch/roem_11.html#v13'>Röm&nbsp;11,13</a>,
@@ -68341,6 +68358,11 @@
 #apg-12-23 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
+ }
+#}
+#apg-12-24 {
+ {
+  <i>Das Wort Gottes aber wuchs</i>: §apg-6-7, §apg-19-20
  }
 #}
 #apg-12-25 {
@@ -69768,13 +69790,16 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
  }
+ {
+  Also wuchs das Wort</i>: §apg-6-7, §apg-12-24
+ }
 #}
 #apg-19-21 {
  {
   → biblisches/Orte/Achaja, → biblisches/Orte/Macedonien
  }
  {
-  TODO: Wurde Paulus hier verhindert, Rom zu sehen (<a class='kom' href='#Iroem-1-13'>Röm&nbsp;1,13</a>)?
+  Wurde → biblisches/Personen/Paulus hier verhindert, Rom zu sehen, §+roem-1-13?
  }
 #}
 #apg-19-22 {
@@ -70865,6 +70890,9 @@
 #}
 #apg-28-2 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Barbar, <span class='gr'>βάρβαρος</span> (Strongs 915), in Elberfelder mit «Eingeborene», in Sch2K mit «Einwohner» übersetzt.
+ }
+ {
   Das Wort <i>Freundlichkeit</i> ist im Griechischen <span class='gr'>φιλανθρωπία</span> (Strongs 5363). Dasselbe
   Wort wird in <a href='http://bibel.renenyffenegger.ch/tit_3.html#v4'>Tit&nbsp;3,4</a> mit <i>Menschenliebe</i>
   übersetzt.
@@ -71156,23 +71184,34 @@
  {
   Vgl <i>mich verlangt euch zu sehen</i> mit §roem-15-23: «habe grosses Verlangen, zu euch zu kommen». S.a. §+phil-1-8, §+1thes-2-8, §1thes-2-17, §2tim-1-4. §2kor-9-14.
  }
+ {
+  <i>befestigen</i>: §roem-16-25. Beachte auch, dass bei den Korinthern das »Zeugnis des Christus befestigt worden ist«: §1kor-1-6, 2kor-1-21. Vgl §kol-2-7, §1thes-3-2
+ }
 #}
 #roem-1-12 {
  {
   <i>mit … getröstet</i>: <span class='gr'>συμπαρακαλέω</span> (Strongs 4837, 1x). Beachte die Vorsilbe <span class='gr'>συμ</span>.
  }
  {
-  <i>mit euch → biblisches/Eigene-Uebersetzung/Konkordanz/Trost#durch-glauben-anderer-getroestet[getröstet] zu werden in eurer Mitte, ein jeder durch den Glauben, der im anderen ist</i> vgl §1thes-3-7
+  <i>mit euch → biblisches/Eigene-Uebersetzung/Konkordanz/Trost#durch-glauben-anderer-getroestet[getröstet] zu werden in eurer Mitte,
+  ein jeder durch den Glauben, der im anderen ist</i> vgl §1thes-3-7, §2thes-2-17
  }
 #}
 #roem-1-13 {
  {
-  TODO: Wurde er in <a href='http://bibel.renenyffenegger.ch/apg_19.html#v21'>Apg&nbsp;19,21</a> verhindert?
+  Wurde er in §apg-19-21 verhindert? Vgl §roem-15-22
+ }
+ {
+  <i>auch unter euch Frucht haben</i> vgl §phil-4-17
  }
 #}
 #roem-1-14 {
  {
-  TODO: Aber kein Schuldner der Juden.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Barbar
+ }
+ {
+  Zumindest hier ist → biblisches/Personen/Paulus kein Schuldner der Juden. Dies ist nicht erstaunlich, er ist der
+  → biblisches/Personen/Paulus/Apostel-der-Nationen.
  }
 #}
 #roem-1-15 {
@@ -71180,7 +71219,10 @@
    Vgl mit §roem-15-20: → biblisches/Personen/Paulus/ will das Evangelium nur dort verkündigen, wo der Name des Christus noch nicht bekannt ist.
  }
  {
-   TODO: Das Evangelium scheint nicht nur für die Ungläubigen zu sein. Vgl auch <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v1'>1.&nbsp;Kor&nbsp;15,1</a>,
+  <i>Ebenso bin ich … bereitwillig</i>: Sch2K übersetzt mit «darum bin ich bereit …», KJV mit «So, as much as in me is, I am ready …».
+ }
+ {
+   Das Evangelium scheint nicht nur für die Ungläubigen zu sein. Vgl auch <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v1'>1.&nbsp;Kor&nbsp;15,1</a>,
    wo Paulus zwar sagt, dass die Korinther das Evangelium <i>angenommen haben</i>, aber durch dieses <i>gerettet werden, wenn sie an dem Wort festhalten</i>.
  }
 #}
@@ -71257,6 +71299,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
  }
  {
+  <i>unsichtbar</i>: §kol-1-15, §1tim-1-17, §hebr-11-27
+ }
+ {
   <i>Göttlichkeit</i> (<span class='gr'>θειότης</span>, Strongs 2305, 1x).
  }
  {
@@ -71280,6 +71325,9 @@
 #roem-1-23 {
  {
   <i>Bild</i>: siehe <a class='kom' href='#Imt-22-20'>Mt&nbsp;22,20</a>.
+ }
+ {
+   <i>zu Narren geworden</i>: <span class='gr'>μωραίνω</span> (Strongs 3471) vgl §1kor-1-20 
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/ps_106.html#v20'>Ps&nbsp;106,20</a>.
@@ -72470,8 +72518,7 @@
 #}
 #roem-11-13 {
  {
-   Paulus, Apostel der Heiden:
-     <a href='http://bibel.renenyffenegger.ch/eph_3.html#v1'>Eph&nbsp;3,1</a>,
+   → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, der Apostel der Nationen]
      <a href='http://bibel.renenyffenegger.ch/1tim_2.html#v7'>1.&nbsp;Tim&nbsp;2,7</a>
      <br>Beachte, dass der Apostel der Heiden ein «Hebräer von Hebräern» war (<a href='http://bibel.renenyffenegger.ch/phil_3.html#v5'>Phil&nbsp;3,5</a>).
    <br>vgl <a  class='kom' href='#Iapg-9-15'>Apg&nbsp;9,15</a> und <a href='http://bibel.renenyffenegger.ch/gal_1.html#v16'>Gal&nbsp;1,16</a>,
@@ -72991,7 +73038,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder. Vgl §2kor-12-12
  }
  {
-   TODO: Wann hat Paulus in Jerusalem das Evangelium verkündigt?
+   Wann hat Paulus in Jerusalem das Evangelium verkündigt?
  }
 #}
 #roem-15-20 {
@@ -73007,6 +73054,11 @@
 #roem-15-21 {
  {
   Verweis: §jes-52-15
+ }
+#}
+#roem-15-22 {
+ {
+   Vgl roem-1-13
  }
 #}
 #roem-15-23 {
@@ -73287,6 +73339,10 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
  {
+  <i>befestigen</i>: §roem-1-11. Vgl auch §1thes-3-2, wo → biblisches/Personen/Timotheus im → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium
+  des Christus gesandt worden ist, um die Thessalonicher zu befestigen und zu trösten.
+ }
+ {
   TODO: http://bibletruthfortoday.com/sitebuildercontent/sitebuilderfiles/ws_11_6_11_the_mystery_that_paul_teaches_romans-16_25_27.mp3,
   http://bibletruthfortoday.com/sitebuildercontent/sitebuilderfiles/ws_2_8_15_what_the_mystery_reveals_that_it_is_not_in_prophecy_rom_16_25_27.mp3,
   http://bibletruthfortoday.com/sitebuildercontent/sitebuilderfiles/ws_2_15_15_what_the_mystery_explains_that_is_not_in_prophecy_rom_16_25_27.mp3
@@ -73305,7 +73361,8 @@
 #}
 #roem-16-27 {
  {
-  <i>dem allein weisen Gott</i>: §jud-1-25
+  Vgl den Schluss des → biblisches/Bücher/Paulus/Römerbrief mit dem Schluss des
+  → biblisches/Bücher/jüdische-Briefe/Judas[Judasbriefes]: §jud-1-25
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben[ihm sei die Herrlichkeit]
@@ -73372,6 +73429,11 @@
 #1kor-1-5 {
  {
   <i>Reich an Erkenntnis</i>: vgl <a class='kom' href='#Iroem-15-14'>Röm&nbsp;15,14</a>.
+ }
+#}
+#1kor-1-6 {
+ {
+  <i>befestigt worden ist</i>: §V1kor-1-8, §2kor-1-21, §+roem-1-11
  }
 #}
 #1kor-1-7 {
@@ -73485,6 +73547,9 @@
 #1kor-1-20 {
  {
   <i>Weisheit der Welt</i>: vgl mit der «Weisheit Ägyptens» (<a href='http://bibel.renenyffenegger.ch/apg_7.html#v22'>Apg&nbsp;7,22</a>, <a href='http://bibel.renenyffenegger.ch/2mo_4.html#v10'>2.&nbsp;Mo&nbsp;4,10</a>).
+ }
+ {
+  <i>zur Torheit gemacht</i> <span class='gr'>μωραίνω</span> (Strongs 3471), vgl §roem-1-23
  }
 #}
 #1kor-1-21 {
@@ -73725,6 +73790,9 @@
  {
   <i>Niemand betrüge sich selbst</i> vgl §+1kor-6-9, §2thes-2-3, §1joh-1-8.
  }
+ {
+  <i>werde er töricht</i>: §1kor-4-10 (Dasselbe Wort wie «Narren»)
+ }
 #}
 #1kor-3-19 {
  {
@@ -73824,6 +73892,9 @@
 #1kor-4-10 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+ }
+ {
+  <i>Wir sind Narren</i>: §kor-3-18 (Dasselbe Wort wie «törricht»)
  }
 #}
 #1kor-4-12 {
@@ -75024,13 +75095,10 @@
 #}
 #1kor-14-11 {
  {
-  'Fremder' im Griechischen ein <span class='gr'>βάρβαρος</span> (Strongs 915), siehe auch <a class='kom' href='#Iapg-28-2'>Apg&nbsp;28,2</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Barbar, <span class='gr'>βάρβαρος</span> (Strongs 915), in Sch2K mit «Fremder» übersetzt.
  }
  {
-  'Sinn' im Griechischen <span class='gr'>δύναμις</span>, welches meist mit 'Kraft', 'Wundertaten' usw übersetzt wird.
- }
- {
-  TODO: <i>Sinn</i> (Strongs 1411) möglicherweise besser übesetzt mit 'Kraft'
+  <i>Sinn</i>, <span class='gr'>δύναμις</span> (Strongs 1411), wird meist mit «Kraft», «Wundertaten» etc übersetzt.
  }
 #}
 #1kor-14-12 {
@@ -76698,13 +76766,11 @@
 #}
 #gal-1-16 {
  {
-  TODO: <i>Paulus, der Apostel für die Heiden</i>. Siehe auch <a class='kom' href='#Iapg-9-15'>Apg&nbsp;9,15</a> (Paulus muss den Namen den Heiden, den Königen und <i>vor die Kinder Israels</i> tragen),
-  <a href='http://bibel.renenyffenegger.ch/roem_11.html#v13'>Röm&nbsp;11,13</a>
-  <a href='http://bibel.renenyffenegger.ch/2tim_4.html#v17'>2.&nbsp;Tim&nbsp;4,17</a>.
-  <br>Frage: Warum aber mussten die Heiden durch <i>Petrus'</i> Mund das Evangelium hören (<a href='http://bibel.renenyffenegger.ch/apg_15.html#v7'>Apg&nbsp;15,7</a>)?
+  → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, der Apostel der Nationen]. Vgl §roem-11-13 §2tim-4-17.
+  <br>Frage: Warum aber mussten die Heiden durch <i>Petrus'</i> Mund das Evangelium hören (§apg-15-7)?
   <br>
-  vgl <a href='http://bibel.renenyffenegger.ch/roem_1.html#v5'>Röm&nbsp;1,5</a> und
-  <a href='http://bibel.renenyffenegger.ch/2tim_1.html#v11'>2.&nbsp;Tim&nbsp;1,11</a>.
+  vgl §roem-1-5 und
+  §2tim-1-11.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
@@ -76795,13 +76861,14 @@
   <i>vergeblich laufen</i> vgl §+phil-2-16
  }
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium, → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung,
+  → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, der Apostel der Nationen].
+ }
+ {
   TODO: <span class='gr'>κατ᾽ ἰδίαν</span> (Strongs 2596+2398): <a class='kom' href='#Imt-14-13'>Mt&nbsp;14,13</a>.
  }
  {
   TODO: Hat Paulus den Heiden ein anderes Evangelium verkündet wie Petrus, Jakobus und Johannes den Juden?
- }
- {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
 #}
 #gal-2-3 {
@@ -77778,7 +77845,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Epheser 3 {
 #eph-3-1 {
  {
-  <i>Paulus für die Heiden</i>: <a class='kom' href='#Iroem-11-13'>Röm&nbsp;11,13</a>.
+  → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, der Apostel der Nationen]
  }
  {
   → biblisches/Personen/Paulus/Gefangener, vgl §eph-4-1
@@ -78044,7 +78111,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-4-18 {
  {
-  <i>verfinstert am Verstand</i> vgl §eph-4-18
+  <i>verfinstert am Verstand</i> vgl §roem-1-21
  }
 #}
 #eph-4-19 {
@@ -79071,6 +79138,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: <i>Nach</i> ist offenbar lokales, nicht ein temporales Adverb.
  }
 #}
+#phil-4-17 {
+ {
+  <i>ich suche die Frucht</i> vgl §roem-1-13 
+ }
+#}
 #phil-4-18 {
  {
   Vgl <a class='kom' href='#Iroem-12-1'>Röm&nbsp;12,1</a>.
@@ -79233,6 +79305,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl <a class='kom' href='#Ijoh-14-9'>Joh&nbsp;14,9</a>.
  }
+ {
+  <i>unischtbarer Gott</i>: 1tim-1-17, §hebr-11-27, §roem-1-20
+ }
 #}
 #kol-1-16 {
  {
@@ -79283,7 +79358,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Epaphras</i> ist ein Diener des Christus: <a class='kom' href='#Ikol-1-7'>Kol&nbsp;1,7</a>.
  }
  {
-  Vgl <a class='kom' href='#Imk-16-15'>Mk&nbsp;16,15</a>.
+  <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium, das der ganzen Schöpfung gepredigt worden ist</i> vgl §+mk-16-15.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, vgl §Vkol1-5
@@ -79405,6 +79480,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #kol-2-7 {
  {
   <i>Danksagung</i>: <a class='kom' href='#Ikol-1-12'>Kol&nbsp;1,12</a>.
+ }
+ {
+  <i>befestigt</i>: §+roem-1-11
  }
 #}
 #kol-2-8 {
@@ -79560,6 +79638,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #kol-3-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Barbar
+ }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/gal_3.html#v28'>Gal&nbsp;3,28</a>.
  }
@@ -80135,7 +80216,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Diener Gottes</i>: <a class='kom' href='#I1kor-4-1'>1.&nbsp;Kor&nbsp;4,1</a>.
  }
  {
-  Sie sandten Timotheus, die Thessaloniker (ihres Glaubens halber) zu trösten, wurden dann aber nach Timotheus' Rückkehr selbst durch den Glauben der Thessaloniker getröstet (§V1thes-3-7)
+  Sie sandten Timotheus, die Thessalonicher (ihres Glaubens halber) zu trösten, wurden dann aber nach Timotheus' Rückkehr selbst durch den Glauben der Thessaloniker getröstet (§V1thes-3-7)
+ }
+ {
+  <i>befestigen</i>: §roem-1-11, §+roem-16-25
  }
  {
   → biblisches/Personen/Paulus/Mitarbeiter
@@ -81118,6 +81202,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
+ {
+  <i>unsichtbarer Gott</i>: §kol-1-15, §hebr-11-27, §roem-1-20
+ }
 #}
 #1tim-1-18 {
  {
@@ -81202,10 +81289,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <i>Ich sage die Wahrheit und lüge nicht</i>: vgl §roem-9-1, §2kor-11-31, §gal-1-20
  }
  {
+  → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, der Apostel der Nationen]
   <i>Lehrer und Apostel</i>: §+1kor-12-29 und
   §2tim-1-11.
-  <br>
-  <i>Lehrer der Nationen</i>: §+roem-11-13.
  }
  {
   <i>Lehrer der Nationen</i> vgl → biblisches/Personen/Nikodemus, der »Lehrer Israels« genannt wird (§joh-3-10).
@@ -81520,7 +81606,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-4-10 {
  {
-  <i>Lebendiger Gott</i>: <a class='kom' href='#I1tim-3-15'>1.&nbsp;Tim&nbsp;3,15</a>.
+  <i>Lebendiger Gott</i>: §+1tim-3-15.
+ }
+ {
+  <i>Erhalter aller Menschen</i>: §1tim-6-13
  }
 #}
 #1tim-4-11 {
@@ -81786,6 +81875,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Vor Gott gebieten</i>: <a class='kom' href='#I1tim-5-21'>1.&nbsp;Tim&nbsp;5,21</a>.
  }
  {
+  <i>der alles am Leben erhält</i>: §1tim-4-10
+ }
+ {
   Pilatus: <a class='kom' href='#Imt-27-2'>Mt&nbsp;27,2</a>.
  }
 #}
@@ -81940,14 +82032,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-1-11 {
  {
-  TODO: <i>Paulus, der Apostel für die Heiden</i>: <a class='kom' href='#Igal-1-16'>Gal&nbsp;1,16</a>.
-         <br>
-  Paulus, Apostel der Heiden: siehe <a class='kom' href='#Iapg-9-15'>Apg&nbsp;9,15</a>.
-  Betreffend Lehrer siehe <a href='http://bibel.renenyffenegger.ch/apg_13.html#v1'>Apg&nbsp;13,1</a>, dort
-  nach <i>Saulus</i> genannt.
- }
- {
-  Vgl auch <a class='kom' href='#I1tim-2-7'>1.&nbsp;Tim&nbsp;2,7</a>.
+  → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, der Apostel der Nationen]
  }
 #}
 #2tim-1-13 {
@@ -82099,6 +82184,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Gerechtigkeit</i>: Dir Schrift erzieht darin (<a href='http://bibel.renenyffenegger.ch/2tim_3.html#v16'>2.&nbsp;Tim&nbsp;3,16</a>),
   Krone der Gerechtigkeit (<a href='http://bibel.renenyffenegger.ch/2tim_4.html#v8'>2.&nbsp;Tim&nbsp;4,8</a>).
+ }
+#}
+#2tim-2-23 {
+ {
+  §tit-3-9
  }
 #}
 #2tim-2-24 {
@@ -82790,6 +82880,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #tit-3-9 {
  {
   <i>Geschlechtsregister</i>: §+1tim-1-4, → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
+ }
+ {
+  §tim-2-23
  }
  {
   TODO: Warum wird hier Strongs 3544 mit «Gesetz» übersetzt? Interessanterweise kommt es in Vers 13 («Gesetzesgelehrter»° wieder vor.
@@ -84348,6 +84441,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-11-27 {
  {
   <i>als sähe er ihn</i>: <a class='kom' href='#Ihebr-2-8'>Hebr&nbsp;2,8</a>.
+ }
+ {
+  <i>den Unsichtbaren</i>: §kol-1-15, §1tim-1-17, §roem-1-20
  }
 #}
 #hebr-11-28 {
@@ -86570,6 +86666,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>wachst aber in … der Erkenntnis …</i>: §2petr-1-2.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben[Ihm sei die Herrlichkeit]
+ }
 #}
 @}
 }
@@ -87416,7 +87515,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jud-1-25 {
  {
-  <i>dem allein weisen Gott</i>: §roem-16-27. Vgl «unseren alleinigen Gebieter» §Vjud-1-4
+  Vergleiche den Schluss des → biblisches/Bücher/jüdische-Briefe/Judas[Judasbrief] mit dem Schluss des → biblisches/Bücher/Paulus/Römerbrief[Römerbriefes]: §roem-16-27
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
@@ -87550,6 +87649,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Wolke</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_10.html#v1'>Offb&nbsp;10,1</a>,
   <a href='http://bibel.renenyffenegger.ch/offb_11.html#v12'>Offb&nbsp;11,12</a>,
   <a href='http://bibel.renenyffenegger.ch/offb_14.html#v14'>Offb 14,14-16</a>
+ }
+ {
+  <i>jedes Auge wird ihn sehen</i> vgl §offb-22-4
  }
 #}
 #offb-1-8 {
@@ -89254,10 +89356,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-11-13 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
+  Beachte: Die übrigen wurden voll Furcht und → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben[gaben dem Gott des Himmels die Ehre],
+  in §offb-19-7 sagt die Stimme einer grossen Volksmenge: «lasst uns fröhlich sein und ihm die Ehre geben».
+  Noch in §Voffb-11-10 hatten sich die «übrigen» gefreut und gefrohlockt über den Tod der zwei Zeugen.
  }
  {
-  TODOBeachte: in <a href='http://bibel.renenyffenegger.ch/offb_14.html#v7'>Offb&nbsp;14,7</a> spricht ein Engel: '... gebt Gott die Ehre ... ',
+  TODO Beachte: in <a href='http://bibel.renenyffenegger.ch/offb_14.html#v7'>Offb&nbsp;14,7</a> spricht ein Engel: '... gebt Gott die Ehre ... ',
   in <a href='http://bibel.renenyffenegger.ch/offb_16.html#v9'>Offb&nbsp;16,9</a> tun die Menschen nicht Busse und geben keine Ehre.
   TODO: Einige sagen dann aber in <a href='http://bibel.renenyffenegger.ch/offb_19.html#v7'>Offb&nbsp;19,7</a> 'lasst uns Ehre geben'.
   <br>Beachte auch, dass der Engel fordert, <i>Gott</i>, nicht <i>Gott des Himmels</i> Ehre zu geben, und ihn zu fürchten. Hier fürchten sich die
@@ -89814,6 +89918,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <a class='kom' href='#Ioffb-13-7'>Offb&nbsp;13,7</a>.
  }
+ {
+  <span class='gt'>MT: einen Engel - TR/NA: einen anderen Engel.<br>Es scheint hier keinen Sinn zu machen, mit «<i>einen anderen Engel</i>» zu übersetzen, denn auf welchen Engel sollte sich <i>anderen</i> beziehen?</span>
+ }
 #}
 #offb-14-7 {
  {
@@ -89843,6 +89950,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-14-9 {
  {
   <i>Stirn</i> siehe <a class='kom' href='#Ioffb-7-3'>Offb&nbsp;7,3</a>.
+ }
+ {
+  <span class='gt'>MT/NA: ein anderer, dritter Engel - NA: Ein dritter Engel</span>
  }
 #}
 #offb-14-10 {
@@ -90618,7 +90728,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-19-7 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
+  Beachte: hier sagen sie «Lasst uns frohlocken und → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben[ihm die Ehre geben]». Die «übrigen» in
+  §+offb-11-13 werden voll Furcht und geben Gott die Ehre.
  }
  {
   <i>Hochzeit</i>: <a class='kom' href='#Imt-9-15'>Mt&nbsp;9,15</a>.
@@ -91068,6 +91179,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-22-4 {
  {
   <i>Name auf der Stirn</i>: §+offb-14-1.
+ }
+ {
+  <i>sein Angesicht sehen</i>, vgl §offb-1-7
  }
 #}
 #offb-22-5 {
