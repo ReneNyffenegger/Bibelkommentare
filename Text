@@ -63261,6 +63261,9 @@
    </ul>
    Beachte: 'sie blieben wenige Tage dort' in <a href='http://bibel.renenyffenegger.ch/joh_2.html#v12'>Joh&nbsp;2,12</a>.
  }
+ {
+  Die Sünde ist: nicht an Seinen Namen glauben: §joh-16-9. Die Sünde ist durch einen Menschen in die Welt gekommen: §roem-5-12
+ }
 #}
 #joh-1-30 {
  {
@@ -63622,7 +63625,10 @@
 #}
 #joh-3-16 {
  {
-   Vgl §roem-5-8
+  Vgl §1joh-4-9
+ }
+ {
+   Vgl §roem-5-8. Dort ist Christus <i>für die Sünder gestorben</i>, hier ist er gegeben.
  }
 #}
 #joh-3-19 {
@@ -71213,6 +71219,9 @@
   Zumindest hier ist → biblisches/Personen/Paulus kein Schuldner der Juden. Dies ist nicht erstaunlich, er ist der
   → biblisches/Personen/Paulus/Apostel-der-Nationen.
  }
+ {
+  <i>Schuldner</i>: §roem-8-12, §roem-15-27, §+roem-13-8
+ }
 #}
 #roem-1-15 {
  {
@@ -71656,7 +71665,7 @@
   Vgl. mit «unserer Gerechtigkeit» wenn das Gesetz gehalten wird: §+5mo-6-25
  }
  {
-   → biblisches/Bücher/Paulus/Römerbrief#roemer-jetzt-aber[Jetzt aber im Römerbrief] 
+   → biblisches/Bücher/Paulus/Römerbrief#roemer-jetzt-aber[»Jetzt aber« im Römerbrief] 
  }
 #}
 #roem-3-22 {
@@ -71686,9 +71695,8 @@
  {
   <i>Sühne</i> im → biblisches/Grundtext → biblisches/Grundtext/Wörter/G2435-hilasterion[ἱλαστήριον], kommt noch in §hebr-9-5 vor. Sch2K und Elberfelder übersetzen mit «Gnadenstuhl», KJV mit «propitiation».
     Die → biblisches/Grundtext/LXX übersetzt → biblisches/Grundtext/Wörter/H3727-kapporeth[כַּפֹּרֶת] (Den Deckel auf die Lade des Bundes, zB §2mo-25-17) mit ἱλαστήριον.
- }
- {
-  <i>Sühne</i>: §1joh-2-2, §1joh-4-10
+  <br>
+   Vgl §1joh-2-2, §1joh-4-10
  }
 #}
 #roem-3-26 {
@@ -71852,7 +71860,9 @@
 #}
 #roem-5-8 {
  {
-  Vgl §joh-3-16, §2kor-5-14, §eph-2-4-ff §eph-5-2
+  Vgl §2kor-5-14, §eph-2-4-ff §eph-5-2
+  <br>
+   Vgl auch §joh-3-16, wo der Tod Christi nicht erwähnt worden ist.
  }
 #}
 #roem-5-9 {
@@ -71888,6 +71898,9 @@
  }
  {
   <i>durch einen Menschen</i>: vgl §ps-51-7. Vgl auch §hi-14-4.
+ }
+ {
+  Die <i>Sünde</i> wird durch das Lamm Gottes weggenommen: §joh-1-29. Die Sünde ist: nicht an Seinen Namen glauben: §joh-16-9.
  }
  {
    TODO: Müsste 'weil' besser mit 'worauf' ersetzt werden? Offenbar wird <i>epi ho + Dativ</i> sonst
@@ -72092,6 +72105,11 @@
     <a href='http://bibel.renenyffenegger.ch/1kor_3.html#v16'>1.&nbsp;Kor&nbsp;3,16-17</a>,
     <a href='http://bibel.renenyffenegger.ch/1kor_6.html#v19'>1.&nbsp;Kor&nbsp;6,19</a>,
     <a href='http://bibel.renenyffenegger.ch/2kor_6.html#v16'>2.&nbsp;Kor&nbsp;6,16</a>
+ }
+#}
+#roem-8-12 {
+ {
+  <i>Schuldner</i>: §roem-1-14, §roem-15-27
  }
 #}
 #roem-8-14 {
@@ -72812,13 +72830,18 @@
     <a href='http://bibel.renenyffenegger.ch/hebr_8.html#v2'>Hebr&nbsp;8,2</a>.
  }
 #}
-#roem-13-7 {
+#roem-13-8 {
  {
-  <i>Jemandem etwas schuldig sein</i>: einander lieben (Vers 8),
-  die gegenseite Zuneigung der Ehepartner (<a href='http://bibel.renenyffenegger.ch/1kor_7.html#v3'>1.&nbsp;Kor&nbsp;7,3</a>),
-  für die Brüder das Leben hingeben (<a href='http://bibel.renenyffenegger.ch/1joh_3.html#v16'>1.&nbsp;Joh&nbsp;3,16</a>),
-  einander zu Lieben (<a href='http://bibel.renenyffenegger.ch/1joh_4.html#v11'>1.&nbsp;Joh&nbsp;4,11</a>)
-   <br>TODO: <a href='http://bibel.renenyffenegger.ch/phim_1.html#v19'>Phim&nbsp;1,19</a>
+  <i>Seid niemand etwas schuldig …</i>: vgl §roem-15-1, §roem-15-27, §roem-1-4
+  <br><i>… als nur einander zu lieben</i>: §eph-5-28, §1joh-3-16
+ }
+ {
+  TODO: <i>Jemandem etwas schuldig sein</i>: einander lieben (Vers 8),
+  die gegenseite Zuneigung der Ehepartner (§1kor-7-3),
+  für die Brüder das Leben hingeben (§1joh-3-16),
+  einander zu Lieben (§1joh-4-11)
+   <br>
+     §phim-1-19
  }
 #}
 #roem-13-10 {
@@ -73065,7 +73088,7 @@
 #}
 #roem-15-23 {
  {
-   <i>Habe grosses Verlangen</i>: Vgl §+roem-1-11.
+   <i>Habe grosses Verlangen, zu euch zu kommen</i>: Vgl §+roem-1-11.
  }
 #}
 #roem-15-25 {
@@ -73100,6 +73123,11 @@
  {
    <i>Sammlung</i>, im Griechischen <span class='gr'>κοινωνία</span>, wird häufig mit 'Gemeinschaft' übersetzt
    (zB in <a href='http://bibel.renenyffenegger.ch/apg_2.html#v42'>Apg&nbsp;2,42</a>)
+ }
+#}
+#roem-15-27 {
+ {
+  <i>Schuldner</i>: §roem-1-14, §roem-8-12
  }
 #}
 #roem-15-28 {
@@ -74235,8 +74263,12 @@
   <i>Jemandem etwas schuldig sein</i>: <a class='kom' href='#Iroem-13-7'>Röm&nbsp;13,7</a>.
  }
  {
-  <i>Zuneigung</i> <span class='gr'>εὔνοια</span> (Strongs 2133, 2x) wird in Elberfelder und Menge mit «eheliche Pflicht», in Menge mit «schuldige Ehepflicht» und
-  in KJV mit «due benevolence» übersetzt. Das selbe Wort wird in <a href='http://bibel.renenyffenegger.ch/eph_6.html#v7'>Eph&nbsp;6,7</a> mit «gutem Willen» übersetzt.
+  <i>Zuneigung</i> <span class='gr'>εὔνοια</span> (Strongs 2133, 2x) wird in §eph-6-7 mit «Gutwilligkeit» übersetzt.
+  <br>
+  Das Wort fehlt im kritischen Text.
+ }
+ {
+  <span class='gt'>NA/TR: geschuldete Zuneigung, MT: Pflicht</span>
  }
 #}
 #1kor-7-4 {
@@ -78358,6 +78390,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Gemeinde ohne Flecken und Runzeln</i>: vgl <a class='kom' href='#I2kor-7-1'>2.&nbsp;Kor&nbsp;7,1</a>.
  }
 #}
+#eph-5-28 {
+ {
+  <i>schuldig, ihre Frauen zu lieben</i>: §+roem-13-8
+ }
+#}
 #eph-5-30 {
  {
   <i>von seinem Fleisch und seinen Gebeinen</i>: Beachte, dass dieser Ausdruck in <a class='kom' href='#I1mo-2-23'>1.&nbsp;Mo&nbsp;2,23</a> vorkommt, und der nächste Vers ein Zitat
@@ -78429,7 +78466,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>dienen</i>: <a class='kom' href='#Iroem-1-9'>Röm&nbsp;1,9</a>
  }
  {
-  <i>gutem Willen</i>: <a class='kom' href='#I1kor-7-3'>1.&nbsp;Kor&nbsp;7,3</a>.
+  <i>Gutwilligkeit</i>: §+1kor-7-3.
  }
 #}
 #eph-6-8 {
@@ -86764,7 +86801,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1joh-2-2 {
  {
-  <i>Er ist die Sühnung für unsere Sünden</i> vgl §1joh-4-10
+  <i>Er ist die Sühnung für unsere Sünden</i> vgl §1joh-4-10, §roem-3-25
+ }
+ {
+  <i>Sühnung</i>: <span class='gr'>ἱλασμός</span> (Strongs 2434, 2x)
  }
 #}
 #1joh-2-3 {
@@ -87049,7 +87089,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   in <a href='http://bibel.renenyffenegger.ch/1joh_4.html#v9'>1.&nbsp;Joh&nbsp;4,9</a>.
  }
  {
-  <i>Jemandem etwas schuldig sein</i>: <a class='kom' href='#Iroem-13-7'>Röm&nbsp;13,7</a>.
+  <i>wir sind schuldig …</i>: §+roem-13-8, §1joh-4-11
  }
 #}
 #1joh-3-18 {
@@ -87117,17 +87157,23 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1joh-4-9 {
  {
+  §joh-3-16
+ }
+ {
   TODO: <i>Liebe geoffenbart</I>: <a class='kom' href='#I1joh-3-16'>1.&nbsp;Joh&nbsp;3,16</a>.
  }
 #}
 #1joh-4-10 {
  {
-  <i>… als eine Sühnung für unsere Sünden</i> vgl §1joh-2-2
+  <i>… als eine Sühnung für unsere Sünden</i> vgl §1joh-2-2, §roem-3-25
+ }
+ {
+  <i>Sühnung</i>: <span class='gr'>ἱλασμός</span> (Strongs 2434, 2x)
  }
 #}
 #1joh-4-11 {
  {
-  <i>Jemandem etwas schuldig sein</i>: <a class='kom' href='#Iroem-13-7'>Röm&nbsp;13,7</a>.
+  <i>schuldig, einander zu lieben</i>: <a class='kom' href='#Iroem-13-7'>Röm&nbsp;13,7</a>.
  }
 #}
 #1joh-4-12 {
