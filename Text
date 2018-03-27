@@ -6431,7 +6431,8 @@
 #}
 #1mo-46-11 {
  {
-  → biblisches/Personen/Kahat
+  → biblisches/Personen/Kahat,
+  → biblisches/Personen/Gerson-Kahat-und-Merari
  }
  {
   Siehe <a class='kom' href='#I4mo-26-55'>4.&nbsp;Mo&nbsp;26,55</a>.
@@ -7493,6 +7494,9 @@
  }
 #}
 #2mo-6-16 {
+ {
+  → biblisches/Personen/Gerson-Kahat-und-Merari
+ }
  {
   <object data="svg_alle_kapitel/2mo_6_16.svg" type="image/svg+xml" width=620 height=320></object>
  }
@@ -10025,6 +10029,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Stein/edel#onyxstein[Onyxsteine]
  }
  {
+  TODO: Ist das das <i>Brustschild des Gerichts</i>? §2mo-28-15
+ }
+ {
   TODO: Das wort für <i>Besatz</i> ist Strongs 4394, siehe <a class='kom' href='#I2mo-29-22'>2.&nbsp;Mo&nbsp;29,22</a>.
  }
  {
@@ -11489,6 +11496,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Monat/Aehren
  }
 #}
+#2mo-34-19 {
+ {
+  <i>das → biblisches/Eigene-Uebersetzung/Konkordanz/Erstgeburt[Erstgeborene] ist mein</i>: §4mo-3-13, §4mo-8-17
+ }
+#}
 #2mo-34-21 {
  {
   Vgl §2mo-20-8-ff, §2mo-23-12. Beachte: Hier wird «→ biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat» nur als Verb(?) erwähnt.
@@ -11849,7 +11861,7 @@
 #}
 #2mo-38-29 {
  {
-   Vgl <a href='http://bibel.renenyffenegger.ch/4mo_7.html#v85'>4.&nbsp;Mo&nbsp;7,85</a>.
+  <i>2400 → biblisches/Eigene-Uebersetzung/Konkordanz/Schekel</i> Vgl §4mo-7-85.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Webopfer
@@ -15202,7 +15214,7 @@
 #}
 #4mo-3-13 {
  {
-  Siehe <a href='http://bibel.renenyffenegger.ch/2mo_12.html#v29'>2.&nbsp;Mo&nbsp;12,29</a>.
+  Siehe §2mo-12-29.
  }
 #}
 #4mo-3-15 {
@@ -15256,7 +15268,8 @@
 #}
 #4mo-3-17 {
  {
-  → biblisches/Personen/Kahat
+  → biblisches/Personen/Kahat,
+  → biblisches/Personen/Gerson-Kahat-und-Merari
  }
 #}
 #4mo-3-19 {
@@ -15657,7 +15670,12 @@
 #}
 #4mo-7-85 {
  {
-  Vgl <a class='kom' href='#I2mo-38-29'>2.&nbsp;Mo&nbsp;38,29</a>.
+  <i>2400 → biblisches/Eigene-Uebersetzung/Konkordanz/Schekel</i> Vgl §2mo-38-29
+ }
+#}
+#4mo-7-86 {
+ {
+  <i>Zwölf goldene Schalen voll Räucherwerk</i>: §offb-5-8
  }
 #}
 #4mo-7-89 {
@@ -15692,7 +15710,12 @@
 #}
 #4mo-8-17 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Erstgeburt, vgl §3mo-3-12
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Erstgeburt, vgl §2mo-34-19, §4mo-3-13
+ }
+#}
+#4mo-8-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten]
  }
 #}
 #4mo-8-19 {
@@ -15706,7 +15729,7 @@
 #4mo-8-24 {
  {
   Beachte: Hier beginnen die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] ihren Dienst mit 25 Jahren, später wird das wohl auf 20 Jahre gesenkt: §1chr-23-24.
-  Vgl auch §4mo-4-35, wo der Dienst dann mit 30 Jahren beginnt.
+  Vgl auch §4mo-4-35, wo der Dienst mit 30 Jahren beginnt.
  }
 #}
 #4mo-8-25 {
@@ -15760,9 +15783,9 @@
 @4. Mose 10 {
 #4mo-10-2 {
  {
-  Die <i>Trompete</i> kommt offenbar in <a href='http://bibel.renenyffenegger.ch/4mo_31.html#v6'>4.&nbsp;Mo&nbsp;31,6</a> zum Einsatz.
+  Die <i>Trompete</i> kommt offenbar in §4mo-31-6 zum Einsatz. Vgl §V4mo-10-5.
   <br>
-  Trompete vs «Posaune» im Alten Testament: <a class='kom' href='#I2mo-19-16'>2.&nbsp;Mo&nbsp;19,16</a>.
+  Trompete vs «Posaune» im Alten Testament: §+2mo-19-16.
  }
 #}
 #4mo-10-3 {
@@ -15798,8 +15821,10 @@
 #}
 #4mo-10-12 {
  {
-  <i>Paran</i> siehe <a class='kom' href='#I1mo-21-21'>1.&nbsp;Mo&nbsp;21,21</a>.
-  <br>Das Volk scheint sich 'erst' in <a href='http://bibel.renenyffenegger.ch/4mo_12.html#v16'>4.&nbsp;Mo&nbsp;12,16</a> in Paran zu lagern, nachdem
+  <i>Paran</i> siehe §+1mo-21-21.
+ }
+ {
+  TODO: Das Volk scheint sich 'erst' in §4mo-12-16 in Paran zu lagern, nachdem
   sie von Hazerot aufbrachen. TODO: oder lagern sie sich <i>wieder</i> in der Wüste Paran?
  }
 #}
@@ -16471,10 +16496,11 @@
 #}
 #4mo-16-32 {
  {
-  Die Söhne von Korah gehörten nicht zu <i>ihren Familien</i> (od. Häusern): <a href='http://bibel.renenyffenegger.ch/4mo_26.html#v11'>4.&nbsp;Mo&nbsp;26,11</a>.
-  <br>Gemäss <a href='http://bibel.renenyffenegger.ch/ps_106.html#v16'>Ps 106,16-17</a> öffnete sich die Erde, weil sie (dort im Zusammenhang: die Israeliten)
+  Die Söhne von → biblisches/Personen/Korah/Sohn-von-Jizhar gehörten nicht zu <i>ihren Familien</i> (od. Häusern): <a href='http://bibel.renenyffenegger.ch/4mo_26.html#v11'>4.&nbsp;Mo&nbsp;26,11</a>.
+  <br>Gemäss §ps-106-16-17 öffnete sich die Erde, weil sie (dort im Zusammenhang: die Israeliten)
   eifersüchtig auf Mose und Aaron wurden.
-  <br>TODO: Vgl auch <a href='http://bibel.renenyffenegger.ch/jud_1.html#v11'>Jud&nbsp;1,11</a>.
+  <br>
+ 	Vgl auch §jud-1-11.
  }
 #}
 #4mo-16-35 {
@@ -16490,6 +16516,9 @@
  }
 #}
 #4mo-17-5 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
  {
   <i>Räucherwerk</i> darf offensichtlich nur vom Samen Aarons geopfert werden. (TODO: wo ist das entsprechende Gesetz?).
   Aber selbst Aarons Nachkommen müssen es richtig machen (kein Fremdes Feuer), TODO: siehe <a href='http://bibel.renenyffenegger.ch/3mo_10.html#v1'>3.&nbsp;Mo&nbsp;10,1</a>
@@ -17036,9 +17065,6 @@
 #}
 #4mo-22-18 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/2chr_18.html#v13'>2.&nbsp;Chr&nbsp;18,13</a>.
- }
- {
   <i>ich vermöchte nicht, den Befehl Jehovas zu übertreten</i>: vgl §V4mo-24-13
   <br>Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Befehl-des-HERRN.
  }
@@ -17177,8 +17203,11 @@
 #}
 #4mo-24-13 {
  {
-  <i>ich vermöchte nicht, den Befehl Jehovas zu übertregen</i>: vgl <a class='kom' href='#I4mo-22-18'>4.&nbsp;Mo&nbsp;22,18</a>.
+  <i>ich vermöchte nicht, den Befehl Jehovas zu übertregen</i>: vgl §+4mo-22-18.
   <br>Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Befehl-des-HERRN.
+ }
+ {
+  <i>Was der HERR reden wird, das werde ich reden</i> Vgl §2chr-18-13.
  }
 #}
 #4mo-24-14 {
@@ -17323,7 +17352,7 @@
 #}
 #4mo-26-10 {
  {
-  vgl <a href='http://bibel.renenyffenegger.ch/4mo_16.html#v32'>4.&nbsp;Mo&nbsp;16,32</a>, §4mo-16-35
+  → biblisches/Personen/Korah/Sohn-von-Jizhar, vgl §4mo-16-32, §4mo-16-35
  }
 #}
 #4mo-26-11 {
@@ -17467,7 +17496,15 @@
   noch die neuen (?) Namen <i>Muschi</i> und <i>Korah</i>.
  }
 #}
+#4mo-26-57 {
+ {
+  → biblisches/Personen/Gerson-Kahat-und-Merari
+ }
+#}
 #4mo-26-58 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
  {
   Beachte: Amram ist nicht der einzige Sohn von Kahat.
  }
@@ -17499,6 +17536,11 @@
 #4mo-27-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft, → biblisches/Personen/Eleasar/Aaron
+ }
+#}
+#4mo-27-3 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
  }
 #}
 #4mo-27-5 {
@@ -17672,7 +17714,8 @@
   → biblisches/Personen/Eleasar/Aaron
  }
  {
-  <i>Trompete</i>: §+4mo-10-2.
+  <i>Trompeten zumm Lärmblasen</i>: §+4mo-10-2, §4mo-10-5. Wenn im Streit gegen den Bedränger mit diesen Trompeten Lärm geblasen wird, werden sie gerettet werden vor
+  ihren Feinden, §4mo-10-9.
  }
 #}
 #4mo-31-8 {
@@ -27742,14 +27785,15 @@
   TODO: in <a href='http://bibel.renenyffenegger.ch/2chr_9.html#v25'>2.&nbsp;Chr&nbsp;9,25</a> 4000 Stallplätze.
  }
 #}
-#1koe-5-10 {
+#1koe-5-11 {
  {
   Etan, der Esrachiter hat den <a href='http://bibel.renenyffenegger.ch/ps_89.html#v1'>89. Psalm</a> geschrieben.
  }
-#}
-#1koe-5-11 {
  {
-  TODO: Heman, Kalkol und Dara (nicht Darda!) kommen auch in <a href='http://bibel.renenyffenegger.ch/1chr_2.html#v6'>1.&nbsp;Chr&nbsp;2,6</a> vor (aber als Söhne Searchs, des Juda).
+  TODO: Heman, Kalkol und Dara (nicht Darda!) kommen auch in §1chr-2-6 vor (aber als Söhne Searchs, des Juda).
+ }
+ {
+  TODO: Etan, ein Esrachiter und Heman, ein anderer Esrachiter schrieben je einen Psalm: §ps-88-1 und §ps-89-1.
  }
 #}
 #1koe-5-15 {
@@ -31503,7 +31547,8 @@
 #}
 #1chr-5-27 {
  {
-  → biblisches/Personen/Kahat
+  → biblisches/Personen/Kahat,
+  → biblisches/Personen/Gerson-Kahat-und-Merari
  }
  {
   <i>Die Söhne Levis</i> auch in <a href='http://bibel.renenyffenegger.ch/1chr_6.html#v1'>1.&nbsp;Chr&nbsp;6,1</a>.
@@ -31564,7 +31609,9 @@
 @1. Chronik 6 {
 #1chr-6-1 {
  {
-  → biblisches/Personen/Kahat, <i>Die Söhne Levis</i>: §+1chr-5-27.
+  → biblisches/Personen/Kahat, 
+	→ biblisches/Personen/Gerson-Kahat-und-Merari,
+	<i>Die Söhne Levis</i>: §+1chr-5-27.
  }
 #}
 #1chr-6-3 {
@@ -31580,6 +31627,11 @@
 #1chr-6-5 {
  {
   Der Cousin von Jachath heisst ebenfalls Jachath, §1chr-23-10
+ }
+#}
+#1chr-6-7 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
  }
 #}
 #1chr-6-13 {
@@ -31605,6 +31657,11 @@
 #1chr-6-19 {
  {
   Beachte: hier stammt Elkana von Levi ab, in <a class='kom' href='#I1sam-1-1'>1.&nbsp;Sam&nbsp;1,1</a> wird sein Vorfahre Zuph ein «Ephratiter» genannt.
+ }
+#}
+#1chr-6-22 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
  }
 #}
 #1chr-6-24 {
@@ -31881,6 +31938,9 @@
  }
 #}
 #1chr-9-19 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
  {
   Ist dies derselbe <i>Kore</i> wie jener aus §2chr-31-14?
  }
@@ -32496,6 +32556,11 @@
   <i>den HERRN loben…</i> vgl §2chr-23-18
  }
 #}
+#1chr-23-6 {
+ {
+  → biblisches/Personen/Gerson-Kahat-und-Merari
+ }
+#}
 #1chr-23-9 {
  {
    → biblisches/Personen/Haran
@@ -32543,7 +32608,8 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/Haus-Gottes
  }
  {
-  Beachte: hier dienen die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] ab 20 Jahren am Haus des Herrn, in §4mo-8-24 mussten sie den Dienst erst mit 25 Jahren beginnen.
+  Beachte: hier dienen die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] ab 20 Jahren am Haus des Herrn,
+ in §4mo-8-24 mussten sie den Dienst erst mit 25 Jahren beginnen. Vgl §esr-3-8.
  }
 #}
 #1chr-23-26 {
@@ -32642,7 +32708,7 @@
 @1. Chronik 26 {
 #1chr-26-1 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Torhüter
+  → biblisches/Personen/Korah/Sohn-von-Jizhar, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Torhüter
  }
 #}
 #1chr-26-4 {
@@ -33698,7 +33764,7 @@
 #}
 #2chr-18-13 {
  {
-  <a class='kom' href='#I4mo-22-18'>4.&nbsp;Mo&nbsp;22,18</a>.
+  Vgl §+4mo-24-13
  }
 #}
 #2chr-18-18 {
@@ -33767,10 +33833,7 @@
 #}
 #2chr-20-19 {
  {
-  → biblisches/Personen/Kahat
- }
- {
-  TODO <i>Söhne Korahs</i>: <a class='kom' href='#I4mo-26-11'>4.&nbsp;Mo&nbsp;26,11</a>.
+  → biblisches/Personen/Kahat, → biblisches/Personen/Korah/Sohn-von-Jizhar. Die Söhne von Korah starben nicht: §+4mo-26-11
  }
 #}
 #2chr-20-22 {
@@ -35013,6 +35076,9 @@
 #esr-3-8 {
  {
   Beachte: «Die Hände Serubbabels haben dieses Haus gegründet, seine Hände sollen es auch vollenden» (§sach-4-9).
+ }
+ {
+  Aufsicht ab 20 Jahren: §+1chr-23-24
  }
 #}
 #esr-3-10 {
@@ -38735,6 +38801,11 @@
 #}
 @}
 @Psalm 42 {
+#ps-42-1 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
+#}
 #ps-42-6 {
  {
   <i>Was beugst du dich… denn ich werde ihn noch preisen …</i>: vgl §+Vps-42-12
@@ -38760,6 +38831,11 @@
 #}
 @}
 @Psalm 44 {
+#ps-44-1 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
+#}
 #ps-44-2 {
  {
   Vorzeit kann offenbar auch Osten sein (siehe Strongs 6924)
@@ -38788,6 +38864,9 @@
 @}
 @Psalm 45 {
 #ps-45-1 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
  {
   (Melodie der) <i>Lilien</i> auch in <a href='http://bibel.renenyffenegger.ch/ps_60.html#v1'>Ps&nbsp;60,1</a>, <a href='http://bibel.renenyffenegger.ch/ps_69.html#v1'>Ps&nbsp;69,1</a> und
   <a href='http://bibel.renenyffenegger.ch/ps_80.html#v1'>Ps&nbsp;80,1</a>
@@ -38834,6 +38913,9 @@
 @Psalm 46 {
 #ps-46-1 {
  {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
+ {
   <i>Alamoth</i> (<span class='hebr'>עֲלָמ֥וֹת</span>) bedeutet eigentlich «Jungfrauen». Siehe auch <a class='kom' href='#I1chr-15-20'>1.&nbsp;Chr&nbsp;15,20</a>.
   <br>Vgl auch <a class='kom' href='#Ips-9-1'>Ps&nbsp;9,1</a>.
  }
@@ -38874,6 +38956,11 @@
 #}
 @}
 @Psalm 47 {
+#ps-47-1 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
+#}
 #ps-47-6 {
  {
   <i>emporgestiegen</i> vgl §ps-68-19
@@ -38891,6 +38978,11 @@
 #}
 @}
 @Psalm 48 {
+#ps-48-1 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
+#}
 #ps-48-2 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/heilig
@@ -38931,6 +39023,11 @@
 #}
 @}
 @Psalm 49 {
+#ps-49-1 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
+#}
 #ps-49-7 {
  {
    <i>Sich auf Vermögen verlassen</i>: vgl <a href='http://bibel.renenyffenegger.ch/ps_52.html#v8'>Ps&nbsp;52,8</a>.
@@ -39961,6 +40058,11 @@
 #}
 @}
 @Psalm 84 {
+#ps-84-1 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar 
+ }
+#}
 #ps-84-4 {
  {
   <i>Sperling</i>: siehe <a class='kom' href='#I4mo-22-2'>4.&nbsp;Mo&nbsp;22,2</a>.
@@ -40004,6 +40106,11 @@
 #}
 @}
 @Psalm 85 {
+#ps-85-1 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
+#}
 #ps-85-11 {
  {
   <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>.
@@ -40037,8 +40144,18 @@
  }
 #}
 @}
+@Psalm 87 {
+#ps-87-1 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
+#}
+@}
 @Psalm 88 {
 #ps-88-1 {
+ {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
  {
   <i>Machalath</i>: <a class='kom' href='#Ips-53-1'>Ps&nbsp;53,1</a>.
   <br>Nach <i>Machalath Leannot</i> bedeutet offenbar «mit gedämpfter Stimme vorzutragen».
@@ -87538,6 +87655,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jud-1-11 {
  {
+  → biblisches/Personen/Korah/Sohn-von-Jizhar: §+4mo-16-32
+ }
+ {
   Vgl <a class='kom' href='#I2petr-2-3'>2.&nbsp;Petr&nbsp;2,3</a>.
  }
  {
@@ -87548,7 +87668,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   TODO <i>Bileam</i>: <a class='kom' href='#I4mo-22-5'>4.&nbsp;Mo&nbsp;22,5</a>.
-  <br><i>Korah</i>: <a class='kom' href='#I4mo-16-32'>4.&nbsp;Mo&nbsp;16,32</a>.
  }
 #}
 #jud-1-12 {
@@ -88618,6 +88737,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-5-8 {
+ {
+  <i>goldene Schalen voll Räucherwerk</i>: §4mo-7-86
+ }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, als Gebet vgl §spr-27-9
  }
