@@ -43322,6 +43322,11 @@
   <i>Lehre</i>: <a class='kom' href='#Ispr-30-1'>Spr&nbsp;30,1</a>.
  }
 #}
+#spr-31-10 {
+ {
+  Offenbar sind die Anfangsbuchstaben der letzten → biblisches/Grundtext/Zahlen/index#n22 Verse der → biblisches/Bücher/Ketuvim/Sprüche akrostisch.
+ }
+#}
 #spr-31-13 {
  {
   <i>Wolle und Flachs</i>: Siehe <a class='kom' href='#I3mo-13-47'>3.&nbsp;Mo&nbsp;13,47</a>.
@@ -51336,6 +51341,11 @@
   mit «Tafelkost» übersetzt.
  }
 #}
+#dan-1-6 {
+ {
+  Angeblich ist der Zahlenwert von → biblisches/Personen/Daniel, Hananja, Misael und Asarja → biblisches/Grundtext/Zahlen#n888.
+ }
+#}
 #dan-1-7 {
  {
   Beltsazar (<span class='hebr'>בֵּלְטְשַׁאצַּר</span>),
@@ -51702,6 +51712,9 @@
  }
  {
   → biblisches/Personen/Belsazar
+ }
+ {
+  Angeblich ist der Zahlenwert dieses Verses → biblisches/Grundtext/Zahlen#n4662 (= 7 * 666).
  }
 #}
 #dan-7-2 {
@@ -64312,16 +64325,7 @@
 #}
 #joh-6-39 {
  {
-  <i>Letzter Tag</i>: <a href='http://bibel.renenyffenegger.ch/joh_9.html#v24'>Joh&nbsp;9,24</a>, in diesem Kapitel bis Vers 54,
-  <a href='http://bibel.renenyffenegger.ch/joh_7.html#v37'>Joh&nbsp;7,37</a>
-  <a href='http://bibel.renenyffenegger.ch/joh_11.html#v24'>Joh&nbsp;11,24</a>,
-  <a href='http://bibel.renenyffenegger.ch/joh_12.html#v48'>Joh&nbsp;12,48</a>.
-  <br>Vgl mit den «letzten Tagen» in
-   <a href='http://bibel.renenyffenegger.ch/apg_2.html#v17'>Apg&nbsp;2,17</a>,
-   <a href='http://bibel.renenyffenegger.ch/2tim_3.html#v1'>2.&nbsp;Tim&nbsp;3,1</a>,
-   <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v2'>Hebr&nbsp;1,2</a>
-   <a href='http://bibel.renenyffenegger.ch/jak_5.html#v3'>Jak&nbsp;5,3</a> und
-   <a href='http://bibel.renenyffenegger.ch/2petr_3.html#v3'>2.&nbsp;Petr&nbsp;3,3</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzter-tag, vgl §joh-7-37
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott
@@ -64984,7 +64988,7 @@
 #}
 #joh-11-24 {
  {
-  <i>Letzter Tag</i>: <a class='kom' href='#Ijoh-6-39'>Joh&nbsp;6,39</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzter-tag
  }
 #}
 #joh-11-25 {
@@ -65224,7 +65228,7 @@
 #}
 #joh-12-48 {
  {
-  <i>Letzter Tag</i>: <a class='kom' href='#Ijoh-6-39'>Joh&nbsp;6,39</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzter-tag
  }
 #}
 #joh-12-50 {
@@ -66407,7 +66411,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
  }
  {
-  <i>Letzte Tage</i>: <a class='kom' href='#Ijoh-6-39'>Joh&nbsp;6,39</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzte-tage
  }
  {
   TODO: Ist diese <i>Geistausgiessung</i> dasselbe, wie das in einen Leib hineingetauft werden aus <a href='http://bibel.renenyffenegger.ch/1kor_12.html#v13'>1.&nbsp;Kor&nbsp;12,13</a>.
@@ -68711,6 +68715,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge#synagoge-der-juden
  }
  {
+  → biblisches/Personen/Paulus wandte sich → biblisches/Personen/Paulus#paulus-juden-zuerst[zuerst an die Juden].
+ }
+ {
   TODO: Ist Johannes, der Diener, derselbe wie Markus, der Paulus in <a href='http://bibel.renenyffenegger.ch/2tim_4.html#v11'>2.&nbsp;Tim&nbsp;4,11</a> nützlich zum Dienst ist?
   (vgl <a href='http://bibel.renenyffenegger.ch/apg_15.html#v37'>Apg&nbsp;15,37</a>). Dann wäre dieser nämlich nach der Trennung von <a href='http://bibel.renenyffenegger.ch/apg_13.html#v13'>Apg&nbsp;13,13</a>
   und der Unwilligkeit Paulus', Markus mitzunehmen (<a href='http://bibel.renenyffenegger.ch/apg_15.html#v37'>Apg&nbsp;15,37</a>ff) eine Art rehabilitiert geworden.
@@ -68784,6 +68791,9 @@
  }
 #}
 #apg-13-14 {
+ {
+  → biblisches/Personen/Paulus wandte sich → biblisches/Personen/Paulus#paulus-juden-zuerst[zuerst an die Juden].
+ }
  {
   TODO: Was passiert mit Paulus' <i>Gefährten</i>? Ab Vers 43 scheinen nur noch Paulus und Barnabas zu wirken.
  }
@@ -69353,6 +69363,9 @@
   Deshalb wohl kennt auch Timotheus von Kindheit an die heiligen Schriften (<a href='http://bibel.renenyffenegger.ch/2tim_3.html#v15'>2.&nbsp;Tim&nbsp;3,15</a>).
  }
  {
+  → biblisches/Personen/Paulus wandte sich → biblisches/Personen/Paulus#paulus-juden-zuerst[zuerst an die Juden].
+ }
+ {
   TODO: hatte Paulus Timotheus schon in <a href='http://bibel.renenyffenegger.ch/apg_14.html#v6'>Apg&nbsp;14,6</a> kennengelernt?
   Vgl <a href='http://bibel.renenyffenegger.ch/2tim_3.html#v10'>2.&nbsp;Tim&nbsp;3,10-11</a>.
  }
@@ -69570,6 +69583,9 @@
   dass Paulus (und Barnabas und Titus?) unter den Heiden wirken sollten.
  }
  {
+  → biblisches/Personen/Paulus wandte sich → biblisches/Personen/Paulus#paulus-juden-zuerst[zuerst an die Juden].
+ }
+ {
   Vgl <i>Appolonia</i> mit <i>Apollo</i> §apg-18-24.
  }
  {
@@ -69639,6 +69655,9 @@
 #apg-17-10 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge#synagoge-der-juden
+ }
+ {
+  → biblisches/Personen/Paulus wandte sich → biblisches/Personen/Paulus#paulus-juden-zuerst[zuerst an die Juden].
  }
  {
   TODO: vgl <a href='http://bibel.renenyffenegger.ch/phil_4.html#v16'>Phil&nbsp;4,16</a>: Die Philipper haben nach Thessalonich einmal (ja gar zweimal)
@@ -69805,6 +69824,9 @@
   Paulus <i>überzeugte</i> nicht in 'hervorragender Rede oder Weisheit' oder in
   'überredenden Worten meschlicher Weisheit', sondern in 'in Erweisung des Geistes und der Kraft, damit
   der Glaube nicht auf Menschenweisheit beruhe, sondern auf Gottes Kraft'. (<a href='http://bibel.renenyffenegger.ch/1kor_2.html#v1'>1.&nbsp;Kor&nbsp;2,1-5</a>).
+ }
+ {
+  → biblisches/Personen/Paulus wandte sich → biblisches/Personen/Paulus#paulus-juden-zuerst[zuerst an die Juden].
  }
 #}
 #apg-18-5 {
@@ -70015,6 +70037,9 @@
  }
  {
   Beachte, dass er in der Schule 'Lehrgespräche' führte, in der Synagoge aber 'nur' 'Gespräche'.
+ }
+ {
+  → biblisches/Personen/Paulus wandte sich → biblisches/Personen/Paulus#paulus-juden-zuerst[zuerst an die Juden].
  }
  {
   TODO: <i>öffentlich</i>, in KJV: 'boldly', siehe auch <i>freimütig</i> in <a class='kom' href='#Iapg-2-29'>Apg&nbsp;2,29</a>.
@@ -71249,6 +71274,9 @@
  }
  {
   <i>Ich … habe nichts wider die väterlichen Gebräuche getan</i>: deshalb hat Paulus wohl → biblisches/Personen/Timotheus/index beschnitten (§apg-16-3).
+ }
+ {
+  → biblisches/Personen/Paulus wandte sich → biblisches/Personen/Paulus#paulus-juden-zuerst[zuerst an die Juden].
  }
 #}
 #apg-28-19 {
@@ -73133,6 +73161,9 @@
  {
   <i>Werke der Finsternis</i>: vgl <a class='kom' href='#Ieph-5-11'>Eph&nbsp;5,11</a>.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
+ }
 #}
 #roem-13-13 {
  {
@@ -73559,6 +73590,9 @@
 #roem-16-20 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#gott-des-der[Gott des] Friedens: §roem-15-33, §1kor-14-33, §2kor-13-11, §phil-4-9, §1thes-5-23
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
  }
 #}
 #roem-16-21 {
@@ -74687,6 +74721,11 @@
   TODO: Möglicherweise wurde Paulus auch wegen den Jungfrauen gefragt. Da es hierzu kein Wort des Herrn gibt, gibt Paulus die Lehre mit apostolischer Autorität.
  }
 #}
+#1kor-7-29 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
+ }
+#}
 #1kor-7-36 {
  {
    TODO: <i>Jungfrau</i> kann evtl auch mit «Jungfrauschaft» übersetzt werden. (Auch Vers 37).
@@ -75592,7 +75631,7 @@
  }
  {
   <i>Geringster Apostel</i>: vgl <a href='http://bibel.renenyffenegger.ch/eph_3.html#v8'>Eph&nbsp;3,8</a>.
-  Obwohl Paulus der geringste Apostel ist, steht der den ausgezeichnetsten in nichs nach: §+2kor-11-5.
+  Obwohl → biblisches/Personen/Paulus der geringste Apostel ist, steht der den ausgezeichnetsten in nichs nach: §+2kor-11-5.
   <br>Vgl auch <a class='kom' href='#Imt-11-11'>Mt&nbsp;11,11</a>.
  }
 #}
@@ -75750,7 +75789,7 @@
   <span class='u'>http://doctrine.org/the-rapture/</span>
  }
  {
-  <i>Wir werden nicht alle entschlafen</i>: vgl §2tim-4-6 («Die Zeit meines Abscheidens ist nahe»)
+  <i>Wir werden nicht alle entschlafen</i>: vgl §2tim-4-6 («Die Zeit meines Abscheidens ist nahe»), → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
  }
 #}
 #1kor-15-52 {
@@ -76935,6 +76974,8 @@
  {
    TODO: War Paulus zwei mal in Korinth?
    Es gibt Leute, die diese Stelle als die zweite, <i>noch bevorstehende</i> Anwesenheit von Paulus in Korinth interpretieren.
+  <br>
+   Andere deuten den <i>ersten Brief</i> als zweiten Besuch (<a href='http://www.askelm.com/restoring/res032.htm'>http://www.askelm.com/restoring/res032.htm</a>)
  }
 #}
 #2kor-13-3 {
@@ -78226,7 +78267,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-3-8 {
  {
-  <i>Allergeringster unter allen Heiligen</i>: <a class='kom' href='#I1kor-15-9'>1.&nbsp;Kor&nbsp;15,9</a>.
+  → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, der Apostel der Nationen].
+  <i>Allergeringster unter allen Heiligen</i>: §+1kor-15-9.
  }
 #}
 #eph-3-9 {
@@ -78678,7 +78720,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-5-31 {
  {
-   Vers ist zitiert aus §+1mo-2-24
+   Vers ist zitiert aus §+1mo-2-24. Vgl §+1tim-5-14
  }
 #}
 #eph-5-32 {
@@ -80753,6 +80795,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-4-15 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
  }
  {
@@ -81869,7 +81914,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @1. Timotheus 4 {
 #1tim-4-1 {
  {
-  <i>…, dass in späteren Zeiten etliche vom Glauben abfallen werden, …</i> vgl §2tim-3-1, §2petr-3-3
+  <i>…, dass in späteren Zeiten etliche vom Glauben abfallen werden, …</i> vgl §2tim-3-1, §2petr-3-3, → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
  }
  {
   <i>spätere Zeiten</i> in Luther 1912 übersetzt mit 'letzten Zeiten'. Der griechische Ausdruck ist
@@ -82004,7 +82049,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-5-14 {
  {
-  <i>Ich will, das jüngere heiraten</i>: <a class='kom' href='#I1kor-7-8'>1.&nbsp;Kor&nbsp;7,8</a>.
+  <i>Ich will, das jüngere heiraten</i>: §+1kor-7-8, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit, §eph-5-31
  }
  {
   <i>jüngere</i>: im Zusammenhang mit Vers 11 ist hier wohl «jüngere Witwen» gemeint.
@@ -82533,6 +82578,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @2. Timotheus 3 {
 #2tim-3-1 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzte-tage
+ }
+ {
   <table summary='kapitelüberblick'>
     <thead>
       <tr><td>Vers</td><td></td></tr>
@@ -82745,8 +82793,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-4-7 {
  {
-  <i>Den guten Kampf kämpfen</i>: Paulus hat Timotheus aufgefordern, diesen zu kämpfen und das ewige Leben zu ergreifen.
-         (<a href='http://bibel.renenyffenegger.ch/1tim_1.html#v18'>1.&nbsp;Tim&nbsp;1,18</a> / <a href='http://bibel.renenyffenegger.ch/1tim_6.html#v12'>1.&nbsp;Tim&nbsp;6,12</a>)
+  <i>Den guten Kampf kämpfen</i>: Paulus hat → biblisches/Personen/Timotheus aufgefordert, diesen zu kämpfen und das ewige Leben zu ergreifen, §1tim-1-18 / §1tim-6-12.
  }
  {
   → biblisches/Personen/Paulus hat den <i>Lauf vollendet</i> vgl §apg-20-24
@@ -83397,6 +83444,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #hebr-1-2 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzte-tage
+ }
  {
   Luther 1912 übersetzt <i>Hat er am letzten dieser Tagen zu uns geredet...</i>.
  }
@@ -85565,7 +85615,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-5-3 {
  {
-  <i>Letzte Tage</i>: <a class='kom' href='#Ijoh-6-39'>Joh&nbsp;6,39</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzte-tage
  }
 #}
 #jak-5-4 {
@@ -85792,7 +85842,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-1-20 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Grundlegung#vor-grundlegung[Vor Grundlegung der Welt]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Grundlegung#vor-grundlegung[Vor Grundlegung der Welt], → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
  }
  {
   TODO: vgl <i>offenbar gemacht werden</i>: <span class='gr'>φανερόω</span> (Strongs 5319) mit
@@ -86897,6 +86947,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   (Strongs 1703, 2x, noch in <a href='http://bibel.renenyffenegger.ch/jud_1.html#v18'>Jud&nbsp;1,18</a>).
  }
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzte-tage
+   <br>
   <i>…, dass in den letzten Tagen Spötter mit Spötterei…</i> vgl §1tim-4-1, §2tim-3-1
  }
  {
@@ -87248,7 +87300,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1joh-2-18 {
  {
-  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde, letzte Stunde vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
  }
 #}
 #1joh-2-20 {
