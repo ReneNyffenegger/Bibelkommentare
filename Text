@@ -63494,8 +63494,7 @@
   <i>wo er sich aufhielt</i> vgl §Vjoh-1-14
  }
  {
-  Der Tag hat 12 Stunden: <a href='http://bibel.renenyffenegger.ch/joh_11.html#v9'>Joh&nbsp;11,9</a>.
-  <br>TODO: <i>Stunde ist (noch nicht) gekommen</i>: <a class='kom' href='#Ijoh-2-4'>Joh&nbsp;2,4</a>
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
 #}
 #joh-1-41 {
@@ -63583,15 +63582,7 @@
 #}
 #joh-2-4 {
  {
-  <i>Stunde ist (noch nicht) gekommen</i>:
-     <a href='http://bibel.renenyffenegger.ch/joh_7.html#v30'>Joh&nbsp;7,30</a>,
-     <a href='http://bibel.renenyffenegger.ch/joh_8.html#v20'>Joh&nbsp;8,20</a>,
-     <a href='http://bibel.renenyffenegger.ch/joh_12.html#v23'>Joh&nbsp;12,23</a>,
-     <a href='http://bibel.renenyffenegger.ch/joh_13.html#v1'>Joh&nbsp;13,1</a>,
-     <a href='http://bibel.renenyffenegger.ch/joh_17.html#v1'>Joh&nbsp;17,1</a>
-  <br>Vgl auch 'es kommt die Stunde' <a href='http://bibel.renenyffenegger.ch/joh_4.html#v21'>Joh 4,21/23</a>,
-      <a href='http://bibel.renenyffenegger.ch/joh_5.html#v25'>Joh&nbsp;5,25</a>
-  <br>Vgl auch 'meine Zeit' in <a href='http://bibel.renenyffenegger.ch/joh_7.html#v6'>Joh&nbsp;7,6</a>
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
 #}
 #joh-2-9 {
@@ -63932,6 +63923,9 @@
 #}
 #joh-4-6 {
  {
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
+ }
+ {
   Das Griechische Wort für 'Brunnen' ist <span class='gr'>πηγή</span> (Strongs: 4077), dasselbe was in
   <a href='http://bibel.renenyffenegger.ch/joh_4.html#v14'>Vers 14</a> für 'Quelle' verwendet wird.
   Das Griechische Wort, welches in den <a href='http://bibel.renenyffenegger.ch/joh_4.html#v11'>Versen 11 und 12</a> für
@@ -63962,6 +63956,11 @@
 #joh-4-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+#}
+#joh-4-21 {
+ {
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
 #}
 #joh-4-23 {
@@ -64036,6 +64035,11 @@
  }
  {
   Vgl §apg-14-2-3
+ }
+#}
+#joh-4-52 {
+ {
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
 #}
 #joh-4-54 {
@@ -64141,7 +64145,7 @@
 #}
 #joh-5-25 {
  {
-  <i>Die Stunde kommt und ist schon da</i>: <a class='kom' href='#Ijoh-4-23'>Joh&nbsp;4,23</a>.
+  <i>Die → biblisches/Bücher/Evangelien/Johannes#joh-stunde[Stunde] kommt und ist schon da</i>: §+joh-4-23.
  }
  {
   <i>Die Stimme des Sohnes Gottes</i>. Vgl <a class='kom' href='#Ijoh-1-23'>Joh&nbsp;1,23</a>. Vgl mit <a href='http://bibel.renenyffenegger.ch/joh_10.html#v3'>Joh 10,3 ff</a>.
@@ -64153,6 +64157,9 @@
 #joh-5-28 {
  {
   <i>aus den Gräbern heraus</i>: <a class='kom' href='#Ips-107-20'>Ps&nbsp;107,20</a>.
+ }
+ {
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
 #}
 #joh-5-31 {
@@ -64445,7 +64452,7 @@
 #}
 #joh-7-30 {
  {
-  <i>Die Stunde ist (noch nicht) gekommen</i>: <a class='kom' href='#Ijoh-2-4'>Joh&nbsp;2,4</a>.
+  <i>Die → biblisches/Bücher/Evangelien/Johannes#joh-stunde[Stunde] ist (noch nicht) gekommen</i>: §+joh-2-4.
  }
 #}
 #joh-7-31 {
@@ -64599,7 +64606,7 @@
 #}
 #joh-8-20 {
  {
-  <i>Die Stunde ist (noch nicht) gekommen</i>: <a class='kom' href='#Ijoh-2-4'>Joh&nbsp;2,4</a>.
+  <i>Die → biblisches/Bücher/Evangelien/Johannes#joh-stunde[Stunde] ist (noch nicht) gekommen</i>: <a class='kom' href='#Ijoh-2-4'>Joh&nbsp;2,4</a>.
  }
  {
   <i>Opferkasten</i>: <a class='kom' href='#Imk-12-41'>Mk&nbsp;12,41</a>.
@@ -64607,10 +64614,9 @@
 #}
 #joh-8-21 {
  {
-  'Wohin ich gehe, könnt ihr nicht hingehen': vgl <a href='http://bibel.renenyffenegger.ch/joh_13.html#v33'>Joh&nbsp;13,33</a> und
-  <a href='http://bibel.renenyffenegger.ch/joh_14.html#v4'>Joh&nbsp;14,4</a>.
-  <br>Hier sagen die Juden 'Will er sich etwa selbst töten' und Petrus (Joh 13:36) fragt
-  'Herr, wohin gehst du?'.
+  'Wohin ich gehe, könnt ihr nicht hingehen': vgl §joh-13-33 und §joh-14-4.
+  <br>Hier sagen die Juden <i>Will er sich etwa selbst töten</i> und → biblisches/Personen/Petrus (Joh 13:36) fragt
+  «Herr, wohin gehst du?».
  }
 #}
 #joh-8-24 {
@@ -64942,9 +64948,14 @@
    Ist Lazarus → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/den-Jesus-liebte[der Jünger, den Jesus liebte]?
  }
 #}
+#joh-11-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/den-Jesus-liebte, → biblisches/Personen/Lazarus
+ }
+#}
 #joh-11-9 {
  {
-  <i>Stunden</i>: <a class='kom' href='#Ijoh-1-39'>Joh&nbsp;1,39</a>
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
  {
   TODO: Hier letztes Vorkommen von <i>Rabbi</i> (im NT und Johannesevangelium).
@@ -65089,6 +65100,9 @@
 #}
 #joh-12-27 {
  {
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
+ }
+ {
   <i>Jetzt ist mein Herz bestürzt</i> vgl §joh-14-1, §joh-13-21
  }
 #}
@@ -65222,7 +65236,7 @@
 @Johannes 13 {
 #joh-13-1 {
  {
-  <i>Die Stunde ist (noch nicht) gekommen</i>: <a class='kom' href='#Ijoh-2-4'>Joh&nbsp;2,4</a>.
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah
@@ -65251,6 +65265,8 @@
 #}
 #joh-13-10 {
  {
+  <i>ihr seid rein</i> vgl §joh-15-3
+<br>
   Wie können die Jünger rein sein, wenn sie nicht einmal verstanden, dass ihr Herr gekreuzigt werden muss?
  }
 #}
@@ -65318,15 +65334,17 @@
 #}
 #joh-13-33 {
  {
-   Hier ist 'Kinder' ist im Griechischen <span class='gr'>τεκνίον</span>, welches der Diminutiv von <span class='gr'>τέκνον</span> ist und somit vielleicht besser
-   mit 'Kindlein' übersetzt würde (wie es zum Beispiel in der Luther 1912 der Fall ist. Dieser Diminutiv kommt auch noch vor in
-   <a href='http://bibel.renenyffenegger.ch/gal_4.html#v19'>Gal&nbsp;4,19</a>, <a href='http://bibel.renenyffenegger.ch/1joh_2.html#v1'>1.&nbsp;Joh&nbsp;2,1</a>,
-   <a href='http://bibel.renenyffenegger.ch/1joh_2.html#v12'>1.&nbsp;Joh&nbsp;2,12</a>, <a href='http://bibel.renenyffenegger.ch/1joh_2.html#v28'>1.&nbsp;Joh&nbsp;2,28</a>
-   <a href='http://bibel.renenyffenegger.ch/1joh_3.html#v7'>1.&nbsp;Joh&nbsp;3,7</a>, <a href='http://bibel.renenyffenegger.ch/1joh_3.html#v18'>1.&nbsp;Joh&nbsp;3,18</a>
-   <a href='http://bibel.renenyffenegger.ch/1joh_4.html#v4'>1.&nbsp;Joh&nbsp;4,4</a> und <a href='http://bibel.renenyffenegger.ch/1joh_5.html#v21'>1.&nbsp;Joh&nbsp;5,21</a>.
+   Hier ist <i>Kinder</i> ist im Griechischen <span class='gr'>τεκνίον</span>, welches der Diminutiv von <span class='gr'>τέκνον</span> ist und somit vielleicht besser
+   mit «Kindlein» übersetzt würde (wie es zum Beispiel in der Luther 1912 der Fall ist. Dieser Diminutiv kommt auch noch vor in
+   §gal-4-19, §1joh-2-1, §1joh-2-12, §1joh-2-28 §1joh-3-7, §1joh-3-18 §1joh-4-4 und §1joh-5-21.
  }
  {
-   'Wohin ich gehe, könnt ihr nicht hingehen': <a class='kom' href='#Ijoh-8-21'>Joh&nbsp;8,21</a>.
+   <i>Wohin ich gehe, könnt ihr nicht hingehen</i>: <a class='kom' href='#Ijoh-8-21'>Joh&nbsp;8,21</a>.
+ }
+#}
+#joh-13-34 {
+ {
+  <i>Gebot, einander zu lieben</i>: §joh-15-12
  }
 #}
 #joh-13-37 {
@@ -65466,6 +65484,11 @@
   <br>TODO: Vgl mit <i>Weinstock der Erde</i>: <a href='http://bibel.renenyffenegger.ch/offb_14.html#v19'>Offb&nbsp;14,19</a>.
  }
 #}
+#joh-15-3 {
+ {
+  <i>ihr seid schon rein</i>: §joh-13-10
+ }
+#}
 #joh-15-5 {
  {
   <i>Könnt ihr nichts tun</i> §joh-5-19, §joh-8-28, §joh-9-33, §joh-15-5
@@ -65491,7 +65514,10 @@
 #}
 #joh-15-12 {
  {
-  <i>Gebot der Liebe</i> bis Vers 17. Beachte, dass im Anschluss erwähnt wird, dass die Welt seine Jünger hasst.
+  <i>
+   Gebot der Liebe</i> bis §Vjoh-15-17. Beachte, dass im Anschluss erwähnt wird, dass die Welt seine Jünger hasst. (Vgl Drache in → biblisches/Bücher/prophetisch/Offenbarung).
+  <br>
+   Vgl §joh-13-34
  }
 #}
 #joh-15-13 {
@@ -65549,6 +65575,9 @@
 @Johannes 16 {
 #joh-16-2 {
  {
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
+ }
+ {
   <i>aus der → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge ausschliessen</i> §joh-9-22, §mk-13-9, §lk-21-12
  }
 #}
@@ -65560,7 +65589,7 @@
   §+joh-14-5.
  }
  {
-  <i>Jetzt ber gehe ich hin zu dem…</i> §joh-17-13
+  <i>Jetzt aber gehe ich hin zu dem…</i> §joh-17-13
  }
 #}
 #joh-16-8 {
@@ -65578,12 +65607,20 @@
   <i>Kurze/lange/kleine Zeit</i> in Johannes: <a class='kom' href='#Ijoh-5-6'>Joh&nbsp;5,6</a>.
  }
 #}
+#joh-16-21 {
+ {
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
+ }
+#}
 #joh-16-23 {
  {
   <i>bitten in meinem Namen</i>: §joh-15-16
  }
 #}
 #joh-16-25 {
+ {
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
+ }
  {
   <i>Gleichnis</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse#paroimia[παροιμία]
  }
@@ -65598,6 +65635,9 @@
 #}
 #joh-16-32 {
  {
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
+ }
+ {
   <i>ich bin nicht allein, denn der Vater ist bei mir.</i> vgl «Mein Gott, mein Gott, warum hast du mich verlassen» (§mt-27-46, §mk-15-34).
  }
 #}
@@ -65605,7 +65645,7 @@
 @Johannes 17 {
 #joh-17-1 {
  {
-  <i>Die Stunde ist (noch nicht) gekommen</i>: <a class='kom' href='#Ijoh-2-4'>Joh&nbsp;2,4</a>.
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
  {
    <i>verherrlicht</i>: <a class='kom' href='#Ijoh-7-39'>Joh&nbsp;7,39</a>.
@@ -65752,6 +65792,11 @@
    der Hohepriester ist)?
  }
 #}
+#joh-18-15 {
+ {
+  <i>Der andere Jünger</i> war dem Hohenpriester Kajaphas bekannt. → biblisches/Personen/Johannes hingegen war Kajaphas nicht bekannt (§apg-4-6-13).
+ }
+#}
 #joh-18-18 {
  {
   <i>Kohlenfeuer</i> §joh-21-9
@@ -65835,6 +65880,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat
  }
 #}
+#joh-19-14 {
+ {
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
+ }
+#}
 #joh-19-15 {
  {
   Beachte, erst wollten sie einen König (<a href='http://bibel.renenyffenegger.ch/1sam_8.html#v5'>1.&nbsp;Sam&nbsp;8,5</a>), jetzt, wo sie ihren richtigen
@@ -65861,6 +65911,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/den-Jesus-liebte
+ }
+#}
+#joh-19-27 {
+ {
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
 #}
 #joh-19-28 {
@@ -68166,6 +68221,11 @@
        Vgl auch <a href='http://bibel.renenyffenegger.ch/apg_11.html#v12'>Apg&nbsp;11,12</a>.
  }
 #}
+#apg-10-20 {
+ {
+  <i>ohne irgend zu zweifeln</i>: §apg-11-12
+ }
+#}
 #apg-10-21 {
  {
   <span class='gt'>NA und MT lassen «die von Kornelius zu ihm gesandt worden waren» weg</span>.
@@ -68316,7 +68376,7 @@
 #}
 #apg-11-12 {
  {
-  <a class='kom' href='#Iapg-10-19'>Apg&nbsp;10,19</a>.
+  §+apg-10-19-20
  }
  {
   TODO: <i>sechs Brüder</i>: <a class='kom' href='#Iapg-6-3'>Apg&nbsp;6,3</a>.
@@ -87184,6 +87244,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1joh-2-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott
+ }
+#}
+#1joh-2-18 {
+ {
+  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
 #}
 #1joh-2-20 {
