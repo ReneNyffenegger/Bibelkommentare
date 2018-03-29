@@ -2925,7 +2925,7 @@
 #}
 #1mo-15-6 {
  {
-  Verweis: §roem-4-3
+  Verweis: §roem-4-3, §jak-2-23, vgl §gal-3-6
  }
  {
    Die Schrift erfüllte sich, als Abraham den Isaak auf dem Altar darbrachte (§jak-2-21-23, §1mo-22-9)
@@ -33812,7 +33812,7 @@
 #}
 #2chr-20-7 {
  {
-  → biblisches/Personen/Abraham, → biblisches/Eigene-Uebersetzung/Konkordanz/Freund Gottes §jes-41-8, §jak-2-23
+  → biblisches/Personen/Abraham#abraham-freund-gottes[Abraham, der Freund Gottes]: §jes-41-8, §jak-2-23
  }
 #}
 #2chr-20-9 {
@@ -37574,8 +37574,7 @@
    <i>ersinnen</i>: §+ps-1-2.
  }
  {
-  Der → biblisches/Bücher/Ketuvim/Psalmen/2[zweite Psalm] wurde vom «Knecht David» geschrieben §apg-4-25.
-  Vgl §ps-36-1
+  Der → biblisches/Bücher/Ketuvim/Psalmen/2[zweite Psalm] wurde vom «Knecht David» geschrieben §apg-4-25.  Vgl §ps-36-1
  }
  {
   <i>Warum toben die Nationen</i>: vgl §ps-46-7
@@ -37776,7 +37775,7 @@
 #}
 #ps-8-5 {
  {
-  Vgl §hebr-2-6
+  Verweis: §hebr-2-6
  }
  {
   TODO: Adam vs Ben Enosch
@@ -37798,6 +37797,11 @@
  }
  {
   <i>auf ihn achtest</i> wird in KJV mit 'visitest him' übersetzt.
+ }
+#}
+#ps-8-7 {
+ {
+  Verweis: §1kor-15-27
  }
 #}
 #ps-8-9 {
@@ -37981,10 +37985,7 @@
 #}
 #ps-16-8 {
  {
-  Die Verse 8-12 werden von Petrus in <a href='http://bibel.renenyffenegger.ch/apg_2.html#v25'>Apg&nbsp;2,25-28</a> zitiert.
- }
- {
-  TODO: Verse 8-10 werden in der Apostelgeschichte zwei Mal zitiert, siehe <a class='kom' href='#Iapg-2-27'>Apg&nbsp;2,27</a>.
+  Die Verse 8-11 werden von → biblisches/Personen/Petrus in §apg-2-25-28 zitiert. → biblisches/Personen/Paulus zitiert §Vps-16-10 in §apg-13-35.
  }
 #}
 #ps-16-10 {
@@ -38145,12 +38146,24 @@
 @Psalm 22 {
 #ps-22-2 {
  {
-  <i>Mein Gott, mein Gott, warum hast du mich verlassen</i> vgl §mt-27-46, §mk-15-34, §joh-16-32, §ps-71-11
+  Verweis: §mt-27-46, §mk-15-34.
+  <br>
+   Vgl §joh-16-32, §ps-71-11
  }
 #}
 #ps-22-19 {
  {
    <a class='kom' href='#Imt-27-35'>Mt&nbsp;27,35</a>.
+ }
+#}
+#ps-22-23 {
+ {
+  Verweis: §hebr-2-12. Beachte: In §hebr-2-11 wird ausdrücklich darauf hingewiesen, dass hier der Herr selbst spricht.
+ }
+#}
+#ps-22-26 {
+ {
+  Vgl §ps-116-14
  }
 #}
 #ps-22-32 {
@@ -41178,6 +41191,11 @@
 #ps-116-13 {
  {
     TODO: <i>Kelch meines Heils</i>.
+ }
+#}
+#ps-116-14 {
+ {
+  Vgl §ps-22-26
  }
 #}
 #ps-116-15 {
@@ -45783,7 +45801,7 @@
 #}
 #jes-41-8 {
  {
-  → biblisches/Personen/Abraham, → biblisches/Eigene-Uebersetzung/Konkordanz/Freund Gottes §2chr-20-7, §jak-2-23
+  → biblisches/Personen/Abraham#abraham-freund-gottes[Abraham, der Freund Gottes]: §2chr-20-7, §jak-2-23
  }
 #}
 #jes-41-9 {
@@ -46236,7 +46254,7 @@
   Siehe <a href='http://bibel.renenyffenegger.ch/1mo_12.html#v1'>1.&nbsp;Mo&nbsp;12,1</a>.
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/roem_4.html#v1'>Röm&nbsp;4,1</a>.
+  → biblisches/Personen/Abraham/Same#abraham-vater[Abraham, euer Vater]
  }
 #}
 #jes-51-3 {
@@ -51438,6 +51456,11 @@
   §1thes-5-1 (Was aber die Zeiten und Zeitpunkte betrifft, Brüder, so habt ihr nicht nötig, daß euch geschrieben werde)
  }
 #}
+#dan-2-22 {
+ {
+  <i>bei ihm wohnt das Licht</i> vgl §1tim-6-16
+ }
+#}
 #dan-2-25 {
  {
   TODO: Ist das vor oder nach Ablauf der drei Jahre Ausbildung Daniels (<a class='kom' href='#Idan-1-18'>Dan&nbsp;1,18</a>)?
@@ -54643,19 +54666,7 @@
 @Matthäus 1 {
 #mt-1-1 {
  {
-  Matthäus beginnnt (wörtlich) mit <span class='gr'>βιβλος γενεσεως</span> (Strongs 976 1078), also <i>Buch der Generationen</i>. Es gibt noch die folgenden Bücher
-  im Neuen Testament: <ul>
-    <li>Buch Moses (<a href='http://bibel.renenyffenegger.ch/mk_12.html#v26'>Mk&nbsp;12,26</a>)
-    <li>Buch der Worte des Propheten Jesaja (<a href='http://bibel.renenyffenegger.ch/lk_3.html#v4'>Lk&nbsp;3,4</a>)
-    <li>Buch der Psalmen (<a href='http://bibel.renenyffenegger.ch/lk_20.html#v42'>Lk&nbsp;20,42</a>, <a href='http://bibel.renenyffenegger.ch/apg_1.html#v20'>Apg&nbsp;1,20</a>)
-    <li>Buch der Propheten (<a href='http://bibel.renenyffenegger.ch/apg_7.html#v42'>Apg&nbsp;7,42</a>)
-    <li>'eigene' Bücher (<a href='http://bibel.renenyffenegger.ch/apg_19.html#v19'>Apg&nbsp;19,19</a>)
-    <li>Buch des Lebens (<a href='http://bibel.renenyffenegger.ch/phil_4.html#v3'>Phil&nbsp;4,3</a>, <a href='http://bibel.renenyffenegger.ch/offb_3.html#v5'>Offb&nbsp;3,5</a>,
-       <a href='http://bibel.renenyffenegger.ch/offb_20.html#v15'>Offb&nbsp;20,15</a>,
-       <a href='http://bibel.renenyffenegger.ch/offb_22.html#v19'>Offb&nbsp;22,19</a>)
-    <li>Buch des Lebens des Lammes (<a href='http://bibel.renenyffenegger.ch/offb_13.html#v8'>Offb&nbsp;13,8</a>)
-    <li>Buch dieser Weissagung (<a href='http://bibel.renenyffenegger.ch/offb_22.html#v19'>Offb&nbsp;22,19</a>)
-     </ul>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Buch: Matthäus beginnnt (wörtlich) mit <span class='gr'>βιβλος γενεσεως</span> (Strongs 976 1078), also <i>Buch der Generationen</i>. Es gibt noch die folgenden Bücher
  }
  {
   Die → biblisches/Bücher/Evangelien beginnen mit <span class='gr'>Βίβλος</span> und enden mit <span class='gr'>βιβλία ἀμήν</span> §joh-21-25.
@@ -55026,7 +55037,7 @@
   aus <i>Steinen Brot zu machen</i>.
  }
  {
-  → biblisches/Personen/Abraham/Same#abraham-vater
+  → biblisches/Personen/Abraham/Same#abraham-vater. Beachte: der Herr ist ein Sohn von Abraham: §mt-1-1
  }
 #}
 #mt-3-10 {
@@ -59969,7 +59980,7 @@
 #}
 #mk-12-26 {
  {
-  <i>Buch Moses</i> siehe auch <a class='kom' href='#Imt-1-1'>Mt&nbsp;1,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Buch
  }
 #}
 #mk-12-28 {
@@ -60348,6 +60359,9 @@
  }
  {
    <span class='gt'>Vers fehlt in NA</span>.
+ }
+ {
+  Vgl §lk-22-37
  }
 #}
 #mk-15-29 {
@@ -60940,10 +60954,10 @@
 #}
 #lk-3-4 {
  {
-  <i>Buch der Worte des Propheten Jesaja</i> siehe auch <a class='kom' href='#Imt-1-1'>Mt&nbsp;1,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Buch
  }
  {
-  Beachte, der Herr selbst wird aus Jesaja vorlesen: <a href='http://bibel.renenyffenegger.ch/lk_4.html#v17'>Lk 4,17 ff</a>.
+  Beachte, der Herr selbst wird aus Jesaja vorlesen: §lk-4-17
  }
 #}
 #lk-3-6 {
@@ -61126,7 +61140,10 @@
 #}
 #lk-4-17 {
  {
-  <i>Jesaja</i>: <a class='kom' href='#Ilk-3-4'>Lk&nbsp;3,4</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Buch
+ }
+ {
+  <i>Jesaja</i>: §+lk-3-4.
  }
 #}
 #lk-4-18 {
@@ -62131,7 +62148,7 @@
 #}
 #lk-13-16 {
  {
-  Vgl die <i>Tochter Abrahams</i> mit Zachäus, dem <i>Sohn Abrahams</i> in <a class='kom' href='#Ilk-19-9'>Lk&nbsp;19,9</a>.
+  Vgl die <i>Tochter Abrahams</i> mit Zachäus, dem → biblisches/Personen/Abraham/Same#abraham-vater[Sohn Abrahams] in §+lk-19-9.
  }
 #}
 #lk-13-18 {
@@ -62553,10 +62570,7 @@
 #}
 #lk-19-9 {
  {
-  Zachäus, ein Sohn Abrahams: <a class='kom' href='#Ilk-18-38'>Lk&nbsp;18,38</a>.
-  <br>Vgl mit <a class='kom' href='#Iroem-4-1'>Röm&nbsp;4,1</a>
-  <br>Vgl mit <a href='http://bibel.renenyffenegger.ch/apg_7.html#v2'>Apg&nbsp;7,2</a>.
-  <br>Vgl mit der <i>Tochter Abrahams</i> in <a href='http://bibel.renenyffenegger.ch/lk_13.html#v16'>Lk&nbsp;13,16</a>.
+  Zachäus, ein → biblisches/Personen/Abraham/Same#abraham-vater[Sohn Abrahams]: §+lk-18-38. Vgl mit der <i>Tochter Abrahams</i>: §lk-13-16
  }
  {
   Vgl auch <a class='kom' href='#Ilk-16-25'>Lk&nbsp;16,25</a>.
@@ -62689,7 +62703,7 @@
 #}
 #lk-20-42 {
  {
-  <i>Buch der Psalmen</i> siehe auch <a class='kom' href='#Imt-1-1'>Mt&nbsp;1,1</a>.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Buch der Psalmen</i>: §apg-1-20
  }
 #}
 #lk-20-46 {
@@ -62932,6 +62946,11 @@
 #lk-22-36 {
  {
   TODO: <a class='kom' href='#Ilk-9-3'>Lk&nbsp;9,3</a>.
+ }
+#}
+#lk-22-37 {
+ {
+  Vgl §mk-15-28
  }
 #}
 #lk-22-38 {
@@ -64658,15 +64677,10 @@
 #}
 #joh-8-39 {
  {
-  <i>Vater</i>Vgl <a href='http://bibel.renenyffenegger.ch/joh_8.html#v56'>Vers 56</a>, wo Abraham doch 'euer Vater' genannt wird
-  und Vers 41, wo Gott Vater genannt wird.
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/roem_4.html#v1'>Röm&nbsp;4,1</a> und Vers 53.
+  → biblisches/Personen/Abraham/Same#abraham-vater[Abraham ist unser Vater], vgl §+Vjoh-8-19, §Vjoh-8-53
  }
  {
-  <i>Abraham ist unser Vater</i>: vgl §+Vjoh-8-19
- }
- {
-         TODO: Was sind Abrahams Werke?
+  TODO: Was sind Abrahams Werke?
  }
 #}
 #joh-8-44 {
@@ -66298,7 +66312,7 @@
   <a class='kom' href='#Ips-69-26'>Ps&nbsp;69,26</a>, <a class='kom' href='#Ips-109-8'>Ps&nbsp;109,8</a>.
  }
  {
-  <i>Buch der Psalmen</i> siehe auch <a class='kom' href='#Imt-1-1'>Mt&nbsp;1,1</a>.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Buch der Psalmen</i>: §lk-20-42
  }
  {
   <i>Amt</i> wird in KJV mit 'bishoprick' in Elberfelder mit 'Aufseheramt' übersetzt. Vgl auch <a class='kom' href='#Ilk-19-44'>Lk&nbsp;19,44</a>.
@@ -66929,6 +66943,9 @@
   Vgl <i>Knecht David</i> mit <i>Knecht Jesus</i> in Vers 27 und 30, und den <i>Knechten</i> in Vers 29.
   <br>Siehe auch <a class='kom' href='#Iapg-3-13'>Apg&nbsp;3,13</a>.
  }
+ {
+  Verweis: §ps-2-1
+ }
 #}
 #apg-4-27 {
  {
@@ -67299,7 +67316,7 @@
 @Apostelgeschichte 7 {
 #apg-7-2 {
  {
-  Abraham, "unser" Vater: <a class='kom' href='#Iroem-4-1'>Röm&nbsp;4,1</a>.
+  → biblisches/Personen/Abraham/Same#abraham-vater[Abraham, unser Vater]
  }
  {
   TODO: <i>Gott der Herrlichkeit</i> in 1. Mose als <i>El Schaddai</i> erschienen.
@@ -67484,7 +67501,7 @@
 #}
 #apg-7-42 {
  {
-  <i>Buch der Propheten</i> siehe auch <a class='kom' href='#Imt-1-1'>Mt&nbsp;1,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Buch
  }
 #}
 #apg-7-43 {
@@ -70083,7 +70100,7 @@
 #}
 #apg-19-19 {
  {
-  <i>Bücher</i> siehe auch <a class='kom' href='#Imt-1-1'>Mt&nbsp;1,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Buch
  }
 #}
 #apg-19-20 {
@@ -71953,10 +71970,13 @@
 #}
 #roem-3-21 {
  {
-  <i>bezeugt durch das Gesetz und die Propheten</i> vgl §roem-1-2
+  Es scheint, dass Paulus ab §+roem-1-17 bis zum vorangehenden Vers die <i>Ungerechtigkeit des Menschen</i> beschrieben hat, <i>jetzt aber</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit.
  }
  {
-  Es scheint, dass Paulus ab §+roem-1-17 bis zum vorangehenden Vers die <i>Ungerechtigkeit des Menschen</i> beschrieben hat, <i>jetzt aber</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit.
+  <i>bezeugt durch das Gesetz und die Propheten</i> vgl §roem-1-2, §gal-3-8
+ }
+ {
+  <i>geoffenbart worden</i> vgl §roem-16-26
  }
  {
   Vgl. mit «unserer Gerechtigkeit» wenn das Gesetz gehalten wird: §+5mo-6-25
@@ -72001,7 +72021,18 @@
   <i>… daß er gerecht sei und den rechtfertige, der des Glaubens an Jesus ist</i> vgl §roem-4-3
  }
 #}
+#roem-3-27 {
+ {
+  <i>Wo ist der Ruhm</i>: vgl §roem-4-2, §roem-15-17
+ }
+#}
 #roem-3-28 {
+ {
+  <i>urteilen</i>: <span class='gr'>λογίζομαι</span> (Strongs 3049), dasselbe Verb auch in §roem-2-3 («denkst du»), §roem-2-26 («gerechnet werden»).
+  In den Versen §roem-4-3-11 kommt das Wort mindestens sieben Mal vor. In §roem-6-11 mit («für … halten») übersetzt.
+  <br>
+  Im Sinn von <i>urteilen</i> in §1kor-13-11.
+ }
  {
   <span class='u'>TODO: E:\Digitales-Backup\Lesbares\Biblisches\TODO-alle-kommentare\apg-2-38_rom-3-28_jak-2-24__How-do-I-reconcile.pdf</span>
  }
@@ -72018,7 +72049,7 @@
 #}
 #roem-3-31 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz#gesetz-aufheben, → biblisches/Eigene-Uebersetzung/Konkordanz/Glaube
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz#gesetz-aufheben, → biblisches/Eigene-Uebersetzung/Konkordanz/Glaube, → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz
  }
 #}
 @}
@@ -72026,16 +72057,6 @@
 #roem-4-1 {
  {
   → biblisches/Personen/Abraham/Same#abraham-vater[Abraham, unser Vater] nach dem Fleisch. Ein Vater aller unbeschnittenen Gläubigen und der Beschnittenen (<a href='http://bibel.renenyffenegger.ch/roem_4.html#v11'>Verse 11-12</a>).
-  <br>Die aus Glauben sind, diese sind Abrahams Kinder: <a href='http://bibel.renenyffenegger.ch/gal_3.html#v7'>Gal&nbsp;3,7</a>.
-  <br>Vgl <a href='http://bibel.renenyffenegger.ch/hebr_2.html#v16'>Hebr&nbsp;2,16</a>.
-  <br><a href='http://bibel.renenyffenegger.ch/jak_2.html#v21'>Jak&nbsp;2,21</a>.
-  <br>Wenn ihr aber Christus angehört, so seid ihr Abrahams Same: <a href='http://bibel.renenyffenegger.ch/gal_3.html#v29'>Gal&nbsp;3,29</a>.
-  <br>Siehe auch unser Vater Isaak (<a href='http://bibel.renenyffenegger.ch/roem_9.html#v10'>Röm&nbsp;9,10</a>)
-  <br>Vgl mit Zachäus, dem Sohn des Abrahams: <a class='kom' href='#Illk-19-9'>Llk&nbsp;19,9</a>.
-  <br>Vgl auch mit <a class='kom' href='#Ijoh-8-39'>Joh&nbsp;8,39</a>.
- }
- {
-  Vgl <a class='kom' href='#Ijes-51-2'>Jes&nbsp;51,2</a>.
  }
 #}
 #roem-4-2 {
@@ -72043,13 +72064,22 @@
   Rechtfertigung: <a class='kom' href='#Iroem-4-25'>Röm&nbsp;4,25</a>.
   Vgl <a href='http://bibel.renenyffenegger.ch/gal_2.html#v16'>Gal&nbsp;2,16</a>.
  }
+ {
+  Gemäss §jak-2-21 wurde → biblisches/Personen/Abraham aus Werken gerechtfertigt.
+ }
+ {
+  <i>Etwas zum Rühmen haben</i> vgl §roem-3-27
+ }
 #}
 #roem-4-3 {
  {
    <i>Was sagt die Schrift</i>: §gal-4-30.
  }
  {
-  Vgl §+roem-3-26, §1mo-15-6
+  Vgl §+roem-3-26
+ }
+ {
+  Verweis: §1mo-15-6, vgl §jak-2-23, §gal-3-6
  }
 #}
 #roem-4-5 {
@@ -72587,7 +72617,7 @@
 #}
 #roem-9-10 {
  {
-   Siehe <a class='kom' href='#Iroem-4-1'>Röm&nbsp;4,1</a>.
+  <i>Isaak, unser Vater</i>: vgl → biblisches/Personen/Abraham/Same#abraham-vater[Abraham, unser Vater], §roem-4-1.
  }
 #}
 #roem-9-11 {
@@ -73331,6 +73361,9 @@
 #}
 #roem-15-16 {
  {
+  → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, der Apostel der Nationen]
+ }
+ {
   <i>Diener</i>: <a class='kom' href='#Iroem-13-6'>Röm&nbsp;13,6</a>.
  }
  {
@@ -73338,6 +73371,9 @@
  }
  {
   <i>Diener Jesu Christi</i>: <a class='kom' href='#I1kor-4-1'>1.&nbsp;Kor&nbsp;4,1</a>.
+ }
+ {
+  <i>angenehm</i>: <span class='gr'>εὐπρόσδεκτος</span> (Strongs 2144). Dasselbe Wort auch in §Vroem-15-31.
  }
  {
   TODO Vgl <i>priesterlich dienen</i> (<span class='gr'>ἱερουργέω</span>, Strongs 2418, 1x) mit dem «priesterlichen Dienst (<span class='gr'>λειτουργία</span>, Strongs 3009) eures Glaubens»
@@ -73350,6 +73386,9 @@
 #roem-15-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+ }
+ {
+  <i>Ich habe also etwas zum Rühmen…</i> vgl §roem-3-27
  }
 #}
 #roem-15-18 {
@@ -73383,7 +73422,7 @@
 #}
 #roem-15-22 {
  {
-   Vgl roem-1-13
+   Vgl §roem-1-13
  }
 #}
 #roem-15-23 {
@@ -73689,7 +73728,7 @@
   → biblisches/Bücher/Paulus/Römerbrief#roemer-jetzt-aber[Jetzt aber im Römerbrief]
  }
  {
-  <i>geoffenbart durch prophetische Schriften</i> vgl §roem-1-2
+  <i>geoffenbart durch prophetische Schriften</i> vgl §roem-1-2, §roem-3-21
  }
 #}
 #roem-16-27 {
@@ -75710,6 +75749,9 @@
   <i>Unterwerfen</i> (<span class='gr'>ὑποτάσσω</span>, Strongs 5293), dasselbe Wort wird häufig mit 'unterordnen'
      übersetzt (vgl <a class='kom' href='#Iroem-13-1'>Röm&nbsp;13,1</a>.
  }
+ {
+  Verweis: §ps-8-7
+ }
 #}
 #1kor-15-28 {
  {
@@ -77347,9 +77389,14 @@
   TODO: Vgl <i>Geist</i> mit Vers 14.
  }
 #}
+#gal-3-6 {
+ {
+  Vgl §roem-4-3, §jak-2-23, §1mo-15-6
+ }
+#}
 #gal-3-7 {
  {
-  <i>Abrahams Kinder</i>: <a class='kom' href='#Iroem-4-1'>Röm&nbsp;4,1</a>.
+  → biblisches/Personen/Abraham/Same#abraham-vater
  }
  {
   Vgl §Vgal-3-26
@@ -77357,7 +77404,10 @@
 #}
 #gal-3-8 {
  {
-  <i>Die Schrift aber, voraussehend, daß Gott die Nationen aus Glauben rechtfertigen würde…</i> Vgl §roem-1-1-2: Das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium[Evangelium Gottes] wurde durch seine → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] in heiligen Schriften zuvor verheissen.
+  <i>Die Schrift aber, voraussehend, daß Gott die Nationen aus Glauben rechtfertigen würde…</i> Vgl §roem-1-1-2:
+  Das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium[Evangelium Gottes] wurde durch seine → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] in heiligen Schriften zuvor verheissen.
+  -
+  Vgl auch §roem-3-21 («bezeugt durch das Gesetz und die Propheten»)
  }
 #}
 #gal-3-11 {
@@ -79404,7 +79454,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-4-3 {
  {
-  <i>Buch des Lebens</i> siehe auch <a class='kom' href='#Imt-1-1'>Mt&nbsp;1,1</a>.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Buch des Lebens</i>: §offb-3-5, §offb-13-18, §offb-20-15, §offb-22-19
  }
  {
   <i>Mitarbeiter</i>: <a class='kom' href='#Iroem-16-3'>Röm&nbsp;16,3</a>.
@@ -82272,7 +82322,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1tim-6-16 {
  {
   <i>unzugängliches Licht</i>: §1petr-2-9.
-  <br>Vgl §+1koe-8-12 »Der HERR hat gesagt, dass er im Dunkeln wohnen wolle«.
+  <br>Vgl §+1koe-8-12 «Der HERR hat gesagt, dass er im Dunkeln wohnen wolle».
+  <br>Vgl §dan-2-22: «bei ihm wohnt das Licht»
  }
  {
   <i>der allein Unsterblichkeit hat</i>: vgl <a class='kom' href='#I1kor-15-53'>1.&nbsp;Kor&nbsp;15,53</a>.
@@ -83574,7 +83625,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-2-6 {
  {
-  Vgl §ps-8-5
+  Verweis: §ps-8-5
  }
 #}
 #hebr-2-7 {
@@ -83649,6 +83700,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
       Er ist Sohn einer gläubigen jüdischen Frau und eines griechischen Vaters (<a href='http://bibel.renenyffenegger.ch/apg_16.html#v1'>Apg&nbsp;16,1</a>).
  }
 #}
+#hebr-2-12 {
+ {
+  Verweis §ps-22-23
+ }
+#}
 #hebr-2-14 {
  {
   <i>teilhaftig seid</i> (<span class='gr'>κοινωνέω</span>, Strongs 2841). Vgl mit <a class='kom' href='#Ihebr-3-1'>Hebr&nbsp;3,1</a>.
@@ -83659,7 +83715,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-2-16 {
  {
-  Vgl <a class='kom' href='#Iroem-4-1'>Röm&nbsp;4,1</a> und <a class='kom' href='#Igal-3-16'>Gal&nbsp;3,16</a>.
+  → biblisches/Personen/Abraham/Same[Abrahams Same]
  }
 #}
 #hebr-2-17 {
@@ -85437,18 +85493,21 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-2-21 {
  {
-  Abraham, unser Vater: <a class='kom' href='#Iroem-4-1'>Röm&nbsp;4,1</a>.
+  → biblisches/Personen/Abraham/Same#abraham-vater[Abraham, unser Vater]
+ }
+ {
+  Vergleiche → biblisches/Personen/Abraham[Abrahams] Rechtfertigung aus Werken mit §roem-4-2.
  }
 #}
 #jak-2-23 {
  {
-  Vgl §+1mo-15-6.
+  Verweis: §+1mo-15-6, vgl §roem-4-3, §gal-3-6
  }
  {
   <i>Die Schrift wurde erfüllt</i> §mk-15-28
  }
  {
-  → biblisches/Personen/Abraham, → biblisches/Eigene-Uebersetzung/Konkordanz/Freund Gottes §2chr-20-7, §jes-41-8
+  → biblisches/Personen/Abraham#abraham-freund-gottes[Abraham, der Freund Gottes]: §2chr-20-7, §jes-41-8
  }
 #}
 #jak-2-24 {
@@ -88546,7 +88605,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-3-5 {
  {
-  <i>Buch des Lebens</i> siehe auch <a class='kom' href='#Imt-1-1'>Mt&nbsp;1,1</a>.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Buch des Lebens</i>: §phil-4-3, §offb-13-18, §offb-20-15, §offb-22-19
  }
  {
   TODO: Name vor dem Vaber bekennen: §mt-10-32.
@@ -90278,6 +90337,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-13-18 {
  {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Buch des Lebens</i>: §phil-4-3, §offb-3-5, §offb-20-15, §offb-22-19
+ }
+ {
   → biblisches/Bücher/prophetisch/Offenbarung/index#hier-ist
   <br>Hier ist Weisheit, in §offb-17-9 ist der Verstand [nötig], der Weisheit hat.
  }
@@ -91369,6 +91431,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Vgl aber auch 2. Schale (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v3'>Offb&nbsp;16,3</a>) wo alle lebendigen Wesen im Meer sterben.
  }
 #}
+#offb-20-15 {
+ {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Buch des Lebens</i>: §phil-4-3, §offb-3-5, §offb-13-18, §offb-22-19
+ }
+#}
 @}
 @Offenbarung 21 {
 #offb-21-1 {
@@ -91747,7 +91814,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Baum/des-Lebens, → biblisches/Orte/Jerusalem#heilige-stadt
  }
  {
-  <i>Buch des Lebens</i> und <i>Buch dieser Weissagung</i> siehe auch <a class='kom' href='#Imt-1-1'>Mt&nbsp;1,1</a>.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Buch des Lebens</i>: §phil-4-3, §offb-3-5, §offb-13-18, §offb-20-15
  }
  {
   <span class='gt'>TR hat «Baum des Lebens» statt «Buch des Lebens». Offenbar lesen alle zur Verfügung stehenden Handschriften aus der Zeit vor Erasmus hier «Baum des Lebens» und nicht «Buch des Lebens».</span>
