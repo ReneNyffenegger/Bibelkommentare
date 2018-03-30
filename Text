@@ -8038,6 +8038,9 @@
  {
   Hier ändert Gott den Anfang der Monate, vgl mit §dan-2-21 und §dan-7-25.
  }
+ {
+  <i>Anfang der Monate</i>: vgl §4mo-28-11.
+ }
 #}
 #2mo-12-3 {
  {
@@ -9161,8 +9164,7 @@
 #}
 #2mo-19-16 {
  {
-  <i>Posaune</i> <span class='he'>שׁוֹפָר</span>, Strongs 7782. Dieses Wort wie auch «Trompete» <span class='he'>חֲצֹצְרָה</span> (Strongs 2689) werden in der LXX mit «σάλπιγξ» übersetzt, welches im NT mit «Posaune» übersetzt wird.
-  Erstes Vorkommen von «Trompete» in <a class='kom' href='#I4mo-10-2'>4.&nbsp;Mo&nbsp;10,2</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Posaune
  }
  {
   <i>Donner, Blitze, schwere Wolke, Posaunenschall</i> vgl §2mo-34-5
@@ -15786,9 +15788,7 @@
 @4. Mose 10 {
 #4mo-10-2 {
  {
-  Die <i>Trompete</i> kommt offenbar in §4mo-31-6 zum Einsatz. Vgl §V4mo-10-5.
-  <br>
-  Trompete vs «Posaune» im Alten Testament: §+2mo-19-16.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
  }
 #}
 #4mo-10-3 {
@@ -15806,17 +15806,35 @@
   → biblisches/Personen/Aaron/Söhne#soehne-aarons-die-priester
  }
 #}
+#4mo-10-9 {
+ {
+  Die → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete[Trompeten] wurden im Streit gegen → biblisches/Orte/Midian verwendet, §4mo-31-6.
+ }
+#}
 #4mo-10-10 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer,
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Friedensopfer,
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott
  }
  {
-  TODO: <i>Neumond</i>: <a class='kom' href='#I1sam-20-5'>1.&nbsp;Sam&nbsp;20,5</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest[Feste]: KJV übersetzt mit «solemn days».
+ }
+ {
+  Vgl §ps-81-4, wo am <i>Neumond</i> in die → biblisches/Eigene-Uebersetzung/Konkordanz/Posaune gestossen werden soll.
+ }
+ {
+  TODO: <i>Neumond</i>: §2mo-12-2, §4mo-28-11, 
+  §+1sam-20-5, §1sam-20-18-ff, §2koe-4-23, §1chr-23-31, §2chr-8-13
+ }
+ {
+  TODO: <i>Freudentag</i>: §1chr-29-22, §2chr-30-21, §2chr-30-23, §esr-6-22, §neh-8-17, §neh-12-27, §neh-12-43,
+  §est-8-17, §est-9-17-ff, §est-9-22, §hl-3-11
  }
 #}
 #4mo-10-11 {
  {
-  TODO: Wenn es 11 Tage sind bis Kadesch, dann müssten sie dort etwa am ersten Tag des dritten Monats angekommen sein.
+  11 Tagesreisen sind es bis Kades-Barnea (§5mo-1-2). Sie wären dort (etwa?) am ersten Tag des dritten Monats angekommen, wenn nicht die → biblisches/Exodus/40-Jahre-in-der-Wüste[40 Jahre] dazwischen gekommen wären.
  }
  {
   TODO: siehe <a class='kom' href='#I4mo-2-9'>4.&nbsp;Mo&nbsp;2,9</a>.
@@ -15853,9 +15871,6 @@
  }
  {
   <i>Wir brechen auf</i>: Vgl <a href='http://bibel.renenyffenegger.ch/5mo_1.html#v6'>5.&nbsp;Mo&nbsp;1,6-8</a>.
- }
- {
-  Es sind 11 Tagereisen vom Horeb zum Bergland Seir bis Kadesch Barnea (<a href='http://bibel.renenyffenegger.ch/5mo_1.html#v2'>5.&nbsp;Mo&nbsp;1,2</a>).
  }
 #}
 #4mo-10-31 {
@@ -17639,6 +17654,9 @@
 #}
 #4mo-28-11 {
  {
+  <i>Anfang eurer Monate</i> vgl §2mo-12-2
+ }
+ {
   TODO: Offenbar kommen hier die neuen Regeln aus <a class='kom' href='#I4mo-15-3'>4.&nbsp;Mo&nbsp;15,3</a> zur Anwendung.
  }
  {
@@ -17717,7 +17735,7 @@
   → biblisches/Personen/Eleasar/Aaron
  }
  {
-  <i>Trompeten zumm Lärmblasen</i>: §+4mo-10-2, §4mo-10-5. Wenn im Streit gegen den Bedränger mit diesen Trompeten Lärm geblasen wird, werden sie gerettet werden vor
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Trompete[Trompeten] zum Lärmblasen</i>: §+4mo-10-2, §4mo-10-5. Wenn im Streit gegen den Bedränger mit diesen Trompeten Lärm geblasen wird, werden sie gerettet werden vor
   ihren Feinden, §4mo-10-9.
  }
 #}
@@ -18312,6 +18330,8 @@
  }
  {
   Beachte die <i>11</i>: 11 Tage von Horeb bis Bergland Seir, 11. Monat (Vers) (auch 1. Tag).
+ <br>
+  S. a. §4mo-10-11: die Wolke der Wohnung des Zeugnisss erhob sich am 20.2, so dass mit den 11 Tagesreisen Kades-Barnea am 1.3. erreicht worden wäre.
  }
  {
   Hier: <i>Bergland Seir</i>, in <a href='http://bibel.renenyffenegger.ch/5mo_1.html#v19'>Vers 19</a>: das <i>Bergland der Amoriter</i>.
@@ -29608,6 +29628,11 @@
   TODO: siehe <i>Salbungen von Königen</i> <a class='kom' href='#I1sam-15-1'>1.&nbsp;Sam&nbsp;15,1</a>.
  }
 #}
+#2koe-11-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
+ }
+#}
 #2koe-11-16 {
  {
    <i>Eingang für die Rosse</i>: vgl §+2chr-23-15.
@@ -29624,6 +29649,11 @@
  {
   Das 23 Jahr ist das Jahr, wo Joahas König über Israel wird (<a href='http://bibel.renenyffenegger.ch/2koe_13.html#v1'>2.&nbsp;Kö&nbsp;13,1</a>).
   <br>TODO: Dass Jehu gleichzeitig die Schäden ausbessern lassen wollte, muss doch einen Zusammenhang haben.
+ }
+#}
+#2koe-12-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
  }
 #}
 #2koe-12-16 {
@@ -32137,9 +32167,14 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
  }
 #}
+#1chr-13-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
+ }
+#}
 #1chr-13-9 {
  {
-         <i>Tenne Kidon</i>: <a class='kom' href='#I2sam-6-6'>2.&nbsp;Sam&nbsp;6,6</a>.
+  <i>Tenne Kidon</i>: <a class='kom' href='#I2sam-6-6'>2.&nbsp;Sam&nbsp;6,6</a>.
  }
 #}
 #1chr-13-13 {
@@ -32204,6 +32239,9 @@
 #}
 #1chr-15-24 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
+ }
+ {
   Obed-Edom als <i>Torhüter der Lade</i> §1chr-16-38
  }
 #}
@@ -32242,6 +32280,11 @@
  {
   TODO: <i>Jehiel</i> (und <i>Sacharja</i>?) sind evtl Vorfahren des Jehasiel (des Sacharjas, des Benajas, des Jehiels von den Söhnen Asaphs) in
   <a href='http://bibel.renenyffenegger.ch/2chr_20.html#v14'>2.&nbsp;Chr&nbsp;20,14</a>.
+ }
+#}
+#1chr-16-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete[Trompeten], vgl §V1chr-16-42
  }
 #}
 #1chr-16-9 {
@@ -32396,6 +32439,11 @@
 #1chr-16-41 {
  {
    Jeduthun wurden drei Psalmen gewidmet: §+ps-39-1.
+ }
+#}
+#1chr-16-42 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete[Trompeten], Vgl §V1chr-16-6
  }
 #}
 @}
@@ -32628,6 +32676,9 @@
 #1chr-23-31 {
  {
   Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer#bestaendiges-brandopfer
+ }
+ {
+  Vgl §2chr-2-4
  }
 #}
 #1chr-23-32 {
@@ -33023,7 +33074,10 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
  }
  {
-   Vgl <a class='kom' href='#I1koe-3-2'>1.&nbsp;Kö&nbsp;3,2</a>.
+  Vgl §1chr-23-31, §2chr-31-3, §esr-3-5, §neh-10-34
+ }
+ {
+   Vgl §+1koe-3-2.
  }
 #}
 #2chr-2-7 {
@@ -33185,6 +33239,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Stangen
  }
 #}
+#2chr-5-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete, vgl §1chr-16-6, §1chr-16-42
+ }
+#}
 #2chr-5-14 {
  {
   Vgl §2chr-7-2, §1koe-8-11
@@ -33245,6 +33304,9 @@
  }
 #}
 #2chr-7-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
+ }
  {
   Die <i>Musikinstrumente</i> sind von → biblisches/Personen/David, der eherne Altar von Salomo (Vers 7).
  }
@@ -33544,6 +33606,9 @@
 #}
 #2chr-13-14 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
+ }
+ {
   <i>Da schrieen sie zum HERRN</i>: <a class='kom' href='#Ips-107-6'>Ps&nbsp;107,6</a>.
  }
 #}
@@ -33636,6 +33701,11 @@
 #2chr-15-12 {
  {
    <i>Den HERRN suchen</i>: §2chr-11-16 , §2chr-30-19
+ }
+#}
+#2chr-15-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
  }
 #}
 #2chr-15-16 {
@@ -33857,6 +33927,11 @@
 #2chr-20-26 {
  {
   TODO: Ist das <i>Lobetal</i> das 'Tal Josaphats'? (<a class='kom' href='#I1koe-22-41'>1.&nbsp;Kö&nbsp;22,41</a>).
+ }
+#}
+#2chr-20-28 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
  }
 #}
 #2chr-20-29 {
@@ -34265,6 +34340,11 @@
  }
  {
   TODO: <a class='kom' href='#I1chr-15-10'>1.&nbsp;Chr&nbsp;15,10</a>.
+ }
+#}
+#2chr-29-26 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
  }
 #}
 #2chr-29-30 {
@@ -35086,7 +35166,7 @@
 #}
 #esr-3-10 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel, → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
  }
 #}
 #esr-3-12 {
@@ -36545,6 +36625,11 @@
 #neh-12-31 {
  {
    <i>Misttor</i>: §neh-3-14
+ }
+#}
+#neh-12-35 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete, vgl §1chr-16-6, §1chr-16-42, §2chr-5-12-ff
  }
 #}
 #neh-12-37 {
@@ -40008,6 +40093,11 @@
 }
 { 81-90
 @Psalm 81 {
+#ps-81-4 {
+ {
+  <i>Am Neumond in die → biblisches/Eigene-Uebersetzung/Konkordanz/Posaune stossen</i>: vgl §4mo-10-10.
+ }
+#}
 #ps-81-8 {
  {
   <i>Prüfung am Haderwasser</i>: TODO <a href='http://bibel.renenyffenegger.ch/4mo_27.html#v14'>4.&nbsp;Mo&nbsp;27,14</a>.
