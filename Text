@@ -63266,6 +63266,11 @@
   Nach Hause gehen: <a class='kom' href='#Imk-7-17'>Mk&nbsp;7,17</a>.
  }
 #}
+#lk-24-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten/Stadium
+ }
+#}
 #lk-24-15 {
  {
   Beachte: Jesus nahte sich und ging mit ihnen, während sie sich besprachen. TODO: Heisst das, es ist eine Vorraussetzung, sich mit andern Brüdern zu
@@ -64357,6 +64362,11 @@
   → biblisches/Orte/Kapernaum
  }
 #}
+#joh-6-19 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten/Stadium
+ }
+#}
 #joh-6-20 {
  {
   <i>Ich bin</i> (<span class='gr'>Ἐγώ εἰμι</span>). Siehe auch <a class='kom' href='#Ijoh-6-35'>Vers 35</a>.
@@ -65088,6 +65098,11 @@
  {
   <i>Thomas</i>: <a href='http://bibel.renenyffenegger.ch/joh_14.html#v5'>Joh 14,5 ff</a>,
    <a href='http://bibel.renenyffenegger.ch/joh_20.html#v24'>Joh 20,24 ff</a>.
+ }
+#}
+#joh-11-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten/Stadium
  }
 #}
 #joh-11-24 {
@@ -75014,7 +75029,7 @@
 #}
 #1kor-9-24 {
  {
-  <i>Rennbahn</i> (<span class='gr'>στάδιον</span>, Strongs 4712), dasselbe Wort wie für das Längenmass.
+  <i>Rennbahn</i> (<span class='gr'>στάδιον</span>, Strongs 4712), dasselbe Wort wie für das → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten[Masseinheit] → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten/Stadium.
  }
  {
   <i>Preis</i> (<span class='gr'>βραβεῖον</span>, Strongs 1017), dasselbe Wort wie für «Kampfpreis» in §phil-3-14.
@@ -90641,6 +90656,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-14-20 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten/Stadium, vgl §offb-21-16
+ }
+ {
   Vgl §ps-58-11
  }
 #}
@@ -91666,7 +91684,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Würfel: vgl §1koe-6-20
  }
  {
+  Beachte: ein Würfel hat 12 Kanten. Falls mit den 12000 Stadien die Kantenlänge gemeint ist, kommt man auf 12*12000 (=140'000) Stadien, vgl §offb-7-4 §offb-14-1.
+ }
+ {
   <i>Grosse Stadt</i>: §+offb-11-8.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten/Stadium, vgl §offb-14-20
  }
 #}
 #offb-21-19 {
