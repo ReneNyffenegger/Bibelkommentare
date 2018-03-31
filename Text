@@ -2351,7 +2351,8 @@
 #}
 #1mo-12-6 {
  {
-  <i>Sichem</i>: Hier wird Jakob begraben werden (<a href='http://bibel.renenyffenegger.ch/apg_7.html#v16'>Apg&nbsp;7,16</a>).
+  In → biblisches/Orte/Sichem wird → biblisches/Personen/Jakob begraben werden: §apg-7-16.
+  → biblisches/Personen/Josef[Josefs] Gebeine werden auch in Sichem begraben: §jos-24-32.
  }
  {
   Siehe <a href='http://bibel.renenyffenegger.ch/1mo_35.html#v4'>1.&nbsp;Mo&nbsp;35,4</a>: Jakob verbarg wohl unter dieser Terebinthe die fremden Götter und Ringe
@@ -2362,9 +2363,6 @@
   Jetzt sind die Kanaaniter im Land, in §1mo-33-18 ist die Stadt bereits im Land Kanaan, vgl §+1mo-24-3 und §1mo-24-37
   <br>
    Vgl §1mo-10-19, §1mo-13-7
- }
- {
-  <i>Sichem</i>: <span class='hebr'>שְׁכֶם</span> (Strongs 7927, verwandt mit 'Schulter'), siehe und vgl <a class='kom' href='#I1mo-48-22'>1.&nbsp;Mo&nbsp;48,22</a>.
  }
  {
   <i>Terebinthe</i>: (<span class='hebr'>אֵלוֹן</span>, Strongs 426). Dieses Wort kann offenbar auch auch 'Ebene' bedeuten, weshalb KJV hier übersetzt 'plain of moreh'.
@@ -5180,7 +5178,7 @@
 #}
 #1mo-33-18 {
  {
-  Sichem im Land Kanaan, vgl <a class='kom' href='#I1mo-12-6'>1.&nbsp;Mo&nbsp;12,6</a>.
+  → biblisches/Orte/Sichem im Land Kanaan, vgl §+1mo-12-6.
  }
 #}
 #1mo-33-19 {
@@ -5726,6 +5724,11 @@
 #1mo-37-10 {
  {
   Josephs Mutter (Rahel) ist bereits tot (<a href='http://bibel.renenyffenegger.ch/1mo_35.html#v19'>1.&nbsp;Mo&nbsp;35,19</a>) und kann sich gar nicht mehr verneigen.
+ }
+#}
+#1mo-37-12 {
+ {
+  → biblisches/Orte/Sichem
  }
 #}
 #1mo-37-17 {
@@ -6657,8 +6660,8 @@
   Siehe <a href='http://bibel.renenyffenegger.ch/1mo_23.html#v19'>1.&nbsp;Mo&nbsp;23,19</a>.
  }
  {
-  <i>Bergrücken</i>: <span class='hebr'>שְׁכֶם</span> (Strongs 7926) wird häufig mit 'Schultern' übersetzt.
-  TODO: Hat dieses Wort etwas mit <i>Sichem</i> (<a href='http://bibel.renenyffenegger.ch/1mo_12.html#v6'>1.&nbsp;Mo&nbsp;12,6</a>) zu tun?
+  <i>Landstrich</i>: <span class='hebr'>שְׁכֶם</span> (Strongs 7926), in Sch2K mit »Bergrücken«, in KJV mit »one portion«, wird häufig mit »Schultern« übersetzt.
+  Das Wort ist mit → biblisches/Orte/Sichem verwandt.
  }
 #}
 @}
@@ -17456,6 +17459,11 @@
   </table>
  }
 #}
+#4mo-26-31 {
+ {
+  → biblisches/Orte/Sichem
+ }
+#}
 #4mo-26-32 {
  {
   TODO: <i>Hepher</i> <a class='kom' href='#Ijos-12-17'>Jos&nbsp;12,17</a>.
@@ -19425,12 +19433,12 @@
 #}
 #5mo-11-29 {
  {
-  Vgl mit <a class='kom' href='#I5mo-27-4'>5.&nbsp;Mo&nbsp;27,4</a> und <a href='http://bibel.renenyffenegger.ch/5mo_27.html#v12'>5. Mo 27,12ff</a>
+  <i>Gerisim</i> und <i>Ebal</i>: §+5mo-27-4 und §5mo-27-12-ff.
  }
 #}
 #5mo-11-30 {
  {
-  <i>More</i>: <a class='kom' href='#I1mo-12-6'>1.&nbsp;Mo&nbsp;12,6</a>.
+  <i>More</i>: §+1mo-12-6.
  }
  {
   Beachte: der Name → biblisches/Orte/Gilgal wurde erst in §jos-5-9 gegeben.
@@ -22279,6 +22287,11 @@
   <i>Nach dem Befehl des HERRN ein Erbteil geben</i>: §+jos-15-13.
  }
 #}
+#jos-17-7 {
+ {
+  → biblisches/Orte/Sichem
+ }
+#}
 #jos-17-11 {
  {
    TODO: Ist <i>Jibleam</i> das Bileam aus <a class='kom' href='#I1chr-6-55'>1.&nbsp;Chr&nbsp;6,55</a>.
@@ -22587,6 +22600,9 @@
   → biblisches/Orte/Hebron <a class='kom' href='#I1mo-13-18'>1.&nbsp;Mo&nbsp;13,18</a>.
  }
  {
+  → biblisches/Orte/Sichem
+ }
+ {
   <i>Galiläa</i> (<span class='hebr'>גָּלִיל</span>, Strongs 1551), etwa 'Kreis', 'Bezirk'.
   <br>TODO: Dasselbe Wort (Strongs 1550) wird in
   <a href='http://bibel.renenyffenegger.ch/1koe_6.html#v34'>1.&nbsp;Kö&nbsp;6,34</a> mit 'drehbar',
@@ -22656,6 +22672,9 @@
 #jos-21-21 {
  {
   <i>Geser</i>: <a class='kom' href='#Ijos-10-33'>Jos&nbsp;10,33</a>.
+ }
+ {
+  → biblisches/Orte/Sichem
  }
 #}
 #jos-21-36 {
@@ -22746,6 +22765,11 @@
 #}
 @}
 @Josua 24 {
+#jos-24-1 {
+ {
+  → biblisches/Orte/Sichem
+ }
+#}
 #jos-24-2 {
  {
   Terach ist auch der Vater Harans (<a href='http://bibel.renenyffenegger.ch/1mo_11.html#v26'>1.&nbsp;Mo&nbsp;11,26</a>).
@@ -22798,6 +22822,11 @@
   <a class='kom' href='#Ijos-1-16'>Jos&nbsp;1,16</a>.
  }
 #}
+#jos-24-25 {
+ {
+  → biblisches/Orte/Sichem, → biblisches/Eigene-Uebersetzung/Konkordanz/Bund (vgl §+hos-6-7)
+ }
+#}
 #jos-24-26 {
  {
   Was ist das <i>Heiligtum</i> hier? Die Stiftshütte ist doch in Silo, siehe auch <a class='kom' href='#Ijos-18-1'>Jos&nbsp;18,1</a>.
@@ -22836,10 +22865,10 @@
   <i>Joseph liess die Kinder Israels schwören, seine Gebeine von Ägypten heraufzuführen</i>: <a class='kom' href='#I1mo-50-25'>1.&nbsp;Mo&nbsp;50,25</a>.
  }
  {
-  <i>Stück Land in Sichem</i>: <a class='kom' href='#I1mo-33-19'>1.&nbsp;Mo&nbsp;33,19</a>.
+  <i>Stück Land in → biblisches/Orte/Sichem</i>: <a class='kom' href='#I1mo-33-19'>1.&nbsp;Mo&nbsp;33,19</a>.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen, → biblisches/Eigene-Uebersetzung/Konkordanz/Bund
  }
 #}
 #jos-24-33 {
@@ -23548,12 +23577,18 @@
 #}
 #ri-8-31 {
  {
+  → biblisches/Orte/Sichem
+ }
+ {
   TODO: vgl <i>Abimelech</i> mit Elimelech aus <a href='http://bibel.renenyffenegger.ch/rt_1.html#v2'>Rt&nbsp;1,2</a>.
  }
 #}
 @}
 @Richter 9 {
 #ri-9-1 {
+ {
+  → biblisches/Orte/Sichem
+ }
  {
   Beachte, Abimelech, der Sohn <i>Jerub-Baals</i> wird in <a href='http://bibel.renenyffenegger.ch/2sam_11.html#v21'>2.&nbsp;Sam&nbsp;11,21</a>
   «Jerub-Bescheths» genannt (etwa Jerub der Schande).
@@ -24368,6 +24403,9 @@
  }
 #}
 #ri-21-19 {
+ {
+  → biblisches/Orte/Sichem
+ }
  {
   <i>Lebona</i>, offenbar dasselbe Wort wie für 'Weihrauch', siehe <a class='kom' href='#I2mo-30-34'>2.&nbsp;Mo&nbsp;30,34</a>.
  }
@@ -28503,7 +28541,7 @@
 @1. Könige 12 {
 #1koe-12-1 {
  {
-  <i>Sichem</i> wird von Jerobeam aufgebaut (<a href='http://bibel.renenyffenegger.ch/1koe_12.html#v25'>Vers 25</a>).
+  → biblisches/Orte/Sichem wird von Jerobeam aufgebaut (<a href='http://bibel.renenyffenegger.ch/1koe_12.html#v25'>Vers 25</a>).
  }
 #}
 #1koe-12-4 {
@@ -28539,7 +28577,7 @@
 #}
 #1koe-12-25 {
  {
-  In Sichem wollte Israel Rehabeam zum König machen (<a href='http://bibel.renenyffenegger.ch/1koe_12.html#v1'>Vers 1</a>).
+  In → biblisches/Orte/Sichem wollte Israel Rehabeam zum König machen (<a href='http://bibel.renenyffenegger.ch/1koe_12.html#v1'>Vers 1</a>).
  }
  {
   <i>Pnuel</i>: <a class='kom' href='#Iri-8-17'>Ri&nbsp;8,17</a>.
@@ -31747,6 +31785,9 @@
  {
   <i>Geser</i>: <a class='kom' href='#Ijos-10-33'>Jos&nbsp;10,33</a>.
  }
+ {
+  → biblisches/Orte/Sichem
+ }
 #}
 #1chr-6-55 {
  {
@@ -31812,6 +31853,9 @@
  }
 #}
 #1chr-7-28 {
+ {
+  → biblisches/Orte/Sichem
+ }
  {
   TODO: <i>Geser</i>: <a class='kom' href='#Ijos-10-33'>Jos&nbsp;10,33</a>.
  }
@@ -33417,6 +33461,11 @@
 #}
 @}
 @2. Chronik 10 {
+#2chr-10-1 {
+ {
+  → biblisches/Orte/Sichem
+ }
+#}
 #2chr-10-15 {
  {
   Parallel <a href='http://bibel.renenyffenegger.ch/1koe_12.html#v15'>1.&nbsp;Kö&nbsp;12,15</a>.
@@ -39449,7 +39498,10 @@
 #}
 #ps-60-8 {
  {
-  §ps-108-8
+  → biblisches/Orte/Sichem
+ }
+ {
+  Eventuell würde besser übersetzt mit »ich will Sichem teilen«, vgl §ps-108-8
  }
 #}
 @}
@@ -41126,7 +41178,10 @@
 @Psalm 108 {
 #ps-108-8 {
  {
-  §ps-60-8
+  → biblisches/Orte/Sichem
+ }
+ {
+  Eventuell würde besser übersetzt mit »ich will Sichem teilen«, vgl §ps-60-8
  }
 #}
 @}
@@ -52743,9 +52798,19 @@
    <a class='kom' href='#Ihos-5-4'>Hos&nbsp;5,4</a>.
  }
 #}
+#hos-6-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Bund
+ }
+#}
 #hos-6-8 {
  {
   Vgl <a class='kom' href='#I2koe-15-25'>2.&nbsp;Kö&nbsp;15,25</a>.
+ }
+#}
+#hos-6-9 {
+ {
+  Beachte: In → biblisches/Orte/Sichem wurde ein → biblisches/Eigene-Uebersetzung/Konkordanz/Bund geschlossen (§jos-24-25), in §Vhos-6-7 ist auch von einem Bund die Rede.
  }
 #}
 #hos-6-11 {
@@ -64045,7 +64110,7 @@
   Beachte auch, dass die Jünger erst in Vers 27 dazustossen.
  }
  {
-  Alte syrische Evangelien haben Sichem statt Sichar, vgl §apg-7-16
+  Alte syrische Evangelien haben → biblisches/Orte/Sichem statt Sichar, vgl §apg-7-16
  }
 #}
 #joh-4-6 {
@@ -67489,6 +67554,9 @@
  }
 #}
 #apg-7-16 {
+ {
+  → biblisches/Orte/Sichem
+ }
  {
   Vgl §1mo-50-13.
  }
