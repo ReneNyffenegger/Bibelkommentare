@@ -10192,6 +10192,8 @@
  }
  {
   <i>Schüsseln, Schalen, Kannen, Spendschalen</i> §4mo-4-7
+  <br>
+   Vgl mit den 30 goldenen Becken in §esr-1-9.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer
@@ -29755,6 +29757,16 @@
 #}
 @}
 @2. Könige 14 {
+#2koe-14-1 {
+ {
+  §2chr-25-1
+ }
+#}
+#2koe-14-2 {
+ {
+  Hiskia bestieg den Thron ebenfalls 25 jährig und regierte 29 Jahre lang, §2koe-18-2.
+ }
+#}
 #2koe-14-6 {
  {
   <a class='kom' href='#I5mo-24-16'>5.&nbsp;Mo&nbsp;24,16</a>.
@@ -30146,6 +30158,9 @@
 @2. Könige 18 {
 #2koe-18-1 {
  {
+  §2chr-29-1
+ }
+ {
   Die Männer Hiskias haben einige Sprüche Salomos zusammengetragen: <a href='http://bibel.renenyffenegger.ch/spr_25.html#v1'>Spr&nbsp;25,1</a>.
  }
  {
@@ -30163,8 +30178,10 @@
 #}
 #2koe-18-2 {
  {
-  Beachte: Im Hebräischen wird als Name der Mutter <span class='hebr'>אֲבִ֖י</span> (Strongs 21) genannt, in
-  <a href='http://bibel.renenyffenegger.ch/2chr_29.html#v1'>2.&nbsp;Chr&nbsp;29,1</a> <span class='hebr'>אֲבִיָּ֖ה</span> (Strongs 29).
+  Amazja bestieg den Thron ebenfalls 25 jährig und regierte 29 Jahre lang, §2koe-14-2
+ }
+ {
+  Beachte: Im Hebräischen wird als Name der Mutter <span class='hebr'>אֲבִ֖י</span> (Strongs 21) genannt, in §2chr-29-1 <span class='hebr'>אֲבִיָּ֖ה</span> (Strongs 29).
  }
 #}
 #2koe-18-4 {
@@ -34137,6 +34154,11 @@
 #}
 @}
 @2. Chronik 25 {
+#2chr-25-1 {
+ {
+  §2koe-14-1
+ }
+#}
 #2chr-25-4 {
  {
   Parallel: <a class='kom' href='#I2koe-14-6'>2.&nbsp;Kö&nbsp;14,6</a>.
@@ -34344,6 +34366,9 @@
 @}
 @2. Chronik 29 {
 #2chr-29-1 {
+ {
+  §2koe-18-1
+ }
  {
   <i>Abjija</i>: <a class='kom' href='#I2koe-18-2'>2.&nbsp;Kö&nbsp;18,2</a>.
  }
@@ -62188,6 +62213,11 @@
   Hier spricht einer aus der Volksmenge zu Jesus, in §Vlk-12-54 Jesus zur Volksmenge.
  }
 #}
+#lk-12-14 {
+ {
+  <i>wer hat mich zu einem Richter oder Erbteiler über euch gesetzt</i>: §apg-7-27
+ }
+#}
 #lk-12-16 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
@@ -67596,6 +67626,11 @@
   Siehe <a class='kom' href='#Iapg-4-28'>Apg&nbsp;4,28</a>.
  }
 #}
+#apg-7-27 {
+ {
+  <i>Wer hat dich zum Obersten und Richter über uns gesetzt</i>: §Vapg-7-35, §lk-12-14
+ }
+#}
 #apg-7-29 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/2mo_2.html#v15'>2.&nbsp;Mo&nbsp;2,15</a> (Mose floh vor dem Pharao).
@@ -67635,6 +67670,9 @@
  {
   Beachte: so wie der Herr Jesus auch erst bei seinem zweiten Kommen von den Juden erkannt werden wird, so wurde auch
   Mose erst bei seinem zweiten Kommen erkannt.
+ }
+ {
+  <i>Wer hat dich zum Obersten und Richter gesetzt</i>: §Vapg-7-27
  }
 #}
 #apg-7-36 {
@@ -71137,9 +71175,7 @@
   'vorstellig werden' (Strongs 1718): <a class='kom' href='#Imt-27-53'>Mt&nbsp;27,53</a>.
  }
  {
-   <i>Verurteiung</i>: <span class='gr'>δίκη</span> (Strongs 1349, 4x), auch noch in <a href='http://bibel.renenyffenegger.ch/apg_28.html#v4'>Apg&nbsp;28,4</a> ('Göttin der Rache'),
-   <a href='http://bibel.renenyffenegger.ch/2thes_1.html#v9'>2.&nbsp;Thes&nbsp;1,9</a> ('Strafe'),
-   <a href='http://bibel.renenyffenegger.ch/jud_1.html#v7'>Jud&nbsp;1,7</a> ('Strafe').
+   <i>Verurteilung</i>: <span class='gr'>δίκη</span> (Strongs 1349, 4x), auch noch in §apg-28-4 («Rache»), §2thes-1-9 («Strafe»), §jud-1-7 («Strafe»).
  }
 #}
 #apg-25-21 {
@@ -71418,8 +71454,8 @@
   <i>Tier</i> (<span class='gr'>θηρίον</span>, Strongs 2342): <a class='kom' href='#Imk-1-13'>Mk&nbsp;1,13</a>.
  }
  {
-  TODO: 'Rache' im Griechischen die <i>Dike</i>, die <i>Göttin der Rache</i>?
-  Vgl <a class='kom' href='#Iapg-25-15'>Apg&nbsp;25,15</a>.
+  <i>Rache</i>, im Griechischen die <i>Dike</i>. Sch2K übersetzt mit «Göttin der Rache».
+  Vgl §+apg-25-15.
  }
  {
   TODO: Elberfelder übersetzt 'aus dem Meer gerettet ist' (Passiv), Schlachter verwendet den Aktiv ('hat sich gerettet')
@@ -71772,6 +71808,7 @@
  {
   <i>Der Gerechte wird aus Glauben leben</i>: §+hab-2-4, §gal-3-11, §hebr-10-38
   <br>Vgl mit «der Gerechtigkeit, die aus dem Gesetz kommt»: §+roem-10-5.
+  <br>Vgl auch §roem-2-13
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
@@ -72053,7 +72090,7 @@
 #}
 #roem-2-26 {
  {
-  <i>Rechte</i>: <span class='gr'>→ biblisches/Grundtext/Wörter/G1345-dikaioma[δικαίωμα]</span> (Strongs 1345)
+  <i>Rechte</i>: <span class='gr'>→ biblisches/Grundtext/Wörter/G1345-dikaioma[δικαίωμα]</span> (Strongs 1345), vgl §roem-8-4
  }
 #}
 #roem-2-28 {
@@ -72290,12 +72327,15 @@
 #}
 #roem-4-7 {
  {
-  Vgl §+ps-32-1-ff, §jes-26-10.
+  Verweis §+ps-32-1-ff, vgl §jes-26-10.
  }
 #}
 #roem-4-11 {
  {
-  Siehe <a class='kom' href='#I1mo-17-10'>1.&nbsp;Mo&nbsp;17,10</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
+ }
+ {
+  Siehe §+1mo-17-10.
  }
 #}
 #roem-4-15 {
@@ -72396,7 +72436,7 @@
 #}
 #roem-5-10 {
  {
-  <i>Mit Gott versöhnt sein</i> vgl §2kor-5-18-20, §+eph-2-15.
+  <i>Mit Gott → biblisches/Eigene-Uebersetzung/Konkordanz/Versöhnung[versöhnt] sein</i> vgl §2kor-5-18-20, §+eph-2-15.
  }
 #}
 #roem-5-11 {
@@ -72607,6 +72647,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+ }
+#}
+#roem-8-4 {
+ {
+  <i>Recht des Gesetzes</i>: §roem-2-26
  }
 #}
 #roem-8-7 {
@@ -73070,8 +73115,10 @@
 #}
 #roem-11-15 {
  {
-   TODO: Gem. Ulrich geht es hier um die Verwerfung des Ecksteins in §ps-118-22 durch die Juden, nicht um die Verwerfung der Juden durch Gott. Vgl
-   §Vroem-11-1 und §1petr-2-4-7.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Versöhnung
+ }
+ {
+   TODO: Gem. Ulrich geht es hier um die Verwerfung des Ecksteins in §ps-118-22 durch die Juden, nicht um die Verwerfung der Juden durch Gott. Vgl §Vroem-11-1 und §1petr-2-4-7.
  }
 #}
 #roem-11-16 {
@@ -73901,6 +73948,8 @@
  {
   <i>befestigen</i>: §roem-1-11. Vgl auch §1thes-3-2, wo → biblisches/Personen/Timotheus im → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium
   des Christus gesandt worden ist, um die Thessalonicher zu befestigen und zu trösten.
+ <br>
+ Beachte, dass die »Unbefestigten« (<span class='gr'>ἀστήρικτος</span>) die von Paulus in seinen → biblisches/Bücher/Paulus[Briefen] geredeten Dinge verdrehen.
  }
  {
   TODO: http://bibletruthfortoday.com/sitebuildercontent/sitebuilderfiles/ws_11_6_11_the_mystery_that_paul_teaches_romans-16_25_27.mp3,
@@ -74855,6 +74904,11 @@
   <br>Vgl Vers 24.
  }
 #}
+#1kor-7-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Versöhnung
+ }
+#}
 #1kor-7-12 {
  {
   TODO: <i>sage ich, nicht der Herr</i>: Unter dem Gesetz galt noch (wo?), dass eine heidnische Frau entlassen werden <i>musste</i>. Mit Paulus hat das geändert, deshalb sagt dies Paulus, nicht der Herr.
@@ -75775,8 +75829,7 @@
 #}
 #1kor-14-35 {
  {
-   Lernende Frauen: vgl <a href='http://bibel.renenyffenegger.ch/1tim_2.html#v11'>1.&nbsp;Tim&nbsp;2,11</a>,
-   <a href='http://bibel.renenyffenegger.ch/2tim_3.html#v7'>2.&nbsp;Tim&nbsp;3,6-7</a>.
+   Lernende Frauen: vgl §1tim-2-11, §2tim-3-7.
  }
 #}
 #1kor-14-37 {
@@ -76645,6 +76698,9 @@
  }
 #}
 #2kor-5-20 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Versöhnung
+ }
  {
   <i>Botschafter</i>: <span class='gr'>πρεσβεύω</span> (Strongs 4243, 2x) in Elberfelder mit «Gesandte», in KJV mit «ambassadors» übersetzt.
   <br>Vgl §eph-6-20.
@@ -81329,6 +81385,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>flammendes Feuer</i> vgl §ps-97-3
+ }
+ {
+  Vgl §jud-1-7 (auch §V2thes-1-9).
  }
  {
   TODO: <i>anerkennen</i> (<span class='gr'>εἴδω</span>, Strongs 1492), sonst häufig mit 'sehen' übersetzt.
@@ -87135,6 +87194,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Habsucht</i>: Vers 3.
  }
+ {
+  <i>unbefestigt</i>: <span class='gr'>ἀστήρικτος</span> (Strongs 793, 2x), vgl §2petr-3-16
+ }
 #}
 #2petr-2-15 {
  {
@@ -87284,6 +87346,18 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2petr-3-15 {
  {
   TODO: Beachte, dass Paulus als erstem «die ganze Langmut erzeigt» hat (§1tim-1-16), deshalb schreibt Paulus wohl auch davon.
+ }
+#}
+#2petr-3-16 {
+ {
+  <i>schwerz zu verstehen</i>: <span class='gr'>δυσνόητος</span> (Strongs 1425, 1x).
+  <a href='https://betterbibles.wordpress.com/2012/11/27/was-paul-hard-to-understand/'>Jemand</a> meint, das Wort könnte besser übersetzt werden mit »nicht akzeptiert werden«, wohl weil sie
+  <i>unwissend</i> und <i>unbefestigt</i> sind.
+ <br>
+  Beachte, dass → biblisches/Personen/Paulus[Paulus'] → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium jemanden befestigen (<span class='gr'>στηρίζω</span>, Strongs 4741) kann, §roem-16-25, §roem-1-11.
+ }
+ {
+  <i>Unbefestigte</i>: <span class='gr'>ἀστήρικτος</span> (Strongs 793, 2x), vgl §2petr-2-14
  }
 #}
 #2petr-3-17 {
@@ -88023,6 +88097,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Ewiges Feuer</i>: <a class='kom' href='#Imt-18-8'>Mt&nbsp;18,8</a>.
+ }
+ {
+  Vgl §2thes-1-8-9
  }
 #}
 #jud-1-8 {
