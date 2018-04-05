@@ -37370,10 +37370,9 @@
 #}
 #hi-22-14 {
  {
-  <i>Gewölbe</i> (<span class='hebr'>חוּג</span>, Strongs 2329, 3x), auch in <a href='http://bibel.renenyffenegger.ch/spr_8.html#v27'>Spr&nbsp;8,27</a> und
-  <a href='http://bibel.renenyffenegger.ch/jes_40.html#v22'>Jes&nbsp;40,22</a> (jeweils als 'Kreis' übersetzt).
+  <i>Kreis</i> (<span class='hebr'>חוּג</span>, Strongs 2329, 3x), auch in §spr-8-27 und §jes-40-22 (jeweils als 'Kreis' übersetzt).
   <br>
-   Vgl auch <a class='kom' href='#Ihi-26-10'>Hi&nbsp;26,10</a>.
+   Vgl auch §+hi-26-10.
  }
 #}
 #hi-22-24 {
@@ -42496,9 +42495,10 @@
 #}
 #spr-8-27 {
  {
-  TODO: Vgl <a href='http://bibel.renenyffenegger.ch/hi_26.html#v10'>Hi&nbsp;26,10</a>.
-  <br><i>Kreis</i>: Vgl auch mit <a href='http://bibel.renenyffenegger.ch/jes_40.html#v22'>Jes&nbsp;40,22</a> und
-    <a class='kom' href='#Ihi-22-14'>Hi&nbsp;22,14</a>.
+  <i>Kreis</i>: Vgl auch mit §jes-40-22 und §+hi-22-14.
+ }
+ {
+  TODO: Vgl §hi-26-10.
  }
  {
   TODO: <i>Oberfläche der Meerestiefe</i> wäre wohl besser übersetzt mit 'Angesicht der Tiefe', vgl <a class='kom' href='#I1mo-1-2'>1.&nbsp;Mo&nbsp;1,2</a>.
@@ -45967,7 +45967,7 @@
 #}
 #jes-40-22 {
  {
-  <i>Kreis</i>: <a class='kom' href='#Ispr-8-27'>Spr&nbsp;8,27</a>, <a class='kom' href='#Ihi-22-14'>Hi&nbsp;22,14</a>.
+  <i>Kreis</i>: §+spr-8-27, §+hi-22-14.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/ausspannen
