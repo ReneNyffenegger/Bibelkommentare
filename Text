@@ -60722,7 +60722,7 @@
 #}
 #mk-16-15 {
  {
-  <i>predigt das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium der ganzen Schöpfung</i> Vgl §kol-1-23.
+  <i>predigt das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium der ganzen Schöpfung</i> Vgl §+kol-1-23, §1tim-3-16
  }
  {
   Vgl §mt-28-19
@@ -64809,8 +64809,7 @@
 #}
 #joh-7-43 {
  {
-   TODO: <i>Spaltung unter der Volksmenge</i>: vgl <a href='http://bibel.renenyffenegger.ch/joh_9.html#v16'>Joh&nbsp;9,16</a> (Spaltung unter den Pharisäern)
-   und <a href='http://bibel.renenyffenegger.ch/joh_10.html#v19'>Joh&nbsp;10,19</a> (Spaltung unter den Juden)
+   <i>Spaltung unter der Volksmenge</i>: vgl §joh-9-16 (Spaltung unter den Pharisäern) und §joh-10-19 (Spaltung unter den Juden)
  }
 #}
 #joh-7-50 {
@@ -65048,7 +65047,7 @@
 #}
 #joh-9-16 {
  {
-  <i>Spaltung unter den Pharisäern</i>: <a class='kom' href='#Ijoh-7-43'>Joh&nbsp;7,43</a>.
+  <i>Spaltung unter den Pharisäern</i>: §+joh-7-43.
  }
  {
   <i>nicht von Gott</i> vgl §+joh-3-2, §Vjoh-9-33
@@ -65145,7 +65144,7 @@
 #}
 #joh-10-19 {
  {
-  <i>Spaltung unter den Juden</i>: <a class='kom' href='#Ijoh-7-43'>Joh&nbsp;7,43</a>.
+  <i>Spaltung unter den Juden</i>: §+joh-7-43.
  }
 #}
 #joh-10-20 {
@@ -74219,13 +74218,14 @@
   <a class='kom' href='#I2kor-8-10'>2.&nbsp;Kor&nbsp;8,10</a>.
  }
  {
-  <i>Spaltungen</i> (<span class='gr'>σχίσμα</span>, Strongs 4978) kommt in den Lehrbriefen nur noch in
-  <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v18'>1.&nbsp;Kor&nbsp;11,18</a> und <a href='http://bibel.renenyffenegger.ch/1kor_12.html#v25'>1.&nbsp;Kor&nbsp;12,25</a>
-  (Übersetzt mit 'Zwiespalt').
-  <br>Beachte: <a href='http://bibel.renenyffenegger.ch/1kor_12.html#v24'>1.&nbsp;Kor&nbsp;12,24</a>: Der Leib ist so zusammengefügt, dass es keinen
-      Zwiespalt gebe.
-  <br>In <a href='http://bibel.renenyffenegger.ch/mt_9.html#v16'>Mt&nbsp;9,16</a> wird das Wort mit 'Riss' übersetzt.
-  <br>TODO: <a class='kom' href='#Ijud-1-19'>Jud&nbsp;1,19</a>.
+  <i>Spaltungen</i> (<span class='gr'>σχίσμα</span>, Strongs 4978) kommt in den Lehrbriefen nur noch in §1kor-11-18 und §1kor-12-25.
+  <br>
+    Beachte: §1kor-12-24-15: Der Leib ist so zusammengefügt, dass es keinen Spaltung gebe.
+  <br>In §mt-9-16 wird das Wort mit 'Riss' übersetzt.
+  <br>Vgl §1kor-3-3
+ }
+ {
+  TODO: <a class='kom' href='#Ijud-1-19'>Jud&nbsp;1,19</a>.
  }
 #}
 #1kor-1-11 {
@@ -74431,6 +74431,14 @@
  }
  {
   <i>Neid und Streit</i> §phil-1-15
+ }
+ {
+  <span class='gt'>Offenbahr fehlt in NA «Zwietracht»</span>
+ }
+#}
+#1kor-3-4 {
+ {
+  <span class='gt'>MT/TR: fleischlich, NA: menschlich</span>
  }
 #}
 #1kor-3-5 {
@@ -79580,8 +79588,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-2-6 {
  {
-   <i>gleich</i>: <span class='gr'>ἴσος</span>, Strongs 2470. Vgl mit «wie» in Vers 7 (<span class='gr'>ὁμοίωμα</span>, Strongs 3667)
-   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/joh_5.html#v18'>Joh&nbsp;5,18</a>.
+   <i>gleich</i>: <span class='gr'>ἴσος</span>, Strongs 2470. Vgl mit «Gleichheit» in Vers 7 (<span class='gr'>ὁμοίωμα</span>, Strongs 3667)
+   <br>Vgl auch §joh-5-18.
  }
 #}
 #phil-2-7 {
@@ -80159,7 +80167,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Epaphras</i> ist ein Diener des Christus: <a class='kom' href='#Ikol-1-7'>Kol&nbsp;1,7</a>.
  }
  {
-  <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium, das der ganzen Schöpfung gepredigt worden ist</i> vgl §+mk-16-15.
+  <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium, das der ganzen Schöpfung gepredigt worden ist</i> vgl §+mk-16-15, §1tim-3-15, §Vkol-1-6
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, vgl §Vkol1-5
@@ -82345,6 +82353,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index der Gottseligkeit</i> mit dem «Geheimnis der Gottlosigkeit» (§+2thes-2-7).
  }
  {
+  <i>gepredigt unter den Nationen</i> vgl §kol-1-23, §mk-16-15.
+ }
+ {
   → biblisches/Grundtext/Scriptio-continua
  }
  {
@@ -82357,7 +82368,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Was bedeutet <i>geglaubt in der Welt</i> hier?
  }
  {
-  TODO: Wird nicht ab diesem Vers bis <a href='http://bibel.renenyffenegger.ch/1itm_4.html#v6'>1.&nbsp;Itm&nbsp;4,6</a> ein Abschnitt gebildet?
+  TODO: Wird nicht ab diesem Vers bis §1tim-4-6 ein Abschnitt gebildet?
  }
  {
   TODO: Wegen dieses Verses gibt es offenbar Kritik an der CSV Edition. (Vgl <a class='kom' href='#I2kor-5-17'>2.&nbsp;Kor&nbsp;5,17</a>).
@@ -87029,7 +87040,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Kuss der Liebe</i>: §+roem-16-16.
  }
  {
-   <span class='gt'>In NA fehlt «Jesus»</span>
+   <span class='gt'>In NA fehlt «Jesus» und «Amen»</span>
  }
 #}
 @}
@@ -88152,6 +88163,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   TODO: Andere Übersetzungen übersetzen offenbar mit <i>ihr</i> (Sch 1951, Zürcher, Menge)
+ }
+#}
+#2joh-1-13 {
+ {
+  <span class='gt'>In NA fehlt «Amen».</span>
  }
 #}
 @}
