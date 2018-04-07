@@ -37188,6 +37188,24 @@
 #}
 #hi-9-9 {
  {
+  Es scheint, als ob die <a href='/notes/biblisches/Grundtext/LXX'>Septuaginta</a> die Reihenfolge der Sternbilder vertauscht:
+  <table summary='.' class='grid'>
+    <tr><td></td>
+         <td>1</td><td>2</td><td>3</td><td>4</td></tr>
+    <tr><td>Elberfelder</td>
+         <td>grosser Bär</td><td>Orion</td><td>Siebengestirn</td><td>Kammern des Südens</td></tr>
+    <tr><td>Hebr.</td>
+        <td>עָ֭שׁ</td><td>כְּסִ֥יל</td><td>וְכִימָ֗ה</td><td>וְחַדְרֵ֥י תֵמָֽן</td></tr>
+    <tr><td><a href='/notes/biblisches/Grundtext/LXX'>LXX</a></td>
+        <td>πλειαδα</td><td>εσπερον</td><td>αρκτουρον</td><td>ταμιεια νοτου</td></tr>
+    <tr><td>KJV</td>
+        <td>Arctarus</td><td>Orion</td><td>Pleiades</td><td>chambers of the south</td>
+    <tr><td><a href='/notes/biblisches/Uebersetzungen/Vulgata'>Vulgata</a></td>
+        <td>Arcturum</td><td>Oriona</td><td>Hyadas</td><td>interiora Austri</td>
+
+  </table>
+ }
+ {
   <i>Grosser Bär</i> <span class='hebr'>עַיִשׁ</span> (Strongs 5906, 2x), in
   KJV mit 'Arcturus' übersetzt. Gemäss Donald W. Patten handelt es sich
   um den Mars.
@@ -37628,6 +37646,9 @@
 #hi-38-31 {
  {
   <i>Orion</i>: §+hi-9-9.
+ }
+ {
+  <i>Gebinde des Siebengestirns</i>: KJV übersetzt mit «sweet influences of → Wissenschaft/Astronomie/Galaxie/Plejaden[Pleiades]».
  }
 #}
 #hi-38-32 {
