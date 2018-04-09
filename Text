@@ -19738,10 +19738,14 @@
  {
   Salomo hatte 40000 Stallplätze und 12000 Reiter: <a href='http://bibel.renenyffenegger.ch/1koe_5.html#v6'>1.&nbsp;Kö&nbsp;5,6</a>.
  }
+ {
+  <a href='http://www.askelm.com/restoring/res013.htm'>Ernest L. Martin</a> argumentiert offenbar, dass diese Verse nachträglich von
+  → biblisches/Personen/Samuel eingefügt worden sind, nachdem die Israeliten einen König begehrt hatten, vgl §1sam-8-9, §1sam-10-25.
+ }
 #}
 #5mo-17-18 {
  {
-  <i>Eine Abschrift des Gesetzes erstellen</i>: <a href='http://bibel.renenyffenegger.ch/jos_8.html#v32'>Jos&nbsp;8,32</a>
+  <i>Eine Abschrift des Gesetzes erstellen</i>: §jos-8-32, vgl §+5mo-31-9
  }
 #}
 @}
@@ -20445,8 +20449,10 @@
 #}
 #5mo-31-9 {
  {
-  TODO: zumindest in Schlachter hier das erste Vorkommen von 'Bundeslade' (statt 'Lade'
-  [<a class='kom' href='#I2mo-25-10'>2.&nbsp;Mo&nbsp;25,10</a>]?)
+  Vgl §5mo-17-18, → biblisches/Bücher/Kanon[Kanonisierung der Bibel]
+ }
+ {
+  TODO: zumindest in Schlachter hier das erste Vorkommen von 'Bundeslade' (statt 'Lade' [<a class='kom' href='#I2mo-25-10'>2.&nbsp;Mo&nbsp;25,10</a>]?)
  }
 #}
 #5mo-31-10 {
@@ -25103,7 +25109,7 @@
 #}
 #1sam-10-25 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1sam_8.html#v9'>1. Sam 8,9 ff</a>.
+  Vgl §1sam-8-9-ff, §+5mo-17-16.
  }
 #}
 #1sam-10-26 {
@@ -30462,6 +30468,10 @@
  {
   <i>Um Davids willen</i>: <a class='kom' href='#I1koe-15-4'>1.&nbsp;Kö&nbsp;15,4</a>.
  }
+ {
+  Beachte: das Zeichen der Heilung wird an <i>Stufen</i> sichtbar werden. Hiskia wird 15 Jahre länger leben. Es gibt 15 <i>Stufenlieder</i> (Psalm 120 bis Psalm 134). Davon sind bei
+  zehn, entsprechend den Stufen, die die Sonne zurückgegangen ist, die Verfasser nicht bekanntsa:.
+ }
 #}
 #2koe-20-9 {
  {
@@ -34318,6 +34328,11 @@
   TODO: <a class='kom' href='#I5mo-24-8'>5.&nbsp;Mo&nbsp;24,8</a>.
  }
 #}
+#2chr-26-22 {
+ {
+  Vgl §2chr-32-32
+ }
+#}
 @}
 @2. Chronik 27 {
 #2chr-27-2 {
@@ -34671,7 +34686,13 @@
 #}
 #2chr-32-32 {
  {
-  <i>Offenbarung des Propheten Jesaja</i> vgl mit dem Anfang des Buches Jesaja: <a class='kom' href='#Ijes-1-1'>Jes&nbsp;1,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Buch
+ }
+ {
+  <i>Offenbarung des Propheten → biblisches/Personen/Jesaja</i> vgl mit dem Anfang des Buches Jesaja: §+jes-1-1.
+ }
+ {
+  Vgl §2chr-26-22
  }
 #}
 @}
@@ -36255,6 +36276,10 @@
 #neh-8-8 {
  {
   <i>Sie lasen im Buch, im Gesetz Gottes</i> §neh-9-3
+ }
+ {
+  <i>gaben den Sinn an</i>: Dies könnte ein Hinweis darauf sein, dass einige Juden in ihrer babylonischen Gefangenschaft das Hebräische verlernt haben und nun Aramäisch sprechen und dass Esra
+  aus dem Hebräischen ins Aramäische übersetzte.
  }
 #}
 #neh-8-9 {
@@ -43358,6 +43383,11 @@
 #}
 @}
 @Sprüche 25 {
+#spr-25-1 {
+ {
+  <i>Die Männer → biblisches/Personen/Hiskia[Hiskias]</i> waren möglicherweise Schebna, der Schreiber, Joach, der Geschichtsschreiber (§2koe-18-18) und → biblisches/Personen/Jesaja.
+ }
+#}
 #spr-25-3 {
  {
          <i>Vermessbarkeit des Himmels</i>: Vgl <a href='http://bibel.renenyffenegger.ch/jer_31.html#v37'>Jer&nbsp;31,37</a>.
@@ -44024,6 +44054,11 @@
 #}
 @}
 @Hohelied 8 {
+#hl-8-6 {
+ {
+  <a href='https://hermeneutics.stackexchange.com/questions/12949/does-song-of-songs-86-contain-a-reference-to-yhwh'>Does Song of Songs 8:6 contain a reference to YHWH?</a>
+ }
+#}
 #hl-8-9 {
  {
   <i>Zinne</i> (Strongs 2918): <a class='kom' href='#I1mo-25-16'>1.&nbsp;Mo&nbsp;25,16</a>.
@@ -44035,6 +44070,9 @@
 { 1 - 10
 @Jesaja 1 {
 #jes-1-1 {
+ {
+  → biblisches/Personen/Jesaja
+ }
  {
   <i>Offenbarung</i> (<span class='hebr'>חָזוֹן</span>, Strongs 2377).
   Vgl <i>Offenbarung, die Jesaja &hellip;</i> mit der 'Offenbarung des Propheten Jesaja' in <a class='kom' href='#I2chr-32-32'>2.&nbsp;Chr&nbsp;32,32</a>.
@@ -44468,6 +44506,9 @@
  {
   <i>Urija</i>: <a class='kom' href='#I2koe-16-10'>2.&nbsp;Kö&nbsp;16,10</a>.
   Es gibt auch noch einen Urija zur im Anfang der Regierung Jojakims: <a href='http://bibel.renenyffenegger.ch/jer_26.html#v20'>Jer&nbsp;26,20</a>.
+ }
+ {
+  <i>Sacharja, Sohn Jeberekjas</i>: §mt-23-35
  }
 #}
 #jes-8-3 {
@@ -45917,7 +45958,7 @@
 #}
 #jes-38-8 {
  {
-   <a class='kom' href='#I2koe-20-11'>2.&nbsp;Kö&nbsp;20,11</a>.
+   §+2koe-20-9-ff
  }
 #}
 #jes-38-11 {
@@ -48398,6 +48439,11 @@
   <i>Elnathan</i> ist auch der Name des Vaters Nehustas, der Mutter Jojachins (<a class='kom' href='#I2koe-24-8'>2.&nbsp;Kö&nbsp;24,8</a>).
  }
 #}
+#jer-26-23 {
+ {
+  Urija ist der chronologisch letzte Gerechte, der umgebracht wurde. Vgl §mt-23-35.
+ }
+#}
 @}
 @Jeremia 27 {
 #jer-27-1 {
@@ -49879,6 +49925,11 @@
 #kla-4-5 {
  {
   TODO <i>Misthaufen</i>: <a class='kom' href='#Idan-2-5'>Dan&nbsp;2,5</a>.
+ }
+#}
+#kla-4-20 {
+ {
+  Einige Ausleger beziehen den <i>Gesalbten des HERRN</i> auf → biblisches/Personen/Josia, vgl §2chr-35-25.
  }
 #}
 #kla-4-21 {
@@ -51737,6 +51788,11 @@
    TODO: Menschenkinder wäre evtl. besser mit »Söhne der Menschen« (oder »Söhne des Menschen«) übersetzt worden
  }
 #}
+#dan-2-41 {
+ {
+  <i>10 Zehen</i>: vgl mit den → biblisches/Bücher/Ketuvim/Psalmen/083#ps-83-zehn-nationen[10 Nationen in Psalm 83].
+ }
+#}
 #dan-2-42 {
  {
    Beachte, bei den Füssen wird nicht von einem 'fünften Reich' gesprochen, obwohl sie sich
@@ -52502,6 +52558,9 @@
 #dan-10-21 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Michael
+ }
+ {
+  → biblisches/Bücher/referenzierte-ausserbiblische
  }
 #}
 @}
@@ -53586,6 +53645,11 @@
  {
   TODO: Hier und in <a href='http://bibel.renenyffenegger.ch/zeph_2.html#v14'>Zeph&nbsp;2,14</a> kommt Strongs 3730 (eigentlich nur «Knauf») vor.
   Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Kaphtor-Knauf
+ }
+#}
+#am-9-6 {
+ {
+  <i>Obergemächer</i>: <span class='hebr'>מַעֲלָה</span> (Strongs 4609), dasselbe Wort wie für «Stufe», z.B. in §2mo-20-26, §ps-120-1, §2koe-20-10 etc.
  }
 #}
 #am-9-7 {
@@ -55625,7 +55689,7 @@
 #}
 #mt-5-17 {
  {
-  → → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz#gesetz-aufheben[Gesetz nicht auflösen] und <i>kein einziges Strichlein wird vom Gesetz vergehen</i> (Vers 18):
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz#gesetz-aufheben[Gesetz nicht auflösen] und <i>kein einziges Strichlein wird vom Gesetz vergehen</i> (Vers 18):
   vgl §lk-16-17
   <br>
   vgl §roem-10-4: «Christus is das Ende des Gesetzes zur Gerechtigkeit für jeden,
@@ -55636,10 +55700,13 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
+ {
+  <i>Strichlein</i>: <span class='gr'>κεραία</span> (Strongs 2762, 2x), w.: Hörnchen.
+ }
 #}
 #mt-5-18 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/mt_24.html#v35'>Mt&nbsp;24,35</a>: Die Worte Jesu werden nicht vergehen.
+  Vgl mit §mt-24-35: Die Worte Jesu werden nicht vergehen. Vgl auch §lk-16-17
  }
 #}
 #mt-5-19 {
@@ -58106,14 +58173,20 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
-  <i>Zacharia</i> scheint Sacharja zu sein: <a class='kom' href='#Isach-1-1'>Sach&nbsp;1,1</a>. S.a. <a href='http://bibel.renenyffenegger.ch/lk_11.html#v51'>Lk&nbsp;11,51</a>.
-  TODO: <i>Aber</i> in <a href='http://bibel.renenyffenegger.ch/2chr_24.html#v20'>2.&nbsp;Chr&nbsp;24,20</a> wird ein Sacharja (Elberfelder: Sekarja), Sohn Jojadas
-  im Hof des Hauses Jehovas gesteinigt.
-         <br>
-  S.a. <a class='kom' href='#Ilk-1-5'>Lk&nbsp;1,5</a>.
+  Mit <i>Zacharia, dem Sohn Barachjas</i> scheint Sacharja zu sein: §+sach-1-1.
+  <i>Aber</i> in §2chr-24-20 wird ein Sacharja (Elberfelder: Sekarja), Sohn Jojadas im Hof des Hauses Jehovas gesteinigt.
+   In §jes-8-2 ein gewisser <i>Sacharja, Sohn Jeberekjas</i> erwähnt.
+  <br>
+   Dies ist der letzte Gerechte, der umgebracht wird in der ursprünglichen Reihenfolge der Rollen der Bibel.
+  Der chronologisch letzte umgebrachte Gerechte ist <i>Urija</i>, der Sohn Schemajas: §jer-26-20-23
+  <br>
+   Vgl §lk-11-51, s. a. §+lk-1-5, <a href='https://christianity.stackexchange.com/questions/36360'>christianity.stackexchange.com</a>
  }
  {
   Vgl §offb-18-24
+ }
+ {
+  <span class='gt'>Gemäss Tischendorfs kritischem Apparat fehlt <span class='gr'>υἱοῦ Βαραχίου</span> im <a href='/notes/biblisches/Grundtext/Handschriften/0-001'>Codex Sinaiticus</a>.</span>
  }
 #}
 #mt-23-37 {
@@ -60811,7 +60884,7 @@
   Abteilung Abija: <a class='kom' href='#I1chr-24-10'>1.&nbsp;Chr&nbsp;24,10</a>.
  }
  {
-  Beachte, <i>Zacharias</i> ist auch der Name des letzten erwähnten Märtyrers: <a class='kom' href='#Imt-23-35'>Mt&nbsp;23,35</a>.
+  Beachte, <i>Zacharias</i> ist auch der Name des letzten (textlich, nicht chronologisch) erwähnten Märtyrers: §+mt-23-35.
   Zacharias (<span class='hebr'>זְכַרְיָה</span>, Strongs 2148) bedeutet offenbar «Gott erinnert sich».
  }
  {
@@ -67306,7 +67379,7 @@
   <a class='kom' href='#Iapg-15-39'>Apg&nbsp;15,39</a>.
  }
  {
-  In <a href='http://bibel.renenyffenegger.ch/apg_14.html#v12'>Apg&nbsp;14,12</a> wird Barnabas 'Zeus' genannt werden.
+  In §apg-14-12 wird Barnabas «Zeus» genannt werden.
  }
  {
   <i>Joses</i>: <a class='kom' href='#Imt-13-55'>Mt&nbsp;13,55</a>.
@@ -69409,14 +69482,13 @@
 #}
 #apg-14-12 {
  {
-  <i>Zeus</i>: <a class='kom' href='#Iapg-4-3'>Apg&nbsp;4,3</a>.
+  <i>Zeus</i>: §+apg-4-36.
  }
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/2kor_10.html#v10'>2.&nbsp;Kor&nbsp;10,10</a> wo einer behauptet(?), Paulus' Rede
-  sei verachtenswert.
+  Vgl mit §2kor-10-10 wo einer behauptet(?), → biblisches/Personen/Paulus[Paulus'] Rede sei verächtlich.
  }
  {
-   <i>Hermes</i>: <span class='gr'>Ἑρμῆς</span> (Strongs 2060, 2x) ist offenbar mit <span class='gr'>ἑρμηνεύω</span> (Strongs 2059) 'übersetzen' (Zb in
+   <i>Hermes</i>: <span class='gr'>Ἑρμῆς</span> (Strongs 2060, 2x) ist offenbar mit <span class='gr'>ἑρμηνεύω</span> (Strongs 2059) zu 'übersetzen' (Zb in
    <a href='http://bibel.renenyffenegger.ch/joh_1.html#v38'>Joh&nbsp;1,38</a>) verwandt. Vgl auch <a class='kom' href='#Ilk-24-27'>Lk&nbsp;24,27</a>.
    <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/roem_16.html#v14'>Röm&nbsp;16,14</a>.
  }
@@ -71911,7 +71983,7 @@
  {
   <i>Gottes Kraft</i>: das Evangelium (hier), §roem-15-13 (Kraft des Heiligen Geistes [TODO: auch §roem-15-19?]),
   <br>
-  §1kor-2-4-5
+  §1kor-2-4-5, §1thes-1-5
   <br>
    Beachte, dass → biblisches/Personen/Paulus das Evangelium in Schwachheit des Fleisches verkündigt hat: §gal-4-13
  }
@@ -74097,6 +74169,9 @@
  {
   <i>geoffenbart durch prophetische Schriften</i> vgl §roem-1-2, §roem-3-21
  }
+ {
+  Ist allen Nationen kundgetan: vgl §+kol-1-23
+ }
 #}
 #roem-16-27 {
  {
@@ -74276,7 +74351,7 @@
   Paulus' Rede: vgl <a class='kom' href='#I1kor-2-1'>1.&nbsp;Kor&nbsp;2,1</a>,
   <a href='http://bibel.renenyffenegger.ch/2kor_10.html#v10'>2.&nbsp;Kor&nbsp;10,10</a>
   <br>
-  Vgl mit <a class='kom' href='#Iapg-14-12'>Apg&nbsp;14,12</a>, wo Paulus das Wort führte und man ihn 'Hermes' nannte.
+  Vgl mit §+apg-14-12, wo Paulus das Wort führte und man ihn «Hermes» nannte.
  }
 #}
 #1kor-1-18 {
@@ -75141,9 +75216,9 @@
   TODO: Möglicherweise wurde Paulus auch wegen den Jungfrauen gefragt. Da es hierzu kein Wort des Herrn gibt, gibt Paulus die Lehre mit apostolischer Autorität.
  }
 #}
-#1kor-7-29 {
+#1kor-7-27 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
+  Paulus meinte, er sei in der → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit, deshalb empfahl (oder verbot) er, eine Frau zu suchen. Vgl §V1kor-7-29 («Die Zeit ist gedrängt»).
  }
 #}
 #1kor-7-36 {
@@ -75371,6 +75446,9 @@
  }
 #}
 #1kor-10-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
+ }
  {
   <i>Vorbild</i>: <span class='gr'>τύπος</span>, Strongs 5179.
  }
@@ -77152,10 +77230,11 @@
   <i>Gegenwart</i>: <span class='gr'>παρουσία</span> (Strongs 3952). Vgl <a class='kom' href='#Iphil-2-12'>Phil&nbsp;2,12</a>.
  }
  {
-  Paulus' Rede: <a class='kom' href='#I1kor-1-17'>1.&nbsp;Kor&nbsp;1,17</a>
+  Paulus' Rede: §+1kor-1-17
  }
  {
-  <i>Verachtenswerte Rede</i>: <a class='kom' href='#Imt-7-29'>Mt&nbsp;7,29</a>.
+  <i>verächtliche Rede</i>: in §apg-14-12 wurde → biblisches/Personen/Paulus Hermes genannt, weil er das Wort führte.
+  <br>Vgl. a. §+mt-7-29.
  }
 #}
 #2kor-10-11 {
@@ -78581,6 +78660,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Die Zwischenwand der Umzäunung abreissen</i>: §jes-5-5
+ }
+ {
+  Möglicherweise schrieb → biblisches/Personen/Paulus diesen Brief (ironischerweise) in der Zeit, wo der Herodianische Tempel fertiggestellt wurde.
  }
 #}
 #eph-2-15 {
@@ -80167,10 +80249,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Epaphras</i> ist ein Diener des Christus: <a class='kom' href='#Ikol-1-7'>Kol&nbsp;1,7</a>.
  }
  {
-  <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium, das der ganzen Schöpfung gepredigt worden ist</i> vgl §+mk-16-15, §1tim-3-15, §Vkol-1-6
+  <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium, das der ganzen Schöpfung gepredigt worden ist</i> vgl §+mk-16-15, §1tim-3-15, §Vkol-1-6, §roem-16-26
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, vgl §Vkol1-5
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, vgl §Vkol-1-5
  }
 #}
 #kol-1-25 {
@@ -81631,7 +81713,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-2-6 {
  {
-  TODO: Offenbar ist im Griechischen hier <i>das, was zurückhält</i> im Netrum (und Pneuma wäre auch Neutrum); im nächsten Vers ist <i>der, welcher jetzt zurückhält</i> im Maskulinum.
+  Offenbar ist im Griechischen hier <i>das, was zurückhält</i> im Neutrum (und Pneuma wäre auch Neutrum); im nächsten Vers ist <i>der, welcher jetzt zurückhält</i> im Maskulinum.
   → biblisches/Bücher/Paulus/Thessalonicher/2/Kapitel-02/Der-Zurückhaltende
  }
  {
@@ -82849,6 +82931,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Personen/Paulus/Gefangener
  }
+ {
+  <i>leide Trübsal</i>: §2tim-2-9
+ }
 #}
 #2tim-1-9 {
  {
@@ -82888,9 +82973,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Das <i>anvertraute Gut</i>: <a class='kom' href='#I1tim-6-20'>1.&nbsp;Tim&nbsp;6,20</a>.
  }
 #}
+#2tim-1-15 {
+ {
+  Gehörte → biblisches/Personen/Johannes auch zu den Personen, die sich von → biblisches/Personen/Paulus ab. Er scheint ja zu der Zeit der Abfassung des 2. Timotheusbriefes in Asien gewesen zu sein.
+ }
+#}
 #2tim-1-16 {
  {
    → biblisches/Personen/Paulus/Gefangener
+ }
+ {
+  Onesiphorus: §2tim-4-19
  }
 #}
 #2tim-1-18 {
@@ -82943,6 +83036,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Ketten</i>: <a class='kom' href='#Iapg-16-26'>Apg&nbsp;16,26</a>.
+ }
+ {
+  <i>Trübsal leiden</i>: §2tim-1-8
  }
 #}
 #2tim-2-10 {
@@ -83362,6 +83458,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2tim-4-19 {
  {
   Priska wird wohl sonst Priscilla genannt, zB in <a href='http://bibel.renenyffenegger.ch/apg_18.html#v18'>Apg&nbsp;18,18</a>.
+ }
+ {
+  Onesiphorus: §2tim-1-16
  }
 #}
 #2tim-4-20 {
@@ -84925,6 +85024,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <a href='Grundlegung.html'>Von Grundlegung der Welt an</a>.
  }
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
+ }
+ {
   TODO <i>offenbar werden</i> <span class='gr'>φανερόω</span>, Strongs 5319.
  }
 #}
@@ -85094,6 +85196,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Ausharren</i>: vgl §+lk-21-19
+ }
+#}
+#hebr-10-37 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
  }
 #}
 #hebr-10-38 {
