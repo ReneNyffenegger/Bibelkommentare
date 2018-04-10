@@ -46465,15 +46465,21 @@
 @Jesaja 49 {
 #jes-49-1 {
  {
-  <i>Von Mutterleib an berufen</i>: vgl Paulus <a href='http://bibel.renenyffenegger.ch/gal_1.html#v15'>Gal&nbsp;1,15</a> und
-  <a href='http://bibel.renenyffenegger.ch/jer_1.html#v5'>Jer&nbsp;1,5</a>.
-  TODO: vgl auch Vers 3 (durch den ich mich verherrliche) und <a href='http://bibel.renenyffenegger.ch/gal_1.html#v24'>Gal&nbsp;1,24</a>.
-  TODO: vgl Vers 4 (vergeblich abgemüht) mit <a class='kom' href='#Igal-2-2'>Gal&nbsp;2,2</a>.
+  <i>Von Mutterleib an berufen</i>: vgl Paulus §gal-1-15 und §jer-1-5.
+ }
+ {
+  TODO: vgl auch Vers 3 (durch den ich mich verherrliche) und §gal-1-24.
+  TODO: vgl Vers 4 (vergeblich abgemüht) mit §+gal-2-2.
  }
 #}
 #jes-49-2 {
  {
   Vgl mit dem <i>Schwert, das aus Seinem Mund hervorgeht</i>: <a class='kom' href='#Ioffb-1-16'>Offb&nbsp;1,16</a>.
+ }
+#}
+#jes-49-4 {
+ {
+  <i>Umsonst habe ich mich abgemüht</i> Vgl §phil-2-16
  }
 #}
 #jes-49-6 {
@@ -47301,7 +47307,7 @@
 #}
 #jer-1-5 {
  {
-  Vgl <a class='kom' href='#Ijes-49-1'>Jes&nbsp;49,1</a>.
+  Vgl §+jes-49-1.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
@@ -77656,7 +77662,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung#absonderung-paulus[abgesondert] vgl. §+roem-1-1.
  }
  {
-  <i>Von Mutterleib an berufen</i>: vgl <a class='kom' href='#Ijes-49-1'>Jes&nbsp;49,1</a>.
+  <i>Von Mutterleib an berufen</i>: vgl §+jes-49-1.
  }
 #}
 #gal-1-16 {
@@ -79769,6 +79775,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>vergeblich laufen</i> vgl §gal-2-2. <i>vergeblich arbeiten</i> vgl §gal-4-11
+  <br>
+  Vgl auch §jes-49-4
  }
 #}
 #phil-2-17 {
