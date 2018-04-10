@@ -55703,6 +55703,9 @@
  {
   <i>Strichlein</i>: <span class='gr'>κεραία</span> (Strongs 2762, 2x), w.: Hörnchen.
  }
+ {
+  <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz und die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] erfüllen</i>: <span class='gr'>πληρόω</span> (Strongs 4137) vgl mit «das Wort Gottes vollenden» in §kol-1-25.
+ }
 #}
 #mt-5-18 {
  {
@@ -59052,6 +59055,11 @@
   einen 'gerechten Menschen'.
  }
 #}
+#mt-27-56 {
+ {
+  Die <i>Mutter der Söhne Zebedäaus</i> heisst Salome: §mk-15-40.
+ }
+#}
 #mt-27-62 {
  {
   TODO: Ist <i>der andere Tag, der auf den Rüsttag folgt</i> ein Sabbat? Und wenn ja, warum wird dies so formulert. Vielleicht, weil damit angedeutet werden soll, dass der Sabbat nach dem Tod Christi keine
@@ -59668,10 +59676,10 @@
 #}
 #mk-6-3 {
  {
-  <i>Zimmermann</i>: <a class='kom' href='#Imt-13-55'>Mt&nbsp;13,55</a>.
+  <i>Zimmermann</i>: §+mt-13-55.
  }
  {
-  Vgl mit «Jakobus, dem Bruder des Herrn»: <a class='kom' href='#Igal-1-19'>Gal&nbsp;1,19</a>.
+  Vgl mit «Jakobus, dem Bruder des Herrn»: §+gal-1-19.
  }
 #}
 #mk-6-5 {
@@ -60735,6 +60743,14 @@
   Vgl <i>Maria, die Mutter des ... Jakobus und Joses</i> mit
   <i>Maria, die Mutter des Joses</i> (Vers 47) und <i>Maria, die Mutter des Jakobus</i> (<a href='http://bibel.renenyffenegger.ch/mk_16.html#v1'>Mk&nbsp;16,1</a>).
   <br>Vgl auch <a class='kom' href='#Imt-13-55'>Mt&nbsp;13,55</a>.
+ }
+ {
+  → biblisches/Personen/Jakobus
+ }
+ {
+  <i>Salome</i> ist die Mutter der Söhne des Zebedäus (also von Jakobus und Johannes), vgl mit §mt-27-56. Einige schliessen aus dem Vergleich mit §joh-19-25, dass Salome die Schwester von Marie, Jesus' Mutter, gewesen sei.
+  <br>
+   Salome ist möglicherweise die hellenisierte Form von Sulamith (§hl-7-1).
  }
  {
   TODO: der jüngere im griechischen 'mikro' (der Kleine(re))
@@ -66280,7 +66296,10 @@
 #}
 #joh-19-25 {
  {
-  <i>Klopas</i>: <a class='kom' href='#Ilk-24-18'>Lk&nbsp;24,18</a>.
+  <i>Klopas</i>: §+lk-24-18.
+ }
+ {
+  Die <i>Schwester seiner Mutter</i> war möglicherweise Salome, §mk-15-40.
  }
 #}
 #joh-19-26 {
@@ -74142,7 +74161,7 @@
   <i>Mein Evangelium</i>: §+roem-2-16.
  }
  {
-  <span class='gt'>MT setzt die Verse 25-27 nach <a href='http://bibel.renenyffenegger.ch/roem_14.html#v23'>R&ouml;m&nbsp;14,23</a></span>.
+  <span class='gt'>MT setzt die Verse 25-27 nach §roem-14-23</span>.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
@@ -74167,7 +74186,8 @@
   → biblisches/Bücher/Paulus/Römerbrief#roemer-jetzt-aber[Jetzt aber im Römerbrief]
  }
  {
-  <i>geoffenbart durch prophetische Schriften</i> vgl §roem-1-2, §roem-3-21
+  <i>prophetische Schriften</i>: damit sind wohl die Schriften von → biblisches/Personen/Paulus selbst gemeint: in diesen Schriften wird das «Geheimnis, das in den Zeiten der Zeitalter verschwiegen war» kundgetan.
+  Vgl §roem-1-2, §roem-3-21
  }
  {
   Ist allen Nationen kundgetan: vgl §+kol-1-23
@@ -77670,14 +77690,13 @@
 #}
 #gal-1-19 {
  {
-  <i>Jakobus, der Bruder des Herrn</i>: <a class='kom' href='#Imk-6-3'>Mk&nbsp;6,3</a>,
-  <a href='http://bibel.renenyffenegger.ch/mt_13.html#v55'>Mt&nbsp;13,55</a>.
+  <i>→ biblisches/Personen/Jakobus, der Bruder des Herrn</i>: §+mk-6-3, §mt-13-55.
  }
  {
   TODO Beachte: Jakobus, der Bruder des Herrn, war kein Apostel.
  }
  {
-  TODO: Wann hat Paulus welche Apostel kennengelernt: <a class='kom' href='#Iapg-9-27'>Apg&nbsp;9,27</a>.
+  TODO: Wann hat Paulus welche Apostel kennengelernt: §+apg-9-27.
  }
 #}
 #gal-1-20 {
@@ -80266,6 +80285,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Das Wort Gottes vollenden</i>: Sch2K übersetzt mit «das Wort Gottes voll ausrichten», KJV mit «to fulfill the word of God», Darby mit «to complete the word of God».
          <br>
    <span class='gr'>πληρόω τὸν λόγον τοῦ θεο</span> bedeutet wörtlich «das Wort Gottes auffüllen» und offenbar ein Hebraismus, der auch in §1koe-1-14 vorkommt, wo er mit «[die] Worte bekräftigen» übersetzt wird.
+   <br>
+    Vgl §mt-5-17
  }
 #}
 #kol-1-26 {
@@ -87640,6 +87661,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Unbefestigte</i>: <span class='gr'>ἀστήρικτος</span> (Strongs 793, 2x), vgl §2petr-2-14
+ }
+ {
+  <i>in allen seinen Briefen</i>: Offenbar war zur Zeit der Abfassung des Briefes bereits bekannt, welche Briefe von → biblisches/Personen/Paulus zum → biblisches/Bücher/Kanon[Kanon] gehörten.
  }
  {
   TODO: <span class='gt'>According to the greatest number of MSS. the apostle does not say, εν αις, in which epistles, but εν οις, in or among which things; namely, the things which Paul had written concerning Christ’s coming to judgment, the burning of the earth, the heavenly country, and the introduction of the righteous into that country. The Alexandrian, however, and six other MSS. read here, εν αις, in which epistles. </span>
