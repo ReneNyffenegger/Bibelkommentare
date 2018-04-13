@@ -456,6 +456,9 @@
 #}
 #1mo-1-28 {
  {
+  Vgl. mit → biblisches/Personen/Abraham: Gott machte ihn fruchtbar (§1mo-17-6) und gab ihm ein Land (§1mo-17-8), wohl um gleichsam darüber zu herrschen..
+ }
+ {
   TODO: herrschen hier: «radah», in <a href='http://bibel.renenyffenegger.ch/1mo_3.html#v16'>1.&nbsp;Mo&nbsp;3,16</a>: «maschal».
   Vgl <a href="http://linguascriptura.org/forum_de/viewtopic.php?f=14&amp;t=135">http://linguascriptura.org/forum_de/viewtopic.php?f=14&amp;t=135</a>.
  }
@@ -2104,6 +2107,11 @@
   Joktan <span class='hebr'>יָקְטָן</span> (Strongs 3355) heisst offenbar <i>klein</i>.
  }
  {
+  Beachte: In → biblisches/Bücher/Mose/1/Kapitel-10[diesem Kapitel] werden 13 Nachkommen von Joktan aufgzeählt. Das ist die Hälfte der aufgezählten Nachkommen von Sem.
+  <br>
+  Von → biblisches/Personen/Jakob und → biblisches/Personen/Ismael werden ebenfalls je 13 Nachkommen aufgezählt.
+ }
+ {
   TODO: War die Erde geteilt wegen des Turms von Babel?
  }
 #}
@@ -2665,8 +2673,7 @@
 #1mo-14-6 {
  {
   Die <i>Horiter</i> wohnen auf dem Bergland Seir, bis sie von den Söhnen Esaus vertrieben wurden
-  (<a href='http://bibel.renenyffenegger.ch/5mo_2.html#v12'>5.&nbsp;Mo&nbsp;2,12</a>). Siehe auch
-  <a href='http://bibel.renenyffenegger.ch/1mo_32.html#v4'>1.&nbsp;Mo&nbsp;32,4</a> und <a href='http://bibel.renenyffenegger.ch/1mo_36.html#v8'>1.&nbsp;Mo&nbsp;36,8</a>.
+  (§5mo-2-12). Siehe auch §1mo-32-4 und §1mo-36-8, §1mo-36-20.
  }
  {
   <i>El-Paran</i> (<span class='hebr'>אֵיל  פָּארָן</span>, Strongs 364, bestehend aus Strongs 352 und 6290);
@@ -3170,7 +3177,7 @@
 #}
 #1mo-17-4 {
  {
-  <i>Vater einer Menge Nationen</i>: vgl <a class='kom' href='#I1mo-12-2'>1.&nbsp;Mo&nbsp;12,2</a>.
+  <i>Vater einer Menge Nationen</i>: vgl §+1mo-12-2.
  }
 #}
 #1mo-17-5 {
@@ -3295,7 +3302,7 @@
 #}
 #1mo-17-20 {
  {
-  <i>Zwölf Fürsten</i>: <a href='http://bibel.renenyffenegger.ch/1mo_25.html#v16'>1.&nbsp;Mo&nbsp;25,16</a>.
+  <i>Zwölf Fürsten</i>, die Ismael zeugen wird: §1mo-25-16.
  }
  {
   <i>Fürst</i>: §+1mo-12-15.
@@ -4100,9 +4107,12 @@
 @1. Mose 25 {
 #1mo-25-1 {
  {
-  Ketura wird in <a href='http://bibel.renenyffenegger.ch/1chr_1.html#v32'>1.&nbsp;Chr&nbsp;1,32</a> eine <i>Nebenfrau</i> genannt.
+  Ketura wird in §1chr-1-32 eine <i>Nebenfrau</i> genannt.
   <span class='hebr'>קְטוּרָה</span>, Strongs 6989, bedeutet offenbar 'Räucherwerk' und stammt von
   <span class='hebr'>קָטַר</span>, Strongs 6999, ab.
+ }
+ {
+  Für Ketura werden 5 direkte und 11 indirekte Nachkommen angegeben. Ebenso für Esau, §1mo-36-2-ff.
  }
 #}
 #1mo-25-3 {
@@ -4212,7 +4222,7 @@
 #}
 #1mo-25-16 {
  {
-  <i>Zwölf Fürsten</i>: <a class='kom' href='#I1mo-17-20'>1.&nbsp;Mo&nbsp;17,20</a>.
+  <i>Zwölf Fürsten</i>: §+1mo-17-20.
  }
  {
    TODO: <i>Höfe</i> (<span class='hebr'>חָצֵר</span>, Strongs 2691).
@@ -4633,7 +4643,7 @@
   <i>fruchtbar</i>: Siehe <a class='kom' href='#I1mo-17-6'>1.&nbsp;Mo&nbsp;17,6</a>. Vgl auch mit der unfruchtbaren Rahel (<a href='http://bibel.renenyffenegger.ch/1mo_29.html#v31'>1.&nbsp;Mo&nbsp;29,31</a>)
  }
  {
-  Beachte: Hier spricht nicht der HERR, sondern Isaak. Die Verheissung wird erst in <a href='http://bibel.renenyffenegger.ch/1mo_35.html#v11'>1.&nbsp;Mo&nbsp;35,11</a>
+  Beachte: Hier spricht nicht der HERR, sondern Isaak. Die Verheissung wird erst in §1mo-35-11 («ein Haufe Nationen»)
   «direkt» an Jakob kommuniziert.
   <br>
    Vgl auch <a class='kom' href='#I1mo-17-6'>1.&nbsp;Mo&nbsp;17,6</a>.
@@ -5360,6 +5370,9 @@
   Vgl <a class='kom' href='#I1mo-12-7'>1.&nbsp;Mo&nbsp;12,7</a>.
  }
  {
+  <i>ein Haufe Nationen</i>: wer sind sie? Vgl §1mo-48-4, §+hes-2-3, §1mo-28-3
+ }
+ {
   TODO: <a class='kom' href='#I1mo-28-3'>1.&nbsp;Mo&nbsp;28,3</a>.
  }
  {
@@ -5504,13 +5517,16 @@
   <a href='http://bibel.renenyffenegger.ch/1mo_28.html#v8'>1.&nbsp;Mo&nbsp;28,8</a>.
  }
  {
+  Für → biblisches/Personen/Esau werden 5 direkte und 11 indirekte Nachkommen aufgezählt. Ebenso für Ketura, §1mo-25-1.
+ }
+ {
   TODO: <i>Ohilibama</i> (Strongs 173): 'Zelt der Höhen' (Strongs 168 und 1116)
  }
 #}
 #1mo-36-5 {
  {
   <i>Korah</i>: Der Sohn Oholibamas (auch <a href='http://bibel.renenyffenegger.ch/1mo_36.html#v14'>Vers 14</a>),
-  genannt <i>Fürst Korah</i> in <a href='http://bibel.renenyffenegger.ch/1mo_36.html#v18'>Vers 18</a>.
+  genannt <i>Fürst Korah</i> in §V1mo-36-18.
   Dann auch der <i>Fürst Korah</i>, ein Sohn von Eliphas (<a href='http://bibel.renenyffenegger.ch/1mo_36.html#v16'>Vers 16</a>).
   Dieser Korah wird in <a href='http://bibel.renenyffenegger.ch/1mo_36.html#v11'>Vers 11</a> nicht erwähnt.
   <br>Korah = <span class='hebr'>קֹרַח</span>, Strongs 7141, was offenbar «kahl» (Glatze) bedeutet, vgl Strongs 7139 in
@@ -5531,7 +5547,7 @@
 #}
 #1mo-36-7 {
  {
-  Die Habe von Abraham und Lot war auch zu gross, dass es das Land nicht etrug, dass sie beieinander wohnten (<a href='http://bibel.renenyffenegger.ch/1mo_13.html#v6'>1.&nbsp;Mo&nbsp;13,6</a>).
+  Die Habe von Abraham und Lot war auch zu gross, dass es das Land nicht ertrug, dass sie beieinander wohnten (§1mo-13-6).
  }
 #}
 #1mo-36-8 {
@@ -5540,6 +5556,9 @@
   Vor den Söhnen Esaus wohnten die Horiter darin (<a href='http://bibel.renenyffenegger.ch/1mo_14.html#v6'>1.&nbsp;Mo&nbsp;14,6</a>).
   Gott hat die Horiter vor sich her getrieben, als die Söhne Esaus darin Wohnsitz nahmen
   (<a href='http://bibel.renenyffenegger.ch/5mo_2.html#v22'>5.&nbsp;Mo&nbsp;2,22</a>).
+ }
+ {
+  → biblisches/Personen/Esau, → biblisches/Eigene-Uebersetzung/Konkordanz/Edom
  }
 #}
 #1mo-36-9 {
@@ -5563,18 +5582,36 @@
   <br>Gott kommt von Teman her (<a href='http://bibel.renenyffenegger.ch/hab_3.html#v3'>Hab&nbsp;3,3</a>)
  }
  {
+  §1mo-36-16 erwähnt zusätzlich <i>Korah</i> als Sohn von Eliphas.
+ }
+ {
   <i>Kenas</i>: siehe <a class='kom' href='#I1mo-15-19'>1.&nbsp;Mo&nbsp;15,19</a>.
  }
 #}
 #1mo-36-12 {
  {
-  <i>Amalek</i> wird Israel angreifen: <a class='kom' href='#I2mo-17-8'>2.&nbsp;Mo&nbsp;17,8</a>.
-  <br>Bereits in <a class='kom' href='#I1mo-14-7'>1.&nbsp;Mo&nbsp;14,7</a> werden Amalekiter erwähnt.
+  <i>Amalek</i> wird Israel angreifen: §+2mo-17-8.
+  <br>Bereits in §+1mo-14-7 werden Amalekiter erwähnt.
+ }
+#}
+#1mo-36-16 {
+ {
+  Korah wird in §V1mo-36-11 nicht als Sohn von Eliphas erwähnt.
  }
 #}
 #1mo-36-17 {
  {
   TODO: Serach: Ist das derselbe wie in <a href='http://bibel.renenyffenegger.ch/1mo_36.html#v33'>Vers 33</a>?
+ }
+#}
+#1mo-36-19 {
+ {
+  <i>Er ist → biblisches/Personen/Esau</i>: Sch2K und Elberfelder übersetzen mit «das ist → biblisches/Eigene-Uebersetzung/Konkordanz/Edom».
+ }
+#}
+#1mo-36-20 {
+ {
+  <i>Seir, der Horiter</i> vgl §1mo-14-6
  }
 #}
 #1mo-36-22 {
@@ -5666,6 +5703,11 @@
 #1mo-36-39 {
  {
    Auch beim Tod von <i>Baal-Hanan</i> wird speziell darauf hingewiesen, dass dieser der Sohn <i>Achbors</i> war.
+ }
+#}
+#1mo-36-40 {
+ {
+  Hier werden 11 Fürsten aufgezählt. Die Anzahl der Nachkommen von Eliphas und Reghuel ist ebenfalls 11.
  }
 #}
 #1mo-36-43 {
@@ -6506,8 +6548,8 @@
  }
  {
   <i>Haus Israel</i>:
-    Dieses Haus gibt den Name «Manna» (<a href='http://bibel.renenyffenegger.ch/2mo_16.html#v31'>2.&nbsp;Mo&nbsp;16,31</a>)
-    <br>Vgl mit «Kinder Israel»: <a href='http://bibel.renenyffenegger.ch/1mo_32.html#v33'>1.&nbsp;Mo&nbsp;32,33</a>.
+    Dieses Haus gibt den Namen «Manna» (§2mo-16-31)
+    <br>Vgl mit «Kinder Israel»: §1mo-32-33.
  }
 #}
 #1mo-46-29 {
@@ -6666,7 +6708,7 @@
 #}
 #1mo-48-19 {
  {
-  <i>Ein Volk</i> und <i>eine Fülle von Nationen</i>: <a class='kom' href='#I1mo-12-2'>1.&nbsp;Mo&nbsp;12,2</a>.
+  <i>Ein Volk</i> und <i>eine Fülle von Nationen</i>: §+1mo-12-2, §+roem-11-25.
  }
 #}
 #1mo-48-20 {
@@ -17743,6 +17785,11 @@
   TODO: 'Versöhnung' siehe <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v33'>2.&nbsp;Mo&nbsp;29,33</a>.
  }
 #}
+#4mo-29-33 {
+ {
+  Das sind insgesamgt 70 Farren (= 13+12+11+10+9+8+7).
+ }
+#}
 @}
 @4. Mose 30 {
 #4mo-30-2 {
@@ -20523,7 +20570,7 @@
 #}
 #5mo-32-8 {
  {
-  §+1mo-10-5.
+  <i>voneinander scheiden</i>: <span class='hebr'>פָּרַד</span> (Strongs 6504) wird in §+1mo-10-5 und §1mo-10-32 mit «verteilen» übersetzt.
  }
  {
   Die → biblisches/Grundtext/LXX übersetzt mit »nach der Zahl der → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Söhne[Söhne Gottes]«.
@@ -20691,6 +20738,9 @@
 #5mo-33-2 {
  {
   <i>gekommen von heiligen Myriaden</i> vgl §jud-1-14.  
+ }
+ {
+   <i>Der HERR ist … ihnen aufgegangen von Seir</i> vgl §ri-5-4
  }
 #}
 #5mo-33-5 {
@@ -23370,6 +23420,11 @@
 #}
 @}
 @Richter 5 {
+#ri-5-4 {
+ {
+  <i>Als zu auszogst von Seir</i> vgl §5mo-33-1
+ }
+#}
 #ri-5-5 {
  {
   <i>Erbebende Berge</i>: vgl §ps-97-5, §hi-9-5, §nah-1-5
@@ -33466,7 +33521,7 @@
 #}
 #2chr-8-14 {
  {
-   <i>Das Gebot betreffend → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Torhüter[Torhütern] von → biblisches/Personen/David vgl §1chr-9-22, §1chr-23-5 
+   Das Gebot betreffend → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Torhüter[Torhütern] von → biblisches/Personen/David vgl §1chr-9-22, §1chr-23-5 
  }
  {
   TODO: Also Salomo opferte jetzt (Vers 12) und die Leviten lobten? Hatten die Leviten schon unter David gelobt? Opferten die Leviten immer noch, oder hatten
@@ -39256,6 +39311,9 @@
  {
   <i>Berg Zion</i>: <a class='kom' href='#I2sam-5-7'>2.&nbsp;Sam&nbsp;5,7</a>.
  }
+ {
+  <i>Nordseite</i> vgl §jes-14-13
+ }
 #}
 #ps-48-8 {
  {
@@ -42319,6 +42377,11 @@
   Vgl <a class='kom' href='#I2tim-2-15'>2.&nbsp;Tim&nbsp;2,15</a>.
  }
 #}
+#spr-3-7 {
+ {
+  <i>Sei nicht weise in deinen Augen</i> vgl §spr-26-12, §jes-5-21
+ }
+#}
 #spr-3-9 {
  {
   TODO: Ist das hier die erste 'Tataufforderung' in den Sprüchen. Beachte insbesondere Verse 1-8.
@@ -43437,6 +43500,11 @@
   <i>Sommer</i> und <i>Ernte</i>: Vgl §+spr-6-8.
  }
 #}
+#spr-26-12 {
+ {
+  <i>…der in seinen Augen weise ist</i> vgl §+spr-3-7
+ }
+#}
 #spr-26-13 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/spr_22.html#v13'>Spr&nbsp;22,13</a>.
@@ -44317,6 +44385,11 @@
   <i>Süsses und Bitteres</i>: §jak-3-11
  }
 #}
+#jes-5-21 {
+ {
+  <i>in den Augen weise sein</i> vgl §+spr-3-7
+ }
+#}
 #jes-5-24 {
  {
   <i>Feuerzunge</i>: vgl <a href='http://bibel.renenyffenegger.ch/apg_2.html#v3'>Apg&nbsp;2,3</a>.
@@ -44912,6 +44985,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
+ }
+ {
+  <i>äusserster Norden</i> vgl §ps-48-3
  }
 #}
 #jes-14-25 {
@@ -47966,7 +48042,15 @@
 #}
 #jer-16-14 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen, vgl §jer-23-7
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+ {
+  Verse 14 und 15 werden fast wörtlich in §jer-23-7-8 wiederholt.
+ }
+#}
+#jer-16-16 {
+ {
+  <i>Fischer</i> vgl §mt-4-19
  }
 #}
 #jer-16-18 {
@@ -48190,8 +48274,10 @@
 #}
 #jer-23-7 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen,
-  vgl §jer-16-14
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+ {
+  Verse 7 und 8 werden fast wörtlich in §jer-16-14-15 wiederholt
  }
 #}
 #jer-23-11 {
@@ -50071,6 +50157,9 @@
  }
 #}
 #hes-2-3 {
+ {
+  <i>Die Kinder Israel, die empörerischen Nationen</i>: vgl §+1mo-35-11 («ein Haufe Nationen», der aus → biblisches/Personen/Jakob werden soll.)
+ }
  {
   TODO: <i>Heiden[stämmen</i>: <span class='hebr'>גּוֹי</span>, Strongs 1471, vgl <a href='http://bibel.renenyffenegger.ch/hes_4.html#v13'>Hes&nbsp;4,13</a>.
  }
@@ -53024,6 +53113,12 @@
   TODO: Mit dem <i>Kalb</i> ist wohl jenes aus <a class='kom' href='#Ihos-10-5'>Hos&nbsp;10,5</a>.
  }
 #}
+#hos-8-8 {
+ {
+  Beachte: → biblisches/Grundtext/LXX übersetzt einen Teil des Verses mit <span class='gr'>ως σκευος αχρηστον</span> («wie ein unnützes Gefäss»). Das Wort
+  <span class='gr'>αχρηστον</span> ist ein Homonym zu <span class='gr'>ἄχριστον</span> (etwa «ohne Christus»).
+ }
+#}
 #hos-8-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/zurückkehren[Nach Ägypten zurückkehren], vgl §hos-9-3.
@@ -55583,6 +55678,11 @@
    Das <i>Netz</i> in Vers 20 ist <span class='gr'>δίκτυον</span> (Strongs 1350).
  }
 #}
+#mt-4-19 {
+ {
+  <i>Menschenfischer</i> vgl §jer-16-16
+ }
+#}
 #mt-4-21 {
  {
   <i>Zebedäus</i> (<span class='gr'>Ζεβεδαῖος</span>, Strongs 2199) stammt offenbar aus dem Hebräischen Namen
@@ -55969,6 +56069,11 @@
  }
  {
   Vgl <i>gekannt</i> (<span class='gr'>γινώσκω</span>, Strongs 1097) mit <a class='kom' href='#Imt-25-12'>Mt&nbsp;25,12</a>.
+ }
+#}
+#mt-7-24 {
+ {
+  <i>Haus auf dem Felsen (<span class='gr'>πέτρα</span>, Strongs 4073) bauen</i> vgl §mt-16-18
  }
 #}
 #mt-7-28 {
@@ -57445,6 +57550,9 @@
  }
  {
   <i>du bist Petrus und auf diesen Felsen…</i> vgl §+joh-1-42
+ }
+ {
+  <i>Auf diesen Felsen (<span class='gr'>πέτρα</span>, Strongs 4073) will ich meine Versammlung bauen</i> vgl §mt-7-24.
  }
 #}
 #mt-16-19 {
@@ -59437,6 +59545,9 @@
  {
   §lk-6-10
  }
+ {
+  <i>Verstockung ihres Herzens</i>: §eph-4-18, §+mk-6-52
+ }
 #}
 #mk-3-6 {
  {
@@ -59808,6 +59919,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
  }
 #}
+#mk-6-52 {
+ {
+  <i>verhärtetes Herz</i>: vgl §mk-8-17, §joh-12-40, §+mk-3-5
+ }
+#}
 #mk-6-56 {
  {
   Kleider berühren: Vgl mit §+mk-5-28.
@@ -59930,6 +60046,11 @@
 #mk-8-15 {
  {
    <i>Sauerteig der Pharisäer</i>: §+mt-16-6.
+ }
+#}
+#mk-8-17 {
+ {
+  <i>verhärtetes Herz</i>: §+mk-6-52
  }
 #}
 #mk-8-22 {
@@ -63183,8 +63304,7 @@
 #}
 #lk-21-24 {
  {
-  Vgl die <i>Zeiten der Nationen</i> mit den
-  «Zeit der Nationen» in §hes-30-3.
+  Vgl die <i>Zeiten der Nationen</i> mit den «Zeit der Nationen» in §hes-30-3.
   Vgl auch mit §offb-11-2 (Vorhof des Tempel den Nationen gegeben)
   <br>Vgl auch mit der «Vollzahl der Nationen» in §roem-11-25.
  }
@@ -65593,6 +65713,9 @@
  {
   <i>er hat ihre Augen verblendet</i> vgl §1joh-2-11
  }
+ {
+  <i>verstocktes Herz</i>: vgl §+mk-6-52.
+ }
 #}
 #joh-12-41 {
  {
@@ -67751,6 +67874,10 @@
  }
  {
   <i>Beschneidung am achten Tag</i>: <a class='kom' href='#I1mo-17-12'>1.&nbsp;Mo&nbsp;17,12</a>.
+ }
+ {
+  
+  <i>und also</i>: <span class='gr'>καὶ οὕτως</span> vgl §roem-11-26
  }
 #}
 #apg-7-10 {
@@ -70731,6 +70858,11 @@
   Beachte: der <i>junge Mann</i> (<span class='gr'>νεανίας</span>, Strongs 3494) wird in Vers 12 'Knabe' (<span class='gr'>παῖς</span>, Strongs 3816) genannt.
  }
 #}
+#apg-20-11 {
+ {
+  <i>so</i>: <span class='gr'>οὕτως</span> vgl §roem-11-26
+ }
+#}
 #apg-20-15 {
  {
   Paulus liess Trophimus in Milet krank zurück (<a href='http://bibel.renenyffenegger.ch/2tim_4.html#v20'>2.&nbsp;Tim&nbsp;4,20</a>).
@@ -71181,7 +71313,10 @@
 #}
 #apg-22-21 {
  {
-  Vgl <a class='kom' href='#Iapg-13-47'>Apg&nbsp;13,47</a>.
+  Vgl §+apg-13-47.
+ }
+ {
+  <i>zu den Nationen senden</i>: §apg-26-17, §apg-28-28
  }
 #}
 #apg-22-22 {
@@ -71479,8 +71614,11 @@
 #}
 #apg-26-17 {
  {
-  TODO: <i>erst Juden, dann Heiden</i>: <a class='kom' href='#Iapg-13-46'>Apg&nbsp;13,46</a>.
-  <br>Vgl <a class='kom' href='#Iapg-13-47'>Apg&nbsp;13,47</a>.
+  TODO: <i>erst Juden, dann Heiden</i>: §+apg-13-46.
+  <br>Vgl §+apg-13-47.
+ }
+ {
+  <i>zu den Nationen senden</i>: §apg-22-21, §apg-28-28
  }
 #}
 #apg-26-18 {
@@ -71604,6 +71742,11 @@
    TODO: <i>vorbeifahren</i> <span class='gr'>ὑποτρέχω</span> (Strongs 5295, 1x) bedeutet 'to run past a place on the shore, and therefore in a higher position' oder
    'running under the lee of'.
    Vgl <a class='kom' href='#Iapg-27-3'>Apg&nbsp;27,3</a>.
+ }
+#}
+#apg-27-17 {
+ {
+  <i>also</i>: <span class='gr'>οὕτως</span> vgl §roem-11-26
  }
 #}
 #apg-27-18 {
@@ -71790,7 +71933,10 @@
 #}
 #apg-28-28 {
  {
-  <i>Heil</i>: <a class='kom' href='#Ilk-2-30'>Lk&nbsp;2,30</a>.
+  <i>Heil</i>: §+lk-2-30.
+ }
+ {
+  <i>Das zu den Nationen gesandte Heil</i> vgl §apg-22-21, §apg-26-17
  }
  {
   TODO: <i>erst Juden, dann Heiden</i>: <a class='kom' href='#Iapg-13-46'>Apg&nbsp;13,46</a>.
@@ -73332,6 +73478,9 @@
  {
   <i>Verminderung</i>, in Sch2K und Elb 1905 mit «Verlust», in KJV mit «diminishing» übersetzt. Ebenfalls mit «Verminderung» überstzt in Elb 1865.
  }
+ {
+  <i>Fülle</i>: <span class='gr'>πλήρωμα</span> (Strongs 4138), in §+Vroem-11-25 mit «Vollzahl» übersetzt.
+ }
 #}
 #roem-11-13 {
  {
@@ -73377,16 +73526,27 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/Paulus
  }
  {
-  Vgl die <i>Vollzahl der Nationen</i> mit den
-  Vgl auch mit den «Zeiten der Nationen» in §lk-21-24.
+  Vgl die <i>Vollzahl der Nationen</i> mit den «Zeiten der Nationen» in §lk-21-24, der «Fülle Israels» in §Vroem-11-12 und der
+  «Fülle von Nationen» in §1mo-48-19.
+ }
+ {
+  <i>auf daß ihr nicht euch selbst klug dünkt</i>: <span class='gr'>ἵνα μὴ ἦτε παρ᾽ ἑαυτοῖς φρόνιμοι</span>, vgl mit
+  §spr-3-7 in der → biblisches/Grundtext/LXX: <span class='gr'>μη ισθι φρονιμος παρα σεαυτω</span>.
  }
 #}
 #roem-11-26 {
  {
-  Verweis: <a class='kom' href='#Ijes-59-20'>Jes&nbsp;59,20</a>.
+  Verweis: §+jes-59-20.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
+ }
+ {
+  <span class='gr'>καὶ οὕτως</span> kann modal («und also») oder temporal («und (erst) dann») verstanden werden. Die meisten Übersetzungen entscheiden sich offenbar für das modale Verständnis.
+  Das modale Variante ist allgemein viel häufiger. Beispiele wo temporale Verwendung von <span class='gr'>οὕτως</span> möglich ist oder sich sogar zwingend ist,
+  findet man in §apg-7-8, §apg-20-11, §apg-27-17 und §1thes-4-16-17.
+  <br>
+   Siehe Pieter W. van der Horst: <i>"Only then will All Israel be Saved": A Short Note on the Meaning of καὶ οὕτως in Romans 11:26 </i>.
  }
 #}
 #roem-11-28 {
@@ -79034,6 +79194,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>verfinstert am Verstand</i> vgl §roem-1-21
  }
+ {
+  <i>Verstockung ihres Herzens</i>: §mk-3-5
+ }
 #}
 #eph-4-19 {
  {
@@ -81404,6 +81567,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Begegnung</i>: <a class='kom' href='#Imt-25-1'>Mt&nbsp;25,1</a>.
  }
+ {
+  <i>und so</i>: <span class='gr'>καὶ οὕτως</span> vgl §roem-11-26
+ }
 #}
 #1thes-4-18 {
  {
@@ -83441,6 +83607,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Personen/Lukas
  }
  {
+  Hier ist Markus nützlich zum Dienst, in §phim-1-11 wird Onesimus als «nützlich» bezeichnet.
+ }
+ {
   <span class='u'>TODO: Urs meint, Paulus ist an seinem Lebenende nicht mehr in guter Verfassung gewesen und deshalb war Markus für Paulus nützlich zum Dienst.</span>
  }
 #}
@@ -83982,6 +84151,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Paulus-und-Johannes-Kinder ­ → biblisches/Personen/Paulus/Gefangener
+ }
+#}
+#phim-1-11 {
+ {
+  Hier ist Onesimus für → biblisches/Personen/Paulus nützlich, in §2tim-4-11 wird Markus als «nützlich zum Dienst» bezeichnet.
  }
 #}
 #phim-1-14 {
@@ -85835,13 +86009,16 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Jakobus 1 {
 #jak-1-1 {
  {
-  <i>Zerstreuung</i>: <a class='kom' href='#Ijoh-7-35'>Joh&nbsp;7,35</a> und <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v1'>1.&nbsp;Petr&nbsp;1,1</a>.
+  <i>Zerstreuung</i>: §+joh-7-35 und §1petr-1-1.
  }
  {
-  TODO: <i>Knecht Gottes</i>: <a class='kom' href='#Itit-1-1'>Tit&nbsp;1,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme[12 Stämme]
  }
  {
-   TODO:   Der Jakobusbrief musste vor <a href='http://bibel.renenyffenegger.ch/apg_12.html#v2'>Apg&nbsp;12,2</a> geschrieben worden sein, weil Jakobus dort getötet wurde.
+  TODO: <i>Knecht Gottes</i>: §+tit-1-1.
+ }
+ {
+   TODO: Der Jakobusbrief musste vor §apg-12-2 geschrieben worden sein, weil Jakobus dort getötet wurde.
  }
 #}
 #jak-1-2 {
@@ -92162,6 +92339,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-21-12 {
  {
   Vgl <i>Tore</i> mit <a class='kom' href='#Ihes-48-31'>Hes 48,31ff</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme[12 Stämme]
  }
 #}
 #offb-21-14 {
