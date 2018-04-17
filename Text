@@ -61354,12 +61354,12 @@
 #}
 #lk-2-30 {
  {
-  <i>Heil</i> <span class='gr'>σωτήριος</span> (Strongs 4992, 5x), auch in
-  <a href='http://bibel.renenyffenegger.ch/lk_3.html#v6'>Lk&nbsp;3,6</a>,
-  <a href='http://bibel.renenyffenegger.ch/apg_28.html#v28'>Apg&nbsp;28,28</a>,
-  <a href='http://bibel.renenyffenegger.ch/eph_6.html#v17'>Eph&nbsp;6,17</a> und
-  <a href='http://bibel.renenyffenegger.ch/tit_2.html#v11'>Tit&nbsp;2,11</a>.
+  <i>Heil</i> <span class='gr'>σωτήριος</span> (Strongs 4992, 5x), auch in §lk-3-6,
+  §apg-28-28, §eph-6-17 und §tit-2-11.
   <br><span class='gr'>σωτηρία</span> (Strongs 4991) mit «Rettung» übersetzt.
+ }
+ {
+  Beachte: hier hat Simeon <i>das Heil gesehen</i>, in §lk-3-6 wird gesagt, dass alles Fleisch <i>das Heil sehen wird</i>.
  }
 #}
 #lk-2-32 {
@@ -61508,7 +61508,10 @@
 #}
 #lk-3-6 {
  {
-  <i>Heil</i>: <a class='kom' href='#Ilk-2-30'>Lk&nbsp;2,30</a>.
+  <i>Heil</i>: §+lk-2-30.
+ }
+ {
+  <i>Alles Fleisch wird das Heil sehen</i>: vgl §+lk-2-30, vgl §apg-28-28
  }
 #}
 #lk-3-7 {
@@ -72009,7 +72012,7 @@
   <i>Heil</i>: §+lk-2-30.
  }
  {
-  <i>Das zu den Nationen gesandte Heil</i> vgl §apg-22-21, §apg-26-17
+  <i>Das zu den Nationen gesandte Heil</i> vgl §apg-22-21, §apg-26-17, §+lk-3-6
  }
  {
   TODO: <i>erst Juden, dann Heiden</i>: <a class='kom' href='#Iapg-13-46'>Apg&nbsp;13,46</a>.
