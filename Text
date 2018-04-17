@@ -9771,6 +9771,9 @@
   <i>erholen</i> <span class='hebr'>נָפַשׁ</span> (Strongs 5314, 3x) könnte offenbar auch mit <i>Atem schöpfen</i> übersetzt werden.
   Das Wort kommt noch in §2mo-31-17 (sich erquicken) und §2sam-16-14 (erholen) vor.
  }
+ {
+  <i>Sohn deiner Magd</i> §ps-86-16, §ps-116-16
+ }
 #}
 #2mo-23-13 {
  {
@@ -11505,6 +11508,9 @@
  }
  {
   Der HERR ging auf dem Horeb auch bei Elia vorüber (<a href='http://bibel.renenyffenegger.ch/1koe_19.html#v11'>1.&nbsp;Kö&nbsp;19,11</a>).
+ }
+ {
+  <i>Güte und Wahrheit</i> §+ps-89-15
  }
 #}
 #2mo-34-7 {
@@ -18770,10 +18776,13 @@
 #}
 #5mo-3-9 {
  {
-  <i>Senir</i>: <a class='kom' href='#I1chr-5-23'>1.&nbsp;Chr&nbsp;5,23</a>.
+  <i>Senir</i>: §+1chr-5-23.
  }
  {
   <i>Sirjon</i> §ps-29-6
+ }
+ {
+  Hermon ist auch Sion: §5mo-4-47
  }
 #}
 #5mo-3-11 {
@@ -18939,6 +18948,9 @@
 #5mo-4-48 {
  {
   → biblisches/Orte/Aroer
+ }
+ {
+  <i>Sion, das ist der Hermon</i>: vgl §5mo-3-9
  }
 #}
 @}
@@ -27959,7 +27971,7 @@
 #}
 #1koe-5-11 {
  {
-  Etan, der Esrachiter hat den <a href='http://bibel.renenyffenegger.ch/ps_89.html#v1'>89. Psalm</a> geschrieben.
+  Etan, der Esrachiter hat den <a href='http://bibel.renenyffenegger.ch/ps_89.html#v1'>89. Psalm</a> geschrieben. Vgl §ps-88-1
  }
  {
   TODO: Heman, Kalkol und Dara (nicht Darda!) kommen auch in §1chr-2-6 vor (aber als Söhne Searchs, des Juda).
@@ -31867,7 +31879,9 @@
 #}
 #1chr-6-18 {
  {
-  <i>Stammbaum des Heman</i> siehe <a class='kom' href='#I1sam-1-1'>1.&nbsp;Sam&nbsp;1,1</a>.
+  <i>Heman</i>: §ps-88-1, §1chr-25-4
+  <br>
+  <i>Stammbaum des Heman</i> siehe §+1sam-1-1.
  }
 #}
 #1chr-6-19 {
@@ -32932,6 +32946,11 @@
 #1chr-25-3 {
  {
   Der sechste (Simei? Vers 17) wird nicht genannt.
+ }
+#}
+#1chr-25-4 {
+ {
+  <i>Heman</i>: §1chr-6-18
  }
 #}
 #1chr-25-5 {
@@ -34455,6 +34474,11 @@
 #}
 @}
 @2. Chronik 28 {
+#2chr-28-4 {
+ {
+  Vgl §ps-89-4
+ }
+#}
 #2chr-28-5 {
  {
    <a class='kom' href='#I2koe-16-5'>2.&nbsp;Kö&nbsp;16,5</a>.
@@ -40495,6 +40519,11 @@
   → biblisches/Personen/Korah/Sohn-von-Jizhar
  }
 #}
+#ps-85-2 {
+ {
+  <i>Gefangeschaft Jakobs wenden</i>: §hes-39-25, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gefangenschaft/wenden
+ }
+#}
 #ps-85-11 {
  {
   <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>.
@@ -40521,10 +40550,18 @@
  {
   <i>Lehre mich, HERR, deinen Weg</i>: §ps-27-11
  }
+ {
+  <i>einige mein Herz</i>: KJV übersetzt mit «unite my heart»
+ }
 #}
 #ps-86-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte
+ }
+#}
+#ps-86-16 {
+ {
+  <i>Sohn deiner Magd</i> §2mo-23-12, §ps-116-16
  }
 #}
 @}
@@ -40534,9 +40571,19 @@
   → biblisches/Personen/Korah/Sohn-von-Jizhar
  }
 #}
+#ps-87-4 {
+ {
+  <i>Rahab</i>: §ps-89-11
+ }
+#}
 @}
 @Psalm 88 {
 #ps-88-1 {
+ {
+  Der nächste Psalm ist auch von einem Esrachiter, §ps-89-1
+  <br>
+  <i>Heman, der Esrachiter</i>: vgl §1koe-5-11
+ }
  {
   → biblisches/Personen/Korah/Sohn-von-Jizhar
  }
@@ -40547,7 +40594,7 @@
 #}
 #ps-88-11 {
  {
-  TODO: Vgl <a href='http://bibel.renenyffenegger.ch/jes_26.html#v14'>Jes&nbsp;26,14</a>.
+  Vgl §jes-26-14.
  }
 #}
 #ps-88-12 {
@@ -40559,16 +40606,25 @@
 @Psalm 89 {
 #ps-89-1 {
  {
-  Etan, der Esrachiter war offenbar sehr weise (aber Salomo war noch weiser): <a href='http://bibel.renenyffenegger.ch/1koe_5.html#v10'>1.&nbsp;Kö&nbsp;5,10</a>.
+  Der letzte Psalm war auch von einem Esrachiter, §ps-88-1 
+ }
+ {
+  Etan, der Esrachiter war offenbar sehr weise (aber Salomo war noch weiser): §1koe-5-10.
  }
 #}
 #ps-89-2 {
  {
-  Beachte: Hier will Etan die <i>Gnadenerweise</i> ewiglich besingen, in <a href='http://bibel.renenyffenegger.ch/ps_89.html#v50'>Vers 50</a> fragt
+  Beachte: Hier will Etan die <i>Gütigkeiten</i> ewiglich besingen, in §Vps-89-50 fragt
   er, wo sie sind.
-         <br>
+ }
+ {
   TODO: Offenbar ist das Wort für <i>Gnadenerweise</i> <span class='hebr'>חֶסֶד</span> (Strongs 2617), welches an anderen Orten
   (zB.  <a href='http://bibel.renenyffenegger.ch/ps_89.html#v29'>Ps&nbsp;89,29</a>) mit 'Gnade' übersetzt wird.
+ }
+#}
+#ps-89-4 {
+ {
+  Vgl §2chr-28-4
  }
 #}
 #ps-89-5 {
@@ -40594,7 +40650,7 @@
 #}
 #ps-89-11 {
  {
-  <i>Rahab</i> §jes-51-9
+  <i>Rahab</i> §jes-51-9, §ps-87-4
  }
  {
   <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>.
@@ -40606,6 +40662,9 @@
  }
  {
   <i>Gerechtigkeit und Gericht sind deines Thrones Grundfeste</i> §ps-97-2 
+ }
+ {
+  <i>Güte und Wahrheit</i>: §2mo-34-6, §2sam-15-20, §ps-25-10, §ps-61-8, §ps-85-11, §ps-86-15, §spr-20-28, §spr-16-6, §spr-14-22, §spr-3-3
  }
 #}
 #ps-89-16 {
@@ -40640,8 +40699,8 @@
 #}
 #ps-89-38 {
  {
-  TODO: Der Mond verliert den Schein: <a class='kom' href='#Ihes-32-7'>Hes&nbsp;32,7</a>.
-  <br>Vgl auch <a class='kom' href='#I1mo-1-16'>1.&nbsp;Mo&nbsp;1,16</a>.
+  Der Mond verliert den Schein: §+hes-32-7.
+  <br>Vgl auch §+1mo-1-16.
  }
 #}
 #ps-89-41 {
@@ -40651,7 +40710,7 @@
 #}
 #ps-89-50 {
  {
-  <i>Gnadenerweise</i>: <a class='kom' href='#Ips-89-2'>Vers 2</a>.
+  <i>Gütigkeiten</i>: §Vps-89-2
  }
 #}
 #ps-89-53 {
@@ -41577,6 +41636,11 @@
 #ps-116-15 {
  {
   <i>kostbarer Tot der Getreuen</i>: vgl <a class='kom' href='#Ips-72-14'>Ps&nbsp;72,14</a>.
+ }
+#}
+#ps-116-16 {
+ {
+  <i>Sohn deiner Magd</i> §2mo-23-12, §ps-86-16
  }
 #}
 #ps-116-19 {
@@ -45635,7 +45699,7 @@
 #}
 #jes-26-14 {
  {
-  TODO: Vgl <a href='http://bibel.renenyffenegger.ch/ps_88.html#v11'>Ps&nbsp;88,11</a>.
+  Vgl §ps-88-11.
  }
 #}
 #jes-26-17 {
@@ -51542,7 +51606,7 @@
 #}
 #hes-39-25 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gefangenschaft/wenden
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gefangenschaft/wenden, §ps-85-2
  }
 #}
 #hes-39-26 {
@@ -66130,6 +66194,9 @@
 #}
 #joh-15-13 {
  {
+  Beachte, der Herr hat sein Leben nicht nur für seine Freunde, sondern sogar für seine Feinde gelassen: §roem-5-8-10
+ }
+ {
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Freund Gottes</i>: vgl §jak-2-23.
  }
 #}
@@ -72874,8 +72941,12 @@
 #}
 #roem-5-8 {
  {
-  Vgl §2kor-5-14, §eph-2-4-ff §eph-5-2
-  <br>
+   Beachte: in §joh-15-13 sagt der Herr, dass niemand grössere Liebe hat, als jemand, der sein Leben für seine <i>Freunde</i> lässt. Hier offenbart
+   uns → biblisches/Personen/Paulus, dass der Herr sein Leben sogar für seine Feinde (§Vroem-5-10) gelassen hat.
+   <br>
+   Vgl §2kor-5-14, §eph-2-4-ff, §1thes-5-10, §eph-5-2
+ }
+ {
    Vgl auch §joh-3-16, wo der Tod Christi nicht erwähnt worden ist.
  }
 #}
@@ -74701,7 +74772,11 @@
 #}
 #1kor-2-2 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/2kor_2.html#v1'>2.&nbsp;Kor&nbsp;2,1</a> (Paulus hat vorgenommen).
+  Beachte: für → biblisches/Personen/Paulus war das Wort vom Kreuz (§1kor-1-18) wichtig, in den → biblisches/Bücher/jüdische-Briefe[jüdischen Briefen] kommt die Wörter «Kreuz» oder «kreuzigen»
+  gar nicht vor. Vgl → biblisches/2-Timotheus-2-15/Paulus-und-jüdische-Briefe
+ }
+ {
+  Vgl §2kor-2-1 (Paulus hat vorgenommen).
  }
  {
   TODO <i>vorgenommen</i> (<span class='gr'>κρίνω</span>, Strongs 2919): dasselbe Wort kann auch mit 'richten'
@@ -77159,7 +77234,7 @@
 #}
 #2kor-5-14 {
  {
-  vgl §roem-5-8
+  <i>einer für alle gestorben</i> vgl §roem-5-8
  }
  {
   Sch2K übersetzt <i>geurteilt</i> mit «überzeugt»
@@ -79354,7 +79429,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>KJV übersetzt mit «an offering and a sacrifice»
  }
  {
-  §+roem-5-8
+  <i>sich selbst für uns hingegeben</i> vgl §+roem-5-8
  }
  {
   <i>Duftender Wohlgeruch</i>: <span class='gr'>ὀσμὴν εὐωδίας</span> (Strongs 3744, 2175), Vgl §+2kor-2-14,
@@ -81732,7 +81807,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-5-10 {
  {
-  Vgl <a class='kom' href='#Iroem-14-8'>Röm&nbsp;14,8</a>.
+  <i>für uns gestorb</i> vgl §roem-5-8
+ }
+ {
+  Vgl §+roem-14-8.
  }
 #}
 #1thes-5-11 {
