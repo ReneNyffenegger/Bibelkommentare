@@ -8343,6 +8343,10 @@
  {
   Vgl → biblisches/Exodus/430-Jahre-vor-dem-Exodus.
  }
+ {
+  Offenbar übersetzen sowohl → biblisches/Grundtext/LXX[die Septuaginta] wie auch der Samaritische Pentateuch diesen Vers mit «…in Ägypten <i>und Kanaan</i> zugebracht haben…». Einige Verwenden diese
+  Tatsache, um die Superiorität der Septuaginta zu belegen und das «Problem» der 430 Jahre vor dem Exodus zu «lösen».
+ }
 #}
 #2mo-12-41 {
  {
@@ -37578,13 +37582,10 @@
 @Hiob 26 {
 #hi-26-6 {
  {
-  <i>Abgrund</i> (<span class='hebr'>אֲבַדּוֹן</span>, Strongs 11) wird in Offenbarung <a class='kom' href='#Ioffb-9-11'>Offb&nbsp;9,11</a>
-  erwähnt. Das Wort, welches im Neuen Testament mit 'Abgrund' übersetzt wird, ist <span class='gr'>ἄβυσσος</span> (<a class='kom' href='#Ilk-8-31'>Lk&nbsp;8,31</a>),
+  <i>Abgrund</i> (<span class='hebr'>אֲבַדּוֹן</span>, Strongs 11) wird in Offenbarung §+offb-9-11
+  erwähnt. Das Wort, welches im Neuen Testament mit 'Abgrund' übersetzt wird, ist <span class='gr'>ἄβυσσος</span> (§+lk-8-31),
   nicht <span class='gr'>Ἀπολλύων</span>.
-  <br>Im Alten Testament kommt es vor in <a href='http://bibel.renenyffenegger.ch/hi_28.html#v22'>Hi&nbsp;28,22</a>,
-  <a href='http://bibel.renenyffenegger.ch/hi_31.html#v12'>Hi&nbsp;31,12</a>,
-  <a href='http://bibel.renenyffenegger.ch/ps_88.html#v12'>Ps&nbsp;88,12</a>,
-  <a href='http://bibel.renenyffenegger.ch/spr_15.html#v11'>Spr&nbsp;15,11</a> und <a href='http://bibel.renenyffenegger.ch/spr_27.html#v20'>Spr&nbsp;27,20</a>.
+  <br>Im Alten Testament kommt es vor in §hi-28-22, §hi-31-12, §ps-88-12, §spr-15-11 und §spr-27-20.
  }
 #}
 #hi-26-10 {
@@ -43042,10 +43043,7 @@
 #}
 #spr-15-11 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/spr_27.html#v20'>Spr&nbsp;27,20</a>.
- }
- {
-  <i>Abgrund</i>: <a class='kom' href='#Ihi-26-6'>Hi&nbsp;26,6</a>.
+  <i>Scheol und Abgrund</i> vgl §spr-27-20, §+hi-26-6
  }
 #}
 #spr-15-12 {
@@ -43666,10 +43664,7 @@
 #}
 #spr-27-20 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/spr_15.html#v11'>Spr&nbsp;15,11</a>.
- }
- {
-  <i>Abgrund</i>: <a class='kom' href='#Ihi-26-6'>Hi&nbsp;26,6</a>.
+  <i>Scheol und Abgrund</i> vgl §spr-15-11, §+hi-26-6
  }
 #}
 @}
@@ -85419,9 +85414,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #hebr-10-5 {
- {
-  <i>Versammlung</i>: siehe <a class='kom' href='#I2thes-2-1'>2.&nbsp;Thes&nbsp;2,1</a>.
- }
  {
   <i>Gaben</i>: <span class='gr'>προσφορά</span> (Strongs 4376) wird an andern Orten mit «Opfer» übersetzt, vgl <a class='kom' href='#Iapg-21-26'>Apg&nbsp;21,26</a>.
   In Vers 10 wird dieses Wort mit «Opferung», in Versen 14 und 18 mit «Opfer».
