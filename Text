@@ -12859,6 +12859,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Urim-und-Thummim
  }
+ {
+  Angeblich ist hier die Mitte der → biblisches/Bücher/Mose[Bücher Mose], gezählt nach Versen. Vgl §3mo-10-16, §3mo-11-42.
+ }
 #}
 #3mo-8-10 {
  {
@@ -13042,6 +13045,9 @@
  {
   <i>Bock des → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Sündopfer[Sündopfers]</i> §3mo-9-15
  }
+ {
+  Angeblich ist hier die Mitte der → biblisches/Bücher/Mose[Bücher Mose], gezählt nach Worten. Vgl §3mo-8-8, §3mo-11-42.
+ }
 #}
 #3mo-10-17 {
  {
@@ -13128,10 +13134,15 @@
 #}
 #3mo-11-42 {
  {
-   In <span class='hebr'>גָּח֜וֹן</span>, Strongs 1512, hier übersetzt mit 'Bauch') ist das Wav vergrössert, siehe <a href='#typo_details'>Typografische Details im Alten Testament</a>.
-   Angeblich ist dies der <i>Mittere Buchstabe der fünf Bücher von Mose</i> (siehe auch <a class='kom' href='#Ips-80-14'>Ps&nbsp;80,14</a>).
-   (Dieses Wort kommt übrigens nur noch in <a href='http://bibel.renenyffenegger.ch/1mo_3.html#v14'>1.&nbsp;Mo&nbsp;3,14</a> vor. TODO: Hier representiert es den
-   Bauch der Tora.
+  Angeblich ist hier die Mitte der → biblisches/Bücher/Mose[Bücher Mose], gezählt nach Buchstaben. Vgl §3mo-8-8, §3mo-10-16.
+ <br>
+   Entsprechend haben die → biblisches/Grundtext/Masoretischer-Text[Masoreten](?) in <span class='hebr'>גָּח֜וֹן</span> (Strongs 1512, hier übersetzt mit «Bauch») das Wav vergrössert.
+   <br>
+   Dieses Wort kommt übrigens nur noch in §1mo-3-14 vor. Hier könnte es den Bauch der Tora representieren.
+ }
+ {
+   Siehe <a href='#typo_details'>Typografische Details im Alten Testament</a>.
+   Angeblich ist dies der <i>Mittlere Buchstabe der fünf Bücher von Mose</i> (siehe auch §3mo-8-8, §+ps-80-14).
  }
 #}
 #3mo-11-44 {
