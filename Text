@@ -38258,6 +38258,11 @@
 #}
 @}
 @Psalm 11 {
+#ps-11-1 {
+ {
+  <i>Flieht wie ein Vogel nach eurem Berg</i> vgl §+mt-24-16
+ }
+#}
 #ps-11-4 {
  {
   Beachte: der <i>Tempel</i> ist noch gar nicht gebaut: <a class='kom' href='#Ips-5-8'>Ps&nbsp;5,8</a>.
@@ -39325,8 +39330,10 @@
 #}
 #ps-46-3 {
  {
-   <i>Berg ins Meer</i>: <a href='http://bibel.renenyffenegger.ch/mt_21.html#v21'>Mt&nbsp;21,21</a>,
-   <a href='http://bibel.renenyffenegger.ch/mk_11.html#v23'>Mk&nbsp;11,23</a>, <a href='http://bibel.renenyffenegger.ch/offb_8.html#v8'>Offb&nbsp;8,8</a>.
+  Sch2K übersetzt mit «die Berge mitten ins Meer sinken», KJV mit «though the mountains be carried into the midst of the sea».
+ }
+ {
+   <i>Berg ins Meer</i>: §mt-21-21, §mk-11-23, §offb-8-8.
  }
 #}
 #ps-46-5 {
@@ -55094,6 +55101,9 @@
  {
   <i>Erdbeben</i>: §+2koe-15-1, §am-1-1.
  }
+ {
+  <i>In das Tal meiner Berge fliehen</i> vgl §+mt-24-16
+ }
 #}
 #sach-14-8 {
  {
@@ -57145,6 +57155,9 @@
 #}
 #mt-12-38 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen
+ }
+ {
   <i>Zeichen</i> (<span class='gr'>σημεῖον</span>, Strongs 4592).
   <br>TODO: Möglicherweise wäre besser übersetzt mit 'Wir wollen ein Zeichen <i>von dir</i>' sehen (KJV: 'Master, we would see a sign from thee'),
   damit der Kontrast zu <a class='kom' href='#Imt-16-1'>Mt&nbsp;16,1</a> ('Zeichen aus dem Himmel') besser würde.
@@ -58215,8 +58228,11 @@
 #}
 #mt-21-21 {
  {
-  <a class='kom' href='#Imt-17-20'>Mt&nbsp;17,20</a>.
-  <br>TODO: <i>Berg ins Meer</i>: <a class='kom' href='#Ips-46-3'>Ps&nbsp;46,3</a>.
+  <i>Berg ins Meer werfen</i> vgl §mk-11-23, §+offb-8-8
+ }
+ {
+  §+mt-17-20.
+  <br>TODO: <i>Berg ins Meer</i>: §+ps-46-3.
  }
 #}
 #mt-21-25 {
@@ -58475,6 +58491,9 @@
 #}
 #mt-24-3 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen
+ }
+ {
   <a href='http://renenyffenegger.ch/Biblisches/Synopsen/Endzeitrede.html'>Endzeitrede (Synopse)</a>  
  }
  {
@@ -58490,7 +58509,7 @@
   <br>TODO: Ist dieses Kommen dasselbe wie das «kommen werden» in <a href='http://bibel.renenyffenegger.ch/mt_25.html#v31'>Mt&nbsp;25,31</a>?
  }
  {
-  TODO: <i>Zeichen deines Kommens</i>: <a class='kom' href='#Imt-12-38'>Mt&nbsp;12,38</a>.
+  TODO: <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen deines Kommens</i>: <a class='kom' href='#Imt-12-38'>Mt&nbsp;12,38</a>.
   <br>Vgl auch mit den «grossen Zeichen» der falschen Christusse und Propheten in <a href='http://bibel.renenyffenegger.ch/mt_24.html#v24'>Vers 24</a> und
   dem «Zeichen des Menschensohnes» in <a href='http://bibel.renenyffenegger.ch/mt_24.html#v30'>Vers 30</a>.
   <br>Vgl auch mit dem Kommen in Vers 27.
@@ -58557,13 +58576,20 @@
 #}
 #mt-24-14 {
  {
-  <i>Das Evangelium vom Reich predigen.</i>: §+mt-3-1.
+  <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium vom Reich predigen.</i>: §+mt-3-1.
   <br>Hier: auf dem ganzen Erdkreis. In §mt-10-6 schickt der Herr seine Jünger «nur» ans Haus Israel.
+  <br>
+   Vgl mit dem «ewigen Evangelium», das in der → biblisches/Bücher/prophetisch/Offenbarung[Offenbarung] auch vor dem Ende gepredigt wird: §offb-14-6-ff.
  }
 #}
 #mt-24-15 {
  {
   <i>Gräuel der Verwüstung</i> §dan-11-31.
+ }
+#}
+#mt-24-16 {
+ {
+  <i>In die Berge fliehen</i> vgl §mk-13-14, §lk-21-21, §sach-14-5, §ps-11-1
  }
 #}
 #mt-24-20 {
@@ -58622,10 +58648,16 @@
 #}
 #mt-24-30 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen
+ }
+ {
+  <i>Alle → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme[Stämme] werden wehklagen</i>: §offb-1-7
+ }
+ {
   <i>und dann werden wehklagen alle Stämme des Landes</i> Sch2K übersetzt mit «und dann werden sich alle Geschlechter der Erde an die Brust schlagen».
  }
  {
-  <i>Sich an die Brust schlagen</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_1.html#v7'>Offb&nbsp;1,7</a>,
+  TODO <i>Sich an die Brust schlagen</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_1.html#v7'>Offb&nbsp;1,7</a>,
   <a class='kom' href='#Ijes-32-12'>Jes&nbsp;32,12</a>.
   <br>TODO: <a href='http://bibel.renenyffenegger.ch/offb_18.html#v9'>Offb&nbsp;18,9</a>.
   <br>TODO: Ein Zöllner schlug an seine Brust (<a href='http://bibel.renenyffenegger.ch/lk_18.html#v13'>Lk&nbsp;18,13</a>) und ganze Scharen auch
@@ -59004,7 +59036,7 @@
 #}
 #mt-26-48 {
  {
-  <i>Zeichen</i>: <a class='kom' href='#Imt-12-38'>Mt&nbsp;12,38</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen: §+mt-12-38.
  }
 #}
 #mt-26-50 {
@@ -60177,6 +60209,9 @@
 @Markus 8 {
 #mk-8-11 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel[Zeichen vom Himmel]: vgl §mt-16-1, §lk-11-16
  }
 #}
@@ -60543,7 +60578,10 @@
 #}
 #mk-11-23 {
  {
-  TODO: <i>Berg ins Meer</i>: <a class='kom' href='#Ips-46-3'>Ps&nbsp;46,3</a>.
+  <i>Berg ins Meer werfen</i> vgl §mt-21-21, §+offb-8-8
+ }
+ {
+  TODO: <i>Berg ins Meer</i>: §+ps-46-3.
  }
 #}
 #mk-11-25 {
@@ -61098,6 +61136,9 @@
 #}
 #mk-16-17 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen
+ }
+ {
   Vgl §lk-10-19
  }
  {
@@ -61130,6 +61171,9 @@
  }
 #}
 #mk-16-20 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen
+ }
  {
   <i>Amen</i>: <a class='kom' href='#Imt-28-20'>Mt&nbsp;28,20</a>.
  }
@@ -62592,6 +62636,11 @@
   <i>glückselig</i>: <a href='http://bibel.renenyffenegger.ch/joh_13.html#v17'>Joh&nbsp;13,17</a>, <a href='http://bibel.renenyffenegger.ch/jak_1.html#v25'>Jak&nbsp;1,25</a>.
  }
 #}
+#lk-11-30 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen#zeichen-jonas
+ }
+#}
 #lk-11-32 {
  {
   <i>Ninive</i>: <a class='kom' href='#Imt-12-41'>Mt&nbsp;12,41</a>.
@@ -63125,8 +63174,10 @@
 #}
 #lk-18-13 {
  {
-  Vgl mit den Scharen, die sich an die Brust schlagen (<a href='http://bibel.renenyffenegger.ch/lk_23.html#v48'>Lk&nbsp;23,48</a>).
-  <br>S.a. <a class='kom' href='#Imt-24-30'>Mt&nbsp;24,30</a>.
+  Vgl mit den Volksmengen, die sich an die <i>Brust schlagen</i>, §lk-23-48.
+ }
+ {
+  TODO: <i>an die Brust schlagen</i> §+mt-24-30.
  }
 #}
 #lk-18-14 {
@@ -63387,6 +63438,9 @@
  }
 #}
 #lk-21-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen
+ }
  {
   <a href='http://renenyffenegger.ch/Biblisches/Synopsen/Endzeitrede.html'>Endzeitrede (Synopse)</a>
  }
@@ -63698,7 +63752,7 @@
 #}
 #lk-23-8 {
  {
-  <i>Zeichen</i>: <a class='kom' href='#Imt-12-38'>Mt&nbsp;12,38</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen: §+mt-12-38.
  }
 #}
 #lk-23-11 {
@@ -63794,8 +63848,7 @@
 #}
 #lk-23-48 {
  {
-  Vgl mit dem Zöllner, der sich an die Brust schlägt (<a href='http://bibel.renenyffenegger.ch/lk_23.html#v48'>Lk&nbsp;23,48</a>).
-  <br>S.a. <a class='kom' href='#Imt-24-30'>Mt&nbsp;24,30</a>.
+  Vgl mit dem Zöllner, der sich an die <i>Brust schlägt</i>, §lk-23-48.
  }
 #}
 @}
@@ -64283,6 +64336,9 @@
 #}
 #joh-2-11 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen
+ }
+ {
    Das <i>zweite Zeichen</i> (§joh-4-54) auch in Kana (§joh-4-46). In §joh-4-48 wird der Herr sagen «Wenn ihr nicht Zeichen und Wunder seht».
    <br>Beachte, dass Jesus auch in Jerusalem Zeichen macht (§joh-2-23) und viele Zeichen macht (§joh-12-37)
    <br>Einem böses Geschlecht wurd nur das <i>Zeichen des Jona</i> gegeben werden (§mt-12-39)
@@ -64329,6 +64385,11 @@
   Verweis: §ps-69-10
  }
 #}
+#joh-2-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen
+ }
+#}
 #joh-2-19 {
  {
   vgl <a href='http://bibel.renenyffenegger.ch/mt_26.html#v61'>Mt&nbsp;26,61</a>,
@@ -64353,18 +64414,21 @@
 #}
 #joh-2-23 {
  {
-  Wenn Jesus in <a href='http://bibel.renenyffenegger.ch/joh_4.html#v45'>Joh&nbsp;4,45</a> nach Galiläa kommen wird,
+  <i>Glauben wegen Zeichen</i>: §joh-4-48, an seinen Namen glauben §+joh-1-12.
+  <br>
+  Vgl §1kor-1-22
+ }
+ {
+  TODO: <a class='kom' href='#Ijoh-1-7'>Joh&nbsp;1,7</a>
+ }
+ {
+  Wenn Jesus in §joh-4-45 nach Galiläa kommen wird,
   werden werden ihn die Galiläer aufnehmen, weil sie gesehen hatten, was Jesus während des Festes getan hatte.
   TODO: Was genau hatte dann Jesus getan (ausser den Zeichen?)
  }
  {
   TODO: Beachte: sowohl <i>glaubten</i> hier und <i>vertraute</i> im nächsten Vers dasselbe griechiesche
   Wort <span class='gr'>πιστεύω</span>, Strongs 4100)
- }
- {
-  TODO: <i>Glauben wegen Zeichen</i>: <a href='http://bibel.renenyffenegger.ch/joh_4.html#v48'>Joh&nbsp;4,48</a>,
-  an seinen Namen glauben <a class='kom' href='#Ijoh-1-12'>Joh&nbsp;1,12</a>.
-  <br>TODO: <a class='kom' href='#Ijoh-1-7'>Joh&nbsp;1,7</a>
  }
 #}
 #joh-2-25 {
@@ -64956,6 +65020,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes, vgl §+joh-4-34
  }
 #}
+#joh-6-30 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen
+ }
+#}
 #joh-6-31 {
  {
   <i>Brot vom Himmel</i>: → biblisches/Exodus/Nahrung
@@ -65144,7 +65213,10 @@
 #}
 #joh-7-31 {
  {
-  <a class='kom' href='#Ijoh-6-69'>Joh&nbsp;6,69</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen
+ }
+ {
+  §+joh-6-69.
  }
 #}
 #joh-7-33 {
@@ -65845,6 +65917,10 @@
  }
 #}
 #joh-12-37 {
+ {
+  Nachdem der Autor dieses Evangeliums häufig über → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen geschrieben hat, ist dieser Vers bis auf (§joh-20-30) der letzte, in dem
+  dieses Wort vorkommt
+ }
  {
   Vgl <i>Viele Zeichen</i> mit <i>Zeichen des Jona</i>: <a class='kom' href='#Ijoh-2-11'>Joh&nbsp;2,11</a>, <a class='kom' href='#Imt-12-39'>Mt&nbsp;12,39</a>.
   <br>TODO: <a class='kom' href='#Ijoh-1-7'>Joh&nbsp;1,7</a>
@@ -66699,6 +66775,11 @@
    Vgl §joh-17-18.
  }
 #}
+#joh-20-30 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen: vgl §+joh-12-37
+ }
+#}
 #joh-20-31 {
  {
   <i>Jesus der Christus</i>: <a class='kom' href='#Imt-16-20'>Mt&nbsp;16,20</a>.
@@ -67162,6 +67243,9 @@
  }
  {
   <i>Zeichen</i>: <a class='kom' href='#Imt-12-38'>Mt&nbsp;12,38</a>. TODO Vgl mit Zeichen des Jona (<a class='kom' href='#Imt-12-39'>Mt&nbsp;12,39</a>).
+ }
+ {
+  <i>erwiesen</i>: Sch2K übersetzt mit »beglaubigt«.
  }
  {
   Beachte, dass beim → biblisches/Exodus Gott Wunder in der Mitte von Ägypten tat (§2mo-3-20, §2mo-10-1), um Israel als neue Nation aus der Mitte einer anderen Nation
@@ -69046,8 +69130,8 @@
   ebenso in <a href='http://bibel.renenyffenegger.ch/apg_15.html#v13'>Apg&nbsp;15,13</a>.
  }
  {
-  Frage: Ist hier <i>in Sparchen reden</i> das Zeichen dafür, dass das Evangelium zu den Heiden gekommen ist?
-  Sprachenrede ist doch ein Zeichen für die Ungläubigen (<a href='http://bibel.renenyffenegger.ch/1kor_14.html#v22'>1.&nbsp;Kor&nbsp;14,22</a>).
+  Ist hier <i>in Sprachen reden</i> das Zeichen dafür, dass das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium zu den Heiden gekommen ist?
+  Sprachenrede ist doch ein → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen für die Ungläubigen (§1kor-14-22).
  }
 #}
 #apg-10-47 {
@@ -74734,7 +74818,10 @@
 #}
 #1kor-1-22 {
  {
-   <i>Zeichen</i>: <a class='kom' href='#Imt-12-38'>Mt&nbsp;12,38</a>.
+  <i>Zeichen</i>: §+mt-12-38.
+ }
+ {
+  <i>Glauben wegen Zeichen</i>: §+joh-2-23
  }
 #}
 #1kor-1-23 {
@@ -89044,22 +89131,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: Haben diese wolken mit der Schechina zu tun.
  }
  {
-  <i>Sich an die Brust schlagen</i>: <a class='kom' href='#Imt-24-30'>Mt&nbsp;24,30</a>.
+  <i>Alle → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme[Stämme] werden wehklagen</i>: §+mt-24-30, vgl §offb-18-9.
  }
  {
-  <i>alle Geschlechter der Erde</i>: <a class='kom' href='#Imt-24-30'>Mt&nbsp;24,30</a>.
- }
- {
-  TODO: Das nächste Ereignis ist hier die Widerkunft des Herrn, nicht die Entrückung. Ein weiteres Indiz, das sich die Offenbarung sich mit dem
-  Tag des Herrn beschäftigt, und nicht mit der Gemeinde (vgl Vers 10).
+  Das nächste Ereignis ist hier die Wiederkunft des Herrn, nicht die Entrückung. Ein weiteres Indiz, das sich die
+  → biblisches/Bücher/prophetisch/Offenbarung[Offenbarung] sich mit dem Tag des Herrn beschäftigt, und nicht mit der Gemeinde (vgl §Voffb-1-10).
  }
  {
   <i>durchstochen</i>: §+sach-12-10, <i>Stämme</i>: §+sach-12-12
  }
  {
-  <i>Wolke</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_10.html#v1'>Offb&nbsp;10,1</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_11.html#v12'>Offb&nbsp;11,12</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_14.html#v14'>Offb 14,14-16</a>
+  <i>Wolke</i>: vgl §offb-10-1, §offb-11-12, §offb-14-14-16
  }
  {
   <i>jedes Auge wird ihn sehen</i> vgl §offb-22-4
@@ -90374,13 +90456,19 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-8-8 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/offb_18.html#v21'>Offb&nbsp;18,21</a>, wo ein grosser Mühlstein ins Meer geworfen wird (als Vergleich dazu, wie Babylon mit Wucht
+  <i>Berg ins Meer werfen</i> vgl §mt-21-21 und §mk-11-23. In den → biblisches/Bücher/Evangelien brauchten die Jünger
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Glaube[Glauben], um den Berg ins Meer zu werfen, hier scheint es eine Antwort auf die Gebete der Heiligen zu sein (§Voffb-8-3 ff).
+ }
+ {
+  Vgl §offb-18-21, wo ein grosser Mühlstein ins Meer geworfen wird (als Vergleich dazu, wie Babylon mit Wucht
   hingeschleudert wird und nicht mehr gefunden wird).
+ }
+ {
+  Vgl auch mit dem «verbrannten Berg» in §jer-51-25.
  }
  {
   TODO: <i>Berg ins Meer</i>: <a class='kom' href='#Ips-46-3'>Ps&nbsp;46,3</a>.
   <br>S.a. <a class='kom' href='#Ioffb-18-21'>Offb&nbsp;18,21</a>.
-  <br>TODO: Vgl auch mit dem «verbrannten Berg» in <a href='http://bibel.renenyffenegger.ch/jer_51.html#v25'>Jer&nbsp;51,25</a>.
  }
 #}
 #offb-8-10 {
@@ -91307,7 +91395,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Berechnen</i>: <a class='kom' href='#Ilk-14-28'>Lk&nbsp;14,28</a>.
  }
  {
-  Angeblich ist dies der einzige Vers, wo im Grundtext eine Zahl nicht ausgeschrieben wurde, sondern als Zahl (χξς) formuliert wurde.
+  Angeblich ist dies der einzige Vers, wo im Grundtext eine Zahl nicht ausgeschrieben wurde, sondern mit Buchstabenwerten ausgedrückt wurde: <span class='gr'>χξς</span>,
+  vgl → biblisches/Grundtext/Handschriften/P-047
+ }
+ {
+  → biblisches/Grundtext/Zahlen#n666
  }
 #}
 @}
@@ -91347,6 +91439,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-14-6 {
  {
   <i>Auf der Erde wohnen</i>: <a class='kom' href='#Ioffb-3-10'>Offb&nbsp;3,10</a>.
+ }
+ {
+  Vgl dieses <i>ewige → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium</i> mit dem Evangelium des Reiches, das vor dem Ende gepredigt wird: §mt-24-14.
  }
  {
   <i>anderen Engel</i> (<span class='gr'>αλλον αγγελον</span>, Strongs 243 32). Gehört dieser zum siebten Engel aus <a class='kom' href='#Ioffb-11-15'>Offb&nbsp;11,15</a>.
@@ -92036,7 +92131,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-18-9 {
  {
-  TODO: <i>Sich an die Brust schlagen</i>: <a class='kom' href='#Imt-24-30'>Mt&nbsp;24,30</a>.
+  <i>wehklagen</i> vgl §+offb-1-7.
  }
 #}
 #offb-18-10 {
