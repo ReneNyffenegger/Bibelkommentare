@@ -6653,6 +6653,9 @@
 @1. Mose 49 {
 #1mo-49-1 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
+ }
+ {
   <i>Am Ende der Tage</i>: <span class='hebr'>בְּאַחֲרִ֥ית הַיָּמִֽים</span> (Strongs 319 3117). <i>Acharith</i> ist dasselbe Wort
   wie für «äussersten Ende» in <a href='http://bibel.renenyffenegger.ch/ps_139.html#v9'>Ps&nbsp;139,9</a>,
   <i>Ende</i> in <a href='http://bibel.renenyffenegger.ch/5mo_11.html#v12'>5.&nbsp;Mo&nbsp;11,12</a>,
@@ -6682,7 +6685,7 @@
 #1mo-49-7 {
  {
   Levi wurde unter Israel verteilt, indem sie keinen Besitztum kriegten. Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi#levi-mitte-volk[Levi aus der Mitte des Volkes genommen] und
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi#erbteil-levi[Levis Erbteil]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi#levi-kein-erbteil[Levis Erbteil]
   <br>
   Offenbar wurden sie wegen <a href='http://bibel.renenyffenegger.ch/2mo_32.html#v26'>2.&nbsp;Mo&nbsp;32,26-29</a> doch noch gesegnet und durften dann die Lade tragen (<a href='http://bibel.renenyffenegger.ch/5mo_10.html#v8'>5.&nbsp;Mo&nbsp;10,8-9</a>).
  }
@@ -16684,9 +16687,9 @@
 #}
 #4mo-18-21 {
  {
-  Den Söhnen Levis wird der <b>Zehnte</b> als Erbteil gegeben. Der Zehnte für Levi wurde durch Abraham an Melchisdedek entrichtet
-         (<a href='http://bibel.renenyffenegger.ch/hebr_7.html#v9'>Hebr&nbsp;7,9</a>, <a href='http://bibel.renenyffenegger.ch/1mo_14.html#v20'>1.&nbsp;Mo&nbsp;14,20</a>).
-         <br>Siehe auch <a class='kom' href='#I3mo-27-30'>3.&nbsp;Mo&nbsp;27,30</a>.
+  Den Söhnen Levis wird der <b>Zehnte</b> als → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi#levi-kein-erbteil[Erbteil] gegeben. Der Zehnte für Levi wurde durch Abraham an Melchisdedek entrichtet
+         (§hebr-7-9, §1mo-14-20).
+         <br>Siehe auch §+3mo-27-30.
  }
  {
   TODO: hätte dieses Gesetz für Micha gegolten: <a class='kom' href='#Iri-17-10'>Ri&nbsp;17,10</a>?
@@ -16702,6 +16705,9 @@
 #4mo-18-23 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gerechtigkeit/Ungerechtigkeit-tragen vgl §V2mo-28-43
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi#levi-kein-erbteil[Erbteil von Levi]
  }
 #}
 #4mo-18-26 {
@@ -17247,7 +17253,7 @@
 #}
 #4mo-24-14 {
  {
-  <i>Ende der Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]: siehe §+2mo-49-1.
  }
 #}
 #4mo-24-17 {
@@ -18837,7 +18843,10 @@
 #}
 #5mo-4-30 {
  {
-  <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
+ }
+ {
+  TODO: <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
  }
 #}
 #5mo-4-34 {
@@ -19361,6 +19370,9 @@
  }
 #}
 #5mo-10-9 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi#levi-kein-erbteil[Erbteil von Levi]
+ }
  {
   TODO: in <a class='kom' href='#I4mo-18-20'>4.&nbsp;Mo&nbsp;18,20</a> wird Aaron namentlich erwähnt, als der Priester, der nichts
   erben soll. TODO: In <a href='http://bibel.renenyffenegger.ch/4mo_18.html#v21'>4.&nbsp;Mo&nbsp;18,21</a> werden hingegen auch die <i>Söhne
@@ -20518,7 +20530,10 @@
 #}
 #5mo-31-29 {
  {
-  <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
+ }
+ {
+  TODO: <i>letzte Tage</i>: siehe §+1mo-49-1.
  }
  {
   <i>Werke eurer Hände</i>: <a class='kom' href='#I5mo-2-7'>5.&nbsp;Mo&nbsp;2,7</a>.
@@ -21936,7 +21951,7 @@
 #}
 #jos-14-3 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi#erbteil-levi[Erbteil von Levi]
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi#levi-kein-erbteil[Erbteil von Levi]
  }
 #}
 #jos-14-4 {
@@ -44294,7 +44309,7 @@
 #}
 #jes-2-2 {
  {
-  <i>Ende der Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]: siehe §+1mo-49-1, §+apg-2-17
  }
  {
   Ähnlich formuliert es auch Micha in §mi-4-1-ff. Hier jedoch <i>Nationen</i>, dort «Völker».
@@ -48366,7 +48381,10 @@
 #}
 #jer-23-20 {
  {
-  <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
+ }
+ {
+  TODO: <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
  }
  {
   Fast (TODO: oder ganz) der gleiche Vers wie in <a href='http://bibel.renenyffenegger.ch/jer_30.html#v24'>Jer&nbsp;30,24</a>
@@ -48773,7 +48791,7 @@
   <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
  }
  {
-  <a class='kom' href='#Ijer-23-20'>Jer&nbsp;23,20</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]: §+jer-23-20.
  }
 #}
 @}
@@ -49626,7 +49644,10 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gefangenschaft/wenden
  }
  {
-  <i>letzte Tage</i>: siehe §+1mo-49-1.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
+ }
+ {
+  TODO: <i>letzte Tage</i>: siehe §+1mo-49-1.
  }
 #}
 @}
@@ -49739,7 +49760,10 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gefangenschaft/wenden
  }
  {
-  <i>letzte Tage</i>: siehe §+1mo-49-1.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
+ }
+ {
+  TODO: <i>letzte Tage</i>: siehe §+1mo-49-1.
  }
 #}
 @}
@@ -51438,10 +51462,13 @@
 #}
 #hes-38-16 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage] 
+ }
+ {
   <a class='kom' href='#Ihes-36-26'>Hes&nbsp;36,26</a>.
  }
  {
-  <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>
+  TODO: <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>
   <br>Vgl Vers 8
  }
 #}
@@ -51839,6 +51866,9 @@
 #}
 #dan-1-18 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
+ }
+ {
   TODO: Das zweite Jahr Nebukadnezars ist doch vor Ende dieser drei Jahre, und doch kam Daniel im zweiten Jahr Nebukadnezars
   vor Nebukadnezar (<a href='http://bibel.renenyffenegger.ch/dan_2.html#v1'>Dan 2,1/25</a>).
  }
@@ -51917,7 +51947,10 @@
 #}
 #dan-2-28 {
  {
-  <i>Ende der Tage</i>: §1mo-49-1.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
+ }
+ {
+  TODO: <i>Ende der Tage</i>: §1mo-49-1.
  }
 #}
 #dan-2-32 {
@@ -52081,6 +52114,9 @@
 #dan-4-34 {
  {
   <i>ewig Lebenden</i> §dan-12-2
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
  }
 #}
 @}
@@ -52706,7 +52742,10 @@
 #}
 #dan-10-14 {
  {
-  <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
+ }
+ {
+  TODO: <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
  }
 #}
 #dan-10-19 {
@@ -52882,6 +52921,9 @@
 #}
 #dan-12-13 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
+ }
+ {
   Daniels Auferstehung: vgl §jer-30-9.
  }
  {
@@ -53007,7 +53049,10 @@
 #}
 #hos-3-5 {
  {
-  <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
+ }
+ {
+  TODO: <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
  }
  {
   Auferstehung von David: §+jer-30-9.
@@ -54061,10 +54106,13 @@
 @Micha 4 {
 #mi-4-1 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
+ }
+ {
   Die Verse 1-3 entsprechen in etwa §jes-2-2-ff.
  }
  {
-  «Ende der Tage» siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
+  TODO: «Ende der Tage» siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
  }
 #}
 #mi-4-4 {
@@ -67098,10 +67146,12 @@
 #}
 #apg-2-17 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
+  → biblisches/Personen/Petrus zitiert aus §joe-3-1. Er ersetzt allerdings »und danach wird es geschehen« mit »es wird geschen in
+  den → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzte-tage[letzten Tagen]«. Damit scheint er die Prophetie von
+  Jona mit einer Prophete von Jesaja aus §jes-2-2 zu verbinden.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzte-tage
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
  }
  {
   TODO: Ist diese <i>Geistausgiessung</i> dasselbe, wie das in einen Leib hineingetauft werden aus <a href='http://bibel.renenyffenegger.ch/1kor_12.html#v13'>1.&nbsp;Kor&nbsp;12,13</a>.
@@ -67115,7 +67165,8 @@
   <i>Es wird geschehen</i>: vgl Vers 21, <a href='http://bibel.renenyffenegger.ch/apg_3.html#v23'>Apg&nbsp;3,23</a>.
  }
  {
-  TODO: Beachte: Petrus sagt, es sind die <i>letzten Tage</i> und nicht, es sind die ersten Tage des Leibes des Christus oder der Gemeinde.
+  Beachte: → biblisches/Personen/Petrus sagt, es sind die → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzte-tage[letzten Tage];
+  er sagt nicht, dass es die ersten Tage des Leibes des Christus oder der Gemeinde sind.
  }
  {
   TODO: <i>Heiliger Geist</i>: Verse 33 und 38. (Vgl auch Vers 4).
