@@ -59034,6 +59034,11 @@
   Im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel lehrend: vgl §mk-12-35
  }
 #}
+#mt-26-56 {
+ {
+  Vgl die <i>Schriften</i> der → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] mit dem, was durch den Propheten gesagt wurde: §mt-27-35.
+ }
+#}
 #mt-26-59 {
  {
   <i>Hoher Rat</i>: <a class='kom' href='#Imt-5-22'>Mt&nbsp;5,22</a>.
@@ -59242,6 +59247,9 @@
  }
  {
   <span class='gt'>MT und NA lassen ab «damit erfüllt würde …» weg</span>.
+ }
+ {
+  §mt-26-56
  }
 #}
 #mt-27-40 {
@@ -60908,6 +60916,9 @@
  {
   im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel lehrend: vgl §mt-26-55, §mk-12-35
  }
+ {
+  <i>auf dass die Schriften erfüllt wurden</i> vgl §mk-15-28
+ }
 #}
 #mk-14-58 {
  {
@@ -60987,7 +60998,7 @@
 #}
 #mk-15-28 {
  {
-  <i>Die Schrift wurde erfüllt</i> §jak-2-23
+  <i>Die Schrift wurde erfüllt</i> §jak-2-23, vgl §mk-14-49
  }
  {
    <span class='gt'>Vers fehlt in NA</span>.
@@ -61267,6 +61278,11 @@
   <i>Erscheinung</i> (<span class='gr'>ὀπτασία</span>, Strongs 3701) wird in KJV mit 'Vision', in
   Elberfelder 1905 mit 'Gesicht' überssetzt. Vgl <a class='kom' href='#Iapg-7-31'>Apg&nbsp;7,31</a>.<br>
   Dieses Wort kommt auch in <a class='kom' href='#I2kor-12-1'>2.&nbsp;Kor&nbsp;12,1</a> vor.
+ }
+#}
+#lk-1-24 {
+ {
+  <i>Fünf Monate</i>: §offb-9-5
  }
 #}
 #lk-1-26 {
@@ -62386,9 +62402,7 @@
 #}
 #lk-9-31 {
  {
-  <i>Ausgang</i>: <span class='gr'>ἔξοδος</span> (Strongs 1841, 3x) wird in
-  <a href='http://bibel.renenyffenegger.ch/hebr_11.html#v22'>Hebr&nbsp;11,22</a> mit 'Auzsug' und in
-  <a href='http://bibel.renenyffenegger.ch/2petr_1.html#v15'>2.&nbsp;Petr&nbsp;1,15</a> mit 'Abschied'
+  <i>Ausgang</i>: <span class='gr'>ἔξοδος</span> (Strongs 1841, 3x) wird in §hebr-11-22 mit «Auzsug» und in §2petr-1-15 mit «Abschied»
   übersetzt.
  }
  {
@@ -63481,7 +63495,7 @@
 #}
 #lk-21-22 {
  {
-  <i>auf das alles erfüllt werde, was geschrieben steht</i> vgl §lk-24-44
+  <i>auf das alles erfüllt werde, was geschrieben steht</i> vgl §lk-22-37, §lk-24-44
  }
 #}
 #lk-21-23 {
@@ -63634,6 +63648,9 @@
  }
 #}
 #lk-22-37 {
+ {
+  <i>noch dieses, was geschrieben steht</i>: vgl §lk-21-22, §lk-24-44
+ }
  {
   Vgl §mk-15-28
  }
@@ -64594,6 +64611,9 @@
   <br>
   Vgl §+joh-1-23.
  }
+ {
+  <i>meine Freude ist nun erfüllt</i> vgl §joh-16-24, §joh-17-13
+ }
 #}
 #joh-3-31 {
  {
@@ -64720,7 +64740,10 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes, vgl §joh-5-36, §joh-6-29, §joh-9-3, §joh-10-25
  }
  {
-  [das Werk] <i>vollbringe</i> (<span class='gr'>τελειόω</span>, Strongs 5048), vgl <a href='http://bibel.renenyffenegger.ch/joh_17.html#v4'>Joh&nbsp;17,4</a> wo es mit
+  <i>Sein Werk vollbringen</i> vgl §joh-5-36, §joh-17-4
+ }
+ {
+  [das Werk] <i>vollbringe</i> (<span class='gr'>τελειόω</span>, Strongs 5048), vgl §joh-17-4 wo es mit
   [das Werk] 'vollenden' übersetzt wird.
   <br>TODO: In <a href='http://bibel.renenyffenegger.ch/joh_17.html#v4'>Joh&nbsp;17,4</a> wird das Werk als vollendet bezeichnet.
   <br>Vgl auch <a class='kom' href='#Imt-21-18'>Mt&nbsp;21,18</a>.
@@ -64927,7 +64950,7 @@
 #}
 #joh-5-36 {
  {
-  <i>Das Werk vollbringen</i>: §+joh-4-34.
+  <i>Die Werke vollbringen</i>: §+joh-4-34.
  }
  {
   <i>Werke, welche der Vater mir gegeben hat</i> vgl §joh-10-25
@@ -64941,6 +64964,9 @@
 #joh-5-39 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+ {
+  <i>Die Schriften erforschen</i> vgl §apg-17-11
  }
 #}
 @}
@@ -66367,6 +66393,11 @@
   <i>bitten in meinem Namen</i>: §joh-15-16
  }
 #}
+#joh-16-24 {
+ {
+  <i>auf dass eure Freude völlig sei</i> evtl. konsistenter mit «auf dass eure Freude erfüllt sei» übersetzt. Vgl §joh-3-29, §joh-17-13
+ }
+#}
 #joh-16-25 {
  {
   → biblisches/Bücher/Evangelien/Johannes#joh-stunde
@@ -66413,7 +66444,7 @@
 #}
 #joh-17-4 {
  {
-  <i>Das Werk vollenden</i>: <a class='kom' href='#Ijoh-4-34'>Joh&nbsp;4,34</a>.
+  <i>Das Werk vollbracht</i>: §+joh-4-34.
  }
  {
    <i>verherrlicht</i>: <a class='kom' href='#Ijoh-7-39'>Joh&nbsp;7,39</a>.
@@ -66442,6 +66473,14 @@
  {
   <i>Jetzt aber komme ich zu dir…</i> §joh-16-5
  }
+ {
+  <i>auf dass sie meine Freude völlig in sich haben</i> vgl §joh-3-29, §joh-17-13
+ }
+#}
+#joh-17-14 {
+ {
+  <i>Ich habe ihnen dein Wort gegeben</i>: §Vjoh-17-20
+ }
 #}
 #joh-17-15 {
  {
@@ -66456,6 +66495,11 @@
 #joh-17-18 {
  {
   Vgl §joh-20-21.
+ }
+#}
+#joh-17-20 {
+ {
+  <i>ihr Wort</i>: §Vjoh-17-14
  }
 #}
 #joh-17-22 {
@@ -66513,6 +66557,9 @@
  }
 #}
 #joh-18-9 {
+ {
+  <i>Wort, welches er sprach</i> vgl §Vjoh-18-32
+ }
  {
   <a href='http://bibel.renenyffenegger.ch/joh_17.html#v12'>Joh&nbsp;17,12</a>.
  }
@@ -66584,6 +66631,9 @@
 #joh-18-32 {
  {
   <i>andeutend, welches Todes er sterben sollte</i> §+joh-12-33, §joh-21-19
+ }
+ {
+  <i>Wort Jesu</i> vgl §Vjoh-18-9
  }
 #}
 #joh-18-37 {
@@ -67569,7 +67619,7 @@
   Paulus redet von «der Offenbarung des Geheimnisses, das von ewigen Zeiten her verschwiegen war» (<a href='http://bibel.renenyffenegger.ch/roem_16.html#v25'>Röm&nbsp;16,25-26</a>).
  }
  {
-  <i>Mund der Propheten</i>: §lk-1-70.
+  <i>Mund der → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten]</i>: §lk-1-70. vgl mit den «Stimmen der Propheten» (§apg-13-27)
  }
  {
   <i>Gott aber hat also erfüllt, was er durch den Mund aller Propheten zuvor verkündigt hatte</i> vgl §lk-18-31, §apg-13-27
@@ -69087,6 +69137,9 @@
 #}
 #apg-10-42 {
  {
+  <i>Er</i> ist der Richter, vgl §apg-17-31
+ }
+ {
   Vgl <a href='http://bibel.renenyffenegger.ch/1petr_4.html#v5'>1.&nbsp;Petr&nbsp;4,5</a>, <a href='http://bibel.renenyffenegger.ch/joh_5.html#v22'>Joh&nbsp;5,22</a>.
  }
  {
@@ -69436,6 +69489,11 @@
 #}
 #apg-12-25 {
  {
+  <i>nachdem sie den Dienst erfüllt hatten</i> vgl §apg-20-23.
+ <br>
+  Vgl den <i>Dienst</i> mit dem «Werk, zu dem Barnabas und Saulus» ausgesondert wurden: §apg-13-2
+ }
+ {
   Paulus (und Barnabas) von der Verfolgung durch Herdoes verschont, vgl <a class='kom' href='#Iapg-11-30'>Apg&nbsp;11,30</a>.
  }
  {
@@ -69494,6 +69552,9 @@
  }
  {
   <a class='kom' href='#Iapg-9-15'>Apg&nbsp;9,15</a>
+ }
+ {
+  TODO: Vgl das <i>Werk</i> mit dem «Dienst», §apg-12-25
  }
  {
   TODO: Paulus, der zwölfte Apostel: <a class='kom' href='#Iapg-1-26'>Apg&nbsp;1,26</a>.
@@ -69666,6 +69727,9 @@
 #apg-13-27 {
  {
   <i>Die Stimmen der → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] wurden erfüllt…</i> vgl §lk-18-31, §apg-3-18
+ }
+ {
+  Vgl die <i>Stimmen er Propheten</i> mit dem «Mund der Propheten», §lk-1-70, §apg-3-18
  }
 #}
 #apg-13-28 {
@@ -70468,6 +70532,9 @@
   musste (Vers 14).
   <br>Vgl auch <a class='kom' href='#I1kor-1-26'>1.&nbsp;Kor&nbsp;1,26</a>.
  }
+ {
+  <i>Die Schriften untersuchen</i> vgl §joh-5-39
+ }
 #}
 #apg-17-12 {
  {
@@ -70570,8 +70637,10 @@
 #}
 #apg-17-31 {
  {
-  Vgl diesen <i>festgesetzten Tag</i> mit dem 'ihm bestimmten Tag' in <a href='http://bibel.renenyffenegger.ch/apg_28.html#v23'>Apg&nbsp;28,23</a> (Das Griechische Wort
-  ist nicht dasselbe).
+  Vgl §apg-10-42
+ }
+ {
+  Vgl diesen <i>festgesetzten Tag</i> mit dem «ihm bestimmten Tag» in §apg-28-23 (Das Griechische Wort ist nicht dasselbe).
  }
  {
   TODO: Wo fällt der Heilige Geist (<a class='kom' href='#Iapg-10-44'>Apg&nbsp;10,44</a>).
@@ -70864,7 +70933,7 @@
   <i>Juden und Griechen</i>: auch in Vers 17.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn], vgl §Vapg-19-20
  }
 #}
 #apg-19-11 {
@@ -70892,7 +70961,7 @@
 #}
 #apg-19-20 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn], vgl §+apg-19-10
  }
  {
   Also <i>wuchs das Wort</i>: §apg-6-7, §apg-12-24
@@ -70904,6 +70973,9 @@
  }
  {
   Wurde → biblisches/Personen/Paulus hier verhindert, Rom zu sehen, §+roem-1-13?
+ }
+ {
+  Nachdem <i>was</i> erfüllt wurde? Der Auftrag von §apg-18-9?
  }
 #}
 #apg-19-22 {
@@ -71162,6 +71234,9 @@
  }
 #}
 #apg-20-24 {
+ {
+  <i>Den Dienst vollenden</i> vgl §apg-12-25, §apg-21-19
+ }
  {
   Den Lauf hat → biblisches/Personen/Paulus in §2tim-4-7 vollendet
          (nachdem es <i>hier</i> galt, dies zu tun).
@@ -72194,7 +72269,7 @@
 @Römer 1 {
 #roem-1-1 {
  {
-  Beachte: → biblisches/Personen/Paulus: <i>berufener Apostel</i>, die Adressaten: <i>Berufene Jesu Christi</i> (Vers 6).
+  Beachte: → biblisches/Personen/Paulus: <i>berufener Apostel</i>, die Adressaten: <i>Berufene Jesu Christi</i> (§Vroem-1-6).
   <br>
    Vgl §jud-1-1, wo die Adressaten die «in Gott, dem Vater, geliebten und in Jesu Christus bewahrten Berufenen» sind.
  }
@@ -72210,8 +72285,8 @@
 #}
 #roem-1-2 {
  {
-  Der → biblisches/Bücher/Paulus/Römerbrief beginnt auch mit der Erwähnung des → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium[Evangeliums], das Gott in <i>heiligen Schriften durch seine → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten]</i> verheissen hat, und
-  endet damit, dass «das Geheimnis» von ewigen Zeiten her verschwiegen war, §+roem-16-25-ff.
+  Der → biblisches/Bücher/Paulus/Römerbrief beginnt mit der Erwähnung des → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium[Evangeliums], das Gott in <i>heiligen Schriften durch seine → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten]</i> verheissen hat, und
+  endet damit, dass «das Geheimnis» von ewigen Zeiten her verschwiegen war, §+roem-16-25-ff, vgl §eph-3-5
  }
  {
   Evangelium, das Gott durch → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] in heiligen Schriften verheissen hat
@@ -72718,6 +72793,9 @@
   <i>Im Verborgenen</i>: <span class='gr'>ἐν τῷ κρυπτῷ</span>, derselbe Ausdruck, wie zum Beispiel in §mt-6-4-ff. In Schlachter und Elberfelder mit «innerlich», in KJV mit «inwardly» übersetzt.
   Vgl §Vroem-2-16.
  }
+ {
+  <i>im Geist, nicht dem Buchstaben nach</i> vgl §roem-7-6, §2kor-3-6
+ }
 #}
 @}
 @Römer 3 {
@@ -72802,7 +72880,7 @@
   Die <i>Rechtfertigung ist durch Glauben</i> (Vers 28). Dies wird bestätigt in <a href='http://bibel.renenyffenegger.ch/gal_2.html#v16'>Gal&nbsp;2,16</a>,
   <a href='http://bibel.renenyffenegger.ch/apg_13.html#v39'>Apg&nbsp;13,39</a> und
   <a href='http://bibel.renenyffenegger.ch/phil_3.html#v9'>Phil&nbsp;3,9</a>
-         Vgl <a href='http://bibel.renenyffenegger.ch/roem_3.html#v28'>Vers 28</a>.
+  Vgl §Vroem-3-20.
  }
 #}
 #roem-3-21 {
@@ -72910,7 +72988,7 @@
 #}
 #roem-4-3 {
  {
-   <i>Was sagt die Schrift</i>: §gal-4-30.
+   <i>Was sagt die Schrift</i>: §gal-4-30, vgl §+roem-9-17
  }
  {
   Vgl §+roem-3-26
@@ -72997,7 +73075,7 @@
 #}
 #roem-5-2 {
  {
-  <i>Sich der → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung der Herrlichkeit rühmen</i>: vgl §roem-8-17, §kol-3-4, §joh-17-22.
+  <i>Sich der → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung der Herrlichkeit rühmen</i>: vgl §roem-8-17, §kol-3-4, §joh-17-22, §kol-1-27
  }
 #}
 #roem-5-3 {
@@ -73216,6 +73294,9 @@
  }
  {
   <i>→ biblisches/Bücher/Paulus/Römerbrief#roemer-jetzt-aber[Jetzt aber] von dem Gesetz losgemacht</i> vgl §roem-6-22
+ }
+ {
+  <i>Neuheit des Geistes und nicht im Alten des Buchstabens</i> vgl §roem-2-29, §2kor-3-6 
  }
 #}
 #roem-7-7 {
@@ -74268,6 +74349,10 @@
  }
  {
    Wann hat Paulus in Jerusalem das Evangelium verkündigt?
+ }
+ {
+  «gepredigt» kommt in diesem Vers im Grundtext gar nicht vor. Evtl. wäre der Vers besser übersetzt mit 
+  «in der Kraft der Zeichen und Wunder, in der Kraft des Geistes [Gottes], so daß ich von Jerusalem an und ringsumher bis nach Illyrikum das Evangelium des Christus vollendet habe».
  }
 #}
 #roem-15-20 {
@@ -76122,7 +76207,7 @@
 #1kor-11-24 {
  {
   Vgl §mt-26-26 und §mk-14-22: Der Herr nahm das Brot und <i>segnete</i>. Offenbar zitiert → biblisches/Personen/Paulus aus §lk-22-19. Ebenso ist Lukas der einzige
-  Evangelist, der erwähnt, dass der Kelch <i>nach dem Mahl</i> genommen wurde.
+  Evangelist, der erwähnt, dass der Kelch <i>nach dem Mahl</i> genommen wurde. Vgl §1tim-5-18
  }
  {
   <span class='gt'>In NA fehlt «Nehmt, eßt!» und «gebrochen».</span>
@@ -77177,6 +77262,9 @@
 #2kor-3-6 {
  {
   <i>Diener des → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/neu[neuen Bundes]</i>: <a class='kom' href='#I1kor-4-1'>1.&nbsp;Kor&nbsp;4,1</a>.
+ }
+ {
+  <i>nicht des Buchstabens, sondern des Geistes</i> vgl §roem-2-29, §roem-7-6
  }
 #}
 #2kor-3-7 {
@@ -78554,7 +78642,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Sohn der Freien</i>: <a class='kom' href='#I1mo-21-10'>1.&nbsp;Mo&nbsp;21,10</a>.
  }
  {
-  <i>Was sagt die Schrift</i>: §roem-4-3.
+  <i>Was sagt die Schrift</i>: §roem-4-3, vgl §+roem-9-17
  }
 #}
 @}
@@ -79829,7 +79917,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-6-19 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index, → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium
  }
 #}
 #eph-6-20 {
@@ -80723,7 +80811,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-1-27 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung der → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit, vgl §+roem-5-2
  }
  {
    <i>Das Geheimnis…, das verborgen war, jetzt aber … geoffenbart wordent ist</i> vgl §roem-16-25-26, §2tim-1-10
@@ -83062,6 +83150,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Der Arbeiter ist seines Lohnes Wert</i> kommt im AT nicht vor, wohl aber in §+lk-10-7. Dies zeigt, dass → biblisches/Personen/Paulus[Paulus'] → biblisches/Bücher/Paulus/Timotheus/1[1. Brief an Timotheus]
   nach dem → biblisches/Bücher/Evangelien/Lukas[Lukasevangelium] abgefasst wurde. → biblisches/Bücher/Chronologie
+  <br>
+  S.a. §1kor-11-24
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Denn-die-Schrift-sagt
@@ -90561,6 +90651,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Gras</i>: <a class='kom' href='#Ioffb-8-7'>Offb&nbsp;8,7</a>.
+ }
+#}
+#offb-9-5 {
+ {
+  <i>Fünf Monate</i>: §lk-1-24
  }
 #}
 #offb-9-6 {
