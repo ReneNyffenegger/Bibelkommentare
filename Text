@@ -532,6 +532,9 @@
  {
   <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v45'>1.&nbsp;Kor&nbsp;15,45</a>
  }
+ {
+  <i>Staub vom Erdboden</i> vgl §ps-90-3
+ }
 #}
 #1mo-2-8 {
  {
@@ -38149,6 +38152,11 @@
   <br>Vgl auch mit §joh-21-25: Die Welt würde die geschriebenen Bücher nicht fassen, wenn die Dinge niedergeschrieben würden, die Jesus getan hat.
  }
 #}
+#ps-9-11 {
+ {
+  <i>deinen Namen kennen</i> vgl §ps-91-14, §jes-52-6, §jer-48-17
+ }
+#}
 #ps-9-16 {
  {
   <i>Grube</i> vgl §ps-7-16
@@ -39410,6 +39418,11 @@
        <a href='http://bibel.renenyffenegger.ch/ps_107.html#v1'>Ps&nbsp;107,1</a>, <a href='http://bibel.renenyffenegger.ch/ps_116.html#v17'>Ps&nbsp;116,17</a>,
        <a href='http://bibel.renenyffenegger.ch/ps_118.html#v1'>Ps&nbsp;118,1</a>,
        <a href='http://bibel.renenyffenegger.ch/ps_136.html#v1'>Ps 136,1-3/26</a>, <a href='http://bibel.renenyffenegger.ch/ps_147.html#v7'>Ps&nbsp;147,7</a>
+ }
+#}
+#ps-50-15 {
+ {
+  <i>rufe mich an</i> vgl §ps-91-15
  }
 #}
 @}
@@ -40686,19 +40699,24 @@
   Mose, der <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Mann-Gottes</i> vgl <a class='kom' href='#I5mo-33-1'>5.&nbsp;Mo&nbsp;33,1</a>.
  }
  {
-  <i>Zuflucht</i> <span class='gr'>מָעוֹן</span> (Strongs 4583) wird in KJV mit «dwelling place», in Elberfelder mit «Wohnung» übersetzt.
-         <br>Beachte, dass Mose damit beauftrag wurde, dem HERRN eine Wohnung zu bauen.
-         <br>TODO: Dieses Strongs wird auch an andern Orten mit Zuflucht statt Wohnung übersetzt.
+  <i>Wohnung</i> <span class='gr'>מָעוֹן</span> (Strongs 4583) wird in KJV mit «dwelling place», in Sch2K mit «Zuflucht» übersetzt.
+   <br>Beachte, dass Mose damit beauftrag wurde, dem HERRN eine Wohnung zu bauen.
+ }
+ {
+   TODO: Strongs 4583 wird auch an andern Orten mit Zuflucht statt Wohnung übersetzt.
  }
 #}
 #ps-90-3 {
  {
   <i>Mensch</i>: <span class='hebr'>אֱנוֹשׁ</span> (Strongs 582), <i>Menschenkinder</i>: <span class='hebr'>בְנֵי־אָדָֽם</span> &lrm;(1121, 120).
  }
+ {
+  <i>Du lässt zum Staub zurückkehren…</i> vgl §1mo-2-7
+ }
 #}
 #ps-90-4 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/2petr_3.html#v8'>2.&nbsp;Petr&nbsp;3,8</a>.
+  Vgl §2petr-3-8.
  }
 #}
 #ps-90-7 {
@@ -40714,6 +40732,9 @@
  {
   <i>Nichtigkןeit</i> <span class='hebr'>אָוֶן</span> (Strongs 205).
  }
+ {
+  §+ps-91-16
+ }
 #}
 #ps-90-12 {
  {
@@ -40725,7 +40746,7 @@
 #}
 #ps-90-14 {
  {
-  <i>Früh</i>: <span class='hebr'>בֹּקֶר</span> (Strongs 1242), sonst häufig mit «morgen» übersetzt.
+  <i>Früh</i>: <span class='hebr'>בֹּקֶר</span> (Strongs 1242), sonst häufig mit «morgen» übersetzt, vgl §Vps-90-6.
  }
 #}
 #ps-90-17 {
@@ -40740,6 +40761,21 @@
 #ps-91-11 {
  {
   Dieser Vers wird vom Teufel in <a href='http://bibel.renenyffenegger.ch/mt_4.html#v6'>Mt&nbsp;4,6</a> und <a href='http://bibel.renenyffenegger.ch/lk_4.html#v10'>Lk&nbsp;4,10</a> zitiert.
+ }
+#}
+#ps-91-14 {
+ {
+  <i>weil er meinen Namen kennt</i> vgl §ps-9-11
+ }
+#}
+#ps-91-15 {
+ {
+  §+ps-50-15
+ }
+#}
+#ps-91-16 {
+ {
+  Beachte: hier ist von der <i>Länge des Lebens</i> die Rede; der letzte Psalm behandelte die Kürze des Lebens, §ps-90-10
  }
 #}
 @}
@@ -46784,6 +46820,9 @@
  {
   <i>Hier bin ich</i>: <a class='kom' href='#Ijes-6-8'>Jes&nbsp;6,8</a>.
  }
+ {
+  §+ps-9-11
+ }
 #}
 #jes-52-7 {
  {
@@ -49600,6 +49639,11 @@
 #jer-48-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#kemosch
+ }
+#}
+#jer-48-17 {
+ {
+  §+ps-9-11
  }
 #}
 #jer-48-18 {
@@ -76133,7 +76177,8 @@
 #}
 #1kor-11-15 {
  {
-  <i>Schleier</i> (<span class='gr'>περιβόλαιον</span>, Strongs 4018): Einige (z. B. Troy Martin) argumentieren, dass das Wort eigentlich mit «Hoden» übersetzt werden könnte/müsste.
+  <i>Schleier</i> (<span class='gr'>περιβόλαιον</span>, Strongs 4018): Einige (z. B. Troy Martin) argumentieren, dass das Wort eigentlich mit «Hoden» übersetzt werden könnte/müsste. Mark Goodcare
+  argumentiert dagegen.
  }
 #}
 #1kor-11-16 {
