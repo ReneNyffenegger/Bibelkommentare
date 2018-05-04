@@ -10453,6 +10453,8 @@
 #2mo-28-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Aarons-Kleider, <i>Zur Herrlichkeit und zum Schmuck</i> vgl §V2mo-28-40
+  <br>
+  S.a. §+mt-6-29
  }
 #}
 #2mo-28-3 {
@@ -25216,6 +25218,11 @@
   TODO: Ist das hier die erste 'Trennung' von Israel und Juda? Siehe auch <a href='http://bibel.renenyffenegger.ch/1sam_17.html#v52'>1.&nbsp;Sam&nbsp;17,52</a>.
  }
 #}
+#1sam-11-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
+ }
+#}
 #1sam-11-12 {
  {
   TODO: Sagten sie das in <a href='http://bibel.renenyffenegger.ch/1sam_10.html#v27'>1.&nbsp;Sam&nbsp;10,27</a>?
@@ -30769,8 +30776,7 @@
 #}
 #2koe-23-5 {
  {
-  <i>Sternbild</i> <span class='hebr'>מַזָּלוֹת</span> (Strongs 4208, 1x).
-  <br>Vgl <a class='kom' href='#Ihi-38-32'>Hi&nbsp;38,32</a> und <a class='kom' href='#Ijes-13-10'>Jes&nbsp;13,10</a>.
+  <i>Tierkreis</i> <span class='hebr'>מַזָּלוֹת</span> (Strongs 4208, 1x): Sch2K übersetzt mit «Sternbilder», KJV mit «planets». Vgl §+hi-38-32 und §+jes-13-10.
  }
 #}
 #2koe-23-7 {
@@ -40718,6 +40724,9 @@
  {
   Vgl §2petr-3-8.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
+ }
 #}
 #ps-90-7 {
  {
@@ -45043,8 +45052,7 @@
 #}
 #jes-13-10 {
  {
-  <i>Sternbild</i> (<span class='hebr'>כְּסִיל</span>, Strongs 3685): <a class='kom' href='#Ihi-9-9'>Hi&nbsp;9,9</a>.
-  <br>Vgl auch <a class='kom' href='#I2koe-23-5'>2.&nbsp;Kö&nbsp;23,5</a>.
+  <i>Gestirne</i> (<span class='hebr'>כְּסִיל</span>, Strongs 3685): Sch2K übersetzt mit «Sternbilder», KJV mit «constellations». Vgl §+hi-9-9, §+2koe-23-5.
  }
  {
   <i>Sonne</i> und <i>Mond</i> die sich verfinstern: <a class='kom' href='#Imt-24-29'>Mt&nbsp;24,29</a>. Vgl
@@ -50126,7 +50134,7 @@
 #}
 #kla-2-19 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
  }
 #}
 @}
@@ -56166,6 +56174,13 @@
    <a href='http://bibel.renenyffenegger.ch/apg_10.html#v12'>Apg&nbsp;10,12</a>.
  }
 #}
+#mt-6-29 {
+ {
+  → biblisches/Personen/Salomo war in Herrlichkeit bekleidet, → biblisches/Personen/Johannes/Täufer war es offenbar nicht, die in herrlicher Kleidung und Üppigkeit leben, sind an den königlichen Höfen, §lk-7-25, vgl §2mo-28-2
+  <br>
+   Sa §lk-12-27
+ }
+#}
 #mt-6-30 {
  {
   <i>Kleingläubig</i> (<span class='hebr'>ὀλιγόπιστος</span>, Strongs 3640), kommt noch vor in
@@ -61444,6 +61459,9 @@
   Gemäss anderer (engl) Übersetztung: «This was the first census taken while Quirinius was governor of Syria» (Also es gab schon Erfassungen bevor Quirinius
   Statthalter war).
  }
+ {
+  <i>Kyrenius</i> ist offenbar auch unter der alternativen Schreibweise »Quirinius« bekannt. Vgl mit der Einschreibung in §apg-5-37.
+ }
 #}
 #lk-2-4 {
  {
@@ -62197,6 +62215,11 @@
   <i>Der Herr macht Blinde sehend</i>: <a class='kom' href='#Ips-146-8'>Ps&nbsp;146,8</a>.
  }
 #}
+#lk-7-25 {
+ {
+  <i>herrliche Kleidung</i>: §+mt-6-29
+ }
+#}
 #lk-7-27 {
  {
   <a class='kom' href='#Imt-11-10'>Mt&nbsp;11,10</a>.
@@ -62783,6 +62806,11 @@
   Vergleiche auch mit <i>Endzeitrede</i> (Vers 40 mit §mt-24-36).
  }
 #}
+#lk-12-27 {
+ {
+  §mt-6-29
+ }
+#}
 #lk-12-31 {
  {
   <span class='gt'><i>nach dem Reich Gottes</i>: NA hat «nach seinem Reich».</span>
@@ -62806,6 +62834,11 @@
  }
  {
   TODO: Bricht der HERR nach oder während der Hochzeit auf?
+ }
+#}
+#lk-12-38 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
  }
 #}
 #lk-12-39 {
@@ -63953,6 +63986,11 @@
 #lk-24-23 {
  {
   <i>Erscheinung</i> (Strongs 3701): <a class='kom' href='#Ilk-1-22'>Lk&nbsp;1,22</a>.
+ }
+#}
+#lk-24-26 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit/Leiden
  }
 #}
 #lk-24-27 {
@@ -66977,6 +67015,11 @@
   Dieser <i>Befehl</i> ist wohl «[dass] in Seinem Namen Buße und Vergebung der Sünden gepredigt werden [soll] allen Nationen, anfangend von Jerusalem« §lk-24-46-49, vgl §Vapg-1-8
  }
 #}
+#apg-1-3 {
+ {
+  <i>sichere Kennzeichen</i>: vgl §apg-17-31 («Beweis»).
+ }
+#}
 #apg-1-4 {
  {
   <i>Verheissung des Vaters</i>: <a class='kom' href='#Ilk-24-49'>Lk&nbsp;24,49</a>.
@@ -68005,6 +68048,9 @@
   <span class='gr'>ἀπογραφή</span> (Strongs 582), welches auch noch in <a href='http://bibel.renenyffenegger.ch/lk_2.html#v2'>Lk&nbsp;2,2</a> vorkommt,
   wo es als 'Erfassung' übersetzt wird. Siehe auch <a class='kom' href='#Ilk-2-1'>Lk&nbsp;2,1</a> und
   <a class='kom' href='#Ihebr-12-23'>Hebr&nbsp;12,23</a>.
+ }
+ {
+  Diese <i>Einschreibung</i> (od. Besteuerung?) geschah offenbar unter Kyrenius (Quirinius), vgl §lk-2-2
  }
 #}
 #apg-5-38 {
@@ -70635,6 +70681,11 @@
   wohl bezeugen.
  }
 #}
+#apg-17-19 {
+ {
+  <i>Aeropag</i>: §Vapg-17-34
+ }
+#}
 #apg-17-24 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
@@ -70687,6 +70738,9 @@
   Vgl diesen <i>festgesetzten Tag</i> mit dem «ihm bestimmten Tag» in §apg-28-23 (Das Griechische Wort ist nicht dasselbe).
  }
  {
+  <i>Beweis</i>: vgl §apg-1-3 («sichere Kennzeichen»)
+ }
+ {
   TODO: Wo fällt der Heilige Geist (<a class='kom' href='#Iapg-10-44'>Apg&nbsp;10,44</a>).
  }
 #}
@@ -70697,7 +70751,7 @@
 #}
 #apg-17-34 {
  {
-  <i>Mitglied des Areopags</i> wörtlich eigentlich 'Aeropagit' (<span class='gr'>Ἀρεοπαγίτης</span>, Strongs 698).
+  <i>Aeropagit</i> (<span class='gr'>Ἀρεοπαγίτης</span>, Strongs 698), Sch2K übersetzt mit «Mitglied des Aeropags», vgl §Vapg-17-19.
  }
 #}
 @}
@@ -73432,6 +73486,9 @@
  }
 #}
 #roem-8-17 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit/Leiden
+ }
  {
   <i>Mitverherrlicht werden</i>: vgl §+roem-5-2.
  }
@@ -76364,6 +76421,11 @@
 #1kor-12-25 {
  {
   <i>Zwiespalt</i>: <a class='kom' href='#I1kor-1-10'>1.&nbsp;Kor&nbsp;1,10</a>.
+ }
+#}
+#1kor-12-26 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit/Leiden
  }
 #}
 #1kor-12-28 {
@@ -82221,6 +82283,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-1-9 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit/Leiden
+ }
+ {
   <i>Strafe</i>: §+apg-25-15.
  }
  {
@@ -84768,6 +84833,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-2-9 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit/Leiden
+ }
+ {
   Wir 'sehen': <span class='gr'>βλέπομεν</span> (Strongs 991). Vgl mit
   <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v8'>1.&nbsp;Petr&nbsp;1,8</a> (ihn nicht gesehen), wo das Verb
   <span class='gr'>εἰδότες</span> (Strongs 1492) ist und ebenda (ihn jetzt nicht seht), wo das Verb
@@ -86961,8 +87029,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-1-11 {
  {
-  <i>Leiden und folgende Herrlichkeiten</i>: <a href='http://bibel.renenyffenegger.ch/1petr_4.html#v13'>1.&nbsp;Petr&nbsp;4,13</a>,
-  <a href='http://bibel.renenyffenegger.ch/1petr_5.html#v1'>1.&nbsp;Petr&nbsp;5,1</a>
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit/Leiden[Leiden und folgende Herrlichkeiten]: §1petr-4-13, §1petr-5-1
  }
  {
   Petrus ist ein Zeuge der Leiden: <a href='http://bibel.renenyffenegger.ch/1petr_5.html#v1'>1.&nbsp;Petr&nbsp;5,1</a>.
@@ -87539,10 +87606,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-4-13 {
  {
-  <i>Leiden und Herrlichkeit</i>: §1petr-1-11.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit/Leiden
  }
  {
-  <i>teilhaftig der Leiden des Christus sein</i> vgl §phil-3-10
+  <i>der Leiden des Christus teilhaftig sein</i> vgl §phl-3-10
  }
  {
   <i>Geoffenbarte Herrlichkeit</i>: vgl <a href='http://bibel.renenyffenegger.ch/1petr_5.html#v1'>1.&nbsp;Petr&nbsp;5,1</a>.
@@ -87604,7 +87671,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @1. Petrus 5 {
 #1petr-5-1 {
  {
-  <i>Leiden und Herrlichkeit</i>: <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v11'>1.&nbsp;Petr&nbsp;1,11</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit/Leiden
  }
  {
   <i>Geoffenbarte Herrlichkeit</i>: vgl <a href='http://bibel.renenyffenegger.ch/1petr_4.html#v13'>1.&nbsp;Petr&nbsp;4,13</a>.
