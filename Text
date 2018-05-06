@@ -4794,6 +4794,9 @@
 #}
 #1mo-29-34 {
  {
+  <i>ich habe ihm drei Söhne geboren</i> vgl §1mo-30-20
+ }
+ {
    <i>Levi</i> <span class='hebr'>לֵוִֽי</span> (Strongs 3878), vgl <i>anhänglich</i> <span class='hebr'>יִלָּוֶ֤ה</span> (Strongs 3867), siehe auch
    <a class='kom' href='#I4mo-18-2'>4.&nbsp;Mo&nbsp;18,2</a>.
  }
@@ -4833,6 +4836,11 @@
  {
   <i>Alraundenfrüchte</i>: <span class='hebr'>דֽוּדָאִים</span> (Strongs 1736): <a href='http://bibel.renenyffenegger.ch/hl_7.html#v14'>Hl&nbsp;7,14</a>,
   <a class='kom' href='#Ijer-24-1'>Jer&nbsp;24,1</a>.
+ }
+#}
+#1mo-30-20 {
+ {
+  <i>ich habe ihm drei Söhne geboren</i> vgl §1mo-29-34
  }
 #}
 #1mo-30-21 {
@@ -19769,7 +19777,9 @@
 @5. Mose 17 {
 #5mo-17-6 {
  {
-  Vgl <a class='kom' href='#I4mo-35-30'>4.&nbsp;Mo&nbsp;35,30</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/zwei-oder-drei[zweier oder dreier] Zeugen: §5mo-19-15, §+2kor-13-1
+  <br>
+   Vgl §+4mo-35-30.
  }
 #}
 #5mo-17-9 {
@@ -19917,6 +19927,11 @@
 #5mo-19-11 {
  {
    Vgl §2mo-21-12
+ }
+#}
+#5mo-19-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/zwei-oder-drei[zweier oder dreier] Zeugen: §+5mo-17-6
  }
 #}
 #5mo-19-16 {
@@ -21765,9 +21780,7 @@
   Siehe <a class='kom' href='#Ijos-10-36'>Jos&nbsp;10,36</a>.
  }
  {
-  Josua hat die Enakiter ausgerottet, aber Kaleb wird noch drei Söhne Enaks vertreiben (<a href='http://bibel.renenyffenegger.ch/jos_14.html#v12'>Jos&nbsp;14,12</a>,
-  <a href='http://bibel.renenyffenegger.ch/jos_15.html#v14'>Jos&nbsp;15,14</a>, <a href='http://bibel.renenyffenegger.ch/ri_1.html#v20'>Ri&nbsp;1,20</a>).
-  <br>TODO: Siehe auch <a class='kom' href='#Ijos-15-14'>Jos&nbsp;15,14</a>.
+  Josua hat die Enakiter ausgerottet, aber Kaleb wird noch drei Söhne Enaks vertreiben: §jos-14-12, §+jos-15-14, §ri-1-20.
  }
  {
   <i>Anab</i>: <a class='kom' href='#Ijos-15-50'>Jos&nbsp;15,50</a>.
@@ -22019,7 +22032,7 @@
 #}
 #jos-14-12 {
  {
-  Siehe <a class='kom' href='#Ijos-11-21'>Jos&nbsp;11,21</a>.
+  <i>Enakim</i>: §+jos-11-21
  }
 #}
 #jos-14-13 {
@@ -22123,8 +22136,8 @@
 #}
 #jos-15-14 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/ri_1.html#v10'>Ri&nbsp;1,10</a>: Kaleb hat (wohl?) die drei Söhne Enaks vetrieben, aber Juda hat sie geschlagen.
-  <br>Siehe <a class='kom' href='#Ijos-11-21'>Jos&nbsp;11,21</a>.
+  Vgl §ri-1-10: Kaleb hat (wohl?) die drei Söhne Enaks vetrieben, aber Juda hat sie geschlagen.
+  <br>Vgl §+jos-11-21.
  }
  {
   → biblisches/Orte/Hebron
@@ -23114,7 +23127,7 @@
 #}
 #ri-1-20 {
  {
-  Siehe <a class='kom' href='#Ijos-11-21'>Jos&nbsp;11,21</a>.
+  <i>Drei Söhne Enaks</i>: §+jos-11-21, §+jos-15-14
  }
  {
   <i>Hebron</i>: <a class='kom' href='#I1mo-13-18'>1.&nbsp;Mo&nbsp;13,18</a>.
@@ -23628,6 +23641,9 @@
  {
   <i>brennende Fackel</i> <span class='hebr'>לַפִּיד</span> (Strongs 3940), siehe <a class='kom' href='#I1mo-15-17'>1.&nbsp;Mo&nbsp;15,17</a>.
  }
+ {
+  <i>In drei Haufen teilen</i>: §ri-9-43, §+1sam-11-11, §hi-1-17
+ }
 #}
 #ri-7-19 {
  {
@@ -23749,6 +23765,11 @@
  {
   TODO: <i>Höhe des Landes</i> (Strongs 2872+776) wird offenbar in <a href='http://bibel.renenyffenegger.ch/hes_38.html#v12'>Hes&nbsp;38,12</a> mit
   'Mittelpunk der Erde' übersetzt. KJV: 'middle of the land'.
+ }
+#}
+#ri-9-43 {
+ {
+  <i>In drei Haufen teilen</i>: §ri-7-16, §+1sam-11-11
  }
 #}
 #ri-9-48 {
@@ -25260,6 +25281,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
  }
+ {
+  <i>drei Haufen</i>: §1sam-13-17, vgl §ri-7-16, §ri-9-43
+ }
 #}
 #1sam-11-12 {
  {
@@ -25376,6 +25400,9 @@
  }
 #}
 #1sam-13-17 {
+ {
+  <i>drei Haufen</i>: §+1sam-11-11
+ }
  {
   <i>Schual</i>: TODO siehe <a class='kom' href='#Iri-15-4'>Ri&nbsp;15,4</a>.
  }
@@ -35682,6 +35709,11 @@
   <i>Esra</i>: <a class='kom' href='#Iesr-2-7'>Esr&nbsp;2,7</a>.
  }
 #}
+#esr-8-15 {
+ {
+  <i>drei Tage lagern</i> vgl §Vesr-8-32
+ }
+#}
 #esr-8-16 {
  {
   <i>Ariel</i> = «Gottes Löwe», vgl. §+jes-29-1, §+2sam-23-20.
@@ -35703,6 +35735,11 @@
 #esr-8-31 {
  {
   TODO: vgl <a class='kom' href='#Iesr-7-9'>Esr&nbsp;7,9</a>.
+ }
+#}
+#esr-8-32 {
+ {
+  Vgl §neh-2-11, §Vesr-8-15
  }
 #}
 #esr-8-33 {
@@ -35867,6 +35904,11 @@
  {
   Am Schluss verschwägert sich Jojada, ein Sohn des Hohenpriesters Eljaschibs mit Sanballat. Nehemia wird diesen Jojada wegschicken
   (<a href='http://bibel.renenyffenegger.ch/neh_13.html#v28'>Neh&nbsp;13,28</a>).
+ }
+#}
+#neh-2-11 {
+ {
+  Vgl §esr-8-32
  }
 #}
 #neh-2-13 {
@@ -37247,6 +37289,11 @@
 #hi-1-16 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Feuer#feuer-vom-himmel
+ }
+#}
+#hi-1-17 {
+ {
+  <i>drei Haufen bilden</i>: §+ri-7-16
  }
 #}
 #hi-1-21 {
@@ -58054,6 +58101,11 @@
   <i>Versammlung</i> <span class='gr'>ἐκκλησία</span> (Strongs 1577): §+mt-16-18.
  }
 #}
+#mt-18-20 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/zwei-oder-drei
+ }
+#}
 #mt-18-22 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1mo_4.html#v24'>1.&nbsp;Mo&nbsp;4,24</a>.
@@ -64526,6 +64578,11 @@
   → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
 #}
+#joh-2-6 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/zwei-oder-drei
+ }
+#}
 #joh-2-9 {
  {
   Vgl mit der Verwandlung des Wassers zu Blut in <a class='kom' href='#I2mo-4-9'>2.&nbsp;Mo&nbsp;4,9</a>.
@@ -70695,11 +70752,19 @@
 #}
 #apg-17-2 {
  {
-  <i>Nach der Gewohnheit am Sabbat in die Synagoge gehen</i>: vgl <a class='kom' href='#Ilk-4-16'>Lk&nbsp;4,16</a>.
+  <i>Nach der Gewohnheit am → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat[Sabbaten] in die → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge gehen</i>: vgl §+lk-4-16.
  }
  {
   Obwohl → biblisches/Personen/Paulus/ (und ?) Tag und Nacht arbeiteten, um niemand zur Last zu fallen, haben die Philipper zwei Mal etwas zur Deckung seiner
   Bedürfnisse geschickt. (§1thes-2-9 und §phil-4-16). Bedeutet das auch, dass Paulus länger als drei Wochen in Thessalonich blieb?
+ }
+ {
+  Beachte: Paulus unterredet sich hier an <i>drei → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat[Sabbaten]</i> aus den Schriften über das Leiden und die Auferstehung des Herrn.
+  <br>
+   In §apg-19-8 spricht er <i>drei Monate</i> lang über die Dinge des → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Reich[Reich Gottes].
+  <br>
+   Die Epheser hat er <i>drei Jahre</i> Nacht und Tag mit Tränen ermahnt, §apg-20-31
+
  }
 #}
 #apg-17-3 {
@@ -71151,11 +71216,13 @@
 #}
 #apg-19-8 {
  {
-   Paulus blieb 3 Jahre in Ephesus (<a href='http://bibel.renenyffenegger.ch/apg_20.html#v31'>Apg&nbsp;20,31</a>). Davon führte er
+   Paulus blieb 3 Jahre in Ephesus (§apg-20-31). Davon führte er
    drei Monate Gespräche in der Synagoge, und 2 Jahre Lehrgespräche in der Schule.
+   <br>
+    Vgl §+apg-17-2
  }
  {
-  Beachte, dass er in der Schule 'Lehrgespräche' führte, in der Synagoge aber 'nur' 'Gespräche'.
+  Beachte, dass er in der Schule Lehrgespräche führte, in der → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge aber «nur» Gespräche.
  }
  {
   → biblisches/Personen/Paulus wandte sich → biblisches/Personen/Paulus#paulus-juden-zuerst[zuerst an die Juden].
@@ -71573,7 +71640,7 @@
 #}
 #apg-20-31 {
  {
-  <i>3 Jahre</i>: <a href='http://bibel.renenyffenegger.ch/apg_19.html#v8'>Apg&nbsp;19,8</a>.
+  <i>3 Jahre</i>: §+apg-17-2, §apg-19-8.
  }
 #}
 #apg-20-34 {
@@ -76827,6 +76894,9 @@
 #}
 #1kor-14-29 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/zwei-oder-drei
+ }
+ {
   <i>Die anderen lasst urteilen</i> vgl §1thes-5-21.
  }
  {
@@ -78314,6 +78384,11 @@
 #}
 @}
 @2. Korinther 13 {
+#2kor-13-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/zwei-oder-drei[zweier oder dreier] Zeugen: §+5mo-17-6, §1tim-5-19, §hebr-10-28
+ }
+#}
 #2kor-13-2 {
  {
    TODO: War Paulus zwei mal in Korinth?
@@ -83483,6 +83558,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Denn-die-Schrift-sagt
  }
 #}
+#1tim-5-19 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/zwei-oder-drei Zeugen: §+2kor-13-1
+ }
+#}
 #1tim-5-20 {
  {
   Gemäss UB soll die Überführung nicht zur Blamage des Sünders geschehen, sondern damit die übrigen erkennen, wozu sie fähig sind.
@@ -86017,6 +86097,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #hebr-10-28 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/zwei-oder-drei
+ }
  {
   Vgl mit dem Flucher, der (dort im Zusammenhang mit den vorangehenden Gesetzen) vermutlich das Gesetz Moses verworfen hat §3mo-24-10-ff
  }
