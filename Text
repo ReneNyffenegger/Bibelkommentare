@@ -4159,6 +4159,9 @@
  {
   Siehe <a class='kom' href='#I1mo-10-26'>1.&nbsp;Mo&nbsp;10,26</a>.
  }
+ {
+  <i>nach ihren Geschlechtern</i>: <span class='hebr'>לְתֹלְדֹתָם</span> (Strongs 8435), vgl §2mo-6-16.
+ }
 #}
 #1mo-25-14 {
  {
@@ -7532,6 +7535,9 @@
  }
  {
   Die vier Generationen von §1mo-15-16 beziehen sich auf Levi, → biblisches/Personen/Kahat, Amram und Mose.
+ }
+ {
+  <i>nach ihren Geschlechtern</i>: <span class='hebr'>לְתֹלְדֹתָם</span>, vgl §+1mo-25-13.
  }
 #}
 #2mo-6-18 {
@@ -15233,6 +15239,11 @@
 #}
 @}
 @4. Mose 3 {
+#4mo-3-1 {
+ {
+  <i>Geschlechter</i>: Toledot (תֹלְדֹותָ)
+ }
+#}
 #4mo-3-2 {
  {
   → biblisches/Personen/Eleasar/Aaron, → biblisches/Personen/Itamar
@@ -24615,7 +24626,7 @@
   → biblisches/Personen/Perez/Judas-Sohn#zehn-geschlechter-von-perez
  }
  {
-  TODO: <i>Geschichte</i>: Siehe <a class='kom' href='#I1mo-2-4'>1.&nbsp;Mo&nbsp;2,4</a>.
+  <i>Geschlechter</i>: Toledot (תֹלְדֹותָ)
  }
 #}
 @}
@@ -28448,7 +28459,10 @@
 #}
 #1koe-9-26 {
  {
-  <i>Rotes Meer</i> siehe <a class='kom' href='#I4mo-14-25'>4.&nbsp;Mo&nbsp;14,25</a>.
+  <i>Rotes Meer</i> siehe §+4mo-14-25.
+ }
+ {
+  Vgl §1koe-10-22
  }
 #}
 #1koe-9-28 {
@@ -28457,6 +28471,9 @@
   Möglicherweise sind die 420 Talente die eines Jahres, während die 450 die kumulierten sind (<a class='kom' href='#I1koe-9-14'>1.&nbsp;Kö&nbsp;9,14</a>,
   <a href='http://bibel.renenyffenegger.ch/1koe_10.html#v14'>1.&nbsp;Kö&nbsp;10,14</a>).
   <br>Siehe auch <a class='kom' href='#I1chr-29-4'>1.&nbsp;Chr&nbsp;29,4</a>.
+ }
+ {
+  Vgl §1koe-22-49, wo Josaphats Tarsisschiffe baute, um Gold in Ophir zu holen. Die Schiffe wurden in Ezjon-Geber zertrümmert.
  }
 #}
 @}
@@ -28518,11 +28535,12 @@
 #}
 #1koe-10-22 {
  {
-  Über die <i>Tarsisschiffe</i> spricht Jesaja ein Gericht aus:
+   Vgl §jes-60-9: Die Tarssischiffe bringen die Söhne um die Söhne aus der Ferne samt Gold und Silber heimzubringen.
+ }
+ {
+  TODO Über die <i>Tarsisschiffe</i> spricht Jesaja ein Gericht aus:
   <a href='http://bibel.renenyffenegger.ch/jes_2.html#v16'>Jes&nbsp;2,16</a>,
   <a href='http://bibel.renenyffenegger.ch/jes_23.html#v1'>Jes 23,1/14</a>.
-  <br>TODO Vgl auch <a href='http://bibel.renenyffenegger.ch/jes_60.html#v9'>Jes&nbsp;60,9</a> (Die Tarssischiffe bringen die Söhne um die Söhne aus der Ferne samt
-      Gold und Silber heimzubringen),
   <a href='http://bibel.renenyffenegger.ch/hes_27.html#v25'>Hes&nbsp;27,25</a>,
   <a href='http://bibel.renenyffenegger.ch/ps_48.html#v8'>Ps&nbsp;48,8</a> (Gott zerbricht Die Tarsisschiffe durch einen Sturm von Osten zerbrochen)
   <br>Siehe auch Tarsis: <a class='kom' href='#I1mo-10-4'>1.&nbsp;Mo&nbsp;10,4</a>.
@@ -29363,6 +29381,11 @@
 #1koe-22-47 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Tempelhurer
+ }
+#}
+#1koe-22-49 {
+ {
+  §+1koe-9-28, §2chr-20-37, §ps-48-8
  }
 #}
 @}
@@ -34185,6 +34208,9 @@
 #}
 #2chr-20-37 {
  {
+  Vgl §1koe-22-49, §ps-48-8
+ }
+ {
   <i>Marescha</i>: <a class='kom' href='#Ijos-15-44'>Jos&nbsp;15,44</a>.
  }
 #}
@@ -37019,7 +37045,10 @@
 #}
 #est-1-3 {
  {
-  <b>Medien</b>: <a class='kom' href='#I1mo-10-2'>1.&nbsp;Mo&nbsp;10,2</a>.
+  <b>Medien</b>: §+1mo-10-2.
+ }
+ {
+  Beachte die Reihenfolge: hier <i>Persien und Medien</i>, in §est-10-2 umgekehrt.
  }
 #}
 #est-1-6 {
@@ -37180,6 +37209,11 @@
 #est-10-1 {
  {
   → biblisches/Personen/Ahasveros
+ }
+#}
+#est-10-2 {
+ {
+  §+est-1-3
  }
 #}
 @}
@@ -39400,8 +39434,8 @@
 #}
 #ps-48-8 {
  {
-  <i>Tarsisschiffe</i>: <a class='kom' href='#I1koe-10-22'>1.&nbsp;Kö&nbsp;10,22</a>.
-  <br>Beachte: Die Tarsisschiffe werden die Söhne heimbringen (<a href='http://bibel.renenyffenegger.ch/jes_60.html#v9'>Jes&nbsp;60,9</a>).
+  <i>Tarsisschiffe</i>: §+1koe-10-22, §1koe-22-49
+  <br>Beachte: Die Tarsisschiffe werden die Söhne heimbringen (§jes-60-9).
  }
 #}
 #ps-48-10 {
@@ -40048,6 +40082,9 @@
 #ps-72-10 {
  {
   → biblisches/Orte/Tarsis
+ }
+ {
+  Vgl §+jes-60-9
  }
 #}
 #ps-72-12 {
@@ -45104,7 +45141,10 @@
 #}
 #jes-13-17 {
  {
-  TODO Beachte: die <i>Meder</i> werden offenbar auch in <a href='http://bibel.renenyffenegger.ch/jes_21.html#v2'>Jes&nbsp;21,2</a> zu Gerichtszwecken 'benötigt'.
+  Vgl §jer-51-11, §dan-9-1
+ }
+ {
+  TODO Beachte: die <i>Meder</i> werden offenbar auch in §jes-21-2 zu Gerichtszwecken 'benötigt'.
  }
 #}
 #jes-13-19 {
@@ -47201,8 +47241,9 @@
 #}
 #jes-60-9 {
  {
-  <i>Tarsisschiffe</i>: <a class='kom' href='#I1koe-10-22'>1.&nbsp;Kö&nbsp;10,22</a>.
-  <br>Beachte, die Tarsisschiffe werden von Gott zerbrochen (<a href='http://bibel.renenyffenegger.ch/ps_48.html#v8'>Ps&nbsp;48,8</a>).
+  <i>Tarsisschiffe</i>: §+1koe-10-22.
+  <br>Vgl mit den Königen von Tarsis (und den Inseln), die Geschenke entrichten werden, §ps-72-10
+  <br>Beachte, Tarsisschiffe wurde von Gott zerbrochen: §2chr-20-37, §ps-48-8
  }
 #}
 #jes-60-11 {
@@ -47475,6 +47516,9 @@
 #jes-66-18 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit#gottes-herrlichkeit-sehen
+ }
+ {
+  <i>Alle Nationen und Sprachen versammeln</i>: vgl → biblisches/Bücher/Mose/1/Kapitel-10[1. Mose 10, Sprachen und Nationen].
  }
 #}
 #jes-66-19 {
@@ -49968,6 +50012,9 @@
 #jer-51-11 {
  {
   Die Rache seines → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel[Tempels], vgl §jer-50-28
+ }
+ {
+  Vgl §jes-13-17, §dan-9-1
  }
 #}
 #jer-51-13 {
@@ -52649,6 +52696,9 @@
   → biblisches/Personen/Ahasveros
  }
  {
+  Offenbar wird nun §jes-13-17 und §jer-51-11 Tatsache.
+ }
+ {
   TODO: <i>Abstammung</i> wäre wohl besser mit 'Samen' übersetzt worden.
  }
 #}
@@ -52880,7 +52930,7 @@
 @Daniel 11 {
 #dan-11-3 {
  {
-  Dieser *tapfere König* ist wohl → Geschichte/Jahrhundert/4v/Personen/Alexander-der-Grosse.
+  Dieser <i>tapfere König</i> ist wohl → Geschichte/Jahrhundert/4v/Personen/Alexander-der-Grosse.
  }
 #}
 #dan-11-4 {
