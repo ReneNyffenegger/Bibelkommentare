@@ -532,16 +532,16 @@
 #}
 #1mo-2-7 {
  {
-  Vgl <a class='kom' href='#I1mo-1-26'>1.&nbsp;Mo&nbsp;1,26</a>.
+  Vgl §+1mo-1-26.
  }
  {
   <i>Odem in der Nase</i>: §jes-2-22
  }
  {
-  <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v45'>1.&nbsp;Kor&nbsp;15,45</a>
+  §1kor-15-45
  }
  {
-  <i>Staub vom Erdboden</i> vgl §ps-90-3
+  <i>Staub vom Erdboden</i> vgl §ps-90-3, §ps-103-14
  }
 #}
 #1mo-2-8 {
@@ -41024,7 +41024,7 @@
   §1chr-16-25
  }
  {
-  Vgl §ps-97-7
+  <i>über alle Götter</i> Vgl §ps-97-7
  }
 #}
 #ps-96-5 {
@@ -41066,10 +41066,13 @@
 #}
 #ps-96-13 {
  {
-  In <i>Treue</i>: <a href='http://bibel.renenyffenegger.ch/offb_19.html#v11'>Offb&nbsp;19,11</a>.
+  In <i>Treue</i>: §offb-19-11.
  }
  {
-  Gleicher Vers in <a href='http://bibel.renenyffenegger.ch/ps_98.html#v9'>Ps&nbsp;98,9</a>.
+  Gleicher Vers in §ps-98-9.
+ }
+ {
+  Vgl §apg-17-31
  }
 #}
 @}
@@ -41096,7 +41099,7 @@
 #}
 #ps-97-7 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/ps_96.html#v4'>Ps&nbsp;96,4</a>.
+  <i>ihr Götter</i> vgl §Vps-96-9, §ps-96-4.
  }
 #}
 #ps-97-8 {
@@ -41157,10 +41160,13 @@
 #}
 #ps-100-3 {
  {
-  <i>Schafe</i> und <i>Weide</i>: <a class='kom' href='#Ips-79-13'>Ps&nbsp;79,13</a>
+  <i>Schafe</i> und <i>Weide</i>: §+ps-79-13
  }
  {
-  <i>Erkennt, dass der HERR Gott ist</i>: <a class='kom' href='#I2mo-6-7'>2.&nbsp;Mo&nbsp;6,7</a>.
+  <i>Erkennt, dass der HERR Gott ist</i>: §+2mo-6-7.
+ }
+ {
+  <i>Er hat uns gemacht</i> vgl §ps-102-19
  }
 #}
 @}
@@ -41187,6 +41193,9 @@
 #ps-102-19 {
  {
   <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>.
+ }
+ {
+  <i>ein Volk, das erschaffen werden soll</i> vgl §ps-100-3
  }
 #}
 #ps-102-26 {
@@ -41222,13 +41231,33 @@
    'übermächtig'.
  }
 #}
+#ps-103-14 {
+ {
+  <i>Staub</i>: §+1mo-2-7
+ }
+#}
 #ps-103-19 {
  {
   <i>Königtum Gottes</i>: <a class='kom' href='#Ips-45-7'>Ps&nbsp;45,7</a>.
  }
 #}
+#ps-103-20 {
+ {
+  <i>Täter seines Wortes</i>: §jak-1-22
+ }
+#}
+#ps-103-22 {
+ {
+  Beachte: der nächste Psalm beginnt mit <i>Preise den HERRN, meine Seele</i> (§ps-104-1).
+ }
+#}
 @}
 @Psalm 104 {
+#ps-104-1 {
+ {
+  Beachte: der letzte Psalm hörte mit <i>Preise den HERRN, meine Seele</i> auf (§ps-103-22).
+ }
+#}
 #ps-104-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/ausspannen
@@ -70954,7 +70983,7 @@
 #}
 #apg-17-31 {
  {
-  Vgl §apg-10-42
+  <i>den Erdkreis in Gerechtigkeit richten</i> Vgl §apg-10-42, §ps-96-13
  }
  {
   Vgl diesen <i>festgesetzten Tag</i> mit dem «ihm bestimmten Tag» in §apg-28-23 (Das Griechische Wort ist nicht dasselbe).
@@ -86895,7 +86924,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-1-22 {
  {
-  <i>Hörer und Täter des Wortes</i> vgl §roem-2-13
+  <i>Hörer und Täter des Wortes</i> vgl §roem-2-13, §ps-103-20
  }
  {
   'betrügen': siehe <a class='kom' href='#Ikol-2-4'>Kol&nbsp;2,4</a>.
