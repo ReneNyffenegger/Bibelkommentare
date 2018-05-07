@@ -6131,7 +6131,7 @@
 #}
 #1mo-41-8 {
  {
-  Auch Nebukadnezars Geist war beunruhigt nach einem Traum: <a href='http://bibel.renenyffenegger.ch/dan_2.html#v1'>Dan&nbsp;2,1</a>.
+  Auch Nebukadnezars Geist war beunruhigt nach einem Traum: §dan-2-1.
  }
 #}
 #1mo-41-14 {
@@ -37791,6 +37791,13 @@
  }
 #}
 @}
+@Hiob 33 {
+#hi-33-4 {
+ {
+  §+offb-11-11
+ }
+#}
+@}
 @Hiob 35 {
 #hi-35-11 {
  {
@@ -41307,6 +41314,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Leviathan
  }
 #}
+#ps-104-29 {
+ {
+  §+offb-11-11
+ }
+#}
 #ps-104-35 {
  {
    Erster Psalm, wo <i>Halleluja</i> vorkommt. Weitere:
@@ -44187,6 +44199,9 @@
 #pred-12-7 {
  {
    <i>Staub zur Erde</i> §1mo-3-19, §pred-3-20 
+ }
+ {
+  §+offb-11-11
  }
 #}
 #pred-12-10 {
@@ -47358,10 +47373,7 @@
   Der HERR zitiert bis, aber ohne <i>und den Tag der Rache unseres Gottes …</i> in §lk-4-18-19.
  }
  {
-  <i>Der Geist des HERRN ist auf mir</i> vgl §jes-59-21
- }
- {
-  <i>Geist des HERRN</i> Vgl §+jes-11-2.
+  <i>Der Geist des HERRN ist auf mir</i> vgl §jes-59-21, §+jes-11-2
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit/ausrufen
@@ -47459,7 +47471,7 @@
 #}
 #jes-63-14 {
  {
-  <i>Geist des HERRN</i>: <a href='http://bibel.renenyffenegger.ch/jes_11.html#v2'>Jes&nbsp;11,2</a>.
+  <i>Geist des HERRN</i>: §jes-11-2.
  }
 #}
 #jes-63-18 {
@@ -90502,10 +90514,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-5-6 {
  {
-  Beachte: die 24 Ältesten redeon von einen Löwen, aber Johannes sieht ein Lamm.
+  Beachte: die 24 Ältesten reden von einem Löwen, aber → biblisches/Personen/Johannes sieht ein Lamm.
  }
  {
-   <i>Sieben Geister</i>: <a class='kom' href='#Ioffb-1-2'>Offb&nbsp;1,2</a>.
+  <i>Sieben Geister</i>: §+offb-1-2.
  }
  {
   <i>Sieben Augen</i>: §sach-3-9
@@ -91420,6 +91432,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Auf der Erde wohnen</i>: <a class='kom' href='#Ioffb-3-10'>Offb&nbsp;3,10</a>.
  }
 #}
+#offb-11-11 {
+ {
+  <i>Geist des Lebens</i>, der lebendig macht, vgl §offb-13-15, §ps-104-29, §+pred-12-7, §hi-33-4
+ }
+#}
 #offb-11-12 {
  {
   Auch Johannes ist in den Himmel gestiegen: §+offb-4-1.
@@ -91879,7 +91896,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Elberfelder übersetzt <i>Geist</i> mit «Odem», vgl mit §jer-51-17 (Im → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild ist kein Geist), §apg-17-25
  }
  {
-   TODO: Es gibt Überwinder über das Tier, sein Bild und die Zahl seines Namens (<a href='http://bibel.renenyffenegger.ch/offb_15.html#v2'>Offb&nbsp;15,2</a>).
+  §+offb-11-11
+ }
+ {
+  TODO: Es gibt Überwinder über das Tier, sein Bild und die Zahl seines Namens (<a href='http://bibel.renenyffenegger.ch/offb_15.html#v2'>Offb&nbsp;15,2</a>).
  }
  {
   TODO: vgl <a href='http://bibel.renenyffenegger.ch/jer_10.html#v14'>Jer&nbsp;10,14</a> (gegossens Bild ohne Geist)
