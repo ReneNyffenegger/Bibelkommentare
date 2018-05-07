@@ -30562,15 +30562,16 @@
 #}
 #2koe-19-24 {
  {
+  <i>Mazor</i>: <span class='hebr'>מָצוֹר</span> (Strongs 4693), der Singular von <span class='hebr'>מִצְרַיִם</span> (Ägypten).
+  Ebenso in §jes-19-6, §jes-37-25, §mi-7-12.
+ }
+ {
   TODO: 'Ströme Ägyptens' enthält Strongs 2975 (welches zB in <a href='http://bibel.renenyffenegger.ch/1mo_41.html#v1'>1.&nbsp;Mo&nbsp;41,1</a> mit
   <i>Nil</i> übersetzt wird). Ebenso wohl: <a href='http://bibel.renenyffenegger.ch/jes_7.html#v18'>Jes&nbsp;7,18</a>,
   <a href='http://bibel.renenyffenegger.ch/jes_19.html#v6'>Jes&nbsp;19,6</a><a href='http://bibel.renenyffenegger.ch/jes_23.html#v10'>Jes&nbsp;23,10</a>,
   <a href='http://bibel.renenyffenegger.ch/jes_33.html#v21'>Jes&nbsp;33,21</a>, <a href='http://bibel.renenyffenegger.ch/jes_37.html#v25'>Jes&nbsp;37,25</a>
   <a href='http://bibel.renenyffenegger.ch/hes_29.html#v3'>Hes&nbsp;29,3</a>,
   <a href='http://bibel.renenyffenegger.ch/dan_12.html#v5'>Dan&nbsp;12,5</a>
- }
- {
-  TODO: Es enthält auch Strongs 4693.
  }
 #}
 #2koe-19-28 {
@@ -45490,7 +45491,7 @@
 #}
 #jes-19-6 {
  {
-  TODO: <i>Mazor</i> heisst wohl 'Verteidigung' (Strongs 4693)
+  <i>Mazor</i>: §+2koe-19-24
  }
 #}
 #jes-19-7 {
@@ -46301,6 +46302,11 @@
 #jes-37-20 {
  {
   <i>Den HERRN erkennen</i>: <a class='kom' href='#I2mo-6-7'>2.&nbsp;Mo&nbsp;6,7</a>
+ }
+#}
+#jes-37-25 {
+ {
+  <i>Mazor</i>: §+2koe-19-24
  }
 #}
 #jes-37-26 {
@@ -54495,7 +54501,7 @@
 @Micha 7 {
 #mi-7-12 {
  {
-  TODO: Strongs 4693.
+  <i>Mazor</i>: §+2koe-19-24
  }
 #}
 #mi-7-17 {
