@@ -421,6 +421,11 @@
   </table>
  }
 #}
+#1mo-1-29 {
+ {
+  Beachte: in der → biblisches/Bücher/Mose/2/Zehn-Plagen[7. Plage] wird das Kraut vom Hagel zerstört (§1mo-9-22), in der 8. Plage wird das übriggelassene Kraut und die Früchte von den Heuschrecken gegessen (§2mo-10-15).
+ }
+#}
 #1mo-1-30 {
  {
   Hier wird das <i>grüne Kraut</i> den Tieren zur Nahrung gegeben, ab §1mo-9-3 auch den Menschen.
@@ -1276,14 +1281,13 @@
 #}
 #1mo-6-9 {
  {
-  Noah wandelte mit Gott, vgl Henoch, der auch mit Gott wandelte (<a class='kom' href='#I1mo-5-24'>1.&nbsp;Mo&nbsp;5,24</a>).
+  → biblisches/Personen/Noah wandelte mit Gott, vgl Henoch, der auch mit Gott wandelte, §+1mo-5-24
  }
  {
   Noah, wird auch 'Verkündiger der Gerechtigkeit' genannt in <a href='http://bibel.renenyffenegger.ch/2petr_2.html#v5'>2.&nbsp;Petr&nbsp;2,5</a>.
  }
  {
-  <i>Untadelig</i> <span class='hebr'>תָּמִים</span> (Strongs 8549): dasselbe Wort wie auch in <a href='http://bibel.renenyffenegger.ch/1mo_17.html#v1'>1.&nbsp;Mo&nbsp;17,1</a>,
-  <a href='http://bibel.renenyffenegger.ch/2mo_12.html#v5'>2.&nbsp;Mo&nbsp;12,5</a>, <a href='http://bibel.renenyffenegger.ch/3mo_1.html#v3'>3.&nbsp;Mo&nbsp;1,3</a> usw.
+  <i>Untadelig</i> <span class='hebr'>תָּמִים</span> (Strongs 8549): dasselbe Wort wie auch in §1mo-17-1 (→ biblisches/Personen/Abraham soll vollkommen/untadelig sein), §2mo-12-5, §3mo-1-3 usw.
  }
  {
    <i>Geschichte</i>: <a class='kom' href='#I1mo-2-4'>1.&nbsp;Mo&nbsp;2,4</a>. Vgl die <i>Geschichte Noahs</i> mit der <i>Geschichte der Söhne Noahs</i> (<a href='http://bibel.renenyffenegger.ch/1mo_10.html#v1'>1. Mo 10,1ff</a>).
@@ -2127,7 +2131,7 @@
   TODO: Elberfelder: «...Und der Ziegel diente ihnen als Stein, und das Erdharz diente ihnen als Mörtel.»
  }
  {
-  Vgl das zweifache <i>wohlan</i> der Menschen in Vers 3 und 4 mit dem «wohlan» Gottes in Vers 7.
+  Vgl das zweifache <i>wohlan, lasst uns</i> der Menschen in Vers und 4 mit dem «wohlan, lasst uns» Gottes in §V1mo-11-7.
  }
  {
   TODO: Diesen Satz mal im Hebräischen anschauen. 'feuerfest' scheint ja nicht im Grundtext zu sein. Luther 1912
@@ -2145,8 +2149,19 @@
 #}
 #1mo-11-4 {
  {
-  Vgl den <i>Turm bis zum Himmel</i> mit den 'Sünden bis zum Himmel' in <a href='http://bibel.renenyffenegger.ch/offb_18.html#v5'>Offb&nbsp;18,5</a>
-  und Babels Gericht, das bis zum Himmel reicht (<a class='kom' href='#Ijer-51-9'>Jer&nbsp;51,9</a>).
+  Vgl den <i>Turm bis zum Himmel</i> mit den »Sünden bis zum Himmel« in §offb-18-5
+  und Babels Gericht, das bis zum Himmel reicht (§+jer-51-9). In §V1mo-11-7 fährt der HERR vom Himmel hinunter und beendet den Turmbau.
+ }
+ {
+  <i>dass wir uns einen Namen machen</i>: Vgl mit dem Namen »Babel«, der dann der Stadt gegeben wird, §V1mo-11-9.
+  <br>
+  Beachte auch, dass → biblisches/Personen/Sem (§V1mo-11-10) »Name« bedeutet.
+ }
+#}
+#1mo-11-6 {
+ {
+  <i>ihnen nichts verwehrt werden, was sie zu tun ersinnen</i>, vgl mit Gott, der alles vermag, §hi-42-2. (Beide Verse enthalten <span class='hebr'>זָמַם</span> (Strongs 1219)
+  und <span class='hebr'>בָּצַר</span> (Strongs 1261).
  }
 #}
 #1mo-11-7 {
@@ -2160,6 +2175,9 @@
  }
 #}
 #1mo-11-10 {
+ {
+  → biblisches/Personen/Sem bedeutet «Name». Vgl §V1mo-11-4.
+ }
  {
   Im Gegensatz zu <a href='http://bibel.renenyffenegger.ch/1mo_5.html#v6'>1. Mo 5,6ff</a> fehlt hier
   die ganze Lebenszeit und dass 'sie starben', s.a. <a class='kom' href='#I1mo-5-6'>1.&nbsp;Mo&nbsp;5,6</a>.
@@ -7926,6 +7944,11 @@
 #2mo-10-14 {
  {
    Vgl §joe-1-4.
+ }
+#}
+#2mo-10-15 {
+ {
+  Beachte: Ursprünglich wurde <i>Kraut und Frucht</i> zur Speise gegeben: §1mo-1-29.
  }
 #}
 #2mo-10-19 {
@@ -30562,15 +30585,16 @@
 #}
 #2koe-19-24 {
  {
+  <i>Mazor</i>: <span class='hebr'>מָצוֹר</span> (Strongs 4693), der Singular von <span class='hebr'>מִצְרַיִם</span> (Ägypten).
+  Ebenso in §jes-19-6, §jes-37-25, §mi-7-12.
+ }
+ {
   TODO: 'Ströme Ägyptens' enthält Strongs 2975 (welches zB in <a href='http://bibel.renenyffenegger.ch/1mo_41.html#v1'>1.&nbsp;Mo&nbsp;41,1</a> mit
   <i>Nil</i> übersetzt wird). Ebenso wohl: <a href='http://bibel.renenyffenegger.ch/jes_7.html#v18'>Jes&nbsp;7,18</a>,
   <a href='http://bibel.renenyffenegger.ch/jes_19.html#v6'>Jes&nbsp;19,6</a><a href='http://bibel.renenyffenegger.ch/jes_23.html#v10'>Jes&nbsp;23,10</a>,
   <a href='http://bibel.renenyffenegger.ch/jes_33.html#v21'>Jes&nbsp;33,21</a>, <a href='http://bibel.renenyffenegger.ch/jes_37.html#v25'>Jes&nbsp;37,25</a>
   <a href='http://bibel.renenyffenegger.ch/hes_29.html#v3'>Hes&nbsp;29,3</a>,
   <a href='http://bibel.renenyffenegger.ch/dan_12.html#v5'>Dan&nbsp;12,5</a>
- }
- {
-  TODO: Es enthält auch Strongs 4693.
  }
 #}
 #2koe-19-28 {
@@ -37950,6 +37974,13 @@
 #}
 @}
 @Hiob 42 {
+#hi-42-2 {
+ {
+  Vgl mit den Menschen beim Turmbau zu Babel: ihnen nichts verwehrt werden, was sie zu tun ersinnen. §1mo-11-6. (Beide Verse enthalten <span class='hebr'>זָמַם</span> (Strongs 1219)
+  und <span class='hebr'>בָּצַר</span> (Strongs 1261).
+
+ }
+#}
 #hi-42-3 {
  {
    TODO: Verse 3 und 4 sind gemäss Menge Einschiebsel, die sich in den Urtext eingeschlichen haben.
@@ -39049,7 +39080,10 @@
 #}
 #ps-34-16 {
  {
-  Vgl <a class='kom' href='#Ips-33-14'>Ps&nbsp;33,14</a>.
+  Vgl §+ps-33-14.
+ }
+ {
+  Im Grundtext enthält dieser Vers kein Verb.
  }
 #}
 #ps-34-19 {
@@ -45487,7 +45521,7 @@
 #}
 #jes-19-6 {
  {
-  TODO: <i>Mazor</i> heisst wohl 'Verteidigung' (Strongs 4693)
+  <i>Mazor</i>: §+2koe-19-24
  }
 #}
 #jes-19-7 {
@@ -46298,6 +46332,11 @@
 #jes-37-20 {
  {
   <i>Den HERRN erkennen</i>: <a class='kom' href='#I2mo-6-7'>2.&nbsp;Mo&nbsp;6,7</a>
+ }
+#}
+#jes-37-25 {
+ {
+  <i>Mazor</i>: §+2koe-19-24
  }
 #}
 #jes-37-26 {
@@ -54492,7 +54531,7 @@
 @Micha 7 {
 #mi-7-12 {
  {
-  TODO: Strongs 4693.
+  <i>Mazor</i>: §+2koe-19-24
  }
 #}
 #mi-7-17 {
@@ -55515,6 +55554,11 @@
  {
   Beachte: <i>Joseph</i> ist nicht nur hier ein Sohn Jakobs, sondern auch in <a class='kom' href='#I1mo-30-24'>1.&nbsp;Mo&nbsp;30,24</a> ff.
   <br>Joseph: 'Sohn Davids' (Vers 20), 'aus dem Haus Davids' (<a href='http://bibel.renenyffenegger.ch/lk_1.html#v27'>Lk&nbsp;1,27</a>)
+ }
+#}
+#mt-1-17 {
+ {
+  <i>14 Generationen</i>: interessanterweise ist → biblisches/Grundtext/Zahlen/index#n14 der Zahlenwert von → biblisches/Personen/David.
  }
 #}
 #mt-1-19 {
@@ -90428,6 +90472,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
     <li>Links: eines Stieres
     <li>Hinten: eines Adlers
   </ul>
+  Vgl. die lebendigen Wesen mit jenen aus §1mo-1-20-ff (→ biblisches/Bücher/prophetisch/Offenbarung/Anfang-und-Ende)
  }
  {
   TODO <i>Kristall</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_22.html#v1'>Offb&nbsp;22,1</a>.
@@ -93120,10 +93165,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-21-4 {
  {
-  <i>Kein Geschrei mehr</i>: Vgl <a class='kom' href='#Ijes-65-19'>Jes&nbsp;65,19</a>.
+  <i>Kein Geschrei mehr</i>: Vgl §+jes-65-19.
  }
  {
-  <i>Tränen abwischen</i>: <a class='kom' href='#Ioffb-7-17'>Offb&nbsp;7,17</a>.
+  <i>Tränen abwischen</i>: §+offb-7-17.
+ }
+ {
+  Das → biblisches/Texte/erst-und-zweit[Erste] ist vergangen.
  }
 #}
 #offb-21-5 {
