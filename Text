@@ -1276,7 +1276,11 @@
 #}
 #1mo-6-8 {
  {
-  Vgl mit David, der auch <i>Gnade fand</i>: <a class='kom' href='#Iapg-7-46'>Apg&nbsp;7,46</a>.
+  Vgl mit David, der auch <i>Gnade fand</i>: §+apg-7-46.
+ }
+ {
+  Beachte: → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade (<span class='hebr'>ןה</span>, Strongs 2580) sind dieselben Buchstaben, wie jene von → biblisches/Personen/Noah (<span class='hebr'>נה</span>, Strongs 5146), einfach
+  in → biblisches/Grundtext/Hebräisch/index#hebr-umgekehrte-woerter[umgekehrter Reihenfolge].
  }
 #}
 #1mo-6-9 {
@@ -1937,6 +1941,9 @@
  }
 #}
 #1mo-10-10 {
+ {
+  → biblisches/Orte/Babel
+ }
  {
   <i>Sinear</i> (<span class='hebr'>שִׁנְעָר</span>, Strongs 8152): «Land der zwei Flüsse». Vgl mit <i>Mesopotamien</i>
  }
@@ -25043,6 +25050,14 @@
   <a class='kom' href='#Iri-17-6'>Ri&nbsp;17,6</a>, <a class='kom' href='#Ijoh-19-15'>Joh&nbsp;19,15</a>.
  }
 #}
+#1sam-8-7 {
+ {
+  Beachte: <i>Samuel</i> setzt sich aus den Worten »hören« und »Gott« zusammen. Nun soll er auf die Stimme des Volkes hören.
+ }
+ {
+  <i>mich haben sie verworfen</i>, vgl §1sam-10-19, §1sam-15-23
+ }
+#}
 #1sam-8-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
@@ -25225,6 +25240,11 @@
  {
   Der HERR rettete Israel aus der Hand der Ägypten, vgl §+2mo-14-30,
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+#}
+#1sam-10-19 {
+ {
+  <i>ihr habt euren Gott verworfen</i> vgl §+1sam-8-7
  }
 #}
 #1sam-10-21 {
@@ -25620,6 +25640,8 @@
  {
   Beachte: Saul hat das Wort des HERRN <i>verworfen</i> (<span class='hebr'>מָאַס</span>, Strongs 3988),
   → biblisches/Personen/David hat es <i>verachtet</i> (<span class='hebr'>בָּזָה</span>, Strongs 959), <a href='http://bibel.renenyffenegger.ch/2sam_12.html#v9'>2.&nbsp;Sam&nbsp;12,9</a>.
+  <br>
+   Vgl auch §+1sam-8-7, wo das Volk Gott verworfen hat.
  }
 #}
 #1sam-15-24 {
@@ -28555,6 +28577,11 @@
  {
   <i>Weisheit</i> und <i>Haus bauen</i>: <a href='http://bibel.renenyffenegger.ch/spr_9.html#v1'>Spr&nbsp;9,1</a>,
   <a href='http://bibel.renenyffenegger.ch/spr_14.html#v1'>Spr&nbsp;14,1</a>, <a href='http://bibel.renenyffenegger.ch/spr_24.html#v3'>Spr&nbsp;24,3</a>
+ }
+#}
+#1koe-10-7 {
+ {
+  §2chr-9-6 
  }
 #}
 #1koe-10-9 {
@@ -33682,6 +33709,11 @@
     <a class='kom' href='#I1koe-10-2'>1.&nbsp;Kö&nbsp;10,2</a>,
     <a class='kom' href='#I2mo-25-6'>2.&nbsp;Mo&nbsp;25,6</a>
   ).
+ }
+#}
+#2chr-9-6 {
+ {
+  §1koe-10-7
  }
 #}
 #2chr-9-9 {
@@ -41752,7 +41784,7 @@
 #}
 #ps-111-10 {
  {
-  Vgl <a class='kom' href='#Ispr-1-7'>Spr&nbsp;1,7</a>.
+  Vgl §+spr-1-7, §spr-9-10
  }
 #}
 @}
@@ -42982,8 +43014,8 @@
 #}
 #spr-9-10 {
  {
-   <i>Furcht des Herrn</i>: <a class='kom' href='#Ispr-1-7'>Spr&nbsp;1,7</a>, <i>Anfang der WEisheit</i>: <a class='kom' href='#Ispr-4-7'>Spr&nbsp;4,7</a>.
-   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/hi_28.html#v28'>Hi&nbsp;28,28</a>.
+   <i>Furcht des Herrn</i>: §+spr-1-7, <i>Anfang der Weisheit</i>: §+spr-4-7, §ps-111-10
+   <br>Vgl auch §hi-28-28.
  }
 #}
 @}
@@ -43518,6 +43550,9 @@
 #}
 #spr-19-29 {
  {
+  <i>Schläge für den Rücken der Toren</i> vgl §spr-26-3, §jes-50-6
+ }
+ {
   <i>Spötter</i> auch im nächsten Vers: §spr-20-1
  }
 #}
@@ -43820,6 +43855,11 @@
 #spr-26-1 {
  {
   <i>Sommer</i> und <i>Ernte</i>: Vgl §+spr-6-8.
+ }
+#}
+#spr-26-3 {
+ {
+  <i>der Stock dem Rücken der Toren</i> vgl §spr-19-29, §jes-50-6
  }
 #}
 #spr-26-12 {
@@ -46935,6 +46975,11 @@
 #jes-50-1 {
  {
   <i>Scheidebrief</i>: <a class='kom' href='#Ijer-3-8'>Jer&nbsp;3,8</a>.
+ }
+#}
+#jes-50-6 {
+ {
+  <i>Ich bot meinen Rücken den Schlagenden</i> vgl §spr-19-29, §spr-26-3 
  }
 #}
 #jes-50-7 {
