@@ -1863,6 +1863,9 @@
   <br>Siehe auch <i>Tarsisschiffe</i>: <a class='kom' href='#I1koe-10-22'>1.&nbsp;Kö&nbsp;10,22</a>.
  }
  {
+  <i>Dodanim</i>: beachte: in §jes-21-13 werden die «Karawanen der Dedaniter» erwähnt. Dedan ist ein Sohn von Ragma, §V1mo-10-7.
+ }
+ {
   TODO: <b>R</b> und <b>D</b> (<a href='http://bibel.renenyffenegger.ch/1chr_1.html#v7'>1.&nbsp;Chr&nbsp;1,7</a>),
     <a class='kom' href='#I4mo-2-14'>4.&nbsp;Mo&nbsp;2,14</a>,
     <a class='kom' href='#Ihes-6-14'>Hes&nbsp;6,14</a>.
@@ -1921,9 +1924,9 @@
  }
  {
   <i>Dedan</i> (<span class='hebr'>דְּדָן</span>, Strongs 1719) = 'low country'.
-  <br>Dedan, der Ort, scheint in Edom zu liegen (<a href='http://bibel.renenyffenegger.ch/jer_49.html#v8'>Jer&nbsp;49,8</a>ä,
-    <a href='http://bibel.renenyffenegger.ch/hes_25.html#v13'>Hes&nbsp;25,13</a>)
-  <br><a href='http://bibel.renenyffenegger.ch/jes_21.html#v13'>Jes&nbsp;21,13</a>: die Karawanen der Dedaniter müssen in der Wildnis von Arabien übernachten.
+  <br>Dedan, der Ort, scheint in Edom zu liegen (§jer-49-8, §hes-25-13)
+  <br>§jes-21-13: die Karawanen der Dedaniter müssen in der Wildnis von Arabien übernachten.
+  <br>Vgl. mit den Dodanim, §V1mo-10-4
  }
  {
   TODO: Beachte, dass die Namen von sowohl <i>Kusch</i> wie auch seines Nachfahren <i>Hawila</i> bereits in <a href='http://bibel.renenyffenegger.ch/1mo_2.html#v11'>1. Mo 2,11/13</a>
@@ -37425,6 +37428,11 @@
   <i>Eis</i>: <a class='kom' href='#I1mo-31-40'>1.&nbsp;Mo&nbsp;31,40</a>
  }
 #}
+#hi-6-18 {
+ {
+  <i>Pfade</i>: <span class='hebr'>אֹרַח</span> (Strongs 734), dasselbe Wort wird im nächsten Vers mit «Karawane» übersetzt.
+ }
+#}
 #hi-6-19 {
  {
   <i>hoffen</i>: <a class='kom' href='#I1mo-49-18'>1.&nbsp;Mo&nbsp;49,18</a>.
@@ -38537,6 +38545,11 @@
   der aber, den Gott auferweckte, hat die Verwesung nicht gesehen)
  }
 #}
+#ps-16-11 {
+ {
+  <i>Du wirst mir den Weg des Lebens kundtun</i>, vgl §ps-25-4 
+ }
+#}
 @}
 @Psalm 17 {
 #ps-17-4 {
@@ -38777,6 +38790,11 @@
 #ps-25-3 {
  {
   <i>harren</i>: <a class='kom' href='#I1mo-49-18'>1.&nbsp;Mo&nbsp;49,18</a>.
+ }
+#}
+#ps-25-4 {
+ {
+  Vgl §ps-16-11
  }
 #}
 #ps-25-5 {
@@ -45704,7 +45722,7 @@
   <i>Dedan</i>: <a class='kom' href='#I1mo-10-7'>1.&nbsp;Mo&nbsp;10,7</a>.
  }
  {
-  TODO <i>Wildnis</i> (<span class='hebr'>יַעַר</span>, Strongs 3293) wird in KJV mit 'forest' übersetzt.
+  <i>Wald</i> (<span class='hebr'>יַעַר</span>, Strongs 3293) wird in Sch2K und Elberfelder mit «Wildnis», in KJV mit «forest» übersetzt.
  }
 #}
 #jes-21-16 {
