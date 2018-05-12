@@ -5249,7 +5249,10 @@
 #}
 #1mo-34-10 {
  {
-   <i>Grundbesitz erweben</i> Vgl §1mo-47-27
+   <i>Grundbesitz erwerben</i> Vgl §1mo-47-27
+ }
+ {
+  <i>Handel treiben</i> vgl §V1mo-34-21, §1mo-42-34
  }
  {
   <i>Handel treiben und Grundbesitz erwerben</i> vgl §jak-4-13 «Handel treiben und Gewinn machen»
@@ -6282,6 +6285,11 @@
 #1mo-42-25 {
  {
   <i>Verpflegung</i>: <a class='kom' href='#I1mo-27-3'>1.&nbsp;Mo&nbsp;27,3</a>.
+ }
+#}
+#1mo-42-34 {
+ {
+  <i>im Land Handel treiben</i> vgl §+1mo-34-10
  }
 #}
 #1mo-42-37 {
@@ -19897,6 +19905,9 @@
  {
   <i>Durchs Feuer gehen lassen</i> §+3mo-18-21
  }
+ {
+  Vgl 2chr-33-6
+ }
 #}
 #5mo-18-13 {
  {
@@ -27213,6 +27224,9 @@
 #}
 #2sam-15-12 {
  {
+  <i>Rat → biblisches/Personen/David[Davids]</i> vgl mit «Rat Ahitophels», §2sam-16-23
+ }
+ {
   TODO: <i>Ahitophel</i> ist offenbar der Grossvater von Bathseba (<a href='http://bibel.renenyffenegger.ch/2sam_11.html#v3'>2.&nbsp;Sam&nbsp;11,3</a> und
   Vater Eliams, einer der Helden → biblisches/Personen/David[Davids] (<a href='http://bibel.renenyffenegger.ch/2sam_23.html#v34'>2.&nbsp;Sam&nbsp;23,34</a>).
   <br>Er verschwört sich mit Absalom (<a href='http://bibel.renenyffenegger.ch/2sam_15.html#v31'>2.&nbsp;Sam&nbsp;15,31</a>)
@@ -27312,7 +27326,9 @@
    <i>Wort des HERRN</i> vgl mit → biblisches/Personen/David[Davids] Gebet in <a href='http://bibel.renenyffenegger.ch/2sam_22.html#v31'>2.&nbsp;Sam&nbsp;22,31</a>.
  }
  {
-  Beachte: der Rat Ahitophels wird in <a href='http://bibel.renenyffenegger.ch/2sam_17.html#v14'>2.&nbsp;Sam&nbsp;17,14</a> <i>gut</i> genannt.
+  Beachte: der <i>Rat Ahitophels</i> wird in §2sam-17-7 <i>nicht gut</i> in §2sam-17-14 <i>gut</i> genannt.
+ <br>
+  Vgl mit «Rat → biblisches/Personen/David[Davids]», §2sam-15-12
  }
 #}
 @}
@@ -34991,7 +35007,10 @@
 #}
 #2chr-33-6 {
  {
-  <a class='kom' href='#I2koe-21-6'>2.&nbsp;Kö&nbsp;21,6</a>.
+  §+2koe-21-6.
+ }
+ {
+  Vgl §5mo-18-10
  }
 #}
 #2chr-33-7 {
@@ -36503,7 +36522,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis, vgl §+Vneh-7-5, §+esr-2-62
  }
  {
-  TODO: Gab es Leute, die nicht im Geschlechtsregister gefunden wurden, weil in Babel einige Leute Juden wurden (<a href='http://bibel.renenyffenegger.ch/est_8.html#v17'>Est&nbsp;8,17</a>)?
+  Gab es Leute, die nicht im Geschlechtsregister gefunden wurden, weil in Babel einige Leute Juden wurden (§est-8-17)?
  }
 #}
 #neh-7-65 {
@@ -37330,7 +37349,10 @@
 #}
 #est-8-17 {
  {
-  <a class='kom' href='#Ineh-7-64'>Neh&nbsp;7,64</a>.
+  <i>viele … wurden Juden</i>: §+roem-2-28
+ }
+ {
+  §+neh-7-64.
  }
 #}
 @}
@@ -37932,6 +37954,11 @@
 #hi-37-17 {
  {
   <i>Südwind</i>: Strongs 1864, siehe auch <a class='kom' href='#I5mo-33-23'>5.&nbsp;Mo&nbsp;33,23</a>.
+ }
+#}
+#hi-37-18 {
+ {
+  <i>Himmelsgewölbe</i>: <span class='hebr'>שַׁחַק</span> (Strongs 7834) wird häufig mit »Wolke« übersetzt.
  }
 #}
 @}
@@ -39618,6 +39645,8 @@
 #ps-48-8 {
  {
   <i>Tarsisschiffe</i>: §+1koe-10-22, §1koe-22-49
+  <br>
+    Durch den Ostwind zerschellte Tarsisschiffe: §hes-27-25-26
   <br>Beachte: Die Tarsisschiffe werden die Söhne heimbringen (§jes-60-9).
  }
 #}
@@ -44116,6 +44145,16 @@
   <i>Wolle und Flachs</i>: Siehe <a class='kom' href='#I3mo-13-47'>3.&nbsp;Mo&nbsp;13,47</a>.
  }
 #}
+#spr-31-21 {
+ {
+  <i>Purpur sind ihr Gewand</i>: §jer-10-9, §est-8-15, §mt-27-28
+ }
+#}
+#spr-31-22 {
+ {
+  <i>Byssus und Purpur sind ihr Gewand</i> vgl §jer-10-9
+ }
+#}
 #spr-31-26 {
  {
   <i>Unterweisung</i>: <a class='kom' href='#Ispr-1-8'>Spr&nbsp;1,8</a>.
@@ -48278,6 +48317,9 @@
   <i>Gold von Uphas</i>: vgl <a href='http://bibel.renenyffenegger.ch/dan_10.html#v5'>Dan&nbsp;10,5</a>.
  }
  {
+  <i>blauer und roter Purpur ist ihr Gewand</i> vgl §spr-31-22, §est-8-15, §mt-27-28
+ }
+ {
    TODO:: Warum wird kein Gold von Tarsis gebracht?
  }
 #}
@@ -51447,6 +51489,11 @@
 #hes-27-23 {
  {
   TODO <i>Eden</i> und <i>Haran</i>: vgl <a class='kom' href='#I2koe-19-12'>2.&nbsp;Kö&nbsp;19,12</a>.
+ }
+#}
+#hes-27-26 {
+ {
+  Vgl §ps-48-8
  }
 #}
 #hes-27-30 {
@@ -59608,6 +59655,9 @@
   auch, dass beide griechischen Wörter sowohl in <a href='http://bibel.renenyffenegger.ch/offb_17.html#v4'>Offb&nbsp;17,4</a> wie auch
   <a href='http://bibel.renenyffenegger.ch/offb_18.html#v12'>Offb&nbsp;18,12</a> vorkommen.
  }
+ {
+  <i>Purpurmantel</i>: §+spr-31-21
+ }
 #}
 #mt-27-30 {
  {
@@ -65891,7 +65941,10 @@
 #}
 #joh-8-44 {
  {
-  Siehe <a href='http://bibel.renenyffenegger.ch/1mo_4.html#v8'>1.&nbsp;Mo&nbsp;4,8-9</a>: Kain hat seinen Bruder umgebracht und danach gelogen.
+  Nicht nur der Teufel ist ein <i>Menschenmörder</i>, sondern auch jeder, der seinen Bruder hasst, §1joh-3-15.
+ }
+ {
+  Vgl §1mo-4-8-9: → biblisches/Personen/Kain hat seinen Bruder umgebracht und danach gelogen.
  }
 #}
 #joh-8-48 {
@@ -73307,7 +73360,7 @@
 #}
 #roem-2-28 {
  {
-  <i>Denn nicht der ist ein Jude, …</i> vgl §+offb-2-9 («sie seien Juden und sind es nicht»).
+  <i>Denn nicht der ist ein Jude, …</i> vgl §+offb-2-9 («sie seien Juden und sind es nicht»), §est-8-17 («viele aus den Völkern des Landes wurden Juden»)
  }
 #}
 #roem-2-29 {
@@ -89203,6 +89256,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1joh-3-15 {
+ {
+  Beachte: der Teufel ist von Anfang an ein <i>Menschenmörder</i>, §joh-8-44.
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
