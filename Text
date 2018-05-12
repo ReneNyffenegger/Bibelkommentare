@@ -1063,6 +1063,11 @@
   <br>Mit Suffix siehe <a class='kom' href='#I1chr-18-8'>1.&nbsp;Chr&nbsp;18,8</a>.
  }
 #}
+#1mo-4-23 {
+ {
+  <i>Wunde</i> und <i>Strieme</i> vgl §2mo-21-25
+ }
+#}
 #1mo-4-24 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/mt_18.html#v22'>Mt&nbsp;18,22</a>.
@@ -9593,6 +9598,11 @@
   <a href='http://bibel.renenyffenegger.ch/5mo_19.html#v21'>5.&nbsp;Mo&nbsp;19,21</a>.
  }
 #}
+#2mo-21-25 {
+ {
+  <i>Wunde</i> und </i>Strieme</i> vgl §1mo-4-23
+ }
+#}
 #2mo-21-26 {
  {
    Frage: Zusammenhang mit <a href='http://bibel.renenyffenegger.ch/sach_11.html#v17'>Sach&nbsp;11,17</a>.
@@ -16989,7 +16999,10 @@
 @4. Mose 21 {
 #4mo-21-1 {
  {
-  <i>Der Kanaaniter wohnt im Land des Südens</i> vgl §4mo-13-29 
+  <i>Und der Kanaaniter, der König von Arad, der im Süden wohnte, hörte, daß Israel…</i> vgl §4mo-33-40 
+ }
+ {
+  In §4mo-13-29 wohnte noch Amalek im <i>Land des Südens</i>.
  }
  {
   TODO: KJV überstzt mit 'the way of the spies'. (Dies offenbar, weil <i>ha Atarim</i> die Spione heisse, (vgl ausgesandte Kundschafter).
@@ -18194,6 +18207,11 @@
 #4mo-33-39 {
  {
   Todesort Aarons: <a class='kom' href='#I4mo-33-30'>4.&nbsp;Mo&nbsp;33,30</a>.
+ }
+#}
+#4mo-33-40 {
+ {
+  Vgl §4mo-21-1
  }
 #}
 #4mo-33-41 {
@@ -33721,7 +33739,7 @@
 @2. Chronik 8 {
 #2chr-8-5 {
  {
-  <a class='kom' href='#I1ko-9-17'>1.&nbsp;Ko&nbsp;9,17</a>.
+  §+1koe-9-17.
   <br>Auch(?) Rehabeam baute feste Städte: <a class='kom' href='#I2chr-11-5'>2.&nbsp;Chr&nbsp;11,5</a>
  }
 #}
@@ -35026,7 +35044,7 @@
 #}
 #2chr-33-11 {
  {
-  In <a href='http://bibel.renenyffenegger.ch/2ckoe_21.html#v12'>2. Ckö 21,12 ff</a> fehlt zwar der Hinweis darauf, dass Manasse nach Babel gebracht wird, es wird
+  In §2koe-21-12-ff fehlt zwar der Hinweis darauf, dass Manasse nach Babel gebracht wird, es wird
   aber gesagt, dass über Jerusalem die Messschnur Samarias ausgespannt wird usw.
  }
  {
@@ -88587,7 +88605,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @2. Petrus 2 {
 #2petr-2-1 {
  {
-  <i>der sie erkauft hat</i> vgl §+1pejkr-1-18
+  <i>der sie erkauft hat</i> vgl §+1petr-1-18
  }
  {
   Siehe <a class='kom' href='#judas'>Vergleich 2. Petrus 2 mit Judas</a>.
