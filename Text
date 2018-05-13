@@ -9600,7 +9600,7 @@
 #}
 #2mo-21-25 {
  {
-  <i>Wunde</i> und </i>Strieme</i> vgl §1mo-4-23
+  <i>Wunde</i> und <i>Strieme</i> vgl §1mo-4-23
  }
 #}
 #2mo-21-26 {
@@ -10156,6 +10156,9 @@
  }
  {
   <i>… dass ich in ihrer → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels[Mitte] wohne</i> vgl §2mo-29-45-46.
+ }
+ {
+  Beachte: das Heiligtum soll nicht gemacht werden, damit Gott im Heiligtum, sondern damit er «in ihrer Mitte» wohnen kann (wörtl. «in ihnen»).
  }
  {
   TODO: Ist mit diesem <i>Heiligtum</i> die Stiftshütte gemeint. Falls ja, gibt es betreffend dieses Heiligtums eine
@@ -13089,6 +13092,8 @@
  }
  {
   Angeblich ist hier die Mitte der → biblisches/Bücher/Mose[Bücher Mose], gezählt nach Worten. Vgl §3mo-8-8, §3mo-11-42.
+  <br>
+  Vgl → biblisches/Talmud/Sedarim/Naschim/Kidduschin/Sopherim[Talmud, Traktat Kidduschin]
  }
 #}
 #3mo-10-17 {
@@ -13186,6 +13191,8 @@
    Entsprechend haben die → biblisches/Grundtext/Masoretischer-Text[Masoreten](?) in <span class='hebr'>גָּח֜וֹן</span> (Strongs 1512, hier übersetzt mit «Bauch») das Wav vergrössert.
    <br>
    Dieses Wort kommt übrigens nur noch in §1mo-3-14 vor. Hier könnte es den Bauch der Tora representieren.
+   <br>
+    Vgl → biblisches/Talmud/Sedarim/Naschim/Kidduschin/Sopherim[Talmud, Traktat Kidduschin]
  }
  {
    Siehe <a href='#typo_details'>Typografische Details im Alten Testament</a>.
@@ -13337,7 +13344,9 @@
 #3mo-13-33 {
  {
   In <span class='hebr'>וְהִ֨תְגַּלָּ֔ח</span> (Strongs 1548, hier übersetzt mit 'Scheren') ist das Gimmel vergrössert, siehe <a href='#typo_details'>Typografische Details im Alten Testament</a>.
-  Dieses Wort kommt vorher nur in <a href='http://bibel.renenyffenegger.ch/1mo_41.html#v14'>1.&nbsp;Mo&nbsp;41,14</a> vor.
+  Dieses Wort kommt vorher nur in §1mo-41-14 vor.
+  <br>
+   Vgl → biblisches/Talmud/Sedarim/Naschim/Kidduschin/Sopherim[Talmud, Traktat Kidduschin]
  }
 #}
 #3mo-13-38 {
@@ -40561,6 +40570,11 @@
   Vgl mit <a href='http://bibel.renenyffenegger.ch/4mo_11.html#v33'>4.&nbsp;Mo&nbsp;11,33</a>.
  }
 #}
+#ps-78-38 {
+ {
+  TODO: → biblisches/Talmud/Sedarim/Naschim/Kidduschin/Sopherim[Talmud, Traktat Kidduschin]
+ }
+#}
 #ps-78-41 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/versuchen
@@ -40669,8 +40683,10 @@
 #}
 #ps-80-14 {
  {
-   Das Ayin in <span class='hebr'>מִיָּ֑עַר</span> (Strongs 3293) ist der <i>mittlere Buchstabe der Psalmen</i> und hochgestellt (Vgl <a class='kom' href='#I3mo-11-42'>3.&nbsp;Mo&nbsp;11,42</a>), siehe auch
+   Das Ayin in <span class='hebr'>מִיָּ֑עַר</span> (Strongs 3293) ist der <i>mittlere Buchstabe der Psalmen</i> und hochgestellt (Vgl §+3mo-11-42), siehe auch
    <a href='#typo_details'>Typografische Details im Alten Testament</a>.
+   <br>
+    Vgl → biblisches/Talmud/Sedarim/Naschim/Kidduschin/Sopherim[Talmud, Traktat Kidduschin]
  }
 #}
 @}
