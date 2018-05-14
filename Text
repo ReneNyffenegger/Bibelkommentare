@@ -25285,6 +25285,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
   <br>Vgl mit der «Versammlung der Propheten» in §1sam-19-20.
  }
+ {
+  <i>Harfe und Tamburin und Flöte und Laute</i> vgl §jes-5-12
+ }
 #}
 #1sam-10-8 {
  {
@@ -28629,13 +28632,13 @@
 #}
 #1koe-9-28 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/2chr_8.html#v18'>2.&nbsp;Chr&nbsp;8,18</a> wo von 450 Talenten Gold von Ophir per Schiff die Rede ist.
-  Möglicherweise sind die 420 Talente die eines Jahres, während die 450 die kumulierten sind (<a class='kom' href='#I1koe-9-14'>1.&nbsp;Kö&nbsp;9,14</a>,
-  <a href='http://bibel.renenyffenegger.ch/1koe_10.html#v14'>1.&nbsp;Kö&nbsp;10,14</a>).
-  <br>Siehe auch <a class='kom' href='#I1chr-29-4'>1.&nbsp;Chr&nbsp;29,4</a>.
+  Vgl §2chr-8-18 wo von 450 Talenten Gold von Ophir per Schiff die Rede ist.
+  Möglicherweise sind die 420 Talente die eines Jahres, während die 450 die kumulierten sind (§+1koe-9-14,
+  §1koe-10-14).
+  <br>Siehe auch §+1chr-29-4.
  }
  {
-  Vgl §1koe-22-49, wo Josaphats Tarsisschiffe baute, um Gold in Ophir zu holen. Die Schiffe wurden in Ezjon-Geber zertrümmert.
+  Vgl §1koe-22-49, wo Josaphats Tarsisschiffe baute, um Gold in → biblisches/Orte/Ophir zu holen. Die Schiffe wurden in Ezjon-Geber zertrümmert.
  }
 #}
 @}
@@ -28681,6 +28684,11 @@
 #1koe-10-10 {
  {
   Parallel: <a href='http://bibel.renenyffenegger.ch/2chr_9.html#v9'>2.&nbsp;Chr&nbsp;9,9</a>.
+ }
+#}
+#1koe-10-11 {
+ {
+  → biblisches/Orte/Ophir
  }
 #}
 #1koe-10-14 {
@@ -29554,6 +29562,9 @@
  }
 #}
 #1koe-22-49 {
+ {
+  → biblisches/Orte/Ophir
+ }
  {
   §+1koe-9-28, §2chr-20-37, §ps-48-8
  }
@@ -33374,6 +33385,9 @@
 #}
 #1chr-29-4 {
  {
+  → biblisches/Orte/Ophir
+ }
+ {
   <i>Wände</i>: <a class='kom' href='#I1koe-6-21'>1.&nbsp;Kö&nbsp;6,21</a>.
  }
  {
@@ -33790,6 +33804,11 @@
   <br>Beachte auch, dass David betreffend den <i>Torhütern</i> (Vers 13) geboten hat, wovon im Gesetz auch nichts steht.
  }
 #}
+#2chr-8-18 {
+ {
+  → biblisches/Orte/Ophir
+ }
+#}
 @}
 @2. Chronik 9 {
 #2chr-9-1 {
@@ -33814,6 +33833,11 @@
 #2chr-9-9 {
  {
   Paralell: <a href='http://bibel.renenyffenegger.ch/1koe_10.html#v10'>1.&nbsp;Kö&nbsp;10,10</a>.
+ }
+#}
+#2chr-9-10 {
+ {
+  → biblisches/Orte/Ophir
  }
 #}
 #2chr-9-14 {
@@ -37807,6 +37831,9 @@
 #}
 #hi-22-24 {
  {
+  → biblisches/Orte/Ophir 
+ }
+ {
   <i>Gold</i>: <span class='hebr'>בֶּצֶר</span> (Strongs 1220): etwa 'Golderz' (?), siehe <a class='kom' href='#I5mo-4-43'>5.&nbsp;Mo&nbsp;4,43</a>.
  }
  {
@@ -37866,6 +37893,11 @@
  {
   KJV: 'He cutteth out rivers among the rocks': <i>rivers</i> ist der Plural von Strongs 2975 (welches zB in <a href='http://bibel.renenyffenegger.ch/1mo_41.html#v1'>1.&nbsp;Mo&nbsp;41,1</a>
   mit <i>Nil</i> übersetzt wird).
+ }
+#}
+#hi-28-11 {
+ {
+  → biblisches/Orte/Ophir
  }
 #}
 #hi-28-21 {
@@ -39576,6 +39608,9 @@
  }
 #}
 #ps-45-10 {
+ {
+  → biblisches/Orte/Ophir
+ }
  {
   TODO: <i>Gemahlin</i> (<span class='hebr'>שֵׁגָל</span>, Strongs 7694) wird in KJV mit 'Queen', in Elberfelder mit 'Königin' übersetzt.
  }
@@ -44602,6 +44637,9 @@
  {
   <i>Stäbchen</i> (KJV: 'rings'): <a class='kom' href='#Ijos-20-7'>Jos&nbsp;20,7</a>.
  }
+ {
+  <i>Chrysolith</i>: Elberfelder übersetzt mit «Topasen», Sch2K mit «Tarsisstein», KJV mit «beryl».
+ }
 #}
 #hl-5-15 {
  {
@@ -44870,6 +44908,11 @@
  }
  {
   1 Bat = 1 Epha = 1/10 Homer (<a href='http://bibel.renenyffenegger.ch/hes_45.html#v11'>Hes&nbsp;45,11</a>). Der Samen verringert sich also auf einen Zehntel.
+ }
+#}
+#jes-5-12 {
+ {
+  <i>Laute und Harfe, Tamburin und Flöte</i> vgl §1sam-10-5
  }
 #}
 #jes-5-13 {
@@ -45446,6 +45489,11 @@
  {
   <i>Sonne</i> und <i>Mond</i> die sich verfinstern: <a class='kom' href='#Imt-24-29'>Mt&nbsp;24,29</a>. Vgl
   mit <i>Sternen, die vom Himmel fallen</i>, ebenda.
+ }
+#}
+#jes-13-12 {
+ {
+  → biblisches/Orte/Ophir
  }
 #}
 #jes-13-17 {
@@ -54797,6 +54845,11 @@
 }
 { Habakuk
 @Habakuk 1 {
+#hab-1-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
+ }
+#}
 #hab-1-5 {
  {
   Dieser Vers wird in <a href='http://bibel.renenyffenegger.ch/apg_13.html#v41'>Apg&nbsp;13,41</a> verwendet, um die Juden
@@ -70381,7 +70434,8 @@
 #}
 #apg-13-41 {
  {
-   Zitat stammt aus <a class='kom' href='#Ihab-1-5'>Hab&nbsp;1,5</a> (offenbar sinngemäss nach Habakuk zitiert).
+   Das Zitat stammt aus §+hab-1-5 (offenbar sinngemäss nach Habakuk zitiert). → biblisches/Personen/Paulus zitiert → biblisches/Bücher/prophetisch/12-Kleine/Habakuk (§hab-2-4) in
+   §roem-1-17.
  }
 #}
 #apg-13-42 {
@@ -73116,6 +73170,7 @@
   <i>Der Gerechte wird aus Glauben leben</i>: §+hab-2-4, §gal-3-11, §hebr-10-38
   <br>Vgl mit «der Gerechtigkeit, die aus dem Gesetz kommt»: §+roem-10-5.
   <br>Vgl auch §roem-2-13
+  <br>→ biblisches/Personen/Paulus zitiert → biblisches/Bücher/prophetisch/12-Kleine/Habakuk auch in §apg-13-41 (§hab-1-5).
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
