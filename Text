@@ -319,6 +319,9 @@
   Beachte: am fünften Tag gibt es kein «Und es geschah so».
  }
  {
+  <i>Es wimmeln die Wasser vom Gewimmel lebendiger Wesen …</i> vgl §ps-104-25
+ }
+ {
   TODO: <i>Himmelsausdehnung</i>: auch hier kommt 'Angesicht', Strongs 6440 vor.
  }
 #}
@@ -549,7 +552,7 @@
   §1kor-15-45
  }
  {
-  <i>Staub vom Erdboden</i> vgl §ps-90-3, §ps-103-14
+  <i>Staub vom Erdboden</i> vgl §ps-90-3, §ps-103-14, §ps-104-29
  }
 #}
 #1mo-2-8 {
@@ -7760,7 +7763,7 @@
 #2mo-7-3 {
  {
   Nach den 10 Plagen wird betont, dass der Pharao nicht hören würde, 'damit meine Wunder zahlreich werden im Land Ägypten.'.
-  (<a href='http://bibel.renenyffenegger.ch/2mo_11.html#v9'>2.&nbsp;Mo&nbsp;11,9</a>)
+  (§2mo-11-9)
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder#zeichen-wunder-auszug-aegypten
@@ -41524,7 +41527,7 @@
 #}
 #ps-104-14 {
  {
-  Vgl ps-147-9
+  Vgl §ps-147-9
  }
 #}
 #ps-104-15 {
@@ -41540,12 +41543,20 @@
    Vgl §spr-3-19
  }
 #}
+#ps-104-25 {
+ {
+  <i>wimmelt's ohne Zahl</i> vgl §1mo-1-20
+ }
+#}
 #ps-104-26 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Leviathan
  }
 #}
 #ps-104-29 {
+ {
+  <i>Staub</i> §+1mo-2-7
+ }
  {
   §+offb-11-11
  }
@@ -41687,7 +41698,7 @@
 #}
 #ps-105-28 {
  {
-   Es sind hier zwar nicht alle Plagen der <a href='#zehn_plagen'>10 Plagen</a> aufgezählt, aber mit Ausnahme der <i>Finsternis</i> in der richtigen Reihenfolge.
+   Es sind hier zwar nicht alle Plagen der → biblisches/Bücher/Mose/2/Zehn-Plagen[10 Plagen] aufgezählt, aber mit Ausnahme der <i>Finsternis</i> in der richtigen Reihenfolge.
  }
 #}
 #ps-105-34 {
@@ -86578,7 +86589,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-11-8 {
  {
-  Vgl §+roem-1-5
+  <i>Durch Glauben … gehorsam</i> vgl §+roem-1-5
  }
 #}
 #hebr-11-10 {
