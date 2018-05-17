@@ -1332,7 +1332,7 @@
 #}
 #1mo-6-14 {
  {
-  <i<Kammern</i>: <span class='hebr'>קִנִּ֖ים</span> (Strongs 7064): dieses Wort wird in allen anderen Stellen mit «Nest» übersetzt.
+  <i>Kammern</i>: <span class='hebr'>קִנִּ֖ים</span> (Strongs 7064): dieses Wort wird in allen anderen Stellen mit «Nest» übersetzt.
  }
  {
   Vgl mit der → biblisches/Eigene-Uebersetzung/Konkordanz/Lade: §2mo-25-10
@@ -1376,7 +1376,8 @@
 #}
 #1mo-6-16 {
  {
-  <i>Lichtöffnung</i> (<span class='hebr'>צֹהַר</span>, Strongs 6672): dies ist wohl das Fenster, das Noah in <a href='http://bibel.renenyffenegger.ch/1mo_8.html#v6'>1.&nbsp;Mo&nbsp;8,6</a> öffnete.
+  <i>Lichtöffnung</i> (<span class='hebr'>צֹהַר</span>, Strongs 6672): dies ist wohl das Fenster, das Noah in §1mo-8-6 öffnete.
+  Dieses Wort wird in vielen Stellen mit «Mittag» übersetzt.
  }
 #}
 #1mo-6-17 {
@@ -20547,6 +20548,11 @@
   <i>Geschwüre Ägyptens</i>: <a class='kom' href='#I2mo-9-9'>2. Mo 9,9 ff</a>.
  }
 #}
+#5mo-28-29 {
+ {
+  <i>Mittag</i>: <span class='hebr'>צֹהַר</span> (Strongs 6672), wird z. B. in §1mo-6-16 mit Licht(öffnung) übersetzt.
+ }
+#}
 #5mo-28-32 {
  {
    <i>Macht deiner Hand</i>: §+1mo-31-9.
@@ -30862,7 +30868,10 @@
 #}
 #2koe-19-29 {
  {
-  TODO: <a class='kom' href='#I3mo-25-22'>3.&nbsp;Mo&nbsp;25,22</a>.
+  §jes-37-30
+ }
+ {
+  TODO: §+3mo-25-22.
  }
 #}
 #2koe-19-34 {
