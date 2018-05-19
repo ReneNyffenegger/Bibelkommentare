@@ -7195,6 +7195,9 @@
   Offenbar ist auch Aaron im → biblisches/Eigene-Uebersetzung/Konkordanz/Haus/Pharao aufgewachsen: §1sam-2-27.
  }
  {
+  <i>Aus dem Wasser gezogen</i> vgl §ps-18-17
+ }
+ {
   TODO: Wann und wo erhält Mose den Auftrag, mit dem Volk aus Ägypten zu ziehen.
   (Vgl mit <a href='http://bibel.renenyffenegger.ch/hebr_11.html#v25'>Hebr 11,25-29</a>).
  }
@@ -9208,10 +9211,16 @@
  {
   → biblisches/Personen/Mose, der → biblisches/Eigene-Uebersetzung/Konkordanz/Fremdling, vgl §+2mo-2-22
  }
+ {
+  <i>Zwei Söhne von → biblisches/Personen/Mose und Zippora</i>: §apg-7-29
+ }
 #}
 #2mo-18-4 {
  {
-  Elieser ist wohl in Midian geboren (<a class='kom' href='#I2mo-2-22'>2.&nbsp;Mo&nbsp;2,22</a>).
+  Elieser ist wohl in → biblisches/Orte/Midian geboren, §+2mo-2-22
+ }
+ {
+  <i>und der Name des anderen</i>: <span class='hebr'>וְשֵׁם הָאֶחָד</span>, also wörtlich «Name eins» (gleich wie in §V2mo-18-3).
  }
 #}
 #2mo-18-9 {
@@ -27720,6 +27729,11 @@
   <i>Haus des HERRN</i>: <a class='kom' href='#I2mo-23-19'>2.&nbsp;Mo&nbsp;23,19</a>.
  }
 #}
+#2sam-22-17 {
+ {
+  Parallel: §ps-18-17
+ }
+#}
 #2sam-22-24 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen#vollkommener-mensch
@@ -38898,6 +38912,14 @@
 #ps-18-12 {
  {
   TODO <i>Zelt</i>: Strongs 5521, was sonst mit 'Laubhütte' übersetzt wird (<a class='kom' href='#I3mo-23-34'>3.&nbsp;Mo&nbsp;23,34</a>).
+ }
+#}
+#ps-18-17 {
+ {
+  Parallel: §2sam-22-17
+ }
+ {
+  <i>er zog mich aus grossen Wassern</i>: §2mo-2-10.
  }
 #}
 #ps-18-21 {
@@ -69268,6 +69290,9 @@
   <a class='kom' href='#I2mo-3-2'>2.&nbsp;Mo&nbsp;3,2</a>/
   <a href='http://bibel.renenyffenegger.ch/2mo_4.html#v19'>2.&nbsp;Mo&nbsp;4,19</a> in Midian.
  }
+ {
+  <i>Zwei Söhne von Mose</i> vgl §2mo-18-2-ff
+ }
 #}
 #apg-7-30 {
  {
@@ -87111,7 +87136,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-11-24 {
  {
-  <a class='kom' href='#I2mo-2-15'>2.&nbsp;Mo&nbsp;2,15</a>.
+  <i>als er gross geworden war</i>: §+2mo-2-11
  }
 #}
 #hebr-11-25 {
