@@ -7422,6 +7422,9 @@
  {
   «Ich bin, der ich bin» <span class='hebr'>אֶֽהְיֶ֖ה אֲשֶׁ֣ר אֶֽהְיֶ֑ה</span> (Strongs 1961 834 1961). Vgl mit dem Namen Gottes (→ biblisches/Grundtext/Tetragrammaton, Jehova): <span class='he'>יְהֹוָה</span> (Strongs 3068).
  }
+ {
+  <i>… zu euch gesandt</i> vgl §joh-17-18
+ }
 #}
 #2mo-3-15 {
  {
@@ -14382,6 +14385,11 @@
 #}
 @}
 @3. Mose 22 {
+#3mo-22-2 {
+ {
+  <i>meinen heiligen Namen nicht entweihen</i>: §V3mo-22-32, §3mo-24-11-ff, §5mo-5-11
+ }
+#}
 #3mo-22-3 {
  {
   <i>selbige Seele soll ausgerottet werden vor meinem Angesicht</i>: diese Formel kommt offenbar nur ein Mal vor (S. aber §jes-48-19). Vgl
@@ -14700,6 +14708,9 @@
  }
  {
   <i>Selomit</i> <span class='hebr'>שְׁלֹמִית</span> = Friedlich.
+ }
+ {
+  <i>den Namen des HERRN lästern</i> vgl §+3mo-22-2
  }
 #}
 #3mo-24-12 {
@@ -19258,6 +19269,11 @@
  }
  {
   <i>die mich lieben</i>: §+2mo-20-6.
+ }
+#}
+#5mo-5-11 {
+ {
+  Vgl §+3mo-22-2
  }
 #}
 #5mo-5-12 {
@@ -27133,6 +27149,11 @@
    TODO: Ist das die einzige Stelle, wo jemand beim Gebet sitzt? Vgl auch den in Vers 27 angesprochenen Mut.
  }
 #}
+#2sam-7-23 {
+ {
+  TODO: Parallel §1chr-17-21?
+ }
+#}
 #2sam-7-28 {
  {
   <i>deine Worte sind Wahrheit</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Wahrheit
@@ -28325,6 +28346,9 @@
 #1koe-5-11 {
  {
   Etan, der Esrachiter hat den <a href='http://bibel.renenyffenegger.ch/ps_89.html#v1'>89. Psalm</a> geschrieben. Vgl §ps-88-1
+ }
+ {
+  Vgl <i>Salomos Name unter allen Nationen</i> mit dem Namen Davids, der in alle Länder ausging, §1chr-14-17
  }
  {
   TODO: Heman, Kalkol und Dara (nicht Darda!) kommen auch in §1chr-2-6 vor (aber als Söhne Searchs, des Juda).
@@ -32825,6 +32849,11 @@
   TODO: → biblisches/Personen/David schlägt die Philister <i>zwischen</i> seinen zwei Bundesladen-Aktionen. (Obed-Edom, Jerusalem).
  }
 #}
+#1chr-14-17 {
+ {
+  Vgl den <i>Namen Davids, der in alle Länder ausging</i> mit dem Namen Salomos: §1koe-5-11
+ }
+#}
 @}
 @1. Chronik 15 {
 #1chr-15-10 {
@@ -33115,6 +33144,11 @@
 #1chr-17-16 {
  {
   Dies ist offenbar die einzige Stelle in der Bibel, wo sich jemand vor Gott gesetzt hat, um zu beten.
+ }
+#}
+#1chr-17-21 {
+ {
+  TODO: Parallel: §2sam-7-23?
  }
 #}
 @}
@@ -67675,6 +67709,9 @@
  }
 #}
 #joh-17-18 {
+ {
+  <i>gleichwie du mich in die Welt gesandt hast</i> vgl §2mo-3-14
+ }
  {
   Vgl §joh-20-21.
  }
