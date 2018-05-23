@@ -9154,7 +9154,7 @@
 #}
 #2mo-17-7 {
  {
-  <i>Meriba</i>: siehe <a class='kom' href='#I4mo-20-13'>4.&nbsp;Mo&nbsp;20,13</a>.
+  <i>Meriba</i>: siehe §+4mo-20-13, vgl §ps-106-32
  }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels[Ist der HERR in unserer Mitte oder nicht]
@@ -16225,6 +16225,9 @@
   <i>Wer wird uns Fleisch zu essen geben</i>: vgl <a class='kom' href='#I2mo-16-3'>2.&nbsp;Mo&nbsp;16,3</a>.
  }
  {
+  TODO: Vgl §ps-106-14
+ }
+ {
   TODO: gemäss <a href='http://bibel.renenyffenegger.ch/ps_78.html#v20'>Ps&nbsp;78,20</a> wurde erst der Felsen geschlagen (was in <a href='http://bibel.renenyffenegger.ch/2mo_17.html#v6'>2.&nbsp;Mo&nbsp;17,6</a>
   beschrieben wird), und dann fragt das Volk: 'Kann er aber auch Brot geben? Wird er seinem Volk Fleisch verschaffen?'.
   <br>Beachte aber auch, dass gemäss <a href='http://bibel.renenyffenegger.ch/ps_78.html#v15'>Ps&nbsp;78,15</a> mehrere Felsen gespalten wurden.
@@ -16536,6 +16539,9 @@
  }
 #}
 #4mo-13-32 {
+ {
+  TODO: vgl §ps-106-24
+ }
  {
   <i>Leute von hohem Wuchs</i>: <span class='hebr'>אַנְשֵׁ֥י מִדּֽוֹת</span> (Strongs 582(Oder 376?) 4060).
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/jes_45.html#v14'>Jes&nbsp;45,14</a>.
@@ -17608,7 +17614,7 @@
   <i>Peor</i>: Siehe <a class='kom' href='#I4mo-23-19'>4.&nbsp;Mo&nbsp;23,19</a>.
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/ps_106.html#v28'>Ps&nbsp;106,28</a>.
+  Vgl §ps-106-28.
  }
 #}
 #4mo-25-6 {
@@ -17619,6 +17625,9 @@
 #4mo-25-7 {
  {
   → biblisches/Personen/Eleasar/Aaron
+ }
+ {
+  → biblisches/Personen/Pinehas, vgl §ps-106-30
  }
 #}
 #4mo-25-9 {
@@ -42033,7 +42042,10 @@
 #}
 #ps-106-14 {
  {
-  <a class='kom' href='#Ips-95-9'>Ps&nbsp;95,9</a>.
+  Vgl §4mo-11-4
+ }
+ {
+  TODO: §+ps-95-9. 
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/versuchen
@@ -42081,19 +42093,24 @@
   Vgl §2mo-32-11
  }
 #}
+#ps-106-24 {
+ {
+  TODO: vgl §4mo-13-32
+ }
+#}
 #ps-106-27 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/unter-die-Nationen-verstreut
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/unter-die-Nationen-verstreut, vgl §Vps-106-35, §Vps-106-41, §Vps-106-47
  }
 #}
 #ps-106-28 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/4mo_25.html#v3'>4.&nbsp;Mo&nbsp;25,3</a>.
+  Vgl §4mo-25-3.
  }
 #}
 #ps-106-30 {
  {
-  <a href='http://bibel.renenyffenegger.ch/4mo_25.html#v7'>4. Mo 25,7/11-13</a>: Pinehas wird der Bund des Friedens
+  <a href='http://bibel.renenyffenegger.ch/4mo_25.html#v7'>4. Mo 25,7/11-13</a>: → biblisches/Personen/Pinehas wird der Bund des Friedens
   ihm und seinem Samen soll der Bund eines ewigen Priestertums zufallen, weil er für Gott geeifert hat und so Sühnung
   erwirkt hat.
  }
@@ -42105,7 +42122,14 @@
 #}
 #ps-106-32 {
  {
-  <i>Haderwasser</i>: <a href='http://bibel.renenyffenegger.ch/4mo_20.html#v1'>4.&nbsp;Mo&nbsp;20,1-13</a>, <a class='kom' href='#I4mo-20-13'>4.&nbsp;Mo&nbsp;20,13</a>.
+  <i>Haderwasser</i>: §4mo-20-1-13, §+4mo-20-13.
+  <br>
+  <i>Meriba</i>: §+2mo-17-7
+ }
+#}
+#ps-106-35 {
+ {
+  <i>sich mit den Nationen vermischen</i>: §Vps-106-27
  }
 #}
 #ps-106-37 {
