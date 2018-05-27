@@ -28609,19 +28609,15 @@
 #}
 #1koe-7-23 {
  {
-  <i>Schnur</i> ist hier <span class='hebr'><span class='grey'>ו</span>קוה</span> (wie offenbar auch in <a href='http://bibel.renenyffenegger.ch/jer_31.html#v39'>Jer&nbsp;31,39</a>
-  und <a href='http://bibel.renenyffenegger.ch/sach_1.html#v16'>Sach&nbsp;1,16</a>). Sonst wird es <span class='hebr'>קָו</span> (Strongs 6957) geschrieben.
-  <br>TODO: Strongs 6957 wird an andern Orten auch mit 'Messschnu' übersetzt (zb <a href='http://bibel.renenyffenegger.ch/hi_38.html#v5'>Hi&nbsp;38,5</a>).
-  <table summary='.'>
-     <tr><td>ה</td><td>ו</td><td>ק</td><td></td></tr>
-     <tr><td>100</td><td>+6</td><td>+5</td><td>=<b>111</b></td></tr>
-     <tr><td>ו</td><td>קָ</td><td> </td><td></td></tr>
-     <tr><td>100</td><td>+6</td><td> </td><td>=<b>106</b></td></tr>
-  </table>
-   3 * 111/106 = 3.141509...
+  <i>Schnur</i> ist hier <span class='hebr'><span class='grey'>ו</span>קוה</span>, mit dem Zahlenwert 111.
+  In der Parallelstelle §2chr-4-2 wird das Wort ohne → biblisches/Grundtext/Buchstaben/He[ה] geschrieben und hat dort den Zahlenwert 106.
+  Es gilt nun 3 * 111/106 = → biblisches/Grundtext/Zahlen#pi[3.141509…]!
  }
  {
    TODO: http://ad2004.com/prophecytruths/Articles/mathmystery.html
+ }
+ {
+  TODO: <i>Rand</i> heisst eigentlich «Mund». <i>Öffnung</i> in §V1koe-7-31 heisst eigentlich «Mund».
  }
 #}
 #1koe-7-25 {
@@ -28642,6 +28638,11 @@
  }
  {
   <i>Becher</i> (Strongs 3563): <a class='kom' href='#I1mo-40-11'>1.&nbsp;Mo&nbsp;40,11</a>
+ }
+#}
+#1koe-7-32 {
+ {
+  <i>Vier Räder</i> vgl §hes-10-9
  }
 #}
 #1koe-7-40 {
@@ -33866,6 +33867,11 @@
   Die Grundfläche des Altars entspricht jener des Allerheiligsten, aber der Altar ist nur halb so hoch
          (<a href='http://bibel.renenyffenegger.ch/1koe_6.html#v20'>1.&nbsp;Kö&nbsp;6,20</a>).
          <br>Podium: <a href='http://bibel.renenyffenegger.ch/2chr_6.html#v5'>2.&nbsp;Chr&nbsp;6,5</a>.
+ }
+#}
+#2chr-4-2 {
+ {
+  Versteckter Wert von → biblisches/Grundtext/Zahlen#pi[π] siehe §1koe-7-23.
  }
 #}
 #2chr-4-4 {
@@ -39108,6 +39114,11 @@
   <i>Name Gottes</i> vgl Vers 6 und 8.
  }
 #}
+#ps-20-6 {
+ {
+  <i>Jehova erfülle alle deine Bitten</i> vgl §ps-37-4
+ }
+#}
 @}
 }
 { 21-30
@@ -39663,6 +39674,9 @@
  }
 #}
 #ps-37-4 {
+ {
+  <i>so wird er dir geben die Bitten deines Herzens.</i> vgl §ps-20-6
+ }
  {
   <i>An dem HERRN ergötzen</i>: §jes-58-14
  }
@@ -49856,6 +49870,9 @@
  {
   <i>Gareb</i> ist auch einer der Helden Davids (<a class='kom' href='#I2sam-23-38'>2.&nbsp;Sam&nbsp;23,38</a>).
  }
+ {
+  <i>Messschnur</i> vgl §sach-1-16
+ }
 #}
 #jer-31-40 {
  {
@@ -51556,6 +51573,9 @@
 #hes-10-9 {
  {
   <i>Chrysolith</i>: <a class='kom' href='#I2mo-28-20'>2.&nbsp;Mo&nbsp;28,20</a>.
+ }
+ {
+  <i>Vier Räder</i> vgl §1koe-7-32
  }
 #}
 #hes-10-15 {
@@ -55764,6 +55784,9 @@
 #sach-1-16 {
  {
   §+esr-5-1-ff
+ }
+ {
+  <i>Messschnur</i> vgl §jer-31-39
  }
  {
   Unter dem König Manasse versprach der HERR (TODO: wohl als Gerichtsandrohung), dass er über Jerusalem die Messschnur Samarias ausspannen will
