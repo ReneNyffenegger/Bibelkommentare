@@ -38582,7 +38582,7 @@
 #}
 #ps-2-9 {
  {
-  <i>Eisernes Zepter</i> vgl §offb-2-27, §offb-12-5, §offb-19-15
+  <i>Eisernes Zepter</i> vgl §offb-2-27, §offb-12-5, §offb-19-15, §ps-110-2
  }
 #}
 #ps-2-11 {
@@ -39142,6 +39142,11 @@
    Vgl §joh-16-32, §ps-71-11
  }
 #}
+#ps-22-8 {
+ {
+  <i>den Kopf schütteln</i> vgl §ps-109-25
+ }
+#}
 #ps-22-19 {
  {
    <a class='kom' href='#Imt-27-35'>Mt&nbsp;27,35</a>.
@@ -39151,7 +39156,7 @@
  {
   Verweis: §hebr-2-12. Beachte: In §hebr-2-11 wird ausdrücklich darauf hingewiesen, dass hier der Herr selbst spricht.
   <br>
-   Vgl §joh-17-6
+   Vgl §joh-17-6, §ps-109-30
  }
 #}
 #ps-22-26 {
@@ -39806,6 +39811,11 @@
 #ps-40-16 {
  {
   <i>Haha</i>: <a class='kom' href='#Ihi-39-25'>Hi&nbsp;39,25</a>.
+ }
+#}
+#ps-40-18 {
+ {
+  <i>elend und arm</i> vgl §ps-70-6, §ps86-1, §ps-109-16, §ps-109-22
  }
 #}
 @}
@@ -42292,6 +42302,14 @@
 #}
 @}
 @Psalm 109 {
+#ps-109-6 {
+ {
+  <i>Widersacher</i>: KJV übersetzt mit «Satan».
+ }
+ {
+  <i>zu seiner Rechten</i> vgl §Vps-109-31.
+ }
+#}
 #ps-109-8 {
  {
   <i>Sein Amt</i> bezieht sich offenbar auf Judas (<a href='http://bibel.renenyffenegger.ch/apg_1.html#v20'>Apg&nbsp;1,20</a>).
@@ -42302,18 +42320,47 @@
   Frage: wie können Kinder eines Mannes Waisen werden, wenn die Frau (also die Mutter der Kinder) noch lebt und Witwe ist?
  }
 #}
+#ps-109-25 {
+ {
+  <i>den Kopf schütteln</i> vgl §ps-22-8
+ }
+#}
+#ps-109-30 {
+ {
+  <i>inmitten vieler werde ich ihn loben.</i> vgl §+hebr-2-12, §ps-22-23
+ }
+#}
+#ps-109-31 {
+ {
+  <i>zur Rechten des Armen</i> vgl §Vps-109-6 und den ersten Vers des nächsten Psalmes: §ps-110-1
+ }
+#}
 @}
 @Psalm 110 {
 #ps-110-1 {
  {
-  TODO: <i>Zur Rechten</i>.
-  <br>Vgl <a class='kom' href='#Isach-3-1'>Sach&nbsp;3,1</a>.
+  <i>Zur Rechten</i>: vgl den letzten Vers des letzen Psalmes: §ps-109-31
+  <br>Vgl §+sach-3-1.
   §1koe-22-19
+ }
+ {
+  <i>bis ich deine Feinde lege zum Schemel deiner Füße</i> vgl §k1or-15-25-ff 
+ }
+ {
+  Verweis: §apg-2-34-35
  }
 #}
 #ps-110-2 {
  {
-  'Zepter' (Strongs 4294): dasselbe Wort wie für Stab, siehe <a class='kom' href='#I1mo-38-18'>1.&nbsp;Mo&nbsp;38,18</a>.
+  Vgl §ps-2-9
+ }
+ {
+  TODO: 'Zepter' (Strongs 4294): dasselbe Wort wie für Stab, siehe <a class='kom' href='#I1mo-38-18'>1.&nbsp;Mo&nbsp;38,18</a>.
+ }
+#}
+#ps-110-3 {
+ {
+  Vgl <i>dein Volk<i> mit den «Nationen» in §Vps-110-6
  }
 #}
 #ps-110-4 {
@@ -68647,6 +68694,9 @@
 #}
 #apg-2-34 {
  {
+  Verweis: §ps-110-1
+ }
+ {
   <i>aufgefahren</i> vgl §ps-68-19
  }
 #}
@@ -78118,7 +78168,7 @@
 #}
 #1kor-15-25 {
  {
-  Siehe <a href='#Iapg-2-35'>Apg&nbsp;2,35</a> wo der Herr dem Herrn die Feinde unter die Füsse legt.
+  Siehe §apg-2-35 (und §ps-110-1) wo der Herr dem Herrn die Feinde unter die Füsse legt.
  }
 #}
 #1kor-15-27 {
@@ -86217,7 +86267,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-2-12 {
  {
-  Verweis §ps-22-23
+  Verweis §ps-22-23.
+ <br>
+  Vgl §ps-109-30
  }
 #}
 #hebr-2-14 {
