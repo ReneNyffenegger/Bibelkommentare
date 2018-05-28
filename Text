@@ -3413,6 +3413,9 @@
 #}
 #1mo-18-6 {
  {
+  <i>Eine Frau mit drei Maß Feinmehl</i> vgl §mt-13-33, §lk-13-21
+ }
+ {
   <table summary='.' style='border:black 1px solid'>
     <tr><td style='margin-right:55px'>Abram</td><td>  </td><td>Lot (<a href='http://bibel.renenyffenegger.ch/1mo_19.html#v3'>1.&nbsp;Mo&nbsp;19,3</a>)</td></tr>
     <tr><td>Brotfladen (aus drei Mass Feinmehl)</td><td> </td><td>ungesäuerte Brotfladen</td></tr>
@@ -28376,6 +28379,11 @@
   Auch Husai ist ein → biblisches/Eigene-Uebersetzung/Konkordanz/Freund von → biblisches/Personen/David: §2sam-15-37, §2sam-16-16, §1chr-27-33
  }
 #}
+#1koe-5-18 {
+ {
+  <i>kein Widersacher mehr</i> vgl §1koe-11-14
+ }
+#}
 #1koe-5-20 {
  {
    TODO: Siehe <a class='kom' href='#Ijos-9-21'>Jos&nbsp;9,21</a>.
@@ -28998,6 +29006,9 @@
 #1koe-11-14 {
  {
   Es gab auch in der Aufzählung von <i>Königen in Edom</i> einen <i>Hadad</i>: <a href='http://bibel.renenyffenegger.ch/1mo_36.html#v39'>1.&nbsp;Mo&nbsp;36,39</a> .
+ }
+ {
+  <i>Der HERR erweckte einen Widersacher</i> vgl §1koe-5-18, §V1koe-11-23.
  }
  {
   Vgl <i>Hadad</i> mit <i>Hadad-Eser</i> in <a href='http://bibel.renenyffenegger.ch/1koe_11.html#v23'>Vers 23</a>.
@@ -58478,7 +58489,10 @@
 #}
 #mt-13-33 {
  {
-  <i>Sauerteig</i>: <span class='gr'>ζύμη</span> (Strongs 2219). Vgl «durchsäuert» (Strongs 106) in <a class='kom' href='#Imt-26-17'>Mt&nbsp;26,17</a>.
+  <i>Eine Frau und drei Mass Sauerteig</i> vgl §1mo-18-6, §lk-13-21
+ }
+ {
+  <i>Sauerteig</i>: <span class='gr'>ζύμη</span> (Strongs 2219). Vgl «durchsäuert» (Strongs 106) in §+mt-26-17.
  }
 #}
 #mt-13-35 {
@@ -64096,6 +64110,9 @@
  }
 #}
 #lk-13-21 {
+ {
+  <i>Eine Frau und drei Mass Sauerteig</i> vgl §1mo-18-6, §mt-13-33
+ }
  {
   Vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse[Gleichnis] des Sauerteigs.
  }
