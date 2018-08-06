@@ -40746,8 +40746,8 @@
 #}
 #ps-72-14 {
  {
-   <i>Blut, das kostbar ist</i>: Vgl mit <a href='http://bibel.renenyffenegger.ch/ps_116.html#v15'>Ps&nbsp;116,15</a>.
-   <br>Beachte auch, das Christi Blut kostbar ist: <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v19'>1.&nbsp;Petr&nbsp;1,19</a>.
+   <i>Blut, das kostbar ist</i>: Vgl mit §ps-116-15.
+   <br>Beachte auch, das Ch,isti Blut kostbar ist: §1petr-1-19.
  }
 #}
 #ps-72-15 {
@@ -42511,6 +42511,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben
  }
 #}
+#ps-116-11 {
+ {
+  <i>Alle Menschen sind Lügner</i> vgl §roem-3-4
+ }
+#}
 #ps-116-13 {
  {
     TODO: <i>Kelch meines Heils</i>.
@@ -42523,7 +42528,7 @@
 #}
 #ps-116-15 {
  {
-  <i>kostbarer Tot der Getreuen</i>: vgl <a class='kom' href='#Ips-72-14'>Ps&nbsp;72,14</a>.
+  <i>kostbarer Tod der Getreuen</i>: vgl §+ps-72-14.
  }
 #}
 #ps-116-16 {
@@ -42553,6 +42558,14 @@
 #ps-118-1 {
  {
   <i>Dank</i> in den Psalmen: <a class='kom' href='#Ips-50-14'>Ps&nbsp;50,14</a>.
+ }
+ {
+  Beachte: dieser Psalm beginnt mit den selben Worten, mit denen er auch aufhört.
+ }
+#}
+#ps-118-6 {
+ {
+  Vgl §roem-8-31
  }
 #}
 #ps-118-14 {
@@ -74252,6 +74265,9 @@
  {
   Verweis §+ps-51-6.
  }
+ {
+  <i>jeer Mensch aber Lügner</i> vgl §ps-116-11
+ }
 #}
 #roem-3-5 {
  {
@@ -74918,7 +74934,7 @@
 #}
 #roem-8-31 {
  {
-  <i>Wenn Got für uns ist …</i> vgl §ps-56-10
+  <i>Wenn Got für uns ist …</i> vgl §ps-56-10, §ps-118-6
  }
 #}
 #roem-8-32 {
