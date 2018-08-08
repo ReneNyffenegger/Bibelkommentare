@@ -21062,7 +21062,7 @@
 #}
 #5mo-32-43 {
  {
-  <i>Jubelt, ihr Nationen, mit seinem Volk</i> in <a class='kom' href='#Iroem-15-10'>R&ouml;m&nbsp;15,10</a> zitiert.
+  <i>Jubelt, ihr Nationen, mit seinem Volk</i> in §+roem-15-10 zitiert. Vgl §offb-18-20
  }
  {
   Dies ist wohl das Ende des <i>Liedes des Mose</i> (<a class='kom' href='#Ioffb-15-3'>Offb&nbsp;15,3</a>), welches in <a href='http://bibel.renenyffenegger.ch/5mo_31.html#v19'>5.&nbsp;Mo&nbsp;31,19</a> beginnt.
@@ -86120,15 +86120,16 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Luther 1912 übersetzt <i>Hat er am letzten dieser Tagen zu uns geredet...</i>.
  }
  {
-  <i>geredet durch den Sohn</i>: §+mt-27-11.
+  Vgl <i>diese letzten Tage</i> mit der «zukünftigen Welt, von der wir reden» in §hebr-2-5.
  }
  {
-  Vgl <i>diese letzten Tage</i> mit der «zukünftigen Welt, von der wir reden» in <a href='http://bibel.renenyffenegger.ch/hebr_2.html#v5'>Hebr&nbsp;2,5</a>.
-  <br>TODO: Ist dies die einzige Stelle wo von <i>diesen letzten Tagen</i> mit dem Demonstrativpronomen <span class='gr'>τούτων</span> (Strongs 5130) geschrieben wird?
+  TODO: Ist dies die einzige Stelle wo von <i>diesen letzten Tagen</i> mit dem Demonstrativpronomen <span class='gr'>τούτων</span> (Strongs 5130) geschrieben wird?
   <br>Offensichtlich kommt diese Wendung zwar im TR, nicht aber im MT vor.
  }
  {
-  <i>hat er … zu uns geredet</i> Vgl mit §hebr-12-25
+  <i>geredet durch den Sohn</i>: §+mt-27-11.
+  <br>
+  <i>hat er … zu uns geredet</i> Vgl mit §hebr-2-1, §hebr-12-25
  }
  {
   <i>durch den er auch die Welten gemacht hat</i> vgl §joh-1-3, §kol-1-16
@@ -86204,7 +86205,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-1-12 {
  {
-  <i>verwandeln</i> <span class='gr'>ἀλλάσσω</span> (Strongs 236) wird in Elberfelder mit «verwandelt», in KJV mit «shall be changed» übersetzt.
+  <i>verwandeln</i> <span class='gr'>ἀλλάσσω</span> (Strongs 236) wird in Sch2K mit «ausgewechselt», in KJV mit «shall be changed» übersetzt.
  }
  {
   Vgl §+hebr-13-8.
@@ -86215,6 +86216,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 @}
 @Hebräer 2 {
+#hebr-2-1 {
+ {
+  <i>auf das achten, was wir gehört haben</i>: §+hebr-1-2
+ }
+#}
 #hebr-2-2 {
  {
   Das Gesetz von Engeln übermittelt: <a class='kom' href='#I2mo-20-1'>2.&nbsp;Mo&nbsp;20,1</a>.
@@ -86238,7 +86244,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-2-5 {
  {
-  <i>zukünftige Welt</i>: <a class='kom' href='#Ihebr-1-2'>Hebr&nbsp;1,2</a>.
+  <i>zukünftige Welt</i>: §+hebr-1-2, §hebr-1-6.
  }
 #}
 #hebr-2-6 {
@@ -87345,10 +87351,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Personen/Abel
  }
  {
+  <i>durch ihn redet er noch</i> vgl §hebr-12-24.
+  <br>
   <i>durch ihn</i>: Im Griechischen kann sich das «ihn» sowohl auf den Glauben wie auch auf das Opfer beziehen. Vgl §Vhebr-11-7
  }
  {
-  Vgl <a class='kom' href='#I1mo-4-4'>1.&nbsp;Mo&nbsp;4,4</a>.
+  Vgl §+1mo-4-4.
  }
  {
   TODO: Erhielt Abel das Zeugnis durch den Glauben, oder durch das Opfer?
@@ -87711,13 +87719,16 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-12-24 {
  {
+  <i>…das besser redet als Abel</i>: vgl §hebr-11-4
+ }
+ {
   <i>Besprengung</i>: <a class='kom' href='#Ihebr-11-28'>Hebr&nbsp;11,28</a>, vgl <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v2'>1.&nbsp;Petr&nbsp;1,2</a>.
  }
  {
-  <i>→ biblisches/Personen/Abel[Abels] Blut</i>: <a class='kom' href='#I1mo-4-10'>1.&nbsp;Mo&nbsp;4,10</a>.
-  <br>
-  Arghelger (Arghelger_Gedanken-zu-einzelnen-Versen-des-Hebräerbriefs-in-der-Schlachter-2000.pdf) meint, es
-  sollte nicht das Blut Abels sein, sondern «Abel».
+  <i>→ biblisches/Personen/Abel[Abels] Blut</i>: §+1mo-4-10.
+ }
+ {
+  TODO: Arghelger (Arghelger_Gedanken-zu-einzelnen-Versen-des-Hebräerbriefs-in-der-Schlachter-2000.pdf) meint, es sollte nicht das Blut Abels sein, sondern «Abel».
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/neu
@@ -93884,6 +93895,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Dreck</i>: <span class='gr'>χοῦς</span> (Strongs 5522), in Elb05 und Sch2K mit «Staub» übersetzt. Vgl §+mk-6-11.
+ }
+ {
+  Vgl §5mo-32-43
  }
 #}
 #offb-18-20 {
