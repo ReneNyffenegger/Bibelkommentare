@@ -56799,7 +56799,7 @@
 #}
 #mt-3-10 {
  {
-  Vgl §mt-7-19, §mt-12-33
+  Vgl §mt-7-19, §mt-12-33, §jak-3-12
  }
 #}
 #mt-3-11 {
@@ -58972,6 +58972,9 @@
  }
 #}
 #mt-16-28 {
+ {
+  <i>den Tod nicht schmecken</i> vgl §joh-8-52, §hebr-2-9, §mk-9-1, §lk-9-27
+ }
  {
   Frage: wer sind hier diese <i>einige</i>? Petrus, Jakobus und Johannes (<a href='http://bibel.renenyffenegger.ch/mt_17.html#v1'>Mt&nbsp;17,1</a>)?
   Oder alle ausser Judas.
@@ -61526,6 +61529,11 @@
 #}
 @}
 @Markus 9 {
+#mk-9-1 {
+ {
+  <i>den Tod nicht schmecken</i> vgl §joh-8-52, §mt-16-28
+ }
+#}
 #mk-9-2 {
  {
   §mt-17-1, §lk-9-28
@@ -63653,6 +63661,11 @@
 #lk-9-23 {
  {
   <i>Kreuz tragen</i>: vgl <a href='http://bibel.renenyffenegger.ch/lk_14.html#v27'>Lk&nbsp;14,27</a>.
+ }
+#}
+#lk-9-27 {
+ {
+  <i>den Tod nicht schmecken</i> vgl §mt-16-28, §joh-8-52.
  }
 #}
 #lk-9-28 {
@@ -66780,6 +66793,11 @@
 #joh-8-48 {
  {
   <i>Du hast einen Dämon</i>: <a class='kom' href='#Ijoh-7-20'>Joh&nbsp;7,20</a>.
+ }
+#}
+#joh-8-52 {
+ {
+  <i>den Tod nicht schmecken</i> vgl §+mt-16-28, §hebr-2-9
  }
 #}
 #joh-8-53 {
@@ -75387,6 +75405,9 @@
   beschrieben?
  }
  {
+  <i>Erbarmgungen Gottes</i> vgl §2kor-1-3.
+ }
+ {
   Vgl §gal-4-8-9
  }
 #}
@@ -78569,7 +78590,7 @@
   Trost ist offenbar eng an Leiden geknüpft (Vers 4).
  }
  {
-  <i>Jesus Christus, der Vater der Erbarmungen</i> vgl §eph-1-17. S. a. §hebr-12-9, §jak-1-17
+  <i>Jesus Christus, der Vater der Erbarmungen</i> vgl §eph-1-17, §roem-12-1. S. a. §hebr-12-9, §jak-1-17
  }
 #}
 #2kor-1-4 {
@@ -86303,6 +86324,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <span class='gr'>ὁρῶντες </span> (Strongs 3708) ist.
  }
  {
+  <i>den Tod schmeckte</i> vgl §+mt-16-28, §joh-8-52
+ }
+ {
   <i>Ehre</i> vgl <a href='http://bibel.renenyffenegger.ch/hebr_3.html#v3'>Hebr&nbsp;3,3</a> und
   <a href='http://bibel.renenyffenegger.ch/hebr_5.html#v4'>Hebr&nbsp;5,4</a>.
  }
@@ -86410,6 +86434,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Heute</i>: s. Vers 13, 15, <a href='http://bibel.renenyffenegger.ch/hebr_4.html#v7'>Hebr&nbsp;4,7</a>
+ }
+#}
+#hebr-3-10 {
+ {
+  <i>sie haben meine Wege nicht erkannt</i> vgl §hebr-10-20.
  }
 #}
 #hebr-3-11 {
@@ -86578,7 +86607,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-5-7 {
  {
-  <i>Lautes Rufen</i>: <a class='kom' href='#Ips-77-2'>Ps&nbsp;77,2</a>.
+  <i>Lautes Rufen</i>: §+ps-77-2.
+ }
+ {
+  <i>Frömmigkeit</i>: <span class='gr'>εὐλάβεια</span> (Strongs 2124, 2x) kommt noch in §hebr-12-28 vor.
  }
 #}
 #hebr-5-9 {
@@ -87215,6 +87247,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
  }
  {
+  <i>neuer und lebendiger Weg</i> vgl §hebr-3-10.
+ }
+ {
   TODO: der erste oder zweite Vorhang? Vgl <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v3'>Hebr&nbsp;9,3</a>.
  }
 #}
@@ -87263,6 +87298,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-10-26 {
  {
   <i>Erkenntnis der Wahrheit</i>: <a class='kom' href='#I1tim-2-4'>1.&nbsp;Tim&nbsp;2,4</a>.
+ }
+#}
+#hebr-10-27 {
+ {
+  <i>furchtbar</i>: <span class='gr'>φοβερός</span> (Strongs 5398, 3x), Elberfelder und Schlachter 2000 übersetzen mit «schrecklich». Dasselber Wort kommt noch vor in
+  §hebr-10-31 und §hebr-12-21.
  }
 #}
 #hebr-10-28 {
@@ -87757,7 +87798,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-12-28 {
  {
-  <i>dienen</i>: <a href='http://bibel.renenyffenegger.ch/roem_1.html#v9'>Röm&nbsp;1,9</a>.
+  <i>dienen</i>: §roem-1-9.
+ }
+ {
+  
+  <span class='gr'>εὐλάβεια</span> (Strongs 2124, 2x) kommt noch in §hebr-5-7 vor.
  }
 #}
 #hebr-12-29 {
@@ -87876,7 +87921,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-13-17 {
  {
-  <i>Gott Rechenschaft geben</i>: <a class='kom' href='#Imt-12-36'>Mt&nbsp;12,36</a>.
+  <i>Gott Rechenschaft geben</i>: §+mt-12-36.
+ }
+ {
+  <i>als die da Rechenschaft geben sollen</i> vgl §jak-3-1.
  }
 #}
 #hebr-13-18 {
@@ -88214,6 +88262,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
  {
+  <i>daß wir ein schwereres Urteil empfangen werden</i> vgl §hebr-13-7
+ }
+ {
   TODO: Wird hier und in den folgenden Versen gesagt, dass ein Lehrer der ist, der seinen Körper im Zaum halten kann?
  }
 #}
@@ -88237,6 +88288,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Tier</i> (<span class='gr'>θηρίον</span>, Strongs 2342): <a class='kom' href='#Imk-1-13'>Mk&nbsp;1,13</a>.
  }
 #}
+#jak-3-9 {
+ {
+  <i>Bild</i>: <span class='gr'>ὁμοίωσις</span> (Strongs 3669, 1x). Könnte evtl. auch mit «Gleichnis» übersetzt werden (aber nicht zu verwechseln mit <span class='gr'>παραβολή</span>, Strongs 3850, welches z. B. in
+  §mt-13-3 mit Gleichnis übersetzt wird).
+ }
+#}
 #jak-3-11 {
  {
   <i>Süsses und Bitteres</i>: §jes-5-20
@@ -88244,7 +88301,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-3-12 {
  {
-  <i>Weinstrock</i>: <a class='kom' href='#Ijoh-15-1'>Joh&nbsp;15,1</a>.
+  Vgl §+mt-3-10
+ }
+ {
+  <i>Weinstock</i>: §+joh-15-1.
  }
 #}
 #jak-3-13 {
@@ -89128,7 +89188,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Dem Evangelium  Gottes nicht gehorchen</i> §roem-10-16, §2thes-1-8
  }
  {
-  <i>dass das Gericht anfange beim Haus Gotts</i> Vgl §hes-9-6, §mk-11-15
+  <i>dass das Gericht anfange beim Haus Gottes</i> Vgl §hes-9-6, §mk-11-15, §2petr-3-7
  }
  {
   Vgl §+1kor-3-15.
@@ -89726,6 +89786,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #2petr-3-7 {
+ {
+  <i>Tag des Gerichts</i> vgl §1petr-4-17
+ }
  {
   Vgl Abfolge <a href='http://bibel.renenyffenegger.ch/offb_20.html#v9'>Offb 20,9-13</a> Feuer fiel von Gott aus dem Himmel herab, der Himmel floh, die Toten, Kleine und
   Grosse wurden gerichtet gemäss ihren Werken.
@@ -91922,6 +91985,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Vier Ecken der Erde</i>: §+offb-20-8.
  }
+ {
+  <i>noch über irgend einen Baum</i> vgl §offb-9-4.
+ }
 #}
 #offb-7-2 {
  {
@@ -92270,7 +92336,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Siegel Gottes</i>: vgl §offb-7-2
  }
  {
-  <i>Gras</i>: <a class='kom' href='#Ioffb-8-7'>Offb&nbsp;8,7</a>.
+  <i>Gras</i>: §+offb-8-7.
+ }
+ {
+  <i>noch über irgend einen Baum</i> vgl §offb-7-1.
  }
 #}
 #offb-9-5 {
