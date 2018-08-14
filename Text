@@ -58523,9 +58523,19 @@
   <i>Ohren</i>: <a class='kom' href='#Imt-4-24'>Mt&nbsp;4,24</a>.
  }
 #}
+#mt-13-17 {
+ {
+  <i>Viele → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] und Gerechte haben begehrt zu sehen…</i> vgl §1petr-1-10.
+ }
+#}
 #mt-13-21 {
  {
   <i>wetterwendisch</i>: Elberfelder übersetzt «Mensch des Augenblicks».
+ }
+#}
+#mt-13-23 {
+ {
+  <i>der das Wort hört und versteht</i>, vgl §mk-4-20 (»die das Wort hören und aufnehmen«), §lk-8-15 (»nachdem sie es gehört haben, bewahren und Frucht bringen mit Ausharren«).
  }
 #}
 #mt-13-24 {
@@ -61113,6 +61123,11 @@
   <a class='kom' href='#Ijes-6-10'>Jes&nbsp;6,10</a>.
  }
 #}
+#mk-4-20 {
+ {
+  <i>die das Wort hören und aufnehmen</i>, vgl §+mt-13-23.
+ }
+#}
 #mk-4-26 {
  {
   TODO: Dieses → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse[Gleichnis] kommt offenbar nur in Markus vor.
@@ -62768,7 +62783,7 @@
 #}
 #lk-2-19 {
  {
-  Vgl <i>diese Worte behalten und im Herzen bewegen</i> mit Vers 51.
+  Vgl <i>diese Worte behalten und im Herzen bewegen</i> mit §Vlk-2-51
  }
 #}
 #lk-2-22 {
@@ -62896,7 +62911,7 @@
   → biblisches/Orte/Nazareth
  }
  {
-  <a class='kom' href='#Ilk-2-19'>Lk&nbsp;2,19</a>.
+   <i>bewahrte alle diese Worte in ihrem Herzen</i>: §+Vlk-2-19.
  }
  {
    TODO: Lukas ist der einzige, der erwähnt, dass sich Jesus seinen Eltern untegeordnet hat.
@@ -63596,6 +63611,9 @@
 #}
 #lk-8-15 {
  {
+  <i>das Wort bewahren, nachdem sie das Wort gehört haben</i>, vgl §+mt-13-23, §lk-11-28
+ }
+ {
   <i>standhaftes Ausharren</i> (<span class='gr'>ὑπομονή</span>, Strongs 5281) wird in KVJ manchmal (?) mit 'patience'.
   Elberfelder hier: 'Ausharren'. In <a href='http://bibel.renenyffenegger.ch/tit_2.html#v2'>Tit&nbsp;2,2</a> mit
   'Geduld', in <a href='http://bibel.renenyffenegger.ch/2kor_1.html#v6'>2.&nbsp;Kor&nbsp;1,6</a> mit 'standhafter Erduldung' übersetzt.
@@ -63968,7 +63986,10 @@
 #}
 #lk-11-28 {
  {
-  <i>glückselig</i>: <a href='http://bibel.renenyffenegger.ch/joh_13.html#v17'>Joh&nbsp;13,17</a>, <a href='http://bibel.renenyffenegger.ch/jak_1.html#v25'>Jak&nbsp;1,25</a>.
+  <i>die das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes] hören und bewahren</i>, vgl §lk-8-15.
+ }
+ {
+  <i>glückselig</i>: §joh-13-17, §jak-1-25.
  }
 #}
 #lk-11-30 {
@@ -66850,6 +66871,11 @@
   <i>Du hast einen Dämon</i>: <a class='kom' href='#Ijoh-7-20'>Joh&nbsp;7,20</a>.
  }
 #}
+#joh-8-51 {
+ {
+  <i>Wort bewahren</i>: vgl §joh-12-47, §joh-17-6
+ }
+#}
 #joh-8-52 {
  {
   <i>den Tod nicht schmecken</i> vgl §+mt-16-28, §hebr-2-9
@@ -67411,7 +67437,10 @@
 #}
 #joh-12-47 {
  {
-  <i>Richten</i>: <a class='kom' href='#Ijoh-5-22'>Joh&nbsp;5,22</a>.
+  <i>Wort nicht bewahren</i> vgl §+joh-8-51-52.
+ }
+ {
+  <i>Richten</i>: §+joh-5-22.
  }
 #}
 #joh-12-48 {
@@ -67876,6 +67905,9 @@
   <i>Offenbaren/Offenbar machen</i>: §+mt-11-25.
   <br>Vgl auch §Vjoh-17-26 (den Namen kundtun).
   <br>Vgl auch §ps-22-23
+ }
+ {
+  <i>sie haben dein Wort bewahrt</i> vgl §+joh-8-51.
  }
 #}
 #joh-17-11 {
@@ -88616,6 +88648,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1petr-1-9 {
  {
   TODO In Elberfelder 1905 steht anstatt <i>wenn</i> das Wort <i>indem</i>. In KJV steht einfach 'Receiving the end of your faith, [even] the salvation of [your] souls.'.
+ }
+#}
+#1petr-1-10 {
+ {
+  Vgl §mt-13-17
  }
 #}
 #1petr-1-11 {
