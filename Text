@@ -42601,14 +42601,29 @@
   <i>Den Herrn suchen</i>: vgl Vers 10.
  }
 #}
+#ps-119-22 {
+ {
+  <i>Wälze von mir Hohn</i> vgl §Vps-119-39, §Vps-119-42
+ }
+#}
 #ps-119-25 {
  {
   → biblisches/Bücher/Ketuvim/Psalmen/119#ps-119-belebe-mich[Belebe mich] in → biblisches/Bücher/Ketuvim/Psalmen/119
  }
 #}
+#ps-119-36 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geld#geldliebe, vgl §Vps-119-72.
+ }
+#}
 #ps-119-37 {
  {
   → biblisches/Bücher/Ketuvim/Psalmen/119#ps-119-belebe-mich[Belebe mich] in → biblisches/Bücher/Ketuvim/Psalmen/119
+ }
+#}
+#ps-119-39 {
+ {
+  <i>Wende ab meinen Hohn…</i> vgl §+Vps-119-22.
  }
 #}
 #ps-119-40 {
@@ -42631,6 +42646,16 @@
    <i>verspotten</i>: <a class='kom' href='#Ips-1-1'>Ps&nbsp;1,1</a>.
  }
 #}
+#ps-119-52 {
+ {
+  <i>ich tröstete mich</i> vgl §Vps-119-82.
+ }
+#}
+#ps-119-53 {
+ {
+  Vgl §Vps-119-158
+ }
+#}
 #ps-119-66 {
  {
   <i>Lehre mich rechte Einsicht</i>, vgl
@@ -42638,9 +42663,24 @@
      <br>Gemäss Vers 100 ist der Autor einsichtig, weil er auf die Befehle achtet.
  }
 #}
+#ps-119-72 {
+ {
+  Vgl §+Vps-119-36, §Vps-119-127
+ }
+#}
 #ps-119-75 {
  {
   <i>Bestimmungen</i> (<span class='hebr'>מִשְׁפָּט</span>, Strongs 4941) in anderer Schlachterübersetzung und Elberfelder mit 'Gericht', in KJV mit 'judgements' übersetzt.
+ }
+#}
+#ps-119-81 {
+ {
+  Vgl §Vps-119-123
+ }
+#}
+#ps-119-82 {
+ {
+  <i>Wann wirst du mich trösten</i> vgl §Vps-119-52.
  }
 #}
 #ps-119-88 {
@@ -42655,7 +42695,7 @@
 #}
 #ps-119-97 {
  {
-  <i>Wie liebe ich dein Gesetz</i> vgl §ps-119-47, §Vps-119-113
+  <i>Wie liebe ich dein Gesetz</i> vgl §Vps-119-47, §Vps-119-113
  }
 #}
 #ps-119-98 {
@@ -42676,6 +42716,16 @@
 #ps-119-114 {
  {
   Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>.
+ }
+#}
+#ps-119-123 {
+ {
+  Vgl §Vps-119-81 und 82.
+ }
+#}
+#ps-119-127 {
+ {
+  <i>Gold und gediegenes Gold</i> vgl §Vps-119-72
  }
 #}
 #ps-119-131 {
@@ -42712,6 +42762,11 @@
 #ps-119-156 {
  {
   → biblisches/Bücher/Ketuvim/Psalmen/119#ps-119-belebe-mich[Belebe mich] in → biblisches/Bücher/Ketuvim/Psalmen/119
+ }
+#}
+#ps-119-158 {
+ {
+  Vgl §Vps-119-53
  }
 #}
 #ps-119-159 {
@@ -69758,7 +69813,7 @@
 #}
 #apg-7-48 {
  {
-  TODO: Dies wird auch in <a href='http://bibel.renenyffenegger.ch/apg_17.html#v24'>Apg&nbsp;17,24</a> zitiert.
+  Dies wird auch in §apg-17-24 zitiert.
  }
 #}
 #apg-7-51 {
@@ -72038,7 +72093,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
-  TODO: Dies wird auch in <a class='kom' href='#Iapg-7-48'>Apg&nbsp;7,48</a> zitiert.
+  Dies wird auch in §+apg-7-48 zitiert.
  }
 #}
 #apg-17-26 {
