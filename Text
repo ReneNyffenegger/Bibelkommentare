@@ -70420,7 +70420,7 @@
 #}
 #apg-9-36 {
  {
-    <i>Tabitha</i>: <a class='kom' href='#Ihl-4-5'>Hl&nbsp;4,5</a>.
+  <i>Dorkas</i> bedeutet «Gazelle». Vgl §+hl-4-5.
  }
  {
   <i>das heisst übersetzt</i>: <a class='kom' href='#Imt-1-23'>Mt&nbsp;1,23</a>.
@@ -74937,6 +74937,9 @@
   <i>Abba, Vater</i>: <a class='kom' href='#Imk-14-36'>Mk&nbsp;14,36</a>,
   <a href='http://bibel.renenyffenegger.ch/gal_4.html#v6'>Gal&nbsp;4,6</a>.
  }
+ {
+  <i>Keinen Geist wiederum zur Furcht</i> vgl §2tim-1-7
+ }
 #}
 #roem-8-17 {
  {
@@ -76549,6 +76552,8 @@
 #1kor-2-3 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern: Beachte, dass die Korinther → biblisches/Personen/Titus mit Furcht und Zittern empfangen haben (§2kor-7-14).
+   -
+   → biblisches/Personen/Timotheus soll bei seiner Ankunft ohne Furcht sein: §1kor-16-10
  }
 #}
 #1kor-2-4 {
@@ -78522,8 +78527,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-des-herrn §+1kor-15-58.
  }
  {
-  → biblisches/Personen/Timotheus/index ist noch nicht angekommen: <a class='kom' href='#I1kor-4-17'>1.&nbsp;Kor&nbsp;4,17</a>.
+  → biblisches/Personen/Timotheus/index ist noch nicht angekommen: §+1kor-4-17.
   (Es ist darüberhinaus gar nicht sicher, ob er überhaupt ankommt: es heisst <span class='gr'>ἐάν</span>, Strongs 1437) ('falls'), nicht 'wenn'.
+ }
+ {
+  <i>ohne Furcht</i>: vgl §+1kor-2-3.
  }
 #}
 #1kor-16-12 {
@@ -79026,6 +79034,11 @@
  }
  {
   <i>Richterstuhl</i>: <a class='kom' href='#Imt-27-19'>Mt&nbsp;27,19</a>.
+ }
+#}
+#2kor-5-11 {
+ {
+  <i>Schrecken des Herrn</i>, vgl §hebr-10-31
  }
 #}
 #2kor-5-14 {
@@ -85126,6 +85139,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Der Geist, der gegeben wurde</i>: <a class='kom' href='#I2kor-1-22'>2.&nbsp;Kor&nbsp;1,22</a>.
  }
+ {
+  <i>Keinen Geist der Furchtsamkeit</i> vgl §roem-8-15
+ }
 #}
 #2tim-1-8 {
  {
@@ -87409,6 +87425,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-10-30 {
  {
   <i>Die Rache ist mein</i>: <a class='kom' href='#I5mo-32-35'>5.&nbsp;Mo&nbsp;32,35</a>.
+ }
+#}
+#hebr-10-31 {
+ {
+   Vgl §2kor-5-11.
  }
 #}
 #hebr-10-32 {
