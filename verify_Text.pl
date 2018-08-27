@@ -19,7 +19,7 @@ my $cur_abbr_with_ch;
 my $cur_v=0;
 
 my $in_v = 0;
-my $in_t = 0;   
+my $in_t = 0;
 my $in_c = 0;
 
 my %map_books_abbreviation = ( #_{
@@ -205,7 +205,7 @@ while (my $l = <$h>) { #_{
   die $l . ' @ ' . $. unless $in_c and $in_t and $in_v;
   if ($l =~ /<!--[{}]-->/) {
     next;
-  }  
+  }
   die unless $in_t;
 
   next if $l =~ /m\{!\} HERRN/; 
