@@ -65197,7 +65197,10 @@
 #}
 #lk-23-34 {
  {
-  <i>Vergib ihnen</i>: <a class='kom' href='#Ijes-53-12'>Jes&nbsp;53,12</a>.
+  <i>Vergib ihnen</i>: §+jes-53-12.
+ }
+ {
+  <i>denn sie wissen nicht, was sie tun</i> vgl §apg-3-17
  }
  {
    <span class='gt'>In NA fehlt «Jesus aber sprach: Vater, vergib ihnen, denn sie wissen nicht, was sie tun!» (Wird als späterer Zusatz markiert).</span>
@@ -67934,7 +67937,7 @@
   <i>Jetzt aber komme ich zu dir…</i> §joh-16-5
  }
  {
-  <i>auf dass sie meine Freude völlig in sich haben</i> vgl §joh-3-29, §joh-17-13
+  <i>auf dass sie meine Freude völlig in sich haben</i> vgl §joh-3-29, §apg-13-52.
  }
 #}
 #joh-17-14 {
@@ -69100,6 +69103,9 @@
  }
 #}
 #apg-3-17 {
+ {
+  <i>Unwissenheit</i> vgl §lk-23-34
+ }
  {
   <i>Brüder</i>: <a class='kom' href='#Iapg-1-16'>Apg&nbsp;1,16</a>.
  }
@@ -71399,7 +71405,7 @@
 #}
 #apg-13-52 {
  {
-  <i>Freude und Heiliger Geist</i> vgl §roem-15-13
+  <i>Freude und Heiliger Geist</i> vgl §roem-15-13, vgl §+joh-13-17
  }
 #}
 @}
