@@ -32709,6 +32709,11 @@
   → biblisches/Personen/Kahat, → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
  }
 #}
+#1chr-9-33 {
+ {
+  Vgl §ps-134-1
+ }
+#}
 #1chr-9-35 {
  {
   <i>Der Vater Gibeons</i>: <a class='kom' href='#I1chr-8-29'>1.&nbsp;Chr&nbsp;8,29</a>.
@@ -42881,6 +42886,11 @@
   → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
  }
 #}
+#ps-129-6 {
+ {
+  <i>verdorrtes Gras</i>: §jak-1-11
+ }
+#}
 @}
 @Psalm 130 {
 #ps-130-1 {
@@ -42912,6 +42922,11 @@
   → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
  }
 #}
+#ps-131-2 {
+ {
+  David ist entwöhnt, er benötigt keine Milch mehr. Vgl §hebr-5-12-13
+ }
+#}
 @}
 @Psalm 132 {
 #ps-132-1 {
@@ -42926,7 +42941,7 @@
 #}
 #ps-132-17 {
  {
-  In <a href='http://bibel.renenyffenegger.ch/hes_29.html#v21'>Hes&nbsp;29,21</a> wird dem Haus Israel ein 'Horn hervorgesprossen gelasse'.
+  In §hes-29-21 wird dem Haus Israel ein «Horn hervorgesprossen gelassen».
  }
 #}
 @}
@@ -42946,6 +42961,14 @@
 #ps-134-1 {
  {
   → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied] 
+ }
+ {
+  Vgl §1chr-9-33
+ }
+#}
+#ps-134-2 {
+ {
+  Vgl §1tim-2-8
  }
 #}
 @}
@@ -46760,6 +46783,9 @@
 #jes-28-9 {
  {
    <i>Erkenntnis</i>: §+jes-1-3.
+ }
+ {
+  <i>Von der Milch entwöhnt</i>; §hebr-5-12-13
  }
 #}
 #jes-28-11 {
@@ -84423,6 +84449,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Lehrer der Nationen</i> vgl → biblisches/Personen/Nikodemus, der »Lehrer Israels« genannt wird (§joh-3-10).
  }
 #}
+#1tim-2-8 {
+ {
+  Vgl §ps-134-2
+ }
+#}
 #1tim-2-9 {
  {
   Vgl mit §1petr-3-3-4
@@ -86765,6 +86796,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
     <br>KJV: «first principles», Elberfelder: «Elemente des Anfangs».
     <br>Vgl auch <a class='kom' href='#Igal-4-3'>Gal&nbsp;4,3</a>.
  }
+ {
+  <i>Milch bedürfen</i>: §+ps-131-2, §jes-28-9
+ }
 #}
 #hebr-5-14 {
  {
@@ -88170,6 +88204,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #jak-1-11 {
+ {
+  <i>gedörrtes Gras</i>: §ps-129-6
+ }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Zierde
  }
