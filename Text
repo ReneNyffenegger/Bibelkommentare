@@ -391,6 +391,9 @@
 #}
 #1mo-1-27 {
  {
+  <i>Gott schuf den Menschen in seinem Bild</i> vgl §ps-135-18, wo die Götter den Mensche gleich sind, die sie geschaffen haben.
+ }
+ {
   Die Erschaffung des Menschen scheint stark mit der Zahl → biblisches/Grundtext/Zahlen#n27 zusammenzuhängen.
  }
 #}
@@ -544,6 +547,9 @@
  }
 #}
 #1mo-2-6 {
+ {
+  <i>Dunst, der von der Erde aufsteigt</i>: §ps-135-7
+ }
  {
   TODO: Hier bewässert ein Dunst den Erdboden (Strongs 127), aber der Boden (Strongs 127) scheint trotzdem Staub zu sein (Vers 7).
  }
@@ -8169,6 +8175,9 @@
 #2mo-11-5 {
  {
   Das Erschlagen der → biblisches/Eigene-Uebersetzung/Konkordanz/Erstgeburt ist auch ein Gericht an den Göttern Ägyptens (§4mo-33-4).
+ }
+ {
+  Vgl §ps-135-8, §ps-136-10
  }
 #}
 #2mo-11-6 {
@@ -42984,6 +42993,9 @@
 @Psalm 134 {
 #ps-134-1 {
  {
+  Beachte, dieser Psalm beginnt ähnlich wie Psalm 135 (§ps-135-1)
+ }
+ {
   → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied] 
  }
  {
@@ -42999,7 +43011,10 @@
 @Psalm 135 {
 #ps-135-1 {
  {
-  <i>Psalmanfang «Lobt Jah»</i>: <a class='kom' href='#Ips-111-1'>Ps&nbsp;111,1</a>.
+  Beachte, dieser Psalm beginnnt ähnlich wie Psalm 134 (§ps-134-1).
+ }
+ {
+  <i>Psalmanfang «Lobt Jah»</i>: §+ps-111-1.
  }
  {
   <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>. Ebenso Verse 3, 4 und 21.
@@ -43012,8 +43027,16 @@
 #}
 #ps-135-7 {
  {
+  <i>der Dünste aufsteigen läßt</i>: §1mo-2-6
+ }
+ {
   TODO: <i>Wind in Speichern [Schätze, Strongs 214]</i>: vgl <a class='kom' href='#Ijer-10-13'>Jer&nbsp;10,13</a>,
   <a class='kom' href='#Ijer-51-16'>Jer&nbsp;51,16</a>.
+ }
+#}
+#ps-135-8 {
+ {
+  Vgl §2mo-11-5
  }
 #}
 #ps-135-9 {
@@ -43029,6 +43052,16 @@
 #ps-135-15 {
  {
   Vgl diesen und die folgenden Verse mit <a class='kom' href='#Ips-115-4'>Ps&nbsp;115,4ff</a>.
+ }
+#}
+#ps-135-17 {
+ {
+  Vgl §offb-13-15
+ }
+#}
+#ps-135-18 {
+ {
+  Vgl §+1mo-1-27
  }
 #}
 @}
@@ -43056,6 +43089,11 @@
   <i>Mond und Sonner zur Beherrschung des Nachts und des Tages</i>: <a class='kom' href='#I1mo-1-16'>1.&nbsp;Mo&nbsp;1,16</a>.
  }
 #}
+#ps-136-10 {
+ {
+  Vgl §2mo-11-5
+ }
+#}
 @}
 @Psalm 137 {
 #ps-137-7 {
@@ -43078,6 +43116,9 @@
 @}
 @Psalm 138 {
 #ps-138-2 {
+ {
+  <i>Güte und Wahrheit</i> (als Wort an David), vgl §joh-1-14 (Das Wort wurde Fleisch).
+ }
  {
   Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel ist noch gar nicht gebaut: §+ps-5-8.
  }
@@ -65573,7 +65614,7 @@
   §offb-7-15, §offb-12-12 ([Im Himmel] wohnen), §offb-13-6, §offb-21-3.
  }
  {
-  <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>.
+  <i>Gnade und Wahrheit</i>: §+ps-25-10, §+ps-138-2
  }
 #}
 #joh-1-18 {
@@ -93321,6 +93362,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   §+offb-11-11
+ }
+ {
+  <i>…dass das Bild des Tieres auch redete</i> vgl §ps-135-17
  }
  {
   TODO: Es gibt Überwinder über das Tier, sein Bild und die Zahl seines Namens (<a href='http://bibel.renenyffenegger.ch/offb_15.html#v2'>Offb&nbsp;15,2</a>).
