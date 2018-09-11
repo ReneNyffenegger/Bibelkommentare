@@ -9567,6 +9567,9 @@
 #}
 #2mo-20-11 {
  {
+  <i>Himmel und Erde gemacht</i>: §2mo-31-17
+ }
+ {
   Vgl Unterschied zu §5mo-5-15
  }
  {
@@ -11445,6 +11448,9 @@
 #2mo-31-17 {
  {
   <i>erquickte sich</i>: §+2mo-23-12.
+ }
+ {
+  <i>Himmel und Erde gemacht</i>: §2mo-20-11
  }
  {
   Sabbat als Zeichen: <a class='kom' href='#I1mo-1-14'>1.&nbsp;Mo&nbsp;1,14</a>,
@@ -15905,7 +15911,10 @@
 #}
 #4mo-5-18 {
  {
-  <i>Frau mit entblösstem Haupt</i> vgl <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v5'>1.&nbsp;Kor&nbsp;11,5</a>.
+  <i>Fluchbringendes Wasser der Bitterkeit</i> vgl §+offb-8-11
+ }
+ {
+  <i>Frau mit entblösstem Haupt</i> vgl §1kor-11-5.
  }
 #}
 #4mo-5-23 {
@@ -15980,6 +15989,11 @@
 #4mo-6-19 {
  {
   <i>gekochter Bug vom Widder</i>:§+2mo-29-31 und §+1sam-2-13.
+ }
+#}
+#4mo-6-24 {
+ {
+  <i>Der HERR segne dich<?i>: §ps-134-3
  }
 #}
 @}
@@ -19748,7 +19762,7 @@
 #}
 #5mo-10-8 {
  {
-  <i>ausgesondert, um vor dem Herrn zu stehen, um ihm zu dienen</i>: vgl §2chr-29-11.
+  <i>ausgesondert, um vor dem Herrn zu stehen, um ihm zu dienen</i>: vgl §2chr-29-11, §5mo-18-7, §ps-134-1
  }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#wer-traegt-die-lade
@@ -20164,6 +20178,11 @@
 #5mo-18-1 {
  {
    Vgl <a class='kom' href='#I4mo-18-20'>4.&nbsp;Mo&nbsp;18,20</a>, <a class='kom' href='#I5mo-10-9'>5.&nbsp;Mo&nbsp;10,9</a>.
+ }
+#}
+#5mo-18-7 {
+ {
+  Vgl §+5mo-10-8
  }
 #}
 #5mo-18-10 {
@@ -32746,7 +32765,7 @@
 #}
 #1chr-9-33 {
  {
-  Vgl §ps-134-1
+  Vgl §ps-134-1, §1chr-23-30
  }
 #}
 #1chr-9-35 {
@@ -33426,6 +33445,11 @@
 #1chr-23-29 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
+ }
+#}
+#1chr-23-30 {
+ {
+  Vgl §1chr-9-33
  }
 #}
 #1chr-23-31 {
@@ -39443,6 +39467,11 @@
   §+ps-30-4
  }
 #}
+#ps-28-2 {
+ {
+  <i>Hände aufheben</i> vgl §ps-134-2
+ }
+#}
 #ps-28-3 {
  {
   Vgl §ps-12-3
@@ -42537,6 +42566,11 @@
 #}
 @}
 @Psalm 115 {
+#ps-115-3 {
+ {
+  Vgl §ps-135-5-6
+ }
+#}
 #ps-115-4 {
  {
   Vgl diesen und folgende Verse mit <a href='http://bibel.renenyffenegger.ch/ps_135.html#v15'>Ps 135,15 ff</a>.
@@ -42545,6 +42579,11 @@
 #ps-115-10 {
  {
   Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>. Auch Vers 11.
+ }
+#}
+#ps-115-15 {
+ {
+  Vgl §ps-134-3
  }
 #}
 #ps-115-17 {
@@ -43009,12 +43048,26 @@
   → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied] 
  }
  {
-  Vgl §1chr-9-33
+  Vgl §1chr-9-33, §lk-2-37
+ }
+ {
+  <i>stehen</i> vgl §5mo-10-8, §5mo-18-7
  }
 #}
 #ps-134-2 {
  {
-  Vgl §1tim-2-8
+  <i>Erhebt eure Hände</i> Vgl §1tim-2-8, §ps-28-2
+ }
+#}
+#ps-134-3 {
+ {
+  Vgl mit §5mo-10-8, wo die → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi[Leviten] ausgesondert wurden, vor dem HERRN zu stehen und zu segnen; in diesem Psalm stehen die Knechte im Haus des HERRN, der segnende aber ist der HERR.
+ }
+ {
+  §ps-115-15
+ }
+ {
+  <i>Der HERR segne dich</i>: §4mo-6-24
  }
 #}
 @}
@@ -43033,6 +43086,11 @@
 #ps-135-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum
+ }
+#}
+#ps-135-5 {
+ {
+  Vgl Verse 5-6 mit §ps-115-3
  }
 #}
 #ps-135-7 {
@@ -62987,6 +63045,9 @@
 #}
 #lk-2-37 {
  {
+  Vgl §ps-134-1
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
@@ -69342,7 +69403,7 @@
 #}
 #apg-4-24 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde. <i>das Meer gemacht hat und alles, was in ihnen ist</i> vgl §neh-9-6
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde. <i>das Meer gemacht hat und alles, was in ihnen ist</i> vgl §neh-9-6, §apg-14-15
  }
 #}
 #apg-4-25 {
@@ -71593,11 +71654,13 @@
 #}
 #apg-14-15 {
  {
+  <i>welcher den Himmel und die Erde … gemacht hat</i> vgl §apg-4-24
+ }
+ {
    TODO: Paulus verkündigt wohl 'dieses' Evangelium, weil die Bewohner meinten, Paulus und Barnabas seien Götter (Vers 11).
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/offb_14.html#v7'>Offb&nbsp;14,7</a>: dort ist 'die Stunde seines Gerichts ist gekommen'
-  und 'der die Wasserquellen gemacht hat'.
+  Vgl §offb-14-7: dort ist 'die Stunde seines Gerichts ist gekommen' und 'der die Wasserquellen gemacht hat'.
   Wo hier steht 'bekehrt euch von diesen nichtigen [Gützen] zum lebendigen Gott' steht dort 'Fürchtet Gott und gebt ihm die Ehre'.
  }
  {
@@ -92518,7 +92581,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Beachte auch: in <a href='http://bibel.renenyffenegger.ch/offb_9.html#v6'>Offb&nbsp;9,6</a> werden viele Menschen den Tod suchen.
  }
  {
-  Vgl mit <a class='kom' href='#Ijer-9-14'>Jer&nbsp;9,14</a>.
+  Vgl mit §+jer-9-14, das «fluchbringende Wasser der Bitterkeit» (§4mo-5-18)
  }
  {
   <i>Wermut</i> und <i>bitter</i>: §spr-5-4, §jer-9-14
