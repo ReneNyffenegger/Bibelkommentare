@@ -15993,7 +15993,7 @@
 #}
 #4mo-6-24 {
  {
-  <i>Der HERR segne dich<?i>: §ps-134-3
+  <i>Der HERR segne dich</i>: §ps-134-3
  }
 #}
 @}
@@ -21013,6 +21013,11 @@
  }
  {
   <i>er verliess Gott, der ihn gemacht hatte</i> vgl §jes-17-7
+ }
+#}
+#5mo-32-16 {
+ {
+  <i>ihn erbittern</i> vgl §hebr-3-8-ff
  }
 #}
 #5mo-32-17 {
@@ -50115,7 +50120,7 @@
 #}
 #jer-31-10 {
  {
-  <i>Sammlung Israels</i>: vgl §hes-11-17, §hes-34-12-14, §+mt-24-31 §joh-11-52, §sach-2-10
+  <i>Sammlung Israels</i>: vgl §hes-11-17, §hes-34-12-14, §+mt-24-31 §joh-11-52, §sach-2-10, §apg-2-39
  }
 #}
 #jer-31-15 {
@@ -56483,7 +56488,7 @@
 #}
 #sach-13-7 {
  {
-  TODO: Vgl <a href='http://bibel.renenyffenegger.ch/mt_26.html#v31'>Mt&nbsp;26,31</a>
+  Vgl §mt-26-31, §mk-14-27, §joh-11-52
  }
 #}
 #sach-13-8 {
@@ -60482,7 +60487,7 @@
 #}
 #mt-26-31 {
  {
-  TODO: Vgl <a class='kom' href='#Isach-13-7'>Sach&nbsp;13,7</a>
+  Vgl §+sach-13-7
  }
 #}
 #mt-26-34 {
@@ -62384,6 +62389,11 @@
 #mk-14-26 {
  {
   §mt-26-30
+ }
+#}
+#mk-14-27 {
+ {
+  Vgl §sach-13-7
  }
 #}
 #mk-14-32 {
@@ -67399,7 +67409,7 @@
 #}
 #joh-11-52 {
  {
-  <i>Zerstreute Kinder sammeln</i>: §+jer-31-10, vgl eph-3-6
+  <i>Zerstreute Kinder sammeln</i>: §+jer-31-10, vgl §eph-3-6, §sach-13-7, §apg-2-39
  }
 #}
 #joh-11-54 {
@@ -69104,6 +69114,14 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
+ }
+#}
+#apg-2-39 {
+ {
+  Vgl §+jer-31-10, §joh-11-52
+ }
+ {
+  <i>Verheissung</i> §apg-26-6
  }
 #}
 #apg-2-40 {
@@ -73622,6 +73640,11 @@
  {
   <i>Von früher her</i> : <span class='gr'>ἄνωθεν</span> (Strongs 509), wird häufig mit «von oben» übersetzt. Vgl
   aber auch <a class='kom' href='#Ijoh-3-3'>Joh&nbsp;3,3</a>.
+ }
+#}
+#apg-26-6 {
+ {
+  <i>Verheissung an die Väter</i> vgl §apg-2-39, §hebr-4-1
  }
 #}
 #apg-26-8 {
@@ -79505,6 +79528,14 @@
   Vgl §2kor-11-10
  }
 #}
+#2kor-9-4 {
+ {
+  <i>Zuversicht des Rühmens</i>: §2kor-11-17
+ }
+ {
+  <span class='gt'>In NA fehlt «des Rühmens»</span>
+ }
+#}
 #2kor-9-5 {
  {
   <i>Habsucht</i> siehe §+mk-7-22.
@@ -79689,6 +79720,11 @@
 #2kor-11-14 {
  {
   <i>Gestalt eines Engels des Lichts annehmen</i> vgl. mit dem «Menschen der Sünde», der sich «in den Tempel Gottes setzt». §2thes-2-4
+ }
+#}
+#2kor-11-17 {
+ {
+  <i>Zuversicht des Rühmens</i>: §2kor-9-4
  }
 #}
 #2kor-11-18 {
@@ -86747,6 +86783,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Heute</i>: s. Vers 13, 15, <a href='http://bibel.renenyffenegger.ch/hebr_4.html#v7'>Hebr&nbsp;4,7</a>
  }
 #}
+#hebr-3-8 {
+ {
+  <i>Erbitterung</i> vgl §Vhebr-3-15, §+5mo-32-16
+ }
+#}
 #hebr-3-10 {
  {
   <i>sie haben meine Wege nicht erkannt</i> vgl §hebr-10-20.
@@ -86773,6 +86814,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @}
 @Hebräer 4 {
 #hebr-4-1 {
+ {
+  <i>Verheissung</i>: §apg-26-6
+ }
  {
   TODO: Wo im Hebräerbrief kommt <i>Verheissung</i> (<span class='gr'>ἐπαγγελία</span>, Strongs 1860)
   sonst noch vor? Vgl <a class='kom' href='#Ihebr-6-15'>Hebr&nbsp;6,15</a> vs <a class='kom' href='#Ihebr-11-13'>Hebr&nbsp;11,13</a>.
