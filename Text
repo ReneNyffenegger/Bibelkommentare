@@ -35909,7 +35909,10 @@
 #}
 #esr-2-46 {
  {
-  <i>Schalmai</i> in <a href='http://bibel.renenyffenegger.ch/neh_7.html#v48'>Neh&nbsp;7,48</a> «Samai» genannt.
+  <i>Schalmai</i> in §neh-7-48 «Samai» genannt.
+ }
+ {
+  <i>Hagab</i> vgl mit «Agabus» (§+apg-11-28).
  }
 #}
 #esr-2-50 {
@@ -49418,6 +49421,9 @@
  {
   <i>Fischer</i> vgl §mt-4-19
  }
+ {
+  <i>Felsspalten</i>: Sch2K und Elb übersetzen mit «Felsenklüften». Im Vergleich mit §jes-7-19 und §jer-13-4 ist die Übersetzung «Felsspalten» konsistenter.
+ }
 #}
 #jer-16-18 {
  {
@@ -57221,6 +57227,12 @@
 #}
 #mt-4-18 {
  {
+  §mk-1-16
+ }
+ {
+  → biblisches/Orte/Galiläa
+ }
+ {
    TODO: Ernennung von Jüngern: in <a href='http://bibel.renenyffenegger.ch/mt_9.html#v9'>Mt&nbsp;9,9</a> folgt auch Matthäus nach.
    Alle 12 Jünger werden in <a href='http://bibel.renenyffenegger.ch/mt_10.html#v1'>Mt 10,1 ff</a> erwähnt.
  }
@@ -58983,6 +58995,11 @@
  }
  {
   Beachte: Judas scheint hier auch dabei gewesen zu sein.
+ }
+#}
+#mt-14-34 {
+ {
+  → biblisches/Orte/Genezareth
  }
 #}
 @}
@@ -61030,6 +61047,11 @@
   <i>Die Zeit ist erfüllt</i>: vgl <a href='http://bibel.renenyffenegger.ch/gal_4.html#v4'>Gal&nbsp;4,4</a>.
  }
 #}
+#mk-1-16 {
+ {
+  §mt-4-18
+ }
+#}
 #mk-1-19 {
  {
   → biblisches/Personen/Johannes/index, → biblisches/Personen/Jakobus/index
@@ -61255,7 +61277,10 @@
   <i>Unreiner Geist</i>: §mk-1-23-ff
  }
  {
-  <i>Beelzebul</i>: <a class='kom' href='#Imt-10-25'>Mt&nbsp;10,25</a>.
+  <i>Beelzebul</i>: §+mt-10-25.
+ }
+ {
+  §+joh-1-19
  }
 #}
 #mk-3-23 {
@@ -61588,6 +61613,11 @@
 #mk-6-52 {
  {
   <i>verhärtetes Herz</i>: vgl §mk-8-17, §joh-12-40, §+mk-3-5
+ }
+#}
+#mk-6-53 {
+ {
+  → biblisches/Orte/Genezareth
  }
 #}
 #mk-6-56 {
@@ -63420,6 +63450,11 @@
   Beachte: Jesus <i>bedrohte</i> auch das Fieber der Schwiegermutter des Simon §Vlk-4-39
  }
 #}
+#lk-4-36 {
+ {
+  <i>Entsetzen</i>: §lk-5-9
+ }
+#}
 #lk-4-43 {
  {
   Der Herr <i>muss</i>: <a class='kom' href='#Ilk-9-22'>Lk&nbsp;9,22</a>, <a href='http://bibel.renenyffenegger.ch/lk_12.html#v50'>Lk&nbsp;12,50</a>,
@@ -63442,9 +63477,19 @@
 #}
 @}
 @Lukas 5 {
+#lk-5-1 {
+ {
+  → biblisches/Orte/Genezareth
+ }
+#}
 #lk-5-2 {
  {
          <i>Netze waschen</i>: <a class='kom' href='#Imt-4-21'>Mt&nbsp;4,21</a>.
+ }
+#}
+#lk-5-3 {
+ {
+  Beachte: → biblisches/Personen/Andreas wird hier nicht namentlich erwähnt, vgl §mt-4-18-ff, §mk-1-16-ff.
  }
 #}
 #lk-5-4 {
@@ -63460,6 +63505,17 @@
 #lk-5-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/knien
+ }
+#}
+#lk-5-9 {
+ {
+  <i>Entsetzen</i>: §lk-4-36
+ }
+#}
+#lk-5-10 {
+ {
+  <i>fangen</i> (<span class='gr'>ζωγρέω</span>, Strongs 2221, 2x), etwa «lebendig fangen». Dasselbe Wort kommt noch in §2tim-2-26 vor, wo von Menschen die Rede ist, die vom Teufels
+  gefangen sind.
  }
 #}
 #lk-5-11 {
@@ -65722,7 +65778,7 @@
   <i>Ich bin nicht der Christus</i> vgl §+lk-3-15
  }
  {
-  Die Gesandten gehören zu den Pharisäern (Vers 24).
+  Die Gesandten gehören zu den Pharisäern (§Vjoh-1-19). Vgl mit den Schriftgelehrten, die von Jerusalem herabgekommen waren und sprachen, dass Jesus den Beelzebub habe (§mk-3-22).
  }
 #}
 #joh-1-21 {
@@ -65784,6 +65840,9 @@
    <a class='kom' href='#I2sam-17-16'>2.&nbsp;Sam&nbsp;17,16</a> (als 'Ebene der Wüste' übersetzt) und in
    <a class='kom' href='#I2sam-19-19'>2.&nbsp;Sam&nbsp;19,19</a> (als 'Fähre' übersetzt) vor.
    <br>TODO: vgl <a class='kom' href='#I4mo-21-11'>4.&nbsp;Mo&nbsp;21,11</a>
+ }
+ {
+  <span class='gt'>TR hat <i>Bethabara</i> statt Bethanien</span>
  }
 #}
 #joh-1-29 {
@@ -65877,7 +65936,7 @@
 #}
 #joh-1-45 {
  {
-  → biblisches/Orte/Nazareth
+  <i>Kann aus → biblisches/Orte/Nazareth etwas Gutes kommen</i> vgl §joh-7-52
  }
  {
   <i>Sohn Josephs</i>: §joh-6-42.
@@ -66901,6 +66960,9 @@
  }
 #}
 #joh-7-52 {
+ {
+  <i>…dass kein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet aus → biblisches/Orte/Galiläa aufsteht</i> vgl §joh-1-45-46
+ }
  {
   TODO: <i>Prophet</i>: <a class='kom' href='#Ijoh-1-21'>Joh&nbsp;1,21</a>.
  }
@@ -71024,6 +71086,9 @@
  {
   Benannte Kaiser: <a class='kom' href='#Ilk-2-1'>Lk&nbsp;2,1</a>.
  }
+ {
+  <i>Agabus</i>: vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] Agabus in §apg-21-10
+ }
 #}
 #apg-11-29 {
  {
@@ -73134,6 +73199,11 @@
  }
  {
   TODO: wird die 'Wir-Form' bis <a href='http://bibel.renenyffenegger.ch/apg_27.html#v1'>Apg&nbsp;27,1</a> unterbrochen?
+ }
+#}
+#apg-21-10 {
+ {
+  <i>Agabus</i> vgl §+apg-11-28. Offenbar stammt der Name von «Hagab» ab (§esr-2-46).
  }
 #}
 #apg-21-11 {
@@ -78148,8 +78218,10 @@
    verschiedene Sprachen.
  }
  {
-  <i>Leitung</i> <span class='gr'>κυβέρνησις</span> (Strongs 2941, 1x). Dieses Wort entspricht dem Lateinischen gubernare oder Englischen to govern.
-  Vgl Strong 2942.
+  <i>Regierungen</i> (<span class='gr'>κυβέρνησις</span>, Strongs 2941, 1x). Dieses Wort entspricht dem Lateinischen gubernare oder Englischen to govern.
+  Entsprechend wird das Wort in Sch2K mit «Regierungen», in KJV mit «to govern» übersetzt.
+  <br>
+  Vgl Strong 2942, welches in §apg-27-11 und §offb-18-17 mit «Steuermann» übersetzt wird.
  }
 #}
 #1kor-12-29 {
@@ -85596,6 +85668,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2tim-2-26 {
  {
   <i>Fallstrick</i>: <a class='kom' href='#I1tim-3-7'>1.&nbsp;Tim&nbsp;3,7</a>.
+ }
+ {
+  <i>gefangen</i> vgl §lk-5-10.
  }
  {
   TODO: Für den Willen Gottes oder des Teufels? http://hermeneutics.stackexchange.com/questions/21341
