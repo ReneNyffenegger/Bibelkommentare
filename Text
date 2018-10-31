@@ -16,7 +16,7 @@
   <a href='http://bibel.renenyffenegger.ch/eph_2.html#v6'>Eph 2,6-7</a>, <a href='http://bibel.renenyffenegger.ch/kol_1.html#v5'>Kol&nbsp;1,5</a>).
  }
  {
-  Gott schuf Himmel und Erde, <i>bevor</i> er zum ersten Mal sprach (Vers 3).
+  Gott schuf Himmel und Erde, <i>bevor</i> er zum ersten Mal sprach (§V1mo-1-3).
  }
  {
   Das Wort für Himmel ist offenbar im Dual. Ebenso in <a href='http://bibel.renenyffenegger.ch/1mo_2.html#v1'>1.&nbsp;Mo&nbsp;2,1</a> (wo es im Singular
@@ -113,6 +113,7 @@
  {
   <i>sprach</i>: beachte, die Sprache (respektive, das Wort, <a href='http://bibel.renenyffenegger.ch/joh_1.html#v1'>Joh&nbsp;1,1</a>), war bereits da,
    und musste nicht geschaffen werden.
+   <br>Siehe auch §ps-33-6 und §ps-33-9
    <br>Vgl Die sichtbaren Dinge sind aus Unsichtbarem entstanden, und durch Glauben verstehen wir, dass die Welten durch Gottes
    Wort bereitet worden sind (<a href='http://bibel.renenyffenegger.ch/hebr_11.html#v3'>Hebr&nbsp;11,3</a>).
  }
@@ -39618,7 +39619,7 @@
 #}
 #ps-33-6 {
  {
-  durch des HERRN Wort sind die Himmel gemacht: vgl §joh-1-3, §hebr-11-3
+  Durch des HERRN Wort sind die Himmel gemacht: vgl §joh-1-3, §hebr-11-3
  }
 #}
 #ps-33-7 {
@@ -39628,12 +39629,12 @@
 #}
 #ps-33-9 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/kla_3.html#v37'>Kla&nbsp;3,37</a>.
+  Vgl §kla-3-37, §1mo-1-3
  }
 #}
 #ps-33-10 {
  {
-  Vgl Gedanken und Ratschluss der Heiden mit denen des HERRN im nächsten Vers.
+  Vgl Gedanken und Ratschluss der Nationen mit denen des HERRN im nächsten Vers und §jes-14-26.
  }
 #}
 #ps-33-11 {
@@ -46280,6 +46281,11 @@
   <i>Joch</i>: §+3mo-26-13
  }
 #}
+#jes-14-26 {
+ {
+  Vgl §ps-33-10
+ }
+#}
 #jes-14-28 {
  {
   <i>Todesjahr des Ahas</i>: <a class='kom' href='#I2koe-16-20'>2.&nbsp;Kö&nbsp;16,20</a>.
@@ -51451,7 +51457,7 @@
 #}
 #kla-3-37 {
  {
-   Vgl <a href='http://bibel.renenyffenegger.ch/ps_33.html#v9'>Ps&nbsp;33,9</a>.
+   Vgl §ps-33-9.
  }
 #}
 #kla-3-53 {
@@ -55292,10 +55298,7 @@
 #}
 #am-8-9 {
  {
-  TODO: Wurde dies an der Kreuzigung erfüllt? Vgl
-    <a href='http://bibel.renenyffenegger.ch/mt_27.html#v45'>Mt&nbsp;27,45</a>,
-    <a href='http://bibel.renenyffenegger.ch/mk_15.html#v33'>Mk&nbsp;15,33</a>,
-    <a href='http://bibel.renenyffenegger.ch/lk_23.html#v44'>Lk&nbsp;23,44</a>.
+  Wurde dies an der Kreuzigung erfüllt? Vgl §mt-27-45, §mk-15-33, §lk-23-44.
  }
 #}
 #am-8-12 {
@@ -60786,7 +60789,10 @@
 #}
 #mt-27-45 {
  {
-   <i>Finsternis</i>: <a class='kom' href='#Iam-8-9'>Am&nbsp;8,9</a>
+  §mk-15-33, §lk-23-44
+ }
+ {
+   <i>Finsternis</i>: §+am-8-9
  }
 #}
 #mt-27-46 {
@@ -60871,6 +60877,11 @@
 #mt-27-65 {
  {
    <i>So gut ihr könnt</i>: Pilatus schien gar nicht mehr so sicher zu sein, dass Jesus nicht auferstehen würde.
+ }
+#}
+#mt-27-66 {
+ {
+  <i>versiegelt</i>: offenbar ist nach römischem Recht das Brechen eines Siegels mit der Todesstrafe verbunden.
  }
 #}
 @}
@@ -62575,7 +62586,10 @@
 #}
 #mk-15-33 {
  {
-   <i>Finsternis</i>: <a class='kom' href='#Iam-8-9'>Am&nbsp;8,9</a>
+  §mt-27-45, §lk-23-44
+ }
+ {
+   <i>Finsternis</i>: §+am-8-9
  }
 #}
 #mk-15-34 {
@@ -65475,7 +65489,10 @@
 #}
 #lk-23-44 {
  {
-   <i>Finsternis</i>: <a class='kom' href='#Iam-8-9'>Am&nbsp;8,9</a>
+  §mt-27-45, §mk-15-33
+ }
+ {
+   <i>Finsternis</i>: §+am-8-9
  }
 #}
 #lk-23-45 {
