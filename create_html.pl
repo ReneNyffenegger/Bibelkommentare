@@ -523,11 +523,7 @@ sub print_verse { # {{{
 write_html_footer('offb', 22);  # Last converted book
 
 if ($web) {
-  print "putting BibelKommentare.css\n";
-# 2017-01-20 RN::copy_url_path_abs_2_os_path('BibelKommentare.css', "/Biblisches/Kommentare/BibelKommentare.css");
   RN::copy_os_path_2_url_path_abs('BibelKommentare.css', "/Biblisches/Kommentare/Bibelkommentare.css");
-  print "done\n";
-# ftp_put('BibelKommentare.css');
 }
 else {
   copy 'BibelKommentare.css', $out_dir or die "Could not copy BibelKommentare.css to $out_dir";
@@ -659,6 +655,7 @@ E
 
 
   print $out_bible "<div id='kapitel'><table summary='...'><tr><td id='kap-name'>$title</td>";
+  unless ('write chapters') { # 2018-11-14: don't write links to chapters in same book.
 
   my $anzahl_kap = Bibel::AnzahlKapitel($book);
 
@@ -669,10 +666,11 @@ E
       print $out_bible "<a href='${book}_$k.html'>$k</a> ";
     }
     print $out_bible "</td>";
+    }
 
-  }
   print $out_bible "<td class='title-sep'>&nbsp;</td><td><a href='index.html'>Index</a></td>";
   
+  } # 2018-11-14: don't write links to chapters in same book.
   print $out_bible "</tr></table></div>";
 
   print $out_bible "<div id='top'>&nbsp;</div>";
