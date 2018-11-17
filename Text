@@ -1352,6 +1352,9 @@
  {
    <i>Geschichte</i>: <a class='kom' href='#I1mo-2-4'>1.&nbsp;Mo&nbsp;2,4</a>. Vgl die <i>Geschichte Noahs</i> mit der <i>Geschichte der Söhne Noahs</i> (<a href='http://bibel.renenyffenegger.ch/1mo_10.html#v1'>1. Mo 10,1ff</a>).
  }
+ {
+  <i>in seinem Geschlecht</i>: Elb und Sch2K übersetzen mit «unter seinen Zeitgenossen».
+ }
 #}
 #1mo-6-11 {
  {
@@ -20442,7 +20445,10 @@
 #}
 #5mo-23-5 {
  {
-         Bileam liebte den Lohn der Ungerechtigkeit (<a href='http://bibel.renenyffenegger.ch/2petr_2.html#v15'>2.&nbsp;Petr&nbsp;2,15</a>)
+  Bileam liebte den Lohn der Ungerechtigkeit: §2petr-2-15
+ }
+ {
+  §neh-13-2
  }
 #}
 #5mo-23-8 {
@@ -31227,6 +31233,11 @@
   Er hatte ein Standbild der Aschera gemacht, in <a href='http://bibel.renenyffenegger.ch/2chr_33.html#v7'>2.&nbsp;Chr&nbsp;33,7</a> liess er ein Gätzenbild machen.
  }
 #}
+#2koe-21-9 {
+ {
+  §2chr-33-9
+ }
+#}
 #2koe-21-10 {
  {
    Da redete der HERR durch → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten[seine Knechte, die Propheten]: vgl §jak-5-10.
@@ -35463,6 +35474,11 @@
   <a class='kom' href='#I2koe-21-7'>2.&nbsp;Kö&nbsp;21,7</a>.
  }
 #}
+#2chr-33-9 {
+ {
+  §2koe-21-9
+ }
+#}
 #2chr-33-10 {
  {
   Gemäss <a href='http://bibel.renenyffenegger.ch/2koe_21.html#v10'>2.&nbsp;Kö&nbsp;21,10</a> redete der HERR durch seine Knechte,
@@ -37564,6 +37580,11 @@
 #}
 @}
 @Nehemia 13 {
+#neh-13-2 {
+ {
+  §5mo-23-5
+ }
+#}
 #neh-13-5 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch, → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Torhüter
@@ -38670,7 +38691,7 @@
 #}
 #ps-2-7 {
  {
-  <i>Du bist mein Sohn …</i>: zitiert in §+apg-13-33.
+  <i>Du bist mein Sohn …</i>: zitiert in §+apg-13-33, §hebr-1-5, §hebr-5-5
   <br>
   Vgl §spr-30-4
  }
@@ -40901,6 +40922,11 @@
 #}
 @}
 @Psalm 74 {
+#ps-74-1 {
+ {
+  <i>Herde deiner Weide</i> vgl §ps-79-13, §ps-95-7, §ps-100-3, §jer-23-1, §hes-34-31
+ }
+#}
 #ps-74-2 {
  {
   TODO: Offenbar enthält dieser Vers Strongs 7626, siehe <a class='kom' href='#I1mo-49-10'>1.&nbsp;Mo&nbsp;49,10</a>.
@@ -41148,6 +41174,9 @@
  }
 #}
 #ps-79-13 {
+ {
+  <i>Herde deiner Weide</i> vgl §ps-74-1, §ps-95-7, §ps-100-3, §jer-23-1, §hes-34-31
+ }
  {
   <i>weiden</i>: <a class='kom' href='#I2sam-5-2'>2.&nbsp;Sam&nbsp;5,2</a>.
   <br>Auch <a href='http://bibel.renenyffenegger.ch/ps_95.html#v7'>Ps&nbsp;95,7</a>, <a href='http://bibel.renenyffenegger.ch/ps_100.html#v3'>Ps&nbsp;100,3</a>
@@ -41676,10 +41705,10 @@
 #}
 #ps-95-7 {
  {
-  <i>Volk seiner Weide und die Schafe seiner Hand</i>: <a class='kom' href='#Ips-79-13'>Ps&nbsp;79,13</a>.
+  <i>Herde deiner Weide</i> vgl §ps-74-1, §ps-79-13, §ps-100-3, §jer-23-1, §hes-34-31
  }
  {
-  <i>Heute, wenn ihr seine Stimme hört</i>: <a href='http://bibel.renenyffenegger.ch/hebr_3.html#v15'>Hebr&nbsp;3,15</a>, <a href='http://bibel.renenyffenegger.ch/hebr_4.html#v7'>Hebr&nbsp;4,7</a>.
+  <i>Heute, wenn ihr seine Stimme hört</i>: §hebr-3-7, §hebr-3-15, §hebr-4-7.
  }
 #}
 #ps-95-8 {
@@ -41863,7 +41892,7 @@
 #}
 #ps-100-3 {
  {
-  <i>Schafe</i> und <i>Weide</i>: §+ps-79-13
+  <i>Herde deiner Weide</i> vgl §ps-74-1, §ps-79-13, §ps-95-7, §ps-100-3, §jer-23-1, §hes-34-31
  }
  {
   <i>Erkennt, dass der HERR Gott ist</i>: §+2mo-6-7.
@@ -49634,6 +49663,9 @@
 @Jeremia 23 {
 #jer-23-1 {
  {
+  <i>Schafe meiner Weide</i> §+ps-47-1
+ }
+ {
   <i>Schafe zerstreuen</i> vgl §jer-10-21
  }
 #}
@@ -52735,6 +52767,11 @@
 #hes-34-29 {
  {
   'Ruhm' siehe <a class='kom' href='#Ihes-16-14'>Hes&nbsp;16,14</a>.
+ }
+#}
+#hes-34-31 {
+ {
+  <i>Herde meiner Weide</i>: §+ps-74-1
  }
 #}
 @}
@@ -85412,6 +85449,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-6-20 {
  {
+  <i>eitlen Geschwätzen</i>: <span class='gr'>κενοφωνία</span> (Strongs 2757, 2x) kommt noch in §2tim-2-16 vor.
+  <br>
+  Sch2K übersetzt mit «nichtigen Schwätzereien», Elb mit «eitlen Geschwätzen».
+ }
+ {
   TODO; Das <i>anvertraute Gut</i> (<span class='greek'>παρακαταθήκη</span>, Strongs 3872) kann offenbar auch 'Pfand' bedeuten.
   <br>Vgl mit <a href='http://bibel.renenyffenegger.ch/2tim_1.html#v14'>2.&nbsp;Tim&nbsp;1,14</a>: 'das <i>edle</i> anvertraute Gut bewahre durch den Heiligen Geist'.
   Dieses edle anvertraute Gut bewahre durch den Heiligen Geist, der in uns wohnt!
@@ -85649,6 +85691,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #2tim-2-16 {
+ {
+  <i>eitlen Geschwätzen</i>: <span class='gr'>κενοφωνία</span> (Strongs 2757, 2x) kommt noch in §1tim-6-20 vor.
+ }
  {
   <i>Hymenäus</i>: <a class='kom' href='#I1tim-1-20'>1.&nbsp;Tim&nbsp;1,20</a>.
  }
@@ -86632,10 +86677,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-1-5 {
  {
-  Vgl <a class='kom' href='#I2sam-7-14'>2.&nbsp;Sam&nbsp;7,14</a>.
+  <i>Du bist mein Sohn …</i>: Zitat aus §ps-2-7. Vgl §hebr-5-5
  }
  {
-  S.a. <a href='http://bibel.renenyffenegger.ch/hebr_5.html#v6'>Hebr&nbsp;5,6</a>.
+  Vgl §+2sam-7-14.
  }
 #}
 #hebr-1-6 {
@@ -86895,7 +86940,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    TODO: Der Heilige Geist spricht: <a class='kom' href='#Iapg-13-2'>Apg&nbsp;13,2</a>.
  }
  {
-  <i>Heute, wenn ihr seine Stimme hört</i>: hier spricht der Heilige Geist, in §hebr-4-7, wird dies «in David» gesagt.
+  <i>Heute, wenn ihr seine Stimme hört</i>: §ps-95-7. Hier spricht der Heilige Geist, in §hebr-4-7, wird dies «in → biblisches/Personen/David[David]» gesagt.
  }
  {
   <i>Heute</i>: s. Vers 13, 15
@@ -87068,10 +87113,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Ehre</i>: <a class='kom' href='#Ihebr-2-9'>Hebr&nbsp;2,9</a>.
  }
 #}
-#hebr-5-6 {
+#hebr-5-5 {
  {
-  Vgl §hebr-1-5.
+  <i>Du bist mein Sohn …</i>: Zitat aus §ps-2-7. Vgl §hebr-1-5.
  }
+#}
+#hebr-5-6 {
  {
   <i>Wie er auch an einer anderen Stelle sagt</i> vgl §apg-13-35
  }
