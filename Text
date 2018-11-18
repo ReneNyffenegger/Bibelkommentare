@@ -8500,6 +8500,9 @@
   <br>
   Vgl die <i>600&nbsp;000 Mann zu Fuss</i> mit den 603&nbsp;550 Mann in §2mo-38-26 und den 600&nbsp;000 Mann zu Fuss in §4mo-11-21.
  }
+ {
+  §4mo-33-5
+ }
 #}
 #2mo-12-38 {
  {
@@ -9126,14 +9129,13 @@
 @2. Mose 17 {
 #2mo-17-1 {
  {
-  <i>Kein Wasser</i>: Vgl <a class='kom' href='#I2mo-15-22'>2.&nbsp;Mo&nbsp;15,22</a> und
-  <a class='kom' href='#I4mo-33-14'>4.&nbsp;Mo&nbsp;33,14</a>.
+  <i>Kein Wasser</i>: Vgl §+2mo-15-22, §4mo-20-1 und §+4mo-33-14.
  }
  {
    Nachdem sie aus der Wüste Sin ausgezogen sind, lagerten sie sich noch in
    Dophka (<a href='http://bibel.renenyffenegger.ch/4mo_33.html#v12'>4.&nbsp;Mo&nbsp;33,12</a>) und in
    Alusch (<a href='http://bibel.renenyffenegger.ch/4mo_33.html#v13'>4.&nbsp;Mo&nbsp;33,13</a>) bevor sie sich
-   in Rephidim <a href='http://bibel.renenyffenegger.ch/4mo_33.html#v14'>4.&nbsp;Mo&nbsp;33,14</a> lagerten.
+   in → biblisches/Orte/Rephidim <a href='http://bibel.renenyffenegger.ch/4mo_33.html#v14'>4.&nbsp;Mo&nbsp;33,14</a> lagerten.
  }
  {
   <i>Nach dem Befehl des HERRN aufbrechen</i>: vgl <a href='http://bibel.renenyffenegger.ch/4mo_9.html#v18'>4.&nbsp;Mo&nbsp;9,18</a>,
@@ -9171,7 +9173,7 @@
   → biblisches/Exodus/Nahrung#exodus-wasser
  }
  {
-  TODO: Hier sind sie am <i>Felsen am Horeb</i> in <i>Rephidim</i>. In <a href='http://bibel.renenyffenegger.ch/2mo_19.html#v2'>2.&nbsp;Mo&nbsp;19,2</a> ziehen
+  TODO: Hier sind sie am <i>Felsen am Horeb</i> in → biblisches/Orte/Rephidim. In <a href='http://bibel.renenyffenegger.ch/2mo_19.html#v2'>2.&nbsp;Mo&nbsp;19,2</a> ziehen
   sie von <i>Rephidim</i> in die <i>Wüste Sinai</i>. In dieser Wüste Sinai scheint der <i>Berg Horeb</i> zu sein (<a href='http://bibel.renenyffenegger.ch/2mo_33.html#v6'>2.&nbsp;Mo&nbsp;33,6</a>).
  }
  {
@@ -9214,7 +9216,7 @@
 #}
 #2mo-17-8 {
  {
-  Kaum hat Israel Brot (Manna) und Wasser gekriegt, kämpft schon Amalek gegen sie.
+  Kaum hat Israel Brot (Manna) und Wasser gekriegt, kämpft schon → biblisches/Personen/Amalek gegen sie.
  }
  {
   Beachte, dass <i>Amalek</i> eigentlich ein sehr naher Verwandter von Israel ist (<a href='http://bibel.renenyffenegger.ch/1mo_36.html#v12'>1.&nbsp;Mo&nbsp;36,12</a>).
@@ -11563,6 +11565,9 @@
  }
 #}
 #2mo-32-15 {
+ {
+  <i>beschrieben auf ihren beiden Seiten</i> vgl §offb-5-1, §sach-5-3
+ }
  {
   TODO: offenbar bedeutet dies, dass Mose diese Tafeln in <i>einer</i> Hand heruntergetragen hat.
   <br>ABER: vgl <a href='http://bibel.renenyffenegger.ch/5mo_9.html#v15'>5.&nbsp;Mo&nbsp;9,15</a> ('beide Hände').
@@ -16177,6 +16182,11 @@
   TODO 'Lärm blasen' (Strongs 8643) siehe <a class='kom' href='#I4mo-23-21'>4.&nbsp;Mo&nbsp;23,21</a>.
  }
 #}
+#4mo-10-6 {
+ {
+  <i>Aufbruch</i>: Strongs 4550 (<span class='hebr'>מַסַּע</span>), wird häufig mit «Züge» übersetzt.
+ }
+#}
 #4mo-10-8 {
  {
   → biblisches/Personen/Aaron/Söhne#soehne-aarons-die-priester
@@ -16233,6 +16243,11 @@
 #4mo-10-21 {
  {
   → biblisches/Personen/Kahat
+ }
+#}
+#4mo-10-28 {
+ {
+  <i>Marschordnung</i>, Strongs 4550 (<span class='hebr'>מַסַּע</span>) könnte evtl. auch mit «Züge» übersetzt werden.
  }
 #}
 #4mo-10-29 {
@@ -16419,6 +16434,9 @@
 #}
 #4mo-11-35 {
  {
+  §4mo-33-17
+ }
+ {
   TODO: <b>Hazerot</b> offenbar die (weibliche) Mehrzahlform für 'Dorf', 'Siedlung'
   ('Höfe' in <a href='http://bibel.renenyffenegger.ch/1mo_25.html#v16'>1.&nbsp;Mo&nbsp;25,16</a>,
   <a href='http://bibel.renenyffenegger.ch/2mo_8.html#v9'>2.&nbsp;Mo&nbsp;8,9</a>).
@@ -16575,8 +16593,7 @@
   Geschah der Aufenthalt in <a href='http://bibel.renenyffenegger.ch/4mo_33.html#v19'>4.&nbsp;Mo&nbsp;33,19</a> hier?
  }
  {
-  <i>Wein</i>, <i>Granatäpfel</i>, und <i>Feigen</i>: <a class='kom' href='#I4mo-20-5'>4.&nbsp;Mo&nbsp;20,5</a>,
-  <a href='http://bibel.renenyffenegger.ch/5mo_8.html#v8'>5.&nbsp;Mo&nbsp;8,8</a>.
+  Beachte: Obwohl die Kundschafter mit Weintrauben von Beeren, Granatäpfeln und Feigen zurückkamen, bestritten die Israeliten in §4mo-20-5, dass sie diese Früchte sehen würden. Vgl §5mo-8-8.
  }
  {
    TODO <i>Tal</i> (Strongs 5158), in KJV mit «brook» übersetzt: <a class='kom' href='#I1mo-26-17'>1.&nbsp;Mo&nbsp;26,17</a>.
@@ -17166,10 +17183,15 @@
   <i>Fels</i>: <span class='hebr'>סֶלַע</span> (Strongs 5553), vgl mit <a class='kom' href='#I2mo-17-6'>2.&nbsp;Mo&nbsp;17,6</a>.
  }
 #}
+#4mo-20-10 {
+ {
+  Sie hätten zum Felsen, nicht zum Volk, sprechen sollen.
+ }
+#}
 #4mo-20-13 {
  {
-  <i>Haderwasser</i> <span class='hebr'>מֵ֣י מְרִיבָ֔ה</span> (Strongs 4325 4809, → biblisches/Orte/Meriba#wasser-von-meriba). Meriba ist dasselbe Wort wie in <a href='http://bibel.renenyffenegger.ch/2mo_17.html#v7'>2.&nbsp;Mo&nbsp;17,7</a>.
-  <br>Vgl <a class='kom' href='#Ips-106-32'>Ps&nbsp;106,32</a>.
+  → biblisches/Orte/Meriba#wasser-von-meriba <span class='hebr'>מֵ֣י מְרִיבָ֔ה</span> (Strongs 4325 4809, «Haderwasser»). Meriba ist dasselbe Wort wie in §2mo-17-7.
+  <br>Vgl §+ps-106-32.
  }
 #}
 #4mo-20-14 {
@@ -18345,6 +18367,9 @@
 #}
 #4mo-33-5 {
  {
+  §2mo-12-37
+ }
+ {
   Sukkot bedeutet 'Hütten', siehe <a class='kom' href='#I1mo-33-17'>1.&nbsp;Mo&nbsp;33,17</a>.
  }
 #}
@@ -18376,7 +18401,7 @@
 #}
 #4mo-33-10 {
  {
-  <i>Rotes Meer</i> siehe <a class='kom' href='#I4mo-14-25'>4.&nbsp;Mo&nbsp;14,25</a>.
+  <i>Schilfmer</i> siehe §+4mo-14-25.
  }
 #}
 #4mo-33-12 {
@@ -18384,7 +18409,7 @@
   <i>Dophka</i> <span class='hebr'>דָּפְקָה</span> (Strongs 1850) bedeutet offenbar «klopfen».
  }
  {
-  Wüste Sin bis Rephidim: <a href='http://bibel.renenyffenegger.ch/2mo_17.html#v1'>2.&nbsp;Mo&nbsp;17,1</a>.
+  Wüste Sin bis → biblisches/Orte/Rephidim: <a href='http://bibel.renenyffenegger.ch/2mo_17.html#v1'>2.&nbsp;Mo&nbsp;17,1</a>.
  }
 #}
 #4mo-33-13 {
@@ -18394,7 +18419,7 @@
 #}
 #4mo-33-14 {
  {
-  <i>Rephidim</i> (<span class='hebr'>רְפִידִים</span>, Strongs 7508) bedeutet offenbar 'Ruheplatz' und ist verwandt mit jenem Wort, das als
+  → biblisches/Orte/Rephidim (<span class='hebr'>רְפִידִים</span>, Strongs 7508) bedeutet offenbar 'Ruheplatz' und ist verwandt mit jenem Wort, das als
   'Lehne' in <a href='http://bibel.renenyffenegger.ch/hl_3.html#v10'>Hl&nbsp;3,10</a> übersetzt wird.
         <br>
   Der <i>Felsen am Horeb</i> ist in Rephidim (<a href='http://bibel.renenyffenegger.ch/2mo_17.html#v6'>2.&nbsp;Mo&nbsp;17,6</a>).
@@ -18406,15 +18431,18 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Manna
  }
+ {
+  <i>kein Wasser</i>: Die Israeliten hatten auch in der Wüste Zin (§V4mo-33-36) kein Wasser (vgl §4mo-20-1-2), was aber in Vers 36 dieses Kapitels nicht erwähnt wird.
+ }
 #}
 #4mo-33-16 {
  {
-  <i>Lustgräber</i>. TODO = Tabeera, siehe <a class='kom' href='#I4mo-11-34'>4.&nbsp;Mo&nbsp;11,34</a>.
+  <i>Kibroth-Hattaawa</i> bedeutet «Lustgräber», vgl §4mo-11-34.
  }
 #}
 #4mo-33-17 {
  {
-  <i>Hazerot</i> siehe <a class='kom' href='#I4mo-11-35'>4.&nbsp;Mo&nbsp;11,35</a>.
+  <i>Hazeroth</i>: §+4mo-11-35.
  }
 #}
 #4mo-33-18 {
@@ -18444,6 +18472,13 @@
    <i>Jothbatha</i> (<span class='hebr'><span class='grey'>בְּ</span>יָטְבָֽתָה</span>, Strongs 3193) vgl mit <i>Jotbatah</i> (<span class='hebr'>יָטְבָ֔תָה</span>) in
    <a href='http://bibel.renenyffenegger.ch/5mo_10.html#v7'>5.&nbsp;Mo&nbsp;10,7</a>. TODO: Diese beiden Orte wären wohl besser gleich geschreiben worden.
    <br>TODO <i>Jotba</i> in <a href='http://bibel.renenyffenegger.ch/2koe_21.html#v19'>2.&nbsp;Kö&nbsp;21,19</a> ist wohl ein ganz anderer Ort.
+ }
+#}
+#4mo-33-36 {
+ {
+  <i>Wüste Zin</i>: §4mo-20-1, vgl §4mo-13-21 u. §4mo-27-14.
+  <br>
+   In der Wüste Zin hatten die Israeliten kein Wasser, vgl §V4mo-33-14.
  }
 #}
 #4mo-33-38 {
@@ -19699,6 +19734,10 @@
 #}
 #5mo-9-22 {
  {
+  Alle drei Ortsnamen wurden nach einem Vorfall neu gegeben: Tabhera in §4mo-11-3, 
+  Massa in §2mo-17-7 und Kibroth-Hattaawa in §4mo-11-22. 
+ }
+ {
   <i>Lustgräber</i>. TODO = Tabeera, siehe <a class='kom' href='#I4mo-11-34'>4.&nbsp;Mo&nbsp;11,34</a>.
  }
 #}
@@ -19787,6 +19826,11 @@
   Levis</i> erwähnt.
   <br>Vgl <a href='http://bibel.renenyffenegger.ch/5mo_14.html#v27'>5.&nbsp;Mo&nbsp;14,27</a>.
   <br>Den Leviten stehen hingegen die Feueropfer des Herrn zu: <a href='http://bibel.renenyffenegger.ch/5mo_18.html#v1'>5.&nbsp;Mo&nbsp;18,1</a>.
+ }
+#}
+#5mo-10-11 {
+ {
+  TODO: Strongs H4550
  }
 #}
 #5mo-10-12 {
@@ -56298,7 +56342,7 @@
 #}
 #sach-5-3 {
  {
-   Die Rolle ist offenbar beidseitig beschrieben. Vgl §offb-5-1.
+   Die Rolle ist offenbar beidseitig beschrieben. Vgl §offb-5-1, §2mo-32-15
  }
 #}
 #sach-5-9 {
@@ -92274,7 +92318,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Beschriebenes Buch</i>: §+offb-1-11.
  }
  {
-  <i>Inwendig und auswendig beschrieben</i>: vgl mit der Buchrolle in §hes-2-9-ff und der fliegenden Rolle in §sach-5-3
+  <i>Inwendig und auswendig beschrieben</i>: vgl mit der Buchrolle in §hes-2-9-ff und der fliegenden Rolle in §sach-5-3 und den zwei Tafeln des Zeugniesses, §2mo-32-15.
  }
 #}
 #offb-5-2 {
