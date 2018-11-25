@@ -23796,11 +23796,27 @@
 #}
 #ri-3-16 {
  {
-  <i>Zweischneidiges Schwert</i>: <a href='http://bibel.renenyffenegger.ch/ps_149.html#v6'>Ps&nbsp;149,6</a> (Das Lob Gottes),
-  <a href='http://bibel.renenyffenegger.ch/spr_5.html#v4'>Spr&nbsp;5,4</a> (Die Lippen der Verführerin),
-  <a href='http://bibel.renenyffenegger.ch/hebr_4.html#v12'>Hebr&nbsp;4,12</a> (Das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes]),
-  <a href='http://bibel.renenyffenegger.ch/offb_1.html#v16'>Offb&nbsp;1,16</a> und
-  <a href='http://bibel.renenyffenegger.ch/offb_2.html#v8'>Offb&nbsp;2,8</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schwert/zweischneidig
+ }
+ {
+  Ehud gürtete sein Schwert <i>unter</i> seinen Rock, → biblisches/Personen/David <i>über</i> seinen Rock, §1sam-1-17
+ }
+ {
+ TODO
+  <i>Zweischneidiges Schwert</i>: §ps-149-6 (Das Lob Gottes),
+  §spr-5-4 (Die Lippen der Verführerin),
+  §hebr-4-12 (Das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes]),
+  §offb-1-16 und
+  §offb-2-8.
+ }
+ {
+   TODO LXX, in 
+     §ri-3-16: μάχαιραν δίστομον
+     §ps-149-6: ρομφαίαι δίστομοι
+     §spr-5-4: μαχαίρας διστόμου
+
+      
+      
  }
 #}
 #ri-3-19 {
@@ -25156,6 +25172,11 @@
  {
   Offenbar hielt Eli Hanne für eine Tochter Belials, aber <a href='http://bibel.renenyffenegger.ch/1sam_2.html#v12'>1.&nbsp;Sam&nbsp;2,12</a> sagt, dass Elis Söhne  des Belials
   waren.
+ }
+#}
+#1sam-1-17 {
+ {
+  → biblisches/Personen/David gürtete sein Schwert <i>über</i> seinen Rock, Ehud <i>unter</i> seinen Rock, §ri-3-16.
  }
 #}
 #1sam-1-20 {
@@ -39784,6 +39805,11 @@
   Siehe auch <a href='http://bibel.renenyffenegger.ch/1koe_10.html#v16'>1.&nbsp;Kö&nbsp;10,16</a>.
  }
 #}
+#ps-35-4 {
+ {
+  <i>Lass sie beschämt und zu Schanden werden</i> vgl §Vps-35-26, §ps-40-15, §ps-70-3
+ }
+#}
 #ps-35-7 {
  {
   Vgl §ps-69-5
@@ -39808,6 +39834,9 @@
  }
 #}
 #ps-35-26 {
+ {
+  Vgl §Vps-35-4
+ }
  {
   <i>Unglück</i> Vgl §ps-38-13, §ps-40-15, §ps-70-3
  }
@@ -39982,6 +40011,11 @@
 #ps-40-11 {
  {
   <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>.
+ }
+#}
+#ps-40-15 {
+ {
+  <i>Lass sie beschämt und zu Schanden werden</i> vgl §+ps-35-4
  }
 #}
 #ps-40-16 {
@@ -40754,6 +40788,11 @@
   <i>Ohne Ursache hassen</i>: §joh-15-25, vgl §ps-35-7
  }
 #}
+#ps-69-6 {
+ {
+  <i>Meine Vergeheungen sind dir nicht verborgen</i> vgl §2kor-5-21.
+ }
+#}
 #ps-69-7 {
  {
   <i>hoffen</i>: <a class='kom' href='#I1mo-49-18'>1.&nbsp;Mo&nbsp;49,18</a>.
@@ -40806,6 +40845,11 @@
 #}
 @}
 @Psalm 70 {
+#ps-70-3 {
+ {
+  Vgl §+ps-35-4
+ }
+#}
 #ps-70-4 {
  {
   <i>Haha</i>: <a class='kom' href='#Ihi-39-25'>Hi&nbsp;39,25</a>.
@@ -43549,7 +43593,7 @@
 #}
 #ps-149-6 {
  {
-  <i>Zweischneidiges Schwert</i>: <a class='kom' href='#Iri-3-16'>Ri&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schwert/zweischneidig
  }
 #}
 @}
@@ -43845,7 +43889,7 @@
 @Sprüche 5 {
 #spr-5-4 {
  {
-  <i>Zweischneidiges Schwert</i>: <a class='kom' href='#Iri-3-16'>Ri&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schwert/zweischneidig
  }
  {
   <i>Bitter wie Wermut</i> vgl §offb-8-11
@@ -79515,6 +79559,9 @@
 #}
 #2kor-5-21 {
  {
+  <i>zur Sünde gemacht</i> vgl §ps-69-6
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit
  }
 #}
@@ -85752,6 +85799,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Dich Gott als bewährt zu erweisen</i> vgl §1thes-2-4
  }
+ {
+  §+hebr-4-12.
+ }
 #}
 #2tim-2-16 {
  {
@@ -87105,10 +87155,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>wirksam</i>: <a class='kom' href='#I1kor-16-9'>1.&nbsp;Kor&nbsp;16,9</a>.
  }
  {
-  <i>Zweischneidiges Schwert</i>: <a class='kom' href='#Iri-3-16'>Ri&nbsp;3,16</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schwert/zweischneidig
  }
  {
   <i>Mark</i>: im Grundtext im Plural.
+ }
+ {
+  Beachte: das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott ist schärfer als jedes zweischneidige Schwert,
+  das Wort der Wahrheit soll hingegen in gerader Richtung geschnitten werden, §2tim-2-15
  }
 #}
 #hebr-4-13 {
@@ -91717,9 +91771,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte, dass dieselbe Hand, die die Sterne (die Engel der sieben Gemeinden) hält, auch auf Johannes gelegt wird (Vers 17).
  }
  {
-  <i>Zweischneidiges Schwert</i>: <a class='kom' href='#Iri-3-16'>Ri&nbsp;3,16</a>, <a href='http://bibel.renenyffenegger.ch/offb_2.html#v8'>Offb&nbsp;2,8</a>,
-  §+offb-6-4.
-  <br>Vgl auch mit <a class='kom' href='#Ijes-49-2'>Jes&nbsp;49,2</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schwert/zweischneidig, vgl §offb-2-8, §offb-19-15
+  <br>Vgl auch mit §+jes-49-2.
  }
  {
   <i>Schwert, das aus dem Mund kommt</i>, vgl §jes-30-31, §jes-31-8
@@ -91848,6 +91901,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>überunden hat auch der Löwe aus Juda (<a href='http://bibel.renenyffenegger.ch/offb_5.html#v5'>Offb&nbsp;5,5</a>).
   <br>Vgl auch <a class='kom' href='#Ioffb-6-2'>Offb&nbsp;6,2</a>.
   <br>Vgl auch <a class='kom' href='#I1joh-2-13'>1.&nbsp;Joh&nbsp;2,13</a>.
+ }
+#}
+#offb-2-8 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schwert/zweischneidig
  }
 #}
 #offb-2-9 {
@@ -94801,6 +94859,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Kelter</i>: <a class='kom' href='#Ioffb-14-19'>Offb&nbsp;14,19</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Schwert/zweischneidig
+  <br>
+  <span class='gt'>Mehrheitstext: <i>scharfes, zweischneidiges Schwert</i>, TR, NA: <i>scharfes Schwert</i></span>.
  }
 #}
 #offb-19-16 {
