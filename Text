@@ -9312,6 +9312,9 @@
 #}
 #2mo-18-20 {
  {
+  <i>tue ihnen kund, den Weg, auf sem sie wandeln … sollen</i> vgl §ps-143-8
+ }
+ {
   TODO: <i>erkläre</i> ist <span class='hebr'>זָהַר</span> (Strongs 2094) das offenbar mit «(Licht-)glanz» (Zohar)
   (<a href='http://bibel.renenyffenegger.ch/dan_12.html#v3'>Dan&nbsp;12,3</a>, <a href='http://bibel.renenyffenegger.ch/hes_8.html#v2'>Hes&nbsp;8,2</a>)
   verwandt ist.
@@ -43290,6 +43293,11 @@
 #}
 @}
 @Psalm 139 {
+#ps-139-1 {
+ {
+  <i>du hast mich erkannt</i> vgl §ps-142-5
+ }
+#}
 #ps-139-3 {
  {
   TODO: <i>äussersten</i> (Strongs 319) siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
@@ -43308,7 +43316,8 @@
 @Psalm 141 {
 #ps-141-2 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk als
+  → biblisches/Lehre/Bilder-im-Alten-Testament#raeuchern[Bild aufs Gebet].
  }
 #}
 #ps-141-5 {
@@ -43323,11 +43332,21 @@
    <a class='kom' href='#I1sam-22-1'>1.&nbsp;Sam&nbsp;22,1</a>.
  }
 #}
+#ps-142-5 {
+ {
+  <i>niemand, der mich erkennt</i> vgl §ps-139-1
+ }
+#}
 @}
 @Psalm 143 {
 #ps-143-5 {
  {
   <i>Werk Seiner Hände</i>: <a class='kom' href='#I5mo-2-7'>5.&nbsp;Mo&nbsp;2,7</a>.
+ }
+#}
+#ps-143-8 {
+ {
+  <i>tue mir kund den Weg, den ich wandeln soll</i> vgl §2mo-18-20
  }
 #}
 @}
