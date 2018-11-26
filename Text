@@ -39741,7 +39741,7 @@
   <i>Glückselig</i>: <a class='kom' href='#Ips-1-1'>Ps&nbsp;1,1</a>.
  }
  {
-  <i>Glückselig die Nation…</i> vgl §5mo-33-29, §ps-89-16
+  <i>Glückselig die Nation…</i> vgl §5mo-33-29, §ps-89-16, §ps-144-15
  }
 #}
 #ps-33-14 {
@@ -42143,6 +42143,11 @@
   §+offb-11-11
  }
 #}
+#ps-104-32 {
+ {
+  <i>er rührt die Berge an, und sie rauchen</i> vgl §ps-144-5
+ }
+#}
 #ps-104-35 {
  {
    Erster Psalm, wo <i>Halleluja</i> vorkommt. Weitere:
@@ -43399,10 +43404,18 @@
  {
   Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>.
  }
+ {
+  Andere Übersetzungen: <i>der mir Völker unterwirft</i>.
+ }
 #}
 #ps-144-3 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch
+ }
+#}
+#ps-144-5 {
+ {
+  <i>rühre die Berge an, daß sie rauchen</i> vgl §ps-104-32
  }
 #}
 #ps-144-9 {
@@ -43435,6 +43448,9 @@
 #ps-144-15 {
  {
   <i>Wohl dem</i>: <a class='kom' href='#Ips-1-1'>Ps&nbsp;1,1</a>.
+ }
+ {
+  Vgl §+ps-33-12
  }
 #}
 @}
@@ -43532,7 +43548,7 @@
   <br>Vgl <a class='kom' href='#I1mo-2-20'>1.&nbsp;Mo&nbsp;2,20</a>.
  }
  {
-   TODO: <i>Sterne zählen</i>: <a class='kom' href='#I1mo-15-5'>1.&nbsp;Mo&nbsp;15,5</a>.
+   <i>Sterne zählen</i>: §+1mo-15-5.
  }
 #}
 #ps-147-7 {
@@ -43542,7 +43558,7 @@
 #}
 #ps-147-9 {
  {
-  Vgl ps-104-14
+  Vgl §ps-104-14
  }
 #}
 #ps-147-10 {
@@ -43611,7 +43627,7 @@
 #}
 #ps-150-4 {
  {
-  <i>Orgel</i> <span class='he'>עוּגָב</span> (Strongs 7548): Sch2K übersetzt mit «Flöte», Elb05 mit «Schalmei», KJV mit «Orgel». Vgl <a class='kom' href='#I1mo-4-21'>1.&nbsp;Mo&nbsp;4,21</a>.
+  <i>Orgel</i> <span class='he'>עוּגָב</span> (Strongs 7548): Sch2K übersetzt mit «Flöte», Elb05 mit «Schalmei», KJV mit «organ». Vgl §+1mo-4-21.
  }
 #}
 #ps-150-5 {
