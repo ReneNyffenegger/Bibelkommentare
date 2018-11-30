@@ -177,6 +177,13 @@ a.z {color:#aaa; text-decoration: none}
 
 a.fn {color:#03a; text-decoration: none}
 
+@media screen and (max-width: 599px) {
+
+  #kap-name {
+    font-size: 40px;
+  }
+
+}
 @media screen {
 
 
