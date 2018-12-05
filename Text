@@ -74614,6 +74614,10 @@
  {
   <i>Verehrung darbringen</i>: <span class='gr'>σεβάζομαι</span> (Strongs 4573), KJV übersetzt mit «worshipped».
  }
+ {
+  <i>Schöpfer</i>: <span class='gr'>τη κτισει</span> (Strongs 2937): etwa <i>dem Schaffenden</i>. Das entsprechende Nomen wäre <span class='gr'>κτίστης</span> (Strongs 2939), welches mit §1petr-4-19 mit «Schöpfer»
+  übersetzt wird.
+ }
 #}
 #roem-1-26 {
  {
@@ -79580,7 +79584,7 @@
 #}
 #2kor-5-21 {
  {
-  <i>zur Sünde gemacht</i> vgl §ps-69-6
+  <i>zur Sünde gemacht</i> vgl §ps-69-6, §+hebr-4-15
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit
@@ -87210,6 +87214,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-4-15 {
  {
+  <i>ohne Sünde</i>: §hebr-9-28, vgl §2kor-5-21
+ }
+ {
   TODO: <i>gleich</i> <span class='gr'>ὁμοιότης</span> (Strongs 3665, 2x), kommt noch in
   <a href='http://bibel.renenyffenegger.ch/hebr_7.html#v15'>Hebr&nbsp;7,15</a> vor.
   (Vgl auch <a href='http://bibel.renenyffenegger.ch/hebr_2.html#v17'>Hebr&nbsp;2,17</a>).
@@ -87654,7 +87661,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Satzungen</i>: <span class='gr'>→ biblisches/Grundtext/Wörter/G1345-dikaioma[δικαίωμα]</span> (Strongs 1345). Ebenso §Vhebr-9-10
  }
  {
-  TODO: Vgl: Hier <i>von dieser Welt</i>, in Vers 11 «nicht von dieser Schöpfung».
+  <i>ein weltliches</i> vgl §Vhebr-9-11: «nicht von dieser Schöpfung».
  }
  {
   TODO: Beachte: das Wort <i>Bund</i> ist nicht im Urtext, der Vers gehört also gedanklich zum Kapitel 8.
@@ -87685,7 +87692,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Mit Gold überzogene Lade</i>: siehe <a class='kom' href='#I2mo-25-10'>2.&nbsp;Mo&nbsp;25,10</a>.
  }
  {
-  Der Stab in der Bundeslade: siehe <a class='kom' href='#I4mo-17-25'>4.&nbsp;Mo&nbsp;17,25</a>.
+  Der Stab, der <i>gesproßt</i> hatte: vgl §4mo-17-23.
+ }
+ {
+  Der Stab in der Bundeslade: siehe §+4mo-17-25.
  }
  {
   Vgl auch <a class='kom' href='#I2mo-25-16'>2.&nbsp;Mo&nbsp;25,16</a>.
@@ -87745,6 +87755,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <span class='u'>TODO: TR vs NA: siehe Arghelger_Gedanken-zu-einzelnen-Versen-des-Hebräerbriefs-in-der-Schlachter-2000.</span>
+ }
+#}
+#hebr-9-11 {
+ {
+  <i>zukünftige Güter</i>: §hebr-10-1
  }
 #}
 #hebr-9-12 {
@@ -87817,12 +87832,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-9-20 {
  {
-   TODO: Beachte: hier steht nicht das idiomatische <i>geschlossen</i> (wie in Elberfelder 2000), sondern «geboten».  Arghelger schreibt:
-   «Der Hebräerbrief verwendet 5 verschiedene Verben im Blick auf den
-   „Bund“, nämlich νοµοθετέοµαι(gesetzlich verordnen, Heb 8,6), συντελέω
-   (vollenden, erfüllen, Heb 8,8), ποιέω(machen, Heb 8,9), διατίθηµι(verfügen, anordnen, Heb 8,10; 10,16), ε̉ντέλλω(gebieten, befehlen, Heb 9,20).
-   Jedes Wort hat an seiner Stelle seinen besonderen Sinn, worauf jetzt hier
-   allerdings nicht näher eingegangen werden kann.»
+   Beachte: hier steht nicht das idiomatische <i>geschlossen</i> (wie in Elberfelder 2000), sondern «geboten».  Arghelger schreibt:
+   «Der → biblisches/Bücher/jüdische-Briefe/Hebräer[Hebräerbrief] verwendet 5 verschiedene Verben im Blick auf den
+   „Bund“, nämlich νοµοθετέοµαι (gesetzlich verordnen, §hebr-8-6), συντελέω
+   (vollenden, erfüllen, §hebr-8-8), ποιέω (machen, §hebr-8-9), διατίθηµι (verfügen, anordnen, §hebr-8-10; §hebr-10-16), ε̉ντέλλω (gebieten, befehlen, §hebr-9-20).
+   Jedes Wort hat an seiner Stelle seinen besonderen Sinn, worauf jetzt hier allerdings nicht näher eingegangen werden kann.»
  }
 #}
 #hebr-9-21 {
@@ -87884,6 +87898,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO <i>offenbar werden</i> <span class='gr'>φανερόω</span>, Strongs 5319.
  }
 #}
+#hebr-9-28 {
+ {
+  <i>ohne Sünde</i>: §hebr-4-15, vgl §2kor-5-21
+ }
+#}
 @}
 @Hebräer 10 {
 #hebr-10-1 {
@@ -87892,6 +87911,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Schatten der zukünftigen Güter</i> vgl §+hebr-8-5, §kol-2-17.
+ }
+ {
+  <i>zukünftige Güter</i>: §hebr-9-11
  }
  {
   TODO <i>Gestalt</i>: Elberfelder übersetzt mit «Ebenbild», KJV mit «image».
