@@ -19172,6 +19172,9 @@
 #}
 #5mo-3-14 {
  {
+  <i>Geschuriter und Maakathiter</i>: §jos-12-5, §jos-13-11
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
  }
  {
@@ -22264,6 +22267,11 @@
   → biblisches/Orte/Aroer
  }
 #}
+#jos-12-5 {
+ {
+  <i>Geschuriter und Maakathiter</i>: §5mo-3-14, §jos-13-11
+ }
+#}
 #jos-12-9 {
  {
   Bis <a href='http://bibel.renenyffenegger.ch/esr_2.html#v28'>Esr&nbsp;2,28</a> (evtl <a class='kom' href='#Ijes-10-28'>Jes&nbsp;10,28</a>) und
@@ -22333,8 +22341,9 @@
   <i>Sihor</i> <span class='hebr'>שִׁיחוֹר</span> (Strongs 7883), vgl mit 'Sihot-Libnat' in <a href='http://bibel.renenyffenegger.ch/jos_19.html#v26'>Jos&nbsp;19,26</a>.
  }
  {
-  Die <i>5 Fürsten der Philister</i> auch erwähnt in <a href='http://bibel.renenyffenegger.ch/ri_3.html#v3'>Ri&nbsp;3,3</a> und
-  <a href='http://bibel.renenyffenegger.ch/1sam_6.html#v16'>1.&nbsp;Sam&nbsp;6,16</a>.
+  Die <i>5 Fürsten der Philister</i> auch erwähnt in <a href='http://bibel.renenyffenegger.ch/ri_3.html#v3'>Ri&nbsp;3,3</a> und §1sam-6-16.
+ }
+ {
   <br>TODO: Von diesen fünf Städten (die noch einzunehmen sind) werden in <a href='http://bibel.renenyffenegger.ch/jos_15.html#v45'>Jos 15,45-47</a> drei Städte Juda
   bereits zugewiesen (Ekron: <a class='kom' href='#Ijos-19-43'>Jos&nbsp;19,43</a>). TODO Das <i>Gat-Rimmon</i>, das auch dem Stamm Dan gehören wird
   (<a href='http://bibel.renenyffenegger.ch/jos_19.html#v45'>Jos&nbsp;19,45</a>) ist möglicherweise das Gat der Philister.
@@ -22375,6 +22384,11 @@
 #jos-13-9 {
  {
   → biblisches/Orte/Aroer
+ }
+#}
+#jos-13-11 {
+ {
+  <i>Geschuriter und Maakathiter</i>: §+5mo-3-14
  }
 #}
 #jos-13-12 {
@@ -22468,6 +22482,9 @@
 #jos-14-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme
+ }
+ {
+  <i>Kein Teil im Land für die Leviten</i> vgl §jos-21-2
  }
 #}
 #jos-14-6 {
@@ -23203,7 +23220,10 @@
 #}
 #jos-21-2 {
  {
-  <i>Weideplätze</i>: <a class='kom' href='#I2sam-5-2'>2.&nbsp;Sam&nbsp;5,2</a>.
+  <i>…uns Städte zum Wohnen zu geben…</i> vgl §jos-14-4
+ }
+ {
+  <i>Weideplätze</i>: §+2sam-5-2.
  }
 #}
 #jos-21-3 {
@@ -25414,7 +25434,7 @@
 #}
 #1sam-6-16 {
  {
-  Die <i>5 Fürsten der Philister</i>: <a class='kom' href='#Ijos-13-3'>Jos&nbsp;13,3</a>.
+  Die <i>5 Fürsten der Philister</i>: §+jos-13-3.
  }
 #}
 #1sam-6-19 {
