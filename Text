@@ -20254,7 +20254,7 @@
   <i>Durchs Feuer gehen lassen</i> §+3mo-18-21
  }
  {
-  Vgl 2chr-33-6
+  Vgl §2chr-33-6
  }
 #}
 #5mo-18-13 {
@@ -22341,7 +22341,9 @@
   <i>Sihor</i> <span class='hebr'>שִׁיחוֹר</span> (Strongs 7883), vgl mit 'Sihot-Libnat' in <a href='http://bibel.renenyffenegger.ch/jos_19.html#v26'>Jos&nbsp;19,26</a>.
  }
  {
-  Die <i>5 Fürsten der Philister</i> auch erwähnt in <a href='http://bibel.renenyffenegger.ch/ri_3.html#v3'>Ri&nbsp;3,3</a> und §1sam-6-16.
+  Die <i>5 Fürsten der Philister</i> auch erwähnt in §ri-3-3 und §1sam-6-16.
+ <br>
+  Beachte: in §Vjos-13-21 werden fünf Fürsten von Midian aufgezählt.
  }
  {
   <br>TODO: Von diesen fünf Städten (die noch einzunehmen sind) werden in <a href='http://bibel.renenyffenegger.ch/jos_15.html#v45'>Jos 15,45-47</a> drei Städte Juda
@@ -22424,6 +22426,9 @@
  }
 #}
 #jos-13-21 {
+ {
+  Fünf Fürste werden hier aufgezählt, vgl mit den fünf Fürsten der Philister: §Vjos-13-3.
+ }
  {
   TODO: Wäre <i>Chur</i> hier nicht besser mit <i>Hur</i> übersetzt worden
   (vgl <a href='http://bibel.renenyffenegger.ch/4mo_31.html#v8'>4.&nbsp;Mo&nbsp;31,8</a> und <a href='http://bibel.renenyffenegger.ch/2mo_31.html#v2'>2.&nbsp;Mo&nbsp;31,2</a>)
@@ -39680,6 +39685,11 @@
   TODO <i>Hütte</i>: Strongs 5521, was sonst mit 'Laubhütte' übersetzt wird (<a class='kom' href='#I3mo-23-34'>3.&nbsp;Mo&nbsp;23,34</a>).
  }
 #}
+#ps-31-22 {
+ {
+  <i>feste Stadt</i> vgl §ps-60-11
+ }
+#}
 #ps-31-23 {
  {
   TODO: Wo/Wann hat David dies gesagt?
@@ -40651,6 +40661,11 @@
  }
  {
   Eventuell würde besser übersetzt mit »ich will Sichem teilen«, vgl §ps-108-8
+ }
+#}
+#ps-60-11 {
+ {
+  <i>feste Stadt</i> vgl §ps-31-22
  }
 #}
 @}
@@ -55888,6 +55903,9 @@
 #mi-7-12 {
  {
   <i>Mazor</i>: §+2koe-19-24
+ }
+ {
+  <i>Städte Mazors</i>: offenbar könnte dies auch mit «feste Städte» oder übersetzt werden (analog §2chr-8-5, vgl §2chr-11-5); KJV übersetzt mit « fortified cities, and from the fortress even to the river».
  }
 #}
 #mi-7-17 {
