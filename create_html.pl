@@ -158,10 +158,10 @@ open (my $interlinear        , '<:unix:encoding(UTF-8)', "$ENV{github_root}Bibel
   open $in_kommentare , '<:unix:encoding(UTF-8)', "$ENV{github_root}Bibelkommentare/Text" or die "Text (IN)";
 
 
-my $current_chapter_QQ   = -1;
-my $current_book_name = "";
-my $print_bible_text  = 0;
-my $at = 1;
+  my $current_chapter_QQ   = -1;
+  my $current_book_name    = "";
+  my $print_bible_text     = 0;
+  my $at                   = 1;
 
   while (my $bibel_text = <$eigene_uebersetzung>) { # {{{
 
@@ -200,14 +200,13 @@ my $at = 1;
     } # }}}
 
   
-      if ($current_verse == 1) {
-         open_html("${current_book}_$current_chapter", "$current_book_name $current_chapter", $current_book, $current_chapter);
-      }
+    if ($current_verse == 1) {
+       open_html("${current_book}_$current_chapter", "$current_book_name $current_chapter", $current_book, $current_chapter);
+    }
   
 
     if ($current_verse == 1) { # {{{
   
-    
         $current_chapter_QQ = $current_chapter ;
         print $out_bible "  </div><!-- kap-tab -->\n" if $kap_tab_div_required;
         print $out_bible "  <div class='kap-tab'>\n";
@@ -400,18 +399,20 @@ my $at = 1;
       next if $line =~ m!^@!;  # Start of chapter
   
   
-      if ($line =~ m!^#([^-]+)-(\d+)-(\d+) \{$!) { # {{{
+      if ($line =~ m!^#([^-]+)-(\d+)-(\d+) \{$!) { # {{{ Text (alle Kommentare) starts a new verse.
     
         my $b1  = $1; my $c1  = $2; my $v1  = $3;
     
+#       print ("$b1 <> $current_book / $c1 <> $current_chapter_QQ / $v1 <> $current_verse");
     
         if ($b1 ne $current_book or $c1 ne $current_chapter_QQ or $v1 ne $current_verse) { # {{{
     
           $dont_read_next_line = 1;
+
     
     
           print $out_bible verse_element($current_book, $current_chapter, $current_verse); # "<div class='v' id='I$current_book-$current_chapter-$current_verse'><div class='n'>$verse_id</div> <!-- Inserted Verse -->\n";
-          print_verse();
+          print_verse($current_book, $current_chapter, $current_verse);
           print $out_bible "</div> <!-- Inserted Verse end -->\n";
           goto VERSE_DONE;
     
@@ -484,8 +485,8 @@ my $at = 1;
       } # }}}
   
       if ($print_bible_text) { # {{{
-          print_verse();
-        $print_bible_text = 0;
+          print_verse($current_chapter, $current_chapter, $current_verse);
+          $print_bible_text = 0;
       } # }}}
   
       goto VERSE_DONE if $verse_done;
@@ -504,6 +505,7 @@ RN::close_($index_bible);
 
 sub print_verse { # {{{
 
+  my ($current_chapter, $current_chapter, $current_verse) = @_;
   die $current_text if $current_text =~ /}|{/;
 
   if ($web) {
@@ -511,6 +513,11 @@ sub print_verse { # {{{
   }
   if (! $web ) {
     print $out_bible "  <div class='b $modification_class'>$current_text</div>\n";
+
+  #
+  # 2018-12-23: Print a link to the Strongs translation
+  #
+    print $out_bible "<div class='strongs'><a href='https://renenyffenegger.ch/Biblisches/Grundtext/Datenbank/Kapitel-$current_book-$current_chapter#v$current_verse'>str</a></div>";
 
     print $out_bible "  <div class='sch2k'>$sch2k_text</div>\n";
     print $out_bible "  <div class='elb'>$elb_text</div>\n";
