@@ -22299,8 +22299,10 @@
 #}
 #jos-12-18 {
  {
-  TODO <i>Lascharon</i> <span class='hebr'>שָׁרוֹן</span> (Strongs 8289) wäre vielleicht besser mit 'Saron' übetragen worden.
-  <br>TODO Es gibt vielleicht zwei Saron: das bei Lydda (<a href='http://bibel.renenyffenegger.ch/apg_9.html#v35'>Apg&nbsp;9,35</a>) und das in Baschan
+  <i>Lascharon</i> entspricht evtl. Saron in §+apg-9-35 und wäre evtl. auch besser mit Saron übersetzt worden.
+ }
+ {
+  TODO Es gibt vielleicht zwei Saron: das bei Lydda (<a href='http://bibel.renenyffenegger.ch/apg_9.html#v35'>Apg&nbsp;9,35</a>) und das in Baschan
     (<a class='kom' href='#I1chr-5-16'>1.&nbsp;Chr&nbsp;5,16</a>, vgl <a href='http://bibel.renenyffenegger.ch/jes_33.html#v9'>Jes&nbsp;33,9</a>).
   <br>Jesaja über Saron: <a class='kom' href='#Ijes-33-9'>Jes&nbsp;33,9</a>.
  }
@@ -22435,6 +22437,11 @@
  {
   TODO: Wäre <i>Chur</i> hier nicht besser mit <i>Hur</i> übersetzt worden
   (vgl <a href='http://bibel.renenyffenegger.ch/4mo_31.html#v8'>4.&nbsp;Mo&nbsp;31,8</a> und <a href='http://bibel.renenyffenegger.ch/2mo_31.html#v2'>2.&nbsp;Mo&nbsp;31,2</a>)
+ }
+#}
+#jos-13-23 {
+ {
+  Beachte: Die Grenze wird gegen die 9½ Stämme gezogen, <i>nicht</i> gegen die Nationen im Osten.
  }
 #}
 #jos-13-25 {
@@ -70939,8 +70946,7 @@
   Die von Lydda und Saron bekehren sich zum Herrn, die von Joppe werden an ihn gläubig (Vers 42).
  }
  {
-   TODO: Hier einziges Vorkommen von Saron im Neuen Testament. Einziges Vorkommen von Saron im Alten Testament in
-   <a href='http://bibel.renenyffenegger.ch/hl_2.html#v1'>Hl&nbsp;2,1</a>.
+   Hier einziges Vorkommen von <i>Saron</i> im Neuen Testament. Einziges Vorkommen von Saron im Alten Testament in §hl-2-1. Allerdings könnte <i>Lascharon</i> (§jos-12-18) Saron entsprechen.
  }
 #}
 #apg-9-36 {
