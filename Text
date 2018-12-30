@@ -2053,6 +2053,9 @@
  {
   <i>Luditer</i> <span class='hebr'>לוּדִ֧ים</span>, vgl <i>Lud</i> <span class='hebr'><span class='grey'>וְ</span>ל֥וּד</span> (Vers 22).
  }
+ {
+  TODO: vgl <i>Naphtuchim</i>  mit «Nephtoach».
+ }
 #}
 #1mo-10-14 {
  {
@@ -4350,6 +4353,11 @@
 #1mo-25-19 {
  {
    <i>Geschichte</i>: <a class='kom' href='#I1mo-2-4'>1.&nbsp;Mo&nbsp;2,4</a>.
+ }
+#}
+#1mo-25-21 {
+ {
+  <i>bat</i>: evtl. besser übersetzt mit «flehte». KJV übersetzt mit «intreated».
  }
 #}
 #1mo-25-23 {
@@ -22464,7 +22472,7 @@
   <i>Betonoim</i> <span class='hebr'>בְּטֹנִים</span> (Strongs 993, bedeutet wohl 'Pistazien') siehe <a href='http://bibel.renenyffenegger.ch/1mo_43.html#v11'>1.&nbsp;Mo&nbsp;43,11</a>.
  }
  {
-  <i>Lidebir</i>: TODO: besser übersetzt mit 'Debir'?
+  <i>Lidebir</i>: KJV übersetzt mit «Debir».
  }
  {
   <i>Mahanaijim</i>: <a class='kom' href='#I1mo-32-3'>1.&nbsp;Mo&nbsp;32,3</a>.
@@ -22582,7 +22590,7 @@
  }
  {
   <i>En-Schemesch</i> (<span class='hebr'>עֵ֣ין שֶׁ֔מֶשׁ</span>, Strongs 5885) etwa 'Quelle der Sonne'.
-  <br>TODO: siehe auch <i>Beth-Schemesch</i> (Vers 10) und <i>Ir-Schemesch</i> (<a href='http://bibel.renenyffenegger.ch/jos_19.html#v41'>Jos&nbsp;19,41</a>).
+  <br>Siehe auch <i>Beth-Schemesch</i> (§Vjoh-15-10) und <i>Ir-Schemesch</i> (§jos-19-41).
  }
  {
   <i>En-Rogel</i> <span class='hebr'>עֵ֥ין רֹגֵֽל</span>, etwa 'Quelle/Auge der Kundschafter'.
@@ -22600,14 +22608,22 @@
  {
   <i>Ephron</i> TODO siehe <a class='kom' href='#I1mo-23-8'>1.&nbsp;Mo&nbsp;23,8</a>.
  }
+ {
+  TODO: vgl <i>Nephtoach</i> mit den «Naphtuchim» (§1mo-10-13)
+ }
 #}
 #jos-15-10 {
  {
   <i>Beth-Schemesch</i>: Siehe <a class='kom' href='#Ijos-15-7'>Vers 7</a> und <a class='kom' href='#I1sam-6-13'>1.&nbsp;Sam&nbsp;6,13</a>.
   <br>Es gibt auch in Beth-Schemesch in Issaschar (<a href='http://bibel.renenyffenegger.ch/jos_19.html#v22'>Jos&nbsp;19,22</a>) und in
   Naphtali (<a href='http://bibel.renenyffenegger.ch/jos_19.html#v38'>Jos&nbsp;19,38</a>).
-  <br>In Beth-Schemesch war (ein?) Acker Josuas, und die → biblisches/Eigene-Uebersetzung/Konkordanz/Lade[Bundeslade] kam dorthin (<a href='http://bibel.renenyffenegger.ch/1sam_6.html#v13'>1.&nbsp;Sam&nbsp;6,13-14</a>).
-  <br>Beachte auch, das Dan (wohl in der Nähe oder am gleichen Ort von Beth-Schemesch) ein Ir-Schemesch hatte (<a href='http://bibel.renenyffenegger.ch/jos_19.html#v41'>Jos&nbsp;19,41</a>).
+ }
+ {
+  In Beth-Schemesch war (ein?) Acker Josuas, und die → biblisches/Eigene-Uebersetzung/Konkordanz/Lade[Bundeslade] kam dorthin (<a href='http://bibel.renenyffenegger.ch/1sam_6.html#v13'>1.&nbsp;Sam&nbsp;6,13-14</a>).
+ }
+ {
+  
+  TODO: Beachte auch, das Dan (wohl in der Nähe oder am gleichen Ort von Beth-Schemesch) ein Ir-Schemesch hatte (<a href='http://bibel.renenyffenegger.ch/jos_19.html#v41'>Jos&nbsp;19,41</a>).
  }
  {
   <i>Bergland Seir</i> eigtl «Berg Seir» (<span class='hebr'>הַר שֵׂעִיר</span>).
