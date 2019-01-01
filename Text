@@ -363,7 +363,7 @@
 #}
 #1mo-1-24 {
  {
-  <i>Vieh</i> (<span class='hebr'>בְּהֵמָ֥ה</span>, Strongs 929), vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Behemoth (<span class='hebr'>בְ֭הֵמוֹת</span>) in §hi-40-15.j
+  <i>Vieh</i> (<span class='hebr'>בְּהֵמָ֥ה</span>, Strongs 929), vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Behemoth (<span class='hebr'>בְ֭הֵמוֹת</span>) in §hi-40-15.
  }
  {
   <i>Die Erde bringe hervor</i>: §V1mo-1-12.
@@ -22612,6 +22612,9 @@
   <i>Ephron</i> TODO siehe <a class='kom' href='#I1mo-23-8'>1.&nbsp;Mo&nbsp;23,8</a>.
  }
  {
+  <i>Baala ist Kirjath-Jearim</i> vgl §+Vjos-15-60
+ }
+ {
   TODO: vgl <i>Nephtoach</i> mit den «Naphtuchim» (§1mo-10-13)
  }
 #}
@@ -22863,6 +22866,11 @@
   <i>Gedor</i>: dessen Vater 'Penuel' (<a class='kom' href='#I1chr-4-4'>1.&nbsp;Chr&nbsp;4,4</a>).
  }
 #}
+#jos-15-60 {
+ {
+  <i>Kirjath-Baal ist Kirjath-Jearim</i> vgl §jos-18-14, §Vjos-15-9
+ }
+#}
 #jos-15-62 {
  {
   <i>En-Gedi</i>: siehe <a class='kom' href='#Ihl-1-14'>Hl&nbsp;1,14</a>.
@@ -22986,6 +22994,9 @@
 #}
 #jos-18-14 {
  {
+  <i>Kirjath-Baal ist Kirjath-Jearim</i> vgl §+jos-15-60
+ }
+ {
   <i>der Stadt der Söhne Judas</i> in Elbefelder 1905: 'einer Stadt der Söhne Judas'.
  }
 #}
@@ -23027,6 +23038,11 @@
   TODO: Ist <i>Ophra</i> das <i>Ephron</i> von <a href='http://bibel.renenyffenegger.ch/2chr_13.html#v19'>2.&nbsp;Chr&nbsp;13,19</a> oder
   das <i>Ephraim</i> von <a href='http://bibel.renenyffenegger.ch/2sam_13.html#v23'>2.&nbsp;Sam&nbsp;13,23</a>?
   <span class='u'>Vgl https://www.bibelwissenschaft.de/de/wibilex/das-bibellexikon/lexikon/sachwort/anzeigen/details/ofra/ch/e7de4f777bc8910be62c76ec4e3db382/</span>
+ }
+#}
+#jos-18-24 {
+ {
+  <i>Kephar-Ammoni</i>: Dörfer der Ammoniter
  }
 #}
 #jos-18-25 {
