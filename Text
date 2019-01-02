@@ -8992,6 +8992,9 @@
  {
   <i>Fleischtöpfe</i>: vgl <a class='kom' href='#I4mo-11-4'>4.&nbsp;Mo&nbsp;11,4</a>.
  }
+ {
+  <i>Hungers sterben zu lassen</i> vgl §2mo-17-3
+ }
 #}
 #2mo-16-4 {
  {
@@ -9186,6 +9189,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen, vgl §4mo-20-5
+ }
+ {
+  <i>vor Durst sterben zu lassen</i> vgl §2mo-16-3, §neh-9-20
  }
 #}
 #2mo-17-6 {
@@ -15940,7 +15946,7 @@
 #}
 #4mo-5-17 {
  {
-  Beachte: das <i>heilige Wasser</i> kann sich in <i>fluchbringendes Wasser</i> verwndeln (§V4mo-5-18).
+  Beachte: das <i>heilige Wasser</i> kann sich in <i>fluchbringendes Wasser</i> verwandeln (§V4mo-5-18).
  }
  {
   <i>Irdenes Gefäss</i>: §2kor-4-7
@@ -34422,6 +34428,11 @@
   <i>Haus des Libanonwaldes</i>: <a class='kom' href='#I1koe-7-2'>1.&nbsp;Kö&nbsp;7,2</a>.
  }
 #}
+#2chr-9-20 {
+ {
+  <i>Silber wurde für nichts geachtet</i> vgl §sach-9-3
+ }
+#}
 #2chr-9-21 {
  {
   → biblisches/Orte/Tarsis
@@ -37427,6 +37438,9 @@
   <i>Und du gabst ihnen deinen guten Geist</i> vgl §4mo-11-17-ff, vgl §Vneh-9-30
  }
  {
+  <i>du gabst ihnen Wasser für ihren Durst</i> vgl §2mo-17-3
+ }
+ {
   Gibt es einen Grund, warum das Man hier <i>Manna</i> genannt wird? Vgl <a href='http://bibel.renenyffenegger.ch/ps_78.html#v24'>Ps&nbsp;78,24</a>.
  }
 #}
@@ -38483,6 +38497,13 @@
   <br>Vgl auch <a class='kom' href='#Isach-12-10'>Sach&nbsp;12,10</a>.
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/jes_51.html#v9'>Jes&nbsp;51,9</a> (durchbohrter Drache)
   <br>TODO: KJV übersetzt: «His hand has formed the fleeing serpent».
+ }
+#}
+@}
+@Hiob 27 {
+#hi-27-16 {
+ {
+  <i>Silber gehäuft wie Staub</i> vgl §sach-9-3
  }
 #}
 @}
@@ -43937,6 +43958,9 @@
 #}
 #spr-3-14 {
  {
+  Vgl §spr-8-10, §spr-16-16
+ }
+ {
   TODO <i>Gold</i> (<span class='hebr'>חָרוּץ</span>, Strongs 2742) wird in
   <a href='http://bibel.renenyffenegger.ch/jes_28.html#v27'>Jes&nbsp;28,27</a> und <a href='http://bibel.renenyffenegger.ch/jes_41.html#v15'>Jes&nbsp;41,15</a> mit 'Dreschwagen',
   in <a href='http://bibel.renenyffenegger.ch/dan_9.html#v25'>Dan&nbsp;9,25</a> mit 'Gräben',
@@ -44139,6 +44163,11 @@
   <i>verabscheuen</i>: das hebräische Wort wird sonst mit 'Gräuel' übersetzt, vgl <i>Gräuel in den Sprüchen</i>: <a class='kom' href='#Ispr-3-32'>Spr&nbsp;3,32</a>.
  }
 #}
+#spr-8-10 {
+ {
+  Vgl §spr-3-14, §Vspr-8-19
+ }
+#}
 #spr-8-17 {
  {
   Vgl <i>die mich lieben</i> mit <i>die mich hassen</i> (<a href='http://bibel.renenyffenegger.ch/spr_8.html#v36'>Vers 36</a>).
@@ -44230,6 +44259,11 @@
  }
  {
   <i>Verlangen der Gerechten</i>: <a href='http://bibel.renenyffenegger.ch/spr_11.html#v23'>Spr&nbsp;11,23</a>.
+ }
+#}
+#spr-10-4 {
+ {
+  Vgl §spr-12-24, §spr-21-5
  }
 #}
 #spr-10-5 {
@@ -44336,6 +44370,11 @@
 #spr-12-22 {
  {
   <i>Gräuel in den Sprüchen</i>: <a class='kom' href='#Ispr-3-32'>Spr&nbsp;3,32</a>.
+ }
+#}
+#spr-12-24 {
+ {
+  Vgl §+spr-10-4, §Vspr-12-27
  }
 #}
 @}
@@ -44554,6 +44593,11 @@
 #spr-16-12 {
  {
   <i>Gräuel in den Sprüchen</i>: <a class='kom' href='#Ispr-3-32'>Spr&nbsp;3,32</a>.
+ }
+#}
+#spr-16-16 {
+ {
+  Vgl §+spr-3-14
  }
 #}
 #spr-16-24 {
@@ -44841,6 +44885,11 @@
  {
   <i>Leuchte</i> (<span class='hebr'>נִיר</span>, Strongs 5215) wird an andern Orten mit 'Neubruch' übersetzt,
   zum Beispiel in <a class='kom' href='#Ispr-13-23'>Spr&nbsp;13,23</a>.
+ }
+#}
+#spr-21-5 {
+ {
+  Vgl §+spr-10-4
  }
 #}
 #spr-21-6 {
@@ -46318,6 +46367,9 @@
 #jes-10-17 {
  {
   <i>Licht</i>: vgl §jes-9-1
+ }
+ {
+  TODO: Die Reihenfolge sollte wohl <i>Disteln und Dornen</i> sein.
  }
 #}
 #jes-10-19 {
@@ -47826,6 +47878,11 @@
   <i>Dreschwagen</i> (Strongs 2742): <a class='kom' href='#Ispr-3-14'>Spr&nbsp;3,14</a>.
  }
 #}
+#jes-41-17 {
+ {
+  <i>deren Zunge vor Durst vertrocknet</i> vgl §jes-50-2, §offb-21-6
+ }
+#}
 #jes-41-18 {
  {
   Vgl <a class='kom' href='#Ijes-35-6'>Jes&nbsp;35,6</a>.
@@ -48246,6 +48303,12 @@
 #jes-50-1 {
  {
   <i>Scheidebrief</i>: <a class='kom' href='#Ijer-3-8'>Jer&nbsp;3,8</a>.
+ }
+#}
+#jes-50-2 {
+ {
+  <i>…mache Ströme zu einer Wüste … und sie sterben vor Durst</i> vgl §hos-2-5
+  <br>Siehe auch §jes-41-17
  }
 #}
 #jes-50-6 {
@@ -51962,11 +52025,6 @@
   <i>Volk von unverständlicher Sprache</i> vgl §jes-33-19
  }
 #}
-#hes-3-9 {
- {
-  <i>Fels</i>: vgl 'Tyrus (<a class='kom' href='#Ijos-19-29'>Jos&nbsp;19,29</a>).
- }
-#}
 #hes-3-15 {
  {
   <i>Tel-Abib</i> = 'Hügel der Ähren' (<a class='kom' href='#I2mo-9-31'>2.&nbsp;Mo&nbsp;9,31</a>).
@@ -54756,6 +54814,11 @@
   Vgl mit dem «Scheidebrief» in <a class='kom' href='#Ijer-3-8'>Jer&nbsp;3,8</a>.
  }
 #}
+#hos-2-5 {
+ {
+  <i>der Wüste gleich machen … und sie sterben lasse vor Durst</i> vgl §jes-50-2
+ }
+#}
 #hos-2-7 {
  {
   TODO: <i>Wolle und Flachs</i>: siehe <a class='kom' href='#I3mo-13-47'>3.&nbsp;Mo&nbsp;13,47</a>.
@@ -55511,7 +55574,10 @@
 #}
 #am-5-7 {
  {
-  <i>Wermut</i>: vgl <a href='http://bibel.renenyffenegger.ch/am_6.html#v12'>Am&nbsp;6,12</a> und <a class='kom' href='#I5mo-29-17'>5.&nbsp;Mo&nbsp;29,17</a>.
+  Vgl §am-6-12
+ }
+ {
+  <i>Wermut</i>: §+5mo-29-17.
  }
 #}
 #am-5-8 {
@@ -55557,6 +55623,11 @@
 #am-6-5 {
  {
    David, der Musikinstrumente ersann, war auch des Spielens kundig: <a class='kom' href='#I1sam-16-18'>1.&nbsp;Sam&nbsp;16,18</a>.
+ }
+#}
+#am-6-12 {
+ {
+  <i>Recht in Gift</i> und <i>Gerechtigkeit in Wermut verwandeln</i> vgl §am-5-7
  }
 #}
 #am-6-14 {
@@ -56698,6 +56769,12 @@
 #}
 @}
 @Sacharja 9 {
+#sach-9-3 {
+ {
+  <i>Silber gehäuft wie Staub</i> vgl §hi-27-16.
+  <br>In Salomos Tagen wurde Silber für nichts geachtet, §2chr-9-20
+ }
+#}
 #sach-9-5 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern
@@ -95316,7 +95393,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: Vgl <a class='kom' href='#Ioffb-13-17'>Offb&nbsp;13,17</a>.
  }
  {
-  <i>Ich will dem Dürstenden</i>: §jes-55-1
+  <i>Ich will dem Dürstenden</i>: §jes-55-1, §jes-41-17
  }
 #}
 #offb-21-7 {
