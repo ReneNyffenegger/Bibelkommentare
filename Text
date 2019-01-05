@@ -60220,7 +60220,7 @@
 #}
 #mt-22-20 {
  {
-  Hier: Das <b>Bild</b> des Kaisers (ebenso: <a href='http://bibel.renenyffenegger.ch/mk_12.html#v16'>Mk&nbsp;12,16</a> und <a href='http://bibel.renenyffenegger.ch/lk_20.html#v24'>Lk&nbsp;20,24</a>).
+  Hier: Das <b>Bild</b> des → biblisches/Personen/Kaiser[Kaisers] (ebenso: <a href='http://bibel.renenyffenegger.ch/mk_12.html#v16'>Mk&nbsp;12,16</a> und <a href='http://bibel.renenyffenegger.ch/lk_20.html#v24'>Lk&nbsp;20,24</a>).
   Dann wird die Herrlichkeit Gottes mit einem Bild, das vergänglichen Menschen und Tieren gleicht, vertauscht: <a href='http://bibel.renenyffenegger.ch/roem_1.html#v23'>Röm&nbsp;1,23</a>.
   Die vorherbestimmten müssen dem Bild seines Sohnes gleichgestaltet werden (<a href='http://bibel.renenyffenegger.ch/roem_8.html#v29'>Röm&nbsp;8,29</a>)
   <br>Da der Mann Gottes Bild ist, darf er sein Haupt nicht bedecken (<a href='http://bibel.renenyffenegger.ch/1kor_11.html#v7'>1.&nbsp;Kor&nbsp;11,7</a>).
@@ -61016,7 +61016,7 @@
  {
   TODO: Beachte, Pilatus wollte Jesus freisprechen (<a href='http://bibel.renenyffenegger.ch/apg_3.html#v13'>Apg&nbsp;3,13</a>).
   Jesus hat vor Pilatus das gute Bekenntnis bezeugt (<a href='http://bibel.renenyffenegger.ch/1tim_6.html#v13'>1.&nbsp;Tim&nbsp;6,13</a>)
-  <br>Pilatus war im 15. Jahr des Tiberius Statthalter von Judäa (<a href='http://bibel.renenyffenegger.ch/lk_3.html#v1'>Lk&nbsp;3,1</a>).
+  <br>Pilatus war im 15. Jahr des → biblisches/Personen/Kaiser/Tiberius[Tiberius] Statthalter von Judäa (<a href='http://bibel.renenyffenegger.ch/lk_3.html#v1'>Lk&nbsp;3,1</a>).
   <br>Pilatus hat das Blut der Galiläer mit ihren Opfern vermischt (<a href='http://bibel.renenyffenegger.ch/lk_13.html#v1'>Lk&nbsp;13,1</a>).
  }
  {
@@ -62584,7 +62584,7 @@
 #}
 #mk-12-16 {
  {
-  Das <b>Bild des Kaisers</b>: siehe <a class='kom' href='#Imt-22-20'>Mt&nbsp;22,20</a>.
+  Das <b>Bild des → biblisches/Personen/Kaiser[Kaisers]</b>: siehe <a class='kom' href='#Imt-22-20'>Mt&nbsp;22,20</a>.
  }
 #}
 #mk-12-26 {
@@ -63370,15 +63370,13 @@
 @Lukas 2 {
 #lk-2-1 {
  {
+  → biblisches/Personen/Kaiser/Augustus
+ }
+ {
   'Erfassen' ist im Griechischen das Wort <span class='gr'>ἀπογραφή</span> (Strongs 583), welches (als Verb) im Neuen Testament
   ausser in den Versen 3 und 5 noch in <a href='http://bibel.renenyffenegger.ch/hebr_12.html#v23'>Hebr&nbsp;12,23</a> vorkommt (und dort
   mit 'im Himmel <i>angeschrieben</i>' übersetzt wird).
   Siehe auch <a class='kom' href='#Iapg-5-37'>Apg&nbsp;5,37</a>.
- }
- {
-  Kaiser Augustus hier,
-  Kaiser Tiberius in <a href='http://bibel.renenyffenegger.ch/lk_3.html#v1'>Lk&nbsp;3,1</a>,
-  Kaiser Claudius in <a href='http://bibel.renenyffenegger.ch/apg_11.html#v28'>Apg&nbsp;11,28</a>
  }
 #}
 #lk-2-2 {
@@ -63413,7 +63411,7 @@
 #}
 #lk-2-12 {
  {
-  Krippen wurden im Nahen Osten offenbar aus Sandstein gefertigt. Möglicherweise ist das <i>Zeichen</i> ist deshalb, dass das Kind wie eine Mumie in einem Sarkophag aussah. Obwohl als scheinbar tot, doch lebendig.
+  Krippen wurden im Nahen Osten offenbar aus Sandstein gefertigt. Möglicherweise ist dies das <i>Zeichen</i>, dass das Kind wie eine Mumie in einem Sarkophag aussah. Obwohl scheinbar tot, doch lebendig.
  <br>
   Dass der Herr Jesus in einer Krippe lag, kann so gedeutet werden, dass er sich »als Nahrung« opfert (vgl §joh-6-51).
  }
@@ -63590,7 +63588,7 @@
   <a class='kom' href='#Ilk-1-5'>Lk&nbsp;1,5</a>.
  }
  {
-  Benannte Kaiser: <a class='kom' href='#Ilk-2-1'>Lk&nbsp;2,1</a>.
+   → biblisches/Personen/Kaiser/Tiberius
  }
  {
   → biblisches/Personen/Philippus
@@ -65454,7 +65452,7 @@
 #}
 #lk-20-24 {
  {
-  Das <b>Bild des Kaisers</b>: siehe <a class='kom' href='#Imt-22-20'>Mt&nbsp;22,20</a>.
+  Das <b>Bild des → biblisches/Personen/Kaiser[Kaisers]</b>: siehe <a class='kom' href='#Imt-22-20'>Mt&nbsp;22,20</a>.
  }
 #}
 #lk-20-25 {
@@ -65816,7 +65814,7 @@
 #}
 #lk-23-2 {
  {
-  Dabei hat Jesus ausdrücklich darauf hingewiesen, dem Kaiser zu geben was des Kaisers ist
+  Dabei hat Jesus ausdrücklich darauf hingewiesen, dem → biblisches/Personen/Kaiser[Kaiser] zu geben was des Kaisers ist
   (<a href='http://bibel.renenyffenegger.ch/lk_20.html#v22'>Lk 20,22-25</a>).
  }
  {
@@ -68881,6 +68879,9 @@
 #}
 #joh-19-25 {
  {
+  Das sind insgesamt <i>drei Marias</i>.
+ }
+ {
   <i>Klopas</i>: §+lk-24-18.
  }
  {
@@ -71535,10 +71536,10 @@
 #}
 #apg-11-28 {
  {
-  Benannte Kaiser: <a class='kom' href='#Ilk-2-1'>Lk&nbsp;2,1</a>.
+  <i>Agabus</i>: vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] Agabus in §apg-21-10
  }
  {
-  <i>Agabus</i>: vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] Agabus in §apg-21-10
+  → biblisches/Personen/Kaiser
  }
 #}
 #apg-11-29 {
@@ -74100,7 +74101,7 @@
 #}
 #apg-25-11 {
  {
-  Da die Juden widersprachen, war Paulus genötigt, sich auf den Kaiser zu berufen (<a href='http://bibel.renenyffenegger.ch/apg_28.html#v19'>Apg&nbsp;28,19</a>).
+  Da die Juden widersprachen, war Paulus genötigt, sich auf den → biblisches/Personen/Kaiser[Kaiser] zu berufen (<a href='http://bibel.renenyffenegger.ch/apg_28.html#v19'>Apg&nbsp;28,19</a>).
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
@@ -74128,7 +74129,7 @@
 #}
 #apg-25-21 {
  {
-  Offenbar ist <i>Augustus</i> hier ein Titel des Kaisers Nero.
+  Ist <i>Augustus</i> hier ein Titel des → biblisches/Personen/Kaiser[Kaisers] Nero?
  }
 #}
 #apg-25-26 {
@@ -82493,7 +82494,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-1-13 {
  {
-  Vgl <i>kaiserliche Kaserne</i> mit <i>Haus des Kaisers</i> (<a href='http://bibel.renenyffenegger.ch/phil_4.html#v22'>Phil&nbsp;4,22</a>).
+  Vgl <i>kaiserliche Kaserne</i> mit <i>Haus des → biblisches/Personen/Kaiser[Kaisers]</i> (<a href='http://bibel.renenyffenegger.ch/phil_4.html#v22'>Phil&nbsp;4,22</a>).
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
@@ -83021,7 +83022,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-4-22 {
  {
-  <i>Kaiserliches Haus</i>: <a class='kom' href='#Iphil-1-13'>Phil&nbsp;1,13</a>.
+  <i>→ biblisches/Personen/Kaiser[Kaiserliches] Haus</i>: <a class='kom' href='#Iphil-1-13'>Phil&nbsp;1,13</a>.
  }
 #}
 @}
@@ -94121,7 +94122,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Bild/Tier
  }
  {
-  Siehe auch <i>Bild des Kaisers</i> und <i>Bild Christi</i>: <a class='kom' href='#Imt-22-20'>Mt&nbsp;22,20</a>.
+  Siehe auch <i>Bild des → biblisches/Personen/Kaiser[Kaisers]</i> und <i>Bild Christi</i>: <a class='kom' href='#Imt-22-20'>Mt&nbsp;22,20</a>.
  }
 #}
 #offb-13-15 {
