@@ -40834,6 +40834,11 @@
   <i>Unterste Örter der Erde</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/unter-der-Erde
  }
 #}
+#ps-63-12 {
+ {
+  <i>Mund verstopfen</i> vgl §roem-3-19, §tit-1-11
+ }
+#}
 @}
 @Psalm 64 {
 #ps-64-4 {
@@ -70522,6 +70527,9 @@
  {
   Gemeinde: <span class='gr'>ἐκκλησία</span>. Beachte: <i>diese</i> Gemeinde ist in der Wüste.
  }
+ {
+  <i>lebendige Aussprüche</i> vgl §roem-3-2, §hebr-5-12, §1petr-4-11
+ }
 #}
 #apg-7-39 {
  {
@@ -75068,7 +75076,7 @@
 #}
 #roem-2-22 {
  {
-  Tempelraub: vgl §apg-19-37, §mal-3-8, <a href='https://www.bibelkommentare.de/index.php?page=qa&answer_id=517'>bibelkommentare.de</a>.
+  Tempelraub: vgl §apg-19-37, §mal-3-8, <a href='https://www.bibelkommentare.de/index.php?page=qa&amp;answer_id=517'>bibelkommentare.de</a>.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
@@ -75109,9 +75117,24 @@
 #}
 @}
 @Römer 3 {
+#roem-3-1 {
+ {
+  <i>Vorteil</i> vgl mit dem «Vorzug» in §Vroem-3-9
+ }
+#}
 #roem-3-2 {
  {
+  <i>Aussprüche Gottes</i> vgl §apg-7-38, §hebr-5-12, §1petr-4-11
+ }
+ {
   <i>ihnen sind die Aussprüche Gottes anvertraut</i>: deshalb ist auch ihre Verantwortung grösser, vgl §roem-2-9-10 («dem Juden zuerst»)
+ }
+ {
+  TODO: Urs setzt die <i>Aussprüche Gottes</i> in etwa mit den Verheissungen (insbesondere des Messias) gleich (Vgl §roem-1-2). Nun ist aber die Frage (§Vroem-3-3), ob ihr Unglaube
+  diese Verheissungen aufheben würde. Und das ist offenbar nicht der Fall.
+ <br>
+  Offenbar könnte dies nun Anlass geben, Gott zu verurteilen (§Vroem-3-4).
+
  }
 #}
 #roem-3-3 {
@@ -75130,12 +75153,17 @@
   Verweis §+ps-51-6.
  }
  {
-  <i>jeer Mensch aber Lügner</i> vgl §ps-116-11
+  <i>jeder Mensch aber Lügner</i> vgl §ps-116-11
  }
 #}
 #roem-3-5 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
+ }
+#}
+#roem-3-9 {
+ {
+  <i>Vorzug</i> vgl mit dem «Vorteil» in §Vroem-3-1
  }
 #}
 #roem-3-10 {
@@ -75182,6 +75210,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz
  }
+ {
+  <i>Mund verstopfen</i> vgl §ps-63-12, §tit-1-11
+ }
 #}
 #roem-3-20 {
  {
@@ -75194,6 +75225,9 @@
   <a href='http://bibel.renenyffenegger.ch/apg_13.html#v39'>Apg&nbsp;13,39</a> und
   <a href='http://bibel.renenyffenegger.ch/phil_3.html#v9'>Phil&nbsp;3,9</a>
   Vgl §Vroem-3-20.
+ }
+ {
+  TODO: Steht das Verb im Grundtext im Futur?
  }
 #}
 #roem-3-21 {
@@ -86644,6 +86678,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>schändlicher Gewinn</i>: <span class='gr'>αισχρου κερδους</span>, vgl §tit-1-7.
  }
+ {
+  <i>Mund stopfen</i> vgl §ps-63-12, §roem-3-19
+ }
 #}
 #tit-1-12 {
  {
@@ -87582,6 +87619,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #hebr-5-12 {
+ {
+  <i>Aussprüche Gottes</i> vgl §apg-7-38, §roem-3-2, §1petr-4-11
+ }
  {
   <i>Anfangsgründe</i>: bestehend aus Strongs 746 und (<span class='gr'>στοιχεῖον</span>, Strongs 4747), welches in
     <a href='http://bibel.renenyffenegger.ch/gal_4.html#v3'>Gal&nbsp;4,3</a> mit «Grundsätze»
@@ -90160,6 +90200,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1petr-4-11 {
+ {
+  <i>Aussprüche Gottes</i> vgl §apg-7-38, §roem-3-2, §hebr-5-12
+ }
  {
   <i>reden</i> (Aussprüche Gottes) vs <i>dienen</i> vgl §apg-6-2.
  }
