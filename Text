@@ -48957,7 +48957,10 @@
 @Jesaja 65 {
 #jes-65-1 {
  {
-  <i>Hier bin ich</i>: <a class='kom' href='#Ijes-6-8'>Jes&nbsp;6,8</a>.
+  <i>Hier bin ich</i>: §+jes-6-8.
+ }
+ {
+  Verweis: §roem-10-20
  }
 #}
 #jes-65-2 {
@@ -74831,6 +74834,9 @@
   <br>→ biblisches/Personen/Paulus zitiert → biblisches/Bücher/prophetisch/12-Kleine/Habakuk auch in §apg-13-41 (§hab-1-5).
  }
  {
+  <i>Gottes Gerechtigkeit aus Glauben</i> §roem-3-22
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
  {
@@ -75122,7 +75128,9 @@
 #}
 #roem-2-28 {
  {
-  <i>Denn nicht der ist ein Jude, …</i> vgl §+offb-2-9 («sie seien Juden und sind es nicht»), §est-8-17 («viele aus den Völkern des Landes wurden Juden»)
+  <i>Denn nicht der ist ein Jude, …</i> vgl §+offb-2-9 («sie seien Juden und sind es nicht»),
+  §roem-9-6 <i>denn nicht alle, die aus Israel sind, diese sind Israel</i>,
+  §est-8-17 («viele aus den Völkern des Landes wurden Juden»)
  }
 #}
 #roem-2-29 {
@@ -75278,6 +75286,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Varianten/pistis-Christou
  }
+ {
+  <i>Gottes Gerechtigkeit aber durch Glauben</i> vgl §roem-1-17, §roem-4-11, §roem-9-30, §roem-10-6, §roem-10-10, §phil-3-9, §hebr-11-7
+ }
 #}
 #roem-3-23 {
  {
@@ -75396,6 +75407,9 @@
  }
 #}
 #roem-4-11 {
+ {
+  <i>Gerechtigkeit des Glaubens</i> §+roem-3-22
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
  }
@@ -75714,6 +75728,9 @@
  {
   <i>Neuheit des Geistes und nicht im Alten des Buchstabens</i> vgl §roem-2-29, §2kor-3-6 
  }
+ {
+  <i>vom Gesetz losgemacht</i> §roem-10-4
+ }
 #}
 #roem-7-7 {
  {
@@ -75992,6 +76009,9 @@
 #}
 #roem-9-6 {
  {
+  <i>nicht alle, die aus Israel sind, diese sind Israel</i> vgl §+roem-2-28
+ }
+ {
    TODO: Wer ist denn Israel? Peter, Jakobus, Johannes, die 3000 und die 5000 aus der Apostelgeschichte?
  }
 #}
@@ -76057,6 +76077,11 @@
    <i>Gottes Langmut</i>: §+roem-2-4.
  }
 #}
+#roem-9-23 {
+ {
+  <i>Reichtum seiner Herrlichkeit</i> vgl §eph-1-18, §eph-3-16, §phil-4-19, §kol-1-27
+ }
+#}
 #roem-9-24 {
  {
   <i>Juden und Heiden</i>: <a class='kom' href='#Iroem-1-16'>Röm&nbsp;1,16</a>.
@@ -76070,6 +76095,11 @@
 #roem-9-26 {
  {
   Verweis: <a class='kom' href='#Ihos-2-1'>Hos&nbsp;2,1</a>.
+ }
+#}
+#roem-9-30 {
+ {
+  <i>Gerechtigkeit, die aus Glauben ist</i> §+roem-3-22
  }
 #}
 #roem-9-33 {
@@ -76105,7 +76135,7 @@
 #}
 #roem-10-4 {
  {
-  <i>Christus: das Ende des Gesetzes</i>: vgl <a class='kom' href='#Imt-5-17'>Mt&nbsp;5,17</a>.
+  <i>Christus: das Ende des Gesetzes</i>: vgl §roem-7-6, §+mt-5-17.
  }
  {
   <i>Ende</i> im Griechisch bedeutet auch «Ziel».
@@ -76119,6 +76149,9 @@
  }
 #}
 #roem-10-6 {
+ {
+  <i>Gerechtigkeit des Glaubens</i> §+roem-3-22
+ }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/5mo_30.html#v12'>5.&nbsp;Mo&nbsp;30,12</a>.
  }
@@ -76137,9 +76170,14 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/5mo_30.html#v14'>5.&nbsp;Mo&nbsp;30,14</a>.
  }
 #}
+#roem-10-10 {
+ {
+  <i>mit dem Herzen wird geglaubt zur Gerechtigkeit</i> §roem-3-22
+ }
+#}
 #roem-10-11 {
  {
-  <i>nicht zu Schanden werden</i>: §roem-9-33.
+  <i>nicht zu Schanden werden</i>: §roem-9-33, §ps-25-3
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Denn-die-Schrift-sagt
@@ -76196,6 +76234,11 @@
   Diese <i>Reizung zur Eifersucht</i> hat Paulus wohl in §apg-13-45 durch das Blenden von Elymas (§apg-13-8-11) praktiziert.
  <br>
   Vgl auch §apg-17-5
+ }
+#}
+#roem-10-20 {
+ {
+  Verweis; §jes-65-1
  }
 #}
 #roem-10-21 {
@@ -81633,6 +81676,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-1-18 {
  {
+  <i>Reichtum der Herrlichkeit</i>: §+roem-9-23
+ }
+ {
   <i>Erleuchtet an den Augen ihres Herzens</i>: vgl §apg-26-18
  }
  {
@@ -81967,6 +82013,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Vaterschaft</i>: in anderen Übersetzungen auch «Geschlecht» oder «Vaterschaft».
+ }
+#}
+#eph-3-16 {
+ {
+  <i>Reichtum seiner Herrlichkeit</i>: §+roem-9-23
  }
 #}
 #eph-3-17 {
@@ -82980,6 +83031,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-3-9 {
  {
+  <i>die Gerechtigkeit aus Gott durch den Glaubens</i> §+roem-3-22
+ }
+ {
    Vgl <i>Keine Rechtfertigung aus Werken des Gesetzes</i>: <a class='kom' href='#Iroem-3-20'>Röm&nbsp;3,20</a>.
  }
  {
@@ -83175,6 +83229,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #phil-4-19 {
+ {
+  <i>Reichtum in Herrlichkeit</i>: §+roem-9-23
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus, → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit
  }
@@ -83414,6 +83471,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #kol-1-27 {
+ {
+  <i>Reichtum der Herrlichkeit</i>: §+roem-9-23
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung der → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit, vgl §+roem-5-2
  }
@@ -85924,6 +85984,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
  }
  {
+  <i>strebe aber</i> §2tim-2-22
+ }
+ {
   Die «du aber» von Paulus: <ul>
       <li>Du aber, o Mensch Gottes, fliehe diese Dinge, jage aber nach Gerechtigkeit, Gottesfurcht, Glauben, Liebe, Geduld, Sanftmut!
           <a href='http://bibel.renenyffenegger.ch/1tim_6.html#v11'>1.&nbsp;Tim&nbsp;6,11</a>
@@ -86325,6 +86388,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2tim-2-22 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe#liebe-und-glaube
+ }
+ {
+  <i>strebe aber</i> §1tim-6-11
  }
  {
   <i>Fliehe</i> mit §+1tim-6-11
@@ -88649,6 +88715,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-11-7 {
  {
   <i>durch welchen</i>: Im Griechischen kann sich «welchen» sowohl auf den Glauben wie auch auf die Arche beziehen. Vgl §Vhebr-11-4 
+ }
+ {
+  <i>Gerechtigkeit, die nach dem Glaubens ist</i> §+roem-3-22
  }
  {
   <i>Kasten</i>: §+mt-24-37.
