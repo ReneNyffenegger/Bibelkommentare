@@ -40993,6 +40993,11 @@
   <a href='http://bibel.renenyffenegger.ch/joh_19.html#v29'>Joh&nbsp;19,29</a>
  }
 #}
+#ps-69-23 {
+ {
+  Verweis: §roem-11-9
+ }
+#}
 #ps-69-26 {
  {
   Dieser Vers bezieht sich offenbar auf Judas (<a href='http://bibel.renenyffenegger.ch/apg_1.html#v20'>Apg&nbsp;1,20</a>).
@@ -45100,6 +45105,11 @@
 #spr-25-18 {
  {
   <i>Falscher Zeuge</i>: <a class='kom' href='#Ispr-6-19'>Spr&nbsp;6,19</a>. TODO: 'Falscher Zeuge' wäre wohl die konsistentere Übersetzung.
+ }
+#}
+#spr-25-21 {
+ {
+  Verweis §roem-12-20
  }
 #}
 #spr-25-24 {
@@ -75383,6 +75393,11 @@
   Verweis: §1mo-15-6, vgl §jak-2-23, §gal-3-6
  }
 #}
+#roem-4-4 {
+ {
+  Vgl §roem-11-6, §offb-22-12
+ }
+#}
 #roem-4-5 {
  {
   Siehe aber auch <a class='kom' href='#I2mo-23-7'>2.&nbsp;Mo&nbsp;23,7</a> (Gott spricht keinen Gottlosen gerecht).
@@ -76268,12 +76283,12 @@
 #}
 #roem-11-5 {
  {
-   TODO: Ulich argumentiert, dass Überrest = remnant, also etwas, das bleibt (eine Remanenz)
+   TODO: Ulrich argumentiert, dass Überrest = remnant, also etwas, das bleibt (eine Remanenz)
  }
 #}
 #roem-11-6 {
  {
-  Vgl §eph-2-8-9
+  Vgl §eph-2-8-9, §roem-4-4
  }
  {
    <span class='gt'>In NA fehlt «wenn aber aus Werken, so ist es nicht mehr Gnade, sonst ist das Werk nicht mehr Werk.»</span>
@@ -76289,7 +76304,10 @@
 #}
 #roem-11-9 {
  {
-  TODO: <i>Fallstrick</i> (<span class='gr'>θήρα</span>, Strongs 2339) wird in KJV mit 'Trap' übersetzt. Der Diminitiv
+  Verweis: §ps-69-23
+ }
+ {
+  TODO: <i>Fallstrick</i> (<span class='gr'>θήρα</span>, Strongs 2339) wird in KJV mit 'Trap' übersetzt. Der Diminutiv
   dieses Wortes ist offenbar <span class='gr'>θηρίον</span>, Strongs 2342, welches oft mit 'wilden Tieren' übersetzt
   wird.
  }
@@ -76525,9 +76543,6 @@
   <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v22'>1.&nbsp;Petr&nbsp;1,22</a> und <a href='http://bibel.renenyffenegger.ch/2petr_1.html#v7'>2.&nbsp;Petr&nbsp;1,7</a>.
   <br>Vgl auch <a class='kom' href='#I1petr-3-8'>1.&nbsp;Petr&nbsp;3,8</a> und <a class='kom' href='#Ioffb-1-11'>Offb&nbsp;1,11</a>.
  }
- {
-  Eleberfelder übersetzt «...in Ehrerbietung einer dem anderen vorangehend;».
- }
 #}
 #roem-12-11 {
  {
@@ -76544,13 +76559,13 @@
   <i>Gastfreundschaft</i>: §+1petr-4-9. Vgl §1tim-5-10.
  }
  {
-   <i>übt</i> (<span class='gr'>διώκω</span>, Strongs 1377): dasselbe Wort wie 'verfolgen' im nächsten Vers.
-   <br>Vgl auch <a class='kom' href='#Iphil-3-6'>Phil&nbsp;3,6</a>.
+   <i>trachtet</i> (<span class='gr'>διώκω</span>, Strongs 1377): dasselbe Wort wie 'verfolgen' im nächsten Vers.
+   <br>Vgl auch §+phil-3-6.
  }
 #}
 #roem-12-17 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1petr_3.html#v9'>1.&nbsp;Petr&nbsp;3,9</a>.
+  <i>Vergeltet niemand Böses mit Bösem</i> vgl §1petr-3-9.
  }
 #}
 #roem-12-19 {
@@ -76561,6 +76576,11 @@
   <i>Die Rache ist mein</i>: <a class='kom' href='#I5mo-32-35'>5.&nbsp;Mo&nbsp;32,35</a>.
   <br><i>Rache</i>: vgl <a href='http://bibel.renenyffenegger.ch/ps_58.html#v11'>Ps 58,11-12</a>.
   Vgl auch <a href='http://bibel.renenyffenegger.ch/roem_13.html#v4'>Röm&nbsp;13,4</a>.
+ }
+#}
+#roem-12-20 {
+ {
+  Verweis §spr-25-21
  }
 #}
 @}
@@ -90274,7 +90294,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <i>berufen zu</i> <a class='kom' href='#Ikol-3-15'>Kol&nbsp;3,15</a>
  }
  {
-  Vgl <a class='kom' href='#Iroem-12-17'>Röm&nbsp;12,17</a>.
+  <i>vergeltet nicht Böses mit Bösem</i> Vgl §+roem-12-17.
  }
  {
   TODO: <a class='kom' href='#I1petr-2-23'>1.&nbsp;Petr&nbsp;2,23</a>.
@@ -95956,6 +95976,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>und mein Lohn mit mir, um einem jeden zu vergelten…</i> vgl §jes-40-10, §jes-62-11
   <br>
     Vgl auch §ps-58-12
+ }
+ {
+  Vgl §roem-4-4
  }
 #}
 #offb-22-13 {
