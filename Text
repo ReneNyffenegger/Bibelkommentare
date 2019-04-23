@@ -20990,7 +20990,7 @@
 #}
 #5mo-30-12 {
  {
-  Vgl <a class='kom' href='#Iroem-10-6'>Röm&nbsp;10,6</a>.
+  Vgl §+roem-10-6, §eph-4-8-ff
  }
 #}
 #5mo-30-14 {
@@ -40930,7 +40930,7 @@
   <a href='http://bibel.renenyffenegger.ch/jes_38.html#v11'>Jes&nbsp;38,11</a>.
  }
  {
-  §eph-4-8
+  §eph-4-8, vgl §roem-10-6
  }
  {
   <i>aufgefahren</i> Vgl §ps-47-6, §apg-2-34
@@ -61274,6 +61274,11 @@
   <i>Essig</i>: <a class='kom' href='#Imt-27-34'>Mt&nbsp;27,34</a>.
  }
 #}
+#mt-27-49 {
+ {
+  §mk-15-36
+ }
+#}
 #mt-27-50 {
  {
   TODO: Schrie hier Jesus: 'es ist vollbracht' (vgl <a href='http://bibel.renenyffenegger.ch/joh_19.html#v3'>Joh&nbsp;19,3</a>),
@@ -61286,7 +61291,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
-  <i>Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang zerriss</i> mk-15-38, §lk-23-45
+  <i>Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang zerriss</i> §mk-15-38, §lk-23-45
  }
  {
   TODO: Als der Vorhang zerris, wurde doch der Blick ins Allerheiligste geöffnet, und man konnte sehen, dass sich
@@ -61322,9 +61327,8 @@
 #}
 #mt-27-54 {
  {
-  <i>Hauptmann</i>: <a class='kom' href='#Imt-8-5'>Mt&nbsp;8,5</a>.
-  <br>Hier nennt der Hauptmann Jesus 'Sohn Gottes' in <a href='http://bibel.renenyffenegger.ch/lk_23.html#v47'>Lk&nbsp;23,47</a>
-  einen 'gerechten Menschen'.
+  <i>Hauptmann</i>: §+mt-8-5.
+  <br>Hier nennt der Hauptmann Jesus <i>Sohn Gottes</i> in §mk-15-39 «Gottes Sohn» und in §lk-23-47 einen «gerechten Menschen».
  }
 #}
 #mt-27-56 {
@@ -61428,12 +61432,12 @@
   Beachte: Unter Paulus gibt es keine Anweisung, alle Völker zu Jüngern zu machen.
  }
  {
-  Vgl §mk-16-15
+  Vgl §mk-16-15, §lk-24-47
  }
 #}
 #mt-28-20 {
  {
-  <i>Ich bin bei euch alle Tage...</i>: <a class='kom' href='#Imt-1-23'>Mt&nbsp;1,23</a>.
+  <i>Ich bin bei euch alle Tage...</i>: §+mt-1-23.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#vollendung-des-zeitalters[Vollendung des Zeitalters]
@@ -63069,6 +63073,11 @@
   <i>Mein Gott, mein Gott, warum hast du mich verlassen</i> vgl §ps-22-2, §joh-16-32
  }
 #}
+#mk-15-36 {
+ {
+  §mt-27-49
+ }
+#}
 #mk-15-37 {
  {
   TODO: <i>Jesus' letzter Schrei</i>: <a class='kom' href='#Imt-27-50'>Mt&nbsp;27,50</a>.
@@ -63077,6 +63086,11 @@
 #mk-15-38 {
  {
  <i>Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang zerriss</i> §mt-27-51, §lk-23-45
+ }
+#}
+#mk-15-39 {
+ {
+  Hauptmann nennt Jesus «i>Gottes Sohn</i> vgl §+mt-27-45.
  }
 #}
 #mk-15-40 {
@@ -65991,12 +66005,12 @@
 #}
 #lk-23-47 {
  {
-  <i>Hauptmann</i>: <a class='kom' href='#Imt-8-5'>Mt&nbsp;8,5</a>, <a class='kom' href='#Imt-27-54'>Mt&nbsp;27,54</a>.
+  Hauptmann nennt Jesus «gerecht» vgl §+mt-27-54 und §Vlk-23-50.
  }
 #}
 #lk-23-48 {
  {
-  Vgl mit dem Zöllner, der sich an die <i>Brust schlägt</i>, §lk-23-48.
+  Vgl mit dem Zöllner, der sich an die <i>Brust schlägt</i>, §lk-18-13
  }
 #}
 @}
@@ -66123,6 +66137,9 @@
   Vgl §+apg-1-2, §apg-1-8.
   Die Apostel predigen erst nur Busse und Vergebung in Israel (§apg-5-31) und
   sind erstaunt, wenn es zu den Heiden kommt (§apg-10-34).
+ }
+ {
+  §+mt-28-19
  }
 #}
 #lk-24-49 {
@@ -68962,7 +68979,7 @@
   Vgl §mt-4-2, §mt-21-18
  }
  {
-  Vgl §+joh-13-1.
+  <i>da Jesus wußte</i> vgl §+joh-13-1.
  }
 #}
 #joh-19-29 {
@@ -76173,7 +76190,7 @@
   <i>Gerechtigkeit des Glaubens</i> §+roem-3-22
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/5mo_30.html#v12'>5.&nbsp;Mo&nbsp;30,12</a>.
+  Vgl §5mo-30-12, §ps-68-19
  }
 #}
 #roem-10-7 {
