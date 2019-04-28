@@ -10119,7 +10119,7 @@
 #}
 #2mo-23-20 {
  {
-  <i>Ich sende einen Engel vor dir her</i> §2mo-32-34, §2mo-33-2, vgl §V2mo-23-28
+  <i>Ich sende einen Engel vor dir her</i> §2mo-32-34, §2mo-33-2, §4mo-20-16, vgl §V2mo-23-28, §+mk-1-2
  }
 #}
 #2mo-23-22 {
@@ -17249,6 +17249,9 @@
  }
 #}
 #4mo-20-16 {
+ {
+  <i>einen Engel gesandt</i> §+2mo-23-20
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
@@ -57542,11 +57545,6 @@
   <i>Weizen sammeln</i>: vgl <a class='kom' href='#Imt-24-31'>Mt&nbsp;24,31</a>
  }
 #}
-#mt-3-13 {
- {
-   Jesu Dienst beginnt in Galiläa: §apg-10-37
- }
-#}
 #mt-3-15 {
  {
   TODO: <i>gebührt</i>: Strongs 4241.
@@ -57648,6 +57646,9 @@
 #}
 #mt-4-12 {
  {
+   Jesu Dienst beginnt in Galiläa: §apg-10-37
+ }
+ {
    <i>Johannes im Gefängnis</i>
    <br>Nachdem Johannes gefangengenommen worden war, verkündigt Jesus das Evangelium vom Reich Gotes in Galiläa (§mk-1-14).
    <br>Er wurde offenbar während der 40 tägigen Versuchung Jesu oder vor dem Beginn der Verkündigung des Evangeliums zwischen (§mk-1-10-14)
@@ -57676,11 +57677,19 @@
 #}
 #mt-4-13 {
  {
+  Dieser Vers ist evtl. eine Zusammenfassung von §mk-1-9-21.
+ }
+ {
   <i>wohnen</i> ist im Griechischen <span class='gr'>κατοικέω</span> (Strongs 2730), wie auch in §mt-2-23 und wird in Sch2K mit «liess sich nieder» übersetzt.
   An anderer Stelle wird dieses Wort auch in Sch2K mit »wohnen« übersetzt, zB in §apg-1-20 oder §kol-1-19.
  }
  {
    → biblisches/Orte/Kapernaum, → biblisches/Orte/Nazareth
+ }
+#}
+#mt-4-14 {
+ {
+  Vgl §mk-1-2
  }
 #}
 #mt-4-15 {
@@ -59011,6 +59020,11 @@
 #mt-12-18 {
  {
   Erfüllung von <a class='kom' href='#Ijes-42-1'>Jes 42,1-4</a>.
+ }
+ {
+  <i>mein Geliebter, an welchem meine Seele Wohlgefallen</i> vgl §+mk-1-11
+  <br>
+  <i>meinen Geist auf ihn legen</i> vgl §mk-10
  }
 #}
 #mt-12-20 {
@@ -61476,10 +61490,13 @@
 #}
 #mk-1-2 {
  {
-  <a href='http://bibel.renenyffenegger.ch/mal_3.html#v1'>Mal&nbsp;3,1</a>, <a class='kom' href='#Ijes-40-3'>Jes&nbsp;40,3</a>.
+  §mal-3-1, §+jes-40-3, §2mo-23-20
  }
  {
   <i>Boten vor dem Angesicht Christi hergesandt</i>: vgl §lk-9-52.
+ }
+ {
+  <i>wie geschrieben steht in Jesaia</i> §mt-4-14
  }
 #}
 #mk-1-3 {
@@ -61508,30 +61525,38 @@
 #}
 #mk-1-9 {
  {
-  → biblisches/Orte/Nazareth
- }
- {
-   Jesu Dienst beginnt in → biblisches/Orte/Galiläa: §apg-10-37
+  <i>da kam Jesus von → biblisches/Orte/Nazareth</i>: vgl §+mt-4-13
  }
 #}
 #mk-1-10 {
  {
-  Beachte Ähnlichkeit zu <a href='http://bibel.renenyffenegger.ch/jes_64.html#v1'>Jes&nbsp;64,1</a>.
+  Beachte Ähnlichkeit zu §jes-64-1.
+ }
+#}
+#mk-1-11 {
+ {
+  Vgl §mt-12-17-18
  }
 #}
 #mk-1-13 {
+ {
+  Bevor der Herr in versucht wurde, war er voll Heiligen Geistes (§lk-4-1), nach der Versuchung kehrt er in der <i>Kraft des Geistes</i> zurück (§lk-4-14).
+ }
  {
   TODO: <i>wilde Tiere</i> (<span class='gr'>θηρίον</span>, Strongs 2342) wird auch mit 'Raubtier'
   übersetzt, zB in <a href='http://bibel.renenyffenegger.ch/apg_10.html#v12'>Apg&nbsp;10,12</a>.
   In <a href='http://bibel.renenyffenegger.ch/apg_28.html#v4'>Apg&nbsp;28,4</a> wird mit diesem Wort die
   Schlange bezeichnet.
   <br>TODO: siehe auch <a class='kom' href='#Itit-1-12'>Tit&nbsp;1,12</a>, <a class='kom' href='#Ihebr-12-20'>Hebr&nbsp;12,20</a>,
-     <a class='kom' href='#Ioffb-11-7'>Offb&nbsp;11,7</a> (Tier aus dem Abrund)
+     <a class='kom' href='#Ioffb-11-7'>Offb&nbsp;11,7</a> (Tier aus dem Abgrund)
  }
 #}
 #mk-1-14 {
  {
   §mt-4-12
+ }
+ {
+   Jesu Dienst beginnt in → biblisches/Orte/Galiläa: §apg-10-37
  }
  {
   Elberfelder üsetzt <i>gefangengenommen</i> mit 'überliefert'.
@@ -62843,6 +62868,11 @@
   <a class='kom' href='#Ilk-4-18'>Lk&nbsp;4,18</a> und Strongs 3464 in <a class='kom' href='#Imt-26-7'>Mt&nbsp;26,7</a>.
  }
 #}
+#mk-14-9 {
+ {
+  <i>Wo irgend dieses Evangelium gepredigt werden wird in der ganzen Welt</i> vgl §+mk-16-15.
+ }
+#}
 #mk-14-11 {
  {
   <i>Gute Gelegenheit</i>: <a class='kom' href='#Imt-26-16'>Mt&nbsp;26,16</a>.
@@ -63183,7 +63213,7 @@
   <i>predigt das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium der ganzen Schöpfung</i> Vgl §+kol-1-23, §1tim-3-16
  }
  {
-  Vgl §mt-28-19
+  Vgl §mt-28-19, vgl §mk-14-9
  }
 #}
 #mk-16-16 {
@@ -63863,6 +63893,9 @@
 #lk-4-14 {
  {
   <i>Gerücht</i>: §Vlk-4-37, §+mt-9-26.
+ }
+ {
+   Jesu Dienst beginnt in Galiläa: §apg-10-37
  }
  {
   TODO: Johannes der Täufer hätte wurde etwa jetzt gefangengesetzt, doch Lukas schreibt nicht darüber: <a class='kom' href='#Imt-4-12'>Mt&nbsp;4,12</a>.
@@ -71406,7 +71439,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
  }
  {
-  <i>anfangend von Galiläa</i>: §mt-3-13, §mk-1-9, §joh-2-11
+  <i>anfangend von Galiläa</i>: §mt-4-12, §mk-1-14, §lk-4-14, §joh-2-11
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
@@ -72758,12 +72791,13 @@
 #apg-17-1 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge#synagoge-der-juden,
-  → biblisches/Personen/Paulus/Thessalonich
+  → biblisches/Personen/Paulus/Thessalonich,
+  → biblisches/Orte/Thessalonich
  }
  {
-  Obwohl Paulus (und → biblisches/Personen/Timotheus? und → biblisches/Personen/Silvanus-Silas[Silvanus]) zuvor in Philippi gelitten hatten und misshandelt worden waren,
+  Obwohl Paulus (und → biblisches/Personen/Timotheus? und → biblisches/Personen/Silvanus-Silas[Silvanus]) zuvor in → biblisches/Orte/Philippi gelitten hatten und misshandelt worden waren,
   hatten sie dennoch Freudigkeit in ihrem Gott, den Thessalonikern das Evangelium Gottes zu verkündigen §1thes-2-2.
-  <br>Sie verkündigten das Evangelium , während sie Tag und Nacht arbeiteten, um niemanden zur Last zu fallen (§+1thes-2-9)
+  <br>Sie verkündigten das Evangelium, während sie Tag und Nacht arbeiteten, um niemanden zur Last zu fallen (§+1thes-2-9)
  }
  {
   Beachte: Offenbar betrachteten Paulus (und Silas/Silvanus) die (Un-)Gläubigen in einer Synagoge nicht als Beschneidung sondern als Heiden, denn in <a href='http://bibel.renenyffenegger.ch/gal_2.html#v9'>Gal&nbsp;2,9</a> hatten sie Beschlossen
@@ -72848,6 +72882,9 @@
  }
 #}
 #apg-17-10 {
+ {
+  → biblisches/Orte/Beröa
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge#synagoge-der-juden
  }
@@ -73383,6 +73420,9 @@
 #}
 #apg-19-29 {
  {
+  → biblisches/Personen/Aristarchus
+ }
+ {
   Theater: das gleiche Wort wie in <a href='http://bibel.renenyffenegger.ch/1kor_4.html#v9'>1.&nbsp;Kor&nbsp;4,9</a>, wo es
   mit Schauspiel übersetzt wird. Die Apostel sind der Welt ein <i>Theater</i> geworden, sowohl den den
   Engeln als auch den Menschen; sie sind gleichsam zum Tod bestimmt, als die Letzten hingestellt.
@@ -73472,10 +73512,10 @@
 #}
 #apg-20-4 {
  {
-  → biblisches/Personen/Timotheus/index, → biblisches/Personen/Tychikus
+  → biblisches/Personen/Timotheus, → biblisches/Personen/Tychikus, → biblisches/Personen/Aristarchus, → biblisches/Orte/Beröa
  }
  {
-  <i>Gajus</i> vgl <a class='kom' href='#Iroem-16-23'>Röm&nbsp;16,23</a>.
+  <i>Gajus</i> vgl §+roem-16-23.
  }
  {
   <i>Sopater</i> aus Beröa (<a href='http://bibel.renenyffenegger.ch/apg_17.html#v10'>Apg 17,10-13</a>). Vgl a <a class='kom' href='#Iroem-16-21'>Röm&nbsp;16,21</a>.
@@ -74352,6 +74392,11 @@
 #apg-27-1 {
  {
   TODO: 'Wir-Form': <a class='kom' href='#Iapg-21-8'>Apg&nbsp;21,8</a>.
+ }
+#}
+#apg-27-2 {
+ {
+  → biblisches/Orte/Thessalonich, → biblisches/Orte/Macedonien, → biblisches/Personen/Aristarchus
  }
 #}
 #apg-27-3 {
@@ -83286,7 +83331,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Anfang des → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium[Evangeliums]</i>: §mk-1-1
  }
  {
-  <a class='kom' href='#Iapg-17-10'>Apg&nbsp;17,10</a>.
+  Paulus ging vermutlich aus → biblisches/Orte/Macedonien weg, als er von → biblisches/Orte/Thessalonich nach → biblisches/Orte/Beröa kam, §+apg-17-10.
  }
  {
   Paulus, von den Philippern unterstützt: Vgl <a class='kom' href='#I2kor-11-8'>2.&nbsp;Kor&nbsp;11,8</a>,
@@ -83976,7 +84021,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #kol-4-10 {
  {
   Der andere Mitgefangene von Paulus ist Epaphras <a href='http://bibel.renenyffenegger.ch/phim_1.html#v23'>Phim&nbsp;1,23</a>.
-  Aristarchus ist auch ein Mitarbeiter (<a href='http://bibel.renenyffenegger.ch/phim_1.html#v24'>Phim&nbsp;1,24</a>)
+  → biblisches/Personen/Aristarchus ist auch ein Mitarbeiter (§phim-1-24)
   und Reisegefährte (<a href='http://bibel.renenyffenegger.ch/apg_19.html#v29'>Apg&nbsp;19,29</a>) von Paulus
  }
  {
@@ -87392,7 +87437,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Mitarbeiter</i> in Luther 1912 übersetzt mit «Gehilfen». S.a. → biblisches/Personen/Paulus/Mitarbeiter
  }
  {
-  → biblisches/Personen/Lukas
+  → biblisches/Personen/Lukas, → biblisches/Personen/Aristarchus
  }
  {
   Siehe <a class='kom' href='#Ikol-4-14'>Kol&nbsp;4,14</a>.
