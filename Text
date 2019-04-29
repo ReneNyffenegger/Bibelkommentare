@@ -48957,7 +48957,7 @@
 @Jesaja 64 {
 #jes-64-1 {
  {
-  Vgl <a class='kom' href='#Imk-1-10'>Mk&nbsp;1,10</a>.
+  Vgl §+mk-1-10, → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen
  }
  {
   Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Feuer#feuer-vom-himmel
@@ -57466,10 +57466,17 @@
 #}
 #mt-3-4 {
  {
-  <i>Heuschrecken essen</i>: <a class='kom' href='#I3mo-11-22'>3.&nbsp;Mo&nbsp;11,22</a>.
+  <i>Heuschrecken essen</i>: §+3mo-11-22.
  }
  {
-  Vgl Johannes' Kleidung mit den «weichen Kleidern» in <a href='http://bibel.renenyffenegger.ch/mt_11.html#v8'>Mt&nbsp;11,8</a>.
+  §mk-1-6
+  <br>
+  Vgl Johannes' Kleidung mit den «weichen Kleidern» in §mt-11-8.
+ }
+#}
+#mt-3-5 {
+ {
+  §mk-1-5, §lk-3-7
  }
 #}
 #mt-3-6 {
@@ -57523,7 +57530,10 @@
 #}
 #mt-3-11 {
  {
-   <i>Mit Wasser zur Busse taufen</i>: Siehe <a  class='kom' href='#Iapg-11-16'>Apg&nbsp;11,16</a>
+  <i>Ich zwar taufe euch mit Wasser…</i> §mk-1-8, §lk-3-16, §joh-1-26 
+ }
+ {
+  <i>Mit Wasser zur Busse taufen</i>: Siehe <a  class='kom' href='#Iapg-11-16'>Apg&nbsp;11,16</a>
  }
  {
   Die Apostel wurden mit Heiligem Geist, nicht mit Feuer, getauft: <a href='http://bibel.renenyffenegger.ch/apg_1.html#v5'>Apg&nbsp;1,5</a>.
@@ -57551,6 +57561,9 @@
  }
 #}
 #mt-3-16 {
+ {
+  <i>Himmel wurden aufgetan</i> §+mk-1-10, §lk-3-21, §joh-1-51, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen
+ }
  {
   TODO: Offenbar wählt Matthäus für Himmel immer den Plural, wenn er vom überirdischen Himmel redet, während Lukas
   dafür die Einzahl wählt. Vgl <a href='http://bibel.renenyffenegger.ch/lk_3.html#v21'>Lk&nbsp;3,21</a>.
@@ -59022,9 +59035,9 @@
   Erfüllung von <a class='kom' href='#Ijes-42-1'>Jes 42,1-4</a>.
  }
  {
-  <i>mein Geliebter, an welchem meine Seele Wohlgefallen</i> vgl §+mk-1-11
+  <i>mein Geliebter, an welchem meine Seele Wohlgefallen</i> vgl §+mk-1-11, §mt-17-5
   <br>
-  <i>meinen Geist auf ihn legen</i> vgl §mk-10
+  <i>meinen Geist auf ihn legen</i> vgl §mk-1-10
  }
 #}
 #mt-12-20 {
@@ -61482,10 +61495,13 @@
 #mk-1-1 {
  {
   <i>Evangelium von Jesus Christus</i>: <a class='kom' href='#Imt-4-23'>Mt&nbsp;4,23</a>.
-  S.a. Vers 14.
+  S.a. §Vmk-1-14.
  }
  {
   <i>Anfang des → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium[Evangeliums]</i>: §phil-4-15
+ }
+ {
+  <i>des Sohnes Gottes</i>: vgl §Vmk-1-10 und 11. In §joh-1-34 bezeugt → biblisches/Personen/Johannes/Täufer[Johannes der Täufer], dass der Sohn Gottes der ist, auf den der Geist herniederfahren und bleiben wird.
  }
 #}
 #mk-1-2 {
@@ -61510,6 +61526,16 @@
   <br>TODO Vgl <a class='kom' href='#Imt-4-12'>Mt&nbsp;4,12</a> und <a href='http://bibel.renenyffenegger.ch/lk_16.html#v16'>Lk&nbsp;16,16</a>.
  }
 #}
+#mk-1-5 {
+ {
+  §mt-3-5, §lk-3-7
+ }
+#}
+#mk-1-6 {
+ {
+  §+mt-3-4
+ }
+#}
 #mk-1-7 {
  {
   Hier beendet → biblisches/Personen/Johannes/Täufer/index seinen Lauf, vgl §+mt-3-11, §apg-13-25.
@@ -61530,10 +61556,15 @@
 #}
 #mk-1-10 {
  {
+  <i>sah er die Himmel sich teilen</i> §mt-3-16, §lk-3-21, §joh-1-51, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen
+  <br>
   Beachte Ähnlichkeit zu §jes-64-1.
  }
 #}
 #mk-1-11 {
+ {
+  <i>Du bist mein geliebter Sohn…</i> vgl §Vmk-1-1, §joh-1-33-ff.
+ }
  {
   Vgl §mt-12-17-18
  }
@@ -63736,13 +63767,17 @@
 #}
 #lk-3-7 {
  {
+  <i>Otternbrut…</i> gemäss §mt-3-5-7 sagte → biblisches/Personen/Johannes/Täufer[Johannes] dies zu den → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer[Pharisäern]
+  und → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer[Sadduzäern], vgl §mk-1-5.
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
  }
  {
   <i>Wer hat euch gewiesen, dem kommenden Zorn zu entfliehen</i>: §mt-3-7, §joh-3-36
  }
  {
-  <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
+  <i>Zorn in den Evangelien</i>: §+mt-3-7.
  }
 #}
 #lk-3-11 {
@@ -63769,7 +63804,7 @@
   Hier beendet → biblisches/Personen/Johannes/Täufer/index seinen Lauf, vgl §+mt-3-11, §apg-13-25.
  }
  {
-  Mit Wasser taufen: zur Busse (§mt-3-11). Siehe §+apg-11-16
+  <i>Ich zwar taufe euch mit Wasser…</i> §mt-3-11, §mk-1-8, §joh-1-26, vgl +apg-11-16
  }
 #}
 #lk-3-18 {
@@ -63786,6 +63821,13 @@
  {
   TODO: Beachte, dass dies nicht chronologisch ist: Johannes taufte Jesus, er wurde also nach der Taufe Jesu (Vers 21) ins Gefängnis geworfen.
   Vgl auch <a href='http://bibel.renenyffenegger.ch/joh_3.html#v23'>Joh 3,23-24</a>.
+ }
+#}
+#lk-3-21 {
+ {
+  <i>daß der Himmel aufgetan wurde</i> §mt-3-16, §mk-1-10, §joh-1-51, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen
+  <br>
+   Siehe auch die <i>Verschliessung des Himmels</i> in §lk-4-25.
  }
 #}
 #lk-3-22 {
@@ -63973,6 +64015,11 @@
 #lk-4-24 {
  {
   <i>anerkannt</i>: vgl <a class='kom' href='#Ilk-4-19'>Vers 19</a>.
+ }
+#}
+#lk-4-25 {
+ {
+  <i>Verschliessung des Himmels</i> vgl §+lk-3-21
  }
 #}
 #lk-4-28 {
@@ -66382,6 +66429,9 @@
 #}
 #joh-1-26 {
  {
+  <i>Ich taufe mit Wasser…</i>: §mt-3-11, §mk-1-8, §lk-3-16
+ }
+ {
   <i>den ihr nicht kennt</i> vgl §Vjoh-1-31
  }
  {
@@ -66442,6 +66492,11 @@
 #joh-1-33 {
  {
    Mit Wasser taufen: zur Busse (<a href='http://bibel.renenyffenegger.ch/mt_3.html#v11'>Mt&nbsp;3,11</a>). Siehe <a class='kom' href='#Iapg-11-16'>Apg&nbsp;11,16</a>
+ }
+#}
+#joh-1-34 {
+ {
+  <i>Sohn Gottes</i>: §Vjoh-1-49, §+mk-1-1
  }
 #}
 #joh-1-35 {
@@ -66536,7 +66591,7 @@
 #}
 #joh-1-51 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen, vgl §mt-3-16, §mk-1-10, §lk-3-21
  }
 #}
 @}
