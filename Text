@@ -10516,6 +10516,11 @@
   auch §+1koe-6-23). Hier am Sühnedeckel befestigt und gebeugt, dort freistehend, in Kreuzesform, und aufrecht.
  }
 #}
+#2mo-25-20 {
+ {
+  §2mo-37-9
+ }
+#}
 #2mo-25-21 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#inhalt-der-lade[Zeugnis in der Lade]
@@ -12139,6 +12144,11 @@
 #2mo-37-7 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
+#}
+#2mo-37-9 {
+ {
+  §2mo-25-20
  }
 #}
 #2mo-37-10 {
@@ -34847,10 +34857,7 @@
 #}
 #2chr-16-9 {
  {
-  <i>Die Augen des HERRN durchlaufen die ganze Erde</i>: §sach-4-10
- }
- {
-   TODO: Augen Vgl §offb-5-6.
+  <i>Die Augen des HERRN durchlaufen die ganze Erde</i>: §sach-4-10, §offb-5-6
  }
 #}
 #2chr-16-10 {
@@ -39444,7 +39451,7 @@
   Die Himmel verkünden Seine Gerechtigkeit (§ps-50-7, §ps-97-6) und sind das → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werk seiner Hände] (§ps-102-26).
  }
  {
-  <i>Ausdehung</i>: §+1mo-1-6.
+  <i>Ausdehnung</i>: §+1mo-1-6.
  }
  {
   <i>erzählen</i> (<span class='hebr'>סָפַר</span>, Strongs 5608): §+1mo-15-5.
@@ -43829,7 +43836,7 @@
   <i>Psalmanfang «Lobt Jah»</i>: <a class='kom' href='#Ips-111-1'>Ps&nbsp;111,1</a>.
  }
  {
-  <i>Ausdehung</i>: <a class='kom' href='#I1mo-1-6'>1.&nbsp;Mo&nbsp;1,6</a>.
+  <i>Ausdehnung</i>: <a class='kom' href='#I1mo-1-6'>1.&nbsp;Mo&nbsp;1,6</a>.
  }
  {
   <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>. Ebenso Vers 6.
@@ -46107,13 +46114,14 @@
 #}
 #jes-6-2 {
  {
-   Vgl <i>vier Lebendige Wesen</i> in <a class='kom' href='#Ioffb-4-6'>Offb&nbsp;4,6</a>
+   Seraphim, die <i>Heilig, heilig, heilig</i> rufen und <i>sechs Flügel</i> haben: vgl mit den <i>vier Lebendige Wesen</i> in §offb-4-6-8.
  }
  {
   TODO: <i>Seraphim</i> vgl <a class='kom' href='#I4mo-21-6'>4.&nbsp;Mo&nbsp;21,6</a>.
  }
 #}
 #jes-6-3 {
+  
  {
   <i>Erde von der Herrlichkeit des HERRN erfüllt</i>: <a class='kom' href='#I4mo-14-21'>4.&nbsp;Mo&nbsp;14,21</a>
  }
@@ -46535,7 +46543,10 @@
 #}
 #jes-11-10 {
  {
-  Dieser Vers wird wohl in <a href='http://bibel.renenyffenegger.ch/roem_15.html#v12'>R&ouml;m&nbsp;15,12</a> zitiert.
+  Dieser Vers wird wohl in §roem-15-12 zitiert.
+ }
+ {
+  <i>Wurzelsproß Isais</i> vgl §+offb-5-5
  }
  {
   → biblisches/Bücher/prophetisch/Jesaja/index#es-wird-geschehen-an-jenem-tag-jes in → biblisches/Bücher/prophetisch/Jesaja
@@ -52012,7 +52023,7 @@
   <i>Kristall</i>: <a class='kom' href='#I1mo-31-40'>1.&nbsp;Mo&nbsp;31,40</a>
  }
  {
-  <i>Ausdehung</i>: <a class='kom' href='#I1mo-1-6'>1.&nbsp;Mo&nbsp;1,6</a>.
+  <i>Ausdehnung</i>: <a class='kom' href='#I1mo-1-6'>1.&nbsp;Mo&nbsp;1,6</a>.
  }
 #}
 #hes-1-24 {
@@ -52030,7 +52041,7 @@
 #}
 #hes-1-28 {
  {
-  <i>Regenbogen</i>: <a class='kom' href='#Ioffb-4-3'>Offb&nbsp;4,3</a>.
+  <i>Regenbogen</i>: §+offb-4-3.
  }
 #}
 @}
@@ -52042,6 +52053,9 @@
  }
 #}
 #hes-2-2 {
+ {
+  <i>ich stellte mich auf meine Füße</i> vgl §hes-3-24
+ }
  {
   <i>der Geist kommt in Hesekiel</i>: vgl <a href='http://bibel.renenyffenegger.ch/hes_3.html#v24'>Hes&nbsp;3,24</a>
  }
@@ -52062,17 +52076,15 @@
   <i>Erkennen, dass ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet in ihrer Mitte war</i>: §hes-33-33.
  }
 #}
-#hes-2-8 {
- {
-  TODO: Eine Buchrolle der Grösse 20x10 Ellen in <a href='http://bibel.renenyffenegger.ch/sach_5.html#v2'>Sach&nbsp;5,2</a>.
- }
-#}
 #hes-2-9 {
  {
-  <i>Buchrolle</i>: <a class='kom' href='#Isach-5-1'>Sach&nbsp;5,1</a>.
+  <i>Buchrolle</i>: vgl §+sach-5-1.
  }
 #}
 #hes-2-10 {
+ {
+  Auf der Vorder- und Hinterseite beschriebenes Buch, vgl §offb-5-1-ff
+ }
  {
   <i>Klagen</i> (<span class='hebr'>קִינָה</span>, Strongs 7015): dasselbe Wort wie für Klagelied (zB <a class='kom' href='#I2chr-35-25'>2.&nbsp;Chr&nbsp;35,25</a>,
   <a href='http://bibel.renenyffenegger.ch/hes_19.html#v1'>Hes&nbsp;19,1</a>).
@@ -52086,6 +52098,9 @@
  }
 #}
 #hes-3-5 {
+ {
+  → biblisches/Personen/Hesekiel ist zum Haus Israel gesandt, → biblisches/Personen/Johannes muss weissagen über <i>Völker und Nationen und Sprachen und viele Könige</i>, §offb-10-11
+ }
  {
   <i>Volk von unverständlicher Sprache</i> vgl §jes-33-19
  }
@@ -52118,6 +52133,9 @@
  }
 #}
 #hes-3-24 {
+ {
+  <i>Der Geist … stellte mich auf meine Füße</i> vgl §hes-2-2
+ }
  {
   <i>Der Geist kommt in Hesekiel</i>: <a class='kom' href='#Ihes-2-2'>Hes&nbsp;2,2</a>.
  }
@@ -52300,7 +52318,7 @@
 @Hesekiel 10 {
 #hes-10-1 {
  {
-  <i>Ausdehung</i>: <a class='kom' href='#I1mo-1-6'>1.&nbsp;Mo&nbsp;1,6</a>.
+  <i>Ausdehnung</i>: <a class='kom' href='#I1mo-1-6'>1.&nbsp;Mo&nbsp;1,6</a>.
  }
  {
   <i>Saphir</i>: <a class='kom' href='#I2mo-24-10'>2.&nbsp;Mo&nbsp;24,10</a>.
@@ -52376,7 +52394,7 @@
 #}
 #hes-11-19 {
  {
-   Vgl §hes-36-26
+   §hes-36-26, §hes-18-31
  }
 #}
 #hes-11-20 {
@@ -52594,6 +52612,11 @@
 #hes-18-30 {
  {
   TODO: <i>Zum Fall gereichen</i> ist im Grundtext <span class='hebr'>מִכְשׁוֹל</span> (Strongs 4383), welches häufig mit «Anstoss» übersetzt wird.
+ }
+#}
+#hes-18-31 {
+ {
+  <i>schafft euch ein neues Herz und einen neuen Geist</i> §hes-11-19
  }
 #}
 @}
@@ -54768,7 +54791,7 @@
 #}
 #dan-12-3 {
  {
-  <i>Ausdehung</i>: <a class='kom' href='#I1mo-1-6'>1.&nbsp;Mo&nbsp;1,6</a>.
+  <i>Ausdehnung</i>: <a class='kom' href='#I1mo-1-6'>1.&nbsp;Mo&nbsp;1,6</a>.
  }
 #}
 #dan-12-4 {
@@ -56716,7 +56739,7 @@
 #}
 #sach-5-2 {
  {
-         <i>Buchrolle</i>: <a class='kom' href='#Ihes-2-8'>Hes&nbsp;2,8</a>.
+   <i>fliegende Rolle</i> vgl §+hes-2-8.
  }
  {
   TODO <i>20 x 10 Ellen</i>: <a class='kom' href='#I1koe-6-3'>1.&nbsp;Kö&nbsp;6,3</a>.
@@ -77027,7 +77050,7 @@
 #}
 #roem-15-12 {
  {
-  Dieses Zitat stammt wohl aus <a href='http://bibel.renenyffenegger.ch/jes_11.html#v10'>Jes&nbsp;11,10</a>.
+  Dieses Zitat stammt wohl aus §jes-11-10.
  }
  {
   Vgl <a class='kom' href='#Imt-12-21'>Mt&nbsp;12,21</a>.
@@ -80117,6 +80140,9 @@
   <i>Die Herrlichkeit des Herrn anschauend</i> vgl §+hebr-12-2
  }
  {
+  <i>mit aufgedecktem Angesicht die Herrlichkeit des Herrn anschauend</i> vgl §2kor-4-6
+ }
+ {
   <i>Bild</i> vgl §+mt-22-20.
  }
 #}
@@ -80152,7 +80178,10 @@
 #}
 #2kor-4-6 {
  {
-   <i>der aus Finsternis Licht leuchten hiess</i>: Vgl §+1mo-1-3.
+  <i>der aus Finsternis Licht leuchten hiess</i>: Vgl §+1mo-1-3.
+ }
+ {
+  <i>Erkenntnis der Herrlichkeit Gottes im Angesicht Christi</i> vgl §2kor-3-18
  }
 #}
 #2kor-4-7 {
@@ -84471,6 +84500,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-2-17 {
  {
+  <i>euer Angesicht zu sehen</i> §1thes-3-10
+ }
+ {
   <i>kleine Weile getrennt</i>: <a href='http://bibel.renenyffenegger.ch/phim_1.html#v15'>Phim&nbsp;1,15</a>.
  }
 #}
@@ -84602,6 +84634,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>abstatten</i> (<span class='gr'>ἀνταποδίδωμι</span>, Strongs 467), sonst mit 'vergelten' übersetzt, zum Beispiel in <a href='http://bibel.renenyffenegger.ch/lk_14.html#v14'>Lk&nbsp;14,14</a>.
+ }
+#}
+#1thes-3-10 {
+ {
+  <i>euer Angesicht sehen</i> §1thes-2-17
  }
 #}
 #1thes-3-11 {
@@ -86187,6 +86224,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1tim-6-10 {
+ {
+  <i>Wurzel alles Bösen</i> vgl §hebr-12-15
+ }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Geld#geldliebe: vgl §1tim-3-3, §2tim-3-2.
   <br>
@@ -89211,6 +89251,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-12-14 {
  {
   Vgl <a class='kom' href='#Ihebr-2-8'>Hebr&nbsp;2,8</a>.
+ }
+#}
+#hebr-12-15 {
+ {
+  <i>Wurzel der Bitterkeit</i> §1tim-6-10
  }
 #}
 #hebr-12-16 {
@@ -92959,7 +93004,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-3-8 {
  {
-  <i>geöffnete Tür</i> vgl §offb-3-20, §offb-4-1
+  <i>geöffnete Tür</i> vgl §Voffb-3-20, §offb-4-1
  }
 #}
 #offb-3-9 {
@@ -93027,6 +93072,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Elend und arm: vgl §ps-86-1.
  }
 #}
+#offb-3-20 {
+ {
+  <i>Tür auftun</i> vgl §offb-4-1
+ }
+#}
 #offb-3-22 {
  {
   <i>Gemeinde</i> kommt jetzt noch ein einziges Mal in der Offenbarung: <a href='http://bibel.renenyffenegger.ch/offb_22.html#v16'>Offb&nbsp;22,16</a>.
@@ -93036,9 +93086,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Offenbarung 4 {
 #offb-4-1 {
  {
+  Beachte, der Herr selbst spricht (Posaune, §+offb-1-10).
+ }
+ {
   <i>Posaune</i>: §+mt-24-31.
-  <br>
-  §+offb-1-10
  }
  {
   Ist jetzt «was ist» (§offb-1-19) vorbei, und es kommt «was nach diesem geschehen soll»?
@@ -93065,7 +93116,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-4-3 {
  {
-  <i>Regenbogen</i>: <a class='kom' href='#Ihes-10-1'>Hes&nbsp;10,1</a>. Vgl <a href='http://bibel.renenyffenegger.ch/offb_10.html#v1'>Offb&nbsp;10,1</a>.
+  <i>Regenbogen</i>: §+hes-1-28. Vgl §offb-10-1.
  }
  {
   Vgl <i>Smaragd</i> (<span class='gr'>σμαράγδινος</span>, Strongs 4664, 1x) mit <span class='gr'>σμάραγδος</span> (Strongs 4665, 1x) in
@@ -93168,7 +93219,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Diese haben 6 Flügel voller Augen und rufen 'Heilig, heilig ist der Herr, Gott der Allmächtige, der war und der ist und der kommt!'
   Vgl Seraphim mit 6 Flügeln, die sprechen
   'Heilig, heilig, heilig ist der HERR der Heerscharen; die ganze Erde ist erfüllt von seiner Herrlichkeit!'
-  (<a href='http://bibel.renenyffenegger.ch/jes_6.html#v2'>Jes&nbsp;6,2</a>)
+  (§jes-6-2-3)
   <br>
     Diese Wesen <i>bringen Herrlichkeit, Ehre und Dank dar</i> (Vers 9) oder sagen 'Amen', wenn wenn jedes Geschöpf sagt <i>Lob, Ehre, Ruhm und Macht</i>
     (<a href='http://bibel.renenyffenegger.ch/offb_5.html#v13'>Offb&nbsp;5,13</a>). Jeweils anschliessend (Vers 10, <a href='http://bibel.renenyffenegger.ch/offb_5.html#v14'>Offb&nbsp;5,14</a>)
@@ -93271,7 +93322,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Versiegeltes Buch</i>: <a class='kom' href='#Ijes-29-11'>Jes&nbsp;29,11</a>.
  }
  {
-  TODO: Offenbar haben die 24 Ältesten dies dem Johannes voraus: sie wissen, dass der Löwe überwunden hat und es keinen Grund gibt, zu weinen.
+  <i>Wurzel Davids</i> §offb-22-16, §jes-11-10
+ }
+ {
+  Offenbar haben die 24 Ältesten dies dem Johannes voraus: sie wissen, dass der Löwe überwunden hat und es keinen Grund gibt, zu weinen.
  }
 #}
 #offb-5-6 {
@@ -93279,21 +93333,23 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte: die 24 Ältesten reden von einem Löwen, aber → biblisches/Personen/Johannes sieht ein Lamm.
  }
  {
+  <i>Sieben Augen</i> die gesandt sind über die ganze Erde: §2chr-16-9, §sach-4-10, §sach-3-9
+ }
+ {
   <i>Sieben Geister</i>: §+offb-1-2.
  }
  {
-  <i>Sieben Augen</i>: §sach-3-9
- }
- {
-  Beachte: hier ist das Lamm «wie geschlachtet», nachdem es das Buch genommen hat (Vers 8), erkennt (?) man, dass es geschlachtet worden ist (Vers 9 und 11).
-  <br>Vgl auch <a class='kom' href='#Ijes-53-7'>Jes&nbsp;53,7</a> und
-  <a class='kom' href='#Ijer-11-19'>Jer&nbsp;11,19</a>.
+  Beachte: hier ist das Lamm «wie geschlachtet», nachdem es das Buch genommen hat (§Voffb-5-8), erkennt (?) man, dass es geschlachtet worden ist (§Voffb-5-9 und 11).
+  <br>Vgl auch §+jes-53-7 und
+  §+jer-11-19.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Sieben-Köpfe-und-zehn-Hörner#sieben-hoerner
  }
+#}
+#offb-5-7 {
  {
-  TODO: Augen vgl §2chr-16-9.
+  Vgl §hes-2-9-10
  }
 #}
 #offb-5-8 {
@@ -93388,8 +93444,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Offenbarung 6 {
 #offb-6-1 {
  {
-  Beachte: Die Siegel werden vom Lamm geöffnet, in die Posaunen von Engeln gestossen (<a href='http://bibel.renenyffenegger.ch/offb_8.html#v2'>Offb 8,2 ff</a>),
-  die Schalen des Zornes Gottes von Engeln auf die Erde gegossen (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v1'>Offb 16,1 ff</a>).
+  Beachte: <i>das Lamm</i> öffnet die sieben Siegel, es ist hingegen der <i>Löwe</i> aus dem Stamm Juda, der überwunden hat, das Buch und die Siegel zu öffnen.
+ }
+ {
+  Beachte: Die Siegel werden vom Lamm geöffnet, in die Posaunen von Engeln gestossen (§offb-8-2-ff), die Schalen des Zornes Gottes von Engeln auf die Erde gegossen (§offb-6-1).
  }
  {
   <i>Komm und sieh</i>: <a href='http://bibel.renenyffenegger.ch/joh_1.html#v46'>Joh&nbsp;1,46</a>.
@@ -94074,6 +94132,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-10-11 {
  {
+  <i>über viele Völker weissagen</i> vgl §Vhes-3-5.
+ }
+ {
   TODO: Hier muss Johannes wiederum weissagen, wie es dann aber aussieht, sind es die zwei Zeugen, die weissagen werden (<a href='http://bibel.renenyffenegger.ch/offb_11.html#v3'>Offb&nbsp;11,3</a>).
   <br>Vgl auch die <i>Völker und Nationen und Sprachen und Könige</i> hier mit den
   «Völkern und Stämmen und Sprachen und Nationen», die die Leichname sehen werden.
@@ -94213,7 +94274,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-11-12 {
  {
-  Auch Johannes ist in den Himmel gestiegen: §+offb-4-1.
+  Auch → biblisches/Personen/Johannes[Johannes] ist in den Himmel gestiegen, nachdem der Herr ihm gesagt hat «Komm hier herauf»: §+offb-4-1.
  }
 #}
 #offb-11-13 {
@@ -96014,6 +96075,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-21-19 {
  {
+  Offenbar sind alle 12 hier aufgezählten Edelsteine <i>anisotrop</i> (doppelbrechend).
+ }
+ {
   <i>Smaragd</i>: <a class='kom' href='#Ioffb-4-3'>Offb&nbsp;4,3</a>.
  }
  {
@@ -96215,6 +96279,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-22-16 {
+ {
+  <i>Ich bin die Wurzel … Davids</i> §offb-5-5
+ }
  {
    <i>der leuchtende Morgenstern</i>: <span class='gr'>ὁ ἀστὴρ ὁ λαμπρὸς καὶ ὀρθρινός</span>,
   Vgl <a class='kom' href='#Ioffb-2-28'>Offb&nbsp;2,28</a>.
