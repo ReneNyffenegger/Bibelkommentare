@@ -10126,7 +10126,7 @@
 #}
 #2mo-23-20 {
  {
-  <i>Ich sende einen Engel vor dir her</i> §2mo-32-34, §2mo-33-2, §4mo-20-16, vgl §V2mo-23-28, §+mk-1-2
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Ich sende einen Engel vor dir her]: §2mo-32-34, §2mo-33-2, §4mo-20-16, vgl §V2mo-23-28, §+mk-1-2
  }
 #}
 #2mo-23-22 {
@@ -10156,6 +10156,9 @@
 #2mo-23-28 {
  {
   TODO zusaetzliche_texte Nationen-in-Kanaan
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt
  }
  {
   <i>Ich werde die Hornisse vor dir hersenden</i>: §5mo-7-20, §jos-24-12, vgl §V2mo-23-20, §+2mo-33-2
@@ -11703,7 +11706,7 @@
   TODO zusaetzliche_texte Nationen-in-Kanaan
  }
  {
-  <i>Ich werde einen Engel vor dir hersenden</i> §+2mo-23-20.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Ich werde einen Engel vor dir hersenden]: §+2mo-23-20
  }
 #}
 #2mo-33-3 {
@@ -17270,7 +17273,7 @@
 #}
 #4mo-20-16 {
  {
-  <i>einen Engel gesandt</i> §+2mo-23-20
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[einen Engel gesandt]: §+2mo-23-20
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
@@ -17705,6 +17708,11 @@
  }
  {
   Vgl <a class='kom' href='#I1mo-27-29'>1.&nbsp;Mo&nbsp;27,29</a>.
+ }
+#}
+#4mo-24-12 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt
  }
 #}
 #4mo-24-13 {
@@ -21886,6 +21894,9 @@
  }
 #}
 #jos-6-17 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt, vgl §Vjos-6-25
+ }
  {
    Durch Glauben ging Rahab nicht verloren mit den Ungläubigen, weil sie die Kundschafter mit Frieden aufgenommen hatte
   (<a href='http://bibel.renenyffenegger.ch/hebr_11.html#v31'>Hebr&nbsp;11,31</a>).
@@ -46532,7 +46543,7 @@
 #}
 #jes-11-6 {
  {
-  <i>Wolf und Lamm</i>: vgl <a href='http://bibel.renenyffenegger.ch/jes_65.html#v25'>Jes&nbsp;65,25</a>.
+  <i>Wolf und Lamm</i>: vgl §jes-65-25.
  }
  {
   TOOD: Mastvieh oder calf?
@@ -48554,8 +48565,8 @@
   Vers 7 und 8 werden vom äthiopischen Kämmerer in §apg-8-32-33 gelesen.
  }
  {
-  Vgl <a class='kom' href='#Ioffb-5-6'>Offb&nbsp;5,6</a>.
-  TODO: Vgl <a class='kom' href='#Ijer-11-19'>Jer&nbsp;11,19</a>, <a href='http://bibel.renenyffenegger.ch/jer_12.html#v3'>Jer&nbsp;12,3</a>
+  Vgl §+offb-5-6.
+  TODO: Vgl §+jer-11-19, §jer-12-3
   (Die Wörter für Schaf und Schlachtbank scheinen im Grundtext zu variieren).
  }
  {
@@ -49744,9 +49755,9 @@
 #}
 #jer-11-19 {
  {
-   <i>Lamm, das zur Schlachtbank geführt wird</i> vgl <a href='http://bibel.renenyffenegger.ch/jes_53.html#v7'>Jes&nbsp;53,7</a>,
-      <a class='kom' href='#Ioffb-5-6'>Offb&nbsp;5,6</a>.
-   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/jer_12.html#v3'>Jer&nbsp;12,3</a>.
+   <i>Lamm, das zur Schlachtbank geführt wird</i> vgl §jes-53-7, §+offb-5-6.
+   <br>
+   Siehe auch <a href='http://bibel.renenyffenegger.ch/jer_12.html#v3'>Jer&nbsp;12,3</a>.
  }
  {
   <i>Lamm</i> (<span class='hebr'>אַלּוּף</span>, Strongs 441), nicht dasselbe Wort wie in Jes 53,7. Vgl <a class='kom' href='#Ips-144-14'>Ps&nbsp;144,14</a>.
@@ -58878,6 +58889,9 @@
 #}
 #mt-11-10 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt
+ }
+ {
   Dieses Zitat ist eigentlich ein Zusammenzug aus <a class='kom' href='#Ijes-40-3'>Jes&nbsp;40,3</a> und <a class='kom' href='#Imal-3-1'>Mal&nbsp;3,1</a>.
   Ebenso in <a href='http://bibel.renenyffenegger.ch/lk_7.html#v27'>Lk&nbsp;7,27</a>.
  }
@@ -59925,6 +59939,11 @@
  {
   <i>Ewiges Feuer</i>: §mt-25-41, §jud-1-7.
   <br>Vgl auch §offb-20-10, §2thes-1-9, §mk-3-29, §hebr-6-2
+ }
+#}
+#mt-18-10 {
+ {
+  <i>allezeit das Angesicht meines Vaters schauen</i>, §offb-22-4
  }
 #}
 #mt-18-11 {
@@ -61553,7 +61572,7 @@
   §mal-3-1, §+jes-40-3, §2mo-23-20
  }
  {
-  <i>Boten vor dem Angesicht Christi hergesandt</i>: vgl §lk-9-52.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Boten vor dem Angesicht Christi hergesandt]: vgl §lk-9-52.
  }
  {
   <i>wie geschrieben steht in Jesaia</i> §mt-4-14
@@ -63462,10 +63481,10 @@
 #}
 #lk-1-26 {
  {
-  → biblisches/Orte/Nazareth, → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Gabriel
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt
  }
  {
-  Vgl mit dem 
+  → biblisches/Orte/Nazareth, → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Gabriel
  }
 #}
 #lk-1-27 {
@@ -64699,7 +64718,7 @@
 #}
 #lk-9-52 {
  {
-  <i>Boten vor dem Angesicht Christi hersenden</i>: vgl §mk-1-2.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Boten vor dem Angesicht Christi hersenden]: vgl §mk-1-2.
  }
  {
   <i>für ihn zuzubereiten</i>: Sch2K übersetzt mit «ihm die Herberge bereiten», KJV mit «to make ready for him.».
@@ -66515,6 +66534,9 @@
  }
  {
   Die Sünde ist: nicht an Seinen Namen glauben: §joh-16-9. Die Sünde ist durch einen Menschen in die Welt gekommen: §roem-5-12
+ }
+ {
+  Hier sagt → biblisches/Personen/Johannes/Täufer <i>siehe das Lamm Gottes</i>, in §offb-5-6 sieht (ein anderer) → biblisches/Personen/Johannes ein «Lamm wie geschlachtet».
  }
 #}
 #joh-1-30 {
@@ -71862,6 +71884,11 @@
  {
   Bild für die Waffenrüstung Gottes (<a href='http://bibel.renenyffenegger.ch/eph_6.html#v14'>Eph&nbsp;6,14</a>)? Falls ja,
   öffnen sich dann Türen, wenn man diese anzieht, und man kann es 'fast nicht fassen'?
+ }
+#}
+#apg-12-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt
  }
 #}
 #apg-12-12 {
@@ -92397,7 +92424,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Vgl auch <a class='kom' href='#Ijoh-15-15'>Joh&nbsp;15,15</a>.
  }
  {
-  <i>Was rasch geschehen muss</i>: Vgl <a href='http://bibel.renenyffenegger.ch/offb_22.html#v6'>Offb&nbsp;22,6</a>.
+  <i>Was bald geschehen muß</i>: Vgl §offb-22-6, §offb-4-1
  }
  {
   <i>den Knechten zeigen</i>: <a href='http://bibel.renenyffenegger.ch/am_3.html#v7'>Am&nbsp;3,7</a>.
@@ -92714,6 +92741,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-1-19 {
  {
   <i>Was du gesehen hast</i>: Vgl §Voffb-1-2
+  <br>
+  <i>was nach diesem geschehen wird</i> §offb-4-1
  }
  {
   TODO <i>Was ist</i>: oder etwas: «was dies bedeutet»? (TODO: Vgl <a href='http://bibel.renenyffenegger.ch/mt_9.html#v13'>Mt&nbsp;9,13</a>, wo
@@ -93104,6 +93133,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Posaune</i>: §+mt-24-31.
  }
  {
+  <i>was nach diesem geschehen muß</i> §offb-1-19, §offb-1-1, §offb-22-6
+ }
+ {
   Ist jetzt «was ist» (§offb-1-19) vorbei, und es kommt «was nach diesem geschehen soll»?
  }
  {
@@ -93123,7 +93155,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Im Geist</i>: §+offb-1-10.
  }
  {
-  In §offb-22-3 wird der <i>Thron Gottes und des Lammes</i> in der Stadt, im neuen Jerusalem, sein.
+  In §offb-22-3 wird der <i>Thron Gottes und des Lammes</i> nicht mehr im Himmel, sondern in der Stadt, im neuen Jerusalem, sein. Hier sitzt <i>einer</i> auf dem Thron, dort
+  ist es der Thron Gottes und des Lammes.
  }
 #}
 #offb-4-3 {
@@ -93140,7 +93173,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-4-4 {
  {
-  Beachte: die <i>24 Ältesten</i> sind erkauft worden (<a class='kom' href='#Ioffb-5-9'>Offb&nbsp;5,9</a>).
+  Beachte: die → biblisches/Bücher/prophetisch/Offenbarung/24-Aelteste[24 Ältesten] sind erkauft worden (<a class='kom' href='#Ioffb-5-9'>Offb&nbsp;5,9</a>).
   Einer von ihnen wird mit 'Herr' angesprochen (<a class='kom' href='#Ioffb-7-14'>Offb&nbsp;7,14</a>).
         <br>
          Handelt es sich bei diesen um die Ältesten aus <a class='kom' href='#Ijes-24-23'>Jes&nbsp;24,23</a>?
@@ -93299,6 +93332,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <a href='http://bibel.renenyffenegger.ch/offb_11.html#v17'>Offb&nbsp;11,17</a> (Strongs 2168)
  }
 #}
+#offb-4-10 {
+ {
+  <i>so werden die → biblisches/Bücher/prophetisch/Offenbarung/24-Aelteste[vierundzwanzig Ältesten] niederfallen</i> §offb-5-8, §offb-5-14, §offb-11-16, §offb-19-4
+ }
+#}
 #offb-4-11 {
  {
   <i>Ruhm</i>: vgl <a class='kom' href='#I1tim-1-17'>1.&nbsp;Tim&nbsp;1,17</a>
@@ -93342,7 +93380,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Wurzel Davids</i> §offb-22-16, §jes-11-10
  }
  {
-  Offenbar haben die 24 Ältesten dies dem Johannes voraus: sie wissen, dass der Löwe überwunden hat und es keinen Grund gibt, zu weinen.
+  Offenbar haben die → biblisches/Bücher/prophetisch/Offenbarung/24-Aelteste[24 Ältesten] dies dem Johannes voraus: sie wissen, dass der Löwe überwunden hat und es keinen Grund gibt, zu weinen.
  }
 #}
 #offb-5-6 {
@@ -93410,7 +93448,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-5-11 {
  {
-    <i>Zehntausend</i>: <a class='kom' href='#Ihebr-12-22'>Hebr&nbsp;12,22</a>.
+  <i>viele Engel um den Thron und um die lebendingen Wesen und die → biblisches/Bücher/prophetisch/Offenbarung/24-Aelteste[Ältesten]</i> §offb-7-11
+ }
+ {
+   <i>Zehntausend</i>: <a class='kom' href='#Ihebr-12-22'>Hebr&nbsp;12,22</a>.
  }
  {
   1000x1000 + 10000x10000: <a class='kom' href='#Idan-7-10'>Dan&nbsp;7,10</a>.
@@ -93451,7 +93492,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-5-14 {
  {
-  Die Ältesten fallen nieder: <a class='kom' href='#Ioffb-4-6'>Offb&nbsp;4,6</a>.
+  Die → biblisches/Bücher/prophetisch/Offenbarung/24-Aelteste[24 Ältesten] fallen nieder: §Voffb-5-8, §+offb-4-10.
  }
  {
   <span class='gt'>NA und MT lassen «den an, der lebt von Ewigkeit zu Ewigkeit.» und die Zahl <i>vierundzwanzig</i> weg.</span>.
@@ -93685,6 +93726,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: Warum übersetzt KJV mit «Salvation to our God» und Elberfelder mit «Das Heil unserem Gott»?
  }
 #}
+#offb-7-11 {
+ {
+  <i>Und alle Engel standen um den Thron her und um die → biblisches/Bücher/prophetisch/Offenbarung/24-Aelteste[Ältesten] und die vier lebendigen Wesen</i> §offb-7-11
+ }
+#}
 #offb-7-12 {
  {
   <i>Lob</i>, <i>Weisheit</i>: <a class='kom' href='#Ioffb-5-12'>Offb&nbsp;5,12</a>.
@@ -93693,7 +93739,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: <i>Dank</i> <a class='kom' href='#Ioffb-4-9'>Offb&nbsp;4,9</a>.
  }
 #}
+#offb-7-13 {
+#}
 #offb-7-14 {
+ {
+  → biblisches/Bücher/prophetisch/Offenbarung/24-Aelteste
+ }
  {
   TODO: Warum wird einer der Ältesten mit 'Herr' (<span class='gr'>κύριος</span>, Strongs 2962) angesprochen?
   <br><a class='kom' href='#Ioffb-4-4'>Offb&nbsp;4,4</a>.
@@ -94333,6 +94384,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   S.a. den <i>anderen Engel</i> in <a class='kom' href='#Ioffb-14-6'>Offb&nbsp;14,6</a>.
  }
 #}
+#offb-11-16 {
+ {
+  → biblisches/Bücher/prophetisch/Offenbarung/24-Aelteste
+ }
+#}
 #offb-11-17 {
  {
   <i>der du bist und du warst und der du kommst</i>: <a class='kom' href='#Ioffb-1-4'>Offb&nbsp;1,4</a>.
@@ -94839,6 +94895,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-14-3 {
  {
+  → biblisches/Bücher/prophetisch/Offenbarung/24-Aelteste
+ }
+ {
   <i>Neues Lied</i>: <a class='kom' href='#Ioffb-5-9'>Offb&nbsp;5,9</a>.
  }
 #}
@@ -95143,7 +95202,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Offenbarung 16 {
 #offb-16-1 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
+  Die → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn, → biblisches/Bücher/prophetisch/Offenbarung/Sieben-Schalen[sieben Schalen] werden nicht nur auf die Erde, sondern
+  auch auf die Sonne (4. Schale, §offb-16-8) und in die Luft gegossen (7. Schale, §offb-16-17).
  }
  {
   Vgl mit dem Lamm, das die Siegel öffnet: <a class='kom' href='#Ioffb-6-1'>Offb&nbsp;6,1</a>.
@@ -95705,6 +95765,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <i>Blut seiner Knechte gerächt</i>: §+offb-6-10, §ps-79-10
  }
 #}
+#offb-19-4 {
+ {
+  → biblisches/Bücher/prophetisch/Offenbarung/24-Aelteste
+ }
+#}
 #offb-19-5 {
  {
   TODO: Wo in Psalmen (und anderswo?) werden die Heiligen aufgefordert, Gott zu loben?
@@ -95968,6 +96033,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   s.a. <a class='kom' href='#Ioffb-3-12'>Offb&nbsp;3,12</a>.
  }
+ {
+  <span class='gt'><i>Johannes</i> kommt nur im TR vor</span>
+ }
 #}
 #offb-21-3 {
  {
@@ -96204,7 +96272,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Name auf der Stirn</i>: §+offb-14-1.
  }
  {
-  <i>sein Angesicht sehen</i>, vgl §offb-1-7
+  <i>sein Angesicht sehen</i>, vgl §offb-1-7, §mt-18-10muss
  }
 #}
 #offb-22-5 {
@@ -96214,11 +96282,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-22-6 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Der Herr … hat seinen Engel gesandt], §Voffb-22-16
+ }
+ {
   TODO: <i>Gott der heiligen Propheten</i> siehe <a class='kom' href='#Ioffb-4-8'>Offb&nbsp;4,8</a>.
   <br>In Elberfelder mit «Gott der Geister der Propheten» übersetzt (vgl <a href='http://bibel.renenyffenegger.ch/1kor_14.html#v32'>1.&nbsp;Kor&nbsp;14,32</a>).
  }
  {
-  <i>was rasch geschehen muss</i>: <a href='http://bibel.renenyffenegger.ch/offb_1.html#v1'>Offb&nbsp;1,1</a>.
+  <i>was bald geschehen muss</i>: §offb-1-1.
  }
  {
   <i>Herr, der Gott</i>: <a class='kom' href='#Ioffb-1-8'>Offb&nbsp;1,8</a>.
@@ -96301,6 +96372,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-22-16 {
  {
   <i>Ich bin die Wurzel … Davids</i> §offb-5-5
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Ich, Jesus, habe meinen Engel gesandt], §Voffb-22-6
  }
  {
    <i>der leuchtende Morgenstern</i>: <span class='gr'>ὁ ἀστὴρ ὁ λαμπρὸς καὶ ὀρθρινός</span>,
