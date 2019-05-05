@@ -21196,6 +21196,11 @@
   TODO: Offenbar ist ein Jod verkleinert worden in <i>der dich gezeugt hat</i> (Siehe auch <a href='#typo_details'>Typografische Details im Alten Testament</a>)
  }
 #}
+#5mo-32-20 {
+ {
+  <i>Ich will mein Angesicht vor ihnen verbergen</i> §+joh-12-36
+ }
+#}
 #5mo-32-21 {
  {
   <i>Zur Eifersucht reizen</i>: <a class='kom' href='#Iroem-10-19'>Röm&nbsp;10,19</a>.
@@ -58939,7 +58944,10 @@
 #}
 #mt-11-18 {
  {
-   <i>der weder ass noch trank</i> vgl §mt-9-14 
+  <i>der weder ass noch trank</i> vgl §mt-9-14 
+ }
+ {
+  <i>einen Dämon haben</i> vgl §lk-7-33, §joh-8-48
  }
 #}
 #mt-11-19 {
@@ -61551,10 +61559,14 @@
 #}
 #mt-28-20 {
  {
-  <i>Ich bin bei euch alle Tage...</i>: §+mt-1-23.
+  <i>Ich bin bei euch alle Tage...</i>: §+mt-1-23, §joh-14-17
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#vollendung-des-zeitalters[Vollendung des Zeitalters]
+ }
+ {
+  <i>lehrt sie, alles zu bewahren, was ich euch geboten habe</i> vgl §joh-14-26, wo der Herr den Jüngern sagt, dass der Heilige Geist die Jünger alles lehren und sie an alles erinnern wird,
+  was der Herr gesagt hat. Hier sendet der Herr die Jünger zu lehren, dort sendet der Vater den Heiligen Geist, um zu lehren.
  }
  {
   Beachte: die vier Evangelien hören alle mit «Amen» auf: §mk-16-20, §lk-24-53, §joh-21-25
@@ -64437,6 +64449,11 @@
   <br>Vgl Vorhaben von Menschen (<a class='kom' href='#Iapg-5-38'>Apg&nbsp;5,38</a>).
  }
 #}
+#lk-7-33 {
+ {
+  <i>Einen Dämon haben</i> vgl §+mt-11-18
+ }
+#}
 #lk-7-34 {
  {
   <i>Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Freund der Zöllner und Sünder</i> §mt-11-19
@@ -67233,6 +67250,11 @@
   <i>sündige nicht mehr</i> §joh-8-11
  }
 #}
+#joh-5-16 {
+ {
+  <i>suchten ihn zu töten</i> §joh-7-1, §joh-8-22, §joh-8-37, §joh-11-53, §joh-12-10, §joh-16-2, §joh-18-31
+ }
+#}
 #joh-5-18 {
  {
    Sich Gott gleich (<span class='gr'>ἴσος</span>, Strongs 2470) machen: vgl <a href='http://bibel.renenyffenegger.ch/phil_2.html#v6'>Phil&nbsp;2,6</a>.
@@ -67534,6 +67556,11 @@
 #}
 @}
 @Johannes 7 {
+#joh-7-1 {
+ {
+  <i>weil die Juden ihn zu töten suchten</i>: §+joh-5-16, §Vjoh-7-19
+ }
+#}
 #joh-7-2 {
  {
   <i>Laubhüttenfest der Juden</i>: <a class='kom' href='#Ijoh-5-1'>Joh&nbsp;5,1</a>.
@@ -67566,8 +67593,7 @@
 #}
 #joh-7-20 {
  {
-  <i>Du hast einen Dämon</i>: <a href='http://bibel.renenyffenegger.ch/joh_8.html#v48'>Joh 8,48 ff</a> und
-  <a href='http://bibel.renenyffenegger.ch/joh_10.html#v20'>Joh 10,20-21</a>.
+  <i>Du hast einen Dämon</i>: §joh-8-48-ff, §joh-10-20-21
  }
 #}
 #joh-7-24 {
@@ -67763,8 +67789,9 @@
 #}
 #joh-8-21 {
  {
-  'Wohin ich gehe, könnt ihr nicht hingehen': vgl §joh-13-33 und §joh-14-4.
-  <br>Hier sagen die Juden <i>Will er sich etwa selbst töten</i> und → biblisches/Personen/Petrus (Joh 13:36) fragt
+  <i>Wohin ich gehe, könnt ihr nicht hingehen</i> vgl §joh-13-33 und §joh-14-4.
+ <br>
+  Hier sagen die Juden <i>Will er sich etwa selbst töten</i> und → biblisches/Personen/Petrus (Joh 13:36) fragt
   «Herr, wohin gehst du?».
  }
 #}
@@ -67801,6 +67828,11 @@
   <br>Vgl mit «Moses Jünger» in <a class='kom' href='#Ijoh-9-28'>Joh&nbsp;9,28</a>.
  }
 #}
+#joh-8-37 {
+ {
+  <i>ihr sucht mich zu töten</i> §+joh-5-16
+ }
+#}
 #joh-8-39 {
  {
   → biblisches/Personen/Abraham/Same#abraham-vater[Abraham ist unser Vater], vgl §+Vjoh-8-19, §Vjoh-8-53
@@ -67819,7 +67851,7 @@
 #}
 #joh-8-48 {
  {
-  <i>Du hast einen Dämon</i>: <a class='kom' href='#Ijoh-7-20'>Joh&nbsp;7,20</a>.
+  <i>Du hast einen Dämon</i>: §+joh-7-20, §mt-11-18
  }
 #}
 #joh-8-51 {
@@ -68315,6 +68347,9 @@
   <i>Söhne des Lichts</i> vgl §+lk-16-8, §eph-5-8, §1thes-5-5
  }
  {
+  <i>verbarg sich vor ihnen.</i> §5mo-32-20
+ }
+ {
   TODO: §+joh-12-44-45.
   <br>Jesus verbarg sich auch in §+joh-8-59.
   <br>TODO: Jesus scheint tatsächlich bis zumindest §joh-18-3 verborgen zu bleiben.
@@ -68430,6 +68465,11 @@
   Auch wenn der Teufel hinter der Überlieferung steht, ist doch <i>alles</i> in die Hände des Herrn gegeben.
  }
 #}
+#joh-13-5 {
+ {
+  TODO: Gemäss Benedikt Peters war es die Aufgabe eines Sklaven eines Gastgebers, die Füße der Gäste zu waschen.
+ }
+#}
 #joh-13-9 {
  {
   <i>Hände und Füsse waschen</i> vgl §2mo-40-31
@@ -68519,6 +68559,11 @@
   <i>Gebot, einander zu lieben</i>: §joh-15-12
  }
 #}
+#joh-13-36 {
+ {
+  <i>Wo ich hingehe, kannst du mir jetzt nicht folgen; du wirst mir aber später folgen.</i> §joh-21-22 
+ }
+#}
 #joh-13-37 {
  {
   <i>Mein Leben will ich für dich lassen</i>: das wird er auch, vgl §joh-21-19
@@ -68528,10 +68573,13 @@
 @Johannes 14 {
 #joh-14-1 {
  {
-  <i>Euer Herz werde nicht bestürzt</i> §joh-12-27
+  <i>Euer Herz werde nicht bestürzt</i>, §Vjoh-14-27, §joh-12-27
  }
  {
-  Offenbar liesse der Grundtext auch zu, den Vers mit »Glaubt an Gott und glaubt an mich« zu übersetzen.
+  Offenbar lässt es der Grundtext auch zu, den Vers mit »Glaubt an Gott und glaubt an mich« zu übersetzen.
+ }
+ {
+  <i>glaubt auch an mich</i> §joh-16-31
  }
 #}
 #joh-14-2 {
@@ -68541,7 +68589,7 @@
 #}
 #joh-14-4 {
  {
-   'Wohin ich gehe, könnt ihr nicht hingehen': <a class='kom' href='#Ijoh-8-21'>Joh&nbsp;8,21</a>.
+  <i>Wohin ich gehe, könnt ihr nicht hingehen</i>: §+joh-8-21.
  }
 #}
 #joh-14-5 {
@@ -68557,7 +68605,14 @@
   <i>Niemand kommt zum Vater…</i> §eph-2-18
  }
  {
-  Vgl §1joh-5-6: «der Geist ist die Wahrheit>.
+  Vgl §1joh-5-6: «der Geist ist die Wahrheit».
+ }
+ {
+  <i>Weg</i> §Vjoh-14-12
+  <br>
+  <i>Wahrheit</i> §Vjoh-14-17
+  <br>
+  <i>Leben</i> §Vjoh-14-19
  }
 #}
 #joh-14-7 {
@@ -68611,6 +68666,9 @@
 #}
 #joh-14-17 {
  {
+  <i>denn er bleibt bei euch</i> §mt-28-20
+ }
+ {
   <i>Geist der Wahrheit</i>: <a href='http://bibel.renenyffenegger.ch/joh_15.html#v26'>Joh&nbsp;15,26</a>,
   <a href='http://bibel.renenyffenegger.ch/joh_16.html#v13'>Joh&nbsp;16,13</a>,
   <a href='http://bibel.renenyffenegger.ch/1joh_4.html#v6'>1.&nbsp;Joh&nbsp;4,6</a>
@@ -68635,11 +68693,22 @@
  {
   Der Sachwalter wird: lehren (Lehrbriefe des Neuen Testamentes), erinnern (die → biblisches/Bücher/Evangelien), zeugen (§joh-15-26, → biblisches/Bücher/Apostelgeschichte/),
   das Kommende verkündigen (§joh-16-13, → biblisches/Bücher/prophetisch/Offenbarung/) und in die ganze Wahrheit leiten (das gesamte Neue Testament).
-  <br>
+ <br>
+  Vgl §1kor-2-12-13   
+ <br>
   Vgl §lk-24-49
  }
  {
+  <i>jener wird euch lehren und euch an alles erinnern, was ich euch gesagt habe</i>, vgl §mt-28-19-20 wo die Jünger angewiesen werden, die Nationen zu Jüngern zu machen und sie zu
+  lehren, alees zu bewahren, was Er ihnen gesagt hat.
+ }
+ {
   <i>Sachwalter</i>: Sch2K übersetzt mit «Beistand», KJV mit «Comforter».
+ }
+#}
+#joh-14-27 {
+ {
+  <i>euer Herz werde nicht bestürzt</i>, §Vjoh-14-1
  }
 #}
 #joh-14-29 {
@@ -68663,7 +68732,7 @@
 #}
 #joh-15-5 {
  {
-  <i>Könnt ihr nichts tun</i> §joh-5-19, §joh-8-28, §joh-9-33, §joh-15-5
+  <i>Könnt ihr nichts tun</i> §joh-5-19, §joh-8-28, §joh-9-33
  }
  {
   Vgl mit §offb-14-18-19.
@@ -68811,6 +68880,11 @@
 #joh-16-29 {
  {
   → biblisches/Bücher/Evangelien/Johannes/index#strongs-3954-joh
+ }
+#}
+#joh-16-31 {
+ {
+  <i>Glaubt ihr jetzt</i> kann offenbar auch mit «jetzt glaubt ihr» übersetzt werden, vgl §joh-14-1
  }
 #}
 #joh-16-32 {
@@ -69043,7 +69117,8 @@
   <a class='kom' href='#Ijoh-19-7'>Joh&nbsp;19,7</a>.
  }
  {
-  Selbstverständlich durften, ja mussten die Juden bei bestimmten Vergehen die Todesstrafe anwenden: <a class='kom' href='#I2mo-21-12'>2.&nbsp;Mo&nbsp;21,12</a>.
+  <i>es ist uns nicht erlaubt, jemand zu töten</i> §+joh-5-14.
+  <br>Bei bestimmten Vergehen mussten die Juden die Todesstrafe anwenden: §+2mo-21-12.
  }
  {
   <i>Euer Gesetz</i>: <a class='kom' href='#Ijoh-8-17'>Joh&nbsp;8,17</a>.
@@ -69331,6 +69406,11 @@
 #joh-21-20 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen ­ → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/den-Jesus-liebte
+ }
+#}
+#joh-21-22 {
+ {
+  <i>folge du mir nach</i> §joh-13-36
  }
 #}
 #joh-21-25 {
@@ -76038,6 +76118,9 @@
 #}
 #roem-8-9 {
  {
+  <i>wenn … Gottes Geist in euch wohnt</i>, §1kor-3-16, §1kor-6-19
+ }
+ {
   <i>wenn wirklich</i> vgl §Vroem-8-17
  }
 #}
@@ -77827,6 +77910,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
 #}
+#1kor-2-13 {
+ {
+  <i>gelehrt durch den Geist</i> vgl §joh-14-26
+ }
+#}
 #1kor-2-16 {
  {
   Das Zitat wird auch in <a href='http://bibel.renenyffenegger.ch/roem_11.html#v34'>Röm&nbsp;11,34</a> um die 'die Tiefe des Reichtums
@@ -77943,6 +78031,9 @@
  }
 #}
 #1kor-3-16 {
+ {
+  <i>… der Geist Gottes in euch wohnt</i>, §roem-8-9, §1kor-6-19
+ }
  {
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht[Wisst ihr nicht], dass ihr Gottes → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel seid</i>
   vgl §1kor-6-19, §2kor-6-16, §eph-2-21
@@ -93755,11 +93846,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-7-13 {
-#}
-#offb-7-14 {
  {
   → biblisches/Bücher/prophetisch/Offenbarung/24-Aelteste
  }
+#}
+#offb-7-14 {
  {
   TODO: Warum wird einer der Ältesten mit 'Herr' (<span class='gr'>κύριος</span>, Strongs 2962) angesprochen?
   <br><a class='kom' href='#Ioffb-4-4'>Offb&nbsp;4,4</a>.
