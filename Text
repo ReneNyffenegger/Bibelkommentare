@@ -7216,6 +7216,8 @@
 #2mo-1-9 {
  {
   Hier ist wohl die erste Stelle, wo ein nicht-Nachkomme von Abraham die Kinder Israel <i>ein Volk</i> nennt.
+ <br>
+  Gott nennt es sein Volk in §2mo-3-7.
  }
  {
   <i>das Volk … ist zahlreicher und stärker als wir</i> vgl §4mo-14-12.
@@ -7430,6 +7432,11 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/apg_7.html#v30'>Apg&nbsp;7,30</a> (Als 40 Jahre erfüllt waren)
  }
 #}
+#2mo-3-3 {
+ {
+  TODO: <i>Gnade beim Volk</i> vgl §apg-2-47
+ }
+#}
 #2mo-3-4 {
  {
   Verdoppelung des Namens, siehe <a class='kom' href='#I1mo-22-11'>1.&nbsp;Mo&nbsp;22,11</a>.
@@ -7498,15 +7505,13 @@
 #}
 #2mo-3-14 {
  {
+  <i>Ich bin</i>: vgl §+joh-8-58.
+ }
+ {
   «Ich bin, der ich bin» <span class='hebr'>אֶֽהְיֶ֖ה אֲשֶׁ֣ר אֶֽהְיֶ֑ה</span> (Strongs 1961 834 1961). Vgl mit dem Namen Gottes (→ biblisches/Grundtext/Tetragrammaton, Jehova): <span class='he'>יְהֹוָה</span> (Strongs 3068).
  }
  {
   <i>… zu euch gesandt</i> vgl §joh-17-18
- }
-#}
-#2mo-3-15 {
- {
-  <i>Ich bin</i>: vgl <a class='kom' href='#Ijoh-8-58'>Joh&nbsp;8,58</a>.
  }
 #}
 #2mo-3-16 {
@@ -7521,12 +7526,10 @@
 #}
 #2mo-3-18 {
  {
-  TODO: Gegenüber dem Pharao scheint der HERR sich offenbar als «Gott der Hebräer» auszuweisen.
-  (<a href='http://bibel.renenyffenegger.ch/2mo_5.html#v3'>2.&nbsp;Mo&nbsp;5,3</a>, <a href='http://bibel.renenyffenegger.ch/2mo_7.html#v16'>2.&nbsp;Mo&nbsp;7,16</a>,
-  <a href='http://bibel.renenyffenegger.ch/2mo_9.html#v1'>2.&nbsp;Mo&nbsp;9,1</a>, <a href='http://bibel.renenyffenegger.ch/2mo_9.html#v13'>2.&nbsp;Mo&nbsp;9,13</a>,
-  <a href='http://bibel.renenyffenegger.ch/2mo_10.html#v3'>2.&nbsp;Mo&nbsp;10,3</a>)
-  <br>In <a href='http://bibel.renenyffenegger.ch/2mo_5.html#v1'>2.&nbsp;Mo&nbsp;5,1</a> allerdings «Gott Israels». (TODO: nächste Erwähnung «Gott Israels»
-  in <a href='http://bibel.renenyffenegger.ch/2mo_24.html#v10'>2.&nbsp;Mo&nbsp;24,10</a>)
+  Gegenüber dem Pharao scheint der HERR sich offenbar als «Gott der Hebräer» auszuweisen, §2mo-5-3, §2mo-7-16, §2mo-9-1, §2mo-9-13, §2mo-10-3.
+ <br>In §2mo-5-1 allerdings «Gott Israels».
+  <br>
+  Die nächste Erwähnung als «Gott Israels» in §2mo-24-10.
  }
  {
   TODO: Sind die Ältesten mitgekommen zum Pharao? (vgl <a href='http://bibel.renenyffenegger.ch/2mo_5.html#v1'>2.&nbsp;Mo&nbsp;5,1</a>, ...)
@@ -7535,8 +7538,7 @@
 #}
 #2mo-3-20 {
  {
-  Hier sagt Gott, dass er seine Hand ausstrecken wird. Es sind dann aber Mose/Aaron (TODO: Verify), die ihre Hände ausstrecken. (Vgl
-  <a href='http://bibel.renenyffenegger.ch/2mo_7.html#v5'>2.&nbsp;Mo&nbsp;7,5</a> und <a href='http://bibel.renenyffenegger.ch/2mo_7.html#v19'>2.&nbsp;Mo&nbsp;7,19</a>)
+  Hier sagt Gott, dass er seine Hand ausstrecken wird. Es sind dann aber Mose/Aaron, die ihre Hände ausstrecken, vgl §2mo-7-5 und §2mo-7-19.
  }
 #}
 #2mo-3-22 {
@@ -7619,7 +7621,7 @@
 #}
 #2mo-4-17 {
  {
-  Mose soll die Zeichen tun, aber Aaron tut sie (<a href='http://bibel.renenyffenegger.ch/2mo_4.html#v30'>Vers 30</a>).
+  Mose soll die Zeichen tun, aber Aaron tut sie, §V2mo-4-30.
  }
 #}
 #2mo-4-18 {
@@ -7674,6 +7676,9 @@
  }
 #}
 #2mo-4-31 {
+ {
+  <i>da neigten sie sich und beteten an.</I> §2mo-12-27, §2mo-34-8
+ }
  {
   TODO: <i>anbeten</i>: Strongs 7812 / Hithpael imperfekt.
  }
@@ -8489,6 +8494,9 @@
 #2mo-12-27 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah
+ }
+ {
+  <i>Und das Volk neigte sich und betete an.</i> §2mo-4-31, §2chr-29-30
  }
 #}
 #2mo-12-29 {
@@ -67880,7 +67888,7 @@
    <i>Ehe Abraham wurde, bin ich</i> vgl §joh-1-30
  }
  {
-  <i>bin ich</i>: Vgl <a href='http://bibel.renenyffenegger.ch/2mo_3.html#v15'>2.&nbsp;Mo&nbsp;3,15</a>,
+  <i>bin ich</i>: Vgl §2mo-3-14,
   <a class='kom' href='#Ijoh-6-20'>Joh&nbsp;6,20</a>, <a class='kom' href='#Ijoh-6-35'>Joh&nbsp;6,35</a>.
  }
 #}
@@ -70064,10 +70072,13 @@
 #}
 #apg-2-47 {
  {
-   Erstes Vorkommen von <i>Gemeinde</i> in der Apostelgeschichte.
+  Erstes Vorkommen von <i>Gemeinde</i> in der Apostelgeschichte.
  }
  {
   TODO: oder 'gerettet werden sollten'?
+ }
+ {
+  TODO: Hatten Gunst bei dem ganzen Volk, vgl §2mo-3-3
  }
 #}
 @}
@@ -70775,7 +70786,7 @@
   <a href='http://bibel.renenyffenegger.ch/2mo_4.html#v19'>2.&nbsp;Mo&nbsp;4,19</a> in Midian.
  }
  {
-  <i>Zwei Söhne von Mose</i> vgl §2mo-18-2-ff
+  <i>Zwei Söhne von Mose</i> vgl §2mo-18-2-ff, §2mo-4-20
  }
 #}
 #apg-7-30 {
