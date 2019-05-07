@@ -20894,6 +20894,11 @@
   <a href='http://bibel.renenyffenegger.ch/jer_5.html#v15'>Jer&nbsp;5,15</a>.
  }
 #}
+#5mo-28-50 {
+ {
+  <i>eine Nation harten Angesichts</i> vgl §hes-3-8
+ }
+#}
 #5mo-28-58 {
  {
   Beachte: Mose ist erst in <a href='http://bibel.renenyffenegger.ch/5mo_31.html#v24'>5.&nbsp;Mo&nbsp;31,24</a> fertig, die Worte des Gesetzes vollständig in
@@ -52008,7 +52013,8 @@
 #}
 #hes-1-4 {
  {
-  TODO: <i>Goldschimmer</i> (<span class='hebr'>חַשְׁמָל</span>, Strongs 2830), wird in der Septuaginta mit <span class='gr'>ηλεκτρου</span> übersetzt.
+  <i>glänzendes Metall</i> (<span class='hebr'>חַשְׁמָל</span>, Strongs 2830), wird in der Septuaginta mit <span class='gr'>ηλεκτρου</span>, in Sch2K mit «Goldschimmer», in KJV
+  mit «colour of amber» übersetzt.
   <br>Kommt im AT noch vor in <a href='http://bibel.renenyffenegger.ch/hes_1.html#v27'>Hes&nbsp;1,27</a> und <a href='http://bibel.renenyffenegger.ch/hes_8.html#v2'>Hes&nbsp;8,2</a>.
  }
 #}
@@ -52091,10 +52097,7 @@
 #}
 #hes-2-2 {
  {
-  <i>ich stellte mich auf meine Füße</i> vgl §hes-3-24
- }
- {
-  <i>der Geist kommt in Hesekiel</i>: vgl <a href='http://bibel.renenyffenegger.ch/hes_3.html#v24'>Hes&nbsp;3,24</a>
+  <i>Der Geist kam in mich und stellte mich auf meine Füße</i> vgl §hes-3-24
  }
 #}
 #hes-2-3 {
@@ -52142,6 +52145,11 @@
   <i>Volk von unverständlicher Sprache</i> vgl §jes-33-19
  }
 #}
+#hes-3-8 {
+ {
+  <i>ich habe dein Angesicht hart gemacht gegenüber ihrem Angesicht</i> vgl §5mo-28-50
+ }
+#}
 #hes-3-15 {
  {
   <i>Tel-Abib</i> = 'Hügel der Ähren' (<a class='kom' href='#I2mo-9-31'>2.&nbsp;Mo&nbsp;9,31</a>).
@@ -52171,10 +52179,7 @@
 #}
 #hes-3-24 {
  {
-  <i>Der Geist … stellte mich auf meine Füße</i> vgl §hes-2-2
- }
- {
-  <i>Der Geist kommt in Hesekiel</i>: <a class='kom' href='#Ihes-2-2'>Hes&nbsp;2,2</a>.
+  <i>Der Geist kam in mich und stellte mich auf meine Füße</i> vgl §hes-2-2
  }
 #}
 @}
@@ -52280,7 +52285,7 @@
 #}
 #hes-8-2 {
  {
-  <i>Goldschimmer</i>: <a class='kom' href='#Ihes-1-4'>Hes&nbsp;1,4</a>.
+  <i>glänzendes Metall</i>: §+hes-1-4.
  }
 #}
 #hes-8-3 {
