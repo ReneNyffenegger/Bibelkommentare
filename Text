@@ -6739,7 +6739,7 @@
 #}
 #1mo-46-34 {
  {
-  Auch die Hebräer sind den Ägypter ein <i>Gräuel</i>: <a class='kom' href='#I1mo-43-32'>1.&nbsp;Mo&nbsp;43,32</a>.
+  Auch die Hebräer sind den Ägypter ein <i>Gräuel</i>: §+1mo-43-32, §2mo-8-22
  }
 #}
 @}
@@ -8034,13 +8034,13 @@
   Frage: wie konnten sie 'ebenso tun', wo doch schon alles Wasser bereits zu Blut geworden ist?
  }
 #}
-@}
-@2. Mose 8 {
-#2mo-8-2 {
+#2mo-7-27 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Haus/Pharao
+  <i>Frösche</i>: §ps-78-45, §ps-105-30
  }
 #}
+@}
+@2. Mose 8 {
 #2mo-8-3 {
  {
   Beachte: Die Zauberer konnten zwar Frösche über das Land Ägypten bringen; konnten sie sie aber dann nicht mehr entfernen? Der Pharao fragte
@@ -8049,7 +8049,7 @@
 #}
 #2mo-8-6 {
  {
-  'erfährst' eigtl. <i>erkennst</i> (Strongs 3045).
+  <i>wissest</i> eigtl. <i>erkennst</i> (Strongs 3045).
  }
 #}
 #2mo-8-14 {
@@ -8070,16 +8070,26 @@
   <i>Der HERR in der Mitte des Landes</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
  }
 #}
+#2mo-8-19 {
+ {
+  <i>Eine Scheidung setzen</i> §2mo-9-4-, §2mo-11-7
+ }
+#}
+#2mo-8-20 {
+ {
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Haus/Pharao
+ }
+#}
 #2mo-8-22 {
  {
-  <i>Gräuel der Ägypter</i>: vgl <a class='kom' href='#I1mo-43-32'>1.&nbsp;Mo&nbsp;43,32</a>.
+  <i>Gräuel der Ägypter</i>: vgl §+1mo-43-32, §1mo-46-34
  }
 #}
 @}
 @2. Mose 9 {
 #2mo-9-4 {
  {
-  <i>Und der HERR wird einen Unterschied machen…</i> vgl §2mo-11-7
+  <i>Und der HERR wird einen Unterschied machen…</i> vgl §2mo-8-19, §2mo-11-7
  }
 #}
 #2mo-9-5 {
@@ -8097,7 +8107,7 @@
 #}
 #2mo-9-9 {
  {
-  TODO: Vgl <i>Geschwür</i> mit den «Geschwüren Ägyptens» in <a href='http://bibel.renenyffenegger.ch/5mo_28.html#v27'>5.&nbsp;Mo&nbsp;28,27</a>.
+ Vgl <i>Geschwür</i> mit den «Geschwüren Ägyptens» in §5mo-28-27
  }
 #}
 #2mo-9-16 {
@@ -8116,14 +8126,11 @@
  }
  {
   <i>Tag seiner Gründung</i>: Vgl mit «seitdem es eine Nation geworden ist» in <a href='http://bibel.renenyffenegger.ch/2mo_9.html#v24'>Vers 24</a>.
+  <br>
+  <i>nicht gewesen</i> vgl §mt-24-21, §offb-16-18
  }
  {
   <i>wie noch nie in Ägypten</i>: <a href='http://bibel.renenyffenegger.ch/2mo_11.html#v6'>2.&nbsp;Mo&nbsp;11,6</a>.
- }
-#}
-#2mo-9-20 {
- {
-  Beachte: Es gibt <i>Knechte des Pharao</i>, die das Wort des HERRN fürchten, uns solche, die selbst Knechte haben (Vers 21).
  }
 #}
 #2mo-9-23 {
@@ -8205,6 +8212,11 @@
    <br>TODO: Siehe auch <i>Friedensopfer</i> <a class='kom' href='#I2mo-24-5'>2.&nbsp;Mo&nbsp;24,5</a>.
  }
 #}
+#2mo-10-28 {
+ {
+  <i>am Tag, da du mein Angesicht siehst, wirst du sterben.</i> vgl §2mo-33-20
+ }
+#}
 #2mo-10-29 {
  {
   Mose wird zwar das Angesicht des Pharaos nicht mehr wiedersehen, offenbar auch dann nicht, wo der Pharao ihn in der Nacht ruft (<a href='http://bibel.renenyffenegger.ch/2mo_12.html#v31'>2.&nbsp;Mo&nbsp;12,31</a>).
@@ -8239,7 +8251,7 @@
 #}
 #2mo-11-7 {
  {
-  <i>dass der HERR einen Unterschied macht…</i> vgl §2mo-9-4
+  <i>dass der HERR einen Unterschied macht…</i> vgl §2mo-8-19, §2mo-9-4
  }
 #}
 #2mo-11-8 {
@@ -11780,7 +11792,7 @@
 #}
 #2mo-33-20 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/joh_14.html#v9'>Joh&nbsp;14,9</a>, <a class='kom' href='#I1mo-32-31'>1.&nbsp;Mo&nbsp;32,31</a>.
+  vgl §2mo-10-28, §joh-14-9, §1mo-32-21
  }
 #}
 #2mo-33-21 {
@@ -41443,6 +41455,11 @@
   TODO: 'Sträme': Strongs 2975.
  }
 #}
+#ps-78-45 {
+ {
+  <i>Frösche</i>: §2mo-7-27-ff, §ps-105-30
+ }
+#}
 #ps-78-51 {
  {
   Vgl §ps-105-36
@@ -42527,6 +42544,11 @@
 #ps-105-28 {
  {
    Es sind hier zwar nicht alle Plagen der → biblisches/Bücher/Mose/2/Zehn-Plagen[10 Plagen] aufgezählt, aber mit Ausnahme der <i>Finsternis</i> in der richtigen Reihenfolge.
+ }
+#}
+#ps-105-30 {
+ {
+  <i>Frösche</i> §ps-78-45, §2mo-7-27-ff
  }
 #}
 #ps-105-34 {
@@ -60679,6 +60701,11 @@
 #mt-24-20 {
  {
   Vgl <i>Winter</i> mit «Sommer» in <a href='http://bibel.renenyffenegger.ch/mt_24.html#v32'>Vers 32</a>.
+ }
+#}
+#mt-24-21 {
+ {
+  <i>nicht gewesen</i> vgl §offb-16-18, §2mo-9-24
  }
 #}
 #mt-24-23 {
@@ -95470,6 +95497,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-16-18 {
  {
   → biblisches/Bücher/prophetisch/Offenbarung#stimmen-blitze-donner[Blitze, Stimmen, Donner etc.]
+ }
+ {
+   <i>desgleichen nicht geschehen ist</i> vgl §mt-24-21, §2mo-9-24
  }
 #}
 #offb-16-19 {
