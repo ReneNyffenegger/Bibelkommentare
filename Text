@@ -58267,7 +58267,7 @@
 #}
 #mt-7-15 {
  {
-  <i>Hütet euch vor den falschen Propheten</i> vgl §mt-24-11
+  <i>Hütet euch vor den → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[falschen Propheten]</i> vgl §mt-24-11, §mt-24-24
  }
  {
   Beachte: hier kommen die falschen Propheten in <i>Schafskleidern</i>, sind aber Wölfe, in §mt-10-16 werden
@@ -59385,7 +59385,7 @@
 #}
 #mt-13-17 {
  {
-  <i>Viele → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] und Gerechte haben begehrt zu sehen…</i> vgl §1petr-1-10.
+  <i>Viele → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] und Gerechte haben begehrt zu sehen…</i> vgl §1petr-1-10, §lk-10-24
  }
 #}
 #mt-13-21 {
@@ -59548,6 +59548,11 @@
  }
  {
   TODO: Vgl <a class='kom' href='#Imk-15-40'>Mk&nbsp;15,40</a>.
+ }
+#}
+#mt-13-57 {
+ {
+  Ein Prophet ist nicht ohne Ehre, außer in seiner Vaterstadt, vgl §mk-6-4, §joh-4-44
  }
 #}
 #mt-13-58 {
@@ -59799,6 +59804,9 @@
  }
 #}
 #mt-16-14 {
+ {
+  <i>Elias, Jeremias oder einer der → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten]</i> vgl §mk-6-15,
+ }
  {
   → biblisches/Personen/Jeremia wird im Neuen Testament → biblisches/Bücher/Evangelien/Matthäus#jeremia[nur im Matthäusevangelium] erwähnt, vgl §mt-2-17, §mt-27-9.
  }
@@ -60726,7 +60734,7 @@
 #}
 #mt-24-11 {
  {
-  Vgl die <i>falschen Propheten</i> mit den «falschen Christussen und falschen Propheten» in Vers 24.
+  Vgl die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#falsche-propheten[falschen Propheten] mit den «falschen Christussen und falschen Propheten» in §Vmt-24-24.
   <br>
    S.a. §mt-7-15
  }
@@ -62238,6 +62246,11 @@
   Vgl mit «Jakobus, dem Bruder des Herrn»: §+gal-1-19.
  }
 #}
+#mk-6-4 {
+ {
+   Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet ist nicht ohne Ehre, außer in seiner Vaterstadt, vgl §mt-13-57, §joh-4-4
+ }
+#}
 #mk-6-5 {
  {
   Jesus legt den Kranken die Hände auf und heilte sie; die Zwölf salbten die Kranken mit Ö und heilten sie (Vers 13).
@@ -62281,6 +62294,9 @@
  }
 #}
 #mk-6-15 {
+ {
+  Es ist Elias, vgl §mk-8-28, §mt-16-14
+ }
  {
   <i>Andere aber sagten…</i> vgl §mk-8-27-ff
  }
@@ -62522,6 +62538,11 @@
   <a href='http://bibel.renenyffenegger.ch/mk_10.html#v52'>Mk&nbsp;10,52</a>,
   <a href='http://bibel.renenyffenegger.ch/mk_11.html#v8'>Mk&nbsp;11,8</a>,
   <a href='http://bibel.renenyffenegger.ch/mk_16.html#v12'>Mk&nbsp;16,12</a>
+ }
+#}
+#mk-8-28 {
+ {
+  §+mk-6-15
  }
 #}
 #mk-8-29 {
@@ -63000,6 +63021,7 @@
 #}
 #mk-13-22 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#falsche-propheten[falsche Propheten],
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder
  }
 #}
@@ -64436,6 +64458,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung
  }
 #}
+#lk-6-26 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#falsche-propheten[falsche Propheten]
+ }
+#}
 #lk-6-35 {
  {
    TODO: Richtig übersetzt sei: 'und erhofft nicht, das Verliehene zurückzuerhalten.'.
@@ -64495,6 +64522,9 @@
 #}
 #lk-7-16 {
  {
+  <i>Ein großer Prophet</i> vgl §Vlk-7-28
+ }
+ {
   Vgl
     <a class='kom' href='#I5mo-18-15'>5.&nbsp;Mo&nbsp;18,15</a> und
     Vers 19.
@@ -64533,6 +64563,11 @@
 #lk-7-27 {
  {
   <a class='kom' href='#Imt-11-10'>Mt&nbsp;11,10</a>.
+ }
+#}
+#lk-7-28 {
+ {
+  <i>kein größerer Prophet</i> vgl §Vlk-7-16
  }
 #}
 #lk-7-29 {
@@ -64939,6 +64974,11 @@
 #lk-10-21 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+ }
+#}
+#lk-10-24 {
+ {
+  <i>Viele Propheten und Könige haben begehrt…</i> vgl §1petr-1-10, §mt-13-17
  }
 #}
 #lk-10-25 {
@@ -65641,7 +65681,8 @@
 #}
 #lk-18-31 {
  {
-   <i>Es wird alles vollendet werden, was durch die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] … geschrieben ist</i> vgl §apg-13-27
+   <i>Es wird alles vollendet werden, was durch die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] … geschrieben ist</i> vgl §apg-13-27,
+   §lk-24-25
  }
  {
   <i>Der Menschensohn muss viel leiden</i>: <a class='kom' href='#Imt-16-21'>Mt&nbsp;16,21</a>.
@@ -66360,6 +66401,11 @@
 #lk-24-23 {
  {
   <i>Erscheinung</i> (Strongs 3701): <a class='kom' href='#Ilk-1-22'>Lk&nbsp;1,22</a>.
+ }
+#}
+#lk-24-25 {
+ {
+  <i>was durch die Propheten geredet ist</i> vgl §+lk-18-31
  }
 #}
 #lk-24-26 {
@@ -67257,7 +67303,10 @@
 #}
 #joh-4-44 {
  {
-  <i>Vaterland</i>: <a class='kom' href='#Imt-13-54'>Mt&nbsp;13,54</a>.
+  Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet hat keine Ehre im eigenen Vaterland, vgl §mt-13-57, §mk-6-4
+ }
+ {
+  <i>Vaterland</i>: §+mt-13-54.
  }
  {
   TODO: <i>Prophet</i>: <a class='kom' href='#Ijoh-1-21'>Joh&nbsp;1,21</a>.
@@ -72261,7 +72310,7 @@
   Beachte: <i>Bar-Jesus</i> (= Sohn von Jesus) wird in Vers 10 'Sohn des Teufels' genannt.
  }
  {
-  Vgl diesen <i>falschen Propheten</i> (mit dem Namen Bar-Jesus!) mit <a class='kom' href='#Imt-24-24'>Mt&nbsp;24,24</a>.
+  Vgl diesen → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#falsche-propheten[falschen Propheten] (mit dem Namen Bar-Jesus!) mit §+mt-24-24.
  }
  {
   Bar-Jesus (alias Elymas): vgl mit den Juden, die Paulus wehren, zu den Nationen zu reden, und über die der Zorn gekommen ist: <a href='http://bibel.renenyffenegger.ch/1thes_2.html#v14'>1.&nbsp;Thes&nbsp;2,14-16</a>.
@@ -90391,7 +90440,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-1-10 {
  {
-  Vgl §mt-13-17
+  Vgl §mt-13-17, §lk-10-24
  }
 #}
 #1petr-1-11 {
@@ -91420,6 +91469,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @2. Petrus 2 {
 #2petr-2-1 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#falsche-propheten[falsche Propheten]
+ }
+ {
   <i>der sie erkauft hat</i> vgl §+1petr-1-18
  }
  {
@@ -92148,6 +92200,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @}
 @1. Johannes 4 {
 #1joh-4-1 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#falsche-propheten[falsche Propheten]
+ }
  {
   <i>Geist</i>: <a class='kom' href='#I1joh-3-24'>1.&nbsp;Joh&nbsp;3,24</a>.
  }
@@ -95516,6 +95571,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Drache
  }
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#falsche-propheten[falscher Prophet]: §offb-19-20, §offb-20-10
+ }
+ {
   Im Textus Receptus ist <i>Geister</i> angeblich das 6666. Wort der Offenbarung.
  }
  {
@@ -96140,6 +96198,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: Verse 19-21 scheinen eine Zusammenfassung wichtigsten Sachen vor dem zweiten Kommen zu sein: 1) Die 'Welt' versammelt sich, um gegen den Herrn Krieg zu führen, 2) Der Her siegt.
  }
 #}
+#offb-19-20 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#falsche-propheten[falscher Prophet]: §offb-16-13, §offb-20-10
+ }
+#}
 #offb-19-21 {
  {
   Vgl das <i>Schwert, das aus seinem Mund hervorgeht</i> mit <a class='kom' href='#Ioffb-2-16'>Offb&nbsp;2,16</a>.
@@ -96204,10 +96267,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-20-10 {
  {
-  <i>Tag und Nacht</i>: <a class='kom' href='#Ioffb-4-8'>Offb&nbsp;4,8</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#falsche-propheten[falscher Prophet]: §offb-16-13, §offb-19-20
  }
  {
-  Vgl mit dem <i>ewigen Feuer</i>: <a class='kom' href='#Imt-18-8'>Mt&nbsp;18,8</a>.
+  <i>Tag und Nacht</i>: §+offb-4-8.
+ }
+ {
+  Vgl mit dem <i>ewigen Feuer</i>: §+mt-18-8.
  }
 #}
 #offb-20-11 {
