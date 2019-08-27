@@ -9995,6 +9995,9 @@
 #}
 #2mo-22-19 {
  {
+  <i>soll verbannt werden</i>: KJV übersetzt mit «shall be utterly destroyed». Vgl §3mo-27-29.
+ }
+ {
   TODO: Beachte, dass auch in <a href='http://bibel.renenyffenegger.ch/5mo_7.html#v24'>5. Mo 7,24 ff</a> der <i>Bann</i> im Zusammenhang mit
   «Bildnissen von Göttern» genannt wird. Ähnlich in <a href='http://bibel.renenyffenegger.ch/5mo_13.html#v13'>5.&nbsp;Mo&nbsp;13,13-19</a>
   und <a href='http://bibel.renenyffenegger.ch/5mo_20.html#v16'>5.&nbsp;Mo&nbsp;20,16-18</a>.
@@ -10029,6 +10032,11 @@
  }
  {
   TODO: <i>einem Fürsten fluchen</i>:  siehe §+2sam-19-24.
+ }
+#}
+#2mo-22-28 {
+ {
+  <i>Den erstgeborenen deiner Söhne sollst du mir geben.</i> vgl §3mo-27-26, §4mo-3-12-13.
  }
 #}
 #2mo-22-29 {
@@ -10109,9 +10117,6 @@
 #}
 #2mo-23-13 {
  {
-  → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
- }
- {
   §2mo-20-3
  }
 #}
@@ -10189,7 +10194,7 @@
 #}
 #2mo-23-22 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott
+  TODO: → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Ich-bin-Jehova_euer-Gott
  }
 #}
 #2mo-23-23 {
@@ -11671,6 +11676,11 @@
 #2mo-32-11 {
  {
   Vgl §ps-106-23
+ }
+#}
+#2mo-32-12 {
+ {
+  → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
  }
 #}
 #2mo-32-13 {
@@ -15319,12 +15329,17 @@
 #}
 #3mo-27-26 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Erstgeburt
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Erstgeburt, vgl §2mo-22-28, §4mo-3-12-13
  }
 #}
 #3mo-27-28 {
  {
   <i>Bann</i>: <a class='kom' href='#Ijos-6-17'>Jos&nbsp;6,17</a>.
+ }
+#}
+#3mo-27-29 {
+ {
+  <i>verbannt werden</i> §+2mo-22-19.
  }
 #}
 #3mo-27-30 {
@@ -15718,6 +15733,9 @@
 #4mo-3-12 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi#levi-mitte-volk[Levi aus der Mitte des Volkes genommen], vgl §+1mo-49-7
+ }
+ {
+  Vgl §2mo-22-28
  }
 #}
 #4mo-3-13 {
@@ -20317,6 +20335,11 @@
 #5mo-16-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten 
+ }
+#}
+#5mo-16-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/dreimal-Erscheinen
  }
 #}
 #5mo-16-17 {
