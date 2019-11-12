@@ -4109,6 +4109,11 @@
   Der Knecht betet zum Gott Abrahams, nicht zu seinem «eigenen Gott», vgl Vers 27.
  }
 #}
+#1mo-24-13 {
+ {
+  <i>Ich stehe bei der Wasserquelle</i> vgl §1mo-24-43
+ }
+#}
 #1mo-24-16 {
  {
   'Jungfrau' im Hebräischen <span class='hebr'>בְּתוּלָ֕ה</span> (Strong's 1330).
@@ -4148,7 +4153,10 @@
 #}
 #1mo-24-43 {
  {
-  'Jungfrau' vgl <a class='kom' href='#I1mo-24-16'>Vers 16</a>.
+  <i>Jungfrau</i> vgl §V1mo-24-16
+ }
+ {
+  <i>Ich stehe bei der Wasserquelle</i> vgl §1mo-24-43
  }
 #}
 #1mo-24-45 {
@@ -8910,8 +8918,10 @@
 @2. Mose 15 {
 #2mo-15-1 {
  {
-  <i>Lied</i>: Vgl <a href='http://bibel.renenyffenegger.ch/4mo_21.html#v17'>4.&nbsp;Mo&nbsp;21,17</a>, <a class='kom' href='#I5mo-31-19'>5.&nbsp;Mo&nbsp;31,19</a> (Lied des Mose?),
-  <a href='http://bibel.renenyffenegger.ch/5mo_32.html#v43'>5.&nbsp;Mo&nbsp;32,43</a>
+  <i>Lied</i>: Vgl §4mo-21-17, §+5mo-31-19 (Lied des Mose?), §5mo-32-43
+ }
+ {
+  → biblisches/Personen/Mirjam[Mirjams] Antwort enthält die selben Worte, §V2mo-15-21
  }
 #}
 #2mo-15-2 {
@@ -8967,13 +8977,18 @@
 #}
 #2mo-15-20 {
  {
-  <i>Mirjam</i> <span class='hebr'>מִרְיָם</span> (Strongs 4813) ist offenbar verwandt mit
-  'Widerspenstig' (<a href='http://bibel.renenyffenegger.ch/4mo_17.html#v25'>4.&nbsp;Mo&nbsp;17,25</a>),
-  'Ungehorsam' (<a href='http://bibel.renenyffenegger.ch/5mo_31.html#v27'>5.&nbsp;Mo&nbsp;31,27</a>, <a href='http://bibel.renenyffenegger.ch/1sam_15.html#v23'>1.&nbsp;Sam&nbsp;15,23</a>)
+  → biblisches/Personen/Mirjam <span class='hebr'>מִרְיָם</span> (Strongs 4813) ist offenbar verwandt mit
+  «Widerspenstig» (§4mo-17-25),
+  «Ungehorsam» (§5mo-31-27, §1sam-15-23)
          <br>TODO: Offenbar ist <i>Maria</i> der Griechische Name für Mirjam.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
+ }
+#}
+#2mo-15-21 {
+ {
+  → biblisches/Personen/Mirjam[Mirjams] Antwort enthält die gleichen Worte, mit denen Mose und die Kinder Israel ihr Lied begannen, §V2mo-15-1
  }
 #}
 #2mo-15-22 {
@@ -10071,6 +10086,9 @@
 #2mo-23-3 {
  {
    Vgl §V2mo-23-6
+ }
+ {
+  <i>Rechtsstreit</i>, das hebräische Wort רִיב wird an anderen Orten auch mit «Hader» übersetzt.
  }
 #}
 #2mo-23-4 {
@@ -11958,7 +11976,7 @@
   <i>vor deinem ganzel Volk will ich Wunder tun</i>: die endgültige Erfüllung wird wohl in der → biblisches/Bücher/Daniel/70-Wochen[70. Jahrwoche Daniels] sein.
  }
  {
-  Das ganze Volk soll das → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werk Gottes] sehen: §5mo-11-7
+  Das ganze Volk soll das → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werk Gottes] sehen: §5mo-11-7, §ps-95-9
  }
 #}
 #2mo-34-12 {
@@ -20409,6 +20427,11 @@
    Vgl §+4mo-35-30.
  }
 #}
+#5mo-17-8 {
+ {
+  Vgl §5mo-19-17, §5mo-21-5, §5mo-25-1
+ }
+#}
 #5mo-17-9 {
  {
   Auswahl zum Priesterdienst: siehe <a class='kom' href='#I2mo-19-6'>2.&nbsp;Mo&nbsp;19,6</a>.
@@ -20574,6 +20597,11 @@
   <i>Ungerechter Zeuge</i>: §2mo-23-1.
  }
 #}
+#5mo-19-17 {
+ {
+  Vgl §5mo-17-8, §5mo-21-5
+ }
+#}
 #5mo-19-21 {
  {
   <i>Leben um Leben</i> vgl <a class='kom' href='#I2mo-21-23'>2.&nbsp;Mo&nbsp;21,23</a>.
@@ -20628,6 +20656,9 @@
 #5mo-21-5 {
  {
   <i>Verletzung</i> Sch2K übersetzt mit «Körperverletzung», KJV mit «strike».
+ }
+ {
+  Vgl §5mo-17-8, §5mo-19-17
  }
 #}
 #5mo-21-6 {
@@ -20826,10 +20857,12 @@
 @5. Mose 25 {
 #5mo-25-1 {
  {
-  Vgl <a class='kom' href='#I2mo-23-7'>2.&nbsp;Mo&nbsp;23,7</a>.
+  Vgl §+2mo-23-7.
+  <br>
+  Vgl auch §+5mo-17-8
  }
  {
-  TODO: Vgl <a href='http://bibel.renenyffenegger.ch/2chr_19.html#v10'>2.&nbsp;Chr&nbsp;19,10</a>.
+  TODO: Vgl §2chr-19-10.
  }
 #}
 #5mo-25-4 {
@@ -39731,6 +39764,9 @@
   <i>Becher</i> (Strongs 3563): <a class='kom' href='#I1mo-40-11'>1.&nbsp;Mo&nbsp;40,11</a>
  }
  {
+  Vgl §ps-78-19
+ }
+ {
   TODO: Der Pharisäer in <a href='http://bibel.renenyffenegger.ch/lk_7.html#v46'>Lk&nbsp;7,46</a> hat das Haupt von Jesus nicht mit Ö gesalbt, aber
   die Sünderin hat seine Füsse gesalbt.
  }
@@ -41519,6 +41555,11 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/ps_78.html#v41'>Vers 41</a> und <a href='http://bibel.renenyffenegger.ch/ps_78.html#v56'>Vers 56</a>
  }
 #}
+#ps-78-19 {
+ {
+  Vgl §ps-23-5
+ }
+#}
 #ps-78-20 {
  {
   TODO: vgl <a class='kom' href='#I4mo-11-4'>4.&nbsp;Mo&nbsp;11,4</a>ff.
@@ -42175,8 +42216,14 @@
  {
   → biblisches/Orte/Meriba
  }
+ {
+  §hebr-3-8
+ }
 #}
 #ps-95-9 {
+ {
+  <i>Das Werk sehen</i> §+2mo-34-10
+ }
  {
   TODO: <a class='kom' href='#I2mo-15-25'>2.&nbsp;Mo&nbsp;15,25</a>.
   <br>Vgl auch <a class='kom' href='#Ips-78-18'>Ps&nbsp;78,18</a> und <a href='http://bibel.renenyffenegger.ch/ps_106.html#v14'>Ps&nbsp;106,14</a>.
@@ -56340,6 +56387,9 @@
 #mi-6-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+ {
+  → biblisches/Personen/Mose, → biblisches/Personen/Aaron, → biblisches/Personen/Mirjam
  }
 #}
 #mi-6-5 {
@@ -88276,7 +88326,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-3-8 {
  {
-  <i>Erbitterung</i> vgl §Vhebr-3-15, §+5mo-32-16
+  <i>Erbitterung</i> vgl §Vhebr-3-15, §+5mo-32-16, §ps-95-8
  }
 #}
 #hebr-3-10 {
