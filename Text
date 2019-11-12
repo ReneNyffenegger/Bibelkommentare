@@ -40020,7 +40020,7 @@
 #}
 #ps-31-6 {
  {
-  Vgl <a class='kom' href='#Ilk-23-46'>Lk&nbsp;23,46</a>.
+  Vgl §+lk-23-46.
  }
 #}
 #ps-31-21 {
@@ -40235,6 +40235,8 @@
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
  }
+#}
+#ps-36-6 {
 #}
 #ps-36-8 {
  {
@@ -66458,7 +66460,11 @@
 #}
 #lk-23-46 {
  {
-   Vgl <a class='kom' href='#Ips-36-6'>Ps&nbsp;36,6</a>. Stephanus: <a href='http://bibel.renenyffenegger.ch/apg_7.html#v59'>Apg&nbsp;7,59</a>.
+   Vgl §+ps-31-6. Stephanus: §apg-7-59.
+ }
+ {
+  Der Zahlenwert von «Vater, in deine Hände übergebe ich meinen Geist!» entspricht angeblich → C:/Users/OMIS.Rene/github/github/notes/notes/biblisches/Grundtext/Zahlen#n4263, welches auch das Jahr (anno homini) ist, in welchem der
+  Herr gekreuzigt wurde.
  }
 #}
 #lk-23-47 {
@@ -71236,7 +71242,7 @@
 #}
 #apg-7-59 {
  {
-  Vgl <a class='kom' href='#Ilk-23-46'>Lk&nbsp;23,46</a>.
+  Vgl §+lk-23-46.
  }
  {
   Das griechische Wort für Stephanus ist <span class='gr'>Στέφανος</span>, das für Krone <span class='gr'>στέφανος</span>. Vgl
