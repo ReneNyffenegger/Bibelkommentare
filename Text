@@ -12837,11 +12837,6 @@
   <i>Eine Speise des Feueropfers</i> vgl §+3mo-3-5
  }
 #}
-#3mo-3-12 {
- {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Erstgeburt, vgl §4mo-8-17
- }
-#}
 #3mo-3-16 {
  {
   <i>Speise des → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer[Feueropfers] zum → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich[lieblichen Geruch]</i> vgl §+3mo-3-5.
@@ -12860,6 +12855,9 @@
   <a href='http://bibel.renenyffenegger.ch/3mo_10.html#v18'>3.&nbsp;Mo&nbsp;10,18</a> (TODO: Hätte es hier gegessen werden sollen?),
   <a href='http://bibel.renenyffenegger.ch/3mo_17.html#v11'>3.&nbsp;Mo&nbsp;17,11-14</a> (Das Leben des Fleisches ist im Blut),
   <a href='http://bibel.renenyffenegger.ch/5mo_12.html#v16'>5.&nbsp;Mo&nbsp;12,16</a> (Blut des Brandopfers auf die Erde giessen wie Wasser),
+ }
+ {
+  Vgl §hes-39-19
  }
 #}
 @}
@@ -12882,6 +12880,9 @@
 #3mo-4-5 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+ {
+  <i>bringe es in das Zelt der Zusammenkunft</i> Vgl §hebr-9-6-ff
  }
  {
   <i>Blut, das in die Stiftshütte getragen wird</i>: <a href='http://bibel.renenyffenegger.ch/3mo_6.html#v23'>3.&nbsp;Mo&nbsp;6,23</a>,
@@ -13219,6 +13220,11 @@
  {
   <i>diese Seele soll ausgerottet werden aus ihren Völkern.</i>: §V3mo-7-21, §V3mo-7-25, §V3mo-7-29, §3mo-19-8, §3mo-23-29.
   Vgl. §3mo-22-3
+ }
+#}
+#3mo-7-23 {
+ {
+  <i>Kein Fett …</i> vgl §3mo-3-16
  }
 #}
 #3mo-7-24 {
@@ -15797,6 +15803,9 @@
 #4mo-3-13 {
  {
   Siehe §2mo-12-29.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Erstgeburt, vgl §4mo-8-17
  }
 #}
 #4mo-3-15 {
@@ -53699,6 +53708,11 @@
     <br>ABER Gog und Magog wird in Offenbarung erst in <a href='http://bibel.renenyffenegger.ch/offb_20.html#v8'>Offb&nbsp;20,8</a>, nach den 1000 Jahren, erwähnt.
  }
 #}
+#hes-39-19 {
+ {
+  Vgl §3mo-3-17 «alles Fett und alles Blut sollt ihr nicht essen»
+ }
+#}
 #hes-39-25 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gefangenschaft/wenden, §ps-85-2
@@ -66463,7 +66477,7 @@
    Vgl §+ps-31-6. Stephanus: §apg-7-59.
  }
  {
-  Der Zahlenwert von «Vater, in deine Hände übergebe ich meinen Geist!» entspricht angeblich → C:/Users/OMIS.Rene/github/github/notes/notes/biblisches/Grundtext/Zahlen#n4263, welches auch das Jahr (anno homini) ist, in welchem der
+  Der Zahlenwert von «Vater, in deine Hände übergebe ich meinen Geist!» entspricht angeblich → biblisches/Grundtext/Zahlen#n4263, welches auch das Jahr (anno homini) ist, in welchem der
   Herr gekreuzigt wurde.
  }
 #}
@@ -88963,6 +88977,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Nicht im einzelnen zu reden</i> ist von diesen Dingen wohl deshalb, damit nicht vom Hohepriester abgelenkt wird, der das eigentliche Thema ist.
+ }
+#}
+#hebr-9-6 {
+ {
+  TODO: §3mo-4-5
  }
 #}
 #hebr-9-7 {
