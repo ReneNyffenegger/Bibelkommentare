@@ -485,7 +485,8 @@ open (my $interlinear        , '<:unix:encoding(UTF-8)', "$ENV{github_root}Bibel
       } # }}}
   
       if ($print_bible_text) { # {{{
-          print_verse($current_chapter, $current_chapter, $current_verse);
+# 2019-11-30  print_verse($current_chapter, $current_chapter, $current_verse);
+              print_verse($current_book   , $current_chapter, $current_verse);
           $print_bible_text = 0;
       } # }}}
   
@@ -505,7 +506,8 @@ RN::close_($index_bible);
 
 sub print_verse { # {{{
 
-  my ($current_chapter, $current_chapter, $current_verse) = @_;
+# 2019-11-30  my ($current_chapter, $current_chapter, $current_verse) = @_;
+              my ($current_book   , $current_chapter, $current_verse) = @_;
   die $current_text if $current_text =~ /}|{/;
 
   if ($web) {
