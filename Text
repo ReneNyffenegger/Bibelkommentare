@@ -12542,6 +12542,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
  }
+ {
+  <i>Wohnung salben</i>: §3mo-8-10, §4mo-7-1
+ }
 #}
 #2mo-40-12 {
  {
@@ -13308,6 +13311,9 @@
  {
   Beachte: Die Opfergesetze wurden vom HERRN auf dem → biblisches/Orte/Berg-Sinai gegeben, aber Mose wurde in §3mo-1-1 aus dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft gerufen.
  }
+ {
+  <i>welches Jehova dem Mose geboten hat …</i> vgl §3mo-8-5
+ }
 #}
 @}
 @3. Mose 8 {
@@ -13338,6 +13344,8 @@
 #3mo-8-5 {
  {
    Was der HERR betreffend der Heiligung für den Priesterdienstes von Aaron und seinen Söhnen geboten hat, steht in §2mo-29-1-ff.
+   <br>
+    Vgl §3mo-7-38
  }
  {
   <i>Das ist es, was der HERR...</i> siehe <a class='kom' href='#I2mo-16-23'>2.&nbsp;Mo&nbsp;16,23</a>.
@@ -13355,6 +13363,9 @@
 #3mo-8-10 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Salböl
+ }
+ {
+  <i>gesalbte Wohnung</i> vgl §4mo-7-1
  }
 #}
 #3mo-8-11 {
@@ -13376,7 +13387,7 @@
   §2mo-29-15-ff
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer
+  Widder des → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Brandopfer[Brandopfers], vgl mit «Widder der Einweihung», §V3mo-8-22
  }
 #}
 #3mo-8-21 {
@@ -13419,7 +13430,15 @@
   'Korb des Einsetzungsopfer' <span class='hebr'>בְּסַ֣ל הַמִּלֻּאִ֑ים</span> (Strongs 4394 5536) TODO: siehe auch <a class='kom' href='#I2mo-29-22'>2.&nbsp;Mo&nbsp;29,22</a>.
  }
  {
+  <i>so wie ich geboten habe</i>. Häufig heisst's: «so wie Jehova geboten hat».
+ }
+ {
   TODO: Vgl mit <i>Korb der ungesäuerten Brote</i> in <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v23'>2.&nbsp;Mo&nbsp;29,23</a>.
+ }
+#}
+#3mo-8-33 {
+ {
+  <i>Nicht vom Eingang des Zeltes der Zusammenkunft weggehen</i> vgl §3mo-10-7
  }
 #}
 @}
@@ -13447,6 +13466,11 @@
 #3mo-9-21 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Webopfer
+ }
+#}
+#3mo-9-24 {
+ {
+  <i>Feuer, das von Jehova ausgeht</i>, vgl §1chr-21-26
  }
 #}
 @}
@@ -13491,7 +13515,7 @@
 #}
 #3mo-10-7 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+  Nicht vom Eingang des → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft[Zeltes der Zusammenkunft] weggehen, vgl §3mo-8-33
  }
  {
   <i>Damit ihr nicht sterbt, wenn ihr in das → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft geht</i> vgl §2mo-30-18-20
@@ -16268,6 +16292,9 @@
  }
  {
   <i>vollenden</i> (Strongs 3615): <a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>.
+ }
+ {
+  <i>gesalbte Wohnung</i> vgl §2mo-40-9, §3mo-8-10
  }
 #}
 #4mo-7-3 {
@@ -33818,7 +33845,7 @@
 #}
 #1chr-21-26 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Feuer#feuer-vom-himmel
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Feuer#feuer-vom-himmel, vgl §3mo-9-24
  }
 #}
 #1chr-21-29 {
@@ -89117,6 +89144,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-9-11 {
  {
   <i>zukünftige Güter</i>: §hebr-10-1
+ }
+ {
+  <i>Mit Händen gemachtes Heiligtum</i> §Vhebr-9-24
  }
 #}
 #hebr-9-12 {
