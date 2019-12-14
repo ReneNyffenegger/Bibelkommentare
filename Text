@@ -8906,7 +8906,7 @@
 #}
 #2mo-14-30 {
  {
-  Der HERR rettete Israel aus der Hand der Ägypten, vgl §2mo-18-9-10, §ri-6-9, §1sam-10-1t
+  Der HERR rettete Israel aus der Hand der Ägypten, vgl §2mo-18-9-10, §ri-6-9, §1sam-10-18
  }
 #}
 #2mo-14-31 {
@@ -9021,25 +9021,9 @@
 #}
 #2mo-15-24 {
  {
-  Dies ist die zweite von → biblisches/Exodus/Zehnmalige-Versuchung[zehn Versuchungen]. Beachte, wie wenig Zeit zwischen dem "Loblied" in den Versen 1-19 und dem Murren vergangen ist.
- }
- {
-  Das Volk murrte<ul>
-   <li>gegen Mose: was sollen wir Trinken
-   <li>gegen Mose und Aaron in der Wüste 'Wären wir doch
-       in Aegypten gestorben, denn ihr habt uns hinausgeführt, um
-       uns verhungern zu lassen (<a href='http://bibel.renenyffenegger.ch/2mo_16.html#v2'>2.&nbsp;Mo&nbsp;16,2-3</a>
-    <li>gegen Mose: 'Warum hast du uns aus Ägypten herausgeführt, um uns und unsere Kinder und
-        unser Vieh vor Durst sterben zu lassen (<a href='http://bibel.renenyffenegger.ch/2mo_17.html#v3'>2.&nbsp;Mo&nbsp;17,3</a>)
-    <li>gegen Mose und Aaron 'Ach wären wir doch in Ägypten gestorben' (<a href='http://bibel.renenyffenegger.ch/4mo_14.html#v2'>4.&nbsp;Mo&nbsp;14,2</a>)
-    <li>gegen Mose und Aaron, nachdem der HERR die Rotte Korah vernichtet hatte: 'Ihr habt das Volk des HERRN getötet!'
-      (<a href='http://bibel.renenyffenegger.ch/4mo_17.html#v6'>4.&nbsp;Mo&nbsp;17,6</a>)
-    <li>Zusammenfassend: 'Weil der HERR uns haßte, hat er uns aus dem Land Ägypten geführt, um uns in die Hände der Amoriter zu geben, um uns zu vertilgen'
-       (<a href='http://bibel.renenyffenegger.ch/5mo_1.html#v27'>5.&nbsp;Mo&nbsp;1,27</a>)
-    </ul>
-  Siehe auch <a href='http://bibel.renenyffenegger.ch/1kor_10.html#v10'>1.&nbsp;Kor&nbsp;10,10</a>: Weil etliche gemurrt hatten, wurden sie durch den Verderber umgebracht.
-  Diese Dinge sind als Warnung für uns aufgeschrieben, auf die das Ende der Weltzeiten gekommen ist.
-  <br>TODO: <a href='http://bibel.renenyffenegger.ch/4mo_17.html#v20'>4.&nbsp;Mo&nbsp;17,20-25</a>: Mit dem Stab Aarons macht der HERR dem Murren ein Ende.
+  Dies ist die zweite von → biblisches/Exodus/Zehnmalige-Versuchung[zehn Versuchungen].
+  <br>
+   Beachte, wie wenig Zeit zwischen dem "Loblied" in den Versen 1-19 und dem Murren vergangen ist.
  }
 #}
 #2mo-15-25 {
@@ -19193,7 +19177,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
  {
-  Murren: <a class='kom' href='#I2mo-15-24'>2.&nbsp;Mo&nbsp;15,24</a>
+  Murren: → biblisches/Exodus/Zehnmalige-Versuchung
  }
 #}
 #5mo-1-28 {
@@ -57883,7 +57867,7 @@
 #}
 #mt-2-23 {
  {
-   → biblisches/Orte/Nazareth
+   → biblisches/Orte/Nazareth, vgl §lk-2-39
  }
  {
   <i>wohnte</i> in Sch2K mit «liess sich nieder» übersetzt. vgl §+mt-4-13.
@@ -58090,10 +58074,23 @@
 #}
 #mt-4-6 {
  {
-  Der Vers steht in <a class='kom' href='#Ips-91-11'>Ps&nbsp;91,11</a>.
+  §lk-4-9
+ }
+ {
+  Der Vers steht in §+ps-91-11.
+ }
+#}
+#mt-4-7 {
+ {
+  <i>Du sollst Herrn … nicht versuchen</i>: beachte, dass hier der Teufel eben auch den Herrn versucht (§Vmt-4-1).
+  <br>
+  §lk-4-12
  }
 #}
 #mt-4-8 {
+ {
+  §lk-4-5
+ }
  {
   <i>Jesus auf einem Berg</i>: <ul>
     <li>Hier: Der Teufel führt Jesus auf einen hohen Berg.
@@ -58107,8 +58104,11 @@
   <a href='http://bibel.renenyffenegger.ch/mt_18.html#v12'>Mt&nbsp;18,12</a>, <a href='http://bibel.renenyffenegger.ch/mt_24.html#v16'>Mt&nbsp;24,16</a>
  }
  {
-  TODO: Aber das <i>Reich der Himmel</i> (<a href='http://bibel.renenyffenegger.ch/mt_4.html#v17'>Mt&nbsp;4,17</a>) wird er wohl kaum gezeigt haben.
-  Vgl auch <a class='kom' href='#Imt-3-2'>Mt&nbsp;3,2</a>.
+  Er zeigte Ihm <i>alle Reiche der Erde</i> und <i>ihre Herrlichkeit</i>, aber das <i>Reich der Himmel</i> (§mt-4-17) hat er nicht gezeigt.
+ <br>
+  Im Gebet von §mt-6-13 hält der Herr fest, dass das <i>Reich</i>, die Kraft und die <i>Herrlichkeit</i> bereits Gottes ist.
+  <br>
+   Vgl §+mt-3-2.
  }
 #}
 #mt-4-9 {
@@ -58517,7 +58517,7 @@
   <span class='gt'>Nicht in NA «Denn dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit! Amen.»</span>.
  }
  {
-  TODO: Vgl §+lk-4-5.
+  §+mt-4-8
  }
 #}
 #mt-6-14 {
@@ -64196,7 +64196,7 @@
 #}
 #lk-2-39 {
  {
-  → biblisches/Orte/Nazareth
+  → biblisches/Orte/Nazareth, vgl §mt-2-23
  }
 #}
 #lk-2-40 {
@@ -64450,6 +64450,9 @@
 #}
 #lk-4-5 {
  {
+  §mt-4-8
+ }
+ {
   TODO: Der Teufel zeigt dem Herrn <i>Die Reiche</i> und will ihm die <i>Macht</i> und ihre <i>
   Herrlichkeit</i> geben, doch dies gehört ihm bereits
   (<a href='http://bibel.renenyffenegger.ch/mt_6.html#v13'>Mt&nbsp;6,13</a>).
@@ -64463,6 +64466,11 @@
 #lk-4-10 {
  {
   Der Vers steht in <a class='kom' href='#Ips-91-11'>Ps&nbsp;91,11</a>.
+ }
+#}
+#lk-4-12 {
+ {
+  §+mt-4-7
  }
 #}
 #lk-4-14 {
@@ -79379,14 +79387,11 @@
 #}
 #1kor-10-10 {
  {
-  Vgl <a class='kom' href='#I2mo-15-24'>2.&nbsp;Mo&nbsp;15,24</a>
+  <i>Murrt auch nicht</i>: → biblisches/Exodus/Zehnmalige-Versuchung
  }
  {
-  → biblisches/Exodus/Zehnmalige-Versuchung
- }
- {
-  Offenbar findet man den 'Verderber' in den Büchern Mose nicht im Zusammenhang mit den 'Murrern'. Man
-  findet aber einen Verderber in <a href='http://bibel.renenyffenegger.ch/2mo_12.html#v23'>2.&nbsp;Mo&nbsp;12,23</a>.
+  Offenbar findet man den <i>Verderber</i> in den Büchern Mose nicht im Zusammenhang mit den <i>Murrern</i>. Man
+  findet aber einen Verderber in §2mo-12-23.
  }
 #}
 #1kor-10-11 {
