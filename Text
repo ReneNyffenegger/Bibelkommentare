@@ -47024,8 +47024,9 @@
   <i>Gestirne</i> (<span class='hebr'>כְּסִיל</span>, Strongs 3685): Sch2K übersetzt mit «Sternbilder», KJV mit «constellations». Vgl §+hi-9-9, §+2koe-23-5.
  }
  {
-  <i>Sonne</i> und <i>Mond</i> die sich verfinstern: <a class='kom' href='#Imt-24-29'>Mt&nbsp;24,29</a>. Vgl
-  mit <i>Sternen, die vom Himmel fallen</i>, ebenda.
+  <i>Sonne</i> und <i>Mond</i> die sich verfinstern:
+    §sach-14-6,
+    §+mt-24-29. Vgl mit <i>Sternen, die vom Himmel fallen</i>, ebenda.
  }
 #}
 #jes-13-12 {
@@ -57055,7 +57056,8 @@
 #}
 #sach-2-10 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde
+   Hier werden die aus dem Land des Nordens <i>nach den → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde[vier Winden] zerstreut</i>, in
+   §mt-24-31 werden die Auserwählten von den vier Winden her versammelt, vgl §jer-49-36
  }
  {
   <i>Sammlung Israels</i>: §+jer-31-10.
@@ -57468,6 +57470,11 @@
  }
  {
   <i>In das Tal meiner Berge fliehen</i> vgl §+mt-24-16
+ }
+#}
+#sach-14-6 {
+ {
+   <i>Gestirne werden sich verfinstern</i> §+jes-13-10, §+mt-24-29
  }
 #}
 #sach-14-8 {
@@ -59234,6 +59241,9 @@
 #}
 #mt-10-26 {
  {
+  §lk-12-2
+ }
+ {
    Es wird den Unmündigen → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung[geoffenbart]: §mt-11-25. Vgl §mt-16-17
  }
 #}
@@ -60886,7 +60896,10 @@
 @Matthäus 23 {
 #mt-23-4 {
  {
-  <i>Bürde</i>: <a class='kom' href='#Imt-11-30'>Mt&nbsp;11,30</a>.
+  §lk-11-46, vgl §gal-6-2
+ }
+ {
+  <i>Lasten</i>: §+mt-11-30
  }
 #}
 #mt-23-6 {
@@ -60973,7 +60986,8 @@
 #}
 #mt-23-37 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden vg §lk-13-34
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden, vgl §lk-13-34,
+  §+mt-24-31 (Sammlung Israels)
  }
 #}
 #mt-23-39 {
@@ -61147,7 +61161,7 @@
 #}
 #mt-24-29 {
  {
-  <i>Sonne verfinstert sich</i>: §lk-23-45
+  <i>Sonne verfinstert sich</i>: §lk-23-45, §jes-13-10, §sach-14-6
   <br>
   <i>Mond verfinstert</i> sich: §+hes-32-7.
   <br>
@@ -61199,16 +61213,16 @@
   <br> §+jes-27-13.
  }
  {
-   <i>Von den vier Winden her</i> vgl §mt-8-11
+   Hier werden die Auserwählten <i>von den → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde[vier Winden] her</i> versammelt, in §sach-2-10 wurden die aus dem Land des Nordens nach den vier Winden zerstreut,
+   vgl §jer-49-36
+   <br>Vgl auch §mt-8-11
  }
  {
   Beachte: Von dem einen Ende der <i>Himmel</i> bis zu ihrem anderen Ende, nicht vom <i>Ende</i> der Erde, vgl §jes-11-12, §mk-13-27
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde: Vgl §jer-49-36
- }
- {
-  <i>Sammlung Israels</i>: §+jer-31-10, §mt-3-12.  §sach-2-8
+  <i>Sammlung Israels</i>: §+jer-31-10, §mt-3-12.  §sach-2-9-ff, §mt-23-37
+  <br>Vgl §2thes-2-1, §mt-25-32
  }
 #}
 #mt-24-32 {
@@ -65446,7 +65460,10 @@
 #}
 #lk-11-46 {
  {
-  <i>Bürde</i>: <a class='kom' href='#Imt-11-30'>Mt&nbsp;11,30</a>.
+  <i>ihr belastet die Menschen mit schwer zu tragenden Lasten…</i> §mt-23-4, vgl §gal-6-2
+ }
+ {
+  <i>lasten</i>: §+mt-11-30.
  }
 #}
 #lk-11-47 {
@@ -65491,6 +65508,9 @@
  }
 #}
 #lk-12-2 {
+ {
+  §mt-10-26
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
@@ -78219,8 +78239,9 @@
 #1kor-1-7 {
  {
   Vgl <i>Offenbarung des Herrn Jesus Christus</i> mit der Offenbarung des
-  <i>des Sohns des Verderbens/Menschen der Sünde</i> in
-  <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v3'>2.&nbsp;Thes&nbsp;2,3</a>.
+  <i>des Sohns des Verderbens/Menschen der Sünde</i> in §2thes-2-3.
+  <br>
+   Vgl auch §1thes-1-10
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung, → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
@@ -82378,7 +82399,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-6-2 {
  {
-  Vgl §+roem-15-1, §Vgal-6-5
+  Vgl §+roem-15-1, §+mt-23-4, §Vgal-6-5
  }
 #}
 #gal-6-4 {
@@ -85017,14 +85038,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Bücher/Paulus/Thessalonicher#thes-wiederkunft[Erwähnung der Wiederkunft in den Thessalonicherbriefen]
  }
  {
-  Vgl mit der «Offenbarung des Herrn Jesus vom Himmel her» in <a href='http://bibel.renenyffenegger.ch/2thes_1.html#v7'>2.&nbsp;Thes&nbsp;1,7</a>.
- }
- {
   <i>Zorn</i>. Vgl <a href='http://bibel.renenyffenegger.ch/1thes_2.html#v16'>1.&nbsp;Thes&nbsp;2,16</a> (Zorn kommt über die Juden)
   und <a href='http://bibel.renenyffenegger.ch/1thes_5.html#v9'>1.&nbsp;Thes&nbsp;5,9</a>.
  }
  {
   <i>Seinen Sohn aus den Himmeln erwarten</i>: vgl §phil-3-20, §1thes-3-13, §2thes-1-10, §tit-2-13
+  <br>Vgl mit der «Offenbarung des Herrn Jesus vom Himmel her» in §2thes-1-7.
+  <br>Vgl auch §1kor-1-7
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
@@ -85337,7 +85357,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-3-13 {
  {
-  Mit <i>allen seine Heiligen</i> sind wohl die «Engel» aus <a class='kom' href='#Imt-16-27'>Mt&nbsp;16,27</a> (oder <a href='http://bibel.renenyffenegger.ch/mt_25.html#v31'>Mt&nbsp;25,31</a>) gemeint.
+  Mit <i>allen seine Heiligen</i> sind wohl die «Engel» aus §+mt-16-27 und/oder §mt-25-31 gemeint.
+  <br>Vgl §jud-1-14
  }
  {
   → biblisches/Bücher/Paulus/Thessalonicher#thes-wiederkunft[Erwähnung der Wiederkunft in den Thessalonicherbriefen]
@@ -85831,7 +85852,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Sch2K übersetzt mit «Vereinigung».
  }
  {
-  Vgl §mt-25-32
+  Vgl §+mt-24-31, §mt-25-32
  }
  {
   → biblisches/Bücher/Paulus/Thessalonicher#thes-wiederkunft[Erwähnung der Wiederkunft in den Thessalonicherbriefen]
@@ -93000,7 +93021,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <i>Tausende</i> <span class='gr'><a href="https://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s3461">μυριάς</a></span> (Strongs 3461),
    könnte wohl auch mit «Zehntausende» übersetzt werden: §+lk-12-1, §+hebr-12-22.
    <br>
-    <i>gekommen inmitten seiner Myriaden</i> vgl §5mo-33-2
+    <i>gekommen inmitten seiner Tausenden</i> vgl §5mo-33-2, §1thes-3-13
  }
  {
   <i>Der siebte</i>: vgl §+2petr-2-5.
