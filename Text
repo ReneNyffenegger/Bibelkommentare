@@ -55620,7 +55620,7 @@
 #}
 #hos-10-8 {
  {
-  Vgl §lk-23-30, §jes-2-19
+  Vgl §lk-23-30, §jes-2-19, §offb-6-16
  }
  {
   <i>Dornen und Disteln</i>: §1mo-3-18
@@ -61037,10 +61037,14 @@
   <i>Auf dem Ölberg sitzen</i>: vgl <a class='kom' href='#Isach-14-4'>Sach&nbsp;14,4</a>.
  }
 #}
+#mt-24-4 {
+ {
+  <i>daß euch niemand verführe</i> vgl §Vm-24-11, §Vmt-24-24
+ }
+#}
 #mt-24-5 {
  {
-  Vgl Verse 23-24.
-  <br>Vgl a <a class='kom' href='#Imt-23-39'>Mt&nbsp;23,39</a>.
+  <br>Vgl a §+mt-23-39.
  }
 #}
 #mt-24-6 {
@@ -61238,12 +61242,17 @@
   <br>Vgl mit dem <i>Gleichnis</i> in <a href='http://bibel.renenyffenegger.ch/mk_13.html#v28'>Mk&nbsp;13,28</a>.
  }
  {
-   Vers 29 hat die gleichen Ereignisse wie das <i>6. Siegel</i> (<a href='http://bibel.renenyffenegger.ch/offb_6.html#v12'>Offb 6,12-17</a>, wo
+   Vers 29 hat die gleichen Ereignisse wie das <i>6. Siegel</i> (§offb-6-12-17), wo
    die Sterne auf die Erde fallen, wie ein <i>Feigenbaum</i>, der seine unreifen Früchte abwirft.
-        <br><i>Gleichnisse in den Evangelien</i>: <a class='kom' href='#Imt-13-3'>Mt&nbsp;13,3</a>.
+        <br><i>Gleichnisse in den Evangelien</i>: §+mt-13-3.
  }
 #}
 #mt-24-33 {
+ {
+  <i>nahe an den Türen</i> §mk-13-29, vgl §jak-5-9
+ <br>
+  Schl2K und Elberfelder übersetzen das im Grundtext plurale Wort mit dem Singular («nahe an der Tür»).
+ }
  {
   TODO: oder sollte es heissen: dass «<i>er</i> nahe vor der Tür ist»? Vgl §jak-5-9 und §mk-13-29.
   <br>Beachte auch, dass in diesen drei Versen die Tür im Griechischen im Plural steht.
@@ -61257,6 +61266,9 @@
 #mt-24-36 {
  {
   <i>Von jenem Tag aber und jener Stunde weiss niemand</i> §mk-13-32, §V24-42, §mt-25-13
+ <br>
+  Beachte: hier spricht der Herr von <i>einem</i> Tag, in den Versen 19, 22, 29, 37-38 von <i>Tagen</i>. Ebenso §Vmt-24-50. Vgl mit <i>dem Tag, als Noah in den Kasten ging</i> (§Vmt-24-38)
+  Vgl auch §1thes-5-2-ff, §2tim-1-12
  }
  {
   <span class='gt'>NA enthält zusätzlich: «auch nicht der Sohn»</span>
@@ -63420,6 +63432,9 @@
 #}
 #mk-13-29 {
  {
+  <i>nahe an der Tür</i> §+mt-24-33
+ }
+ {
   TODO: Bezieht sich «er» auf den Sommer, oder auf den Sohn des Menschen? Elberfelder übersetzt
   «daß es nahe an der Tür ist», KJV mit «know that it is nigh, [even] at the doors».
   <br>
@@ -65579,6 +65594,9 @@
 #lk-12-36 {
  {
   <i>Hochzeit</i>: <a class='kom' href='#Imt-9-15'>Mt&nbsp;9,15</a>.
+ }
+ {
+  <i>Er klopft an, machen sie ihm auf?</i> vgl §offb-3-20
  }
  {
   TODO: Bricht der HERR nach oder während der Hochzeit auf?
@@ -83703,6 +83721,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   «erwählt», in <a href='http://bibel.renenyffenegger.ch/hebr_11.html#v25'>Hebr&nbsp;11,25</a> mit «vorgezogen» übersetzt.
  }
 #}
+#phil-1-23 {
+ {
+  <i>Ich habe Lust, aufzubrechen</i> vgl §2tim-4-6
+ }
+ {
+  <i>aufzubrechen</i>: Elberfelder übersetzt mit «abzuscheiden», KJV mit «to depart»
+ }
+#}
 #phil-1-26 {
  {
   <i>Kommn</i> (<span class='gr'>παρουσία</span>, Strongs 3952).
@@ -87608,7 +87634,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <i>Ich werde schon als Trankopfer gesprengt</i> §+phil-2-17
  }
  {
-  <i>Die Zeit meines Abscheidens ist nahe</i>: vgl §1kor-15-51 («Wir werden nicht alle entschlafen»)
+  <i>Die Zeit meines Aufbruchs ist nahe</i>: vgl §phil-1-23 («ich habe Lust, aufzubrechen») und §1kor-15-51 («Wir werden nicht alle entschlafen»)
  }
 #}
 #2tim-4-7 {
@@ -90731,7 +90757,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-5-9 {
  {
-  <i>Der Richter steht vor der Tür</i>: §+mt-24-33.
+  <i>Der Richter steht vor den Türen</i>: §+mt-24-33.
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/jak_4.html#v11'>Jak&nbsp;4,11</a>.
@@ -93828,6 +93854,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-3-20 {
  {
+  <i>Er klopft an, machen sie ihm auf?</i> vgl §lk-12-36
+ }
+ {
   <i>Tür auftun</i> vgl §offb-4-1
  }
 #}
@@ -94290,6 +94319,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-6-10 {
  {
   <i>Bis wann … richtest und rächst du nicht unser Blut …</i> vgl §+offb-16-6, §offb-18-20, §offb-19-2, §2koe-9-7
+  <br>
+   Bereits beim nächsten (dem 6.) Siegel bemerken die Mächtigen: «gekommen ist der große Tag seines Zornes, und wer vermag zu bestehen» (§Voffb-6-17).
  }
  {
   <i>Auf der Erde wohnen</i>: <a class='kom' href='#Ioffb-3-10'>Offb&nbsp;3,10</a>.
@@ -94358,6 +94389,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Tag des Zorns</i>: §hi-20-28, §ps-110-5, §spr-11-4, §roem-2-5
   <br>Vgl §+offb-1-10.
  }
+ {
+  Das sechste Siegel führt zu der Frage: <i>Wer vermag zu bestehen?</i>. Die Antwort scheint von der unzählbaren, großen Volksmenge gegeben zu werden:
+  «Die Rettung ist bei unserem Gott, der auf dem Thron sitzt, und beim Lamm!» (§offb-7-10)
+ }
 #}
 @}
 @Offenbarung 7 {
@@ -94387,6 +94422,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-7-3 {
+ {
+  Beachte, die <i>Versiegelung der 144'000</i> findet zwischen dem sechsten und siebten → biblisches/Bücher/prophetisch/Offenbarung/Sieben-Siegel[Siegel] statt.
+ }
  {
   In der <b>5. Posaune</b> (<a href='http://bibel.renenyffenegger.ch/offb_9.html#v1'>Offb 9,1-12</a>) können die Heuschrecken keinen Scheden den Menschen anrichten, die das Siegel Gottes nicht an
   ihrer Stirne haben.
@@ -94432,8 +94470,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-7-10 {
  {
-  Die <i>Rettung</i> ist in <a href='http://bibel.renenyffenegger.ch/offb_12.html#v10'>Offb&nbsp;12,10</a> gekommen. Vgl
-  auch <a href='http://bibel.renenyffenegger.ch/offb_19.html#v1'>Offb&nbsp;19,1</a>
+  Die <i>Rettung</i> ist in §offb-12-10 gekommen. Vgl auch §offb-19-1 und §+offb-6-17.
  }
  {
   TODO: Warum übersetzt KJV mit «Salvation to our God» und Elberfelder mit «Das Heil unserem Gott»?
@@ -96022,8 +96059,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-16-15 {
  {
-  Vgl 'Senschreiben' nach Sardes: wenn sie nicht wachen, wird Er kommen wie ein Dieb, doch einige Namen haben ihre Kleider nicht befleckt
-  (<a href='http://bibel.renenyffenegger.ch/offb_3.html#v3'>Offb 3,3-4</a>)
+  Vgl → biblisches/Bücher/prophetisch/Offenbarung/Sendschreiben nach Sardes: wenn sie nicht wachen, wird Er kommen wie ein Dieb, doch einige Namen haben ihre Kleider nicht befleckt
+  (§offb-3-3-4)
  }
  {
   <b>Die sieben 'Glückselig'</b>: siehe <a class='kom' href='#Ioffb-1-3'>Offb&nbsp;1,3</a>.
