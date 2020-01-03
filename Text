@@ -58363,6 +58363,11 @@
   <i>Ihr seid das Licht der Welt</i>: <a class='kom' href='#I1mo-1-15'>1.&nbsp;Mo&nbsp;1,15</a>.
  }
 #}
+#mt-5-15 {
+ {
+  vgl §mk-4-21
+ }
+#}
 #mt-5-16 {
  {
   Aber man soll die <i>guten Werke</i> nicht machen, um von den Menschen gesehen zu werden (Vgl <a href='http://bibel.renenyffenegger.ch/mt_6.html#v1'>Mt 6,1ff</a>).
@@ -59403,6 +59408,11 @@
   → biblisches/Orte/Kapernaum, vgl §lk-10-15
  }
 #}
+#mt-11-24 {
+ {
+  Vgl §+lk-10-21
+ }
+#}
 #mt-11-25 {
  {
   TODO: <i>offenbaren/offenbar machen</i>: <ul>
@@ -59566,7 +59576,9 @@
 #}
 #mt-12-24 {
  {
-  <i>Beelzebul</i>: §+mt-10-25.
+  Dieser treibt die Dämonen … durch den <i>Beelzebul</i> aus, vgl §mk-3-22, §lk-11-15
+  <br>
+    Vgl §+mt-10-25.
  }
  {
   <i>Dieser treibt die Dämonen nicht anders aus, als durch den Beelzebub, den Obersten der Dämonen.</i> vgl §mt-9-34
@@ -59636,6 +59648,9 @@
 #}
 #mt-12-39 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen#zeichen-jonas[Zeichen des Jona]
+ }
+ {
   <i>Zeichen des Jona</i> TODO: Trotzdem geschehen in Johannes einige Zeichen
   (<a class='kom' href='#Ijoh-2-11'>Joh&nbsp;2,11</a>, <a href='http://bibel.renenyffenegger.ch/apg_2.html#v22'>Apg&nbsp;2,22</a>).
   <br>Vgl <a href='http://bibel.renenyffenegger.ch/mt_16.html#v4'>Mt&nbsp;16,4</a>, <a href='http://bibel.renenyffenegger.ch/lk_11.html#v29'>Lk&nbsp;11,29</a>.
@@ -59651,6 +59666,11 @@
  {
   <i>Ninive</i>: <a class='kom' href='#Ijon-1-2'>Jon&nbsp;1,2</a>.
   <br>Vgl <a href='http://bibel.renenyffenegger.ch/lk_11.html#v32'>Lk&nbsp;11,32</a>.
+ }
+#}
+#mt-12-48 {
+ {
+  <i>Wer ist Meine Mutter…</i> vgl §+mk-3-21
  }
 #}
 #mt-12-50 {
@@ -59701,6 +59721,9 @@
  }
 #}
 #mt-13-11 {
+ {
+  §mk-4-11, §lk-8-10
+ }
  {
   Diese Gleichnisse scheinen das <i>Reich der Himmel</i> zu beschreiben. (Vers 24, 31, 33... 52)
  }
@@ -60815,6 +60838,11 @@
 #mt-22-7 {
  {
   <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
+ }
+#}
+#mt-22-9 {
+ {
+  Vgl §lk-14-21
  }
 #}
 #mt-22-11 {
@@ -62426,7 +62454,15 @@
   Offenbar hat nicht nur Simon, Jakobus und Johannes einen (Bei-)Namen erhalten sondern auch Levi erhielt den neuen Namen → biblisches/Personen/Matthäus.
  }
 #}
+#mk-3-21 {
+ {
+  Vgl §mt-12-48: «Wer ist meine Mutter, und wer sind meine Brüder?», §mk-3-32
+ }
+#}
 #mk-3-22 {
+ {
+  §+mt-12-24
+ }
  {
   <i>Unreiner Geist</i>: §mk-1-23-ff
  }
@@ -62474,6 +62510,9 @@
 #}
 #mk-4-11 {
  {
+  §+mt-13-11.
+ }
+ {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
  }
 #}
@@ -62485,6 +62524,11 @@
 #mk-4-20 {
  {
   <i>die das Wort hören und aufnehmen</i>, vgl §+mt-13-23.
+ }
+#}
+#mk-4-21 {
+ {
+  vgl §mt-5-15
  }
 #}
 #mk-4-26 {
@@ -65083,7 +65127,7 @@
 #}
 #lk-8-10 {
  {
-  <a class='kom' href='#Imt-13-13'>Mt&nbsp;13,13</a>.
+  §+mt-13-11.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
@@ -65113,6 +65157,11 @@
 #lk-8-16 {
  {
   <i>Gefäss</i>: <a class='kom' href='#Imt-12-29'>Mt&nbsp;12,29</a>.
+ }
+#}
+#lk-8-17 {
+ {
+  Vgl §lk-10-21
  }
 #}
 #lk-8-24 {
@@ -65400,6 +65449,10 @@
 #}
 #lk-10-21 {
  {
+  <i>…daß du dies vor Weisen und Verständigen verborgen hast, und hast es Unmündigen geoffenbart.</i> vgl §mt-11-24, §kol-1-26,
+  §lk-8-17
+ }
+ {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
 #}
@@ -65462,6 +65515,9 @@
  }
 #}
 #lk-11-15 {
+ {
+  §+mt-12-24
+ }
  {
   <i>Beelzebul</i>: <a class='kom' href='#Imt-10-25'>Mt&nbsp;10,25</a>.
  }
@@ -65853,6 +65909,9 @@
  }
 #}
 #lk-14-21 {
+ {
+  Vgl §mt-22-9
+ }
  {
   <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
  }
@@ -67340,9 +67399,10 @@
  }
  {
    Das <i>zweite Zeichen</i> (§joh-4-54) auch in Kana (§joh-4-46). In §joh-4-48 wird der Herr sagen «Wenn ihr nicht Zeichen und Wunder seht».
-   <br>Beachte, dass Jesus auch in Jerusalem Zeichen macht (§joh-2-23) und viele Zeichen macht (§joh-12-37)
+   <br>Beachte, dass Jesus auch in Jerusalem Zeichen macht (§joh-2-23)
    <br>Einem böses Geschlecht wurd nur das <i>Zeichen des Jona</i> gegeben werden (§mt-12-39)
    <br>Vgl <i>Zeichen</i>: §+mt-12-38.
+   <br>Nachdem dem der Herr viele Zeichen machte, scheinen sie in §joh-12-37 zu einem vorläufigen(?) Abschluss gekommen zu sein.
  }
  {
   <i>Offenbaren/Offenbar machen</i>: <a class='kom' href='#Imt-11-25'>Mt&nbsp;11,25</a>.
@@ -68996,12 +69056,16 @@
 #}
 #joh-12-37 {
  {
-  Nachdem der Autor dieses Evangeliums häufig über → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen geschrieben hat, ist dieser Vers bis auf (§joh-20-30) der letzte, in dem
+  Nachdem der Autor dieses Evangeliums häufig über → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen geschrieben hat, ist dieser Vers bis auf §joh-20-30 der letzte, in dem
   dieses Wort vorkommt
  }
  {
-  Vgl <i>Viele Zeichen</i> mit <i>Zeichen des Jona</i>: <a class='kom' href='#Ijoh-2-11'>Joh&nbsp;2,11</a>, <a class='kom' href='#Imt-12-39'>Mt&nbsp;12,39</a>.
-  <br>TODO: <a class='kom' href='#Ijoh-1-7'>Joh&nbsp;1,7</a>
+  <i>Viele Zeichen</i>: den Anfang der Zeichen machte Jesus in §joh-2-11
+  <br>
+   Vgl mit dem <i>Zeichen des Jona</i> §+mt-12-39.
+ }
+ {
+   Vgl §joh-1-7
  }
 #}
 #joh-12-38 {
@@ -84507,6 +84571,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #kol-1-26 {
+ {
+  Vgl §lk-10-21
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
  }
