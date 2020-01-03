@@ -60001,12 +60001,8 @@
 #}
 #mt-14-33 {
  {
-   <i>Du bist Gottes Sohn</i>: vgl
-   <a href='http://bibel.renenyffenegger.ch/mt_8.html#v29'>Mt&nbsp;8,29</a>,
-   <a class='kom' href='#Imt-16-16'>Mt&nbsp;16,16</a>
-   und
-   <a href='http://bibel.renenyffenegger.ch/mt_27.html#v54'>Mt&nbsp;27,54</a>.
-   <br>Vgl auch mit Gottes geliebtem Sohn in <a class='kom' href='#Imt-3-17'>Mt&nbsp;3,17</a>.
+   <i>Du bist Gottes Sohn</i>: vgl §mt-8-29, §+mt-16-16 und §mt-27-54.
+   <br>Vgl auch mit Gottes geliebtem Sohn in §+mt-3-17.
  }
  {
   Beachte: Judas scheint hier auch dabei gewesen zu sein.
@@ -60821,6 +60817,11 @@
   <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
  }
 #}
+#mt-22-11 {
+ {
+  <i>nicht mit einem Hochzeitskleid bekleidet</i>, vgl §offb-19-8
+ }
+#}
 #mt-22-12 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
@@ -61265,7 +61266,7 @@
 #}
 #mt-24-36 {
  {
-  <i>Von jenem Tag aber und jener Stunde weiss niemand</i> §mk-13-32, §V24-42, §mt-25-13
+  <i>Von jenem Tag aber und jener Stunde weiss niemand</i> §mk-13-32-35, §Vmt-24-42, §mt-25-13, §lk-12-46
  <br>
   Beachte: hier spricht der Herr von <i>einem</i> Tag, in den Versen 19, 22, 29, 37-38 von <i>Tagen</i>. Ebenso §Vmt-24-50. Vgl mit <i>dem Tag, als Noah in den Kasten ging</i> (§Vmt-24-38)
   Vgl auch §1thes-5-2-ff, §2tim-1-12
@@ -61281,6 +61282,11 @@
  {
   Vgl <i>Kommen des Menschensohnes</i> mit den «Tagen des Menschensohnes» in
   <a href='http://bibel.renenyffenegger.ch/lk_17.html#v26'>Lk&nbsp;17,26</a>.
+ }
+#}
+#mt-24-38 {
+ {
+  <i>aßen und tranken</i> vgl §lk-12-45
  }
  {
   <i>Kasten</i>, <span class='he'>κιβωτός</span> (Strongs 2787), in anderen Übersetzungen mit «Arche» übersetzt. Vgl <a class='kom' href='#I1mo-6-14'>1.&nbsp;Mo&nbsp;6,14</a>.
@@ -61301,10 +61307,19 @@
 #}
 #mt-24-45 {
  {
-  <i>Dienerschaft</i> <span class='gr'>θεραπεία</span> (Strongs 2322, 4x) auch in
-  <a href='http://bibel.renenyffenegger.ch/lk_9.html#v11'>Lk&nbsp;9,11</a>,
-  <a href='http://bibel.renenyffenegger.ch/lk_12.html#v42'>Lk&nbsp;12,42</a> und
-  <a href='http://bibel.renenyffenegger.ch/offb_22.html#v2'>Offb&nbsp;22,2</a> (In Lk 9:11 und Offb 22:2 mit «Heilung» übersetzt).
+  Vgl §lk-12-42-ff
+ }
+ {
+  <i>treuer Knecht</i> §mt-25-21-ff
+ }
+ {
+  <i>Gesinde</i> <span class='gr'>θεραπεία</span> (Strongs 2322, 4x) auch in
+  §lk-9-11, §lk-12-42 und §offb-22-2 (In §lk-9-11 und §offb-22-2 mit «Heilung» übersetzt).
+ }
+#}
+#mt-24-48 {
+ {
+  <i>verzieht zu kommen</i> vgl §hebr-10-37, §lk-12-45
  }
 #}
 #mt-24-51 {
@@ -61320,6 +61335,9 @@
   <i>Begegnung</i>: <span class='gr'>ἀπάντησις</span> (Strongs 529, 4x). Kommt auch in Vers 6, <a href='http://bibel.renenyffenegger.ch/apg_28.html#v15'>Apg&nbsp;28,15</a> und
   <a href='http://bibel.renenyffenegger.ch/1thes_4.html#v17'>1.&nbsp;Thes&nbsp;4,17</a> vor.
  }
+ {
+  <i>Lampen mitnehmen</i>, vgl §lk-12-35
+ }
 #}
 #mt-25-11 {
  {
@@ -61333,7 +61351,12 @@
 #}
 #mt-25-13 {
  {
-  <i>Ihr wisst weder den Tag noch die Stunde</i> §mt-24-36, §mt-24-42
+  <i>Ihr wisst weder den Tag noch die Stunde</i> §+mt-24-36, §mt-24-42
+ }
+#}
+#mt-25-21 {
+ {
+  <i>treuer Knecht</i> §mt-24-45
  }
 #}
 #mt-25-30 {
@@ -61351,6 +61374,9 @@
  }
  {
   <i>Kommen des Sohnes des Menschen mit Engeln</i>: vgl <a class='kom' href='#Imt-16-27'>Mt&nbsp;16,27</a>.
+ }
+ {
+  <span class='gt'>NA lässt «heilig» weg</span>
  }
  {
   TODO: Hier kommt der <i>Sohn des Menschen</i>, in Vers 34 wird er der «König» genannt.
@@ -63451,6 +63477,11 @@
   <i>euch schlafend finde</i> vgl §mk-14-37
  }
 #}
+#mk-13-37 {
+ {
+  §+lk-12-41
+ }
+#}
 @}
 @Markus 14 {
 #mk-14-2 {
@@ -65177,6 +65208,11 @@
   → biblisches/Orte/Bethsaida
  }
 #}
+#lk-9-11 {
+ {
+  <i>Heilung</i> §+mt-24-45
+ }
+#}
 #lk-9-21 {
  {
   Es scheint, als ob der Herr nicht möchte, dass Petrus verkündigt, dass er der Christus ist, weil sonst sein Auftrag, getötet zu werden, in Gefahr stünde. Vgl §1kor-2-8
@@ -65591,6 +65627,11 @@
   vgl <a class='kom' href='#Imt-6-19'>Mt&nbsp;6,19</a>.
  }
 #}
+#lk-12-35 {
+ {
+  <i>Brennenden Lampen</i>  vgl mit den zehn Jungfrauen, von denen fünr kein Öl mitnahmen: §mt-25-1-ff
+ }
+#}
 #lk-12-36 {
  {
   <i>Hochzeit</i>: <a class='kom' href='#Imt-9-15'>Mt&nbsp;9,15</a>.
@@ -65615,18 +65656,35 @@
    TODO: wer ist der <i>Hausherr</i>? Der Teufel, die Jünger...?
  }
 #}
+#lk-12-41 {
+ {
+  Möglicherweise steht eine Ergänzung der Antwort auf diese Frage in §mk-13-37
+ }
+#}
 #lk-12-42 {
  {
   TODO: <i>Haushalter</i> <span class='gr'>οἰκονόμος</span> (Strongs 3623) kommt in den anderen Evangelien nicht vor. Im Lukas Evangelium kommt es
-  noch vor in <a href='http://bibel.renenyffenegger.ch/lk_16.html#v1'>Lk&nbsp;16,1</a>, <a class='kom' href='#Ilk-16-3'>Lk&nbsp;16,3</a>
-  und <a href='http://bibel.renenyffenegger.ch/lk_16.html#v8'>Lk&nbsp;16,8</a>.
-  <br>Siehe auch <a class='kom' href='#Iroem-16-23'>Röm&nbsp;16,23</a>.
+  noch vor in §lk-16-1, §+lk-16-3 und §lk-16-8.
+  <br>Siehe auch §+roem-16-23.
  }
  {
-  Verse 42-48: Vgl <a href='http://bibel.renenyffenegger.ch/1kor_4.html#v2'>1.&nbsp;Kor&nbsp;4,2</a>.
+  Verse 42-48: Vgl §mt-24-45-ff, §1kor-4-2.
+ }
+#}
+#lk-12-45 {
+ {
+  <i>essen und trinken</i> vgl §mt-24-38
+ }
+#}
+#lk-12-46 {
+ {
+  <i>Tag, an welchem er es nicht erwartet; in einer Stunde, die er nicht weiß</i>: §+mt-24-36
  }
 #}
 #lk-12-49 {
+ {
+  <i>Feuer auf die Erde werfen</i> vgl §+offb-8-5, §offb-20-9
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
@@ -65776,15 +65834,14 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
  }
 #}
+#lk-14-8 {
+ {
+  <i>Hochzeit</i>: §+mt-9-15 §+mt-23-12.
+ }
+#}
 #lk-14-10 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
- }
-#}
-#lk-14-11 {
- {
-  <i>Hochzeit</i>: <a class='kom' href='#Imt-9-15'>Mt&nbsp;9,15</a>
-   <a class='kom' href='#Imt-23-12'>Mt&nbsp;23,12</a>.
  }
 #}
 #lk-14-12 {
@@ -65884,6 +65941,11 @@
 #lk-16-10 {
  {
   <i>Im Geringsten treu sein</i>: Offenbar bezieht es sich auf den Umgang it Geld. Vgl. §lk-19-17
+ }
+#}
+#lk-16-11 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/treu-gewiss_wahrhaftig[treu, wahrhaftig]
  }
 #}
 #lk-16-13 {
@@ -66969,6 +67031,9 @@
 #}
 #joh-1-9 {
  {
+  <i>wahrhaftiges Licht</i> §1joh-2-8
+ }
+ {
   <i>erleuchten</i>: §+hebr-6-4.
   <br>Vgl auch mit
   §+joh-8-12 und §+offb-18-1.
@@ -67942,7 +68007,10 @@
 #}
 #joh-6-14 {
  {
-  TODO: <i>Prophet</i>: <a class='kom' href='#Ijoh-1-21'>Joh&nbsp;1,21</a>.
+  <i>wahrhaftig der Propeht</i> §joh-7-40
+ }
+ {
+  TODO: <i>Prophet</i>: §+joh-1-21.
  }
 #}
 #joh-6-17 {
@@ -68231,6 +68299,11 @@
  }
  {
   <i>Dies aber sagte er vom Geist</i>: <a class='kom' href='#Ijoh-2-21'>Joh&nbsp;2,21</a>.
+ }
+#}
+#joh-7-40 {
+ {
+  <i>wahrhaftig der Propeht</i> §joh-6-14
  }
 #}
 #joh-7-43 {
@@ -89651,6 +89724,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-10-37 {
  {
+  <i>der Kommende wird kommen und nicht verziehen</i> vgl §mt-24-48
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
  }
 #}
@@ -92392,6 +92468,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl auch mit <a class='kom' href='#I1joh-1-1'>1.&nbsp;Joh&nbsp;1,1</a>.
  }
 #}
+#1joh-2-8 {
+ {
+  <i>wahrhaftiges Licht</i> §joh-1-9
+ }
+#}
 #1joh-2-9 {
  {
   <i>Bruderliebe</i>. Sie teilt die Menschen (neben 'die Gerechtigkeit tun') in Kinder Gottes und Kinder des Teufels ein
@@ -93842,6 +93923,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Bücher/prophetisch/Offenbarung/Sendschreiben/Laodizäa
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/treu-gewiss_wahrhaftig[treu, wahrhaftig]
+ }
 #}
 #offb-3-17 {
  {
@@ -94574,6 +94658,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-8-5 {
+ {
+  <i>Feuer des Altars auf die Erde werfen</i> vgl §lk-12-49, §offb-13-13, §offb-20-9
+ }
  {
   → biblisches/Bücher/prophetisch/Offenbarung#stimmen-blitze-donner[Stimme, Donner, Blitze etc.]
  }
@@ -95525,8 +95612,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Grosse Zeichen</i>: <a class='kom' href='#Ioffb-12-1'>Offb&nbsp;12,1</a>.
  }
  {
-  TODO: <i>Feuer vom Himmel</i> imitiert möglicherweise das Gericht Gottes, vgl §offb-20-9.
- <br>
+  
+  <i>Feuer vom Himmel</i> imitiert möglicherweise das Gericht Gottes, vgl §offb-20-9.
+ }
+ {
   Gott weihte den Tempel Salamos mit Feuer ein. Möglicherweise ist es Teil der zukünftigen Verführung, dass der Widersacher Feuer vom Himmel herabkommen lässt, um «seinen» Tempel zu legitimieren.
  }
  {
@@ -95883,13 +95972,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Die Überwinder (<a href='http://bibel.renenyffenegger.ch/offb_15.html#v2'>Vers 2</a>) sprechen
   'Gerecht und wahrhaftig sind deine Wege, du König der Heiligen!'.
   <br>Der <i>Engel der Gewässer</i> sagt: 'Gerecht bist du, o Herr, der du bist und warst und der Heilige bist, daß du so gerichtet hast!
-      Denn das Blut der Heiligen und Propheten haben sie vergossen, und Blut hast du ihnen zu trinken gegeben; denn sie verdienen es! '
-     (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v5'>Offb 16,5-6</a>)
-  <br>Ein anderer Engel sagt vom Altar her:'Ja, o Herr, Gott, du Allmächtiger, wahrhaftig und gerecht sind deine Gerichte!'
-     (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v7'>Offb&nbsp;16,7</a>)
+      Denn das Blut der Heiligen und Propheten haben sie vergossen, und Blut hast du ihnen zu trinken gegeben; denn sie verdienen es! ' (§offb-16-5-6)
+  <br>Ein anderer Engel sagt vom Altar her:'Ja, o Herr, Gott, du Allmächtiger, wahrhaftig und gerecht sind deine Gerichte!' (§offb-16-7)
   <br>Eine laute Stimme einer grossen Volksmenge im Himmel spricht 'Hallelujah! Die Rettung und die Herrlichkeit und die Ehre und die Macht gehören dem Herrn, unserem Gott!
-      Denn wahrhaftig und gerecht sind seine Gerichte; denn er hat die große Hure gerichtet, welche die Erde verderbte mit ihrer Unzucht, und hat das Blut seiner Knechte von ihrer Hand gefordert!
-     (<a href='http://bibel.renenyffenegger.ch/offb_19.html#v1'>Offb 19,1-2</a>)
+      Denn wahrhaftig und gerecht sind seine Gerichte; denn er hat die große Hure gerichtet, welche die Erde verderbte mit ihrer Unzucht, und hat das Blut seiner Knechte von ihrer Hand gefordert!  (§offb-19-1-2)
  }
  {
   Das <i>Lied des Mose</i> ist wohl jenes in <a class='kom' href='#I5mo-31-19'>5.&nbsp;Mo&nbsp;31,19</a> bis <a class='kom' href='#I5mo-32-44'>5.&nbsp;Mo&nbsp;32,44</a>.
@@ -96494,7 +96580,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-18-23 {
  {
-  <i>Leuchte</i>: <a class='kom' href='#Ijoh-5-35'>Joh&nbsp;5,35</a>.
+  <i>Lampe</i>: §+joh-5-35, §offb-21-23, §offb-22-5
  }
  {
   TODO: <i>Stimme des Bräutigams und der Braut</i>: <a class='kom' href='#Ijer-7-34'>Jer&nbsp;7,34</a>.
@@ -96551,6 +96637,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-19-8 {
  {
+  <i>daß sie sich kleide…</i> vgl mit dem Menschen, der nicht mit einem Hochzeitskleid bekleidet war, §mt-22-11-ff
+ }
+ {
   Feine Leinwand als → biblisches/Lehre/Bilder-im-Alten-Testament#feine-leinwand[Bild] für → biblisches/Eigene-Uebersetzung/Konkordanz/Gerechtigkeit.
  }
  {
@@ -96559,7 +96648,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-19-9 {
  {
-  <b>Die sieben 'Glückselig'</b>: siehe <a class='kom' href='#Ioffb-1-3'>Offb&nbsp;1,3</a>.
+  <b>Die sieben «Glückselig»</b>: siehe §+offb-1-3.
+ }
+ {
+  <i>wahrhaftige Worte Gottes</i> vgl §+offb-21-5 und §offb-22-6
  }
  {
   Ist 'Er' die Stimme einer grossen Volksmenge von <a href='http://bibel.renenyffenegger.ch/offb_19.html#v6'>Vers 6</a>?
@@ -96567,7 +96659,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   siehe auch <a href='http://bibel.renenyffenegger.ch/offb_1.html#v1'>Offb&nbsp;1,1</a>.
  }
  {
-  <i>Schreibe!</i>: <a class='kom' href='#Ioffb-1-11'>Offb&nbsp;1,11</a>. Vgl auch <a class='kom' href='#Ioffb-14-13'>Offb&nbsp;14,13</a>.
+  <i>Schreibe!</i>: §+offb-1-11. Vgl auch §+offb-14-13, §offb-21-5
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen vgl mit dem «grossem Abendessen Gottes» in <a href='http://bibel.renenyffenegger.ch/offb_19.html#v17'>Vers 17</a>
@@ -96597,6 +96689,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Der Treue</i>: §+ps-96-13.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/treu-gewiss_wahrhaftig[treu, wahrhaftig]
  }
 #}
 #offb-19-12 {
@@ -96731,7 +96826,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Vgl mit dem Zeichen des Tieres aus der Erde in <a class='kom' href='#Ioffb-13-13'>Offb&nbsp;13,13</a>.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Feuer#feuer-vom-himmel
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Feuer#feuer-vom-himmel, vgl §+lk-12-49
  }
 #}
 #offb-20-10 {
@@ -96830,6 +96925,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-21-5 {
  {
   <i>Schreibe!</i>: <a class='kom' href='#Ioffb-1-11'>Offb&nbsp;1,11</a>.
+ }
+ {
+  <i>Diese Worte sind → biblisches/Eigene-Uebersetzung/Konkordanz/treu-gewiss_wahrhaftig[gewiß und wahrhaftig]</i> §offb-22-6, vgl §offb-19-9
  }
  {
   Vgl <a class='kom' href='#I2kor-5-17'>2.&nbsp;Kor&nbsp;5,17</a>.
@@ -97049,6 +97147,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-22-6 {
+ {
+  <i>Diese Worte sind → biblisches/Eigene-Uebersetzung/Konkordanz/treu-gewiss_wahrhaftig[gewiß und wahrhaftig]</i> §+offb-21-5
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Der Herr … hat seinen Engel gesandt], §Voffb-22-16
  }
