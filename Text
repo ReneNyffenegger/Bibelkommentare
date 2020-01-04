@@ -38522,7 +38522,7 @@
 #}
 #hi-9-5 {
  {
-  <i>Berge versetzen</i>: <a class='kom' href='#Iri-5-5'>Ri&nbsp;5,5</a>.
+  <i>Berge versetzen</i>: §+ri-5-5, §offb-6-14
  }
 #}
 #hi-9-6 {
@@ -42620,8 +42620,9 @@
 #}
 #ps-102-27 {
  {
-  <i>Die Himmel (und Erde?) werden wie ein Kleid vergehen</i> vgl <a href='http://bibel.renenyffenegger.ch/jes_51.html#v6'>Jes&nbsp;51,6</a>.
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v10'>Hebr 1,10-11</a>.
+  <i>Die Himmel (und Erde?) werden wie ein Kleid vergehen</i> vgl §jes-51-6, §offb-6-14
+  <br>
+   Vgl auch §hebr-1-10-11.
  }
 #}
 @}
@@ -46482,6 +46483,9 @@
 #}
 #jes-5-30 {
  {
+  <i>das Licht ist verfinstert durch ihr Gewölk</i> vgl §hes-32-7
+ }
+ {
   <i>Finsternis, Drangsal</i> vgl §jes-8-22.
  }
 #}
@@ -48004,7 +48008,13 @@
 @Jesaja 34 {
 #jes-34-4 {
  {
-  <i>Heer des Himmels</i>: <a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>.
+  <i>all ihr Heer fällt herab…</i> vgl §offb-6-14
+ }
+ {
+  <i>der Himmel zerschmilzt; und die Himmel werden zusammengerollt wie ein Buch</i> §+offb-6-14.
+ }
+ {
+  <i>Heer des Himmels</i>: §+1mo-2-1.
  }
  {
   Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel
@@ -48025,9 +48035,6 @@
        und dem Gleichnis in <a href='http://bibel.renenyffenegger.ch/mk_13.html#v28'>Mk&nbsp;13,28</a>.
    <br>Vgl auch mit <i>Philippus unter dem Feigenbaum</i> (<a href='http://bibel.renenyffenegger.ch/joh_1.html#v48'>Joh&nbsp;1,48</a>)
    <br>Vgl auc hmit <a class='kom' href='#Ioffb-6-13'>Offb&nbsp;6,13</a>.
- }
- {
-  TODO: Das erinnert an das 6. Siegel (<a class='kom' href='#Ioffb-6-14'>Offb&nbsp;6,14</a>).
  }
 #}
 #jes-34-5 {
@@ -53508,6 +53515,9 @@
  }
 #}
 #hes-32-7 {
+ {
+  <i>Die Sonne mit Gewölk bedecken</i> vgl §jes-5-30
+ }
  {
    Der Mond gibt seinen Schein nicht mehr oder verfinstert sich: <a href='http://bibel.renenyffenegger.ch/joe_2.html#v10'>Joe&nbsp;2,10</a>,
    <a href='http://bibel.renenyffenegger.ch/joe_4.html#v15'>Joe&nbsp;4,15</a>(?), <a href='http://bibel.renenyffenegger.ch/mt_24.html#v29'>Mt&nbsp;24,29</a>,
@@ -68585,7 +68595,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
-   Jesus verbirgt sich auch in <a class='kom' href='#Ijoh-12-36'>Joh&nbsp;12,36</a>.
+   <i>Jesus verbarg sich</i> §+joh-12-36.
  }
  {
    <span class='gt'>In NA fehlt «mitten durch sie hindurch, und entkam so.»</span>
@@ -69046,7 +69056,11 @@
   <i>Söhne des Lichts</i> vgl §+lk-16-8, §eph-5-8, §1thes-5-5
  }
  {
-  <i>verbarg sich vor ihnen.</i> §5mo-32-20
+  <i>verbarg sich vor ihnen.</i> vgl §joh-8-59, §5mo-32-20.
+ <br>
+  Jesus scheint tatsächlich bis §joh-18-3 verborgen zu bleiben.
+ <br>
+  Siehe auch Verse 44-45.
  }
  {
   TODO: §+joh-12-44-45.
@@ -69106,7 +69120,7 @@
   <i>Wer an mich glaubt</i>: <a class='kom' href='#Ijoh-6-35'>Joh&nbsp;6,35</a>.
  }
  {
-  TODO: Beachte: Jesus ruft dies wohl, weil er sich verborgen hatte (Vers 36)
+  Jesus ruft dies wohl, weil er sich verborgen hatte (Vers §Vjoh-12-36)
  }
 #}
 #joh-12-45 {
@@ -94496,16 +94510,20 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-6-14 {
  {
-   TODO: Gibt es einen Zusammenhang mit dem versiegelten Buch, das jetzt geöffnet wird, und dem Himmel, der entweicht
-   wie eine Buchrolle?
+  <i>Himmel entweicht wie ein Buch, das aufgerollt wird</i>, vgl §jes-34-4, §jes-51-6, §ps-102-26-27
+  <br>
+  Vgl mit
+    <br>§offb-20-11, wo der Himmel entflieht.
+    <br>§offb-16-20 (jede Insel entfloh [das griechische Verb ist aber ein anderes]).
+ }
+ {
+  <i>Jeder Berg und jede Insel wurden aus ihren Stellen gerückt</i> vgl §ri-5-5, §hi-9-5, §hi-14-18-19, §hi-28-9-11, §jes-41-5, §jes-14-15-16, §mt-21-21
+ }
+ {
+   Gibt es einen Zusammenhang mit dem versiegelten Buch, das jetzt geöffnet wird, und dem Himmel, der entweicht wie eine Buchrolle?
  }
  {
   TODO: Vgl <a class='kom' href='#Ijes-34-4'>Jes&nbsp;34,4</a>. Im nächsten Vers dort wird das Schwert auf Edom herabfahren.
- }
- {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/offb_20.html#v11'>Offb&nbsp;20,11</a>, wo der Himmel entflieht.
-  <br>TODO: vgl mit <a href='http://bibel.renenyffenegger.ch/offb_16.html#v20'>Offb&nbsp;16,20</a> (jede Insel entfloh [das griechische Verb
-  ist aber ein anderes]).
  }
 #}
 #offb-6-15 {
