@@ -12613,6 +12613,9 @@
   <br>
    Mose konnte aber in die Wolke hineingehen, als er den Berg bestieg (§2mo-24-18)
  }
+ {
+  <i>Wolke ruhte darauf</i>: im der → biblisches/Grundtext/LXX (fast?) diesselben Griechischen Worte wie in §mt-17-5, §mk-9-7, §lk-9-34.
+ }
 #}
 #2mo-40-38 {
  {
@@ -60325,6 +60328,12 @@
 #}
 #mt-17-5 {
  {
+  §mk-9-7, §lk-9-34
+ }
+ {
+  <i>überschattete sie … eine Wolke</i>: §+2mo-40-35
+ }
+ {
   TODO: Auf <i>ihn</i> sollt ihr hören, nicht auf Mose und Elia?
   <br>Vgl auch <a class='kom' href='#I5mo-18-15'>5.&nbsp;Mo&nbsp;18,15</a>. Auf den man hören soll, ist nicht nur der <i>Sohn Gottes</i>, sondern auch
    ein <i>Bruder der Israeliten</i>.
@@ -63053,6 +63062,11 @@
   <i>Rabbi</i>: <a class='kom' href='#Imt-26-25'>Mt&nbsp;26,25</a>, <a href='http://bibel.renenyffenegger.ch/mk_11.html#v21'>Mk&nbsp;11,21</a>.
  }
 #}
+#mk-9-7 {
+ {
+  §+mt-17-5
+ }
+#}
 #mk-9-9 {
  {
   TODO: Dieser Abschnitt fehlt in <a class='kom' href='#Ilk-9-37'>Lk&nbsp;9,37</a>.
@@ -64122,6 +64136,11 @@
  {
     TODO: <i>regieren</i> (<span class='gr'>βασιλεύω</span>, Strongs 936) wird in <a class='kom' href='#Ilk-19-14'>Lk&nbsp;19,14</a> mit «herrsche»,
     in <a href='http://bibel.renenyffenegger.ch/lk_19.html#v27'>Lk&nbsp;19,27</a> mit «König über ... werden» übersetzt.
+ }
+#}
+#lk-1-35 {
+ {
+  <i>überschatten</i>, Strongs 1982, ist im Griechischen dasselbe Wort wie in der → biblisches/Grundtext/LXX[Septuaginta] für «ruhen» in §2mo-40-35.
  }
 #}
 #lk-1-36 {
@@ -65322,6 +65341,11 @@
  {
   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/lk_18.html#v31'>Lk&nbsp;18,31</a> (Alles, was Propheten über den
   Sohn des Menschen geschrieben haben, wird erfüllt).
+ }
+#}
+#lk-9-34 {
+ {
+  §+mt-17-5
  }
 #}
 #lk-9-36 {
