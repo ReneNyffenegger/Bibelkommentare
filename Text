@@ -2707,13 +2707,7 @@
 @1. Mose 14 {
 #1mo-14-1 {
  {
-  <table summary='.'>
-    <tr><td><b>Amraphel    </b></td><td>Sinear </td><td>            </td><td><b>Bera   </b></td><td>Sodom       </td></tr>
-    <tr><td><b>Arioch      </b></td><td>Ellasar</td><td>            </td><td><b>Birsa  </b></td><td>Gomorra     </td></tr>
-    <tr><td><b>Kedor-Laomer</b></td><td>Elam   </td><td><i>gegen</i></td><td><b>Sinab  </b></td><td>Adama       </td></tr>
-    <tr><td><b>Tideal      </b></td><td>Gojim  </td><td>            </td><td><b>Semeber</b></td><td>Zeboim      </td></tr>
-    <tr><td>                   </td><td>       </td><td>            </td><td>?             </td><td>Bela (=Zoar)</td></tr>
-  </table>
+  → biblisches/Bücher/Mose/1/Kapitel-14/Vier-Könige-gegen-fünf
  }
  {
   <i>Gojim</i>: vgl <a class='kom' href='#I1mo-10-5'>1.&nbsp;Mo&nbsp;10,5</a> und
@@ -17712,6 +17706,11 @@
    Vgl auch <a class='kom' href='#Iri-11-13'>Ri&nbsp;11,13</a>.
  }
 #}
+#4mo-21-25 {
+ {
+  Mit der Einnahme diser Städte Hesbon beginnt wohl die → biblisches/Chronologie/300-jährige-Wohnzeit-in-Hesbon, die in §ri-11-26 erwähnt wird.
+ }
+#}
 #4mo-21-29 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#kemosch
@@ -24782,6 +24781,9 @@
 #}
 #ri-11-26 {
  {
+  Diese → biblisches/Chronologie/300-jährige-Wohnzeit-in-Hesbon beginnt wohl in §4mo-21-25
+ }
+ {
   → biblisches/Orte/Aroer
  }
 #}
@@ -31344,6 +31346,9 @@
 #2koe-18-1 {
  {
   §2chr-29-1
+ }
+ {
+   Auch Amazja regierte 29 Jahre und war 25 Jahre alt, als er König wurde, §2koe-14-2
  }
  {
   Die Männer Hiskias haben einige Sprüche Salomos zusammengetragen: <a href='http://bibel.renenyffenegger.ch/spr_25.html#v1'>Spr&nbsp;25,1</a>.
@@ -41782,6 +41787,11 @@
 #ps-78-45 {
  {
   <i>Frösche</i>: §2mo-7-27-ff, §ps-105-30
+ }
+#}
+#ps-78-47 {
+ {
+  Eine <i>Schloße</i> (חֲנָמָל, Strongs 2602) ist ein ist ein Hagelkorn. LXX übersetzt mit Hagel, KJV mit Frost, Elberfelder mit Wasserflut.
  }
 #}
 #ps-78-51 {
@@ -52542,9 +52552,9 @@
   <i>Tel-Abib</i> = 'Hügel der Ähren' (<a class='kom' href='#I2mo-9-31'>2.&nbsp;Mo&nbsp;9,31</a>).
  }
  {
-  TODO: Dies geschieht wohl kurz nach dem 5. Tag des 4. Monats der 5. Jahres (der Wegführung) (<a href='http://bibel.renenyffenegger.ch/hes_1.html#v1'>Hes 1,1-2</a>).
+  Dies geschieht wohl kurz nach dem 5. Tag des 4. Monats der 5. Jahres (der Wegführung) (<a href='http://bibel.renenyffenegger.ch/hes_1.html#v1'>Hes 1,1-2</a>).
   Hesekiel setzt sich sieben Tage hier, dann liegt er 390 und 40 Tage (<a href='http://bibel.renenyffenegger.ch/hes_4.html#v5'>Hes 4,5-6</a>) und dann ist der
-  5. Tag des 6. Monats des 6. Jahres (<a href='http://bibel.renenyffenegger.ch/hes_8.html#v1'>Hes&nbsp;8,1</a>). Man müsste also davon ausgehen, dass hier ein
+  5. Tag des 6. Monats des 6. Jahres (§hes-8-1). Man müsste also davon ausgehen, dass hier ein
   Schaltmonat ist (437 Tage sind ca 14 1/2 Monate).
  }
 #}
@@ -52578,7 +52588,10 @@
 #}
 #hes-4-5 {
  {
-  <a class='kom' href='#Ihes-3-15'>Hes&nbsp;3,15</a>.
+  §+hes-3-15.
+ }
+ {
+  390 Jahre, vgl → biblisches/Personen/Könige/Juda#gertoux-390-jahre
  }
 #}
 #hes-4-11 {
@@ -70938,7 +70951,9 @@
 #}
 #apg-3-24 {
  {
-  TODO: <i>diese Tage</i> sind wohl die Tage Jesu auf Erden, nicht die Tage der Apostel.
+  <i>diese Tage</i> sind wohl die Tage Jesu auf Erden, nicht die Tage der Apostel.
+ <br>
+  Vgl §hebr-1-1-2 
  }
  {
   → biblisches/Personen/Samuel#der-prophet-samuel, vgl §apg-13-20.
@@ -88489,8 +88504,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Hebräer 1 {
 #hebr-1-1 {
  {
+  Vgl §+apg-3-24
+ }
+ {
    Jeder Brief von Paulus beginnt mit «Paulus», dieser nicht. Möglicherweise ein Zeichen, dass er nicht von Paulus ist.
-   Vgl auch <a class='kom' href='#Ihebr-2-3'>Hebr&nbsp;2,3</a>, <a href='http://bibel.renenyffenegger.ch/2thes_3.html#v17'>2.&nbsp;Thes&nbsp;3,17</a>.
+   Vgl auch §+hebr-2-3, §2thes-3-17.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
