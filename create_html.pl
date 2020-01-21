@@ -107,7 +107,7 @@ unless ($skip_bible) { # {{{
   <head>
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Kommentare zur Bibel</title>
+    <title>Notizen zur Bibel</title>
   </head>
   <body>';
   
@@ -562,7 +562,7 @@ sub write_html_header { # {{{
 <!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN' 'http://www.w3.org/TR/html4/loose.dtd'> 
 <html>
 <head><!--{-->
-  <title>Kommentare zur Bibel: $title</title>
+  <title>Notizen zur Bibel: $title</title>
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="BibelKommentare.css"/>
