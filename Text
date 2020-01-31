@@ -57353,7 +57353,8 @@
 #}
 #sach-9-9 {
  {
-  §mt-21-4-5, §joh-12-15
+  Erfüllt in §mt-21-4-5, teilweise zitiert in §joh-12-15 (siehe
+  → biblisches/Bücher/Evangelien/Abschnitte/Jesu-zwei-Einzüge-in-Jerusalem)
  }
  {
   <i>Siehe</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/König-Knecht-Mann-Gott
@@ -60698,10 +60699,15 @@
 @Matthäus 21 {
 #mt-21-1 {
  {
-  TODO: Wäre <i>Ölberg</i> besser mit 'Olivenberg' übersetzt worden?
+  → biblisches/Bücher/Evangelien/Abschnitte/Jesu-zwei-Einzüge-in-Jerusalem
  }
  {
-  <i>Zwei Jünger</i>: <a class='kom' href='#Imt-11-2'>Mt&nbsp;11,2</a>.
+  <i>Zwei Jünger von Bethphage aussenden</i> §mk-11-1-ff, §lk-19-29-ff
+  <br>
+  Vgl §+mt-11-2, §mk-14-13
+ }
+ {
+  TODO: Wäre <i>Ölberg</i> besser mit 'Olivenberg' übersetzt worden?
  }
 #}
 #mt-21-5 {
@@ -61577,6 +61583,9 @@
  }
 #}
 #mt-26-17 {
+ {
+  <i>Tag der Ungesäuerten</i> §mk-14-12, §lk-22-7
+ }
  {
   <i>Wo willst du</i>: Die Jünger handelten nach der Aufforderung aus <a class='kom' href='#I5mo-16-6'>5.&nbsp;Mo&nbsp;16,6</a> und fragten den
   HERRN, welchen Ort er erwählte.
@@ -63304,7 +63313,10 @@
 @Markus 11 {
 #mk-11-1 {
  {
-  Zwei Jünger senden vgl §mt-11-2
+  → biblisches/Bücher/Evangelien/Abschnitte/Jesu-zwei-Einzüge-in-Jerusalem
+ }
+ {
+  <i>Zwei Jünger aus Bethphage aussenden</i> §+mt-21-1-ff, §lk-19-29-ff
  }
  {
   <br>TODO: Sind diese <i>zwei Jünger</i> Jakobus und Johannes (<a href='http://bibel.renenyffenegger.ch/mk_10.html#v35'>Mk&nbsp;10,35</a>)?
@@ -63636,7 +63648,10 @@
 #}
 #mk-14-12 {
  {
-  <i>Wo willst du</i>: vgl <a class='kom' href='#Imt-26-17'>Mt&nbsp;26,17</a>.
+  <i>Tag der Ungesäuerten</i> §mt-26-17, §lk-22-7
+ }
+ {
+  <i>Wo willst du</i>: vgl §+mt-26-17.
  }
 #}
 #mk-14-13 {
@@ -66381,7 +66396,10 @@
 #}
 #lk-19-29 {
  {
-  <i>Zwei Jünger</i>: <a class='kom' href='#Imt-11-2'>Mt&nbsp;11,2</a>.
+  → biblisches/Bücher/Evangelien/Abschnitte/Jesu-zwei-Einzüge-in-Jerusalem
+ }
+ {
+  <i>Zwei Jünger aus Bethphage aussenden</i> §+mt-21-1-ff, §mk-11-1
  }
 #}
 #lk-19-30 {
@@ -66627,6 +66645,11 @@
 #lk-22-3 {
  {
   <i>Beinamen/Übernamen im Neuen Testament</i>: <a class='kom' href='#Imt-10-3'>Mt&nbsp;10,3</a>.
+ }
+#}
+#lk-22-7 {
+ {
+  <i>Tag der Ungesäuerten</i> §mt-26-17, §mk-14-12
  }
 #}
 #lk-22-8 {
@@ -69029,6 +69052,9 @@
  }
 #}
 #joh-12-15 {
+ {
+  → biblisches/Bücher/Evangelien/Abschnitte/Jesu-zwei-Einzüge-in-Jerusalem
+ }
  {
   §+sach-9-9, §mt-21-5
  }
