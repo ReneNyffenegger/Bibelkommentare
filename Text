@@ -14400,6 +14400,10 @@
  {
   <i>Mit zweierlei Samen besäen</i> §5mo-22-9.
  }
+ {
+  Obwohl das Vieh von zweierlei Art sich nicht begatten lassen durfte, gab es doch einige Male Maultiere:
+  §2sam-13-29, §2sam-18-9, §1koe-1-33, §1koe-10-25, §1koe-18-5, §esr-2-66
+ }
 #}
 #3mo-19-20 {
  {
@@ -14616,9 +14620,8 @@
 #3mo-20-27 {
  {
   <i>Wahrsagergeist</i> vgl §3mo-19-26, §5mo-18-10-11, §+1sam-28-3.
- }
- {
-  <i>Wahrsagergeist</i>: <a href='http://bibel.renenyffenegger.ch/apg_16.html#v16'>Apg&nbsp;16,16</a>.
+  <br>
+  §apg-16-16.
  }
 #}
 @}
@@ -28049,7 +28052,7 @@
 #}
 #2sam-13-29 {
  {
-   TODO <i>Maultier</i> (<span class='hebr'>פֶּרֶד</span>, Strongs 6504): haben Juden Tiere gekreuzt?
+   <i>Maultier</i> (<span class='hebr'>פֶּרֶד</span>, Strongs 6504): haben Juden Tiere gekreuzt? Vgl §+3mo-19-19.
  }
 #}
 #2sam-13-33 {
@@ -28246,6 +28249,11 @@
 #}
 @}
 @2. Samuel 18 {
+#2sam-18-9 {
+ {
+  <i>Maultier</i> §+3mo-19-19
+ }
+#}
 #2sam-18-14 {
  {
   TODO: Offenbar enthält dieser Vers Strongs 7626, siehe <a class='kom' href='#I1mo-49-10'>1.&nbsp;Mo&nbsp;49,10</a>.
@@ -28699,8 +28707,11 @@
 #}
 #1koe-1-33 {
  {
-  Gihon (<span class='hebr'>גיחון</span>): dasselbe Wort wie in <a href='http://bibel.renenyffenegger.ch/1mo_2.html#v13'>1.&nbsp;Mo&nbsp;2,13</a>. Dort umfliesst
-  er das Land Kusch.
+  <i>Mauleselin</i> §+3mo-19-19
+ }
+ {
+  Gihon (<span class='hebr'>גיחון</span>): dasselbe Wort wie in §1mo-2-13.
+  Dort umfliesst er das Land Kusch.
  }
 #}
 #1koe-1-34 {
@@ -29582,6 +29593,11 @@
   <a href='http://bibel.renenyffenegger.ch/2chr_9.html#v21'>2.&nbsp;Chr&nbsp;9,21</a> vor.
  }
 #}
+#1koe-10-25 {
+ {
+  <i>Maultier</i> §+3mo-19-19
+ }
+#}
 @}
 @1. Könige 11 {
 #1koe-11-1 {
@@ -30200,6 +30216,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
+ }
+#}
+#1koe-18-5 {
+ {
+  <i>Maultier</i> §+3mo-19-19
  }
 #}
 #1koe-18-29 {
@@ -36535,6 +36556,11 @@
  }
  {
   Die Quersumme von 42360+7337+200 ist → biblisches/Grundtext/Zahlen#n37.
+ }
+#}
+#esr-2-66 {
+ {
+  <i>Maultier</i> §+3mo-19-19
  }
 #}
 #esr-2-69 {
@@ -73738,7 +73764,7 @@
 #}
 #apg-16-16 {
  {
-  Wahrsagergeist: <a href='http://bibel.renenyffenegger.ch/3mo_20.html#v27'>3.&nbsp;Mo&nbsp;20,27</a>.
+  Wahrsagergeist: §3mo-20-27.
  }
  {
    TODO: 'Wahrsagergeist' Strongs 4151+4436. 4436 scheint nur hier vorzukommen.
