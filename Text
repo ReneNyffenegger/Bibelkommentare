@@ -14749,10 +14749,13 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Mietling In Elb05 und Sch2K mit «Tagelöhnern» übersetzt.
  }
  {
-  §+2mo-12-45
+  §+2mo-12-45, §5mo-14-21
  }
 #}
 #3mo-22-12 {
+ {
+  vgl §1kor-9-13
+ }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer
  }
@@ -14900,6 +14903,11 @@
   TODO: Vgl <a class='kom' href='#Imt-28-1'>Mt&nbsp;28,1</a>.
  }
 #}
+#3mo-23-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer
+ }
+#}
 #3mo-23-18 {
  {
   <i>Ein Jungstier und zwei Widder</i>: siehe §2mo-29-1-ff.
@@ -14924,6 +14932,11 @@
  }
  {
   <b>1.7: Gedenken unter Hörnerschall</b> <span class='hebr'>זִכְר֥וֹן תְּרוּעָ֖ה</span> (2146 8643).
+ }
+#}
+#3mo-23-25 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Feueropfer
  }
 #}
 #3mo-23-27 {
@@ -20426,6 +20439,9 @@
 #5mo-14-21 {
  {
  <i>Ihr sollt kein Aas essen</i> vgl §+3mo-22-8, §3mo-5-2
+ }
+ {
+  <i>dem Fremdling … magst du es geben</i> vgl §3mo-22-10
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/heilig
@@ -29307,6 +29323,9 @@
 #}
 #1koe-7-51 {
  {
+  <i>die geheiligten Dinge seines Vaters Davind hineinbringen</i> §1koe-15-15, §2koe-12-5, §2chr-5-1, §2chr-15-18, §2chr-24-7
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Schatz#schaetze-des-hauses-des-herrn
  }
 #}
@@ -30014,6 +30033,11 @@
  {
   TODO: Warum wird hier gesagt, dass das Herz <i>sein Leben lang</i> ungeteilt mit dem HERRN war. Der Seher Hanani sagt etwas anderes
          (<a href='http://bibel.renenyffenegger.ch/2chr_16.html#v7'>2.&nbsp;Chr&nbsp;16,7</a>).
+ }
+#}
+#1koe-15-15 {
+ {
+  §+1koe-7-51
  }
 #}
 #1koe-15-17 {
@@ -30898,6 +30922,11 @@
 #2koe-12-1 {
  {
   Joas geboren, als Jehu König wurde.
+ }
+#}
+#2koe-12-5 {
+ {
+  §+1koe-7-51
  }
 #}
 #2koe-12-7 {
@@ -79650,6 +79679,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
+  Vgl §3mo-22-12
  }
 #}
 #1kor-9-14 {
