@@ -15455,6 +15455,11 @@
   <i>5 Schekel</i> pro Person: siehe §+4mo-3-47 und §4mo-18-16.
  }
 #}
+#3mo-27-10 {
+ {
+  <i>nicht vertauschen</i> vgl §V3mo-27-33
+ }
+#}
 #3mo-27-13 {
  {
   <i>ein Fünftel hinzufügen</i> §3mo-5-16, §3mo-22-14, §3mo-27-13, §4mo-5-7
@@ -15473,7 +15478,9 @@
   <i>verbannt</i>: <span class='hebr'>חֵרֶם</span> (Strongs 2764). Gemäss <a href="https://www.studylight.org/commentaries/acc/leviticus-27.html">Adam Clarke</a>
   bezeichnet dieser Ausdruck «a thing so devoted to God as never more to be capable of being redeemed».
   <br>
-    Siehe auch Strongs 2763 in <a class='kom' href='#I2mo-22-19'>2.&nbsp;Mo&nbsp;22,19</a>.
+   Vgl §V3mo-27-28
+  <br>
+    Siehe auch Strongs 2763 in §+2mo-22-19.
  }
 #}
 #3mo-27-25 {
@@ -15520,6 +15527,11 @@
 #3mo-27-32 {
  {
   TODO: Offenbar enthält dieser Vers Strongs 7626, siehe <a class='kom' href='#I1mo-49-10'>1.&nbsp;Mo&nbsp;49,10</a>.
+ }
+#}
+#3mo-27-33 {
+ {
+  <i>vertauschen</i> vgl §V3mo-27-10
  }
 #}
 #3mo-27-34 {
@@ -15702,7 +15714,7 @@
 #}
 #4mo-1-40 {
  {
-  §4mo-2-2-27-28
+  §4mo-2-27-28
  }
 #}
 #4mo-1-42 {
@@ -17922,7 +17934,7 @@
 #}
 #4mo-24-2 {
  {
-  Er sah, wie sich Israel in Kreuzform lagerte (beschrieben in <a href='http://bibel.renenyffenegger.ch/4mo_1.html#v52'>4.&nbsp;Mo&nbsp;1,52</a> ff).
+  Er sah, wie sich Israel in Kreuzform lagerte (beschrieben in §4mo-1-52-ff).
  }
 #}
 #4mo-24-3 {
@@ -70559,9 +70571,9 @@
   <i>Pfingsten</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Wochen
  }
  {
-   Beachte die dreifache Variation des Verbes <i>erfüllen</i> im Grundtxt(<i>συμπληροῦσθαι</i> hier, <i>ἐπλήρωσεν</i> in §Vapg-2-2 und <i>ἐπλήσθησαν</i> in §Vapg-2-4).
+   Beachte die dreifache Variation des Verbes <i>erfüllen</i> im Grundtxt (<i>συμπληροῦσθαι</i> hier, <i>ἐπλήρωσεν</i> in §Vapg-2-2 und <i>ἐπλήσθησαν</i> in §Vapg-2-4).
  }
-}
+#}
 #apg-2-3 {
  {
   <i>zerteilte Zungen</i> §ps-55-10
