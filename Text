@@ -21111,6 +21111,9 @@
  {
   <i>In den Werken der Händen gesegnet werden</i>: vgl <a class='kom' href='#I5mo-2-7'>5.&nbsp;Mo&nbsp;2,7</a>.
  }
+ {
+  <i>Schatz, der Himmel</i> vgl §+mt-19-21
+ }
 #}
 #5mo-28-22 {
  {
@@ -58672,8 +58675,7 @@
 #}
 #mt-6-19 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/lk_12.html#v33'>Lk&nbsp;12,33</a> und <a href='http://bibel.renenyffenegger.ch/jak_5.html#v2'>Jak&nbsp;5,2</a>.
-  <br>TODO KJV übersetzt <i>fressen</i> mit 'corrupt'.
+  Vgl §lk-12-33 und §jak-5-1-3
  }
 #}
 #mt-6-25 {
@@ -60651,7 +60653,10 @@
 #}
 #mt-19-21 {
  {
-  <i>alles verkaufen</i> Vgl §mk-10-21, §lk-18-22, §apg-2-45, §apg-4-34, §apg-5-2-ff
+  <i>alles verkaufen</i> vgl §mk-10-21, §lk-12-33, §lk-18-22, §apg-2-45, §apg-4-34, §apg-5-2-ff
+ }
+ {
+  <i>Schatz im Himmel</i> vgl §+mt-6-19, §5mo-28-12
  }
  {
   <i>Wenn du → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen sein willst</i> §mt-5-48
@@ -65839,7 +65844,7 @@
 #}
 #lk-12-33 {
  {
-  vgl <a class='kom' href='#Imt-6-19'>Mt&nbsp;6,19</a>.
+  vgl §+mt-6-19.
  }
 #}
 #lk-12-35 {
@@ -68135,6 +68140,11 @@
   <i>Er wird ihm grössere Werke zeigen</i> vgl §joh-10-32, → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werke Gottes]
  }
 #}
+#joh-5-21 {
+ {
+  <i>lebendig machen</i> vgl §joh-6-63, §roem-4-17, §roem-8-11, §1kor-15-22, §1kor-15-36, §2kor-3-6, §gal-3-21, §1tim-6-13
+ }
+#}
 #joh-5-22 {
  {
   Der Vater richtet niemand (hier), Jesus kann nicht von sich selbst aus richten (<a href='http://bibel.renenyffenegger.ch/joh_5.html#v30'>Vers 30</a>, Jesus richtet
@@ -68389,6 +68399,8 @@
 #}
 #joh-6-63 {
  {
+  <i>lebendig machen</i> §+joh-5-21
+  <br>
   <i>Geist, der lebendig macht</i>: §+offb-11-11
  }
 #}
@@ -71289,8 +71301,7 @@
 #}
 #apg-5-5 {
  {
-  TODO: Ist Ananias und seine Frau gestorben, weil sie die Einmütigkeit (Ein Herz und eine Seele, <a href='http://bibel.renenyffenegger.ch/apg_4.html#v32'>Apg&nbsp;4,32</a>)
-  aufs Spiel gesetzt hatten?
+  Sind Ananias und seine Frau gestorben, weil sie die Einmütigkeit (Ein Herz und eine Seele, §apg-4-32) aufs Spiel gesetzt hatten? Vgl auch §Vapg-5-12.
  }
 #}
 #apg-5-12 {
@@ -76645,6 +76656,9 @@
 #}
 #roem-4-17 {
  {
+  <i>lebendig machen</i> §+joh-5-21
+ }
+ {
   <i>welchem er glaubte, der die Toten lebendig macht</i> vgl §hebr-11-19
  }
  {
@@ -77042,6 +77056,9 @@
  }
  {
   <i>der Geist dessen, der Jesus aus den Toten auferweckt</i> vgl §roem-6-4, §1petr-3-19
+ }
+ {
+  <i>lebendig machen</i> §+joh-5-21
  }
 #}
 #roem-8-12 {
@@ -80564,6 +80581,11 @@
   Vgl <a class='kom' href='#Iroem-5-16'>Röm&nbsp;5,16</a>.
  }
 #}
+#1kor-15-22 {
+ {
+  <i>lebendig machen</i> §+joh-5-21, §V1kor-15-36
+ }
+#}
 #1kor-15-23 {
  {
   <i>bei seinem Kommen</i>: <a class='kom' href='#I1kor-4-5'>1.&nbsp;Kor&nbsp;4,5</a>.
@@ -80634,6 +80656,11 @@
 #1kor-15-33 {
  {
   <i>Lasst euch nicht irreführen</i>: <a class='kom' href='#I1kor-6-9'>1.&nbsp;Kor&nbsp;6,9</a>.
+ }
+#}
+#1kor-15-36 {
+ {
+  <i>lebendig werden</i> §+joh-5-21, §V1kor-15-22
  }
 #}
 #1kor-15-37 {
@@ -81137,6 +81164,8 @@
   <i>nicht des Buchstabens, sondern des Geistes</i> vgl §roem-2-29, §roem-7-6
  }
  {
+  <i>lebendig machen</i> §+joh-5-21
+  <br>
   <i>Geist macht lebendig</i>: §+offb-11-11
  }
 #}
@@ -82396,6 +82425,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #gal-3-21 {
+ {
+  <i>lebendig machen</i> §+joh-5-21
+ }
  {
    Vgl §+3mo-18-5 (Der Mensch wird durchs beobachten des Gesetzes leben).
  }
@@ -87094,7 +87126,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Lebendiger Gott</i>: §+1tim-3-15.
  }
  {
-  <i>Erhalter aller Menschen</i>: §1tim-6-13
+  <i>Heiland</i>: Elberfelder übersetzt mit «Erhalter»
  }
 #}
 #1tim-4-11 {
@@ -87373,7 +87405,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Vor Gott gebieten</i>: <a class='kom' href='#I1tim-5-21'>1.&nbsp;Tim&nbsp;5,21</a>.
  }
  {
-  <i>der alles am Leben erhält</i>: §1tim-4-10
+  <i>lebendig machen</i> §+joh-5-21
  }
  {
   Pilatus: <a class='kom' href='#Imt-27-2'>Mt&nbsp;27,2</a>.
@@ -88142,19 +88174,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #tit-1-3 {
  {
-  <i>Retter</i> kommt im Titusbrief sechs Mal vor:  Tit 1,3, Tit 1,4, <a href='http://bibel.renenyffenegger.ch/tit_2.html#v10'>Tit&nbsp;2,10</a>,
-  <a href='http://bibel.renenyffenegger.ch/tit_2.html#v13'>Tit&nbsp;2,13</a>, <a href='http://bibel.renenyffenegger.ch/tit_3.html#v4'>Tit&nbsp;3,4</a> und
-  <a href='http://bibel.renenyffenegger.ch/tit_3.html#v6'>Tit&nbsp;3,6</a>.
+  <i>Retter</i> kommt im Titusbrief sechs Mal vor:  §Vtit-1-3, §Vtit-1-4, §tit-2-10, §tit-2-13, §tit-3-4 und §tit-3-6.
  }
  {
   <i>Befehl Gottes, unseres Retters</i>: <a class='kom' href='#I1tim-1-1'>1.&nbsp;Tim&nbsp;1,1</a>.
- }
- {
-  <i>Retter</i> (<span class='gr'>σωτήρ</span>, Strongs 4990) im Titusbrief: Vers 4,
-  <a href='http://bibel.renenyffenegger.ch/tit_2.html#v10'>Tit&nbsp;2,10</a>,
-  <a href='http://bibel.renenyffenegger.ch/tit_2.html#v13'>Tit&nbsp;2,13</a>,
-  <a href='http://bibel.renenyffenegger.ch/tit_3.html#v4'>Tit&nbsp;3,4</a> und
-  <a href='http://bibel.renenyffenegger.ch/tit_3.html#v6'>Tit&nbsp;3,6</a>
  }
 #}
 #tit-1-4 {
@@ -91099,7 +91122,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-5-9 {
  {
-  <i>Der Richter steht vor den Türen</i>: §+mt-24-33.
+  <i>Der Richter steht vor den Türen</i>: Elberfelder und Schlachter 2000 übersetzen das im Grundtext im Plural stehende Wort mit «Tür», vgl §+mt-24-33.
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/jak_4.html#v11'>Jak&nbsp;4,11</a>.
@@ -93474,6 +93497,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
+ }
+ {
+  <span class='gt'>NA ohne <i>dem allein weisen Gott</i>, dafür mit <i>durch Jesus Christus</i></span>.
  }
 #}
 @}
