@@ -498,8 +498,13 @@ open (my $interlinear        , '<:unix:encoding(UTF-8)', "$ENV{github_root}Bibel
 
 
 
-print $index_bible '</body>
-</html>';
+print $index_bible "</body>
+</html>
+<?php
+require_once('/home/httpd/vhosts/renenyffenegger.ch/php/web-request-database.php');
+insert_webrequest();
+?>
+";
 
 RN::close_($index_bible);
 # }}}
@@ -704,6 +709,10 @@ print $out_bible <<E
 </div> <!-- kap-tab -->
 </body>
 </html>
+<?php
+require_once('/home/httpd/vhosts/renenyffenegger.ch/php/web-request-database.php');
+insert_webrequest();
+?>
 E
 
 } # }}}
