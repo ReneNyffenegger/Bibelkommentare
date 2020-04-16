@@ -4982,6 +4982,8 @@
 #1mo-29-35 {
  {
   <i>Juda</i>: <span class='hebr'>יְהוּדָ֑ה</span> (Strongs 3063), vgl <i>preisen</i> <span class='hebr'>אוֹדֶ֣ה</span> (Strongs 3034). Siehe auch §1mo-49-8, §roem-2-29
+  <br>
+  Juda wird in → biblisches/Bücher/Evangelien/Matthäus[Matthäus'] Stammbaum des Herrn <i>mit</i>, seine Brüder <i>ohne</i> Namen erwähnt: §mt-1-2
  }
 #}
 @}
@@ -25604,6 +25606,8 @@
 #rt-4-18 {
  {
   → biblisches/Personen/Perez/Judas-Sohn#zehn-geschlechter-von-perez
+ <br>
+  → biblisches/Personen/Perez/Judas-Sohn[Perez] bis → biblisches/Personen/David: §mt-1-3-ff
  }
  {
   <i>Geschlechter</i>: Toledot (תֹלְדֹותָ)
@@ -57758,9 +57762,23 @@
   Die → biblisches/Bücher/Evangelien beginnen mit <span class='gr'>Βίβλος</span> und enden mit <span class='gr'>βιβλία ἀμήν</span> §joh-21-25.
  }
 #}
+#mt-1-2 {
+ {
+  → biblisches/Bücher/Evangelien/Matthäus/Kapitel-01#mt-genealogie[Genealogie Christi von Matthäus]
+ }
+ {
+  In den Versen 2 bis 17 wird der Stammbaum von Jesus Christus als Sohn → biblisches/Personen/Abraham[Abrahams] und → biblisches/Personen/David[Davids] beschrieben, in den Versen §mt-1-18-ff seine Herkunft als vom Heiligen Geist gezeugt (§mt-1-20).
+ }
+ {
+  Nachdem Lea <i>Juda</i> geboren hatte, hörte sie vorerst auf, zu gebären (§1mo-29-35), gebar dann aber später noch Issaschar und Sebulon (§1mo-30-17-ff).
+ }
+ {
+  <i>und seine Brüder</i> vgl §Vmt-1-11. In §mt-12-48 nennt der Herr seine Jünger «seine Brüder».
+ }
+#}
 #mt-1-3 {
  {
-  → biblisches/Personen/Perez/Judas-Sohn[Perez]
+  → biblisches/Personen/Perez/Judas-Sohn[Perez] bis → biblisches/Personen/David: §rt-4-18-ff (Vgl → biblisches/Personen/Perez/Judas-Sohn#zehn-geschlechter-von-perez)
  }
  {
   TODO: Dieser Aram ist wohl nur wegen dem → biblisches/Bücher/Evangelien/Matthäus[Matthäusevangelium] bekannt.
@@ -59807,6 +59825,9 @@
 #mt-12-48 {
  {
   <i>Wer ist Meine Mutter…</i> vgl §+mk-3-21
+ }
+ {
+  <i>meine Brüder</i> vgl §+mt-1-2
  }
 #}
 #mt-12-50 {
@@ -64267,7 +64288,7 @@
 #}
 #lk-1-27 {
  {
-  <i>Joseph</i>: <a class='kom' href='#Imt-1-16'>Mt&nbsp;1,16</a>.
+  <i>Joseph</i>: §+mt-1-16.
  }
 #}
 #lk-1-28 {
