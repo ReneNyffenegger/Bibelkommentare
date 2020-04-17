@@ -18341,6 +18341,11 @@
   In <span class='hebr'>מִשְׁפָּטָ֖ן</span> (Strongs 4941) ist das Nun vergrössert, siehe <a href='#typo_details'>Typografische Details im Alten Testament</a>.
  }
 #}
+#4mo-27-8 {
+ {
+  Vgl §+1chr-3-16
+ }
+#}
 #4mo-27-13 {
  {
   TODO: Vgl <a class='kom' href='#I4mo-20-24'>4.&nbsp;Mo&nbsp;20,24</a>, <a href='http://bibel.renenyffenegger.ch/4mo_20.html#v8'>4.&nbsp;Mo&nbsp;20,8-10</a>.
@@ -32684,6 +32689,10 @@
 #1chr-3-16 {
  {
    → biblisches/Personen/Jekonja-Jojakin
+ }
+ {
+  Einige Ausleger gehen davon aus, dass es sich bei <i>Zedekia</i> nicht um den biologischen Sohn von Jojakim oder Jekonja handelt, sondern um die Thronfolge
+  (vgl → biblisches/Personen/Josia#josia-thronfolge[Josias Thronfolge]). Dieser Gedanke wird eventuell durch §4mo-27-8-10 gestützt.
  }
 #}
 #1chr-3-17 {
@@ -50605,7 +50614,10 @@
 #}
 #jer-22-24 {
  {
-  Vgl mit → biblisches/Personen/Serubbabel/index (der ein Nachkomme von → biblisches/Personen/Jekonja-Jojakin[Jekonja] zu sein scheint), den der HERR zum Siegelring machen will (§hag2-23).
+  Konja ist ein anderer name für → biblisches/Personen/Jekonja-Jojakin[Jekonja (Jojakin)]
+ }
+ {
+  Vgl mit → biblisches/Personen/Serubbabel (der ein Nachkomme von → biblisches/Personen/Jekonja-Jojakin[Jekonja] zu sein scheint), den der HERR zum Siegelring machen will (§hag-2-23).
  }
 #}
 @}
