@@ -32076,10 +32076,10 @@
 #}
 #2koe-23-30 {
  {
-  TODO: siehe <i>Salbungen von Königen</i> <a class='kom' href='#I1sam-15-1'>1.&nbsp;Sam&nbsp;15,1</a>.
+  → biblisches/Personen/Schallum-Joahas[Joahas]: in §1chr-3-15 «Schallum» genannt.
  }
  {
-  Ein anderere Name für <i>Schallum</i> scheint <i>Joahas</i> zu sein: §1chr-3-15.
+  TODO: siehe <i>Salbungen von Königen</i> <a class='kom' href='#I1sam-15-1'>1.&nbsp;Sam&nbsp;15,1</a>.
  }
 #}
 #2koe-23-31 {
@@ -32665,7 +32665,7 @@
 #}
 #1chr-3-15 {
  {
-  Beachte: der erstgeborene Sohn von Josia wurde nicht König, wohl aber seine drei anderen Söhne (→ biblisches/Personen/Josia#josia-thronfolge[Josias Stammbaum und Thronfolge], §mt-1-11)
+  <i>Jochanan</i>, Josias erstgeborener Sohn, bestieg Davids Thron nicht, wohl aber seine drei anderen Söhne (→ biblisches/Personen/Josia#josia-thronfolge[Josias Stammbaum und Thronfolge], §mt-1-11)
  }
  {
   → biblisches/Personen/Schallum-Joahas[Schallum] wird an anderen Orten auch <i>Joahas</i> genannt. Dieser wurde nach Josia König (§2koe-23-30, §jer-22-11).
@@ -32675,11 +32675,6 @@
   → biblisches/Personen/Schallum-Joahas,
   → biblisches/Personen/Eljakim-Jojakim,
   → biblisches/Personen/Mattanja-Zedekia
- }
- {
-  Frage: Warum werden bei <i>Josia</i> im Gegensatz zu den meisten andern Juda-Königen vier Nachkommen aufgezählt?
-  <br>TODO: Es scheint als ob drei Nachkommen Josias Könige wurden (<a href='http://bibel.renenyffenegger.ch/2chr_36.html#v4'>2.&nbsp;Chr&nbsp;36,4</a>,
-  <a href='http://bibel.renenyffenegger.ch/jer_1.html#v3'>Jer&nbsp;1,3</a>)
  }
  {
   Der <i>Zedekia</i> des 15. Verses ist wohl der König nach Jechonja/Jojachin (Vers 16), nicht der Zedekia des 16. Verses, denn Zedekia, der König, war Jojachins Onkel
@@ -32693,11 +32688,16 @@
  {
   Einige Ausleger gehen davon aus, dass es sich bei <i>Zedekia</i> nicht um den biologischen Sohn von Jojakim oder Jekonja handelt, sondern um die Thronfolge
   (vgl → biblisches/Personen/Josia#josia-thronfolge[Josias Thronfolge]). Dieser Gedanke wird eventuell durch §4mo-27-8-10 gestützt.
+ <br>
+  Andere Ausleger glauben, dass dieser Zedekia tatsächlich der biologische Sohn ist und an keiner anderen Stelle mehr erwähnt wird.
  }
 #}
 #1chr-3-17 {
  {
   → biblisches/Personen/Schealtiel
+ }
+ {
+  <i>Assir</i> (<span class='hebr'>אַסִּיר</span>, Strongs 617) bedeutet «Gefangener». Die Zeit der hier genannten Personen fällt auf die Wegführung (Gefangenschaft) in Babel.
  }
  {
   <a class='kom' href='#I2koe-24-7'>2.&nbsp;Kö&nbsp;24,7</a>.
@@ -57820,17 +57820,21 @@
 #}
 #mt-1-11 {
  {
-  Ein Sohn von → biblisches/Personen/Josia war Eljakim [Jojakim] (<a href='http://bibel.renenyffenegger.ch/2koe_23.html#v34'>2.&nbsp;Kö&nbsp;23,34</a>), und dessen Sohn war Jojachin [Jechonja]
-  (<a href='http://bibel.renenyffenegger.ch/2koe_24.html#v6'>2.&nbsp;Kö&nbsp;24,6</a>).TODO: Eljakim [Jojakim] wurde also übersprungen.
+   Handelt es sich bei <i>Jechonia</i> in den Versen 11 und 12 um dieselbe Person. Ist Jechonia aus dem 11. Vers vielleicht → biblisches/Personen/Josia[Josias] erstgeborener Sohn Jochanan (§1chr-3-15)
+   und Jechonja aus dem 12 Vers der Sohn Jojakims (§1chr-3-16-17)
  }
  {
-   Vgl §1chr-3-15
+  Ein Sohn von → biblisches/Personen/Josia war Eljakim [Jojakim] (<a href='http://bibel.renenyffenegger.ch/2koe_23.html#v34'>2.&nbsp;Kö&nbsp;23,34</a>), und dessen Sohn war Jojachin [Jechonja]
+  (<a href='http://bibel.renenyffenegger.ch/2koe_24.html#v6'>2.&nbsp;Kö&nbsp;24,6</a>).TODO: Eljakim [Jojakim] wurde also übersprungen.
  }
  {
   → biblisches/Personen/Mattanja-Zedekia[Zedekia] fehlt im königlichen Stammbaum.
  }
  {
-  <i>Wegführung nach → biblisches/Orte/Babel[Babylon]</i> wäre wohl genauer übersetzt mit »babylonische Wegführung«. Ebenso §Vmt-1-12 und §Vmt-1-17.
+  Beachte, Matthäus erwähnt nicht, dass diese Wegführung beendet worden wäre.  
+ }
+ {
+  <i>Wegführung nach → biblisches/Orte/Babel[Babylon]</i> wäre wohl genauer übersetzt mit «babylonische Wegführung». Ebenso §Vmt-1-12 und §Vmt-1-17.
  }
 #}
 #mt-1-12 {
