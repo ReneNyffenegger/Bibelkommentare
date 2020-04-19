@@ -24960,8 +24960,7 @@
 #}
 #ri-13-4 {
  {
-  Weder Wein noch starkes Getränk:
-  <a href='http://bibel.renenyffenegger.ch/lk_1.html#v15'>Lk&nbsp;1,15</a>.
+  Weder Wein noch starkes Getränk: §lk-1-15.
  }
 #}
 #ri-13-5 {
@@ -57856,6 +57855,14 @@
   <i>14 Generationen</i>: interessanterweise ist → biblisches/Grundtext/Zahlen/index#n14 der Zahlenwert von → biblisches/Personen/David.
  }
 #}
+#mt-1-18 {
+ {
+  → biblisches/Bücher/Evangelien#ev-geburt-jesu[Die Geburt Jesu Christi in den Evangelien]
+ }
+ {
+  <i>schwanger erfunden vom Heiligen Geist</i>, vgl mit → biblisches/Personen/Johannes/Täufer[Johannes, dem Täufer] §lk-1-15
+ }
+#}
 #mt-1-19 {
  {
   TODO: KJV enthält in diesem Vers «public», Elberfelder «öffentlich».
@@ -57863,7 +57870,7 @@
 #}
 #mt-1-20 {
  {
-  Beachte: <i><b>in</b> ihr gezeigt</i>. Sonst steht in diesem Kapitel <i><b>mit</b> Tamar</i>, <i>mit der Rahab</i>, <i>mit der Ruth</i>, <i>mit der Frau des Uria</i>.
+  Beachte: <i><b>in</b> ihr gezeugt</i>. Sonst steht in diesem Kapitel <i><b>mit</b> Tamar</i>, <i>mit der Rahab</i>, <i>mit der Ruth</i>, <i>mit der Frau des Uria</i>.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Herrn
@@ -58060,9 +58067,17 @@
   <i>Rama</i>: <a class='kom' href='#Ijos-18-25'>Jos&nbsp;18,25</a>.
  }
 #}
+#mt-2-22 {
+ {
+   → biblisches/Orte/Galiläa 
+ }
+#}
 #mt-2-23 {
  {
    → biblisches/Orte/Nazareth, vgl §lk-2-39
+ }
+ {
+  
  }
  {
   <i>wohnte</i> in Sch2K mit «liess sich nieder» übersetzt. vgl §+mt-4-13.
@@ -58201,6 +58216,11 @@
   <i>Weizen sammeln</i>: vgl <a class='kom' href='#Imt-24-31'>Mt&nbsp;24,31</a>
  }
 #}
+#mt-3-13 {
+ {
+  → biblisches/Orte/Galiläa
+ }
+#}
 #mt-3-15 {
  {
   TODO: <i>gebührt</i>: Strongs 4241.
@@ -58324,7 +58344,7 @@
 #}
 #mt-4-12 {
  {
-   Jesu Dienst beginnt in Galiläa: §apg-10-37
+   Jesu Dienst beginnt in → biblisches/Orte/Galiläa: §apg-10-37
  }
  {
    <i>Johannes im Gefängnis</i>
@@ -60278,6 +60298,9 @@
   <i>Berg</i>: <a class='kom' href='#Imt-4-8'>Mt&nbsp;4,8</a>. TODO: Beachte, dass er sich auch in <a href='http://bibel.renenyffenegger.ch/mt_5.html#v1'>Mt&nbsp;5,1</a> auf
   dem Berg setzt.
  }
+ {
+  → biblisches/Orte/Galiläa
+ }
 #}
 #mt-15-31 {
  {
@@ -60547,7 +60570,7 @@
   <br>Beachte: hier wird erwähnt, dass sie in Galiläa waren. Ebenso in <a href='http://bibel.renenyffenegger.ch/lk_24.html#v6'>Lk 24,6-7</a>.
  }
  {
-  <i>Galiläa</i>: <a class='kom' href='#Ilk-24-6'>Lk 24,6-7</a>.
+  → biblisches/Orte/Galiläa: <a class='kom' href='#Ilk-24-6'>Lk 24,6-7</a>.
  }
  {
   <i>Hände der Menschen</i>: <a class='kom' href='#Iapg-21-11'>Apg&nbsp;21,11</a>. Vgl mit 'Händer der Sünder'
@@ -60665,6 +60688,9 @@
 #mt-19-1 {
  {
   <i>Judäa</i>: erste Erwähnung seit <a href='http://bibel.renenyffenegger.ch/mt_4.html#v25'>Mt&nbsp;4,25</a>.
+ }
+ {
+  → biblisches/Orte/Galiläa
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/vollenden/index#mt-jesus-worte-vollenden
@@ -60885,7 +60911,7 @@
 #}
 #mt-21-11 {
  {
-  → biblisches/Orte/Nazareth
+  → biblisches/Orte/Nazareth, → biblisches/Orte/Galiläa
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet: vgl §Vmt-21-46
@@ -61832,6 +61858,11 @@
   Vgl §+sach-13-7
  }
 #}
+#mt-26-32 {
+ {
+  → biblisches/Orte/Galiläa
+ }
+#}
 #mt-26-34 {
  {
   TODO: den Herrn verleugnen: §mt-10-32-33.
@@ -62289,6 +62320,9 @@
   Beachte, dass die Himmelfahrt erst auf dem Ölberg stattfinden wird (<a class='kom' href='#Iapg-1-12'>Apg&nbsp;1,12</a>) und
   dass diese in Matthäus nicht erwähnt ist.
  }
+ {
+  → biblisches/Orte/Galiläa
+ }
 #}
 #mt-28-19 {
  {
@@ -62387,6 +62421,9 @@
 #mk-1-9 {
  {
   <i>da kam Jesus von → biblisches/Orte/Nazareth</i>: vgl §+mt-4-13
+ }
+ {
+  → biblisches/Orte/Galiläa
  }
 #}
 #mk-1-10 {
@@ -63869,6 +63906,11 @@
   Vgl §sach-13-7
  }
 #}
+#mk-14-28 {
+ {
+  hingehen nach → biblisches/Orte/Galiläa: §mk-16-7
+ }
+#}
 #mk-14-32 {
  {
   <i>Gethsemane</i>: <a class='kom' href='#Imt-26-36'>Mt&nbsp;26,36</a>.
@@ -64085,6 +64127,9 @@
 #}
 #mk-16-7 {
  {
+  hingehen nach → biblisches/Orte/Galiläa: §mk-14-28
+ }
+ {
   Auch dem Petrus. Wie tröstlich!
  }
 #}
@@ -64274,8 +64319,10 @@
 #}
 #lk-1-15 {
  {
-         Weder Wein noch starkes Getränk:
-         <a href='http://bibel.renenyffenegger.ch/ri_13.html#v4'>Ri&nbsp;13,4</a>.
+  <i>von Mutterleib an mit Heiligem Geist erfüllt</i> vgl mit Jesus Christus: §mt-1-18-20
+ }
+ {
+   Weder Wein noch starkes Getränk: §ri-13-4.
  }
 #}
 #lk-1-17 {
@@ -64305,10 +64352,13 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt
  }
  {
-  → biblisches/Orte/Nazareth, → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Gabriel
+  → biblisches/Orte/Nazareth, → biblisches/Orte/Galiläa, → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Gabriel
  }
 #}
 #lk-1-27 {
+ {
+  → biblisches/Bücher/Evangelien#ev-geburt-jesu[Die Geburt Jesu Christi in den Evangelien] 
+ }
  {
   <i>Joseph</i>: §+mt-1-16.
  }
@@ -64322,6 +64372,9 @@
  }
 #}
 #lk-1-31 {
+ {
+  <i>du wirst im Leib empfangen</i> §mt-1-20, §joh-1-14
+ }
  {
   <i>du … wirst einen Sohn gebären und sollst seinen Namen Jesus heissen</i> §mt-1-21
  }
@@ -64344,7 +64397,7 @@
 #}
 #lk-1-37 {
  {
-  Vgl §jer-32-2h
+  Vgl §jer-32-27
  }
 #}
 #lk-1-52 {
@@ -64352,9 +64405,27 @@
   TODO: vgl §ps-110-5
  }
 #}
+#lk-1-54 {
+ {
+  Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-aus-knechtschaft-herausgefuehrt
+ }
+#}
+#lk-1-55 {
+ {
+   → biblisches/Personen/Abraham/Same
+ }
+ {
+  Vgl §hebr-2-16
+ }
+#}
 #lk-1-59 {
  {
   <i>Beschneidung am achten Tag</i>: <a class='kom' href='#I1mo-17-12'>1.&nbsp;Mo&nbsp;17,12</a>.
+ }
+#}
+#lk-1-67 {
+ {
+  §lk-2-11
  }
 #}
 #lk-1-69 {
@@ -64438,6 +64509,11 @@
  }
  {
    <i>Krippe</i>: dasselbe griechische Wort auch für dieselbe Übersetzung in <a href='http://bibel.renenyffenegger.ch/lk_13.html#v15'>Lk&nbsp;13,15</a>.
+ }
+#}
+#lk-2-11 {
+ {
+  Vgl §joh-7-42, §lk-1-67
  }
 #}
 #lk-2-12 {
@@ -65027,6 +65103,9 @@
 #lk-5-17 {
  {
   Das geschah in Kapernaum (<a href='http://bibel.renenyffenegger.ch/mk_2.html#v1'>Mk&nbsp;2,1</a>), in 'seiner Stadt' (<a class='kom' href='#Imt-9-1'>Mt&nbsp;9,1</a>).
+ }
+ {
+  → biblisches/Orte/Galiläa
  }
 #}
 #lk-5-21 {
@@ -66030,6 +66109,9 @@
 #lk-13-16 {
  {
   Vgl die <i>Tochter Abrahams</i> mit Zachäus, dem → biblisches/Personen/Abraham/Same#abraham-vater[Sohn Abrahams] in §+lk-19-9.
+ }
+ {
+  Wenn der Herr seinen Dienst mit 30 jährig begonnen hat, und er hier noch 30 jährig ist, heisst das, das diese Tochter Abrahams vom Satan gebunden wurde, als der Herr 12 jährig war.
  }
 #}
 #lk-13-18 {
@@ -67367,10 +67449,17 @@
 #}
 #joh-1-13 {
  {
-  Vgl §joh-3-3
+  Beachte, dass auch der Herr selbst <i>aus Gott geboren</i> ist: §mt-1-20, §lk-1-35
+  <br>
+  Vgl mit §joh-3-3, «Es sei denn, daß jemand von neuem geboren werde, so kann er das Reich Gottes nicht sehen.»
  }
 #}
 #joh-1-14 {
+ {
+  <i>Das Wort wurde Fleisch</i>: → biblisches/Bücher/Evangelien#ev-geburt-jesu[Die Geburt Jesu Christi in den Evangelien]
+ <br>
+  Vgl §1tim-3-16 («geoffenbart im Fleisch»)
+ }
  {
   Das Wort wohnte unter uns. Im <a href='http://bibel.renenyffenegger.ch/joh_1.html#v39'>Vers 39</a> kommt Andreas und der andere Jünger um zu sehen, wo
   ER wohnte. Sein Vater wohnte in ihm <a href='http://bibel.renenyffenegger.ch/joh_14.html#v10'>Joh&nbsp;14,10</a>.
@@ -67566,7 +67655,7 @@
 #}
 #joh-1-43 {
  {
-  → biblisches/Personen/Philippus
+  → biblisches/Personen/Philippus, → biblisches/Orte/Galiläa
  }
 #}
 #joh-1-44 {
@@ -67623,6 +67712,9 @@
  }
  {
   <i>Hochzeit</i>: <a class='kom' href='#Imt-9-15'>Mt&nbsp;9,15</a>.
+ }
+ {
+  → biblisches/Orte/Galiläa
  }
 #}
 #joh-2-4 {
@@ -68300,6 +68392,11 @@
 #}
 @}
 @Johannes 6 {
+#joh-6-1 {
+ {
+  → biblisches/Orte/Galiläa
+ }
+#}
 #joh-6-4 {
  {
   Das <i>Passah war nahe</i>: siehe <a class='kom' href='#Ijoh-2-13'>Joh&nbsp;2,13</a>.
@@ -68624,6 +68721,11 @@
 #joh-7-40 {
  {
   <i>wahrhaftig der Propeht</i> §joh-6-14
+ }
+#}
+#joh-7-42 {
+ {
+  Vgl §lk-2-11
  }
 #}
 #joh-7-43 {
@@ -70515,7 +70617,7 @@
 #}
 #apg-1-11 {
  {
-  <i>Galliläer</i>: <a class='kom' href='#Imt-10-2'>Mt&nbsp;10,2</a>, <a class='kom' href='#Iapg-2-7'>Apg&nbsp;2,7</a>.
+  → biblisches/Orte/Galiläa: <a class='kom' href='#Imt-10-2'>Mt&nbsp;10,2</a>, <a class='kom' href='#Iapg-2-7'>Apg&nbsp;2,7</a>.
  }
 #}
 #apg-1-12 {
@@ -75941,6 +76043,9 @@
 #}
 #roem-1-3 {
  {
+  Der Herr ist <i>dem Fleisch nach</i> aus dem Samen Davids, → biblisches/Personen/Abraham ist «unser Vater nach dem Fleisch», §roem-4-1
+ }
+ {
   <i>dem Fleisch nach</i> vgl §+1tim-3-16.
  }
 #}
@@ -76659,7 +76764,10 @@
 @Römer 4 {
 #roem-4-1 {
  {
-  → biblisches/Personen/Abraham/Same#abraham-vater[Abraham, unser Vater] nach dem Fleisch. Ein Vater aller unbeschnittenen Gläubigen und der Beschnittenen (<a href='http://bibel.renenyffenegger.ch/roem_4.html#v11'>Verse 11-12</a>).
+  → biblisches/Personen/Abraham/Same#abraham-vater[Abraham, unser Vater] nach dem Fleisch: 
+    Vgl mit §+Vroem-4-11 und 12: «damit er Vater aller wäre, die in der Vorhaut glauben…»
+   <br>
+    Vgl auch mit dem Herrn, der dem Fleisch nach aus dem Samen Davids ist (§roem-1-3)
  }
 #}
 #roem-4-2 {
@@ -77572,7 +77680,7 @@
   → biblisches/Personen/Paulus
  }
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/2kor_11.html#v22'>2.&nbsp;Kor&nbsp;11,22</a>.
+  Vgl mit §2kor-11-22.
  }
 #}
 #roem-11-2 {
@@ -81882,7 +81990,7 @@
 #}
 #2kor-11-22 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/roem_11.html#v1'>Röm&nbsp;11,1</a>.
+  Vgl mit §roem-11-1.
  }
 #}
 #2kor-11-23 {
@@ -87128,7 +87236,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <span class='gt'>In NA steht «er» statt «Gott».</span>
  }
  {
-  <i>geoffenbart im Fleisch, gerechtfertigt im Geist</i>: vgl §roem-1-3-4.
+  <i>geoffenbart im Fleisch, gerechtfertigt im Geist</i>: vgl §roem-1-3-4, §joh-1-14 («Das Wort wurde Fleisch»)
  }
  {
   Was bedeutet <i>geglaubt in der Welt</i> hier?
@@ -89001,6 +89109,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-2-16 {
  {
   → biblisches/Personen/Abraham/Same[Abrahams Same]
+ }
+ {
+  Vgl §lk-1-54-55
  }
 #}
 #hebr-2-17 {
