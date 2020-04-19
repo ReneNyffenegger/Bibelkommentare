@@ -50416,7 +50416,7 @@
 #}
 #jer-16-16 {
  {
-  <i>Fischer</i> vgl §mt-4-19
+  <i>Fischer</i> vgl §mt-4-19, → biblisches/Orte/Bethsaida
  }
  {
   <i>Felsspalten</i>: Sch2K und Elb übersetzen mit «Felsenklüften». Im Vergleich mit §jes-7-19 und §jer-13-4 ist die Übersetzung «Felsspalten» konsistenter.
@@ -57873,6 +57873,9 @@
   Beachte: <i><b>in</b> ihr gezeugt</i>. Sonst steht in diesem Kapitel <i><b>mit</b> Tamar</i>, <i>mit der Rahab</i>, <i>mit der Ruth</i>, <i>mit der Frau des Uria</i>.
  }
  {
+  <i>Joseph, Sohn Davids</i> vgl lk-1-27
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Herrn
  }
 #}
@@ -59224,90 +59227,7 @@
 @Matthäus 10 {
 #mt-10-2 {
  {
-  <i>Die Namen der 12 Apostel</i><br>
-  <table summary='Die Namen der 12 Apostel'><!--{-->
-     <tr><td>Matthäus</td>
-         <td></td>
-         <td>Markus</td>
-         <td>Lukas</td>
-         <td>Apostelgeschichte</td>
-         </tr>
-     <tr><td>Simon, genannt Petrus</td>
-         <td>Bruder von Andreas</td>
-         <td>1</td>
-         <td>1</td>
-         <td>1</td>
-         </tr>
-     <tr><td>Andreas</td>
-         <td>Bruder von Petrus</td>
-         <td>4</td>
-         <td>2</td>
-         <td>4</td>
-         </tr>
-     <tr><td>Jakobus</td>
-         <td>Sohn des Zebedäus</td>
-         <td>2, Beiname Boanerges</td>
-         <td>3</td>
-         <td>2</td>
-         </tr>
-     <tr><td>Johannes</td>
-         <td>Bruder des Jakobus</td>
-         <td>3, Beiname Boanerges</td>
-         <td>4</td>
-         <td>3</td>
-         </tr>
-     <tr><td>Philippus</td>
-         <td></td>
-         <td>5</td>
-         <td>5</td>
-         <td>5</td>
-         </tr>
-     <tr><td>Bartholomäus</td>
-         <td></td>
-         <td>6</td>
-         <td>6</td>
-         <td>7</td>
-         </tr>
-     <tr><td>Thomas</td>
-         <td></td>
-         <td>8</td>
-         <td>8</td>
-         <td>6</td>
-         </tr>
-     <tr><td>Matthäus</td>
-         <td></td>
-         <td>7</td>
-         <td>7</td>
-         <td>8</td>
-         </tr>
-     <tr><td>Jakobus</td>
-         <td>Sohn des Alphäus</td>
-         <td>9</td>
-         <td>9</td>
-         <td>9</td>
-         </tr>
-     <tr><td>Lebbäus</td>
-         <td>Beiname Thaddäus</td>
-         <td>10</td>
-         <td>11, Judas, Sohn des Jakobus</td>
-         <td>11, Judas, Sohn des Jakobus</td>
-         </tr>
-     <tr><td>Simon</td>
-         <td>der Kananiter</td>
-         <td>11</td>
-         <td>10, genannt der Zelot</td>
-         <td>10, der Zelot</td>
-         </tr>
-     <tr><td>Judas Ischariot</td>
-         <td></td>
-         <td>12</td>
-         <td>12, der zum Verräter wurde</td>
-         <td></td>
-         </tr>
-  </table><!--}-->
-  Siehe auch <a href='http://bibel.renenyffenegger.ch/mk_3.html#v14'>Mk&nbsp;3,14</a> ff,
-  <a href='http://bibel.renenyffenegger.ch/lk_6.html#v13'>Lk&nbsp;6,13</a> ff,
-  <a href='http://bibel.renenyffenegger.ch/apg_1.html#v13'>Apg&nbsp;1,13</a> ff
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12, vgl §mk-3-14, §lk-6-13
  }
  {
   TODO: Matthäus scheint auch ein Sohn des Alphäus zu sein.
@@ -60700,6 +60620,9 @@
   S.a. <a href='http://bibel.renenyffenegger.ch/mk_10.html#v7'>Mk&nbsp;10,7-8</a>
  }
  {
+  TODO: Beginnt hier der in §apg-13-31 erwähnte Hinaufzug von Galiläa nach Jerusalem?
+ }
+ {
   TODO: <i>Gebiet von Judäa jenseits des Jordan</i> Vgl mit <a href='http://bibel.renenyffenegger.ch/mk_10.html#v1'>Mk&nbsp;10,1</a>.
  }
 #}
@@ -60752,6 +60675,11 @@
 #mt-19-24 {
  {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/mt_21.html#v31'>Mt&nbsp;21,31</a> (Die Zöllner kommen eher ins Reich Gottes als die obersten Prister und Ältesten des Volkes).
+ }
+#}
+#mt-19-26 {
+ {
+  §lk-18-27, §lk-1-37
  }
 #}
 #mt-19-28 {
@@ -62324,18 +62252,25 @@
   → biblisches/Orte/Galiläa
  }
 #}
+#mt-28-18 {
+ {
+  <i>Mir ist gegeben alle Gewalt</i> §lk-1-37
+ }
+#}
 #mt-28-19 {
+ {
+  <i>Geht hin… ich bin bei euch alle Tage…</i> vgl §mk-3-14 
+ }
  {
   Anordnung zur → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe auf den Namen des Vaters, des Sohnes und des Heiligen Geistes, jedoch in
   <a href='#Iapg-2-38'>Apg&nbsp;2,38</a> &lsaquo;nur&rsaquo; auf den Namen Jesu Christi getauft.
  }
  {
   Offenbar wurde die Anordnung an die Jünger, alle Völker zu Jüngern zu machen, in
-  <a href='http://bibel.renenyffenegger.ch/gal_2.html#v9'>Gal&nbsp;2,9</a> unterbrochen. Paulus, der zu den Heiden gesandt
-  war (<a class='kom' href='#Igal-1-16'>Gal&nbsp;1,16</a>), war ausserdem «nicht gesandt, zu taufen» (<a href='http://bibel.renenyffenegger.ch/1kor_1.html#v17'>1.&nbsp;Kor&nbsp;1,17</a>).
- }
- {
-  Beachte: Unter Paulus gibt es keine Anweisung, alle Völker zu Jüngern zu machen.
+  <a href='http://bibel.renenyffenegger.ch/gal_2.html#v9'>Gal&nbsp;2,9</a> unterbrochen. → biblisches/Personen/Paulus, der zu den Heiden gesandt
+  war (Vgl §+gal-1-16, → biblisches/Personen/Paulus/Apostel-der-Nationen), war ausserdem «nicht gesandt, zu taufen» (§1kor-1-17).
+ <br>
+  Von Paulus gibt es keine Anweisung, alle Völker zu Jüngern zu machen.
  }
  {
   Vgl §mk-16-15, §lk-24-47
@@ -62386,7 +62321,7 @@
 #}
 #mk-1-3 {
  {
-  <a class='kom' href='#Imal-3-1'>Mal&nbsp;3,1</a>.
+  §+mal-3-1, §lk-3-4
  }
 #}
 #mk-1-4 {
@@ -62672,6 +62607,12 @@
  }
 #}
 #mk-3-14 {
+ {
+  Bestellung der → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12[12 Jünger], vgl §mt-10-2, §lk-6-13
+ }
+ {
+  <i>daß sie bei ihm seien, und auf daß er sie aussende zu predigen</i> vgl §mt-28-19-20
+ }
  {
   <a class='kom' href='#Imk-6-30'>Mk&nbsp;6,30</a>.
  }
@@ -63447,6 +63388,11 @@
 #mk-10-24 {
  {
    <span class='gt'>In NA fehlt «daß die, welche auf Güter vertrauen»</span>
+ }
+#}
+#mk-10-27 {
+ {
+  §lk-1-37, §lk-18-27, §mt-19-26
  }
 #}
 #mk-10-30 {
@@ -64325,6 +64271,11 @@
    Weder Wein noch starkes Getränk: §ri-13-4.
  }
 #}
+#lk-1-16 {
+ {
+  → biblisches/Lehre/Gott-Jehova-Jahwe-Jesus
+ }
+#}
 #lk-1-17 {
  {
   Vgl <a class='kom' href='#Imal-3-23'>Mal 3,23-24</a>.
@@ -64360,7 +64311,7 @@
   → biblisches/Bücher/Evangelien#ev-geburt-jesu[Die Geburt Jesu Christi in den Evangelien] 
  }
  {
-  <i>Joseph</i>: §+mt-1-16.
+  <i>Joseph</i>: §+mt-1-16, <i>aus dem Haus Davids</i>: §mt-1-20, §lk-2-4
  }
 #}
 #lk-1-28 {
@@ -64397,7 +64348,9 @@
 #}
 #lk-1-37 {
  {
-  Vgl §jer-32-27
+  Vgl §jer-32-27, §lk-18-27, §mk-10-27
+  <br>
+  Vgl auch: <i>mir ist gegeben alle Gewalt</i>, §mt-28-18
  }
 #}
 #lk-1-52 {
@@ -64446,6 +64399,9 @@
  }
 #}
 #lk-1-74 {
+ {
+  <i>ohne Furcht dienen</i>: beachte, dass bereits das Volk Israel bei der Rettung aus Ägypten dienen sollte: §2mo-4-23, §2mo-7-16, §2mo-7-26, etc.
+ }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
  }
@@ -64715,6 +64671,9 @@
  }
 #}
 #lk-3-4 {
+ {
+  §+mk-1-3, §joh-1-23
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Buch
  }
@@ -65197,6 +65156,9 @@
 #}
 #lk-6-13 {
  {
+  Erwählung der → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12[12 Jünger], vgl §mt-10-2, §lk-6-13
+ }
+ {
   Möglicherweise bestimmt der Herr die Apostel, um Sein Werk fortzuführen, da Er nun weiss, dass die Schriftgelehrten und Pharisäer sich überlegten, was sie Ihm tun sollten (§Vlk-6-11).
  }
  {
@@ -65475,6 +65437,11 @@
 #lk-8-24 {
  {
   Vgl §+ps-89-10.
+ }
+#}
+#lk-8-26 {
+ {
+  TODO: §joh-6-1
  }
 #}
 #lk-8-27 {
@@ -66082,7 +66049,7 @@
    Offenbar stammt das Wort von <span class='hebr'>שִׁלֹחַ</span> (Strongs 7975) ab, welches in §+neh-3-15 und §jes-8-6 vorkommt.
  }
  {
-  TODO: Vgl die <i>achtzehn</i> hier mit den <i>achtzehn Jahren</i> in <a href='http://bibel.renenyffenegger.ch/lk_13.html#v11'>Lk 13,11/16</a>.
+  Vgl die <i>achtzehn</i> hier mit den <i>achtzehn Jahren</i> in §Vlk-13-11 und §Vlk-13-16.
  }
 #}
 #lk-13-6 {
@@ -66097,8 +66064,9 @@
 #}
 #lk-13-11 {
  {
-  <i>18 Jahre</i>: <a class='kom' href='#Ilk-2-42'>Lk&nbsp;2,42</a>.
-  <br>Vgl auch mit <a class='kom' href='#Ilk-13-4'>Vers 4</a>.
+  Wenn der Herr seinen Dienst mit 30 jährig begonnen hat, und er hier noch 30 jährig ist, heisst das, das diese Tochter Abrahams vom Satan gebunden wurde, als der Herr 12 jährig war (§+lk-2-42)
+  <br>
+   Vgl auch mit §V-13-4.
  }
 #}
 #lk-13-15 {
@@ -66109,9 +66077,6 @@
 #lk-13-16 {
  {
   Vgl die <i>Tochter Abrahams</i> mit Zachäus, dem → biblisches/Personen/Abraham/Same#abraham-vater[Sohn Abrahams] in §+lk-19-9.
- }
- {
-  Wenn der Herr seinen Dienst mit 30 jährig begonnen hat, und er hier noch 30 jährig ist, heisst das, das diese Tochter Abrahams vom Satan gebunden wurde, als der Herr 12 jährig war.
  }
 #}
 #lk-13-18 {
@@ -66509,6 +66474,11 @@
 #lk-18-24 {
  {
    <i>Reich</i>: vgl Zachäus in <a href='http://bibel.renenyffenegger.ch/lk_19.html#v2'>Lk 19,2 ff</a>.
+ }
+#}
+#lk-18-27 {
+ {
+  §lk-1-37
  }
 #}
 #lk-18-30 {
@@ -67075,6 +67045,11 @@
   Beachte auch, dass Pilatus ihn fragt, ob er König der Juden sei.
  }
 #}
+#lk-23-5 {
+ {
+  <i>anfgangend von → biblisches/Orte/Galiläa</i> vgl §apg-10-37
+ }
+#}
 #lk-23-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen: §+mt-12-38.
@@ -67514,7 +67489,7 @@
 #}
 #joh-1-23 {
  {
-  Dieses Zitat stammt aus <a class='kom' href='#Ijes-40-3'>Jes&nbsp;40,3</a>.
+  Dieses Zitat stammt aus §+jes-40-3, §+mk-1-3
  }
  {
   Die <i>Stimme eines Rufenden</i>: vgl die <i>Stimme des Bräutigams</i> (<a href='http://bibel.renenyffenegger.ch/joh_3.html#v29'>Joh&nbsp;3,29</a>) und
@@ -67697,6 +67672,11 @@
  {
   <i>Unter dem Feigenbaum</i>: §+1koe-5-5 und §+mi-4-4.
   <br>Vgl auch §+jes-34-4.
+ }
+#}
+#joh-1-49 {
+ {
+  Beachte: oft wird mit der <i>Sohn Davids</i> mit dem <i>König Israels</i> aossoziert. Hier ist es der <i>Sohn Gottes</i>.
  }
 #}
 #joh-1-51 {
@@ -68190,6 +68170,9 @@
 #}
 #joh-4-46 {
  {
+  <i>Er kam nun wiederum nach Kana</i>, §joh-2-1, §joh-2-11
+ }
+ {
   → biblisches/Orte/Kapernaum
  }
 #}
@@ -68395,6 +68378,9 @@
 #joh-6-1 {
  {
   → biblisches/Orte/Galiläa
+ }
+ {
+  TODO: Ist das das Land der Gadarener, §lk-8-26?
  }
 #}
 #joh-6-4 {
@@ -68604,6 +68590,9 @@
 #joh-7-1 {
  {
   <i>weil die Juden ihn zu töten suchten</i>: §+joh-5-16, §Vjoh-7-19
+ }
+ {
+  → biblisches/Orte/Galiläa
  }
 #}
 #joh-7-2 {
@@ -70626,6 +70615,9 @@
  }
 #}
 #apg-1-13 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12
+ }
  {
   <i>Wo sie sich aufzuhalten pflegten</i> vgl <a href='http://bibel.renenyffenegger.ch/lk_24.html#v53'>Lk&nbsp;24,53</a> ('sie waren allezeit im Tempel')
  }
@@ -72738,7 +72730,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
  }
  {
-  <i>anfangend von Galiläa</i>: §mt-4-12, §mk-1-14, §lk-4-14, §joh-2-11
+  <i>anfangend von Galiläa</i>: §mt-4-12, §mk-1-14, §lk-4-14, §joh-2-11, §lk-23-5
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
@@ -73397,8 +73389,14 @@
 #}
 #apg-13-31 {
  {
+  <i>ist denen erschienen</i> vgl §1kor-15-5-ff
+ }
+ {
   Diese Zeugen haben mit Ihm gegessen und getrunken (<a href='http://bibel.renenyffenegger.ch/apg_10.html#v41'>Apg&nbsp;10,41</a>).
   TODO: <a class='kom' href='#Imt-20-17'>Mt&nbsp;20,17</a>.
+ }
+ {
+  TODO: Beginnt dieser Hinaufzug von Galiläa nach Jerusalem in §mt-19-1
  }
 #}
 #apg-13-32 {
@@ -80681,7 +80679,7 @@
 #}
 #1kor-15-5 {
  {
-  Vgl <a class='kom' href='#Ilk-24-34'>Lk&nbsp;24,34</a>.
+  Vgl §+lk-24-34, §apg-13-31
  }
  {
   TODO: Wer sind die 'zwölfe'? Ist der zwölfte Matthias aus <a href='http://bibel.renenyffenegger.ch/apg_1.html#v26'>Apg&nbsp;1,26</a>?
@@ -86226,6 +86224,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>bitten</i>: <a href='http://bibel.renenyffenegger.ch/1thes_4.html#v1'>1.&nbsp;Thes&nbsp;4,1</a>.
  }
+ {
+  <i>zurechtweisen</i> vgl §1thes-5-14
+ }
 #}
 #1thes-5-14 {
  {
@@ -86234,13 +86235,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Ermahnung/index#ermahne-euch-brueder[Wir ermahnen euch aber, Brüder]
  }
+ {
+  <i>zurechtweisen</i> (<span class='gr'>νουθετέω</span>, Strongs 3560): Sch2K übersetzt mit «Verwarnt».
+ }
 #}
 #1thes-5-16 {
  {
   Vgl <a class='kom' href='#Iphil-4-4'>Phil&nbsp;4,4</a>.
- }
- {
-  <i>zurechtweisen</i> (<span class='gr'>νουθετέω</span>, Strongs 3560): Sch2K übersetzt mit «Verwarnt».
  }
 #}
 #1thes-5-18 {
