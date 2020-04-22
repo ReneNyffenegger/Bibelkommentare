@@ -5086,6 +5086,11 @@
   §5mo-28-32, §spr-3-27, §mi-2-1.
  }
 #}
+#1mo-31-11 {
+ {
+  <i>Engel spricht im Traum</i>, vgl §mt-1-19, §mt-2-13
+ }
+#}
 #1mo-31-13 {
  {
   Gott ruft Jakob zurück, es war aber Rebekka, die versprach, ihn zurückzuholen (<a href='http://bibel.renenyffenegger.ch/1mo_27.html#v45'>1.&nbsp;Mo&nbsp;27,45</a>).
@@ -42224,8 +42229,7 @@
 #}
 #ps-89-2 {
  {
-  Beachte: Hier will Etan die <i>Gütigkeiten</i> ewiglich besingen, in §Vps-89-50 fragt
-  er, wo sie sind.
+  Beachte: Hier will Etan die <i>Gütigkeiten Jehovas</i> ewiglich besingen, in §Vps-89-50 fragt er, wo die «früheren Gütigkeiten, die Er → biblisches/Personen/David zugeschworen hat», sind.
  }
  {
   TODO: Offenbar ist das Wort für <i>Gnadenerweise</i> <span class='hebr'>חֶסֶד</span> (Strongs 2617), welches an anderen Orten
@@ -42321,9 +42325,14 @@
   <i>Mauer</i> siehe <a class='kom' href='#I1chr-4-23'>1.&nbsp;Chr&nbsp;4,23</a>.
  }
 #}
+#ps-89-49 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tod#tod-nicht-sehen[Tod nicht sehen]
+ }
+#}
 #ps-89-50 {
  {
-  <i>Gütigkeiten</i>: §Vps-89-2
+  <i>Gütigkeiten Davids</i>, vgl §Vps-89-2, §apg-13-34
  }
 #}
 #ps-89-52 {
@@ -46836,8 +46845,10 @@
 @Jesaja 9 {
 #jes-9-1 {
  {
+   <i>Die wohnen im Land des Todesschatten</i> §mt-4-15
+ }
+ {
   <i>Dunkelheit</i>: vgl <a href='http://bibel.renenyffenegger.ch/jes_8.html#v23'>Jes&nbsp;8,23</a>.
-  <br>Vgl auch §mt-4-15-6.
  }
  {
   <i>Licht</i>: vgl §jes-10-17, §jes-49-6.
@@ -57865,12 +57876,15 @@
 #}
 #mt-1-19 {
  {
-  TODO: KJV enthält in diesem Vers «public», Elberfelder «öffentlich».
+  KJV enthält in diesem Vers «public», Elberfelder und Schlachter «öffentlich».
  }
 #}
 #mt-1-20 {
  {
   Beachte: <i><b>in</b> ihr gezeugt</i>. Sonst steht in diesem Kapitel <i><b>mit</b> Tamar</i>, <i>mit der Rahab</i>, <i>mit der Ruth</i>, <i>mit der Frau des Uria</i>.
+ }
+ {
+  <i>Engel erscheint im Traum</i>, §mt-2-13, §1mo-31-11
  }
  {
   <i>Joseph, Sohn Davids</i> vgl lk-1-27
@@ -57881,7 +57895,10 @@
 #}
 #mt-1-21 {
  {
-  <i>Und sie wird einen Sohn gebären, und du sollst seinen Namen Jesus heissen</i> §lk-1-31, §Vmt-1-25
+  <i>Und sie wird einen Sohn gebären, und du sollst seinen Namen Jesus heissen</i> §lk-1-31, §Vmt-1-25. Er wurde am achten Tag, da man ihn beschneiden sollte, mit diesem Namen genannt, §lk-2-21
+ }
+ {
+  <i>Er wird sein Volk erretten aus ihren Sünden</i> vgl §lk-2-11, §lk-1-68-ff, §joh-1-29
  }
  {
   Vgl §ps-130-8, §lk-24-21
@@ -57909,6 +57926,11 @@
   <i>Gott ist mit uns</i>:
   vgl §+jes-8-8
   <br>Vgl auch §+mt-28-20 («ich bin bei euch alle Tage...»).
+ }
+#}
+#mt-1-25 {
+ {
+  <i>hieß seinen Namen Jesus</i> §+lk-2-21, §Vmt-1-21
  }
 #}
 @}
@@ -58034,6 +58056,11 @@
  }
  {
   TODO: <i>Ein andererer Weg</i>: → biblisches/Grundtext/Wörter/G243-allos_G2087-heteros
+ }
+#}
+#mt-2-13 {
+ {
+  <i>Engel erscheint im Traum</i>, §mt-1-20, §1mo-31-11
  }
 #}
 #mt-2-15 {
@@ -58398,12 +58425,12 @@
   TODO <i>Heiden</i>: <a class='kom' href='#Ioffb-21-24'>Offb&nbsp;21,24</a>.
  }
  {
-  <i>Zabulon, Nephalim</i>, <i>das Volk, das in Finsternis sass</i>: vgl §+jes-8-23, §jes-9-1.
+  <i>Zabulon, Nephalim</i>, <i>das Volk, das in Finsternis saß, … die im Land des Schatten des Todes saßen</i>: vgl §+jes-8-23, §jes-9-1.
  }
 #}
 #mt-4-16 {
  {
-  Vgl §lk-1-79, §lk-1-79
+  Vgl §lk-1-79, §joh-1-4
  }
 #}
 #mt-4-17 {
@@ -58858,6 +58885,9 @@
 #mt-7-28 {
  {
   <i>Volksmengen</i>: §+mt-5-1.
+ }
+ {
+  <i>erstaunt über Seine Lehre</i> vgl §mt-22-33, §mk-1-22, §mk-11-18, §lk-4-32, §apg-13-12
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/vollenden/index#mt-jesus-worte-vollenden
@@ -60397,7 +60427,7 @@
 #}
 #mt-16-28 {
  {
-  <i>den Tod nicht schmecken</i> vgl §joh-8-52, §hebr-2-9, §mk-9-1, §lk-9-27
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tod#tod-schmecken[Tod nicht schmecken]
  }
  {
   Frage: wer sind hier diese <i>einige</i>? Petrus, Jakobus und Johannes (<a href='http://bibel.renenyffenegger.ch/mt_17.html#v1'>Mt&nbsp;17,1</a>)?
@@ -61040,6 +61070,11 @@
 #mt-22-23 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer
+ }
+#}
+#mt-22-33 {
+ {
+  <i>erstaunt über Seine Lehre</i> §+mt-7-28
  }
 #}
 #mt-22-34 {
@@ -62167,6 +62202,11 @@
   Die <i>Mutter der Söhne Zebedäaus</i> heisst Salome: §mk-15-40.
  }
 #}
+#mt-27-59 {
+ {
+  §mk-15-46, §lk-23-53, §joh-19-40
+ }
+#}
 #mt-27-62 {
  {
   TODO: Ist <i>der andere Tag, der auf den Rüsttag folgt</i> ein Sabbat? Und wenn ja, warum wird dies so formulert. Vielleicht, weil damit angedeutet werden soll, dass der Sabbat nach dem Tod Christi keine
@@ -62426,6 +62466,11 @@
 #mk-1-21 {
  {
   → biblisches/Orte/Kapernaum
+ }
+#}
+#mk-1-22 {
+ {
+   <i>erstaunt über Seine Lehre</i> §+mt-7-28
  }
 #}
 #mk-1-23 {
@@ -63207,7 +63252,7 @@
 @Markus 9 {
 #mk-9-1 {
  {
-  <i>den Tod nicht schmecken</i> vgl §joh-8-52, §mt-16-28
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tod#tod-schmecken[Tod nicht schmecken]
  }
 #}
 #mk-9-2 {
@@ -63508,6 +63553,11 @@
  }
  {
   Beachte, dass die Zerstörung des Tempels ab <a href='http://bibel.renenyffenegger.ch/mk_13.html#v1'>Mk&nbsp;13,1</a> prophezeit wird.
+ }
+#}
+#mk-11-18 {
+ {
+  <i>erstaunt über Seine Lehre</i> §+mt-7-28
  }
 #}
 #mk-11-19 {
@@ -64059,6 +64109,11 @@
   KJV übersetzt «... the mother of James the less ...», Elberfelder mit «Jakobus des Kleinen».
  }
 #}
+#mk-15-46 {
+ {
+  §mt-27-59, §mk-15-46, §lk-23-53, §joh-19-40
+ }
+#}
 @}
 @Markus 16 {
 #mk-16-1 {
@@ -64327,7 +64382,7 @@
   <i>du wirst im Leib empfangen</i> §mt-1-20, §joh-1-14
  }
  {
-  <i>du … wirst einen Sohn gebären und sollst seinen Namen Jesus heissen</i> §mt-1-21
+  <i>du … wirst einen Sohn gebären und sollst seinen Namen Jesus heissen</i> §lk-2-21, §mt-1-21
  }
 #}
 #lk-1-33 {
@@ -64381,6 +64436,11 @@
   §lk-2-11
  }
 #}
+#lk-1-68 {
+ {
+  <i>Erlösung geschafft hat seinem Volk</i> vgl §mt-1-21, §lk-2-11, §joh-1-29, §lk-24-21
+ }
+#}
 #lk-1-69 {
  {
   <i>Aufgerichtetes Horn</i>: <a class='kom' href='#I1sam-2-1'>1.&nbsp;Sam&nbsp;2,1</a>.
@@ -64411,12 +64471,17 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
  }
 #}
+#lk-1-77 {
+ {
+  <i>Vergebung ihrer Sünden</i> vgl §joh-1-29
+ }
+#}
 #lk-1-79 {
  {
   <i>Weg des Friedens</i> §roem-3-17, §jes-59-8
  }
  {
-  <i>in Finsternis und Todesschatten sitzen</i> vgl §mt-4-16
+  <i>in Finsternis und Todesschatten sitzen</i> vgl §mt-4-16, §joh-1-4
  }
 #}
 #lk-1-80 {
@@ -64460,6 +64525,14 @@
 #}
 #lk-2-7 {
  {
+  Nach der Geburt Jesu wurde Er in <i>Windeln</i> gewickelt und in eine <i>Krippe</i> gelegt; nach Seinem Tod wurde Er in <i>leinene Tücher gewickelt</i> (§mt-27-59, §mk-15-46, §lk-23-53, §joh-19-40) und in eine
+  <i>Gruft</i> gelegt (§mt-27-60).
+ }
+ {
+  TODO: 
+  Sowohl bei der Geburt wie auch bei Seinem Tod ist eine Maria und ein Joseph anwesend.
+ }
+ {
   Das Wort für Herberge (<span class='gr'>κατάλυμα</span>) ist dasselbe wie für <i>Gastzimmer</i> in <a href='http://bibel.renenyffenegger.ch/mk_14.html#v14'>Mk&nbsp;14,14</a>
   und <a href='http://bibel.renenyffenegger.ch/lk_22.html#v11'>Lk&nbsp;22,11</a>.
  }
@@ -64469,7 +64542,11 @@
 #}
 #lk-2-11 {
  {
-  Vgl §joh-7-42, §lk-1-67
+  <i>Ein Erretter geboren</i> vgl §mt-1-21, §lk-1-68-ff
+
+ }
+ {
+  <i>Welcher ist Christus</i> vgl §joh-7-42 
  }
 #}
 #lk-2-12 {
@@ -64495,6 +64572,11 @@
   Vgl <i>diese Worte behalten und im Herzen bewegen</i> mit §Vlk-2-51
  }
 #}
+#lk-2-21 {
+ {
+  <i>da wurde sein Name Jesus genannt… </i> §lk-1-31, §mt-1-21. Dieser Name wurde ihm dann von Joseph geheißen, §mt-1-25
+ }
+#}
 #lk-2-22 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/3mo_12.html#v4'>3.&nbsp;Mo&nbsp;12,4</a>.
@@ -64514,6 +64596,11 @@
  }
  {
   <i>Der Trost Israels</i> siehe <a class='kom' href='#I1mo-49-10'>1.&nbsp;Mo&nbsp;49,10</a>.
+ }
+#}
+#lk-2-26 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tod#tod-nicht-sehen[Tod nicht sehen]
  }
 #}
 #lk-2-27 {
@@ -64974,6 +65061,11 @@
  }
  {
   Chronologie: §+lk-4-23.
+ }
+#}
+#lk-4-32 {
+ {
+  <i>erstaunt über Seine Lehre</i> §+mt-7-28
  }
 #}
 #lk-4-35 {
@@ -65557,7 +65649,7 @@
 #}
 #lk-9-27 {
  {
-  <i>den Tod nicht schmecken</i> vgl §mt-16-28, §joh-8-52.
+  <i>den Tod nicht schmecken</i>
  }
 #}
 #lk-9-28 {
@@ -67174,6 +67266,14 @@
   Vgl mit dem Zöllner, der sich an die <i>Brust schlägt</i>, §lk-18-13
  }
 #}
+#lk-23-53 {
+ {
+   §mt-27-59, §mk-15-46, §joh-19-40
+ }
+ {
+   Nach Seinem Tod wurde der Herr in <i>feine Leinwand gewickelt</i> und in eine <i>Gruft</i> gelegt, nach Seiner Geburt wurde er in <i>Windeln gewickelt</i> und in eine <i>Krippe</i> gelegt, §+lk-2-7.
+ }
+#}
 @}
 @Lukas 24 {
 #lk-24-1 {
@@ -67224,10 +67324,10 @@
 #}
 #lk-24-21 {
  {
-  Vgl §mt-1-21
+  <i>… der Israel erlösen sollte</i> Vgl §+lk-1-68
  }
  {
-  TODO <a class='kom' href='#Ilk-24-7'>Vers 7</a>.
+  <i>dritter Tag</i> §Vlk-24-7
  }
 #}
 #lk-24-23 {
@@ -67360,6 +67460,11 @@
   Alles wurde durch dasselbe (das Wort): vgl §ps-33-6, §hebr-11-3, §kol-1-16, §+hebr-1-2
  <br>
   Vgl §Vjoh-1-10
+ }
+#}
+#joh-1-4 {
+ {
+  <i>Licht der Menschen</i>, §mt-4-16, §lk-1-79
  }
 #}
 #joh-1-5 {
@@ -67542,6 +67647,9 @@
  }
 #}
 #joh-1-29 {
+ {
+  <i>die Sünde der Welt wegnehmen</i> vgl §mt-1-21, §lk-1-77 
+ }
  {
    <ul>
      <li>Am folgenden Tag (<a href='http://bibel.renenyffenegger.ch/joh_1.html#v29'>Joh&nbsp;1,29</a>)
@@ -68714,7 +68822,7 @@
 #}
 #joh-7-42 {
  {
-  Vgl §lk-2-11
+  <i>… kommt der Christus</i> vgl §lk-2-11
  }
 #}
 #joh-7-43 {
@@ -68905,10 +69013,13 @@
  {
   <i>Wort bewahren</i>: vgl §joh-12-47, §joh-17-6
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tod#tod-nicht-sehen[Tod nicht sehen]
+ }
 #}
 #joh-8-52 {
  {
-  <i>den Tod nicht schmecken</i> vgl §+mt-16-28, §hebr-2-9
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tod#tod-schmecken[Tod nicht schmecken]
  }
 #}
 #joh-8-53 {
@@ -70347,6 +70458,9 @@
  }
 #}
 #joh-19-40 {
+ {
+  §mt-27-59, §mk-15-46, §lk-23-53
+ }
  {
   Salbungen Jesu: vgl <a class='kom' href='#Imt-26-6'>Mt&nbsp;26,6</a>.
  }
@@ -73271,7 +73385,10 @@
 #}
 #apg-13-12 {
  {
-  <i>Lehre des Herrn</i>: vgl mit «Lehre der Apostel» in <a class='kom' href='#Iapg-2-42'>Apg&nbsp;2,42</a>.
+  <i>Lehre des Herrn</i>: vgl mit «Lehre der Apostel» in §+apg-2-42.
+ }
+ {
+  <i>erstaunt über Seine Lehre</i> §+mt-7-28
  }
 #}
 #apg-13-13 {
@@ -73421,6 +73538,9 @@
  {
   Beachte: dass die <i>heiligen Gnadengüter</i> dasselbe Wort ist, das im nächsten Vers mit 'Heiliger' übersetzt
   wird (Strongs 3741, <a class='kom' href='#Iapg-2-27'>Apg&nbsp;2,27</a>).
+ }
+ {
+  <i>Gnaden Davids</i> vgl §ps-89-50
  }
 #}
 #apg-13-35 {
@@ -89049,7 +89169,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <span class='gr'>ὁρῶντες </span> (Strongs 3708) ist.
  }
  {
-  <i>den Tod schmeckte</i> vgl §+mt-16-28, §joh-8-52
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tod#tod-schmecken[Tod schmecken]
  }
  {
   <i>Ehre</i> vgl <a href='http://bibel.renenyffenegger.ch/hebr_3.html#v3'>Hebr&nbsp;3,3</a> und
@@ -90265,6 +90385,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #hebr-11-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tod#tod-nicht-sehen[Tod nicht sehen]
+ }
  {
   Beachte: nicht die Entrückung war das Zeugnis. → biblisches/Personen/Henoch/index hatte es schon vorher. Vgl §1mo-5-24
  }
