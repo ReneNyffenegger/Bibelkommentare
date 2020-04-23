@@ -19645,6 +19645,13 @@
   <i>ein verzehrendes Feuer</i> §5mo-9-3, §jes-30-27, §hebr-12-29
  }
 #}
+#5mo-4-26 {
+ {
+  <i>Den Himmel und die Erde zu Zeugen nehmen</i> §5mo-30-19, §5mo-31-28. Vgl auch §hi-16-19
+  <br>
+    Wenn Jehova Israel erlöst hat, sollen die Himmel jubeln und die Erde jauchzen, §jes-44-23
+ }
+#}
 #5mo-4-27 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/unter-die-Nationen-verstreut
@@ -21349,6 +21356,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl §jos-22-5
  }
 #}
+#5mo-30-19 {
+ {
+  <i>Den Himmel und die Erde zu Zeugen nehmen</i> §5mo-4-26, §5mo-31-28
+ }
+#}
 @}
 }
 { 31-34
@@ -21420,6 +21432,11 @@
 #5mo-31-27 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten[harter Nacken] §+5mo-10-16
+ }
+#}
+#5mo-31-28 {
+ {
+  <i>Den Himmel und die Erde zu Zeugen nehmen</i> §5mo-4-26, §5mo-30-19
  }
 #}
 #5mo-31-29 {
@@ -24974,6 +24991,9 @@
   <br>Gesetz des Nasiräers: <a href='http://bibel.renenyffenegger.ch/4mo_6.html#v2'>4. Mo 6,2ff</a>.
  }
  {
+  <i>Nasir Gottes soll der Knabe sein von Mutterleib</i> §ri-16-17
+ }
+ {
   Beachte: es scheint als ob die Frau ahnte/wusste, dass Simson sterben würde, wenn er mit der Errettung beginnt (Vgl Vers 7,  <a href='http://bibel.renenyffenegger.ch/ri_16.html#v30'>Ri&nbsp;16,30</a>).
  }
 #}
@@ -25114,6 +25134,11 @@
  {
   TODO: Haben diese <i>1100 Silberlinge</i> etwas mit den 1100 Silberlingen von <a href='http://bibel.renenyffenegger.ch/ri_17.html#v2'>Ri&nbsp;17,2</a> zu tun?
   <br>Aber vermutlich sind es hier 5 Fürsten und damit 5500 Silberlinge (<a class='kom' href='#Ijos-13-3'>Jos&nbsp;13,3</a>).
+ }
+#}
+#ri-16-17 {
+ {
+  <i>ein Nasir Gottes bin ich von Jugend an</i> §ri-13-5
  }
 #}
 #ri-16-30 {
@@ -38574,6 +38599,13 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leviathan, hier von KJV mit <i>mourning</i> übersetzt.
  }
 #}
+#hi-3-11 {
+ {
+  <i>Warum starb ich nicht von Mutterleib an</i> §hi-10-18, §hi-31-15
+ <br>
+  Vgl §hi-24-20
+ }
+#}
 @}
 @Hiob 4 {
 #hi-4-11 {
@@ -38712,6 +38744,13 @@
  }
 #}
 @}
+@Hiob 10 {
+#hi-10-18 {
+ {
+  <i>Warum hast du mich doch aus Mutterleib hervorgehen lassen?</i> §+hi-3-11
+ }
+#}
+@}
 }
 { 11-20
 @Hiob 11 {
@@ -38800,6 +38839,11 @@
 #hi-16-15 {
  {
   <i>Horn</i>: <a class='kom' href='#I1sam-2-1'>1.&nbsp;Sam&nbsp;2,1</a>.
+ }
+#}
+#hi-16-19 {
+ {
+  <i>Im Himmel ist mein Zeuge</i> vgl §+5mo-4-26
  }
 #}
 @}
@@ -38910,6 +38954,11 @@
 #hi-24-10 {
  {
   'Garbe' siehe <a class='kom' href='#I2mo-16-16'>2.&nbsp;Mo&nbsp;16,16</a>.
+ }
+#}
+#hi-24-20 {
+ {
+  <i>Mutterleib</i> §+hi-3-11
  }
 #}
 @}
@@ -39036,6 +39085,11 @@
 #hi-31-12 {
  {
   <i>Abgrund</i>: <a class='kom' href='#Ihi-26-6'>Hi&nbsp;26,6</a>.
+ }
+#}
+#hi-31-15 {
+ {
+  <i>der mich im Mutterleib bereitete…</i> §+hi-3-11
  }
 #}
 #hi-31-35 {
@@ -46369,7 +46423,7 @@
   <i>keine Erkenntnis</i>: §jes-5-13, §jes-27-11. Vgl auch §jes-28-9. S.a. §jes-42-25, §5mo-32-28
  }
  {
-  TODO: Andere Elberfelder übersetzt 'Israel kennt ihn nicht'
+  Andere Übersetzungen haben «Israel kennt ihn nicht».
  }
 #}
 #jes-1-8 {
@@ -48030,7 +48084,7 @@
 #}
 #jes-30-27 {
  {
-  <i>verzehrendes Feuer</i>: §+5mo-4-24
+  <i>verzehrendes Feuer</i>: §+5mo-4-26
  }
 #}
 #jes-30-30 {
@@ -48620,6 +48674,11 @@
 #}
 #jes-44-2 {
  {
+  <i>der … von Mutterleib an dich gebildet hat</i> §Vjes-44-24, §jes-49-1, §jes-49-5, §jer-1-5, §jer-20-17-18, §hos-12-4, §lk-1-15
+  <br>
+   Vgl auch §mt-19-12
+ }
+ {
   <i> Jeschurun</i>: <a class='kom' href='#I5mo-32-15'>5.&nbsp;Mo&nbsp;32,15</a>.
  }
 #}
@@ -48663,9 +48722,17 @@
   <i>du bist mein Knecht</i> §+3mo-25-42
  }
 #}
+#jes-44-23 {
+ {
+  <i>Jubelnde Himmel</i> und <i>jauchzende Erde</i> §+5mo-4-26.
+ }
+#}
 #jes-44-24 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/ausspannen, vgl mit <i>die Erde ausbreiten</i>: §ps-136-6.
+ }
+ {
+  <i>der von Mutterleib an dich gebildet hat</i> §+Vjes-44-2
  }
 #}
 #jes-44-25 {
@@ -48844,7 +48911,7 @@
 @Jesaja 49 {
 #jes-49-1 {
  {
-  <i>Von Mutterleib an berufen</i>: vgl Paulus §gal-1-15 und §jer-1-5.
+  <i>Von Mutterleib an berufen</i>: vgl mit → biblisches/Personen/Paulus (§gal-1-15), §+jes-44-2, §jer-1-5.
  }
  {
   TODO: vgl auch Vers 3 (durch den ich mich verherrliche) und §gal-1-24.
@@ -48859,6 +48926,11 @@
 #jes-49-4 {
  {
   <i>Umsonst habe ich mich abgemüht</i> Vgl §phil-2-16
+ }
+#}
+#jes-49-5 {
+ {
+  <i>der mich von Mutterleib an zu seinem Knecht gebildet</i> §+jes-44-2, §Vjes-44-1
  }
 #}
 #jes-49-6 {
@@ -49729,7 +49801,7 @@
 #}
 #jer-1-5 {
  {
-  Vgl §+jes-49-1.
+  Vgl §+jes-49-1, §+jes-44-2, §jer-20-18
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
@@ -50573,6 +50645,11 @@
 #jer-20-5 {
  {
   Vgl <a class='kom' href='#Ijer-15-13'>Jer&nbsp;15,13</a>.
+ }
+#}
+#jer-20-18 {
+ {
+  <i>Warum bin ich doch aus dem Mutterleib hervorgekommen</i> §jer-1-5
  }
 #}
 @}
@@ -55840,7 +55917,10 @@
 #}
 #hos-12-4 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1mo_25.html#v26'>1.&nbsp;Mo&nbsp;25,26</a>.
+  <i>Mutterleib</i> §+jes-44-2
+ }
+ {
+  Vgl §1mo-25-26
  }
 #}
 #hos-12-5 {
@@ -60676,9 +60756,17 @@
    <a class='kom' href='#Imt-5-32'>Mt&nbsp;5,32</a>.
  }
 #}
+#mt-19-12 {
+ {
+  <i>Mutterleib</i> vgl §+jes-44-2
+ }
+#}
 #mt-19-13 {
  {
-  <i>Kinder</i>: <a class='kom' href='#Imt-18-2'>Mt&nbsp;18,2</a>.
+  Verschnittene (§Vmt-19-12) kriegen keine Kinder. Ist das der Grund, dass hier Kinder zu Ihm gebracht wurden?
+ }
+ {
+  <i>Kinder</i>: §+mt-18-2.
  }
 #}
 #mt-19-16 {
@@ -64325,7 +64413,7 @@
 #}
 #lk-1-15 {
  {
-  <i>von Mutterleib an mit Heiligem Geist erfüllt</i> vgl mit Jesus Christus: §mt-1-18-20
+  <i>von Mutterleib an mit Heiligem Geist erfüllt</i> vgl mit Jesus Christus: §mt-1-18-20. S. a. §+jes-44-2
  }
  {
    Weder Wein noch starkes Getränk: §ri-13-4.
