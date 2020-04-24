@@ -23479,7 +23479,7 @@
    <br>Baesa baute Rama: <a href='http://bibel.renenyffenegger.ch/1koe_15.html#v17'>1.&nbsp;Kö&nbsp;15,17</a>
    <br>Samuels Haus: <a href='http://bibel.renenyffenegger.ch/1sam_7.html#v17'>1.&nbsp;Sam&nbsp;7,17</a> (vgl
       <i>Ramataim-Zophim</i> (<a href='http://bibel.renenyffenegger.ch/1sam_1.html#v1'>1.&nbsp;Sam&nbsp;1,1</a>).
-   <br>Eine Stimme wird in Rama gehört (<a class='kom' href='#Ijer-31-15'>Jer&nbsp;31,15</a>)
+   <br>Eine Stimme wird in Rama gehört (§+jer-31-15)
  }
  {
   <i>Beerot</i>: <a class='kom' href='#Ijos-9-17'>Jos&nbsp;9,17</a>.
@@ -40007,7 +40007,7 @@
 #}
 #ps-22-19 {
  {
-   <a class='kom' href='#Imt-27-35'>Mt&nbsp;27,35</a>.
+   → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §+mt-27-35
  }
 #}
 #ps-22-23 {
@@ -41837,8 +41837,9 @@
 @Psalm 78 {
 #ps-78-2 {
  {
-   Wird in <a class='kom' href='#Imt-13-35'>Mt&nbsp;13,35</a> erfüllt.
-   <br>Entweder fehlt hier der zweite Teil ('was von Grundlegung der Welt an verborgen war') oder 'will Rätsel vortragen aus alter Zeit' entspricht diesem.
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §mt-13-35
+  <br>
+   Entweder fehlt hier der zweite Teil («was von Grundlegung der Welt an verborgen war») oder «will Rätsel vortragen aus alter Zeit» entspricht diesem.
  }
 #}
 #ps-78-4 {
@@ -46808,6 +46809,9 @@
 #}
 #jes-7-14 {
  {
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §mt-1-22
+ }
+ {
   TODO: Vgl §jes-8-18 (Zeichen und Kinder, die Jehova geben hat).
  }
 #}
@@ -46889,10 +46893,13 @@
 #}
 #jes-8-23 {
  {
-  <i>Dunkelheit</i>: vgl <a href='http://bibel.renenyffenegger.ch/jes_9.html#v1'>Jes&nbsp;9,1</a>.
+  <i>Dunkelheit</i>: vgl §jes-9-1.
  }
  {
-  <i>Sebulon und Naphtali</i> / <i>Dunkelheit</i>: vgl §mt-4-15.
+  <i>Sebulon und Naphtali</i>, <i>Dunkelheit</i>: vgl §mt-4-15.
+ }
+ {
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §mt-4-14
  }
 #}
 @}
@@ -47083,14 +47090,13 @@
 @Jesaja 11 {
 #jes-11-1 {
  {
-  <i>Zweig</i> vgl 'Spross': <a class='kom' href='#Ijes-4-2'>Jes&nbsp;4,2</a>.
+  <i>Zweig</i> vgl «Sproß»: §+jes-4-2.
   <br>Der Überrest, Spross und Schössling aus Babel soll hingegen ausgerottet werden (<a href='http://bibel.renenyffenegger.ch/jes_14.html#v22'>Jes&nbsp;14,22</a>).
  }
  {
-  <i>Schössling</i> <span class='hebr'>נֵצֶר</span> (Strongs 5342). TODO: Vgl
-    <a href='http://bibel.renenyffenegger.ch/dan_11.html#v7'>Dan&nbsp;11,7</a> wo auch ein <i>Schössling aus Wurzeln</i> vorkommt.
-  <br>S.a. <a href='http://bibel.renenyffenegger.ch/jes_14.html#v19'>Jes&nbsp;14,19</a>,
-      <a href='http://bibel.renenyffenegger.ch/jes_60.html#v21'>Jes&nbsp;60,21</a>
+  <i>Schößling</i> <span class='hebr'>נֵצֶר</span> (Strongs 5342). Vgl §dan-11-7 wo auch ein <i>Schössling aus Wurzeln</i> vorkommt.
+ <br>
+   S.a. §jes-14-19, §jes-60-21
  }
 #}
 #jes-11-2 {
@@ -48554,7 +48560,7 @@
 @Jesaja 42 {
 #jes-42-1 {
  {
-  Verse 1-4 werden in §mt-12-18 erfüllt.
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §mt-12-18
  }
  {
   <i>Siehe</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/König-Knecht-Mann-Gott
@@ -49142,7 +49148,7 @@
 #}
 #jes-53-4 {
  {
-  Verse 4 und 5: Verweis §mt-8-17.
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §mt-8-17.
  }
 #}
 #jes-53-5 {
@@ -51223,11 +51229,12 @@
 #}
 #jer-31-15 {
  {
-  Dies wird in <a href='http://bibel.renenyffenegger.ch/mt_2.html#v17'>Mt 2,17-18</a> erfüllt, als Herodes alle Knaben unter 2 Jahren in Bethelehem
-  töten liess.
+  Dies wird in §mt-2-17-18 erfüllt, als Herodes alle Knaben unter 2 Jahren in Bethelehem töten liess.
+  <br>
+   Vgl → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten
  }
  {
-  <i>Rama</i>: <a class='kom' href='#Ijos-18-25'>Jos&nbsp;18,25</a>, <a href='http://bibel.renenyffenegger.ch/mt_2.html#v18'>Mt&nbsp;2,18</a>
+  <i>Rama</i>: §+jos-18-25
  }
 #}
 #jer-31-23 {
@@ -55879,7 +55886,7 @@
   Vgl mit «erste Liebe verlassen» in <a href='http://bibel.renenyffenegger.ch/offb_2.html#v4'>Offb&nbsp;2,4</a>.
  }
  {
-  Verweis: §mt-2-15
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §mt-2-15
  }
 #}
 #hos-11-4 {
@@ -57553,8 +57560,9 @@
 #}
 #sach-9-9 {
  {
-  Erfüllt in §mt-21-4-5, teilweise zitiert in §joh-12-15 (siehe
-  → biblisches/Bücher/Evangelien/Abschnitte/Jesu-zwei-Einzüge-in-Jerusalem)
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §mt-21-4-5
+  <br>
+   Teilweise zitiert in §joh-12-15 (siehe → biblisches/Bücher/Evangelien/Abschnitte/Jesu-zwei-Einzüge-in-Jerusalem)
  }
  {
   <i>Siehe</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/König-Knecht-Mann-Gott
@@ -57987,6 +57995,11 @@
   <i>Volk</i> (<span class='gr'>λαός</span>, Strongs 2992).
  }
 #}
+#mt-1-22 {
+ {
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §jes-7-14
+ }
+#}
 #mt-1-23 {
  {
   <i>das heisst übersetzt</i>:
@@ -58145,7 +58158,7 @@
 #}
 #mt-2-15 {
  {
-  Verweis: §hos-11-1
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §hos-11-1
  }
  {
   Beachte: hier ist <i>Ägypten</i> ein Bild für Israel, vgl §offb-11-8. Interessanterweise erhielt der junge Jesus in dem Land Schutz, wo die Israeliten unterdrückt wurden.
@@ -58160,6 +58173,9 @@
  }
 #}
 #mt-2-17 {
+ {
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten
+ }
  {
   <i>Da wurde erfüllt, was durch den Propheten Jeremias geredet ist</i>:
   → biblisches/Personen/Jeremia wird im Neuen Testament → biblisches/Bücher/Evangelien/Matthäus#jeremia[nur im Matthäusevangelium] erwähnt, vgl §mt-16-14, §mt-27-9.
@@ -58184,10 +58200,13 @@
 #}
 #mt-2-23 {
  {
-   → biblisches/Orte/Nazareth, vgl §lk-2-39
+   → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten
  }
  {
-  
+  TODO: Ist dies eine Erfüllung von §jes-11-1? Diese Annahme wird <a href='http://www.diebibelonline.de/Prophetien-gesprochene-und-geschriebene.htm'>hier</a> verworfen.
+ }
+ {
+   → biblisches/Orte/Nazareth, vgl §lk-2-39
  }
  {
   <i>wohnte</i> in Sch2K mit «liess sich nieder» übersetzt. vgl §+mt-4-13.
@@ -58496,6 +58515,9 @@
  }
 #}
 #mt-4-14 {
+ {
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §jes-8-23, §jes-9-1
+ }
  {
   Vgl §mk-1-2
  }
@@ -59063,10 +59085,10 @@
 #}
 #mt-8-17 {
  {
-  Verweis: §jes-53-4.
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §jes-53-4
  }
  {
-  Vgl §+roem-15-1.
+  Vgl §+roem-15-1
  }
 #}
 #mt-8-18 {
@@ -59766,10 +59788,12 @@
   <i>Offenbaren/Offenbar machen</i>: <a class='kom' href='#Imt-11-25'>Mt&nbsp;11,25</a>.
  }
 #}
-#mt-12-18 {
+#mt-12-17 {
  {
-  Erfüllung von <a class='kom' href='#Ijes-42-1'>Jes 42,1-4</a>.
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §jes-42-1-4
  }
+#}
+#mt-12-18 {
  {
   <i>mein Geliebter, an welchem meine Seele Wohlgefallen</i> vgl §+mk-1-11, §mt-17-5
   <br>
@@ -60043,7 +60067,7 @@
 #}
 #mt-13-35 {
  {
-  Erfüllung von <a class='kom' href='#Ips-78-2'>Ps&nbsp;78,2</a>.
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §+ps-78-2
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Grundlegung[Von Grundlegung der Welt an]
@@ -60926,9 +60950,14 @@
   TODO: Wäre <i>Ölberg</i> besser mit 'Olivenberg' übersetzt worden?
  }
 #}
+#mt-21-4 {
+ {
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten
+ }
+#}
 #mt-21-5 {
  {
-  §+sach-9-9
+  §+sach-9-9, §joh-12-15 (siehe → biblisches/Bücher/Evangelien/Abschnitte/Jesu-zwei-Einzüge-in-Jerusalem)
  }
  {
   <i>Tochter Zion</i>: vgl <a href='http://bibel.renenyffenegger.ch/joh_12.html#v15'>Joh&nbsp;12,15</a>.
@@ -61793,9 +61822,12 @@
 #}
 #mt-26-15 {
  {
-  Für den Verrat gibt's noch 30 Silberlinge; für das Salböl hätte es 300 Denare gegeben (<a href='http://bibel.renenyffenegger.ch/joh_12.html#v5'>Joh&nbsp;12,5</a>).
-         <br>
-   Vgl <a class='kom' href='#I2mo-21-32'>2.&nbsp;Mo&nbsp;21,32</a>.
+  TODO: Mit den 30 Silberlingen, dem Lohn der Ungerechtigkeit, kaufte Judas einen Acker, §apg-1-18, §mt-27-7-ff
+ }
+ {
+  Für den Verrat gibt ess noch <i>30 Silberlinge</i>; für das Salböl hätte es 300 Denare gegeben (§joh-12-5).
+  <br>
+  Vgl §+2mo-21-32
  }
 #}
 #mt-26-16 {
@@ -61961,6 +61993,9 @@
 #}
 #mt-26-56 {
  {
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten
+ }
+ {
   Vgl die <i>Schriften</i> der → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] mit dem, was durch den Propheten gesagt wurde: §mt-27-35.
  }
 #}
@@ -62049,14 +62084,18 @@
 #}
 #mt-27-9 {
  {
-   <i>Dreissig Silberlinge</i> vgl §+2mo-21-32.
- }
- {
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten
+  <br>
    Dieses Zitat kommt offenbar wörtlich in Jeremia nicht vor, sondern in §sach-11-13.
-   Vgl auch §Vmt-27-35.
  }
  {
   <i>Da wurde erfüllt, was durch den Propheten Jeremias geredet ist</i>: → biblisches/Personen/Jeremia wird im Neuen Testament → biblisches/Bücher/Evangelien/Matthäus#jeremia[nur im Matthäusevangelium] erwähnt, vgl §mt-2-17, §mt-16-14
+ }
+ {
+   Vgl §Vmt-27-35.
+ }
+ {
+   <i>Dreissig Silberlinge</i> vgl §+2mo-21-32.
  }
 #}
 #mt-27-11 {
@@ -70896,6 +70935,9 @@
  }
  {
   Zuerst hat sich Judas offenbar erhängt: <a class='kom' href='#Imt-27-5'>Mt&nbsp;27,5</a>.
+ }
+ {
+  TODO: §mt-26-15
  }
 #}
 #apg-1-20 {
