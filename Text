@@ -58030,6 +58030,9 @@
 @Matthäus 2 {
 #mt-2-1 {
  {
+  → biblisches/Personen/Herodes, der König von Judäa, §lk-1-5
+ }
+ {
   <i>Morgenland</i> (<span class='gr'>ἀνατολή</span>, Strongs 395), bedeutet etwa 'Aufgang' oder 'Osten'
   (vgl <a href='http://bibel.renenyffenegger.ch/lk_1.html#v78'>Lk&nbsp;1,78</a>).
   Es stammt von Strongs 393 ab (welches etwa 'aufgehend' bedeutet).
@@ -58158,6 +58161,9 @@
 #}
 #mt-2-15 {
  {
+  → biblisches/Personen/Herodes
+ }
+ {
   → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §hos-11-1
  }
  {
@@ -58191,6 +58197,11 @@
  }
  {
   <i>Rama</i>: <a class='kom' href='#Ijos-18-25'>Jos&nbsp;18,25</a>.
+ }
+#}
+#mt-2-19 {
+ {
+  → biblisches/Personen/Herodes
  }
 #}
 #mt-2-22 {
@@ -58817,6 +58828,9 @@
 #}
 #mt-6-2 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heuchelei
+ }
+ {
   <i>posaunen</i> (<span class='gr'>σαλπίζω</span>, Strongs 4537)
   <br>S. a. <a class='kom' href='#Imt-24-31'>Mt&nbsp;24,31</a>.
  }
@@ -58878,6 +58892,11 @@
   <br>S.a. §eph-4-32 (wo Gott bereits vergeben hat, und die Gläubigen aufgefordert werden, in gleicher Art zu vergeben).
  }
 #}
+#mt-6-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heuchelei
+ }
+#}
 #mt-6-19 {
  {
   Vgl §lk-12-33 und §jak-5-1-3
@@ -58916,6 +58935,11 @@
 #}
 @}
 @Matthäus 7 {
+#mt-7-5 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heuchelei
+ }
+#}
 #mt-7-7 {
  {
   <i>sucht, und ihr werdet finden</i> vgl §5mo-4-29
@@ -59468,6 +59492,11 @@
    Vgl hier Schafe (<span class='gr'>πρόβατον</span>, Strongs 4263), in <a class='kom' href='#Ilk-10-3'>Lk&nbsp;10,3</a> 'Lämmer' (<span class='gr'>ἀρήν</span>, Strongs 704)
  }
 #}
+#mt-10-20 {
+ {
+  §lk-12-12, §mk-13-11
+ }
+#}
 #mt-10-22 {
  {
   <i>Um seines Namens willen gehasst werden</i>: vgl <a href='http://bibel.renenyffenegger.ch/mt_24.html#v9'>Mt&nbsp;24,9</a>.
@@ -59495,7 +59524,12 @@
   §lk-12-2
  }
  {
-   Es wird den Unmündigen → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung[geoffenbart]: §mt-11-25. Vgl §mt-16-17
+  Es wird den Unmündigen → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung[geoffenbart]: §mt-11-25. Vgl §mt-16-17
+ }
+#}
+#mt-10-28 {
+ {
+  §lk-12-5
  }
 #}
 #mt-10-30 {
@@ -60188,7 +60222,7 @@
 @Matthäus 14 {
 #mt-14-1 {
  {
-   <i>Herodes</i>: <a class='kom' href='#Imt-2-1'>Mt&nbsp;2,1</a>.
+  → biblisches/Personen/Herodes, der Vierfürst von → biblisches/Orte/Galiläa, §lk-3-1
  }
  {
   <i>Gerücht</i>: <a class='kom' href='#Imt-4-24'>Mt&nbsp;4,24</a>.
@@ -60304,9 +60338,14 @@
   Siehe §+2mo-21-15, §3mo-20-9.
  }
 #}
+#mt-15-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heuchelei
+ }
+#}
 #mt-15-8 {
  {
-   Vgl <a class='kom' href='#Ijes-29-13'>Jes&nbsp;29,13</a>.
+   Vgl §+jes-29-13, §mk-7-6
  }
 #}
 #mt-15-13 {
@@ -61166,6 +61205,11 @@
   <i>viele Berufen, wenige auserwählt</i>: <a class='kom' href='#Imt-20-16'>Mt&nbsp;20,16</a>.
  }
 #}
+#mt-22-18 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heuchelei
+ }
+#}
 #mt-22-20 {
  {
   Hier: Das <b>Bild</b> des → biblisches/Personen/Kaiser[Kaisers] (ebenso: <a href='http://bibel.renenyffenegger.ch/mk_12.html#v16'>Mk&nbsp;12,16</a> und <a href='http://bibel.renenyffenegger.ch/lk_20.html#v24'>Lk&nbsp;20,24</a>).
@@ -61268,6 +61312,10 @@
 #}
 #mt-23-13 {
  {
+  Beachte, wie häufig in diesem Kapitel der Herr die Schriftgelehrten und → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer → biblisches/Eigene-Uebersetzung/Konkordanz/Heuchelei[Heuchler] nennt. Im nächsten
+  Kapitel wird das Gericht über die Heuchler beschrieben: §mt-24-51
+ }
+ {
   <i>ihr geht nicht ins → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Reich[Reich Gottes] hinein</i> §mt-21-31
  }
 #}
@@ -61302,7 +61350,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
-  Mit <i>Zacharia, dem Sohn Barachjas</i> scheint Sacharja zu sein: §+sach-1-1.
+  Mit <i>Zacharia, dem Sohn Barachjas</i> scheint Sacharja gemeint zu sein: §+sach-1-1.
   <i>Aber</i> in §2chr-24-20 wird ein Sacharja (Elberfelder: Sekarja), Sohn Jojadas im Hof des Hauses Jehovas gesteinigt.
    In §jes-8-2 ein gewisser <i>Sacharja, Sohn Jeberekjas</i> erwähnt.
   <br>
@@ -61653,6 +61701,10 @@
  }
 #}
 #mt-24-51 {
+ {
+  Beachte wie häufig der Herr im vorangehenden Kapitel die Schriftgelehrten und → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer → biblisches/Eigene-Uebersetzung/Konkordanz/Heuchelei[Heuchler] genannt hat (§+mt-23-13). Hier beschreibt
+  er ihre Strafe.
+ }
  {
   <i>Heulen und Zähneknirschen</i>: vgl §+mt-8-12,
   → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen
@@ -63202,7 +63254,7 @@
 #}
 #mk-7-6 {
  {
-   Vgl <a class='kom' href='#Ijes-29-13'>Jes&nbsp;29,13</a>.
+  Vgl §+jes-29-13, §mt-15-6-7
  }
 #}
 #mk-7-8 {
@@ -63310,7 +63362,7 @@
 #}
 #mk-8-15 {
  {
-   <i>Sauerteig der Pharisäer</i>: §+mt-16-6.
+   <i>Sauerteig der Pharisäer und Sauerteig des → biblisches/Personen/Herodes</i>, vgl mit dem «Sauerteig der Pharisäer und Sadduzäer» §+mt-16-6.
  }
 #}
 #mk-8-17 {
@@ -63741,6 +63793,11 @@
   <a href='http://bibel.renenyffenegger.ch/mt_11.html#v27'>Mt&nbsp;11,27</a>?
  }
 #}
+#mk-12-15 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heuchelei
+ }
+#}
 #mk-12-16 {
  {
   Das <b>Bild des → biblisches/Personen/Kaiser[Kaisers]</b>: siehe <a class='kom' href='#Imt-22-20'>Mt&nbsp;22,20</a>.
@@ -63828,7 +63885,9 @@
 #}
 #mk-13-11 {
  {
-  TODO: <i>Der Heilige Geist spricht</i>: <a class='kom' href='#Iapg-13-2'>Apg&nbsp;13,2</a>.
+  <i>Der Heilige Geist redet/spricht</i>: §mt-10-20, §lk-12-12
+  <br>
+    Vgl §+apg-13-2
  }
 #}
 #mk-13-13 {
@@ -64392,7 +64451,7 @@
 #}
 #lk-1-5 {
  {
-   <i>Herodes</i>: <a class='kom' href='#Imt-2-1'>Mt&nbsp;2,1</a>.
+   Jesus, der König der Juden, ist in den Tagen → biblisches/Personen/Herodes, des König von Judäa, geboren: §+mt-2-1
  }
  {
   Abteilung Abija: <a class='kom' href='#I1chr-24-10'>1.&nbsp;Chr&nbsp;24,10</a>.
@@ -64859,11 +64918,16 @@
 @Lukas 3 {
 #lk-3-1 {
  {
-  Pilatus: <a class='kom' href='#Imt-27-2'>Mt&nbsp;27,2</a>.
-  <br>Beachte: Pilatus ist von Galiläa (<a href='http://bibel.renenyffenegger.ch/lk_23.html#v6'>Lk&nbsp;23,6</a>), Herodes Vierfürst von Galiläa.
+  → biblisches/Personen/Herodes
  }
  {
-  → biblisches/Personen/Johannes/Täufer/index
+  Hier wird Pilatus als Landpfleger erwähnt (auch in §+mt-27-2). Bedeutet dies, dass es zu dieser Zeit gar keinen König von Judäa gegeben hat, wie es noch zur Geburt Jesu der Fall war, §lk-1-5.
+ }
+ {
+  Beachte: Pilatus ist von Galiläa (§lk-23-6), Herodes Vierfürst von Galiläa.
+ }
+ {
+  → biblisches/Personen/Johannes/Täufer
  }
  {
   <i>Herodes</i>: <a class='kom' href='#Imt-2-1'>Mt&nbsp;2,1</a>,
@@ -64957,7 +65021,7 @@
 #}
 #lk-3-19 {
  {
-  → biblisches/Personen/Philippus
+   Der Bruder von → biblisches/Personen/Herodes war → biblisches/Personen/Philippus, der Vierfürst, §lk-3-1
  }
 #}
 #lk-3-20 {
@@ -65751,6 +65815,11 @@
   Vgl Vers 19.
  }
 #}
+#lk-9-9 {
+ {
+  → biblisches/Personen/Herodes
+ }
+#}
 #lk-9-10 {
  {
   → biblisches/Orte/Bethsaida
@@ -66111,7 +66180,7 @@
 @Lukas 12 {
 #lk-12-1 {
  {
-   <i>Sauerteig der Pharisäer</i>: §+mt-16-6
+   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Sauerteig der → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer</i>: §+mt-16-6
  }
  {
   <i>Hütet euch</i> vgl §Vlk-12-15
@@ -66134,9 +66203,19 @@
   Jesus nennt seine Jünger → biblisches/Eigene-Uebersetzung/Konkordanz/Freund[Freunde] Vgl §joh-15-14
  }
 #}
+#lk-12-5 {
+ {
+  §mt-10-28
+ }
+#}
 #lk-12-11 {
  {
   <i>womit ihr euch verantworten … sollt</i> vgl §lk-21-14
+ }
+#}
+#lk-12-12 {
+ {
+  §mt-10-20, §mk-13-11
  }
 #}
 #lk-12-13 {
@@ -67272,6 +67351,11 @@
 #lk-23-5 {
  {
   <i>anfgangend von → biblisches/Orte/Galiläa</i> vgl §apg-10-37
+ }
+#}
+#lk-23-7 {
+ {
+  → biblisches/Personen/Herodes
  }
 #}
 #lk-23-8 {
@@ -71607,6 +71691,9 @@
 #}
 #apg-4-27 {
  {
+  → biblisches/Personen/Herodes
+ }
+ {
   Vergleiche <a href='http://bibel.renenyffenegger.ch/apg_3.html#v13'>Apg&nbsp;3,13</a>: 'Pilatus wollte ihn freisprechen.'
  }
  {
@@ -73237,10 +73324,7 @@
 @Apostelgeschichte 12 {
 #apg-12-1 {
  {
-  <i>Herodes</i>: <a class='kom' href='#Imt-2-1'>Mt&nbsp;2,1</a>.
- }
- {
-  <i>Hand des Herodes</i>: <a class='kom' href='#Iapg-4-28'>Apg&nbsp;4,28</a>.
+  Vgl die <i>Hand des → biblisches/Personen/Herodes</i> mit der «Hand Gottes» §+apg-4-28
  }
 #}
 #apg-12-2 {
@@ -73369,6 +73453,11 @@
   </span>
  }
 #}
+#apg-12-22 {
+ {
+  Die wahre <i>Stimme Gottes</i> ist im Wort Gottes. Dieses überdaurt den Tod von → biblisches/Personen/Herodes, wächst und mehrt sich, §apg-12-24.
+ }
+#}
 #apg-12-23 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
@@ -73427,6 +73516,9 @@
 #apg-13-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung, → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung#absonderung-paulus[Sondert mir … Saulus aus] (vgl. §roem-1-1)
+ }
+ {
+  Möglicherweise steht die Aussonderung von → biblisches/Personen/Paulus mit dem vorangehenden Tod von → biblisches/Personen/Herodes (§apg-12-32) im Zusammenhang.
  }
  {
   In Antiochia wurden sie zum Werk berufen, und in Antiochia hatten sie es vollbracht (<a href='http://bibel.renenyffenegger.ch/apg_14.html#v26'>Apg&nbsp;14,26</a>).
@@ -75717,7 +75809,7 @@
 #}
 #apg-23-35 {
  {
-  <i>Herodes</i>: <a class='kom' href='#Imt-2-1'>Mt&nbsp;2,1</a>.
+  → biblisches/Personen/Herodes
  }
 #}
 @}
@@ -78205,7 +78297,7 @@
  {
   <i>uneheuchelt</i> (<span class='gr'>ἀνυπόκριτος</span> Strongs 505).
   <i>Ungeheuchelte Liebe</i> auch in §2kor-6-6, <i>...Bruderliebe</i> in §1petr-1-22.
-  <i>...Glaube</i> in <a href='http://bibel.renenyffenegger.ch/1tim_1.html#v5'>1.&nbsp;Tim&nbsp;1,5</a>, <a href='http://bibel.renenyffenegger.ch/2tim_1.html#v5'>2.&nbsp;Tim&nbsp;1,5</a>.
+  <i>…Glaube</i> in §1tim-1-5, §2tim-1-5.
  }
 #}
 #roem-12-10 {
