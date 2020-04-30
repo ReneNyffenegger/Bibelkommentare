@@ -27650,7 +27650,7 @@
       <a href='http://bibel.renenyffenegger.ch/ps_23.html#v2'>Ps&nbsp;23,2</a>, <a href='http://bibel.renenyffenegger.ch/ps_28.html#v9'>Ps&nbsp;28,9</a>,
       <a href='http://bibel.renenyffenegger.ch/ps_78.html#v72'>Ps&nbsp;78,72</a>,
       <a class='kom' href='#Ips-79-13'>Ps&nbsp;79,13</a>
-  <br><a href='http://bibel.renenyffenegger.ch/mt_2.html#v6'>Mt&nbsp;2,6</a>.
+  <br>§mt-2-6
   <br><a class='kom' href='#I2mo-34-3'>2.&nbsp;Mo&nbsp;34,3</a>
   <br>TODO: Weideplätze in <a href='http://bibel.renenyffenegger.ch/jos_21.html#v2'>Jos 21,2 ff</a>.
  }
@@ -31549,7 +31549,10 @@
 #2koe-18-17 {
  {
   Unter Ahas schickte der HERR Jesaja 'Ahas entgegen, [...]  an das Ende der Wasserleitung des oberen Teiches, zur Straße des Walkerfeldes,'
-         (<a href='http://bibel.renenyffenegger.ch/jes_7.html#v3'>Jes&nbsp;7,3</a>).
+ (<a href='http://bibel.renenyffenegger.ch/jes_7.html#v3'>Jes&nbsp;7,3</a>).
+ }
+ {
+  <i>Rasbsaris</i>, <span class='hebr'>רַב־סָרִיס</span> (Strongs 7249), wird in §jer-39-3 mit «Oberkämmerer» übersetzt.
  }
  {
   Vgl Unterschiede mit §jes-36-2
@@ -56155,7 +56158,7 @@
 #}
 #joe-4-13 {
  {
-  <i>Legt die Sichel an, denn die Ernte ist reif</i> vgl §offb-14-14-ff
+  <i>Legt die Sichel an, denn die Ernte ist reif</i> vgl §offb-14-14-ff, vgl §mk-4-29
   <br>
   <i>die Kelter ist voll, die Kufen fließen über</i> vgl §offb-14-18-19
  }
@@ -58033,28 +58036,12 @@
   → biblisches/Personen/Herodes, der König von Judäa, §lk-1-5
  }
  {
-  <i>Morgenland</i> (<span class='gr'>ἀνατολή</span>, Strongs 395), bedeutet etwa 'Aufgang' oder 'Osten'
-  (vgl <a href='http://bibel.renenyffenegger.ch/lk_1.html#v78'>Lk&nbsp;1,78</a>).
-  Es stammt von Strongs 393 ab (welches etwa 'aufgehend' bedeutet).
+  <i>Morgenland</i> (<span class='gr'>ἀνατολή</span>, Strongs 395), bedeutet etwa Aufgang oder Osten (vgl §lk-1-78).
+  Das Wort stammt von Strongs 393 ab (welches etwa «aufgehend» bedeutet).
  }
  {
-  <i>Herodes</i>
-  Hier 'König' genannt. Offenbar war er König über Judäa (Vers 19). Herodes stirbt in Vers 19.
-  Vgl diesen König mit dem <i>neugberoenen König der Juden</i> in Vers 2!
-  Das ist (wohl?) derselbe wie in <a href='http://bibel.renenyffenegger.ch/lk_1.html#v5'>Lk&nbsp;1,5</a>.
-  <br>Dann gibt es den 'Vierfürst' Herodes (<a href='http://bibel.renenyffenegger.ch/mt_14.html#v1'>Mt&nbsp;14,1</a>).
-      Dieser tötete Johannes. TODO: Ist dies derselbe wie der von <a href='http://bibel.renenyffenegger.ch/apg_13.html#v1'>Apg&nbsp;13,1</a>?
-      Dieser Herodes wird offenbar in <a href='http://bibel.renenyffenegger.ch/mk_6.html#v14'>Mk 6,14 ff</a>
-      'König' genannt.
-      TODO: ist das derselbe Herodes wie der 'Vierfürst von Galilä' (<a href='http://bibel.renenyffenegger.ch/lk_3.html#v1'>Lk&nbsp;3,1</a>)?
-      TODO: <a class='kom' href='#Ilk-3-19'>Lk&nbsp;3,19</a> / <a href='http://bibel.renenyffenegger.ch/lk_9.html#v7'>Lk&nbsp;9,7</a>
-  <br>Ein 'König Herodes' wird in <a href='http://bibel.renenyffenegger.ch/apg_21.html#v1'>Apg&nbsp;21,1</a> erwähnt.
-  <br>TODO: Herodes mit Präteritum (<a href='http://bibel.renenyffenegger.ch/apg_23.html#v35'>Apg&nbsp;23,35</a>).
-  <br>TODO: Herodes mit dem Herrschaftsgebiet Galiläa: <a href='http://bibel.renenyffenegger.ch/lk_23.html#v7'>Lk&nbsp;23,7</a>
- }
- {
-  <i>Weise</i>: <span class='gr'>μάγος</span> (Strongs 3097), stammt offenbar vom Hebr. Strongs 7248 ab (<a href='http://bibel.renenyffenegger.ch/jer_39.html#v3'>Jer&nbsp;39,3</a>).
-  Dasselbe Wort wird in <a class='kom' href='#Iapg-13-6'>Apg 13,6/8</a> für 'Zauberer' verwendet.
+  <i>Weise</i>: <span class='gr'>μάγος</span> (Strongs 3097), stammt offenbar vom Hebr. Strongs 7248 ab (§jer-39-3).
+  Dasselbe Wort wird in §apg-13-6 mit «Magier» übersetzt.
  }
  {
   Warren Cage meint, dass die Magier §mi-5-1 nicht gekannt hätten und darum nach → biblisches/Orte/Jerusalem statt nach → biblisches/Orte/Bethlehem kamen.
@@ -58072,15 +58059,14 @@
  {
   <i>anbeten</i>: <span class='gr'>προσκυνέω</span> (Strongs 4352),
   in Matthäus
-    <a href='http://bibel.renenyffenegger.ch/mt_8.html#v2'>Mt&nbsp;8,2</a>,
-    <a href='http://bibel.renenyffenegger.ch/mt_9.html#v18'>Mt&nbsp;9,18</a>,
-    <a href='http://bibel.renenyffenegger.ch/mt_15.html#v25'>Mt&nbsp;15,25</a>,
-    <a href='http://bibel.renenyffenegger.ch/mt_18.html#v26'>Mt&nbsp;18,26</a>,
-    <a href='http://bibel.renenyffenegger.ch/mt_20.html#v20'>Mt&nbsp;20,20</a>
+    §mt-8-2,
+    §mt-9-18,
+    §mt-15-25,
+    §mt-18-26,
+    §mt-20-20
     mit «niederfallen»,
   in
-    <a href='http://bibel.renenyffenegger.ch/mt_14.html#v33'>Mt&nbsp;14,33</a>
-     mit «anbetend niederfallen»
+    §mt-14-33 mit «anbetend niederfallen»
   <br>
    Siehe auch <a href='http://bibel.renenyffenegger.ch/mt_28.html#v9'>Mt&nbsp;28,9</a>
   <br>
@@ -58090,23 +58076,28 @@
   <i>Wo ist der König der Juden?</i>: §mt-27-11
  }
  {
-  <i>Wo ist der König der Juden…</i>: dies ist die erste Frage im → biblisches/Grundtext/Neues-Testament[Neuen Testament]. Die erste Frage im Alten Testement stellt Gott in §1mo-3-9:
+  <i>Wo ist der König der Juden…</i>: dies ist die erste Frage im → biblisches/Grundtext/Neues-Testament[Neuen Testament]. Die erste Frage Gottes (und damit dieses Königs) im Alten Testement stellt Gott in §1mo-3-9:
   «Wo bist du?»
  }
 #}
 #mt-2-4 {
  {
-  <i>Oberste Priester</i>: <span class='gr'>ἀρχιερεύς</span> (Strongs 749), sonst häufig mit «Hohepriester» übersetzt.
+  <i>Hohenpriester</i>: <span class='gr'>ἀρχιερεύς</span> (Strongs 749), in Schlachter mit  «obersten Priester» übersetzt.
  }
 #}
 #mt-2-6 {
  {
-  <i>Das Volk weiden</i>: <a class='kom' href='#I2sam-5-2'>2.&nbsp;Sam&nbsp;5,2</a>.
+  <i>Ein Führer, der mein Volk Israel weiden wird</i>: es waren Hirten, die zuerst von der Geburt dieses Führers erfuhren, §lk-2-8-ff
+  <br>
+   Vgl auch mit → biblisches/Personen/David, §+2sam-5-2
  }
  {
-  <i>Fürstenstädte</i> (<span class='gr'>ἡγεμών</span>, Strongs 2232) [TODO: kann offenbar 'Hauptstadt einer Region' bedeuten, wird aber in
-  KJV mit 'princes' übersetzt]. Vgl mit
-  <i>Herrscher</i> (<span class='gr'>ἡγέομαι</span>, Strongs 2233). Vgl auch 'Grösste' in <a class='kom' href='#Ilk-22-26'>Lk&nbsp;22,26</a>.
+  <i>Fürsten</i>, <span class='gr'>ηγεμοσιν</span> (Strongs 2232), wird in Schlachter mit «Fürstenstädten», in KJV mit «princes» übersetzt. In §mt-10-18, §mk-13-9, §lk-21-12 und §1petr-2-14
+  wird dieses Wort mit «Statthalter», in §mt-27-2-ff und einigen anderen Versen mit «Landpfleger» übersetzt.
+  <br>
+ Vgl mit «Herrscher» (<span class='gr'>ἡγέομαι</span>, Strongs 2233).
+ <br>
+  Vgl auch «Leiter» in §+lk-22-26.
  }
  {
   Prophezeiung aus §+mi-5-1.
@@ -58558,6 +58549,9 @@
   §mk-1-16
  }
  {
+  <i>zwei Brüder</i> vgl §+mk-6-7 
+ }
+ {
   → biblisches/Orte/Galiläa
  }
  {
@@ -58580,7 +58574,13 @@
 #}
 #mt-4-19 {
  {
+  §mk-1-17
+ }
+ {
   <i>Menschenfischer</i> vgl §jer-16-16
+ }
+ {
+  Beachte, hier will der Herr zwei seiner Jünger zu <i>Menschenfischern</i> machen, in anderen Versen spricht Er von einer <i>Ernte</i>: §mt-9-37-ff, §lk-10-2, §joh-4-35
  }
 #}
 #mt-4-21 {
@@ -58808,6 +58808,11 @@
   <span class='gt'>Nicht in NA: «segnet, die euch fluchen, tut wohl denen, die euch hassen,» und «beleidigen und»</span>.
  }
 #}
+#mt-5-45 {
+ {
+  <i>läßt es regnen über Gerechte und Ungerechte</i> §apg-14-17
+ }
+#}
 #mt-5-48 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen: vgl §5mo-18-13, §mt-19-21
@@ -58872,6 +58877,9 @@
  }
 #}
 #mt-6-13 {
+ {
+  <i>führe uns nicht in Versuchung</i>, §lk-11-4, vgl §mt-26-41, §lk-22-40
+ }
  {
   <i>erlöse</i>, in Elb05 und Sch2K mit «errette» übersetzt. Vgl §lk-11-4, wo dasselbe Griechische Wort ebenfalls mit «erlöse» übersetzt wird.
   Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
@@ -59158,6 +59166,9 @@
 #}
 #mt-8-24 {
  {
+  §mk-4-37, §lk-8-23
+ }
+ {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/ps_107.html#v25'>Ps 107,25/29</a>.
  }
  {
@@ -59180,6 +59191,9 @@
   <i>Kleingläubig in den Evangelien</i>: <a class='kom' href='#Imt-6-30'>Mt&nbsp;6,30</a>.
  }
  {
+  <i>furchtsam</i> und <i>Kleingläubige</i> vgl §mk-4-40, §offb-21-8, §joh-14-27
+ }
+ {
   <i>befahl</i>: <span class='gr'>ἐπιτιμάω</span> (Strongs 2008) wird in Elberfelder mit «bedrohte» in KJV mit «rebuke» übersetzt.
   In <a href='http://bibel.renenyffenegger.ch/mt_16.html#v22'>Mt&nbsp;16,22</a> mit «wehren» (Elberfelder: «strafen» od «tadeln»)
  }
@@ -59198,6 +59212,9 @@
  }
  {
   <i>aus den Gräbern heraus</i>: <a class='kom' href='#Ips-107-20'>Ps&nbsp;107,20</a>, <a href='http://bibel.renenyffenegger.ch/mt_27.html#v52'>Mt 27,52-53</a>.
+ }
+ {
+  Das Land der <i>Gergesener</i> wird offenbar in §mk-5-1 und §lk-8-26 «Land der Gadarener» genannt.
  }
 #}
 #mt-8-29 {
@@ -59370,7 +59387,9 @@
 #}
 #mt-9-37 {
  {
-  §lk-10-2, §joh-4-35
+  <i>Ernte</i>:§lk-10-2, §joh-4-35
+ <br>
+  Vgl. die Ernte mit den <i>Menschenfischern</i>, §+mt-4-19
  }
 #}
 #mt-9-38 {
@@ -59424,6 +59443,9 @@
 #mt-10-5 {
  {
   Nachdem Jesus die <i>zwölf</i> ausgesandt hatte, hörte Johannes im Gefängnis (von?) den Werken des Christus (<a href='http://bibel.renenyffenegger.ch/mt_11.html#v1'>Mt 11,1-2</a>).
+ }
+ {
+  <i>Geht nicht auf den Weg der Nationen…</i>, vgl mit → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, dem Apostel der Nationen]
  }
 #}
 #mt-10-6 {
@@ -59490,6 +59512,13 @@
  {
   <i>Schafe unter Wölfen</i>: <a class='kom' href='#Imt-7-15'>Mt&nbsp;7,15</a>.
    Vgl hier Schafe (<span class='gr'>πρόβατον</span>, Strongs 4263), in <a class='kom' href='#Ilk-10-3'>Lk&nbsp;10,3</a> 'Lämmer' (<span class='gr'>ἀρήν</span>, Strongs 704)
+ }
+#}
+#mt-10-18 {
+ {
+  <i>vor Statthalter und Könige geführt werden</i> §mk-13-9, §lk-21-12
+  <br>
+   Vgl mit → biblisches/Personen/Paulus, der den Namen des Herrn vor Nationen, Könige und die Söhne Israels tragen soll, §apg-9-15.
  }
 #}
 #mt-10-20 {
@@ -59581,15 +59610,17 @@
   <i>Johannes im Gefängnis</i>: §+mt-4-12.
  }
  {
+  <i>Zwei Jünger senden</i> §+mk-6-7, §mt-21-2
+  <br>
+  Hier (und in §lk-7-19) sendet Johannes <i>zwei seiner Jünger</i>, in §mt-21-1, §+mk-11-1, §mk-14-13, §lk-19-29 sendet Jesus zwei Jünger.
+  <br>
+   Vgl mit §joh-1-35 und §joh-21-2.
+ }
+ {
   Siehe §+mt-10-5.
  }
  {
   Hier erste Erwähnung von <i>Christus</i> in Matthäus.
- }
- {
-  Hier (und in §lk-7-19) sendet Johannes <i>zwei seiner Jünger</i>, in §mt-21-1, §+mk-11-1, §mk-14-13, §lk-19-29 sendet Jesus zwei Jünger.
-  <br>
-   Vgl mit §joh-1-35 und §joh-21-2.
  }
  {
   <span class='gt'>NA hat <i>sandte durch seine Jünger</i></span>
@@ -60303,7 +60334,7 @@
  }
 #}
 #mt-14-29 {
- {
+mt {
   TODO: Ist dies die einzige Stelle in den Evangelien, wo erwähnt wird, dass Petrus auf dem See geht?
  }
 #}
@@ -60319,6 +60350,9 @@
  }
  {
   Beachte: Judas scheint hier auch dabei gewesen zu sein.
+ }
+ {
+  <span class='gt'><i>kamen</i> nicht in NA.</span>.
  }
 #}
 #mt-14-34 {
@@ -60987,6 +61021,11 @@
  }
  {
   TODO: Wäre <i>Ölberg</i> besser mit 'Olivenberg' übersetzt worden?
+ }
+#}
+#mt-21-2 {
+ {
+  <i>Zwei Jünger senden</i> §+mk-6-7, §mt-11-2
  }
 #}
 #mt-21-4 {
@@ -62010,6 +62049,11 @@
   Das Wort kommt auch noch in <a href='http://bibel.renenyffenegger.ch/mk_14.html#v32'>Mk&nbsp;14,32</a> vor.
  }
 #}
+#mt-26-41 {
+ {
+  <i>Wacht und betet, auf daß ihr nicht in Versuchung kommt</i>: §mk-14-38 vgl §mt-6-13
+ }
+#}
 #mt-26-45 {
  {
   <i>Händer der Sünder</i>: <a class='kom' href='#Imt-17-22'>Mt&nbsp;17,22</a>.
@@ -62632,6 +62676,11 @@
   §mt-4-18
  }
 #}
+#mk-1-17 {
+ {
+  §+mt-4-19
+ }
+#}
 #mk-1-19 {
  {
   → biblisches/Personen/Johannes/index, → biblisches/Personen/Jakobus/index
@@ -62953,10 +63002,14 @@
   TODO: Menge übersetzt «..., ohne daß er selbst etwas davon weiß.».
  }
 #}
+#mk-4-28 {
+ {
+  TODO: Zuerst Gras: §1mo-1-11, Ähre: §mo-13-4, Weizen: ?
+ }
+#}
 #mk-4-29 {
  {
-  TODO <i>Sichel</i>: offenbar die einzige Stelle im NT ausserhalb der Offenbarung, wo sie erwähnt wird. Vgl
-  <a href='http://bibel.renenyffenegger.ch/offb_14.html#v14'>Offb 14,14-19</a>.
+  Vgl §offb-14-14-ff, §joe-4-13
  }
 #}
 #mk-4-30 {
@@ -62967,6 +63020,11 @@
 #mk-4-35 {
  {
   TODO: Was für ein Tag?
+ }
+#}
+#mk-4-37 {
+ {
+  §mt-8-24, §lk-8-23
  }
 #}
 #mk-4-38 {
@@ -62980,6 +63038,11 @@
   Vgl §+ps-89-10
  }
 #}
+#mk-4-40 {
+ {
+  <i>furchtsam</i> und <i>habt ihr keinen Glauben</i> vgl §mt-8-26, §offb-21-8, §joh-14-27
+ }
+#}
 #mk-4-41 {
  {
   Vgl §+ps-107-29.
@@ -62987,6 +63050,11 @@
 #}
 @}
 @Markus 5 {
+#mk-5-1 {
+ {
+  Das Land der <i>Gadarener</i> wird in §mt-8-28 «Land der Gergesener» genannt, vgl §lk-8-26
+ }
+#}
 #mk-5-2 {
  {
   Vgl diese Menschen mit einem unreinen Geist mit dem Menschen mit einem unreinen Geist in §mk-1-23-ff.
@@ -63120,6 +63188,13 @@
   TODO <i>ringsumher</i> (<span class='gr'>κύκλῳ</span>, Strongs 2945) kommt auch in Vers 36 vor.
  }
 #}
+#mk-6-7 {
+ {
+   <i>zwei und zwei aussenden</i> vgl mit der Berufung von Petrus und Andreas (§mt-4-18, §mk-1-16), Jakobus und Johannes (§mt-4-21, §mk-1-19) und der Sendung zweier seiner Jünger in §mt-11-2, §mt-21-2, §mk-11-1, §mk-14-13, §lk-10-1, §lk-19-29
+   <br>
+    S.a. §lk-24-13, §joh-21-2
+ }
+#}
 #mk-6-8 {
  {
   Beachte, in <a href='http://bibel.renenyffenegger.ch/lk_9.html#v3'>Lk&nbsp;9,3</a> sollen die Jünger keinen <i>Stab</i> mitnehmen.
@@ -63146,7 +63221,7 @@
 #}
 #mk-6-14 {
  {
-  <i>Herodes</i>: <a class='kom' href='#Imt-2-1'>Mt&nbsp;2,1</a>.
+  → biblisches/Personen/Herodes
  }
 #}
 #mk-6-15 {
@@ -63667,7 +63742,8 @@
   → biblisches/Bücher/Evangelien/Abschnitte/Jesu-zwei-Einzüge-in-Jerusalem
  }
  {
-  <i>Zwei Jünger aus Bethphage aussenden</i> §+mt-21-1-ff, §lk-19-29-ff
+  <i>Zwei Jünger aus Bethphage aussenden</i> §+mt-21-1-ff, §lk-19-29-ff,
+  §+mk-6-7
  }
  {
   <br>TODO: Sind diese <i>zwei Jünger</i> Jakobus und Johannes (<a href='http://bibel.renenyffenegger.ch/mk_10.html#v35'>Mk&nbsp;10,35</a>)?
@@ -63881,6 +63957,8 @@
 #mk-13-9 {
  {
   <i>an → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge[Synagogen] überliefern</i> vgl §lk-21-12, §joh-16-2
+ <br>
+  <i>vor Statthalter und Könige gestellt werden</i> vgl §mt-10-18
  }
 #}
 #mk-13-11 {
@@ -64025,7 +64103,7 @@
   <i>Geht in die Stadt</i> vgl §mk-11-2
  }
  {
-  <i>Zwei Jünger</i>: §+mt-11-2.
+  <i>Zwei Jünger senden</i> §+mk-6-7, §+mt-11-2
  }
 #}
 #mk-14-14 {
@@ -64093,6 +64171,11 @@
   hingehen nach → biblisches/Orte/Galiläa: §mk-16-7
  }
 #}
+#mk-14-29 {
+ {
+  §lk-22-33, §joh-13-37
+ }
+#}
 #mk-14-32 {
  {
   <i>Gethsemane</i>: <a class='kom' href='#Imt-26-36'>Mt&nbsp;26,36</a>.
@@ -64113,6 +64196,11 @@
  }
  {
   Simon war hier kein Petrus.
+ }
+#}
+#mk-14-38 {
+ {
+  §mt-26-41
  }
 #}
 #mk-14-41 {
@@ -64683,6 +64771,9 @@
 @}
 @Lukas 2 {
 #lk-2-1 {
+ {
+  <i>Hirten</i> waren die ersten, die von der Geburt Jesu erfuhren. Dieser Neugeborene war selbst ein Hirte, der das «Volk Israel weiden wird», §mt-2-6
+ }
  {
   → biblisches/Personen/Kaiser/Augustus
  }
@@ -65722,12 +65813,20 @@
   Vgl §lk-10-21
  }
 #}
+#lk-8-23 {
+ {
+  §mt-8-24, §mk-4-37
+ }
+#}
 #lk-8-24 {
  {
   Vgl §+ps-89-10.
  }
 #}
 #lk-8-26 {
+ {
+  Das Land der <i>Gadarener</i> wird in §mt-8-28 «Land der Gergesener» genannt, vgl §mk-5-1
+ }
  {
   TODO: §joh-6-1
  }
@@ -65977,6 +66076,11 @@
 #}
 @}
 @Lukas 10 {
+#lk-10-1 {
+ {
+  <i>Zu je zweien senden</i> §+mk-6-7
+ }
+#}
 #lk-10-2 {
  {
   §mt-9-37, §joh-4-35
@@ -66073,7 +66177,10 @@
 #}
 #lk-11-4 {
  {
-  <a class='kom' href='#Imt-6-12'>Mt&nbsp;6,12</a>.
+  <i>Vergib unsere Sünden</i>, vgl mit §+mt-6-12.
+ }
+ {
+  <i>führe uns nicht in Versuchung</i> §+mt-6-13
  }
  {
    <span class='gt'>In NA fehlt «sondern erlöse uns von dem Bösen!»</span>
@@ -66903,7 +67010,7 @@
   → biblisches/Bücher/Evangelien/Abschnitte/Jesu-zwei-Einzüge-in-Jerusalem
  }
  {
-  <i>Zwei Jünger aus Bethphage aussenden</i> §+mt-21-1-ff, §mk-11-1
+  <i>Zwei Jünger aus Bethphage aussenden</i> §+mt-21-1-ff, §mk-11-1, §+mk-6-7
  }
 #}
 #lk-19-30 {
@@ -67048,6 +67155,9 @@
 #lk-21-12 {
  {
   <i>an die → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge überliefern</i>: vgl §mk-13-9, §lk-21-12, §joh-16-2
+ }
+ {
+  <i>vor Könige und Statthalter führen</i> §+mt-10-18
  }
 #}
 #lk-21-14 {
@@ -67216,18 +67326,27 @@
 #}
 #lk-22-26 {
  {
-  <i>Grösster</i> (Strongs 2233): §+mt-2-6. Vgl auch §apg-14-12.
+  <i>Leiter</i>, <span class='gr'>ηγουμενος</span>, Strongs 2233: §+mt-2-6. Vgl auch §apg-14-12.
  }
 #}
 #lk-22-28 {
  {
-  TODO: <i>Anfechtung</i> (<span class='gr'>πειρασμός</span>, Strongs 3986) wird sonst mit 'Versuchung' übersetzt,
-  zum Beispiel in Vers 40 und Vers 46.
+  <i>Versuchungen</i>, <span class='gr'>πειρασμός</span>, Strongs 3986, wird hier in Schlachter mit «Anfechtungen» übersetzt nicht aber in §Vlk-22-40 und §Vlk-22-46, vgl §+apg-20-19, 1petr-1-6 und andere
+ }
+#}
+#lk-22-29 {
+ {
+  <i>ich verordne euch ein Reich</i> vgl §jak-2-5
  }
 #}
 #lk-22-31 {
  {
   Verdoppelung des Namens, siehe <a class='kom' href='#I1mo-22-11'>1.&nbsp;Mo&nbsp;22,11</a>.
+ }
+#}
+#lk-22-33 {
+ {
+  §mk-14-29, §joh-13-37
  }
 #}
 #lk-22-34 {
@@ -67264,7 +67383,9 @@
 #}
 #lk-22-40 {
  {
-  <i>Versuchung</i> §Vlk-22-28. <i>Beten, um nicht in Versuchung zu kommen</i> §Vlk-22-46
+  <i>Versuchung</i> §Vlk-22-28
+  <br>
+   <i>Beten, um nicht in Versuchung zu kommen</i> §Vlk-22-46, vgl §+mt-6-13
  }
 #}
 #lk-22-41 {
@@ -67910,7 +68031,7 @@
 #}
 #joh-1-35 {
  {
-  <i>Zwei Jünger</i>: <a class='kom' href='#Imt-11-2'>Mt&nbsp;11,2</a>.
+  <i>Zwei Jünger von Johannes</i>: §+mt-11-2.
  }
 #}
 #joh-1-38 {
@@ -69957,7 +70078,9 @@
 #}
 #joh-13-37 {
  {
-  <i>Mein Leben will ich für dich lassen</i>: das wird er auch, vgl §joh-21-19
+  <i>Mein Leben will ich für dich lassen</i>, vgl §mk-14-29, §lk-22-33
+<br>
+   Petrus wird dann tatsächlich durch seinen Tod Gott verherrlichen: §joh-21-19
  }
 #}
 @}
@@ -70100,6 +70223,9 @@
 #joh-14-27 {
  {
   <i>euer Herz werde nicht bestürzt</i>, §Vjoh-14-1
+ }
+ {
+  <i>sei auch nicth furchtsam</i> §mt-8-26, §lk-4-40
  }
 #}
 #joh-14-29 {
@@ -70802,7 +70928,10 @@
 #}
 #joh-21-19 {
  {
-   <i>andeutend, mit welchem Tod er Gott verherrlichen sollte</i> §+joh-12-33, §joh-13-37
+   <i>andeutend, mit welchem Tod er Gott verherrlichen sollte</i> §+joh-12-33
+ }
+ {
+  → biblisches/Personen/Petrus wollte sein Leben für den Herrn lassen, §joh-13-37
  }
 #}
 #joh-21-20 {
@@ -72056,7 +72185,7 @@
 #}
 #apg-6-14 {
  {
-   <i>Gebräuchte Moses</i> vgl <a href='http://bibel.renenyffenegger.ch/apg_15.html#v1'>Apg&nbsp;15,1</a>.
+   <i>Gebräuche Moses</i> vgl §apg-15-1
  }
 #}
 @}
@@ -72773,10 +72902,13 @@
   König den Herrn durch das Evangelium verkünden(?).
  }
  {
+  Paulus soll den Namen (auch) vor <i>Könige</i> tragen. Vgl mit §mt-10-18
+ }
+ {
   Paulus wird &lsaquo;erst&rsaquo; in <a href='http://bibel.renenyffenegger.ch/apg_13.html#v2'>Apg&nbsp;13,2</a> (zusammen mit Barnabas) ausgesondert zu dem Werk, zu dem er berufen war.
  }
  {
-  Frage: Warum auch vor 'die Kinder Israels'? Paulus ist doch ein/der Apostel der Heiden.
+  Frage: Warum auch vor «die Kinder Israels»? Paulus ist doch → biblisches/Personen/Paulus/Apostel-der-Nationen[ein/der Apostel der Heiden].
  }
  {
   Beachte: <i>Werkzeug</i> (<span class='gr'>σκεῦος</span>, Strongs 4632) ist dasselbe Wort wie für
@@ -73567,8 +73699,7 @@
 #}
 #apg-13-6 {
  {
-  <i>Magier</i> vgl <a href='http://bibel.renenyffenegger.ch/apg_8.html#v9'>Apg&nbsp;8,9</a>,
-  <a class='kom' href='#Imt-2-1'>Mt&nbsp;2,1</a>.
+  <i>Magier</i> wird Schlachter mit «Zauberer» in KJV mit «sorcerer» übersetzt. Vgl §apg-8-9, §+mt-2-1.
  }
  {
   Beachte: <i>Bar-Jesus</i> (= Sohn von Jesus) wird in Vers 10 'Sohn des Teufels' genannt.
@@ -73983,6 +74114,16 @@
 #apg-14-16 {
  {
   Vgl §apg-17-30
+ }
+#}
+#apg-14-17 {
+ {
+  <i>vom Himmel Regen … gab</i> §mt-5-45
+ }
+#}
+#apg-14-18 {
+ {
+  <i>stillen</i>, <span class='gr'>καταπαύω</span> (Strongs 2664), ist dasselbe Wort, das in §hebr-4-4 mit «ruhte», in  §hebr-4-8 mit «in die Ruhe bringen» und §hebr-4-10 mit «zur Ruhe gelangen» übersetzt wird.
  }
 #}
 #apg-14-19 {
@@ -75261,7 +75402,7 @@
 #}
 #apg-20-19 {
  {
-  <i>Anfechtung</i>, Strongs 3986, sonst häufig mit «Versuchung» übersetzt. Siehe <a class='kom' href='#Ilk-22-28'>Lk&nbsp;22,28</a>.
+  <i>Versuchungen</i>, Strongs 3986, in Schlachter 2K mit «Anfechtung» übersetzt, s.a. §+lk-22-28.
  }
 #}
 #apg-20-21 {
@@ -75608,6 +75749,10 @@
  {
   <i>Mit der Hand ein Zeichen geben</i>: <a class='kom' href='#Iapg-12-17'>Apg&nbsp;12,17</a>.
  }
+ {
+  <i>Stille</i>: oder «Schweigen» (<span class='gr'>σιγή</span>, Strongs 4602, dasselbe Wort wie in §offb-8-1). Das Griechische Wort, das in §apg-22-2 mit «Stille» übersetzt wird, ist
+   <span class='gr'>ἡσυχία</span>, Strongs 2271.
+ }
 #}
 @}
 @Apostelgeschichte 22 {
@@ -75617,7 +75762,15 @@
   (<a href='http://bibel.renenyffenegger.ch/2tim_4.html#v16'>2.&nbsp;Tim&nbsp;4,16</a>)
  }
 #}
+#apg-22-2 {
+ {
+  <i>Stille</i> §+apg-21-40
+ }
+#}
 #apg-22-3 {
+ {
+  <i>Ich bin ein jüdischer Mann</i> vgl §roem-11-1, §kor-11-22, §phil-3-5
+ }
  {
   → biblisches/Personen/Gamaliel
  }
@@ -78030,7 +78183,7 @@
   → biblisches/Personen/Paulus
  }
  {
-  Vgl mit §2kor-11-22.
+  <i>auch ich bin ein Israelit…</i> Vgl mit §2kor-11-22, §phil-3-5, §apg-22-3
  }
 #}
 #roem-11-2 {
@@ -78091,7 +78244,7 @@
  {
    → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, der Apostel der Nationen]
      <a href='http://bibel.renenyffenegger.ch/1tim_2.html#v7'>1.&nbsp;Tim&nbsp;2,7</a>
-     <br>Beachte, dass der Apostel der Heiden ein «Hebräer von Hebräern» war (<a href='http://bibel.renenyffenegger.ch/phil_3.html#v5'>Phil&nbsp;3,5</a>).
+     <br>Beachte, dass der Apostel der Heiden ein «Hebräer von Hebräern» war (§phil-3-5).
    <br>vgl <a  class='kom' href='#Iapg-9-15'>Apg&nbsp;9,15</a> und <a href='http://bibel.renenyffenegger.ch/gal_1.html#v16'>Gal&nbsp;1,16</a>,
        <a href='http://bibel.renenyffenegger.ch/gal_2.html#v7'>Gal&nbsp;2,7</a>
    <br>TODO: Paulus' Dienst: <a class='kom' href='#Iapg-20-24'>Apg&nbsp;20,24</a>.
@@ -82150,6 +82303,9 @@
   <i>bitten</i> <span class='gr'>παρακαλέω</span> (Strongs 3870), in KJV mit «exhort», in Sch2K (möglicherweise besster) mit «ermahnen» übersetzt.
  }
  {
+  <i>Ich hielt es für nötig</i>, §phil-2-25
+ }
+ {
   TODO: Sind diese <i>Brüder</i> Titus und der anonyme von <a href='http://bibel.renenyffenegger.ch/2kor_8.html#v17'>2.&nbsp;Kor&nbsp;8,17-18</a>.
  }
 #}
@@ -82340,7 +82496,7 @@
 #}
 #2kor-11-22 {
  {
-  Vgl mit §roem-11-1.
+  Vgl mit §roem-11-1, §phil-3-5, §apg-22-3
  }
 #}
 #2kor-11-23 {
@@ -84722,6 +84878,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <i>gleich</i>: <span class='gr'>ἴσος</span>, Strongs 2470. Vgl mit «Gleichheit» in Vers 7 (<span class='gr'>ὁμοίωμα</span>, Strongs 3667)
    <br>Vgl auch §joh-5-18.
  }
+ {
+  <i>nicht für einen Raub achtete</i> vgl §phil-3-7
+ }
 #}
 #phil-2-7 {
  {
@@ -84836,6 +84995,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Personen/Paulus/Mitarbeiter
  }
  {
+  <i>Ich habe es aber für nötig erachtet</i>, §2kor-9-5
+ }
+ {
    TODO: Ist <i>Ephaphroditus=Ephaphras</i>? (<a href='http://bibel.renenyffenegger.ch/phil_4.html#v18'>Phil&nbsp;4,18</a>,
    <a href='http://bibel.renenyffenegger.ch/phim_1.html#v23'>Phim&nbsp;1,23</a>,
    <a href='http://bibel.renenyffenegger.ch/kol_1.html#v7'>Kol&nbsp;1,7</a>,
@@ -84878,7 +85040,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-3-5 {
  {
-  → biblisches/Personen/Paulus, ein <i>Hebräer von Hebräern</i> §+roem-11-13
+  <i>→ biblisches/Personen/Paulus, vom Geschlecht Israel…</i> ein <i>Hebräer von Hebräern</i> vgl §roem-11-1, §2kor-11-22, §apg-22-3
+ }
+ {
+  Beachte, dass Paulus, der <i>Hebräer von Hebräern</i> der Apostel der Nationen war, §+roem-11-13
  }
  {
   Vgl <a class='kom' href='#Imt-5-20'>Mt&nbsp;5,20</a>.
@@ -84894,6 +85059,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
    <i>Verfolger</i> (<span class='gr'>διώκω</span>, Strongs 1377), dasselbe Wort wie für «jagen» in den Versen 12 und 14.
    <br>Vgl auch <a class='kom' href='#Iroem-12-13'>Röm&nbsp;12,13</a>.
+ }
+#}
+#phil-3-7 {
+ {
+  <i>was irgend ein Gewinn war</i> Vgl §phil-2-6-ff
  }
 #}
 #phil-3-8 {
@@ -88082,8 +88252,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-1-7 {
  {
-  <i>Zucht</i> (<span class='gr'>σωφρονισμός</span>, Strongs 4995) wird in KJV mit 'sound mind', in Elberfelder mit 'Besonnenheit' übersetzt. Das Wort ist offenbar
-  mit Sophros=Weisheit verwandt.
+  <i>Besonnenheit</i> (<span class='gr'>σωφρονισμός</span>, Strongs 4995) wird in KJV mit «sound mind», in Schlachter mit «Zucht» übersetzt. Das Wort ist offenbar
+  mit Sophos (Weisheit) verwandt.
  }
  {
   <i>Der Geist, der gegeben wurde</i>: <a class='kom' href='#I2kor-1-22'>2.&nbsp;Kor&nbsp;1,22</a>.
@@ -89523,6 +89693,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #hebr-3-8 {
+ {
+  <i>Tag der Versuchung</i>: vgl mit der «Stunde der Versuchung», §offb-3-10
+ }
  {
   <i>Erbitterung</i> vgl §Vhebr-3-15, §+5mo-32-16, §ps-95-8
  }
@@ -91217,8 +91390,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-1-2 {
  {
-  <i>Anfechtung</i>, Strongs 3986, sonst häufig mit «Versuchung» übersetzt: <a class='kom' href='#Ilk-22-28'>Lk&nbsp;22,28</a>.
-  <br>Vgl Vers 12.
+  Vgl §Vjak-1-12, §1petr-1-6
+ }
+ {
+  <i>Versuchung</i>, Strongs 3986, in Schlachter 2000 mit «Anfechtung» übersetzt, s.a. §+lk-22-28.
  }
 #}
 #jak-1-3 {
@@ -91273,6 +91448,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #jak-1-12 {
+ {
+  <i>Glückselig der Mann, der die Versuchung erduldet!</i> §Vjak-1-2
+ }
  {
    Die <i>Krone des Lebens</i> kriegen auch die von Smyrna, die getreu sind bis in den Tod
   (<a href='http://bibel.renenyffenegger.ch/offb_2.html#v10'>Offb&nbsp;2,10</a>)
@@ -91408,6 +91586,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>...verheissen, die ihn lieben</i>: §+jak-1-12.
+ }
+ {
+  <i>Zu Erben des Reiches verheißen</i> vgl §lk-22-29
  }
 #}
 #jak-2-6 {
@@ -91765,7 +91946,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-1-6 {
  {
-  <i>Anfechtung</i>, Strongs 3986: <a class='kom' href='#Ilk-22-28'>Lk&nbsp;22,28</a>.
+  Vgl §jak-1-2
+ }
+ {
+  <i>Versuchung</i>, Strongs 3986: §+lk-22-28.
  }
 #}
 #1petr-1-7 {
@@ -92387,9 +92571,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Luther hat den zusätzlichen Einschub 'die euch widerfährt, daß ihr versucht werdet'.
  }
  {
-  'Feuerprobe' (Luther übersetzt mit 'Hitze') ist im Griechischen <span class='gr'>πύρωσις</span> (Strongs 4448). Dieses Wort kommt im
-  Neuen Testament noch in <a href='http://bibel.renenyffenegger.ch/offb_18.html#v9'>Offb&nbsp;18,9</a> und <a href='http://bibel.renenyffenegger.ch/offb_18.html#v18'>Offb&nbsp;18,18</a> vor,
-  wo sie jeweils mit 'Feuersbrunst' übersetzt werden.
+  <i>Feuer</i> ist im Griechischen <span class='gr'>πύρωσις</span> (Strongs 4448). Dieses Wort kommt im
+  Neuen Testament noch in §offb-18-9 und §offb-18-18 vor, wo es jeweils mit «Brand» übersetzt wird.
+  <br>
+   Luther übersetzte hier mit «Hitze»
  }
  {
   <i>Geliebte</i>: <a class='kom' href='#Ijak-1-16'>Jak&nbsp;1,16</a>.
@@ -94718,6 +94903,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-3-10 {
  {
+  <i>Stunde der Versuchung</i>: vgl mit dem «Tag der Versuchung», §hebr-3-8
+ }
+ {
   Auch im Griechischen kommt zweimal dasselbe Wort für 'bewahren' vor: τηρέω (Strongs 5083).
   <br><span class='gr'>τηρέω ἐκ</span> (Strongs 5083+1537): vgl <a class='kom' href='#Ijoh-17-15'>Joh&nbsp;17,15</a>.
  }
@@ -95472,6 +95660,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl <i>eine halbe Stunde</i> mit der <i>Stunde</i> von <a href='http://bibel.renenyffenegger.ch/offb_17.html#v12'>Offb&nbsp;17,12</a> bis
   <a href='http://bibel.renenyffenegger.ch/offb_18.html#v19'>Offb&nbsp;18,19</a>.
+ }
+ {
+  <i>Schweigen</i> vgl §apg-21-40
  }
 #}
 #offb-8-2 {
@@ -96592,7 +96783,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-14-5 {
  {
-  <span class='gt'>TR fügt nach «tadellos» ein: «vor dem Thron Gottes»</span>.
+  <span class='gt'>«vor dem Thron Gottes» nur im TR.
+  <br>
+   «denn» in MT und TR, nicht in NA.
+  </span>.
  }
 #}
 #offb-14-6 {
@@ -96731,7 +96925,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    Vgl <a class='kom' href='#Imt-13-30'>Mt&nbsp;13,30</a> ('Die Ernte ist das Ende dieser Weltzeit' <a href='http://bibel.renenyffenegger.ch/mt_13.html#v39'>Mt&nbsp;13,39</a>).
  }
  {
-  <i>Sichel</i> und <i>Ernte</i> vgl §joe-4-13
+  <i>Schicke deine Sichel und Ernte</i>, vgl §joe-4-13, §mk-4-29
  }
  {
   <i>weiterer Engel</i> (<span class='gr'>αλλος αγγελος</span>, Strongs 243 32), also wie 'anderer Engel' in Vers 6.
@@ -96955,7 +97149,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    (Verse 14 und 16).
    <br>Vgl auch mit <a class='kom' href='#Ijer-51-36'>Jer&nbsp;51,36</a>,
    <a href='http://bibel.renenyffenegger.ch/jer_50.html#v38'>Jer&nbsp;50,38</a>.
-   <br>Auch der Nil (/) wird vertrocken (<a href='http://bibel.renenyffenegger.ch/jes_19.html#v5'>Jes&nbsp;19,5</a>).
+   <br>Auch der Nil (?) wird vertrocken (§jes-19-5).
  }
  {
   <i>Könige, die von Sonnenaufgang herkommen</i> vgl §jes-41-25
@@ -97309,6 +97503,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-18-9 {
+ {
+  <i>Brand</i> §1petr-4-12
+ }
  {
   <i>wehklagen</i> vgl §+offb-1-7.
  }
@@ -97809,6 +98006,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-21-8 {
+ {
+  <i>Furchtsame</i>: das Griechische Wort (<span class='gr'>δειλοις</span>, Strongs 1169) wird in Elberfelder mit «Feigen», in Schlachter mit «Feiglinge» und in KJV mit «fearful» übersetzt. Dasselbe Griechische Wort
+  findet man auch in §mt-8-26 und §mk-4-40.
+ }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/offb_22.html#v15'>Offb&nbsp;22,15</a>. S.a. <i>das Reich Gottes nicht erben</i> <a class='kom' href='#I1kor-6-9'>1.&nbsp;Kor&nbsp;6,9</a>.
  }
