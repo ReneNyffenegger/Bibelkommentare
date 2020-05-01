@@ -3349,11 +3349,11 @@
   <i>Geld</i>: <span class='hebr'>כֶּ֙סֶף֙</span> (Strongs 3701), dasselbe Wort wie für 'Silber'.
  }
  {
-  Vgl die <i>Beschneidung am achten Tag</i> mit <a href='http://bibel.renenyffenegger.ch/3mo_12.html#v3'>3.&nbsp;Mo&nbsp;12,3</a>
-  und <a href='http://bibel.renenyffenegger.ch/lk_1.html#v59'>Lk&nbsp;1,59</a> (Der Herr wurde am achten Tag beschnitten),
-  <a href='http://bibel.renenyffenegger.ch/apg_7.html#v8'>Apg&nbsp;7,8</a> (Isaak wurde am achten Tag beschnitten),
-  <a href='http://bibel.renenyffenegger.ch/phil_3.html#v5'>Phil&nbsp;3,5</a> (Paulus wurde am achten Tag beschnitten).
-  <br>S.a. <a href='http://bibel.renenyffenegger.ch/2mo_22.html#v29'>2.&nbsp;Mo&nbsp;22,29</a>.
+  Vgl die <i>Beschneidung am achten Tag</i> mit §3mo-12-3 und §lk-1-59 (Beschneidung von → biblisches/Personen/Johannes/Täufer[Johannes dem Täufer]),
+  §lk-2-21 (Beschneidung des Herrn)
+  §apg-7-8 (→ biblisches/Personen/Isaak), §phil-3-5 (→ biblisches/Personen/Paulus).
+  <br>
+  S.a. §2mo-22-29.
  }
 #}
 #1mo-17-13 {
@@ -49436,7 +49436,7 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/jer_6.html#v20'>Jer&nbsp;6,20</a>: 'Was soll mir der Weihrauch von Saba'.
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/mt_2.html#v11'>Mt&nbsp;2,11</a>.
+  Vgl §mt-2-11
  }
 #}
 #jes-60-7 {
@@ -57962,7 +57962,8 @@
   → biblisches/Bücher/Evangelien#ev-geburt-jesu[Die Geburt Jesu Christi in den Evangelien]
  }
  {
-  <i>schwanger erfunden vom Heiligen Geist</i>, vgl mit → biblisches/Personen/Johannes/Täufer[Johannes, dem Täufer] §lk-1-15
+  <i>schwanger erfunden vom Heiligen Geist</i>: §lk-1-31
+  <br>Vgl auch mit → biblisches/Personen/Johannes/Täufer[Johannes, dem Täufer] §lk-1-15
  }
 #}
 #mt-1-19 {
@@ -57973,6 +57974,8 @@
 #mt-1-20 {
  {
   Beachte: <i><b>in</b> ihr gezeugt</i>. Sonst steht in diesem Kapitel <i><b>mit</b> Tamar</i>, <i>mit der Rahab</i>, <i>mit der Ruth</i>, <i>mit der Frau des Uria</i>.
+  <br>
+  Vgl §lk-1-31
  }
  {
   <i>Engel erscheint im Traum</i>, §mt-2-13, §1mo-31-11
@@ -58033,6 +58036,9 @@
 @Matthäus 2 {
 #mt-2-1 {
  {
+  → biblisches/Chronologie/Geburt-Jesus-Christus: §lk-2-7
+ }
+ {
   → biblisches/Personen/Herodes, der König von Judäa, §lk-1-5
  }
  {
@@ -58040,11 +58046,12 @@
   Das Wort stammt von Strongs 393 ab (welches etwa «aufgehend» bedeutet).
  }
  {
-  <i>Weise</i>: <span class='gr'>μάγος</span> (Strongs 3097), stammt offenbar vom Hebr. Strongs 7248 ab (§jer-39-3).
-  Dasselbe Wort wird in §apg-13-6 mit «Magier» übersetzt.
+  <i>Magier</i>: <span class='gr'>μάγος</span> (Strongs 3097), stammt offenbar vom Hebr. Strongs 7248 ab (§jer-39-3).
+  <br>King James übersetzt dieses Wort hier mit «wise men», Schlachter 2K mit «Weise».
+  <br>Vgl §Vmt-2-7, §+apg-13-6
  }
  {
-  Warren Cage meint, dass die Magier §mi-5-1 nicht gekannt hätten und darum nach → biblisches/Orte/Jerusalem statt nach → biblisches/Orte/Bethlehem kamen.
+   Möglicherweise kannten die Magier §mi-5-1 nicht und kamen deshalb nach → biblisches/Orte/Bethlehem statt nach → biblisches/Orte/Jerusalem.
  }
  {
   → biblisches/Chronologie/Geburt-Jesus-Christus
@@ -58103,41 +58110,39 @@
   Prophezeiung aus §+mi-5-1.
  }
 #}
-#mt-2-7 {
- {
-  <i>Magier</i> <span class='gr'>μάγος</span>: in Sch2K mit «Weisen» in KJV mit «wise men» übersetzt. Vgl <a class='kom' href='#Iapg-13-6'>Apg&nbsp;13,6</a>.
- }
-#}
 #mt-2-9 {
  {
   TODO: <i>dem Ort</i> steht offenbar nicht im Grundtext. KJV übersetzt '...till it came and stood over where the young child was.'.
  }
 #}
+#mt-2-10 {
+ {
+  <i>mit sehr großer Freude</i> vgl §lk-2-10
+ }
+#}
 #mt-2-11 {
  {
-  <i>Gold und Weihrauch</i>: Offenbar kannten die Magier nicht nur §+jes-60-6, sondern auch die Prophezeiung aus Jesaja §jes-52-13-ff.
+  <i>Gold und Weihrauch</i>: Möglicherweise kannten die Magier die Prophezeiung aus §+jes-60-6.
  }
  {
   Beachte: sie fanden das <i>Kind</i>, nicht den <i>Säugling</i> in einem <i>Haus</i>, nicht in einem <i>Stall</i>.
  }
  {
-  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch und Myrrhe</i> §hl-3-6, §hl-4-6,
-  <i>Gold und Weihrauch</i> §jes-60-6
+  <i>Samt Maria</i>: Wo ist Joseph?
+ }
+ {
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch und Myrrhe</i> §hl-3-6, §hl-4-6
  }
  {
   Vgl <i>niederfallen und anbeten</i> mit <a href='http://bibel.renenyffenegger.ch/mt_4.html#v9'>Mt&nbsp;4,9</a>.
  }
  {
-  Vgl <a class='kom' href='#I1mo-37-25'>1.&nbsp;Mo&nbsp;37,25</a>.
- }
- {
-  TODO: Wo ist Joseph?
+  TODO: Vgl §+1mo-37-25.
  }
 #}
 #mt-2-12 {
  {
-   <i>Traum</i> (<span class='gr'>ὄναρ</span>, Strongs 3677), kommt nur in Matthäus vor, und zwar in diesem Kapitel
-   und <a href='http://bibel.renenyffenegger.ch/mt_27.html#v19'>Mt&nbsp;27,19</a>.
+   <i>Traum</i> (<span class='gr'>ὄναρ</span>, Strongs 3677), kommt nur in Matthäus vor, und zwar in diesem Kapitel, §mt-1-20 und §mt-27-19.
    <br>TODO: Strongs 1797 kommt auch in <a href='http://bibel.renenyffenegger.ch/jud_1.html#v8'>Jud&nbsp;1,8</a> vor.
    <br>Vgl aber auch <a class='kom' href='#Iapg-2-17'>Apg&nbsp;2,17</a>.
  }
@@ -58148,6 +58153,9 @@
 #mt-2-13 {
  {
   <i>Engel erscheint im Traum</i>, §mt-1-20, §1mo-31-11
+ }
+ {
+  Hier will «nur» → biblisches/Personen/Herodes das Kind umbringen, in §Vmt-2-20 wird von mehreren berichtet.
  }
 #}
 #mt-2-15 {
@@ -58195,6 +58203,11 @@
   → biblisches/Personen/Herodes
  }
 #}
+#mt-2-20 {
+ {
+  In §Vmt-2-13 war es nur Herodes, der das Kind umbringen wollte, hier sind es mehrere.
+ }
+#}
 #mt-2-22 {
  {
    → biblisches/Orte/Galiläa 
@@ -58238,7 +58251,7 @@
  {
   <i>Reich der Himmel ist nahe herbeigekommen</i>: §mt-4-17, §mt-10-7
   <br>
-    In §mt-12-28 *ist* es zu euch gekommen
+    In §mt-12-28 <i>ist</i> es zu euch gekommen
      <br>
       In §mt-21-43 wird es genommen und einem Volk gegeben, das dessen Früchte trägt.
          <br>
@@ -58258,15 +58271,18 @@
 #}
 #mt-3-4 {
  {
-  <i>Heuschrecken essen</i>: §+3mo-11-22.
+  <i>Kleidung von Kamelhaaren </i>: §mk-1-6, Vgl Johannes' Kleidung mit den «weichen Kleidern» in §mt-11-8.
+ <br>
+  Johannes aß auch kein Brot und trank keinen Wein: §lk-7-33
  }
  {
-  §mk-1-6
-  <br>
-  Vgl Johannes' Kleidung mit den «weichen Kleidern» in §mt-11-8.
+  <i>Heuschrecken essen</i>: §+3mo-11-22.
  }
 #}
 #mt-3-5 {
+ {
+  <i>Umgegend des Jordan</i> §+lk-3-3
+ }
  {
   §mk-1-5, §lk-3-7
  }
@@ -58306,6 +58322,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer
  }
 #}
+#mt-3-8 {
+ {
+  <i>Bringt nun der Buße würdige Früchte</i>: §lk-3-8
+ }
+#}
 #mt-3-9 {
  {
   Hier könnte der Herr aus <i>Steinen Kindern erwecken</i>, in <a href='http://bibel.renenyffenegger.ch/mt_4.html#v3'>Mt 4,3 ff</a> lehnt er es ab,
@@ -58323,11 +58344,12 @@
 #mt-3-11 {
  {
   <i>Ich zwar taufe euch mit Wasser…</i> §mk-1-8, §lk-3-16, §joh-1-26 
- }
- {
+ <br>
   <i>Mit Wasser zur Busse taufen</i>: Siehe <a  class='kom' href='#Iapg-11-16'>Apg&nbsp;11,16</a>
  }
  {
+  <i>Mit Heiligem Geist taufen</i> §mk-1-8, §joh-1-33
+ <br>
   Die Apostel wurden mit Heiligem Geist, nicht mit Feuer, getauft: <a href='http://bibel.renenyffenegger.ch/apg_1.html#v5'>Apg&nbsp;1,5</a>.
  }
  {
@@ -58344,10 +58366,16 @@
 #}
 #mt-3-12 {
  {
+  §lk-3-17
+ }
+ {
   <i>Weizen sammeln</i>: vgl <a class='kom' href='#Imt-24-31'>Mt&nbsp;24,31</a>
  }
 #}
 #mt-3-13 {
+ {
+  §mk-1-9, §lk-3-21
+ }
  {
   → biblisches/Orte/Galiläa
  }
@@ -58362,6 +58390,9 @@
   <i>Himmel wurden aufgetan</i> §+mk-1-10, §lk-3-21, §joh-1-51, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen
  }
  {
+  <i>er sah den Geist Gottes wie eine Taube herniederfahren und auf ihn kommen.</i> vgl §mk-1-10, §lk-3-22, §joh-1-32
+ }
+ {
   TODO: Offenbar wählt Matthäus für Himmel immer den Plural, wenn er vom überirdischen Himmel redet, während Lukas
   dafür die Einzahl wählt. Vgl <a href='http://bibel.renenyffenegger.ch/lk_3.html#v21'>Lk&nbsp;3,21</a>.
   Vgl auch <a class='kom' href='#Ioffb-12-12'>Offb&nbsp;12,12</a>.
@@ -58373,8 +58404,9 @@
    (<a href='http://bibel.renenyffenegger.ch/joh_5.html#v37'>Joh&nbsp;5,37</a>).
  }
  {
-  Beachte: hier sagt die Stimme vom Himmel, dass Er der geliebte Sohn ist, bereits in
-  <a href='http://bibel.renenyffenegger.ch/mt_4.html#v3'>Mt&nbsp;4,3</a> stellt dies der Versucher in Frage.
+  <i>Dies ist mein geliebter Sohn…</i>, §mk-1-11, §lk-3-22. Im → biblisches/Bücher/Evangelien/Johannes[Johannesevangelium] ist es der Autor selbst, der dies bezeugt: §+joh-1-34.
+  <br>
+  Beachte: Der Versucher stellt bereits in §mt-4-3 in Frage, ober Er wirklich der Sohn Gottes ist.
  }
  {
   Vgl auch mit «Gottes Sohn» in <a class='kom' href='#Imt-14-33'>Mt&nbsp;14,33</a>.
@@ -58468,6 +58500,9 @@
  }
 #}
 #mt-4-11 {
+ {
+  §lk-4-13
+ }
  {
   Tempel: <span class='gr'>ἱερόν</span> (Strongs 2411). Vgl <a class='kom' href='#I1kor-9-13'>1.&nbsp;Kor&nbsp;9,13</a>.
   <br>Vgl auch mit <a class='kom' href='#Imt-23-16'>Mt&nbsp;23,16</a>.
@@ -59039,9 +59074,14 @@
   <i>Volksmenge</i> und <i>Berg</i>: §+mt-5-1.
  }
 #}
+#mt-8-2 {
+ {
+  §mk-1-40, §lk-5-12
+ }
+#}
 #mt-8-4 {
  {
-  <i>sage es niemandem</i> §mt-9-30, §+mt-16-20
+  <i>sage es niemandem</i> §mt-9-30, §+mt-16-20, §mk-1-44, §lk-5-14
  }
  {
   §+3mo-14-2.
@@ -59108,11 +59148,18 @@
   <a href='http://bibel.renenyffenegger.ch/mt_25.html#v30'>Mt&nbsp;25,30</a>
          <br>
   → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen[Zähneknirschen]
+  <br>
+  §+hi-16-9.
  }
 #}
 #mt-8-14 {
  {
-  Mit den 'Zähnen knirschen': <a class='kom' href='#Ihi-16-9'>Hi&nbsp;16,9</a>.
+  §mk-1-30
+ }
+#}
+#mt-8-16 {
+ {
+  §mk-1-32, §lk-4-40
  }
 #}
 #mt-8-17 {
@@ -59249,7 +59296,11 @@
 #mt-9-1 {
  {
   <i>Seine Stadt</i> ist wohl → biblisches/Orte/Kapernaum. Dort hat er sich in §mt-4-13 niedergelassen.
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/mk_2.html#v1'>Mk&nbsp;2,1</a>.
+  <br>
+   Vgl auch §mk-2-1.
+ }
+ {
+  Der Herr kommt in seine eigene Stadt und sagt dann zum Gelähmten «geh nach deinem Haus», §Vmt-9-6
  }
 #}
 #mt-9-2 {
@@ -59259,7 +59310,12 @@
 #}
 #mt-9-6 {
  {
-  <i>nimm dein Bett auf ung geh nach deinem Haus</i> vgl §joh-5-8
+  <i>nimm dein Bett auf ung geh nach deinem Haus</i> §mk-2-11, §joh-5-8
+ }
+#}
+#mt-9-7 {
+ {
+  Der Gelähmte stand auf und ging nach seinem eigenen Haus, → biblisches/Personen/Matthäus stand auf und folgte Jesus nach, §Vmt-9-9
  }
 #}
 #mt-9-8 {
@@ -59271,6 +59327,9 @@
  }
 #}
 #mt-9-9 {
+ {
+  §mk-2-14, §lk-5-27
+ }
  {
   TODO Ernennung von Jüngern: <a class='kom' href='#Imt-4-18'>Mt&nbsp;4,18</a>.
  }
@@ -60334,7 +60393,7 @@
  }
 #}
 #mt-14-29 {
-mt {
+ {
   TODO: Ist dies die einzige Stelle in den Evangelien, wo erwähnt wird, dass Petrus auf dem See geht?
  }
 #}
@@ -62584,7 +62643,7 @@ mt {
 #}
 #mk-1-3 {
  {
-  §+mal-3-1, §lk-3-4
+  §+mal-3-1, §lk-3-4, §joh-1-23
  }
 #}
 #mk-1-4 {
@@ -62610,13 +62669,16 @@ mt {
 #}
 #mk-1-8 {
  {
-  Mit Wasser taufen: zur Busse (<a href='http://bibel.renenyffenegger.ch/mt_3.html#v11'>Mt&nbsp;3,11</a>). Siehe <a class='kom' href='#Iapg-11-16'>Apg&nbsp;11,16</a>
+  Mit Wasser taufen: zur Buße: §mt-3-11, §lk-3-16. S.a. §+apg-11-16
  }
  {
-  <i>Mit Heiligem Geist taufen</i>: vgl <a class='kom' href='#Imt-3-11'>Mt&nbsp;3,11</a>.
+  <i>Mit Heiligem Geist taufen</i>: vgl §+mt-3-11, §joh-1-33
  }
 #}
 #mk-1-9 {
+ {
+  §mt-3-13, §lk-3-21
+ }
  {
   <i>da kam Jesus von → biblisches/Orte/Nazareth</i>: vgl §+mt-4-13
  }
@@ -62630,10 +62692,13 @@ mt {
   <br>
   Beachte Ähnlichkeit zu §jes-64-1.
  }
+ {
+  <i>sah … den Geist wie eine Taube auf ihn herniederfahren</i> §mt-3-16, §lk-3-22, §joh-1-32
+ }
 #}
 #mk-1-11 {
  {
-  <i>Du bist mein geliebter Sohn…</i> vgl §Vmk-1-1, §joh-1-33-ff.
+  <i>Du bist mein geliebter Sohn…</i> vgl §+mt-3-17, §Vmk-1-1, §joh-1-33-ff.
  }
  {
   Vgl §mt-12-17-18
@@ -62654,6 +62719,9 @@ mt {
 #}
 #mk-1-14 {
  {
+  <i>Nachdem aber → biblisches/Personen/Johannes/Täufer überliefert war</i> vgl §joh-3-24
+ }
+ {
   §mt-4-12
  }
  {
@@ -62665,7 +62733,7 @@ mt {
 #}
 #mk-1-15 {
  {
-  Das Reich Gottes ist nahe: <a class='kom' href='#Imt-3-2'>Mt&nbsp;3,2</a>.
+  Das Reich Gottes ist nahe: §+mt-3-2, §mt-4-17
  }
  {
   <i>Die Zeit ist erfüllt</i>: vgl <a href='http://bibel.renenyffenegger.ch/gal_4.html#v4'>Gal&nbsp;4,4</a>.
@@ -62703,7 +62771,9 @@ mt {
 #}
 #mk-1-23 {
  {
-  <i>Unreiner Geist</i>: später werden die Schriftgelehrten von Jerusalem über Jesus sagen, dass <i>Er</i> einen unreinen Geist habe (§mk-3-30, §mk-3-22).
+  <i>Mensch mit einem unreiner Geist</i> §lk-4-32
+ <br>
+   Später werden die Schriftgelehrten von Jerusalem über Jesus sagen, dass <i>Er</i> einen unreinen Geist habe (§mk-3-30, §mk-3-22).
  }
  {
   Vgl diesen Menschen mit einem unreinen Geist mit dem Menschen mit einem unreinen Geist in §mk-5-2-ff. Beide fragen, was sie mit dem Herrn zu schaffen haben (§Vmk-1-24, §mk-5-7).
@@ -62713,15 +62783,34 @@ mt {
 #}
 #mk-1-24 {
  {
+  §lk-4-34
+ }
+ {
   <i>Ich kenne dich</i> vgl §Vmk-1-34, §+mk-3-11
  }
 #}
 #mk-1-27 {
  {
+  §lk-4-36
+ }
+ {
   <i>neue Lehre</i> vgl §mk-2-12
  }
 #}
+#mk-1-28 {
+ {
+  §lk-4-37
+ }
+#}
+#mk-1-30 {
+ {
+  §mt-8-14
+ }
+#}
 #mk-1-32 {
+ {
+  §mt-8-16, §lk-4-40
+ }
  {
   Der Sonnenuntergang markiert wohl das Ende des Sabbats (§Vmk-1-21).
  }
@@ -62741,12 +62830,28 @@ mt {
    <i>einsam</i> (Strongs 2048): <a class='kom' href='#Imt-14-13'>Mt&nbsp;14,13</a>. Dasselbe Wort wird in Vers 12 und 13 mit «Wüste» übersetzt.
  }
 #}
+#mk-1-37 {
+ {
+  §lk-4-42
+ }
+#}
 #mk-1-38 {
+ {
+  §lk-4-43
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
 #}
+#mk-1-39 {
+ {
+  §lk-4-44
+ }
+#}
 #mk-1-40 {
+ {
+  §mt-8-2, §lk-5-12
+ }
  {
   <i>bittet ihn und → biblisches/Eigene-Uebersetzung/Konkordanz/knien[kniet] vor ihm nieder</i> vgl §mk-5-22-23
  }
@@ -62756,7 +62861,10 @@ mt {
 #}
 #mk-1-44 {
  {
-   Vgl <a class='kom' href='#I3mo-14-2'>3.&nbsp;Mo&nbsp;14,2</a>.
+  §mt-8-4, §lk-5-14
+ }
+ {
+   Vgl §+3mo-14-2.
  }
  {
   TODO: Hat der Geheilte darum nichts sagen sollen, weil die Priester hätten erkennen sollen, dass nun der Messias gekommen ist?
@@ -62807,6 +62915,11 @@ mt {
 #mk-2-13 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/mk_4.html#v1'>Mk&nbsp;4,1</a>, wo er «wiederum ... am See lehren» wird.
+ }
+#}
+#mk-2-14 {
+ {
+  §mt-9-9, §lk-5-27
  }
 #}
 #mk-2-17 {
@@ -64512,7 +64625,7 @@ mt {
 @Lukas 1 {
 #lk-1-1 {
  {
-  Der erste Bericht hat Lukas verfasst 'über alles, was Jesus anfing zu tun und zu lehren, bis zu dem Tag, da er [in den Himmel] aufgenommen wurde' (<a href='http://bibel.renenyffenegger.ch/apg_1.html#v1'>Apg&nbsp;1,1</a> ff).
+  Diesen ersten Bericht hat Lukas verfasst «über alles, was Jesus anfing zu tun und zu lehren, bis zu dem Tag, da er [in den Himmel] aufgenommen wurde», §apg-1-1-ff.
  }
 #}
 #lk-1-2 {
@@ -64597,6 +64710,11 @@ mt {
  <i>Furcht</i> vgl §Vlk-1-65, §Vlk-1-74
  }
 #}
+#lk-1-14 {
+ {
+  <i>Freude</i>, §Vlk-1-44, §lk-2-10
+ }
+#}
 #lk-1-15 {
  {
   <i>von Mutterleib an mit Heiligem Geist erfüllt</i> vgl mit Jesus Christus: §mt-1-18-20. S. a. §+jes-44-2
@@ -64658,7 +64776,7 @@ mt {
 #}
 #lk-1-31 {
  {
-  <i>du wirst im Leib empfangen</i> §mt-1-20, §joh-1-14
+  <i>du wirst im Leib empfangen</i> §mt-1-18-20, §joh-1-14
  }
  {
   <i>du … wirst einen Sohn gebären und sollst seinen Namen Jesus heissen</i> §lk-2-21, §mt-1-21
@@ -64707,7 +64825,9 @@ mt {
 #}
 #lk-1-59 {
  {
-  <i>Beschneidung am achten Tag</i>: <a class='kom' href='#I1mo-17-12'>1.&nbsp;Mo&nbsp;17,12</a>.
+  <i>Beschneidung am achten Tag</i>: §+1mo-17-12, §lk-2-21.
+ <br>
+  Beachte: hier «geschah» es am achten Tag, in §lk-2-21 waren die acht Tage «erfüllt.
  }
 #}
 #lk-1-67 {
@@ -64739,7 +64859,7 @@ mt {
 #}
 #lk-1-74 {
  {
-  <i>ohne Furcht dienen</i>: beachte, dass bereits das Volk Israel bei der Rettung aus Ägypten dienen sollte: §2mo-4-23, §2mo-7-16, §2mo-7-26, etc.
+  <i>ohne Furcht dienen</i>: beachte, dass das Volk Israel bereits bei der Rettung aus Ägypten Gott dienen sollte: §2mo-4-23, §2mo-7-16, §2mo-7-26, etc.
  }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
@@ -64807,6 +64927,9 @@ mt {
 #}
 #lk-2-7 {
  {
+  → biblisches/Chronologie/Geburt-Jesus-Christus: §mt-2-1
+ }
+ {
   Nach der Geburt Jesu wurde Er in <i>Windeln</i> gewickelt und in eine <i>Krippe</i> gelegt; nach Seinem Tod wurde Er in <i>leinene Tücher gewickelt</i> (§mt-27-59, §mk-15-46, §lk-23-53, §joh-19-40) und in eine
   <i>Gruft</i> gelegt (§mt-27-60).
  }
@@ -64822,6 +64945,11 @@ mt {
    <i>Krippe</i>: dasselbe griechische Wort auch für dieselbe Übersetzung in <a href='http://bibel.renenyffenegger.ch/lk_13.html#v15'>Lk&nbsp;13,15</a>.
  }
 #}
+#lk-2-10 {
+ {
+  <i>Ich verkündige euch große Freude</i> vgl §mt-2-10, §lk-1-14, §lk-1-44
+ }
+#}
 #lk-2-11 {
  {
   <i>Ein Erretter geboren</i> vgl §mt-1-21, §lk-1-68-ff
@@ -64832,6 +64960,9 @@ mt {
  }
 #}
 #lk-2-12 {
+ {
+  Den (israelischen) Hirten wurde ein → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen gegeben; die Magier (Weisen) benötigten kein Zeichen, vgl §1kor-1-22
+ }
  {
   Krippen wurden im Nahen Osten offenbar aus Sandstein gefertigt. Möglicherweise ist dies das <i>Zeichen</i>, dass das Kind wie eine Mumie in einem Sarkophag aussah. Obwohl scheinbar tot, doch lebendig.
  <br>
@@ -64857,6 +64988,9 @@ mt {
 #lk-2-21 {
  {
   <i>da wurde sein Name Jesus genannt… </i> §lk-1-31, §mt-1-21. Dieser Name wurde ihm dann von Joseph geheißen, §mt-1-25
+ }
+ {
+  <i>Beschneidung am achten Tag</i>: §+1mo-17-12, §lk-1-59
  }
 #}
 #lk-2-22 {
@@ -65041,7 +65175,13 @@ mt {
 #}
 #lk-3-3 {
  {
+  §mt-3-2, §mk-1-4, §joh-1-28
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
+ }
+ {
+  <i>Umgegend des Jordan</i> §mt-3-5, vgl §joh-1-28
  }
 #}
 #lk-3-4 {
@@ -65057,13 +65197,13 @@ mt {
 #}
 #lk-3-6 {
  {
-  <i>Heil</i>: §+lk-2-30.
- }
- {
   <i>Alles Fleisch wird das Heil sehen</i>: vgl §+lk-2-30, vgl §apg-28-28
  }
 #}
 #lk-3-7 {
+ {
+  <i>Volksmengen, die hinausgingen, um von ihm getauft zu werden</i> vgl §mt-3-5, §mk-1-5
+ }
  {
   <i>Otternbrut…</i> gemäss §mt-3-5-7 sagte → biblisches/Personen/Johannes/Täufer[Johannes] dies zu den → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer[Pharisäern]
   und → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer[Sadduzäern], vgl §mk-1-5.
@@ -65076,6 +65216,19 @@ mt {
  }
  {
   <i>Zorn in den Evangelien</i>: §+mt-3-7.
+ }
+#}
+#lk-3-8 {
+ {
+  §mt-3-8
+ }
+#}
+#lk-3-10 {
+ {
+  <i>Was sollen wir denn tun?</i> vgl §apg-2-38, §apg-16-30
+ <br>
+  Beachte: Die Frage, was zu tun sei, wird von den Volksmengen (hier), den Zöllnern (§Vlk-3-12) und den Kriegsleuten (§Vlk-3-14) gefragt, aber offenbar nicht
+  von den → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer[Pharisäern] und → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer[Sadduzäern], vgl §mt-3-5 und §mt-3-7
  }
 #}
 #lk-3-11 {
@@ -65093,7 +65246,7 @@ mt {
   <i>ob er nicht etwa der Christus sei</i> vgl §joh-1-20
  }
  {
-  *Das Volk war in Erwartung*: möglicherweise wegen der → biblisches/Bücher/Daniel/70-Wochen[70 Wochen] Prophetie von → biblisches/Bücher/Daniel in §dan-9-24-ff.
+  <i>Das Volk war in Erwartung</i>: möglicherweise wegen der → biblisches/Bücher/Daniel/70-Wochen[70 Wochen] Prophetie von → biblisches/Bücher/Daniel in §dan-9-24-ff.
   Beachte auch, dass sie → biblisches/Personen/Johannes/Täufer[Johannes den Täufer] fragten, wer er er ist - und er sagt, er sei nicht der Christus §joh-1-19-ff
  }
 #}
@@ -65102,7 +65255,12 @@ mt {
   Hier beendet → biblisches/Personen/Johannes/Täufer/index seinen Lauf, vgl §+mt-3-11, §apg-13-25.
  }
  {
-  <i>Ich zwar taufe euch mit Wasser…</i> §mt-3-11, §mk-1-8, §joh-1-26, vgl +apg-11-16
+  <i>Ich zwar taufe euch mit Wasser…</i> §mt-3-11, §mk-1-8, §joh-1-26, vgl §+apg-11-16
+ }
+#}
+#lk-3-17 {
+ {
+  §mt-3-12
  }
 #}
 #lk-3-18 {
@@ -65117,11 +65275,17 @@ mt {
 #}
 #lk-3-20 {
  {
+  <i>Johannes im Gefängnis</i> vgl §+mt-4-12, §joh-3-24
+ }
+ {
   TODO: Beachte, dass dies nicht chronologisch ist: Johannes taufte Jesus, er wurde also nach der Taufe Jesu (Vers 21) ins Gefängnis geworfen.
   Vgl auch <a href='http://bibel.renenyffenegger.ch/joh_3.html#v23'>Joh 3,23-24</a>.
  }
 #}
 #lk-3-21 {
+ {
+  §mt-3-13, §mk-1-9
+ }
  {
   <i>daß der Himmel aufgetan wurde</i> §mt-3-16, §mk-1-10, §joh-1-51, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen
   <br>
@@ -65130,9 +65294,12 @@ mt {
 #}
 #lk-3-22 {
  {
-  TODO: Beachte: hier steigt der Heilige Geist in leiblicher Gestalt nieder, dann folgt in
-  den Versen 23-38 das Geschlechtsregister des Herrn und in <a href='http://bibel.renenyffenegger.ch/lk_4.html#v1'>Lk&nbsp;4,1</a>
-  ist der Herr voll Heiligen Geistes.
+  <i>Du bist mein geliebter Sohn…</i> §+mt-3-17
+ }
+ {
+  <i>Der Heilige Geist fährt … auf ihn herab</i> vgl §mk-1-10, §joh-1-32
+  <br>
+  Beachte: hier steigt der Heilige Geist in leiblicher Gestalt nieder, dann folgt in den Versen 23-38 das Geschlechtsregister des Herrn und in §lk-4-1 ist der Herr voll Heiligen Geistes.
  }
 #}
 #lk-3-23 {
@@ -65242,6 +65409,11 @@ mt {
   §+mt-4-7
  }
 #}
+#lk-4-13 {
+ {
+  §mt-4-11
+ }
+#}
 #lk-4-14 {
  {
   <i>Gerücht</i>: §Vlk-4-37, §+mt-9-26.
@@ -65311,6 +65483,11 @@ mt {
   <br>TODO: gibt es irgend ein Gesetz betreffend des Versöhnungstages, dass man ein Tier ein Kliff an diesem Tag herabstürzen sollte?
  }
 #}
+#lk-4-22 {
+ {
+  <i>Verwunderung sich über die Worte der Gnade</i> vgl §joh-1-16
+ }
+#}
 #lk-4-23 {
  {
   Beachte, die <i>grossen Taten in → biblisches/Orte/Kapernaum</i> scheint Lukas (in nicht strikter chronologiescher Reihenfolge) ab
@@ -65355,6 +65532,16 @@ mt {
   <i>erstaunt über Seine Lehre</i> §+mt-7-28
  }
 #}
+#lk-4-33 {
+ {
+  <i>Mensch mit Geist eines unreinen Dämons</i> §mk-1-23
+ }
+#}
+#lk-4-34 {
+ {
+  §mk-1-24
+ }
+#}
 #lk-4-35 {
  {
   Beachte: Jesus <i>bedrohte</i> auch das Fieber der Schwiegermutter des Simon §Vlk-4-39
@@ -65362,10 +65549,31 @@ mt {
 #}
 #lk-4-36 {
  {
+  §mk-1-27
+ }
+ {
   <i>Entsetzen</i>: §lk-5-9
  }
 #}
+#lk-4-37 {
+ {
+  §mk-1-28
+ }
+#}
+#lk-4-40 {
+ {
+  §mt-8-16, §mk-1-32
+ }
+#}
+#lk-4-42 {
+ {
+  §mk-1-37
+ }
+#}
 #lk-4-43 {
+ {
+  §mk-1-38
+ }
  {
   Der Herr <i>muss</i>: <a class='kom' href='#Ilk-9-22'>Lk&nbsp;9,22</a>, <a href='http://bibel.renenyffenegger.ch/lk_12.html#v50'>Lk&nbsp;12,50</a>,
   <a href='http://bibel.renenyffenegger.ch/lk_13.html#v33'>Lk&nbsp;13,33</a>,
@@ -65383,6 +65591,11 @@ mt {
   <i>denn dazu bin ich gesandt worden</i> vgl §+mt-15-24, §lk-4-18
   <br>
    Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
+ }
+#}
+#lk-4-44 {
+ {
+  §mk-1-39
  }
 #}
 @}
@@ -65433,6 +65646,16 @@ mt {
   <i>Alles verlassen</i>: vgl Vers 28.
  }
 #}
+#lk-5-12 {
+ {
+  §mt-8-2, §mk-1-40
+ }
+#}
+#lk-5-14 {
+ {
+  §mt-8-4, §mk-1-44
+ }
+#}
 #lk-5-16 {
  {
   In §lk-6-12 geht Er auf einen Berg, um zu beten.
@@ -65460,6 +65683,11 @@ mt {
 #lk-5-26 {
  {
   <i>Staunen</i>: <a class='kom' href='#Imk-5-42'>Mk&nbsp;5,42</a>.
+ }
+#}
+#lk-5-27 {
+ {
+  §mt-9-9, §mk-2-14
  }
 #}
 #lk-5-32 {
@@ -65704,6 +65932,9 @@ mt {
  }
 #}
 #lk-7-33 {
+ {
+  <i>der weder Brot aß…</i> vgl §mt-3-4, §mk-1-6
+ }
  {
   <i>Einen Dämon haben</i> vgl §+mt-11-18
  }
@@ -67878,7 +68109,7 @@ mt {
   Vgl §1tim-3-16 («geoffenbart im Fleisch»)
  }
  {
-  Das Wort wohnte unter uns. Im <a href='http://bibel.renenyffenegger.ch/joh_1.html#v39'>Vers 39</a> kommt Andreas und der andere Jünger um zu sehen, wo
+  Das Wort wohnte unter uns. In §Vjoh-1-39 kommt Andreas und der andere Jünger um zu sehen, wo
   ER wohnte. Sein Vater wohnte in ihm <a href='http://bibel.renenyffenegger.ch/joh_14.html#v10'>Joh&nbsp;14,10</a>.
  }
  {
@@ -67887,6 +68118,11 @@ mt {
  }
  {
   <i>Gnade und Wahrheit</i>: §+ps-25-10, §+ps-138-2
+ }
+#}
+#joh-1-16 {
+ {
+  <i>Gnade um Gnade</i> vgl §lk-4-22
  }
 #}
 #joh-1-18 {
@@ -67931,7 +68167,7 @@ mt {
 #}
 #joh-1-23 {
  {
-  Dieses Zitat stammt aus §+jes-40-3, §+mk-1-3
+  Dieses Zitat stammt aus §+jes-40-3, vgl §+mk-1-3, §lk-3-4
  }
  {
   Die <i>Stimme eines Rufenden</i>: vgl die <i>Stimme des Bräutigams</i> (<a href='http://bibel.renenyffenegger.ch/joh_3.html#v29'>Joh&nbsp;3,29</a>) und
@@ -67971,6 +68207,9 @@ mt {
  }
 #}
 #joh-1-28 {
+ {
+  <i>jenseits des Jordan</i> vgl §lk-3-3
+ }
  {
    <i>Bethabara</i> (<span class='gr'>Βηθαβαρά</span>, Strongs 962, im Hebräischen <span class='hebr'>בית עברה</span>, Strongs 1004+5679). 5679
    kommt in
@@ -68019,12 +68258,23 @@ mt {
   <i>Offenbaren/Offenbar machen</i>: <a class='kom' href='#Imt-11-25'>Mt&nbsp;11,25</a>.
  }
 #}
+#joh-1-32 {
+ {
+  <i>Ich schaute den Geist wie eine Taube aus dem Himmel herniederfahren</i>: in den anderen → biblisches/Bücher/Evangelien wird berichtet, dass der Herr selbst den Geist sieht: §mt-3-16, §mk-1-10, §lk-3-22
+ }
+#}
 #joh-1-33 {
  {
-   Mit Wasser taufen: zur Busse (<a href='http://bibel.renenyffenegger.ch/mt_3.html#v11'>Mt&nbsp;3,11</a>). Siehe <a class='kom' href='#Iapg-11-16'>Apg&nbsp;11,16</a>
+  Mit Wasser taufen: zur Busse (<a href='http://bibel.renenyffenegger.ch/mt_3.html#v11'>Mt&nbsp;3,11</a>). Siehe <a class='kom' href='#Iapg-11-16'>Apg&nbsp;11,16</a>
+ }
+ {
+  <i>der mit Heiligem Geist tauft</i> vgl §mk-1-8
  }
 #}
 #joh-1-34 {
+ {
+  Hier bezeugt der Autor dieses Evangeliums, daß <i>dieser der Sohn Gottes</i> ist, in den anderen Evangelien ist es eine Stimme aus dem Himmel: §mt-3-17, §mk-1-11, §lk-3-22.
+ }
  {
   <i>Sohn Gottes</i>: §Vjoh-1-49, §+mk-1-1
  }
@@ -68417,7 +68667,8 @@ mt {
 #}
 #joh-3-24 {
  {
-  <i>Johannes im Gefängnis</i>: <a class='kom' href='#Imt-4-12'>Mt&nbsp;4,12</a>.
+  Nachdem <i>Johannes ins Gefängnisg geworfen</i> war, entweicht Jesus nach Galiläa: §+mt-4-12, §mk-1-14. Dies ist wohl in §joh-4-3 der Fall.
+  Vgl §lk-3-20.
  }
 #}
 #joh-3-26 {
@@ -68493,6 +68744,11 @@ mt {
 #joh-4-2 {
  {
   <a class='kom' href='#Ijoh-3-22'>Joh&nbsp;3,22</a>.
+ }
+#}
+#joh-4-3 {
+ {
+  Vermutlich wurde → biblisches/Personen/Johannes/Täufer zwischen §joh-3-24 und hier ins Gefängnis geworfen, vgl §mt-4-12, §mk-1-14
  }
 #}
 #joh-4-5 {
@@ -69781,6 +70037,9 @@ mt {
 #}
 #joh-12-24 {
  {
+  <i>bringt viel Frucht</i> vgl §joh-15-2-ff, §joh-15-6
+ }
+ {
   <i>Weizenkorn</i>: vgl <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v37'>1.&nbsp;Kor&nbsp;15,37</a>.
  }
 #}
@@ -70253,6 +70512,11 @@ mt {
  }
  {
   Vgl mit §offb-14-18-19.
+ }
+#}
+#joh-15-6 {
+ {
+  <i>bring viel Frucht</i> §joh-12-24
  }
 #}
 #joh-15-8 {
@@ -71276,12 +71540,15 @@ mt {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
  }
  {
+  <i>Träume haben</i> (<span class='gr'>ενυπνια ενυπνιασθησονται</span>, Strongs 1798 1797) vielleicht besser übersetzt mit «Träume träumen»?
+  <br>
+    Strongs 1797 kommt auch in §jud-1-8 vor.
+ }
+ {
   TODO: Ist diese <i>Geistausgiessung</i> dasselbe, wie das in einen Leib hineingetauft werden aus <a href='http://bibel.renenyffenegger.ch/1kor_12.html#v13'>1.&nbsp;Kor&nbsp;12,13</a>.
  }
  {
-  TODO: <i>Träume haben</i> (<span class='gr'>ενυπνια ενυπνιασθησονται</span>, Strongs 1798 1797) vielleicht besser übersetzt mit
-  'Träume träumen'?
-  <br>TODO: <a class='kom' href='#Imt-2-12'>Mt&nbsp;2,12</a>.
+  <br>TODO: Träume etc §+mt-2-12.
  }
  {
   <i>Es wird geschehen</i>: vgl Vers 21, <a href='http://bibel.renenyffenegger.ch/apg_3.html#v23'>Apg&nbsp;3,23</a>.
@@ -71462,12 +71729,11 @@ mt {
  {
   TODO: Gehören die Spötter aus Vers 13 zu <i>ihnen</i>?
  }
- {
-  TODO: Warum die Frage 'was sollen wir tun'. Petrus forderte doch zu nichts auf.
-  <br>Vgl mit der Fragle 'was muss ich tun, damit ich gerettet werde' in <a href='http://bibel.renenyffenegger.ch/apg_16.html#v30'>Apg&nbsp;16,30</a>.
- }
 #}
 #apg-2-38 {
+ {
+  <i>Was sollen wir tun…?</i> §lk-3-10, §apg-16-30
+ }
  {
   Siehe <a href='#Imt-28-19'>Mt&nbsp;28,19</a> wo die Anordnung lautet, auf den Vater, den Sohn und den Heiligen Geist zu taufen.
   Siehe auch <a href='http://bibel.renenyffenegger.ch/apg_19.html#v5'>Apg&nbsp;19,5</a> und
@@ -74562,7 +74828,7 @@ mt {
 #}
 #apg-16-30 {
  {
-  <i>Was muss ich tun</i>: <a class='kom' href='#Iapg-2-37'>Apg&nbsp;2,37</a>.
+  <i>Was muß ich tun</i> vgl §lk-3-10, §+apg-2-38
  }
  {
   Beachte: hier werden sie <i>herausgeführt</i>, in Vers 40 <i>verlassen</i> sie das Gefängnis.
@@ -79418,7 +79684,7 @@ mt {
 #}
 #1kor-1-22 {
  {
-  <i>Zeichen</i>: §+mt-12-38.
+  <i>Zeichen</i>: §+mt-12-38, §+lk-2-12
  }
  {
   <i>Glauben wegen Zeichen</i>: §+joh-2-23
@@ -91084,6 +91350,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: kann <i>Vater der Geister</i> auch mit 'geistliche Väter' übersetzt werden?
  }
 #}
+#hebr-12-11 {
+ {
+  <i>Frucht der Gerechtigkeit</i> §jak-3-18
+ }
+#}
 #hebr-12-14 {
  {
   Vgl <a class='kom' href='#Ihebr-2-8'>Hebr&nbsp;2,8</a>.
@@ -91745,6 +92016,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Weisheit mit sieben Säulen: <a class='kom' href='#Ispr-9-1'>Spr&nbsp;9,1</a>.
  }
 #}
+#jak-3-18 {
+ {
+  <i>Frucht der Gerechtigkeit</i> §hebr-12-11
+ }
+#}
 @}
 @Jakobus 4 {
 #jak-4-1 {
@@ -91843,7 +92119,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>geduldig Warten</i>: vgl §+lk-21-19
  }
  {
-  <i>Frucht der Erde</i>: vgl Vers 18.
+  <i>Frucht der Erde</i>: vgl §Vjak-5-18
  }
 #}
 #jak-5-9 {
@@ -91888,6 +92164,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #jak-5-17 {
  {
   <i>Art</i>: <a class='kom' href='#Iapg-14-15'>Apg&nbsp;14,15</a>
+ }
+#}
+#jak-5-18 {
+ {
+  <i>die Erde brachte ihre Frucht hervor</i> vgl §Vjak-5-7
  }
 #}
 @}
@@ -94088,7 +94369,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #jud-1-8 {
  {
   <i>Träumerein</i> (<span class='gr'>ἐνυπνιάζομαι</span>, Strongs 1797): dasselbe Wort wie
-  in <a class='kom' href='#Imt-2-12'>Mt&nbsp;2,12</a>.
+  in §apg-2-17
  }
  {
   TODO: <i>diese</i> bezieht sich wohl auf jene Menschen aus Vers 4, und werden erwähnt in den
