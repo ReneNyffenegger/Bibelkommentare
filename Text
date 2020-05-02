@@ -58215,7 +58215,7 @@
 #}
 #mt-2-23 {
  {
-   → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten
+  → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten
  }
  {
   TODO: Ist dies eine Erfüllung von §jes-11-1? Diese Annahme wird <a href='http://www.diebibelonline.de/Prophetien-gesprochene-und-geschriebene.htm'>hier</a> verworfen.
@@ -58224,7 +58224,7 @@
    → biblisches/Orte/Nazareth, vgl §lk-2-39
  }
  {
-  <i>wohnte</i> in Sch2K mit «liess sich nieder» übersetzt. vgl §+mt-4-13.
+  <i>wohnte</i> in Sch2K mit «liess sich nieder» übersetzt. vgl §+mt-4-13, §joh-1-14
  }
 #}
 @}
@@ -58546,6 +58546,8 @@
  {
   <i>wohnen</i> ist im Griechischen <span class='gr'>κατοικέω</span> (Strongs 2730), wie auch in §mt-2-23 und wird in Sch2K mit «liess sich nieder» übersetzt.
   An anderer Stelle wird dieses Wort auch in Sch2K mit »wohnen« übersetzt, zB in §apg-1-20 oder §kol-1-19.
+ <br>
+  §joh-1-14 sagt, dass «er unter uns wohnte».
  }
  {
    → biblisches/Orte/Kapernaum, → biblisches/Orte/Nazareth
@@ -59089,6 +59091,9 @@
 #}
 #mt-8-5 {
  {
+  §lk-7-1
+ }
+ {
   → biblisches/Orte/Kapernaum
  }
  {
@@ -59104,6 +59109,9 @@
  }
 #}
 #mt-8-6 {
+ {
+  §lk-7-2
+ }
  {
   <i>Knecht</i>: <span class='gr'>παῖς</span> (Strongs 3816). Vgl <a href='http://bibel.renenyffenegger.ch/apg_3.html#v3'>Apg&nbsp;3,3</a>.
  }
@@ -59337,6 +59345,11 @@
   → biblisches/Personen/Matthäus
  }
 #}
+#mt-9-10 {
+ {
+  §mk-2-15, §lk-5-29
+ }
+#}
 #mt-9-13 {
  {
   <i>Ich will Barmehrzigkeit und nicht Opfer</i>: Vgl <a href='http://bibel.renenyffenegger.ch/mt_12.html#v7'>Mt&nbsp;12,7</a>.
@@ -59344,7 +59357,10 @@
 #}
 #mt-9-14 {
  {
-   <i>Warum fasten wir</i> vgl §mt-11-18, §mk-2-18 
+  §mk-2-18, §lk-5-33
+ }
+ {
+   <i>Warum fasten wir</i> vgl §mt-11-18
  }
  {
   TODO: Es scheint kein Gesetz von Mose zu geben, das das Fasten regelt.
@@ -59364,6 +59380,11 @@
  {
   Vgl «Können die Hochzeitsgäste <i>trauern</i> mit <i>fasten</i> in <a href='http://bibel.renenyffenegger.ch/mk_2.html#v19'>Mk&nbsp;2,19</a>
   S.a <a href='http://bibel.renenyffenegger.ch/lk_5.html#v34'>Lk&nbsp;5,34</a>.
+ }
+#}
+#mt-9-18 {
+ {
+  §mk-2-21, §lk-5-36
  }
 #}
 #mt-9-22 {
@@ -59436,7 +59457,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
  }
  {
-  Vgl §+mt-4-23.
+  Vgl §+mt-4-23, §lk-8-1
  }
 #}
 #mt-9-36 {
@@ -59666,6 +59687,9 @@
 #}
 #mt-11-2 {
  {
+  §lk-7-18
+ }
+ {
   <i>Johannes im Gefängnis</i>: §+mt-4-12.
  }
  {
@@ -59694,6 +59718,9 @@
  }
 #}
 #mt-11-7 {
+ {
+  §lk-7-24
+ }
  {
   <i>Rohr</i>: <a class='kom' href='#Imt-12-18'>Mt&nbsp;12,18</a>.
  }
@@ -59741,6 +59768,11 @@
   <a href='http://bibel.renenyffenegger.ch/mt_13.html#v43'>Mt&nbsp;13,43</a>
   <br>Vgl mit «Wer ein Ohr hat, der höre» in <a class='kom' href='#Ioffb-2-7'>Offb&nbsp;2,7</a>.
   <br>Vgl auch mit <a class='kom' href='#I2mo-24-7'>2.&nbsp;Mo&nbsp;24,7</a>.
+ }
+#}
+#mt-11-16 {
+ {
+  §lk-7-31
  }
 #}
 #mt-11-18 {
@@ -59834,6 +59866,9 @@
 @Matthäus 12 {
 #mt-12-1 {
  {
+  §mk-2-23, §lk-6-1
+ }
+ {
   <a href='http://bibel.renenyffenegger.ch/5mo_23.html#v26'>5.&nbsp;Mo&nbsp;23,26</a> erlaubt zwar, Ähren mit der abzustreifen, sagt aber nichts
   darüber aus, ob dies am Sabbat auch erlaubt ist.
  }
@@ -59886,7 +59921,15 @@
   <i>Ich will Barmehrzigkeit und nicht Opfer</i>: Vgl <a class='kom' href='#Imt-9-13'>Mt&nbsp;9,13</a>.
  }
 #}
+#mt-12-8 {
+ {
+  §mk-2-28, §lk-6-5
+ }
+#}
 #mt-12-9 {
+ {
+  §mk-3-1, §lk-6-6
+ }
  {
   Gemäss <a class='kom' href='#Ilk-6-6'>Lk&nbsp;6,6</a> an einem 'anderen Sabbat' (Siehe Vers 1).
  }
@@ -59909,7 +59952,10 @@
 #}
 #mt-12-16 {
  {
-  <i>Offenbaren/Offenbar machen</i>: <a class='kom' href='#Imt-11-25'>Mt&nbsp;11,25</a>.
+  §mk-3-12
+ }
+ {
+  <i>Offenbaren/Offenbar machen</i>: §+mt-11-25.
  }
 #}
 #mt-12-17 {
@@ -62922,6 +62968,11 @@
   §mt-9-9, §lk-5-27
  }
 #}
+#mk-2-15 {
+ {
+  §mt-9-10, §lk-5-29
+ }
+#}
 #mk-2-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
@@ -62929,7 +62980,7 @@
 #}
 #mk-2-18 {
  {
-  §mt-9-14
+  §mt-9-14, §lk-5-33
  }
 #}
 #mk-2-19 {
@@ -62938,10 +62989,20 @@
   S.a. <a href='http://bibel.renenyffenegger.ch/lk_5.html#v34'>Lk&nbsp;5,34</a>.
  }
 #}
+#mk-2-21 {
+ {
+  §mt-9-18, §lk-5-36
+ }
+#}
 #mk-2-22 {
  {
   Das Wort <i>neu</i> beim Wein ist <span class='gr'>νέος</span> (Strongs 3501) bei den Schläuchen
   <span class='gr'>καινός</span> (Strongs 2537).
+ }
+#}
+#mk-2-23 {
+ {
+  §mt-12-1, §lk-6-1
  }
 #}
 #mk-2-26 {
@@ -62954,8 +63015,18 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat
  }
 #}
+#mk-2-28 {
+ {
+  §mt-12-8, §lk-6-5
+ }
+#}
 @}
 @Markus 3 {
+#mk-3-1 {
+ {
+  §mt-12-9, §lk-6-6
+ }
+#}
 #mk-3-2 {
  {
   <i>auflauern</i>: <a class='kom' href='#Ilk-6-7'>Lk&nbsp;6,7</a>
@@ -62989,7 +63060,10 @@
 #}
 #mk-3-12 {
  {
-  <i>Offenbaren/Offenbar machen</i>: <a class='kom' href='#Imt-11-25'>Mt&nbsp;11,25</a>.
+  §mt-12-16
+ }
+ {
+  TODO: <i>Offenbaren/Offenbar machen</i>: <a class='kom' href='#Imt-11-25'>Mt&nbsp;11,25</a>.
  }
 #}
 #mk-3-14 {
@@ -65195,6 +65269,11 @@
   Beachte, der Herr selbst wird aus Jesaja vorlesen: §lk-4-17
  }
 #}
+#lk-3-5 {
+ {
+  <i>und die höckerichten werden zu ebenen Wegen werden</i> vgl §lk-6-17
+ }
+#}
 #lk-3-6 {
  {
   <i>Alles Fleisch wird das Heil sehen</i>: vgl §+lk-2-30, vgl §apg-28-28
@@ -65228,12 +65307,16 @@
   <i>Was sollen wir denn tun?</i> vgl §apg-2-38, §apg-16-30
  <br>
   Beachte: Die Frage, was zu tun sei, wird von den Volksmengen (hier), den Zöllnern (§Vlk-3-12) und den Kriegsleuten (§Vlk-3-14) gefragt, aber offenbar nicht
-  von den → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer[Pharisäern] und → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer[Sadduzäern], vgl §mt-3-5 und §mt-3-7
+  von den → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer[Pharisäern] und → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer[Sadduzäern], vgl §mt-3-5-7 und
+  §lk-7-29-30.
  }
 #}
 #lk-3-11 {
  {
   Vgl §mt-5-40
+ }
+ {
+  <i>zwei Leibröcke</i> vgl §lk-9-3
  }
 #}
 #lk-3-14 {
@@ -65655,6 +65738,9 @@
  {
   §mt-8-4, §mk-1-44
  }
+ {
+  Der Geheilte musste sich dem Priester zeigen und durfte niemandem etwas sagen. Der Gadarener, von dem die Dämonen ausgefahren sind, sollte nach Hause gehen und erzählen, wieviel Gott an ihm getan hat, §lk-8-39.
+ }
 #}
 #lk-5-16 {
  {
@@ -65670,6 +65756,12 @@
  }
 #}
 #lk-5-21 {
+ {
+  <i>Wer kann Sünden vergeben, außer Gott allein?</i> vgl §lk-7-49
+ }
+ {
+  <i>Wer ist dieser…?</i> §lk-7-49, §lk-8-25, §lk-9-9
+ }
  {
   <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
  }
@@ -65690,6 +65782,11 @@
   §mt-9-9, §mk-2-14
  }
 #}
+#lk-5-29 {
+ {
+  §mt-9-10, §mk-2-15
+ }
+#}
 #lk-5-32 {
  {
   <i>Sünder zur Busse rufen</i>: §+mt-4-17
@@ -65697,7 +65794,7 @@
 #}
 #lk-5-33 {
  {
-  Beachte, dass hier auch Jünger des Johannes fragen (<a href='http://bibel.renenyffenegger.ch/mk_2.html#v18'>Mk&nbsp;2,18</a>).
+  Diese Frage wird von den Jüngern des → biblisches/Personen/Johannes/Täufer[Johannes] gefragt: §mt-9-14, §mk-2-18.
  }
 #}
 #lk-5-34 {
@@ -65707,6 +65804,9 @@
 #}
 #lk-5-36 {
  {
+  §mt-9-18, §mk-2-21
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
  }
 #}
@@ -65714,7 +65814,10 @@
 @Lukas 6 {
 #lk-6-1 {
  {
-  Vgl &lsaquo;folgender Sabbat&rsaquo; in <a href='http://bibel.renenyffenegger.ch/apg_13.html#v44'>Apg&nbsp;13,44</a>, wo sich Paulus und Barnabas zu den Heiden wenden.
+  §mt-12-1, §mk-2-23
+ }
+ {
+  Vgl «nächster Sabbat» in §apg-13-44, wo sich Paulus und Barnabas zu den Heiden wenden.
  }
 #}
 #lk-6-2 {
@@ -65728,6 +65831,16 @@
  }
  {
   Vgl §1sam-21-7
+ }
+#}
+#lk-6-5 {
+ {
+  §mt-12-8, §mk-2-28
+ }
+#}
+#lk-6-6 {
+ {
+  §mt-12-9, §mk-3-1
  }
 #}
 #lk-6-7 {
@@ -65796,6 +65909,11 @@
   Nicht nur Judas war ein <i>Verräter</i>, sondern auch fast das ganze Volk, §apg-7-52
  }
 #}
+#lk-6-17 {
+ {
+  <i>Ebener Platz</I> vgl §lk-3-5
+ }
+#}
 #lk-6-22 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung
@@ -65830,10 +65948,16 @@
 @Lukas 7 {
 #lk-7-1 {
  {
+  §mt-8-5
+ }
+ {
   → biblisches/Orte/Kapernaum
  }
 #}
 #lk-7-2 {
+ {
+  §mt-8-6
+ }
  {
   <i>Hauptmann</i>: <a class='kom' href='#Imt-8-5'>Mt&nbsp;8,5</a>.
  }
@@ -65878,13 +66002,21 @@
 #}
 #lk-7-18 {
  {
-  Lukas vermeidet es, zu erwähnen, dass Johannes im Gefängnis ist, vgl <a href='http://bibel.renenyffenegger.ch/mt_11.html#v2'>Mt&nbsp;11,2</a>.
-  S.a. <i>Johannes im Gefängnis</i>: <a class='kom' href='#Imt-4-12'>Mt&nbsp;4,12</a>.
+  §mt-11-2
+ }
+ {
+  Lukas vermeidet es, zu erwähnen, dass Johannes im Gefängnis ist, vgl §mt-11-2.
+  S.a. <i>Johannes im Gefängnis</i>: §+mt-4-12.
  }
 #}
 #lk-7-19 {
  {
   <i>Zwei Jünger</i>: <a class='kom' href='#Imt-11-2'>Mt&nbsp;11,2</a>.
+ }
+#}
+#lk-7-20 {
+ {
+  <i>sollen wir auf einen anderen warten?</i> vgl §lk-8-40
  }
 #}
 #lk-7-21 {
@@ -65896,6 +66028,11 @@
 #lk-7-22 {
  {
   <i>Der Herr macht Blinde sehend</i>: <a class='kom' href='#Ips-146-8'>Ps&nbsp;146,8</a>.
+ }
+#}
+#lk-7-24 {
+ {
+  §mt-11-7
  }
 #}
 #lk-7-25 {
@@ -65923,12 +66060,21 @@
 #}
 #lk-7-30 {
  {
+  <i>indem sie nicht von ihm getauft worden waren</i> vgl §+lk-3-10-ff wo sich «nur» die Volksmengen, die Zöllner und Kriegsleute, aber nicht die → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer und
+  Schriftgelehrten fragten, was zu tun sei.
+ }
+ {
   TODO: <i>Ratschluss Gottes</i>: <a href='http://bibel.renenyffenegger.ch/apg_2.html#v23'>Apg&nbsp;2,23</a>,
   <a href='http://bibel.renenyffenegger.ch/apg_4.html#v28'>Apg&nbsp;4,28</a>,
   <a href='http://bibel.renenyffenegger.ch/apg_13.html#v36'>Apg&nbsp;13,36</a>,
   <a href='http://bibel.renenyffenegger.ch/apg_20.html#v27'>Apg&nbsp;20,27</a>,
   <a href='http://bibel.renenyffenegger.ch/hebr_6.html#v17'>Hebr&nbsp;6,17</a>.
   <br>Vgl Vorhaben von Menschen (<a class='kom' href='#Iapg-5-38'>Apg&nbsp;5,38</a>).
+ }
+#}
+#lk-7-31 {
+ {
+  §mt-11-16
  }
 #}
 #lk-7-33 {
@@ -65967,6 +66113,14 @@
   TODO: <a class='kom' href='#Ips-23-5'>Ps&nbsp;23,5</a>.
  }
 #}
+#lk-7-49 {
+ {
+  <i>Wer aber ist dieser …?</i> §+lk-5-21
+ }
+ {
+  <i>Wer ist dieser, der auch Sünden vergibt?</i> vgl §lk-5-21
+ }
+#}
 #lk-7-50 {
  {
   <i>Dein Glaube hat dich gerettet</i>: <a class='kom' href='#Imt-9-22'>Mt&nbsp;9,22</a>.
@@ -65974,6 +66128,11 @@
 #}
 @}
 @Lukas 8 {
+#lk-8-1 {
+ {
+  §mt-9-35
+ }
+#}
 #lk-8-2 {
  {
   <i>Beinamen/Übernamen im Neuen Testament</i>: <a class='kom' href='#Imt-10-3'>Mt&nbsp;10,3</a>.
@@ -66054,6 +66213,11 @@
   Vgl §+ps-89-10.
  }
 #}
+#lk-8-25 {
+ {
+  <i>Wer aber ist dieser …?</i> §+lk-5-21, §lk-8-45
+ }
+#}
 #lk-8-26 {
  {
   Das Land der <i>Gadarener</i> wird in §mt-8-28 «Land der Gergesener» genannt, vgl §mk-5-1
@@ -66087,10 +66251,17 @@
 #}
 #lk-8-39 {
  {
-  <a class='kom' href='#Imk-5-19'>Mk&nbsp;5,19</a>.
+  <i>Kehre in dein Haus zurück und erzähle…</i> §+mk-5-19.
+ <br>
+  Beachte: ein Aussätziger musste sich nach der Heilung dem Priester zeigen und durfte es niemandem sagen, §lk-5-14
  }
  {
   → biblisches/Lehre/Gott-Jehova-Jahwe-Jesus
+ }
+#}
+#lk-8-40 {
+ {
+  <i>alle erwarteten ihn</i> vgl §lk-7-20
  }
 #}
 #lk-8-42 {
@@ -66098,9 +66269,19 @@
   <i>Einzige Tochter</i>: vgl <a class='kom' href='#Ilk-7-12'>Lk&nbsp;7,12</a>.
  }
 #}
+#lk-8-45 {
+ {
+  <i>Wer ist denn dieser …</i> vgl §lk-8-25
+ }
+#}
 #lk-8-48 {
  {
   <i>Dein Glaube hat dich gerettet</i>: <a class='kom' href='#Imt-9-22'>Mt&nbsp;9,22</a>.
+ }
+#}
+#lk-8-52 {
+ {
+  <i>sie ist nicht gestorben, sondern schlft</i> Vgl §joh-11-11
  }
 #}
 #lk-8-54 {
@@ -66116,6 +66297,9 @@
  }
 #}
 #lk-9-3 {
+ {
+  <i>zwei Leibröcke</i> vgl §lk-3-11
+ }
  {
   Beachte: Hier gehen die Jünger ohne Brot und Geld aus. In §Vlk-9-13 sagt der Herr, dass sie anderen Menschen zu essen geben sollen. Das scheinen sie sich aber nicht zuzutrauen.
   Auf diese Begebenheit hin erkennt Petrus, dass der Herr der Christus Gottes ist (§lk-9-20).
@@ -66142,10 +66326,13 @@
 #}
 #lk-9-8 {
  {
-  Vgl Vers 19.
+  Vgl §Vlk-9-19
  }
 #}
 #lk-9-9 {
+ {
+  <i>Wer aber ist dieser …?</i> §+lk-5-21
+ }
  {
   → biblisches/Personen/Herodes
  }
@@ -66158,6 +66345,11 @@
 #lk-9-11 {
  {
   <i>Heilung</i> §+mt-24-45
+ }
+#}
+#lk-9-19 {
+ {
+  Vgl §Vlk-9-8
  }
 #}
 #lk-9-21 {
@@ -68109,8 +68301,10 @@
   Vgl §1tim-3-16 («geoffenbart im Fleisch»)
  }
  {
-  Das Wort wohnte unter uns. In §Vjoh-1-39 kommt Andreas und der andere Jünger um zu sehen, wo
+  <i>Das Wort wohnte unter uns</i>. In §Vjoh-1-39 kommt Andreas und der andere Jünger um zu sehen, wo
   ER wohnte. Sein Vater wohnte in ihm <a href='http://bibel.renenyffenegger.ch/joh_14.html#v10'>Joh&nbsp;14,10</a>.
+ <br>
+  Joseph wohnte in → biblisches/Orte/Nazareth, damit Er Nazarener genannt würde, §mt-2-23. Er wird Nazareth verlassen und in → biblisches/Orte/Kapernaum wohnen, §mt-4-13
  }
  {
   <i>wohnen</i> (<span class='hebr'>σκηνόω</span>, Strongs 4637) = 'to fix one's tabernacle', 'to dwell'. Dieses Wort kommt noch vor in
@@ -69905,6 +70099,9 @@
  }
 #}
 #joh-11-11 {
+ {
+  <i>ist eingeschlafen</i> vgl §mk-8-52
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
  }
