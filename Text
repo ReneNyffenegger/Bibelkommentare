@@ -20663,6 +20663,8 @@
 #5mo-18-15 {
  {
   Vgl §mal-3-23, §apg-3-22, §lk-7-16, §joh-1-21, §joh-1-25, §hos-12-14
+ <br>
+  <i>aus deiner Mitte</i>: §joh-1-26
  }
  {
   <i>auf ihn sollst du hören</i> §mt-17-5
@@ -58343,7 +58345,7 @@
 #}
 #mt-3-11 {
  {
-  <i>Ich zwar taufe euch mit Wasser…</i> §mk-1-8, §lk-3-16, §joh-1-26 
+  <i>Ich zwar taufe euch mit Wasser…</i> §mk-1-8, §lk-3-16, §+joh-1-26-33
  <br>
   <i>Mit Wasser zur Busse taufen</i>: Siehe <a  class='kom' href='#Iapg-11-16'>Apg&nbsp;11,16</a>
  }
@@ -58404,7 +58406,8 @@
    (<a href='http://bibel.renenyffenegger.ch/joh_5.html#v37'>Joh&nbsp;5,37</a>).
  }
  {
-  <i>Dies ist mein geliebter Sohn…</i>, §mk-1-11, §lk-3-22. Im → biblisches/Bücher/Evangelien/Johannes[Johannesevangelium] ist es der Autor selbst, der dies bezeugt: §+joh-1-34.
+  <i>Dies ist mein geliebter Sohn…</i> (auch in §mk-1-11, §lk-3-22). Dies wird nach Jesu' Taufe mit einer Stimme vom Himmel bezeugt.
+  Im → biblisches/Bücher/Evangelien/Johannes[Johannesevangelium] ist es der Autor selbst, der bezeugt, dass Jesus der Sohn Gottes ist: §+joh-1-34.
   <br>
   Beachte: Der Versucher stellt bereits in §mt-4-3 in Frage, ober Er wirklich der Sohn Gottes ist.
  }
@@ -59761,6 +59764,14 @@
    <a href='http://bibel.renenyffenegger.ch/jud_1.html#v23'>Jud&nbsp;1,23</a> ('reissen').
  }
 #}
+#mt-11-14 {
+ {
+  <i>er ist Elias…</i>: in §joh-1-21 bestritt → biblisches/Personen/Johannes/Täufer, dass er → biblisches/Personen/Elia[Elias] sei. Dies wohl, weil Johannes in der
+  «im Geist und in der Kraft des Elias» gekommen ist, §lk-1-17
+ <br>
+  Vgl §mt-17-10-12
+ }
+#}
 #mt-11-15 {
  {
   <i>Wer Ohren hat, der höre</i>:
@@ -60769,6 +60780,9 @@
  }
 #}
 #mt-17-10 {
+ {
+  <i>… daß Elias zuerst kommen müsse?</i> vgl §mt-11-14, §joh-1-21
+ }
  {
   TODO: Obwohl die Jünger zum Beispiel in <a href='http://bibel.renenyffenegger.ch/mk_9.html#v32'>Mk&nbsp;9,32</a> das Wort
   'Der Sohn des Menschen wird in die Hände der Menschen ausgeliefert; und sie werden ihn töten, und nachdem er getötet worden ist, wird er am dritten Tag auferstehen'
@@ -63413,6 +63427,9 @@
 #}
 #mk-6-15 {
  {
+  Vgl §joh-1-21
+ }
+ {
   Es ist Elias, vgl §mk-8-28, §mt-16-14
  }
  {
@@ -64804,7 +64821,10 @@
 #}
 #lk-1-17 {
  {
-  Vgl <a class='kom' href='#Imal-3-23'>Mal 3,23-24</a>.
+  Vgl §+mal-3-23-24.
+ }
+ {
+  <i>im Geist und in der Kraft des → biblisches/Personen/Elia[Elias]</i> §+mt-11-14
  }
 #}
 #lk-1-19 {
@@ -68314,6 +68334,11 @@
   <i>Gnade und Wahrheit</i>: §+ps-25-10, §+ps-138-2
  }
 #}
+#joh-1-15 {
+ {
+  <i>…denn er war vor mir</i> vgl §Vjoh-1-30, §joh-8-58
+ }
+#}
 #joh-1-16 {
  {
   <i>Gnade um Gnade</i> vgl §lk-4-22
@@ -68353,10 +68378,15 @@
   <br>Vgl auch die 'zwei Zeugen' aus <a class='kom' href='#Ioffb-11-3'>Offb&nbsp;11,3</a>.
  }
  {
-
+  Obwohl → biblisches/Personen/Johannes/Täufer nicht → biblisches/Personen/Elia[Elias] war, sagt der Herr genau dies über Johannes, §mt-11-14
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet: §joh-4-19, §joh-4-44, §joh-6-14, §joh-7-40, §joh-7-52, §joh-9-17
   <br>
-   Vgl §lk-20-6 wo das Volk überzeugt war, dass Johannes in Prophet ist. Vgl auch §mt-21-26
+   Vgl §lk-20-6 wo das Volk überzeugt war, dass Johannes ein Prophet ist. Vgl auch §mt-21-26
+ }
+ {
+  Vgl §mk-6-15
  }
 #}
 #joh-1-23 {
@@ -68377,13 +68407,17 @@
   gekannt?
  }
  {
-  TODO: Die Priester und Leviten erkannten offenbar nicht, dass der Prophet (<a class='kom' href='#I5mo-18-15'>5.&nbsp;Mo&nbsp;18,15</a>) und der Christus
-  dieselbe Person sind.
+  Die Priester und Leviten erkannten offenbar nicht, dass der Prophet (§+5mo-18-15) und der Christus dieselbe Person sind.
  }
 #}
 #joh-1-26 {
  {
-  <i>Ich taufe mit Wasser…</i>: §mt-3-11, §mk-1-8, §lk-3-16
+  <i>Ich taufe mit Wasser…</i>: in den anderen Evengalien wird erklärt, dass der «Kommende», den sie nicht kennen, mit «Heiligem Geist und Feuer» tauft, §mt-3-11, §mk-1-8, §lk-3-16.
+ <br>
+  Diese Taufe mit Heiligem Geist wird in diesem Evangelium in §Vjoh-1-33 erwähnt.
+ }
+ {
+  <i>mitten unter euch steht…</i> vgl §5mo-18-15 («Einen Propheten aus deiner Mitte … wird der HERR, dein Gott, dir erwecken.
  }
  {
   <i>den ihr nicht kennt</i> vgl §Vjoh-1-31
@@ -68402,6 +68436,9 @@
 #}
 #joh-1-28 {
  {
+  Der Dienst Jesu Christi beginnt in → biblisches/Orte/Bethanien und endet(?) (in einem anderen) Bethanien, wohin der Herr sechs Tage vor dem Passah kommt, §joh-12-1
+ }
+ {
   <i>jenseits des Jordan</i> vgl §lk-3-3
  }
  {
@@ -68413,7 +68450,7 @@
    <br>TODO: vgl <a class='kom' href='#I4mo-21-11'>4.&nbsp;Mo&nbsp;21,11</a>
  }
  {
-  <span class='gt'>TR hat <i>Bethabara</i> statt Bethanien</span>
+  <span class='gt'>TR hat <i>Bethabara</i>, MT und NA <i>Bethanien</i></span>
  }
 #}
 #joh-1-29 {
@@ -68441,7 +68478,7 @@
   Das Lamm Gottes ist <i>ein Mann</i>. Vgl §1tim-2-5
  }
  {
-  <i>Er war vor mir</i> vgl §joh-8-58
+  <i>Er war vor mir</i> vgl §Vjoh-1-15, §joh-8-58
  }
 #}
 #joh-1-31 {
@@ -68467,7 +68504,8 @@
 #}
 #joh-1-34 {
  {
-  Hier bezeugt der Autor dieses Evangeliums, daß <i>dieser der Sohn Gottes</i> ist, in den anderen Evangelien ist es eine Stimme aus dem Himmel: §mt-3-17, §mk-1-11, §lk-3-22.
+  Hier bezeugt der Autor dieses Evangeliums <i>nach</i> der Taufe Jesus, daß <i>dieser der Sohn Gottes</i> ist, in den anderen Evangelien ist es eine Stimme aus dem Himmel, die dies nach seiner Taufe
+  sagt: §mt-3-17, §mk-1-11, §lk-3-22.
  }
  {
   <i>Sohn Gottes</i>: §Vjoh-1-49, §+mk-1-1
@@ -69822,7 +69860,7 @@
 #}
 #joh-8-58 {
  {
-   <i>Ehe Abraham wurde, bin ich</i> vgl §joh-1-30
+   <i>Ehe Abraham wurde, bin ich</i> vgl §joh-1-15, §joh-1-30
  }
  {
   <i>bin ich</i>: Vgl §2mo-3-14,
@@ -70175,6 +70213,11 @@
 #}
 @}
 @Johannes 12 {
+#joh-12-1 {
+ {
+  In → biblisches/Orte/Bethanien begann Jesu Dienst, und hier endet(?) er: §+joh-1-28
+ }
+#}
 #joh-12-2 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen
