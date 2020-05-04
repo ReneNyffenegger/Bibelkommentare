@@ -59113,7 +59113,7 @@
 #}
 #mt-8-6 {
  {
-  §lk-7-2
+  §lk-7-2. Vgl mit dem Sohn des königlichen Beamten, dessen Sohn im Sterben lag, §joh-4-46-ff
  }
  {
   <i>Knecht</i>: <span class='gr'>παῖς</span> (Strongs 3816). Vgl <a href='http://bibel.renenyffenegger.ch/apg_3.html#v3'>Apg&nbsp;3,3</a>.
@@ -65976,7 +65976,7 @@
 #}
 #lk-7-2 {
  {
-  §mt-8-6
+  §mt-8-6. Vgl mit dem Sohn des königlichen Beamten, dessen Sohn im Sterben lag, §joh-4-46-ff
  }
  {
   <i>Hauptmann</i>: <a class='kom' href='#Imt-8-5'>Mt&nbsp;8,5</a>.
@@ -68439,6 +68439,9 @@
   Der Dienst Jesu Christi beginnt in → biblisches/Orte/Bethanien und endet(?) (in einem anderen) Bethanien, wohin der Herr sechs Tage vor dem Passah kommt, §joh-12-1
  }
  {
+  Später wird Johannes in Änon taufen, §joh-3-23
+ }
+ {
   <i>jenseits des Jordan</i> vgl §lk-3-3
  }
  {
@@ -68603,7 +68606,7 @@
 #}
 #joh-1-49 {
  {
-  Beachte: oft wird mit der <i>Sohn Davids</i> mit dem <i>König Israels</i> aossoziert. Hier ist es der <i>Sohn Gottes</i>.
+  Beachte: oft wird mit der <i>Sohn Davids</i> mit dem <i>König Israels</i> assoziert. Hier ist es der <i>Sohn Gottes</i>.
  }
 #}
 #joh-1-51 {
@@ -68887,11 +68890,14 @@
 #}
 #joh-3-23 {
  {
+  Früher hatte Johannes in Bethanien getauft, §joh-1-28
+ }
+ {
   <i>Änon</i> (<span class='gr'>Αἰνών</span>, Strongs 137, offenbar hebräischen Ursprungs: <span class='hebr'>עין</span>, Strongs 5869,
   welches 'Auge' oder 'Quelle' bedeuten kann).
  }
  {
-  <i>Salim</i> (<span class='gr'>Σαλείμ</span>, Strongs 4530) bedeutet offenbar (TODO: wirklich?) 'Friede'.
+  <i>Salim</i> (<span class='gr'>Σαλείμ</span>, Strongs 4530) bedeutet offenbar (TODO: wirklich?) «Friede» oder «Erschütterung»?
  }
  {
    TODO: <a class='kom' href='#Ilk-3-20'>Lk&nbsp;3,20</a>.
@@ -68910,7 +68916,7 @@
 #}
 #joh-3-27 {
  {
-  <i>es sei ihm denn aus dem Himmel gegeben</i> vgl §joh-19-11
+  <i>es sei ihm denn aus dem Himmel gegeben</i> vgl §joh-19-11, §Vjoh-3-31
  }
 #}
 #joh-3-29 {
@@ -69006,6 +69012,11 @@
  }
  {
   <i>Jakobs Brunnen</i>: <a class='kom' href='#I1mo-29-2'>1.&nbsp;Mo&nbsp;29,2</a>.
+ }
+#}
+#joh-4-9 {
+ {
+  TODO: Für die Samaritische Frau ist Jesus ein Jude, für andere ein Galiläer (§mt-26-69…)
  }
 #}
 #joh-4-11 {
@@ -69104,6 +69115,9 @@
 #joh-4-46 {
  {
   <i>Er kam nun wiederum nach Kana</i>, §joh-2-1, §joh-2-11
+ }
+ {
+  Vgl mit dem Knecht des Hauptmanns, der im Sterben lag, §mt-8-6-ff, §lk-7-2-ff
  }
  {
   → biblisches/Orte/Kapernaum
@@ -71110,7 +71124,7 @@
 #}
 #joh-18-15 {
  {
-  <i>Der andere Jünger</i> war dem Hohenpriester Kajaphas bekannt. → biblisches/Personen/Johannes hingegen war Kajaphas nicht bekannt (§apg-4-6-13).
+  <i>Der andere Jünger</i> war dem Hohenpriester Kajaphas bekannt. → biblisches/Personen/Johannes hingegen war Kajaphas nicht bekannt, §apg-4-6-13.
  }
 #}
 #joh-18-18 {
@@ -72298,6 +72312,11 @@
  }
 #}
 #apg-4-13 {
+ {
+  Hier kennen die Hohenpriester → biblisches/Personen/Johannes nicht, aber *den anderen Jünger* kannten sie, §joh-18-15. Da der *andere Jünger* vermutlich der
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/den-Jesus-liebte[der Jüngern, den Jesus liebte] war, schliesst das aus, dass
+  Johannes → biblisches/Bücher/Evangelien/Johannes#joh-autor[der Autor des vierten Evangeliums] ist.
+ }
  {
   Dass Petrus und Johannes mit Jesus gewesen sind, wird erkannt, weil <ul>
     <li>sie ungelehrte Leute waren
