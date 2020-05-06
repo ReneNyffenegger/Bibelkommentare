@@ -5571,7 +5571,7 @@
   <i>Ephrata</i> <span class='hebr'>אֶפְרָ֑תָה</span> (Strongs 672): der Dual dieses Wortes ist <i>Ephraim</i>, siehe <a class='kom' href='#I1mo-41-52'>1.&nbsp;Mo&nbsp;41,52</a>.
   Das Wort stammt offenbar von <span class='hebr'>פָּרָה</span> (<i>fruchtbar</i>, Strongs 6509) ab, welches zB in <a href='http://bibel.renenyffenegger.ch/1mo_1.html#v22'>1.&nbsp;Mo&nbsp;1,22</a>
   verwendet wird. Siehe auch <a class='kom' href='#I1mo-1-11'>1.&nbsp;Mo&nbsp;1,11</a>.
-         <br>Ephrata scheint in der nähe von Bethlehem zu sein, von hier heraus soll der Herrscher über Israel kommen (<a href='http://bibel.renenyffenegger.ch/mi_5.html#v1'>Mi&nbsp;5,1</a>).
+         <br>Ephrata scheint in der Nähe von Bethlehem zu sein, von hier heraus soll der Herrscher über Israel kommen (<a href='http://bibel.renenyffenegger.ch/mi_5.html#v1'>Mi&nbsp;5,1</a>).
  }
  {
   <i>Stück Land</i>: <span class='he'>כִּבְרַת־הָאָרֶץ</span> kommt auch in <a href='http://bibel.renenyffenegger.ch/1mo_48.html#v7'>1.&nbsp;Mo&nbsp;48,7</a> und
@@ -5588,7 +5588,10 @@
 #}
 #1mo-35-19 {
  {
-  Jakob erinnert sich an den Tod Rahels: <a href='http://bibel.renenyffenegger.ch/1mo_48.html#v7'>1.&nbsp;Mo&nbsp;48,7</a>.
+  → biblisches/Orte/Bethlehem
+ }
+ {
+  Jakob erinnert sich an den Tod Rahels: §1mo-48-7.
  }
  {
   Beachte: Rahel wurde nicht im Erbbegräbnis begraben (<a href='http://bibel.renenyffenegger.ch/1mo_23.html#v9'>1.&nbsp;Mo&nbsp;23,9</a>, <a href='http://bibel.renenyffenegger.ch/1mo_49.html#v31'>1.&nbsp;Mo&nbsp;49,31</a>).
@@ -6860,10 +6863,13 @@
 #}
 #1mo-48-7 {
  {
+  Auch Asael und dessen Vater wurden in → biblisches/Orte/Bethlehem begraben, §2sam-2-23
+ }
+ {
   <i>Stück Land</i>: <a class='kom' href='#I1mo-35-16'>1.&nbsp;Mo&nbsp;35,16</a>.
  }
  {
-  <i>Rahel stirbt</i>: <a class='kom' href='#I1mo-35-19'>1.&nbsp;Mo&nbsp;35,19</a>.
+  <i>Rahel stirbt</i>: §+1mo-35-19.
  }
  {
   TODO: Hier das erste Mal, dass Paddan ohne Aram steht? Was bedeutet Paddan eigentlich?
@@ -23520,6 +23526,11 @@
   <i>Jiphtach-El</i> (<span class='hebr'>יִפְתַּח־אֵל</span>, Strongs 3317) bedeutet offenbar «Gott öffnet». Siehe auch §+jos-15-43.
  }
 #}
+#jos-19-15 {
+ {
+  → biblisches/Orte/Bethlehem
+ }
+#}
 #jos-19-18 {
  {
    TODO: <i>Schunem</i>: Elisa geht dorthin (<a href='http://bibel.renenyffenegger.ch/2koe_4.html#v8'>2.&nbsp;Kö&nbsp;4,8</a>).
@@ -24942,7 +24953,7 @@
 #}
 #ri-12-8 {
  {
-  <i>Bethlehem</i>: <a class='kom' href='#Iri-17-9'>Ri&nbsp;17,9</a>.
+  → biblisches/Orte/Bethlehem: §+ri-17-9.
  }
  {
   <span class='u'>Josephus (Antiqu I. 5. c. 7. sect. 13) und Rabbiner (T. Bab. Bava athra. fol. 91. 1) meinen, dass Ibzan und Boas
@@ -25200,14 +25211,19 @@
 #}
 #ri-17-7 {
  {
+  Hier wird in <i>Levit</i> aus → biblisches/Orte/Bethlehem[Bethlehem]-Juda erwähnt, in §ri-19-1 ein <i>levitscher Mann</i>, der sich eine Nebenfrau aus Bethlehem-Juda nahm.
+ }
+ {
   TODO: Frage: wie ist's denn möglich, dass ein Judäer ein Levit ist?
  }
 #}
 #ri-17-9 {
  {
-  Beachte, ein anderer Micha wird von einem anderen Priester aus Bethlehem-Juda prophezeien: <a class='kom' href='#Imi-5-1'>Mi&nbsp;5,1</a>.
-  Der Levit hier hat den Götzendienst in Israel eingeführt, der wahre Priester kommt als wahrer Gott.
-  <br>TODO: Was hat es für eine Bewandtnis, dass der Richter Ibzan aus Bethlehem kommt?
+  Beachte, ein anderer Micha wird von einem anderen Priester aus Bethlehem-Juda prophezeien: §+mi-5-1, §mt-2-1-6.
+  Der Levit hier hat den Götzendienst in Israel eingeführt, der wahre Priester kommt als wahrer Gott um den Götzendienst abzuschaffen.
+ }
+ {
+  TODO: Was hat es für eine Bewandtnis, dass der Richter Ibzan aus Bethlehem kommt? §ri-12-8
  }
 #}
 #ri-17-10 {
@@ -25300,6 +25316,9 @@
 @}
 @Richter 19 {
 #ri-19-1 {
+ {
+  Hier nimmt ein <i>levitischer</i> Mann eine Nebenfrau aus → biblisches/Orte/Bethlehem[Bethlehem]-Juda, in §ri-17-7 wird ein <i>Levit</i> aus Bethlehem-Juda erwähnt.
+ }
  {
   <i>Zu jener Zeit</i>: <a class='kom' href='#Iri-17-6'>Ri&nbsp;17,6</a>.
  }
@@ -25562,6 +25581,9 @@
 @Ruth 1 {
 #rt-1-1 {
  {
+  → biblisches/Orte/Bethlehem
+ }
+ {
   TODO: Möglicherweise besser übersetzt mit «als die Richter richteten».
  }
 #}
@@ -25580,6 +25602,8 @@
 #}
 @}
 @Ruth 2 {
+#rt-2-1 {
+#}
 #rt-2-2 {
  {
    Ähren <span class='hebr'>שִׁבֹּלֶת</span> (Strongs 7641), siehe <a class='kom' href='#Iri-12-6'>Ri&nbsp;12,6</a>.
@@ -25629,6 +25653,11 @@
   Vermutlich hatte Salmon(?) das Stück Land an Elimelech verkauft. Nachschon konnte es ja nicht gewesen sein, denn der
   kam ja nicht ins Land. Wer aber könnte ein näherer verwandt sein (<a href='http://bibel.renenyffenegger.ch/rt_3.html#v12'>Rt&nbsp;3,12</a>)
   als Boas?
+ }
+#}
+#rt-4-11 {
+ {
+  → biblisches/Orte/Bethlehem
  }
 #}
 #rt-4-12 {
@@ -26653,6 +26682,11 @@
 #}
 @}
 @1. Samuel 16 {
+#1sam-16-1 {
+ {
+  → biblisches/Orte/Bethlehem
+ }
+#}
 #1sam-16-2 {
  {
   <i>Opfern einer jungen Kuh</i>: <a href='http://bibel.renenyffenegger.ch/4mo_19.html#v2'>4.&nbsp;Mo&nbsp;19,2</a>.
@@ -26678,16 +26712,26 @@
 #}
 #1sam-16-11 {
  {
+  → biblisches/Personen/David, der Hirte, §sam-17-15
+  <br>
+   David sollte nicht nur Fürst über Israel sein, sondern auch das Volk des HERRN, Israel, weiden, §2sam-5-2.
+  <br>
+   David setzt fünf Hirten (Sitrai, Saphat, Obil, Jechdeja und Jaser) ein, §1chr-27-29-31.
+  <br>
+  Beachte: auch → biblisches/Personen/David[David] hat einen Hirten: der HERR selbst, §ps-23-1, vgl mit §+ps-28-9.
+ }
+ {
+  Hirten waren bei der Geburt des wahren Hirten anwesend, §mt-2-1-6
+ }
+ {
+   Zumindest Unter Josia schien das Volk Israel keinen Hirten zu haben, §1koe-22-17
+ }
+ {
   Beachte: → biblisches/Personen/David scheint der einzige Bruder zu sein, der überhaupt etwas gemacht hat (und zwar: <i>Schafe hüten</i>),
-  und nicht untätig war. Vgl auch mit <a href='http://bibel.renenyffenegger.ch/1sam_17.html#v15'>1.&nbsp;Sam&nbsp;17,15</a>.
-  Beachte: David sollte nicht nur Fürst über Israel sein, sondern auch das Volk des HERRN, Israel, weiden (<a href='http://bibel.renenyffenegger.ch/2sam_5.html#v2'>2.&nbsp;Sam&nbsp;5,2</a>).
+  und nicht untätig war.
          <br>Beachte auch das Zeugnis Asaphs über David in <a href='http://bibel.renenyffenegger.ch/ps_78.html#v70'>Ps 78,70-72</a>.
-         <br>TODO: Zumindest Unter Josia (?) schien das Volk Israel keinen Hirten zu haben (<a href='http://bibel.renenyffenegger.ch/1koe_22.html#v17'>1.&nbsp;Kö&nbsp;22,17</a>).
          <br>TODO: Wollte David Nabal treffen, um ihm die Schafe zu scheren (helfen) (<a href='http://bibel.renenyffenegger.ch/1sam_25.html#v4'>1. Sam 25,4 ff</a>)?
          <br>TODO: vgl David mit Doeg, dem Aufseher über die Hirten Sauls (<a href='http://bibel.renenyffenegger.ch/1sam_21.html#v8'>1.&nbsp;Sam&nbsp;21,8</a>.
-         <br>TODO: Beachte: David setzt fünf Hirten (Sitrai, Saphat, Obil, Jechdeja und Jaser) ein (<a href='http://bibel.renenyffenegger.ch/1chr_27.html#v29'>1.&nbsp;Chr&nbsp;27,29-31</a>)
-         <br>TODO: Beachte, der Hirte Davids ist der HERR (<a href='http://bibel.renenyffenegger.ch/ps_23.html#v1'>Ps&nbsp;23,1</a>). Vgl
-     auch mit <a class='kom' href='#Ips-28-9'>Ps&nbsp;28,9</a>.
  }
 #}
 #1sam-16-12 {
@@ -26740,7 +26784,7 @@
 #}
 #1sam-17-15 {
  {
-   David, der Hirte: <a class='kom' href='#I1sam-16-11'>1.&nbsp;Sam&nbsp;16,11</a>.
+  David, der Hirte: §+1sam-16-11, §lk-2-8
  }
 #}
 #1sam-17-20 {
@@ -26904,6 +26948,9 @@
  }
 #}
 #1sam-20-6 {
+ {
+  <i>→ biblisches/Orte/Bethlehem, Davids Stadt</i>, §lk-2-4
+ }
  {
   Welches jährliche Opfer findet an einem Neumond in Bethlehem statt? Siehe auch <a class='kom' href='#I1sam-20-5'>Vers 5</a>.
  }
@@ -27538,6 +27585,11 @@
   <i>Giach</i> <span class='hebr'>גִּיחַ</span> (Strongs 1520), dasselbe Wort wie für 'hervorbrechen', zB in <a href='http://bibel.renenyffenegger.ch/ri_20.html#v33'>Ri&nbsp;20,33</a>.
  }
 #}
+#2sam-2-32 {
+ {
+  Auch Rahel wurde in → biblisches/Orte/Bethlehem begraben, §1mo-35-19, §1mo-48-7
+ }
+#}
 @}
 @2. Samuel 3 {
 #2sam-3-2 {
@@ -27647,6 +27699,9 @@
 @2. Samuel 5 {
 #2sam-5-2 {
  {
+  <i>Du sollst mein Volk weiden</i>, §+1sam-16-11
+ }
+ {
   <i>Mein Volk weiden</i>: <a href='http://bibel.renenyffenegger.ch/2sam_7.html#v7'>2.&nbsp;Sam&nbsp;7,7-8</a>.
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/offb_7.html#v17'>Offb&nbsp;7,17</a>,
       <a href='http://bibel.renenyffenegger.ch/ps_23.html#v2'>Ps&nbsp;23,2</a>, <a href='http://bibel.renenyffenegger.ch/ps_28.html#v9'>Ps&nbsp;28,9</a>,
@@ -27655,9 +27710,6 @@
   <br>§mt-2-6
   <br><a class='kom' href='#I2mo-34-3'>2.&nbsp;Mo&nbsp;34,3</a>
   <br>TODO: Weideplätze in <a href='http://bibel.renenyffenegger.ch/jos_21.html#v2'>Jos 21,2 ff</a>.
- }
- {
-  <i>David, der Schafhirte</i>: <a class='kom' href='#I1sam-16-11'>1.&nbsp;Sam&nbsp;16,11</a>.
  }
 #}
 #2sam-5-7 {
@@ -28463,6 +28515,11 @@
   <i>Gob</i> ist wohl bei Geser (<a href='http://bibel.renenyffenegger.ch/1chr_20.html#v4'>1.&nbsp;Chr&nbsp;20,4</a>).
  }
 #}
+#2sam-21-19 {
+ {
+  Elchanan, der Sohn Jaare-Orgims, der → biblisches/Orte/Bethlehem[Bethlehemiter], vgl §2sam-23-24
+ }
+#}
 @}
 @2. Samuel 22 {
 #2sam-22-1 {
@@ -28649,6 +28706,16 @@
   <i>Adullam</i>: <a class='kom' href='#Ijos-15-35'>Jos&nbsp;15,35</a>, <i>Höhle Adullam</i>, vgl <a href='http://bibel.renenyffenegger.ch/1sam_22.html#v1'>1.&nbsp;Sam&nbsp;22,1</a>.
  }
 #}
+#2sam-23-14 {
+ {
+  Eine Aufstellung der Philster zu → biblisches/Orte/Bethlehem, §1chr-11-16
+ }
+#}
+#2sam-23-15 {
+ {
+  → biblisches/Orte/Bethlehem
+ }
+#}
 #2sam-23-18 {
  {
   TODO: <i>300</i> vgl <a href='http://bibel.renenyffenegger.ch/1chr_11.html#v11'>1.&nbsp;Chr&nbsp;11,11</a> und <a href='http://bibel.renenyffenegger.ch/1chr_11.html#v20'>1.&nbsp;Chr&nbsp;11,20</a>.
@@ -28662,6 +28729,11 @@
   <i>Helden</i> (<span class='hebr'>אֲרִאֵל֙</span>, Strongs 739) = 'Löwen Gottes'. Das Wort für Löwen in diesem Vers ist 738.
   <br>Beachte: Benaja erschlug 2 <i>Ariels</i>, in <a class='kom' href='#Ijes-29-2'>Jes&nbsp;29,2</a> wird Ariel zwei Mal erwähnt.
   <br>S. a. <a class='kom' href='#Iesr-8-16'>Esr&nbsp;8,16</a>
+ }
+#}
+#2sam-23-24 {
+ {
+  Elchanan, der Sohn Dodos, von → biblisches/Orte/Bethlehem, vgl §2sam-21-19, §1chr-11-26
  }
 #}
 #2sam-23-28 {
@@ -32624,6 +32696,11 @@
   <i>Kirjat-Jearim</i>: <a class='kom' href='#Ijos-9-21'>Jos&nbsp;9,21</a>.
  }
 #}
+#1chr-2-51 {
+ {
+  Salma, der Vater von → biblisches/Orte/Bethlehem, vgl §1chr-4-4
+ }
+#}
 #1chr-2-52 {
  {
   TODO: <i>Hazi-Hamenuchot</i> (<span class='hebr'>חֲצִי  הַמְּנֻחוֹת</span>, Strongs 2677 4496) bedeutet etwa 'Hälfte des Ruheplatzes'. Vgl Vers 54.
@@ -32778,14 +32855,17 @@
 #}
 #1chr-4-4 {
  {
+  Hur, der Vater von → biblisches/Orte/Bethlehem, vgl §1chr-2-51
+ }
+ {
+  Beachte: auch <i>Jered</i> (Vers 18) ist ein Vater Gedors.
+ }
+ {
   TODO: <b>Pnuel</b> offenbar dasselbe Wort wie Pniel (<a class='kom' href='#I1mo-32-31'>1.&nbsp;Mo&nbsp;32,31</a>).
   <br><i>Gedor</i>: <a class='kom' href='#Ijos-15-58'>Jos&nbsp;15,58</a>.
  }
  {
   TODO: Siehe auch <a class='kom' href='#I1chr-2-19'>1.&nbsp;Chr&nbsp;2,19</a> und <a class='kom' href='#I2mo-17-10'>2.&nbsp;Mo&nbsp;17,10</a>.
- }
- {
-  Beachte: auch <i>Jered</i> (Vers 18) ist ein Vater Gedors.
  }
 #}
 #1chr-4-5 {
@@ -33512,6 +33592,11 @@
   <a href='http://bibel.renenyffenegger.ch/1chr_14.html#v9'>1.&nbsp;Chr&nbsp;14,9</a>.
  }
 #}
+#1chr-11-16 {
+ {
+  Eine Aufstellung der Philister zu → biblisches/Orte/Bethlehem, §2sam-23-13
+ }
+#}
 #1chr-11-22 {
  {
   Paralellstelle: <a class='kom' href='#I2sam-23-20'>2.&nbsp;Sam&nbsp;23,20</a>.
@@ -33523,6 +33608,11 @@
   TODO: In KJV zusätlich 'a man of [great] stature' (stature ist Strongs 4060, sonst mit 'Mass' übersetzt).
   Vgl <a href='http://bibel.renenyffenegger.ch/1chr_20.html#v6'>1.&nbsp;Chr&nbsp;20,6</a> (wo 4060 mit 'von grosser Länge' übersetzt wird).
   <br>TODO: vgl auch <a class='kom' href='#I4mo-13-32'>4.&nbsp;Mo&nbsp;13,32</a> wo statt Strongs 376 582 verwendet wird.
+ }
+#}
+#1chr-11-26 {
+ {
+  <i>Elchanan, der Sohn Dodos, von → biblisches/Orte/Bethlehem</i>, §+2sam-23-24
  }
 #}
 #1chr-11-32 {
@@ -36521,7 +36611,7 @@
 #}
 #esr-2-21 {
  {
-  §neh-7-26 weist für «Bethlehem und Netopha» nur eine Zahl aus.
+  §neh-7-26 weist für «→ biblisches/Orte/Bethlehem und Netopha» nur eine Zahl aus.
  }
 #}
 #esr-2-28 {
@@ -37565,7 +37655,7 @@
 #}
 #neh-7-26 {
  {
-  Bethlehem: §esr-2-21, Netopha §esr-2-22
+  → biblisches/Orte/Bethlehem: §esr-2-21, Netopha §esr-2-22
  }
 #}
 #neh-7-33 {
@@ -40036,9 +40126,9 @@
 @Psalm 23 {
 #ps-23-1 {
  {
-  <i>David, der Schafhirte</i>: <a class='kom' href='#I1sam-16-11'>1.&nbsp;Sam&nbsp;16,11</a>.
-  <br>Vgl mit <a href='http://bibel.renenyffenegger.ch/ps_28.html#v9'>Ps&nbsp;28,9</a>,
-      <a href='http://bibel.renenyffenegger.ch/ps_37.html#v3'>Ps&nbsp;37,3</a>
+  David selbst war ein Hirte, §+1sam-16-11.
+ <br>
+   Vgl mit §ps-28-9, §ps-37-3
  }
  {
    TODO: Dieser Psalm beginnt mit <span class='hebr'>מִזְמֹור לְדָוִד</span> (Strongs 4210,1732),
@@ -41466,7 +41556,10 @@
 #}
 #ps-68-30 {
  {
-  Beachte: der <i>Tempel</i> ist noch gar nicht gebaut: <a class='kom' href='#Ips-5-8'>Ps&nbsp;5,8</a>.
+  Beachte: der <i>Tempel</i> ist noch gar nicht gebaut: §+ps-5-8.
+ }
+ {
+  <i>Geschenke bringen</i>: vgl mit den Magiern aus dem Osten, §mt-2-11
  }
  {
   TODO: Menge übersetzt «Um deines Tempels willen müssen Könige dir Geschenke hinauf nach Jerusalem bringen» und schreibt in einer Fussnote, dass die Übersetzung unsicher ist.
@@ -41645,6 +41738,11 @@
  }
  {
   Vgl §+jes-60-9
+ }
+#}
+#ps-72-11 {
+ {
+  <i>Alle Könige werden vor ihm niederfallen</i> §jes-49-7
  }
 #}
 #ps-72-12 {
@@ -48954,6 +49052,9 @@
 #}
 #jes-49-7 {
  {
+  <i>Fürsten… werden sich niederwerfen</i> §ps-72-11
+ }
+ {
   TODO: vgl den <i>Knecht der Herrschenden</i> mit dem <i>HERR der Heerscharen</i>.
  }
 #}
@@ -51800,6 +51901,9 @@
  }
 #}
 #jer-41-17 {
+ {
+  → biblisches/Orte/Bethlehem
+ }
  {
   <i>Kimham</i> ist auch ein Knecht (Davids?): siehe <a href='http://bibel.renenyffenegger.ch/2sam_19.html#v38'>2.&nbsp;Sam&nbsp;19,38-41</a>.
  }
@@ -56780,13 +56884,13 @@
 @Micha 5 {
 #mi-5-1 {
  {
+  → biblisches/Orte/Bethlehem, vgl §mt-2-6 
+ }
+ {
   <i>Ephrata</i>: <a class='kom' href='#I1mo-35-16'>1.&nbsp;Mo&nbsp;35,16</a>.
  }
  {
-  Verweis: §mt-2-6.
- }
- {
-  Vgl auch <a class='kom' href='#Iri-17-9'>Ri&nbsp;17,9</a>.
+  Hier prophezeit Micha den wahren Herrscher, in §+ri-17-9 trifft ein Micha auf einen Leviten, der den Götzendienst in Israel eingeführt hat.
  }
  {
    TODO: <i>Hervorgehen</i>: <a class='kom' href='#Ihos-6-3'>Hos&nbsp;6,3</a>.
@@ -58038,6 +58142,9 @@
 @Matthäus 2 {
 #mt-2-1 {
  {
+  → biblisches/Orte/Bethlehem
+ }
+ {
   → biblisches/Chronologie/Geburt-Jesus-Christus: §lk-2-7
  }
  {
@@ -58064,6 +58171,9 @@
   <i>Seinen Stern</i> vgl §4mo-24-17.
  <br>
   Sogar nach dem Tod des Herrn versuchten falsche Propheten sich mit einem Stern zu legitimieren: <i>Bar <a href="https://renenyffenegger.ch/Biblisches/Sprachen/Hebraeisch-Altes-Testament-bekannt.html#s3556">Kochba</a></i> zum Beispiel heisst »Sohn des Sterns«.
+ }
+ {
+  Vergleiche <i>Seinen Stern</i>, der das erste Kommen des Herrn begleitete, mit dem Morgenstern, §2petr-1-19, §offb-22-16
  }
  {
   <i>anbeten</i>: <span class='gr'>προσκυνέω</span> (Strongs 4352),
@@ -58109,7 +58219,7 @@
   Vgl auch «Leiter» in §+lk-22-26.
  }
  {
-  Prophezeiung aus §+mi-5-1.
+  Prophezeiung aus §+mi-5-1. Hier wird ausdrücklich gesagt, dass → biblisches/Orte/Bethlehem im Land Juda ist, um es vom anderen Bethlehem in Sebulon (§jos-19-15) abzugrenzen. Vgl §ri-7-7
  }
 #}
 #mt-2-9 {
@@ -58123,6 +58233,9 @@
  }
 #}
 #mt-2-11 {
+ {
+  <i>(Dem König) Gaben bringen</i> vgl §ps-68-30
+ }
  {
   <i>Gold und Weihrauch</i>: Möglicherweise kannten die Magier die Prophezeiung aus §+jes-60-6.
  }
@@ -64986,9 +65099,6 @@
 @Lukas 2 {
 #lk-2-1 {
  {
-  <i>Hirten</i> waren die ersten, die von der Geburt Jesu erfuhren. Dieser Neugeborene war selbst ein Hirte, der das «Volk Israel weiden wird», §mt-2-6
- }
- {
   → biblisches/Personen/Kaiser/Augustus
  }
  {
@@ -65015,6 +65125,9 @@
   → biblisches/Orte/Nazareth
  }
  {
+  → biblisches/Orte/Bethlehem, Davids Stadt, §1sam-20-6
+ }
+ {
   <i>Geschlecht</i> (<span class='gr'>πατριά</span>, Strongs 3965, 3x) kommt auch noch vor in <a href='http://bibel.renenyffenegger.ch/apg_3.html#v25'>Apg&nbsp;3,25</a>
   und <a class='kom' href='#Ieph-3-15'>Eph&nbsp;3,15</a>.
  }
@@ -65039,6 +65152,13 @@
    <i>Krippe</i>: dasselbe griechische Wort auch für dieselbe Übersetzung in <a href='http://bibel.renenyffenegger.ch/lk_13.html#v15'>Lk&nbsp;13,15</a>.
  }
 #}
+#lk-2-8 {
+ {
+  <i>Hirten</i> waren die ersten, die von der Geburt Jesu erfuhren. Dieser Neugeborene war selbst ein Hirte, der das «Volk Israel weiden wird», §mt-2-6
+ <br>
+  Vgl mit → biblisches/Personen/David, der das Kleinvieh seines Vaters hütete, §+1sam-16-11, §1sam-17-15
+ }
+#}
 #lk-2-10 {
  {
   <i>Ich verkündige euch große Freude</i> vgl §mt-2-10, §lk-1-14, §lk-1-44
@@ -65050,12 +65170,12 @@
 
  }
  {
-  <i>Welcher ist Christus</i> vgl §joh-7-42 
+  <i>In Davids Stadts ist ein Erretter geboren, welcher ist Christus</i> vgl §joh-7-42 
  }
 #}
 #lk-2-12 {
  {
-  Den (israelischen) Hirten wurde ein → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen gegeben; die Magier (Weisen) benötigten kein Zeichen, vgl §1kor-1-22
+  Den (israelischen) Hirten wurde ein → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen gegeben; die Magier (Weisen) benötigten kein Zeichen, vgl §1kor-1-22, sondern «Seinen Stern», §mt-2-2
  }
  {
   Krippen wurden im Nahen Osten offenbar aus Sandstein gefertigt. Möglicherweise ist dies das <i>Zeichen</i>, dass das Kind wie eine Mumie in einem Sarkophag aussah. Obwohl scheinbar tot, doch lebendig.
@@ -67776,6 +67896,9 @@
  {
   <i>Versuchungen</i>, <span class='gr'>πειρασμός</span>, Strongs 3986, wird hier in Schlachter mit «Anfechtungen» übersetzt nicht aber in §Vlk-22-40 und §Vlk-22-46, vgl §+apg-20-19, 1petr-1-6 und andere
  }
+ {
+  TODO: die ausgeharrt haben in meinen Versuchungen. In Matthäus etc. scheint an den etnsprechenden Stellen zu stehen «Wacht und betet, dass ihr nicht in Versuchungen fällt».
+ }
 #}
 #lk-22-29 {
  {
@@ -69661,7 +69784,7 @@
 #}
 #joh-7-42 {
  {
-  <i>… kommt der Christus</i> vgl §lk-2-11
+  <i>Aus → biblisches/Orte/Bethlehem … kommt der Christus</i> vgl §lk-2-11
  }
 #}
 #joh-7-43 {
@@ -93517,6 +93640,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Morgenstern</i>: <span class='gr'>φωσφόρος</span> (Strongs 5459, 1x). Vgl mit <a class='kom' href='#Ioffb-2-28'>Offb&nbsp;2,28</a>.
+   <br>Vgl mit «Seinem Stern», der Sein erstes Kommen ankündigte: §mt-2-2
  }
  {
   TODO: Bezieht sich das <i>gewisse prophetische Wort</i> auf das vorangehende 'Dies ist mein geliebter Sohn, an dem ich wohlgefallen habe'?
@@ -98833,10 +98957,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Ich, Jesus, habe meinen Engel gesandt], §Voffb-22-6
  }
  {
-   <i>der leuchtende Morgenstern</i>: <span class='gr'>ὁ ἀστὴρ ὁ λαμπρὸς καὶ ὀρθρινός</span>,
-  Vgl <a class='kom' href='#Ioffb-2-28'>Offb&nbsp;2,28</a>.
-  <br>Vgl auch <a class='kom' href='#Ihos-6-3'>Hos&nbsp;6,3</a>.
-  <br>S.a. <a class='kom' href='#Ilk-23-11'>Lk&nbsp;23,11</a>.
+   <i>der leuchtende Morgenstern</i>: <span class='gr'>ὁ ἀστὴρ ὁ λαμπρὸς καὶ ὀρθρινός</span>, Vgl §+offb-2-28.
+   <br>Vgl mit «Seinem Stern», der Sein erstes Kommen ankündigte: §mt-2-2
+   <br>Vgl auch §+hos-6-3.  <br>S.a. §+lk-23-11.
  }
  {
   Luther 1912 übersetzt 'Ich bin die Wurzel <i>des Geschlechts</i> David'.
