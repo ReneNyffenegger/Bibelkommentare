@@ -58346,11 +58346,13 @@
 @Matthäus 3 {
 #mt-3-1 {
  {
+  §mk-1-4, §lk-3-3
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
  }
  {
-  TODO: Johannes hat mit einer Taufe der Buße getauft und dem Volk gesagt, daß sie an den glauben sollten, der nach ihm kommt, das heißt an den Christus Jesus.
-  (<a href='http://bibel.renenyffenegger.ch/apg_19.html#v4'>Apg&nbsp;19,4</a>).
+  → biblisches/Personen/Johannes/Täufer[Johannes] hat mit einer Taufe der Buße getauft und dem Volk gesagt, daß sie an den glauben sollten, der nach ihm kommt, das heißt an den Christus Jesus, §apg-19-4.
  }
 #}
 #mt-3-2 {
@@ -62821,6 +62823,9 @@
 #}
 #mk-1-4 {
  {
+  §mt-3-1, §lk-3-3
+ }
+ {
   Beachte: Johannes verkündigt eine → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe der Busse zur Vergebung der Sünden, Jesus verkündet das Evangelium vom Reich Gottes (Vers 14)
   <br>TODO Vgl <a class='kom' href='#Imt-4-12'>Mt&nbsp;4,12</a> und <a href='http://bibel.renenyffenegger.ch/lk_16.html#v16'>Lk&nbsp;16,16</a>.
  }
@@ -65389,7 +65394,7 @@
 #}
 #lk-3-3 {
  {
-  §mt-3-2, §mk-1-4, §joh-1-28
+  §mt-3-1, §mk-1-4, §joh-1-28
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
@@ -69028,7 +69033,7 @@
 #}
 #joh-3-24 {
  {
-  Nachdem <i>Johannes ins Gefängnisg geworfen</i> war, entweicht Jesus nach Galiläa: §+mt-4-12, §mk-1-14. Dies ist wohl in §joh-4-3 der Fall.
+  Nachdem <i>Johannes ins Gefängnis geworfen</i> war, entweicht Jesus nach Galiläa: §+mt-4-12, §mk-1-14. Dies ist wohl in §joh-4-3 der Fall.
   Vgl §lk-3-20.
  }
 #}
@@ -75719,7 +75724,7 @@
 #}
 #apg-19-4 {
  {
-  TODO: <a class='kom' href='#Imt-3-1'>Mt&nbsp;3,1</a>.
+  <i>→ biblisches/Personen/Johannes/Täufer[Johannes'] Taufe der Buße</i>: §+mt-3-1, §mk-1-4, §lk-3-3
  }
 #}
 #apg-19-5 {
