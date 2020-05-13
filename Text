@@ -40954,7 +40954,7 @@
   Sch2K übersetzt mit «die Berge mitten ins Meer sinken», KJV mit «though the mountains be carried into the midst of the sea».
  }
  {
-   <i>Berg ins Meer</i>: §mt-21-21, §mk-11-23, §offb-8-8.
+   <i>Berge, die im Meer wanken</i>: §mt-21-21, §mk-11-23, §offb-8-8.
  }
 #}
 #ps-46-5 {
@@ -48527,6 +48527,9 @@
 @}
 @Jesaja 40 {
 #jes-40-3 {
+ {
+  §lk-3-4
+ }
  {
   Dieses Zitat wird von Johannes dem Täufer verwendet, als er den von den Juden von Jerusalem gesandten Priestern und Leviten gefragt wurde, wer er sei.
   (<a href='http://bibel.renenyffenegger.ch/joh_1.html#v23'>Joh&nbsp;1,23</a>).
@@ -58534,6 +58537,9 @@
 @Matthäus 4 {
 #mt-4-1 {
  {
+  §mk-1-12, §lk-4-1
+ }
+ {
   Beachte: <i>versuchen</i> und <i>Versucher</i> (Vers 3): <span class='gr'>πειράζω</span> (Strongs 3985).
   <i>versuchen</i> in Vers 7: <span class='gr'>ἐκπειράζω</span> (Strongs 1598, 4x).
  }
@@ -58600,7 +58606,7 @@
   <a href='http://bibel.renenyffenegger.ch/mt_18.html#v12'>Mt&nbsp;18,12</a>, <a href='http://bibel.renenyffenegger.ch/mt_24.html#v16'>Mt&nbsp;24,16</a>
  }
  {
-  Er zeigte Ihm <i>alle Reiche der Erde</i> und <i>ihre Herrlichkeit</i>, aber das <i>Reich der Himmel</i> (§mt-4-17) hat er nicht gezeigt.
+  Er zeigte Ihm <i>alle Reiche der Erde</i> und <i>ihre Herrlichkeit</i>, aber das <i>Reich der Himmel</i> (§Vmt-4-17) hat er nicht gezeigt.
  <br>
   Im Gebet von §mt-6-13 hält der Herr fest, dass das <i>Reich</i>, die Kraft und die <i>Herrlichkeit</i> bereits Gottes ist.
   <br>
@@ -58628,16 +58634,13 @@
 #}
 #mt-4-12 {
  {
+  §mk-1-14, §lk-4-14
+ }
+ {
    Jesu Dienst beginnt in → biblisches/Orte/Galiläa: §apg-10-37
  }
  {
-   <i>Johannes im Gefängnis</i>
-   <br>Nachdem Johannes gefangengenommen worden war, verkündigt Jesus das Evangelium vom Reich Gotes in Galiläa (§mk-1-14).
-   <br>Er wurde offenbar während der 40 tägigen Versuchung Jesu oder vor dem Beginn der Verkündigung des Evangeliums zwischen (§mk-1-10-14)
-       gefangengesetzt. (Ebenso auch in Versen hier und vorher.)
-    <br>Johannes und Lukas scheinen nicht über Johannes' Gefangennahme zu schreiben: §lk-4-14, §+joh-3-24.
-    <br>Johannes hört im Gefängnis von den Werken des Christus (§mt-11-2)
-    <br>TODO: Vgl §+mk-1-4
+  → biblisches/Personen/Johannes/Täufer#johannes-im-gefaengnis
  }
  {
   <i>Gefangensetzen</i> (<span class='gr'>παραδίδωμι</span>, Strongs 3860 , abgeleitet(?) von <span class='gr'>δίδωμι</span>, Strongs 1325), übersetzt
@@ -58665,7 +58668,8 @@
   <i>wohnen</i> ist im Griechischen <span class='gr'>κατοικέω</span> (Strongs 2730), wie auch in §mt-2-23 und wird in Sch2K mit «liess sich nieder» übersetzt.
   An anderer Stelle wird dieses Wort auch in Sch2K mit »wohnen« übersetzt, zB in §apg-1-20 oder §kol-1-19.
  <br>
-  §joh-1-14 sagt, dass «er unter uns wohnte».
+  §joh-1-14 sagt, dass «er unter uns wohnte», allerdings ist dort das entsprechende Griechische Verb <span class='gr'>σκηνόω</span> (Strongs 4367), welches sonst nur noch in der
+  → biblisches/Bücher/prophetisch/Offenbarung vorkommt.
  }
  {
    → biblisches/Orte/Kapernaum, → biblisches/Orte/Nazareth
@@ -58694,7 +58698,10 @@
 #}
 #mt-4-17 {
  {
-  <i>Tut Busse...das Reich der Himmel ist nahe herbeigekommen</i> : §+mt-3-2, §
+  §mk-1-15
+ }
+ {
+  <i>Tut Busse...das Reich der Himmel ist nahe herbeigekommen</i>: mit denselben Worten hat auch → biblisches/Personen/Johannes/Täufer gepredigt: §+mt-3-2
   <br>
    Beachte: Er ist nicht gekommen, Gerechte zu rufen, sondern Sünder zur Busse §lk-5-32
  }
@@ -60914,7 +60921,7 @@
 #}
 #mt-17-20 {
  {
-  Vgl <a class='kom' href='#Imt-21-21'>Mt&nbsp;21,21</a>, <a href='http://bibel.renenyffenegger.ch/1kor_13.html#v2'>1.&nbsp;Kor&nbsp;13,2</a>.
+  <i>Berg versezten</i>, vgl §+mt-21-21, §1kor-13-2.
  }
  {
   <i>Unglaube</i>: vgl <a class='kom' href='#Imt-13-58'>Mt&nbsp;13,58</a>.
@@ -61361,11 +61368,9 @@
 #}
 #mt-21-21 {
  {
-  <i>Berg ins Meer werfen</i> vgl §mk-11-23, §+offb-8-8
- }
- {
-  §+mt-17-20.
-  <br>TODO: <i>Berg ins Meer</i>: §+ps-46-3.
+  <i>Berg ins Meer werfen</i> vgl §mk-11-23, §+offb-8-8, vgl §mt-17-20
+ <br>
+  Vgl auch §ps-46-3
  }
 #}
 #mt-21-25 {
@@ -62882,6 +62887,11 @@
   Vgl §mt-12-17-18
  }
 #}
+#mk-1-12 {
+ {
+  §mt-4-1, §lk-4-1
+ }
+#}
 #mk-1-13 {
  {
   Bevor der Herr in versucht wurde, war er voll Heiligen Geistes (§lk-4-1), nach der Versuchung kehrt er in der <i>Kraft des Geistes</i> zurück (§lk-4-14).
@@ -62897,10 +62907,13 @@
 #}
 #mk-1-14 {
  {
+  §mt-4-12, §lk-4-14
+ }
+ {
   <i>Nachdem aber → biblisches/Personen/Johannes/Täufer überliefert war</i> vgl §joh-3-24
  }
  {
-  §mt-4-12
+  → biblisches/Personen/Johannes/Täufer#johannes-im-gefaengnis
  }
  {
    Jesu Dienst beginnt in → biblisches/Orte/Galiläa: §apg-10-37
@@ -62940,6 +62953,9 @@
 #mk-1-21 {
  {
   → biblisches/Orte/Kapernaum
+ }
+ {
+  <i>Am Sabbat in der Synagoge lehren</i>, vgl §mk-6-2-ff
  }
 #}
 #mk-1-22 {
@@ -63479,6 +63495,11 @@
 #mk-6-1 {
  {
   <i>Vaterstadt</i>: <a class='kom' href='#Imt-13-54'>Mt&nbsp;13,54</a>.
+ }
+#}
+#mk-6-2 {
+ {
+  <i>Am Sabbat in der Synagoge lehren</i>, vgl §mk-1-21-ff
  }
 #}
 #mk-6-3 {
@@ -65413,6 +65434,9 @@
  {
   Beachte, der Herr selbst wird aus Jesaja vorlesen: §lk-4-17
  }
+ {
+  <i>Stimme eines Rufenden</i>: §jes-40-3
+ }
 #}
 #lk-3-5 {
  {
@@ -65590,6 +65614,9 @@
 @Lukas 4 {
 #lk-4-1 {
  {
+  §mt-4-1, §mk-1-12
+ }
+ {
   <a class='kom' href='#Ilk-3-22'>Lk&nbsp;3,22</a>.
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/lk_4.html#v14'>Lk&nbsp;4,14</a> (In der Kraft des heilgen Geistes).
  }
@@ -65643,6 +65670,9 @@
  }
 #}
 #lk-4-14 {
+ {
+  §mt-4-12, §mk-1-14
+ }
  {
   <i>Gerücht</i>: §Vlk-4-37, §+mt-9-26.
  }
@@ -65784,6 +65814,9 @@
  }
 #}
 #lk-4-37 {
+ {
+  <i>Gerücht</i> §Vlk-4-14
+ }
  {
   §mk-1-28
  }
@@ -73856,7 +73889,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
  }
  {
-  <i>anfangend von Galiläa</i>: §mt-4-12, §mk-1-14, §lk-4-14, §joh-2-11, §lk-23-5
+  <i>anfangend von → biblisches/Orte/Galiläa</i>: §mt-4-12, §mk-1-14, §lk-4-14, §joh-2-11, §lk-23-5
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
