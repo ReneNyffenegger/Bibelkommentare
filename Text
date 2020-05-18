@@ -58856,6 +58856,11 @@
   Beachte den Wechsel von 'die' auf 'euch'.
  }
 #}
+#mt-5-12 {
+ {
+  Verfolgte → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], vgl §apg-7-52
+ }
+#}
 #mt-5-13 {
  {
   <i>Kraftloses Salz</i> vgl §mk-9-50, §lk-14-34.
@@ -58863,7 +58868,9 @@
 #}
 #mt-5-14 {
  {
-  <i>Ihr seid das Licht der Welt</i>: <a class='kom' href='#I1mo-1-15'>1.&nbsp;Mo&nbsp;1,15</a>.
+  <i>Ihr seid das Licht der Welt</i>: §+joh-8-12
+  <br>
+   Vgl §+1mo-1-15.
  }
 #}
 #mt-5-15 {
@@ -58931,6 +58938,15 @@
  {
   <i>Richter</i> (<span class='gr'>ὑπηρέτης</span>, Strongs 5257), an andern Orten einfach mit «Diener» übersetzt. Sch2K übersetzt mit «Gerichtsdiener».
   Vgl auch §apg-16-35.
+ }
+#}
+#mt-5-26 {
+ {
+  <i>Quadrans</i>: <span class='gr'>κοδράντης</span> (Strongs 2835, 2x), in Sch2K mit «Groschen», in der Elberfelder mit «Pfennig», in KJV mit «farthing» übersetzt.
+  <br>
+   Ein Quadrans entspricht zwei Leptonen, §mk-12-42
+  <br>
+   Vgl §mt-10-29
  }
 #}
 #mt-5-32 {
@@ -59772,6 +59788,12 @@
 #mt-10-28 {
  {
   §lk-12-5
+ }
+#}
+#mt-10-29 {
+ {
+  <i>Assarion</i>: <span class='gr'>ἀσσάριον</span> (Strongs 787, 2x) in Sch2K mit «Groschen», in der Elberfelder mit «Pfennig» in KJV mit «farthing» übersetzt,
+  vgl §lk-12-6, §mt-5-26
  }
 #}
 #mt-10-30 {
@@ -64273,7 +64295,7 @@
 #mk-12-42 {
  {
   <i>Scherflein</i>: <span class='gr'><a href='https://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s3016'>λεπτόν</a></span>, Strongs 3016.
-  <i>Pfennig</i>: <span class='gr'>κοδράντης</span>, Strongs 2835.
+  <i>Quadrands</i>: <span class='gr'>κοδράντης</span>  (Strongs 2835, 2x) vgl §mt-5-26
  }
 #}
 #mk-12-44 {
@@ -65836,7 +65858,7 @@
 #}
 #lk-4-37 {
  {
-  <i>Gerücht</i> §Vlk-4-14, §mt-4-24
+  <i>Gerücht</i> §Vlk-4-14, §mt-4-24, §lk-5-15
  }
  {
   §mk-1-28
@@ -65939,6 +65961,11 @@
  }
  {
   Der Geheilte musste sich dem Priester zeigen und durfte niemandem etwas sagen. Der Gadarener, von dem die Dämonen ausgefahren sind, sollte nach Hause gehen und erzählen, wieviel Gott an ihm getan hat, §lk-8-39.
+ }
+#}
+#lk-5-15 {
+ {
+  <i>Die Rede über ihn verbreitete sich um so mehr</i>, vgl §mt-4-24, §mk-1-28, §lk-4-37
  }
 #}
 #lk-5-16 {
@@ -66937,6 +66964,11 @@
   §mt-10-28
  }
 #}
+#lk-12-6 {
+ {
+  <i>Assarion</i> §mt-10-29
+ }
+#}
 #lk-12-11 {
  {
   <i>womit ihr euch verantworten … sollt</i> vgl §lk-21-14
@@ -67064,8 +67096,7 @@
 #}
 #lk-12-59 {
  {
-  TODO: <i>Groschen</i> (<span class='gr'>λεπτόν</span>, Strongs 316) wird in
-  <a href='http://bibel.renenyffenegger.ch/mk_12.html#v42'>Mk&nbsp;12,42</a> mit 'Scherflein' übersetzt.
+  <i>Lepton</i> (<span class='gr'>λεπτόν</span>, Strongs 316, 3x): §lk-21-2, §mk-12-42
  }
 #}
 @}
@@ -69919,7 +69950,7 @@
 #}
 #joh-8-12 {
  {
-  <i>Licht der Welt</i>: vgl §joh-12-46, §joh-1-9, §ps-27-1
+  <i>Licht der Welt</i>: vgl §joh-12-46, §joh-1-9, §mt-5-14, §ps-27-1
  }
  {
   Beachte: Hier redet der Herr wieder zu ihnen, obwohl er mit der Frau allein gelassen wurde (Vers 9) und er niemanden sah (Vers 10).
@@ -70620,9 +70651,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
  {
-   <i>Licht</i>: §+joh-8-12.
-  <br>
-   Als Licht in die Welt gekommen: §joh-1-9
+   Als <i>Licht in die Welt gekommen</i>: §+joh-8-12, §joh-1-9
  }
 #}
 #joh-12-47 {
@@ -73158,6 +73187,8 @@
 #apg-7-52 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden.
+  <br>
+   Vgl §mt-5-13
  }
  {
   Vgl mit Judas, dem Verräter, §lk-6-16
