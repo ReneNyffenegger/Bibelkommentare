@@ -3581,6 +3581,11 @@
   In <a href='http://bibel.renenyffenegger.ch/1mo_19.html#v30'>Vers 30</a> geht dann Lot trotzdem ins Bergland.
  }
 #}
+#1mo-19-21 {
+ {
+  <i>Stadt umkehren</i> vgl §jon-3-4
+ }
+#}
 #1mo-19-22 {
  {
   Nach <i>Zoar</i> flüchten: <a class='kom' href='#Ijes-15-5'>Jes&nbsp;15,5</a>. S.a. <a class='kom' href='#I1mo-13-10'>1.&nbsp;Mo&nbsp;13,10</a>.
@@ -56662,6 +56667,11 @@
 }
 { Jona
 @Jona 1 {
+#jon-1-1 {
+ {
+  Das <i>Wort</i> wird in §jon-3-1 ein <i>zweites Mal</i> zu Jona geschehen.
+ }
+#}
 #jon-1-2 {
  {
   Ninive, die <i>grosse Stadt</i>, vgl §1mo-10-12, §jon-3-2-3
@@ -56704,11 +56714,22 @@
 #}
 @}
 @Jona 3 {
+#jon-3-1 {
+ {
+  <i>zum zweiten Mal</i> vgl §jon-1-1
+ }
+#}
+#jon-3-4 {
+ {
+  <i>so ist Ninive umkehrt</i> vgl §1mo-19-21.
+ <br>
+  Das Verb «umkehren» in §Vjon-3-8 ist im Hebräischen ein anderes wie in diesem Vers.
+ }
+#}
 #jon-3-10 {
  {
-  TODO: Hier hat Ninive Busse getan, und Gott tat das Übel nicht, das er ihnen angedroht hatte. Hat sich deshalb das Herz der Niniviter derart erhoben, dass
-  in <a href='http://bibel.renenyffenegger.ch/zeph_2.html#v13'>Zeph&nbsp;2,13</a> wieder ein Gericht ausgesprochen wird (die Stadt sagte:
-  'Ich bin's und sonst niemand!').
+  Hier hat Ninive Busse getan, und Gott tat das Übel nicht, das er ihnen angedroht hatte. Hat sich deshalb das Herz der Niniviter derart erhoben, dass
+  in §zeph-2-13 wieder ein Gericht ausgesprochen wird (die Stadt sagte: «Ich bin's und gar keine sonst»).
  }
 #}
 @}
