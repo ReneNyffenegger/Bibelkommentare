@@ -56697,6 +56697,11 @@
 #}
 @}
 @Jona 2 {
+#jon-2-1 {
+ {
+  <i>bestellte</i>, vgl §jon-4-6-ff
+ }
+#}
 #jon-2-2 {
  {
   Offenbar ist der <i>Fisch</i> im Grundtext dieses Verses feminin während er in §Vjon-2-1 und §Vjon-2-11 maskulin ist.
@@ -56734,17 +56739,17 @@
 #}
 @}
 @Jona 4 {
-#jon-4-1 {
- {
-  <i>Und es wurde ihm heiss</i>: Elb05 und Sch2K übersetzen mit «und er wurde zorning».
- }
-#}
 #jon-4-2 {
  {
   → biblisches/Orte/Tarsis
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte
+ }
+#}
+#jon-4-6 {
+ {
+  <i>bestellte</i>, vgl §jon-4-6
  }
 #}
 @}
@@ -68565,7 +68570,10 @@
 #}
 #joh-1-13 {
  {
-  Beachte, dass auch der Herr selbst <i>aus Gott geboren</i> ist: §mt-1-20, §lk-1-35
+  Es gibt für diesen Vers eine von Tertullian bezeugte Grundtext-Variante dieses Verses, die nicht im Plural, sondern im Singular beschreibt: «<i>welcher</i> nicht … sondern aus Gott geboren <i>ist</i>».
+  Allerdings findet man die Plural-Variante nur in im (lateinischen) Codex Veronensis und im (ebenfalls lateinischen) Liber Comicus.
+ <br>
+  Beachte dazu, dass auch der Herr selbst <i>aus Gott geboren</i> ist: §mt-1-20, §lk-1-35
   <br>
   Vgl mit §joh-3-3, «Es sei denn, daß jemand von neuem geboren werde, so kann er das Reich Gottes nicht sehen.»
  }
