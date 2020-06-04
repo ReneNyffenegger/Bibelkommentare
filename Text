@@ -3464,6 +3464,11 @@
   TODO: vgl mit <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v1'>2.&nbsp;Mo&nbsp;29,1</a> ff.
  }
 #}
+#1mo-18-7 {
+ {
+  <i>Kalb</i>: wörtlich: «Sohn eines Rindes», ebenso in §V1mo-18-8.
+ }
+#}
 #1mo-18-10 {
  {
   Dies ist ein Verheissungswort: <a href='http://bibel.renenyffenegger.ch/roem_9.html#v9'>R&ouml;m&nbsp;9,9</a>.
@@ -37970,7 +37975,7 @@
   <i>… setzten sich in ihrer Widerspenstigkeit ein Haupt, um zu ihrer Knechtschaft zurückzukehren.</i> vgl §4mo-14-4
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte vgl §4mo-14-18-20
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte vgl, §Vneh-9-31, §4mo-14-18-20
  }
 #}
 #neh-9-18 {
@@ -38046,6 +38051,11 @@
  }
  {
   <i>aber sie gaben kein Gehör</i> §jer-37-2.
+ }
+#}
+#neh-9-31 {
+ {
+  §+neh-9-17
  }
 #}
 #neh-9-32 {
@@ -43527,9 +43537,24 @@
   <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>.
  }
 #}
+#ps-111-3 {
+ {
+  <i>seine Gerechtigkeit besteht ewiglich</i>, §+ps-112-3
+ }
+#}
+#ps-111-4 {
+ {
+  <i>gnädig und barmherzig</i> §ps-112-4
+ }
+#}
 #ps-111-7 {
  {
   <i>Werke Seiner Hände</i>: <a class='kom' href='#I5mo-2-7'>5.&nbsp;Mo&nbsp;2,7</a>.
+ }
+#}
+#ps-111-8 {
+ {
+  <i>festgestellt</i> (Strongs 5564): dasselbe Wort wie für «befestigt» in §ps-112-8
  }
 #}
 #ps-111-10 {
@@ -43548,6 +43573,21 @@
  }
  {
   <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>.
+ }
+#}
+#ps-112-3 {
+ {
+  <i>seine Gerechtigkeit besteht ewiglich</i>, §+ps-111-3, §Vps-112-9
+ }
+#}
+#ps-112-4 {
+ {
+  <i>gnädig und barmherzig</i> §ps-111-4
+ }
+#}
+#ps-112-8 {
+ {
+  <i>befestigt</i>: §+ps-111-8
  }
 #}
 #ps-112-9 {
