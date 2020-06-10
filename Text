@@ -3464,6 +3464,11 @@
   TODO: vgl mit <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v1'>2.&nbsp;Mo&nbsp;29,1</a> ff.
  }
 #}
+#1mo-18-7 {
+ {
+  <i>Kalb</i>: wörtlich: «Sohn eines Rindes», ebenso in §V1mo-18-8.
+ }
+#}
 #1mo-18-10 {
  {
   Dies ist ein Verheissungswort: <a href='http://bibel.renenyffenegger.ch/roem_9.html#v9'>R&ouml;m&nbsp;9,9</a>.
@@ -3579,6 +3584,11 @@
 #1mo-19-19 {
  {
   In <a href='http://bibel.renenyffenegger.ch/1mo_19.html#v30'>Vers 30</a> geht dann Lot trotzdem ins Bergland.
+ }
+#}
+#1mo-19-21 {
+ {
+  <i>Stadt umkehren</i> vgl §jon-3-4
  }
 #}
 #1mo-19-22 {
@@ -9055,6 +9065,9 @@
  }
 #}
 #2mo-15-26 {
+ {
+  <i>tun, was recht ist in seinen [Jehovas] Augen</i>, vgl §5mo-12-8
+ }
  {
   Vgl §2mo-16-28
  }
@@ -15079,6 +15092,10 @@
 #}
 #3mo-24-14 {
  {
+  Normalerweise müssen die Hände auf den Kopf eines Farrens (z. B. §2mo-29-11) oder Widders (z. B. §2mo-29-15) gelegt werden. Dies scheint der einzige Vers zu sein,
+  wo die Hände auf einen Menschen gelegt werden müssen.
+ }
+ {
   Vgl §hebr-10-28-29 <i>Jemand, der das Gesetz Moses verworfen hat, stirbt ohne Barmherzigkeit auf die Aussage von zwei oder drei Zeugen; wieviel ärgerer
   Strafe, meint ihr, wird der wertgeachtet werden, der den Sohn Gottes mit Füßen getreten und das Blut des Bundes, durch welches er geheiligt worden
   ist, für gemein geachtet und den Geist der Gnade geschmäht hat?</i>
@@ -20355,6 +20372,11 @@
 #5mo-12-6 {
  {
   <i>Zehnter</i>: <a class='kom' href='#I3mo-27-30'>3.&nbsp;Mo&nbsp;27,30</a>.
+ }
+#}
+#5mo-12-8 {
+ {
+  <i>Ihr sollt nicht tun … was irgend recht ist in seinen Augen</i> vgl §2mo-15-26
  }
 #}
 #5mo-12-10 {
@@ -37965,7 +37987,7 @@
   <i>… setzten sich in ihrer Widerspenstigkeit ein Haupt, um zu ihrer Knechtschaft zurückzukehren.</i> vgl §4mo-14-4
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte vgl §4mo-14-18-20
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte vgl, §Vneh-9-31, §4mo-14-18-20
  }
 #}
 #neh-9-18 {
@@ -38041,6 +38063,11 @@
  }
  {
   <i>aber sie gaben kein Gehör</i> §jer-37-2.
+ }
+#}
+#neh-9-31 {
+ {
+  §+neh-9-17
  }
 #}
 #neh-9-32 {
@@ -40954,7 +40981,7 @@
   Sch2K übersetzt mit «die Berge mitten ins Meer sinken», KJV mit «though the mountains be carried into the midst of the sea».
  }
  {
-   <i>Berg ins Meer</i>: §mt-21-21, §mk-11-23, §offb-8-8.
+   <i>Berge, die im Meer wanken</i>: §mt-21-21, §mk-11-23, §offb-8-8.
  }
 #}
 #ps-46-5 {
@@ -43522,9 +43549,24 @@
   <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>.
  }
 #}
+#ps-111-3 {
+ {
+  <i>seine Gerechtigkeit besteht ewiglich</i>, §+ps-112-3
+ }
+#}
+#ps-111-4 {
+ {
+  <i>gnädig und barmherzig</i> §ps-112-4
+ }
+#}
 #ps-111-7 {
  {
   <i>Werke Seiner Hände</i>: <a class='kom' href='#I5mo-2-7'>5.&nbsp;Mo&nbsp;2,7</a>.
+ }
+#}
+#ps-111-8 {
+ {
+  <i>festgestellt</i> (Strongs 5564): dasselbe Wort wie für «befestigt» in §ps-112-8
  }
 #}
 #ps-111-10 {
@@ -43543,6 +43585,21 @@
  }
  {
   <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>.
+ }
+#}
+#ps-112-3 {
+ {
+  <i>seine Gerechtigkeit besteht ewiglich</i>, §+ps-111-3, §Vps-112-9
+ }
+#}
+#ps-112-4 {
+ {
+  <i>gnädig und barmherzig</i> §ps-111-4
+ }
+#}
+#ps-112-8 {
+ {
+  <i>befestigt</i>: §+ps-111-8
  }
 #}
 #ps-112-9 {
@@ -46016,7 +46073,8 @@
 #}
 #spr-31-10 {
  {
-  Offenbar sind die Anfangsbuchstaben der letzten → biblisches/Grundtext/Zahlen/index#n22 Verse der → biblisches/Bücher/Ketuvim/Sprüche akrostisch.
+  Die Anfangsbuchstaben der letzten → biblisches/Grundtext/Zahlen/index#n22 Verse der → biblisches/Bücher/Ketuvim/Sprüche sind
+  → biblisches/Grundtext/Stilmittel/Akrosticha[akrostisch] aufgebaut.
  }
 #}
 #spr-31-13 {
@@ -48527,6 +48585,9 @@
 @}
 @Jesaja 40 {
 #jes-40-3 {
+ {
+  §lk-3-4
+ }
  {
   Dieses Zitat wird von Johannes dem Täufer verwendet, als er den von den Juden von Jerusalem gesandten Priestern und Leviten gefragt wurde, wer er sei.
   (<a href='http://bibel.renenyffenegger.ch/joh_1.html#v23'>Joh&nbsp;1,23</a>).
@@ -56659,6 +56720,11 @@
 }
 { Jona
 @Jona 1 {
+#jon-1-1 {
+ {
+  Das <i>Wort</i> wird in §jon-3-1 ein <i>zweites Mal</i> zu Jona geschehen.
+ }
+#}
 #jon-1-2 {
  {
   Ninive, die <i>grosse Stadt</i>, vgl §1mo-10-12, §jon-3-2-3
@@ -56684,6 +56750,11 @@
 #}
 @}
 @Jona 2 {
+#jon-2-1 {
+ {
+  <i>bestellte</i>, vgl §jon-4-6-ff
+ }
+#}
 #jon-2-2 {
  {
   Offenbar ist der <i>Fisch</i> im Grundtext dieses Verses feminin während er in §Vjon-2-1 und §Vjon-2-11 maskulin ist.
@@ -56701,26 +56772,37 @@
 #}
 @}
 @Jona 3 {
+#jon-3-1 {
+ {
+  <i>zum zweiten Mal</i> vgl §jon-1-1
+ }
+#}
+#jon-3-4 {
+ {
+  <i>so ist Ninive umkehrt</i> vgl §1mo-19-21.
+ <br>
+  Das Verb «umkehren» in §Vjon-3-8 ist im Hebräischen ein anderes wie in diesem Vers.
+ }
+#}
 #jon-3-10 {
  {
-  TODO: Hier hat Ninive Busse getan, und Gott tat das Übel nicht, das er ihnen angedroht hatte. Hat sich deshalb das Herz der Niniviter derart erhoben, dass
-  in <a href='http://bibel.renenyffenegger.ch/zeph_2.html#v13'>Zeph&nbsp;2,13</a> wieder ein Gericht ausgesprochen wird (die Stadt sagte:
-  'Ich bin's und sonst niemand!').
+  Hier hat Ninive Busse getan, und Gott tat das Übel nicht, das er ihnen angedroht hatte. Hat sich deshalb das Herz der Niniviter derart erhoben, dass
+  in §zeph-2-13 wieder ein Gericht ausgesprochen wird (die Stadt sagte: «Ich bin's und gar keine sonst»).
  }
 #}
 @}
 @Jona 4 {
-#jon-4-1 {
- {
-  <i>Und es wurde ihm heiss</i>: Elb05 und Sch2K übersetzen mit «und er wurde zorning».
- }
-#}
 #jon-4-2 {
  {
   → biblisches/Orte/Tarsis
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte
+ }
+#}
+#jon-4-6 {
+ {
+  <i>bestellte</i>, vgl §jon-4-6
  }
 #}
 @}
@@ -58534,6 +58616,9 @@
 @Matthäus 4 {
 #mt-4-1 {
  {
+  §mk-1-12, §lk-4-1
+ }
+ {
   Beachte: <i>versuchen</i> und <i>Versucher</i> (Vers 3): <span class='gr'>πειράζω</span> (Strongs 3985).
   <i>versuchen</i> in Vers 7: <span class='gr'>ἐκπειράζω</span> (Strongs 1598, 4x).
  }
@@ -58600,7 +58685,7 @@
   <a href='http://bibel.renenyffenegger.ch/mt_18.html#v12'>Mt&nbsp;18,12</a>, <a href='http://bibel.renenyffenegger.ch/mt_24.html#v16'>Mt&nbsp;24,16</a>
  }
  {
-  Er zeigte Ihm <i>alle Reiche der Erde</i> und <i>ihre Herrlichkeit</i>, aber das <i>Reich der Himmel</i> (§mt-4-17) hat er nicht gezeigt.
+  Er zeigte Ihm <i>alle Reiche der Erde</i> und <i>ihre Herrlichkeit</i>, aber das <i>Reich der Himmel</i> (§Vmt-4-17) hat er nicht gezeigt.
  <br>
   Im Gebet von §mt-6-13 hält der Herr fest, dass das <i>Reich</i>, die Kraft und die <i>Herrlichkeit</i> bereits Gottes ist.
   <br>
@@ -58628,16 +58713,13 @@
 #}
 #mt-4-12 {
  {
+  §mk-1-14, §lk-4-14
+ }
+ {
    Jesu Dienst beginnt in → biblisches/Orte/Galiläa: §apg-10-37
  }
  {
-   <i>Johannes im Gefängnis</i>
-   <br>Nachdem Johannes gefangengenommen worden war, verkündigt Jesus das Evangelium vom Reich Gotes in Galiläa (§mk-1-14).
-   <br>Er wurde offenbar während der 40 tägigen Versuchung Jesu oder vor dem Beginn der Verkündigung des Evangeliums zwischen (§mk-1-10-14)
-       gefangengesetzt. (Ebenso auch in Versen hier und vorher.)
-    <br>Johannes und Lukas scheinen nicht über Johannes' Gefangennahme zu schreiben: §lk-4-14, §+joh-3-24.
-    <br>Johannes hört im Gefängnis von den Werken des Christus (§mt-11-2)
-    <br>TODO: Vgl §+mk-1-4
+  → biblisches/Personen/Johannes/Täufer#johannes-im-gefaengnis
  }
  {
   <i>Gefangensetzen</i> (<span class='gr'>παραδίδωμι</span>, Strongs 3860 , abgeleitet(?) von <span class='gr'>δίδωμι</span>, Strongs 1325), übersetzt
@@ -58665,7 +58747,8 @@
   <i>wohnen</i> ist im Griechischen <span class='gr'>κατοικέω</span> (Strongs 2730), wie auch in §mt-2-23 und wird in Sch2K mit «liess sich nieder» übersetzt.
   An anderer Stelle wird dieses Wort auch in Sch2K mit »wohnen« übersetzt, zB in §apg-1-20 oder §kol-1-19.
  <br>
-  §joh-1-14 sagt, dass «er unter uns wohnte».
+  §joh-1-14 sagt, dass «er unter uns wohnte», allerdings ist dort das entsprechende Griechische Verb <span class='gr'>σκηνόω</span> (Strongs 4367), welches sonst nur noch in der
+  → biblisches/Bücher/prophetisch/Offenbarung vorkommt.
  }
  {
    → biblisches/Orte/Kapernaum, → biblisches/Orte/Nazareth
@@ -58694,7 +58777,10 @@
 #}
 #mt-4-17 {
  {
-  <i>Tut Busse...das Reich der Himmel ist nahe herbeigekommen</i> : §+mt-3-2, §
+  §mk-1-15
+ }
+ {
+  <i>Tut Busse...das Reich der Himmel ist nahe herbeigekommen</i>: mit denselben Worten hat auch → biblisches/Personen/Johannes/Täufer gepredigt: §+mt-3-2
   <br>
    Beachte: Er ist nicht gekommen, Gerechte zu rufen, sondern Sünder zur Busse §lk-5-32
  }
@@ -58729,7 +58815,7 @@
 #}
 #mt-4-19 {
  {
-  §mk-1-17
+  §mk-1-17, §lk-5-10
  }
  {
   <i>Menschenfischer</i> vgl §jer-16-16
@@ -58759,30 +58845,41 @@
 #}
 #mt-4-23 {
  {
+  Fast derselbe Vers auch in §mt-9-35
+ }
+ {
+  <i>Jesus zog in ganz Galiläa umher, lehrte in ihren Synagogen</i>, §mk-1-39, §lk-4-44
+ <br>
+  Beachte: Im nächsten Kapitel steigt der Herr auf einen Berg, um zu lehren (§mt-5-1-2), in §lk-5-1-ff lehrt der Herr auf dem See vom Schiff aus (§lk-5-3).
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
  }
  {
    Das Reich ist nahe: §+mt-3-2
  }
  {
-  TODO: Vgl das <i>Evangelium vom Reich</i> mit dem «Evangelium von Jesus Christus» (<a class='kom' href='#Imk-1-1'>Mk&nbsp;1,1</a>).
+  Jesus lehrt. Aber auch er wurde gelehrt: §+joh-8-28.
  }
  {
-  TODO: Jesus lehrt. Aber auch er wurde gelehrt: <a class='kom' href='#Ijoh-8-28'>Joh&nbsp;8,28</a>.
+  TODO: Vgl das <i>Evangelium vom Reich</i> mit dem «Evangelium von Jesus Christus» (<a class='kom' href='#Imk-1-1'>Mk&nbsp;1,1</a>).
  }
 #}
 #mt-4-24 {
  {
-  <i>Ruf</i> (<span class='gr'>ἀκοή</span>, Strongs 189) kommt auch in <a class='kom' href='#Imt-13-14'>Mt&nbsp;13,14</a> ('Ohren'),
-  <a href='http://bibel.renenyffenegger.ch/mt_14.html#v1'>Mt&nbsp;14,1</a> ('Gerücht')
-  <a href='http://bibel.renenyffenegger.ch/joh_12.html#v38'>Joh&nbsp;12,38</a> ('Verkündigung')
-  und weiteren Versen vor.
+  <i>Und sein Ruf ging aus in das ganze Syrien</i>, vgl §mk-1-28, §lk-4-37
+  <br>
+  Beachte: Der Ruf verbreitete sich nicht in Judäa oder Jerusalem (vgl auch Vers 25).
  }
  {
-  Beachte: Der Ruf verbreitete sich nicht in Judäa oder Jerusalem (vgl auch Vers 25).
+  <i>Ruf</i> (<span class='gr'>ἀκοή</span>, Strongs 189) kommt auch in §+mt-13-14 («Gehör»), §mt-14-1 («Gerücht») §joh-12-38 («Verkündigung») und weiteren Versen vor.
  }
 #}
 #mt-4-25 {
+ {
+  Hier folgt Ihm eine <i>große Volksmenge</i>, in §mt-5-1 sieht Er die Volksmengen und steigt auf den Berg, in §mt-7-28, als Jesus die Worte auf dem Berg vollendet hat, erstaunten die Volksmenge über seine Lehre und nachdem
+  Er wieder vom Berg herabgestiegen ist, folgt ihm die große Volksmenge weiterhin.
+ }
  {
   Beachte: <i>Judäa</i> kommt bis <a href='http://bibel.renenyffenegger.ch/mt_19.html#v1'>Mt&nbsp;19,1</a> nicht mehr vor.
  }
@@ -58799,8 +58896,8 @@
   Am Anfang der (sogenannten) Bergpredigt sieht der Herr die <i>Volksmengenn</i>, am Ende sind sie erstaunt (§mt-7-28).
  }
  {
-   Hier sieht Jesus die <i>Volksmenge</i> und er steigt auf den Berg, als er in §mt-8-1 vom Berg herabstige, folgte ihm eine grosse Volksmenge.
-   <br>Als er in §mt-8-18 wieder eine grosse Volksmenge sah, befahlt er, ans jenseite Ufer hinwegzufahren.
+   Hier sieht Jesus die <i>Volksmenge</i> und er steigt auf den Berg, als er in §mt-8-1 vom Berg herabstieg, folgte ihm eine große Volksmenge.
+   <br>Als er in §mt-8-18 wieder eine große Volksmenge sah, befahl er, ans jenseite Ufer hinwegzufahren.
    <br>Vgl auch §mt-9-36, §mt-14-14
  }
  {
@@ -58843,6 +58940,11 @@
   Beachte den Wechsel von 'die' auf 'euch'.
  }
 #}
+#mt-5-12 {
+ {
+  Verfolgte → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], vgl §apg-7-52
+ }
+#}
 #mt-5-13 {
  {
   <i>Kraftloses Salz</i> vgl §mk-9-50, §lk-14-34.
@@ -58850,7 +58952,9 @@
 #}
 #mt-5-14 {
  {
-  <i>Ihr seid das Licht der Welt</i>: <a class='kom' href='#I1mo-1-15'>1.&nbsp;Mo&nbsp;1,15</a>.
+  <i>Ihr seid das Licht der Welt</i>: §+joh-8-12
+  <br>
+   Vgl §+1mo-1-15.
  }
 #}
 #mt-5-15 {
@@ -58918,6 +59022,15 @@
  {
   <i>Richter</i> (<span class='gr'>ὑπηρέτης</span>, Strongs 5257), an andern Orten einfach mit «Diener» übersetzt. Sch2K übersetzt mit «Gerichtsdiener».
   Vgl auch §apg-16-35.
+ }
+#}
+#mt-5-26 {
+ {
+  <i>Quadrans</i>: <span class='gr'>κοδράντης</span> (Strongs 2835, 2x), in Sch2K mit «Groschen», in der Elberfelder mit «Pfennig», in KJV mit «farthing» übersetzt.
+  <br>
+   Ein Quadrans entspricht zwei Leptonen, §mk-12-42
+  <br>
+   Vgl §mt-10-29
  }
 #}
 #mt-5-32 {
@@ -59191,7 +59304,7 @@
 @Matthäus 8 {
 #mt-8-1 {
  {
-  <i>Volksmenge</i> und <i>Berg</i>: §+mt-5-1.
+  <i>Volksmenge</i> und <i>Berg</i>: §+mt-5-1, §mt-4-25
  }
 #}
 #mt-8-2 {
@@ -59422,6 +59535,8 @@
 #mt-9-1 {
  {
   <i>Seine Stadt</i> ist wohl → biblisches/Orte/Kapernaum. Dort hat er sich in §mt-4-13 niedergelassen.
+  <br>
+   Vgl mit «seiner Vaterstadt», §mt-13-54-ff
   <br>
    Vgl auch §mk-2-1.
  }
@@ -59757,6 +59872,12 @@
 #mt-10-28 {
  {
   §lk-12-5
+ }
+#}
+#mt-10-29 {
+ {
+  <i>Assarion</i>: <span class='gr'>ἀσσάριον</span> (Strongs 787, 2x) in Sch2K mit «Groschen», in der Elberfelder mit «Pfennig» in KJV mit «farthing» übersetzt,
+  vgl §lk-12-6, §mt-5-26
  }
 #}
 #mt-10-30 {
@@ -60294,7 +60415,7 @@
   Erfüllung von <a class='kom' href='#Ijes-6-10'>Jes&nbsp;6,10</a>.
  }
  {
-  <i>Ohren</i>: <a class='kom' href='#Imt-4-24'>Mt&nbsp;4,24</a>.
+  <i>Gehör</i>: §+mt-4-24.
  }
 #}
 #mt-13-17 {
@@ -60439,10 +60560,12 @@
 #}
 #mt-13-54 {
  {
-  TODO <i>Vaterstadt</i> (<span class='gr'>πατριδα αυτου</span>, Strongs 3968 846), in
-  KJV mit 'own country', in Elberfelder 1905 mit 'Vaterstadt' übersetzt.
-  In <a href='http://bibel.renenyffenegger.ch/joh_4.html#v44'>Joh&nbsp;4,44</a> und <a href='http://bibel.renenyffenegger.ch/hebr_11.html#v14'>Hebr&nbsp;11,14</a>
-  wird Strongs 3964 mit 'Vaterland' übersetzt.
+  <i>Vaterstadt</i> (<span class='gr'>πατριδα αυτου</span>, Strongs 3968 846), in KJV mit «own country», in Elberfelder 1905 mit «Vaterstadt» übersetzt.
+  <br>
+  In §joh-4-44 und §hebr-11-14 wird Strongs 3964 mit «Vaterland» übersetzt.
+ }
+ {
+  Vgl <i>Seine Vaterstadt</i> mit «Seiner Stadt», §mt-9-1 und «jeder in seiner eigenen Stadt», §lk-2-3
  }
 #}
 #mt-13-55 {
@@ -60469,7 +60592,7 @@
 #}
 #mt-13-57 {
  {
-  Ein Prophet ist nicht ohne Ehre, außer in seiner Vaterstadt, vgl §mk-6-4, §joh-4-44
+  Ein Prophet ist nicht ohne Ehre, außer in seiner Vaterstadt, vgl §mk-6-4, §lk-4-24, §joh-4-44
  }
 #}
 #mt-13-58 {
@@ -60914,7 +61037,7 @@
 #}
 #mt-17-20 {
  {
-  Vgl <a class='kom' href='#Imt-21-21'>Mt&nbsp;21,21</a>, <a href='http://bibel.renenyffenegger.ch/1kor_13.html#v2'>1.&nbsp;Kor&nbsp;13,2</a>.
+  <i>Berg versezten</i>, vgl §+mt-21-21, §1kor-13-2.
  }
  {
   <i>Unglaube</i>: vgl <a class='kom' href='#Imt-13-58'>Mt&nbsp;13,58</a>.
@@ -61361,11 +61484,9 @@
 #}
 #mt-21-21 {
  {
-  <i>Berg ins Meer werfen</i> vgl §mk-11-23, §+offb-8-8
- }
- {
-  §+mt-17-20.
-  <br>TODO: <i>Berg ins Meer</i>: §+ps-46-3.
+  <i>Berg ins Meer werfen</i> vgl §mk-11-23, §+offb-8-8, vgl §mt-17-20
+ <br>
+  Vgl auch §ps-46-3
  }
 #}
 #mt-21-25 {
@@ -62882,6 +63003,11 @@
   Vgl §mt-12-17-18
  }
 #}
+#mk-1-12 {
+ {
+  §mt-4-1, §lk-4-1
+ }
+#}
 #mk-1-13 {
  {
   Bevor der Herr in versucht wurde, war er voll Heiligen Geistes (§lk-4-1), nach der Versuchung kehrt er in der <i>Kraft des Geistes</i> zurück (§lk-4-14).
@@ -62897,10 +63023,13 @@
 #}
 #mk-1-14 {
  {
+  §mt-4-12, §lk-4-14
+ }
+ {
   <i>Nachdem aber → biblisches/Personen/Johannes/Täufer überliefert war</i> vgl §joh-3-24
  }
  {
-  §mt-4-12
+  → biblisches/Personen/Johannes/Täufer#johannes-im-gefaengnis
  }
  {
    Jesu Dienst beginnt in → biblisches/Orte/Galiläa: §apg-10-37
@@ -62924,7 +63053,7 @@
 #}
 #mk-1-17 {
  {
-  §+mt-4-19
+  §+mt-4-19, §lk-5-10
  }
 #}
 #mk-1-19 {
@@ -62940,6 +63069,9 @@
 #mk-1-21 {
  {
   → biblisches/Orte/Kapernaum
+ }
+ {
+  <i>Am Sabbat in der Synagoge lehren</i>, vgl §mk-6-2-ff
  }
 #}
 #mk-1-22 {
@@ -62977,7 +63109,7 @@
 #}
 #mk-1-28 {
  {
-  §lk-4-37
+  §mt-4-24, §lk-4-37
  }
 #}
 #mk-1-30 {
@@ -63023,7 +63155,7 @@
 #}
 #mk-1-39 {
  {
-  §lk-4-44
+  <i>er predigte in ihren Synagogen in ganz Galiläa</i> §mt-4-23, §lk-4-44
  }
 #}
 #mk-1-40 {
@@ -63481,6 +63613,11 @@
   <i>Vaterstadt</i>: <a class='kom' href='#Imt-13-54'>Mt&nbsp;13,54</a>.
  }
 #}
+#mk-6-2 {
+ {
+  <i>Am Sabbat in der Synagoge lehren</i>, vgl §mk-1-21-ff
+ }
+#}
 #mk-6-3 {
  {
   <i>Zimmermann</i>: §+mt-13-55.
@@ -63491,7 +63628,7 @@
 #}
 #mk-6-4 {
  {
-   Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet ist nicht ohne Ehre, außer in seiner Vaterstadt, vgl §mt-13-57, §joh-4-4
+  Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet ist nicht ohne Ehre, außer in seiner Vaterstadt, vgl §mt-13-57, §joh-4-44
  }
 #}
 #mk-6-5 {
@@ -64242,7 +64379,7 @@
 #mk-12-42 {
  {
   <i>Scherflein</i>: <span class='gr'><a href='https://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s3016'>λεπτόν</a></span>, Strongs 3016.
-  <i>Pfennig</i>: <span class='gr'>κοδράντης</span>, Strongs 2835.
+  <i>Quadrands</i>: <span class='gr'>κοδράντης</span>  (Strongs 2835, 2x) vgl §mt-5-26
  }
 #}
 #mk-12-44 {
@@ -65125,6 +65262,11 @@
   <i>Kyrenius</i> ist offenbar auch unter der alternativen Schreibweise »Quirinius« bekannt.
  }
 #}
+#lk-2-3 {
+ {
+  <i>jeder in seine eigene Stadt</i>, vgl mit «Seiner Vaterstadt», §mt-13-54 und «Seiner Stadt», §mt-9-1
+ }
+#}
 #lk-2-4 {
  {
   → biblisches/Orte/Nazareth
@@ -65306,6 +65448,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
+ {
+  84 = 12 * 7
+ }
 #}
 #lk-2-39 {
  {
@@ -65412,6 +65557,9 @@
  }
  {
   Beachte, der Herr selbst wird aus Jesaja vorlesen: §lk-4-17
+ }
+ {
+  <i>Stimme eines Rufenden</i>: §jes-40-3
  }
 #}
 #lk-3-5 {
@@ -65541,10 +65689,20 @@
   <span class='u'>Lukas zählt hier 77 Generationen auf. Offenbar sagt Enoch 10:4-6/11-12, dass in der 70. Generation nach Enoch das Gericht kommt.</span>
  }
 #}
+#lk-3-24 {
+ {
+  <i>des Matthat, des Levi</i>, §Vlk-3-29. Beachte, dass der → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12[Jünger] <i>Matthäus</i> offenbar auch <i>Levi</i> genannt wurde.
+ }
+#}
 #lk-3-27 {
  {
    TODO: Ist Salathiel ein anderer Name für → biblisches/Personen/Schealtiel? Ist
    Zorobabel ein andere Name für → biblisches/Personen/Serubbabel?
+ }
+#}
+#lk-3-29 {
+ {
+  <i>des Matthat, des Levi</i>, §+Vlk-3-24
  }
 #}
 #lk-3-31 {
@@ -65589,6 +65747,9 @@
 @}
 @Lukas 4 {
 #lk-4-1 {
+ {
+  §mt-4-1, §mk-1-12
+ }
  {
   <a class='kom' href='#Ilk-3-22'>Lk&nbsp;3,22</a>.
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/lk_4.html#v14'>Lk&nbsp;4,14</a> (In der Kraft des heilgen Geistes).
@@ -65644,6 +65805,9 @@
 #}
 #lk-4-14 {
  {
+  §mt-4-12, §mk-1-14
+ }
+ {
   <i>Gerücht</i>: §Vlk-4-37, §+mt-9-26.
  }
  {
@@ -65697,7 +65861,7 @@
 #}
 #lk-4-19 {
  {
-  <i>angenehm</i> (<span class='gr'>δεκτός</span>, Strongs 1184), dasselbe Wort wie für 'anerkannt' in Vers 24.
+  <i>angenehm</i> (<span class='gr'>δεκτός</span>, Strongs 1184), vgl §Vlk-4-24
  }
 #}
 #lk-4-20 {
@@ -65729,7 +65893,10 @@
 #}
 #lk-4-24 {
  {
-  <i>anerkannt</i>: vgl <a class='kom' href='#Ilk-4-19'>Vers 19</a>.
+  <i>angenehm</i>: Sch2K übersetzt mit «anerkannt», vgl §Vlk-4-19
+ }
+ {
+  Kein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet ist in seiner Vaterstadt angenehm, vgl §mt-13-57, §mk-6-4, §joh-4-44
  }
 #}
 #lk-4-25 {
@@ -65785,6 +65952,9 @@
 #}
 #lk-4-37 {
  {
+  <i>Gerücht</i> §Vlk-4-14, §mt-4-24, §lk-5-15
+ }
+ {
   §mk-1-28
  }
 #}
@@ -65823,7 +65993,7 @@
 #}
 #lk-4-44 {
  {
-  §mk-1-39
+  §mt-4-23, §mk-1-39
  }
 #}
 @}
@@ -65839,6 +66009,10 @@
  }
 #}
 #lk-5-3 {
+ {
+  Hier lehrt der Herr vom Schiff aus, nachdem er in → biblisches/Orte/Galiläa in den Synagogen gelehrt hatte (§lk-4-44); im → biblisches/Bücher/Evangelien/Matthäus[Matthäusevangelium] berichtet der Autor, dass der Herr
+  auf einen Berg gestiegen ist, um zu lehren (§mt-5-1-2) nachdem er in den Synagogen von Galiläa gelehrt hatte, §mt-4-23
+ }
  {
   Beachte: → biblisches/Personen/Andreas wird hier nicht namentlich erwähnt, vgl §mt-4-18-ff, §mk-1-16-ff.
  }
@@ -65865,13 +66039,16 @@
 #}
 #lk-5-10 {
  {
+  Vgl §mt-4-19, §mk-1-17
+ }
+ {
   <i>fangen</i> (<span class='gr'>ζωγρέω</span>, Strongs 2221, 2x), etwa «lebendig fangen». Dasselbe Wort kommt noch in §2tim-2-26 vor, wo von Menschen die Rede ist, die vom Teufels
   gefangen sind.
  }
 #}
 #lk-5-11 {
  {
-  <i>Alles verlassen</i>: vgl Vers 28.
+  <i>Alles verlassen</i>: vgl §Vlk-5-28
  }
 #}
 #lk-5-12 {
@@ -65885,6 +66062,11 @@
  }
  {
   Der Geheilte musste sich dem Priester zeigen und durfte niemandem etwas sagen. Der Gadarener, von dem die Dämonen ausgefahren sind, sollte nach Hause gehen und erzählen, wieviel Gott an ihm getan hat, §lk-8-39.
+ }
+#}
+#lk-5-15 {
+ {
+  <i>Die Rede über ihn verbreitete sich um so mehr</i>, vgl §mt-4-24, §mk-1-28, §lk-4-37
  }
 #}
 #lk-5-16 {
@@ -66883,6 +67065,11 @@
   §mt-10-28
  }
 #}
+#lk-12-6 {
+ {
+  <i>Assarion</i> §mt-10-29
+ }
+#}
 #lk-12-11 {
  {
   <i>womit ihr euch verantworten … sollt</i> vgl §lk-21-14
@@ -67010,8 +67197,7 @@
 #}
 #lk-12-59 {
  {
-  TODO: <i>Groschen</i> (<span class='gr'>λεπτόν</span>, Strongs 316) wird in
-  <a href='http://bibel.renenyffenegger.ch/mk_12.html#v42'>Mk&nbsp;12,42</a> mit 'Scherflein' übersetzt.
+  <i>Lepton</i> (<span class='gr'>λεπτόν</span>, Strongs 316, 3x): §lk-21-2, §mk-12-42
  }
 #}
 @}
@@ -68437,7 +68623,14 @@
 #}
 #joh-1-13 {
  {
-  Beachte, dass auch der Herr selbst <i>aus Gott geboren</i> ist: §mt-1-20, §lk-1-35
+  Eine Grundtext-Variante dieses Verses steht nicht im Plural, sondern im Singular: «<i>welcher</i> nicht … sondern aus Gott geboren <i>ist</i>».
+  Allerdings findet man die Plural-Variante nur im (lateinischen)
+  <a href='https://de.wikipedia.org/wiki/Codex_Veronensis_(Evangelien)'>Codex Veronensis</a> (4. od. 5. Jhdt) und im (ebenfalls lateinischen) Liber Comicus (7. - 9. Jhdt). Interessanterweise wird die
+  Singularversion von Justin dem Martyrer (Palestina), Hippolyt (Rom), → Geschichte/Kirche/Personen/Väter/Irenäus-von-Lyon[Irenäus] (Lyon), Tertullian (Afrika),
+  → Geschichte/Kirche/Personen/Origenes (Alexandria) und dem Epistula Apostolorum (Syrien) geographisch verbreitet und vor dem
+  4. Jhdt. bezeugt.
+ <br>
+  Beachte dazu, dass auch der Herr selbst <i>aus Gott geboren</i> ist: §mt-1-20, §lk-1-35
   <br>
   Vgl mit §joh-3-3, «Es sei denn, daß jemand von neuem geboren werde, so kann er das Reich Gottes nicht sehen.»
  }
@@ -69226,7 +69419,7 @@
 #}
 #joh-4-44 {
  {
-  Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet hat keine Ehre im eigenen Vaterland, vgl §mt-13-57, §mk-6-4
+  Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet hat keine Ehre im eigenen Vaterland, vgl §mt-13-57, §mk-6-4, §lk-4-24
  }
  {
   <i>Vaterland</i>: §+mt-13-54.
@@ -69865,7 +70058,7 @@
 #}
 #joh-8-12 {
  {
-  <i>Licht der Welt</i>: vgl §joh-12-46, §joh-1-9, §ps-27-1
+  <i>Licht der Welt</i>: vgl §joh-12-46, §joh-1-9, §mt-5-14, §ps-27-1
  }
  {
   Beachte: Hier redet der Herr wieder zu ihnen, obwohl er mit der Frau allein gelassen wurde (Vers 9) und er niemanden sah (Vers 10).
@@ -70566,9 +70759,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
  {
-   <i>Licht</i>: §+joh-8-12.
-  <br>
-   Als Licht in die Welt gekommen: §joh-1-9
+   Als <i>Licht in die Welt gekommen</i>: §+joh-8-12, §joh-1-9
  }
 #}
 #joh-12-47 {
@@ -73104,6 +73295,8 @@
 #apg-7-52 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden.
+  <br>
+   Vgl §mt-5-13
  }
  {
   Vgl mit Judas, dem Verräter, §lk-6-16
@@ -73856,7 +74049,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
  }
  {
-  <i>anfangend von Galiläa</i>: §mt-4-12, §mk-1-14, §lk-4-14, §joh-2-11, §lk-23-5
+  <i>anfangend von → biblisches/Orte/Galiläa</i>: §mt-4-12, §mk-1-14, §lk-4-14, §joh-2-11, §lk-23-5
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
@@ -85666,7 +85859,16 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-2-30 {
  {
-  <i>Werk des Christus</i>: <a class='kom' href='#I1kor-15-58'>1.&nbsp;Kor&nbsp;15,58</a>.
+  <i>Werk Christi</i>: §+1kor-15-58.
+ }
+ {
+   <span class='gt'><i>Christi</i> fehlt in der Elberfelder Übersetzung, ist aber in → biblisches/Grundtext/Handschriften/P-046 die erste bezeugte Lesart, die auch der → biblisches/Grundtext/Handschriften/0-003 hat.
+     Die einzige Auslassung ist angeblich in → biblisches/Grundtext/Handschriften/0-004[Codex C]. Es kommen in anderen → biblisches/Grundtext/Handschriften allerdings die beiden → biblisches/Grundtext#nomina-sacra 
+     ΘΥ und ΚΥ vor.
+   </span>
+ }
+ {
+  <span class='gt'>MT/TR: sein Leben gering <i>achtete</i>, NA/KT: sein Leben <i>wagte</i></span>
  }
  {
   TODO: «dienen» vgl <a class='kom' href='#Iphil-2-17'>Vers 17</a>.
