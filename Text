@@ -237,10 +237,13 @@
   <i>Erde und Kraut</i>: vgl §ps-72-16
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1mo_2.html#v5'>1.&nbsp;Mo&nbsp;2,5</a>.
+  <i>Die Frucht tragen nach ihrer Art</i> vgl §mt-7-16, §lk-6-43
  }
  {
-  Vgl auch mit <a href='http://bibel.renenyffenegger.ch/jes_61.html#v11'>Jes&nbsp;61,11</a>.
+  Vgl §1mo-2-5.
+ }
+ {
+  Vgl auch mit §jes-61-11.
  }
  {
   <i>fruchttragend</i> (<span class='hebr'>פְּרִי</span> (Strongs 6529) vgl mit «fruchtbar» (<span class='hebr'>פָּרָה</span>, Strongs 6509) und
@@ -8007,11 +8010,11 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder#zeichen-wunder-auszug-aegypten
   <i>Zeichen und Wunder</i> im Zusammenhang mit dem Auszug aus Ägypten: vgl
-    <a href='http://bibel.renenyffenegger.ch/ps_78.html#v43'>Ps&nbsp;78,43</a> (Die Wunder waren offenbar im Gebiet von Zoan),
-    <a href='http://bibel.renenyffenegger.ch/ps_105.html#v27'>Ps&nbsp;105,27</a> (Die Wunder waren im Land Hams),
-    <a href='http://bibel.renenyffenegger.ch/ps_135.html#v9'>Ps&nbsp;135,9</a> (Die Wunder inmitten Ägypten),
-         <br>Vgl. a. <a href='http://bibel.renenyffenegger.ch/jes_8.html#v18'>Jes&nbsp;8,18</a>
-         <br> Vgl <a class='kom' href='#I2mo-4-21'>2.&nbsp;Mo&nbsp;4,21</a>.
+    §ps-78-43 (Die Wunder waren offenbar im Gebiet von Zoan),
+    §ps-105-27 (Die Wunder waren im Land Hams),
+    §ps-135-9 (Die Wunder inmitten Ägypten).
+   <br>
+     Vgl. a. §jes-8-18 <br> Vgl §+2mo-4-21, §2mo-10-1
  }
 #}
 #2mo-7-4 {
@@ -8208,6 +8211,11 @@
 #}
 @}
 @2. Mose 10 {
+#2mo-10-1 {
+ {
+  <i>Zeichen</i>: §+2mo-7-3
+ }
+#}
 #2mo-10-2 {
  {
   TODO: <i>den Kindern und Kindeskindern erzählen</i> z. B. in Psalmen 78, 95, 105-107
@@ -49208,6 +49216,11 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/2petr_3.html#v12'>2.&nbsp;Petr&nbsp;3,12</a>.
  }
 #}
+#jes-51-7 {
+ {
+  §mt-5-11
+ }
+#}
 #jes-51-9 {
  {
   <i>Tage der Vorzeit</i>: <a class='kom' href='#Ijes-22-11'>Jes&nbsp;22,11</a>.
@@ -58645,6 +58658,9 @@
  {
   <i>Wort</i> hier: <span class='gr'>ῥῆμα</span> (Strongs 4487).
  }
+ {
+  <i>Jedes Wort, das durch den Mund Gottes ausgeht</i> vgl §mt-5-2
+ }
 #}
 #mt-4-5 {
  {
@@ -58912,14 +58928,27 @@
   TODO: Jesus setzt sich häufig zum Lehren. Vgl aber auch <a class='kom' href='#Ilk-4-16'>Lk&nbsp;4,16</a>.
  }
 #}
+#mt-5-2 {
+ {
+  <i>Er tat seinen Mund auf, lehrte sie…</i> vgl §mt-4-4
+ }
+#}
 #mt-5-3 {
  {
   <i>ihrer ist das Reich der Himmel</i>: Vers 10.
+ }
+ {
+  §lk-6-20
  }
 #}
 #mt-5-5 {
  {
   Vgl <a class='kom' href='#Ips-37-11'>Ps&nbsp;37,11</a>, <a href='http://bibel.renenyffenegger.ch/1mo_17.html#v6'>1.&nbsp;Mo&nbsp;17,6</a>.
+ }
+#}
+#mt-5-6 {
+ {
+  §lk-6-21
  }
 #}
 #mt-5-8 {
@@ -58938,7 +58967,13 @@
 #}
 #mt-5-11 {
  {
-  Beachte den Wechsel von 'die' auf 'euch'.
+  Beachte den Wechsel von <i>die</i> auf <i>euch</i>.
+ }
+ {
+  §lk-6-22
+ }
+ {
+  Vgl §jes-51-7
  }
 #}
 #mt-5-12 {
@@ -58960,7 +58995,7 @@
 #}
 #mt-5-15 {
  {
-  vgl §mk-4-21
+  vgl §mk-4-21, §lk-8-16, §lk-11-33
  }
 #}
 #mt-5-16 {
@@ -59034,6 +59069,11 @@
    Vgl §mt-10-29
  }
 #}
+#mt-5-31 {
+ {
+  §lk-16-18
+ }
+#}
 #mt-5-32 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/mt_19.html#v9'>Mt&nbsp;19,9</a>,
@@ -59073,6 +59113,9 @@
  }
 #}
 #mt-5-44 {
+ {
+  §lk-6-27
+ }
  {
   <span class='gt'>Nicht in NA: «segnet, die euch fluchen, tut wohl denen, die euch hassen,» und «beleidigen und»</span>.
  }
@@ -59210,8 +59253,18 @@
   <a href='http://bibel.renenyffenegger.ch/lk_12.html#v28'>Lk&nbsp;12,28</a>.
  }
 #}
+#mt-6-33 {
+ {
+  §lk-12-31
+ }
+#}
 @}
 @Matthäus 7 {
+#mt-7-1 {
+ {
+  §lk-6-37
+ }
+#}
 #mt-7-5 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heuchelei
@@ -59229,6 +59282,9 @@
 #}
 #mt-7-13 {
  {
+  §lk-13-24
+ }
+ {
   Vgl <i>Verderben</i> (<span class='gr'>ἀπώλεια</span>, Strongs 684) mit  <span class='gr'>ὄλεθρος</span> (Strongs 3639, 4x) zB
   in <a class='kom' href='#I1kor-5-5'>1.&nbsp;Kor&nbsp;5,5</a>.
  }
@@ -59240,6 +59296,11 @@
  {
   Beachte: hier kommen die falschen Propheten in <i>Schafskleidern</i>, sind aber Wölfe, in §mt-10-16 werden
   die 12 Jünger wie Schafe unter die Wölfe ausgesandt.
+ }
+#}
+#mt-7-16 {
+ {
+  <i>Baum wird an Früchten erkannt</i> §lk-6-43, §1mo-1-11
  }
 #}
 #mt-7-17 {
@@ -59281,6 +59342,9 @@
  }
 #}
 #mt-7-24 {
+ {
+  §lk-6-47
+ }
  {
   <i>Haus auf dem Felsen (<span class='gr'>πέτρα</span>, Strongs 4073) bauen</i> vgl §mt-16-18
  }
@@ -60137,6 +60201,11 @@
   <i>Kornfelder</i> wird in Elberfelder mit «Saaten» übersetzt.
  }
 #}
+#mt-12-2 {
+ {
+  §mk-2-24, §lk-6-2
+ }
+#}
 #mt-12-3 {
  {
   Vgl <a class='kom' href='#I1sam-22-10'>1.&nbsp;Sam&nbsp;22,10</a>.
@@ -60276,7 +60345,7 @@
 #}
 #mt-12-33 {
  {
-  Vgl §+mt-3-10, §+mt-7-18
+  Vgl §+mt-3-10, §+mt-7-18, §lk-6-43-44
  }
 #}
 #mt-12-36 {
@@ -63270,6 +63339,11 @@
   §mt-12-1, §lk-6-1
  }
 #}
+#mk-2-24 {
+ {
+  §mt-12-2, §lk-6-2
+ }
+#}
 #mk-2-26 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot
@@ -63329,6 +63403,11 @@
  }
  {
   TODO: <i>Offenbaren/Offenbar machen</i>: <a class='kom' href='#Imt-11-25'>Mt&nbsp;11,25</a>.
+ }
+#}
+#mk-3-13 {
+ {
+  §lk-6-12
  }
 #}
 #mk-3-14 {
@@ -66155,6 +66234,9 @@
  {
   Offenbar verbietet das Gesetz dies gar nicht. Möglicherweise suchten die Pharisäer, wie in §Vlk-6-7, eine Beshuldigung gegen den Herrn.
  }
+ {
+  §mt-12-2, §mk-2-24
+ }
 #}
 #lk-6-4 {
  {
@@ -66200,14 +66282,14 @@
 #}
 #lk-6-12 {
  {
-   <i>Jesus auf Berg, um zu beten</i>: §+mk-6-46.
+   <i>Jesus auf Berg, um zu beten</i>§+mk-6-46.
   <br>
    Vgl §lk-5-16, wo Er sich in die Wüsteneien zurückzog, um zu beten.
  }
 #}
 #lk-6-13 {
  {
-  Erwählung der → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12[12 Jünger], vgl §mt-10-2, §lk-6-13
+  Erwählung der → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12[12 Jünger], vgl §mt-10-2, §mk-3-13
  }
  {
   Möglicherweise bestimmt der Herr die Apostel, um Sein Werk fortzuführen, da Er nun weiss, dass die Schriftgelehrten und Pharisäer sich überlegten, was sie Ihm tun sollten (§Vlk-6-11).
@@ -66245,9 +66327,25 @@
   <i>Ebener Platz</I> vgl §lk-3-5
  }
 #}
+#lk-6-20 {
+ {
+  Vier <i>Glückselig</i> (Verse 20-23) werden von vier entsprechenden <i>wehe euch</i> gefolgt (§Vlk-6-24-26)
+ }
+ {
+  <i>Glückselig ihr Armen</i> §mt-5-3 
+ }
+#}
+#lk-6-21 {
+ {
+  <i>Glückselig, die ihr jetzt hungert</i> §mt-5-6
+ }
+#}
 #lk-6-22 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung
+  §mt-5-11
+ }
+ {
+  <i>Glückselig seid ihr, wenn die Menschen euch hassen werden</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung
  }
 #}
 #lk-6-26 {
@@ -66255,9 +66353,19 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#falsche-propheten[falsche Propheten]
  }
 #}
+#lk-6-27 {
+ {
+  §mt-5-44
+ }
+#}
 #lk-6-35 {
  {
    TODO: Richtig übersetzt sei: 'und erhofft nicht, das Verliehene zurückzuerhalten.'.
+ }
+#}
+#lk-6-37 {
+ {
+  §mt-7-1
  }
 #}
 #lk-6-39 {
@@ -66265,14 +66373,29 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
  }
 #}
+#lk-6-43 {
+ {
+  §mt-7-16-ff, §+mt-12-33, §1mo-1-11
+ }
+#}
 #lk-6-44 {
  {
   <i>sammelt man</i> und <i>liest man</i>: im Griechischen eigentlich: «sie sammeln» und «sie lesen». Gemäss Vorwort von Elberfelder 1865, Seite XIII) ein Idiom, das Markus «nicht selten» verwendet.
  }
 #}
+#lk-6-45 {
+ {
+  <i>aus der Fülle des Herzens redet der Mund</i> vgl §jak-3-5-ff
+ }
+#}
 #lk-6-46 {
  {
   <i>Herr, Herr</i>: <a class='kom' href='#Imt-7-21'>Mt&nbsp;7,21</a>.
+ }
+#}
+#lk-6-47 {
+ {
+  §mt-7-24
  }
 #}
 @}
@@ -66525,6 +66648,9 @@
  }
 #}
 #lk-8-16 {
+ {
+  §lk-11-33, §+mt-5-15
+ }
  {
   <i>Gefäss</i>: <a class='kom' href='#Imt-12-29'>Mt&nbsp;12,29</a>.
  }
@@ -66992,6 +67118,11 @@
   <i>Ninive</i>: <a class='kom' href='#Imt-12-41'>Mt&nbsp;12,41</a>.
  }
 #}
+#lk-11-33 {
+ {
+  §lk-8-16, §+mt-5-15
+ }
+#}
 #lk-11-38 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Mittagessen
@@ -67116,6 +67247,9 @@
  }
 #}
 #lk-12-31 {
+ {
+  §mt-6-33
+ }
  {
   <span class='gt'><i>nach dem Reich Gottes</i>: NA hat «nach seinem Reich».</span>
  }
@@ -67272,6 +67406,11 @@
 #lk-13-22 {
  {
   Jesus' <i>Reise nach Jerusalem</i>: <a class='kom' href='#Ilk-9-51'>Lk&nbsp;9,51</a>.
+ }
+#}
+#lk-13-24 {
+ {
+  §mt-7-13
  }
 #}
 #lk-13-25 {
@@ -67479,6 +67618,11 @@
 #lk-16-17 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz#gesetz-aufheben, Vgl §+mt-5-17
+ }
+#}
+#lk-16-18 {
+ {
+  §mt-5-31
  }
 #}
 #lk-16-19 {
@@ -71683,6 +71827,11 @@
 #joh-20-21 {
  {
    Vgl §joh-17-18.
+ }
+#}
+#joh-20-22 {
+ {
+  Die Jünger empfingen Heiligen Geist, aber sie redeten nicht in Zungen.
  }
 #}
 #joh-20-30 {
@@ -80268,7 +80417,7 @@
 #}
 #1kor-1-22 {
  {
-  <i>Zeichen</i>: §+mt-12-38, §+lk-2-12
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen: §+mt-12-38, §+lk-2-12
  }
  {
   <i>Glauben wegen Zeichen</i>: §+joh-2-23
@@ -92561,6 +92710,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #jak-3-5 {
+ {
+  Vgl §lk-6-45
+ }
  {
   <i>Glieder</i> <a class='kom' href='#Iroem-6-19'>Röm&nbsp;6,19</a>. Vgl auch <a href='http://bibel.renenyffenegger.ch/jak_4.html#v1'>Jak&nbsp;4,1</a>.
  }
