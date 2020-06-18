@@ -40774,7 +40774,9 @@
 #}
 #ps-38-14 {
  {
-  <i>seinen Mund nicht auftun</i> vgl §jes-53-7
+  <i>seinen Mund nicht auftun</i> §psr-24-7, §jes-53-7
+  <br>
+   Vgl folgenden und nachfolgenden Psalm: §ps-39-10, §ps-40-4
  }
 #}
 #ps-38-20 {
@@ -40803,6 +40805,11 @@
   <i>harren</i>: <a class='kom' href='#I1mo-49-18'>1.&nbsp;Mo&nbsp;49,18</a>.
  }
 #}
+#ps-39-10 {
+ {
+  <i>ich tue meinen Mund nicht auf</i> §+ps-38-14
+ }
+#}
 #ps-39-13 {
  {
   <i>Fremdling und Gast</i>: <a class='kom' href='#I3mo-25-23'>3.&nbsp;Mo&nbsp;25,23</a>. Vgl <a href='http://bibel.renenyffenegger.ch/1chr_29.html#v15'>1.&nbsp;Chr&nbsp;29,15</a>.
@@ -40814,6 +40821,11 @@
  {
   <i>harren</i>: <a class='kom' href='#I1mo-49-18'>1.&nbsp;Mo&nbsp;49,18</a>.
   <br>Beachte, dass sowohl 'Beharrlich' wie auch 'harren' dasselbe Wort im Hebräischen sind (Strongs 3444).
+ }
+#}
+#ps-40-4 {
+ {
+  <i>ein neues Lied in meinen Mund gelegt</i> vgl §+ps-38-14, §ps-39-10
  }
 #}
 #ps-40-5 {
@@ -45795,6 +45807,11 @@
   <i>Viele Ratgeber</i>: <a class='kom' href='#Ispr-11-14'>Spr&nbsp;11,14</a>.
  }
 #}
+#spr-24-7 {
+ {
+  <i>tut seinen Mund nicht auf</i> §+ps-38-14
+ }
+#}
 #spr-24-9 {
  {
   <i>Gräuel in den Sprüchen</i>: <a class='kom' href='#Ispr-3-32'>Spr&nbsp;3,32</a>.
@@ -49351,6 +49368,8 @@
  }
  {
   <i>seinen Mund nicht auftun</i> vgl §ps-38-14
+  <br>
+   In §mt-5-2 tut der Herr den Mund auf (und lehrt)
  }
 #}
 #jes-53-8 {
@@ -58931,6 +58950,8 @@
 #mt-5-2 {
  {
   <i>Er tat seinen Mund auf, lehrte sie…</i> vgl §mt-4-4
+  <br>
+   Das Lamm tut bei Seiner Schlachtung den Mund <i>nicht</i> auf: §+jes-53-7
  }
 #}
 #mt-5-3 {
