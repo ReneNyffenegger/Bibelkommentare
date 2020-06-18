@@ -48861,6 +48861,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
  }
 #}
+#jes-43-25 {
+ {
+  <i>der deine Übertretungen tilgt</i> §olk-2-14
+ }
+#}
 @}
 @Jesaja 44 {
 #jes-44-1 {
@@ -72836,6 +72841,11 @@
   Verweis: §ps-2-1
  }
 #}
+#apg-4-26 {
+ {
+  <i>Herr und seinen Christus</i> vgl §offb-11-15
+ }
+#}
 #apg-4-27 {
  {
   → biblisches/Personen/Herodes
@@ -86700,7 +86710,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-2-14 {
  {
-  <i>ausgetilgt</i>: §4mo-5-23
+  <i>ausgetilgt</i>: §4mo-5-23, §jes-43-25
  }
  {
   Luther 1912 übersetzt <span class='gr'>χειρογραφον</span> (Strongs 5498) mit «Handschrift».
@@ -97305,6 +97315,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-11-15 {
+ {
+  <i>unseres Herrn und seines Christus</i> vgl §apg-4-26
+ }
  {
   TODO: Ist diese siebte Posaune die letzte, die in <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v52'>1.&nbsp;Kor&nbsp;15,52</a> erwähnt wird?
   Beachte auch, dass Paulus schreibt: 'zur Zeit der letzten Posaune'.
