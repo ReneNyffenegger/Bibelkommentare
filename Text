@@ -58466,7 +58466,7 @@
 @Matthäus 3 {
 #mt-3-1 {
  {
-  §mk-1-4, §lk-3-3
+  §mk-1-4, §lk-3-3, §joh-1-15
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
@@ -58987,6 +58987,9 @@
 #}
 #mt-5-9 {
  {
+  <i>Glückselig die Friedensstifter</i> vgl §+mt-10-34
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Söhne: Vgl §Vmt-5-16, §Vmt-5-45 und §mt-6-1.
   <br>Vgl auch §+1mo-6-2
  }
@@ -59056,8 +59059,8 @@
 #}
 #mt-5-19 {
  {
-  <i>Kleinster im Reich der Himmel</i>: vgl <a href='http://bibel.renenyffenegger.ch/mt_11.html#v11'>Mt&nbsp;11,11</a>.
-  Vgl mit «Grösster im Reich der Himmel»: <a href='http://bibel.renenyffenegger.ch/mt_18.html#v1'>Mt&nbsp;18,1</a>
+  <i>Kleinster im Reich der Himmel</i>: vgl §mt-11-11.
+  Vgl mit «Grösster im Reich der Himmel»: §mt-18-1
  }
 #}
 #mt-5-20 {
@@ -59381,6 +59384,8 @@
  }
  {
   <i>erstaunt über Seine Lehre</i> vgl §mt-22-33, §mk-1-22, §mk-11-18, §lk-4-32, §apg-13-12
+ <br>
+  Vgl §joh-1-38, §joh-3-2, §joh-3-10
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/vollenden/index#mt-jesus-worte-vollenden
@@ -59446,19 +59451,6 @@
 #mt-8-10 {
  {
   <i>nicht in Israel habe ich so grossen Glauben gefunden</i> vgl §mt-9-33
- }
- {
-  TODO: <i>sich verwundern</i>: <ul>
-    <li>hier
-    <li><a href='http://bibel.renenyffenegger.ch/mt_8.html#v27'>Mt&nbsp;8,27</a>
-    <li><a href='http://bibel.renenyffenegger.ch/mt_9.html#v8'>Mt&nbsp;9,8</a>
-    <li><a href='http://bibel.renenyffenegger.ch/mt_9.html#v33'>Mt&nbsp;9,33</a>
-    <li><a href='http://bibel.renenyffenegger.ch/mt_15.html#v31'>Mt&nbsp;15,31</a>
-    <li><a href='http://bibel.renenyffenegger.ch/mt_21.html#v20'>Mt&nbsp;21,20</a>
-    <li><a href='http://bibel.renenyffenegger.ch/mt_22.html#v22'>Mt&nbsp;22,22</a>
-    <li><a href='http://bibel.renenyffenegger.ch/mt_27.html#v14'>Mt&nbsp;27,14</a>
-  </ul>
-  Siehe auch <a class='kom' href='#Ioffb-13-3'>Offb&nbsp;13,3</a>.
  }
 #}
 #mt-8-11 {
@@ -59773,7 +59765,7 @@
 #}
 #mt-9-34 {
  {
-  <i>Er treibt die Dämonen aus durch den Obersten der Dämonen</i> vgl §mt-12-22-ff (§mt-12-24)
+  <i>Er treibt die Dämonen aus durch den Obersten der Dämonen</i> vgl §mt-12-24
  }
 #}
 #mt-9-35 {
@@ -59804,6 +59796,11 @@
 #}
 @}
 @Matthäus 10 {
+#mt-10-1 {
+ {
+  §mk-3-14-15, §lk-9-1
+ }
+#}
 #mt-10-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12, vgl §mk-3-14, §lk-6-13
@@ -59846,6 +59843,9 @@
 #}
 #mt-10-5 {
  {
+  §mk-6-7, §lk-9-1
+ }
+ {
   Nachdem Jesus die <i>zwölf</i> ausgesandt hatte, hörte Johannes im Gefängnis (von?) den Werken des Christus (<a href='http://bibel.renenyffenegger.ch/mt_11.html#v1'>Mt 11,1-2</a>).
  }
  {
@@ -59884,14 +59884,18 @@
 #}
 #mt-10-10 {
  {
+  §lk-9-3
+ }
+ {
   <i>Der Arbeiter ist seiner Nahrung wert</i>: vgl mit «Der Arbeiter ist seines Lohnes wert» in <a class='kom' href='#Ilk-10-7'>Lk&nbsp;10,7</a>.
   Vgl auch <a class='kom' href='#I1tim-5-18'>1.&nbsp;Tim&nbsp;5,18</a>.
  }
 #}
 #mt-10-14 {
  {
-  <i>Staub von Füssen schütteln</i>: <a href='http://bibel.renenyffenegger.ch/mk_6.html#v11'>Mk&nbsp;6,11</a>,
-  <a href='http://bibel.renenyffenegger.ch/lk_9.html#v5'>Lk&nbsp;9,5</a>, <a class='kom' href='#Iapg-13-51'>Apg&nbsp;13,51</a>.
+  §mk-6-11, §lk-9-5
+ <br>
+  <i>Staub von Füssen schütteln</i>: §apg-13-51
  }
  {
   <i>Staub</i>: <span class='gr'>κονιορτός</span> (Strongs 2868), auch in <a href='http://bibel.renenyffenegger.ch/lk_9.html#v5'>Lk&nbsp;9,5</a>,
@@ -59990,7 +59994,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
  {
+  <i>Nicht gekommen, um Frieden zu bringen</i> vgl §lk-12-51
+  <br>
   Beachte: wenn Er zum 2. Mal kommt, wird er kommen, um Sein Friedensreich aufzurichten.
+  <br>
+   Vgl §mt-5-9, §lk-1-79
  }
 #}
 #mt-10-38 {
@@ -60000,7 +60008,7 @@
 #}
 #mt-10-42 {
  {
-  Vgl §mt-25-34-40
+  Vgl §mk-9-41, §mt-25-34-40
  }
 #}
 @}
@@ -60332,6 +60340,11 @@
   Vgl §mt-9-27-ff (zwei Blinde) und §mt-9-32-ff (ein stummer und besessener Mensch)
  }
 #}
+#mt-12-23 {
+ {
+  Hier erstaunen die Volksmengen und sagen «dieser ist noch nicht etwa der Sohn Davids», in §lk-4-22 verwundern «sie» sich und sprechen «ist dieser nicht der Sohn Josephs».
+ }
+#}
 #mt-12-24 {
  {
   Dieser treibt die Dämonen … durch den <i>Beelzebul</i> aus, vgl §mk-3-22, §lk-11-15
@@ -60342,6 +60355,21 @@
   <i>Dieser treibt die Dämonen nicht anders aus, als durch den Beelzebub, den Obersten der Dämonen.</i> vgl §mt-9-34
  }
 #}
+#mt-12-25 {
+ {
+  §mk-3-24-25, §lk-11-17
+ }
+#}
+#mt-12-26 {
+ {
+  §mk-3-23
+ }
+#}
+#mt-12-27 {
+ {
+  §lk-11-19
+ }
+#}
 #mt-12-28 {
  {
   oder: durch den Finger Gottes §lk-11-20
@@ -60349,14 +60377,18 @@
 #}
 #mt-12-29 {
  {
+  §mk-3-27
+ }
+ {
   Beachte Verse 43-45. TODO: Verse 43-45 beziehen sich wohl auf den Vers 29.
  }
  {
-  TODO: <i>Hausrat</i> (<span class='gr'>σκεῦος</span>, Strongs 4632). Wird zB übersetzt
-  mit 'Gefäss' in , <a href='http://bibel.renenyffenegger.ch/lk_8.html#v16'>Lk&nbsp;8,16</a>,
-  'Gerät' in <a href='http://bibel.renenyffenegger.ch/mk_11.html#v16'>Mk&nbsp;11,16</a>  <a href='http://bibel.renenyffenegger.ch/lk_17.html#v31'>Lk&nbsp;17,31</a>,
-  'Werkzeug' in <a href='http://bibel.renenyffenegger.ch/apg_9.html#v15'>Apg&nbsp;9,15</a>,
-  'Segel' in <a href='http://bibel.renenyffenegger.ch/apg_27.html#v17'>Apg&nbsp;27,17</a>.
+  <i>Hausrat</i> (<span class='gr'>σκεῦος</span>, Strongs 4632). Wird zB übersetzt mit «Gefäss» in , §lk-8-16, «Gerät» in §mk-11-16  §lk-17-31, «Werkzeug» in §apg-9-15, «Segel» in §apg-27-17.
+ }
+#}
+#mt-12-30 {
+ {
+  §mk-9-40, §lk-11-23
  }
 #}
 #mt-12-31 {
@@ -60429,6 +60461,11 @@
  {
   <i>Ninive</i>: <a class='kom' href='#Ijon-1-2'>Jon&nbsp;1,2</a>.
   <br>Vgl <a href='http://bibel.renenyffenegger.ch/lk_11.html#v32'>Lk&nbsp;11,32</a>.
+ }
+#}
+#mt-12-43 {
+ {
+  §lk-11-24
  }
 #}
 #mt-12-48 {
@@ -60656,12 +60693,15 @@
 #}
 #mt-13-54 {
  {
-  <i>Vaterstadt</i> (<span class='gr'>πατριδα αυτου</span>, Strongs 3968 846), in KJV mit «own country», in Elberfelder 1905 mit «Vaterstadt» übersetzt.
+  <i>Seine Vaterstadt</i> (<span class='gr'>πατριδα αυτου</span>, Strongs 3968 846), in KJV mit «own country», in Elberfelder 1905 mit «Vaterstadt» übersetzt.
   <br>
   In §joh-4-44 und §hebr-11-14 wird Strongs 3964 mit «Vaterland» übersetzt.
  }
  {
   Vgl <i>Seine Vaterstadt</i> mit «Seiner Stadt», §mt-9-1 und «jeder in seiner eigenen Stadt», §lk-2-3
+ }
+ {
+  <i>Woher diesem…</i> §mk-6-2
  }
 #}
 #mt-13-55 {
@@ -60688,7 +60728,10 @@
 #}
 #mt-13-57 {
  {
-  Ein Prophet ist nicht ohne Ehre, außer in seiner Vaterstadt, vgl §mk-6-4, §lk-4-24, §joh-4-44
+  <i>Ein Prophet ist nicht ohne Ehre, außer in seiner Vaterstadt</i>, vgl §mk-6-4, §lk-4-24, §joh-4-44
+ }
+ {
+  <i>sie ärgerten sich an ihm</i> vgl §mk-6-4, §lk-4-28 («alle wurden von Wut erfüllt»)
  }
 #}
 #mt-13-58 {
@@ -60696,7 +60739,9 @@
    <i>Unglaube</i>: vgl <a href='http://bibel.renenyffenegger.ch/mt_17.html#v20'>Mt&nbsp;17,20</a>.
  }
  {
-  <i>nicht viele Wunderwerke tun</i> vgl §mt-14-2 (3 Verse weiter)
+  <i>nicht viele Wunderwerke tun</i>, §mk-6-5
+  <br>
+   Vgl auch §mt-14-2 (nur 3 Verse weiter hintern)
  }
 #}
 @}
@@ -60813,6 +60858,9 @@
 @}
 @Matthäus 15 {
 #mt-15-2 {
+ {
+  <i>sie waschen ihre Hände nicht, wenn sie Brot essen</i> vgl §mk-7-2
+ }
  {
   TODO: es gibt kein Gesetz (des Mose), das Händewaschen vor dem Essen fordern würde.
  }
@@ -61181,18 +61229,25 @@
 @Matthäus 18 {
 #mt-18-1 {
  {
-  <i>Wer ist der Gröste?</i>: <a href='http://bibel.renenyffenegger.ch/mt_23.html#v11'>Mt&nbsp;23,11</a>.
-  <br>vgl auch <a class='kom' href='#Ilk-9-46'>Lk&nbsp;9,46</a>.
-  <br>TODO: Geht die Antwort auf diese Frage bis Vers 20?
-  <br>Beachte: die «Kleinen» (wohl im Gegensatz zum <i>Grössten</i>) in Vers 14.
+  <i>Grösster im Reich der Himmel</i> vgl §+mt-5-19, §mt-23-11, §+lk-9-46
+ <br>
+  Vgl auch mit den «Kleinen» in §Vmt-18-14
  }
  {
-  <i>Grösster im Reich der Himmel</i>: <a class='kom' href='#Imt-5-19'>Mt&nbsp;5,19</a>.
+  TODO: Geht die Antwort auf diese Frage bis Vers 20?
  }
 #}
 #mt-18-2 {
  {
   <i>Kinder</i>: vgl <a href='http://bibel.renenyffenegger.ch/mt_19.html#v13'>Mt 19,13 ff</a>
+ }
+#}
+#mt-18-5 {
+ {
+  §+mk-9-37, §lk-9-48
+ }
+ {
+  <i>… nimmt mich auf</i> vgl §joh-5-43
  }
 #}
 #mt-18-7 {
@@ -61704,7 +61759,7 @@
  {
   Hier: Das <b>Bild</b> des → biblisches/Personen/Kaiser[Kaisers] (ebenso: <a href='http://bibel.renenyffenegger.ch/mk_12.html#v16'>Mk&nbsp;12,16</a> und <a href='http://bibel.renenyffenegger.ch/lk_20.html#v24'>Lk&nbsp;20,24</a>).
   Dann wird die Herrlichkeit Gottes mit einem Bild, das vergänglichen Menschen und Tieren gleicht, vertauscht: <a href='http://bibel.renenyffenegger.ch/roem_1.html#v23'>Röm&nbsp;1,23</a>.
-  Die vorherbestimmten müssen dem Bild seines Sohnes gleichgestaltet werden (<a href='http://bibel.renenyffenegger.ch/roem_8.html#v29'>Röm&nbsp;8,29</a>)
+  Die Vorherbestimmten müssen dem Bild seines Sohnes gleichgestaltet werden (<a href='http://bibel.renenyffenegger.ch/roem_8.html#v29'>Röm&nbsp;8,29</a>)
   <br>Da der Mann Gottes Bild ist, darf er sein Haupt nicht bedecken (<a href='http://bibel.renenyffenegger.ch/1kor_11.html#v7'>1.&nbsp;Kor&nbsp;11,7</a>).
   <br><b>Christus</b> ist das <i>Bild Gottes</i> (<a href='http://bibel.renenyffenegger.ch/2kor_4.html#v4'>2.&nbsp;Kor&nbsp;4,4</a>, <a href='http://bibel.renenyffenegger.ch/kol_1.html#v15'>Kol&nbsp;1,15</a>)
   <br>Das Bild des <b>Tieres</b>: <a href='http://bibel.renenyffenegger.ch/offb_13.html#v15'>Offb&nbsp;13,15</a>.
@@ -62282,7 +62337,7 @@
 #}
 #mt-25-40 {
  {
-  Vgl §mt-10-42
+  Vgl §mt-10-42, §mk-9-41
  }
 #}
 #mt-25-41 {
@@ -62667,6 +62722,9 @@
 #}
 #mt-27-14 {
  {
+  §mk-15-5
+ }
+ {
   TODO <i>sich verwundern</i>: <a class='kom' href='#Imt-8-10'>Mt&nbsp;8,10</a>
  }
 #}
@@ -63040,7 +63098,7 @@
 #}
 #mk-1-4 {
  {
-  §mt-3-1, §lk-3-3
+  §mt-3-1, §lk-3-3, §joh-1-15
  }
  {
   Beachte: Johannes verkündigt eine → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe der Busse zur Vergebung der Sünden, Jesus verkündet das Evangelium vom Reich Gottes (Vers 14)
@@ -63164,6 +63222,9 @@
 #}
 #mk-1-21 {
  {
+  §lk-4-31
+ }
+ {
   → biblisches/Orte/Kapernaum
  }
  {
@@ -63172,14 +63233,17 @@
 #}
 #mk-1-22 {
  {
+  §lk-4-32
+ }
+ {
    <i>erstaunt über Seine Lehre</i> §+mt-7-28
  }
 #}
 #mk-1-23 {
  {
-  <i>Mensch mit einem unreiner Geist</i> §lk-4-32
+  <i>Mensch mit einem unreinem Geist</i> §lk-4-33
  <br>
-   Später werden die Schriftgelehrten von Jerusalem über Jesus sagen, dass <i>Er</i> einen unreinen Geist habe (§mk-3-30, §mk-3-22).
+  Später werden die Schriftgelehrten von Jerusalem über Jesus sagen, dass <i>Er</i> einen unreinen Geist habe (§mk-3-30, §mk-3-22).
  }
  {
   Vgl diesen Menschen mit einem unreinen Geist mit dem Menschen mit einem unreinen Geist in §mk-5-2-ff. Beide fragen, was sie mit dem Herrn zu schaffen haben (§Vmk-1-24, §mk-5-7).
@@ -63476,7 +63540,7 @@
 #}
 #mk-3-22 {
  {
-  §+mt-12-24
+  §+mt-12-24, §lk-11-15
  }
  {
   <i>Unreiner Geist</i>: §mk-1-23-ff
@@ -63490,10 +63554,21 @@
 #}
 #mk-3-23 {
  {
+  <i>Wie kann der Satan den Satan austreiben</i> §mt-12-26
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
  }
 #}
+#mk-3-24 {
+ {
+  §mt-12-25, §lk-11-17
+ }
+#}
 #mk-3-27 {
+ {
+  §mt-12-29
+ }
  {
   <i>Hausrat</i>: <a class='kom' href='#Imt-12-29'>Mt&nbsp;12,29</a>.
  }
@@ -63507,6 +63582,9 @@
  }
 #}
 #mk-3-29 {
+ {
+  <i>gegen den Heiligen Geist lästern</i> §lk-12-10
+ }
  {
   <i>keine Vergebung in Ewigkeit</i> §mt-18-8
  }
@@ -63716,12 +63794,15 @@
 @Markus 6 {
 #mk-6-1 {
  {
-  <i>Vaterstadt</i>: <a class='kom' href='#Imt-13-54'>Mt&nbsp;13,54</a>.
+  <i>Vaterstadt</i>: §+mt-13-54, §lk-4-16
  }
 #}
 #mk-6-2 {
  {
   <i>Am Sabbat in der Synagoge lehren</i>, vgl §mk-1-21-ff
+ }
+ {
+  <i>Woher diesem solches</i> §mt-13-54
  }
 #}
 #mk-6-3 {
@@ -63740,6 +63821,9 @@
 #mk-6-5 {
  {
   Jesus legt den Kranken die Hände auf und heilte sie; die Zwölf salbten die Kranken mit Ö und heilten sie (Vers 13).
+ }
+ {
+  <i>konnte dasselbst kein Wunder tun</i>, §mt-13-58
  }
  {
   <a class='kom' href='#Imk-5-41'>Mk&nbsp;5,41</a>.
@@ -63764,6 +63848,9 @@
 #}
 #mk-6-11 {
  {
+  §lk-9-5
+ }
+ {
   <i>Tag des Gerichts</i>: <a class='kom' href='#Imt-10-15'>Mt&nbsp;10,15</a>.
  }
  {
@@ -63771,6 +63858,9 @@
  }
  {
   <span class='gt'>Nicht in NA: «Wahrlich, ich sage euch: Es wird Sodom und Gomorra erträglicher gehen am Tag des Gerichts als jener Stadt!»</span>.
+ }
+ {
+  <i>die euch nicht hören wollen</i>: Herodes hörte von ihm, §mk-6-14
  }
 #}
 #mk-6-13 {
@@ -63885,6 +63975,11 @@
 #mk-7-1 {
  {
          Vgl mit <a class='kom' href='#Imt-26-3'>Mt&nbsp;26,3</a> (wo sie «versammelt wurden»).
+ }
+#}
+#mk-7-2 {
+ {
+  <i>Mit ungewaschenen Händen Brot essen</i> vgl §mt-15-2
  }
 #}
 #mk-7-4 {
@@ -64156,12 +64251,25 @@
 #}
 #mk-9-37 {
  {
+  Vgl §mk-10-15, §+mt-18-5
+ }
+ {
   Wie schnell lernen denn die Jünger? Vgl <a href='http://bibel.renenyffenegger.ch/mk_10.html#v13'>Mk 10,13 ff</a>.
  }
 #}
 #mk-9-38 {
  {
   TODO: Ausnahmsweise sagt mal nicht Petrus etwas.
+ }
+#}
+#mk-9-40 {
+ {
+  §mt-12-30, §lk-11-23
+ }
+#}
+#mk-9-41 {
+ {
+  Vgl §+mt-10-42
  }
 #}
 #mk-9-44 {
@@ -64194,6 +64302,9 @@
  {
   <i>Unsalziges Salz</i> vgl §mt-5-13, §lk-14-34
  }
+ {
+  <i>seid in Frieden untereinander</i> §+joh-14-27
+ }
 #}
 @}
 @Markus 10 {
@@ -64225,6 +64336,11 @@
 #mk-10-13 {
  {
   <a class='kom' href='#Imk-9-37'>Mk&nbsp;9,37</a>.
+ }
+#}
+#mk-10-15 {
+ {
+  Vgl §mk-9-37
  }
 #}
 #mk-10-17 {
@@ -64442,6 +64558,11 @@
 #mk-12-16 {
  {
   Das <b>Bild des → biblisches/Personen/Kaiser[Kaisers]</b>: siehe <a class='kom' href='#Imt-22-20'>Mt&nbsp;22,20</a>.
+ }
+#}
+#mk-12-17 {
+ {
+  §mt-22-22
  }
 #}
 #mk-12-26 {
@@ -64831,6 +64952,13 @@
   <i>Bist du der König der Juden</i> §+mk-14-61
  }
 #}
+#mk-15-5 {
+ {
+  Pilatus wird sich auch darüber verwundern, dass Er schnell sterben wird: §Vmk-15-44
+ <br>
+  Vgl §mt-27-14
+ }
+#}
 #mk-15-14 {
  {
   §apg-13-28
@@ -64951,6 +65079,11 @@
 #mk-15-43 {
  {
   <i>kühn</i>, vgl mit §joh-19-38, wo Joseph von Arimathia als «aus Furcht vor den Juden ein verborgener Jünger» beschrieben wird.
+ }
+#}
+#mk-15-44 {
+ {
+  Pilatus verwundert sich: §Vmk-15-5
  }
 #}
 #mk-15-46 {
@@ -65450,6 +65583,11 @@
   Vgl <i>Friede auf Erde</i> mit «Friede im Himmel» in <a href='http://bibel.renenyffenegger.ch/lk_19.html#v38'>Lk&nbsp;19,38</a>.
  }
 #}
+#lk-2-18 {
+ {
+  Hier verwundern sich alle darüber, was von den Hirten <i>über dieses Kindlein geredet worden war</i>, in §Vlk-2-33 werden sich Sein Vater und Seine Mutter darüber verwundern. 
+ }
+#}
 #lk-2-19 {
  {
   Vgl <i>diese Worte behalten und im Herzen bewegen</i> mit §Vlk-2-51
@@ -65532,6 +65670,11 @@
  }
  {
   TODO: Beachte: Offenbarung für die Heiden, vgl <a class='kom' href='#Ijes-42-6'>Jes&nbsp;42,6</a>.
+ }
+#}
+#lk-2-33 {
+ {
+  §+Vlk-2-18
  }
 #}
 #lk-2-35 {
@@ -65785,6 +65928,7 @@
   <i>Der Heilige Geist fährt … auf ihn herab</i> vgl §mk-1-10, §joh-1-32
   <br>
   Beachte: hier steigt der Heilige Geist in leiblicher Gestalt nieder, dann folgt in den Versen 23-38 das Geschlechtsregister des Herrn und in §lk-4-1 ist der Herr voll Heiligen Geistes.
+  In §lk-4-18 zitiert der Herr §jes-61-1-2 («Der Geist des Herrn ist auf mir…»)
  }
 #}
 #lk-3-23 {
@@ -65931,6 +66075,9 @@
 #}
 #lk-4-16 {
  {
+  §mt-13-54, §mk-6-1
+ }
+ {
   → biblisches/Orte/Nazareth
  }
  {
@@ -65954,6 +66101,8 @@
  }
  {
   Der Herr zitiert §jes-61-1-2 (aber ohne das dortige »und den Tag der Rache unseres Gottes…«)
+ <br>
+  <i>Der Geist des Herrn ist auf mir…</i> vgl §+lk-3-22
  }
  {
   <i>Der Herr macht Blinde sehend</i>: <a class='kom' href='#Ips-146-8'>Ps&nbsp;146,8</a>.
@@ -65988,11 +66137,17 @@
  {
   <i>Verwunderung sich über die Worte der Gnade</i> vgl §joh-1-16
  }
+ {
+  <i>Ist dieser nicht der Sohn Josephs?</i> §joh-6-42
+ }
+ {
+  Hier verwundern sie sich und sprechen «ist dieser nicht der Sohn Josephs», in §mt-12-23 erstaunen  die Volksmengen und sagen «dieser ist noch nicht etwa der Sohn Davids».
+ }
 #}
 #lk-4-23 {
  {
   Beachte, die <i>grossen Taten in → biblisches/Orte/Kapernaum</i> scheint Lukas (in nicht strikter chronologiescher Reihenfolge) ab
-  §lk-4-31 beschrieben. Vgl auch §+apg-9-25.
+  §lk-4-31 zu beschreiben. Vgl auch §+apg-9-25.
  }
  {
   TODO <i>deiner Vaterstadt</i>: <a class='kom' href='#Imt-13-54'>Mt&nbsp;13,54</a>.
@@ -66015,15 +66170,23 @@
 #}
 #lk-4-28 {
  {
+  <i>alle wurden von Wut erfüllt</i> vgl §mt-13-57, §mk-6-4
+  <br>
+   Hier werden die Leute in der Synagoge voll Wut (<span class='gr'>θυμός</span>, Strongs 2372), in §mk-3-5 wird der Herr voll Zorn (<span class='gr'>ὀργή</span>, Strongs 3709). Vgl §apg-19-28
+ <br>
+   In §joh-7-23 zürnen «sie», weil Er einen Menschen am Sabbat gesund gemacht hat.
+ }
+ {
   <i>Zorn in den Evangelien</i>: §+mt-3-7.
-  <br>Beachte: hier werden die Leute in der Synagoge voll Wut (<span class='gr'>θυμός</span>, Strongs 2372), in §mk-3-5 wird der Herr voll
-  Zorn (<span class='gr'>ὀργή</span>, Strongs 3709). Vgl §apg-19-28
  }
  {
   TODO: Werden sie voll Zorn, weil der Herr andeutet, dass die Rettung nicht auf die Israeliten beschränkt ist?
  }
 #}
 #lk-4-31 {
+ {
+  §mk-1-21
+ }
  {
   → biblisches/Orte/Kapernaum
  }
@@ -66032,6 +66195,9 @@
  }
 #}
 #lk-4-32 {
+ {
+  §mk-1-22
+ }
  {
   <i>erstaunt über Seine Lehre</i> §+mt-7-28
  }
@@ -66453,6 +66619,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat
  }
 #}
+#lk-7-9 {
+ {
+  §mt-9-33
+ }
+#}
 #lk-7-12 {
  {
   <i>Einziger Sohn</i>: vgl <a class='kom' href='#Ilk-8-42'>Lk&nbsp;8,42</a>,
@@ -66776,10 +66947,16 @@
 @Lukas 9 {
 #lk-9-1 {
  {
+  §mk-3-14-15, §mt-10-1
+ }
+ {
   Beachte: hier 12 <i>Jünger</i> in Vers 10 sind es <i>Apostel</i>.
  }
 #}
 #lk-9-3 {
+ {
+  §mt-10-10
+ }
  {
   <i>zwei Leibröcke</i> vgl §lk-3-11
  }
@@ -66792,6 +66969,11 @@
  }
  {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/lk_22.html#v36'>Lk&nbsp;22,36</a> und <a href='http://bibel.renenyffenegger.ch/lk_10.html#v3'>Lk&nbsp;10,3</a>.
+ }
+#}
+#lk-9-5 {
+ {
+  §mk-6-11
  }
 #}
 #lk-9-6 {
@@ -66919,11 +67101,19 @@
  {
   <i>Der Menschensohn muss viel leiden</i>: <a class='kom' href='#Imt-16-21'>Mt&nbsp;16,21</a>.
  }
+ {
+  <i>wird überliefert werden in der Menschen Hände</i> §+lk-22-53
+ }
 #}
 #lk-9-46 {
  {
   <i>wer ist der Grösste?</i> auch in <a href='http://bibel.renenyffenegger.ch/lk_22.html#v24'>Lk&nbsp;22,24</a>.
   <br>Vgl: <a class='kom' href='#Imt-18-1'>Mt&nbsp;18,1</a>.
+ }
+#}
+#lk-9-48 {
+ {
+  §lk-18-17, §+mt-18-5
  }
 #}
 #lk-9-51 {
@@ -66942,6 +67132,11 @@
  }
  {
   <i>für ihn zuzubereiten</i>: Sch2K übersetzt mit «ihm die Herberge bereiten», KJV mit «to make ready for him.».
+ }
+#}
+#lk-9-53 {
+ {
+  <i>sie nahmen ihn nicht auf</i> §joh-5-43
  }
 #}
 #lk-9-54 {
@@ -67102,7 +67297,7 @@
 #}
 #lk-11-15 {
  {
-  §+mt-12-24
+  §+mt-12-24, §mk-3-22
  }
  {
   <i>Beelzebul</i>: <a class='kom' href='#Imt-10-25'>Mt&nbsp;10,25</a>.
@@ -67113,12 +67308,35 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel[Zeichen vom Himmel]: vgl Vers §Vlk-11-29, §mt-16-1, §mk-8-11
  }
 #}
+#lk-11-17 {
+ {
+  §mt-12-25, §mk-3-24
+ }
+ {
+  <i>Ein Haus wider Haus entzweit fällt</i> vgl §lk-12-52
+ }
+#}
+#lk-11-19 {
+ {
+  §mt-12-27
+ }
+#}
 #lk-11-20 {
  {
   oder: durch den Geist Gottes §mt-12-28
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Finger/Gottes
+ }
+#}
+#lk-11-23 {
+ {
+  §mt-12-30, §mk-9-40
+ }
+#}
+#lk-11-24 {
+ {
+  §mt-12-43
  }
 #}
 #lk-11-26 {
@@ -67229,6 +67447,11 @@
 #lk-12-6 {
  {
   <i>Assarion</i> §mt-10-29
+ }
+#}
+#lk-12-10 {
+ {
+  <i>gegen den Heiligen Geist lästern</i> §mk-3-29
  }
 #}
 #lk-12-11 {
@@ -67357,6 +67580,16 @@
 #lk-12-50 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
+ }
+#}
+#lk-12-51 {
+ {
+  <i>gekommen, um Frieden zu geben?</i> vgl §+mt-10-34
+ }
+#}
+#lk-12-52 {
+ {
+  <i>Es werden von nun an … in einem Haus entzweit sein</i> vgl §lk-11-17
  }
 #}
 #lk-12-59 {
@@ -67794,6 +68027,11 @@
   TODO: In diesem Vers kommt Strongs 2873 vor. vgl <a class='kom' href='#Imk-14-6'>Mk&nbsp;14,6</a>.
  }
 #}
+#lk-18-17 {
+ {
+  §lk-9-48
+ }
+#}
 #lk-18-18 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig, vgl §lk-10-25
@@ -67986,6 +68224,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
  }
 #}
+#lk-20-19 {
+ {
+  <i>suchten … die Hände an ihn zu legen</i> §+lk-22-53
+ }
+#}
 #lk-20-20 {
  {
   <i>auflauern</i>: <a class='kom' href='#Ilk-6-7'>Lk&nbsp;6,7</a>.
@@ -68086,6 +68329,9 @@
  }
  {
   <i>vor Könige und Statthalter führen</i> §+mt-10-18
+ }
+ {
+  <i>werden Hände an euch legen</i> §apg-4-3, §apg-5-18
  }
 #}
 #lk-21-14 {
@@ -68357,6 +68603,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
+#lk-22-53 {
+ {
+  <i>ihr habt die Hände nicht gegen mich ausgestreckt</i> vgl §joh-7-44, §lk-20-19, §lk-9-44
+ }
+#}
 #lk-22-61 {
  {
   → biblisches/Personen/Petrus gedenkt auch in §apg-11-16 des → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wortes des Herrn]
@@ -68517,7 +68768,10 @@
 #}
 #lk-23-46 {
  {
-   Vgl §+ps-31-6. Stephanus: §apg-7-59.
+  Vgl §+ps-31-6. Stephanus: §apg-7-59.
+ }
+ {
+  <i>in deine Hände übergebe ich meinen Geist</i> vgl §lk-24-7
  }
  {
   Der Zahlenwert von «Vater, in deine Hände übergebe ich meinen Geist!» entspricht angeblich → biblisches/Grundtext/Zahlen#n4263, welches auch das Jahr (anno homini) ist, in welchem der
@@ -68565,6 +68819,9 @@
  }
 #}
 #lk-24-7 {
+ {
+  <i>Der Sohn des Menschen muß in die Hände sündiger Menschen überliefert werden</i> vgl §lk-23-46 
+ }
  {
   TODO: Beachte, dass Kleopas 'wusste', dass es der dritte Tag war (<a href='http://bibel.renenyffenegger.ch/lk_24.html#v21'>Vers 21</a>).
  }
@@ -68830,6 +69087,9 @@
  }
 #}
 #joh-1-15 {
+ {
+  §mt-3-1, §mk-1-4, §lk-3-3
+ }
  {
   <i>…denn er war vor mir</i> vgl §Vjoh-1-30, §joh-8-58
  }
@@ -69308,6 +69568,8 @@
 #joh-3-10 {
  {
   <i>Lehrer Israels</i> vgl → biblisches/Personen/Paulus, ein »Lehrer der Nationen«, §1tim-2-7.
+ <br>
+  Vgl §+mt-7-28 (Volksmengen, die über Seine Lehre erstaunt sind)
  }
  {
   Evtl. könnte man diesen Vers mit »Bist du der Lehrer Israels …« übersetzen.
@@ -69725,6 +69987,10 @@
 #joh-5-20 {
  {
   <i>Er wird ihm grössere Werke zeigen</i> vgl §joh-10-32, → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werke Gottes]
+ <br>
+  <i>…auf daß ihr euch verwundert</i>: in §joh-7-21 wird sich die Volksmenge nur wegen <i>eines</i> Werkes verwundern.
+ <br>
+  Wer an Ihn glaubt, wird auch die Werke tun, die er tut und wird größere als diese tun, weil Er zum Vater geht: §joh-14-12
  }
 #}
 #joh-5-21 {
@@ -69813,6 +70079,11 @@
  }
  {
   <i>Die Schriften erforschen</i> vgl §apg-17-11
+ }
+#}
+#joh-5-43 {
+ {
+  <i>ihr nehmt mich nicht auf</i> vgl §mt-18-5, §lk-9-53
  }
 #}
 @}
@@ -69958,7 +70229,9 @@
   Vgl §mt-13-55, §joh-7-27
  }
  {
-  <i>Sohn Josephs</i>: <a class='kom' href='#Ijoh-1-45'>Joh&nbsp;1,45</a>.
+  <i>Ist dieser nicht Jesus, der Sohn Josephs</i> §lk-4-22
+ <br>
+  Vgl §+joh-1-45.
  }
 #}
 #joh-6-46 {
@@ -70072,6 +70345,16 @@
   <i>Du hast einen Dämon</i>: §joh-8-48-ff, §joh-10-20-21
  }
 #}
+#joh-7-21 {
+ {
+  §joh-5-20
+ }
+#}
+#joh-7-23 {
+ {
+  <i>Zürnen, weil Er einen Menschen am Sabbat gesund gemacht hat</i> vgl §lk-4-28
+ }
+#}
 #joh-7-24 {
  {
   TODO: KJV übersetzt mit «... but judge righteous judgement».
@@ -70162,6 +70445,11 @@
 #joh-7-43 {
  {
    <i>Spaltung unter der Volksmenge</i>: vgl §joh-9-16 (Spaltung unter den Pharisäern) und §joh-10-19 (Spaltung unter den Juden)
+ }
+#}
+#joh-7-44 {
+ {
+  <i>keiner legte die Hände an ihn</i> vgl §lk-22-53
  }
 #}
 #joh-7-50 {
@@ -71164,6 +71452,11 @@
   <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/kol_1.html#v15'>Kol&nbsp;1,15</a>.
  }
 #}
+#joh-14-12 {
+ {
+  <i>größere Werke tun</i> §+joh-5-20
+ }
+#}
 #joh-14-13 {
  {
   Der Vater wird dadurch verherrlicht, dass 'sie' viel Frucht bringen und seine Jünger werden (<a href='http://bibel.renenyffenegger.ch/joh_15.html#v8'>Joh&nbsp;15,8</a>).
@@ -71232,6 +71525,9 @@
  }
  {
   <i>sei auch nicth furchtsam</i> §mt-8-26, §lk-4-40
+ }
+ {
+  <i>Frieden lasse ich euch, meinen Frieden gebe ich euch</i> §joh-16-33, §mk-9-50
  }
 #}
 #joh-14-29 {
@@ -71424,6 +71720,11 @@
  }
  {
   <i>ich bin nicht allein, denn der Vater ist bei mir.</i> vgl «Mein Gott, mein Gott, warum hast du mich verlassen» (§mt-27-46, §mk-15-34).
+ }
+#}
+#joh-16-33 {
+ {
+  <i>auf daß ihr in mir Frieden habt</i> §joh-14-27
  }
 #}
 @}
@@ -72786,7 +73087,10 @@
 #}
 #apg-4-3 {
  {
-    <i>Abend</i>: <a class='kom' href='#Iapg-3-1'>Apg&nbsp;3,1</a>.
+  <i>legten die Hände an sie</i> §apg-5-18, §+lk-21-12
+ }
+ {
+  <i>Abend</i>: <a class='kom' href='#Iapg-3-1'>Apg&nbsp;3,1</a>.
  }
 #}
 #apg-4-4 {
@@ -72996,6 +73300,11 @@
  }
  {
   <i>Von Eifersucht erfüllt werden</i>: §+apg-13-45.
+ }
+#}
+#apg-5-18 {
+ {
+  <i>sie legten die Hände an die Apostel</i> §apg-4-3, §+lk-21-12
  }
 #}
 #apg-5-20 {
