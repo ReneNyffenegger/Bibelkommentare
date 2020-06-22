@@ -50643,7 +50643,9 @@
 #}
 #jer-14-12 {
  {
-  <i>Schwert, Hunger und Pest</i> §3mo-26-25-26, §jer-21-7, §jer-24-10, §jer-27-8, §jer-29-17, §jer-32-24, §jer-32-36, §jer-34-17, §jer-38-2, §jer-42-17, §jer-42-22, §jer-44-13, §hes-5-12, Matthäus 24.
+  <i>Schwert, Hunger und Pest</i> §3mo-26-25-26, §jer-21-7, §jer-24-10, §jer-27-8, §jer-29-17, §jer-32-24, §jer-32-36, §jer-34-17, §jer-38-2, §jer-42-17, §jer-42-22, §jer-44-13, §hes-5-12, §+mt-14-7
+ <br>
+  Das → biblisches/Bücher/prophetisch/Offenbarung/Sieben-Siegel[vierte Siegel der Offenbarung] bringt Schwert, Hunger und Tod (§offb-6-7-8).
  }
 #}
 #jer-14-14 {
@@ -62022,7 +62024,7 @@
 @Matthäus 24 {
 #mt-24-1 {
  {
-  <i>Ankündigung der Zerstörung des → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel</i>: §+mk-13-1.
+  <i>Ankündigung der Zerstörung des → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel[Tempels]</i>: §+mk-13-1.
  }
 #}
 #mt-24-3 {
@@ -62075,8 +62077,13 @@
 #}
 #mt-24-7 {
  {
-   Arnold Fruchtenbaum schreibt: «Zur Zeit Christi war der Ausdruck „<i>Volk gegen Volk und Königreich gegen Königreich</i>“ die jüdische
-   Bezeichnung für einen Weltkrieg, der dem Kommen des Messias vorangeht.» (Handbuch der biblischen Prophetie, Verlag Klaus Gerth, 2019)
+  Vgl mit «Schwert, Hunger und Pest», §+jer-14-12.
+ <br>
+  Das → biblisches/Bücher/prophetisch/Offenbarung/Sieben-Siegel[vierte Siegel der Offenbarung] bringt Schwert, Hunger und Tod (§offb-6-7-8).
+ }
+ {
+  Arnold Fruchtenbaum schreibt: «Zur Zeit Christi war der Ausdruck „<i>Volk gegen Volk und Königreich gegen Königreich</i>“ die jüdische
+  Bezeichnung für einen Weltkrieg, der dem Kommen des Messias vorangeht.» (Handbuch der biblischen Prophetie, Verlag Klaus Gerth, 2019)
  }
  {
   TODO: <i>erheben</i> (<span class='gr'>ἐγείρω</span>, Strongs 1453) wird in Vers 11 und 24 mit «auftreten» übersetzt. Es wird auch mit «aufstehen» (zb in <a href='http://bibel.renenyffenegger.ch/mt_2.html#v13'>Mt&nbsp;2,13</a>)
@@ -96951,15 +96958,23 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-6-8 {
  {
+  <i>Schwert, Hunger und Tod</i> vgl mit «Schwert, Hunger und Pest», §+jer-14-12
+ <br>
+  Beachte, dass der Reiter des 2. Pferdes bereits ein Schwert erhalten hatte (§Voffb-6-4), und das dritte Pferd möglicherweise mit einer Verteuerung von Weizen und Gerste (und damit mit Hunger) im Zusammenhang steht (§Voffb-6-6).
+ }
+ {
+  Der Reiter diese Pferdes ist der <i>Tod</i>; das fünfte Siegel offenbart die, die um des Wortes Gottes Willen getötet wurden, §Voffb-6-9
+ }
+ {
   <i>fahl</i>: <span class='gr'>χλωρός</span> (Strongs 5515), an anderen Orten mit «grün» oder «hellgrün» übersetzt: §mk-6-39, §offb-8-7, §offb-9-4.
  }
  {
-  <i>wilde Tiere</i> (<span class='gr'>θηρίον</span>, Strongs 2342): <a class='kom' href='#Imk-1-13'>Mk&nbsp;1,13</a>.
-  <br>TODO: Dasselbe Wort auch für das <i>Tier aus dem Abrund</i> in <a href='http://bibel.renenyffenegger.ch/offb_11.html#v7'>Offb&nbsp;11,7</a>.
+  <i>wilde Tiere</i> (<span class='gr'>θηρίον</span>, Strongs 2342): §+mk-1-13.
+  <br>TODO: Dasselbe Wort auch für das <i>Tier aus dem Abgrund</i> in §offb-11-7.
  }
  {
   Vergleiche: beim <i>vierten</i> Pferd wird Vollmacht über den vierten Teil der Erde gegeben, in den <i>ersten vier und der sechten</i> Posaunen wird jeweils
-  der dritte Teil betroffen (<a href='http://bibel.renenyffenegger.ch/offb_8.html#v7'>Offb 8,7-12</a>, <a href='http://bibel.renenyffenegger.ch/offb_9.html#v15'>Offb 9,15-18</a>.
+  der dritte Teil betroffen (<a href='http://bibel.renenyffenegger.ch/offb_8.html#v7'>Offb 8,7-12</a>, <a href='http://bibel.renenyffenegger.ch/offb_9.html#v15'>Offb 9,15-18</a>).
  }
 #}
 #offb-6-9 {
