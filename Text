@@ -59996,7 +59996,7 @@
 #}
 #mt-10-26 {
  {
-  §lk-12-2
+  §mk-4-22, §lk-8-17, §lk-12-2
  }
  {
   Es wird den Unmündigen → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung[geoffenbart]: §mt-11-25. Vgl §mt-16-17
@@ -60196,12 +60196,10 @@
   → biblisches/Orte/Kapernaum, vgl §lk-10-15
  }
 #}
-#mt-11-24 {
+#mt-11-25 {
  {
   Vgl §+lk-10-21
  }
-#}
-#mt-11-25 {
  {
   TODO: <i>offenbaren/offenbar machen</i>: <ul>
     <li>Vers 27: niemand erkennt den Sohn als nur der Vater; und niemand erkennt den Vater als nur der Sohn und der, welchem der Sohn es offenbaren will.
@@ -60237,6 +60235,19 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+ }
+#}
+#mt-11-27 {
+ {
+  <i>Alles ist mir übergeben…</i> §joh-3-35
+ }
+ {
+  <i>niemand erkennt den Sohn, als nur der Vater, noch erkennt jemand den Vater, als nur der Sohn</i> §+joh-14-7-ff
+ }
+ {
+  Den Sohn offenbar machen: §lk-10-22, §mt-12-16, §mt-16-17, §lk-17-30, §joh-1-31, §joh-2-10, §joh-14-21-22, §joh-17-6, §joh-21-1
+ <br>
+  §joh-1-18
  }
 #}
 #mt-11-29 {
@@ -62551,6 +62562,9 @@
   <i>dem und dem</i> ist in <a href='http://bibel.renenyffenegger.ch/lk_22.html#v8'>Lk&nbsp;22,8</a> ein Mensch, der einen
   Wasserkrug trägt.
  }
+ {
+  <i>Meine Zeit ist nahe</i> vgl §joh-7-8
+ }
 #}
 #mt-26-23 {
  {
@@ -62843,6 +62857,11 @@
   <i>Traum</i>: <a class='kom' href='#Imt-2-12'>Mt&nbsp;2,12</a>.
  }
 #}
+#mt-27-21 {
+ {
+  Barabbas war ein Mörder (§mk-15-6, §apg-3-14) (und ein Räuber, §joh-18-40). Da er losgegeben wurde, machte sich das Volk ebenfalls zum Mörder an einem Unschuldigen.
+ }
+#}
 #mt-27-23 {
  {
   §apg-13-28
@@ -63131,7 +63150,7 @@
 #}
 #mt-28-19 {
  {
-  <i>Geht hin… ich bin bei euch alle Tage…</i> vgl §mk-3-14 
+  <i>Geht hin… ich bin bei euch alle Tage…</i> vgl §mk-3-14, §+joh-17-18
  }
  {
   Anordnung zur → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe auf den Namen des Vaters, des Sohnes und des Heiligen Geistes, jedoch in
@@ -63297,7 +63316,7 @@
   Das Reich Gottes ist nahe: §+mt-3-2, §mt-4-17
  }
  {
-  <i>Die Zeit ist erfüllt</i>: vgl <a href='http://bibel.renenyffenegger.ch/gal_4.html#v4'>Gal&nbsp;4,4</a>.
+  <i>Die Zeit ist erfüllt</i>: vgl §gal-4-4, §joh-7-8
  }
 #}
 #mk-1-16 {
@@ -63722,6 +63741,11 @@
 #mk-4-21 {
  {
   vgl §mt-5-15
+ }
+#}
+#mk-4-22 {
+ {
+  §mt-10-26, §lk-8-17, §lk-12-2
  }
 #}
 #mk-4-26 {
@@ -65872,6 +65896,9 @@
 #}
 #lk-2-46 {
  {
+  Vgl §joh-7-15-16
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
@@ -67003,6 +67030,8 @@
 #}
 #lk-8-17 {
  {
+  §mt-10-26, §mk-4-22, §lk-12-2
+ <br>
   Vgl §lk-10-21
  }
 #}
@@ -67382,11 +67411,16 @@
 #}
 #lk-10-21 {
  {
-  <i>…daß du dies vor Weisen und Verständigen verborgen hast, und hast es Unmündigen geoffenbart.</i> vgl §mt-11-24, §kol-1-26,
+  <i>…daß du dies vor Weisen und Verständigen verborgen hast, und hast es Unmündigen geoffenbart.</i> vgl §mt-11-25, §kol-1-26,
   §lk-8-17
  }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+ }
+#}
+#lk-10-22 {
+ {
+  §mt-11-27
  }
 #}
 #lk-10-24 {
@@ -67583,7 +67617,7 @@
 #}
 #lk-12-2 {
  {
-  §mt-10-26
+  §mt-10-26, §mk-4-22, §lk-8-17
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
@@ -69269,6 +69303,9 @@
   <a href='http://bibel.renenyffenegger.ch/1joh_4.html#v12'>1.&nbsp;Joh&nbsp;4,12</a> und
   <a href='http://bibel.renenyffenegger.ch/1joh_4.html#v20'>1.&nbsp;Joh&nbsp;4,20</a>.
  }
+ {
+  §+mt-11-27
+ }
 #}
 #joh-1-19 {
  {
@@ -69418,6 +69455,9 @@
  }
  {
   <i>der mit Heiligem Geist tauft</i> vgl §mk-1-8
+ }
+ {
+  <i>ich kannte ihn nicht</i>, §joh-8-19
  }
 #}
 #joh-1-34 {
@@ -69677,6 +69717,9 @@
  {
   <i>von Gott gekommen</i> vgl §joh-9-16, §joh-9-33
  }
+ {
+  <i>daß du ein Lehrer bist</i> vgl §Vjoh-3-10
+ }
 #}
 #joh-3-3 {
  {
@@ -69732,7 +69775,10 @@
   Vgl §+mt-7-28 (Volksmengen, die über Seine Lehre erstaunt sind)
  }
  {
-  Evtl. könnte man diesen Vers mit »Bist du der Lehrer Israels …« übersetzen.
+  <i>Lehrer Israels</i> vgl §Vjoh-3-2
+ }
+ {
+  Evtl. könnte man diesen Vers mit «Bist du der Lehrer Israels …» übersetzen.
  }
 #}
 #joh-3-11 {
@@ -69857,6 +69903,11 @@
 #joh-3-34 {
  {
   <i>Gott gibt den Geist nicht nach Mass</i> vgl §+roem-12-3
+ }
+#}
+#joh-3-35 {
+ {
+  <i>hat alles in seine Hand gebeben</i>, §joh-13-3, §mt-11-27, §joh-16-15
  }
 #}
 #joh-3-36 {
@@ -70393,6 +70444,9 @@
  <br>
   Vgl §+joh-1-45.
  }
+ {
+  <i>dessen Vater … wir kennen</i> vgl §joh-8-19
+ }
 #}
 #joh-6-46 {
  {
@@ -70485,6 +70539,11 @@
   <i>Meine Zeit</i>: <a class='kom' href='#Ijoh-2-4'>Joh&nbsp;2,4</a>.
  }
 #}
+#joh-7-8 {
+ {
+  <i>meine Zeit ist noch nicht erfüllt</i> vgl §+mk-1-15, §mt-26-18
+ }
+#}
 #joh-7-13 {
  {
   → biblisches/Bücher/Evangelien/Johannes/index#strongs-3954-joh
@@ -70496,6 +70555,9 @@
  }
 #}
 #joh-7-15 {
+ {
+  Vgl §lk-2-46-48
+ }
  {
   <i>wie kennt dieser die Schriften</i>: Elberfelder übersetzt mit «Wie besitzt dieser Gelehrsamkeit».
  }
@@ -70530,8 +70592,12 @@
   Vgl §mt-13-55, §joh-6-42
  }
  {
-  <i>woher er ist</i>: vgl <a href='http://bibel.renenyffenegger.ch/joh_8.html#v14'>Joh&nbsp;8,14</a>, <a href='http://bibel.renenyffenegger.ch/joh_9.html#v29'>Joh&nbsp;9,29</a>,
-  <a href='http://bibel.renenyffenegger.ch/joh_19.html#v9'>Joh&nbsp;19,9</a>
+  <i>woher er ist</i>: vgl §joh-8-14, §joh-9-29, §joh-19-9
+ }
+#}
+#joh-7-28 {
+ {
+  <i>Ihr … wisst, woher ich bin</i> vgl §joh-8-14
  }
 #}
 #joh-7-29 {
@@ -70554,8 +70620,10 @@
 #}
 #joh-7-33 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/joh_12.html#v35'>Joh&nbsp;12,35</a>
-  und <a href='http://bibel.renenyffenegger.ch/joh_16.html#v5'>Joh&nbsp;16,5</a>.
+  <i>ich gehe hin zu dem, der mich gesandt hat</i>: §joh-16-5
+ }
+ {
+  <i>noch eine kleine Zeit bin ich bei euch</i>: §joh-12-35
  }
  {
   <i>Kurze/lange/kleine Zeit</i> in Johannes: <a class='kom' href='#Ijoh-5-6'>Joh&nbsp;5,6</a>.
@@ -70692,7 +70760,10 @@
   <i>wenn ich von mir selbst zeuge, ist mein Zeugnis wahr</i> vgl §joh-5-31
  }
  {
-  <i>woher gekommen</i>: <a class='kom' href='#Ijoh-7-27'>Joh&nbsp;7,27</a>.
+  <i>woher gekommen</i>: §+joh-7-27
+ }
+ {
+  <i>ihr wisst nicht, … wohin ich gehe</i> §joh-14-6
  }
 #}
 #joh-8-15 {
@@ -70713,7 +70784,7 @@
   <i>Wo ist dein Vater</i>: vgl §+Vjoh-8-39 «Abraham ist unser Vater».
  }
  {
-  <i>Ihr kennt weder mich noch meinen Vater</i> §+2thes-1-8, §joh-10-15, §joh-14-7, §joh-17-3, §1joh-2-13
+  <i>Ihr kennt weder mich noch meinen Vater</i> §+2thes-1-8, §joh-1-33, §joh-10-15, §joh-14-7, §joh-17-3, §1joh-2-13, §joh-6-42
  }
 #}
 #joh-8-20 {
@@ -70862,6 +70933,9 @@
  }
 #}
 #joh-9-7 {
+ {
+  <i>Siloam</i>: beachte, wie häufig «gesandt» im → biblisches/Bücher/Evangelien/Johannes[Johannesevangelium] vorkommt.
+ }
  {
   <i>Siloam</i> auch in §+lk-13-4
  <br>
@@ -71433,6 +71507,9 @@
 #}
 #joh-13-3 {
  {
+  <i>daß der Vater ihm alles in die Hände gegeben hat</i>, §+joh-3-35, §joh-16-15
+ }
+ {
   Auch wenn der Teufel hinter der Überlieferung steht, ist doch <i>alles</i> in die Hände des Herrn gegeben.
  }
 #}
@@ -71578,6 +71655,9 @@
   <i>Niemand kommt zum Vater…</i> §eph-2-18
  }
  {
+  <i>wir wissen nicht, wo du hingehst</i>, §joh-8-14
+ }
+ {
   Vgl §1joh-5-6: «der Geist ist die Wahrheit».
  }
  {
@@ -71590,7 +71670,7 @@
 #}
 #joh-14-7 {
  {
-  §+joh-8-19
+  §+joh-8-19, §mt-11-27
  }
  {
   TODO: 'von nun an'.
@@ -71821,7 +71901,7 @@
 #}
 #joh-16-5 {
  {
-  Vgl mit §+joh-7-33.
+  <i>Jetzt gehe ich hin zu dem, der mich gesandt hat</i> §+joh-7-33.
  }
  {
   §+joh-14-5.
@@ -71838,6 +71918,11 @@
 #joh-16-13 {
  {
   <i>Geist der Wahrheit</i>: <a class='kom' href='#Ijoh-14-17'>Joh&nbsp;14,17</a>.
+ }
+#}
+#joh-16-15 {
+ {
+  <i>Alles, was der Vater hat, ist mein</i>, §+joh-3-35, §joh-13-3
  }
 #}
 #joh-16-16 {
@@ -71978,10 +72063,7 @@
 #}
 #joh-17-18 {
  {
-  <i>gleichwie du mich in die Welt gesandt hast</i> vgl §2mo-3-14
- }
- {
-  Vgl §joh-20-21.
+  <i>gleichwie du mich in die Welt gesandt hast</i>, §joh-20-21, §mt-28-19, vgl §2mo-3-14
  }
 #}
 #joh-17-20 {
@@ -72145,6 +72227,11 @@
 #joh-18-38 {
  {
   §apg-13-28
+ }
+#}
+#joh-18-40 {
+ {
+  Barabbas war auch ein Mörder, §mk-15-6, §apg-3-14
  }
 #}
 @}
@@ -84987,6 +85074,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-6-2 {
  {
+  <i>Lasten</i>: das Griechische Nomen in diesem Vers ist <span class='gr'>βαρη</span> (Strongs 922), in §Vgal-6-5 ist es <span class='gr'>φορτιον</span> (Strongs 5413), welches mit «Last» übersetzt wird.
+ }
+ {
   Vgl §+roem-15-1, §+mt-23-4, §Vgal-6-5
  }
 #}
@@ -84997,7 +85087,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-6-5 {
  {
-  <i>Last</i>: §+mt-11-30.
+  <i>Last</i>: §+mt-11-30, §+Vgal-6-2
  }
 #}
 #gal-6-7 {
@@ -96762,6 +96852,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Inwendig und auswendig beschriebenes → biblisches/Eigene-Uebersetzung/Konkordanz/Buch</i>: vgl mit der Buchrolle in §hes-2-9-ff und der fliegenden Rolle in §sach-5-3 und den zwei Tafeln des Zeugnisses, §2mo-32-15.
+ <br>
+  David W. Lowe interpretiert die beiseitig beschriebene Rolle so, dass eine Seite sich auf die Posaunen, die andere Seite auf die Siegel beziehe.
  }
 #}
 #offb-5-2 {
@@ -96949,6 +97041,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Beachte, dass auch der Herr bei Seinem ersten Kommen nicht Frieden, sondern das Schwert brachte, §+mt-10-34
+ }
+#}
+#offb-6-5 {
+ {
+  <i>Waage</i>: im Griechischen <span class='gr'>ζυγον</span> (Strongs 2218), welches sonst im Neuen Testament mit «Joch» übersetzt wird.
  }
 #}
 #offb-6-6 {
