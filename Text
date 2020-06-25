@@ -232,7 +232,7 @@
   <i>Erde und Kraut</i>: vgl §ps-72-16
  }
  {
-  <i>Die Frucht tragen nach ihrer Art</i> vgl §mt-7-16, §lk-6-43
+  <i>Die Frucht tragen nach ihrer Art</i> vgl §mt-7-16, §lk-6-43, §jak-3-12
  }
  {
   Vgl §1mo-2-5.
@@ -31819,6 +31819,9 @@
   §jes-37-30
  }
  {
+  <i>pflanzt Weinberge und eßt ihre Frucht</i> §lk-13-6, §1kor-9-17
+ }
+ {
   TODO: §+3mo-25-22.
  }
 #}
@@ -43768,9 +43771,19 @@
 #}
 #ps-118-22 {
  {
-   Vgl <a href='http://bibel.renenyffenegger.ch/1petr_2.html#v4'>1.&nbsp;Petr&nbsp;2,4-7</a>: Wir sind zum lebendigen Stein gekommen, der von Menschen
+   §mk-12-10, §lk-20-17
+ <br>
+   → biblisches/Personen/Petrus, erfüllt mit Heiligem Geist, legt in §apg-4-8-11 aus, daß dieser Stein <i>Jesus Christus, der Nazaräer</i> ist.
+ <br>
+   Vgl §1petr-2-4-7: Wir sind zum lebendigen Stein gekommen, der von Menschen
    verworfen ist, aber bei Gott auserwählt und kostbar ist. Darum sollen wir uns als lebendige Steine als ein geistliches Haus aufbauen lassen.
-   Vgl auch mit <a href='http://bibel.renenyffenegger.ch/jes_28.html#v16'>Jes&nbsp;28,16</a>: der kostbare Eckstein ist in Zion gelegt.
+   Vgl auch mit §jes-28-16: der kostbare Eckstein ist in Zion gelegt.
+ }
+ {
+  Vgl §jes-28-16
+ }
+ {
+  Siehe auch §roem-9-32-33
  }
  {
   TODO: §roem-11-15.
@@ -47065,7 +47078,13 @@
 #}
 #jes-8-14 {
  {
-  <i>Stein des Anstosses</i> und <i>Fels des Strauchelns</i>: <a class='kom' href='#Iroem-9-33'>Röm&nbsp;9,33</a>.
+  Vgl §jes-28-16, §ps-118-22
+ }
+ {
+  <i>Stein des Anstosses</i> und <i>Fels des Strauchelns</i>: §+roem-9-33, §1petr-2-8
+ }
+ {
+  Vgl §mt-21-44
  }
  {
   <i>Stein des Anstosses</i>: <a href='http://bibel.renenyffenegger.ch/jer_6.html#v21'>Jer&nbsp;6,21</a>.
@@ -48162,6 +48181,9 @@
 #jes-28-16 {
  {
    §+roem-9-33
+ }
+ {
+  Vgl §jes-8-14, §ps-118-22
  }
 #}
 #jes-28-17 {
@@ -54748,6 +54770,11 @@
   (<a href='http://bibel.renenyffenegger.ch/dan_7.html#v3'>Dan&nbsp;7,3ff</a>).
  }
 #}
+#dan-2-34 {
+ {
+  Vgl §mt-21-44
+ }
+#}
 #dan-2-35 {
  {
   TODO: <i>Silber</i> <span class='hebr'>כַּסְפָּ֣<b>א</b></span> ist offensichtlich betont (abschliessendes Aleph). Dies im Gegensatz zu <a href='http://bibel.renenyffenegger.ch/dan_2.html#v32'>Vers 32</a>.
@@ -58580,7 +58607,9 @@
 #}
 #mt-3-8 {
  {
-  <i>Bringt nun der Buße würdige Früchte</i>: §lk-3-8
+  <i>Bringt nun der Buße würdige Frucht</i>: §lk-3-8 (Wo es «Früchte», nicht «Frucht» heisst)
+ <br>
+  Vgl §mt-13-8, §mt-21-34
  }
 #}
 #mt-3-9 {
@@ -58594,7 +58623,7 @@
 #}
 #mt-3-10 {
  {
-  Vgl §mt-7-19, §mt-12-33, §jak-3-12
+  Vgl §mt-7-19, §mt-12-33, §jak-3-12, §mt-21-19-20, §joh-15-2-ff
  }
 #}
 #mt-3-11 {
@@ -58690,7 +58719,7 @@
   §lk-4-3
  }
  {
-  <i>Aus Steinen Brot machen</i>: <a class='kom' href='#Imt-3-9'>Mt&nbsp;3,9</a>.
+  <i>Aus Steinen Brot machen</i>: §+mt-3-9, vgl §mt-7-9
  }
  {
   <i>Wenn du Gottes Sohn bist</i>: <a class='kom' href='#Imt-3-17'>Mt&nbsp;3,17</a>.
@@ -59006,7 +59035,7 @@
 #}
 #mt-5-9 {
  {
-  <i>Glückselig die Friedensstifter</i> vgl §+mt-10-34
+  <i>Glückselig die Friedensstifter</i> vgl §+mt-10-34, vgl §jak-3-18
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Söhne: Vgl §Vmt-5-16, §Vmt-5-45 und §mt-6-1.
@@ -59328,6 +59357,11 @@
   <i>sucht, und ihr werdet finden</i> vgl §5mo-4-29
  }
 #}
+#mt-7-9 {
+ {
+  Stein statt Brot, vgl §mt-4-3
+ }
+#}
 #mt-7-12 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/mt_22.html#v40'>Mt&nbsp;22,40</a>.
@@ -59364,7 +59398,7 @@
 #}
 #mt-7-18 {
  {
-  Vgl §mt-12-33.
+  Vgl §mt-12-33, §jak-3-12
  }
 #}
 #mt-7-19 {
@@ -60573,6 +60607,9 @@
 #}
 #mt-13-3 {
  {
+  §mk-4-3, §lk-8-5
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse, → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse/Sämann
  }
  {
@@ -60585,6 +60622,11 @@
   In den Versen 5, 7 und 8 ist das Griechische Wort, welches mit «anderes» überstezt wurde,
   → biblisches/Grundtext/Wörter/G243-allos_G2087-heteros[ἄλλος], in §lk-8-6-10 ist es
   → biblisches/Grundtext/Wörter/G243-allos_G2087-heteros[ἕτερος].
+ }
+#}
+#mt-13-8 {
+ {
+  <i>gab Frucht</i>: §mt-3-8-10
  }
 #}
 #mt-13-10 {
@@ -61725,13 +61767,16 @@
 #}
 #mt-21-19 {
  {
-  Vgl §hl-2-13.
+  Vgl §mt-3-10 «jeder Baum nun, der nicht gute Frucht bringt, wird abgehauen und ins Feuer geworfen.»
  }
  {
-  Beachte, der Feigenbaum wird saftig und treibt Blätter in §mt-24-32.  In §offb-6-13 wirft er seine unreifen Früchte ab.
+  Beachte, der Feigenbaum wird saftig und treibt Blätter in §mt-24-32. In §offb-6-13 wirft er seine unreifen Früchte ab.
  }
  {
   Vgl den <i>unfruchtbaren Feigenbaum</i> mit der «Nation, die Früchte bringt» §mt-21-43.
+ }
+ {
+  Vgl §hl-2-13.
  }
 #}
 #mt-21-20 {
@@ -61774,6 +61819,9 @@
 #}
 #mt-21-33 {
  {
+  §mk-12-1, §lk-20-9
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
  }
  {
@@ -61784,6 +61832,11 @@
  }
  {
   <i>Kelter</i> kommt erst in <a href='http://bibel.renenyffenegger.ch/offb_14.html#v19'>Offb&nbsp;14,19</a> wieder vor.
+ }
+#}
+#mt-21-34 {
+ {
+  <i>Zeit der Früchte</i> vgl §mt-3-8-ff
  }
 #}
 #mt-21-43 {
@@ -61800,9 +61853,25 @@
   <br>Siehe auch <a class='kom' href='#I2mo-32-10'>2.&nbsp;Mo&nbsp;32,10</a>.
  }
 #}
+#mt-21-44 {
+ {
+  §+lk-20-18
+ }
+ {
+  Beachte den Wechsel vom ruhenden <i>Eckstein</i> (§Vmt-21-44) zum sich bewegenden, fallenden Stein.
+ }
+ {
+  Vgl §jes-8-14-15, §dan-2-34-ff (§dan-2-45)
+ }
+#}
+#mt-21-45 {
+ {
+  §mk-12-12
+ }
+#}
 #mt-21-46 {
  {
-  <i>sie halter ihn für einen Propheten</i> vgl §Vmt-21-26
+  <i>sie halten ihn für einen Propheten</i> vgl §Vmt-21-26
  }
 #}
 @}
@@ -61931,12 +62000,22 @@
   <i>Lasten</i>: §+mt-11-30
  }
 #}
+#mt-23-5 {
+ {
+  <i>Denkzettel</i>: Sch2K übersetzt mit «Gebetsriemen»
+ }
+#}
 #mt-23-6 {
  {
   <i>Sie lieben den ersten Platz bei den Abendessen</i>: §lk-20-46
  }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen: in Elb05 mit «Gastmählern» in Sch2K mit «Mahlzeiten», in KJV mit «feasts» übersetzt.
+ }
+#}
+#mt-23-8 {
+ {
+  <i>einer ist euer Lehrer</i> vgl §joh-13-13
  }
 #}
 #mt-23-9 {
@@ -61971,6 +62050,9 @@
  }
 #}
 #mt-23-14 {
+ {
+  <i>ihr freßt die Häuser der Witwen</i> §mk-12-40, §lk-20-47
+ }
  {
    <span class='gt'>Vers fehlt in NA</span>.
  }
@@ -62035,7 +62117,15 @@
 @Matthäus 24 {
 #mt-24-1 {
  {
+  §mk-13-1, §lk-21-5
+ }
+ {
   <i>Ankündigung der Zerstörung des → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel[Tempels]</i>: §+mk-13-1.
+ }
+#}
+#mt-24-2 {
+ {
+  §mk-13-2, §lk-21-6
  }
 #}
 #mt-24-3 {
@@ -63316,7 +63406,7 @@
   Das Reich Gottes ist nahe: §+mt-3-2, §mt-4-17
  }
  {
-  <i>Die Zeit ist erfüllt</i>: vgl §gal-4-4, §joh-7-8
+  <i>Die Zeit ist erfüllt</i>: vgl §gal-4-4, §joh-7-8, §+lk-1-20
  }
 #}
 #mk-1-16 {
@@ -63718,6 +63808,11 @@
 #mk-4-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
+ }
+#}
+#mk-4-3 {
+ {
+  §mt-13-3, §lk-8-5
  }
 #}
 #mk-4-11 {
@@ -64695,6 +64790,9 @@
 @Markus 12 {
 #mk-12-1 {
  {
+  §mt-21-33, §lk-20-9
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
  }
  {
@@ -64706,7 +64804,15 @@
   <i>Frucht des Weinberges</i>: <a class='kom' href='#Imk-11-14'>Mk&nbsp;11,14</a>.
  }
 #}
+#mk-12-10 {
+ {
+  §ps-118-22, §lk-20-17
+ }
+#}
 #mk-12-12 {
+ {
+  §mt-21-45
+ }
  {
   Frage: wer sind 'sie'? Die obersten Schriftgelehrten, Schriftgelehrten und Ätesten aus
   <a href='http://bibel.renenyffenegger.ch/mt_11.html#v27'>Mt&nbsp;11,27</a>?
@@ -64760,6 +64866,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen
  }
 #}
+#mk-12-40 {
+ {
+  <i>die Häuser der Witwen verschlingen</i>, §mt-23-14, §lk-20-47
+ }
+#}
 #mk-12-41 {
  {
   <i>Opferkasten</i>: s. a. <a href='http://bibel.renenyffenegger.ch/joh_8.html#v20'>Joh&nbsp;8,20</a>.
@@ -64780,6 +64891,9 @@
 @Markus 13 {
 #mk-13-1 {
  {
+  §mt-24-1, §lk-21-5
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
@@ -64787,6 +64901,11 @@
   in den Opferkasten eingelegt hat. Ebenso in <a href='http://bibel.renenyffenegger.ch/lk_21.html#v1'>Lk&nbsp;21,1</a>.
   <br>TODO: Nicht aber so in <a href='http://bibel.renenyffenegger.ch/mt_24.html#v1'>Mt&nbsp;24,1</a>.
   <br>Vgl auch <a class='kom' href='#Imk-11-17'>Mk&nbsp;11,17</a>.
+ }
+#}
+#mk-13-2 {
+ {
+  §mt-24-2, §lk-21-6
  }
 #}
 #mk-13-3 {
@@ -65491,6 +65610,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Gabriel
  }
 #}
+#lk-1-20 {
+ {
+  <i>die zu ihrer Zeit erfüllt werden</i> vgl §Vlk-1-57, §mk-1-15
+ }
+#}
 #lk-1-22 {
  {
   <i>Erscheinung</i> (<span class='gr'>ὀπτασία</span>, Strongs 3701) wird in KJV mit 'Vision', in
@@ -65558,6 +65682,11 @@
   Vgl auch: <i>mir ist gegeben alle Gewalt</i>, §mt-28-18
  }
 #}
+#lk-1-42 {
+ {
+  <i>Frucht deines Leibes</i> vgl §apg-2-30
+ }
+#}
 #lk-1-52 {
  {
   TODO: vgl §ps-110-5
@@ -65574,6 +65703,11 @@
  }
  {
   Vgl §hebr-2-16
+ }
+#}
+#lk-1-57 {
+ {
+  <i>erfüllte Zeit</i> vgl §Vlk-1-20
  }
 #}
 #lk-1-59 {
@@ -65842,6 +65976,11 @@
 #lk-2-33 {
  {
   §+Vlk-2-18
+ }
+#}
+#lk-2-34 {
+ {
+  Vgl §lk-20-18
  }
 #}
 #lk-2-35 {
@@ -66983,7 +67122,7 @@
 #}
 #lk-8-5 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse/Sämann
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse/Sämann, §mt-13-3, §mk-4-3
  }
 #}
 #lk-8-8 {
@@ -67811,6 +67950,12 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
  }
+ {
+  vgl §1kor-9-17
+ }
+ {
+  TODO: vgl dieses Gleichnis mit jenem ab §lk-20-10
+ }
 #}
 #lk-13-7 {
  {
@@ -68415,7 +68560,28 @@
 #}
 #lk-20-9 {
  {
+  §mt-21-33, §mk-12-1
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
+ }
+#}
+#lk-20-10 {
+ {
+  TODO: vgl dieses Gleichnis  mit jenem ab §lk-13-6
+ }
+#}
+#lk-20-17 {
+ {
+  §ps-118-22, §mk-12-10
+ }
+#}
+#lk-20-18 {
+ {
+  §+mt-21-44
+ }
+ {
+  Vgl §lk-2-34
  }
 #}
 #lk-20-19 {
@@ -68472,6 +68638,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen
  }
 #}
+#lk-20-47 {
+ {
+  <i>die Häuser der Witwen verschlingen</i> §mt-23-14, §mk-12-40
+ }
+#}
 @}
 }
 { 21-24
@@ -68487,11 +68658,19 @@
 #}
 #lk-21-5 {
  {
+  §mt-24-1, §mk-13-1
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
   <i>Weihegeschenke</i>: <span class='gr'>ἀνάθημα</span> (Strongs 334, 1x), vgl mit <span class='gr'>ἀνάθεμα</span> (Strongs 331),
   zB in <a class='kom' href='#Iapg-23-14'>Apg&nbsp;23,14</a>.
+ }
+#}
+#lk-21-6 {
+ {
+  §mt-24-2, §mk-13-2
  }
 #}
 #lk-21-7 {
@@ -68695,6 +68874,11 @@
 #lk-22-26 {
  {
   <i>Leiter</i>, <span class='gr'>ηγουμενος</span>, Strongs 2233: §+mt-2-6. Vgl auch §apg-14-12.
+ }
+#}
+#lk-22-27 {
+ {
+  <i>wer ist größer?</i> vgl §joh-13-16, §+mt-20-26
  }
 #}
 #lk-22-28 {
@@ -69372,7 +69556,7 @@
   <i>mitten unter euch steht…</i> vgl §5mo-18-15 («Einen Propheten aus deiner Mitte … wird der HERR, dein Gott, dir erwecken.
  }
  {
-  <i>den ihr nicht kennt</i> vgl §Vjoh-1-31
+  <i>den ihr nicht kennt</i> vgl §Vjoh-1-31, §joh-7-28, §joh-15-21
  }
  {
   TODO: Die Gesandten kannten Elia und wussten vom Prophet, aber der, der mitten unter euch stand, kannten sie nicht.
@@ -69994,10 +70178,10 @@
 #}
 #joh-4-12 {
  {
-   Warum wird Jakob <i>Vater</i> (der Samariter?) genannt? Vgl auch <i>Väter</i> in Vers 20.
+  Warum wird Jakob <i>Vater</i> (der Samariter?) genannt? Vgl auch <i>Väter</i> in Vers 20.
  }
  {
-  Vgl <i>bist du grösser als unser Vater</i> mit <a href='http://bibel.renenyffenegger.ch/joh_8.html#v53'>Joh&nbsp;8,53</a>.
+  <i>du bist doch nicht größer als unser Vater Jakob</i>, vgl §joh-8-53.
  }
 #}
 #joh-4-13 {
@@ -70599,6 +70783,9 @@
  {
   <i>Ihr … wisst, woher ich bin</i> vgl §joh-8-14
  }
+ {
+  <i>der mich gesandt hat…, welchen ihr nicht kennt</i> vgl §joh-15-21, §+joh-1-26
+ }
 #}
 #joh-7-29 {
  {
@@ -70721,6 +70908,11 @@
 #joh-8-6 {
  {
   Auf die Erde schreiben: vgl <a href='http://bibel.renenyffenegger.ch/jer_17.html#v13'>Jer&nbsp;17,13</a>.
+ }
+#}
+#joh-8-7 {
+ {
+  <i>einen Stein auf sie werfen</i>: vgl mit §Vjoh-8-59, wo die Juden Steine aufhoben, um sie auf Jesus zu werfen.
  }
 #}
 #joh-8-9 {
@@ -70877,8 +71069,9 @@
 #}
 #joh-8-53 {
  {
-  <i>bist du grösser als unser Vater</i>: <a class='kom' href='#Ijoh-4-12'>Joh&nbsp;4,12</a>.
-  <br>Vgl a. Vers 39.
+  <i>bist du grösser als unser Vater</i>: §+joh-4-12.
+ <br>
+  Vgl auch §Vjoh-8-39
  }
 #}
 #joh-8-56 {
@@ -70898,6 +71091,9 @@
 #joh-8-59 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
+  <i>Steine aufheben, um sie auf Jesus zu werfen</i>: §joh-10-31, vgl §Vjoh-8-7
  }
  {
    <i>Jesus verbarg sich</i> §+joh-12-36.
@@ -71103,7 +71299,7 @@
 #}
 #joh-10-31 {
  {
-  <i>Steinigen</i>: <a class='kom' href='#Ijoh-8-5'>Joh&nbsp;8,5</a>.
+  <i>Steinigen</i>: §+joh-8-5, §joh-8-59
  }
 #}
 #joh-10-32 {
@@ -71535,6 +71731,11 @@
   <i>Versteht</i> in Elberfelder: 'wisst', in KJV 'know'.
  }
 #}
+#joh-13-13 {
+ {
+  <i>Ihr heißt mich Lehrer</i> vgl §mt-23-8
+ }
+#}
 #joh-13-15 {
  {
   <i>Vorbild</i>: <span class='gr'>ὑπόδειγμα</span> (Strongs 5262): in KJV mit «example», in Elberfelder mit «Beispiel» übersetzt.
@@ -71546,7 +71747,7 @@
   <i>Gesandte</i> (<span class='gr'>ἀπόστολος</span>, Strongs 652), einziges Vorkommen in Johannes. Vgl <a class='kom' href='#Imt-10-2'>Mt&nbsp;10,2</a>.
  }
  {
-  <i>Ein Knecht ist nicht grösser als sein Herr</i>: §joh-15-20. Vgl. §+mt-20-26
+  <i>Ein Knecht ist nicht grösser als sein Herr</i>: §joh-14-28, §joh-15-20. Vgl. §+mt-20-26, §lk-22-27
  }
 #}
 #joh-13-17 {
@@ -71775,6 +71976,11 @@
   <i>Frieden lasse ich euch, meinen Frieden gebe ich euch</i> §joh-16-33, §mk-9-50
  }
 #}
+#joh-14-28 {
+ {
+  <i>Vater ist größer als ich</i> vgl §joh-13-16
+ }
+#}
 #joh-14-29 {
  {
   <i>damit ihr glaubt</i>: <a class='kom' href='#Ijoh-6-35'>Joh&nbsp;6,35</a>.
@@ -71793,6 +71999,9 @@
  {
   <i>bringt viel Frucht</i> §joh-12-24
  }
+ {
+  <i>Reben, die nicht Frucht bringen</i> vgl §mt-3-10
+ }
 #}
 #joh-15-3 {
  {
@@ -71810,6 +72019,9 @@
 #joh-15-6 {
  {
   <i>wird er herausgeworfen…</i> vgl §mt-15-13
+ }
+ {
+  <i>ins Feuer werfen</i> vgl §mt-3-10
  }
 #}
 #joh-15-8 {
@@ -71870,6 +72082,11 @@
 #joh-15-20 {
  {
   <i>Ein Knecht ist nicht grösser als sein Herr</i>: §joh-13-16
+ }
+#}
+#joh-15-21 {
+ {
+  <i>weil sie den nicht kennen, der mich gesandt hat</i> vgl §joh-7-28, §+joh-1-26
  }
 #}
 #joh-15-25 {
@@ -72977,11 +73194,17 @@
 #}
 #apg-2-30 {
  {
+  <i>von der Frucht seiner Lenden … den Christus erwecken</i> vgl §lk-1-42
+ }
+ {
+  <i>dem Fleisch nach</i> §roem-1-3, §roem-9-5
+ }
+ {
   → biblisches/Personen/David#david-ein-prophet[David] war ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet.
   Vgl §+mt-27-35
  }
  {
-   <span class='gt'>In NA fehlt «dem Fleisch nach, den Christus erwecken werde».</span>
+  <span class='gt'>In NA fehlt «dem Fleisch nach, den Christus erwecken werde».</span>
  }
  {
   TODO: <i>Verheissung</i>: Verse 33 und 39.
@@ -73363,6 +73586,11 @@
  }
  {
   Vgl <a class='kom' href='#Iapg-2-17'>Apg&nbsp;2,17</a>.
+ }
+#}
+#apg-4-11 {
+ {
+  §ps-118-22
  }
 #}
 #apg-4-12 {
@@ -78145,7 +78373,7 @@
   Der Herr ist <i>dem Fleisch nach</i> aus dem Samen Davids, → biblisches/Personen/Abraham ist «unser Vater nach dem Fleisch», §roem-4-1
  }
  {
-  <i>dem Fleisch nach</i> vgl §+1tim-3-16.
+  <i>dem Fleisch nach</i>: §roem-9-5, §apg-2-30, vgl §+1tim-3-16.
  }
 #}
 #roem-1-4 {
@@ -79530,7 +79758,10 @@
 #}
 #roem-9-5 {
  {
-   <i>Gott, gepriesen in Ewigkeit. Amen.</i>: vgl §roem-1-25.
+  <i>Gott, gepriesen in Ewigkeit. Amen.</i>: vgl §roem-1-25.
+ }
+ {
+  <i>aus welchen, dem Fleisch nach, der Christus ist</i> §roem-1-3, §apg-2-30
  }
 #}
 #roem-9-6 {
@@ -82009,6 +82240,9 @@
  }
 #}
 #1kor-9-17 {
+ {
+  <i>Wer pflanzt einen Weinberg und ißt nicht dessen Frucht?</i> vgl §lk-13-6, §2koe-19-29
+ }
  {
   <i>Verwaltung</i>: ist das derselbe, wovon Paulus in <a href='http://bibel.renenyffenegger.ch/eph_3.html#v2'>Eph&nbsp;3,2</a> und/oder
   <a href='http://bibel.renenyffenegger.ch/kol_1.html#v25'>Kol&nbsp;1,25</a> spricht?
@@ -85483,6 +85717,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Unser Bürgerrecht ist im Himmel §phil-3-20. Vgl §eph-2-12
  }
  {
+  <i>nicht mehr Fremdlinge und ohne Bürgerrecht</i> vgl §1petr-2-11
+ }
+ {
   TODO Beachte: die Lehre des Paulus sagt, wir sind nicht mehr <i>Fremdlinge und Gäste</i>, Petrus (im Brief an die Fremdlinge in der Zerstreung (<a href='http://bibel.renenyffenegger.ch/1petr_1.html#v1'>1.&nbsp;Petr&nbsp;1,1</a>)
   schreibt, sie seien noch «Gäste und Fremdlinge» (<a href='http://bibel.renenyffenegger.ch/1petr_2.html#v11'>1.&nbsp;Petr&nbsp;2,11</a>).
  }
@@ -85926,7 +86163,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-5-9 {
  {
   <i>Die Frucht des Geistes</i>: siehe <a class='kom' href='#Igal-5-22'>Gal&nbsp;5,22</a>.
-  <br>Vgl <i>Frucht</i> (<span class='gr'>καρπός</span>, Strongs 2590) mit <i>unfrurchtbar</i> (<span class='gr'>ἄκαρπος</span>) in Vers 11.
+  <br>Vgl <i>Frucht</i> (<span class='gr'>καρπός</span>, Strongs 2590) mit <i>unfruchtbar</i> (<span class='gr'>ἄκαρπος</span>) in Vers 11.
  }
  {
   Der <i>Gerechtigkeit</i> sollte Timotheus auch nachjagen: <a class='kom' href='#I1tim-6-11'>1.&nbsp;Tim&nbsp;6,11</a>.
@@ -86333,6 +86570,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>lauter und unanstössig</i> vgl §phil-2-15
+ }
+#}
+#phil-1-11 {
+ {
+  <i>Frucht der Gerechtigkeit</i>: §hebr-12-11, §jak-3-18
  }
 #}
 #phil-1-13 {
@@ -92706,7 +92948,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-12-11 {
  {
-  <i>Frucht der Gerechtigkeit</i> §jak-3-18
+  <i>Frucht der Gerechtigkeit</i> §phil-1-11, §jak-3-18
  }
 #}
 #hebr-12-14 {
@@ -93343,7 +93585,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-3-12 {
  {
-  Vgl §+mt-3-10
+  Vgl §+mt-3-10, §mt-7-18, §1mo-1-11
  }
  {
   <i>Weinstock</i>: §+joh-15-1.
@@ -93375,7 +93617,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-3-18 {
  {
-  <i>Frucht der Gerechtigkeit</i> §hebr-12-11
+  <i>Frucht der Gerechtigkeit</i> §phil-1-11, §hebr-12-11
+ }
+ {
+  <i>die Frieden stiften</i> §mt-5-9
  }
 #}
 @}
@@ -93790,6 +94035,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-2-7 {
  {
+  §ps-118-22
+ }
+ {
   TODO <i>weigern zu glauben</i> (<span class='gr'>ἀπειθέω</span>, Strongs 544), kommt im 1. Petrus noch vor in <ul>
       <li>Vers 8 (weigern, dem Wort zu glauben)
       <li><a href='http://bibel.renenyffenegger.ch/1petr_3.html#v1'>1.&nbsp;Petr&nbsp;3,1</a> (weigern, dem Wort zu glauben)
@@ -93804,7 +94052,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-2-8 {
  {
-    <i>Stein des Anstosses</i>: auch in <a class='kom' href='#Iroem-9-33'>Röm&nbsp;9,33</a>.
+  §jes-8-14
+ }
+ {
+  <i>Stein des Anstosses</i>: auch in §+roem-9-33.
  }
  {
   TODO: <i>bestimmt</i> <span class='gr'>τίθημι</span>, Strongs 5087.
@@ -93841,7 +94092,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>geliebte Brüder</i>: <a class='kom' href='#Ijak-1-16'>Jak&nbsp;1,16</a>.
  }
  {
-  TODO: Vgl den Unterschied zur paulinischen Lehre: <a class='kom' href='#Ieph-2-19'>Eph&nbsp;2,19</a>.
+  <i>Fremdlinge … ohne Bürgerrecht</i> vgl §eph-2-19, §hebr-11-13
  }
 #}
 #1petr-2-12 {
