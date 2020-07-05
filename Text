@@ -3503,12 +3503,22 @@
   §jes-28-29.
  }
 #}
+#1mo-18-16 {
+ {
+  Beachte Ähnlichkeit zu §V1mo-18-22
+ }
+#}
 #1mo-18-18 {
  {
   <i>grosse und mächtige Nation</i> vgl §+4mo-14-12, §5mo-4-38
  }
  {
   Siehe <a class='kom' href='#I1mo-12-3'>1.&nbsp;Mo&nbsp;12,3</a>
+ }
+#}
+#1mo-18-22 {
+ {
+  Beachte Ähnlichkeit zu §V1mo-18-16
  }
 #}
 #1mo-18-23 {
@@ -11476,6 +11486,9 @@
   Diese <i>Summe</i> wird wohl in §+2chr-24-6 als «Steuer Moses» bezeichnet.
  }
  {
+  TODO: <i>Sühne</i>: oder «Lösegeld» oder «Bedeckung»? Vgl §4mo-35-31, §ps-49-8
+ }
+ {
   TODO: siehe <a href='http://bibel.renenyffenegger.ch/4mo_3.html#v46'>4.&nbsp;Mo&nbsp;3,46</a> und Umgebung.
   <br>TODO: Dasselbe Wort wie für 'Zahl ermitteln' wird auch in <a href='http://bibel.renenyffenegger.ch/4mo_1.html#v3'>4.&nbsp;Mo&nbsp;1,3</a> verwendet (Strongs 6485).
  }
@@ -19108,6 +19121,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetzloser[schuldig]
+ }
+ {
+  TODO: <i>Sühne</i>: §2mo-30-12
  }
 #}
 #4mo-35-33 {
@@ -41128,6 +41144,16 @@
    <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/ps_62.html#v11'>Ps&nbsp;62,11</a>.
  }
 #}
+#ps-49-8 {
+ {
+  TODO: <i>Sühne</i> §+2mo-30-12
+ }
+#}
+#ps-49-9 {
+ {
+  <i>Erlösung</i>: <span class='hebr'>פִּדְי֥וֹן</span> (Strongs 6306, 3x) könnte evtl. auch mit «Lösegeld» übersetzt werden. 
+ }
+#}
 @}
 }
 { 51-60
@@ -48747,7 +48773,10 @@
 #}
 #jes-41-9 {
  {
-  Mind eine englische Übersetzung übersetzt: «from its farthest corners», vgl §+jes-11-12.
+  <i>ich habe dich erwählt</i>, §jes-44-1
+ }
+ {
+  Mindestens eine englische Übersetzung übersetzt: «from its farthest corners», vgl §+jes-11-12.
  }
 #}
 #jes-41-10 {
@@ -48824,8 +48853,8 @@
 @Jesaja 43 {
 #jes-43-1 {
  {
-  Vgl <i>der dich geschaffen hat</i> mit 'den ich erwählt habe' in <a href='http://bibel.renenyffenegger.ch/jes_44.html#v1'>Jes&nbsp;44,1</a>.
-  S.a. Vers 7.
+  Vgl <i>der dich geschaffen hat</i> mit «den ich erwählt habe» in §jes-44-1.
+  S.a. §Vjes-43-7.
  }
  {
   <i>bei deinem Namen gerufen</i> §jes-45-3
@@ -49728,7 +49757,7 @@
 #}
 #jes-61-2 {
  {
-  <i>Jahr der Annehmung</i> vgl §jes-63-4
+  <i>Jahr der Annehmung</i> und <i>Tag der Rache</i>, vgl §jes-63-4
   und §+lk-4-21
  }
 #}
@@ -49811,7 +49840,7 @@
 #}
 #jes-63-4 {
  {
-  <i>Jahr meiner Erlösung</i> vgl §+jes-61-2
+  <i>Tag der Rache</i> und <i>Jahr meiner Erlösung</i> vgl §+jes-61-2
  }
 #}
 #jes-63-11 {
@@ -62103,6 +62132,9 @@
  {
   <i>Den Mund stopfen</i>: <a class='kom' href='#Itit-1-11'>Tit&nbsp;1,11</a>.
  }
+ {
+  → biblisches/Grundtext/Wörter/epi-o-autos
+ }
 #}
 #mt-22-36 {
  {
@@ -68699,6 +68731,11 @@
   <i>Gerät</i>: <a class='kom' href='#Imt-12-29'>Mt&nbsp;12,29</a>.
  }
 #}
+#lk-17-35 {
+ {
+  → biblisches/Grundtext/Wörter/epi-o-autos
+ }
+#}
 #lk-17-36 {
  {
   <span class='gt'>Dieser Vers wird in MT und NA weggelassen.</span>
@@ -73348,6 +73385,9 @@
   TODO: Beachte: hier Petrus <i>mitten unter den Jüngern</i>, <a href='http://bibel.renenyffenegger.ch/apg_2.html#v14'>Apg&nbsp;2,14</a>
   <i>zusammen mit den Elf</i>.
  }
+ {
+  → biblisches/Grundtext/Wörter/epi-o-autos
+ }
 #}
 #apg-1-16 {
  {
@@ -73440,7 +73480,12 @@
   <i>Pfingsten</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Wochen
  }
  {
-   Beachte die dreifache Variation des Verbes <i>erfüllen</i> im Grundtxt (<i>συμπληροῦσθαι</i> hier, <i>ἐπλήρωσεν</i> in §Vapg-2-2 und <i>ἐπλήσθησαν</i> in §Vapg-2-4).
+  Beachte die dreifache Variation des Verbes <i>erfüllen</i> im Grundtext (<i>συμπληροῦσθαι</i> hier, <i>ἐπλήρωσεν</i> in §Vapg-2-2 und <i>ἐπλήσθησαν</i> in §Vapg-2-4).
+ }
+ {
+  <i>an einem Ort beisammen sein</i> vgl §1kor-11-20, §1kor-14-23, §+Vapg-2-44, → biblisches/Grundtext/Wörter/epi-o-autos
+ <br>
+  Vgl auch mit Judas, der an «seinen eigenen Ort ging», §apg-1-25
  }
 #}
 #apg-2-3 {
@@ -73815,6 +73860,11 @@
   (<a href='http://bibel.renenyffenegger.ch/2kor_12.html#v12'>2.&nbsp;Kor&nbsp;12,12</a>)
  }
 #}
+#apg-2-44 {
+ {
+  <i>waren beisammen</i>: <span class='gr'>ησαν → biblisches/Grundtext/Wörter/epi-o-autos[επι το αυτο]</span>, vgl mit dem ähnlichen Ausdruck in §Vapg-2-1
+ }
+#}
 #apg-2-45 {
  {
   Frage: wussten die Jerusalemiter, dass Jerusalem sowieso zerstört würde, und verkauften sie deshalb alles, was sie hatten?
@@ -74074,6 +74124,9 @@
 #apg-4-26 {
  {
   <i>Herr und seinen Christus</i> vgl §offb-11-15
+ }
+ {
+  → biblisches/Grundtext/Wörter/epi-o-autos
  }
 #}
 #apg-4-27 {
@@ -82429,6 +82482,9 @@
   «rauben», in <a href='http://bibel.renenyffenegger.ch/1kor_6.html#v7'>1.&nbsp;Kor&nbsp;6,7-8</a> mit «übervorteilen», in <a href='http://bibel.renenyffenegger.ch/1tim_6.html#v5'>1.&nbsp;Tim&nbsp;6,5</a> mit «beraubt» und
   in <a class='kom' href='#Ijak-5-4'>Jak&nbsp;5,4</a> mit «zurückbehalten» übersetzt wird.
  }
+ {
+  → biblisches/Grundtext/Wörter/epi-o-autos
+ }
 #}
 #1kor-7-6 {
  {
@@ -83022,7 +83078,7 @@
   <i>Abendessen des Herrn</i>: <span class='gr'>κυριακὸν δεῖπνον</span>, ist möglicherweise besser übersetzt mit «dem Herrn gehöriges Abendessen», vgl. §+offb-1-10.
  }
  {
-  TODO: An einem Ort: vgl §1kor-14-23.
+  An einem Ort (→ biblisches/Grundtext/Wörter/epi-o-autos): vgl §1kor-14-23, §apg-2-1
  }
 #}
 #1kor-11-21 {
@@ -83370,7 +83426,10 @@
 #}
 #1kor-14-23 {
  {
-    TODO: an einem Ort: vgl §1kor-11-20.
+  <i>an einem Ort zusammenkommen und in Sprachen reden</i> vgl §apg-2-1-ff
+ }
+ {
+  TODO: an einem Ort: vgl §1kor-11-20
  }
 #}
 #1kor-14-26 {
