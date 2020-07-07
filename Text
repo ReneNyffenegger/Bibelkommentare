@@ -58292,8 +58292,9 @@
   → biblisches/Bücher/Evangelien#ev-geburt-jesu[Die Geburt Jesu Christi in den Evangelien]
  }
  {
-  <i>schwanger erfunden vom Heiligen Geist</i>: §lk-1-31
-  <br>Vgl auch mit → biblisches/Personen/Johannes/Täufer[Johannes, dem Täufer] §lk-1-15
+  <i>schwanger erfunden vom Heiligen Geist</i>: §lk-1-31-ff
+  <br>
+   Vgl auch mit → biblisches/Personen/Johannes/Täufer[Johannes, dem Täufer] §lk-1-15
  }
 #}
 #mt-1-19 {
@@ -59360,6 +59361,11 @@
 #mt-6-21 {
  {
   Vgl mit dem «Schatz im Himmel», §mt-19-21
+ }
+#}
+#mt-6-23 {
+ {
+  <i>Wenn nun das Licht, das in dir ist, Finsternis ist, wie groß die Finsternis!</i>, vgl §lk-11-35
  }
 #}
 #mt-6-25 {
@@ -62444,6 +62450,11 @@
   <i>In die Berge fliehen</i> vgl §mk-13-14, §lk-21-21, §sach-14-5, §ps-11-1
  }
 #}
+#mt-24-19 {
+ {
+  Vgl §+lk-23-29, §mk-13-17, §lk-21-23
+ }
+#}
 #mt-24-20 {
  {
   Vgl <i>Winter</i> mit «Sommer» in <a href='http://bibel.renenyffenegger.ch/mt_24.html#v32'>Vers 32</a>.
@@ -65266,6 +65277,11 @@
 #mk-13-13 {
  {
   §+lk-21-19
+ }
+#}
+#mk-13-17 {
+ {
+  §+mt-24-19
  }
 #}
 #mk-13-18 {
@@ -68126,6 +68142,11 @@
   §lk-8-16, §+mt-5-15
  }
 #}
+#lk-11-35 {
+ {
+  Vgl §mt-6-23, §offb-18-23
+ }
+#}
 #lk-11-38 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Mittagessen
@@ -69224,6 +69245,9 @@
 #}
 #lk-21-23 {
  {
+  §+mt-24-19
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
   <br>
   <i>Zorn in den Evangelien</i>: §+mt-3-7.
@@ -69555,7 +69579,7 @@
 #}
 #lk-23-29 {
  {
-  <i>Glückselig die Unfruchtbaren und die Leiber, die nicht geboren, und die Brüste, die nicht gesäugt haben!</i> vgl §lk-1-42, §lk-11-27
+  <i>Glückselig die Unfruchtbaren und die Leiber, die nicht geboren, und die Brüste, die nicht gesäugt haben!</i> vgl §lk-1-42, §lk-11-27, §mt-24-19
  <br>
   Beachte, dass → biblisches/Bücher/Evangelien/Lukas[das Lukasevangelium] im ersten Kapitel die <i>unfruchtbare</i> Elisabeth erwähnt: §lk-1-7, §lk-1-36.
  }
@@ -89108,15 +89132,18 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-5-3 {
  {
-  <i>Friede und Sicherheit</i> siehe auch <a class='kom' href='#I2koe-20-19'>2.&nbsp;Kö&nbsp;20,19</a>.
-  Siehe auch 'Friede, Friede' <a class='kom' href='#Ijes-57-19'>Jes&nbsp;57,19</a>.
-  <br>Beachte, Paulus schreibt in seinen Briefen häufig (immer?) ziemlich am Anfang <i>Gnade ... und Friede</i>: <a class='kom' href='#Iroem-1-7'>Röm&nbsp;1,7</a>.
+  <i>Friede und Sicherheit</i> vgl §+2koe-20-19.
+  Siehe auch «Friede, Friede» §+jes-57-19.
+ <br>
+   Beachte, Paulus schreibt in seinen Briefen häufig (immer?) ziemlich am Anfang <i>Gnade ... und Friede</i>: §+roem-1-7.
  }
  {
-  'Sicherheit' wird in Luther 1912 mit 'Keine Gefahr' übersetzt.
+  <i>Sicherheit</i> wird in Luther 1912 mit «Keine Gefahr» übersetzt.
  }
  {
-  <i>Wehen</i>: <a class='kom' href='#Imt-24-8'>Mt&nbsp;24,8</a>
+  <i>Wehen</i>: §+mt-24-8
+ <br>
+  <i>gleichwie die Geburtswehen über die Schwangere</i> vgl §offb-12-2
  }
  {
   Beachte den Wechsel von <i>ihr</i> auf <i>sie</i>. Vgl auch Vers 4.
@@ -90688,7 +90715,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-1-6 {
  {
-  Offensichtlich hat Timotheus diese → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe vernachlässigt (§1tim-4-14).
+  Offensichtlich hat Timotheus diese → biblisches/Eigene-Uebersetzung/Konkordanz/Gnade/Gabe vernachlässigt, §1tim-4-14
  }
 #}
 #2tim-1-7 {
@@ -98848,11 +98875,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-12-2 {
  {
-   Wehen hier: <span class='gr'>ὠδίνω</span>, nicht zu verwechseln mit 'Wehe, wehe, wehe' (zB <a href='http://bibel.renenyffenegger.ch/offb_8.html#v13'>Offb&nbsp;8,13</a>), welches
-   ist: <span class='gr'>οὐαί</span>.
+  <i>Schwangerschaft mit Schmerzen</i>: vgl §+1mo-3-16, §jes-26-17, §1thes-5-3
  }
  {
-  <i>Schwangerschaft mit SChmerzen</i>: vgl <a class='kom' href='#I1mo-3-16'>1.&nbsp;Mo&nbsp;3,16</a>, §jes-26-17.
+  Wehen hier: <span class='gr'>ὠδίνω</span>, nicht zu verwechseln mit «Wehe, wehe, wehe» (zB §offb-8-13), welches ist: <span class='gr'>οὐαί</span>.
  }
 #}
 #offb-12-3 {
@@ -100154,6 +100180,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-18-23 {
  {
   <i>Lampe</i>: §+joh-5-35, §offb-21-23, §offb-22-5
+ }
+ {
+  <i>das Licht einer Lampe wird nie mehr in dir scheinen</i> vgl §lk-11-35
  }
  {
   TODO: <i>Stimme des Bräutigams und der Braut</i>: <a class='kom' href='#Ijer-7-34'>Jer&nbsp;7,34</a>.
