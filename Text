@@ -42204,7 +42204,7 @@
 #}
 #ps-78-58 {
  {
-  <i>sie erbitterten ihn durch …<?i> vgl §ps-106-29
+  <i>sie erbitterten ihn durch …</i> vgl §ps-106-29
  }
 #}
 #ps-78-60 {
@@ -59658,6 +59658,12 @@
 #}
 #mt-8-20 {
  {
+  §lk-9-58
+ }
+ {
+  <i>Das Haupt hinlegen</i>: im Griechischen wörtlich: Das Haupt neigen. Erst nachdem der Herr Seinen Dienst vollendet hat, neigte Er sein Haupt, §joh-19-30.
+ }
+ {
   <i>Vögel des Himmels</i>: <a class='kom' href='#Imt-6-26'>Mt&nbsp;6,26</a>.
  }
  {
@@ -60162,7 +60168,7 @@
 #}
 #mt-10-30 {
  {
-  Vgl. §lk-21-18
+  Vgl. §lk-12-7
  }
 #}
 #mt-10-32 {
@@ -62665,6 +62671,11 @@
  }
  {
   <i>Feld</i>: <a class='kom' href='#Imt-13-24'>Mt&nbsp;13,24</a>.
+ }
+#}
+#mt-24-42 {
+ {
+  Vgl §+lk-12-37
  }
 #}
 #mt-24-45 {
@@ -65367,6 +65378,11 @@
    <i>Von jenem Tag aber oder der Stunde weiss niemand</i>: §+mt-24-36.
  }
 #}
+#mk-13-33 {
+ {
+  <i>wacht und betet</i>: dies gilt nicht in Anbetracht der Wiederkunft des Herrn, sondern auch für die Jünger vor der Kreuzigung ihres Herrn, §mk-14-38
+ }
+#}
 #mk-13-36 {
  {
   <i>euch schlafend finde</i> vgl §mk-14-37
@@ -65539,7 +65555,7 @@
 #}
 #mk-14-38 {
  {
-  §mt-26-41
+  <i>wacht und betet</i>: §+mk-13-33, §mt-26-41
  }
 #}
 #mk-14-41 {
@@ -67947,6 +67963,11 @@
   <i>nachfolgen, wohin irgend du gehst</i> §mt-8-19, §offb-14-4
  }
 #}
+#lk-9-58 {
+ {
+  §mt-8-20
+ }
+#}
 #lk-9-59 {
  {
   Vgl <a class='kom' href='#Imt-8-21'>Mt&nbsp;8,21</a>.
@@ -68263,6 +68284,14 @@
   <i>Assarion</i> §mt-10-29
  }
 #}
+#lk-12-7 {
+ {
+  §mt-10-30
+ }
+ {
+  <i>alle Haare eures Hauptes sind gezählt</i>, und «nicht ein Haar von eurem Haupt wird verloren gehen», §lk-21-18
+ }
+#}
 #lk-12-10 {
  {
   <i>gegen den Heiligen Geist lästern</i> §mk-3-29
@@ -68333,6 +68362,9 @@
  {
   <i>Brennenden Lampen</i>  vgl mit den zehn Jungfrauen, von denen fünr kein Öl mitnahmen: §mt-25-1-ff
  }
+ {
+  Hier sollen die Lenden der Jünger umgürtet sein; der Herr wird sich auch umgürten, wenn Er sie wachend finden wird, §Vlk-12-37
+ }
 #}
 #lk-12-36 {
  {
@@ -68343,6 +68375,11 @@
  }
  {
   TODO: Bricht der HERR nach oder während der Hochzeit auf?
+ }
+#}
+#lk-12-37 {
+ {
+  <i>Glückselig jene Knechte, die der Herr, wenn er kommt, wachend finden wird</i> und <i>Wenn der Hausherr gewußt hätte, zu welcher Stunde der Dieb kommen würde…</i> (§Vlk-12-39), vgl §offb-16-15, §mt-24-42
  }
 #}
 #lk-12-38 {
@@ -69247,7 +69284,7 @@
 #}
 #lk-21-18 {
  {
-  Vgl. §mt-10-30
+  <i>nicht ein Haar von eurem Haupt wird verloren gehen</i>, vgl §lk-12-7: «alle Haare … sind gezählt».
  }
 #}
 #lk-21-19 {
@@ -73117,6 +73154,9 @@
 #joh-19-30 {
  {
   <i>es ist vollbracht</i> vgl §+joh-4-34, §joh-17-4
+ }
+ {
+  Nachdem der Herr sein Werk vollbracht hatte, neigte Er sein Haupt. Während Seines Dienstes auf der Erde hatte er nicht, wohin er das Haupt neigen konnte, §mt-8-20
  }
 #}
 #joh-19-33 {
@@ -83972,8 +84012,7 @@
 #}
 #1kor-16-13 {
  {
-  <i>Wachen</i> (in den Briefen): <a href='http://bibel.renenyffenegger.ch/kol_4.html#v2'>Kol&nbsp;4,2</a>, <a class='kom' href='#I1thes-5-6'>1.&nbsp;Thes&nbsp;5,6</a>,
-  <a href='http://bibel.renenyffenegger.ch/1petr_5.html#v8'>1.&nbsp;Petr&nbsp;5,8</a>.
+  <i>Wachen</i> (in den Briefen): §kol-4-2, §+1thes-5-6, §1petr-5-8 (im Petrusbrief auch im Zusammenhang mit Glauben, §1petr-5-9).
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/feststehen
@@ -99416,6 +99455,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben, vgl §offb-16-9
  }
+ {
+  <i>Stunde seines Gerichts ist gekommen</i> vgl §offb-14-15, §offb-18-10
+ }
 #}
 #offb-14-8 {
  {
@@ -99509,6 +99551,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-14-15 {
  {
    Vgl <a class='kom' href='#Imt-13-30'>Mt&nbsp;13,30</a> ('Die Ernte ist das Ende dieser Weltzeit' <a href='http://bibel.renenyffenegger.ch/mt_13.html#v39'>Mt&nbsp;13,39</a>).
+ }
+ {
+  <i>Stunde des Erntens ist gekommen</i> vgl §offb-14-7
  }
  {
   <i>Schicke deine Sichel und Ernte</i>, vgl §joe-4-13, §mk-4-29
@@ -99773,6 +99818,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl → biblisches/Bücher/prophetisch/Offenbarung/Sendschreiben nach Sardes: wenn sie nicht wachen, wird Er kommen wie ein Dieb, doch einige Namen haben ihre Kleider nicht befleckt
   (§offb-3-3-4)
+ }
+ {
+  <i>Ich komme wie ein Dieb. Glückselig, der da wacht…</i> vgl §lk-12-37-39
  }
  {
   <b>Die sieben 'Glückselig'</b>: siehe <a class='kom' href='#Ioffb-1-3'>Offb&nbsp;1,3</a>.
@@ -100099,6 +100147,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-18-10 {
  {
   <i>Grosse Stadt</i>: <a class='kom' href='#Ioffb-11-8'>Offb&nbsp;11,8</a>, §offb-17-6.
+ }
+ {
+  <i>Denn in einer Stunde ist dein Gericht gekommen</i> vgl §+offb-14-7
  }
  {
   <i>Wehe, wehe</i>: <a class='kom' href='#Ioffb-9-12'>Offb&nbsp;9,12</a>.
