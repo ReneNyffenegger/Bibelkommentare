@@ -10,26 +10,34 @@ use strict;
 use warnings;
 
 
-use lib "$ENV{git_work_dir}/biblisches/kommentare";
+#
+# 2020-08-16 use env var $github_root instead
+#            of git_work_dir
+# 
+# use lib "$ENV{git_work_dir}/biblisches/kommentare";
+# use lib "$ENV{github_root}/biblisches/kommentare";
 
 # 2016-07-27 use utf8 because § didn't seem to work anymore.
 use utf8;
+
+use lib "$ENV{github_root}/Biblisches";
+use lib "$ENV{github_root}/notes/scripts/";
+use lib "$ENV{github_root}/RN/";
+use lib "$ENV{github_root}/Bibelkommentare";
+
 use Getopt::Long;
 use Bibel_;
+use Bibel;       # 2020-08-16 located under https://github.com/ReneNyffenegger/Biblisches
 use File::Find;
 use File::Copy;
 use File::Path qw(make_path);
 use File::HomeDir;
 use Digest::MD5::File qw(file_md5_hex);
 use YAML::Tiny;
-use File::Copy;
+# use File::Copy;
 use Cwd;
 
 
-use lib "$ENV{github_root}/Biblisches";
-use lib "$ENV{github_root}/notes/scripts/";
-use lib "$ENV{github_root}/RN/";
-use Bibel;
 use notes;
 use RN;
 
@@ -112,11 +120,12 @@ unless ($skip_bible) { # {{{
   <body>';
   
   
-open (my $eigene_uebersetzung, '<:unix:encoding(UTF-8)', "$ENV{github_root}Bibeluebersetzungen/tq84.bibel"                )or die "could not open $ENV{github_root}Bibeluebersetzungen/tq84.bibel";
-open (my $elberfelder        , '<:unix:encoding(UTF-8)', "$ENV{github_root}Bibeluebersetzungen/elb1905.bibel"             )or die;
-open (my $sch2k              , '<:unix:encoding(UTF-8)', "$ENV{git_work_dir}biblisches/kommentare/uebersetzungen/sch2k.bibel" )or die "$!";
-open (my $ylt                , '<', "$ENV{github_root}/Bibeluebersetzungen/ylt.bibel"   )or die;
-open (my $interlinear        , '<:unix:encoding(UTF-8)', "$ENV{github_root}Bibeluebersetzungen/interlinear.bibel") or die;
+open (my $eigene_uebersetzung, '<:unix:encoding(UTF-8)', "$ENV{github_root}Bibeluebersetzungen/tq84.bibel"                ) or die "could not open $ENV{github_root}Bibeluebersetzungen/tq84.bibel";
+open (my $elberfelder        , '<:unix:encoding(UTF-8)', "$ENV{github_root}Bibeluebersetzungen/elb1905.bibel"             ) or die;
+# open (my $sch2k              , '<:unix:encoding(UTF-8)', "$ENV{git_work_dir}biblisches/kommentare/uebersetzungen/sch2k.bibel" )or die "$!";
+open (my $sch2k              , '<:unix:encoding(UTF-8)', "$ENV{github_top_root}Bible/Text/Translations/Private/sch2k.bibel") or die "Cout not open $ENV{github_top_root}Bible/Text/Translations/Private/sch2k.bibel";
+open (my $ylt                , '<', "$ENV{github_root}/Bibeluebersetzungen/ylt.bibel"                                     ) or die;
+open (my $interlinear        , '<:unix:encoding(UTF-8)', "$ENV{github_root}Bibeluebersetzungen/interlinear.bibel"         ) or die;
 
   # open (my $lxx                , '<', 'C:\github\Bibeluebersetzungen\lxx.bibel'   )or die;  # LXX raw ge-downloaded von http://bibel.myvnc.com/septuaginta.html
   
@@ -755,11 +764,13 @@ sub close_html { # {{{
 
     print "$last_opened_html_file is modified\n";
 
+    if (0) {
     if ($^O eq 'linux') {
       system ("tid $out_dir/$last_opened_html_file" ) and print "\n in $last_opened_html_file\n";
     }
     else {
       system ("tid $out_dir\\$last_opened_html_file" ) and print "\n in $last_opened_html_file.html\n";
+    }
     }
 
     if ($web) {
