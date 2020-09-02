@@ -59754,7 +59754,8 @@
 #}
 #mt-8-28 {
  {
-  <i>sehr gefährlich</i>: <span class='gr'>χαλεπός</span> (Strongs 5467, 2x), das andere Vorkommen in <a href='http://bibel.renenyffenegger.ch/2tim_3.html#v1'>2.&nbsp;Tim&nbsp;3,1</a>.
+  <i>wütend</i>: <span class='gr'>χαλεπός</span> (Strongs 5467, 2x), das andere Vorkommen in §2tim-3-1, wo es mit «schlimm» übersetzt wird. Sch2K übersetzt dieses Wort in Mt 8:28
+  mit «gefährlich».
  }
  {
   <i>aus den Gräbern heraus</i>: <a class='kom' href='#Ips-107-20'>Ps&nbsp;107,20</a>, <a href='http://bibel.renenyffenegger.ch/mt_27.html#v52'>Mt 27,52-53</a>.
@@ -84992,6 +84993,9 @@
 #}
 #2kor-11-10 {
  {
+  <i>Die Wahrheit Christi ist in mir</i> vgl §eph-4-21
+ }
+ {
   → biblisches/Orte/Achaja
  }
  {
@@ -85431,7 +85435,7 @@
 #}
 #gal-2-5 {
  {
-  <i>Wahrheit des → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium</i> §Vgal-2-14, §kol-1-5
+  <i>Wahrheit des → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium</i> §Vgal-2-14, §kol-1-5, vgl §eph-1-13 («das Wort der Wahrheit, das Evangelium eurer Rettung»)
  }
 #}
 #gal-2-6 {
@@ -85490,6 +85494,9 @@
  }
 #}
 #gal-2-14 {
+ {
+  <i>Wahrheit des Evangeliums</i>: §+Vgal-2-5
+ }
  {
   TODO: Kephas oder Petrus? Vgl §+gal-1-18.
  }
@@ -85845,7 +85852,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-5-7 {
  {
-  TODO: <i>Der Wahrheit nicht gehorchen</i> vgl <a class='kom' href='#Igal-3-1'>Gal&nbsp;3,1</a>.
+  TODO: <i>Der Wahrheit nicht gehorchen</i> vgl §+gal-3-1.
  }
 #}
 #gal-5-11 {
@@ -86195,7 +86202,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <a href='http://bibel.renenyffenegger.ch/2kor_1.html#v22'>2.&nbsp;Kor&nbsp;1,22</a> angetönt.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Wahrheit
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Wahrheit, vgl §+gal-2-5
  }
 #}
 #eph-1-15 {
@@ -86724,6 +86731,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-4-19 {
  {
   <i>unersättliche Gier</i> siehe <a class='kom' href='#Imk-7-22'>Mk&nbsp;7,22</a>.
+ }
+#}
+#eph-4-21 {
+ {
+  <i>wie die Wahrheit in Jesus ist<i> vgl §2kor-11-10
  }
 #}
 #eph-4-22 {
@@ -90729,7 +90741,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-6-20 {
  {
-  <i>eitlen Geschwätzen</i>: <span class='gr'>κενοφωνία</span> (Strongs 2757, 2x) kommt noch in §2tim-2-16 vor.
+  <i>eitlen Geschwätzen</i>: <span class='gr'>κενοφωνία</span> (Strongs 2757, 2x) kommt noch in §+2tim-2-16 vor.
   <br>
   Sch2K übersetzt mit «nichtigen Schwätzereien», Elb mit «eitlen Geschwätzen».
  }
@@ -90913,6 +90925,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Mein Evangelium</i>: §+roem-2-16.
  }
  {
+  <i>auferweckt aus den Toten</i> vgl §V2tim-2-18.
+ }
+ {
   Vgl <i>Jesus Christus, aus dem Samen Davids, aus den Toten auferstanden</i>: vgl <a class='kom' href='#Iroem-1-3'>Röm&nbsp;1,3-4</a>.
  }
 #}
@@ -90941,6 +90956,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Wenn wir mitgestoren sind, so werden wir auch mitleben</i>: vgl §+roem-6-8.
+ <br>
+  Vgl §V2tim-2-18: «die Auferstehung ist noch nicht geschehen» und §V2tim-2-8: «Jesus Christus, auferweckt aus den Toten»
  }
 #}
 #2tim-2-14 {
@@ -90975,7 +90992,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-2-16 {
  {
-  <i>eitlen Geschwätzen</i>: <span class='gr'>κενοφωνία</span> (Strongs 2757, 2x) kommt noch in §1tim-6-20 vor.
+  <i>eitlen Geschwätzen</i>: <span class='gr'>κενοφωνία</span> (Strongs 2757, 2x) kommt noch in §1tim-6-20 vor. Hier führen eitle Geschwätze zur Gottlosigkeit, dort
+  sind sie gottlos.
  }
  {
   <i>Hymenäus</i>: <a class='kom' href='#I1tim-1-20'>1.&nbsp;Tim&nbsp;1,20</a>.
@@ -91057,7 +91075,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
     </thead>
     <tbody>
       <tr><td>1-9</td>
-          <td>Schlimme Zeiten...Menschen werden sich selbst lieben...</td></tr>
+          <td>Schwere Zeiten...Menschen werden sich selbst lieben...</td></tr>
       <tr><td>10-11</td>
           <td><b>Du aber</b> bist mir nachgefolg<ul>
               <li>in der Lehre,
@@ -91081,7 +91099,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>…, dass in den letzten Tagen schwere Zeiten…</i> vgl §1tim-4-1, §2petr-3-3
  }
  {
-  <i>schlimm</i>: <a class='kom' href='#Imt-8-28'>Mt&nbsp;8,28</a>.
+  <i>schwer</i>: §+mt-8-28.
  }
  {
   Vgl <a class='kom' href='#I1tim-3-14'>1.&nbsp;Tim&nbsp;3,14</a>.
@@ -91486,7 +91504,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Haushalter</i>: siehe <a class='kom' href='#Iroem-16-23'>Röm&nbsp;16,23</a>.
  }
  {
-  <i>nach schändlichem Gewinn streben</i> (<span class='gr'>αἰσχροκερδής</span>, Strongs 146, 3x), vgl §1tim-3-3, §1tim-3-8, §+tit-1-11, §1petr-5-2
+  <i>nach schändlichem Gewinn streben</i> (<span class='gr'>αἰσχροκερδής</span>, Strongs 146, 3x), vgl §V1tit-1-11, §1tim-3-3, §1tim-3-8, §+tit-1-11, §1petr-5-2
  }
 #}
 #tit-1-9 {
@@ -91724,7 +91742,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk/index#gute-werke
  }
  {
-  'Glaubwürdig ist das Wort', siehe <a class='kom' href='#I1tim-1-15'>1.&nbsp;Tim&nbsp;1,15</a>.
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Das-Wort-ist-gewiss
  }
 #}
 #tit-3-9 {
@@ -94532,6 +94550,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-1-3 {
  {
+  <i>Auferstehung Jesu Christ aus den Toten</i> vgl §1petr-3-21
+ }
+ {
   Paulus wird wegen der <i>Hoffnung der Auferstehung der Toten</i> gerichtet (<a href='http://bibel.renenyffenegger.ch/apg_23.html#v6'>Apg&nbsp;23,6</a>).
  }
  {
@@ -95066,6 +95087,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1petr-3-21 {
+ {
+  <i>Auferstehung Jesu Christi</i> vgl §1petr-1-3
+ }
  {
   <i>Zeughnis</i>: <span class='gr'>ἐπερώτημα</span> (Strongs 1906, 1x), KJV mit «answer» in Elberfelder mit «Begehren» übersetzt.
   Vgl <a href="http://linguascriptura.org/forum_de/viewtopic.php?f=6&amp;t=32">http://linguascriptura.org/forum_de/viewtopic.php?f=6&amp;t=32</a>.
