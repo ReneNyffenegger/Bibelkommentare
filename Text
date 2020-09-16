@@ -57620,8 +57620,8 @@
 #}
 #hag-2-6 {
  {
-  TODO: vgl Vers mit 21 und <a href='http://bibel.renenyffenegger.ch/jes_24.html#v19'>Jes&nbsp;24,19</a>.
-  <br>S.a. <i>die Erde wankt (nicht)</i>: <a class='kom' href='#Ips-99-1'>Ps&nbsp;99,1</a>.
+  TODO: vgl §Vhag-2-21 und §jes-24-19.
+  <br>S.a. <i>die Erde wankt (nicht)</i>: §+ps-99-1.
  }
 #}
 #hag-2-13 {
@@ -57637,6 +57637,11 @@
 #hag-2-19 {
  {
   Vgl <a class='kom' href='#Ihab-3-16'>Hab&nbsp;3,16</a>.
+ }
+#}
+#hag-2-21 {
+ {
+  §Vhag-2-6
  }
 #}
 #hag-2-23 {
