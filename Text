@@ -7872,7 +7872,7 @@
   137 jährig gestorben: siehe <a class='kom' href='#I1mo-23-1'>1.&nbsp;Mo&nbsp;23,1</a>.
  }
  {
-  <i>Jochebed</i> wurde in Ägypten geboren (<a href='http://bibel.renenyffenegger.ch/4mo_26.html#v59'>4.&nbsp;Mo&nbsp;26,59</a>).
+  <i>Jokebed</i> wurde in Ägypten geboren, §4mo-26-59
  }
 #}
 #2mo-6-21 {
@@ -17072,7 +17072,7 @@
 #}
 #4mo-14-6 {
  {
-  TODO: Josua (Hosea), aus <b>Ephraim</b> und Kaleb aus <b>Juda</b>
+ → biblisches/Personen/Josua/Nun, aus <i>Ephraim</i> und → biblisches/Personen/Kaleb aus <i>Juda</i>
  }
 #}
 #4mo-14-10 {
@@ -18048,6 +18048,9 @@
  {
   <i>Gesicht</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>. Ebenso Vers 16.
  }
+ {
+  Vgl §V4mo-24-16
+ }
 #}
 #4mo-24-5 {
  {
@@ -18101,6 +18104,11 @@
 #4mo-24-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]: siehe §+2mo-49-1.
+ }
+#}
+#4mo-24-16 {
+ {
+  Vgl §V4mo-24-4
  }
 #}
 #4mo-24-17 {
@@ -18185,7 +18193,7 @@
 #}
 #4mo-25-9 {
  {
-  An einem Tag wurden 23000 erschlagen (<a href='http://bibel.renenyffenegger.ch/1kor_10.html#v8'>1.&nbsp;Kor&nbsp;10,8</a>).
+  An einem Tag fielen 23000, §1kor-10-8
  }
 #}
 #4mo-25-10 {
@@ -18387,6 +18395,9 @@
 #}
 #4mo-26-53 {
  {
+  <i>Zahl der Namen</i> vgl mit «Namen der Stämme» in §V4mo-25-55
+ }
+ {
    <i>Land erben</i>: <a class='kom' href='#I1mo-12-7'>1.&nbsp;Mo&nbsp;12,7</a>, <a href='http://bibel.renenyffenegger.ch/1mo_17.html#v6'>1.&nbsp;Mo&nbsp;17,6</a>.
     <br>Die Söhne Rubens und Gads wollten auf der andern Seite des Jordans erben: <a href='http://bibel.renenyffenegger.ch/4mo_32.html#v2'>4.&nbsp;Mo&nbsp;32,2-19</a>.
     <br>Josua soll Israel das Land als Erbe austeilen: <a href='http://bibel.renenyffenegger.ch/5mo_1.html#v38'>5.&nbsp;Mo&nbsp;1,38</a>.
@@ -18413,6 +18424,9 @@
 #}
 #4mo-26-59 {
  {
+  §+2mo-6-20
+ }
+ {
   TODO: Barnes' notes on the bible:
   <i>whom her mother bare - literally, "whom she bare;" the subject is wanting, and the verb is in the feminine gender. The words "her mother" are merely conjectural. The text is probably imperfect.</i>
  }
@@ -18426,6 +18440,14 @@
  {
   Beachte: die Leviten wurden ab <i>einem Monat</i>, nicht ab 20 Jahren (Vers 2) gezählt. TODO: War dies, weil sie nicht
   in den Kampf ziehen sollen? (Vgl aber auch <a href='http://bibel.renenyffenegger.ch/1mo_49.html#v5'>1.&nbsp;Mo&nbsp;49,5-7</a>)
+ }
+ {
+  23000 ist auch die Zahl, die gefallen sind, §1kor-10-8, vgl §+4mo-25-9
+ }
+#}
+#4mo-26-65 {
+ {
+  → biblisches/Personen/Josua/Nun[Josua]
  }
 #}
 @}
@@ -18632,7 +18654,7 @@
 @4. Mose 31 {
 #4mo-31-6 {
  {
-  → biblisches/Personen/Eleasar/Aaron
+  → biblisches/Personen/Eleasar/Aaron, → biblisches/Personen/Pinehas
  }
  {
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Trompete[Trompeten] zum Lärmblasen</i>: §+4mo-10-2, §4mo-10-5. Wenn im Streit gegen den Bedränger mit diesen Trompeten Lärm geblasen wird, werden sie gerettet werden vor
@@ -23935,7 +23957,7 @@
 #}
 #jos-22-13 {
  {
-  → biblisches/Personen/Eleasar/Aaron
+  → biblisches/Personen/Eleasar/Aaron, → biblisches/Personen/Pinehas
  }
 #}
 #jos-22-28 {
@@ -43476,7 +43498,7 @@
 #}
 #ps-106-29 {
  {
-  <i>sie erbitterten ihn durch …<?i> vgl §ps-78-58
+  <i>sie erbitterten ihn durch …</i> vgl §ps-78-58
  }
 #}
 #ps-106-30 {
@@ -51558,11 +51580,7 @@
 #}
 #jer-30-9 {
  {
-  David wird wieder auferstehen: Als Hirste und Fürst: §hes-34-23-24,
-  als König: §hes-37-25 und §hos-3-5.
-  <br>Vgl auch §+1koe-2-10 und §+apg-2-29.
-  <br>Beachte auch, dass auch Eljakim, der Sohn Hilkijas wieder auferstehen (eigtl: 'berufen') §+jes-22-20
-      und ebenso Daniel (§dan-12-13).
+  → biblisches/Personen/David#david-auferstehen
  }
 #}
 #jer-30-11 {
@@ -54209,7 +54227,7 @@
 #}
 #hes-34-23 {
  {
-  David wird wieder auferstehen: §+jer-30-9.
+  → biblisches/Personen/David#david-auferstehen
  }
 #}
 #hes-34-24 {
@@ -54320,7 +54338,7 @@
 #}
 #hes-37-25 {
  {
-  David wird wieder auferstehen: §+jer-30-9.
+  → biblisches/Personen/David#david-auferstehen
  }
 #}
 #hes-37-26 {
@@ -56032,10 +56050,10 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
  }
  {
-  TODO: <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
+  → biblisches/Personen/David#david-auferstehen
  }
  {
-  Auferstehung von David: §+jer-30-9.
+  TODO: <i>letzte Tage</i>: siehe §+1mo-49-1.
  }
 #}
 @}
@@ -83060,7 +83078,7 @@
 #}
 #1kor-10-8 {
  {
-  Siehe §+4mo-25-9. Vgl §jud-1-5
+  §+4mo-25-9. Vgl §jud-1-5. Vgl auch §+4mo-25-7
  }
 #}
 #1kor-10-10 {
