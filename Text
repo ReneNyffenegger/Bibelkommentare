@@ -18449,6 +18449,9 @@
  {
   → biblisches/Personen/Josua/Nun[Josua]
  }
+ {
+  <i>In der Wüste sterben</i> vgl §4mo-27-3
+ }
 #}
 @}
 @4. Mose 27 {
@@ -18465,6 +18468,9 @@
 #4mo-27-3 {
  {
   → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
+ {
+  <i>in der Wüste gestorben</i> vgl §4mo-26-65
  }
 #}
 #4mo-27-5 {
@@ -18545,7 +18551,7 @@
 #}
 #4mo-28-5 {
  {
-  'zerstossene Oliven': siehe <a class='kom' href='#I2mo-27-20'>2.&nbsp;Mo&nbsp;27,20</a>.
+  <i>zerstossene Oliven</i>: siehe §+2mo-27-20.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
