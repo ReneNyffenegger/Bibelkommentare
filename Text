@@ -61120,6 +61120,11 @@
   Wörtlich: <i>tanzte die Tochter der Herodias in der Mitte…</i>
  }
 #}
+#mt-14-12 {
+ {
+  Die Jünger verkünden ihrem Herrn den Tod von Johannes. Vgl mit den Frauen, die den Jüngern die Auferstehung des Herrn verkünden wollen, §mt-28-6-ff
+ }
+#}
 #mt-14-13 {
  {
   → biblisches/Bücher/Evangelien/Abschnitte#speisung-5000, §mk-6-31-ff, §lk-9-12-ff, §joh-6-5-ff
@@ -63553,6 +63558,11 @@
  {
   TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/offb_1.html#v14'>Offb&nbsp;1,14</a>.
   Vgl Vers 4 mit <a href='http://bibel.renenyffenegger.ch/offb_1.html#v17'>Offb&nbsp;1,17</a>.
+ }
+#}
+#mt-28-8 {
+ {
+  Die Frauen wollen den Jüngern die Auferstehung des Herrn verkündigen. Vgl mit §+mt-14-12
  }
 #}
 #mt-28-9 {
@@ -70035,7 +70045,7 @@
 #}
 #joh-1-4 {
  {
-  <i>Licht der Menschen</i>, §mt-4-16, §lk-1-79
+  <i>Licht der Menschen</i>, §mt-4-16, §lk-1-79, §apg-26-23
  }
 #}
 #joh-1-5 {
@@ -72769,6 +72779,9 @@
   <i>Nicht mehr Knechte</i> vgl §gal-4-7.
   <br>Vgl <i>der Knecht weiss nicht, was sein Herr tut</i> mit §offb-1-1.
  }
+ {
+  <i>was ich euch kundgetan habe</i> vgl §joh-17-26
+ }
 #}
 #joh-15-16 {
  {
@@ -73031,6 +73044,11 @@
 #joh-17-25 {
  {
   <i>Gerechter Vater</i>: beachte, dass Er Seinen unschuldigen Sohn anstelle der schuldigen Menschen straft. Vgl §+joh-17-11
+ }
+#}
+#joh-17-26 {
+ {
+  <i>ich habe ihnen deinen Namen kundgetan</i> vgl §joh-15-15
  }
 #}
 @}
@@ -74299,6 +74317,9 @@
 #apg-4-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+ }
+ {
+  In <i>Jesus die Auferstehung aus den Toten verkündigen</i> (Strongs 2605), vgl §1kor-11-26, §apg-17-3
  }
 #}
 #apg-4-3 {
@@ -76254,14 +76275,16 @@
 #}
 #apg-13-5 {
  {
-  Johannes trennte sich von Paulus in <a href='http://bibel.renenyffenegger.ch/apg_13.html#v13'>Apg&nbsp;13,13</a> und 'kam nicht zu dem Werk mit'
-  (<a href='http://bibel.renenyffenegger.ch/apg_15.html#v38'>Apg&nbsp;15,38</a>)
+  Johannes trennte sich in Pamphylien von Paulus in §apg-13-13 um nach Jerusalem zurückzukehren und kam in der Folge «nicht mit ihnen zum Werk», §apg-15-38
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge#synagoge-der-juden
  }
  {
   → biblisches/Personen/Paulus wandte sich → biblisches/Personen/Paulus#paulus-juden-zuerst[zuerst an die Juden].
+ }
+ {
+  Das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott verkündigen, vgl §apg-15-36, §apg-17-13, §1kor-2-1
  }
  {
   TODO: Ist Johannes, der Diener, derselbe wie Markus, der Paulus in <a href='http://bibel.renenyffenegger.ch/2tim_4.html#v11'>2.&nbsp;Tim&nbsp;4,11</a> nützlich zum Dienst ist?
@@ -76492,6 +76515,11 @@
  }
  {
   <i>Ratschluss Gottes</i>: <a class='kom' href='#Ilk-7-30'>Lk&nbsp;7,30</a>.
+ }
+#}
+#apg-13-38 {
+ {
+  <i>Vergebung der Sünden verkündigen</i> vgl §apg-16-17
  }
 #}
 #apg-13-39 {
@@ -76914,6 +76942,14 @@
  {
   Vgl §1thes-3-5 («sandte ich, um euren Glauben zu erfahren…»)
  }
+ {
+  Das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott verkündigen: §+apg-13-5
+ }
+#}
+#apg-15-38 {
+ {
+  Vgl §apg-13-13, §apg-13-5
+ }
 #}
 #apg-15-39 {
  {
@@ -77074,6 +77110,12 @@
 #}
 #apg-16-17 {
  {
+  <i>den Weg der Rettung verkündigen</i> vgl §apg-13-38
+ }
+ {
+  <i>höchster Gott</i> vgl «unbekannter Gott» §apg-17-24
+ }
+ {
   TODO: 'einen Rettungsweg' oder 'den Weg der Rettung'?
   <br>Offenbar verwendet Lukas im Griechischen für den Ausdruck 'den Weg' immer den definitiven Artikel, ausser hier.
   (<a class='kom' href='#Iapg-9-2'>Apg&nbsp;9,2</a>,
@@ -77211,7 +77253,10 @@
 #}
 #apg-17-3 {
  {
-  Vgl <i>Jesus, der Christus</i> mit <i>Jesus, der König</i> in Vers 7.
+  Vgl <i>Jesus, der Christus</i> mit <i>Jesus, dem König</i> in §Vapg-17-7
+ }
+ {
+  TODO: vgl §apg-4-2
  }
 #}
 #apg-17-4 {
@@ -77299,6 +77344,9 @@
   Die Beröer lassen sich aufstacheln: offenbar ist das Evangelium nur in Wort, nicht aber in Kraft zu ihnen gekommen (<a class='kom' href='#I1thes-1-5'>1.&nbsp;Thes&nbsp;1,5</a>),
   oder sie haben es nur als «Menschenwort» aufgenommen (<a class='kom' href='#I1thes-2-13'>1.&nbsp;Thes&nbsp;2,13</a>).
  }
+ {
+  Das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott verkündigen: §+apg-13-5, §+apg-17-23
+ }
 #}
 #apg-17-14 {
  {
@@ -77358,6 +77406,11 @@
 #apg-17-21 {
  {
   <i>aufhielten</i> §apg-2-10
+ }
+#}
+#apg-17-23 {
+ {
+  <i>unbekannter Gott</i> vgl «höchster Gott» in §apg-16-17
  }
 #}
 #apg-17-24 {
@@ -78768,6 +78821,9 @@
  }
  {
   <i>Erster aus der Auferstehung</i>: vgl <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v20'>1.&nbsp;Kor&nbsp;15,20-23</a>.
+ }
+ {
+  TODO: Licht verkündigen als erster aus den Auferstandenen, vgl §joh-1-3-4, §mt-4-1, §lk-1-79
  }
 #}
 #apg-26-24 {
@@ -82076,6 +82132,9 @@
   in <a href='http://bibel.renenyffenegger.ch/1tim_2.html#v2'>1.&nbsp;Tim&nbsp;2,2</a> vor, wo es mit
   «Hoheit» übersetzt wird.
  }
+ {
+  <i>Das Zeugnis Gottes verkündigen</i> vgl §+apg-13-5
+ }
 #}
 #1kor-2-2 {
  {
@@ -83375,6 +83434,9 @@
  {
   <span class='gt'>In NA fehlt «Nehmt, eßt!» und «gebrochen».</span>
  }
+ {
+  <i>daß Gott wirklich unter euch ist</i> vgl §1kor-11-26, wo durch das Essen des Brotes und Trinken des Kelches «der Tod des Herrn verkündigt» wird.
+ }
 #}
 #1kor-11-25 {
  {
@@ -83393,6 +83455,9 @@
  }
  {
   <i>Bis er (der Herr) kommt</i>: <a class='kom' href='#I1kor-4-5'>1.&nbsp;Kor&nbsp;4,5</a>.
+ }
+ {
+  <i>den Tod des Herrn verkündigen</i> vgl §apg-4-2, §1kor-11-24
  }
 #}
 #1kor-11-28 {
@@ -83430,6 +83495,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
+#}
+#1kor-12-3 {
+ {
+  <i>Deshalb tue ich euch kund</i> vgl §1kor-15-1, §2kor-8-1
  }
 #}
 #1kor-12-4 {
@@ -83791,6 +83861,8 @@
  }
  {
   <i>Ich tue euch aber kund, Brüder, das Evangelium…</i> Vgl §gal-1-11
+  <br>
+   vgl auch §+1kor-12-3
  }
  {
   TODO: Evangelium für Gläubige: <a class='kom' href='#Iroem-1-15'>Röm&nbsp;1,15</a>.
@@ -84840,6 +84912,9 @@
 #2kor-8-1 {
  {
   → biblisches/Orte/Macedonien
+ }
+ {
+  <i>Wir tun euch aber kund</i> vgl §+1kor-12-3
  }
 #}
 #2kor-8-3 {
@@ -86256,10 +86331,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-1-9 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
- }
- {
-  TODO: <i>Geheimnis</i>: siehe <a class='kom' href='#Ieph-3-3'>Eph&nbsp;3,3</a>.
+  <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis seines Willens kundgetan</i>: §eph-3-3, §eph-6-19
  }
 #}
 #eph-1-10 {
@@ -86569,7 +86641,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-3-3 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung - → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung - → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis
+ }
+ {
+  <i>Das Geheimnis kundgetan worden ist</i>, §eph-1-9; vgl §Veph-3-5, §Veph-3-10
  }
 #}
 #eph-3-4 {
@@ -87227,7 +87302,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-6-19 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index, → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium
+ }
+ {
+   <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis des → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium[Evangeliums] kundtun</i> vgl §eph-1-9
  }
 #}
 #eph-6-20 {
@@ -87248,7 +87326,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Diener</i>: <a class='kom' href='#I1kor-4-1'>1.&nbsp;Kor&nbsp;4,1</a>.
  }
  {
-  → biblisches/Personen/Tychikus
+  Wird euch → biblisches/Personen/Tychikus kundtun, vgl §kol-4-7
  }
 #}
 #eph-6-23 {
@@ -87396,6 +87474,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #phil-1-16 {
+ {
+  <i>Verantwortung</i>: Sch2K übersetzt mit «Verteidigung», KJV mit «defence».
+ }
  {
    <span class='gt'>TR und NA vertauschen die Anfänge der Verse 16 und 17.</span>
  }
@@ -88574,7 +88655,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-4-7 {
  {
-  → biblisches/Personen/Tychikus
+  Wird euch → biblisches/Personen/Tychikus kundtun, vgl §eph-6-21
  }
  {
   <i>Der treue Diener</i>: <a class='kom' href='#I1kor-4-1'>1.&nbsp;Kor&nbsp;4,1</a>.
