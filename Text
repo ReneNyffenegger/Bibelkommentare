@@ -19147,7 +19147,7 @@
   <i>Kinnereth</i> <span class='hebr'>כִּנְּרוֹת</span> (Strongs 3672) ist die Mehrzahl von <span class='hebr'>כִּנּוֹר</span> (Strongs 3658) und
   bedeutet offenbar «Laute» (vgl <a href='http://bibel.renenyffenegger.ch/1mo_4.html#v21'>1.&nbsp;Mo&nbsp;4,21</a>.
   Vgl <a href='http://bibel.renenyffenegger.ch/jos_19.html#v35'>Jos&nbsp;19,35</a> und
-  <a href='http://bibel.renenyffenegger.ch/1koe_15.html#v20'>1.&nbsp;Kö&nbsp;15,20</a>.
+  <a href='http://bibel.renenyffenegger.ch/1koe_15.html#v20'>1.&nbsp;Kö&nbsp;15,20</a>.)
  }
  {
   <i>Ain</i> gehört entweder zu Juda (<a href='http://bibel.renenyffenegger.ch/jos_15.html#v32'>Jos&nbsp;15,32</a>
@@ -19182,6 +19182,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zufluchtsstadt[Zufluchtsstädte]
+ }
+ {
+  6 Zufluchtsstädte sind eine weniger wie 7, und 48 Städte (§V4mo-35-7) sind eine weniger wie 7x7 Städte.
  }
  {
   TODO: Siehe auch <a href='http://bibel.renenyffenegger.ch/5mo_19.html#v2'>5. Mo 19,2 ff</a>.
@@ -20728,7 +20731,7 @@
 @5. Mose 17 {
 #5mo-17-6 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/zwei-oder-drei[zweier oder dreier] Zeugen: §5mo-19-15, §+2kor-13-1
+  → biblisches/Eigene-Uebersetzung/Konkordanz/zwei-oder-drei[zweier oder dreier] Zeugen: §5mo-19-15, §mt-18-16, §+2kor-13-1
   <br>
    Vgl §+4mo-35-30.
  }
@@ -61759,6 +61762,11 @@
   «überführe ihn zwischen dir und ihm allein», KJV mit «go and tell him his fault between thee and him alone»
  }
 #}
+#mt-18-16 {
+ {
+  <i>aus zweier oder dreier Zeugen Mund</i> vgl §+5mo-17-6, §mt-26-60
+ }
+#}
 #mt-18-17 {
  {
   <i>Versammlung</i> <span class='gr'>ἐκκλησία</span> (Strongs 1577): §+mt-16-18.
@@ -63168,6 +63176,11 @@
 #mt-26-59 {
  {
   <i>Hoher Rat</i>: <a class='kom' href='#Imt-5-22'>Mt&nbsp;5,22</a>.
+ }
+#}
+#mt-26-60 {
+ {
+  <i>Zwei falsche Zeugen</i> vgl §mt-18-16
  }
 #}
 #mt-26-61 {
