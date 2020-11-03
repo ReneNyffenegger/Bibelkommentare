@@ -809,6 +809,10 @@
 #}
 #1mo-3-8 {
  {
+  Hier versteckt sich der Mensch vor dem Angesicht Gottes, der zu diesem Zeitpunkt nicht zornig sondern gnädig ist; in §offb-6-16-ff wollen die «Könige…, jeder Knecht und Freie» wieder
+  verbergen, dort aber vor dem Zorn des Lammes.
+ }
+ {
   <i>Angesicht Gottes des HERRN</i> (<span class='hebr'><span class='grey'>מִ</span>פְּנֵי֙ יְהוָ֣ה אֱלֹהִ֔ים</span>, Strongs 6440 3068 430), vgl <i>Pniel</i> in <a class='kom' href='#I1mo-33-10'>1.&nbsp;Mo&nbsp;33,10</a>.
  }
  {
@@ -817,7 +821,7 @@
 #}
 #1mo-3-9 {
  {
-  Die erste Frage (von Gott, vgl mit der Frage der Schlange in §V1mo-3-1) im Alten Testament: <i>Wo bit du</i>. Im Neuen Testament ist die erste Frage: <i>Wo ist der König der Juden, der geboren werden soll?</i> (§mt-2-2)
+  Die erste Frage (von Gott, vgl mit der Frage der Schlange in §V1mo-3-1) im Alten Testament: <i>Wo bist du</i>. Im Neuen Testament ist die erste Frage: <i>Wo ist der König der Juden, der geboren werden soll?</i> (§mt-2-2)
  }
 #}
 #1mo-3-10 {
@@ -22743,6 +22747,11 @@
   → biblisches/Buch-Jascher, §2sam-1-18
  }
 #}
+#jos-10-16 {
+ {
+  <i>sich in einer Höhle verstecken</i> vgl §offb-6-15, §1sam-13-6
+ }
+#}
 #jos-10-18 {
  {
   'Stein wälzen': Siehe <a class='kom' href='#I1mo-29-10'>1.&nbsp;Mo&nbsp;29,10</a>.
@@ -26585,6 +26594,13 @@
   TODO: Das könnte etwa da gewesen sein, wo auch Ai erobert wurde (<a class='kom' href='#Ijos-7-2'>Jos&nbsp;7,2</a>)
  }
 #}
+#1sam-13-6 {
+ {
+  <i>Das Volk versteckte sich in den Höhlen</i> vgl §jos-10-16, §offb-16-15
+ <br>
+  Das Volk kommt in §1sam-14-11 aus den «Löchern» hervor.
+ }
+#}
 #1sam-13-8 {
  {
   Siehe <a class='kom' href='#I1sam-10-8'>1.&nbsp;Sam&nbsp;10,8</a>.
@@ -26657,7 +26673,7 @@
 #}
 #1sam-14-11 {
  {
-  <a class='kom' href='#I1sam-11-6'>1.&nbsp;Sam&nbsp;11,6</a>.
+  <i>Aus den Löchern hervorkommen</i> §+1sam-13-6.
  }
 #}
 #1sam-14-14 {
@@ -65737,6 +65753,11 @@
   <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
  }
 #}
+#mk-14-65 {
+ {
+  §lk-22-64 
+ }
+#}
 @}
 @Markus 15 {
 #mk-15-1 {
@@ -69686,6 +69707,11 @@
   → biblisches/Personen/Petrus gedenkt auch in §apg-11-16 des → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wortes des Herrn]
  }
 #}
+#lk-22-64 {
+ {
+  §mk-14-65
+ }
+#}
 #lk-22-66 {
  {
   <i>Älteste</i> (<span class='gr'>πρεσβυτέριον</span>, Strongs 4244) in
@@ -69782,7 +69808,7 @@
 #}
 #lk-23-30 {
  {
-  Vgl <a class='kom' href='#Ihos-10-8'>Hos&nbsp;10,8</a>.
+  Vgl §+hos-10-8, §offb-6-16
  }
 #}
 #lk-23-34 {
@@ -84582,6 +84608,8 @@
 #2kor-3-13 {
  {
   <i>Decke</i> vgl §+2mo-34-33-ff
+  <br>
+  <span class='gr'>κάλυμα</span> (Strongs 2571), vgl §2kor-4-3
  }
 #}
 #2kor-3-14 {
@@ -84634,6 +84662,11 @@
  {
   Auch in §2kor-2-17 schreibt → biblisches/Personen/Paulus, dass er «das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes] nicht verfälscht».
   Hier ist das Verb allerdings <span class='gr'>δολόω</span> (Strongs 1389, 1x), dort ist es <span class='gr'>καπηλεύω</span> (Strongs 2585, 1x).
+ }
+#}
+#2kor-4-3 {
+ {
+  <i>verdeckt</i> (<span class='gr'>κεκαλυμμενον</span>, Strongs 2572), vgl §2kor-3-13-ff 
  }
 #}
 #2kor-4-4 {
@@ -94717,6 +94750,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>die Erde brachte ihre Frucht hervor</i> vgl §Vjak-5-7
  }
 #}
+#jak-5-20 {
+ {
+  vgl §+1petr-4-8
+ }
+#}
 @}
 }
 { Petrus
@@ -95372,7 +95410,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-4-8 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/spr_10.html#v12'>Spr&nbsp;10,12</a>.
+  Vgl §jak-5-20, §spr-10-12.
  }
 #}
 #1petr-4-9 {
@@ -98354,12 +98392,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    erwähnt.
  }
  {
-  Vgl §+jes-2-19-21
+  <i>sich in einer Höhle verbergen</i> vgl §jos-10-16, §1sam-13-6, §+jes-2-19-21
  }
 #}
 #offb-6-16 {
  {
-  Vgl <a class='kom' href='#Ihos-10-8'>Hos&nbsp;10,8</a>.
+  Vgl §+hos-10-8, §lk-23-30
+ }
+ {
+  <i>Sich vor dem Zorn des Lammes verbergen wollen</i> §+1mo-3-8
  }
 #}
 #offb-6-17 {
