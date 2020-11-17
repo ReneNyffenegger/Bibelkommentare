@@ -16657,6 +16657,9 @@
  {
   Hier erste Erwähnung von «Lade des Bundes» (nicht nur «Lade»): <a class='kom' href='#I2mo-25-10'>2.&nbsp;Mo&nbsp;25,10</a>.
  }
+ {
+  <i>die Lade des Bundes Jehovas zog …ihnen her, um ihnen einen Ruheort zu erkunden</i> vgl §5mo-1-33
+ }
 #}
 #4mo-10-35 {
  {
@@ -16845,6 +16848,8 @@
 #4mo-12-3 {
  {
   Vergleiche <i>Moses Sanftmut</i> mit §2mo-11-8 und §mt-11-29.  S.a. §+2mo-11-3.
+ <br>
+  Obwohl Mose sehr sanftmütig war, durfte er nicht in das verheissene Land eintreten, vgl §mt-5-5
  }
  {
    TODO: Offenbar wurde in <i>ana</i> (sanftmütig, demütig) ein Jod eingefügt, um die Demut zu unterstreichen.
@@ -17601,10 +17606,18 @@
  {
   <i>Fels</i>: <span class='hebr'>סֶלַע</span> (Strongs 5553), vgl mit §+2mo-17-6.
  }
+ {
+  Vgl §5mo-2-6
+ }
 #}
 #4mo-20-10 {
  {
   Sie hätten zum Felsen, nicht zum Volk, sprechen sollen.
+ }
+#}
+#4mo-20-12 {
+ {
+  <i>Weil ihr mir nicht geglaubt habt, … sollt ihr diese Versammlung nicht in das Land bringen</i> §5mo-1-37
  }
 #}
 #4mo-20-13 {
@@ -19285,6 +19298,9 @@
 @5. Mose 1 {
 #5mo-1-1 {
  {
+  <i>Das</i> Gesetz wurde auf dem Berg geben, hier wiederholt(?) Mose das Gesetz in der Ebene.
+ }
+ {
   Beachte: sonst steht häufig 'Ebenen Moabs, am Jordan, Jericho gegenüber'. (<a href='http://bibel.renenyffenegger.ch/4mo_22.html#v1'>4.&nbsp;Mo&nbsp;22,1</a>,
   <a href='http://bibel.renenyffenegger.ch/mo_26.html#v3'>Mo&nbsp;26,3</a>, <a href='http://bibel.renenyffenegger.ch/5mo_32.html#v39'>5.&nbsp;Mo&nbsp;32,39</a>).
  }
@@ -19307,6 +19323,8 @@
   Beachte die <i>11</i>: 11 Tage von Horeb bis Bergland Seir, 11. Monat (Vers) (auch 1. Tag).
  <br>
   S. a. §4mo-10-11: die Wolke der Wohnung des Zeugnisss erhob sich am 20.2, so dass mit den 11 Tagesreisen Kades-Barnea am 1.3. erreicht worden wäre.
+ <br>
+  Vgl auch §5mo-2-14
  }
  {
   Hier: <i>Bergland Seir</i>, in <a href='http://bibel.renenyffenegger.ch/5mo_1.html#v19'>Vers 19</a>: das <i>Bergland der Amoriter</i>.
@@ -19410,12 +19428,20 @@
 #}
 #5mo-1-33 {
  {
+  <i>Vor dem Volk herziehen, um einen Ort zu erkunden, daß sie sich lagern können</i> vgl §4mo-10-33
+ }
+ {
   TODO Vgl §hes-20-6 (Strongs H8446)
  }
 #}
 #5mo-1-36 {
  {
   TODO: <i>Segenslinie</i>: siehe <a class='kom' href='#I1mo-17-6'>1.&nbsp;Mo&nbsp;17,6</a>.
+ }
+#}
+#5mo-1-37 {
+ {
+  Vgl §4mo-20-12, §+4mo-12-3, §mt-5-5
  }
 #}
 #5mo-1-38 {
@@ -19457,7 +19483,7 @@
 #}
 #5mo-1-46 {
  {
-  Eine 'lange zeit' in Kadesch und um das Bergland Seir herum (<a href='http://bibel.renenyffenegger.ch/5mo_2.html#v1'>5.&nbsp;Mo&nbsp;2,1</a>).
+  «Sehr viele Tage» in Kadesch und um das Bergland Seir herum: §5mo-2-1.
  }
 #}
 @}
@@ -19491,6 +19517,11 @@
   <br>Vgl auch <a class='kom' href='#I1mo-31-14'>1.&nbsp;Mo&nbsp;31,14</a>.
  }
 #}
+#5mo-2-6 {
+ {
+  Vgl mit dem Wasser aus dem Felsen, §4mo-20-8
+ }
+#}
 #5mo-2-7 {
  {
   <i>In den Werken der Händen gesegnet werden</i>: vgl <a href='http://bibel.renenyffenegger.ch/5mo_14.html#v29'>5.&nbsp;Mo&nbsp;14,29</a>,
@@ -19516,14 +19547,9 @@
      die Israeliten (?): <a href='http://bibel.renenyffenegger.ch/jes_64.html#v7'>Jes&nbsp;64,7</a>.
  }
 #}
-#5mo-2-8 {
- {
-  TODO: Steppe = Midbar (Strongs 4057).
- }
-#}
 #5mo-2-9 {
  {
-  Sowohl Ar wie auch das Land der Ammoniter wurde den Kindern Lots gegeben (Vers 19).
+  Sowohl Ar wie auch das Land der Ammoniter wurde den Kindern Lots gegeben (§V5mo-2-19).
  }
  {
   §+2chr-20-10
@@ -19580,6 +19606,8 @@
   → biblisches/Exodus/40-Jahre-in-der-Wüste
 <br>
   38 Jahre vgl §joh-5-5
+ <br>
+  Vgl §5mo-1-2 
  }
 #}
 #5mo-2-18 {
@@ -59222,7 +59250,11 @@
 #}
 #mt-5-5 {
  {
-  Vgl <a class='kom' href='#Ips-37-11'>Ps&nbsp;37,11</a>, <a href='http://bibel.renenyffenegger.ch/1mo_17.html#v6'>1.&nbsp;Mo&nbsp;17,6</a>.
+  Hier werden die Sanftmütigen das Land ererben, aber die Leute unter Josua mussten für das Land kämpfen (vgl aber auch §5mo-1-38)
+  <br>
+  Vgl aber auch §+ps-37-11, §1mo-17-6.
+  <br>
+   Mose wahr sehr sanftmütig, mehr als alle Menschen (§4mo-12-3) und ererbte das Land trotzdem nicht (§5mo-1-37)
  }
 #}
 #mt-5-6 {
