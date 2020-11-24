@@ -7483,7 +7483,10 @@
 #}
 #2mo-3-2 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/apg_7.html#v30'>Apg&nbsp;7,30</a> (Als 40 Jahre erfüllt waren)
+  Der Dornbusch wurde vom Feuer nicht verzehrt, obwohl der HERR ein verzehrendes Feuer ist, §5mo-4-24
+ }
+ {
+  Vgl §apg-7-30 (Als 40 Jahre erfüllt waren)
  }
 #}
 #2mo-3-3 {
@@ -9644,6 +9647,11 @@
 #2mo-19-17 {
  {
   Hier führt Mose das Volk Gott entgegen, in §2mo-34-3 soll «niemand auf dem ganzen Berg gesehen werden, sogar Kleinvieh und Rindern sollen nicht gegen diesen Berg hin weiden».
+ }
+#}
+#2mo-19-18 {
+ {
+  Vgl §5mo-4-11
  }
 #}
 #2mo-19-20 {
@@ -18030,6 +18038,9 @@
 #}
 #4mo-23-28 {
  {
+  <i>Gipfel des Peor</i> vgl §5mo-3-29
+ }
+ {
   TODO: Bileam, der Sohn <b>B</b>eors auf dem Gipfel des <b>P</b>eors.
  }
  {
@@ -18185,6 +18196,11 @@
   Sittim (<span class='hebr'><span class='grey'>בַּ</span>שִּׁטִּים</span>, Strongs 7851) ist offenbar Bestandteil des Wortes für → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz
   <br>Gemäss <a href='http://bibel.renenyffenegger.ch/joe_4.html#v18'>Joe&nbsp;4,18</a> wird eine Quelle aus dem Haus des Herrn hervorbrechen und das Tal Sittim bewässern.
   <br>S.a. <a href='http://bibel.renenyffenegger.ch/mi_6.html#v5'>Mi&nbsp;6,5</a> und <a class='kom' href='#I4mo-22-2'>4.&nbsp;Mo&nbsp;22,2</a>.
+ }
+#}
+#4mo-25-2 {
+ {
+  <i>Baal-Peor</i> §5mo-4-3
  }
 #}
 #4mo-25-3 {
@@ -19447,6 +19463,9 @@
  {
   Vgl §4mo-20-12, §+4mo-12-3, §mt-5-5
  }
+ {
+  §5mo-3-26
+ }
 #}
 #5mo-1-38 {
  {
@@ -19748,6 +19767,16 @@
    Machir erhält Gilead: vgl <a class='kom' href='#I4mo-32-40'>4.&nbsp;Mo&nbsp;32,40</a>.
  }
 #}
+#5mo-3-22 {
+ {
+  <i>Gott streitet für euch</i> vgl §jos-10-14
+ }
+#}
+#5mo-3-26 {
+ {
+  §5mo-1-37
+ }
+#}
 #5mo-3-27 {
  {
   Beachte, gegen <i>Westen</i> schaut er nicht, obwohl doch das auch zum Land (zumindest vom ersten Bund) gehört hätte (<a class='kom' href='#I1mo-15-18'>1.&nbsp;Mo&nbsp;15,18</a>).
@@ -19761,6 +19790,11 @@
   <i>Landausteilung</i>: Vgl <a class='kom' href='#I5mo-1-38'>5.&nbsp;Mo&nbsp;1,38</a>.
  }
 #}
+#5mo-3-29 {
+ {
+  <i>Beth-Peor</i> vgl §4mo-23-28
+ }
+#}
 @}
 @5. Mose 4 {
 #5mo-4-2 {
@@ -19769,12 +19803,20 @@
   <a href='http://bibel.renenyffenegger.ch/offb_22.html#v18'>Offb 22,18-19</a>
  }
 #}
+#5mo-4-3 {
+ {
+  <i>Baal-Peor</i> §4mo-25-2
+ }
+#}
 #5mo-4-7 {
  {
-   Vgl <a class='kom' href='#Iapg-10-34'>Apg&nbsp;10,34</a>.
+   Vgl §+apg-10-34-35
  }
 #}
 #5mo-4-11 {
+ {
+  <i>der Berg brannte</i> vgl §2mo-19-18
+ }
  {
   <i>Finsternis</i> (Strongs 6205): <a class='kom' href='#I2mo-20-21'>2.&nbsp;Mo&nbsp;20,21</a>.
  }
@@ -19827,7 +19869,9 @@
   <i>ein eifernder Gott</i>: §2mo-20-5, §2mo-34-14
  }
  {
-  <i>ein verzehrendes Feuer</i> §5mo-9-3, §jes-30-27, §hebr-12-29
+  <i>ein verzehrendes Feuer</i> §5mo-9-3, §jes-30-27, §hebr-12-29.
+ <br>
+  Obowhl der HERR ein verzehrendes Feuer ist, wurde der Dornbusch nicht verzehrt, §2mo-3-2
  }
 #}
 #5mo-4-26 {
@@ -22780,6 +22824,11 @@
  }
  {
   → biblisches/Buch-Jascher, §2sam-1-18
+ }
+#}
+#jos-10-14 {
+ {
+  <i>Der HERR stritt für Israel</i> vgl §5mo-3-22
  }
 #}
 #jos-10-16 {
