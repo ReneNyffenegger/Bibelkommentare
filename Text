@@ -51533,9 +51533,9 @@
 #}
 #jer-25-26 {
  {
-  <i>Scheschak</i> (<span class='hebr'>שֵׁשַׁךְ</span>, Strongs 8347), das andere Vorkommen in <a href='http://bibel.renenyffenegger.ch/jer_51.html#v41'>Jer&nbsp;51,41</a>.
-  <br>Einige argumentieren, dass dieses Wort für Babel steht (nämlich wenn man den ersten Buchstaben des Alphabets mit dem letzten, den zweiten mit dem zweitletzten usw vertauscht).
-      Vgl <a class='kom' href='#Ijer-51-1'>Jer&nbsp;51,1</a>.
+  <i>Scheschak</i> (<span class='hebr'>שֵׁשַׁךְ</span>, Strongs 8347), das andere Vorkommen in §jer-51-41.
+  <br>Einige argumentieren, dass dieses Wort für Babel steht (nämlich wenn man den ersten Buchstaben des Alphabets mit dem letzten, den zweiten mit dem zweitletzten usw vertauscht <a href='https://de.wikipedia.org/wiki/Atbasch'>Atbasch</a>).
+   Vgl §+jer-51-1.
  }
 #}
 #jer-25-28 {
@@ -52873,8 +52873,8 @@
 @Jeremia 51 {
 #jer-51-1 {
  {
-  TODO: <i>Herz meiner Widersacher</i> ist im Hebräischen offenbar «leb kamai», welches aus einer Buchstabenumstellung aus Kasedim (hebr: Chaldäer) ensteht.
-  vgl Vers 41 und <a class='kom' href='#Ijer-25-26'>Jer&nbsp;25,26</a>.
+  <i>Herz meiner Widersacher</i> ist im Hebräischen offenbar «leb kamai», welches aus einer Buchstabenumstellung (<a href='https://de.wikipedia.org/wiki/Atbasch'>Atbasch</a>) aus Kasedim (hebr: Chaldäer) ensteht.
+  vgl §Vjer-51-41 und §+jer-25-26.
  }
 #}
 #jer-51-3 {
@@ -52997,7 +52997,7 @@
 #}
 #jer-51-41 {
  {
-  <i>Scheschak</i>: <a class='kom' href='#Ijer-25-26'>Jer&nbsp;25,26</a>.
+  <i>Scheschak</i>: §+jer-25-26.
  }
 #}
 #jer-51-44 {
