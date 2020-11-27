@@ -44962,8 +44962,11 @@
 #}
 #spr-1-9 {
  {
+  <i>Anmutiger Kranz auf dem Haupt</i> §spr-4-9
+ }
+ {
   TODO: <i>schöner Kranz</i> in KJV: 'ornament of grace', Elberfelder: 'anmutiger Kranz'.
-  <br>Vgl <i>Kranz</i> und <i>Schmuch</i> mit <a href='http://bibel.renenyffenegger.ch/spr_4.html#v9'>Spr&nbsp;4,9</a>.
+  <br>Vgl <i>Kranz</i> und <i>Schmuck:</i> mit <a href='http://bibel.renenyffenegger.ch/spr_4.html#v9'>Spr&nbsp;4,9</a>.
  }
  {
   TODO: <i>Hals</i>: <a href='http://bibel.renenyffenegger.ch/spr_3.html#v3'>Spr&nbsp;3,3</a>, <a href='http://bibel.renenyffenegger.ch/spr_3.html#v22'>Spr&nbsp;3,22</a>,
@@ -45001,6 +45004,11 @@
 #spr-2-17 {
  {
   <i>Vertrauten</i> (Strongs 441) siehe <a class='kom' href='#Ips-55-14'>Ps&nbsp;55,14</a>.
+ }
+#}
+#spr-2-18 {
+ {
+  <i>zum Tod sinkt ihr Haus hinab</i> vgl §spr-5-5, §spr-7-27
  }
 #}
 #spr-2-21 {
@@ -45160,10 +45168,14 @@
   <a href='http://bibel.renenyffenegger.ch/spr_9.html#v10'>Spr&nbsp;9,10</a>.
  }
 #}
+#spr-4-9 {
+ {
+  <i>dem haupt einen anmutigen Kranz verleihen</i> vgl §spr-1-9.
+ }
+#}
 #spr-4-26 {
  {
-   Dieser Vers wird in <a href='http://bibel.renenyffenegger.ch/hebr_12.html#v12'>Hebr&nbsp;12,12</a> im Anschluss an
-   die der Züchtigung folgenden Traurigkeit erwähnt.
+   <i>Ebne die Bahn deines Fußes</i> wird in §hebr-12-13 im Anschluss an die der Züchtigung folgenden Traurigkeit erwähnt.
  }
 #}
 @}
@@ -45174,6 +45186,11 @@
  }
  {
   <i>Bitter wie Wermut</i> vgl §offb-8-11
+ }
+#}
+#spr-5-5 {
+ {
+  <i>hinab zum Tod</i> vgl §+spr-2-18
  }
 #}
 @}
@@ -45248,6 +45265,11 @@
 #spr-7-17 {
  {
   TODO: vgl <a href='http://bibel.renenyffenegger.ch/hl_4.html#v14'>Hl&nbsp;4,14</a>.
+ }
+#}
+#spr-7-27 {
+ {
+  <i>Ihr Haus sind Wege zum Scheol</i> vgl §+spr-2-18
  }
 #}
 @}
@@ -45467,6 +45489,11 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/spr_28.html#v19'>Spr&nbsp;28,19</a>.
  }
 #}
+#spr-12-15 {
+ {
+  Vgl §spr-14-12
+ }
+#}
 #spr-12-22 {
  {
   <i>Gräuel in den Sprüchen</i>: <a class='kom' href='#Ispr-3-32'>Spr&nbsp;3,32</a>.
@@ -45538,6 +45565,11 @@
 #spr-14-7 {
  {
   TODO: Elberfelder 'Geh hinweg von einem törichten Manne und bei wem du nicht Lippen der Erkenntnis merkst.'.
+ }
+#}
+#spr-14-12 {
+ {
+  Vgl §spr-12-15
  }
 #}
 #spr-14-18 {
@@ -45655,8 +45687,10 @@
 @Sprüche 16 {
 #spr-16-2 {
  {
+  Vgl §+spr-21-2.
+ }
+ {
   TODO: KJV übersetzt mit «...but the LORD weigheth the spirits», Elberfelder mit «... aber Jehova wägt die Geister».
-  <br>Vgl <a class='kom' href='#Ispr-21-2'>Spr&nbsp;21,2</a>.
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/spr_16.html#v25'>Spr&nbsp;16,25</a>.
@@ -45978,7 +46012,7 @@
 @Sprüche 21 {
 #spr-21-2 {
  {
-  TODO <i>prüfen</i>: <span class='hebr'>תָּכַן</span> (Strongs 8505), dasselbe Wort, welches in <a class='kom' href='#Ispr-16-2'>Spr&nbsp;16,2</a> vorkommt.
+  Vgl §spr-16-2 (<i>prüfen</i>: <span class='hebr'>תָּכַן</span> (Strongs 8505) ist in beiden Versen dasselbe Wort).
  }
 #}
 #spr-21-4 {
@@ -46274,6 +46308,11 @@
   <i>Gesetz</i>: <a class='kom' href='#Ispr-1-8'>Spr&nbsp;1,8</a>.
  }
 #}
+#spr-28-6 {
+ {
+  <i>Auf zwei Wegen gehen</i> §Vspr-28-18
+ }
+#}
 #spr-28-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zins
@@ -46297,6 +46336,11 @@
 #spr-28-16 {
  {
   <i>Unrechtmässiger Gewinn</i>: vgl §2mo-18-21.
+ }
+#}
+#spr-28-18 {
+ {
+  <i>Auf zwei Wegen gehen</i> §Vspr-28-6
  }
 #}
 #spr-28-19 {
@@ -94042,6 +94086,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-12-11 {
  {
   <i>Frucht der Gerechtigkeit</i> §phil-1-11, §jak-3-18
+ }
+#}
+#hebr-12-13 {
+ {
+  <i>Macht gerade Bahn für eure Füße</i> vgl §spr-4-26
  }
 #}
 #hebr-12-14 {
