@@ -828,6 +828,9 @@
  {
   Beachte: Adam antwortet nicht, <i>wo</i> er ist.
  }
+ {
+  <i>ich fürchtete mich … und versteckte mich</i> vgl mit → biblisches/Personen/Mose, als er den brennenden Dornbusch sah, §2mo-3-6
+ }
 #}
 #1mo-3-11 {
  {
@@ -4846,6 +4849,9 @@
 #}
 #1mo-28-13 {
  {
+  <i>Der Gott Abrahams, deines Vaters</i> vgl §1mo-31-42, §2mo-3-6
+ }
+ {
   Vgl mit Segen an Abraham <a class='kom' href='#I1mo-12-3'>1.&nbsp;Mo&nbsp;12,3</a>.
  }
  {
@@ -5190,6 +5196,11 @@
 #1mo-31-41 {
  {
   TODO: wie konnte Jakob 11 Söhne in 6 Jahren zeugen?
+ }
+#}
+#1mo-31-42 {
+ {
+  <i>der Gott meines Vaters, der Gott Abrahams</i> vgl §1mo-28-13
  }
 #}
 #1mo-31-45 {
@@ -7511,7 +7522,13 @@
   Vgl mit den 74 in §2mo-24-11, die Gott schauten.
  }
  {
-  Mose fürchtete sich auch in §2mo-2-14.
+  Mose fürchtete sich auch in §V2mo-2-14.
+ }
+ {
+  <i>der Gott deines Vaters, der Gott Abrahams…</i> vgl §1mo-28-13
+ }
+ {
+  Mose fürchtete sich und verbarg sein Angesicht, vgl mit Adam, §1mo-3-10
  }
  {
   Vgl §lk-20-37
@@ -7817,6 +7834,7 @@
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/ps_100.html#v3'>Ps&nbsp;100,3</a>.
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/jes_49.html#v23'>Jes 49,23/26</a>
   <br>Vgl §2mo-14-18
+  <br>§+5mo-4-35
  }
 #}
 #2mo-6-9 {
@@ -19882,7 +19900,7 @@
 #}
 #5mo-4-27 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/unter-die-Nationen-verstreut
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/unter-die-Nationen-verstreut, vgl §+5mo-32-24
  }
 #}
 #5mo-4-29 {
@@ -19907,6 +19925,13 @@
  }
  {
   <i>aus der Mitte</i>: oder «aus dem Innern».
+ }
+#}
+#5mo-4-35 {
+ {
+  <i>Damit du wissest, daß der HERR Gott ist</i> vgl §1koe-8-60, §2chr-33-13, §ps-100-3
+  <br>
+   Vgl §2mo-6-7
  }
 #}
 #5mo-4-36 {
@@ -20086,6 +20111,8 @@
 #5mo-6-5 {
  {
   Dies ist das grösste Gebot, §mt-22-36-39, vgl mit dem «zweiten», §+3mo-19-18, §3mo-19-34
+ <br>
+  Vgl auch §5mo-30-16 und mit mit Josuas Rat an die Rubeniter, Gaditer und den halben Stamm Manasse in §jos-22-5.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben
@@ -21592,14 +21619,9 @@
   Vgl §+roem-10-6, §eph-4-8-ff
  }
 #}
-#5mo-30-14 {
- {
-  Vgl <a class='kom' href='#Iroem-10-8'>Röm&nbsp;10,8</a>.
- }
-#}
 #5mo-30-16 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl §jos-22-5
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl §+5mo-6-5, §jos-22-5
  }
 #}
 #5mo-30-19 {
@@ -21785,6 +21807,11 @@
 #5mo-32-24 {
  {
   <i>Schlange</i> <span class='hebr'>זָחַל</span> (Strongs 2119), siehe auch <a href='http://bibel.renenyffenegger.ch/mi_7.html#v17'>Mi&nbsp;7,17</a>.
+ }
+#}
+#5mo-32-26 {
+ {
+  <i>zerstreuen</i>: <span class='hebr'>פָּאָה</span> (Strongs 6284, 1x). Vgl §5mo-4-27
  }
 #}
 #5mo-32-28 {
@@ -24056,7 +24083,7 @@
 #}
 #jos-22-5 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl §5mo-30-16
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl §+5mo-6-5, §5mo-30-16
  }
 #}
 #jos-22-9 {
@@ -24072,6 +24099,12 @@
 #jos-22-28 {
  {
   TODO: 'Abbild' siehe <a class='kom' href='#I2mo-25-9'>2.&nbsp;Mo&nbsp;25,9</a>.
+ }
+#}
+#jos-22-34 {
+ {
+  Beachte: hier wird (wie auch in §Vjos-22-32) der Stamm Manasse nicht erwähnt, was impliziert, dass Manasse diesen Altar nicht «Zeuge» nannte. Es wird dann der <i>König Manasse</i> sein, der erkennen wird,
+  dass der HERR Gott ist, §2chr-33-13
  }
 #}
 @}
@@ -27200,6 +27233,9 @@
 @1. Samuel 20 {
 #1sam-20-5 {
  {
+  David will sich verbergen, vgl §1sam-23-19
+ }
+ {
   TODO: Ist das der <i>1.7.</i>? Dies scheint das einzige jährliche Fest zu sein, das auf den ersten Tag (also den Neumond) fällt,
   vgl auch <a href='http://bibel.renenyffenegger.ch/4mo_29.html#v1'>4.&nbsp;Mo&nbsp;29,1</a>.
   <br><a class='kom' href='#I4mo-10-10'>4.&nbsp;Mo&nbsp;10,10</a>.
@@ -27362,6 +27398,9 @@
  }
 #}
 #1sam-23-19 {
+ {
+  <i>Hält sich David nicht bei uns verborgen…</i> vgl §1sam-20-5
+ }
  {
   Hier ist der <i>Hügel Hachila</i> zur rechten der Wildnis, in <a href='http://bibel.renenyffenegger.ch/1sam_26.html#v1'>1.&nbsp;Sam&nbsp;26,1</a>
   vor der Wildnis. In KJV: 'south of'. Das entsprechende Wort ist Strongs 3225. (TODO: Vgl <a class='kom' href='#I1mo-13-9'>1.&nbsp;Mo&nbsp;13,9</a>).
@@ -29813,6 +29852,9 @@
 #1koe-8-60 {
  {
   <i>keiner mehr</i>: Sch2K übersetzt mit »und keiner sonst«.
+ }
+ {
+  §+5mo-4-35
  }
 #}
 #1koe-8-64 {
@@ -36527,6 +36569,11 @@
   Amon hat sich nicht gedemütigt (<a href='http://bibel.renenyffenegger.ch/2chr_33.html#v23'>2.&nbsp;Chr&nbsp;33,23</a>).
  }
 #}
+#2chr-33-13 {
+ {
+  <i>Da erkannte Manasse, daß der HERR Gott ist</i> vgl §+5mo-4-35, §+jos-22-34
+ }
+#}
 #2chr-33-14 {
  {
   TODO: Ausbauten an der Mauer Jerusalems: <a class='kom' href='#I2koe-14-13'>2.&nbsp;Kö&nbsp;14,13</a>.
@@ -39181,6 +39228,11 @@
   vgl <a class='kom' href='#Isach-11-17'>Sach&nbsp;11,17</a>.
  }
 #}
+#hi-13-24 {
+ {
+  <i>Warum verbirgst du dein Angesicht</i> §hi-34-29
+ }
+#}
 @}
 @Hiob 14 {
 #hi-14-1 {
@@ -39520,6 +39572,11 @@
 #hi-34-3 {
  {
    §hi-12-11
+ }
+#}
+#hi-34-29 {
+ {
+  <i>verbirgt er das Angesicht…</i> vgl §hi-13-24
  }
 #}
 #hi-34-36 {
@@ -43187,7 +43244,7 @@
   <i>Herde deiner Weide</i> vgl §ps-74-1, §ps-79-13, §ps-95-7, §ps-100-3, §jer-23-1, §hes-34-31
  }
  {
-  <i>Erkennt, dass der HERR Gott ist</i>: §+2mo-6-7.
+  <i>Erkennt, dass der HERR Gott ist</i>: §+2mo-6-7, §+5mo-4-35
  }
  {
   <i>Er hat uns gemacht</i> vgl §ps-102-19
@@ -46059,6 +46116,11 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/spr_29.html#v13'>Spr&nbsp;29,13</a>.
  }
 #}
+#spr-22-3 {
+ {
+  (fast?) der gleiche Vers wie auch in §spr-27-12
+ }
+#}
 #spr-22-13 {
  {
    Vgl <a href='http://bibel.renenyffenegger.ch/spr_26.html#v13'>Spr&nbsp;26,13</a>.
@@ -46288,6 +46350,11 @@
 #spr-27-11 {
  {
   TODO: vgl <a class='kom' href='#Ispr-10-1'>Spr&nbsp;10,1</a>, <a class='kom' href='#Ispr-23-15'>Spr&nbsp;23,15</a>.
+ }
+#}
+#spr-27-12 {
+ {
+  (fast?) der gleiche Vers wie auch in §spr-22-3
  }
 #}
 #spr-27-15 {
@@ -51510,9 +51577,9 @@
 #}
 #jer-25-26 {
  {
-  <i>Scheschak</i> (<span class='hebr'>שֵׁשַׁךְ</span>, Strongs 8347), das andere Vorkommen in <a href='http://bibel.renenyffenegger.ch/jer_51.html#v41'>Jer&nbsp;51,41</a>.
-  <br>Einige argumentieren, dass dieses Wort für Babel steht (nämlich wenn man den ersten Buchstaben des Alphabets mit dem letzten, den zweiten mit dem zweitletzten usw vertauscht).
-      Vgl <a class='kom' href='#Ijer-51-1'>Jer&nbsp;51,1</a>.
+  <i>Scheschak</i> (<span class='hebr'>שֵׁשַׁךְ</span>, Strongs 8347), das andere Vorkommen in §jer-51-41.
+  <br>Einige argumentieren, dass dieses Wort für Babel steht (nämlich wenn man den ersten Buchstaben des Alphabets mit dem letzten, den zweiten mit dem zweitletzten usw vertauscht <a href='https://de.wikipedia.org/wiki/Atbasch'>Atbasch</a>).
+   Vgl §+jer-51-1.
  }
 #}
 #jer-25-28 {
@@ -52850,8 +52917,8 @@
 @Jeremia 51 {
 #jer-51-1 {
  {
-  TODO: <i>Herz meiner Widersacher</i> ist im Hebräischen offenbar «leb kamai», welches aus einer Buchstabenumstellung aus Kasedim (hebr: Chaldäer) ensteht.
-  vgl Vers 41 und <a class='kom' href='#Ijer-25-26'>Jer&nbsp;25,26</a>.
+  <i>Herz meiner Widersacher</i> ist im Hebräischen offenbar «leb kamai», welches aus einer Buchstabenumstellung (<a href='https://de.wikipedia.org/wiki/Atbasch'>Atbasch</a>) aus Kasedim (hebr: Chaldäer) ensteht.
+  vgl §Vjer-51-41 und §+jer-25-26.
  }
 #}
 #jer-51-3 {
@@ -52974,7 +53041,7 @@
 #}
 #jer-51-41 {
  {
-  <i>Scheschak</i>: <a class='kom' href='#Ijer-25-26'>Jer&nbsp;25,26</a>.
+  <i>Scheschak</i>: §+jer-25-26.
  }
 #}
 #jer-51-44 {
@@ -74408,6 +74475,9 @@
 #}
 #apg-3-13 {
  {
+  <i>Der Gott Abrahams und Isaaks und Jakobs, der Gott unserer Väter…</I> vgl §apg-7-32
+ }
+ {
   TODO: <i>Knecht</i> (<span class='gr'>παῖς</span>, Strongs 3816) kann offenbar auch mit 'Sohn' übersetzt werden. Vgl auch Vers 26 und
   <a href='http://bibel.renenyffenegger.ch/apg_4.html#v27'>Apg 4,27/30</a>.
  }
@@ -75127,6 +75197,9 @@
  }
 #}
 #apg-7-32 {
+ {
+  <i>Ich bin der Gott deiner Väter, der Gott Abrahams und Isaaks und Jakobs…</i> vgl §apg-3-13
+ }
  {
   <i>→ biblisches/Personen/Mose erzitterte</i>: vgl §hebr-12-21.
  }
