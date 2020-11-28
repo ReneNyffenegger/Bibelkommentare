@@ -77884,13 +77884,10 @@
 #}
 #apg-18-21 {
  {
-  Das kommende Fest ist Pfingsten (<a href='http://bibel.renenyffenegger.ch/apg_20.html#v16'>Apg&nbsp;20,16</a>)
+  Das kommende Fest ist Pfingsten, vgl §apg-20-16
  }
  {
-  <i>so Gott will</i>: vgl
-    <a href='http://bibel.renenyffenegger.ch/1kor_4.html#v19'>1.&nbsp;Kor&nbsp;4,19</a>,
-    <a href='http://bibel.renenyffenegger.ch/hebr_6.html#v3'>Hebr&nbsp;6,3</a>,
-    <a href='http://bibel.renenyffenegger.ch/jak_4.html#v15'>Jak&nbsp;4,15</a>
+  <i>wenn Gott will</i>: vgl §roem-1-10, §1kor-4-19, §hebr-6-3, §jak-4-15, §phil-2-19, §phil-2-24
  }
  {
   <span class='gt'>In NA fehlt «Ich muß durchaus das kommende Fest in Jerusalem halten».</span>
@@ -79568,7 +79565,7 @@
 #}
 #roem-1-10 {
  {
-  <i>durch den → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott[Willen Gottes] … zu euch zu kommen</i> vgl §roem-15-32
+  <i>durch den → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott[Willen Gottes] … zu euch zu kommen</i> vgl §roem-15-32, vgl §+apg-18-21
  }
 #}
 #roem-1-11 {
@@ -82793,7 +82790,7 @@
   <a href='http://bibel.renenyffenegger.ch/1tim_3.html#v14'>1.&nbsp;Tim&nbsp;3,14</a>.
  }
  {
-  <i>wenn der Herr will</i>: <a class='kom' href='#Iapg-18-21'>Apg&nbsp;18,21</a>.
+  <i>wenn der Herr will</i>: §+apg-18-21, §1kor-16-7
  }
 #}
 #1kor-4-20 {
@@ -84444,6 +84441,11 @@
   TODO: Hat Paulus Mazedonien durchzogen, und ist er nach Korinth gekommen? <a href='http://bibel.renenyffenegger.ch/2kor_1.html#v15'>2.&nbsp;Kor&nbsp;1,15</a> scheint
   darauf hinzuweisen, dass dieser Plan nicht in Erfüllung ging. Dabei hätte Paulus gewollt, dass die Korinther eine
   'weitere Gnade empfangt' (ebenda).
+ }
+#}
+#1kor-16-7 {
+ {
+  <i>wenn es der Herr erlaubt</i> §1kor-4-19
  }
 #}
 #1kor-16-8 {
@@ -87984,6 +87986,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-2-19 {
  {
+  <i>Ich hoffe im Herrn Jesus…</i> §+apg-18-21
+ }
+ {
   Beachte, dass → biblisches/Personen/Timotheus/index auch in <a href='http://bibel.renenyffenegger.ch/1kor_4.html#v17'>1.&nbsp;Kor&nbsp;4,17</a>
   <i>gesandt</i> wird und dass im Vers 24 Paulus schreibt, dass er auch bald kommen wolle (was er auch den Korinthern in
   <a href='http://bibel.renenyffenegger.ch/1kor_4.html#v19'>1.&nbsp;Kor&nbsp;4,19</a> ankündigt).
@@ -88001,7 +88006,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <a class='kom' href='#Iphil-1-7'>Phil&nbsp;1,7</a>.
  }
  {
-  <i>Bald kommen werde</i> vgl <a class='kom' href='#I1kor-4-19'>1.&nbsp;Kor&nbsp;4,19</a>.
+  <i>Bald kommen werde</i> vgl §+1kor-4-19.
  }
 #}
 #phil-2-25 {
@@ -93026,7 +93031,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-6-3 {
  {
-  <i>wenn Gott es zulässt</i>: <a class='kom' href='#Iapg-18-21'>Apg&nbsp;18,21</a>.
+  <i>wenn Gott es zulässt</i>: §+apg-18-21.
  }
 #}
 #hebr-6-4 {
@@ -94900,7 +94905,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-4-15 {
  {
-  <i>Wenn der Herr will</i>: <a class='kom' href='#Iapg-18-21'>Apg&nbsp;18,21</a>.
+  <i>Wenn der Herr will</i>: §+apg-18-21.
  }
 #}
 @}
