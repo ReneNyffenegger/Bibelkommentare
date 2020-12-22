@@ -10303,7 +10303,9 @@
 #}
 #2mo-23-20 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Ich sende einen Engel vor dir her]: §2mo-32-34, §2mo-33-2, §4mo-20-16, vgl §V2mo-23-28, §+mk-1-2
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Ich sende einen Engel vor dir her]: §2mo-32-34, §2mo-33-2, §4mo-20-16, vgl §V2mo-23-28, §+mk-1-2.
+  <br>
+  Vgl mit Mose, §5mo-10-11
  }
 #}
 #2mo-23-22 {
@@ -19946,6 +19948,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
+ {
+  <i>ihren Samen nach ihnen erwählt</i> §5mo-10-15, vgl §lk-6-13
+ }
 #}
 #5mo-4-38 {
  {
@@ -20133,7 +20138,7 @@
  {
   Dies ist das grösste Gebot, §mt-22-36-39, vgl mit dem «zweiten», §+3mo-19-18, §3mo-19-34
  <br>
-  Vgl auch §5mo-30-16 und mit mit Josuas Rat an die Rubeniter, Gaditer und den halben Stamm Manasse in §jos-22-5.
+  Vgl auch §5mo-10-12, §5mo-30-16 und mit mit Josuas Rat an die Rubeniter, Gaditer und den halben Stamm Manasse in §jos-22-5.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben
@@ -20208,6 +20213,8 @@
    Vgl mit <i>Gottes Gerechtigkeit aus Gnade</i> (§+roem-3-21)
   <br>
   S.a.  §ps-18-21-25, §ps-25-10
+  <br>
+   Vgl auch §5mo-9-4
  }
  {
    <i>Und es wird uns zur Gerechtigkeit dienen</i> wird in Elberfelder mit «Und es wird unsere Gerechtigkeit sein», in KJV mit
@@ -20222,6 +20229,11 @@
 #5mo-7-1 {
  {
   Diese Aufzählung hat zusätzlich die Girgasiter, vgl §2mo-3-8. §+apg-13-19, §jos-3-10
+ }
+#}
+#5mo-7-2 {
+ {
+  <i>du sollst keinen Bund mit ihnen machen</i> §jos-9-6-ff
  }
 #}
 #5mo-7-3 {
@@ -20262,6 +20274,9 @@
   <br>
    <i>Den Bund und die Güte … denen bewahren, die ihn lieben und seine Gebote halten</i>: §neh-1-5, §dan-9-4
  }
+ {
+  <i>tausend Geschlechter</i> §1chr-16-15
+ }
 #}
 #5mo-7-19 {
  {
@@ -20280,6 +20295,11 @@
 #5mo-7-21 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
+ }
+#}
+#5mo-7-24 {
+ {
+  <i>den Namen unter dem Himmel hinweg vernichten</i> vgl §5mo-9-14, §5mo-29-19, §2koe-14-27
  }
 #}
 #5mo-7-25 {
@@ -20354,9 +20374,19 @@
   <i>verzehrendes Feuer</i>: §+5mo-4-24
  }
 #}
+#5mo-9-4 {
+ {
+  <i>Um meiner Gerechtigkeit willen</i> §+5mo-6-25
+ }
+#}
 #5mo-9-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/hartnäckig
+ }
+#}
+#5mo-9-7 {
+ {
+  Vgl §1kor-10-5
  }
 #}
 #5mo-9-10 {
@@ -20383,7 +20413,15 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/hartnäckig
  }
 #}
+#5mo-9-14 {
+ {
+  <i>Namen unter dem Himmel auslöschen</i> vgl §5mo-7-24
+ }
+#}
 #5mo-9-15 {
+ {
+  <i>In meinen beiden Händen</i> vgl mit den zweiten Tafeln des Bundes in seiner Hand, §5mo-10-3
+ }
  {
   Siehe <a class='kom' href='#I5mo-32-15'>5.&nbsp;Mo&nbsp;32,15</a>.
  }
@@ -20439,6 +20477,9 @@
  }
 #}
 #5mo-10-3 {
+ {
+  <i>in meiner Hand</i> vgl mit den ersten beiden Tafeln des Bundes in seinen beiden Händen, §5mo-9-15
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Akazienholz
  }
@@ -20506,12 +20547,20 @@
 #}
 #5mo-10-11 {
  {
+  <i>um vor dem Volk herzuziehen</i> §2mo-23-20
+ }
+ {
   TODO: Strongs H4550
  }
 #}
 #5mo-10-12 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl: §+5mo-6-5
+ }
+#}
+#5mo-10-15 {
+ {
+  <i>ihren Samen nach ihnen, aus allen Völkern erwählt</i> §5mo-4-37
  }
 #}
 #5mo-10-16 {
@@ -20533,6 +20582,9 @@
  }
 #}
 #5mo-10-20 {
+ {
+  <i>bei seinem Namen sollst du schwören</i> vgl §mt-5-33
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht#sollst-dich-vor-gott-fuerchten
  }
@@ -21579,6 +21631,11 @@
  {
   verse 17-19: Beachte, dass Ephraim und Dan die ersten Stämme gewesen sind, die Götzendienst eingeführt haben (<a href='http://bibel.renenyffenegger.ch/ri_18.html#v17'>Ri&nbsp;18,17</a>).
   Diese beiden Stämme werden in <a class='kom' href='#Ioffb-7-4'>Offb 7,4 ff</a> nicht erwähnt.
+ }
+#}
+#5mo-29-19 {
+ {
+  <i>Namen unter dem Himmel austilgen</i> §5mo-29-19
  }
 #}
 #5mo-29-22 {
@@ -22741,6 +22798,9 @@
 #jos-9-6 {
  {
    → biblisches/Orte/Gilgal
+ }
+ {
+   <i>Macht einen Bund mit uns</i> vgl §5mo-7-2 
  }
 #}
 #jos-9-7 {
@@ -31559,6 +31619,11 @@
   <br>Beachte auch, das in der Prophetie von Amos ein Volk erweckt wird, das das Haus Israel in diesem Gebiet bedrängen wird.
  }
 #}
+#2koe-14-27 {
+ {
+  <i>Namen unter dem Himmel hinweg austilgen</i> vgl §5mo-7-24
+ }
+#}
 #2koe-14-28 {
  {
   TODO: Beachte: Damaskus und Lebo-Hamat (<a class='kom' href='#I4mo-13-21'>4.&nbsp;Mo&nbsp;13,21</a>) gehören zu Juda!
@@ -34175,6 +34240,9 @@
 #1chr-16-15 {
  {
   §ps-105-8 
+ }
+ {
+  <i>tausend Geschlechter</i> §5mo-7-9
  }
 #}
 #1chr-16-16 {
@@ -59611,6 +59679,9 @@
 #}
 #mt-5-33 {
  {
+  <i>schwören</i> vgl §5mo-10-20
+ }
+ {
   §3mo-19-12
  }
 #}
@@ -67619,7 +67690,7 @@
 #}
 #lk-6-13 {
  {
-  Erwählung der → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12[12 Jünger], vgl §mt-10-2, §mk-3-13
+  Erwählung der → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12[12 Jünger] §mt-10-2, §mk-3-13. Vgl mit Erwählung Israels §5mo-4-37
  }
  {
   Möglicherweise bestimmt der Herr die Apostel, um Sein Werk fortzuführen, da Er nun weiss, dass die Schriftgelehrten und Pharisäer sich überlegten, was sie Ihm tun sollten (§Vlk-6-11).
@@ -83469,6 +83540,11 @@
 #1kor-10-4 {
  {
   → biblisches/Exodus/Nahrung#exodus-wasser
+ }
+#}
+#1kor-10-5 {
+ {
+  <i>Gott hatte kein wohlgefallen</i> vgl §5mo-9-7
  }
 #}
 #1kor-10-6 {
