@@ -45421,6 +45421,11 @@
 #}
 @}
 @Sprüche 8 {
+#spr-8-2 {
+ {
+  <i>Oben auf den Erhöhungen am Weg</i> §spr-9-3
+ }
+#}
 #spr-8-4 {
  {
   TODO: <i>Menschenkinder</i> eigentlich 'Söhne der Menschen'. Ebenso Vers 31
@@ -45487,6 +45492,16 @@
   <br>Beachte, dass <a href='http://bibel.renenyffenegger.ch/jak_3.html#v17'>Jak&nbsp;3,17</a> sieben Elemente zur Weisheit gehörend aufzählt.
  }
 #}
+#spr-9-3 {
+ {
+  <i>Höhen der Stadt</i> §spr-8-2
+ }
+#}
+#spr-9-4 {
+ {
+  §Vspr-9-16
+ }
+#}
 #spr-9-7 {
  {
   Vgl Verse 7 und 8 mit <a href='http://bibel.renenyffenegger.ch/spr_13.html#v1'>Spr&nbsp;13,1</a> und
@@ -45497,6 +45512,16 @@
  {
    <i>Furcht des Herrn</i>: §+spr-1-7, <i>Anfang der Weisheit</i>: §+spr-4-7, §ps-111-10
    <br>Vgl auch §hi-28-28.
+ }
+#}
+#spr-9-16 {
+ {
+  §Vspr-9-4
+ }
+#}
+#spr-9-17 {
+ {
+  Vgl §spr-20-17
  }
 #}
 @}
@@ -46104,6 +46129,11 @@
 #spr-20-14 {
  {
   <span class='u'>Dieser Vers fehlt offenbar in der LXX</span>.
+ }
+#}
+#spr-20-17 {
+ {
+  Vgl §spr-9-17
  }
 #}
 #spr-20-19 {
