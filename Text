@@ -1630,6 +1630,9 @@
   <span class='u'>Der letzte Buchstabe dieses Kapitels ist gemäss Zint der 9135 Buchstabe der Bibel. Diese 9135 Buchstaben ergeben zusammen
   den Zahlenwert 600 000. (Vgl → biblisches/Grundtext/Zahlen/index)</span>
  }
+ {
+  150 Tage sind 5 Monate, vgl §offb-9-5
+ }
 #}
 @}
 @1. Mose 8 {
@@ -3295,6 +3298,9 @@
 #1mo-17-5 {
  {
   <i>Vater einer Menge Nationen</i>: §roem-4-17
+ }
+ {
+  <i>sondern Abraham soll dein Name sein</i> §neh-9-7
  }
 #}
 #1mo-17-6 {
@@ -8543,7 +8549,11 @@
 #}
 #2mo-12-15 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
+  <i>Den → biblisches/Eigene-Uebersetzung/Konkordanz/Sauerteig aus den Häusern wegtun</i>: dies wurde vom Herrn wohl erfüllt, als er die
+  → biblisches/Bücher/Evangelien/Abschnitte#ev-tempelreinigung[Verkäufer aus dem Tempel heraustrieb].
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
  }
  {
   TODO: <a href="http://www.bibleinsight.com/annual.html">http://www.bibleinsight.com/annual.html</a>.
@@ -12118,8 +12128,7 @@
  }
  {
   Beachte, dass die
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/HERRN[Feste des Herrn] beim ersten Mal auf dem Berg nicht erwähnt werden, wohl aber <i>vorher</i>:
-  <a class='kom' href='#I2mo-23-15'>2.&nbsp;Mo&nbsp;23,15</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/HERRN[Feste des Herrn] beim ersten Mal auf dem Berg nicht erwähnt werden, wohl aber <i>vorher</i>: §+2mo-23-15.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Monat/Aehren
@@ -38151,6 +38160,9 @@
  {
   <a href="https://renenyffenegger.ch/Biblisches/Buecher/Esra/Esra-2_Nehemia-7.html">Vergleich der Zahlen in Esra 2 und Nehemia 7</a>
  }
+ {
+  §+neh-9-7
+ }
 #}
 #neh-7-7 {
  {
@@ -38449,7 +38461,12 @@
 #}
 #neh-9-7 {
  {
-  → biblisches/Personen/Abraham[Abram] vgl §1mo-12-1
+  → biblisches/Personen/Abraham[Abram] vgl §1mo-12-1, §1mo-17-5
+ }
+ {
+  Beachte: in diesem Gebet wird Abraham, nicht aber Jakob oder Mose (§Vneh-9-11) namentlich erwähnt.
+ <br>
+  So, wie Abraham aus Chaldäa (= Babel?) ins verheissene Land kam, kamen auch die Weggeführten der Gefangenschaft nach Jerusalem, §neh-7-6
  }
 #}
 #neh-9-8 {
@@ -57339,8 +57356,8 @@
 #}
 #am-5-26 {
  {
-  <i>Kaiwan</i> (<span class='hebr'>כִּיּוּן</span>, Strongs 3594), von Stephanus in <a class='kom' href='#Iapg-7-43'>Apg&nbsp;7,43</a> mit
-  <span class='gr'>Ῥαιφάν</span> (Strongs 4481) wiedergebeben. (Ebenso offenbar auch in der LXX).
+  <i>Kaiwan</i> (<span class='hebr'>כִּיּוּן</span>, Strongs 3594), von Stephanus in §+apg-7-43 mit <span class='gr'>Ῥαιφάν</span> (Strongs 4481) wiedergebeben. (Ebenso offenbar auch in der
+  → biblisches/Grundtext/LXX[LXX]).
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
@@ -62137,7 +62154,10 @@
 #}
 #mt-17-4 {
  {
-  <i>Hütten</i> (<span class='gr'>σκηνή</span>, Strongs 4633) häufig auch mit 'Zelt' übersetzt: (vgl <a class='kom' href='#Ihebr-8-2'>Hebr&nbsp;8,2</a>).
+  §mk-9-5, §lk-9-33
+ }
+ {
+  <i>Zelte</i> (<span class='gr'>σκηνή</span>, Strongs 4633) häufig auch mit 'Zelt' übersetzt: (vgl §+hebr-8-2).
   <br>Beachte, dass hier Petrus ein 'Zelt' bauen will, dass er aber seines in <a class='kom' href='#I2petr-1-13'>2.&nbsp;Petr&nbsp;1,13-14</a> ablegen
   wird.
   <br>TODO: sind die 'Hütten' eine Anspielung auf die Laubhütten?
@@ -67712,7 +67732,7 @@
 #}
 #lk-5-2 {
  {
-         <i>Netze waschen</i>: <a class='kom' href='#Imt-4-21'>Mt&nbsp;4,21</a>.
+  <i>Netze waschen</i>: <a class='kom' href='#Imt-4-21'>Mt&nbsp;4,21</a>.
  }
 #}
 #lk-5-3 {
@@ -67810,8 +67830,7 @@
 #}
 #lk-5-24 {
  {
-  TODO: vgl <a href='http://bibel.renenyffenegger.ch/lk_7.html#v14'>Lk&nbsp;7,14</a>.
-  S.a. <a class='kom' href='#Imk-2-11'>Mk&nbsp;2,11</a>.
+  §lk-7-14, S.a. §+mk-2-11.
  }
 #}
 #lk-5-26 {
@@ -68087,10 +68106,7 @@
 #}
 #lk-7-14 {
  {
-  Vgl §lk-8-54, §apg-9-40
- }
- {
-  TODO: vgl <a class='kom' href='#Ilk-5-24'>Lk&nbsp;5,24</a>.
+  Vgl §lk-5-24, §lk-8-54, §apg-9-40
  }
 #}
 #lk-7-16 {
@@ -71649,7 +71665,12 @@
 #}
 #joh-5-8 {
  {
-  <i>Steh auf, nimm deine Liegematte und wandle</i> vgl §mt-9-6, §+mk-2-11
+  <i>Steh auf, nimm deine Liegematte und wandle</i> vgl §mt-9-6, §+mk-2-11, §lk-5-24
+ }
+#}
+#joh-5-9 {
+ {
+  Die Juden zürnen, weil Er einen Menschen am Sabbat gesund gemacht hat, §joh-7-23
  }
 #}
 #joh-5-12 {
@@ -71668,6 +71689,9 @@
 #joh-5-16 {
  {
   <i>suchten ihn zu töten</i> §joh-7-1, §joh-8-22, §joh-8-37, §joh-11-53, §joh-12-10, §joh-16-2, §joh-18-31
+ }
+ {
+  <span class='gt'>suchten ihn zu töten</span> fehlt NA.
  }
 #}
 #joh-5-18 {
@@ -72084,7 +72108,7 @@
 #}
 #joh-7-23 {
  {
-  <i>Zürnen, weil Er einen Menschen am Sabbat gesund gemacht hat</i> vgl §lk-4-28
+  <i>Zürnen, weil Er einen Menschen am Sabbat gesund gemacht hat</i> vgl §joh-5-9, §lk-4-28
  }
 #}
 #joh-7-24 {
@@ -75652,6 +75676,9 @@
  }
 #}
 #apg-7-46 {
+ {
+  <i>Wohnstätte</i>: <span class='gr'>σκήνωμα </span> (Strongs 4638, 3x), vgl mit <span class='gr'>σκηνή</span> (Strongs 4633), welches in den Versen 43 und 44 mit «Zelt» übersetzt wird.
+ }
  {
   <i>David fand Gnade</i>: hat zwischen Mose und David niemand Gnade gefunden?
   <br>Vgl mit Noah, der 'Gnade in den Augen des Herrn' fand.
@@ -93666,6 +93693,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-8-2 {
  {
+  Vgl «Das <i>Zelt</i> (<span class='gr'>σκηνή</span>, Strongs 4633), welches der Herr errichtet <span class='gr'>πήγνυμι</span> (Strongs 4078) hat» mit dem Griechischen Wort
+  für → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhütte]: <span class='gr'>σκηνοπηγία</span> (Strongs 4634).
+ }
+ {
   <i>Zelt</i> (<span class='gr'>σκηνή</span>, Strongs 4633) wird in Sch2K mit «Stiftshütte», in Elberfelder mit «Hütte» übersetzt.
   <br>
   Vgl §+mt-17-4
@@ -93809,6 +93840,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>einmal im Jahr</i> §3mo-16-2-ff, §2mo-30-10, §3mo-16-34
  }
+ {
+  <i>nicht ohne Blut</i> §Vhebr-9-18
+ }
 #}
 #hebr-9-8 {
  {
@@ -93863,6 +93897,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-9-12 {
  {
   Christus ist in das Heiligtum eingegangen (vgl §Vhebr-9-24-ff), auch die «Brüder» haben nun Freimütigkeit zum Eintritt in das Heiligtum durch das Blut Jesu (§hebr-10-19)
+ }
+ {
+  <i>mit seinem eigenen Blut</i> (<span class='gr'>δια δε του ιδιου αιματος</span>) wäre vielleicht besser übersetzt mit «durch sein eigenes Blut» oder «mittels seinem eigenen Blut».
  }
  {
   TODO <i>erlangt</i>: Strongs 2147, häufig mit «finden» übersetzt.
@@ -99461,12 +99498,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-9-5 {
  {
-  <i>Fünf Monate</i>: §lk-1-24
+  <i>Fünf Monate</i>: §lk-1-24. Fünf Monate (150 Tage, §1mo-7-24) dauerte es auch vom Beginn der → biblisches/Flut (17. des zweiten Monats, §1mo-7-11) bis der Kasten (die «Arche») ruhte (17. des 7. Monats, §1mo-8-4).
+  (Vgl → <a href='https://renenyffenegger.ch/Biblisches/Grafiken/Ablauf-Flut.html'>Ablauf der Flut</a>).
  }
 #}
 #offb-9-6 {
  {
-  Die Menschen werden zwar den Tod nicht finden, aber ein drittel kommt in <a href='http://bibel.renenyffenegger.ch/offb_9.html#v18'>Offb&nbsp;9,18</a>
+  Die Menschen werden zwar den Tod nicht finden, aber ein Drittel kommt in §offb-9-18
   trotzdem um.
  }
 #}
