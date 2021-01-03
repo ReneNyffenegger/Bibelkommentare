@@ -28344,11 +28344,19 @@
 #}
 #2sam-7-14 {
  {
+  §spr-3-12
+ }
+ {
   TODO: Das sagt David doch zu Salomo. Gemäss <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v5'>Hebr&nbsp;1,5</a> zu Jesus Christus.
   <br>TODO: Auf wen bezieht sich dann die Züchtigung.
  }
  {
   «Wenn er eine ... Menschenrute ... strafen» fehlt in der "Parallelstelle" in <a href='http://bibel.renenyffenegger.ch/1chr_17.html#v13'>1. Chr 17,13ff</a>.
+ }
+#}
+#2sam-7-16 {
+ {
+  Vgl §ps-45-7
  }
 #}
 #2sam-7-18 {
@@ -41525,12 +41533,15 @@
 #}
 #ps-45-7 {
  {
-  Hier wird ausdrücklich vom Thron des Sohnes gesprochen, siehe <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v8'>Hebr&nbsp;1,8</a>. Der Sohn ist also Gott.
+  Hier wird ausdrücklich vom Thron des Sohnes gesprochen, siehe §hebr-1-8. Der Sohn ist also Gott.
  }
  {
   <i>Thron des HERRN</i> und <i>Königtum</i> vgl <a href='http://bibel.renenyffenegger.ch/ps_103.html#v19'>Ps&nbsp;103,19</a>,
   <a href='http://bibel.renenyffenegger.ch/ps_145.html#v11'>Ps 145,11-13</a>.
   <br>Vgl auch mit dem «Reich der Himmel» in <a class='kom' href='#Imt-3-2'>Mt&nbsp;3,2</a>.
+ }
+ {
+  <i>Dein Thron, o Gott, ist immer und ewiglich</i> §2sam-7-16
  }
  {
   TODO: Offenbar enthält dieser Vers Strongs 7626, siehe <a class='kom' href='#I1mo-49-10'>1.&nbsp;Mo&nbsp;49,10</a>.
@@ -43422,7 +43433,10 @@
 #}
 #ps-97-7 {
  {
-  <i>ihr Götter</i> vgl §Vps-96-9, §ps-96-4.
+  <i>ihr Götter</i> vgl §ps-96-4.
+ }
+ {
+  Möglicherweise wird dieser Vers in §hebr-1-6 zitiert.
  }
 #}
 #ps-97-8 {
@@ -45363,7 +45377,7 @@
 #}
 #spr-3-12 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/hebr_12.html#v5'>Hebr 12,5-11</a>.
+  Vgl §hebr-12-5-11, §2sam-7-14
  }
 #}
 #spr-3-14 {
@@ -70793,13 +70807,8 @@
   <i>eingeborener Sohn</i>: §+lk-7-12
  }
  {
-  <i>Niemand hat Gott gesehen</i>: <a class='kom' href='#I1joh-4-12'>1.&nbsp;Joh&nbsp;4,12</a>.
-  <br>Vgl <a href='http://bibel.renenyffenegger.ch/joh_5.html#v37'>Joh&nbsp;5,37</a>,
-  <a href='http://bibel.renenyffenegger.ch/joh_6.html#v46'>Joh&nbsp;6,46</a>,
-  <a href='http://bibel.renenyffenegger.ch/joh_14.html#v9'>Joh&nbsp;14,9</a>,
-  <a href='http://bibel.renenyffenegger.ch/joh_20.html#v18'>Joh&nbsp;20,18</a>,
-  <a href='http://bibel.renenyffenegger.ch/1joh_4.html#v12'>1.&nbsp;Joh&nbsp;4,12</a> und
-  <a href='http://bibel.renenyffenegger.ch/1joh_4.html#v20'>1.&nbsp;Joh&nbsp;4,20</a>.
+  <i>Niemand hat Gott gesehen</i>: §+1joh-4-12.
+  <br>Vgl §joh-5-37, §joh-6-46, §joh-14-9, §joh-20-18 und §1joh-4-20.
  }
  {
   §+mt-11-27
@@ -71403,6 +71412,9 @@
 #joh-3-31 {
  {
   Vgl §hebr-12-25
+ }
+ {
+  <i>Der vom Himmel kommt</i> vgl §joh-20-17
  }
 #}
 #joh-3-34 {
@@ -72328,7 +72340,7 @@
   <i>Wo ist dein Vater</i>: vgl §+Vjoh-8-39 «Abraham ist unser Vater».
  }
  {
-  <i>Ihr kennt weder mich noch meinen Vater</i> §+2thes-1-8, §joh-1-33, §joh-10-15, §joh-14-7, §joh-17-3, §1joh-2-13, §joh-6-42
+  <i>Ihr kennt weder mich noch meinen Vater</i> §+2thes-1-8, §joh-1-33, §joh-10-15, §joh-14-7, §joh-17-3, §1joh-2-13, §joh-6-42, §apg-17-23. Vgl §joh-17-3
  }
 #}
 #joh-8-20 {
@@ -72577,6 +72589,11 @@
 #joh-10-10 {
  {
   Jesus ist → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen[gekommen, damit sie Leben haben], Er selbst gibt sein Lösegeld für viele §mt-20-28, §mk-10-45
+ }
+#}
+#joh-10-11 {
+ {
+  <i>Sein Leben lassen</i>: §joh-15-13. Vgl mit → biblisches/Personen/Petrus, §+joh-13-37
  }
 #}
 #joh-10-12 {
@@ -73180,9 +73197,13 @@
 #}
 #joh-13-37 {
  {
-  <i>Mein Leben will ich für dich lassen</i>, vgl §mk-14-29, §lk-22-33
-<br>
-   Petrus wird dann tatsächlich durch seinen Tod Gott verherrlichen: §joh-21-19
+  <i>Mein Leben will ich für dich lassen</i>, vgl §mk-14-29, §lk-22-33.
+ <br>
+  Der Herr läßt sein Leben für die Schafe, §joh-10-11-ff.
+ <br>
+  Niemand hat grössere Liebe als der, der sein Leben läßt für seine Freunde, §joh-15-13
+ <br>
+  Petrus wird dann tatsächlich durch seinen Tod Gott verherrlichen: §joh-21-19
  }
 #}
 @}
@@ -73258,7 +73279,7 @@
   <i>Kurze/lange/kleine Zeit</i> in Johannes: <a class='kom' href='#Ijoh-5-6'>Joh&nbsp;5,6</a>.
  }
  {
-  <i>Gott sehen</i>: <a class='kom' href='#Ijoh-1-18'>Joh&nbsp;1,18</a>.
+  <i>Wer mich gesehen hat, hat den Vater gesehen</i>: §+joh-1-18.
   <br>Beachte, dass Maria Magdalena den Jüngern verkünden wird, dass <i>sie</i> den Herrn gesehen hat (<a href='http://bibel.renenyffenegger.ch/joh_20.html#v18'>Joh&nbsp;20,18</a>).
   <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/kol_1.html#v15'>Kol&nbsp;1,15</a>.
  }
@@ -73454,7 +73475,7 @@
 #}
 #joh-15-21 {
  {
-  <i>weil sie den nicht kennen, der mich gesandt hat</i> vgl §joh-7-28, §+joh-1-26
+  <i>weil sie den nicht kennen, der mich gesandt hat</i> vgl §joh-7-28, §joh-8-19, §joh-17-3, §+joh-1-26
  }
 #}
 #joh-15-25 {
@@ -73584,7 +73605,7 @@
 #}
 #joh-17-3 {
  {
-   <i>Gott erkennen</i> §+joh-8-19
+  <i>Gott erkennen</i> §+joh-8-19, §joh-15-21
  }
 #}
 #joh-17-4 {
@@ -73826,6 +73847,11 @@
 #}
 @}
 @Johannes 19 {
+#joh-19-1 {
+ {
+  <i>geißeln</i> vgl §hebr-12-6
+ }
+#}
 #joh-19-7 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/joh_18.html#v31'>Joh&nbsp;18,31</a>.
@@ -73993,12 +74019,15 @@
 #}
 #joh-20-17 {
  {
+  <i>Ich fahre auf zu meinem Vater</i> vgl §joh-3-31
+ }
+ {
   TODO: Vgl <a class='kom' href='#Imt-28-9'>Mt&nbsp;28,9</a> (wo die beiden Marias Jesu Füsse umfassen).
  }
 #}
 #joh-20-18 {
  {
-  <i>Gott sehen</i>: <a class='kom' href='#Ijoh-1-18'>Joh&nbsp;1,18</a> (Vgl <a class='kom' href='#Ijoh-14-9'>Joh&nbsp;14,9</a>)
+  <i>Gott sehen</i>: §+joh-1-18, Vgl §+joh-14-9
  }
 #}
 #joh-20-21 {
@@ -78078,6 +78107,9 @@
  {
   <i>unbekannter Gott</i> vgl «höchster Gott» in §apg-16-17
  }
+ {
+  <i>ohne ihn zu kennen</i> §+joh-8-19
+ }
 #}
 #apg-17-24 {
  {
@@ -82118,7 +82150,7 @@
 #}
 #roem-15-11 {
  {
-  Zitat aus <a class='kom' href='#Ips-117-1'>Ps&nbsp;117,1</a>.
+  Zitat aus §+ps-117-1.
  }
 #}
 #roem-15-12 {
@@ -88336,6 +88368,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>entäusserte sich selbst</i> enthält <span class='gr'>κενόω</span> (Strongs 2758, 5x).
  }
 #}
+#phil-2-8 {
+ {
+  Vgl §hebr-5-8
+ }
+#}
 #phil-2-9 {
  {
   Der <i>erhöhte Sohn des Menschen</i>: <a class='kom' href='#Ijoh-3-14'>Joh&nbsp;3,14</a>.
@@ -92913,6 +92950,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-1-5 {
  {
   <i>Du bist mein Sohn …</i>: Zitat aus §ps-2-7. Vgl §hebr-5-5
+ <br>
+  Vgl §hebr-12-5-ff
  }
  {
   Vgl §+2sam-7-14.
@@ -92923,8 +92962,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <i>den Erstgeborenen</i> mit der «Versammlung der Erstgeborenen», §hebr-12-23
  }
  {
-  Dieses Vers zitiert wohl §5mo-32-43 aus der → biblisches/Grundtext/LXX, welcher im → biblisches/Grundtext/Masoretischer-Text[masoretischen Text] nicht vorhanden ist.
-  (Vgl → biblisches/Grundtext/LXX-vs-masoretischer-Text)
+  Dieses Vers zitiert möglicherweise einen Textteil aus §5mo-32-43 aus der → biblisches/Grundtext/LXX, der im → biblisches/Grundtext/Masoretischer-Text[masoretischen Text] nicht vorhanden ist.
+  (Vgl → biblisches/Grundtext/LXX-vs-masoretischer-Text). Es gibt allerdings offenbar auch Ausleger, die davon ausgehen, dass dieser Vers §ps-97-7 zitiert.
+  <br>
+   Das Griechische Original von Hebräer 1:6 und der Septuaginta ist <span class='gr'>προσκυνησάτωσαν αὐτῷ πάντες ἄγγελοι θεοῦ</span> während die Septuaginta für §ps-97-7
+   <span class='gr'>προσκυνήσατε αὐτῷ πάντες οἱ ἄγγελοι αὐτοῦ</span> hat.
  }
 #}
 #hebr-1-7 {
@@ -92938,6 +92980,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-1-8 {
  {
   Verweis: §ps-45-7
+ }
+ {
+  <i>Thron</i> vgl §hebr-4-16, §hebr-8-1, §hebr-12-2
  }
  {
   TODO: Vielleicht mit «ist bis in die Äonen der Äonen» übersetzen.
@@ -93226,6 +93271,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Herzen verhärten</i>: vgl §mt-19-8.
  }
 #}
+#hebr-3-18 {
+ {
+  Vgl §hebr-4-11
+ }
+#}
 @}
 @Hebräer 4 {
 #hebr-4-1 {
@@ -93285,6 +93335,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #hebr-4-11 {
+ {
+  Vgl §hebr-3-18
+ }
  {
   Beachte den Widerspruch, bestrebt zu sein, in die Ruhe zu gehen.
  }
@@ -93346,7 +93399,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-4-16 {
  {
-  → biblisches/Bücher/jüdische-Briefe/Hebräer/index#freimuetigkeit-hebr im → biblisches/Bücher/jüdische-Briefe/Hebräer/index.
+  <i>Thron</i> §+hebr-1-8
+ }
+ {
+  → biblisches/Bücher/jüdische-Briefe/Hebräer/index#freimuetigkeit-hebr im → biblisches/Bücher/jüdische-Briefe/Hebräer.
  }
 #}
 @}
@@ -93399,6 +93455,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-5-8 {
  {
   <i>der vollendete Sohn</i> vgl §hebr-7-28
+ }
+ {
+  Vgl §phil-2-8
  }
 #}
 #hebr-5-9 {
@@ -93701,6 +93760,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @}
 @Hebräer 8 {
 #hebr-8-1 {
+ {
+  <i>Thron</i> §+hebr-1-8
+ }
  {
   TODO: <a class='kom' href='#Ihebr-2-17'>Hebr&nbsp;2,17</a>.
  }
@@ -94575,24 +94637,28 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>wegschauen auf Jesus</i> vgl §hebr-2-9, §hebr-3-1, §2kor-3-18, §phil-3-14
-  <br>
-  <br><i>wegschauen</i> ist <span class='gr'>ἀφοράω</span> (Strongs 872) welches vielleicht besser mit «weggschauend» übersetzt würde.
+ <br>
+  <i>wegschauen</i> ist <span class='gr'>ἀφοράω</span> (Strongs 872) welches vielleicht besser mit «weggschauend» übersetzt würde.
   Elberfelder übersetzt mit «hinschauend», Sch2K mit «hinschauen», KJV mit «Looking unto».
  }
  {
   <i>hinschauen</i>: §+hebr-2-8.
  }
+ {
+  <i>Thron</i> §+hebr-1-8
+ }
 #}
 #hebr-12-5 {
  {
-  <i>Züchtigung des Herrn</i>: <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v32'>1.&nbsp;Kor&nbsp;11,32</a>,
-  <a class='kom' href='#Ispr-3-12'>Spr&nbsp;3,12</a>.
+  <i>Züchtigung des Herrn</i>: <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v32'>1.&nbsp;Kor&nbsp;11,32</a>, <a class='kom' href='#Ispr-3-12'>Spr&nbsp;3,12</a>.
+ }
+ {
+  <i>Mein Sohn…</i> vgl §hebr-1-5
  }
 #}
 #hebr-12-6 {
  {
-  <i>schlägt</i> <span class='gr'>μαστιγόω</span> (Strongs 3146) wohl besser übersetzt mit «geisselt» (wie zB in
-  <a href='http://bibel.renenyffenegger.ch/joh_19.html#v1'>Joh&nbsp;19,1</a>).
+  <i>geißelt</i> <span class='gr'>μαστιγόω</span> (Strongs 3146) wird in Schlachter mit «schlägt», in KJV mit «scourgeth» übersetzt, vgl §joh-19-1.
  }
 #}
 #hebr-12-7 {
