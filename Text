@@ -1068,8 +1068,7 @@
   Beachte: Kains wurde nicht verfucht, weil sein Opfer nicht angenommen wurde, sondern weil er seinen Bruder erschlagen hatte (Vers 8).
  }
  {
-  <i>Der Erdboden hat seinen Mund aufgetan</i>: vgl <a href='http://bibel.renenyffenegger.ch/4mo_16.html#v30'>4.&nbsp;Mo&nbsp;16,30</a>,
-  <a href='http://bibel.renenyffenegger.ch/5mo_11.html#v6'>5.&nbsp;Mo&nbsp;11,6</a> und <a href='http://bibel.renenyffenegger.ch/offb_12.html#v16'>Offb&nbsp;12,16</a>.
+   <i>Der Erdboden, der seinen Mund aufgetan hat</i>: vgl §4mo-16-30, §5mo-11-6 und §offb-12-16.
  }
 #}
 #1mo-4-12 {
@@ -8793,6 +8792,10 @@
 #2mo-13-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Monat/Aehren, vgl §+2mo-9-31
+ }
+ {
+  TODO: das hebräische Jahr beginnt offenbar mit der Ernte.
+  <br>Vgl §5mo-11-1
  }
 #}
 #2mo-13-5 {
@@ -19856,7 +19859,7 @@
 @5. Mose 4 {
 #5mo-4-2 {
  {
-  <i>Ihr sollt nichts hinzutun</i> vgl §5mo-5-22, §spr-30-6 und §offb-22-18-19
+  <i>Ihr sollt nichts hinzutun</i> vgl §5mo-5-22, §5mo-13-1, §spr-30-6 und §offb-22-18-19.
  }
 #}
 #5mo-4-3 {
@@ -20654,7 +20657,7 @@
 #}
 #5mo-11-6 {
  {
-   <b>Der Erdboden tut seinen Mund auf</b> siehe <a class='kom' href='#I1mo-4-11'>1.&nbsp;Mo&nbsp;4,11</a>.
+   <i>Wie die Erde ihren Mund auftat</i> §+1mo-4-11.
  }
 #}
 #5mo-11-7 {
@@ -20692,7 +20695,7 @@
 #}
 #5mo-11-29 {
  {
-  <i>Gerisim</i> und <i>Ebal</i>: §+5mo-27-4 und §5mo-27-12-ff.
+  <i>Gerisim</i> und <i>Ebal</i>: §+5mo-27-4 und §5mo-27-12-ff, §jos-8-30-ff
  }
 #}
 #5mo-11-30 {
@@ -20722,7 +20725,12 @@
 #}
 #5mo-12-8 {
  {
-  <i>Ihr sollt nicht tun … was irgend recht ist in seinen Augen</i> vgl §2mo-15-26
+  <i>Ihr sollt nicht tun … was irgend recht ist in seinen Augen</i> vgl §2mo-15-26, §ri-17-6, §ri-21-25
+ }
+#}
+#5mo-12-9 {
+ {
+  <i>Noch nicht zu der Ruhe gekommen</i> vgl §hebr-3-11-ff, §hebr-4-1-ff
  }
 #}
 #5mo-12-10 {
@@ -20766,6 +20774,11 @@
 #}
 @}
 @5. Mose 13 {
+#5mo-13-1 {
+ {
+  Vgl §+5mo-4-2, §offb-22-18-19
+ }
+#}
 #5mo-13-2 {
  {
   Vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], der Lüge lehrt: §jes-9-14 und die Lügen im Namen des HERRN weissagen: §jer-14-14.
@@ -22813,6 +22826,9 @@
  }
 #}
 #jos-8-30 {
+ {
+  Ebal ist der Berg, wo der Fluch ausgesprochen werden sollte, §5mo-11-29
+ }
  {
   TODO: wurde vergessen, die mit Kalk bestrichenen Steine auf dem Ebal aufzurichten (<a href='http://bibel.renenyffenegger.ch/5mo_27.html#v2'>5.&nbsp;Mo&nbsp;27,2-4</a>)?
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/5mo_27.html#v8'>5.&nbsp;Mo&nbsp;27,8</a>.
@@ -25625,6 +25641,9 @@
   <a href='http://bibel.renenyffenegger.ch/ri_19.html#v1'>Ri&nbsp;19,1</a> und im letzten Vers <a href='http://bibel.renenyffenegger.ch/ri_21.html#v25'>Ri&nbsp;21,25</a>.
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/1sam_8.html#v5'>1.&nbsp;Sam&nbsp;8,5</a>.
  }
+ {
+  <i>Jeder tat, was recht war in seinen Augen</i> vgl §5mo-12-8
+ }
 #}
 #ri-17-7 {
  {
@@ -25989,7 +26008,7 @@
 #}
 #ri-21-25 {
  {
-  <i>Zu jener Zeit</i>: <a class='kom' href='#Iri-17-6'>Ri&nbsp;17,6</a>.
+  <i>In jenen Tagen … was recht war in seinen Augen</i>: §+ri-17-6, vgl §5mo-12-8
  }
 #}
 @}
@@ -93260,6 +93279,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
  }
+ {
+  <i>Ruhe</i> vgl §hebr-4-1, §5mo-12-9
+ }
 #}
 #hebr-3-13 {
  {
@@ -93281,6 +93303,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-4-1 {
  {
   <i>Verheissung</i>: §apg-26-6
+ }
+ {
+  <i>Ruhe</i> vgl §hebr-3-1-ff, §5mo-12-9
  }
  {
   TODO: Wo im Hebräerbrief kommt <i>Verheissung</i> (<span class='gr'>ἐπαγγελία</span>, Strongs 1860)
@@ -102030,7 +102055,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-22-18 {
  {
-  Siehe <a class='kom' href='#I5mo-4-2'>5.&nbsp;Mo&nbsp;4,2</a>
+  Siehe §+5mo-4-2
  }
 #}
 #offb-22-19 {
