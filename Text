@@ -8643,7 +8643,7 @@
 #}
 #2mo-12-35 {
  {
-  <i>silberne und goldene Geräte</i>, die beim Auszug mitgenommen wurden: §+2mo-3-22, §2mo-11-2
+  <i>silberne und goldene Geräte</i>, die beim Auszug mitgenommen wurden: §+2mo-3-22, §2mo-11-2, §5mo-15-14-15
  }
 #}
 #2mo-12-37 {
@@ -9946,6 +9946,9 @@
 #2mo-21-6 {
  {
   <i>Gott</i> <span class='he'>הָאֱלֹהִים</span>, in Elb05 mit «Richter», in KJV mit «judges» übersetzt. Vgl §+2mo-22-7, §2mo-22-27.
+ }
+ {
+  §5mo-15-17
  }
 #}
 #2mo-21-8 {
@@ -19872,6 +19875,11 @@
    Vgl §+apg-10-34-35
  }
 #}
+#5mo-4-10 {
+ {
+  <i>den HERRN fürchten lernen</i> §5mo-31-12-13, §5mo-14-23, §5mo-17-19
+ }
+#}
 #5mo-4-11 {
  {
   <i>der Berg brannte</i> vgl §2mo-19-18
@@ -20176,6 +20184,8 @@
   Dies ist das grösste Gebot, §mt-22-36-39, vgl mit dem «zweiten», §+3mo-19-18, §3mo-19-34
  <br>
   Vgl auch §5mo-10-12, §5mo-30-16 und mit mit Josuas Rat an die Rubeniter, Gaditer und den halben Stamm Manasse in §jos-22-5.
+ <br>
+  Vgl auch mit der Versuchung durch Propheten, §5mo-13-2-4
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben
@@ -20789,6 +20799,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder
  }
 #}
+#5mo-13-4 {
+ {
+  <i>ob ihr Jehova, euren Gott, liebt mit eurem ganzen Herzen und mit eurer ganzen Seele</i> vgl §5mo-6-5
+ }
+#}
 #5mo-13-6 {
  {
   <i>Haus der Knechschaft</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-knechte-aegyptens, §V5mo-13-11,
@@ -20815,8 +20830,7 @@
 #}
 #5mo-13-16 {
  {
-  TODO: Besteht hier ein Zusammenhang mit Jericho? (<a href='http://bibel.renenyffenegger.ch/jos_6.html#v26'>Jos&nbsp;6,26</a>)
-   (<i>Die Stadt niemehr bauen</i>).
+  <i>Die Stadt niemehr bauen</i>: Besteht hier ein Zusammenhang mit Jericho? (§jos-6-26).
  }
 #}
 @}
@@ -20836,12 +20850,12 @@
 #}
 #5mo-14-3 {
  {
-  Vgl <a class='kom' href='#I3mo-11-2'>3.&nbsp;Mo&nbsp;11,2</a>.
+  Vgl §+3mo-11-2.
  }
  {
   Petrus wird gezeigt, dass für ihn diese Gebote nicht mehr gelten (<a href='http://bibel.renenyffenegger.ch/apg_10.html#v11'>Apg 10,11-16</a>).
-  Offenbar bedeuten sie, dass es einem 'jüdischen Mann nicht erlaubt ist, mit einem Angehörigen eines anderen Volkes zu verkehren, oder
-  sich ihm zu nahen.' (<a href='http://bibel.renenyffenegger.ch/apg_10.html#v28'>Apg&nbsp;10,28</a>)
+  Offenbar bedeuten sie, dass es einem «jüdischen Mann nicht erlaubt ist, mit einem Angehörigen eines anderen Volkes zu verkehren, oder
+  sich ihm zu nahen.» (§apg-10-28)
  }
 #}
 #5mo-14-4 {
@@ -20873,12 +20887,19 @@
   <i>Zehnter</i>: siehe <a class='kom' href='#I3mo-27-30'>3.&nbsp;Mo&nbsp;27,30</a>.
  }
 #}
+#5mo-14-23 {
+ {
+  <i>den HERRN fürchten lernen</i> §+5mo-4-10
+ }
+#}
 #5mo-14-27 {
  {
-  <i>In den Werken der Händen gesegnet werden</i>: vgl <a class='kom' href='#I5mo-2-7'>5.&nbsp;Mo&nbsp;2,7</a>.
- }
- {
   <a class='kom' href='#I5mo-10-9'>5.&nbsp;Mo&nbsp;10,9</a>.
+ }
+#}
+#5mo-14-29 {
+ {
+  <i>In den Werken der Händen gesegnet werden</i>: vgl §+5mo-2-7.
  }
 #}
 @}
@@ -20888,9 +20909,24 @@
   <i>Almosen</i>: <a class='kom' href='#Imt-6-1'>Mt&nbsp;6,1</a>.
  }
 #}
+#5mo-15-11 {
+ {
+  <i>der Arme wird nicht aufhören inmitten des Landes</i> vgl §mt-26-11
+ }
+#}
 #5mo-15-12 {
  {
    Vgl §2mo-21-2, §jer-34-13-14.
+ }
+#}
+#5mo-15-14 {
+ {
+  Vgl §2mo-12-35-36: Die Israeliten forderten von und beraubten von den Ägyptern, als sie auszogen.
+ }
+#}
+#5mo-15-17 {
+ {
+  §2mo-21-6
  }
 #}
 #5mo-15-18 {
@@ -21017,6 +21053,11 @@
 #5mo-17-18 {
  {
   <i>Eine Abschrift des Gesetzes erstellen</i>: §jos-8-32, vgl §+5mo-31-9
+ }
+#}
+#5mo-17-19 {
+ {
+  <i>den HERRN fürchten lernen</i> §+5mo-4-10
  }
 #}
 @}
@@ -21808,6 +21849,11 @@
  {
   In §neh-8-2-ff las → biblisches/Personen/Esra das Gesetz vor dem → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfest]. In §neh-8-18
   las man es während den Laubhütten, in §neh-9-3 nach dem Laubhüttenfest.
+ }
+#}
+#5mo-31-12 {
+ {
+  §5mo-4-10
  }
 #}
 #5mo-31-14 {
@@ -22697,7 +22743,7 @@
 #}
 #jos-6-26 {
  {
-  TODO: <a class='kom' href='#I5mo-13-16'>5.&nbsp;Mo&nbsp;13,16-17</a>.
+  §+5mo-13-16-17.
  }
  {
   Der HERR redete durch Josua (<a href='http://bibel.renenyffenegger.ch/1koe_16.html#v34'>1.&nbsp;Kö&nbsp;16,34</a>).
@@ -62492,7 +62538,7 @@
 #}
 #mt-19-21 {
  {
-  <i>alles verkaufen</i> vgl §mk-10-21, §lk-12-33, §lk-18-22, §apg-2-45, §apg-4-34, §apg-5-2-ff
+  <i>alles verkaufen und den Armen geben</i> vgl §mt-26-9, §mk-10-21, §lk-12-33, §lk-18-22, §apg-2-45, §apg-4-34, §apg-5-2-ff
  }
  {
   <i>Schatz im Himmel</i> vgl §+mt-6-19-ff, §5mo-28-12
@@ -63597,6 +63643,16 @@
 #mt-26-8 {
  {
   Jünger reut das Salböl: vgl <a class='kom' href='#Ijoh-12-5'>Joh&nbsp;12,5</a>.
+ }
+#}
+#mt-26-9 {
+ {
+  <i>den Armen geben</i> vgl §mt-19-21
+ }
+#}
+#mt-26-11 {
+ {
+  Vgl §5mo-15-11
  }
 #}
 #mt-26-13 {
