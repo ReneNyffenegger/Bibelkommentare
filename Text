@@ -20966,9 +20966,19 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Wochen
  }
 #}
+#5mo-16-11 {
+ {
+  <i>… die in deiner Mitte sind</i> vgl §V5mo-16-14
+ }
+#}
 #5mo-16-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten 
+ }
+#}
+#5mo-16-14 {
+ {
+  <i>… die in deinen Toren sind</i> vgl §V5mo-16-11
  }
 #}
 #5mo-16-16 {
@@ -21095,7 +21105,7 @@
 #}
 #5mo-18-15 {
  {
-  Vgl §mal-3-23, §apg-3-22, §lk-7-16, §joh-1-21, §joh-1-25, §hos-12-14
+  Vgl §mal-3-23, §apg-3-22, §lk-7-16, §joh-1-21, §joh-1-25, §hos-12-14, §5mo-34-10
  <br>
   <i>aus deiner Mitte</i>: §joh-1-26
  }
@@ -21118,11 +21128,6 @@
  }
  {
   <i>Tag der Versammlung</i>: siehe <a class='kom' href='#I5mo-9-10'>5.&nbsp;Mo&nbsp;9,10</a>.
- }
-#}
-#5mo-18-18 {
- {
-  TODO: vgl <a href='http://bibel.renenyffenegger.ch/5mo_34.html#v10'>5.&nbsp;Mo&nbsp;34,10</a>.
  }
 #}
 #5mo-18-21 {
@@ -21164,12 +21169,12 @@
 #}
 #5mo-19-9 {
  {
-  Vgl: <a class='kom' href='#I5mo-6-5'>5.&nbsp;Mo&nbsp;6,5</a>
+  <i>dieses ganze Gebot zu tun, … indem du Jehova, deinen Gott, liebst …</i> Vgl: §+5mo-6-5
  }
 #}
 #5mo-19-10 {
  {
-   TODO: <a class='kom' href='#I4mo-35-33'>4.&nbsp;Mo&nbsp;35,33</a>.
+   §+4mo-35-33
  }
 #}
 #5mo-19-11 {
@@ -21194,7 +21199,7 @@
 #}
 #5mo-19-21 {
  {
-  <i>Leben um Leben</i> vgl <a class='kom' href='#I2mo-21-23'>2.&nbsp;Mo&nbsp;21,23</a>.
+  <i>Leben um Leben</i> vgl §+2mo-21-23.
  }
 #}
 @}
@@ -22278,7 +22283,7 @@
   Der HERR kannte → biblisches/Personen/Mose von <i>Angesicht zu Angesicht</i> vgl §2mo-33-11
  }
  {
-   Vgl §5mo-18-18
+   Vgl §5mo-18-15
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
