@@ -18363,8 +18363,7 @@
 #}
 #4mo-26-11 {
  {
-  TODO: Sind die 'Söhne Korahs' Sänger geworden, weil diejenigen am besten loben können, die
-  vom Gericht verschont geblieben sind? (<a href='http://bibel.renenyffenegger.ch/2chr_20.html#v19'>2.&nbsp;Chr&nbsp;20,19</a>).
+  Die <i>Söhne Korahs</i> sind wohl Sänger geworden, weil diejenigen am besten loben können, die vom Gericht verschont geblieben sind (§2chr-20-19).
  }
  {
   → biblisches/Personen/Perez/Judas-Sohn
@@ -21366,12 +21365,17 @@
   → biblisches/Personen/Perez/Judas-Sohn#zehn-geschlechter-von-perez
  }
 #}
+#5mo-23-4 {
+ {
+  §neh-13-1-2
+ }
+#}
 #5mo-23-5 {
  {
   Bileam liebte den Lohn der Ungerechtigkeit: §2petr-2-15
  }
  {
-  §neh-13-2
+  §5mo-25-17
  }
 #}
 #5mo-23-8 {
@@ -21408,6 +21412,9 @@
  {
   <i>Haus des HERRN</i>: §+2mo-23-19.
  }
+ {
+  <i>Hund</i>: Gemäss eines Kommentars wurden männliche Kultprostituierte als Hunde bezeichnet.
+ }
 #}
 #5mo-23-20 {
  {
@@ -21442,6 +21449,11 @@
  {
   TODO: Aussatz als Folge von Ungehorsam gegenüber Leviten: <a href='http://bibel.renenyffenegger.ch/4mo_12.html#v10'>4.&nbsp;Mo&nbsp;12,10</a>,
   <a href='http://bibel.renenyffenegger.ch/2chr_26.html#v19'>2.&nbsp;Chr&nbsp;26,19</a>.
+ }
+#}
+#5mo-24-9 {
+ {
+  <i>Gedenke desssen, … als ihr aus Ägypten zogt</i> vgl §5mo-25-17
  }
 #}
 #5mo-24-14 {
@@ -21485,6 +21497,11 @@
   TODO: Vgl §2chr-19-10.
  }
 #}
+#5mo-25-3 {
+ {
+  <i>vierzig Schläge</i> vgl §2kor-11-24
+ }
+#}
 #5mo-25-4 {
  {
   Dieser Vers wurde um unsert-(Paulus?) willen geschrieben (<a href='http://bibel.renenyffenegger.ch/1kor_9.html#v8'>1.&nbsp;Kor&nbsp;9,8-10</a>).
@@ -21497,6 +21514,11 @@
 #5mo-25-5 {
  {
   <i>Schagerehe vollziehen</i>: <a class='kom' href='#I1mo-38-8'>1.&nbsp;Mo&nbsp;38,8</a>.
+ }
+#}
+#5mo-25-9 {
+ {
+  <i>Schuh ausziehen</i> §rt-4-7
  }
 #}
 #5mo-25-13 {
@@ -21515,6 +21537,9 @@
  }
 #}
 #5mo-25-17 {
+ {
+  <i>Gedenke desssen, … als ihr aus Ägypten zogt</i> vgl §5mo-24-9, §5mo-23-5
+ }
  {
   Amalek: <a class='kom' href='#I2mo-17-14'>2.&nbsp;Mo&nbsp;17,14</a>.
  }
@@ -26170,6 +26195,11 @@
   Vermutlich hatte Salmon(?) das Stück Land an Elimelech verkauft. Nachschon konnte es ja nicht gewesen sein, denn der
   kam ja nicht ins Land. Wer aber könnte ein näherer verwandt sein (<a href='http://bibel.renenyffenegger.ch/rt_3.html#v12'>Rt&nbsp;3,12</a>)
   als Boas?
+ }
+#}
+#rt-4-7 {
+ {
+  <i>Schuhe ausziehen</i> vgl §5mo-25-9
  }
 #}
 #rt-4-11 {
@@ -39007,9 +39037,9 @@
 #}
 @}
 @Nehemia 13 {
-#neh-13-2 {
+#neh-13-1 {
  {
-  §5mo-23-5
+  §5mo-23-4-5
  }
 #}
 #neh-13-5 {
@@ -86054,6 +86084,11 @@
  }
  {
   <i>Schläge</i>: <a class='kom' href='#I2kor-6-5'>2.&nbsp;Kor&nbsp;6,5</a>.
+ }
+#}
+#2kor-11-24 {
+ {
+  <i>vierzig Streiche</i> vgl §5mo-25-3
  }
 #}
 #2kor-11-25 {
