@@ -7469,6 +7469,9 @@
   §jes-19-20
  }
  {
+  §5mo-26-7
+ }
+ {
   Vgl mit §offb-8-3-5
  }
  {
@@ -21548,7 +21551,12 @@
 @5. Mose 26 {
 #5mo-26-5 {
  {
-  Vgl §am-9-13
+ TODO Vgl §am-9-13
+ }
+#}
+#5mo-26-7 {
+ {
+  §2mo-2-23
  }
 #}
 #5mo-26-8 {
@@ -21559,7 +21567,7 @@
 #}
 #5mo-26-15 {
  {
-  TODO: <i>Wohnung im Himmel</i>: <a class='kom' href='#I1koe-8-30'>1.&nbsp;Kö&nbsp;8,30</a>
+  <i>Wohnung im Himmel</i>: §+1koe-8-30
  }
 #}
 #5mo-26-18 {
@@ -21569,7 +21577,10 @@
 #}
 #5mo-26-19 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/heilig
+  §5mo-28-1
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/heilig
  }
 #}
 @}
@@ -21608,6 +21619,11 @@
 #}
 @}
 @5. Mose 28 {
+#5mo-28-1 {
+ {
+  §5mo-26-19
+ }
+#}
 #5mo-28-9 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/heilig
@@ -57377,6 +57393,9 @@
 #}
 #am-1-5 {
  {
+  vgl §am-9-7
+ }
+ {
   TODO: Offenbar enthält dieser Vers Strongs 7626, siehe <a class='kom' href='#I1mo-49-10'>1.&nbsp;Mo&nbsp;49,10</a>.
  }
  {
@@ -57619,6 +57638,9 @@
 #}
 #am-9-7 {
  {
+  Vgl §am-1-5
+ }
+ {
   Die <i>Philister</i> sind aus Kaphtor herausgeführt worden. Die Kapthoriter sind die "Brüder" der Kasluchiter, aus denen die Philister ausgegangen sind (§1mo-10-13).
  }
  {
@@ -57647,7 +57669,7 @@
 #}
 #am-9-13 {
  {
-  Vgl §5mo-26-5
+  TODO Vgl §5mo-26-5
  }
 #}
 #am-9-14 {
