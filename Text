@@ -2899,13 +2899,12 @@
 #}
 #1mo-14-18 {
  {
-   Der Hebräerbrief weist darauf hin, dass → biblisches/Personen/Melchisedek dem → biblisches/Personen/Abraham entgegen kam, als Abraham von der Niederwerfung der Könige zurückkehrte, §hebr-7-1
+  Der Hebräerbrief weist darauf hin, dass → biblisches/Personen/Melchisedek dem → biblisches/Personen/Abraham entgegen kam, als Abraham von der Niederwerfung der Könige zurückkehrte, §hebr-7-1
  }
  {
-  Der <i>König von Salem</i> wird gedeutet als 'König der Gerechtigkeit' und heisst 'König des Friedens'.
-  (<a href='http://bibel.renenyffenegger.ch/hebr_7.html#v2'>Hebr&nbsp;7,2</a>)
-  <br><span class='hebr'>מַלְכִּי־צֶדֶק</span> (Strongs 4442, 2x) bedeutet 'König der
-  Gerechtigkeit'.
+  Der <i>König von Salem</i> wird gedeutet als «König der Gerechtigkeit» und heisst «König des Friedens».  (§hebr-7-2)
+ <br><span class='hebr'>מַלְכִּי־צֶדֶק</span> (Strongs 4442, 2x) bedeutet «König der Gerechtigkeit»
+ <br>Vgl §ps-85-11 «Gerechtigkeit und Friede haben sich geküßt».
  }
  {
   Dieser König ist ohne Vater, Mutter und Geschlechtsregister, und bleibt als einer, der dem Sohn Gottes verglichen ist, Priester für immer
@@ -4930,6 +4929,11 @@
   TODO: Laban ist der Sohn von Bethuel, Bethuel ist der Sohn von Nahor.
  }
 #}
+#1mo-29-6 {
+ {
+  <i>Geht es ihm wohl?</i>: das Hebräische enthält hier das Wort <span class='hebr'>שָׁלוֹם</span> (Strongs 7965, «Frieden»).
+ }
+#}
 #1mo-29-10 {
  {
   <i>Weggewälzter Stein</i> in den Evangelien: <a href='http://bibel.renenyffenegger.ch/mk_16.html#v3'>Mk&nbsp;16,3</a>, <a href='http://bibel.renenyffenegger.ch/lk_24.html#v2'>Lk&nbsp;24,2</a>,
@@ -5956,6 +5960,12 @@
   TODO: <i>Bunter Leibrock</i> derselbe Ausdruck (Strongs 3801 und 6446) kommt als «buntes Kleid» übersetzt in <a href='http://bibel.renenyffenegger.ch/2sam_13.html#v18'>2.&nbsp;Sam&nbsp;13,18</a> vor.
  }
 #}
+#1mo-37-4 {
+ {
+  Hier vermochten die Brüder Josephs nicht mehr, mit ihm in Frieden zu reden. Als Joseph Jahre später seine Brüder wieder sah, spricht er zu ihnen: «Friede euch», §
+ <br>Vgl <i>Friede</i> auch mit §V1mo-37-14
+ }
+#}
 #1mo-37-5 {
  {
   Joseph wird sich an die Träume erinnern: <a href='http://bibel.renenyffenegger.ch/1mo_42.html#v9'>1.&nbsp;Mo&nbsp;42,9</a>.
@@ -5997,6 +6007,11 @@
 #1mo-37-12 {
  {
   → biblisches/Orte/Sichem
+ }
+#}
+#1mo-37-14 {
+ {
+  <i>Wohlergehen</i>: im Hebräischen <span class='hebr'>שָׁלוֹם</span> (Strongs 7965, «Frieden»). Ebenso in §1mo-43-27, §2mo-18-7
  }
 #}
 #1mo-37-17 {
@@ -6400,6 +6415,9 @@
 #}
 #1mo-41-16 {
  {
+  <i>zum Heil ist</i>: das Hebräische enthält hier das Wort <span class='hebr'>שָׁלוֹם</span> (Strongs 7965, «Frieden»).
+ }
+ {
   Luther 1912 schreibt: <i>weissagen</i>.
  }
 #}
@@ -6574,9 +6592,19 @@
   Evtl. wäre <i>Speise</i> (Strongs 7666) besser mit «Getreide» übersetzt. Ebenso in §V1mo-43-22, §1mo-44-25, §5mo-2-28
  }
 #}
+#1mo-43-23 {
+ {
+  <i>Friede euch</i>: in §1mo-37-4 vermochten Josephs Brüder nicht mehr, mit ihm in Frieden zu reden.
+ }
+#}
 #1mo-43-26 {
  {
    Die Brüder verneigen sich vor Joseph: <a class='kom' href='#I1mo-37-7'>1.&nbsp;Mo&nbsp;37,7</a>.
+ }
+#}
+#1mo-43-27 {
+ {
+  <i>Wohlergehen</i>: §1mo-37-14
  }
 #}
 #1mo-43-31 {
@@ -7749,6 +7777,9 @@
 #2mo-4-24 {
  {
   Versuchte der HERR Mose zu töten, weil er auf dem Weg zur Befreiung seines erstgeborenen Sohnes Israels in der Herberge einkehrte, statt so schnell wie möglich nach Ägypten zu kommen?
+ }
+ {
+  <i>da fiel Jehove ihn an</i>: dasselbe Verb wird in §V2mo-4-27 mit «traf» übersetzt (<span class='hebr'>פָּגַשׁ</span>, Strongs 6298).
  }
  {
   <span class='u'>TODO: http://haschiwah.org/?p=1054</span>
@@ -9517,6 +9548,11 @@
  }
  {
   <i>und der Name des anderen</i>: <span class='hebr'>וְשֵׁם הָאֶחָד</span>, also wörtlich «Name eins» (gleich wie in §V2mo-18-3).
+ }
+#}
+#2mo-18-7 {
+ {
+  <i>Wohlergehen</i>: §1mo-37-14
  }
 #}
 #2mo-18-9 {
@@ -14485,7 +14521,10 @@
 #}
 #3mo-19-15 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen
+ }
+ {
+  <i>In Gerechtigkeit richten</i>, §5mo-1-16, §5mo-16-18
  }
  {
   <i>unrecht tun im Gericht</i> §V3mo-19-35
@@ -19484,6 +19523,11 @@
   <i>Oberste über …</i>: vgl §+2mo-18-21.
  }
 #}
+#5mo-1-16 {
+ {
+  <i>richtet in Gerechtigkeit</i>, §3mo-19-15, §5mo-16-18
+ }
+#}
 #5mo-1-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen
@@ -21004,6 +21048,11 @@
   TODO: Strongs 4979.
  }
 #}
+#5mo-16-18 {
+ {
+  <i>Das Volk in Gerechtigkeit richten</i> vgl §3mo-19-15, §5mo-1-16
+ }
+#}
 #5mo-16-19 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen
@@ -22216,7 +22265,7 @@
 #}
 #5mo-33-6 {
  {
-  <i>und seiner Männer sei eine zahl<i>: Sch2K übersetzt mit «seine Leute sollen zu zählen sein», KJV mit «and let not his men be few»
+  <i>und seiner Männer sei eine zahl</i>: Sch2K übersetzt mit «seine Leute sollen zu zählen sein», KJV mit «and let not his men be few»
  }
 #}
 #5mo-33-7 {
@@ -38598,7 +38647,7 @@
 #}
 #neh-8-17 {
  {
-   <i>Die Kinder Israel hatten nicht also getan</i> vgl §2chr-35-18. Dass sie nun das → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten feiern, bedeutet, dass sie das Gesetz höher achten wie die Tradition.
+  <i>Die Kinder Israel hatten nicht also getan</i> vgl §2chr-35-18. Dass sie nun das → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten feiern, bedeutet, dass sie das Gesetz höher achten wie die Tradition.
    Ausserdem kann vermutet werden, dass das Ausbleiben des Laubhüttenfestes und damit auch des Vorlesens des → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz[Gesetzes] (§5mo-31-11), dazu geführt hat, dass Israel gesetzbrüchig geworden ist.
   <br>
    Beachte: Das Volk hätte ja auch auf das Feiern des Festes verzichten können unter dem Vorwand und der Begründung, dass es eigentlich in der Geschichte Israels bis auf die Ausnahme von
@@ -38616,8 +38665,6 @@
 #}
 @}
 @Nehemia 9 {
-#neh-9-1 {
-#}
 #neh-9-3 {
  {
   <i>Sie lasen im Buch des Gesetzes des HERRN, ihres Gottes</i> vgl §neh-8-8.
@@ -41017,20 +41064,14 @@
 #}
 #ps-25-10 {
  {
-  <i>Gnade und Wahrheit</i>
+  <i>Güte und Wahrheit</i>
   <br>
-     Siehe auch
-  <a href='http://bibel.renenyffenegger.ch/ps_25.html#v10'>Ps&nbsp;25,10</a>,
-  <a href='http://bibel.renenyffenegger.ch/ps_40.html#v11'>Ps&nbsp;40,11</a>,
-  <a href='http://bibel.renenyffenegger.ch/ps_57.html#v4'>Ps&nbsp;57,4</a>,
-  <a href='http://bibel.renenyffenegger.ch/ps_85.html#v11'>Ps 85,11/15</a>,
-  <a href='http://bibel.renenyffenegger.ch/spr_14.html#v22'>Spr&nbsp;14,22</a>,
-  <a href='http://bibel.renenyffenegger.ch/spr_16.html#v6'>Spr&nbsp;16,6</a>,
-  <a href='http://bibel.renenyffenegger.ch/spr_20.html#v28'>Spr&nbsp;20,28</a> und
+     Siehe auch §ps-40-11, §ps-57-4, §ps-85-11 und 15, §spr-3-3, §spr-14-22,
+  §spr-16-6, §spr-20-28 und
   <a href='http://bibel.renenyffenegger.ch/joh_1.html#v14'>Joh 1,14/17</a>,
  }
  {
-  Vgl mit der <i>Gerechtigkeit aus dem Gesetz</i>: <a class='kom' href='#I5mo-6-25'>5.&nbsp;Mo&nbsp;6,25</a>.
+  Vgl mit der <i>Gerechtigkeit aus dem Gesetz</i>: §+5mo-6-25.
  }
 #}
 #ps-25-13 {
@@ -41594,7 +41635,7 @@
 #}
 #ps-40-11 {
  {
-  <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>.
+  <i>Güte und Wahrheit</i>: §+ps-25-10.
  }
 #}
 #ps-40-15 {
@@ -42117,7 +42158,7 @@
 #}
 #ps-57-4 {
  {
-  <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>.
+  <i>Güte und Wahrheit</i>: §+ps-25-10.
  }
  {
   <i>Gott wird seine … Wahrheit senden</i> vgl §ps-43-3
@@ -43124,7 +43165,10 @@
 #}
 #ps-85-11 {
  {
-  <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>.
+  <i>Güte und Wahrheit</i>: §+ps-25-10.
+ }
+ {
+  <i>Gerechtigkeit und Friede</i> vgl mit Melchisedek (König der Gerechtigkeit), dem König von Salem (Friede): §1mo-14-18
  }
 #}
 @}
@@ -45528,9 +45572,7 @@
 #}
 #spr-3-3 {
  {
-  <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>
-  <br>In den Sprüchen: <a href='http://bibel.renenyffenegger.ch/spr_14.html#v22'>Spr&nbsp;14,22</a>,
-  <a href='http://bibel.renenyffenegger.ch/spr_16.html#v6'>Spr&nbsp;16,6</a>, <a href='http://bibel.renenyffenegger.ch/spr_20.html#v28'>Spr&nbsp;20,28</a>.
+  <i>Güte und Wahrheit</i>: §+ps-25-10 <br>In den Sprüchen: §spr-14-22, §spr-16-6, §spr-20-28.
  }
 #}
 #spr-3-6 {
@@ -46107,7 +46149,7 @@
 #}
 #spr-14-22 {
  {
-  <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ispr-3-3'>Spr&nbsp;3,3</a>.
+  <i>Güte und Wahrheit</i>: §+ps-25-10.
  }
 #}
 #spr-14-24 {
@@ -71405,7 +71447,7 @@
  {
   Vgl das <i>Haus des Vaters</i>,
   das nicht zu einem <i>Kaufhaus</i> gemacht werden soll mit «Seinem Haus»,
-  aus dem eine «Räuberhöhle» gemacht wurde (<a class='kom' href='#Imt-21-13'>Mt&nbsp;21,13</a>).
+  aus dem eine «Räuberhöhle» gemacht wurde (§+mt-21-13).
  }
 #}
 #joh-2-17 {
