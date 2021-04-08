@@ -65548,7 +65548,7 @@
 #}
 #mk-6-52 {
  {
-  <i>verhärtetes Herz</i>: vgl §mk-8-17, §joh-12-40, §+mk-3-5
+  <i>verstocktes Herz</i>: vgl §mk-8-17, §joh-12-40, §+mk-3-5
  }
 #}
 #mk-6-53 {
@@ -65742,7 +65742,7 @@
 #}
 #mk-8-17 {
  {
-  <i>verhärtetes Herz</i>: §+mk-6-52
+  <i>verstocktes Herz</i>: §+mk-6-52
  }
 #}
 #mk-8-22 {
@@ -67480,6 +67480,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
  {
+  <i>damit die Überlegungen vieler Herzen geoffenbart werden</i>: §lk-5-22, §lk-6-8, §lk-9-47, §lk-24-38
+ }
+ {
   <i>Schwert, das die Seele durchdringt</i> vgl §ps-37-15
  }
 #}
@@ -68185,7 +68188,7 @@
 #}
 #lk-5-22 {
  {
-  §mt-9-4, §mk-2-8
+  <i>Als aber Jesus ihre Überlegungen erkannte</i> vgl §lk-6-8, §lk-9-47, §lk-24-38, §mt-9-4, §mk-2-8
  }
 #}
 #lk-5-24 {
@@ -68284,6 +68287,11 @@
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/mk_3.html#v2'>Mk&nbsp;3,2</a>.
   <br>In <a href='http://bibel.renenyffenegger.ch/apg_9.html#v24'>Apg&nbsp;9,24</a> mit 'bewachen' in
       <a href='http://bibel.renenyffenegger.ch/gal_4.html#v10'>Gal&nbsp;4,10</a> mit 'beachten' übersetzt.
+ }
+#}
+#lk-6-8 {
+ {
+  <i>Er aber wußte ihre Überlegungen</i> §lk-5-22, §lk-9-47
  }
 #}
 #lk-6-9 {
@@ -69000,7 +69008,7 @@
 #}
 #lk-9-47 {
  {
-  <i>Als Jesus … die Überlegung ihres Herzens sah</i> vgl §mt-9-4
+  <i>Als Jesus … die Überlegung ihres Herzens sah</i> vgl §lk-5-22, §lk-6-8, §mt-9-4
  }
 #}
 #lk-9-48 {
@@ -70947,6 +70955,11 @@
 #lk-24-34 {
  {
   Der Herr ist zuerst dem Kephas erschienen (<a href='http://bibel.renenyffenegger.ch/1kor_15.html#v5'>1.&nbsp;Kor&nbsp;15,5</a>).
+ }
+#}
+#lk-24-38 {
+ {
+  <i>Warum steigen Überlegungen auf in euren Herzen</i> §lk-2-35
  }
 #}
 #lk-24-40 {
@@ -73355,7 +73368,7 @@
 #}
 #joh-12-40 {
  {
-  <i>er hat ihre Augen verblendet</i> vgl §1joh-2-11
+  <i>er hat ihre Augen verblendet</i> vgl §2kor-4-4, §1joh-2-11
  }
  {
   <i>verstocktes Herz</i>: vgl §+mk-6-52.
@@ -73871,6 +73884,11 @@
   <i>Jetzt aber gehe ich hin zu dem…</i> §joh-17-13
  }
 #}
+#joh-16-6 {
+ {
+  <i>Traurigkeit hat euer Herz erfüllt</i> vgl §Vjoh-16-22
+ }
+#}
 #joh-16-8 {
  {
   Beachte: Erkenntnis der Sünde kommt durchs → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz: §roem-3-20
@@ -73897,6 +73915,11 @@
  }
  {
   → biblisches/Bücher/Evangelien/Johannes#joh-stunde
+ }
+#}
+#joh-16-22 {
+ {
+  <i>euer Herz wird sich freuen</i> vgl §Vjoh-16-6
  }
 #}
 #joh-16-23 {
@@ -80530,6 +80553,9 @@
  {
   <i>verherrlichen</i>: <span class='gr'>δοξάζω</span> (Strongs 1392), vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben
  }
+ {
+  <i>in Überlegungen in Torheit verfallen</i> vgl §1kor-3-20
+ }
 #}
 #roem-1-23 {
  {
@@ -82381,7 +82407,9 @@
 @Römer 14 {
 #roem-14-1 {
  {
-  TODO: Dieser Vers enthält Strongs 2161.
+  TODO: Dieser Vers enthält Strongs 1261, welches sonst mit «Überlegungen» übersetzt wird, z. B. in §roem-1-21. Vgl §phil-2-14
+ <br>
+  Vgl auch §jak-2-4
  }
 #}
 #roem-14-4 {
@@ -83438,7 +83466,7 @@
 #}
 #1kor-3-20 {
  {
-  <a href='http://bibel.renenyffenegger.ch/ps_94.html#v11'>Ps&nbsp;94,11</a>.
+  §ps-94-11, vgl §roem-1-21
  }
 #}
 #1kor-3-21 {
@@ -85271,8 +85299,7 @@
 #}
 #1kor-16-9 {
  {
-  Das Wort <i>vielversprechend</i> (<span class='gr'>ἐνεργής</span>, Strongs 1756) kommt auch noch in
-  <a class='kom' href='#Iphim-1-6'>Phim&nbsp;1,6</a> und <a class='kom' href='#Ihebr-4-12'>Hebr&nbsp;4,12</a> vor.
+  Das Wort <i>vielversprechend</i> (<span class='gr'>ἐνεργής</span>, Strongs 1756) kommt auch noch in §+phim-1-6 und §+hebr-4-12 vor.
  }
 #}
 #1kor-16-10 {
@@ -85732,7 +85759,7 @@
   <br>Vgl auch §+roem-8-29
  }
  {
-  <i>den Sinn der Ungläubigen verblendet</i> vgl §1joh-2-11 
+  <i>den Sinn der Ungläubigen verblendet</i> vgl §joh-12-40, §1joh-2-11
  }
 #}
 #2kor-4-5 {
@@ -88788,8 +88815,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-2-14 {
  {
-  Sch2K übersetzt mit «ohne Murren und Bedenken», KJV mit «without murmoring and disputings» (<span class='gr'>διαλογισμός</span>,
-  Strongs 1261).
+  Sch2K übersetzt mit «ohne Murren und Bedenken», KJV mit «without murmoring and disputings» (<span class='gr'>διαλογισμός</span>, Strongs 1261).
  }
 #}
 #phil-2-15 {
@@ -95593,6 +95619,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Versammlung</i>: eigtl. <span class='gr'>συναγωγή</span> (Strongs 4864), vgl mit «Gemeinde. in <a href='http://bibel.renenyffenegger.ch/jak_5.html#v14'>Jak&nbsp;5,14</a>.
   Vgl auch <a href='http://bibel.renenyffenegger.ch/apg_13.html#v43'>Apg&nbsp;13,43</a>.
+ }
+#}
+#jak-2-4 {
+ {
+  <i>Richter böser Gedanken</i> vgl §roem-14-1
  }
 #}
 #jak-2-5 {
