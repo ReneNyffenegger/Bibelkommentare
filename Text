@@ -39352,6 +39352,13 @@
  }
 #}
 @}
+@Esther 5 {
+#est-5-3 {
+ {
+  <i>Bis zur Hälfte des Königreiches</i> §mk-6-23
+ }
+#}
+@}
 @Esther 6 {
 #est-6-1 {
  {
@@ -62071,6 +62078,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
  }
 #}
+#mt-14-27 {
+ {
+  §mk-6-50
+ }
+#}
 #mt-14-29 {
  {
   TODO: Ist dies die einzige Stelle in den Evangelien, wo erwähnt wird, dass Petrus auf dem See geht?
@@ -65269,6 +65281,9 @@
  {
   <i>Aus ihren Grenzen weggehen</i>: vgl §mt-8-34, §apg-13-50
  }
+ {
+  TODO: Ist das in der gleichen Gegend, wo Er erkannt wird: §mk-6-54
+ }
 #}
 #mk-5-19 {
  {
@@ -65364,6 +65379,9 @@
   <i>Am Sabbat in der Synagoge lehren</i>, vgl §mk-1-21-ff
  }
  {
+  <i>solche Wunderwerke geschehen durch seine Hände</i>, vgl §Vmk-6-5
+ }
+ {
   <i>Woher diesem solches</i> §mt-13-54
  }
 #}
@@ -65382,7 +65400,7 @@
 #}
 #mk-6-5 {
  {
-  Jesus legt den Kranken die Hände auf und heilte sie; die Zwölf salbten die Kranken mit Ö und heilten sie (Vers 13).
+  Jesus legt den Schwachen die Hände auf und heilte sie; die Zwölf salbten die Schwachen mit Öl und heilten sie, §Vmk-6-13
  }
  {
   <i>konnte dasselbst kein Wunder tun</i>, §mt-13-58
@@ -65470,6 +65488,16 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen
  }
 #}
+#mk-6-23 {
+ {
+  <i>Bis zur Hälfte meines Reiches</i> §est-5-3
+ }
+#}
+#mk-6-29 {
+ {
+  <i>in eine Gruft legen</i> vgl §mk-15-45-ff
+ }
+#}
 #mk-6-30 {
  {
   TODO: Einziger Vers in Markus mit dem Wort 'Apostel', sonst häufig genannt 'die Zwölf', zum
@@ -65492,6 +65520,9 @@
  }
 #}
 #mk-6-33 {
+ {
+  <i>erkannten ihn</i> §Vmk-6-54
+ }
  {
   TODO: Menge übersetzt <i>erkannten ihn</i> mit «hatten ihre Absicht gemerkt», Elberfelder mit «erkannten sie», Luther
   mit «merkten es».
@@ -65551,6 +65582,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
  }
 #}
+#mk-6-50 {
+ {
+  §mt-14-27
+ }
+#}
 #mk-6-51 {
  {
   §mt-14-32
@@ -65564,6 +65600,14 @@
 #mk-6-53 {
  {
   <i>kamen im Land → biblisches/Orte/Genezareth an</i> vgl §+joh-6-21
+ }
+#}
+#mk-6-54 {
+ {
+  <i>erkannten ihn</i> §Vmk-6-33
+ }
+ {
+  TODO: Ist das in der gleichen Gegend, wo er gebeten wurde, wegzugehen? §mk-5-17
  }
 #}
 #mk-6-56 {
@@ -65700,7 +65744,7 @@
 #}
 #mk-7-31 {
  {
-  <i>dekapolis</i> §mk-5-20
+  <i>Dekapolis</i> §mk-5-20
  }
 #}
 #mk-7-32 {
@@ -66849,6 +66893,11 @@
 #mk-15-44 {
  {
   Pilatus verwundert sich: §Vmk-15-5
+ }
+#}
+#mk-15-45 {
+ {
+  <i>in eine Gruft legen</i> vgl §mk-6-29
  }
 #}
 #mk-15-46 {
