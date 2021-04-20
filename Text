@@ -61648,6 +61648,10 @@
 #}
 #mt-12-40 {
  {
+  Das Zeichen ist nur, dass Er im Herzen der Erde sein wird. Über Seine Auferstehung sagt er hier nichts. Nachdem Er auferstanden war, zeigte Er sich den Ungläubigen auch nicht mehr, denn sie sollten
+  kein Zeichen der Auferstehung erhalten, vgl §apg-10-40-41
+ }
+ {
    <i>Herz der Erde</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/unter-der-Erde
  }
 #}
@@ -62863,7 +62867,7 @@
    <i>Lösegeld für viele</i>: vgl §1tim-2-6 («Lösegeld für alle»).
    Beachte, dass im Timotheusbrief diese Aussage gefolgt wird von «das ist das Zeugnis zur rechten Zeit».
   <br>
-   S.a. §+mt-26-28
+   S.a. §+mt-26-28, §mk-10-45
  }
  {
   Jesus ist gekommen, → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen[um zu dienen und sein Leben zu geben], aber auch,
@@ -64637,7 +64641,7 @@
 #}
 #mk-1-11 {
  {
-  <i>Du bist mein geliebter Sohn…</i> vgl §+mt-3-17, §Vmk-1-1, §joh-1-33-ff.
+  <i>Du bist mein geliebter Sohn…</i> vgl §mk-9-7, §+mt-3-17, §Vmk-1-1, §joh-1-33-ff.
  }
  {
   Vgl §mt-12-17-18
@@ -65726,6 +65730,9 @@
  {
   TODO: In <i>welches</i> Haus trat er? Vgl auch Vers 30.
  }
+ {
+  TODO: daß niemand es erfahre, §mk-9-30
+ }
 #}
 #mk-7-25 {
  {
@@ -65837,7 +65844,7 @@
 #}
 #mk-8-30 {
  {
-  <i>Niemandm etwas sagen</i> §+mt-16-20
+  <i>Niemandem etwas sagen</i> §+mt-16-20
  }
 #}
 #mk-8-31 {
@@ -65847,13 +65854,17 @@
 #}
 #mk-8-32 {
  {
-  TODO: <i>ganz offen</i> (<span class='gr'>παρρησία</span>, Strongs 3954) auch mit 'freimütig' oder 'Freimut'
-  übersetzt.
+  TODO: <i>öffentlich</i> (<span class='gr'>παρρησία</span>, Strongs 3954) auch mit «freimütig» oder «Freimut» übersetzt.
  }
 #}
 #mk-8-34 {
  {
   §mt-16-24, §lk-9-23
+ }
+#}
+#mk-8-37 {
+ {
+  <i>Lösegeld geben</i> §mk-10-45
  }
 #}
 #mk-8-38 {
@@ -65873,7 +65884,7 @@
   §mt-17-1, §lk-9-28
  }
  {
-  'verklärt' siehe <a class='kom' href='#Iroem-12-2'>Röm&nbsp;12,2</a>.
+  <i>umgestaltet</i> siehe §+roem-12-2.
  }
 #}
 #mk-9-4 {
@@ -65888,7 +65899,7 @@
 #}
 #mk-9-7 {
  {
-  §+mt-17-5
+  §+mt-17-5, §mk-1-11
  }
 #}
 #mk-9-9 {
@@ -65939,6 +65950,11 @@
   Beachte: der Geist scheint Jesus zu hören, obwohl er taub ist. Und obwohl der Geist sprachlos ist, schreit er im nächsten Vers.
  }
 #}
+#mk-9-26 {
+ {
+  <i>wie tot</i> §offb-1-17
+ }
+#}
 #mk-9-28 {
  {
   §mt-17-19
@@ -65947,6 +65963,11 @@
 #mk-9-29 {
  {
   §mt-17-21
+ }
+#}
+#mk-9-30 {
+ {
+  TODO: daß niemand es erführe, §mk-7-24
  }
 #}
 #mk-9-31 {
@@ -66164,7 +66185,7 @@
 #}
 #mk-10-45 {
  {
-  §+mt-20-28
+  <i>Lösegeld</i>, §mk-8-37, §+mt-20-28
  }
 #}
 #mk-10-47 {
@@ -76969,6 +76990,9 @@
 #apg-10-41 {
  {
   Diese Zeugen sind mit Ihm von Galiläa nach Jerusalem heraufgezogen (<a href='http://bibel.renenyffenegger.ch/apg_13.html#v31'>Apg&nbsp;13,31</a>)
+ }
+ {
+  <i>nicht dem genzen Volk</i> §+mt-12-40
  }
 #}
 #apg-10-42 {
@@ -98724,7 +98748,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-1-17 {
  {
   Johannes <i>sah</i> ihn, unf fällt zu seinen Füssen nieder wie tot. Daniel <i>hörte</i> den Klang der Worte und sank ohnmächtig
-  auf sein Angesicht zur Erde nieder (<a href='http://bibel.renenyffenegger.ch/dan_10.html#v9'>Dan&nbsp;10,9</a>).
+  auf sein Angesicht zur Erde nieder (§dan-10-9).
+ }
+ {
+  <i>wie tot</i> §mk-9-26
  }
  {
   Bachte, die Hand, die die <i>sieben Sterne</i> (§Voffb-1-16), hat, ist die selbe Hand, mit der Johannes beruhigt/getröstet wird.
