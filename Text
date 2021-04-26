@@ -67311,11 +67311,11 @@
 #}
 #lk-1-70 {
  {
-  TODO: <i>von alters her</i> wird in KJV mit «since the world began» übersetzt.
-  <br>Vgl mit <a href='http://bibel.renenyffenegger.ch/apg_3.html#v21'>Apg&nbsp;3,21</a>.
+  <i>Mund der Propheten</i> vgl §apg-3-18, §apg-3-21, §2petr-1-21
  }
  {
-  <i>Mund der Propheten</i> vgl §apg-3-18, §apg-3-21, §2petr-1-21
+  <i>von alters her</i>: <span class='gr'>απ αιωνος</span>, in §apg-3-21 mit «von jeher» übersetzt.
+ <br>KJV übersetzt mit «since the world began».
  }
 #}
 #lk-1-74 {
@@ -71126,7 +71126,7 @@
 @Johannes 1 {
 #joh-1-1 {
  {
-  <i>Wort</i>: <a class='kom' href='#I1mo-1-3'>1.&nbsp;Mo&nbsp;1,3</a>.
+  <i>Wort</i>: §+1mo-1-3.
  }
 #}
 #joh-1-3 {
@@ -72188,14 +72188,12 @@
 #}
 #joh-5-22 {
  {
-  Der Vater richtet niemand (hier), Jesus kann nicht von sich selbst aus richten (<a href='http://bibel.renenyffenegger.ch/joh_5.html#v30'>Vers 30</a>, Jesus richtet
-  auch niemand (<a href='http://bibel.renenyffenegger.ch/joh_8.html#v15'>Joh&nbsp;8,15</a>), einer richtet (<a href='http://bibel.renenyffenegger.ch/joh_8.html#v50'>Joh&nbsp;8,50</a>),
-  Jesus richtet nicht, sondern das Wort, das er geredet hat (<a href='http://bibel.renenyffenegger.ch/joh_12.html#v47'>Joh 12,47-48</a>).
-  Jesus wird nach dem Gesetz gerichtet (<a href='http://bibel.renenyffenegger.ch/joh_18.html#v31'>Joh&nbsp;18,31</a>.
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/joh_8.html#v26'>Joh&nbsp;8,26</a>
- }
- {
-  Vgl <a class='kom' href='#Iapg-10-42'>Apg&nbsp;10,42</a>.
+  Der Vater richtet niemand (hier), Jesus kann nicht von sich selbst aus richten (§Vjoh-5-30), Jesus richtet
+  auch niemand (§joh-8-15), einer richtet (§joh-8-50),
+  Jesus richtet nicht, sondern das Wort, das er geredet hat (§joh-12-47-48).
+  Jesus wird nach dem Gesetz gerichtet (§joh-18-31).
+  <br>
+  Vgl auch §joh-8-26 und §+apg-10-42.
  }
 #}
 #joh-5-24 {
@@ -72816,6 +72814,11 @@
 #joh-8-25 {
  {
   <i>Wer bist du?</i>: §+joh-1-19
+ }
+#}
+#joh-8-26 {
+ {
+  <i>richten</i> §+joh-5-22
  }
 #}
 #joh-8-28 {
@@ -75416,6 +75419,10 @@
  }
  {
   <i>Durch den Mund seiner heiligen → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] geredet</i> §+lk-1-70, vgl §2petr-1-21
+ }
+ {
+  <i>von jeher</i>: <span class='gr'>απ αιωνος</span>, in §lk-1-70 mit «von alters her» übersetzt.
+ <br>KJV übersetzt mit «since the world began».
  }
 #}
 #apg-3-22 {
@@ -82055,7 +82062,7 @@
 #}
 #roem-11-6 {
  {
-  Vgl §eph-2-8-9, §roem-4-4
+  Vgl §eph-2-8-9, §roem-4-4, §2tim-1-9
  }
  {
    <span class='gt'>In NA fehlt «wenn aber aus Werken, so ist es nicht mehr Gnade, sonst ist das Werk nicht mehr Werk.»</span>
@@ -83031,7 +83038,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/Paulus
  }
  {
-  <i>Geheimnis, das … verschwiegen war, jetzt aber geoffenbart</i> vgl §kol-1-26, §2tim-2-10
+  <i>Geheimnis, das … verschwiegen war, jetzt aber geoffenbart</i> vgl §kol-1-26, §2tim-1-10
  }
  {
   Vgl <i>Von ewigen Zeiten verschwiegen</i> mit <a class='kom' href='#Iapg-3-18'>Apg&nbsp;3,18</a> («Was Gott durch den Mund aller seiner Propheten verkündigt hat).
@@ -83049,7 +83056,7 @@
   <i>befestigen</i>: §roem-1-11. Vgl auch §1thes-3-2, wo → biblisches/Personen/Timotheus im → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium
   des Christus gesandt worden ist, um die Thessalonicher zu befestigen und zu trösten.
  <br>
- Beachte, dass die »Unbefestigten« (<span class='gr'>ἀστήρικτος</span>) die von Paulus in seinen → biblisches/Bücher/Paulus[Briefen] geredeten Dinge verdrehen.
+ Beachte, dass die «Unbefestigten» (<span class='gr'>ἀστήρικτος</span>) die von Paulus in seinen → biblisches/Bücher/Paulus[Briefen] geredeten Dinge verdrehen.
  }
  {
   Offenbar enthalten einige → biblisches/Grundtext/Handschriften[Manuskripte] die letzten drei Verse des → biblisches/Bücher/Paulus/Römerbrief[Römerbriefes] am Ende des 14. Kapitels,
@@ -88933,6 +88940,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>
   Vgl auch §jes-49-4
  }
+ {
+  <i>Wort des Lebens</i> §1joh-1-1
+ }
 #}
 #phil-2-17 {
  {
@@ -92295,12 +92305,18 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-1-9 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Vorsatz ­ → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+  <i>errettet … nicht aus unseren Werken</i> vgl §+roem-11-6
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Vorsatz ­ → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
  }
 #}
 #2tim-1-10 {
  {
   <i>Erscheinung</i>: <span class='gr'>ἐπιφάνεια</span> (Strongs 2015), vgl → biblisches/Grundtext/Wörter/G602-Apokalypsis_G2015-Epiphaneia_G3952-Parousia.
+ }
+ {
+  <i>jetzt aber geoffenbart worden ist</i>, §roem-16-25
  }
 #}
 #2tim-1-11 {
@@ -92688,6 +92704,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @}
 @2. Timotheus 4 {
 #2tim-4-1 {
+ {
+  <i>Lebendige und Tote richten</i> §1petr-4-5
+ }
  {
   TODO: <i>Vor Gott ernstlich ermahnen</i>: <a class='kom' href='#I1tim-5-21'>1.&nbsp;Tim&nbsp;5,21</a>.
  }
@@ -96710,6 +96729,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-4-5 {
  {
+  <i>Lebendige und Tote richten</i> §2tim-4-1
+ }
+ {
   <i>Gott Rechenschaft geben</i>: <a class='kom' href='#Imt-12-36'>Mt&nbsp;12,36</a>.
  }
  {
@@ -97525,6 +97547,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Was unsere Hände betastet haben</i> vgl §apg-17-27
+ }
+ {
+  <i>Wort des Lebens</i> §phil-2-16
  }
 #}
 #1joh-1-2 {
