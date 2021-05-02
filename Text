@@ -60301,7 +60301,7 @@
 #}
 #mt-5-48 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen: vgl §5mo-18-13, §mt-19-21
+  <i>Ihr sollt → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen sein</i>: vgl §5mo-18-13, §mt-19-21
  }
 #}
 @}
@@ -61372,6 +61372,9 @@
 #mt-11-25 {
  {
   Vgl §+lk-10-21
+ }
+ {
+  <i>Du hast es unmündigen offenbart</i> vgl §mt-21-16
  }
  {
   TODO: <i>offenbaren/offenbar machen</i>: <ul>
@@ -63043,7 +63046,7 @@
 #}
 #mt-21-16 {
  {
-  Vgl <a class='kom' href='#Ips-8-3'>Ps&nbsp;8,3</a>.
+  Vgl §+ps-8-3, §mt-11-25
  }
 #}
 #mt-21-18 {
@@ -84971,15 +84974,17 @@
   TODO: <a href="http://hermeneutics.stackexchange.com/questions/18828/1-corinthians-1310-what-does-the-perfect-refer-to">http://hermeneutics.stackexchange.com/questions/18828/1-corinthians-1310-what-does-the-perfect-refer-to</a>
  }
 #}
+#1kor-13-11 {
+ {
+  <i>Unmündiger</i>, <i>Unmündigsein</i> (<span class='gr'>νήπιος</span>, Strongs 3516): Elberfelder übersetzt mit «Kind» und «kindisch», KJV mit «child» und «childish».
+ }
+#}
 #1kor-13-12 {
  {
-  <i>Rätsel</i>: <span class='gr'>αἴνιγμα</span> (Strongs 135, 1x). KJV übersetzt «darkly»
+  <i>wie im Rätsel</i>: <span class='gr'>αἴνιγμα</span> (Strongs 135, 1x). Elberfelder übersetzt mit «undeutlich» (vgl §1kor-14-8), KJV übersetzt «darkly».
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/2kor_3.html#v18'>2.&nbsp;Kor&nbsp;3,18</a>.
- }
- {
-  <i>wir sehen jetzt … undeutlich</i>: vgl §1kor-14-8
+  Vgl §2kor-3-18.
  }
  {
   TODO: Vgl <i>Spiegel</i> (<span class='gr'>ἔσοπτρον</span>, 2x) mit <i>Angesicht</i> (<span class='gr'>πρόσωπον</span>, Strongs 4383).
@@ -85327,7 +85332,7 @@
 #1kor-15-27 {
  {
   <i>Unterwerfen</i> (<span class='gr'>ὑποτάσσω</span>, Strongs 5293), dasselbe Wort wird häufig mit 'unterordnen'
-     übersetzt (vgl <a class='kom' href='#Iroem-13-1'>Röm&nbsp;13,1</a>.
+     übersetzt (vgl <a class='kom' href='#Iroem-13-1'>Röm&nbsp;13,1</a>).
  }
  {
   Verweis: §ps-8-7
@@ -88227,9 +88232,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Fülle des Christus</i> vgl «Fülle Gottes» (§eph-3-19) und «Fülle der Gottheit» (§kol-2-9).
  }
  {
-  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen[vollkommene] Mannesreife</i> ('ανδρα τελειον', Strongs 435, 5046): vgl mit
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen[vollkommener] Mann</i> ('ανδρα τελειον', Strongs 435, 5046): Elberfelder übersetzt mit «erwachsenen Mann», Sch2K mit «vollkommenen Mannesreife». vgl mit
   §+jak-3-2
-  <br>Vgl auch mit §+kol-1-28
+  <br>
+  Vgl auch mit §+kol-1-28
  }
 #}
 #eph-4-14 {
