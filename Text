@@ -7572,7 +7572,7 @@
   Mose fürchtete sich und verbarg sein Angesicht, vgl mit Adam, §1mo-3-10
  }
  {
-  Vgl §lk-20-37
+  Vgl §mk-12-26, §lk-20-37
  }
 #}
 #2mo-3-7 {
@@ -63534,6 +63534,9 @@
 #}
 #mt-24-14 {
  {
+  §mk-13-10
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
  }
  {
@@ -63559,6 +63562,9 @@
  }
 #}
 #mt-24-20 {
+ {
+  §mk-13-18
+ }
  {
   Vgl <i>Winter</i> mit «Sommer» in <a href='http://bibel.renenyffenegger.ch/mt_24.html#v32'>Vers 32</a>.
  }
@@ -65864,6 +65870,9 @@
 #}
 #mk-8-11 {
  {
+  <i>um ihn zu versuchen</i> §mk-12-15
+ }
+ {
   §mt-16-1, §lk-11-16
  }
  {
@@ -66429,7 +66438,7 @@
   <i>Frucht des Weinberges</i>: <a class='kom' href='#Imk-11-14'>Mk&nbsp;11,14</a>.
  }
 #}
-#mk-12-6 {
+#mk-12-7 {
  {
   Vgl §hebr-1-2
  }
@@ -66444,11 +66453,13 @@
   §mt-21-45
  }
  {
-  Frage: wer sind 'sie'? Die obersten Schriftgelehrten, Schriftgelehrten und Ätesten aus
-  <a href='http://bibel.renenyffenegger.ch/mt_11.html#v27'>Mt&nbsp;11,27</a>?
+  TODO: Frage: wer sind 'sie'? Die obersten Schriftgelehrten, Schriftgelehrten und Ältesten aus §mt-11-27?
  }
 #}
 #mk-12-15 {
+ {
+  <i>was versucht ihr mich</i> §mk-8-11
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heuchelei
  }
@@ -66464,6 +66475,9 @@
  }
 #}
 #mk-12-26 {
+ {
+  §2mo-3-6
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Buch
  }
@@ -66554,8 +66568,14 @@
 #mk-13-9 {
  {
   <i>an → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge[Synagogen] überliefern</i> vgl §lk-21-12, §joh-16-2
- <br>
-  <i>vor Statthalter und Könige gestellt werden</i> vgl §mt-10-18
+ }
+ {
+  <i>vor Statthalter und Könige gestellt werden</i> vgl §mt-10-18, §apg-9-15
+ }
+#}
+#mk-13-10 {
+ {
+  §mt-24-14
  }
 #}
 #mk-13-11 {
@@ -66577,7 +66597,10 @@
 #}
 #mk-13-18 {
  {
-  TODO Vgl <i>Winter</i> mit dem <i>Sommer</i> in Vers 28.
+  §mt-24-20
+ }
+ {
+  Vgl den <i>Winter</i> mit dem <i>Sommer</i> in §Vmk-13-28
  }
 #}
 #mk-13-22 {
@@ -66623,6 +66646,11 @@
   «daß es nahe an der Tür ist», KJV mit «know that it is nigh, [even] at the doors».
   <br>
   Vgl §+mt-24-33.
+ }
+#}
+#mk-13-30 {
+ {
+  TODO: Sind mit <i>diesem Geschlecht</i> die Juden gemeint?
  }
 #}
 #mk-13-32 {
@@ -76777,7 +76805,7 @@
   König den Herrn durch das Evangelium verkünden(?).
  }
  {
-  Paulus soll den Namen (auch) vor <i>Könige</i> tragen. Vgl mit §mt-10-18
+  Paulus soll den Namen (auch) vor <i>Könige</i> tragen. Vgl mit §mt-10-18, §mk-13-9
  }
  {
   Paulus wird &lsaquo;erst&rsaquo; in <a href='http://bibel.renenyffenegger.ch/apg_13.html#v2'>Apg&nbsp;13,2</a> (zusammen mit Barnabas) ausgesondert zu dem Werk, zu dem er berufen war.
