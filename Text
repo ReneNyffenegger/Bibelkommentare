@@ -64080,10 +64080,14 @@
 #}
 #mt-26-25 {
  {
-  Beachte, die andern Jünger sagten '<i>Herr</i>, doch nicht ich'; (Vers 22). Judas sagt '<i>Rabbi</i>, doch nicht ich'.
-  <br>Judas nennt den Herrn auch Rabbi in Vers 49 (und «Rabbi, Rabbi» in <a href='http://bibel.renenyffenegger.ch/mk_14.html#v45'>Mk&nbsp;14,45</a>.
-  <br>TODO: Vgl mi <a href='http://bibel.renenyffenegger.ch/mk_9.html#v5'>Mk&nbsp;9,5</a>.
-  <br>Rabbi heisst übersetzt «Lehrer» (<a href='http://bibel.renenyffenegger.ch/joh_1.html#v38'>Joh&nbsp;1,38</a>).
+  Beachte, die andern Jünger sagten «<i>Herr</i>, doch nicht ich» (§Vmk-26-23). Judas sagt «<i>Rabbi</i>, doch nicht ich»
+  <br>
+   Judas nennt den Herrn auch Rabbi in Vers 49 (und «Rabbi, Rabbi» in §mk-14-45.
+  <br>
+    Rabbi heisst übersetzt «Lehrer» (§joh-1-38).
+ }
+ {
+  Vgl mit §mk-9-5.
  }
 #}
 #mt-26-26 {
@@ -64274,6 +64278,11 @@
 #mt-26-69 {
  {
   Vgl <i>Jesus, der Galiläer</i> mit <i>Jesus, dem Nazarener</i> in Vers 71.
+ }
+#}
+#mt-26-73 {
+ {
+  §+mk-14-70
  }
 #}
 @}
@@ -66778,7 +66787,7 @@
 #}
 #mk-14-5 {
  {
-  <i>dreihundert Denare</i> §joh-12-5, §mt-26-5
+  <i>dreihundert Denare</i> §joh-12-5, §mt-26-5, §Vmk-14-11
  }
  {
   TODO: hier spielt Geld eine Rolle und auch in Vers 11.
@@ -66799,10 +66808,16 @@
  {
   <i>Wo irgend dieses Evangelium gepredigt werden wird in der ganzen Welt</i> vgl §+mk-16-15.
  }
+ {
+  <i>zu ihrem Gedächtnis</i> vgl §lk-22-19
+ }
 #}
 #mk-14-11 {
  {
-  <i>Gute Gelegenheit</i>: <a class='kom' href='#Imt-26-16'>Mt&nbsp;26,16</a>.
+  <i>Gute Gelegenheit</i>: §+mt-26-16.
+ }
+ {
+  <i>Versprachen ihm Geld zu geben</i>: schon wieder geht es um Geld, vgl §Vmk-14-5
  }
 #}
 #mk-14-12 {
@@ -66842,7 +66857,7 @@
 #}
 #mk-14-19 {
  {
-   Vgl mit Hochmut von Petrus in Vers 29.
+   Vgl mit Hochmut von Petrus in §Vmk-14-29
  }
  {
    <span class='gt'>In NA fehlt «und ein anderer: Doch nicht ich?».</span>
@@ -66931,8 +66946,11 @@
   <i>und küsste ihn sehr</i>: §+mt-26-49
  }
  {
-  Verdoppelung des Namens, siehe <a class='kom' href='#I1mo-22-11'>1.&nbsp;Mo&nbsp;22,11</a>.
-  <br>Vgl auch <a class='kom' href='#Imt-26-25'>Mt&nbsp;26,25</a>.
+ <i>Rabbi, Rabbi</i>: §mt-26-25.
+ <br>
+  Verdoppelung des Namens, siehe §+1mo-22-11.
+ <br>
+  Vgl auch §+mt-26-25.
  }
 #}
 #mk-14-47 {
@@ -66975,6 +66993,11 @@
 #mk-14-65 {
  {
   §lk-22-64 
+ }
+#}
+#mk-14-70 {
+ {
+  <i>Denn du bist auch ein Galiläer</i>: offenbar erkannten sie ihn an der Sprache, §mt-26-73
  }
 #}
 @}
@@ -70816,6 +70839,9 @@
 #lk-22-19 {
  {
   §mt-26-26, §mk-14-22, vgl §+1kor-11-24
+ }
+ {
+  <i>zu meinem Gedächnis</i> vgl §mk-14-9
  }
  {
   TODO: <a href="https://en.wikipedia.org/wiki/Last_Supper#Institution_of_the_Eucharist">https://en.wikipedia.org/wiki/Last_Supper#Institution_of_the_Eucharist</a>
