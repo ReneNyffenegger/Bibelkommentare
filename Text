@@ -41265,6 +41265,11 @@
   <i>Der HERR ist mein Licht</i> vgl §joh-8-12
  }
 #}
+#ps-27-2 {
+ {
+  <i>straucheln und fallen</i> vgl §jes-8-15, §jer-50-32, §roem-11-11
+ }
+#}
 #ps-27-4 {
  {
   Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel ist noch gar nicht gebaut: §+ps-5-8.
@@ -48125,6 +48130,11 @@
   <br>TODO: Offenbar in Jeremia mit einer anderen Strongs Nummer.
  }
 #}
+#jes-8-15 {
+ {
+  <i>straucheln und fallen</i> vgl §ps-27-2, §jes-8-15, §jer-50-32, §roem-11-11 
+ }
+#}
 #jes-8-18 {
  {
    'ich' hier ist offenbar der sprechende Herr Jesus (<a href='http://bibel.renenyffenegger.ch/hebr_2.html#v13'>Hebr&nbsp;2,13</a>).
@@ -53588,6 +53598,11 @@
   <i>Die Stimme von …</i>: Elb05 übersetzt mit «Horch!», vgl §+jes-13-4.
  }
 #}
+#jer-50-32 {
+ {
+  <i>straucheln und fallen</i> §ps-27-2, §jes-8-15, §jer-50-32, §roem-11-11
+ }
+#}
 #jer-50-38 {
  {
   <i>Vertrocknete Gewässer</i>: vgl <a href='http://bibel.renenyffenegger.ch/jer_51.html#v36'>Jer&nbsp;51,36</a>.
@@ -56752,6 +56767,11 @@
 #dan-11-16 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Zierde
+ }
+#}
+#dan-11-19 {
+ {
+  <i>straucheln und fallen</i> §+roem-11-11
  }
 #}
 #dan-11-20 {
@@ -60439,8 +60459,9 @@
 #}
 #mt-6-14 {
  {
-  Vgl §mt-18-35.
-  <br>S.a. §eph-4-32 (wo Gott bereits vergeben hat, und die Gläubigen aufgefordert werden, in gleicher Art zu vergeben).
+  <i>Vergehungen (nicht) verbeben</i> Vgl §mt-18-35, §mk-11-25, §eph-1-7
+  <br>
+    S.a. §eph-4-32 (wo Gott bereits vergeben hat, und die Gläubigen aufgefordert werden, in gleicher Art zu vergeben).
  }
 #}
 #mt-6-16 {
@@ -62809,7 +62830,7 @@
 #}
 #mt-18-35 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/mt_6.html#v14'>Mt&nbsp;6,14</a>.
+  Vgl §mt-6-14, §mk-11-25
  }
 #}
 @}
@@ -66464,6 +66485,12 @@
 #mk-11-25 {
  {
   <i>steht</i>, <span class='gr'>στήκω</span> (Strongs 4739), wird häufig mit «feststehen» übersetzt, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/feststehen
+ }
+ {
+  Vgl §mt-6-14-15, §mt-18-35
+ }
+ {
+  <i>Vergehen</i> (<span class='gr'>παραπτωματα</span>, Strongs 3900): Elberfelder übersetzt mit «Übertretungen», Sch2K mit «Vergehen».
  }
 #}
 #mk-11-26 {
@@ -81425,6 +81452,9 @@
   durch das Befolgen des Gesetzes: <a href='http://bibel.renenyffenegger.ch/roem_2.html#v13'>Röm&nbsp;2,13</a>.
   Nicht durch Werke: <a href='http://bibel.renenyffenegger.ch/roem_4.html#v2'>Röm&nbsp;4,2</a>.
  }
+ {
+  <i>Übertretungen</i> (<span class='gr'>παράπτωμα</span>, Strongs 3900) zum Teil auch mit «Vergehen übersetzt».
+ }
 #}
 @}
 @Römer 5 {
@@ -81534,6 +81564,9 @@
  }
  {
    Vgl mit dem ersten und letzten Adam: §1kor-15-45
+ }
+ {
+  <i>Übertretungen</i> (<span class='gr'>παράπτωμα</span>, Strongs 3900) zum Teil auch mit «Vergehen übersetzt».
  }
 #}
 #roem-5-16 {
@@ -82284,6 +82317,12 @@
 #roem-11-11 {
  {
   <i>Zur Eifersucht reizen</i>: §+roem-10-19.
+ }
+ {
+  <i>sind sie denn gestrauchelt, damit sie fallen sollen?</i> vgl §ps-27-2, §jes-8-15, §jer-50-32, §dan-11-19
+ }
+ {
+  <i>Fall</i> (<span class='gr'>παραπτωματι</span>, Strongs 3900) wird z.B. in §mt-6-14 mit «Vergehen», in §roem-4-25 mit «Übertretung» übersetzt.
  }
 #}
 #roem-11-12 {
@@ -87760,6 +87799,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <i>Erlösung durch sein Blut</i>, <i>Vergebung der Übertretungen</i> mit §kol-1-14, §roem-3-24
  <br>
   Erlösung auch in §Veph-1-14
+ }
+ {
+  <i>Vergebung der Vergehungen</i> vgl §+mt-6-14
  }
  {
   TODO: <i>durch sein Blut</i> Vgl <span class='gr'>διὰ τοῦ αἵματος</span> hier mit
@@ -95966,6 +96008,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen, §+Vjak-2-1
  }
 #}
+#jak-2-10 {
+ {
+  <i>aber in einem straucheln</i> vgl §jak-3-2
+ }
+#}
 #jak-2-12 {
  {
   <i>Gesetz der → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit</i> §+jak-1-25.
@@ -96043,6 +96090,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #jak-3-2 {
+ {
+  <i>nicht im Wort straucheln</i> vgl §jak-2-10
+ }
  {
   TODO <i>vollkommener Mann</i> ('τελειος ανηρ', Strongs 5046, 435) vgl mit <a class='kom' href='#Ieph-4-13'>Eph&nbsp;4,13</a>.
  }
