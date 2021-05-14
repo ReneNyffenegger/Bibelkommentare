@@ -56158,7 +56158,7 @@
 #}
 #dan-6-23 {
  {
-  <a class='kom' href='#Ihebr-11-33'>Hebr&nbsp;11,33</a>.
+  §+hebr-11-33
  }
 #}
 #dan-6-26 {
@@ -77214,6 +77214,9 @@
  {
   Vgl §roem-4-5, §tit-3-5
  }
+ {
+  <i>Gerechtigkeit wirken</i> §hebr-11-33
+ }
 #}
 #apg-10-37 {
  {
@@ -81076,6 +81079,9 @@
 #roem-2-10 {
  {
   <i>sowohl dem Juden zuerst als auch dem Griechen</i>: §+roem-1-16.
+ }
+ {
+  <i>das Gute wirken</i> §gal-6-10, §eph-4-28
  }
 #}
 #roem-2-11 {
@@ -87716,6 +87722,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
 #}
+#gal-6-10 {
+ {
+  <i>das Gute wirken</i> §roem-2-10, §eph-4-28
+ }
+#}
 #gal-6-11 {
  {
   TODO: 'Buchstaben' <span class='gr'>γράμμα</span> (Strongs 1121), dasselbe Wort wie in <a class='kom' href='#I2tim-3-15'>2.&nbsp;Tim&nbsp;3,15</a>.
@@ -88477,6 +88488,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-4-27 {
  {
   §eph-6-11
+ }
+#}
+#eph-4-28 {
+ {
+  <i>mit seinen Händen das Gute wirken</i> vgl §roem-2-10, §gal-6-10
  }
 #}
 #eph-4-30 {
@@ -95409,7 +95425,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>sie erlangten Verheissungen</i> vgl §Vhebr-11-13
  }
  {
-  TODO: War das Daniel (<a href='http://bibel.renenyffenegger.ch/dan_6.html#v23'>Dan&nbsp;6,23</a>)?
+  <i>Gerechtigkeit wirken</i> §apg-10-35
+ }
+ {
+  <i>Der Löwen Rachen verstopften</i> vgl mit Daniel, §dan-6-23.
  }
 #}
 #hebr-11-35 {
