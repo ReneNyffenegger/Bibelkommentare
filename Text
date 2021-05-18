@@ -5974,7 +5974,7 @@
 #}
 #1mo-37-4 {
  {
-  Hier vermochten die Brüder Josephs nicht mehr, mit ihm in Frieden zu reden. Als Joseph Jahre später seine Brüder wieder sah, spricht er zu ihnen: «Friede euch», §
+  Hier vermochten die Brüder Josephs nicht mehr, mit ihm in Frieden zu reden. Als Joseph Jahre später seine Brüder wieder sah, spricht er zu ihnen: «Friede euch»
  <br>Vgl <i>Friede</i> auch mit §V1mo-37-14
  }
 #}
@@ -59585,6 +59585,11 @@
   Vgl <i>niederfallen und anbeten</i> mit <a href='http://bibel.renenyffenegger.ch/mt_4.html#v9'>Mt&nbsp;4,9</a>.
  }
  {
+  <i>Gold</i> spricht wohl vom «König der Juden», <i>Weihrauch</i> vom «Christus» und die <i>Myrrhe</i> von Seinem Tod.
+ <br>
+  Vor seinem Tod wurde Er gefragt, ob er König der Juden (§mt-27-11) und der Christus (§mt-26-63) ist.
+ }
+ {
   TODO: Vgl §+1mo-37-25.
  }
 #}
@@ -64461,8 +64466,9 @@
    Tod schmecken' (Schmecken und kosten sind dasselbe Wort im Griechischen <span class='gr'>γεύομαι</span>)
  }
  {
-  TODO: Hier <i>Essig mit Galle</i>, in <a href='http://bibel.renenyffenegger.ch/mt_27.html#v48'>Mt&nbsp;27,48</a> «nur» Essig.
-  <br>TODO vgl mi dem «Myrrhenwein» in <a href='http://bibel.renenyffenegger.ch/mk_15.html#v22'>Mk&nbsp;15,22</a>.
+   Hier <i>Essig mit Galle</i>, in §mt-27-48 «nur» Essig.
+ <br>
+   vgl mit dem «Myrrhenwein» in §mk-15-23.
  }
 #}
 #mt-27-35 {
@@ -66345,6 +66351,9 @@
  {
   <i>Der Menschensohn muss viel leiden</i>: <a class='kom' href='#Imt-16-21'>Mt&nbsp;16,21</a>.
  }
+ {
+  <i>Auf dem Weg hinauf nach Jerusalem</i>: §mk-11-1, §mk-11-11, §mk-15-41
+ }
 #}
 #mk-10-37 {
  {
@@ -66890,6 +66899,9 @@
  {
   §mt-26-29
  }
+ {
+  <i>werde nicht mehr vom Gewächs des Weinstocks trinken…</i> vgl §mk-15-23
+ }
 #}
 #mk-14-26 {
  {
@@ -67028,7 +67040,7 @@
 #}
 #mk-15-16 {
  {
-   Waffen: → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat
+   TODO: Waffen: → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat
  }
 #}
 #mk-15-17 {
@@ -67039,7 +67051,7 @@
 #}
 #mk-15-19 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/knien#knie-beugen[Knie beugen]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/knien#knie-beugen[Knie beugen], vgl §roem-14-11, §eph-3-14
  }
 #}
 #mk-15-21 {
@@ -67057,8 +67069,20 @@
  {
   <i>das heisst übersetzt</i>: <a class='kom' href='#Imt-1-23'>Mt&nbsp;1,23</a>.
  }
+#}
+#mk-15-23 {
  {
-  TODO: Vgl den <i>Myrrhenwein</i> mit dem «Essig» und der «Galle» in <a class='kom' href='#Imt-27-34'>Mt&nbsp;27,34</a>.
+  Er nahm den Wein nicht, vgl §mk-14-25, §+joh-19-30
+ }
+ {
+   Vgl den <i>Myrrhenwein</i> mit dem «Essig» und der «Galle» in §+mt-27-34.
+  <br>
+   Bei der Geburt des Herrn brachten die Weisen als Geschenk Myrrhe: §mt-2-11
+ }
+#}
+#mk-15-26 {
+ {
+  Er wurde auch umgebracht, weil der sich als Christus zu erkennen gab: §mk-14-61-ff
  }
 #}
 #mk-15-28 {
@@ -67066,7 +67090,10 @@
   <i>Die Schrift wurde erfüllt</i> §jak-2-23, vgl §mk-14-49
  }
  {
-   <span class='gt'>Vers fehlt in NA</span>.
+  <span class='gt'>Vers fehlt in NA</span>.
+ }
+ {
+  Die Schrift wurde auch erfüllt, als das Los über Seine Kleider geworfen wurde (§Vmk-15-24, §joh-19-24)
  }
  {
   Vgl §lk-22-37
@@ -67082,8 +67109,7 @@
 #}
 #mk-15-32 {
  {
-   Vgl <a href='http://bibel.renenyffenegger.ch/1petr_2.html#v23'>1.&nbsp;Petr&nbsp;2,23</a>:
-   'Als er geschmäht wurde, schmähte er nicht wieder.'
+   Vgl §1petr-2-23: «Als er geschmäht wurde, schmähte er nicht wieder.»
  }
 #}
 #mk-15-33 {
@@ -67101,7 +67127,7 @@
 #}
 #mk-15-36 {
  {
-  §mt-27-49
+  §mt-27-49, §joh-19-29
  }
 #}
 #mk-15-37 {
@@ -67134,8 +67160,16 @@
    Salome ist möglicherweise die hellenisierte Form von Sulamith (§hl-7-1).
  }
  {
+  <i>Von ferne zusehen</i> vgl §Vmk-15-47
+ }
+ {
   TODO: der jüngere im griechischen 'mikro' (der Kleine(re))
   KJV übersetzt «... the mother of James the less ...», Elberfelder mit «Jakobus des Kleinen».
+ }
+#}
+#mk-15-41 {
+ {
+  <i>die mit ihm nach Jerusalem hinaufgekommen waren</i> §+mk-10-32
  }
 #}
 #mk-15-43 {
@@ -67148,14 +67182,17 @@
   Pilatus verwundert sich: §Vmk-15-5
  }
 #}
-#mk-15-45 {
+#mk-15-46 {
+ {
+  §mt-27-59, §mk-15-46, §lk-23-53, §joh-19-40
+ }
  {
   <i>in eine Gruft legen</i> vgl §mk-6-29
  }
 #}
-#mk-15-46 {
+#mk-15-47 {
  {
-  §mt-27-59, §mk-15-46, §lk-23-53, §joh-19-40
+  <i>zusehen</i> vgl §Vmk-15-40
  }
 #}
 @}
@@ -72786,6 +72823,9 @@
 #}
 #joh-7-13 {
  {
+  <i>Furcht vor den Juden</i> §joh-19-38, §joh-20-18
+ }
+ {
   → biblisches/Bücher/Evangelien/Johannes/index#strongs-3954-joh
  }
 #}
@@ -74668,6 +74708,9 @@
   <i>es ist vollbracht</i> vgl §+joh-4-34, §joh-17-4
  }
  {
+  <i>Als nun Jesus den Essig genommen hatte</i> vgl mit dem Myrrhenwein, den Er nicht genommen hat, §mk-15-23
+ }
+ {
   Nachdem der Herr sein Werk vollbracht hatte, neigte Er sein Haupt. Während Seines Dienstes auf der Erde hatte er nicht, wohin er das Haupt neigen konnte, §mt-8-20
  }
 #}
@@ -74703,6 +74746,9 @@
 #joh-19-38 {
  {
   Obwohl Joseph von Arimathia <i>aus Furcht vor den Juden ein verborgener Jünger</i> war, ging er doch kühn zu Pilatus, §mk-15-43
+ }
+ {
+  <i>Furcht vor den Juden</i> §joh-7-13, §joh-20-18
  }
  {
   <i>den Leib Jesu abnehmen</i> vgl §5mo-21-22-23
@@ -74747,6 +74793,9 @@
  }
 #}
 #joh-20-18 {
+ {
+  <i>Furcht vor den Juden</i> §joh-7-13, §joh-19-38
+ }
  {
   <i>Gott sehen</i>: §+joh-1-18, Vgl §+joh-14-9
  }
@@ -82263,7 +82312,7 @@
 #}
 #roem-10-16 {
  {
-  <i>Dem Evangelium nicht gehorcht</i>: vgl §2thes-1-8, 1petr-4-17, §+roem-1-5, §
+  <i>Dem Evangelium nicht gehorcht</i>: vgl §2thes-1-8, 1petr-4-17, §+roem-1-5
  }
  {
   Dieses Zitat wird auch in §joh-12-38 verwendet. Es stammt aus §jes-53-1.
@@ -82828,6 +82877,9 @@
 #roem-14-11 {
  {
    Vgl §+phil-2-11, §+jes-45-23, auch §eph-3-14.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/knien#knie-beugen, vgl §eph-3-14, §mk-15-19, §eph-3-14
  }
 #}
 #roem-14-12 {
@@ -88612,6 +88664,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-5-16 {
  {
   <i>Die Tage sind böse</i> vgl §eph-6-13, §gal-1-4
+ }
+ {
+  <i>gelegene Zeit</i>: <span class='gr'>τον καιρον</span>, also der «Zeitpunkt»
  }
 #}
 #eph-5-18 {
