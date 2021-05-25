@@ -62927,13 +62927,15 @@
 #}
 #mt-19-28 {
  {
-  <i>Thron der Herrlichkeit</i> vgl <a href='http://bibel.renenyffenegger.ch/mt_25.html#v31'>Mt&nbsp;25,31</a> (wo die Heidenvölker gerichtet werden)
-  <br>Vgl <a class='kom' href='#I1sam-2-8'>1.&nbsp;Sam&nbsp;2,8</a>.
-  <br>TODO: Ist das der Thron in Elam(<a href='http://bibel.renenyffenegger.ch/jer_49.html#v38'>Jer&nbsp;49,38</a>)?
-  <br>TODO: Warum 12 Throne und ihr, was ist mit Judas?
+  <i>die zwölf Stämme richten</i>, vgl §1kor-6-3, §2petr-2-4, §offb-20-4
+ <br>
+  Vgl auch §ps-122-5.
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/ps_122.html#v5'>Ps&nbsp;122,5</a>.
+  <i>Thron der Herrlichkeit</i> vgl <a href='http://bibel.renenyffenegger.ch/mt_25.html#v31'>Mt&nbsp;25,31</a> (wo die Heidenvölker gerichtet werden)
+  <br>Vgl <a class='kom' href='#I1sam-2-8'>1.&nbsp;Sam&nbsp;2,8</a>.
+  <br>TODO: Ist das der Thron in Elam (<a href='http://bibel.renenyffenegger.ch/jer_49.html#v38'>Jer&nbsp;49,38</a>)?
+  <br>TODO: Warum 12 Throne und ihr, was ist mit Judas?
  }
 #}
 #mt-19-29 {
@@ -84169,10 +84171,15 @@
 #}
 #1kor-6-3 {
  {
-   Bezieht sich das <i>wir</i> auf Paulus und die Apostel oder auf alle Gläubigen?
+  <i>Engel richten</i>: §jud-1-6, §2petr-2-4
+ <br>
+  Vgl mit den Jüngern, welche in der Wiedergeburt die zwölf Stämme Israels richten werden, §mt-19-28
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
+ }
+ {
+   TODO: Bezieht sich das <i>wir</i> auf Paulus und die Apostel oder auf alle Gläubigen?
  }
 #}
 #1kor-6-4 {
@@ -85017,6 +85024,9 @@
 #1kor-11-32 {
  {
   <i>Vom Herrn gezüchtigt werden</i>, vgl <a href='http://bibel.renenyffenegger.ch/hebr_12.html#v5'>Hebr&nbsp;12,5</a>.
+ }
+ {
+  <i>Mit der Welt verurteilt werden</i> vgl §hebr-11-7
  }
 #}
 #1kor-11-34 {
@@ -95291,6 +95301,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>durch welchen</i>: Im Griechischen kann sich «welchen» sowohl auf den Glauben wie auch auf die Arche beziehen. Vgl §Vhebr-11-4 
  }
  {
+  <i>die Welt verurteilen</i> vgl §1kor-11-32
+ }
+ {
   <i>Gerechtigkeit, die nach dem Glaubens ist</i> §+roem-3-22
  }
  {
@@ -97638,6 +97651,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2petr-2-4 {
  {
+  <i>Engel, die gerichtet werden</i>: §jud-1-6, §1kor-6-3
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tartaros (Eigentlich ein Verb: <span class='gr'>ταρταρόω</span>) kommt im NT nur 1 Mal vor.
   In Elberfelder mit «tiefster Abgrund», in Sch2K mit «Abgrund», in KJV mit «Tartarus» übersetzt oder transkribiert.
   Vgl <span class='gr'>ἄβυσσος</span>, zB in §offb-9-1.
@@ -98652,6 +98668,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #jud-1-6 {
  {
   <i>ewig</i>: <a class='kom' href='#Iroem-1-20'>Röm&nbsp;1,20</a>.
+ }
+ {
+  <i>Engel, die gerichtet werden</i>: §1kor-6-3, §2petr-2-4
  }
  {
   TODO <i>Gericht des grossen Tages</i>: <a class='kom' href='#Imt-10-15'>Mt&nbsp;10,15</a>.
@@ -102493,6 +102512,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-20-4 {
+ {
+  <i>Throne, um Gericht zu halten</i> §mt-19-28
+ }
  {
   <i>Stirn</i> siehe <a class='kom' href='#Ioffb-7-3'>Offb&nbsp;7,3</a>.
  }
