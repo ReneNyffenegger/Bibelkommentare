@@ -65228,13 +65228,17 @@
 #mk-3-17 {
  {
   <i>Boanerges</i> (<span class='gr'>Βοανηργές</span>, Strongs 993), stammt offenbar aus dem Hebräischen <span class='hebr'>בֵּן</span> und
-  dem Aramäischen <span class='hebr'>רְגַז</span> (Strongs 7266), welches in <a href='http://bibel.renenyffenegger.ch/dan_3.html#v13'>Dan&nbsp;3,13</a> mit
-  'Zorn' übersetzt wird (hier aber offenbar 'Donner' bedeutet).
-  <br>Obwohl genannt 'Söhne des Donners', sind sie eigentlich Söhne des Zebedäaus, s.a. <a class='kom' href='#Imt-4-21'>Mt&nbsp;4,21</a>.
-  <br>Vgl mit Barnabas, dem Sohn des Trostes: <a href='http://bibel.renenyffenegger.ch/apg_4.html#v36'>Apg&nbsp;4,36</a>.
+  dem Aramäischen <span class='hebr'>רְגַז</span> (Strongs 7266), welches in §dan-3-13 mit «Zorn» übersetzt wird (hier aber offenbar «Donner» bedeutet).
+ <br>
+  Da der Autor des → biblisches/Bücher/Evangelien/Markus[Markusevangliums] Boanerges übersetzt, kann vielleicht angenommen werden, dass das Evangelium
+  → biblisches/Bücher/Evangelien/Markus#mk-nicht-an-juden[nicht an Juden] gerichtet ist, vgl §mk-7-11, §mk-7-34, §mk-15-22
+ <br>
+  Obwohl genannt «Söhne des Donners», sind sie eigentlich Söhne des Zebedäaus, s.a. §+mt-4-21.
+ <br>
+  Vgl mit Barnabas, dem Sohn des Trostes: §apg-4-36.
  }
  {
-  <i>das heisst</i>: <a class='kom' href='#Imt-1-23'>Mt&nbsp;1,23</a>.
+  <i>das heisst</i>: §+mt-1-23.
  }
 #}
 #mk-3-18 {
@@ -65812,6 +65816,12 @@
   <i>Mit ungewaschenen Händen Brot essen</i> vgl §mt-15-2
  }
 #}
+#mk-7-3 {
+ {
+  Die Erklärung des Autors des → biblisches/Bücher/Evangelien/Markus[Markusevangliums], daß die Juden und Phärisäer ohne die Hände zu waschen nicht essen, liegt die Vermutung
+  nahe, dass dieses Evangelium → biblisches/Bücher/Evangelien/Markus#mk-nicht-an-juden[nicht an Juden] gerichtet ist. Vgl §mk-15-42
+ }
+#}
 #mk-7-4 {
  {
   <i>Waschungen</i> Strongs 909: <a class='kom' href='#Ihebr-6-2'>Hebr&nbsp;6,2</a>. (Ebenso Vers 8).
@@ -65834,7 +65844,8 @@
 #}
 #mk-7-11 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Korban
+  Da der Autor des → biblisches/Bücher/Evangelien/Markus[Markusevangliums] → biblisches/Eigene-Uebersetzung/Konkordanz/Korban übersetzt, kann vielleicht angenommen werden, dass das Evangelium
+  → biblisches/Bücher/Evangelien/Markus#mk-nicht-an-juden[nicht an Juden] gerichtet ist, vgl §mk-3-17, §Vmk-7-34, §mk-15-22
  }
 #}
 #mk-7-15 {
@@ -65948,7 +65959,7 @@
 #}
 #mk-7-34 {
  {
-  <i>das heisst</i>: <a class='kom' href='#Imt-1-23'>Mt&nbsp;1,23</a>.
+  <i>das heisst</i>: Vgl §+Vmk-7-11, §+mt-1-23.
  }
 #}
 @}
@@ -67078,7 +67089,8 @@
   → biblisches/Orte/Golgatha
  }
  {
-  <i>das heisst übersetzt</i>: <a class='kom' href='#Imt-1-23'>Mt&nbsp;1,23</a>.
+  Da der Autor des → biblisches/Bücher/Evangelien/Markus[Markusevangliums] das Wort <i>Golgatha</i> übersetzt, kann vielleicht angenommen werden, dass das Evangelium
+  → biblisches/Bücher/Evangelien/Markus#mk-nicht-an-juden[nicht an Juden] gerichtet ist, vgl §mk-3-17, §Vmk-7-34, §mk-15-22, §mt-1-23
  }
 #}
 #mk-15-23 {
@@ -67181,6 +67193,12 @@
 #mk-15-41 {
  {
   <i>die mit ihm nach Jerusalem hinaufgekommen waren</i> §+mk-10-32
+ }
+#}
+#mk-15-42 {
+ {
+  Die Erklärung des Autors des → biblisches/Bücher/Evangelien/Markus[Markusevangliums], daß der Rüsttag der Vorsabbath ist, legt die Vermutung
+  nahe, dass dieses Evangelium → biblisches/Bücher/Evangelien/Markus#mk-nicht-an-juden[nicht an Juden] gerichtet ist. Vgl §mk-7-2-4
  }
 #}
 #mk-15-43 {
