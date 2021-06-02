@@ -64660,13 +64660,20 @@
 #}
 #mt-28-8 {
  {
-  Die Frauen wollen den Jüngern die Auferstehung des Herrn verkündigen. Vgl mit §+mt-14-12
+  Die Frauen wollen den Jüngern die Auferstehung des Herrn verkündigen.
+ <br>
+  Hier verlassen sie die Gruft mit <i>Furcht und grosser Freude</i> und wollen «es» seinen Jüngern verkünden. In
+  §mk-16-8 hatte sie «Zittern und große Bestürzung ergriffen» und sie «sagten niemandem etwas».
+ <br>
+  Vgl mit §+mt-14-12
  }
 #}
 #mt-28-9 {
  {
-  TODO: in <a href='http://bibel.renenyffenegger.ch/joh_20.html#v17'>Joh&nbsp;20,17</a> sagt Jesus, dass er nicht angerührt werden will, weil er noch nicht
-  zum Vater aufgefahren ist.
+  in §joh-20-17 sagt Jesus, dass er nicht angerührt werden will, weil er noch nicht zum Vater aufgefahren ist.
+ }
+ {
+  Vgl §lk-24-39, §1joh-1-1, §apg-17-27
  }
 #}
 #mt-28-12 {
@@ -64693,6 +64700,11 @@
  }
  {
   → biblisches/Orte/Galiläa
+ }
+#}
+#mt-28-17 {
+ {
+  <i>als sie ihn sahen</i> §mk-16-7   
  }
 #}
 #mt-28-18 {
@@ -67231,7 +67243,16 @@
   <i>Maria, die Mutter des Jakobus</i>: <a class='kom' href='#Imk-15-40'>Mk&nbsp;15,40</a>.
  }
  {
-  <i>Als der Sabbat vergangen war</i>: das ist der «erste Wochentag», vgl nächster Vers. Vgl mit der Frau, die Jesus rechtzeitig gesalbt hat in §mk-14-9
+  <i>Als der Sabbat vergangen war</i>: das ist der «erste Wochentag», vgl nächster Vers.
+ }
+ {
+  Sie konnten ihn aber nicht salben, da er bereits auferstanden war.
+  Vgl §lk-24-1-ff und mit der Frau, die Jesus rechtzeitig gesalbt hat in §mk-14-9 
+ <br>
+  Gemäss §lk-23-56 bereiteten sie die Spezereien und ruhten über den Sabbat.
+ }
+ {
+  Vgl die <i>Spezerien</i> der Frauen mit der Myrrhe und Aloe von Nikodemus: §joh-19-39
  }
 #}
 #mk-16-2 {
@@ -67244,12 +67265,18 @@
   hingehen nach → biblisches/Orte/Galiläa: §mk-14-28
  }
  {
+  <i>dasselbst werdet ihr ihn sehen</i> §mt-28-17
+ }
+ {
   Auch dem Petrus. Wie tröstlich!
  }
 #}
 #mk-16-8 {
  {
   <i>Entsetzen</i>: <a class='kom' href='#Imk-5-42'>Mk&nbsp;5,42</a>
+ }
+ {
+  §mt-28-8
  }
 #}
 #mk-16-9 {
@@ -67270,6 +67297,11 @@
    <br>
     Vgl → biblisches/Grundtext/Varianten/Unterschiede#variante-mk-16-9-ff[Relevante Varianten in Biblischen Manuskripten]
    </span>
+ }
+#}
+#mk-16-10 {
+ {
+  <i>welche trauerten und weinten</i> vgl §lk-6-25
  }
 #}
 #mk-16-12 {
@@ -68775,6 +68807,11 @@
   <i>Glückselig seid ihr, wenn die Menschen euch hassen werden</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung
  }
 #}
+#lk-6-25 {
+ {
+  <i>Trauern und weinen</i> §mk-16-10, §jak-4-9
+ }
+#}
 #lk-6-26 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#falsche-propheten[falsche Propheten]
@@ -69300,6 +69337,9 @@
 #lk-9-22 {
  {
   <i>Der Menschensohn muss viel leiden</i>: <a class='kom' href='#Imt-16-21'>Mt&nbsp;16,21</a>.
+ }
+ {
+  Vgl §lk-18-33, §lk-24-7, §lk-24-46
  }
 #}
 #lk-9-23 {
@@ -70187,6 +70227,11 @@
   <span class='u'>Offenbar war ein Drachme etwa so schwer, wie ein Denarius</span>. Denar: <a class='kom' href='#Imt-18-28'>Mt&nbsp;18,28</a>.
  }
 #}
+#lk-15-14 {
+ {
+  Vgl §lk-17-25, §lk-24-26
+ }
+#}
 #lk-15-22 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1mo_41.html#v42'>1.&nbsp;Mo&nbsp;41,42</a>.
@@ -70333,6 +70378,11 @@
   <i>Tyndale Bible Dictionary</i>, 2001, S. 207).
  }
 #}
+#lk-17-25 {
+ {
+  Vgl §lk-15-15, §lk-24-26
+ }
+#}
 #lk-17-26 {
  {
   <a class='kom' href='#Imt-24-37'>Mt&nbsp;24,37</a>.
@@ -70465,6 +70515,11 @@
  }
  {
   TODO: <a class='kom' href='#Ilk-9-31'>Lk&nbsp;9,31</a>.
+ }
+#}
+#lk-18-33 {
+ {
+  Vgl §lk-9-22, §lk-24-7, §lk-24-7
  }
 #}
 #lk-18-37 {
@@ -71254,14 +71309,27 @@
    Nach Seinem Tod wurde der Herr in <i>feine Leinwand gewickelt</i> und in eine <i>Gruft</i> gelegt, nach Seiner Geburt wurde er in <i>Windeln gewickelt</i> und in eine <i>Krippe</i> gelegt, §+lk-2-7.
  }
 #}
+#lk-23-56 {
+ {
+  Gemäss §mk-16-1 kauften sie diese <i>Spezereien</i>, nachdem der Sabbat vergangen war.
+ }
+ {
+  Vgl die <i>Spezerien</i> der Frauen mit der Myrrhe und Aloe von Nikodemus: §joh-19-39
+ }
+#}
 @}
 @Lukas 24 {
 #lk-24-1 {
  {
-  Salbungen Jesu: vgl <a class='kom' href='#Imt-26-6'>Mt&nbsp;26,6</a>.
+  Salbungen Jesu: vgl §+mt-26-6.
  }
  {
   <i>Erster Tag der Woche</i>: <a class='kom' href='#Imt-28-1'>Mt&nbsp;28,1</a>.
+ }
+#}
+#lk-24-3 {
+ {
+  <i>fanden den Leib des Herrn Jesus nicht</i> §Vlk-24-23
  }
 #}
 #lk-24-4 {
@@ -71278,7 +71346,7 @@
 #}
 #lk-24-7 {
  {
-  <i>Der Sohn des Menschen muß in die Hände sündiger Menschen überliefert werden</i> vgl §lk-23-46 
+  <i>Der Sohn des Menschen muß in die Hände sündiger Menschen überliefert werden</i> vgl §lk-9-22, §lk-18-33, §Vlk-24-46
  }
  {
   <i>In die Hände … überliefert werden</i> §lk-23-46
@@ -71320,6 +71388,9 @@
  {
   <i>Erscheinung</i> (Strongs 3701): <a class='kom' href='#Ilk-1-22'>Lk&nbsp;1,22</a>.
  }
+ {
+  <i>als sie seinen Leib nicht fanden</i> §Vlk-24-3
+ }
 #}
 #lk-24-25 {
  {
@@ -71328,7 +71399,7 @@
 #}
 #lk-24-26 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit/Leiden
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit/Leiden, vgl §lk-15-14, §lk-17-25
  }
 #}
 #lk-24-27 {
@@ -71358,9 +71429,19 @@
   Der Herr ist zuerst dem Kephas erschienen (<a href='http://bibel.renenyffenegger.ch/1kor_15.html#v5'>1.&nbsp;Kor&nbsp;15,5</a>).
  }
 #}
+#lk-24-36 {
+ {
+  <i>Friede euch</i> §joh-20-19
+ }
+#}
 #lk-24-38 {
  {
   <i>Warum steigen Überlegungen auf in euren Herzen</i> §lk-2-35
+ }
+#}
+#lk-24-39 {
+ {
+  <i>betastet mich</i> vgl §1joh-1-1, §mt-28-9, §apg-17-27
  }
 #}
 #lk-24-40 {
@@ -71382,7 +71463,15 @@
   <i>dass alles erfüllte werden muss, was über mich geschrieben steht</i> vgl §lk-21-22
  }
 #}
+#lk-24-45 {
+ {
+  <i>…um die Schriften zu verstehen … und am dritten Tag auferstehen …</i> vgl §joh-20-9
+ }
+#}
 #lk-24-46 {
+ {
+  Vgl §lk-9-22, §lk-18-33, §Vlk-24-7
+ }
  {
   Beachte: Die Jünger(?) hatten sich zwar erinnert (<a href='http://bibel.renenyffenegger.ch/lk_24.html#v8'>Lk&nbsp;24,8</a>), aber das reichte wohl noch nicht. Er selbst musste ihnen das
   Verständnis öffnen.
@@ -74139,10 +74228,10 @@
   <i>euer Herz werde nicht bestürzt</i>, §Vjoh-14-1
  }
  {
-  <i>sei auch nicth furchtsam</i> §mt-8-26, §lk-4-40
+  <i>sei auch nicht furchtsam</i> §mt-8-26, §lk-4-40
  }
  {
-  <i>Frieden lasse ich euch, meinen Frieden gebe ich euch</i> §joh-16-33, §mk-9-50
+  <i>Frieden lasse ich euch, meinen Frieden gebe ich euch</i> §joh-16-33, §joh-20-19, §mk-9-50
  }
 #}
 #joh-14-28 {
@@ -74793,6 +74882,9 @@
  {
   → biblisches/Personen/Nikodemus
  }
+ {
+  <i>eine Mischung aus Myrrhe und Aloe</i> vgl mit den Spezereien der Frauen: §mk-16-1, §lk-23-56, §lk-24-1-ff
+ }
 #}
 #joh-19-40 {
  {
@@ -74807,6 +74899,11 @@
 #joh-20-1 {
  {
   <i>Erster Tag der Woche</i>: <a class='kom' href='#Imt-28-1'>Mt&nbsp;28,1</a>.
+ }
+#}
+#joh-20-9 {
+ {
+  Vgl §lk-24-45-46
  }
 #}
 #joh-20-14 {
@@ -74824,7 +74921,7 @@
   <i>Ich fahre auf zu meinem Vater</i> vgl §joh-3-31
  }
  {
-  TODO: Vgl <a class='kom' href='#Imt-28-9'>Mt&nbsp;28,9</a> (wo die beiden Marias Jesu Füsse umfassen).
+  Vgl §+mt-28-9 (wo die beiden Marias Jesu Füsse umfassen).
  }
 #}
 #joh-20-18 {
@@ -74833,6 +74930,11 @@
  }
  {
   <i>Gott sehen</i>: §+joh-1-18, Vgl §+joh-14-9
+ }
+#}
+#joh-20-19 {
+ {
+  <i>Friede euch</i> §lk-24-36, §+joh-14-27
  }
 #}
 #joh-20-21 {
@@ -81936,6 +82038,9 @@
  {
   <i>Christus in Euch</i> vgl §+Vroem-8-1
  }
+ {
+  <i>Der Leib ist tot der Sünde wegen</i> vgl §Vroem-8-13, §roem-12-1
+ }
 #}
 #roem-8-11 {
  {
@@ -82573,7 +82678,7 @@
 @Römer 12 {
 #roem-12-1 {
  {
-  Das Wort 'vernünftiger' ist im Griechischen <span class='gr'>λογικὴν</span> (logikon): offenbar bedeutet
+  Das Wort <i>vernünftiger</i> ist im Griechischen <span class='gr'>λογικὴν</span> (logikon): offenbar bedeutet
   dieses Wort nicht nur was landläufig under <i>vernünftig</i> verstanden wird, sondern bezeichnet auch die Verwendung
   der Vernunft beim Ausüben des Gottesdienstes/dem Darbringen des Opfers.
  }
@@ -82585,7 +82690,10 @@
   <br>Vgl auch §hebr-13-15.
  }
  {
-  <i>eure Leiber darstellen als ein → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schlachtopfer[Schlachtopfer]</i> vgl §roem-6-19
+  <i>eure Leiber darstellen als ein … → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schlachtopfer[Schlachtopfer]</i> vgl §roem-6-19
+ }
+ {
+  <i>Leiber als … lebendig darstellen</i> Vgl mit dem Leib, der tot der Sünde wegen ist: §+roem-8-18
  }
  {
   <i>euer vernünftiger Dienst</i>: vgl mit dem Dienst, den die Menschheit dem Geschöpf dargebracht hat, §roem-1-25.
@@ -82632,7 +82740,7 @@
 #roem-12-4 {
  {
   <i>Der Leib mit vielen Gliedern</i>: vgl
-    <a href='http://bibel.renenyffenegger.ch/1kor_6.html#v15'>1.&nbsp;Kor&nbsp;6,15</a>,
+    §1kor-6-15,
     <a href='http://bibel.renenyffenegger.ch/1kor_12.html#v12'>1. Kor 12,12 ff</a>,
     <a href='http://bibel.renenyffenegger.ch/eph_4.html#v25'>Eph&nbsp;4,25</a>,
     <a href='http://bibel.renenyffenegger.ch/eph_5.html#v30'>Eph&nbsp;5,30</a>
@@ -84291,7 +84399,7 @@
 #}
 #1kor-6-15 {
  {
-  <i>Der Leib mit vielen Gliedern</i>: <a class='kom' href='#Iroem-12-4'>Röm&nbsp;12,4</a>.
+  <i>Der Leib mit vielen Gliedern</i>: §+roem-12-4.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
@@ -86285,6 +86393,9 @@
  {
   Vgl mit §+2kor-6-4.
  }
+ {
+  <i>das Sterben Jesu am Leib umhertragend</i> vgl §gal-6-17
+ }
 #}
 #2kor-4-15 {
  {
@@ -87894,7 +88005,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-6-17 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/2kor_4.html#v10'>2.&nbsp;Kor&nbsp;4,10</a>.
+  Vgl §2kor-4-10.
  }
 #}
 #gal-6-18 {
@@ -96381,6 +96492,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Unterordnung</i>: <a class='kom' href='#Iroem-13-1'>Röm&nbsp;13,1</a>.
  }
 #}
+#jak-4-9 {
+ {
+  <i>trauert und weint</i> §lk-6-25
+ }
+#}
 #jak-4-10 {
  {
   TODO Vgl <i>Erhöhung und Erniederung</i> in <a class='kom' href='#Imt-23-12'>Mt&nbsp;23,12</a>,
@@ -97997,7 +98113,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Was von Anfang an war, was wir gehört haben</i>: vgl mit §1joh-2-7.
  }
  {
-  <i>Was unsere Hände betastet haben</i> vgl §apg-17-27
+  <i>Was unsere Hände betastet haben</i> vgl §lk-24-39, §mt-28-9, §apg-17-27
  }
  {
   <i>Wort des Lebens</i> §phil-2-16
