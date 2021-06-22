@@ -59434,7 +59434,7 @@
   <i>Und sie wird einen Sohn gebären, und du sollst seinen Namen Jesus heissen</i> §lk-1-31, §Vmt-1-25. Er wurde am achten Tag, da man ihn beschneiden sollte, mit diesem Namen genannt, §lk-2-21
  }
  {
-  <i>Er wird sein Volk erretten aus ihren Sünden</i> vgl §lk-2-11, §lk-1-68-ff, §joh-1-29
+  <i>Er wird sein Volk erretten aus ihren Sünden</i> vgl §mt-2-6, §lk-2-11, §lk-1-68-ff, §joh-1-29
  }
  {
   Vgl §ps-130-8, §lk-24-21
@@ -59545,6 +59545,8 @@
 #mt-2-6 {
  {
   <i>Ein Führer, der mein Volk Israel weiden wird</i>: es waren Hirten, die zuerst von der Geburt dieses Führers erfuhren, §lk-2-8-ff
+  <br>
+   Vgl §mt-1-21
   <br>
    Vgl auch mit → biblisches/Personen/David, §+2sam-5-2
  }
@@ -67629,6 +67631,11 @@
   Vgl auch: <i>mir ist gegeben alle Gewalt</i>, §mt-28-18
  }
 #}
+#lk-1-38 {
+ {
+  <i>ich bin die Magd des Herrn; es geschehe mir nach deinem Wort</i> vgl §lk-2-29
+ }
+#}
 #lk-1-41 {
  {
   §+Vlk-1-15
@@ -67889,6 +67896,9 @@
  }
 #}
 #lk-2-29 {
+ {
+  <i>Nun entläßt du deinen Knecht nach deinem Wort</i> vgl §lk-1-38
+ }
  {
   <i>nun entläßt du deinen Knecht in Frieden</i> vgl §+lk-7-50
  }
@@ -68568,6 +68578,9 @@
  {
   → biblisches/Orte/Genezareth
  }
+ {
+  <i>See</i>: <span class='gr'>λίμνη</span> (Strongs 3041), ebenso in §Vlk-5-2, §lk-8-22-ff, §offb-19-20, §offb-20-10-ff, §offb-21-8
+ }
 #}
 #lk-5-2 {
  {
@@ -69106,6 +69119,9 @@
  {
   §mt-9-35
  }
+ {
+  Hier durchzieht Er nacheinander Stadt und Dorf, in §Vlk-8-4 versammelt sich eine große Volksmenge und sie kommen aus jeder Stadt.
+ }
 #}
 #lk-8-2 {
  {
@@ -69131,6 +69147,11 @@
 #lk-8-5 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse/Sämann, §mt-13-3, §mk-4-3
+ }
+#}
+#lk-8-7 {
+ {
+  <i>ersticken</i>: §Vlk-8-33
  }
 #}
 #lk-8-8 {
@@ -69182,6 +69203,11 @@
   Vgl §lk-10-21
  }
 #}
+#lk-8-22 {
+ {
+  <i>See</i>: §+lk-5-1
+ }
+#}
 #lk-8-23 {
  {
   §mt-8-24, §mk-4-37
@@ -69221,6 +69247,11 @@
   in <a href='http://bibel.renenyffenegger.ch/roem_10.html#v7'>Röm&nbsp;10,7</a> und der Offenbarung.
   <br>Siehe auch <a class='kom' href='#I2kor-11-25'>2.&nbsp;Kor&nbsp;11,25</a> und <a class='kom' href='#Ioffb-9-1'>Offb&nbsp;9,1</a>.
   <br>Siehe auch <a class='kom' href='#I2petr-2-4'>2.&nbsp;Petr&nbsp;2,4</a>.
+ }
+#}
+#lk-8-33 {
+ {
+  <i>und ertrank</i>: oder «erstickten», dasselbe Griechische Wort wie in §Vlk-8-7 (<span class='gr'>ἀποπνίγω</span>, Strongs 638).
  }
 #}
 #lk-8-35 {
@@ -69314,7 +69345,7 @@
 #}
 #lk-9-6 {
  {
-  Durchzogen sie die <i>Städte</i> nicht?
+  Durchzogen sie die <i>Städte</i> nicht, vgl §lk-8-1, §lk-13-22, §lk-4-43
  }
 #}
 #lk-9-7 {
@@ -69498,6 +69529,11 @@
 #lk-9-48 {
  {
   §lk-18-17, §+mt-18-5, §mk-9-37
+ }
+#}
+#lk-9-50 {
+ {
+  §lk-11-23
  }
 #}
 #lk-9-51 {
@@ -69742,7 +69778,7 @@
 #}
 #lk-11-23 {
  {
-  §mt-12-30, §mk-9-40
+  §lk-9-50, §mt-12-30, §mk-9-40
  }
 #}
 #lk-11-24 {
@@ -72602,6 +72638,9 @@
  {
   <i>sündige nicht mehr</i> §joh-8-11
  }
+ {
+  <i>Danach</i>: oder «nach diesem» (<span class='gr'>Μετὰ ταῦτα</span>)
+ }
 #}
 #joh-5-16 {
  {
@@ -74928,6 +74967,9 @@
  {
   <i>den Leib Jesu abnehmen</i> vgl §5mo-21-22-23
  }
+ {
+  <i>Danach</i>: oder «nach diesem» (<span class='gr'>Μετὰ ταῦτα</span>)
+ }
 #}
 #joh-19-39 {
  {
@@ -74943,6 +74985,9 @@
  }
  {
   Salbungen Jesu: vgl <a class='kom' href='#Imt-26-6'>Mt&nbsp;26,6</a>.
+ }
+ {
+  <i>Wie es bei den Juden Sitte ist</i> oder «nach der jüdischen Gewohnheit» (<span class='gr'>καθὼς ἔθος ἐστὶν τοῖς Ἰουδαίοις ἐνταφιάζειν</span>)
  }
 #}
 @}
