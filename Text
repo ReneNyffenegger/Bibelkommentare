@@ -60356,7 +60356,7 @@
 #}
 #mt-5-31 {
  {
-  §lk-16-18
+  <i>Wer irgend seine Frau entlassen wird</i> §mt-19-3, §lk-16-18
  }
 #}
 #mt-5-32 {
@@ -62025,6 +62025,11 @@
   <i>Weizen sammeln</i>: §mt-3-12, §+mt-24-31
  }
 #}
+#mt-13-31 {
+ {
+  <i>Senfkorn</i> vgl §mt-17-20
+ }
+#}
 #mt-13-32 {
  {
   Vgl §+lk-13-19
@@ -62737,6 +62742,9 @@
  {
   <i>Unglaube</i>: vgl <a class='kom' href='#Imt-13-58'>Mt&nbsp;13,58</a>.
  }
+ {
+  <i>Glaube wie ein Senfkorn</i> vgl §mt-13-31, §lk-17-6
+ }
 #}
 #mt-17-21 {
  {
@@ -62930,6 +62938,11 @@
   <i>Gebiet von Judäa jenseits des Jordan</i> Vgl mit §mk-10-1.
  }
 #}
+#mt-19-3 {
+ {
+  <i>Ist es einem Mann erlaubt, aus jeder Ursache seine Frau zu entlassen?</i> §mt-5-31-32
+ }
+#}
 #mt-19-4 {
  {
    Mann <span class='gr'>ἄρρην</span> (Strongs 730). Frau: <span class='gr'>θῆλυς</span> (Strongs 2338, 5x).
@@ -62986,7 +62999,7 @@
 #}
 #mt-19-24 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/mt_21.html#v31'>Mt&nbsp;21,31</a> (Die Zöllner kommen eher ins Reich Gottes als die obersten Prister und Ältesten des Volkes).
+  Vgl mit §mt-21-31: Die Zöllner kommen eher ins Reich Gottes als die obersten Priester und Ältesten des Volkes.
  }
 #}
 #mt-19-26 {
@@ -70478,6 +70491,9 @@
   Vgl <i>Maulbeerbaum</i> (<span class='gr'>συκάμινος</span>, Strongs 4807) mit <span class='gr'>συκάμινος</span> (Strongs 4809) in
   <a href='http://bibel.renenyffenegger.ch/lk_19.html#v4'>Lk&nbsp;19,4</a>.
  }
+ {
+  <i>Glaube wie ein Senfkorn</i> §mt-17-20
+ }
 #}
 #lk-17-11 {
  {
@@ -73168,7 +73184,7 @@
   <i>ich gehe hin zu dem, der mich gesandt hat</i>: §joh-16-5
  }
  {
-  <i>noch eine kleine Zeit bin ich bei euch</i>: §joh-12-35
+  <i>noch eine kleine Zeit bin ich bei euch</i>: §joh-12-35, §joh-13-33
  }
  {
   <i>Kurze/lange/kleine Zeit</i> in Johannes: <a class='kom' href='#Ijoh-5-6'>Joh&nbsp;5,6</a>.
@@ -73954,7 +73970,7 @@
 #}
 #joh-12-35 {
  {
-  <i>Noch eine kleine Zeit</i>: §+joh-7-33.
+  <i>Noch eine kleine Zeit</i>: §+joh-7-33, §joh-13-33
  }
  {
   <i>Kurze/lange/kleine Zeit</i> in Johannes: §+joh-5-6.
@@ -74196,6 +74212,9 @@
  }
  {
    <i>Wohin ich gehe, könnt ihr nicht hingehen</i>: <a class='kom' href='#Ijoh-8-21'>Joh&nbsp;8,21</a>.
+ }
+ {
+  <i>noch eine kleine Zeit</i> §joh-7-33, §joh-12-35
  }
 #}
 #joh-13-34 {
@@ -84454,7 +84473,10 @@
 #1kor-5-11 {
  {
   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/1kor_6.html#v9'>1.&nbsp;Kor&nbsp;6,9-11</a>.
-  <br>Beachte: gemäss <a href='http://bibel.renenyffenegger.ch/eph_5.html#v5'>Eph&nbsp;5,5</a> ist ein Habsüchtiger ein Götzendiener.
+ }
+ {
+  
+  >Beachte: gemäss §eph-5-5 ist ein Habsüchtiger ein Götzendiener.
  }
 #}
 #1kor-5-13 {
@@ -88861,7 +88883,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-4-19 {
  {
-  <i>unersättliche Gier</i> siehe <a class='kom' href='#Imk-7-22'>Mk&nbsp;7,22</a>.
+  <i>Habsucht</i> siehe §+mk-7-22.
+ }
+ {
+  Die Kombination von <i>Unreinigkeit und Habsucht</i> erscheint auch in §eph-5-3.
+ }
+ {
+  Sch2K übersetzt <i>Habsucht</i> mit «Gier», Elberfelder mit «unersättlicher Gier». Das zugrunde liegende Griechische Wort <span class='gr'>πλεονεξία </span> wird in der Elberfelder an den
+  anderen Stellen, wo das Wort vorkommt, durchgängig mit «Habsucht» übersetzt.
  }
 #}
 #eph-4-21 {
@@ -88964,6 +88993,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
    TODO: Wäre <i>Schlachtopfer</i> (<span class='gr'>θυσία</span>, Strongs 2378) nicht besser einfach mit «Opfer» übersetzt worden.
    <br>Vgl auch mit «Trankopfer» in <a class='kom' href='#Iphil-2-17'>Phil&nbsp;2,17</a>.
+ }
+#}
+#eph-5-3 {
+ {
+   Die Kombination von <i>Unreinigkeit und Habsucht</i> erscheint auch in §eph-4-19. 
  }
 #}
 #eph-5-5 {
@@ -96746,6 +96780,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Dunst</i> (Strongs 822): TODO vgl <a class='kom' href='#Iapg-2-19'>Apg&nbsp;2,19</a>.
  }
+ {
+  Vgl die <i>kleine Zeit</i> des Lebens mit der kleinen Zeit der Betrübnis (§1petr-1-6) und Leidens (§1petr-5-10)
+ }
 #}
 #jak-4-15 {
  {
@@ -96919,6 +96956,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Versuchung</i>, Strongs 3986: §+lk-22-28.
+ }
+ {
+  <i>Eine kleine Zeit betrübt sein</i> vgl §1petr-5-10, §jak-4-14
  }
 #}
 #1petr-1-7 {
@@ -97756,6 +97796,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1petr-5-10 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/eph_1.html#v6'>Eph&nbsp;1,6</a>.
+ }
+ {
+  <i>Eine kleine zeit geltten haben</i> vgl §1petr-1-6, §jak-4-14
  }
  {
   Vgl <i>berufen zu</i> <a class='kom' href='#Ikol-3-15'>Kol&nbsp;3,15</a>
