@@ -55199,8 +55199,7 @@
 #hes-34-12 {
  {
   «Ein Tag des Gewölks und des Wolkendunkels» <span class='hebr'>בְּי֥וֹם עָנָ֖ן וַעֲרָפֶֽל</span> (Strongs 3117 6051 6205) kommt auch noch vor
-  in <a href='http://bibel.renenyffenegger.ch/joe_2.html#v2'>Joe&nbsp;2,2</a> und <a href='http://bibel.renenyffenegger.ch/zeph_1.html#v15'>Zeph&nbsp;1,15</a> (und
-  bezeichnet möglicherweise 70 n.Chr.).
+  in §joe-2-2 und §zeph-1-15 (und bezeichnet möglicherweise 70 n.Chr.).
   <br>TODO: vergleiche mit Ausdruck in <a href='http://bibel.renenyffenegger.ch/hebr_12.html#v18'>Hebr&nbsp;12,18</a>.
   <br>TODO: vergleiche diesen Ausdruck auch mit <a href='http://bibel.renenyffenegger.ch/5mo_5.html#v22'>5.&nbsp;Mo&nbsp;5,22</a>.
   <br>Vgl Strongs 6205 mit <a class='kom' href='#I2mo-20-21'>2.&nbsp;Mo&nbsp;20,21</a>.
@@ -57432,8 +57431,7 @@
          Fresser: <span class='hebr'>יֶלֶק</span>, Strongs: 3218 (Heuschrecken mit Flügeln, siehe <a href='http://bibel.renenyffenegger.ch/nah_3.html#v16'>Nah&nbsp;3,16</a>),<br>
          Verwüster: <span class='hebr'>חָסִיל</span>, Strongs: 2625.
          <br> Vgl <a href='http://bibel.renenyffenegger.ch/joe_2.html#v25'>Joe&nbsp;2,25</a>, wo Gott verspricht, die Jahre zurückzuerstatten, die diese
-     Tiere verzehrt haben. Die Reihenfolge dort:
-     Heuschrecke, Fresser, Verwüster, Nager erwähnt werden.
+     Tiere verzehrt haben. Die Reihenfolge dort: Heuschrecke, Abfresser, Vertiler, Nager.
          <br>
    Vgl auch <a class='kom' href='#I1koe-8-37'>1.&nbsp;Kö&nbsp;8,37</a>.
   <br>TODO: Wo kommen diese Viecher sonst noch vor?
@@ -57447,6 +57445,11 @@
  {
   <i>Zähne wie Löwenzähne</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_9.html#v8'>Offb&nbsp;9,8</a>. Beachte: die vier <i>Heuschrecken</i> aus Vers 4 scheinen sich
   wieder in <a href='http://bibel.renenyffenegger.ch/offb_9.html#v3'>Offb 9,3/7</a> zu finden.
+ }
+#}
+#joe-1-11 {
+ {
+  Vgl §offb-6-6
  }
 #}
 #joe-1-15 {
@@ -57463,10 +57466,13 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/heilig
  }
+ {
+  <i>Stoßt in die Posaune auf Zion</i> §Vjoe-2-15
+ }
 #}
 #joe-2-2 {
  {
-  Siehe <a class='kom' href='#Ihes-34-12'>Hes&nbsp;34,12</a>.
+  <i>Tag des Gewölks und der Wolkennacht</i> vgl §+hes-34-12.
  }
 #}
 #joe-2-3 {
@@ -57507,7 +57513,7 @@
 #}
 #joe-2-25 {
  {
-  Heuschrecke, Fresser, Verwüster und Nager: <a class='kom' href='#Ijoe-1-4'>Joe&nbsp;1,4</a>.
+  Heuschrecke, Abfresser, Vertilger und Nager: §+joe-1-4.
  }
 #}
 #joe-2-27 {
@@ -57534,6 +57540,8 @@
  {
   Hier: Zeichen an Sonne und Mond, ehe der <i>grosse und schreckliche Tag des HERRN</i> kommt. Es wird auch der Prophet Elia gesendet, ehe dieser Tag kommt
   (<a href='http://bibel.renenyffenegger.ch/mal_3.html#v23'>Mal&nbsp;3,23</a>).
+  <br>
+   Vgl §joe-2-10, §joe-4-15
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
@@ -57592,7 +57600,7 @@
 #}
 #joe-4-15 {
  {
-   Vgl §+joe-2-10.
+   Vgl §+joe-2-10, §joe-3-4
  }
 #}
 #joe-4-16 {
@@ -100482,7 +100490,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-6-6 {
  {
-  <a class='kom' href='#I2koe-7-1'>2.&nbsp;Kö&nbsp;7,1</a>.
+  §+2koe-7-1.
+ }
+ {
+  Vgl §joe-joe-1-10-11
  }
 #}
 #offb-6-8 {
