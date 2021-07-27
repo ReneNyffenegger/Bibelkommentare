@@ -60480,6 +60480,14 @@
    <span class='u'>http://doctrine.org/the-lords-prayer/</span>
  }
 #}
+#mt-6-11 {
+ {
+  <i>nötig</i> (<span class='gr'>ἐπιούσιος</span>, Strongs 1967, 2x) kommt, ausser noch in §lk-11-3, nirgends in der antiken Griechischen Literatur vor
+  (<a href='https://de.wikipedia.org/wiki/Hapax_legomenon'>Dis Legomenon</a>).
+  → Geschichte/Kirche/Personen/Väter/Hieronymus übersetzte dieses Wort in der → biblisches/Uebersetzungen/Vulgata mit
+  <i>supersubstantialem</i> in Matthäus und <i>quotidianum</i> in Lukas.
+ }
+#}
 #mt-6-12 {
  {
   Beachte den Unterschied zu <a href='http://bibel.renenyffenegger.ch/lk_11.html#v4'>Lk&nbsp;11,4</a>: Matthäus, der Zöllner schreibt <i>vergib unsere Schulden</i>, Lukas schreibt: <i>Vergib uns unsere Sünden</i>.
@@ -69779,6 +69787,11 @@
  }
  {
   TODO: wörtlich «in den Himmeln». Vgl <a href='http://bibel.renenyffenegger.ch/mt_6.html#v9'>Mt&nbsp;6,9</a>.
+ }
+#}
+#lk-11-3 {
+ {
+  <i>nötig</i> (<span class='gr'>ἐπιούσιος</span>, Strongs 1967, 2x): §+mt-6-11
  }
 #}
 #lk-11-4 {
