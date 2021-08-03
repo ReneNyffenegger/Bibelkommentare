@@ -398,6 +398,7 @@
   <br>Beachte, dass auch Adam seinen Sohn «in seinem Bild, ihm ähnlich zeugt» (<a href='http://bibel.renenyffenegger.ch/1mo_5.html#v3'>1.&nbsp;Mo&nbsp;5,3</a>).
   <br>Vgl auch mit den Göttern 'im Bildnis der Menschen' <a href='http://bibel.renenyffenegger.ch/jes_44.html#v13'>Jes&nbsp;44,13</a>.
   <br>S.a. <a class='kom' href='#I1kor-11-7'>1.&nbsp;Kor&nbsp;11,7</a>, §roem-8-29
+  <br>§1mo-9-6
  }
 #}
 #1mo-1-27 {
@@ -786,7 +787,7 @@
   Salomo bittet darum, 'gut und böse unterscheiden zu können' (<a href='http://bibel.renenyffenegger.ch/1koe_3.html#v9'>1.&nbsp;Kö&nbsp;3,9</a>).
  }
  {
-  <i>Sein wie Gott</i> vgl «Gott ähnlich sein» (<a class='kom' href='#I1mo-1-26'>1.&nbsp;Mo&nbsp;1,26</a>).
+  <i>Sein wie Gott</i> vgl «Gott ähnlich sein» (§+1mo-1-26); «wir ihm gleich sein werden» (§1joh-3-2)
  }
 #}
 #1mo-3-6 {
@@ -1776,7 +1777,10 @@
 #}
 #1mo-9-6 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe, vgl §+1mo-4-15, §2mo-21-12.
+  <i>Im Bild Gottes</i> vgl §1mo-1-26
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe, vgl §+1mo-4-15, §2mo-21-12.
  }
 #}
 #1mo-9-7 {
@@ -47770,6 +47774,11 @@
   Vgl auch mit <a href='http://bibel.renenyffenegger.ch/jes_62.html#v1'>Jes 62,1-2</a>.
  }
 #}
+#jes-2-4 {
+ {
+  §joe-4-10, §mi-4-3
+ }
+#}
 #jes-2-6 {
  {
   TODO: wäre das im Grundtext eignetlich 'voll von des Ostens'?
@@ -52278,7 +52287,7 @@
 #}
 #jer-25-25 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Elam/index
+  Könige von → biblisches/Eigene-Uebersetzung/Konkordanz/Elam vgl §jer-49-38
  }
 #}
 #jer-25-26 {
@@ -53549,6 +53558,12 @@
 #jer-49-38 {
  {
   <i>Thron</i>: vgl <a class='kom' href='#Imt-19-28'>Mt&nbsp;19,28</a>.
+ }
+ {
+  Könige aus → biblisches/Eigene-Uebersetzung/Konkordanz/Elam vetreiben, vgl §jer-25-25
+ }
+ {
+  <i>Thron aufstellen</i> vgl §joe-4-12
  }
 #}
 #jer-49-39 {
@@ -55692,6 +55707,11 @@
 #}
 @}
 @Hesekiel 47 {
+#hes-47-1 {
+ {
+  Vgl §offb-22-1
+ }
+#}
 #hes-47-10 {
  {
   <i>Netz</i>: <a class='kom' href='#Ihes-12-13'>Hes&nbsp;12,13</a>.
@@ -57589,6 +57609,19 @@
   <i>Sabäer</i>: <a class='kom' href='#I1mo-10-7'>1.&nbsp;Mo&nbsp;10,7</a>.
  }
 #}
+#joe-4-10 {
+ {
+  §jes-2-4, §mi-4-3
+ }
+#}
+#joe-4-12 {
+ {
+  <i>dort werde ich sitzen</i> vgl §jer-49-38
+ }
+ {
+  <i>alle Nationen richten</i> vgl §mt-19-28
+ }
+#}
 #joe-4-13 {
  {
   <i>Legt die Sichel an, denn die Ernte ist reif</i> vgl §offb-14-14-ff, vgl §mk-4-29
@@ -58196,6 +58229,11 @@
  }
  {
   TODO: «Ende der Tage» siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
+ }
+#}
+#mi-4-3 {
+ {
+  §jes-2-4, §mi-4-10, §mi-4-3
  }
 #}
 #mi-4-4 {
@@ -59201,7 +59239,7 @@
 #}
 #sach-14-8 {
  {
-  Vgl §+ps-46-5.
+  Vgl §+ps-46-5, §offb-22-1
  }
 #}
 #sach-14-9 {
@@ -63036,7 +63074,7 @@
  {
   <i>die zwölf Stämme richten</i>, vgl §1kor-6-3, §2petr-2-4, §offb-20-4
  <br>
-  Vgl auch §ps-122-5.
+  Vgl auch §ps-122-5, §joe-4-12
  }
  {
   <i>Thron der Herrlichkeit</i> vgl <a href='http://bibel.renenyffenegger.ch/mt_25.html#v31'>Mt&nbsp;25,31</a> (wo die Heidenvölker gerichtet werden)
@@ -84912,6 +84950,11 @@
   TODO: <i>aufblähen</i>: <a class='kom' href='#I1kor-4-6'>1.&nbsp;Kor&nbsp;4,6</a>.
  }
 #}
+#1kor-8-3 {
+ {
+  <i>der ist von ihm erkannt</i> §1kor-13-12
+ }
+#}
 #1kor-8-4 {
  {
   <i>Götzenopferfleisch essen</i>: <a class='kom' href='#Iapg-15-29'>Apg&nbsp;15,29</a>.
@@ -85583,10 +85626,13 @@
 #}
 #1kor-13-12 {
  {
+  <i>gleichwie auch ich erkannt worden bin</i> §1kor-8-3
+ }
+ {
   <i>wie im Rätsel</i>: <span class='gr'>αἴνιγμα</span> (Strongs 135, 1x). Elberfelder übersetzt mit «undeutlich» (vgl §1kor-14-8), KJV übersetzt «darkly».
  }
  {
-  Vgl §2kor-3-18.
+  <i>Von Angesicht zu Angesicht</i> Vgl §2kor-3-18.
  }
  {
   TODO: Vgl <i>Spiegel</i> (<span class='gr'>ἔσοπτρον</span>, 2x) mit <i>Angesicht</i> (<span class='gr'>πρόσωπον</span>, Strongs 4383).
@@ -86549,7 +86595,10 @@
 #}
 #2kor-3-18 {
  {
-  Vgl §+1kor-13-12.
+  <i>mit aufgedecktem Angesicht</i> Vgl §+1kor-13-12
+ }
+ {
+  <i>mit aufgedecktem Angesicht die Herrlichkeit des Herrn anschauend</i> vgl §2kor-4-6
  }
  {
   <i>verwandelt werden</i> vgl §+roem-12-2.
@@ -86557,9 +86606,6 @@
  }
  {
   <i>Die Herrlichkeit des Herrn anschauend</i> vgl §+hebr-12-2
- }
- {
-  <i>mit aufgedecktem Angesicht die Herrlichkeit des Herrn anschauend</i> vgl §2kor-4-6
  }
  {
   <i>Bild</i> vgl §+mt-22-20.
@@ -98747,10 +98793,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Geliebte</i>: <a class='kom' href='#Ijak-1-16'>Jak&nbsp;1,16</a>.
  }
  {
-  <i>ihm gleichgestaltet sein werden</i> vgl <a class='kom' href='#Iroem-8-29'>Röm&nbsp;8,29</a>.
+  <i>ihm gleichgestaltet sein werden</i> vgl §+roem-8-29, §1mo-3-5
  }
  {
   <i>er offenbar werden wird</i>: in Elb05 mit «es offenbar werden wird» übersetzt.
+ }
+ {
+  Beachte: beim ersten Kommen des Herrn wurde Er gleich wie die Menschen, bei seinem zweiten Kommen, wenn Er offenbar wird, werden die Kinder Gottes gleich sein wie Er.
  }
  {
   TODO: Vgl <i>offenbar werden</i> mit <i>erschienen</i> in Vers 5 und 8: im Griechischen sind beide: <span class='gr'>φανερόω</span> (Strongs 5319).
@@ -100792,8 +100841,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
          <br>
   Vgl auch mit <a href='http://bibel.renenyffenegger.ch/jes_49.html#v10'>Jes&nbsp;49,10</a> («ihr Erbarmer wird sie führen und zu den Wasserquellen leiten»).
          <br>
-  Vgl auch <a href='http://bibel.renenyffenegger.ch/offb_14.html#v7'>Offb&nbsp;14,7</a> und <a href='http://bibel.renenyffenegger.ch/offb_21.html#v6'>Offb&nbsp;21,6</a> (wo
-  dem Dürstenden aus dem Quell des Wassers (TODO: gleiches griechisches Wort wie Wasserquelle?) gegeben wird, obwohl die dritte Schale und Posaune diese ungeniessbar
+  Vgl auch §offb-14-7 und §offb-21-6 (wo dem Dürstenden aus dem Quell des Wassers (TODO: gleiches griechisches Wort wie Wasserquelle?) gegeben wird, obwohl die dritte Schale und Posaune diese ungeniessbar
   gemacht hat.
  }
  {
@@ -100801,6 +100849,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Siehe auch <a class='kom' href='#I2sam-5-2'>2.&nbsp;Sam&nbsp;5,2</a> und <a class='kom' href='#Ips-23-2'>Ps&nbsp;23,2</a>.
+ }
+ {
+  TODO: vgl die <i>Quellen des Wassers des Lebens</i> mit dem Strom des Wassers des Lebens, §offb-22-1
  }
 #}
 @}
@@ -103358,12 +103409,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Offenbarung 22 {
 #offb-22-1 {
  {
-  <i>Strom, der aus dem Thron Gottes und des Lammes hervorging</i> §ps-46-5-6, §sach-14-9
+  <i>Strom, der aus dem Thron Gottes und des Lammes hervorging</i> §ps-46-5-6, §sach-14-8-9, §hes-47-1
  <br>
   Vgl mit dem Strom, der von Eden ausging, um den Garten zu bewässern §1mo-2-5
  }
  {
   <i>ein Strom von Wasser des Lebens, glänzend wie ein Kristall</i>: §+offb-4-6.
+ }
+ {
+  Vgl den <i>Strom von Wasser des Lebens</i> mit der «Quelle des Wassers des Lebens» §offb-7-17
  }
 #}
 #offb-22-2 {
