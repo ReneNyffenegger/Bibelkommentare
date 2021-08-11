@@ -46263,9 +46263,7 @@
 #}
 #spr-13-24 {
  {
-  TODO: <i>Rute</i> vgl <a href='http://bibel.renenyffenegger.ch/spr_19.html#v18'>Spr&nbsp;19,18</a>,
-  <a href='http://bibel.renenyffenegger.ch/spr_29.html#v15'>Spr&nbsp;29,15</a>,
-  <a href='http://bibel.renenyffenegger.ch/spr_29.html#v17'>Spr&nbsp;29,17</a>.
+  <i>Rute</i> vgl §spr-19-18, §spr-29-15, §spr-29-17.
  }
 #}
 @}
@@ -46525,6 +46523,11 @@
   <i>Gräuel in den Sprüchen</i>: <a class='kom' href='#Ispr-3-32'>Spr&nbsp;3,32</a>.
  }
 #}
+#spr-17-19 {
+ {
+  <i>Wer Zank liebt, liebt Übertretung</i> §spr-29-22
+ }
+#}
 #spr-17-22 {
  {
   <i>Niedergeschlagener Geist</i>: <a href='http://bibel.renenyffenegger.ch/spr_18.html#v14'>Spr&nbsp;18,14</a>.
@@ -46603,7 +46606,7 @@
 #}
 #spr-19-18 {
  {
-  TODO: <i>Sohn züchtigen</i>: <a class='kom' href='#Ispr-13-24'>Spr&nbsp;13,24</a>.
+  <i>Sohn züchtigen</i>: §+spr-13-24.
  }
 #}
 #spr-19-22 {
@@ -47102,6 +47105,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten
  }
 #}
+#spr-29-2 {
+ {
+  <i>Wenn die Gerechten sich mehren</i> vgl §spr-29-16
+ }
+#}
 #spr-29-4 {
  {
   <i>Geschenke</i>: Dasselbe Wort wie für → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Hebopfer, in Sch2K mit «Abgaben» übersetzt.
@@ -47109,17 +47117,27 @@
 #}
 #spr-29-13 {
  {
-   Vgl <a class='kom' href='#Ispr-22-2'>Spr&nbsp;22,2</a>.
+   Vgl §+spr-22-2.
  }
 #}
 #spr-29-15 {
  {
-  Vgl <a class='kom' href='#Ispr-29-17'>Vers 17</a>.
+  Vgl §Vspr-29-17
+ }
+#}
+#spr-29-16 {
+ {
+  <i>wenn die Gesetzlosen sich mehren</i> vgl §Vspr-29-2
  }
 #}
 #spr-29-17 {
  {
-  TODO: <i>Sohn züchtigen</i>: <a class='kom' href='#Ispr-13-24'>Spr&nbsp;13,24</a>.
+  <i>Sohn züchtigen</i>: §+spr-13-24.
+ }
+#}
+#spr-29-22 {
+ {
+  Vgl §spr-17-19
  }
 #}
 #spr-29-27 {
