@@ -13195,6 +13195,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gerechtigkeit/Ungerechtigkeit-tragen vgl §V2mo-28-43
  }
+ {
+  <i>Die Stimme des Fluches hören</i> vgl §spr-29-24
+ }
 #}
 #3mo-5-2 {
  {
@@ -14574,7 +14577,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen
  }
  {
-  <i>In Gerechtigkeit richten</i>, §5mo-1-16, §5mo-16-18
+  <i>In Gerechtigkeit richten</i>, §5mo-1-16, §5mo-16-18, §jes-11-4
  }
  {
   <i>unrecht tun im Gericht</i> §V3mo-19-35
@@ -45724,6 +45727,11 @@
   <i>Lehre</i>: <a class='kom' href='#Ispr-1-8'>Spr&nbsp;1,8</a>.
  }
 #}
+#spr-3-2 {
+ {
+  <i>…und Jahre des Lebens … werden sie dir mehren</i> §spr-4-10, §spr-9-11
+ }
+#}
 #spr-3-3 {
  {
   <i>Güte und Wahrheit</i>: §+ps-25-10 <br>In den Sprüchen: §spr-14-22, §spr-16-6, §spr-20-28.
@@ -45868,6 +45876,11 @@
 #spr-4-9 {
  {
   <i>dem haupt einen anmutigen Kranz verleihen</i> vgl §spr-1-9.
+ }
+#}
+#spr-4-10 {
+ {
+  <i>Des Lebens Jahre werden sich dir mehren</i> §spr-3-2, §spr-9-11
  }
 #}
 #spr-4-26 {
@@ -46062,6 +46075,11 @@
  {
    <i>Furcht des Herrn</i>: §+spr-1-7, <i>Anfang der Weisheit</i>: §+spr-4-7, §ps-111-10
    <br>Vgl auch §hi-28-28.
+ }
+#}
+#spr-9-11 {
+ {
+  <i>werden deine Tage sich mehren</i> §spr-3-2, §spr-4-10
  }
 #}
 #spr-9-16 {
@@ -46328,7 +46346,7 @@
 #}
 #spr-14-31 {
  {
-  Vgl §spr-17-5
+  Vgl §spr-17-5, §spr-22-2
  }
 #}
 @}
@@ -46492,7 +46510,7 @@
 @Sprüche 17 {
 #spr-17-5 {
  {
-  Vgl §spr-14-31
+  Vgl §spr-14-31, §spr-22-2
  }
 #}
 #spr-17-6 {
@@ -46786,7 +46804,7 @@
 @Sprüche 22 {
 #spr-22-2 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/spr_29.html#v13'>Spr&nbsp;29,13</a>.
+  Vgl §spr-14-31, §spr-17-5, §spr-29-13.
  }
 #}
 #spr-22-3 {
@@ -47065,7 +47083,7 @@
 #}
 #spr-28-12 {
  {
-  Vgl Vers 28.
+  <i>Wenn die Gesetzlosen emporkommen</i> vgl §Vspr-28-28
  }
 #}
 #spr-28-15 {
@@ -47095,7 +47113,10 @@
 #}
 #spr-28-28 {
  {
-  Vgl Vers 12.
+  <i>Wenn die Gesetzlosen emporkommen</i> vgl §Vspr-28-12
+ }
+ {
+  <i>mehren sich die Gerechten</i> vgl §spr-29-2
  }
 #}
 @}
@@ -47107,7 +47128,7 @@
 #}
 #spr-29-2 {
  {
-  <i>Wenn die Gerechten sich mehren</i> vgl §spr-29-16
+  <i>Wenn die Gerechten sich mehren</i> vgl §spr-28-28, §Vspr-29-16
  }
 #}
 #spr-29-4 {
@@ -47118,6 +47139,11 @@
 #spr-29-13 {
  {
    Vgl §+spr-22-2.
+ }
+#}
+#spr-29-14 {
+ {
+  <i>Die Geringen in Wahrheit richten</i> §jes-11-4
  }
 #}
 #spr-29-15 {
@@ -47135,9 +47161,19 @@
   <i>Sohn züchtigen</i>: §+spr-13-24.
  }
 #}
+#spr-29-18 {
+ {
+  Mindestens eine Ausgabe der Schlachter hat hier, wohl als Druckfehler, «Gericht» statt «Gesicht».
+ }
+#}
 #spr-29-22 {
  {
   Vgl §spr-17-19
+ }
+#}
+#spr-29-24 {
+ {
+  <i>Den Fluch hören</i> vgl §3mo-5-1
  }
 #}
 #spr-29-27 {
@@ -48417,6 +48453,9 @@
 #jes-11-4 {
  {
   <i>Den Gesetzlosen mit dem Hauch … töten</i>: vgl <a class='kom' href='#I2thes-2-8'>2.&nbsp;Thes&nbsp;2,8</a>.
+ }
+ {
+  <i>Die Geringen in Gerechtigkeit richten</i> §spr-29-14, §3mo-19-15
  }
  {
   Vgl <a class='kom' href='#Ijes-10-1'>Jes&nbsp;10,1</a>.
