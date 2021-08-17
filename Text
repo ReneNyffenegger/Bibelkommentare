@@ -37801,7 +37801,10 @@
 @Esra 5 {
 #esr-5-1 {
  {
-   Gemäss Haggai nahmen sie die Arbeit (wieder?) in Angriff am 24. des 6. Monats im zweiten Jahr des Königs Darius (<a href='http://bibel.renenyffenegger.ch/hag_1.html#v13'>Hag 1,13-15</a>).
+  <i>Weissagung von Haggai uns Sacharja</i> §esr-6-14
+ }
+ {
+  Gemäss Haggai nahmen sie die Arbeit (wieder?) in Angriff am 24. des 6. Monats im zweiten Jahr des Königs Darius (<a href='http://bibel.renenyffenegger.ch/hag_1.html#v13'>Hag 1,13-15</a>).
  }
  {
   Gottes Haus, das wieder gebaut werden soll als Weisssagung von Sacharja: §sach-1-16.
@@ -37876,6 +37879,9 @@
  }
 #}
 #esr-6-14 {
+ {
+  <i>Weissagung Haggais und Sacharjas</i> §esr-5-1
+ }
  {
   → biblisches/Personen/Artasasta
  }
@@ -39315,6 +39321,11 @@
 #neh-13-17 {
  {
   Entheiligter Sabbat → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat, vgl §neh-10-32
+ }
+#}
+#neh-13-18 {
+ {
+  <i>Unglück über die Stadt bringen</i> §am-3-6
  }
 #}
 #neh-13-23 {
@@ -57734,28 +57745,26 @@
   <i>Erdbeben</i>: <a class='kom' href='#I2koe-15-1'>2.&nbsp;Kö&nbsp;15,1</a>, §sach-14-5.
  }
  {
-  TODO: Beachte, dass ein Amos auch als Vorfahre des Herrn aufgezählt wird
-  (<a href='http://bibel.renenyffenegger.ch/lk_3.html#v25'>Lk&nbsp;3,25</a>).
+  Ein Amos auch als Vorfahre des Herrn aufgezählt wird, §lk-3-25
  }
 #}
 #am-1-2 {
  {
-  Beachte: Hier <i>brüllt der Herr aus Zion</i> und die Auen der Hirten trauern und der Gipfel des Karmel verdorrt, in <a href='http://bibel.renenyffenegger.ch/joe_4.html#v16'>Joe&nbsp;4,16</a> brüllt er auch, aber dort
-  wird er eine Zuflucht für sein Volk sein.
+  Beachte: Hier <i>brüllt der Herr aus Zion</i> und die Auen der Hirten trauern und der Gipfel des Karmel verdorrt, in §joe-4-16 brüllt er auch, dort aber als Zuflucht für sein Volk.
  }
 #}
 #am-1-3 {
  {
   <i>Dreschschlitten</i> (Strongs 2742): <a class='kom' href='#Ispr-3-14'>Spr&nbsp;3,14</a>.
  }
- {
-  TODO: <i>Hasael</i>: <a class='kom' href='#I1koe-19-15'>1.&nbsp;Kö&nbsp;19,15</a>. TODO auch: wieviel (wenn überhaupt) hat Amos nach Hasael gelebt?
- }
 #}
 #am-1-4 {
  {
   <i>Benhadad</i>: <a class='kom' href='#I1koe-15-18'>1.&nbsp;Kö&nbsp;15,18</a>.
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/jer_49.html#v27'>Jer&nbsp;49,27</a>.
+ }
+ {
+  TODO: <i>Hasael</i>: <a class='kom' href='#I1koe-19-15'>1.&nbsp;Kö&nbsp;19,15</a>. TODO auch: wieviel (wenn überhaupt) hat Amos nach Hasael gelebt?
  }
 #}
 #am-1-5 {
@@ -57810,6 +57819,11 @@
 #am-3-1 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+#}
+#am-3-6 {
+ {
+  <i>Unglück in der Stadt</i> §neh-13-18
  }
 #}
 #am-3-7 {
