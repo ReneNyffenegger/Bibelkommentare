@@ -51920,6 +51920,9 @@
  {
   <i>Felsspalten</i>: Sch2K und Elb übersetzen mit «Felsenklüften». Im Vergleich mit §jes-7-19 und §jer-13-4 ist die Übersetzung «Felsspalten» konsistenter.
  }
+ {
+  TODO <i>fischen und jagen</i> vgl §am-4-2
+ }
 #}
 #jer-16-18 {
  {
@@ -57846,6 +57849,11 @@
 #}
 @}
 @Amos 4 {
+#am-4-2 {
+ {
+  TODO: <i>Haken und Fischerangeln</i> vgl §jer-16-16. 
+ }
+#}
 #am-4-3 {
  {
   TODO: <i>Mauerbresche</i> ist <span class='hebr'>פֶּרֶץ</span> (Strongs 6556). S.a. <a class='kom' href='#Ijes-28-21'>Jes&nbsp;28,21</a>,
