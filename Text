@@ -61565,6 +61565,9 @@
   Dieses Zitat ist eigentlich ein Zusammenzug aus <a class='kom' href='#Ijes-40-3'>Jes&nbsp;40,3</a> und <a class='kom' href='#Imal-3-1'>Mal&nbsp;3,1</a>.
   Ebenso in <a href='http://bibel.renenyffenegger.ch/lk_7.html#v27'>Lk&nbsp;7,27</a>.
  }
+ {
+  <i>Deinen Weg vor dir bereiten</i>: §lk-1-76
+ }
 #}
 #mt-11-11 {
  {
@@ -67687,7 +67690,7 @@
 #lk-1-7 {
  {
   <i>unfruchtbare Elisabeth</i>: beachte, dass im zweitletzten Kapitel gesagt wird:
-  *Glückselig die Unfruchtbaren und die Leiber, die nicht geboren, und die Brüste, die nicht gesäugt haben!* (§lk-23-29).
+  <i>Glückselig die Unfruchtbaren und die Leiber, die nicht geboren, und die Brüste, die nicht gesäugt haben!</i> (§lk-23-29).
  }
  {
   Vgl §+mt-3-11.
@@ -67850,6 +67853,11 @@
   <i>Frucht deines Leibes</i> vgl §apg-2-30
  }
 #}
+#lk-1-50 {
+ {
+  Beachte das 5-malige vorkommen von «Bermherzigkeit» hier und in den Versen 54, 58, 72 und 78.
+ }
+#}
 #lk-1-52 {
  {
   TODO: vgl §ps-110-5
@@ -67920,12 +67928,15 @@
 #}
 #lk-1-76 {
  {
+  <i>seine Wege zu bereiten</i> §mt-11-10, §lk-7-27
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
  }
 #}
 #lk-1-77 {
  {
-  <i>Vergebung ihrer Sünden</i> vgl §joh-1-29
+  <i>Vergebung ihrer Sünden</i> vgl §lk-3-3, §joh-1-29
  }
 #}
 #lk-1-79 {
@@ -68275,6 +68286,9 @@
 #lk-3-3 {
  {
   §mt-3-1, §mk-1-4, §joh-1-28
+ }
+ {
+  <i>Vergebung ihrer Sünden</i>: §lk-1-77
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
@@ -69227,7 +69241,7 @@
 #}
 #lk-7-27 {
  {
-  <a class='kom' href='#Imt-11-10'>Mt&nbsp;11,10</a>.
+  §+mt-11-10, §lk-1-76
  }
 #}
 #lk-7-28 {
