@@ -4840,6 +4840,9 @@
 #}
 #1mo-28-3 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/fruchtbar-sein_sich-mehren 
+ }
+ {
   <i>fruchtbar</i>: Siehe <a class='kom' href='#I1mo-17-6'>1.&nbsp;Mo&nbsp;17,6</a>. Vgl auch mit der unfruchtbaren Rahel (<a href='http://bibel.renenyffenegger.ch/1mo_29.html#v31'>1.&nbsp;Mo&nbsp;29,31</a>)
  }
  {
@@ -6924,9 +6927,7 @@
   Vgl §1mo-34-10
  }
  {
-   Sie waren fruchtbar und mehrten sich sehr: vgl <a href='http://bibel.renenyffenegger.ch/2mo_1.html#v7'>2.&nbsp;Mo&nbsp;1,7</a>.
-   TODO: Vgl auch mit <a href='http://bibel.renenyffenegger.ch/1mo_17.html#v6'>1.&nbsp;Mo&nbsp;17,6</a>, <a href='http://bibel.renenyffenegger.ch/1mo_28.html#v3'>1.&nbsp;Mo&nbsp;28,3</a>,
-   <a href='http://bibel.renenyffenegger.ch/1mo_35.html#v11'>1.&nbsp;Mo&nbsp;35,11</a>, <a href='http://bibel.renenyffenegger.ch/1mo_48.html#v4'>1.&nbsp;Mo&nbsp;48,4</a>.
+   Sie waren → biblisches/Eigene-Uebersetzung/Konkordanz/fruchtbar-sein_sich-mehren[fruchtbar und mehrten sich sehr]: vgl §2mo-1-7.
  }
 #}
 #1mo-47-29 {
@@ -7331,7 +7332,7 @@
 #}
 #2mo-1-7 {
  {
-  <a class='kom' href='#I1mo-47-27'>1.&nbsp;Mo&nbsp;47,27</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/fruchtbar-sein_sich-mehren, vgl §1mo-47-27
  }
 #}
 #2mo-1-8 {
@@ -8022,9 +8023,6 @@
 @}
 @2. Mose 7 {
 #2mo-7-1 {
- {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/fruchtbar-sein_sich-mehren
- }
  {
     <a name='zehn_plagen'></a>Die Zehn Plagen
     <table style='border:black 1px solid' summary='.'><!--{-->
@@ -86625,7 +86623,7 @@
 @2. Korinther 3 {
 #2kor-3-3 {
  {
-   Dieser <i>Dienst</i> war wohl 'das Evangelium der Gnade Gottes zu bezeugen' (<a href='http://bibel.renenyffenegger.ch/apg_20.html#v24'>Apg&nbsp;20,24</a>.
+   Dieser <i>Dienst</i> war wohl «das Evangelium der Gnade Gottes zu bezeugen» (<a href='http://bibel.renenyffenegger.ch/apg_20.html#v24'>Apg&nbsp;20,24</a>.
    Vgl aber auch <a href='http://bibel.renenyffenegger.ch/2kor_4.html#v1'>2.&nbsp;Kor&nbsp;4,1</a> und
    <a href='http://bibel.renenyffenegger.ch/2kor_5.html#v18'>2.&nbsp;Kor&nbsp;5,18</a> («Dienst der Versöhnung»),
    <a href='http://bibel.renenyffenegger.ch/2kor_6.html#v3'>2.&nbsp;Kor&nbsp;6,3</a>,
