@@ -8850,6 +8850,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
  }
+ {
+  Vgl §lk-2-23, §2mo-34-19-20
+ }
 #}
 #2mo-13-3 {
  {
@@ -12227,7 +12230,7 @@
 #}
 #2mo-34-19 {
  {
-  <i>das → biblisches/Eigene-Uebersetzung/Konkordanz/Erstgeburt[Erstgeborene] ist mein</i>: §4mo-3-13, §4mo-8-17
+  <i>das → biblisches/Eigene-Uebersetzung/Konkordanz/Erstgeburt[Erstgeborene] ist mein</i>: §2mo-13-2, §4mo-3-13, §4mo-8-17
  }
 #}
 #2mo-34-21 {
@@ -58552,7 +58555,7 @@
  }
  {
   <i>Glaube</i> <span class='hebr'>אֱמוּנָה</span> (Strongs 530): Hier der einzig Ort, wo dieses Wort mit «Glaube» übersetzt wird. Überhaupt kommt das Nomen «Glaube» – zumindest in der deutschen
-  Übersetztung – im Alten Testament nur hier vor.
+  Übersetzung – im Alten Testament nur hier vor.
  }
 #}
 #hab-2-14 {
@@ -67710,6 +67713,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar, → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Herrn
  }
  {
+  <i>Ein Engel des Herrn, … stehend</i>, vgl §lk-2-9
+ }
+ {
   Gemäss A. G. Fruchtenbaum (Leben des Messias) lehrten die Rabbiner, dass ein Priester sterben würde, wenn ihm beim Räuchern ein Engel auf der <i>rechten</i> Seite des Räucheraltars erscheinen würde, was erklären
   würde, warum sich Zacharias so gefürchtet hat.
  }
@@ -67968,7 +67974,7 @@
   <i>Einschreibung</i>, in Sch2K mit «Erfassung», in KJV mit «taxing» übersetzt. Siehe auch §+apg-5-37.
  }
  {
-  Gemäss anderer (engl) Übersetztung: «This was the first census taken while Quirinius was governor of Syria» (Also es gab schon Erfassungen bevor Quirinius
+  Gemäss anderer (engl) Übersetzung: «This was the first census taken while Quirinius was governor of Syria» (Also es gab schon Erfassungen bevor Quirinius
   Statthalter war).
  }
  {
@@ -68017,6 +68023,11 @@
   <i>Hirten</i> waren die ersten, die von der Geburt Jesu erfuhren. Dieser Neugeborene war selbst ein Hirte, der das «Volk Israel weiden wird», §mt-2-6
  <br>
   Vgl mit → biblisches/Personen/David, der das Kleinvieh seines Vaters hütete, §+1sam-16-11, §1sam-17-15
+ }
+#}
+#lk-2-9 {
+ {
+  Ein <i>Engel des Herrn stand bei ihnen</i> vgl §lk-1-11
  }
 #}
 #lk-2-10 {
@@ -68082,6 +68093,11 @@
   TODO: Vgl das <i>Gesetz des Mose</i> mit dem <i>Gesetz des Herrn</i> in Vers 23. S.a. Vers 39.
  }
 #}
+#lk-2-23 {
+ {
+  Vgl §2mo-13-2 (Alles <i>Männliche</i> oder alle <i>männliche Erstgeburt</i>).
+ }
+#}
 #lk-2-24 {
  {
   Vgl <a class='kom' href='#I3mo-12-8'>3.&nbsp;Mo&nbsp;12,8</a>: Maria und Joseph konnten offenbar den Preis eines Schafes nicht aufbringen.
@@ -68090,9 +68106,11 @@
 #lk-2-25 {
  {
   Vgl den <i>Menschen Simeon</i> mit der »Prophetin Anna« (§+Vlk-2-36).
+  <br>
+   Er wartete auf den Trost Israels, sie redet von ihm zu allen, welche auf die Erlösung warteten, §lk-2-38
  }
  {
-  <i>Der Trost Israels</i> siehe <a class='kom' href='#I1mo-49-10'>1.&nbsp;Mo&nbsp;49,10</a>.
+  <i>Der Trost Israels</i> siehe §+1mo-49-10.
  }
 #}
 #lk-2-26 {
@@ -68102,15 +68120,12 @@
 #}
 #lk-2-27 {
  {
-  Durch den Geist in den → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel kommen, vgl §lk-4-1
+  Durch den Geist in den → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel kommen, vgl §Vlk-2-37, §lk-4-1
  }
 #}
 #lk-2-29 {
  {
-  <i>Nun entläßt du deinen Knecht nach deinem Wort</i> vgl §lk-1-38
- }
- {
-  <i>nun entläßt du deinen Knecht in Frieden</i> vgl §+lk-7-50
+  <i>Nun entläßt du deinen Knecht nach deinem Wort</i> vgl §lk-1-38, §+lk-7-50
  }
 #}
 #lk-2-30 {
@@ -68126,6 +68141,9 @@
 #lk-2-32 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+ }
+ {
+  Beachte, dass hier diee Nationen zuerst genannt werden, dann Israels Herrlichkeit.
  }
  {
   TODO: <i>Offenbarung</i> (<span class='gr'>ἀποκάλυψις</span>, Strongs 602) kommt auch vor in <ul>
@@ -68155,7 +68173,13 @@
 #}
 #lk-2-33 {
  {
-  §+Vlk-2-18
+  <i>was über ihn geredet wurde</i> vgl §Vlk-2-17
+ }
+ {
+  <i>sich verwundern</i> §+Vlk-2-18
+ }
+ {
+  <i>was über ihn geredet wurde</i> vgl §Vlk-2-38
  }
 #}
 #lk-2-34 {
@@ -68187,7 +68211,7 @@
   Vgl §ps-134-1
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+  Anna wich nicht vom → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel, Simeon wurde durch den Geist in den Tempel geführt, §lk-2-27
  }
  {
   84 = 12 * 7
@@ -68213,7 +68237,7 @@
 #}
 #lk-2-42 {
  {
-   TODO: Hat die Frau in <a href='http://bibel.renenyffenegger.ch/lk_13.html#v11'>Lk&nbsp;13,11</a> seit <i>diesem</i> Jahr den Geist der Krankheit? (12 + 18 = 30).
+   Hat die Frau in §lk-13-11 seit <i>diesem</i> Jahr den Geist der Krankheit? (12 + 18 = 30).
  }
 #}
 #lk-2-46 {
@@ -68226,7 +68250,9 @@
 #}
 #lk-2-48 {
  {
-   <i>dein Vater</i>: Beachte, Jesus musste in dem sein, was <i>seines</i> Vaters ist (Vers 49).
+  <i>dein Vater</i>: Beachte, Jesus musste in dem sein, was <i>seines</i> Vaters ist (Vers 49).
+  <br>
+  Beachte: die Mutter, nicht der Vater, schilt Jesus.
  }
 #}
 #lk-2-51 {
