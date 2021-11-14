@@ -784,6 +784,9 @@
 #}
 #1mo-3-5 {
  {
+  <i>Ihre Augen wurden aufgetan</i> vgl §lk-24-31
+ }
+ {
   Salomo bittet darum, 'gut und böse unterscheiden zu können' (<a href='http://bibel.renenyffenegger.ch/1koe_3.html#v9'>1.&nbsp;Kö&nbsp;3,9</a>).
  }
  {
@@ -62212,6 +62215,9 @@
  {
   <i>Sauerteig</i>: <span class='gr'>ζύμη</span> (Strongs 2219). Vgl «durchsäuert» (Strongs 106) in §+mt-26-17.
  }
+ {
+  Vgl den <i>verborgenen Sauerteig</i> mit dem <i>verborgenen Schatz</i> in §Vmt-13-44. Das Reich der Himmel wird mit beidem verglichen.
+ }
 #}
 #mt-13-35 {
  {
@@ -62262,6 +62268,11 @@
 #mt-13-43 {
  {
   <i>Reich ihres Vaters</i>: vgl <a class='kom' href='#Imt-26-29'>Mt&nbsp;26,29</a>.
+ }
+#}
+#mt-13-44 {
+ {
+  <i>verborgener Schatz</i> §Vmt-13-33
  }
 #}
 #mt-13-47 {
@@ -62930,10 +62941,7 @@
  }
  {
   <i>Der Menschensohn muss viel leiden</i>: <a class='kom' href='#Imt-16-21'>Mt&nbsp;16,21</a>.
-  <br>Beachte: hier wird erwähnt, dass sie in Galiläa waren. Ebenso in <a href='http://bibel.renenyffenegger.ch/lk_24.html#v6'>Lk 24,6-7</a>.
- }
- {
-  → biblisches/Orte/Galiläa: <a class='kom' href='#Ilk-24-6'>Lk 24,6-7</a>.
+  <br>Beachte: hier wird erwähnt, dass sie in → biblisches/Orte/Galiläa waren. Ebenso in §lk-24-6-7.
  }
  {
   <i>Hände der Menschen</i>: <a class='kom' href='#Iapg-21-11'>Apg&nbsp;21,11</a>. Vgl mit 'Händer der Sünder'
@@ -64252,6 +64260,9 @@
 #}
 #mt-26-3 {
  {
+  §mk-14-1
+ }
+ {
   Frage: Ist 'Da' das das Resultat von dem Ausspruch in <a href='http://bibel.renenyffenegger.ch/mt_26.html#v2'>Vers 2</a>? Auf jeden
   Fall steht 'versammelten sich' im Griechischen im Passiv.
   Vgl auch mit <a class='kom' href='#Imk-7-1'>Mk&nbsp;7,1</a>.
@@ -64264,7 +64275,7 @@
   <a href='http://bibel.renenyffenegger.ch/apg_23.html#v2'>Apg&nbsp;23,2</a> ein <i>Ananias</i>.
  }
  {
-  Vgl mit Vers 57
+  Vgl §Vmt-26-57
  }
 #}
 #mt-26-6 {
@@ -64457,6 +64468,11 @@
   <i>Gethsemane</i> (<span class='gr'>Γεθσημανί</span>, Strongs 1068) bedeutet offenbar 'Ölkelter'
   (<span class='hebr'>גַּת שֶׁמֶן</span>)
   Das Wort kommt auch noch in <a href='http://bibel.renenyffenegger.ch/mk_14.html#v32'>Mk&nbsp;14,32</a> vor.
+ }
+#}
+#mt-26-39 {
+ {
+  §mk-14-36, §lk-22-42. Vgl §joh-18-11
  }
 #}
 #mt-26-41 {
@@ -67086,6 +67102,11 @@
 #}
 @}
 @Markus 14 {
+#mk-14-1 {
+ {
+  §mt-26-3
+ }
+#}
 #mk-14-2 {
  {
   TODO: Und trotzdem wurde Er während des Festes gekreuzigt.
@@ -69790,7 +69811,8 @@
 #}
 #lk-9-44 {
  {
-  §mt-17-22, §mk-9-31
+  <i>wird überliefert werden in der Menschen Hände</i> §mt-17-22, §mk-9-31.
+  <br>Vgl §lk-20-19, §+lk-22-53
  }
  {
   Vgl <i>Wer Ohren hat...</i>.
@@ -69800,9 +69822,6 @@
  }
  {
   <i>Der Menschensohn muss viel leiden</i>: <a class='kom' href='#Imt-16-21'>Mt&nbsp;16,21</a>.
- }
- {
-  <i>wird überliefert werden in der Menschen Hände</i> §+lk-22-53
  }
 #}
 #lk-9-45 {
@@ -69922,6 +69941,11 @@
  {
   Vgl <a class='kom' href='#Imt-10-16'>Mt&nbsp;10,16</a>. Hier einziges Vorkommen von <span class='gr'>ἀρήν</span> (Strongs 704).
   S.a. <a class='kom' href='#Ilk-9-3'>Lk&nbsp;9,3</a>.
+ }
+#}
+#lk-10-4 {
+ {
+  Vgl §lk-22-35
  }
 #}
 #lk-10-5 {
@@ -71139,7 +71163,7 @@
 #}
 #lk-20-19 {
  {
-  <i>suchten … die Hände an ihn zu legen</i> §+lk-22-53
+  <i>suchten … die Hände an ihn zu legen</i> §lk-9-44, §+lk-22-53
  }
 #}
 #lk-20-20 {
@@ -71473,6 +71497,11 @@
   Vgl <a class='kom' href='#Imt-4-18'>Mt&nbsp;4,18</a>.
  }
 #}
+#lk-22-35 {
+ {
+  Vgl §lk-10-4
+ }
+#}
 #lk-22-36 {
  {
   TODO: <a class='kom' href='#Ilk-9-3'>Lk&nbsp;9,3</a>.
@@ -71776,7 +71805,7 @@
 #}
 #lk-24-6 {
  {
-   <i>Galiläa</i>: <a class='kom' href='#Imt-17-22'>Mt&nbsp;17,22</a>. (<a class='kom' href='#Imt-17-22'>Mt&nbsp;17,22</a>).
+   <i>Galiläa</i>: §+mt-17-22.
  }
 #}
 #lk-24-7 {
@@ -71839,6 +71868,9 @@
 #}
 #lk-24-27 {
  {
+  <i>erklärte er ihnen in allen Schriften</i> vgl §Vlk-24-32, §Vlk-24-45
+ }
+ {
   TODO: erklärte: <span class='gr'>διερμηνεύω</span> (Strongs 1329), dasselbe Wort, welches möglicherweise auch mit «übersetzen» übersetzt
   werden könnte. Vgl §1kor-12-30, §1kor-14-15.
   <br>Vgl mit <a class='kom' href='#Ijoh-1-38'>Joh&nbsp;1,38</a>.
@@ -71849,6 +71881,11 @@
   Beachte: Er bricht das Brot, obwohl er «nur» Gast ist.
  <br>
   Er nimmt auch keinen Wein §+mt-26-29.
+ }
+#}
+#lk-24-31 {
+ {
+  <i>Ihre Augen wurden aufgetan</i> vgl §1mo-3-5
  }
 #}
 #lk-24-33 {
@@ -78660,6 +78697,9 @@
   <i>eifersüchtige Juden</i>: <a class='kom' href='#Iroem-10-19'>Röm&nbsp;10,19</a>, <a href='http://bibel.renenyffenegger.ch/roem_11.html#v11'>R&ouml;m&nbsp;11,11/14</a>.
   Vgl §apg-5-17.
  }
+ {
+  <i>widersprechend und lästernd</i> §apg-18-6
+ }
 #}
 #apg-13-46 {
  {
@@ -79658,6 +79698,9 @@
   <i>erst Juden, dann Heiden</i>: §+apg-13-46.
  <br>
   Vgl §+apg-18-19.
+ }
+ {
+  <i>widersprechend und lästernd</i> §apg-13-45
  }
 #}
 #apg-18-8 {
@@ -81803,6 +81846,11 @@
   <i>prüfen, worauf es ankommt</i> vgl §roem-12-2
  }
 #}
+#roem-2-21 {
+ {
+  Vgl §roem-13-9
+ }
+#}
 #roem-2-22 {
  {
   Tempelraub: vgl §apg-19-37, §mal-3-8, <a href='https://www.bibelkommentare.de/index.php?page=qa&amp;answer_id=517'>bibelkommentare.de</a>.
@@ -83413,7 +83461,7 @@
 #}
 #roem-13-9 {
  {
-  Vgl §jak-2-8
+  Vgl §jak-2-8, §roem-2-21
  }
 #}
 #roem-13-10 {
@@ -83562,6 +83610,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes
+ }
+#}
+#roem-14-23 {
+ {
+  <span class='gt'>Im MT erscheinen die Verse §roem-16-25-27 nach diesem 23. Vers</span>.
  }
 #}
 @}
@@ -87521,7 +87574,9 @@
   <i>Erscheinungen</i> (Strongs 3701): <a class='kom' href='#Ilk-1-22'>Lk&nbsp;1,22</a>.
  }
  {
-  <i>Offenbarungen</i>: <a class='kom' href='#Ilk-2-32'>Lk&nbsp;2,32</a>.
+  <i>Offenbarungen</i>: §+lk-2-32.
+  <br>
+   Offenbarungen des Herrn: vgl §gal-1-12
  }
 #}
 #2kor-12-2 {
@@ -87724,7 +87779,7 @@
   <br>Vgl auch <a class='kom' href='#Iroem-16-25'>Röm&nbsp;16,25</a>, <a class='kom' href='#Ieph-3-3'>Eph&nbsp;3,3</a>.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+  durch die → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung Jesu Christi, vgl §2kor-12-1-ff
  }
 #}
 #gal-1-13 {
@@ -101729,7 +101784,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-11-19 {
  {
-  Der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel Gottes im Himmel wurde geöffnet und die Lade seines Bundes wurde darin Sichtbar. Vgl
+  Der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel Gottes im Himmel wurde geöffnet und die Lade seines Bundes wurde darin sichtbar. Vgl
   §offb-15-5: der Tempel des Zeltes des Zeugnisses im Himmel wurde geöffnet.
   In §+offb-19-11 ist der Himmel geöffnet.
   <br>
@@ -101939,9 +101994,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   in §offb-12-3 hat es 7 Diademe.
  }
  {
-  <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
- }
- {
+  <i>Lästerung</i> (<span class='gr'>βλασφημία</span>).
+ <br>
   <i>Namen der Lästerung</i>: KJV und Sch2K übersetzen in Einzahl: «the name of blasphemy», «einen Namen der Lästerung».
   <br>
   Vgl. §offb-17-3
@@ -102757,12 +102811,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
- }
- {
+  <br>
   <i>Namen der Lästerung</i> vgl §offb-13-1
  }
  {
-   <i>7 Köpfe...</i>: <a class='kom' href='#Ioffb-12-3'>Offb&nbsp;12,3</a>.
+   <i>7 Köpfe…</i>: <a class='kom' href='#Ioffb-12-3'>Offb&nbsp;12,3</a>.
  }
  {
   TODO: <i>Wüste</i>: <a class='kom' href='#Ioffb-12-18'>Offb&nbsp;12,18</a>.
@@ -102992,6 +103045,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Wehe, wehe</i>: <a class='kom' href='#Ioffb-9-12'>Offb&nbsp;9,12</a>.
+ }
+#}
+#offb-18-11 {
+ {
+  Vgl §mt-26-39-ff
  }
 #}
 #offb-18-12 {
