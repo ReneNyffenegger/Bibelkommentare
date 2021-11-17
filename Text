@@ -784,13 +784,13 @@
 #}
 #1mo-3-5 {
  {
-  <i>Ihre Augen wurden aufgetan</i> vgl §lk-24-31
+  <i>Eure Augen werden aufgetan werden</i> vgl §lk-24-31
+ }
+ {
+  <i>Ihr werdet sein wie Gott</i> vgl «Gott ähnlich sein» (§+1mo-1-26); «wir ihm gleich sein werden» (§1joh-3-2)
  }
  {
   Salomo bittet darum, 'gut und böse unterscheiden zu können' (<a href='http://bibel.renenyffenegger.ch/1koe_3.html#v9'>1.&nbsp;Kö&nbsp;3,9</a>).
- }
- {
-  <i>Sein wie Gott</i> vgl «Gott ähnlich sein» (§+1mo-1-26); «wir ihm gleich sein werden» (§1joh-3-2)
  }
 #}
 #1mo-3-6 {
@@ -72699,6 +72699,9 @@
  {
    Das in die Welt gekommene Licht: vgl §+joh-1-9 
  }
+ {
+  <i>böse Werke der Welt</i> vgl §joh-7-7
+ }
 #}
 #joh-3-22 {
  {
@@ -73428,6 +73431,14 @@
   <i>Meine Zeit</i>: <a class='kom' href='#Ijoh-2-4'>Joh&nbsp;2,4</a>.
  }
 #}
+#joh-7-7 {
+ {
+  Vgl §1joh-3-13
+ }
+ {
+  <i>böse Werke der Welt</i> vgl §joh-3-19
+ }
+#}
 #joh-7-8 {
  {
   <i>meine Zeit ist noch nicht erfüllt</i> vgl §+mk-1-15, §mt-26-18
@@ -73763,6 +73774,9 @@
  }
  {
   Vgl §1mo-4-8-9: → biblisches/Personen/Kain hat seinen Bruder umgebracht und danach gelogen.
+ }
+ {
+  <i>Menschenmörder</i> §1joh-3-15, vgl mit §1tim-1-9 (andere Strongs Nummer)
  }
 #}
 #joh-8-48 {
@@ -92483,6 +92497,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    verwendet wird.
  }
 #}
+#1tim-1-9 {
+ {
+  TODO: Menschenmörder hat eine andere Strongs Nummer wie §joh-8-44 oder §1joh-3-15
+ }
+#}
 #1tim-1-10 {
  {
   <i>Gesunde Lehre</i>:
@@ -98827,6 +98846,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <a href='http://bibel.renenyffenegger.ch/1joh_2.html#v12'>Vers 12</a> und <a href='http://bibel.renenyffenegger.ch/1joh_2.html#v28'>Vers 28</a>.
  }
  {
+  <i>und wenn jemand sündigt</i> vgl §1joh-5-16
+ }
+ {
   <i>Fürsprecher</i>: <a class='kom' href='#Ijoh-14-16'>Joh&nbsp;14,16</a>.
  }
  {
@@ -98906,6 +98928,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>vollendete Liebe Gottes</i> §1joh-4-12, §1joh-4-17-18
+ }
+#}
+#1joh-2-6 {
+ {
+  <i>schuldig sein, so zu wandeln wie Er gewandelt ist</i> vgl §1joh-3-16, §1joh-4-11
  }
 #}
 #1joh-2-7 {
@@ -99139,12 +99166,23 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    TODO: sind gerechte Werke 'das Opfer bringen'?
  }
 #}
+#1joh-3-13 {
+ {
+  Vgl §joh-7-7
+ }
+#}
 #1joh-3-15 {
  {
   Beachte: der Teufel ist von Anfang an ein <i>Menschenmörder</i>, §joh-8-44.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
+ {
+  <i>Menschenmörder</i> §joh-8-44
+ }
+ {
+  <i>der seinen Bruder hasst</i> Vgl §1joh-4-20
  }
 #}
 #1joh-3-16 {
@@ -99153,7 +99191,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   in <a href='http://bibel.renenyffenegger.ch/1joh_4.html#v9'>1.&nbsp;Joh&nbsp;4,9</a>.
  }
  {
-  <i>wir sind schuldig …</i>: §+roem-13-8, §1joh-4-11
+  <i>wir sind schuldig …</i>: §+roem-13-8, §1joh-2-6, §1joh-4-11
  }
 #}
 #1joh-3-18 {
@@ -99240,7 +99278,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1joh-4-11 {
  {
-  <i>schuldig, einander zu lieben</i>: <a class='kom' href='#Iroem-13-7'>Röm&nbsp;13,7</a>.
+  <i>schuldig, einander zu lieben</i>: §1joh-2-6, §1joh-3-16, §+roem-13-7.
  }
 #}
 #1joh-4-12 {
@@ -99263,6 +99301,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   → biblisches/Bücher/jüdische-Briefe/Johannes/1/index#freimuetigkeit-1joh im → biblisches/Bücher/jüdische-Briefe/Johannes/1/index[1. Brief von Johannes].
+ }
+#}
+#1joh-4-20 {
+ {
+  <i>und hasst seinen Bruder</i> vgl §1joh-3-15
  }
 #}
 #1joh-4-21 {
@@ -99354,6 +99397,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>bitten</i>: Hier, in Vers 15 (bitten und erbeten haben) und beim ersten Vorkommen in Vers 16: αἰτέω; im zweiten Vorkommen in Vers 16: ἐρωτάω.
+ }
+#}
+#1joh-5-16 {
+ {
+  <i>Wenn jemand seinen Bruder sündigen sieht</i> vgl §1joh-2-1
  }
 #}
 #1joh-5-20 {
