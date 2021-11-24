@@ -67351,6 +67351,11 @@
    Vgl «Bist du der König der Juden» mit §+mt-27-11
  }
 #}
+#mk-14-62 {
+ {
+  <i>Ihr werdet den Sohn des Menschen sitzen sehen…</i> vgl §+lk-13-35
+ }
+#}
 #mk-14-64 {
  {
   <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
@@ -70470,10 +70475,15 @@
  {
   <i>gekommen, um Frieden zu geben?</i> vgl §+mt-10-34, §lk-10-5
  }
+ {
+  <i>sondern vielmehr Entzweiung</i>: Der Herr wollte Jerusalems Kinder nicht entzweien, sondern sammeln, §lk-13-34
+ }
 #}
 #lk-12-52 {
  {
   <i>Es werden von nun an … in einem Haus entzweit sein</i> vgl §lk-11-17
+ <br>
+  Diese Entzweigung ist möglicherweise eine Folge davon, dass das Haus sich selbst überlassen wird, §lk-13-35.
  }
 #}
 #lk-12-56 {
@@ -70613,6 +70623,17 @@
 #lk-13-34 {
  {
  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden, vgl §mt-23-37
+ }
+ {
+  <i>Wie eine Henne sammeln</i> vgl §+lk12-51-ff
+ }
+#}
+#lk-13-35 {
+ {
+  <i>Siehe, euer Haus wird euch überlassen</i>: Eine Folge davon scheint zu sein, dass es sich entzweit, §lk-12-52
+ }
+ {
+  <i>Ihr werdet mich nicht sehen</i> vgl §lk-17-22, §mk-14-62, §joh-16-16-ff
  }
 #}
 @}
@@ -70874,6 +70895,11 @@
   <i>Mitten unter euch</i>: <span class='gr'>ἐντὸς ὑμῶν</span>, Luther 1912 übersetzt mit 'inwending in euch', KJV mit
   'within you'. TODO: Offenbar könnte dieser Ausdruch auch mit 'in Reichweite' übersetzt werden (Walter A. Elwell und Philip Wesley Comfort in
   <i>Tyndale Bible Dictionary</i>, 2001, S. 207).
+ }
+#}
+#lk-17-22 {
+ {
+  <i>einen der Tage des Sohnes des Menschen zu sehen, und ihr werdet ihn nicht sehen</i> vgl §lk-13-35, §mk-14-62
  }
 #}
 #lk-17-25 {
@@ -74958,6 +74984,9 @@
 #joh-16-16 {
  {
   <i>Kurze/lange/kleine Zeit</i> in Johannes: <a class='kom' href='#Ijoh-5-6'>Joh&nbsp;5,6</a>.
+ }
+ {
+  <i>ihr werdet mich sehen</i> vgl §+lk-13-35
  }
 #}
 #joh-16-21 {
