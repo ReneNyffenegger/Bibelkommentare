@@ -21388,7 +21388,7 @@
 #}
 #5mo-21-6 {
  {
-  <i>Hände waschen</i> vgl <a class='kom' href='#Imt-27-24'>Mt&nbsp;27,24</a>.
+  <i>Hände waschen</i> vgl §+mt-27-24.
  }
 #}
 #5mo-21-10 {
@@ -60027,7 +60027,9 @@
   <i>Himmel wurden aufgetan</i> §+mk-1-10, §lk-3-21, §joh-1-51, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen
  }
  {
-  <i>er sah den Geist Gottes wie eine Taube herniederfahren und auf ihn kommen.</i> vgl §mk-1-10, §lk-3-22, §joh-1-32
+  <i>er sah den Geist Gottes wie eine Taube herniederfahren und auf ihn kommen.</i>: Jesu Dienst beginnt dann, wo der Geist auf ihn kommt; bei Seinem Tod gibt er ihn auf, §mt-27-50.
+  <br>
+   Vgl §mk-1-10, §lk-3-22, §joh-1-32
  }
  {
   TODO: Offenbar wählt Matthäus für Himmel immer den Plural, wenn er vom überirdischen Himmel redet, während Lukas
@@ -60144,6 +60146,9 @@
 #mt-4-10 {
  {
   Beachte das (einmalige) <i>weiche, Satan</i> und der Teufel geht (Vers 11).
+ }
+ {
+  Vgl §mt-16-23
  }
 #}
 #mt-4-11 {
@@ -62821,6 +62826,11 @@
   <i>wehren</i> (Strongs 2008): <a class='kom' href='#Imt-8-26'>Mt&nbsp;8,26</a>.
  }
 #}
+#mt-16-23 {
+ {
+  Vgl §mt-4-10, §mk-8-33
+ }
+#}
 #mt-16-24 {
  {
   §mk-8-34, §lk-9-23
@@ -63208,6 +63218,8 @@
 #mt-19-28 {
  {
   <i>die zwölf Stämme richten</i>, vgl §1kor-6-3, §2petr-2-4, §offb-20-4
+ <br>
+  Vgl den ganzen Vers mit §lk-22-28-30
  <br>
   Vgl auch §ps-122-5, §joe-4-12
  }
@@ -64297,6 +64309,14 @@
  {
   Vgl §Vmt-26-57
  }
+ {
+  Vgl §joh-12-10
+ }
+#}
+#mt-26-4 {
+ {
+  Vgl §mt-27-1
+ }
 #}
 #mt-26-6 {
  {
@@ -64325,7 +64345,9 @@
 #}
 #mt-26-8 {
  {
-  Jünger reut das Salböl: vgl <a class='kom' href='#Ijoh-12-5'>Joh&nbsp;12,5</a>.
+  Jünger reut das Salböl: vgl §+joh-12-5.
+  <br>
+  §mk-14-4
  }
 #}
 #mt-26-9 {
@@ -64343,6 +64365,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
  }
 #}
+#mt-26-14 {
+ {
+  §mk-14-10, §lk-22-04
+ }
+#}
 #mt-26-15 {
  {
   TODO: Mit den 30 Silberlingen, dem Lohn der Ungerechtigkeit, kaufte Judas einen Acker, §apg-1-18, §mt-27-7-ff
@@ -64355,7 +64382,7 @@
 #}
 #mt-26-16 {
  {
-  Diese <i>Gute Gelegenheit</i> ist eine ohne 'ohne Volksauflauf' (<a href='http://bibel.renenyffenegger.ch/lk_22.html#v6'>Lk&nbsp;22,6</a>).
+  Diese <i>Gelegenheit</i> ist eine ohne «ohne Volksauflauf» (§lk-22-6).
  }
 #}
 #mt-26-17 {
@@ -64374,11 +64401,18 @@
 #}
 #mt-26-18 {
  {
-  <i>dem und dem</i> ist in <a href='http://bibel.renenyffenegger.ch/lk_22.html#v8'>Lk&nbsp;22,8</a> ein Mensch, der einen
-  Wasserkrug trägt.
+  Gemäss §mk-14-13 gingen nur zwei Jünger, nämlich Petrus und Johannes, §lk-22-8
  }
  {
-  <i>Meine Zeit ist nahe</i> vgl §joh-7-8
+  <i>dem und dem</i> ist in §mk-14-13, §lk-22-8 ein Mensch, der einen Wasserkrug trägt.
+ }
+ {
+  <i>Meine Zeit ist nahe</i> vgl, §+mt-26-45, §joh-7-8
+ }
+#}
+#mt-26-20 {
+ {
+  §mk-14-17, §lk-22-14
  }
 #}
 #mt-26-23 {
@@ -64450,7 +64484,7 @@
 #}
 #mt-26-29 {
  {
-  §mk-14-25
+  §mk-14-25, vgl §lk-22-16
  }
  {
   <i>Reich meines Vaters</i> (hier wohl einzige Erwähnung) vgl <a href='http://bibel.renenyffenegger.ch/mt_13.html#v43'>Mt&nbsp;13,43</a>,
@@ -64477,6 +64511,14 @@
  {
   → biblisches/Orte/Galiläa
  }
+ {
+  §mt-28-7
+ }
+#}
+#mt-26-33 {
+ {
+  <i>ehe der Hahn kräht</i> §Vmt-26-74-75
+ }
 #}
 #mt-26-34 {
  {
@@ -64488,6 +64530,9 @@
   <i>Gethsemane</i> (<span class='gr'>Γεθσημανί</span>, Strongs 1068) bedeutet offenbar 'Ölkelter'
   (<span class='hebr'>גַּת שֶׁמֶן</span>)
   Das Wort kommt auch noch in <a href='http://bibel.renenyffenegger.ch/mk_14.html#v32'>Mk&nbsp;14,32</a> vor.
+ }
+ {
+  <i>An den Ort gekommen</i> §lk-22-40
  }
 #}
 #mt-26-39 {
@@ -64501,6 +64546,9 @@
  }
 #}
 #mt-26-45 {
+ {
+  <i>Die Stunde ist nahe</i> §+mt-26-18
+ }
  {
   <i>Händer der Sünder</i>: <a class='kom' href='#Imt-17-22'>Mt&nbsp;17,22</a>.
  }
@@ -64556,6 +64604,8 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
+  §mk-14-58,
+ <br>
   Vgl §joh-2-19-21, §mt-27-40
  }
 #}
@@ -64598,8 +64648,18 @@
   §+mk-14-70
  }
 #}
+#mt-26-75 {
+ {
+  §Vmt-26-33
+ }
+#}
 @}
 @Matthäus 27 {
+#mt-27-1 {
+ {
+  Vgl §mt-26-4
+ }
+#}
 #mt-27-2 {
  {
   TODO: Beachte, Pilatus wollte Jesus freisprechen (<a href='http://bibel.renenyffenegger.ch/apg_3.html#v13'>Apg&nbsp;3,13</a>).
@@ -64613,7 +64673,7 @@
 #}
 #mt-27-4 {
  {
-  <i>Was geht uns das an? Da sieh du zu!</i> Vgl Vers 24.
+  <i>Was geht uns das an? Siehe du zu!</i> §Vmt-27-24
  }
 #}
 #mt-27-5 {
@@ -64708,7 +64768,10 @@
 #}
 #mt-27-24 {
  {
-  <i>Hände waschen</i> vgl <a class='kom' href='#I5mo-21-6'>5.&nbsp;Mo&nbsp;21,6</a>.
+  <i>seht ihr zu</i> §Vmt-27-4
+ }
+ {
+  <i>Hände waschen</i> vgl §+5mo-21-6.
  }
 #}
 #mt-27-25 {
@@ -64729,12 +64792,12 @@
 #}
 #mt-27-28 {
  {
-  <i>Purpur</i> (<span class='gr'>κόκκινος </span>, Strongs 2847) kommt im Neuen Testament ausser in <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v19'>Hebr&nbsp;9,19</a>
-  nur noch in der Offenbarung (<a class='kom' href='#Ioffb-17-3'>Offb&nbsp;17,3</a>, dort mit 'scharlachrot' und
-  <a href='http://bibel.renenyffenegger.ch/offb_18.html#v16'>Offb&nbsp;18,16</a>, dort mit 'Scharlach' übersetz) vor.
-  <br>Vgl <a class='kom' href='#Imk-15-17'>Mk&nbsp;15,17</a> (wo ein anderes griechisches Wort auch mit 'Purpur' übersetzt wird). Beachte
-  auch, dass beide griechischen Wörter sowohl in <a href='http://bibel.renenyffenegger.ch/offb_17.html#v4'>Offb&nbsp;17,4</a> wie auch
-  <a href='http://bibel.renenyffenegger.ch/offb_18.html#v12'>Offb&nbsp;18,12</a> vorkommen.
+  <i>Purpur</i> (<span class='gr'>κόκκινος </span>, Strongs 2847) kommt im Neuen Testament ausser in §hebr-9-19
+  nur noch in der Offenbarung (§+offb-17-3, dort mit «scharlachrot» und §offb-18-16, dort mit 'Scharlach' übersetz) vor.
+  <br>Vgl §+mk-15-17 (wo ein anderes griechisches Wort auch mit 'Purpur' übersetzt wird). Beachte
+  auch, dass beide griechischen Wörter sowohl in §offb-17-4 wie auch §offb-18-12 vorkommen.
+ <br>
+  Vgl mit dem <i>glänzenden Gewand</i>, das ihm von Herodes umgeworfen wurde, §lk-23-11
  }
  {
   <i>Purpurmantel</i>: §+spr-31-21
@@ -64840,7 +64903,7 @@
 #}
 #mt-27-50 {
  {
-  <i>gab den Geist auf</i> §lk-23-46
+  <i>gab den Geist auf</i>: §+mt-3-16, vgl §lk-23-46
  <br>
   Vgl mit Stephanus letzten Worten, §apg-7-59
  }
@@ -64920,6 +64983,9 @@
  {
   Beachte; sie nennen Pilatus «Herrn».
  }
+ {
+  <i>jener Verführer</i> vgl §lk-23-2
+ }
 #}
 #mt-27-65 {
  {
@@ -64964,6 +65030,11 @@
  {
   TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/offb_1.html#v14'>Offb&nbsp;1,14</a>.
   Vgl Vers 4 mit <a href='http://bibel.renenyffenegger.ch/offb_1.html#v17'>Offb&nbsp;1,17</a>.
+ }
+#}
+#mt-28-7 {
+ {
+  §mt-26-32
  }
 #}
 #mt-28-8 {
@@ -66382,6 +66453,11 @@
   TODO: <i>öffentlich</i> (<span class='gr'>παρρησία</span>, Strongs 3954) auch mit «freimütig» oder «Freimut» übersetzt.
  }
 #}
+#mk-8-33 {
+ {
+  §mt-16-23
+ }
+#}
 #mk-8-34 {
  {
   §mt-16-24, §lk-9-23
@@ -67142,12 +67218,14 @@
 #}
 #mk-14-4 {
  {
-  <i>Etliche</i> reut das Salböl: vgl <a class='kom' href='#Ijoh-12-5'>Joh&nbsp;12,5</a>.
+  <i>Etliche</i> reut das Salböl: vgl §+joh-12-5.
+ <br>
+  §mt-26-8
  }
 #}
 #mk-14-5 {
  {
-  <i>dreihundert Denare</i> §joh-12-5, §mt-26-5, §Vmk-14-11
+  <i>dreihundert Denare</i> §joh-12-5, §Vmk-14-11
  }
  {
   TODO: hier spielt Geld eine Rolle und auch in Vers 11.
@@ -67175,9 +67253,14 @@
   TODO: §mk-16-1
  }
 #}
+#mk-14-10 {
+ {
+  §mt-26-14, §lk-22-04
+ }
+#}
 #mk-14-11 {
  {
-  <i>Gute Gelegenheit</i>: §+mt-26-16.
+  <i>zu gelegener Zeit</i>: §+mt-26-16.
  }
  {
   <i>Versprachen ihm Geld zu geben</i>: schon wieder geht es um Geld, vgl §Vmk-14-5
@@ -67192,6 +67275,9 @@
  }
 #}
 #mk-14-13 {
+ {
+  Diese beiden Jünger sind Petrus und Johannes: §lk-22-8. Vgl §mt-26-18
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
  }
@@ -67214,6 +67300,9 @@
  }
 #}
 #mk-14-17 {
+ {
+  §mt-26-20, §mk-14-17
+ }
  {
   Am Abend des Tages wo man das Passahlamm schlachtet (Vers 12) lebt Jesus noch. Wie kann also das Passahlamm eine Vorschattung sein?
  }
@@ -67249,7 +67338,7 @@
 #}
 #mk-14-25 {
  {
-  §mt-26-29
+  §mt-26-29, vgl §lk-22-16
  }
  {
   <i>werde nicht mehr vom Gewächs des Weinstocks trinken…</i> vgl §mk-15-23
@@ -67275,9 +67364,16 @@
   §lk-22-33, §joh-13-37
  }
 #}
+#mk-14-30 {
+ {
+  <i>ehe der Hahn zweimal kräht</i> §Vmk-14-68, §Vmk-14-72
+ }
+#}
 #mk-14-32 {
  {
-  <i>Gethsemane</i>: <a class='kom' href='#Imt-26-36'>Mt&nbsp;26,36</a>.
+  <i>Gethsemane</i>: §+mt-26-36.
+  <br>
+  <i>An den Ort gekommen</i> §lk-22-40
  }
 #}
 #mk-14-36 {
@@ -67332,6 +67428,11 @@
   <i>auf dass die Schriften erfüllt wurden</i> vgl §mk-15-28
  }
 #}
+#mk-14-51 {
+ {
+  <i>feine Leinwand</i> §mk-15-46
+ }
+#}
 #mk-14-58 {
  {
   <i>Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel, der nicht mit Händen gemacht ist</i>: vgl mit dem Haus (§2kor-5-1) und dem vollkommneren Zelt (§hebr-9-11), die nicht
@@ -67371,6 +67472,11 @@
   <i>Denn du bist auch ein Galiläer</i>: offenbar erkannten sie ihn an der Sprache, §mt-26-73
  }
 #}
+#mk-14-72 {
+ {
+  §Vmk-14-30
+ }
+#}
 @}
 @Markus 15 {
 #mk-15-1 {
@@ -67401,6 +67507,11 @@
  }
 #}
 #mk-15-17 {
+ {
+  §mt-27-28
+ <br>
+  Vgl mit dem <i>glänzenden Gewand/i>, das ihm von Herodes umgeworfen wurde, §lk-23-11
+ }
  {
   TODO: <i>Purpur</i> (<span class='gr'>πορφύρα</span>, Strongs 4209), vgl <a class='kom' href='#Imt-27-28'>Mt&nbsp;27,28</a> (wo ein anderes
   griechisches Wort auch mit 'Purpur' übersetzt wird).
@@ -67552,6 +67663,9 @@
  }
  {
   <i>in eine Gruft legen</i> vgl §mk-6-29
+ }
+ {
+  <i>feine Leinwand</i> §mk-14-51
  }
 #}
 #mk-15-47 {
@@ -71457,7 +71571,17 @@
 #}
 #lk-22-3 {
  {
+  Der Satan fährt in Judas und begehrt Petrus (Simon) zu sichten, §Vlk-22-31
+ <br>
+  Vgl §joh-13-27
+ }
+ {
   <i>Beinamen/Übernamen im Neuen Testament</i>: <a class='kom' href='#Imt-10-3'>Mt&nbsp;10,3</a>.
+ }
+#}
+#lk-22-4 {
+ {
+  §mt-26-14, §mk-14-10
  }
 #}
 #lk-22-7 {
@@ -71466,6 +71590,9 @@
  }
 #}
 #lk-22-8 {
+ {
+  §mk-14-13
+ }
  {
   Der <i>Mensch mit dem Wasserkrug</i>: <a class='kom' href='#Imt-26-18'>Mt&nbsp;26,18</a>.
  }
@@ -71481,6 +71608,12 @@
 #}
 #lk-22-14 {
  {
+  §mt-26-20, §mk-14-17
+ }
+ {
+  <i>als die Stunde gekommen war</i> vgl §joh-2-4. Es scheint sich hier um «Seine Stunde» zu handeln. Vgl mit der «eurer Stunde» und der Gewalt der Finsternis in §Vlk-22-53
+ }
+ {
   TODO: <i>die 12 Apostel mit ihm</i>: Der Satan war bereits in Judas gefahren (Vers 3). Das nächste Vorkommen von Judas ist in Vers 47,
   wo er vor der Schar hergeht.
  }
@@ -71489,6 +71622,11 @@
  {
   Elberfelder übersetzt (wohl wörtlicher) mit 'Mit Sehnsucht habe ich mich gesehnt',
   KJV mit 'With desire I have desired'.
+ }
+#}
+#lk-22-16 {
+ {
+  Vgl §mt-26-29, §mk-14-25
  }
 #}
 #lk-22-19 {
@@ -71522,7 +71660,7 @@
 #}
 #lk-22-24 {
  {
-  <i>Wer ist der Grösste?</i>: <a class='kom' href='#Ilk-9-46'>Lk&nbsp;9,46</a>.
+  <i>Wer ist der Grösste?</i>: §+lk-9-46.
  }
 #}
 #lk-22-25 {
@@ -71542,10 +71680,13 @@
 #}
 #lk-22-28 {
  {
-  <i>Versuchungen</i>, <span class='gr'>πειρασμός</span>, Strongs 3986, wird hier in Schlachter mit «Anfechtungen» übersetzt nicht aber in §Vlk-22-40 und §Vlk-22-46, vgl §+apg-20-19, 1petr-1-6 und andere
+  Vgl Verse 28-30 mit §mt-19-28
  }
  {
-  TODO: die ausgeharrt haben in meinen Versuchungen. In Matthäus etc. scheint an den etnsprechenden Stellen zu stehen «Wacht und betet, dass ihr nicht in Versuchungen fällt».
+  <i>Versuchungen</i>, <span class='gr'>πειρασμός</span>, Strongs 3986, wird hier in Schlachter mit «Anfechtungen» übersetzt nicht aber in §Vlk-22-40 und §Vlk-22-46, vgl §+apg-20-19, §1petr-1-6 und andere
+ }
+ {
+  TODO: die ausgeharrt haben in meinen Versuchungen. In Matthäus etc. scheint an den entsprechenden Stellen zu stehen «Wacht und betet, dass ihr nicht in Versuchungen fällt».
  }
 #}
 #lk-22-29 {
@@ -71554,6 +71695,9 @@
  }
 #}
 #lk-22-31 {
+ {
+  §+Vlk-22-3
+ }
  {
   Verdoppelung des Namens, siehe <a class='kom' href='#I1mo-22-11'>1.&nbsp;Mo&nbsp;22,11</a>.
  }
@@ -71565,8 +71709,10 @@
 #}
 #lk-22-34 {
  {
-  Hier angeblich die einzige Stelle, wo der Herr Simon mit «Petrus» anspricht.
-  Vgl <a class='kom' href='#Imt-4-18'>Mt&nbsp;4,18</a>.
+  Petrus wird leugnen, seinen Herrn zu kennen; aber sein Herr kennt Petrus.
+ }
+ {
+  Hier angeblich die einzige Stelle, wo der Herr Simon mit «Petrus» anspricht.  Vgl <a class='kom' href='#Imt-4-18'>Mt&nbsp;4,18</a>.
  }
 #}
 #lk-22-35 {
@@ -71601,6 +71747,11 @@
  }
 #}
 #lk-22-40 {
+ {
+  Dieser <i>Ort</i> scheint Gethsemane zu sein, §mt-26-36, §mk-14-32.
+ <br>
+  Vgl §lk-23-33
+ }
  {
   <i>Versuchung</i> §Vlk-22-28
   <br>
@@ -71649,6 +71800,14 @@
  {
   <i>ihr habt die Hände nicht gegen mich ausgestreckt</i> vgl §joh-7-44, §lk-20-19, §lk-9-44
  }
+ {
+  <i>eure Stunde</i> vgl §Vlk-22-14
+ }
+#}
+#lk-22-56 {
+ {
+  Diese <i>gewisse Magd</i> ist eine von den Mägden des Hohepriesters, §mk-14-66
+ }
 #}
 #lk-22-61 {
  {
@@ -71690,6 +71849,9 @@
   (<a href='http://bibel.renenyffenegger.ch/lk_20.html#v22'>Lk 20,22-25</a>).
  }
  {
+  Der unsere Nation <i>verführt</i> vgl §mt-27-63
+ }
+ {
   TODO: Ist Lukas der einzige, der die Anklage wiedergibt, dass Jesus das Volk abhalten wolle, die Steuern zu
   bezahlen?
  }
@@ -71715,12 +71877,17 @@
 #}
 #lk-23-11 {
  {
-  TODO: <i>Prachtgewand</i> (<span class='gr'>ἐσθῆτα λαμπρὰν</span> (Strongs 2066, 2986). Derselbe Ausdruck wird
+  Vgl das <i>glänzende Gewand</i> mit dem Purpurmantel, § mt-27-28, §mk-15-71
+ }
+ {
+  TODO: <i>glänzende Gewand</i> (<span class='gr'>ἐσθῆτα λαμπρὰν</span> (Strongs 2066, 2986). Derselbe Ausdruck wird
   in <a href='http://bibel.renenyffenegger.ch/apg_10.html#v30'>Apg&nbsp;10,30</a> mit «glänzende Kleidung»,
   in <a href='http://bibel.renenyffenegger.ch/jak_2.html#v2'>Jak 2,2/3</a> mit «prächtiger Kleidung».
   «glänzend» in <a href='http://bibel.renenyffenegger.ch/offb_15.html#v6'>Offb&nbsp;15,6</a>,
   «Glanz» in <a href='http://bibel.renenyffenegger.ch/offb_18.html#v14'>Offb&nbsp;18,14</a> und
   «leuchtend» in <a href='http://bibel.renenyffenegger.ch/offb_22.html#v16'>Offb&nbsp;22,16</a> ist auch Strongs 2986.
+ <br>
+  In Sch2K mit «Prachtsgewand» übersetzt.
  }
  {
   TODO: <i>Kriegsleute</i> (<span class='gr'>στράτευμα</span>, Strongs 4753) vgl <a class='kom' href='#Ilk-3-14'>Lk&nbsp;3,14</a>.
@@ -71757,6 +71924,11 @@
 #lk-23-30 {
  {
   Vgl §+hos-10-8, §offb-6-16
+ }
+#}
+#lk-23-33 {
+ {
+  <i>an den Ort kamen</i> §lk-22-40
  }
 #}
 #lk-23-34 {
@@ -71809,7 +71981,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
-  <i>Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang zerriss</i> §mt-27-15, mk-15-38
+  <i>Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang zerriss</i> §mt-27-51, §mk-15-38
  }
  {
   Beachte, dass sich die Sonne auch nach einer Drangsal verfinstert wird §mt-24-29, §mk-13-24
@@ -72490,7 +72662,9 @@
 #}
 #joh-2-4 {
  {
-  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
+   <i>Meine Stunde</i> ist noch nicht gekommen, vgl §lk-22-14
+  <br>
+    Vgl → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
  {
   <i>Was habe ich mit dir zu schaffen</i> §mt-8-29
@@ -74287,6 +74461,11 @@
   <i>dreihundert Denare</i>: vgl §mk-14-5, §+mt-26-15.
  }
 #}
+#joh-12-10 {
+ {
+  Vgl §mt-26-3-4
+ }
+#}
 #joh-12-13 {
  {
   <i>Gepriesen, der kommt</i>: <a class='kom' href='#Imt-21-9'>Mt&nbsp;21,9</a>
@@ -74604,6 +74783,11 @@
 #joh-13-23 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/den-Jesus-liebte
+ }
+#}
+#joh-13-27 {
+ {
+  Vgl §lk-22-3
  }
 #}
 #joh-13-30 {
