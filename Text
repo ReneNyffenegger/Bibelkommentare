@@ -82322,7 +82322,7 @@
   → biblisches/Eigene-Uebersetzung/Varianten/pistis-Christou
  }
  {
-  <i>Gottes Gerechtigkeit aber durch Glauben</i> vgl §roem-1-17, §roem-4-11, §roem-9-30, §roem-10-6, §roem-10-10, §phil-3-9, §hebr-11-7
+  <i>Gottes Gerechtigkeit aber durch Glauben</i> vgl §roem-1-17, §roem-4-5, §roem-4-11, §roem-5-1, §roem-9-30, §roem-10-6, §roem-10-10, §phil-3-9, §hebr-11-7
  }
 #}
 #roem-3-23 {
@@ -82344,6 +82344,9 @@
     Die → biblisches/Grundtext/LXX übersetzt → biblisches/Grundtext/Wörter/H3727-kapporeth[כַּפֹּרֶת] (Den Deckel auf die Lade des Bundes, zB §2mo-25-17) mit ἱλαστήριον.
   <br>
    Vgl §1joh-2-2, §1joh-4-10
+ }
+ {
+  <i>Durch den Glauben an sein Blut</i> vgl §roem-5-9
  }
 #}
 #roem-3-26 {
@@ -82428,6 +82431,9 @@
 #}
 #roem-4-5 {
  {
+  <i>Glaube zur Gerechtigkeit</i> vgl §+roem-3-22
+ }
+ {
   Siehe aber auch <a class='kom' href='#I2mo-23-7'>2.&nbsp;Mo&nbsp;23,7</a> (Gott spricht keinen Gottlosen gerecht).
  }
  {
@@ -82499,10 +82505,10 @@
 #}
 #roem-4-25 {
  {
-  Rechtfertigung, durch Glauben: <a href='http://bibel.renenyffenegger.ch/roem_5.html#v1'>Röm&nbsp;5,1</a>,
-  durch Sein Blut: <a href='http://bibel.renenyffenegger.ch/roem_5.html#v9'>Röm&nbsp;5,9</a>,
-  durch das Befolgen des Gesetzes: <a href='http://bibel.renenyffenegger.ch/roem_2.html#v13'>Röm&nbsp;2,13</a>.
-  Nicht durch Werke: <a href='http://bibel.renenyffenegger.ch/roem_4.html#v2'>Röm&nbsp;4,2</a>.
+  Rechtfertigung, durch Glauben: §roem-5-1,
+  durch Sein Blut: §roem-5-9,
+  Täter des Gesetzes: §roem-2-13.
+  Nicht durch Werke: §roem-4-2.
  }
  {
   <i>Übertretungen</i> (<span class='gr'>παράπτωμα</span>, Strongs 3900) zum Teil auch mit «Vergehen übersetzt».
@@ -82512,7 +82518,9 @@
 @Römer 5 {
 #roem-5-1 {
  {
-  Rechtfertigung: <a class='kom' href='#Iroem-4-25'>Röm&nbsp;4,25</a>.
+  Rechtfertigung: §+roem-4-25.
+ <br>
+  <i>Gerechtfertigt aus Glauben</i>: vgl §+roem-3-22  
  }
  {
   <i>Friede mit Gott</i>: §kol-1-19-20, §eph-2-13-17.
@@ -82522,6 +82530,9 @@
 #roem-5-2 {
  {
   <i>Sich der → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung der Herrlichkeit rühmen</i>: vgl §roem-8-17, §kol-3-4, §joh-17-22, §kol-1-27
+ }
+ {
+  <i>Zugang zur Gnade haben</i> vgl §+eph-2-18
  }
 #}
 #roem-5-3 {
@@ -82568,15 +82579,17 @@
   <i>Vor dem Zorn gerettet</i>: Vgl §1thes-1-10. Beachte, hier ist das Griechische Wort für
   retten <span class='gr'>σῴζω</span>, dort ist es <span class='gr'>ῥύομαι</span>.
   <br>Vgl auch §1thes-5-9, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
-
  }
  {
   Die 4 <i>vielmehr</i> in Römer 5: hier, §Vroem-5-10, §Vroem-5-15, §roem-5-17.
  }
+ {
+  <i>Gerechtfertigt durch sein Blut</i> vgl §roem-3-25
+ }
 #}
 #roem-5-10 {
  {
-  <i>Mit Gott → biblisches/Eigene-Uebersetzung/Konkordanz/Versöhnung[versöhnt] sein</i> vgl §2kor-5-18-20, §+eph-2-15.
+  <i>Mit Gott → biblisches/Eigene-Uebersetzung/Konkordanz/Versöhnung[versöhnt] sein</i> vgl §2kor-5-18-20, §+eph-2-15-16.
  }
 #}
 #roem-5-11 {
@@ -84876,6 +84889,11 @@
 #1kor-3-21 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v3'>1.&nbsp;Kor&nbsp;11,3</a> und <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v28'>1.&nbsp;Kor&nbsp;15,28</a>.
+ }
+#}
+#1kor-3-23 {
+ {
+  <i>Ihr seid Christi</i> §gal-3-29
  }
 #}
 @}
@@ -88313,6 +88331,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Varianten/pistis-Christou
  }
+ {
+  <i>mit Christus gekreuzigt nicht mehr leben</i> vgl §kol-2-20
+ }
 #}
 @}
 @Galater 3 {
@@ -88465,6 +88486,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #gal-3-29 {
  {
   <i>Abrahams Same</i>: <a class='kom' href='#Iroem-4-1'>Röm&nbsp;4,1</a>.
+ }
+ {
+  <i>wenn ihr aber Christi seid</i> §1kor-3-23
  }
 #}
 @}
@@ -89115,9 +89139,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-2-8 {
  {
-  <i>Elemente der Welt</i>: §eph-2-20
- }
- {
   <i>durch Gnade seid ihr errettet, mittelst des Glaubens</i> vgl §roem-3-28
  }
  {
@@ -89197,7 +89218,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-2-18 {
  {
-  <i>den Zugang … zum Vater</i> vgl §eph-3-12
+  <i>den Zugang … zum Vater</i> vgl §eph-3-12, §roem-5-2
  }
  {
   Vgl §joh-14-6 
@@ -91035,23 +91056,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>befestigt</i>: §+roem-1-11
  }
 #}
-#kol-2-8 {
- {
-  <i>Überlieferung der Menschen</i>: Paulus gebietet auch den Thessalonikern, dass 'sie sich von jedem Bruder
-  zurückziehen, der nicht nach der Überlieferung wandelt, die er von <i>ihnen</i> empfangen hat.' (<a href='http://bibel.renenyffenegger.ch/2thes_3.html#v6'>2.&nbsp;Thes&nbsp;3,6</a>).
-  Hingegen lobt er die Korinther, dass sie an seinen Überlieferungen festhalten (<a href='http://bibel.renenyffenegger.ch/1kor_11.html#v2'>1.&nbsp;Kor&nbsp;11,2</a>)
-  und ermaht die Thessaloniker, daran festzuhalten (<a href='http://bibel.renenyffenegger.ch/2thes_2.html#v15'>2.&nbsp;Thes&nbsp;2,15</a>).
- }
- {
-  <i>Philosophie</i>: s.a. <a href='http://bibel.renenyffenegger.ch/apg_17.html#v18'>Apg&nbsp;17,18</a>.
- }
- {
-  <i>Grundsätze der Welt</i>: <a class='kom' href='#Igal-4-3'>Gal&nbsp;4,3</a>. Vgl auch Vers 20.
- }
- {
-  <i>Überlieferungen</i>: <a class='kom' href='#I1kor-11-2'>1.&nbsp;Kor&nbsp;11,2</a>.
- }
-#}
+}
 #kol-2-9 {
  {
   <i>Fülle der Gottheit</i> vgl mit «Fülle Gottes» (§eph-3-19) und «Fülle des Christus» (§eph-4-13)
@@ -91118,6 +91123,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #kol-2-19 {
  {
   <i>Leib des Christus</i>: <a class='kom' href='#Iroem-12-5'>Röm&nbsp;12,5</a>.
+ }
+#}
+#kol-2-20 {
+ {
+  <i>Mit Christo den Elementen der Welt gestorben sein</i> vgl §gal-2-20
+ }
+ {
+  <i>Elemente der Welt</i>: §Vkol-2-8
  }
 #}
 @}
