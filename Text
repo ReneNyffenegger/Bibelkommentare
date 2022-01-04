@@ -32482,6 +32482,11 @@
   <i>Elat</i> wurde von Asarja gebaut und wieder an Juda gebracht (<a class='kom' href='#I2koe-14-22'>2.&nbsp;Kö&nbsp;14,22</a>).
  }
 #}
+#2koe-16-7 {
+ {
+  Hiskia, der nächste König Judas, wird sich gegen den nächsten(?) König Assyriens, Salmanasser, empören, §2koe-18-7
+ }
+#}
 #2koe-16-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Schatz, vgl §2koe-18-15, §+1chr-29-2
@@ -32549,10 +32554,10 @@
 #}
 #2koe-17-6 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#gegossenes-kalb
+  §2koe-18-10
  }
  {
-  <a href='http://bibel.renenyffenegger.ch/jes_10.html#v11'>Jes&nbsp;10,11</a>: wie Mit Samaria und ihren Götzen, so auch mit Jerusalem
+  <a href='http://bibel.renenyffenegger.ch/jes_10.html#v11'>Jes&nbsp;10,11</a>: wie mit Samaria und ihren Götzen, so auch mit Jerusalem
   und ihren Götzenbildern (<a href='http://bibel.renenyffenegger.ch/jes_10.html#v10'>Jes&nbsp;10,10</a>).
  }
  {
@@ -32596,6 +32601,9 @@
  }
 #}
 #2koe-17-16 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#gegossenes-kalb
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#baal
  }
@@ -32687,6 +32695,9 @@
 #}
 #2koe-18-5 {
  {
+  <i>Er vertraute auf Jehova</i>: vgl mit der Frage des Assyrischen Königs Sanherib an Hiskia: «Was ist das für ein Vertrauen, womit du vertraust» (§V2koe-18-19) und an das Volk «Worauf vertraut ihr…», §2chr-32-10
+ }
+ {
   TODO: Auch von <i>Josia</i> heisst es: 'seinesgleichen ist vor ihm kein König gewesen' und 'auch nach ihm ist keiner seinesgleichen aufgestanden.', aber
   bei Josia heiss es zusätzlich: 'der sich so von ganzem Herzen und von ganzer Seele und mit allen seinen Kräften dem HERRN zuwandte, ganz nach dem Gesetz Moses;'.
   (<a href='http://bibel.renenyffenegger.ch/2koe_23.html#v25'>2.&nbsp;Kö&nbsp;23,25</a>). Dafür heisst es von Hiskia, dass er 'vertraute'.
@@ -32695,6 +32706,9 @@
 #2koe-18-7 {
  {
   Dieser <i>König von Assyrien</i> ist vermutlich Salmanasser, vgl §V2koe-18-9.
+ <br>
+  Hiskias Vorgänger, Ahas, bat den damaligen König von Assyrien, Tiglath-Pileser um Rettung aus der Hand des Königs von Aram und des Königs von Israel und sagte diesem König «Ich bin dein Knecht und dein Sohn»,
+  §2koe-16-7
  }
 #}
 #2koe-18-8 {
@@ -32721,6 +32735,11 @@
   TODO: Vgl §+2chr-30-10.
  }
 #}
+#2koe-18-10 {
+ {
+  §2koe-17-6
+ }
+#}
 #2koe-18-13 {
  {
   vgl <a href='http://bibel.renenyffenegger.ch/jes_36.html#v1'>Jes&nbsp;36,1</a>.
@@ -32738,7 +32757,13 @@
 #}
 #2koe-18-17 {
  {
-  Unter Ahas schickte der HERR Jesaja 'Ahas entgegen, [...]  an das Ende der Wasserleitung des oberen Teiches, zur Straße des Walkerfeldes,'
+  §2chr-32-9
+ }
+ {
+  <i>sie hielten an der Wasserleitung des oberen Teiches</i> §2chr-32-3-4
+ }
+ {
+  Unter Ahas schickte der HERR Jesaja «Ahas entgegen, […] an das Ende der Wasserleitung des oberen Teiches, zur Straße des Walkerfeldes,»
  (<a href='http://bibel.renenyffenegger.ch/jes_7.html#v3'>Jes&nbsp;7,3</a>).
  }
  {
@@ -32809,6 +32834,16 @@
   → biblisches/Aramäisch
  }
 #}
+#2koe-18-29 {
+ {
+  §2chr-32-15
+ }
+#}
+#2koe-18-33 {
+ {
+  Bei der Eroberung und Wegführung Israels durch den Assyrischen Königs sah es vielleicht so aus, als ob der Gott Israels nicht helfen konnte, §2koe-17-6, §2koe-18-10
+ }
+#}
 #2koe-18-36 {
  {
   <i>Und das Volk schwieg still</i> vgl mit «Und sie schwiegen still» in §jes-36-21.
@@ -32840,6 +32875,9 @@
  }
 #}
 #2koe-19-15 {
+ {
+  §2chr-32-20
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde, vgl §jes-37-16
  }
@@ -33071,7 +33109,7 @@
 #}
 #2koe-21-7 {
  {
-  Er hatte ein Standbild der Aschera gemacht, in <a href='http://bibel.renenyffenegger.ch/2chr_33.html#v7'>2.&nbsp;Chr&nbsp;33,7</a> liess er ein Gätzenbild machen.
+  §2chr-33-7
  }
 #}
 #2koe-21-9 {
@@ -37454,7 +37492,16 @@
 @2. Chronik 32 {
 #2chr-32-3 {
  {
-   Vgl → biblisches/Personen/Hiskia#hiskia-tunnel, → Geschichte/Israel/Personen/Archibald-Sayce
+  Vgl → biblisches/Personen/Hiskia#hiskia-tunnel, → Geschichte/Israel/Personen/Archibald-Sayce
+ }
+#}
+#2chr-32-4 {
+ {
+  <i>Verstopfung der Quellen, … warum sollten die Könige von Assyrien kommen und viel Wasser finden</i>:
+  Vgl
+   §2koe-18-17, wo das Assyrische Heer beim heraufziehen gegen Jerusalem an der Wasserleitung des oberen Teiches hielten.
+  <br>
+   Hiskia verstopfte noch einen Ausfluss: §V2chr-32-30
  }
 #}
 #2chr-32-5 {
@@ -37472,9 +37519,29 @@
   <i>Zum Herzen sprechen</i>: <a class='kom' href='#I2chr-30-22'>2.&nbsp;Chr&nbsp;30,22</a>, <a class='kom' href='#I1mo-34-3'>1.&nbsp;Mo&nbsp;34,3</a>.
  }
 #}
+#2chr-32-9 {
+ {
+  §2koe-18-17
+ }
+#}
+#2chr-32-10 {
+ {
+  <i>Worauf vertraut ihr</i>: von Hiskia wird ausdrücklich gesagt, dass er Jehova vertraute: §2koe-18-5
+ }
+#}
 #2chr-32-12 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/jes_36.html#v7'>Jes&nbsp;36,7</a>.
+ }
+#}
+#2chr-32-15 {
+ {
+  §2koe-18-29
+ }
+#}
+#2chr-32-20 {
+ {
+  §2koe-19-15
  }
 #}
 #2chr-32-21 {
@@ -37504,6 +37571,9 @@
  }
 #}
 #2chr-32-30 {
+ {
+  Verstopfung des Ausflusses: §V2chr-32-3
+ }
  {
   <i>Gihon</i> bereits in §+1mo-2-13.
  }
@@ -37558,7 +37628,7 @@
 #}
 #2chr-33-7 {
  {
-  <a class='kom' href='#I2koe-21-7'>2.&nbsp;Kö&nbsp;21,7</a>.
+  §2koe-21-7
  }
 #}
 #2chr-33-9 {
