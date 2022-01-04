@@ -32689,6 +32689,11 @@
   (<a href='http://bibel.renenyffenegger.ch/2koe_23.html#v25'>2.&nbsp;Kö&nbsp;23,25</a>). Dafür heisst es von Hiskia, dass er 'vertraute'.
  }
 #}
+#2koe-18-7 {
+ {
+  Dieser <i>König von Assyrien</i> ist vermutlich Salmanasser, vgl §V2koe-18-9.
+ }
+#}
 #2koe-18-8 {
  {
   Die Philister fielen unter Ahas ein und eroberten Städte und wohnten darin (<a class='kom' href='#I2chr-28-18'>2.&nbsp;Chr&nbsp;28,18</a>).
@@ -32710,7 +32715,7 @@
 #}
 #2koe-18-9 {
  {
-  Vgl <a class='kom' href='#I2chr-30-10'>2.&nbsp;Chr&nbsp;30,10</a>.
+  TODO: Vgl §+2chr-30-10.
  }
 #}
 #2koe-18-13 {
@@ -32721,6 +32726,11 @@
 #2koe-18-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Schatz, vgl §2koe-16-8, §+1chr-29-2
+ }
+#}
+#2koe-18-16 {
+ {
+  Die Türflügel des Tempels wurden von Hiskia im ersten Jahr seiner Regierung ausgebessert, §2chr-29-3.
  }
 #}
 #2koe-18-17 {
@@ -32896,6 +32906,11 @@
 #2koe-19-34 {
  {
   <i>Um Davids willen</i>: <a class='kom' href='#I1koe-15-4'>1.&nbsp;Kö&nbsp;15,4</a>.
+ }
+#}
+#2koe-19-35 {
+ {
+  §2chr-32-21
  }
 #}
 #2koe-19-37 {
@@ -33272,7 +33287,7 @@
 #}
 #2koe-23-22 {
  {
-  Auch Hiskia hat ein Passah gefeiert (aber im 2. Monat): <a class='kom' href='#I2chr-30-15'>2.&nbsp;Chr&nbsp;30,15</a>.
+  Auch Hiskia hat ein Passah gefeiert (aber im 2. Monat): §+2chr-30-15.
  }
 #}
 #2koe-23-23 {
@@ -37207,13 +37222,15 @@
 #}
 #2chr-28-24 {
  {
-   <i>Geräte, Silber und Gold</i>: <a class='kom' href='#I2koe-14-14'>2.&nbsp;Kö&nbsp;14,14</a>.
+  <i>Geräte, Silber und Gold</i>: <a class='kom' href='#I2koe-14-14'>2.&nbsp;Kö&nbsp;14,14</a>.
  }
  {
   Vgl mit den <i>entweihten Geräten</i> in <a href='http://bibel.renenyffenegger.ch/2chr_29.html#v19'>2.&nbsp;Chr&nbsp;29,19</a>.
  }
  {
-  <i>Verschlossene Türen</i>: <a class='kom' href='#I2chr-26-16'>2.&nbsp;Chr&nbsp;26,16</a>.
+  Die <i>Verschlossene Türen</i> werden von Hiskia wieder geöffnet, §2chr-29-3
+ <br>
+  Vgl <a class='kom' href='#I2chr-26-16'>2.&nbsp;Chr&nbsp;26,16</a>.
  }
 #}
 @}
@@ -37236,7 +37253,9 @@
 #}
 #2chr-29-3 {
  {
-   <i>Geöffnete Türen</i>: <a class='kom' href='#I2chr-26-16'>2.&nbsp;Chr&nbsp;26,16</a>.
+  <i>Geöffnete Türen</i>: Sie wurden von Ahas geschlossen, §chr-28-24
+ <br>
+  Hiskia wird von den Türflügeln des Tempels das Gold abbrechen und dem König von Assyrien geben, §2koe-18-16.
  }
 #}
 #2chr-29-7 {
@@ -37333,9 +37352,8 @@
 #}
 #2chr-30-15 {
  {
-  Beachte, dass der spätere König Josia auch ein Passah feierte (aber wohl im ersten Monat?), bei dem es hiess
-  'kein solches Passah war gehalten worden seit der Zeit der Richter, die Israel gerichtet hatten, und während der ganzen Zeit der Könige von Israel und der Könige von Juda;'
-  (<a href='http://bibel.renenyffenegger.ch/2koe_23.html#v22'>2.&nbsp;Kö&nbsp;23,22</a>).
+  Beachte, dass der spätere König Josia auch ein Passah feierte (aber wohl im ersten Monat?), von dem es hiess
+ «kein solches Passah war gehalten worden seit der Zeit der Richter, die Israel gerichtet hatten, und während der ganzen Zeit der Könige von Israel und der Könige von Juda;» (§2koe-23-22).
  }
 #}
 #2chr-30-19 {
@@ -37456,6 +37474,11 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/jes_36.html#v7'>Jes&nbsp;36,7</a>.
  }
 #}
+#2chr-32-21 {
+ {
+  §2koe-19-35-37
+ }
+#}
 #2chr-32-23 {
  {
   <i>Geschenke</i>: <a class='kom' href='#I2koe-20-12'>2.&nbsp;Kö&nbsp;20,12</a>, <a class='kom' href='#Imi-3-11'>Mi&nbsp;3,11</a>.
@@ -37479,7 +37502,7 @@
 #}
 #2chr-32-30 {
  {
-  <i>Gihon</i> bereits in<a class='kom' href='#I1mo-2-13'>1.&nbsp;Mo&nbsp;2,13</a>.
+  <i>Gihon</i> bereits in §+1mo-2-13.
  }
 #}
 #2chr-32-31 {
@@ -56960,10 +56983,12 @@
 @Daniel 6 {
 #dan-6-1 {
  {
-  <i>Darius</i>: <a class='kom' href='#Iesr-4-5'>Esr&nbsp;4,5</a>.
+  <i>Darius</i>: §+esr-4-5.
+ <br>
+  <i>Darius, der Meder</i> §dan-11-1
  }
  {
-  Beachte, dass die Zahl 62 auch in <a href='http://bibel.renenyffenegger.ch/dan_9.html#v25'>Dan 9,25-26</a> vorkommt.
+  Beachte, dass die Zahl 62 auch in §dan-9-25-26 vorkommt.
  }
 #}
 #dan-6-2 {
@@ -57445,7 +57470,7 @@
   <i>Gräben</i> (Strongs 2742): in KJV mit «walls» übersetzt. S.al §spr-3-14. Auch dieses Wort scheint im Grundtext in der Einzahl zu stehen.
  }
  {
-  Zahl 62: <a class='kom' href='#Idan-6-1'>Dan&nbsp;6,1</a>.
+  Zahl 62: §+dan-6-1.
  }
  {
   <i>Gesalbten</i>: Elberfelder übersetzt mit »Messias«. Ebenso §Vdan-9-26.
@@ -57576,6 +57601,11 @@
 #}
 @}
 @Daniel 11 {
+#dan-11-1 {
+ {
+  <i>Darius, der Meder</i>: §dan-6-1
+ }
+#}
 #dan-11-3 {
  {
   Dieser <i>tapfere König</i> ist wohl → Geschichte/Jahrhundert/4v/Personen/Alexander-der-Grosse.
