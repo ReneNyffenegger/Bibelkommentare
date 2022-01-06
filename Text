@@ -37935,7 +37935,7 @@
 @Esra 1 {
 #esr-1-1 {
  {
-  → biblisches/Personen/Esra/index, → biblisches/Personen/Jeremia
+  → biblisches/Personen/Esra, → biblisches/Personen/Jeremia
  }
  {
    <i>erfüllt</i> (Strongs 3615) u.a. auch mit 'vollenden': <a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>.
@@ -38288,9 +38288,10 @@
 #}
 #esr-4-5 {
  {
-  <i>Darius</i>: hier der König von Persien, genannt der Meder (<a href='http://bibel.renenyffenegger.ch/dan_6.html#v1'>Dan&nbsp;6,1</a>,
-   vgl <a href='http://bibel.renenyffenegger.ch/dan_9.html#v1'>Dan&nbsp;9,1</a>), wird gemäss <a href='http://bibel.renenyffenegger.ch/dan_9.html#v1'>Dan&nbsp;9,1</a>
-   zum König der Chaldäer gemacht.
+  <i>Darius</i>, der König von Persien.
+  Vgl mit Darius, dem <i>Meder</i>, §dan-6-1 und §dan-9-1
+  <br>
+  Darius, der Sohn Ahasveros, aus dem Samen der Meder, wird gemäss §dan-9-1 zum König der Chaldäer gemacht.
  }
 #}
 #esr-4-6 {
@@ -38306,10 +38307,10 @@
   → biblisches/Personen/Artasasta
  }
  {
-  TODO: Ist Mitrdat der Schatzmeister von <a href='http://bibel.renenyffenegger.ch/esr_1.html#v8'>Esr&nbsp;1,8</a>?
+  TODO: Ist Mithredath der Schatzmeister von §esr-1-8?
  }
  {
-  TODO: Ein <i>Tabeel</i> wird auch in <a href='http://bibel.renenyffenegger.ch/jes_7.html#v6'>Jes&nbsp;7,6</a> erwähnt.
+  TODO: Ein <i>Tabeel</i> wird auch in §jes-7-6 erwähnt.
  }
 #}
 #esr-4-8 {
@@ -38826,8 +38827,10 @@
 #}
 #neh-3-25 {
  {
-  <i>Kerkerhof</i> (<span class='hebr'>לַחֲצַ֣ר הַמַּטָּרָ֑ה</span>, Strongs 2691 4307), in <a href='http://bibel.renenyffenegger.ch/jer_32.html#v2'>Jer&nbsp;32,2</a> 'Gefängnishof'
-  genannt. Gemäss ebendieser Jeremiastelle gehört dieser Kerkerhof zum Palast des Königs von Juda.
+  <i>Gefängnishof</i> (<span class='hebr'>לַחֲצַ֣ר הַמַּטָּרָ֑ה</span>, Strongs 2691 4307) in Sch2K mit «Kerkerhof» übersetzt.
+  vgl §jer-32-2.
+ <br>
+  Gemäss ebendieser Jeremiastelle gehört dieser Kerkerhof zum Palast des Königs von Juda.
  }
 #}
 #neh-3-26 {
@@ -39806,6 +39809,11 @@
 #neh-12-21 {
  {
   TODO <i>Hasabja</i>: <a class='kom' href='#I1chr-6-30'>1.&nbsp;Chr&nbsp;6,30</a>.
+ }
+#}
+#neh-12-22 {
+ {
+  Darius, der <i>Perser</i>: §esr-4-5. Vgl mit Darius, dem <i>Meder</i>, §+dan-6-1
  }
 #}
 #neh-12-25 {
@@ -49325,7 +49333,8 @@
 #}
 #jes-13-17 {
  {
-  Vgl §jer-51-11, §dan-9-1
+  Die <i>Meder</i> werden Babylon erobern, vgl §jer-51-11.
+  Dies ist unter Daniel in §dan-6-1 und §dan-9-1 geschehen.
  }
  {
   TODO Beachte: die <i>Meder</i> werden offenbar auch in §jes-21-2 zu Gerichtszwecken 'benötigt'.
@@ -52828,6 +52837,11 @@
   <i>Zephanja</i>: <a class='kom' href='#I2koe-25-18'>2.&nbsp;Kö&nbsp;25,18</a>.
  }
 #}
+#jer-21-7 {
+ {
+  Vgl §jer-32-3-5
+ }
+#}
 @}
 @Jeremia 22 {
 #jer-22-11 {
@@ -53297,10 +53311,10 @@
 #}
 #jer-29-10 {
  {
-   <i>70 Jahre</i>: §+2chr-36-21.
+   <i>70 Jahre</i>: §jer-25-11, vgl §+2chr-36-21
  }
  {
-  TODO: <i>70 Jahre</i>: <a class='kom' href='#Idan-9-2'>Dan&nbsp;9,2</a>.
+  TODO: <i>70 Jahre</i>: §+dan-9-2.
  }
 #}
 #jer-29-14 {
@@ -53466,7 +53480,10 @@
 #}
 #jer-32-2 {
  {
-  <i>Gefängnishof</i>: <a class='kom' href='#Ineh-3-25'>Neh&nbsp;3,25</a>.
+  <i>Gefängnishof</i>: §+neh-3-25.
+ }
+ {
+  <i>Jeremia eingesperrt</i> vgl §jer-37-4
  }
  {
   TODO: <a class='kom' href='#Ijer-20-4'>Jer&nbsp;20,4</a>.
@@ -53474,6 +53491,11 @@
  {
   TODO: Schreibt Jeremia von seinem Gefängnisaufenthalt in <a href='http://bibel.renenyffenegger.ch/kla_3.html#v53'>Kla 3,53ff</a>.
   Vgl auch <a class='kom' href='#I2sam-1-17'>2.&nbsp;Sam&nbsp;1,17</a>.
+ }
+#}
+#jer-32-3 {
+ {
+  Vgl §jer-21-7
  }
 #}
 #jer-32-4 {
@@ -53528,6 +53550,11 @@
   §jer-11-5
  }
 #}
+#jer-32-24 {
+ {
+  <i>Schwert, Hunger, Pest</i>: §+jer-14-12, §Vjer-32-36
+ }
+#}
 #jer-32-27 {
  {
   Vgl §lk-1-37
@@ -53556,6 +53583,11 @@
 #jer-32-35 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#molech §+3mo-20-2.
+ }
+#}
+#jer-32-36 {
+ {
+  <i>Schwert, Hunger, Pest</i>: §+jer-14-23, §Vjer-32-24
  }
 #}
 #jer-32-37 {
@@ -53805,6 +53837,11 @@
  {
   <i>Zephanja, der Sohn Maasejas</i>: <a class='kom' href='#Ijer-29-25'>Jer&nbsp;29,25</a>.
   <i>Zephanja</i>: <a class='kom' href='#I2koe-25-18'>2.&nbsp;Kö&nbsp;25,18</a>.
+ }
+#}
+#jer-37-4 {
+ {
+  <i>Jeremia noch nicht im Gefängis</i> vgl §jer-32-2
  }
 #}
 #jer-37-5 {
@@ -54525,7 +54562,7 @@
   Die Rache seines → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel[Tempels], vgl §jer-50-28
  }
  {
-  Vgl §jes-13-17, §dan-9-1
+  Die <i>Meder</i> werden Babylon erobern, vgl §jes-13-17. Dies ist unter Daniel eingetroffen in §dan-6-1 und §dan-9-1.
  }
 #}
 #jer-51-13 {
@@ -56691,7 +56728,9 @@
 #}
 #dan-1-8 {
  {
-  Daniel möchte sich nicht mit <i>Wein</i> verunreinigen; Nehemia, der Mundschenk des Königs (§neh-1-11) gibt dem König Wein (§neh-2-1).
+  Daniel möchte sich nicht mit <i>Wein</i> verunreinigen: §dan-10-3.
+<br>
+  Vgl mitNehemia, dem Mundschenk des Königs (§neh-1-11). Er gibt dem König Wein (§neh-2-1).
  }
 #}
 #dan-1-12 {
@@ -56726,10 +56765,10 @@
 #}
 #dan-1-21 {
  {
-   Vgl <a href='http://bibel.renenyffenegger.ch/dan_6.html#v29'>Dan&nbsp;6,29</a> (Daniel geht es gut unter Kyrus),
-   und <a href='http://bibel.renenyffenegger.ch/dan_10.html#v1'>Dan&nbsp;10,1</a> (Im dritten Jahr des Kyrus): Wo war Daniel nach dem ersten
-   Jahr des Kyrus?
-   <br>Vgl auch <i>erstes Jahr des Kyrus</i> in <a class='kom' href='#I2chr-36-22'>2.&nbsp;Chr&nbsp;36,22</a>.
+   Vgl §dan-6-29 («Daniel hatte Gedeihen unter der Regierung … des Kores', des Persers»)
+   und §dan-10-1 («Im dritten Jahr Kores', des Königs von Persien»)
+  <br>
+   Vgl auch <i>erstes Jahr des Kores</i> in §+2chr-36-22.
  }
 #}
 @}
@@ -57056,12 +57095,22 @@
 @Daniel 6 {
 #dan-6-1 {
  {
-  <i>Darius</i>: §+esr-4-5.
+  <i>Darius, der Meder</i> §dan-11-1.
  <br>
-  <i>Darius, der Meder</i> §dan-11-1
+  Vgl mit Darius, dem <i>Perser</i>: §+esr-4-5, §neh-12-22
+
  }
  {
   Beachte, dass die Zahl 62 auch in §dan-9-25-26 vorkommt.
+ }
+ {
+  Darius, der <i>Meder</i>, bekam das Königreich. Vgl. mit den Prophezeiungen in §jes-13-17 und §jer-51-11/§jer-51-28.
+ }
+ {
+  TODO: In der → biblisches/Grundtext/LXX[Septuaginta] kommt hier auch <span class='gr'>αρταξερξης</span> (also Artaxerxes) vor, siehe
+   <a href='https://biblebento.com/index.html?lxx1i&340.6.1'>Interlinearübersetzung</a>.
+  <br>
+   Vgl mit §dan-11-1, wo Darius mit «Kyros» übersetzt wird.
  }
 #}
 #dan-6-2 {
@@ -57098,6 +57147,11 @@
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder,
    → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel
+ }
+#}
+#dan-6-29 {
+ {
+  <i>Regierung Kores' des Persers</i> §dan-1-21
  }
 #}
 @}
@@ -57428,14 +57482,15 @@
 #}
 #dan-9-2 {
  {
-   <i>70 Jahre</i>: §+2chr-36-21.
-  <br>
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet → biblisches/Personen/Jeremia vgl §esr-1-1
+   <i>70 Jahre</i>: §jer-25-11, §jer-29-10. Vgl §+2chr-36-21.
  }
  {
-  TODO: In <a href='http://bibel.renenyffenegger.ch/jer_25.html#v11'>Jer 25,11-12</a> wird eine 70 jährige Herrschaft des Königs von Babel angekündigt. Mit
+  Das Wort des → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] → biblisches/Personen/Jeremia vgl §esr-1-1
+ }
+ {
+  TODO: In §jer-25-11-12 wird eine 70 jährige Herrschaft des Königs von Babel angekündigt. Mit
   Darius (Vers 1) ist diese vorbei. Möglicherweise fragt sich Daniel hier, ob diese 70 Jahre wirklich schon vorbei sind, und was jetzt passieren soll.
-  <br>TODO: Vielleicht weiss aber Daniel auch nicht, wann die 70 Jahre von <a href='http://bibel.renenyffenegger.ch/jer_29.html#v10'>Jer&nbsp;29,10</a> begonnen haben.
+  <br>TODO: Vielleicht weiss aber Daniel auch nicht, wann die 70 Jahre von §jer-29-10 begonnen haben.
  }
  {
   <i>Wort Jehovas</i>: Vgl mit dem »ausgegangenen Wort« in §Vdan-9-23 und dem »Ausgehen des Wortes« in §Vdan-9-25.
@@ -57549,7 +57604,8 @@
   <i>Gesalbten</i>: Elberfelder übersetzt mit »Messias«. Ebenso §Vdan-9-26.
  }
  {
-  <i>Ausgehen des Wortes</i> vgl §+Vdan-9-2 und §Vdan-9-23.
+  <i>Ausgehen des Wortes</i> (<span class='hebr'>מִן־מֹצָ֣א דָבָ֗ר</span>): Schlachter übersetzt mit «Vom Erlaß des Befehls», KJV mit «from the going forth of the commandment».
+  Vgl §+Vdan-9-2 und §Vdan-9-23
  }
  {
   TODO: Angeblich fehlt im Grundtext der Artikel vor »Messias«, so dass mit »ein Gesalbter« übersetzt werden müsste.
@@ -57591,8 +57647,9 @@
 @Daniel 10 {
 #dan-10-1 {
  {
-  <i>Im dritten Jahr des Kyrus</i>, beachte: Daniel bleibt bis zum ersten Jahr des Kyrus (§+dan-1-21).
-   <br>Kyrus erlaubt den Juden in seinem ersten Jahr, wieder nach Jerusalem zu ziehen (§esr-1-1-ff). Da Daniel nur bis zum ersten Jahr des Kyrus geblieben ist, scheint es naheliegend,
+  <i>Im dritten Jahr des Kores</i>
+ <br>
+   Kyrus erlaubt den Juden in seinem ersten Jahr, wieder nach Jerusalem zu ziehen (§esr-1-1-ff). Da Daniel nur bis zum ersten Jahr des Kyrus geblieben ist (§dan-1-21), scheint es naheliegend,
    dass Daniel diese offenbarte Sache wieder in Israel erhielt.
  }
 #}
@@ -57601,6 +57658,11 @@
    Im Hebräischen folgt der Woche (<span class='hebr'>שָׁבֻעִ֖ים</span>) noch Tag (<span class='hebr'>יָמִֽים</span>).
    Ebenso in <a href='http://bibel.renenyffenegger.ch/dan_10.html#v3'>Vers 3</a>. Dies im Gegensatz zu
    <a href='http://bibel.renenyffenegger.ch/dan_9.html#v24'>Dan 9,24-27</a>.
+ }
+#}
+#dan-10-3 {
+ {
+  <i>Kein Wein kam in meinen Mund</i>: §dan-1-8
  }
 #}
 #dan-10-5 {
@@ -57677,6 +57739,12 @@
 #dan-11-1 {
  {
   <i>Darius, der Meder</i>: §dan-6-1
+ <br>
+   Die → biblisches/Grundtext/LXX[Septuaginta] übersetzt Darius <span class='gr'>κυρος</span> übersetzt (also Kyros od. Kores),
+   siehe <a href='https://biblebento.com/index.html?lxx1i&340.11.1'>Interlinearübersetzung</a>.
+ }
+ {
+  TODO: Betreffend Übersetzung, vgl dan-6-1
  }
 #}
 #dan-11-3 {
@@ -73302,7 +73370,7 @@
  {
   <i>Das Wort wurde Fleisch</i>: → biblisches/Bücher/Evangelien#ev-geburt-jesu[Die Geburt Jesu Christi in den Evangelien]
  <br>
-  Vgl §1tim-3-16 («geoffenbart im Fleisch»)
+  Vgl §1tim-3-16 («geoffenbart im Fleisch»), §1joh-4-2
  }
  {
   <i>Das Wort wohnte unter uns</i>. In §Vjoh-1-39 kommt Andreas und der andere Jünger um zu sehen, wo
@@ -80516,6 +80584,9 @@
   Kann angenommen werden, dass Lydia hinter dieser Unterstützung steht?
  }
  {
+  TODO: Vgl <i>Lydia</i> mit den Lydern, dem Volk das in der Landschaft Lydien im Westen Kleinasiens lebte.
+ }
+ {
   TODO: Wie hat sich Lydia bekehrt?
  }
 #}
@@ -85676,7 +85747,7 @@
 #}
 #1kor-1-29 {
  {
-  Vgl §2kor-11-18, §gal-6-13
+  Vgl §2kor-11-18, §gal-6-13, §phil-3-3
  }
 #}
 #1kor-1-30 {
@@ -91556,6 +91627,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-3-3 {
  {
+  Vgl §1kor-1-29
+ }
+ {
   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/jer_17.html#v5'>Jer&nbsp;17,5</a>.
  }
 #}
@@ -94357,7 +94431,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <span class='gt'>In NA steht «er» statt «Gott».</span>
  }
  {
-  <i>geoffenbart im Fleisch, gerechtfertigt im Geist</i>: vgl §roem-1-3-4, §joh-1-14 («Das Wort wurde Fleisch»)
+  <i>geoffenbart im Fleisch, gerechtfertigt im Geist</i>: vgl §roem-1-3-4, §joh-1-14 («Das Wort wurde Fleisch»), §1joh-4-2
  }
  {
   Was bedeutet <i>geglaubt in der Welt</i> hier?
@@ -100698,6 +100772,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Geist</i>: <a class='kom' href='#I1joh-3-24'>1.&nbsp;Joh&nbsp;3,24</a>.
+ }
+#}
+#1joh-4-2 {
+ {
+  <i>Jesus Christum im Fleisch gekommen</i> vgl §joh-1-14, §1tim-3-16
  }
 #}
 #1joh-4-3 {
