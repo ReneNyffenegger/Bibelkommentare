@@ -75046,6 +75046,14 @@
  {
   <i>Menschenmörder</i> §1joh-3-15, vgl mit §1tim-1-9 (andere Strongs Nummer)
  }
+ {
+  <i>ein Menschenmörder von Anfang</i> vgl §1joh-3-8
+ }
+#}
+#joh-8-45 {
+ {
+  Vgl §2thes-2-10, §offb-22-15
+ }
 #}
 #joh-8-48 {
  {
@@ -79533,10 +79541,10 @@
   Erfüllung von §mt-10-34?
  }
  {
-  Dieser Jakobus ist nicht derselbe, der in §apg-21-18 noch lebt.
+  Ein anderer → biblisches/Personen/Jakobus wird in §apg-21-18 erwähnt.
  }
  {
-  Falls dieser Jakobus ein Apostel war, wurde kein Ersatz mehr für diesen Apostel gesucht (§apg-1-15-26).
+  Falls dieser Jakobus ein Apostel war, wurde kein Ersatz mehr für diesen Apostel gesucht (vgl §apg-1-15-26).
  }
  {
   TODO: Vgl §+gal-2-9.
@@ -81775,6 +81783,11 @@
   Hier ist das letzte Vorkommen von 'Jünger' in der Bibel. <a class='kom' href='#Imt-5-1'>Mt&nbsp;5,1</a>
  }
 #}
+#apg-21-18 {
+ {
+  → biblisches/Personen/Jakobus
+ }
+#}
 #apg-21-19 {
  {
   Der → biblisches/Personen/Paulus#dienst-von-paulus[Dienst von Paulus] war «das Evangelium der Gnade Gottes zu bezeugen», §apg-20-24.
@@ -82692,6 +82705,9 @@
 #apg-28-31 {
  {
   <i>Das Reich Gottes → biblisches/Eigene-Uebersetzung/Konkordanz/predigen</i>: §+apg-20-25.
+ }
+ {
+  TODO: Weil die Apostelgeschichte abrupt und ohne «Amen» aufhört, nehmen einige an, dass sie nicht fertiggestellt wurde oder das die folgende Teile verlorengingen.
  }
  {
   TODO: <i>freimütigkeit</i>: <a class='kom' href='#Iapg-2-29'>Apg&nbsp;2,29</a>.
@@ -83863,7 +83879,7 @@
 #}
 #roem-7-2 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1kor_7.html#v39'>1.&nbsp;Kor&nbsp;7,39</a>.
+  <i>Die Verheiratete Frau ist … an den Mann gebunden</i> Vgl §1kor-7-27, §1kor-7-39
  }
  {
   Was ist das <i>Gesetz des Mannes</i>?
@@ -85233,6 +85249,10 @@
  {
   <i>versiegelt</i>: <span class='gr'>σφραγίζω</span> (Strongs 4972), in Schlachter 2K mit «gesichert» übersetzt.
  }
+ {
+  Weil Paulus in §kol-1-23 schreibt, dass das Evangelium «der ganzen Schöpfung, die unter dem Himmel ist, gepredigt wurde», nehmen einige Ausleger an, dass Paulus vor der Abfassung
+  → biblisches/Bücher/Paulus/Kolosser[Kolosserbriefes] in Spanien war.
+ }
 #}
 #roem-15-29 {
  {
@@ -85726,7 +85746,7 @@
 #}
 #1kor-1-23 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/predigen, beachte: hier wird der <i>Gerkeuzigte</i> verkündigt, in §1kor-15-12, dass Er «aus den Toten auferstanden ist».
+  → biblisches/Eigene-Uebersetzung/Konkordanz/predigen, beachte: hier wird der <i>Gekreuzigte</i> verkündigt, in §1kor-15-12, dass Er «aus den Toten auferstanden ist».
  }
  {
   <i>gekreuzigt</i> §V1kor-1-13, §1kor-2-2
@@ -86626,7 +86646,7 @@
 #}
 #1kor-7-39 {
  {
-  Vgl <a class='kom' href='#Iroem-7-2'>Röm&nbsp;7,2</a>.
+  <i>Eine Frau ist gebunden, so lange Zeit ihr Mann lebt</i> Vgl §+roem-7-2.
  }
 #}
 #1kor-7-40 {
@@ -88138,7 +88158,10 @@
 #}
 #2kor-1-19 {
  {
-   → biblisches/Personen/Silvanus-Silas, → biblisches/Personen/Timotheus/index, → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
+  → biblisches/Personen/Silvanus-Silas, → biblisches/Personen/Timotheus
+ }
+ {
+  <i>Jesus, der durch uns → biblisches/Eigene-Uebersetzung/Konkordanz/predigen[gepredigt] wurde</i> vgl §2kor-4-5, §2kor-11-4
  }
 #}
 #2kor-1-21 {
@@ -88367,7 +88390,7 @@
 #}
 #2kor-4-5 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
+  <i>Wir → biblisches/Eigene-Uebersetzung/Konkordanz/predigen nicht uns selbst, sondern Christus Jesus als Herrn</i>, vgl §+2kor-1-19
  }
 #}
 #2kor-4-6 {
@@ -88872,7 +88895,8 @@
 #}
 #2kor-11-4 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
+  <i>wenn der, welcher kommt, einen anderen Jesus → biblisches/Eigene-Uebersetzung/Konkordanz/predigen[predigt], den wir nicht gepredigt haben</i> vgl §+2kor-1-19
+  
  }
  {
   <i>anderes → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium</i>: §gal-1-6-9
@@ -89411,9 +89435,6 @@
 #}
 #gal-2-9 {
  {
-  Beachte, <i>Jakobus</i>, der Bruder des Johannes wurde in <a href='http://bibel.renenyffenegger.ch/apg_12.html#v2'>Apg&nbsp;12,2</a> getötet.
- }
- {
   Paulus wirkt unter den Heiden: <a class='kom' href='#Iapg-13-46'>Apg&nbsp;13,46</a>, <a class='kom' href='#Iapg-17-1'>Apg&nbsp;17,1</a>.
   Vgl <a class='kom' href='#Imt-28-19'>Mt&nbsp;28,19</a>.
  }
@@ -89424,7 +89445,11 @@
   → biblisches/Personen/Johannes/Apostel-der-Beschneidung[Johannes, Apostel der Beschneidung], → biblisches/Personen/Jakobus/Apostel-der-Beschneidung[Jakobus, Apostel der Beschneidung]
  }
  {
-  Beachte, in §apg-21-18-19 trifft → biblisches/Personen/Paulus Jakobus ein weiteres Mal und erzählt im, was «was Gott unter den Nationen durch seinen Dienst getan hatte».
+  In §apg-21-18-19 trifft → biblisches/Personen/Paulus einen → biblisches/Personen/Jakobus und erzählt im, was «was Gott unter den Nationen durch seinen Dienst getan hatte».
+ <br
+  Ein anderer → biblisches/Personen/Jakobus, der Bruder des Johannes, wurde in §apg-12-2 getötet.
+ <br>
+  TODO: Welcher Jakobus ist nun welcher?
  }
 #}
 #gal-2-10 {
@@ -91139,6 +91164,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Helm des Heils</i> vgl §ps-18-3, §jes-59-17
  }
 #}
+#eph-6-18 {
+ {
+  Vgl Verse 18-20 mit §kol-4-3-4
+ }
+#}
 #eph-6-19 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium
@@ -91790,6 +91820,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Wer ist Dich?
  }
+ {
+  Offenbar identifizierte → Geschichte/Kirche/Personen/Origenes den hier erwähnten Clemens mit → Geschichte/Kirche/Personen/Väter/Clemens-von-Rom.
+ }
 #}
 #phil-4-4 {
  {
@@ -91970,7 +92003,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-1-6 {
  {
-  Vgl das Evangelium, <i>das in der ganzen Welt Frucht bringt</i> mit dem Evangelium, das <i>in der ganzen Welt verkündigt worden ist</i> (Vers 23).
+  Vgl das Evangelium, <i>das in der ganzen Welt Frucht bringt</i> mit dem Evangelium, das <i>in der ganzen Welt verkündigt worden ist</i>, §Vkol-1-23
  }
 #}
 #kol-1-7 {
@@ -92105,6 +92138,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium, das der ganzen Schöpfung gepredigt worden ist</i> vgl §+mk-16-15, §1tim-3-16, §Vkol-1-6, §roem-16-26
+ <br>
+  Wegen dieser Aussage nehmen einige Auslege an, dass Paulus vor der Abfassung des → biblisches/Bücher/Paulus/Kolosser[Kolosserbriefes] in Spanien war (§roem-15-23-ff).
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, vgl §Vkol-1-5
@@ -92550,7 +92585,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>vgl Vers <a href='http://bibel.renenyffenegger.ch/kol_4.html#v18'>Vers 18</a>.
  }
  {
-  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index des Christus</i>: §+eph-3-4.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis des Christus</i>: §+eph-3-4.
+ }
+ {
+  Vgl Verse 3-4 mit §eph-6-18-20
  }
 #}
 #kol-4-7 {
@@ -94181,6 +94219,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Lehrer der Nationen</i> vgl → biblisches/Personen/Nikodemus, der »Lehrer Israels« genannt wird (§joh-3-10).
  }
+ {
+  <i>Bestellt als Herold und Apostel</i> vgl §2tim-1-11
+ }
 #}
 #1tim-2-8 {
  {
@@ -94998,6 +95039,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, der Apostel der Nationen]
  }
+ {
+  <i>Bestellt als Herold und Apostel</i> vgl §1tim-2-7
+ }
 #}
 #2tim-1-13 {
  {
@@ -95026,10 +95070,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Gehörte → biblisches/Personen/Johannes auch zu den Personen, die sich von → biblisches/Personen/Paulus ab. Er scheint ja zu der Zeit der Abfassung des 2. Timotheusbriefes in Asien gewesen zu sein.
  }
+ {
+  <i>alle haben sich abgewandt</i> vgl §2tim-4-11
+ }
 #}
 #2tim-1-16 {
  {
-   → biblisches/Personen/Paulus/Gefangener
+  → biblisches/Personen/Paulus/Gefangener
  }
  {
   Onesiphorus: §2tim-4-19
@@ -95488,7 +95535,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: <i>Markus</i>: <a class='kom' href='#Iapg-13-5'>Apg&nbsp;13,5</a>.
  }
  {
-  → biblisches/Personen/Lukas
+  → biblisches/Personen/Lukas ist allein bei mir, vgl §2tim-1-15
  }
  {
   Hier ist Markus nützlich zum Dienst, in §phim-1-11 wird Onesimus als «nützlich» bezeichnet.
@@ -95507,7 +95554,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-4-13 {
  {
-   TODO: Vielleicht hatte Paulus nur noch wenig Besitz und er benötigte den Reisemantel vor dem Winter (Vers 21).
+   Möglierweise war das Gefängnis, aus dem Paulus den → biblisches/Bücher/Paulus/Timotheus/2[2. Timotheusbrief] schrieb, nicht geheizt, und
+   Paulus benötigte den Reisemantel für den Winter, §V2tim-4-21 (vgl → biblisches/Personen/Paulus/Gefangener[der gefangene Paulus]).
  }
 #}
 #2tim-4-14 {
@@ -95566,7 +95614,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-4-21 {
  {
-  <i>Befleissige dich, vor dem Winter zu kommen</i> vgl §V2tim-4-9
+  <i>Befleissige dich, vor dem Winter zu kommen</i> vgl §V2tim-4-9, §V2tim-4-13.
  }
 #}
 #2tim-4-22 {
@@ -100479,18 +100527,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1joh-2-7 {
  {
-  <b>Von Anfang an</b>: <ul>
-    <li>ein altes Gebot, das ihr von Anfang an hattet: das Wort, das ihr von Anfang an gehört habt (<a href='http://bibel.renenyffenegger.ch/1joh_2.html#v7'>1.&nbsp;Joh&nbsp;2,7</a>)
-    <li>was ihr von Anfang an gehört habt, bleibe in euch &#x2192; dann werdert ihr im Sohn und im Vater bleiben
-      (<a href='http://bibel.renenyffenegger.ch/1joh_2.html#v24'>1.&nbsp;Joh&nbsp;2,24</a>)
-    <li>weil ihr den erkannt habt, der von Anfang an ist
-      (<a href='http://bibel.renenyffenegger.ch/1joh_2.html#v13'>1.&nbsp;Joh&nbsp;2,13-14</a>)
-    <li>der Teufel sündigt von Anfang an
-       (<a href='http://bibel.renenyffenegger.ch/1joh_3.html#v8'>1.&nbsp;Joh&nbsp;3,8</a>)
-    <li>die Botschaft, die ihr von Anfang an gehört habt: dass wir einander lieben sollen
-    <li>kein neues Gebot, sondern das, welches wir von Anfang an gehabt haben: dass wir einander lieben (<a href='http://bibel.renenyffenegger.ch/2joh_1.html#v5'>2.&nbsp;Joh&nbsp;1,5-6</a>)
-  </ul>
-  Vgl auch mit <a class='kom' href='#I1joh-1-1'>1.&nbsp;Joh&nbsp;1,1</a>.
+   → biblisches/Bücher/jüdische-Briefe/Johannes#joh-brief-von-anfang-an[Johannes-Briefe: Von Anfang an]
  }
 #}
 #1joh-2-8 {
@@ -100556,6 +100593,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <a href='http://bibel.renenyffenegger.ch/1joh_5.html#v4'>1. Joh 5,4/5</a>.
   <br>Vgl mit <a class='kom' href='#Ioffb-2-7'>Offb&nbsp;2,7</a>
  }
+ {
+   → biblisches/Bücher/jüdische-Briefe/Johannes#joh-brief-von-anfang-an[Johannes-Briefe: Von Anfang an]
+ }
 #}
 #1joh-2-14 {
  {
@@ -100619,6 +100659,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Wer ist … wenn nicht der …</i> vgl §1joh-5-5
+ }
+#}
+#1joh-2-24 {
+ {
+   → biblisches/Bücher/jüdische-Briefe/Johannes#joh-brief-von-anfang-an[Johannes-Briefe: Von Anfang an]
  }
 #}
 #1joh-2-27 {
@@ -100697,10 +100742,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
+ {
+   → biblisches/Bücher/jüdische-Briefe/Johannes#joh-brief-von-anfang-an[Johannes-Briefe: Von Anfang an],
+   vgl §joh-8-44
+ }
 #}
 #1joh-3-11 {
  {
   <i>Dies ist die Botschaft</i> §1joh-1-4
+ }
+ {
+   → biblisches/Bücher/jüdische-Briefe/Johannes#joh-brief-von-anfang-an[Johannes-Briefe: Von Anfang an], vgl §2joh-1-5
  }
 #}
 #1joh-3-12 {
@@ -100992,7 +101044,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2joh-1-5 {
  {
-    <i>Von Anfang an</i>: Vgl <a class='kom' href='#I1joh-2-7'>1.&nbsp;Joh&nbsp;2,7</a>
+  → biblisches/Bücher/jüdische-Briefe/Johannes#joh-brief-von-anfang-an[Johannes-Briefe: Von Anfang an], vgl §1joh-3-11
  }
 #}
 #2joh-1-8 {
@@ -102273,6 +102325,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-5-2 {
  {
   <i>Ein starker Engel</i> mit einem <i>versiegelten Buch</i>: Vgl §offb-10-2, wo ein «anderer Starker Engel» ein «geöffnetes Büchlein» hat. 
+ }
+ {
+  <i>ausrief</i>: oder «predigte» (Strongs 2784).
  }
 #}
 #offb-5-4 {
@@ -105459,7 +105514,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-22-15 {
  {
-  <i>Die Lüge lieben</i> vgl «Die Liebe zur Wahrheit nicht annehmen» §2thes-2-10
+  <i>Die Lüge lieben</i> vgl «Die Liebe zur Wahrheit nicht annehmen» §2thes-2-10, §joh-8-45
  }
  {
   Vgl <a class='kom' href='#Ioffb-21-8'>Offb&nbsp;21,8</a>.
