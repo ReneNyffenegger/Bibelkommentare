@@ -226,6 +226,9 @@
   → biblisches/Bücher/Mose/1/Schöpfung/Tag-3
  }
  {
+  <i>an einen Ort</i>: <span class='hebr'>אֶל־מָק֣וֹם אֶחָ֔ד</span>, wörtlich «Ort eins», vgl. <i>Tag eins</i>, §V1mo-1-5
+ }
+ {
   TODO: <a class='kom' href='#Ips-104-6'>Ps&nbsp;104,6</a>.
  }
 #}
@@ -49121,6 +49124,9 @@
  {
   <i>Ein Überrest wird sich bekehren</i> (<span class='hebr'>שְׁאָ֥ר יָשׁ֖וּב</span>, Strongs 7605+7725), vgl <a class='kom' href='#Ijes-7-3'>Jes&nbsp;7,3</a>.
  }
+ {
+  <i>festbeschlossene Vertilgung</i>: vgl §dan-9-26-7
+ }
 #}
 #jes-10-22 {
  {
@@ -49779,11 +49785,6 @@
   TODO: <i>Kir</i>: <a class='kom' href='#I2koe-16-9'>2.&nbsp;Kö&nbsp;16,9</a>.
  }
 #}
-#jes-22-10 {
- {
-  <i>festbeschlossene Vertilgung</i>: vgl §dan-9-26-27
- }
-#}
 #jes-22-11 {
  {
   <i>seit langem bereitet</i>: vgl
@@ -50349,8 +50350,10 @@
 #}
 #jes-34-6 {
  {
+  §jes-63-1: «Wer kommt von Edom, von Bozra»
+ }
+ {
   TODO <i>Bozra</i> (=schafhürde, Strongs 1224), <a class='kom' href='#I1mo-36-33'>1.&nbsp;Mo&nbsp;36,33</a>.
-  <br><a href='http://bibel.renenyffenegger.ch/jes_63.html#v1'>Jes&nbsp;63,1</a>: 'Wer kommt von Edom, von Bozra'?
  }
 #}
 #jes-34-8 {
@@ -51701,7 +51704,7 @@
 @Jesaja 63 {
 #jes-63-1 {
  {
-  Das HERR hält ein Schlachtopfer in Bozra (<a class='kom' href='#Ijes-34-6'>Jes&nbsp;34,6</a>).
+  Das HERR hält ein Schlachtopfer in Bozra, §+jes-34-6
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Edom/index#gericht-ueber-edom
@@ -56880,7 +56883,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/König/der-Könige
  }
  {
-  Gott Hat Nebukadnezar das Königtum gegeben, vgl mit §esr-1-2, wo Kores sagt, «Alle Königreiche der Erde hat der HERR … mir gegeben»,
+  Gott hat Nebukadnezar das Königtum gegeben, vgl mit §esr-1-2, wo Kores sagt, «Alle Königreiche der Erde hat der HERR … mir gegeben»,
   und mit §jes-45-1, wo der HERR Kores' Rechte ergriffen hat, um Nationen vor ihm niederzuwerfen.
  }
 #}
@@ -57622,7 +57625,7 @@
   <i>Krieg</i>: vgl §mt-24-6, §lk-21-9 (nicht das Ende)
  }
  {
-  <i>Festbeschlossenes und Verwüstungen</i>: §+jes-22-10
+  <i>Festbeschlossenes und Verwüstungen</i>: §+jes-10-22
  }
 #}
 #dan-9-27 {
@@ -93675,6 +93678,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+ }
+ {
+  TODO: <a href='https://www.askelm.com/restoring/res019.htm'>askelm.com</a>: Since it is clear in Paul’s comments that he had been giving the
+  Thessalonians a commentary on the prophecies of Daniel, the only «hinderers» mentioned in Daniel’s prophecies were angelic powers who had control over the
+  nations, especially those directing affairs within the world empires mentioned in Daniel.
+  <br>
+   This «thing» that hindered was no doubt the Roman Empire (or the angelic personality ruling that Empire).
  }
 #}
 #2thes-2-7 {
