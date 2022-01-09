@@ -62981,6 +62981,11 @@
   <i>böses Geschlecht</i> §Vmt-12-39
  }
 #}
+#mt-12-46 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Verwandtschaft
+ }
+#}
 #mt-12-48 {
  {
   <i>Wer ist Meine Mutter…</i> vgl §+mk-3-21
@@ -63274,7 +63279,10 @@
   → biblisches/Personen/Jakobus#jakobus-bruder-des-herrn[Jakobus, der Bruder des Herrn]:
  }
  {
-   <i>Zimmermann</i>: vgl <a href='http://bibel.renenyffenegger.ch/mk_6.html#v3'>Mk&nbsp;6,3</a>.
+  <i>Zimmermann</i>: vgl <a href='http://bibel.renenyffenegger.ch/mk_6.html#v3'>Mk&nbsp;6,3</a>.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Verwandtschaft
  }
  {
   TODO: Ist dieser <i>Judas</i> der Autor des Judasbriefes (<a class='kom' href='#Ijud-1-1'>Jud&nbsp;1,1</a>)?
@@ -64562,6 +64570,14 @@
 #mt-22-23 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer
+ }
+#}
+#mt-22-25 {
+ {
+  §mk-12-20
+ }
+ {
+  Sieben Brüder plus fünf Brüder (§lk-16-28) machen zusammen 12 Brüder. Die Auferstehung aus den Toten spielt sowohl hier (§Vmt-22-28) wie auch dort (§lk-16-31) eine gewisse Rolle.
  }
 #}
 #mt-22-33 {
@@ -66610,6 +66626,9 @@
  {
   Vgl §mt-12-48: «Wer ist meine Mutter, und wer sind meine Brüder?», §mk-3-32
  }
+ {
+  Seine Angehörige wollten ihn greifen, vgl §joh-7-5
+ }
 #}
 #mk-3-22 {
  {
@@ -66665,6 +66684,11 @@
 #mk-3-30 {
  {
   Beachte: Hier wird der Herr angeklagt, dass er einen <i>unreinen Geist</i> hätte. Das erste Wunder des Herrn im Markusevanglium ist die Austreibung eines unreinen Geistes, §mk-1-23-ff.
+ }
+#}
+#mk-3-31 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Verwandtschaft
  }
 #}
 @}
@@ -67979,6 +68003,11 @@
   §mt-22-22
  }
 #}
+#mk-12-20 {
+ {
+  §mt-22-25
+ }
+#}
 #mk-12-26 {
  {
   §2mo-3-6
@@ -68659,6 +68688,9 @@
  }
 #}
 #mk-15-47 {
+ {
+  Sie sahen zu, <i>wo er hingelegt wurde</i> vgl §joh-20-2, §joh-20-13
+ }
  {
   <i>zusehen</i> vgl §Vmk-15-40
  }
@@ -70645,6 +70677,11 @@
   Vgl §lk-10-21
  }
 #}
+#lk-8-19 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Verwandtschaft
+ }
+#}
 #lk-8-21 {
  {
   §lk-6-47
@@ -71820,6 +71857,9 @@
    <a href='Mittagessen.html'>Mittagessen</a>
   (Auch Verse 16, 17 und 24).
  }
+ {
+  <i>… noch deine Brüder, noch dein Verwandten …</i> vgl §Vlk-14-26
+ }
 #}
 #lk-14-21 {
  {
@@ -71827,6 +71867,11 @@
  }
  {
   <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
+ }
+#}
+#lk-14-26 {
+ {
+  <i>…seine Brüder und Schwestern</i> Vgl §Vlk-14-12
  }
 #}
 #lk-14-27 {
@@ -71984,6 +72029,11 @@
  {
   <i>Sohn</i>: <span class='gr'>τέκνον</span> (Strongs 5043). Vgl mit «Sohn» in <a href='http://bibel.renenyffenegger.ch/lk_19.html#v9'>Lk&nbsp;19,9</a>
   (<span class='gr'>υἱός </span>, Strongs 5207).
+ }
+#}
+#lk-16-28 {
+ {
+  Fünf Brüder plus sieben Brüder (§mt-22-25, §mk-12-20) machen zusammen 12 Brüder. Die Auferstehung aus den Toten spielt sowohl hier (§Vlk-16-31) wie auch dort (§mt-22-28) eine gewisse Rolle.
  }
 #}
 #lk-16-29 {
@@ -72178,6 +72228,11 @@
 #lk-18-27 {
  {
   §lk-1-37
+ }
+#}
+#lk-18-29 {
+ {
+  <i>Haus oder Eltern oder Brüder oder Frau oder Kinder verlassen</i> vgl §lk-21-16
  }
 #}
 #lk-18-30 {
@@ -72524,7 +72579,10 @@
 #lk-21-16 {
  {
   Offenbar werden Seine Jünger von <i>Eltern und Brüdern und Verwandten und Freunden überliefert</i> werden, weil man meint, sie sprächen
-  »Laß uns gehen und anderen Göttern dienen (die du nicht gekannt hast, du noch deine Väter …« §5mo-13-7-11
+  »Laß uns gehen und anderen Göttern dienen (die du nicht gekannt hast, du noch deine Väter …» §5mo-13-7-11
+ }
+ {
+  <i>von Eltern und Brüdern und Verwandten und Freunden überliefert werden</i> vgl §lk-18-29
  }
 #}
 #lk-21-18 {
@@ -73104,6 +73162,11 @@
   <i>strahlend</i>: <span class='gr'>ἀστράπτω</span> (Strongs 797, 2x): dasselbe Wort wird in §lk-17-24 mit «blitzend leuchten» übersetzt.
  }
 #}
+#lk-24-5 {
+ {
+  <i>Was sucht ihr den Lebendigen unter den Toten</i> §offb-1-18
+ }
+#}
 #lk-24-6 {
  {
    <i>Galiläa</i>: §+mt-17-22.
@@ -73138,7 +73201,7 @@
 #}
 #lk-24-18 {
  {
-  <i>Kleopas</i>: einziges Vorkommen. Vgl aber mit Klopas in <a href='http://bibel.renenyffenegger.ch/joh_19.html#v25'>Joh&nbsp;19,25</a>.
+  <i>Kleopas</i>: einziges Vorkommen. Vgl aber mit Klopas in §joh-19-25.
  }
 #}
 #lk-24-21 {
@@ -73763,7 +73826,7 @@
 #}
 #joh-2-12 {
  {
-  → biblisches/Orte/Kapernaum
+  → biblisches/Orte/Kapernaum, → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Verwandtschaft
  }
  {
   <i>Wenige Tage</i>: §+joh-1-29.
@@ -74682,6 +74745,11 @@
   vor ('Wenn ihr in meinem Wort bleibt')
  }
 #}
+#joh-6-67 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12
+ }
+#}
 #joh-6-68 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
@@ -74723,6 +74791,9 @@
  }
 #}
 #joh-7-5 {
+ {
+  <i>Seine Brüder glaubten nicht an ihn</i>, vgl §mk-3-21
+ }
  {
   Gehörte → biblisches/Personen/Jakobus#jakobus-bruder-des-herrn[Jakobus, der Bruder des Herrn] auch zu diesen Brüdern, die nicht an den Herrn glaubten?
  }
@@ -76639,6 +76710,9 @@
  {
   Die <i>Schwester seiner Mutter</i> war möglicherweise Salome, §mk-15-40.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Verwandtschaft
+ }
 #}
 #joh-19-26 {
  {
@@ -76749,9 +76823,19 @@
   <i>Erster Tag der Woche</i>: <a class='kom' href='#Imt-28-1'>Mt&nbsp;28,1</a>.
  }
 #}
+#joh-20-2 {
+ {
+  <i>ich weiss nicht, wo sie ihn hingelegt haben</i> vgl §Vjoh-20-13, §mk-15-47
+ }
+#}
 #joh-20-9 {
  {
   Vgl §lk-24-45-46
+ }
+#}
+#joh-20-13 {
+ {
+  <i>ich weiss nicht, wo sie ihn hingelegt haben</i> vgl §Vjoh-20-2, §mk-15-47
  }
 #}
 #joh-20-14 {
@@ -76798,6 +76882,11 @@
 #joh-20-23 {
  {
   Vgl §mt-16-19
+ }
+#}
+#joh-20-24 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12
  }
 #}
 #joh-20-25 {
@@ -79342,6 +79431,9 @@
  }
  {
   <i>nicht dem genzen Volk</i> §+mt-12-40
+ }
+ {
+  <i>Richter der Lebendigen und der Toten</i> §2tim-4-1
  }
 #}
 #apg-10-42 {
@@ -87677,14 +87769,17 @@
    besteht ein Grund zur Annahme, dass es sich beim hier erwähnten → biblisches/Personen/Jakobus um den → biblisches/Personen/Jakobus#jakobus-bruder-des-herrn[Bruder des Herrn] handelt.
  }
  {
-  Beachte: hier die «Apostel», in §V1kor-15-5 noch die «Zwölf».
+  Beachte: hier die «→ biblisches/Eigene-Uebersetzung/Konkordanz/Apostel», in §V1kor-15-5 noch die «Zwölf».
   <br>
   Beachte auch, dass Er erst dem → biblisches/Personen/Jakobus, dann erst den Aposteln erschienen ist.
  }
 #}
 #1kor-15-8 {
  {
-  Vgl <a class='kom' href='#I1kor-9-1'>1.&nbsp;Kor&nbsp;9,1</a>.
+  Vgl §+1kor-9-1.
+ }
+ {
+  <i>erschien er auch mir</i> vgl §gal-1-17 «die vor mir Apostel waren».
  }
  {
   <i>Unzeitige Geburt</i> könnte auch mit «Fehlgeburt» (oder «Abort»)  übersetzt werden (Vgl <a class='kom' href='#Ipred-6-3'>Pred&nbsp;6,3</a>).
@@ -89360,10 +89455,10 @@
   er erst das Gesetz kennenlernte, bevor er die Gnade kennenlernte?
  }
  {
-  TODO: Vgl auch <i>Arabien</i> mit der Arava (zB <a href='http://bibel.renenyffenegger.ch/5mo_1.html#v1'>5.&nbsp;Mo&nbsp;1,1</a>).
+  <i>Die vor mir → biblisches/Eigene-Uebersetzung/Konkordanz/Apostel waren</i> vgl §1kor-15-8 
  }
  {
-  TODO: Paulus der 12. Apostel? (<a class='kom' href='#Iapg-1-26'>Apg&nbsp;1,26</a>).
+  TODO: Vgl auch <i>Arabien</i> mit der Arava (zB <a href='http://bibel.renenyffenegger.ch/5mo_1.html#v1'>5.&nbsp;Mo&nbsp;1,1</a>).
  }
 #}
 #gal-1-18 {
@@ -89380,7 +89475,7 @@
   → biblisches/Personen/Jakobus#jakobus-bruder-des-herrn[Jakobus, der Bruder des Herrn]
  }
  {
-  TODO: Eine alternative Übersetzung dieses Verses sei angablich: <i>Other than the apostles I saw no one except James, the Lord’s brother</i>. Diese Alternative würde das Problem lösen, warum
+  TODO: Eine alternative Übersetzung dieses Verses sei angeblich: <i>Other than the apostles I saw no one except James, the Lord’s brother</i>. Diese Alternative würde das Problem lösen, warum
   → biblisches/Personen/Jakobus#jakobus-bruder-des-herrn[Jakobus, der Bruder des Herrn] in den Evangelien nie zu den → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12[12 Jüngern] gerechnet wird.
  }
  {
@@ -95491,7 +95586,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @2. Timotheus 4 {
 #2tim-4-1 {
  {
-  <i>Lebendige und Tote richten</i> §1petr-4-5
+  <i>Lebendige und Tote richten</i> §1petr-4-5, §apg-10-41
  }
  {
   TODO: <i>Vor Gott ernstlich ermahnen</i>: <a class='kom' href='#I1tim-5-21'>1.&nbsp;Tim&nbsp;5,21</a>.
@@ -101763,7 +101858,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>ich bin lebendig von Ewigkeit zu Ewigkeit</i> vgl §5mo-32-40
  }
  {
-  <i>Ich war tot, … und bin lebendig</i> vgl §2koe-5-7
+  <i>Ich war tot, … und bin lebendig</i> vgl §2koe-5-7, §lk-24-5
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/tot-und-lebendig
