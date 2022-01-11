@@ -50686,6 +50686,9 @@
 @Jesaja 42 {
 #jes-42-1 {
  {
+  §mt-12-18
+ }
+ {
   → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §mt-12-18
  }
  {
@@ -61365,7 +61368,11 @@
   <i>Strichlein</i>: <span class='gr'>κεραία</span> (Strongs 2762, 2x), w.: Hörnchen.
  }
  {
-  <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz und die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] erfüllen</i>: <span class='gr'>πληρόω</span> (Strongs 4137) vgl mit «das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes] vollenden» in §kol-1-25.
+  <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz und die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] erfüllen</i>:
+  <span class='gr'>πληρόω</span> (Strongs 4137) vgl mit «das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes] vollenden» in §kol-1-25.
+ }
+ {
+  <i>aufzulösen</i> (<span class='gr'>καταλύω</span>, Strongs 2674): dasselbe Wort wird im Zusammenhang mit dem Tempel mit «abgebrochen» übersetzt: §mt-24-2, §mt-26-61 etc.
  }
 #}
 #mt-5-18 {
@@ -62280,7 +62287,9 @@
  {
   <i>Verlorene Schafe des Hauses Israel</i>: §mt-15-24.
   <br>
-    Beachte: hier schickt der Herr seine Jünger nur ans Haus Israel, in §mt-24-14 wird das Evangelium des Reiches auf dem ganzen Erdkreis gepredigt werden.
+   Beachte: hier schickt der Herr seine Jünger nur ans Haus Israel, in §mt-24-14 wird das Evangelium des Reiches auf dem ganzen Erdkreis gepredigt werden.
+  <br>
+   Vgl §Vmt-10-16
  }
  {
   <i>Haus Israel</i>: vgl auch §apg-2-36.
@@ -62348,8 +62357,12 @@
 #}
 #mt-10-16 {
  {
-  <i>Schafe unter Wölfen</i>: <a class='kom' href='#Imt-7-15'>Mt&nbsp;7,15</a>.
-   Vgl hier Schafe (<span class='gr'>πρόβατον</span>, Strongs 4263), in <a class='kom' href='#Ilk-10-3'>Lk&nbsp;10,3</a> 'Lämmer' (<span class='gr'>ἀρήν</span>, Strongs 704)
+  <i>Schafe unter Wölfen</i>: §+mt-7-15.
+  Vgl hier Schafe (<span class='gr'>πρόβατον</span>, Strongs 4263), in §+lk-10-3 «Lämmer» (<span class='gr'>ἀρήν</span>, Strongs 704)
+ }
+ {
+  Der Herr sendet seine → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12[Jünger] zwar wie Schafe inmitten von Wölfen, sie
+  sollen aber eigentrlich nur(?) zu den verlorenen Schafen des Hauses Israel gehen, §Vmt-10-6, vgl §mt-15-24
  }
 #}
 #mt-10-18 {
@@ -62488,6 +62501,9 @@
  }
  {
   <i>Der Herr macht Blinde sehend</i>: <a class='kom' href='#Ips-146-8'>Ps&nbsp;146,8</a>.
+ }
+ {
+  <i>Armen wird gute Botschaft verkündigt</i>: §lk-4-18
  }
  {
   TODO: <a href='http://bibel.renenyffenegger.ch/jes_35.html#v5'>Jes&nbsp;35,5</a>.
@@ -62776,6 +62792,9 @@
  }
 #}
 #mt-12-18 {
+ {
+  §jes-42-1
+ }
  {
   <i>mein Geliebter, an welchem meine Seele Wohlgefallen</i> vgl §+mk-1-11, §mt-17-5
   <br>
@@ -69839,6 +69858,9 @@
 #}
 #lk-4-18 {
  {
+  Vgl §lk-7-22
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit
  }
  {
@@ -69848,6 +69870,9 @@
  }
  {
   <i>Der Herr macht Blinde sehend</i>: <a class='kom' href='#Ips-146-8'>Ps&nbsp;146,8</a>.
+ }
+ {
+  <i>Armen gute Botschaft zu verkünden</i>: §mt-11-5
  }
  {
   TODO: <i>gesalbt</i>: <span class='gr'>χρίω</span> (Strongs 5548). Kommt noch vor in
@@ -70479,6 +70504,9 @@
  }
 #}
 #lk-7-22 {
+ {
+  Vgl §lk-4-18
+ }
  {
   <i>Der Herr macht Blinde sehend</i>: <a class='kom' href='#Ips-146-8'>Ps&nbsp;146,8</a>.
  }
@@ -71404,7 +71432,8 @@
 #}
 #lk-11-49 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet,
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Apostel
  }
  {
   Vgl §lk-20-9-ff 
@@ -71768,6 +71797,11 @@
  }
  {
   TODO: Schlachter übersetzt mit «Herr, Herr».
+ }
+#}
+#lk-13-27 {
+ {
+  <i>Übeltäter</i>: wörtlich «Arbeiter der Ungerechtigkeit» (<span class='gr'>οι εργαται της αδικιας</span>).
  }
 #}
 #lk-13-28 {
@@ -76301,7 +76335,10 @@
 #}
 #joh-16-13 {
  {
-  <i>Geist der Wahrheit</i>: <a class='kom' href='#Ijoh-14-17'>Joh&nbsp;14,17</a>.
+  <i>Geist der Wahrheit</i>: §+joh-14-17.
+ }
+ {
+  <i>das Kommende wird er euch verkündigen</i>: ist das ein Hinweis auf die → biblisches/Bücher/prophetisch/Offenbarung? Vgl §offb-1-1: «um zu zeigen, was bald geschehen muss».
  }
 #}
 #joh-16-15 {
@@ -76985,6 +77022,11 @@
  {
   Beachte, dass Petrus in <a href='http://bibel.renenyffenegger.ch/1petr_5.html#v1'>1.&nbsp;Petr&nbsp;5,1-4</a> die Ältesten ermahnt,
   die Herde Gottes zu hüten.
+ }
+#}
+#joh-21-18 {
+ {
+  §2petr-1-14
  }
 #}
 #joh-21-19 {
@@ -81738,11 +81780,13 @@
  }
  {
   Den Lauf hat → biblisches/Personen/Paulus in §2tim-4-7 vollendet
-         (nachdem es <i>hier</i> galt, dies zu tun).
-         <br>Auch Johannes hat seinen Lauf vollendet: <a href='http://bibel.renenyffenegger.ch/apg_13.html#v25'>Apg&nbsp;13,25</a>).
-         <br>Es gilt, den Lauf mit <i>Freuden</i> zu vollenden, entsprechend sagt der Herr in <a href='http://bibel.renenyffenegger.ch/apg_23.html#v11'>Apg&nbsp;23,11</a>, Paulus
-     soll getrost sein, wenn er nach Jerusalem auch in Rom Zeugnis ablegen kann oder darf.
-  <br>TODO: <i>Paulus' Dienst</i>: <a class='kom' href='#Iapg-21-19'>Apg&nbsp;21,19</a>,
+  (nachdem es <i>hier</i> galt, dies zu tun).
+  <br>Auch Johannes hat seinen Lauf vollendet: §apg-13-25).
+  <br>Es gilt, den Lauf mit <i>Freuden</i> zu vollenden, entsprechend sagt der Herr in §apg-23-11, Paulus
+  soll getrost sein, wenn er nach Jerusalem auch in Rom Zeugnis ablegen kann oder darf.
+ }
+ {
+  TODO: <i>Paulus' Dienst</i>: <a class='kom' href='#Iapg-21-19'>Apg&nbsp;21,19</a>,
       <a href='http://bibel.renenyffenegger.ch/roem_11.html#v13'>Röm&nbsp;11,13</a>,
       <a class='kom' href='#I2kor-3-3'>2.&nbsp;Kor&nbsp;3,3</a>,
       <a href='http://bibel.renenyffenegger.ch/1tim_1.html#v12'>1.&nbsp;Tim&nbsp;1,12</a>,
@@ -84445,18 +84489,15 @@
 #}
 #roem-9-33 {
  {
-  §jes-28-16
+  <i>Stein des Anstoßes und einen Fels des Ärgernisses</i>: §jes-8-14, vgl §1petr-2-8
+  <br>
+   Vgl §jes-28-16, §roem-14-13
  }
  {
   <i>nicht zu Schanden werden</i>: §roem-10-11
  }
  {
-  <i>Stein des Anstosses</i> und <i>Fels des Ärgernisses</i>: auch in §1petr-2-8 und §jes-8-14.
-  <br>
-    Vgl §roem-14-13
- }
- {
-  TODO <i>Anstoss</i>: <a class='kom' href='#Imt-13-41'>Mt&nbsp;13,41</a>.
+  TODO <i>Anstoss</i>: §+mt-13-41.
  }
 #}
 @}
@@ -89101,6 +89142,11 @@
   Vgl §2kor-9-2
  }
 #}
+#2kor-11-13 {
+ {
+  <i>betrügerische ARbeiter</i> vgl §phil-3-2
+ }
+#}
 #2kor-11-14 {
  {
   <i>Gestalt eines Engels des Lichts annehmen</i> vgl. mit dem «Menschen der Sünde», der sich «in den Tempel Gottes setzt». §2thes-2-4
@@ -91795,12 +91841,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 @}
 @Philipper 3 {
-#phil-3-1 {
+#phil-3-2 {
  {
   Vgl mit Petrus' Erinnerungen: <a class='kom' href='#I2petr-1-12'>2.&nbsp;Petr&nbsp;1,12</a>.
  }
  {
   <i>Übrigens, meine Brüder</i>: §+2kor-13-11
+ }
+ {
+  <i>böse Arbeiter</i> vgl §2kor-11-13
  }
  {
    TODO: Dies ist also nicht der erste Brief von Paulus an die Philipper?
@@ -95633,10 +95682,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-4-6 {
  {
-   <i>Ich werde schon als Trankopfer gesprengt</i> §+phil-2-17
+  <i>Ich werde schon als Trankopfer gesprengt</i> §+phil-2-17
  }
  {
-  <i>Die Zeit meines Aufbruchs ist nahe</i>: vgl §phil-1-23 («ich habe Lust, aufzubrechen») und §1kor-15-51 («Wir werden nicht alle entschlafen»)
+  <i>Die Zeit meines Aufbruchs ist nahe</i>: vgl §phil-1-23 («ich habe Lust, aufzubrechen») und §1kor-15-51 («Wir werden nicht alle entschlafen»).
+ <br>
+  Ähnlich schreibt Petrus: §2petr-1-14
  }
 #}
 #2tim-4-7 {
@@ -99318,10 +99369,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-2-8 {
  {
-  §jes-8-14
- }
- {
-  <i>Stein des Anstosses</i>: auch in §+roem-9-33.
+  <i>Stein des Anstosses</i>: §jes-8-14, vgl §+roem-9-33
  }
  {
   TODO: <i>bestimmt</i> <span class='gr'>τίθημι</span>, Strongs 5087.
@@ -100010,11 +100058,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte: <i>Glaube an die Gerechtigkeit Gottes</i>.
  }
  {
-  Frage: wer sind 'wir'? <i>Wir</i> sind Augenzeugen auf dem Berg gewesen (<a href='http://bibel.renenyffenegger.ch/2petr_1.html#v16'>2. Petr 1,16/18</a>).
-    Vgl mit 'uns', den Aposteln (<a href='http://bibel.renenyffenegger.ch/2petr_3.html#v2'>2.&nbsp;Petr&nbsp;3,2</a>).
-  <br>Vgl <i>wir</i> vs <i>ihr</i>: <a href='http://bibel.renenyffenegger.ch/2petr_1.html#v19'>2.&nbsp;Petr&nbsp;1,19</a>.
- }
- {
   Luther 1912 schreibt: '...die unser Gott gibt und der Heiland Jesus Christus'.
  }
  {
@@ -100147,12 +100190,27 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    Vgl §2kor-5-1
  }
 #}
+#2petr-1-14 {
+ {
+  §joh-21-18-19, vgl mit Paulus: §2tim-4-6
+ }
+#}
 #2petr-1-15 {
  {
   <i>Abschied</i>: <a class='kom' href='#Ilk-9-31'>Lk&nbsp;9,31</a>.
  }
 #}
 #2petr-1-16 {
+ {
+  Das <i>wir</i> bezieht sich wohl auf → biblisches/Personen/Johannes, → biblisches/Personen/Jakobus und Petrus (aber Jakobus war möglicherweise zum Zeitpunkt des
+  → biblisches/Bücher/jüdische-Briefe/Petrus/2[2. Petrusbriefes] schon tot):
+  <br>
+  <i>Wir</i> sind Augenzeugen auf dem Berg gewesen (§V2petr-1-18).
+  <br>Vgl <i>wir</i> vs <i>ihr</i>: §2petr-1-19.
+ }
+ {
+   TODO: Vgl mit 'uns', den Aposteln (§2petr-3-2).
+ }
  {
   <i>Fabeln</i>: §+1tim-1-4.
  }
@@ -100322,6 +100380,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
  }
 #}
+#2petr-2-10 {
+ {
+  <i>die Herrschaft verachten</i> vgl mit denen, die Freiheit versprechen, §V2petr-2-19
+ }
+#}
 #2petr-2-12 {
  {
   <i>Tier</i> (<span class='gr'>ζῷον</span>, Strongs 2226): <a class='kom' href='#Ioffb-4-6'>Offb&nbsp;4,6</a>.
@@ -100402,10 +100465,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Heilige Propheten</i>: <a class='kom' href='#I2petr-2-1'>Vers 1</a>.
   <br>Vgl mit den → biblisches/Eigene-Uebersetzung/Konkordanz/Mann-Gottes[heiligen Männern Gottes] in §2petr-1-21.
  }
+ {
+  <span class='gt'>TR: durch uns, die Apostel, NA/MT: durch eure Apostel</span>
+ }
 #}
 #2petr-3-3 {
- {
- }
  {
   <i>…, dass in den letzten Tagen Spötter mit Spötterei…</i>: 
   Dies sind (auch) Worte, die von «den Aposteln unseres Herrn Jesus Christus gesprochen wurden» (§jud-1-17-18). Diese sind es, die
@@ -100522,7 +100586,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2petr-3-16 {
  {
-  <i>schwerz zu verstehen</i>: <span class='gr'>δυσνόητος</span> (Strongs 1425, 1x).
+  <i>schwer zu verstehen</i>: <span class='gr'>δυσνόητος</span> (Strongs 1425, 1x).
   <a href='https://betterbibles.wordpress.com/2012/11/27/was-paul-hard-to-understand/'>Jemand</a> meint, das Wort könnte besser übersetzt werden mit »nicht akzeptiert werden«, wohl weil sie
   <i>unwissend</i> und <i>unbefestigt</i> sind.
  <br>
@@ -100533,6 +100597,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>in allen seinen Briefen</i>: Offenbar war zur Zeit der Abfassung des Briefes bereits bekannt, welche Briefe von → biblisches/Personen/Paulus zum → biblisches/Bücher/Kanon[Kanon] gehörten.
+ }
+ {
+  Dieser Vers deutet möglicherweise an, dass → biblisches/Personen/Paulus zur Zeit der Abfassung des → biblisches/Bücher/jüdische-Briefe/Petrus/2[2. Petrusbriefes] bereits tot war, da er sonst
+  die schwierig zu verstehenden Dinge erklären und die verdrehten richtigstellen können hätte.
  }
  {
   TODO: <span class='gt'>According to the greatest number of MSS. the apostle does not say, εν αις, in which epistles, but εν οις, in or among which things; namely, the things which Paul had written concerning Christ’s coming to judgment, the burning of the earth, the heavenly country, and the introduction of the righteous into that country. The Alexandrian, however, and six other MSS. read here, εν αις, in which epistles. </span>
@@ -101372,8 +101440,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jud-1-8 {
  {
-  <i>Träumerein</i> (<span class='gr'>ἐνυπνιάζομαι</span>, Strongs 1797): dasselbe Wort wie
-  in §apg-2-17
+  <i>Träumer</i> (<span class='gr'>ἐνυπνιάζομαι</span>, Strongs 1797): dasselbe Wort wie in §apg-2-17
+ }
+ {
+  <i>Herrschaft verachten</i> vgl mit denen, die Freiheit versprechen, §pe
  }
  {
   TODO: <i>diese</i> bezieht sich wohl auf jene Menschen aus Vers 4, und werden erwähnt in den
@@ -101547,7 +101617,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Vgl auch <a class='kom' href='#Ijoh-15-15'>Joh&nbsp;15,15</a>.
  }
  {
-  <i>Was bald geschehen muß</i>: Vgl §offb-22-6, §offb-4-1
+  <i>Was bald geschehen muß</i>: Vgl §offb-22-6, §offb-4-1, §+joh-16-13
  }
  {
   <i>den Knechten zeigen</i>: <a href='http://bibel.renenyffenegger.ch/am_3.html#v7'>Am&nbsp;3,7</a>.
