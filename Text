@@ -2097,10 +2097,16 @@
  {
   <i>Assur</i> siehe <a class='kom' href='#I1mo-25-3'>1.&nbsp;Mo&nbsp;25,3</a>.
  }
+ {
+  In §jon-1-2 wird → biblisches/Orte/Ninive die «grosse Stadt», in §jon-3-3 eine «ausserordentlich grosse Stadt von drei Tagesreisen« genannt.
+ }
+ {
+  Vgl diese vier Reichsteile mit den vier Königen in §1mo-14-1, §1mo-14-9
+ }
 #}
 #1mo-10-12 {
  {
-  In §jon-1-2 wird Ninive die »grosse Stadt«, in §jon-3-3 eine «ausserordentlich grosse Stadt von drei Tagesreisen« genannt.
+  <i>Die grosse Stadt</i>, vgl §jon-1-2, §jon-3-2
  }
 #}
 #1mo-10-13 {
@@ -2754,6 +2760,8 @@
 #1mo-14-1 {
  {
   → biblisches/Bücher/Mose/1/Kapitel-14/Vier-Könige-gegen-fünf
+ <br>
+  Vgl diese vier Königen mit den vier Reichsteilen, die von Nimrod gegründet wurden, §1mo-10-10
  }
  {
   <i>Gojim</i>: vgl <a class='kom' href='#I1mo-10-5'>1.&nbsp;Mo&nbsp;10,5</a> und
@@ -32957,6 +32965,14 @@
   §2chr-32-21
  }
 #}
+#2koe-19-36 {
+ {
+  §jes-37-37
+ }
+ {
+  → biblisches/Orte/Ninive
+ }
+#}
 #2koe-19-37 {
  {
   <i>Esarhaddon</i> (<span class='hebr'>אֵסַר־חַדּוֹן</span>, Strongs 634), wohl besser transkribiert mit 'Asar-Haddon'.
@@ -38800,6 +38816,11 @@
  {
   <i>Altes Tor</i>: §neh-12-39.
   <br>Gäbelein vermutet, das dies das Ecktor (§2chr-25-23) ist.
+ }
+#}
+#neh-3-7 {
+ {
+  ,
  }
 #}
 #neh-3-11 {
@@ -50495,6 +50516,14 @@
   <i>Um Davids willen</i>: <a class='kom' href='#I1koe-15-4'>1.&nbsp;Kö&nbsp;15,4</a>.
  }
 #}
+#jes-37-37 {
+ {
+  §2koe-19-36
+ }
+ {
+  → biblisches/Orte/Ninive
+ }
+#}
 #jes-37-38 {
  {
   <i>Esarhaddon</i>: <a class='kom' href='#I2koe-19-37'>2.&nbsp;Kö&nbsp;19,37</a>.
@@ -59018,7 +59047,7 @@
 #}
 #jon-1-2 {
  {
-  Ninive, die <i>grosse Stadt</i>, vgl §1mo-10-12, §jon-3-2-3
+  → biblisches/Orte/Ninive, die <i>grosse Stadt</i>, vgl §1mo-10-12, §jon-3-2-3
  }
  {
   TODO: Ist das vor oder nach <a href='http://bibel.renenyffenegger.ch/nah_1.html#v1'>Nah&nbsp;1,1</a>?
@@ -59066,6 +59095,11 @@
 #jon-3-1 {
  {
   <i>zum zweiten Mal</i> vgl §jon-1-1
+ }
+#}
+#jon-3-2 {
+ {
+  → biblisches/Orte/Ninive
  }
 #}
 #jon-3-4 {
@@ -59360,7 +59394,7 @@
 @Nahum 1 {
 #nah-1-1 {
  {
-  <i>Gericht über Ninive</i>: <a class='kom' href='#Ijon-1-2'>Jon&nbsp;1,2</a>.
+  <i>Gericht über → biblisches/Orte/Ninive</i>: §+jon-1-2.
  }
  {
   TODO: Beachte, dass ein Nahum auch als Vorfahre des Herrn aufgezählt wird
@@ -59395,6 +59429,11 @@
 #nah-2-1 {
  {
   <i>Frevler</i> (<span class='hebr'>בְּלִיַּעַל</span>, Strongs 1100): <a class='kom' href='#I5mo-13-14'>5.&nbsp;Mo&nbsp;13,14</a>.
+ }
+#}
+#nah-2-9 {
+ {
+  → biblisches/Orte/Ninive
  }
 #}
 #nah-2-10 {
@@ -59614,7 +59653,7 @@
 #}
 #zeph-2-13 {
  {
-  <i>Gericht über Ninive</i>: <a class='kom' href='#Ijon-1-2'>Jon&nbsp;1,2</a>.
+  <i>Gericht über → biblisches/Orte/Ninive</i>: §+jon-1-2, §neh-3-7
   <br>
   (Erneutes) Gericht über <i>Ninive</i>: <a class='kom' href='#Ijon-3-10'>Jon&nbsp;3,10</a>.
  }
@@ -62983,8 +63022,8 @@
 #}
 #mt-12-41 {
  {
-  <i>Ninive</i>: <a class='kom' href='#Ijon-1-2'>Jon&nbsp;1,2</a>.
-  <br>Vgl <a href='http://bibel.renenyffenegger.ch/lk_11.html#v32'>Lk&nbsp;11,32</a>.
+  → biblisches/Orte/Ninive
+  <br>Vgl §lk-11-32.
  }
 #}
 #mt-12-43 {
@@ -71388,7 +71427,7 @@
 #}
 #lk-11-32 {
  {
-  <i>Ninive</i>: <a class='kom' href='#Imt-12-41'>Mt&nbsp;12,41</a>.
+  → biblisches/Orte/Ninive, vgl §+mt-12-41.
  }
 #}
 #lk-11-33 {
