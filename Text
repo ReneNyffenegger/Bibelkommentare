@@ -27336,7 +27336,12 @@
 @1. Samuel 13 {
 #1sam-13-1 {
  {
-  <i>Saul war ... Jahre alt</i>: Mit dem Ende dieses Verses ist (ohne das Alter!) das 4444. Wort in 1. Samuel erreicht.
+  Saul regierte zwei Jahre über Israel, vgl §agp-13-21.
+ <br>
+  Auch Sauls Sohn, Isboseth, regierte 2 Jahre, §2sam-2-10.
+ }
+ {
+  <i>Saul war … Jahre alt</i>: Mit dem Ende dieses Verses ist (ohne das Alter!) das 4444. Wort in 1. Samuel erreicht.
   <br>Vgl Zint, S. 235.
  }
 #}
@@ -27487,6 +27492,9 @@
  }
 #}
 #1sam-14-49 {
+ {
+  Beachte: Sauls Sohn Isboseth, der später König über Israel wurde (§2sam-2-10), wird hier nicht erwähnt. Vermutlich deshalb, weil er hier noch gar nicht geboren war.
+ }
  {
   Michal hatte → biblisches/Personen/David lieb (<a href='http://bibel.renenyffenegger.ch/1sam_18.html#v20'>1.&nbsp;Sam&nbsp;18,20</a>), sie wird David
   als Frau gegeben (<a href='http://bibel.renenyffenegger.ch/1sam_18.html#v27'>1.&nbsp;Sam&nbsp;18,27</a>).
@@ -28521,6 +28529,11 @@
  {
   Beachte: → biblisches/Personen/David[Davids] Frau Achinoam ist aus <i>Jesreel</i>: <a href='http://bibel.renenyffenegger.ch/1sam_25.html#v43'>1.&nbsp;Sam&nbsp;25,43</a>. Beachte auch,
   dass es zwei Jesreel gibt (<a class='kom' href='#Ijos-15-56'>Jos&nbsp;15,56</a>, <a class='kom' href='#Ijos-17-16'>Jos&nbsp;17,16</a>).
+ }
+#}
+#2sam-2-10 {
+ {
+  Auch Saul, regierte 2 Jahre, §1sam-13-1.
  }
 #}
 #2sam-2-13 {
@@ -34564,14 +34577,32 @@
   TODO: <b>Pnuel</b> offenbar dasselbe Wort wie Pniel (<a class='kom' href='#I1mo-32-31'>1.&nbsp;Mo&nbsp;32,31</a>).
  }
 #}
+#1chr-8-28 {
+ {
+  §1chr-9-34
+ }
+#}
 #1chr-8-29 {
  {
-  <i>Der Vater Gibeons</i> hiess wohl 'Jeiel' (<a class='kom' href='#I1chr-9-35'>1.&nbsp;Chr&nbsp;9,35</a>).
+  §1chr-9-35 erwäht zusätzlich, dass der Vater Gibeons <i>Jeghiel</i> hiess.
  }
 #}
 #1chr-8-30 {
  {
+  §1chr-9-36 erwähnt zusätzlich einen <i>Ner</i>.
+ }
+ {
   → biblisches/Personen/Nadab
+ }
+#}
+#1chr-8-31 {
+ {
+  §1chr-9-37 erwähnt zusätzlich <i>Mikloth</i>. <i>Sekerja</i> wird dort <i>Seker</i> genannt.
+ }
+#}
+#1chr-8-32 {
+ {
+  In §1chr-9-38 wird <i>Schimea</i> Schimean genannt.
  }
 #}
 #1chr-8-33 {
@@ -34742,7 +34773,15 @@
   Vgl §ps-134-1, §1chr-23-30
  }
 #}
+#1chr-9-34 {
+ {
+  §1chr-8-28
+ }
+#}
 #1chr-9-35 {
+ {
+  Der Name <i>Jeghiel</i> wird in §1chr-8-29 nicht erwähnt.
+ }
  {
   <i>Der Vater Gibeons</i>: <a class='kom' href='#I1chr-8-29'>1.&nbsp;Chr&nbsp;8,29</a>.
   <br>TODO: <i>Jeiel</i> (<span class='hebr'>יְעִיאֵל</span>, Strongs 3273) auch wiedergegeben mit 'Jehiel', zB in <a href='http://bibel.renenyffenegger.ch/1chr_5.html#v7'>1.&nbsp;Chr&nbsp;5,7</a>
@@ -34751,12 +34790,25 @@
 #}
 #1chr-9-36 {
  {
+  §1chr-8-30 erwähnt <i>Ner</i> nicht.
+ }
+ {
   → biblisches/Personen/Nadab
+ }
+#}
+#1chr-9-37 {
+ {
+  In §1chr-8-31 wird <i>Mikloth</i> nicht und <i>Seker</i> unter dem Namen <i>Sekerja</i> erwähnt.
+ }
+#}
+#1chr-9-38 {
+ {
+  In §1chr-8-32 wird <i>Schimean</i> Schimea genannt.
  }
 #}
 #1chr-9-39 {
  {
-  TODO: <i>Sauls Vorfahren</i>: <a class='kom' href='#I1sam-9-1'>1.&nbsp;Sam&nbsp;9,1</a> und <a class='kom' href='#I1chr-8-33'>1.&nbsp;Chr&nbsp;8,33</a>.
+  TODO: <i>Sauls Vorfahren</i>: §+1sam-9-1 und §+1chr-8-33.
  }
 #}
 #1chr-9-41 {
@@ -80108,10 +80160,15 @@
 #}
 #apg-13-21 {
  {
-   Dies ist die einzige Stelle im NT, wo der alttestamentliche → biblisches/Personen/Saul erwähnt wird. Er wird hier nicht König genannt.
-   <br>Beachte, dass diese Rede ebenfalls ein Saul vom Stamm Benjamin hält (§roem-11-1, §phil-3-5); er wurde allerdings in §Vapg-13-9 in Paulus umbenannt.
-   <br>So wie der alttestamentliche Saul den König David verfolgte, verfolgte auch der neutestamentliche Saul einen König, nämlich Jesus Christus (§apg-9-4-5).
-   <br>Siehe auch → biblisches/Personen/Paulus#vgl-paulus-saul[Vergleich Saul / Paulus]
+   Gemäss §1sam-13-1 regierte Saul 2 Jahre über Israel.
+   Da Saul hier nicht König genannt, könnten sich die 40 Jahre auf eine Zeit beziehen, in der er nicht als König regierte.
+ }
+ {
+   Beachte, dass der, welcher hier über Saul aus dem Stamm Benjamin redet, ebenfalls ein Saul vom Stamm Benjamin ist (§roem-11-1, §phil-3-5); er wurde allerdings in §Vapg-13-9 in Paulus umbenannt.
+  <br>So wie der alttestamentliche Saul den König David verfolgte, verfolgte auch der neutestamentliche Saul einen König, nämlich Jesus Christus (§apg-9-4-5).
+  <br>Dies ist die einzige Stelle im Neuen Testament, wo der alttestamentliche → biblisches/Personen/Saul erwähnt wird. 
+  <br>Siehe auch → biblisches/Personen/Paulus#vgl-paulus-saul[Vergleich Saul / Paulus]
+ 
  }
 #}
 #apg-13-22 {
