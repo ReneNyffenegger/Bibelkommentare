@@ -72706,7 +72706,7 @@
 #}
 #lk-19-2 {
  {
-  <i>Reich</i>: <a class='kom' href='#Ilk-18-24'>Lk&nbsp;18,24</a>.
+  <i>er war reich</i>: §+lk-18-24.
  }
 #}
 #lk-19-4 {
@@ -72770,6 +72770,11 @@
 #lk-19-17 {
  {
   <i>Im Geringten treu sein</i> §+lk-16-10
+ }
+#}
+#lk-19-21 {
+ {
+  <i>Säen und ernten</i> vgl §joh-4-36
  }
 #}
 #lk-19-28 {
@@ -72875,9 +72880,6 @@
 #lk-20-20 {
  {
   <i>auflauern</i>: <a class='kom' href='#Ilk-6-7'>Lk&nbsp;6,7</a>.
- }
- {
-  Das Personalpronomen <i>ihm</i> ist im Griechischen nicht vorhanden.
  }
 #}
 #lk-20-22 {
@@ -74700,6 +74702,9 @@
 #joh-4-36 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+ {
+  <i>Säen und ernten</i> vgl §lk-19-21
  }
 #}
 #joh-4-37 {
