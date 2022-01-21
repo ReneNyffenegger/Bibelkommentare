@@ -12378,8 +12378,8 @@
   <i>Fest der Einsammlung</i> §2mo-23-16
  }
  {
-   <i>Wende des Jahres</i> (TODO: 8141 8622) siehe auch <a href='http://bibel.renenyffenegger.ch/2chr_24.html#v23'>2.&nbsp;Chr&nbsp;24,23</a>.
-   <br>Siehe auch <a class='kom' href='#I2sam-11-1'>2.&nbsp;Sam&nbsp;11,1</a>.
+   <i>Umlauf des Jahres</i> (Strongs 8141 8622), vgl §2chr-24-23.
+   <br>Siehe auch §+2sam-11-1.
  }
 #}
 #2mo-34-23 {
@@ -29091,13 +29091,15 @@
   Warum blieb → biblisches/Personen/David in Jerusalem, wo doch die Zeit für die Könige war, in den Kampf zu ziehen?
  }
  {
+  <i>Rückkehr des Jahres</i>: §1koe-20-22
+ }
+ {
   KJV: 'And it came to pass, after the year was expired, at the time when kings go forth [to battle]....'
   <br>Die Wendung <i>year was expired</i> (oder <i>im folgenden Jahr</i>) ist im Hebräischen <span class='hebr'>לִתְשׁוּבַ֨ת הַשָּׁנָ֜ה</span> (8666 8141).
   TODO: Diese Wendung findet sich auch in
   <a href='http://bibel.renenyffenegger.ch/1koe_20.html#v22'>1.&nbsp;Kö&nbsp;20,22/26</a> ('das Jahr vorbei war'),
   <a href='http://bibel.renenyffenegger.ch/1chr_20.html#v1'>1.&nbsp;Chr&nbsp;20,1</a> ('im folgenden Jahr' / Parallelstelle),
   <a href='http://bibel.renenyffenegger.ch/2chr_36.html#v10'>2.&nbsp;Chr&nbsp;36,10</a> ('um die Jahreswende')
-  <br>Siehe auch 'Wende des Jahres' in <a class='kom' href='#I2mo-34-22'>2.&nbsp;Mo&nbsp;34,22</a>.
  }
 #}
 #2sam-11-3 {
@@ -30396,7 +30398,7 @@
   Eigentlich: 7 Jahre und 6 Monate, also gleich lang, wie David in Hebron regierte (<a href='http://bibel.renenyffenegger.ch/1chr_3.html#v4'>1.&nbsp;Chr&nbsp;3,4</a>).
  }
  {
-  TODO: Der Tempel wurde im achten Monat fertgigestellt, die Lade kam im 7. Monat herauf (<a href='http://bibel.renenyffenegger.ch/2chr_5.html#v2'>2.&nbsp;Chr&nbsp;5,2-3</a>).
+  TODO: Der Tempel wurde im achten Monat fertiggestellt, die Lade kam im 7. Monat herauf (§2chr-5-2-3).
  }
 #}
 @}
@@ -31570,7 +31572,7 @@
 #}
 #1koe-20-22 {
  {
-  <i>wenn das Jahr um ist</i>: siehe <a class='kom' href='#I2sam-11-1'>2.&nbsp;Sam&nbsp;11,1</a>
+  <i>Rückkehr des Jahres</i>: vgl §+2sam-11-1, §2chr-24-23
  }
 #}
 #1koe-20-28 {
@@ -33586,6 +33588,9 @@
  }
 #}
 #2koe-24-6 {
+ {
+  Befor Jojakim sich zu seinen Vätern legte, wurde er von Nebukadnezar nach Babel geführt, §2chr-36-6
+ }
  {
    → biblisches/Personen/Jekonja-Jojakin
  }
@@ -37378,7 +37383,7 @@
 #}
 #2chr-24-23 {
  {
-  'Um die Jahreswende' (TODO: 8141 8622) siehe <a class='kom' href='#I2mo-34-22'>2.&nbsp;Mo&nbsp;34,22</a>.
+  <i>Rückkehr des Jahres</i> (Strongs: 8141 8622) vgl §+2mo-34-22, §2sam-11-1
  }
 #}
 #2chr-24-24 {
@@ -38204,6 +38209,9 @@
 #}
 #2chr-36-6 {
  {
+  Jojakim wurde zwar nach Babel geführt, trotzdem legte er sich zu seinen Vätern, §2koe-24-6
+ }
+ {
   <i>Ketten</i>: Auch Manasse wurde in Ketten nach Babel gebracht (<a href='http://bibel.renenyffenegger.ch/2chr_33.html#v11'>2.&nbsp;Chr&nbsp;33,11</a>).
   <br>TODO: In KJV steht nichts von <i>zwei</i> Ketten.
  }
@@ -38228,9 +38236,6 @@
 #2chr-36-9 {
  {
   §2koe-24-8 
- }
- {
-  TODO: Diese 8 Jahre beziehen sich wohl auf das achte Jahr Nebukadnezars (<a href='http://bibel.renenyffenegger.ch/2koe_24.html#v12'>2.&nbsp;Kö&nbsp;24,12</a>).
  }
 #}
 #2chr-36-10 {
@@ -39066,7 +39071,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Susan[Susan]
  }
  {
-  TODO: Wovon ist das das 20. Jahr. In §neh-2-1 ist Nehemia im 20 Jahr des Königs Artasasta, aber im Monat Nisan (also dem ersten Monat, §est-3-7).
+  Wessen oder welches 20. Jahr ist hier gemeint? In §neh-2-1 ist Nehemia im 20 Jahr des Königs Artasasta, aber im Monat Nisan (also dem ersten Monat, §est-3-7).
  }
 #}
 #neh-1-2 {
@@ -39096,7 +39101,7 @@
 @Nehemia 2 {
 #neh-2-1 {
  {
-  <i>Im zwanzigsten Jahr des Königs → biblisches/Personen/Artasasta</i> vgl §esr-7-7, §neh-5-14, §neh-13-6, → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia
+  <i>Im zwanzigsten Jahr des Königs → biblisches/Personen/Artasasta</i> vgl §esr-7-7, §neh-5-14, §neh-13-6, §neh-1-1, → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia
  }
  {
   Der <i>Nisan</i> ist wohl der erste Monat (<a href='http://bibel.renenyffenegger.ch/est_3.html#v7'>Est&nbsp;3,7</a>).
@@ -53441,7 +53446,12 @@
   <i>Erstes Jahr Nebukadnezars</i>: §+dan-1-1.
  }
  {
-   Das <i>vierte Jahr Jojakims</i> §jer-45-1.
+  Das <i>vierte Jahr Jojakims</i> §jer-45-1.
+ }
+ {
+  Das hebräische Wort, das hier mit «erstes» übersetzt wird, ist <span class='hebr'>רִאשֹׁנִי</span> und kommt in der Bibel nur ein Mal vor. Es könne angeblich auch mit «Beginn» oder «Anfang» übersetzt werden.
+ <br>
+  Evtl. ist dies ein Hinweis darauf, dass es sich hier um das Thronbesteigungsjahr von Nebukadnezar, nicht um sein erstes Regierungsjahr handelt.
  }
  {
   TODO: <a class='kom' href='#I2koe-24-1'>2.&nbsp;Kö&nbsp;24,1</a>.
@@ -53471,7 +53481,10 @@
 #}
 #jer-25-10 {
  {
-  TODO: <i>Stimme des Bräutigams und der Braut</i>: <a class='kom' href='#Ijer-7-34'>Jer&nbsp;7,34</a>.
+  <i>Geräusch der Mühlen</i>: §offb-18-22
+ }
+ {
+  <i>Stimme des Bräutigams und der Braut</i>: §+jer-7-34.
  }
 #}
 #jer-25-11 {
@@ -53630,12 +53643,19 @@
 @Jeremia 27 {
 #jer-27-1 {
  {
-  Anfang der Regierung Jojakims: <a class='kom' href='#I2koe-23-34'>2.&nbsp;Kö&nbsp;23,34</a>.
+  Elberfelder nennt hier «Zedekia» statt «Jojakim».
+ }
+ {
+  Offenbar kommt dieser Vers in der → biblisches/Grundtext/LXX gar nicht vor.
+ }
+ {
+  TODO: 
+  Anfang der Regierung Zedekias: <a class='kom' href='#I2koe-23-34'>2.&nbsp;Kö&nbsp;23,34</a>.
   <br>Beachte, <a href='http://bibel.renenyffenegger.ch/jer_25.html#v1'>Jer&nbsp;25,1</a> ist im vierten Jahr Jojakims geschrieben worden. Bedeutet das, dass der Anfang seiner
   Regierung <i>nach</i> dem vierten Jahr war (weil hier das 27. Kapitel nach dem 25. Kapitel ist)? Vgl auch mit <a class='kom' href='#I2koe-24-1'>2.&nbsp;Kö&nbsp;24,1</a>.
  }
  {
-  → biblisches/Personen/Mattanja-Zedekia#anfang-der-regierung
+  TODO (Wegen wechsel von Zedekias auf Jojakims) → biblisches/Personen/Mattanja-Zedekia#anfang-der-regierung
  }
  {
   <a class='kom' href='#Ijer-26-1'>Jer&nbsp;26,1</a>.
@@ -53644,6 +53664,11 @@
 #jer-27-2 {
  {
   Jeremia scheint das Joch im vierten Jahr Zedekias (?) noch zu haben (<a href='http://bibel.renenyffenegger.ch/jer_28.html#v10'>Jer&nbsp;28,10</a>).
+ }
+#}
+#jer-27-3 {
+ {
+  Hier wird ein zukünftiges Ereignis in der Vergangeneheitsform geschildert:  → biblisches/Personen/Mattanja-Zedekia[Zedekia] ist hier ca. 11 Jahre alt und wird erst mit 21 Jahren König.j
  }
 #}
 #jer-27-6 {
@@ -105546,6 +105571,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Kunst</i>, siehe <a class='kom' href='#Iapg-17-29'>Apg&nbsp;17,29</a>.
+ }
+ {
+  <i>Geräusch des Mühlsteins</i> §jer-25-10
  }
  {
   Noch vor Babel gab es die Musik (<a href='http://bibel.renenyffenegger.ch/1mo_4.html#v21'>1.&nbsp;Mo&nbsp;4,21</a>).
