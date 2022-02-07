@@ -3484,7 +3484,10 @@
   Der Dritte scheint der HERR zu sein (<a href='http://bibel.renenyffenegger.ch/1mo_18.html#v22'>Vers 22</a>)
  }
  {
-  Beachte: Abraham <i>beugte sich zu Erde nieder</i>, Lot «verneigte sich, das Angesicht zur Erde gewandt» (TODO: beugen und verneigen ist das selbe Hebräische Wort [Strongs 7812]).
+  Beachte: Abraham <i>beugte sich zu Erde nieder</i>, Lot «beugte sich nieder, mit dem Angesicht zur Erde», §1mo-19-1.
+ }
+ {
+  TODO: Vgl dieses <i>Niederbeugen</i> mit dem der Brüder Josephs, zuerst in §1mo-42-6, dann in §1mo-43-26-ff
  }
 #}
 #1mo-18-4 {
@@ -3590,7 +3593,7 @@
 @1. Mose 19 {
 #1mo-19-1 {
  {
-  Siehe <a class='kom' href='#I1mo-18-2'>1.&nbsp;Mo&nbsp;18,2</a>.
+  Vgl Siehe §+1mo-18-2.
  }
 #}
 #1mo-19-2 {
@@ -31728,6 +31731,12 @@
   Vgl §+1koe-9-28, §ps-48-8
  }
 #}
+#1koe-22-54 {
+ {
+  Ahasja diente dem Baal und beugte sich vor ihm nieder;
+  Mannasse beugte sich vor dem ganzen Heer des Himmels nieder und diente ihnen, §2koe-21-3
+ }
+#}
 @}
 }
 { 2. Koenige
@@ -33204,6 +33213,9 @@
  {
   <a class='kom' href='#I2koe-18-4'>2.&nbsp;Kö&nbsp;18,4</a>.
  }
+ {
+  Vgl mit Ahasja, §1koe-22-54
+ }
 #}
 #2koe-21-5 {
  {
@@ -33224,7 +33236,7 @@
 #}
 #2koe-21-7 {
  {
-  §2chr-33-7
+  §2chr-33-7, §2thes-2-4
  }
 #}
 #2koe-21-9 {
@@ -53041,8 +53053,7 @@
 #}
 #jer-15-2 {
  {
-  TODO: Vgl <a href='http://bibel.renenyffenegger.ch/offb_13.html#v10'>Offb&nbsp;13,10</a>,
-  <a href='http://bibel.renenyffenegger.ch/jer_43.html#v11'>Jer&nbsp;43,11</a>.
+  Vgl §offb-13-10, §jer-43-11.
  }
 #}
 #jer-15-4 {
@@ -65580,7 +65591,7 @@
 #}
 #mt-24-38 {
  {
-  <i>aßen und tranken</i> vgl §lk-12-45
+  <i>aßen und tranken</i> vgl §lk-12-45, §lk-21-34
  }
  {
   <i>Kasten</i>, <span class='he'>κιβωτός</span> (Strongs 2787), in anderen Übersetzungen mit «Arche» übersetzt. Vgl <a class='kom' href='#I1mo-6-14'>1.&nbsp;Mo&nbsp;6,14</a>.
@@ -68623,7 +68634,7 @@
   §mt-24-20
  }
  {
-  Vgl den <i>Winter</i> mit dem <i>Sommer</i> in §Vmk-13-28
+  Vgl den <i>Winter</i> mit dem <i>Sommer</i> in §Vmk-13-28 und §lk-21-30
  }
 #}
 #mk-13-22 {
@@ -72115,7 +72126,7 @@
 #}
 #lk-12-45 {
  {
-  <i>essen und trinken</i> vgl §mt-24-38
+  <i>essen und trinken</i> vgl §lk-21-34, §mt-24-38
  }
 #}
 #lk-12-46 {
@@ -73022,16 +73033,13 @@
 @Lukas 21 {
 #lk-21-1 {
  {
-  <i>Ankündigung der Zerstörung des Tempels</i>: <a class='kom' href='#Imk-13-1'>Mk&nbsp;13,1</a>.
- }
- {
   TODO: <i>aufblicken</i> (<span class='gr'>ἀναβλέπω</span>, Strongs 308) wird zB in <a href='http://bibel.renenyffenegger.ch/apg_9.html#v12'>Apg&nbsp;9,12</a> mit
   'wieder sehend' übersetzt.
  }
 #}
 #lk-21-5 {
  {
-  §mt-24-1, §mk-13-1
+  <i>Ankündigung der Zerstörung des Tempels</i>: §mt-24-1, §mk-13-1
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
@@ -73110,7 +73118,7 @@
  {
   <i>Wenn ihr aber Jerusalem von Heerscharen umzingelt seht</i> vgl §jer-34-1, §sach-12-2, §sach-12-9, §sach-14-2
  <br>
-  Besteht ein Zusammenhang zwischen diesen Heerscharen und den → Geschichte/Israel/Quellen/Geschichte-des-jüdischen-Krieges#josephus-heere-am-himmel[Kriegswagen und Heeren, die am Himmer erschienen sind],
+  Besteht ein Zusammenhang zwischen diesen Heerscharen und den → Geschichte/Israel/Quellen/Geschichte-des-jüdischen-Krieges#josephus-heere-am-himmel[Kriegswagen und Heeren, die am Himmel erschienen sind],
   von denen → Geschichte/Israel/Personen/Flavius-Josephus[Josephus] in → Geschichte/Israel/Quellen/Geschichte-des-jüdischen-Krieges berichtet hat.
  }
  {
@@ -73164,6 +73172,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
  }
 #}
+#lk-21-30 {
+ {
+  <i>Sommer</i> vgl §+mk-13-18
+ }
+#}
 #lk-21-31 {
  {
   <i>Das Reich Gottes ist nahe</i>: <a class='kom' href='#Imt-3-2'>Mt&nbsp;3,2</a>.
@@ -73175,6 +73188,11 @@
 #lk-21-32 {
  {
   §+mt-24-34
+ }
+#}
+#lk-21-34 {
+ {
+  <i>Völlerei und Trunkenheit</i> vgl §lk-12-45, §+mt-24-38
  }
 #}
 #lk-21-37 {
@@ -73257,7 +73275,7 @@
   §mt-26-26, §mk-14-22, vgl §+1kor-11-24
  }
  {
-  <i>zu meinem Gedächnis</i> vgl §mk-14-9
+  <i>zu meinem Gedächtnis</i> vgl §mk-14-9
  }
  {
   TODO: <a href="https://en.wikipedia.org/wiki/Last_Supper#Institution_of_the_Eucharist">https://en.wikipedia.org/wiki/Last_Supper#Institution_of_the_Eucharist</a>
@@ -94392,7 +94410,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
-  <i>Sich in den Tempel Gottes setzen</i> vgl. mit Satan, der die «Gestalt eines Engels des Lichts annimmt» §2kor-11-14 und dem Gleichnis des Sämanns, §+mt-13-25
+  <i>Sich in den Tempel Gottes setzen</i> vgl. mit Satan, der die «Gestalt eines Engels des Lichts annimmt» §2kor-11-14 und dem Gleichnis des Sämanns, §+mt-13-25 und mit
+  Manasse, der die Aschera in den Tempel gesetzt hat, §2koe-21-7, §2chr-33-7
  }
 #}
 #2thes-2-6 {
