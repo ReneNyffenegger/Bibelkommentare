@@ -2107,7 +2107,7 @@
 #}
 #1mo-10-8 {
  {
-  → biblisches/Personen/Nimrod: <a class='kom' href='#I1chr-1-10'>1.&nbsp;Chr&nbsp;1,10</a>. Ebenso in <a href='http://bibel.renenyffenegger.ch/1mo_10.html#v7'>1.&nbsp;Mo&nbsp;10,7-8</a>.
+  → biblisches/Personen/Nimrod: §+1chr-1-10.
  }
 #}
 #1mo-10-9 {
@@ -2159,7 +2159,7 @@
 #}
 #1mo-10-14 {
  {
-  Beachte: die <i>Philister</i> sind der Überreset der Insel <i>Kaphtor</i> in <a href='http://bibel.renenyffenegger.ch/jer_47.html#v4'>Jer&nbsp;47,4</a>.
+  Beachte: die <i>Philister</i> sind der Überrest der Insel <i>Kaphtor</i> in <a href='http://bibel.renenyffenegger.ch/jer_47.html#v4'>Jer&nbsp;47,4</a>.
          <br>die Kaphtoriter vertilgten die Awiter und wohnten in den Dörfern bis Gaza (wo nun wohl die Philister wohnen?):
    <a href='http://bibel.renenyffenegger.ch/5mo_2.html#v23'>5.&nbsp;Mo&nbsp;2,23</a>.
    <br>Der HERR die Philister aus Kaphtor herausgeführt (<a class='kom' href='#Iam-9-7'>Am&nbsp;9,7</a>)
@@ -2241,6 +2241,9 @@
  }
 #}
 #1mo-10-25 {
+ {
+  §1chr-1-20
+ }
  {
   → biblisches/Personen/Peleg <span class='hebr'>פֶּלֶג</span> (Strongs 6389). Vgl mit 'geteilt' (<span class='hebr'>פָּלַג</span>, Strongs 6385).
   Vgl auch mit <i>verteilt</i> Strongs 6504 in Versen 5 und 32.
@@ -33948,11 +33951,19 @@
   <br>
   Hier ist auch das erste Vorkommen von <i>zeugen</i> in diesem Kapitel.
  }
+ {
+   §1mo-10-7-8.
+ }
 #}
 #1chr-1-17 {
  {
   Uz, Hul, Geter und Mesech (Masch) sind gemäss <a href='http://bibel.renenyffenegger.ch/1mo_10.html#v23'>1.&nbsp;Mo&nbsp;10,23</a>
   Söhne Arams (<a class='kom' href='#I1mo-10-23'>1.&nbsp;Mo&nbsp;10,23</a>).
+ }
+#}
+#1chr-1-20 {
+ {
+  §1mo-10-25
  }
 #}
 #1chr-1-22 {
