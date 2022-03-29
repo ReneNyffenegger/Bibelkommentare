@@ -2421,11 +2421,12 @@
 #}
 #1mo-11-24 {
  {
-         <object data="svg_alle_kapitel/1mo_11.svg" type="image/svg+xml" width='641' height='121'></object>
-         <br>Beachte, auch Sarai ist Tochter von Terach, und Halbschwester von Abraham (<a class='kom' href='#I11mo-11-29'>Vers 29</a>)
+   TODO: &lt;object&gt;<br>
+   <object data="svg_alle_kapitel/1mo_11.svg" type="image/svg+xml" width='641' height='121'></object>
+   <br>Beachte, auch Sarai ist Tochter von Terach, und Halbschwester von Abraham (<a class='kom' href='#I11mo-11-29'>Vers 29</a>)
  }
  {
-  Terach diente andern Göttern (<a href='http://bibel.renenyffenegger.ch/jos_24.html#v2'>Jos&nbsp;24,2</a>).
+  Tarah diente andern Göttern, §jos-24-2.
  }
 #}
 #1mo-11-26 {
@@ -24842,7 +24843,7 @@
 #}
 #jos-24-2 {
  {
-  Terach ist auch der Vater Harans (<a href='http://bibel.renenyffenegger.ch/1mo_11.html#v26'>1.&nbsp;Mo&nbsp;11,26</a>).
+  Tarah ist auch der Vater Harans, §1mo-11-26.
  }
 #}
 #jos-24-6 {
