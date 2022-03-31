@@ -44218,6 +44218,11 @@
   <i>Ephraim</i>: §Vps-78-9
  }
 #}
+#ps-78-68 {
+ {
+  <i>den Berg Zion, den er geliebt hat</i> vgl §ps-87-2, §offb-20-9 
+ }
+#}
 #ps-78-70 {
  {
   <i>David, der Schafhirte</i>: <a class='kom' href='#I1sam-16-11'>1.&nbsp;Sam&nbsp;16,11</a>.
@@ -44479,6 +44484,11 @@
 #ps-87-1 {
  {
   → biblisches/Personen/Korah/Sohn-von-Jizhar
+ }
+#}
+#ps-87-2 {
+ {
+  <i>Jehova liebt die Tore Zions mehr als…</i> vgl §ps-78-68, §offb-20-9
  }
 #}
 #ps-87-4 {
@@ -49460,6 +49470,12 @@
  {
   → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §mt-4-14
  }
+ {
+  Gemäss mindestens einem Ausleger handelt es sich beim <i>Weg am Meer</i> um die
+  <a href='https://de.wikipedia.org/wiki/Via_Maris'>Via Maris</a>, die Ägypten mit Mesopotamien, später mit Griechenland und Rom, verband.
+ <br>
+  Vgl mit der Straße von Ägypten nach Assyrien in §jes-19-23 und der Straße von Assyrien her in §jes-11-16
+ }
 #}
 @}
 @Jesaja 9 {
@@ -49739,8 +49755,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
  {
-  TODO <a href='http://bibel.renenyffenegger.ch/jes_19.html#v23'>Jes&nbsp;19,23</a>: An jenem Tag wird von Ägypten eine gebahnte Straße nach Assyrien gehen ...
-  und die Ägypter werden mit den Assyrern [dem HERRN] dienen.
+  Vgl §jes-19-23: An jenem Tag wird von Ägypten eine gebahnte Straße nach Assyrien gehen … und die Ägypter werden mit den Assyrern [dem HERRN] dienen.
+ <br>
+  Siehe auch den «Weg am Meer», §jes-8-23
  }
 #}
 @}
@@ -50130,7 +50147,7 @@
 #}
 #jes-19-23 {
  {
-  <i>Strasse nach Assyrien</i>: <a class='kom' href='#Ijes-11-16'>Jes&nbsp;11,16</a>.
+  <i>Strasse nach Assyrien</i>: §+jes-11-16, §+jes-8-23
  }
 #}
 #jes-19-24 {
@@ -105967,6 +105984,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Feuer#feuer-vom-himmel, vgl §+lk-12-49
+ }
+ {
+  <i>die geliebte Stadt</i> vgl §ps-78-68, §ps-87-2
  }
 #}
 #offb-20-10 {
