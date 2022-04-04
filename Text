@@ -64705,6 +64705,14 @@
   <i>Du sollst deinen Nächsten lieben wie dich selbst</i> §mt-22-39, §+3mo-19-18, §3mo-19-34
  }
 #}
+#mt-19-20 {
+ {
+  §mk-10-20, §lk-18-21
+ }
+ {
+  <span class='gt'>MT/TR: all dies habe ich gehalten von meiner Jugend an. NA: all dies habe ich gehalten.</span>
+ }
+#}
 #mt-19-21 {
  {
   <i>alles verkaufen und den Armen geben</i> vgl §mt-26-9, §mk-10-21, §lk-12-33, §lk-18-22, §apg-2-45, §apg-4-34, §apg-5-2-ff
@@ -68322,6 +68330,11 @@
 #mk-10-19 {
  {
   Vgl <a class='kom' href='#Imk-7-21'>Mk&nbsp;7,21</a>.
+ }
+#}
+#mk-10-20 {
+ {
+  §mt-19-20, §lk-18-21
  }
 #}
 #mk-10-21 {
@@ -72808,6 +72821,11 @@
   <i>Ehebruch vor Mord</i>: §mk-7-21. In den zehn Geboten kommt der Mord zuert: §2mo-20-13-14Ehebruch, vgl §+lk-18-20
  }
 #}
+#lk-18-21 {
+ {
+  §mt-19-20, §mk-10-20
+ }
+#}
 #lk-18-22 {
  {
   <i>alles verkaufen</i>: §+mt-19-21
@@ -74128,6 +74146,9 @@
  }
  {
   §+mt-11-27
+ }
+ {
+  <span class='gt'>MT/TR: eingeborene Sohn, NA: eingeborene Gott</span>
  }
 #}
 #joh-1-19 {
@@ -75614,7 +75635,7 @@
 #}
 #joh-7-53 {
  {
-   <span class='gt'>Verse 7:53 bis 8:11 fehlen in NA. Vgl → biblisches/Grundtext/Varianten/Unterschiede#pericope-adulterae</span>
+  <span class='gt'>Verse 7:53 bis 8:11 fehlen in NA. Vgl → biblisches/Grundtext/Varianten/Unterschiede#pericope-adulterae</span>
  }
 #}
 @}
@@ -100269,6 +100290,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Gutes tun</i>: <a class='kom' href='#I1petr-2-15'>1.&nbsp;Petr&nbsp;2,15</a>.
+ }
+#}
+#1petr-3-18 {
+ {
+  <span class='gt'>für Sünden gelitten vs. für Sünden gestorben. Offenbar wird <i>gelitten</i> «nur» von → biblisches/Grundtext/Handschriften/0-003[Vaticanus], Byz [K P] L, Minuskeln 81 und 2464(?) und ein paar Lektionarien bezeugt.</span>
+ }
+ {
+  <span class='gt'>MT/NA: daß er euch zu Gott führe; TR: daß er uns zu Gott führe</span>
  }
 #}
 #1petr-3-19 {
