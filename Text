@@ -2002,12 +2002,18 @@
 #}
 #1mo-10-2 {
  {
-  <b>Madai</b>: <span class='hebr'><span class='grey'>וּ</span>מָדַ֖י</span>, vgl <b>Meder</b> (<span class='hebr'>מָדָֽי</span>
-  zB in <a href='http://bibel.renenyffenegger.ch/2koe_17.html#v6'>2.&nbsp;Kö&nbsp;17,6</a>) oder
-  <b>Medien</b> (<span class='hebr'><span class='grey'>וּ</span>מָדַ֗י</span> zB in <a href='http://bibel.renenyffenegger.ch/est_1.html#v3'>Est&nbsp;1,3</a>).
+  §1chr-1-5
  }
  {
-  <b>Jawan</b>: <span class='hebr'><span class='grey'>וְ</span>יָוָ֣ן</span>, vgl <b>Griechenland</b> (zB in <a class='kom' href='#Idan-8-21'>Dan&nbsp;8,21</a>).
+  <i>Madai</i>: <span class='hebr'><span class='grey'>וּ</span>מָדַ֖י</span>, vgl <i>Meder</i> (<span class='hebr'>מָדָֽי</span>
+  zB in <a href='http://bibel.renenyffenegger.ch/2koe_17.html#v6'>2.&nbsp;Kö&nbsp;17,6</a>) oder
+  <i>Medien</i> (<span class='hebr'><span class='grey'>וּ</span>מָדַ֗י</span> zB in <a href='http://bibel.renenyffenegger.ch/est_1.html#v3'>Est&nbsp;1,3</a>).
+ }
+ {
+  <i>Jawan</i>: <span class='hebr'><span class='grey'>וְ</span>יָוָ֣ן</span>, vgl <i>Griechenland</i> (zB in <a class='kom' href='#Idan-8-21'>Dan&nbsp;8,21</a>).
+ }
+ {
+  <i>Magog</i>: §hes-38-2
  }
 #}
 #1mo-10-3 {
@@ -18472,8 +18478,10 @@
 #4mo-24-7 {
  {
   <i>Agag</i> ist der Name des amalekischen Königs, den Saul schlägt (<a href='http://bibel.renenyffenegger.ch/1sam_15.html#v8'>1.&nbsp;Sam&nbsp;15,8</a>).
-  <br>Offenbar bedeutet Agag (<span class='hebr'>אֲגַג</span>, Strongs 90) 'zornig werden' oder 'I will overtop' und sei der
-      Titel der amalekitischen Könige.
+  <br>
+   Offenbar bedeutet Agag (<span class='hebr'>אֲגַג</span>, Strongs 90) 'zornig werden' oder 'I will overtop' und sei der Titel der amalekitischen Könige.
+  <br>
+   In der Septuaginta und einigen Samaritschen Übersetzungen wird Agag mit <i>Gog</i> übersetzt, vgl §hes-38-2.
  }
 #}
 #4mo-24-8 {
@@ -33947,6 +33955,11 @@
   <br>Ähnlich auch die Nachkommen von Abraham.
  }
 #}
+#1chr-1-5 {
+ {
+  §1mo-10-2
+ }
+#}
 #1chr-1-7 {
  {
   TODO: <b>R</b> und <b>D</b> Siehe <a class='kom' href='#I1mo-10-4'>1.&nbsp;Mo&nbsp;10,4</a>
@@ -34529,6 +34542,11 @@
  }
  {
   Auch Juda hat zwei Söhne mit den Namen <i>Hezron</i> und <i>Karmi</i>: §+1chr-4-1.
+ }
+#}
+#1chr-5-4 {
+ {
+  <i>Gog</i>: §+hes-38-2
  }
 #}
 #1chr-5-6 {
@@ -56795,6 +56813,20 @@
 @Hesekiel 38 {
 #hes-38-2 {
  {
+   <i>Magog</i>: §1mo-10-2
+ <br>
+   Ein Nachkomme von Ruben heisst <i>Gog</i>: §1chr-5-4.
+   <br>
+   In §am-7-1 in der Septuaginta ist der Name der König der Heuschrecken <i>Gog</i>.
+   <br>
+   In der Septuaginta und einigen Samaritischen Übersetzungen wird Agag in §4mo-24-7 mit <i>Gog</i> übersetzt.
+ <br>
+  <i>Gog</i> und <i>Magog</i>: §offb-20-8.
+  <br>
+  Gog und Magog werden im <a href='https://de.wikisource.org/wiki/Die_Sibyllinen/Drittes_Buch'>dritten Buch</a> der
+  <a href='https://de.wikipedia.org/wiki/Sibyllinisches_Orakel'>Sybillinischen Orakel</a> erwähnt und mit Äthiopien in Verbindung gebracht (Verse 319 und 512).
+ }
+ {
   KJV: 'O Gog, the chief prince of Meshech and Tubal'
   Luther 1912: 'Gog, der im Lande Magog ist und der oberste Fürst in Mesech und Thubal'. Ähnlich auch Vers 3.
   'Rosch' kann auch erster, oberster usw bedeuten.
@@ -59420,6 +59452,12 @@
 @}
 @Amos 7 {
 #am-7-1 {
+ {
+  Die Septuaginta übersetzt etwa mit «Also ließ mich der Herr, Gott, sehen: Siehe, (gewisse? <span class='gr'>επιγονή</span>) Heuschrecken am frühen Morgen (oder: «aus dem Osten»?);
+  und siehe, eine Heuschrecke, Gog, der König».
+ <br>
+  Vgl <i>Gog</i> mit §hes-38-2
+ }
  {
   TODO: <i>Heuschrecken</i> (<span class='hebr'>גּוֹב</span>, Strongs 1462) vgl mit weiteren vier Heuschreckarten in §+joe-1-4.
   <br>Dieselbe Heuschrecke kommt auch in §nah-3-17 vor (dort mit «Grashüpfer» übersetzt).
@@ -106051,6 +106089,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-20-8 {
+ {
+  <i>Gog</i> und <i>Magog</i>: §hes-38-2
+ }
  {
    Elberfelder «vier Ecken der Erde», KJV «four quarters of the Earth». Vgl <a class='kom' href='#Ioffb-7-1'>Offb&nbsp;7,1</a>.
  }
