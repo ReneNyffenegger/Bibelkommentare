@@ -2816,7 +2816,7 @@
  {
   → biblisches/Bücher/Mose/1/Kapitel-14/Vier-Könige-gegen-fünf
  <br>
-  Vgl diese vier Königen mit den vier Reichsteilen, die von Nimrod gegründet wurden, §1mo-10-10
+  Vgl diese vier Könige mit den vier Reichsteilen, die von Nimrod gegründet wurden, §1mo-10-10
  }
  {
   <i>Gojim</i>: vgl <a class='kom' href='#I1mo-10-5'>1.&nbsp;Mo&nbsp;10,5</a> und
@@ -2983,8 +2983,7 @@
   Offenbar war Abram auf der Seite des Königs von Sodom und Gomorra.
  }
  {
-  <i>Schaweh</i> (<span class='hebr'><span class='grey'>בְּ</span>שָׁוֵ֖ה</span>): dasselbe Wort wie für <i>Ebene</i> in
-  <a href='http://bibel.renenyffenegger.ch/1mo_14.html#v5'>Vers 5</a>.
+  TODO: <i>Schaweh</i> (<span class='hebr'><span class='grey'>בְּ</span>שָׁוֵ֖ה</span>): dasselbe Wort wie für <i>Ebene</i> in <a href='http://bibel.renenyffenegger.ch/1mo_14.html#v5'>Vers 5</a>?
  }
 #}
 #1mo-14-18 {
@@ -3020,7 +3019,7 @@
 #}
 #1mo-14-20 {
  {
-   Der <i>zehnte von allem</i> ist offenbar der Zehnte der Beute (<a href='http://bibel.renenyffenegger.ch/hebr_7.html#v4'>Hebr&nbsp;7,4</a>).
+   Der <i>zehnte von allem</i> ist der Zehnte der Beute, §hebr-7-4.
  }
  {
   Durch diesen Zehnten wurde auch für Levi der Zehnte entrichtet (<a href='http://bibel.renenyffenegger.ch/hebr_7.html#v9'>Hebr&nbsp;7,9</a>,
@@ -3040,6 +3039,13 @@
 @}
 @1. Mose 15 {
 #1mo-15-1 {
+ {
+  <i>Offenbarung</i> (<span class='hebr'>מַחֲזֶה</span>, Strongs 4236), in
+  KJV mit 'vision' in Elberfelder mit 'Gesicht' übersetzt.
+  Kommt noch vor in <a href='http://bibel.renenyffenegger.ch/4mo_24.html#v4'>4.&nbsp;Mo&nbsp;24,4</a>,
+  <a href='http://bibel.renenyffenegger.ch/4mo_24.html#v16'>4.&nbsp;Mo&nbsp;24,16</a> und
+  <a href='http://bibel.renenyffenegger.ch/hes_13.html#v7'>Hes&nbsp;13,7</a>.
+ }
  {
   <i>Das Wort des HERRN</i>:
   <a href='http://bibel.renenyffenegger.ch/2mo_9.html#v20'>2.&nbsp;Mo&nbsp;9,20</a>,
@@ -3096,13 +3102,6 @@
 #1mo-15-2 {
  {
   Das erste Mal, dass Abram zum HERRN spricht.
- }
- {
-  <i>Offenbarung</i> (<span class='hebr'>מַחֲזֶה</span>, Strongs 4236), in
-  KJV mit 'vision' in Elberfelder mit 'Gesicht' übersetzt.
-  Kommt noch vor in <a href='http://bibel.renenyffenegger.ch/4mo_24.html#v4'>4.&nbsp;Mo&nbsp;24,4</a>,
-  <a href='http://bibel.renenyffenegger.ch/4mo_24.html#v16'>4.&nbsp;Mo&nbsp;24,16</a> und
-  <a href='http://bibel.renenyffenegger.ch/hes_13.html#v7'>Hes&nbsp;13,7</a>.
  }
 #}
 #1mo-15-5 {
@@ -97889,6 +97888,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   als unrein ausgechlossen, §esr-2-62
  <br>
   Dies ist wohl auch eine Auswirkung der »Änderung des Gesetzes« (§Vhebr-7-12)
+ }
+#}
+#hebr-7-4 {
+ {
+  §1mo-14-20
  }
 #}
 #hebr-7-6 {
