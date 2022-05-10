@@ -3014,6 +3014,9 @@
   Segnen: siehe <a class='kom' href='#I1mo-12-3'>1.&nbsp;Mo&nbsp;12,3</a>.
  }
  {
+  <i>Schwiegersöhne</i> vgl §V1mo-19-8
+ }
+ {
   TODO <i>Besitzer</i>, Strongs 7069: <a class='kom' href='#I1mo-4-1'>1.&nbsp;Mo&nbsp;4,1</a>.
  }
 #}
@@ -3375,10 +3378,10 @@
 @1. Mose 17 {
 #1mo-17-1 {
  {
-  Vgl <a class='kom' href='#I1mo-12-7'>1.&nbsp;Mo&nbsp;12,7</a>
+  Vgl §+1mo-12-7
  }
  {
-  <i>Untadelig</i>: Siehe <a class='kom' href='#I1mo-6-9'>1.&nbsp;Mo&nbsp;6,9</a>.
+  <i>vollkommen</i>: Siehe §+1mo-6-9.
  }
 #}
 #1mo-17-4 {
@@ -3491,7 +3494,7 @@
 #}
 #1mo-17-17 {
  {
-   Siehe <a class='kom' href='#I1mo-21-6'>1.&nbsp;Mo&nbsp;21,6</a>
+  <i>lachen</i> vgl §+1mo-21-6
  }
  {
   TODO: Wie alt waren zu jener Zeit die Männer, die Kinder geboren hatten?
@@ -3679,6 +3682,12 @@
   Die Einwohner von Sodom sind wohl kaum die 'Brüder von Lot', auch wenn er sie so nennt.
  }
 #}
+#1mo-19-8 {
+ {
+  Die beiden Töchter hatten noch keinen Mann erkannt, aber es war bereits klar, wen sie heiraten sollten (wenn sie nicht bereits
+  verheiratet waren): §V1mo-14-19
+ }
+#}
 #1mo-19-9 {
  {
   Lot wurde durch den zügellosen Lebenswandel der Frevler geplagt (<a href='http://bibel.renenyffenegger.ch/2petr_2.html#v7'>2.&nbsp;Petr&nbsp;2,7</a>).
@@ -3856,10 +3865,9 @@
 #}
 #1mo-21-6 {
  {
-  Gott hat Sarah ein <i>Lachen</i> bereitet, nachdem zuerst Abraham (<a href='http://bibel.renenyffenegger.ch/1mo_17.html#v17'>1.&nbsp;Mo&nbsp;17,17</a>) und
-  Sarah (<a href='http://bibel.renenyffenegger.ch/1mo_18.html#v12'>1.&nbsp;Mo&nbsp;18,12-13</a>) gelacht hatten.
-  <br>Dasselbe Wort wie für «zulachen» (<span class='hebr'>צָחַק</span>, Strongs 6711) wird in <a href='http://bibel.renenyffenegger.ch/1mo_26.html#v8'>1.&nbsp;Mo&nbsp;26,8</a>
-  mit «scherzen» übersetzt.
+  Gott hat Sarah ein <i>Lachen</i> bereitet, nachdem zuerst Abraham (§1mo-17-17) und
+  Sarah (§1mo-18-12-13) gelacht hatten.
+  <br>Dasselbe Wort wie für «lachen» (<span class='hebr'>צָחַק</span>, Strongs 6711) wird in §1mo-26-8 mit «scherzen» übersetzt.
  }
 #}
 #1mo-21-9 {
