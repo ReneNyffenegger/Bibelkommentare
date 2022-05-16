@@ -3359,7 +3359,7 @@
 #}
 #1mo-16-14 {
  {
-  Hier nennt Hager den Brunnen einen 'Brunnen des Lebendigen, der mich sieht'. In <a href='http://bibel.renenyffenegger.ch/1mo_21.html#v19'>1.&nbsp;Mo&nbsp;21,19</a>
+  Hier nennt Hager den Brunnen einen 'Brunnen des Lebendigen, der mich sieht'. In §1mo-21-19
   öffnet Gott ihr die Augen, dass sie einen Wasserbrunnen sieht.
   <br>Möglicherweise ist dieser Brunnen im <i>Negev</i>, jedenfalls ist Isaak bei diesem Brunnen, als er Rebekka zum ersten Mal sieht (<a href='http://bibel.renenyffenegger.ch/1mo_24.html#v62'>1.&nbsp;Mo&nbsp;24,62</a>).
   Isaak wohnte bei diesem Brunnen
@@ -3775,10 +3775,10 @@
   <a href='http://bibel.renenyffenegger.ch/1mo_21.html#v9'>1.&nbsp;Mo&nbsp;21,9</a>, wo der Sohn der Hagar wieder auftaucht.
  }
  {
-         Von wo man von <i>Gerar</i> nach Gaza kommt gehört zum Gebiet der Kanaaniter (<a href='http://bibel.renenyffenegger.ch/1mo_10.html#v19'>1.&nbsp;Mo&nbsp;10,19</a>) und
-         damit zum Land Kanaan, welches Abraham und seinem Samen nach ihm zum ewigen Besitz gibt (<a href='http://bibel.renenyffenegger.ch/1mo_17.html#v8'>1.&nbsp;Mo&nbsp;17,8</a>).
-         Trotzdem hielt sich Abraham hier als <i>Fremdling</i> auf.
-         <br>TODO: Siehe nun auch <a href='http://bibel.renenyffenegger.ch/1mo_20.html#v15'>1.&nbsp;Mo&nbsp;20,15</a> und <a href='http://bibel.renenyffenegger.ch/1mo_21.html#v23'>1.&nbsp;Mo&nbsp;21,23</a>.
+   Von wo man von <i>Gerar</i> nach Gaza kommt gehört zum Gebiet der Kanaaniter (<a href='http://bibel.renenyffenegger.ch/1mo_10.html#v19'>1.&nbsp;Mo&nbsp;10,19</a>) und
+   damit zum Land Kanaan, welches Abraham und seinem Samen nach ihm zum ewigen Besitz gibt (<a href='http://bibel.renenyffenegger.ch/1mo_17.html#v8'>1.&nbsp;Mo&nbsp;17,8</a>).
+   Trotzdem hielt sich Abraham hier als <i>Fremdling</i> auf.
+   <br>TODO: Siehe nun auch <a href='http://bibel.renenyffenegger.ch/1mo_20.html#v15'>1.&nbsp;Mo&nbsp;20,15</a> und <a href='http://bibel.renenyffenegger.ch/1mo_21.html#v23'>1.&nbsp;Mo&nbsp;21,23</a>.
  }
 #}
 #1mo-20-2 {
@@ -3846,7 +3846,7 @@
 #}
 #1mo-20-17 {
  {
-  Wörtlich: 'Abraham betete zu Gott' (KJV: 'prayed unto God').
+  Sch2K übersetzt mit «Abraham aber legte Fürbitte ein bei Gott».
  }
 #}
 @}
@@ -3891,6 +3891,11 @@
   Vgl §1mo-16-2, wo Abram wohl besser nicht auf Sarai gehört hätte.
  }
 #}
+#1mo-21-14 {
+ {
+  <i>Beerscheba</i> heisst «Brunnen des Schwurs» (§V1mo-21-31) oder «Brunnen der Sieben». Gibt es diese(n) Brunnen und Hagar sieht ihn/sie nicht? Vgl §V1mo-21-19, §1mo-16-14.
+ }
+#}
 #1mo-21-17 {
  {
   Hagar hat geweint, und ihre Stimme erhoben, aber Gott erhört die Stimme des Knaben. Damit wird gezeigt, dass Ismael kein Freier ist (<a href='http://bibel.renenyffenegger.ch/gal_4.html#v22'>Gal 4,22 ff</a>).
@@ -3925,7 +3930,7 @@
 #}
 #1mo-21-23 {
  {
-  <i>Fremdling</i>: <a class='kom' href='#I1mo-15-13'>1.&nbsp;Mo&nbsp;15,13</a>.
+  TODO <i>Fremdling</i>: §+1mo-15-13.
  }
 #}
 #1mo-21-27 {
@@ -3964,7 +3969,7 @@
 #}
 #1mo-21-34 {
  {
-  <i>Fremdling</i>: <a class='kom' href='#I1mo-15-13'>1.&nbsp;Mo&nbsp;15,13</a>.
+  TODO <i>Fremdling</i>: §+1mo-15-13.
  }
  {
   <span class='f'>Ist dies nicht in Kanaan?</span>
@@ -4098,11 +4103,13 @@
 #}
 #1mo-22-20 {
  {
-         <object data="svg_alle_kapitel/1mo_22.svg" type="image/svg+xml" width='349'></object>
-         <br>Beachte, auch Sarai ist Tochter von Terach, und Halbschwester von Abraham.
+   <object data="svg_alle_kapitel/1mo_22.svg" type="image/svg+xml" width='349'></object>
+   <br>Beachte, auch Sarai ist Tochter von Terach, und Halbschwester von Abraham.
  }
+#}
+#1mo-22-21 {
  {
-  <i>Bus</i>: <a class='kom' href='#Ihi-32-2'>Hi&nbsp;32,2</a>.
+  <i>Bus</i>: §+hi-32-2.
  }
 #}
 #1mo-22-23 {
@@ -41277,7 +41284,7 @@
 @Hiob 32 {
 #hi-32-2 {
  {
-  <i>Busiter</i>: Bus ist ein Sohn Milkas und Nahors, des Bruders Abrahams (<a href='http://bibel.renenyffenegger.ch/1mo_22.html#v20'>1.&nbsp;Mo&nbsp;22,20</a>).
+  <i>Busiter</i>: Bus ist ein Sohn Milkas und Nahors, des Bruders Abrahams (§1mo-22-21).
  }
 #}
 @}
