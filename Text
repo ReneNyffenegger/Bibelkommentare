@@ -3359,6 +3359,11 @@
    (<a href='http://bibel.renenyffenegger.ch/1sam_1.html#v20'>1.&nbsp;Sam&nbsp;1,20</a>).
  }
 #}
+#1mo-16-12 {
+ {
+  <i>angesichts aller seiner Brüder wird er wohnen</i>, vgl §1mo-25-18
+ }
+#}
 #1mo-16-13 {
  {
   <i>Name des Herrn</i>: <a class='kom' href='#I1mo-4-26'>1.&nbsp;Mo&nbsp;4,26</a>.
@@ -3394,6 +3399,8 @@
 #1mo-17-4 {
  {
   <i>Vater einer Menge Nationen</i>: vgl §+1mo-12-2.
+ <br>
+  Beim Tod Abrahams wird er zu zeinen Völkern versammelt, §1mo-25-8
  }
 #}
 #1mo-17-5 {
@@ -3406,7 +3413,7 @@
 #}
 #1mo-17-6 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/fruchtbar-sein_sich-mehren. Ismael soll auch fruchtbar werden: §V1mo-27-20
+   → biblisches/Eigene-Uebersetzung/Konkordanz/fruchtbar-sein_sich-mehren. Ismael soll auch fruchtbar werden: §V1mo-17-20
  }
  {
   Der Segen geht auch auf Jakob:
@@ -3786,6 +3793,9 @@
    damit zum Land Kanaan, welches Abraham und seinem Samen nach ihm zum ewigen Besitz gibt (<a href='http://bibel.renenyffenegger.ch/1mo_17.html#v8'>1.&nbsp;Mo&nbsp;17,8</a>).
    Trotzdem hielt sich Abraham hier als <i>Fremdling</i> auf.
    <br>TODO: Siehe nun auch <a href='http://bibel.renenyffenegger.ch/1mo_20.html#v15'>1.&nbsp;Mo&nbsp;20,15</a> und <a href='http://bibel.renenyffenegger.ch/1mo_21.html#v23'>1.&nbsp;Mo&nbsp;21,23</a>.
+ }
+ {
+  Auch Isaak wird nach Gerar gehen: §+1mo-26-1
  }
 #}
 #1mo-20-2 {
@@ -4439,7 +4449,10 @@
 #1mo-25-8 {
  {
   Abraham starb <i>in gutem Alter, alt und der Tage satt</i> (Vgl §1mo-15-15). Dies trifft auf Ismael nicht zu (§V1mo-25-17).
-  Isaak starb <i>alt</i> (nicht in <i>gutem Alter</i>), und wurde auch zu seinem Volk versammelt (§1mo-35-29)
+  Isaak starb <i>alt</i> (nicht in <i>gutem Alter</i>), und wurde auch zu seinen Völkern versammelt (§1mo-35-29)
+ }
+ {
+  <i>zu seinen Völkern versammelt werden</i>: vgl §1mo-17-4-5
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/alt-und-der-Tage-satt
@@ -4533,6 +4546,9 @@
  {
   <i>Hawila bis Sur</i>: §+1sam-15-7
  }
+ {
+  <i>angesichts seiner Brüder</i> vgl §1mo-16-12
+ }
 #}
 #1mo-25-19 {
  {
@@ -4603,6 +4619,9 @@
 @}
 @1. Mose 26 {
 #1mo-26-1 {
+ {
+  <i>Gerar</i>: §1mo-20-1-2, §V1mo-26-17
+ }
  {
   <i>Hungersnot</i>: <a class='kom' href='#I1mo-12-10'>1.&nbsp;Mo&nbsp;12,10</a>. Im Gegensatz zu Isaak zog
   Abraham nach Ägypten, vgl Vers 2.
@@ -4677,6 +4696,11 @@
    Vgl Verse 10 und 11 mit <a href='http://bibel.renenyffenegger.ch/1mo_20.html#v9'>1.&nbsp;Mo&nbsp;20,9</a>.
  }
 #}
+#1mo-26-12 {
+ {
+  Die Aussaat war fruchtbar, vgl §V1mo-26-22-24
+ }
+#}
 #1mo-26-14 {
  {
   TODO: <i>Schafherden</i> und <i>Rinderherden</i> enthalten Strongs 4735 (welches auch Vieh bedeuten kann, zB in <a href='http://bibel.renenyffenegger.ch/1mo_13.html#v2'>1.&nbsp;Mo&nbsp;13,2</a>).
@@ -4689,6 +4713,9 @@
  }
 #}
 #1mo-26-17 {
+ {
+  <i>wohnte im Tal Gerar</i> vgl §V1mo-26-1
+ }
  {
   TODO: <i>Tal</i> (<span class='hebr'>נַחַל</span>, Strongs 5158), wird
   in <a href='http://bibel.renenyffenegger.ch/1mo_32.html#v23'>1.&nbsp;Mo&nbsp;32,23</a> mit 'Furt',
@@ -4725,6 +4752,8 @@
  }
  {
   <i>fruchtbar sein im Land</i>: §1mo-17-6.
+ <br>
+  Vgl mit der Aussaat, die viele Frucht brachte: §V1mo-26-12
  }
 #}
 #1mo-26-29 {
