@@ -2535,6 +2535,7 @@
            Ephraim und Manasse <a href='http://bibel.renenyffenegger.ch/1mo_48.html#v20'>1.&nbsp;Mo&nbsp;48,20</a>
   <p>Laban segnete seine Töchter und Enkel (und küsste sie dabei): <a href='http://bibel.renenyffenegger.ch/1mo_32.html#v1'>1.&nbsp;Mo&nbsp;32,1</a>.
   <br>TODO: Zusammenführen mit <a class='kom' href='#I1mo-17-6'>1.&nbsp;Mo&nbsp;17,6</a>.
+  <br>Sollen gesegnet werden all Familien der Erde: vgl §1mo-18-17, §1mo-28-14
  }
  {
   <i>Familien</i>: Elb05 und Sch2K übersetzen mit «Geschlechter»
@@ -3029,11 +3030,14 @@
 #}
 #1mo-14-20 {
  {
-   Der <i>zehnte von allem</i> ist der Zehnte der Beute, §hebr-7-4.
+  Der <i>zehnte von allem</i> ist der Zehnte der Beute, §hebr-7-4.
  }
  {
   Durch diesen Zehnten wurde auch für Levi der Zehnte entrichtet (<a href='http://bibel.renenyffenegger.ch/hebr_7.html#v9'>Hebr&nbsp;7,9</a>,
   <a href='http://bibel.renenyffenegger.ch/4mo_18.html#v21'>4.&nbsp;Mo&nbsp;18,21</a>)
+ }
+ {
+  <i>Zehnte</i>: vgl §1mo-28-22
  }
 #}
 #1mo-14-22 {
@@ -3642,7 +3646,7 @@
   <i>grosse und mächtige Nation</i> vgl §+4mo-14-12, §5mo-4-38
  }
  {
-  Siehe <a class='kom' href='#I1mo-12-3'>1.&nbsp;Mo&nbsp;12,3</a>
+  Siehe §+1mo-12-3
  }
 #}
 #1mo-18-22 {
@@ -4051,6 +4055,9 @@
 #1mo-22-7 {
  {
   <i>Lamm</i> (<span class='he'>שֶׂה</span>, Strongs 7716): das hebr. Wort kann offenbar sowohl «Schaf» wie auch «Ziege» bedeuten. In Elb05 mit «Schaf» übersetzt. Ebenso im nächsten Vers.
+ }
+ {
+  <i>Hier bin ich, mein Sohn</i> vgl §1mo-27-1
  }
 #}
 #1mo-22-9 {
@@ -4562,10 +4569,16 @@
 #}
 #1mo-25-23 {
  {
+  <i>Der Ältere wird dem Jüngeren dienen</i> vgl §1mo-27-40
+ }
+ {
   Siehe <a class='kom' href='#I1mo-32-5'>1.&nbsp;Mo&nbsp;32,5</a>.
  }
  {
   <a href='http://bibel.renenyffenegger.ch/roem_9.html#v12'>Röm&nbsp;9,12</a>
+ }
+ {
+  TODO: §1mo-18-17
  }
 #}
 #1mo-25-25 {
@@ -4783,6 +4796,9 @@
 @1. Mose 27 {
 #1mo-27-1 {
  {
+  <i>Mein Sohn!… Hier bin ich</i> vgl §1mo-22-7, §+V1mo-27-18
+ }
+ {
   Dies ist angeblich der letzte Vers wo der name Esaus mit einem Aleph-Tau präpendierd wird, obwohl dieser Name noch 78(?) Mal vorkommt. Bei Jakob kommt das Aleph-Tau allerdings auch in den späteren
   Stellen vor.
  }
@@ -4875,7 +4891,7 @@
   übersetzt. Vgl Weinstock mit seinem Most in <a href='http://bibel.renenyffenegger.ch/ri_9.html#v13'>Ri&nbsp;9,13</a>.
  }
  {
-  Dieser Segen (Verse 27-28) besteht aus → biblisches/Grundtext/Zahlen#n26 26 Wörtern oder 111 Buchstaben.
+  Dieser Segen (Verse 27-28) besteht aus → biblisches/Grundtext/Zahlen#n26 Wörtern oder 111 Buchstaben.
  }
 #}
 #1mo-27-29 {
@@ -4914,6 +4930,11 @@
 #1mo-27-38 {
  {
   Auch Jakob <i>erhob seine Stimme und weinte</i>: <a href='http://bibel.renenyffenegger.ch/1mo_29.html#v11'>1.&nbsp;Mo&nbsp;29,11</a>.
+ }
+#}
+#1mo-27-40 {
+ {
+  <i>Deinem Bruder wirst du dienen</i> vgl §1mo-25-23, §V1mo-27-29
  }
 #}
 #1mo-27-41 {
@@ -5000,7 +5021,7 @@
  {
   <i>Jakob, der Fremdling</i>: In <a href='http://bibel.renenyffenegger.ch/1mo_37.html#v1'>1.&nbsp;Mo&nbsp;37,1</a> deutet nichts darauf hin, dass Jakob, im Gegensatz zu
   Abraham und Isaak, ein Fremdling gewesen wäre. Solches wird aber in <a href='http://bibel.renenyffenegger.ch/1mo_36.html#v6'>1.&nbsp;Mo&nbsp;36,6</a> angedeutet.
-  In <a href='http://bibel.renenyffenegger.ch/1mo_47.html#v9'>1.&nbsp;Mo&nbsp;47,9</a> bekundet er dann aber, dass die Jahre der Fremdlingschaft in Ägypten (!) 130 waren.
+  In Ägypten §1mo-47-9 bekundet er dann aber, dass die Jahre der Fremdlingschaft 130 waren.
  }
 #}
 #1mo-28-8 {
@@ -5024,6 +5045,11 @@
  }
  {
   <i>Nebajoth</i> ist der Erstgeborene von Ismael: <a href='http://bibel.renenyffenegger.ch/1mo_25.html#v13'>1.&nbsp;Mo&nbsp;25,13</a>.
+ }
+#}
+#1mo-28-11 {
+ {
+  TODO: Oder «Häuptern»? Vgl Vers 18
  }
 #}
 #1mo-28-13 {
@@ -5076,6 +5102,9 @@
 #1mo-28-22 {
  {
   Vermutlich gehört wegen dieses Gelübdes der → biblisches/Eigene-Uebersetzung/Konkordanz/Zehnte dem HERRN, §3mo-27-30
+ }
+ {
+  <i>Zehnte</i> vgl §1mo-14-20
  }
 #}
 @}
