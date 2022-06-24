@@ -5762,6 +5762,11 @@
 #}
 #1mo-35-7 {
  {
+  <i>sich offenbaren</i>: <span class='hebr'>גָּלָה </span> (Strongs 1540), sonst häufig mit «Blösse aufdecken» oder «entblössen» übersetzt, z. B. in §1mo-9-21, §2mo-20-26, §3mo-18-7 etc.
+  <br>
+  Vgl mit «Gott erschien» in §V1mo-35-9.
+ }
+ {
   Nur (?) hier genannt 'El-Bethel' (Siehe <a href='http://bibel.renenyffenegger.ch/1mo_35.html#v15'>Vers 15</a>), Bedeutung offenbar 'der Gott des Hauses Gottes',
       siehe <a href='http://bibel.renenyffenegger.ch/1mo_31.html#v13'>1.&nbsp;Mo&nbsp;31,13</a>.
   <br>TODO: Siehe aber auch <a class='kom' href='#I1mo-31-13'>1.&nbsp;Mo&nbsp;31,13</a>.
@@ -6057,6 +6062,11 @@
 #1mo-36-22 {
  {
   Erste erwähnte Schwester in Chronik ist Timna (<a href='http://bibel.renenyffenegger.ch/1chr_1.html#v39'>1.&nbsp;Chr&nbsp;1,39</a>).
+ }
+#}
+#1mo-36-23 {
+ {
+  §1chr-1-40
  }
 #}
 #1mo-36-28 {
@@ -7065,6 +7075,14 @@
   <i>Und dem Manasse wurden Söhne geboren, die ihm die syrische Konkubine gebar: Machir. Und Machir zeugte Galaad. Und die Söhne Ephraims, des Bruders des Manasse, waren: Sutalaam und Taam. Und die Söhne von Sutalaam: Edom</i>.
   <br>
    Vgl §V1mo-46-27
+ }
+#}
+#1mo-46-21 {
+ {
+  Vgl §4mo-26-38, §1chr-7-6, §1chr-8-1
+ }
+ {
+  Ist <i>Beker</i> dieselbe Person wie «Bekorath», §1sam-9-1, vgl §1chr-7-6
  }
 #}
 #1mo-46-26 {
@@ -18903,6 +18921,11 @@
       <a href='http://bibel.renenyffenegger.ch/hl_6.html#v4'>Hl&nbsp;6,4</a>.
  }
 #}
+#4mo-26-38 {
+ {
+  §+1mo-46-21
+ }
+#}
 #4mo-26-46 {
  {
   TODO: <i>Serach</i> wird anders geschrieben als jenes aus <a href='http://bibel.renenyffenegger.ch/4mo_26.html#v20'>Vers 20</a>.
@@ -21118,7 +21141,7 @@
 #}
 #5mo-11-7 {
  {
-   eure Augen haben all das große → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werk Jehovas] gesehen: §2mo-34-10
+  Eure Augen haben all das große → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werk Jehovas] gesehen: vgl §2mo-34-10, §ri-2-7
  }
 #}
 #5mo-11-12 {
@@ -25327,7 +25350,7 @@
 #}
 #ri-2-7 {
  {
-  <i>die das ganze grosse Werk Jehovas gesehen</i>: vgl §+jos-24-31.
+  <i>die das ganze grosse Werk Jehovas gesehen</i>: vgl §+jos-24-31, §+5mo-11-7
  }
 #}
 #ri-2-9 {
@@ -25413,7 +25436,10 @@
   <i>Tribut</i> <span class='hebr'>מִנְחָה</span> (Strongs 4503), siehe <a class='kom' href='#I1mo-4-3'>1.&nbsp;Mo&nbsp;4,3</a>.
  }
  {
-  Beachte: unter den Einwohnern von Benjamin scheint es 700 auserlesene Männer zu geben, die linkshändig waren (<a href='http://bibel.renenyffenegger.ch/ri_20.html#v16'>Ri&nbsp;20,16</a>).
+  Beachte: unter den Einwohnern von Benjamin scheint es 700 auserlesene Männer zu geben, die linkshändig waren (§ri-20-16).
+ }
+ {
+  Ehuds Nachkommenschaft wird möglicherweise in §1chr-8-6-ff behandelt (dort mit «Echud» transkribiert).
  }
 #}
 #ri-3-16 {
@@ -27229,7 +27255,8 @@
 @1. Samuel 9 {
 #1sam-9-1 {
  {
-         <object data="svg_alle_kapitel/1sam_9_1_saul.svg" type="image/svg+xml" width='650' height='290'></object>
+ TODO
+   <object data="svg_alle_kapitel/1sam_9_1_saul.svg" type="image/svg+xml" width='650' height='290'></object>
  }
  {
   In <a href='http://bibel.renenyffenegger.ch/1sam_31.html#v2'>1.&nbsp;Sam&nbsp;31,2</a> werden als Söhne Sauls genannt:
@@ -27244,6 +27271,9 @@
  }
  {
   <i>Abiel</i>: In <a href='http://bibel.renenyffenegger.ch/1chr_8.html#v33'>1.&nbsp;Chr&nbsp;8,33</a> ist: Ner -&gt; Kis -&gt; Saul.
+ }
+ {
+  Ist <i>Bekorath</i> dieselbe Person wie «Beker», §1mo-46-21? Vgl §1chr-7-6
  }
  {
   TODO: <i>Bechorat</i> <span class='hebr'>בְּכוֹרַת</span> (Strongs 1064, 1x) ist offenbar die weibliche Form von 'Erstling' (Strongs 1062).
@@ -34154,6 +34184,11 @@
   <i>Timna</i>: <a class='kom' href='#I1mo-36-22'>1.&nbsp;Mo&nbsp;36,22</a>.
  }
 #}
+#1chr-1-40 {
+ {
+  §1mo-36-23
+ }
+#}
 #1chr-1-42 {
  {
   <i>Jakaan</i>: Siehe <a class='kom' href='#I4mo-33-31'>4.&nbsp;Mo&nbsp;33,31</a>.
@@ -34307,6 +34342,8 @@
 #1chr-2-52 {
  {
   TODO: <i>Hazi-Hamenuchot</i> (<span class='hebr'>חֲצִי  הַמְּנֻחוֹת</span>, Strongs 2677 4496) bedeutet etwa 'Hälfte des Ruheplatzes'. Vgl Vers 54.
+ <br>
+  Vgl auch mit <i>Manachath</i> in §1chr-8-6
  }
 #}
 #1chr-2-53 {
@@ -34988,6 +35025,14 @@
   <i>Verzeichneten</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
  }
 #}
+#1chr-7-6 {
+ {
+  §+1mo-46-21
+ }
+ {
+  <i>Beker</i>: §+1sam-9-1
+ }
+#}
 #1chr-7-7 {
  {
   <i>verzeichnet sein</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis, ebenso §V1chr-7-9.
@@ -35004,6 +35049,9 @@
  }
  {
   Sind die andern Zahlen gerundet?
+ }
+ {
+  TODO: Ehud: §+1chr-8-6
  }
 #}
 #1chr-7-13 {
@@ -35041,6 +35089,24 @@
 #}
 @}
 @1. Chronik 8 {
+#1chr-8-1 {
+ {
+  Vgl §1mo-46-21
+ }
+#}
+#1chr-8-3 {
+ {
+  <i>Gera</i> auch in Vers 5.
+ }
+#}
+#1chr-8-6 {
+ {
+  Ist <i>Echud</i> dieselbe Person wie Ehud in §ri-3-15 (Sohn des Geras, vgl Vers 5). Vgl aber auch §1chr-7-10
+ }
+ {
+  TODO: Vgl <i>Manachath</i> mit <i>Hazi-Hammenuchoth</i> in §1chr-2-52
+ }
+#}
 #1chr-8-9 {
  {
   <i>Hodesch</i>: TODO: offenbar verwandt mit dem Wort für 'Monat'.
@@ -35139,7 +35205,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
  }
  {
-  Möglicherweise wurde diese Vereichnung ins → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis unter
+  Möglicherweise wurde diese Verzeichnung ins → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis unter
   → biblisches/Personen/Hiskia vorgenommen, §+2chr-31-16.
  }
  {
@@ -35148,7 +35214,7 @@
 #}
 #1chr-9-2 {
  {
-  Vgl §neh-11-3
+  Vgl §neh-7-73, §neh-11-3
  }
  {
   Einziges Vorkommen von <i>Tempeldiener</i> <span class='he'>נְּתִינִֽים</span> (Strongs 5411) ausserhalb von Esra und Nehemia.
@@ -35216,12 +35282,22 @@
   <a href='http://bibel.renenyffenegger.ch/esr_10.html#v24'>Esr&nbsp;10,24</a>, <a href='http://bibel.renenyffenegger.ch/neh_7.html#v45'>Neh&nbsp;7,45</a>.
  }
 #}
+#1chr-9-18 {
+ {
+  <i>Königstor</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Tor#tore-jerusalems
+ }
+#}
 #1chr-9-19 {
  {
   → biblisches/Personen/Korah/Sohn-von-Jizhar
  }
  {
   Ist dies derselbe <i>Kore</i> wie jener aus §2chr-31-14?
+ }
+#}
+#1chr-9-20 {
+ {
+  → biblisches/Personen/Pinehas
  }
 #}
 #1chr-9-21 {
@@ -35243,6 +35319,11 @@
 #1chr-9-24 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde
+ }
+#}
+#1chr-9-25 {
+ {
+  <i>von sieben zu sieben Tagen</i> vgl §+1chr-24-6, §2chr-23-8
  }
 #}
 #1chr-9-26 {
@@ -35281,8 +35362,10 @@
   Der Name <i>Jeghiel</i> wird in §1chr-8-29 nicht erwähnt.
  }
  {
-  <i>Der Vater Gibeons</i>: <a class='kom' href='#I1chr-8-29'>1.&nbsp;Chr&nbsp;8,29</a>.
-  <br>TODO: <i>Jeiel</i> (<span class='hebr'>יְעִיאֵל</span>, Strongs 3273) auch wiedergegeben mit 'Jehiel', zB in <a href='http://bibel.renenyffenegger.ch/1chr_5.html#v7'>1.&nbsp;Chr&nbsp;5,7</a>
+  <i>Der Vater Gibeons</i>: §+1chr-8-29.
+ }
+ {
+  TODO: <i>Jeiel</i> (<span class='hebr'>יְעִיאֵל</span>, Strongs 3273) auch wiedergegeben mit 'Jehiel', zB in <a href='http://bibel.renenyffenegger.ch/1chr_5.html#v7'>1.&nbsp;Chr&nbsp;5,7</a>
   (wo aber Jehiel ein Rubeniter ist).
  }
 #}
@@ -36049,6 +36132,18 @@
   → biblisches/Personen/Itamar
  }
 #}
+#1chr-24-6 {
+ {
+  Gemäss → Geschichte/Quellen/0094-Jüdische-Altertümer[Jüdische Altertümer] (VII:365-366) diente jede Familie eine Woche lang, vgl §2chr-23-8, §1chr-9-25
+ <br>
+  Gemäss <a href='https://www.sefaria.org/Mishnah_Sukkah.5.7?lang=bi'>Mischna Sukka 5.7</a> waren dreimal im Jahr (Am Passah-, am Wochen- und am Hüttenfest) alle Abteilungen gleichberechtigt.
+ }
+#}
+#1chr-24-7 {
+ {
+  Gemäss dem → biblisches/Talmud hatte die Abteilung Jehojarib Dienst, als der erste Tempel zerstört wurde (→ biblisches/Talmud/Sedarim/Kodaschim/Arachin[Arachin] Folio 11b).
+ }
+#}
 #1chr-24-9 {
  {
   <i>Malchija</i> (Strongs 4441): <a class='kom' href='#I1chr-9-12'>1.&nbsp;Chr&nbsp;9,12</a>.
@@ -36056,7 +36151,7 @@
 #}
 #1chr-24-10 {
  {
-  Zacharias ist aus der Abteilung Abija (<a href='http://bibel.renenyffenegger.ch/lk_1.html#v5'>Lk&nbsp;1,5</a>).
+  Zacharias ist aus der Abteilung Abija, §lk-1-5. Beachte, dass die nächste Abteilung <i>Jeschua</i> ist!
  }
 #}
 #1chr-24-16 {
@@ -36312,6 +36407,11 @@
 #}
 @}
 @1. Chronik 29 {
+#1chr-29-1 {
+ {
+  <i>Das Werk ist gross</i> vgl §neh-4-13, §neh-6-3, §pred-2-4
+ }
+#}
 #1chr-29-2 {
  {
   <i>Goldene und silberne Geräte für das Haus Gottes</i>: <ul>
@@ -37498,6 +37598,11 @@
 #}
 @}
 @2. Chronik 23 {
+#2chr-23-8 {
+ {
+  <i>Wechsel am Sabbat</i> vgl §+1chr-24-6, §1chr-9-25
+ }
+#}
 #2chr-23-15 {
  {
    <i>Rosstor</i>: §2koe-11-16, §jer-31-40, → biblisches/Eigene-Uebersetzung/Konkordanz/Tor#tore-jerusalems
@@ -38557,6 +38662,11 @@
   <i>hat mich beauftragt, ihm ein Haus zu bauen</i>: vgl §esr-6-3.
  }
 #}
+#esr-1-4 {
+ {
+  <i>Gold- und Silberunterstützung</i> vgl §esr-2-69
+ }
+#}
 #esr-1-8 {
  {
   <i>Mitredat</i>: <a class='kom' href='#Iesr-4-7'>Esr&nbsp;4,7</a>.
@@ -38594,7 +38704,13 @@
       Hände es auch vollenden sollen? (<a href='http://bibel.renenyffenegger.ch/sach_4.html#v9'>Sach&nbsp;4,9</a>).
  }
  {
-  Ein <i>Mordechai</i> kommt auch in Esther vor: <a class='kom' href='#Iest-2-6'>Est&nbsp;2,6</a>.
+  <i>Jeschua</i>: §Vesr-2-6, §Vesr-2-14, §Vesr-2-36, §Vesr-2-40
+ }
+ {
+  <i>Bigwai</i>: §Vesr-2-14
+ }
+ {
+  Ein <i>Mordokai</i> kommt auch in Esther vor: §est-2-5.
  }
  {
   §neh-7-7 erwähnt zusätzlich einen Nachamani.
@@ -38802,6 +38918,9 @@
 #}
 #esr-2-69 {
  {
+  <i>Gold- und Silbergaben</i> vgl §esr-1-4
+ }
+ {
   <i>Dareiken</i> (Strongs 1871): <a class='kom' href='#I1chr-29-7'>1.&nbsp;Chr&nbsp;29,7</a>.
  }
  {
@@ -38829,6 +38948,9 @@
  }
  {
    <a class='kom' href='#I1chr-16-40'>1.&nbsp;Chr&nbsp;16,40</a>.
+ }
+ {
+  <i>Serubbabel, der Sohn Schealtiels</i>: §mt-1-12
  }
 #}
 #esr-3-4 {
@@ -39289,7 +39411,7 @@
 #}
 #neh-1-2 {
  {
-  <i>Hanani</i> wird nach dem Bau der Mauer über Jerusalem beordert werden §+neh-7-2.
+  <i>Hanani</i> wird nach dem Bau der Mauer über Jerusalem beordert werden §+neh-7-2. Er wird auch dort als Bruder von Nehemia benannt.
  }
 #}
 #neh-1-5 {
@@ -39533,6 +39655,11 @@
   <i>Posaune</i>: vgl §1kor-14-8.
  }
 #}
+#neh-4-13 {
+ {
+  <i>Das Wrk ist gross</i> vgl §neh-6-3, §1chr-29-1
+ }
+#}
 #neh-4-17 {
  {
   TODO: <i>zu seiner Rechten</i>: im Grundtext offenbar »Gefäss des Wassers«.
@@ -39633,6 +39760,11 @@
   <br>Schlachter 2000 übersetzt »Ebene von Ono«.
  }
 #}
+#neh-6-3 {
+ {
+  <i>Ich führe ein grosses Werk aus</i> vgl §neh-4-13, §1chr-29-1
+ }
+#}
 #neh-6-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
@@ -39679,7 +39811,7 @@
 #}
 #neh-7-2 {
  {
-  Hanani eignet sich wohl für diese Aufgabe, weil er schon vor dem Bau der Mauer am Wohl Jerusalems interessiert war §neh-1-1-2.
+  Hanani eignet sich wohl für diese Aufgabe, weil er schon vor dem Bau der Mauer am Wohl Jerusalems interessiert war §neh-1-1-2. Hanani wird auch dort als Bruder von Nehemia genannt.
   <br>
   Hananja eignet sich, weil er treu und gottesfürchtig ist. Vgl §1kor-4-2
  }
@@ -39692,6 +39824,9 @@
 #neh-7-5 {
  {
   Unter → biblisches/Personen/Hiskia (Jehiskia) wurden ins Geschlechtsregister eingetragen, alle von drei Jahren und darüber, die in das Haus des HERRN gehen sollten, §2chr-31-16-ff
+ }
+ {
+  Das Personalpronomen <i>ich</i> (oder <i>mir</i> oder <i>mein</i>) erscheint bis §neh-12-31 nicht mehr.
  }
  {
   TODO: In diesem Vers kommt Strongs 3187, welches manchmal mit <i>Geschlechtsregister</i> übersetzt wird (<a class='kom' href='#I1chr-4-33'>1.&nbsp;Chr&nbsp;4,33</a>).
@@ -39887,6 +40022,9 @@
  }
 #}
 #neh-7-73 {
+ {
+  Vgl §neh-11-3, §1chr-9-2
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Torhüter
  }
@@ -40310,7 +40448,7 @@
 #}
 #neh-11-3 {
  {
-  Vgl §1chr-9-2
+  Vgl §neh-7-73, §1chr-9-2
  }
 #}
 #neh-11-4 {
@@ -40455,7 +40593,10 @@
 #}
 #neh-12-31 {
  {
-   <i>Misttor</i>: §neh-3-14
+  <i>Misttor</i>: §neh-3-14
+ }
+ {
+  Der letzte Vers in dem das Personalpronomen <i>ich</i> vorkommt ist §neh-7-5
  }
 #}
 #neh-12-35 {
@@ -40465,7 +40606,7 @@
 #}
 #neh-12-37 {
  {
-   <i>Quelltor</i>: §neh-2-14, §neh-3-15
+  <i>Quelltor</i>: §neh-2-14, §neh-3-15
  }
 #}
 #neh-12-39 {
@@ -40630,13 +40771,13 @@
 #}
 #est-2-5 {
  {
+  <i>Mordokai</i> scheint zu jenen zu gehören, die nach Jerusalem zurückgekehrt sind, §esr-2-2.
+ }
+ {
   <a class='kom' href='#I1sam-15-9'>1.&nbsp;Sam&nbsp;15,9</a>.
  }
 #}
 #est-2-6 {
- {
-  <i>Mordechai</i> scheint zu jenen zu gehören, die nach Jerusalem zurückgekehrt sind (<a href='http://bibel.renenyffenegger.ch/esr_2.html#v2'>Esr&nbsp;2,2</a>).
- }
  {
   → biblisches/Personen/Jekonja-Jojakin
  }
@@ -41686,7 +41827,7 @@
 #}
 #ps-2-2 {
  {
-  Vgl §ps-33-11
+  Vgl §ps-33-11, §ps-48-5
  }
 #}
 #ps-2-4 {
@@ -43279,6 +43420,11 @@
  }
  {
   <i>Nordseite</i> vgl §jes-14-13
+ }
+#}
+#ps-48-5 {
+ {
+  vgl §ps-2-2
  }
 #}
 #ps-48-8 {
@@ -44953,6 +45099,11 @@
 #ps-94-16 {
  {
   <i>Wohl dem</i>: <a class='kom' href='#Ips-1-1'>Ps&nbsp;1,1</a>.
+ }
+#}
+#ps-94-23 {
+ {
+  Angeblich wurde dieser Vers bei der Zerstörung des ersten (und zweiten?) Tempels gesungen, vgl → biblisches/Talmud/Sedarim/Kodaschim/Arachin[Traktat Arachin], Folio 11b.
  }
 #}
 @}
@@ -53664,6 +53815,9 @@
  {
   → biblisches/Personen/Jekonja-Jojakin
  }
+ {
+  Vgl §jer-29-2
+ }
 #}
 #jer-24-7 {
  {
@@ -53997,6 +54151,9 @@
  }
  {
   → biblisches/Personen/Jekonja-Jojakin
+ }
+ {
+  Vgl §jer-24-1
  }
 #}
 #jer-29-10 {
@@ -57511,6 +57668,11 @@
   TODO: Hier wird Nebukadnezar, Daniel in <a href='http://bibel.renenyffenegger.ch/dan_7.html#v15'>Dan&nbsp;7,15</a> beunruhigt.
  }
 #}
+#dan-2-2 {
+ {
+  <i>Beschwörer</i> in der Septuaginta: <span class='gr'>μάγος</span> (Strongs 3097), dasselbe Wort wie für «Magier» in §mt-2-1-ff
+ }
+#}
 #dan-2-4 {
  {
   Ab hier (Dan 2:4b ?) bis §dan-7-28 ist der Text → biblisches/Grundtext/aramäisch. Ist der Grund dafür, dass
@@ -58548,6 +58710,11 @@
   <i>Verständige</i>: <a class='kom' href='#Ips-32-1'>Ps&nbsp;32,1</a>.
  }
 #}
+#dan-11-35 {
+ {
+  <i>um sie zu läutern und reinigen</i> vgl §dan-12-10
+ }
+#}
 #dan-11-36 {
  {
   <i>bis der Zorn vollendet ist</i> §+hes-13-15, §dan-12-7
@@ -58629,6 +58796,9 @@
 #dan-12-10 {
  {
   <i>Die Gottlosen werden gottlos bleiben</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_22.html#v11'>Offb&nbsp;22,11</a>.
+ }
+ {
+  <i>Viele werden sich reinigen…</i> Vgl §dan-11-35
  }
 #}
 #dan-12-11 {
@@ -61196,6 +61366,8 @@
 #mt-1-12 {
  {
   <i>Serubbabel</i>: <a class='kom' href='#I1chr-3-19'>1.&nbsp;Chr&nbsp;3,19</a>, <a class='kom' href='#Iesr-2-2'>Esr&nbsp;2,2</a>.
+ <br>
+  §esr-3-2
  }
  {
   → biblisches/Personen/Schealtiel ist der Sohn Assirs, des Sohnes Jechonjas (§1chr-3-17)
@@ -61310,6 +61482,7 @@
   <i>Magier</i>: <span class='gr'>μάγος</span> (Strongs 3097), stammt offenbar vom Hebr. Strongs 7248 ab (§jer-39-3).
   <br>King James übersetzt dieses Wort hier mit «wise men», Schlachter 2K mit «Weise».
   <br>Vgl §Vmt-2-7, §+apg-13-6
+  <br>In der Septuaginta wird dasselbe Wort in §dan-2-2 mit «Beschwörer» übersetzt.
  }
  {
    Möglicherweise kannten die Magier §mi-5-1 nicht und kamen deshalb nach → biblisches/Orte/Bethlehem statt nach → biblisches/Orte/Jerusalem.
@@ -69666,7 +69839,7 @@
   <i>seine Frau aus den Töchtern Aarons</i> vgl §Vlk-1-36
  }
  {
-  Abteilung Abija: <a class='kom' href='#I1chr-24-10'>1.&nbsp;Chr&nbsp;24,10</a>.
+  Zacharias ist aus der Abteilung Abija, §+1chr-24-10. Der Name der nächsten Abteilung ist <i>Jeschua</i>(!), §1chr-24-11
  }
  {
   Beachte, <i>Zacharias</i> ist auch der Name des letzten (textlich, nicht chronologisch) erwähnten Märtyrers: §+mt-23-35.
