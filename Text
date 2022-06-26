@@ -2810,6 +2810,11 @@
   Abraham den 'ewigen Gott' anrufen.
  }
 #}
+#1mo-13-16 {
+ {
+  Vgl §4mo-23-10
+ }
+#}
 #1mo-13-18 {
  {
   Abram brach auf und <i>wohnte</i> bei den Terebinthen Mamres in → biblisches/Orte/Hebron, obwohl er aufgefordert war, das Land seiner Länge
@@ -5071,6 +5076,11 @@
   TODO: in <a href='http://bibel.renenyffenegger.ch/1mo_48.html#v4'>1.&nbsp;Mo&nbsp;48,4</a> mit <i>fruchtbar</i> zusammengefasst.
  }
 #}
+#1mo-28-14 {
+ {
+  TODO: Du wirst dich ausbreiten, vgl §1mo-30-30
+ }
+#}
 #1mo-28-18 {
  {
   Siehe <a class='kom' href='#I1mo-31-13'>1.&nbsp;Mo&nbsp;31,13</a> (wo das Wort 'gesalbt' verwendet wird).
@@ -5298,6 +5308,9 @@
 #}
 #1mo-30-30 {
  {
+  TODO: es hat sich ausgebreitet: vgl §1mo-28-14
+ }
+ {
   TODO: in 'meiner Ankunft' versteckt sich das Wort für 'Angesicht' (Strongs 6440).
  }
 #}
@@ -5413,6 +5426,9 @@
   'Kristall' (<a href='http://bibel.renenyffenegger.ch/hes_1.html#v22'>Hes&nbsp;1,22</a>)
   <br>TODO: vgl <a href='http://bibel.renenyffenegger.ch/ps_147.html#v17'>Ps&nbsp;147,17</a>
  }
+ {
+  <i>Der Schlaf floh</i> vgl §dan-6-19
+ }
 #}
 #1mo-31-41 {
  {
@@ -5431,7 +5447,7 @@
 #}
 #1mo-31-47 {
  {
-  <span class='hebr'>יְגַר שָׂהֲדוּתָא</span> ist → biblisches/Grundtext/aramäisch und <span class='hebr'>גַּלְעֵֽד</span> (Strongs 1567) ist hebräisch für «Steinhaufen»
+  <span class='hebr'>יְגַר שָׂהֲדוּתָא</span> ist → biblisches/Grundtext/aramäisch[aramäisch] und <span class='hebr'>גַּלְעֵֽד</span> (Strongs 1567) ist hebräisch für «Steinhaufen»
   (<span class='hebr'>גַּל</span>, Strongs 1530) des Zeugnisses (<span class='hebr'>עֵד</span>, Strongs 5707)'.
  }
  {
@@ -5484,6 +5500,11 @@
 #1mo-32-11 {
  {
   Vgl <a class='kom' href='#I1mo-29-1'>1.&nbsp;Mo&nbsp;29,1</a>.
+ }
+#}
+#1mo-32-12 {
+ {
+  <i>Rette mich …</i> vgl §V1mo-32-31
  }
 #}
 #1mo-32-14 {
@@ -5543,6 +5564,9 @@
 #1mo-32-31 {
  {
   <i>Pniel</i> (<span class='hebr'>פְּנוּאֵל</span>, Strongs 6439). Vgl <i>Gottes Angesicht</i> <a class='kom' href='#I1mo-33-10'>1.&nbsp;Mo&nbsp;33,10</a> . TODO: Komponenten analysieren.
+ }
+ {
+  <i>ist gerettet worden</i> vgl §1mo-32-12
  }
  {
   TODO: Niemand kann leben, der das Angesicht des HERRN sieht (<a href='http://bibel.renenyffenegger.ch/2mo_33.html#v20'>2.&nbsp;Mo&nbsp;33,20</a>).
@@ -18515,6 +18539,11 @@
   <br>TODO: Vgl auch mi <a class='kom' href='#I5mo-33-15'>5.&nbsp;Mo&nbsp;33,15</a>.
  }
 #}
+#4mo-23-10 {
+ {
+  <i>Wer könnte zählen den Staub Jakobs</i> vgl §1mo-13-16
+ }
+#}
 #4mo-23-19 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch
@@ -24209,7 +24238,7 @@
 #jos-15-21 {
  {
   <i>Kabzeel</i>: Benaja stammt von hier (<a href='http://bibel.renenyffenegger.ch/2sam_23.html#v20'>2.&nbsp;Sam&nbsp;23,20</a>, <a href='http://bibel.renenyffenegger.ch/1chr_11.html#v22'>1.&nbsp;Chr&nbsp;11,22</a>)
-  <br>Vgl Jekabzeel in <a href='http://bibel.renenyffenegger.ch/neh_11.html#v25'>Neh&nbsp;11,25</a>.
+  <br>Vgl Jekabzeel in §neh-11-25.
  }
 #}
 #jos-15-24 {
@@ -31782,6 +31811,13 @@
   <i>Rückkehr des Jahres</i>: vgl §+2sam-11-1, §2chr-24-23
  }
 #}
+#1koe-20-24 {
+ {
+  <i>Befehlshaber</i> (פֶּחָה, Strongs 6346)
+  sollte wohl aus Konsistenzgründen mit «Landpfleger» übersetzt werden,
+  vgl §1koe-10-15, §2koe-18-24
+ }
+#}
 #1koe-20-28 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Mann-Gottes
@@ -33147,6 +33183,11 @@
   <i>Ägypten als Rohrstab</i>: vgl <a href='http://bibel.renenyffenegger.ch/hes_29.html#v6'>Hes&nbsp;29,6</a>.
  }
 #}
+#2koe-18-24 {
+ {
+  <i>Befehlshaber</i>: §+1koe-20-24
+ }
+#}
 #2koe-18-26 {
  {
   → biblisches/Aramäisch
@@ -33872,10 +33913,10 @@
  {
   Die ehernen Säulen und die Gestelle und das eherne Meer wurden zerschlagen und das Erz davon nach Babel gebracht, §2koe-25-13.
   <br>
-   Vgl mit der Weissagung in §jer-27-19-23: Die übrigen Geräte (die Säulen, das Wasserbecken, die Gestelle), die Nebukadnezar nicht weggenommen hat, sollen bis zum bestimmten Tag nach Babel gebracht werden.
+  Vgl mit der Weissagung in §jer-27-19-23: Die übrigen Geräte (die Säulen, das Wasserbecken, die Gestelle), die Nebukadnezar nicht weggenommen hat, sollen bis zum bestimmten Tag nach Babel gebracht werden.
  }
  {
-  TODO: Die goldenen und silbernen Geräte des Hauses Gottes, welche Nebukadnezar aus dem Tempel herausgenommen und nach Babel gebracht hat, soll man zurückgeben: §esr-6-5.
+  TODO: Die goldenen und silbernen Geräte des Hauses Gottes, welche Nebukadnezar aus dem Tempel herausgenommen und nach Babel gebracht hat, soll man zurückgeben: §esr-6-5, §esr-1-7
  }
 #}
 #2koe-24-14 {
@@ -38653,23 +38694,29 @@
  }
  {
   <i>Gott des Himmels</i>: <a class='kom' href='#I1mo-24-3'>1.&nbsp;Mo&nbsp;24,3</a>.
-  <br>Beachte auch das häufige Vorkommen dieses Ausdruckes im Buch Esra, Nehemia und folgenden.
+  <br>Beachte das häufige Vorkommen dieses Ausdruckes im Buch Esra, Nehemia und Daniel.
+  <br>Das Haus des Gotts des Himmels soll in Jerusalem gebaut werden: 
  }
  {
   <i>Alle Königreiche der Erde hat der HERR mir gegeben</i>: §+dan-2-37.
  }
  {
-  <i>hat mich beauftragt, ihm ein Haus zu bauen</i>: vgl §esr-6-3.
+  TODO: Gemäss <a href='https://de.wikipedia.org/wiki/Kyros-Zylinder'>Wikipedia</a> ist «Die Titulatur „König von Persien“ ist erst seit Dareios I. bekannt;»
  }
 #}
 #esr-1-4 {
  {
-  <i>Gold- und Silberunterstützung</i> vgl §esr-2-69
+  <i>Gold- und Silberunterstützung</i> vgl §esr-2-69. Gem §esr-6-4 sollen die Kosten aus dem Haus des Königs bestritten werden.
+ }
+#}
+#esr-1-7 {
+ {
+  Vgl §2koe-24-13
  }
 #}
 #esr-1-8 {
  {
-  <i>Mitredat</i>: <a class='kom' href='#Iesr-4-7'>Esr&nbsp;4,7</a>.
+  <i>Mitredat</i>: §+esr-4-7
  }
 #}
 #esr-1-9 {
@@ -39026,7 +39073,7 @@
   → biblisches/Personen/Artasasta
  }
  {
-  TODO: Ist Mithredath der Schatzmeister von §esr-1-8?
+  Ist <i>Mithredath</i> der Schatzmeister von §esr-1-8?
  }
  {
   TODO: Ein <i>Tabeel</i> wird auch in §jes-7-6 erwähnt.
@@ -39037,7 +39084,7 @@
   <i>Schimschai, der Schreiber</i> vgl mit Zadok, §neh-13-13
  }
  {
-  Ab hier bis §esr-6-18 ist der Text → biblisches/Grundtext/aramäisch
+  Ab hier bis §esr-6-18 ist der Text → biblisches/Grundtext/aramäisch[aramäisch].
  }
 #}
 #esr-4-9 {
@@ -39046,7 +39093,13 @@
   <br>Beachte, die Burg <i>Susa</i> liegt in der Provinz Elam (§dan-8-2).
  }
  {
-  TODO: → biblisches/Eigene-Uebersetzung/Konkordanz/Susan[Susaniter]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Susan[Susaniter], <span class='hebr'>שֽׁוּשַׁנְכָיֵ֔א</span> (Strongs 7801, 1x) wäre vermutlich besser
+  transkribiert mit «Susankiter».
+ }
+#}
+#esr-4-11 {
+ {
+  <i>Abschrift des Briefes</i> vgl §esr-5-6
  }
 #}
 #esr-4-13 {
@@ -39096,6 +39149,16 @@
    → biblisches/Personen/Schealtiel
  }
 #}
+#esr-5-6 {
+ {
+  <i>Abschrift des Briefes</i> vgl §esr-4-11
+ }
+#}
+#esr-5-7 {
+ {
+  Vgl <i>allen Frieden</i> mit «Frieden in Fülle», §dan-6-26
+ }
+#}
 #esr-5-11 {
  {
   <i>Wir sind die Knechte des Gottes des Himmels</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-gottes-knecht, §neh-9-36
@@ -39131,7 +39194,10 @@
 #}
 #esr-6-4 {
  {
-  <i>Kosten für das Haus</i>: vgl §2mo-30-16-ff
+  <i>Kosten für das Haus</i>: vgl §esr-1-4, §2mo-30-16-ff
+ }
+ {
+  TODO <i>Balken</i> vgl §Vesr-6-11
  }
 #}
 #esr-6-5 {
@@ -39216,7 +39282,7 @@
   → biblisches/Personen/Artasasta, → biblisches/Eigene-Uebersetzung/Konkordanz/König/der-Könige
  }
  {
-  Ab hier bis <a href='http://bibel.renenyffenegger.ch/esr_7.html#v26'>Vers 26</a> ist der Text → biblisches/Grundtext/aramäisch
+  Ab hier bis <a href='http://bibel.renenyffenegger.ch/esr_7.html#v26'>Vers 26</a> ist der Text → biblisches/Grundtext/aramäisch[aramäisch].
  }
  {
   Beachte, dass hier Das Gesetz jenes 'des Gottes des Himmels' gennant wird, nicht das 'Gesetz Moses'.
@@ -39532,9 +39598,13 @@
   <br>Gäbelein vermutet, das dies das Ecktor (§2chr-25-23) ist.
  }
 #}
-#neh-3-7 {
+#neh-3-8 {
  {
-  ,
+  Vgl mit Hananja, dem Sohn Schelemjas, §Vneh-3-29, und Hananja, dem Obersten der Burg, §neh-7-2
+ }
+ {
+  <i>Goldschmied</i>: §Vneh-3-31
+  kom
  }
 #}
 #neh-3-11 {
@@ -39581,11 +39651,19 @@
    Tekoiter: §Vneh-3-5.
  }
 #}
+#neh-3-29 {
+ {
+  Vgl mit Hananja von den Salbenmischern, §Vneh-3-8
+ }
+#}
 #neh-3-31 {
  {
   <i>Tor Miphkad</i> (<span class='hebr'>מִפְקָד</span>, Strongs 4663), offenbar dasselbe Wort wie Strongs 4662
   (<a class='kom' href='#Ihes-43-21'>Hes&nbsp;43,21</a>). Es ist offenbar ein militärisches Wort, das etwa zählen oder antreten lassen bedeutet.
   <br>Gemäss anderen Stimmen bedeutet Miphkad «Vergeltung» oder «Belohnung».
+ }
+ {
+  <i>Goldschmied</i>: §Vneh-3-8
  }
  {
   TODO: Die Tempeldiener sollten wohl kaum etwas mit den Händlern zu tun haben, die Händler werden doch in einigen (Hesekiel?, Offenbarung?) Prophetien sehr
@@ -39814,6 +39892,9 @@
   Hanani eignet sich wohl für diese Aufgabe, weil er schon vor dem Bau der Mauer am Wohl Jerusalems interessiert war §neh-1-1-2. Hanani wird auch dort als Bruder von Nehemia genannt.
   <br>
   Hananja eignet sich, weil er treu und gottesfürchtig ist. Vgl §1kor-4-2
+ }
+ {
+  Vgl mit Hananja, dem Salbenmischer, §neh-3-8, und Hanaja, dem Sohn Schelemjas, §neh-3-29.
  }
 #}
 #neh-7-3 {
@@ -40508,7 +40589,7 @@
 #}
 #neh-11-25 {
  {
-  §jos-15-21
+  <i>Jekabzeel</i>: §jos-15-21
  }
  {
   Kirjath-Arba ist → biblisches/Orte/Hebron. Hier ist der einzige Vers der Bibel, wo Kirjath-Arba erwähnt wird, ohne gleichzeitig
@@ -41034,6 +41115,11 @@
 #}
 @}
 @Hiob 6 {
+#hi-6-2 {
+ {
+  Vgl §hi-31-6
+ }
+#}
 #hi-6-16 {
  {
   <i>Eis</i>: <a class='kom' href='#I1mo-31-40'>1.&nbsp;Mo&nbsp;31,40</a>
@@ -41206,6 +41292,11 @@
 #hi-13-24 {
  {
   <i>Warum verbirgst du dein Angesicht</i> §hi-34-29
+ }
+#}
+#hi-13-28 {
+ {
+  Vgl §jes-50-9, §jes-51-8
  }
 #}
 @}
@@ -41502,6 +41593,11 @@
 }
 { 31-42
 @Hiob 31 {
+#hi-31-6 {
+ {
+  §hi-6-2
+ }
+#}
 #hi-31-11 {
  {
   <i>Richter</i>: §+2mo-21-22.
@@ -47985,7 +48081,7 @@
 #}
 #spr-16-11 {
  {
-  <i>Gerechte waage</i>: vgl mit der «betrügerischen Waage»: §+spr-11-1.
+  <i>Gerechte Waage</i>: vgl mit der «betrügerischen Waage»: §+spr-11-1.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes
@@ -51764,6 +51860,12 @@
   <a href='http://bibel.renenyffenegger.ch/jer_51.html#v44'>Jer&nbsp;51,44</a>.
  }
 #}
+#jes-46-8 {
+ {
+  <i>ihr Abtrünnigen</i>: <span class='hebr'>פוֹשְׁעִ֖ים</span> (Strongs 6558), dasselbe Wort wie für
+  «abgefallen» in §jes-43-27. Ebenso mit «Übertreter» in §jes-48-8
+ }
+#}
 #jes-46-10 {
  {
   Vgl §apg-15-18, §pred-3-14
@@ -51813,6 +51915,12 @@
 #jes-48-4 {
  {
   <i>dein Nacken eine eiserne Sehne</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten
+ }
+#}
+#jes-48-8 {
+ {
+  <i>Übertreter</i>: <span class='hebr'>פוֹשְׁעִ֖ים</span> (Strongs 6558), dasselbe Wort wie für
+  «Abtrünnige» in §jes-46-8
  }
 #}
 #jes-48-9 {
@@ -51958,6 +52066,11 @@
   Vgl Verse 8 und 9 mit <a href='http://bibel.renenyffenegger.ch/roem_8.html#v32'>Röm&nbsp;8,32ff</a>.
  }
 #}
+#jes-50-9 {
+ {
+  <i>wie ein Kleid, die Motte wird sie fressen</i> vgl §jes-51-8, §hi-13-28
+ }
+#}
 @}
 }
 { 51 - 60
@@ -51991,6 +52104,11 @@
 #jes-51-7 {
  {
   §mt-5-11
+ }
+#}
+#jes-51-8 {
+ {
+  <i>wie ein Kleid wird sie verzehren die Motte</i> vgl §jes-50-8, §hi-13-28
  }
 #}
 #jes-51-9 {
@@ -52153,6 +52271,9 @@
  }
  {
   <i>die Sünde vieler Getragen</i> vgl §hebr-9-28, §mt-26-28, §1joh-2-2
+ }
+ {
+  <i>Übertreter</i>: §+jes-48-8
  }
 #}
 @}
@@ -53246,7 +53367,7 @@
 #}
 #jer-10-11 {
  {
-  Dieser Vers ist → biblisches/Grundtext/aramäisch.
+  Dieser Vers ist → biblisches/Grundtext/aramäisch[aramäisch].
  }
  {
   TODO: <i>Wasser am Himmel</i>: vgl <a href='http://bibel.renenyffenegger.ch/jer_51.html#v16'>Jer&nbsp;51,16</a>.
@@ -55209,6 +55330,9 @@
   <i>Benhadad</i>: <a class='kom' href='#I1koe-15-18'>1.&nbsp;Kö&nbsp;15,18</a>.
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/am_1.html#v4'>Am&nbsp;1,4</a>.
  }
+ {
+  TODO Vgl §hos-8-14
+ }
 #}
 #jer-49-28 {
  {
@@ -56210,6 +56334,9 @@
    <a class='kom' href='#Ijes-21-28'>Jes&nbsp;21,28</a>, <a class='kom' href='#I1koe-11-27'>1.&nbsp;Kö&nbsp;11,27</a>.
  }
  {
+  Vgl auch §hes-22-30
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
  }
 #}
@@ -56528,6 +56655,11 @@
 #hes-22-26 {
  {
   <i>zwischen Heiligem und Unheiligem unterscheiden sie nicht</i> §hes-42-20, §+3mo-10-10, §hes-44-23
+ }
+#}
+#hes-22-30 {
+ {
+  Vgl §hes-13-5
  }
 #}
 @}
@@ -57586,8 +57718,8 @@
 #}
 #dan-1-5 {
  {
-  <i>feine Speise</i> (<span class='hebr'>פת־בג</span>, Strongs 5698) wird in <a href='http://bibel.renenyffenegger.ch/dan_11.html#v26'>Dan&nbsp;11,26</a>
-  mit «Tafelkost» übersetzt.
+  <i>Tafelkost</i> (<span class='hebr'>פת־בג</span>, Strongs 5698) wird in Sch2K mit «feine Speise» übersetzt.
+  vgl §dan-11-26
  }
 #}
 #dan-1-6 {
@@ -57611,7 +57743,7 @@
  {
   Daniel möchte sich nicht mit <i>Wein</i> verunreinigen: §dan-10-3.
 <br>
-  Vgl mitNehemia, dem Mundschenk des Königs (§neh-1-11). Er gibt dem König Wein (§neh-2-1).
+  Vgl mit Nehemia, dem Mundschenk des Königs, §neh-1-11. Dieser gibt dem König Wein, §neh-2-1
  }
 #}
 #dan-1-12 {
@@ -57659,6 +57791,9 @@
   Auch der Geist des Pharaos war beunruhigt nach einem Traum: <a href='http://bibel.renenyffenegger.ch/1mo_41.html#v8'>1.&nbsp;Mo&nbsp;41,8</a>.
  }
  {
+  <i>Schlaf war dahin</i> vgl §dan-6-19, §1mo-31-40
+ }
+ {
   TODO: Das müsste wohl im fünften Jahr Jojakims gewesen sein (<a class='kom' href='#Ijer-36-9'>Jer&nbsp;36,9</a>).
  }
  {
@@ -57675,7 +57810,7 @@
 #}
 #dan-2-4 {
  {
-  Ab hier (Dan 2:4b ?) bis §dan-7-28 ist der Text → biblisches/Grundtext/aramäisch. Ist der Grund dafür, dass
+  Ab hier (Dan 2:4b ?) bis §dan-7-28 ist der Text → biblisches/Grundtext/aramäisch[aramäisch]. Ist der Grund dafür, dass
   die nicht aramäisch sprechenden Juden (§2koe-18-26) diesen Abschnitt nicht verstehen sollen?
  }
 #}
@@ -57701,7 +57836,8 @@
 #}
 #dan-2-13 {
  {
-  <i>wurden getötet</i>: Die Form des aramäischen Zeitwortes deutet an, daß die Tötung eben erst begann. 
+  <i>wurden getötet</i>: Die Form des aramäischen Zeitwortes deutet an, daß die Tötung eben erst begann.
+  In §Vdan-2-24 bittet Daniel Arioch, die Weisen von Babel nicht zu töten.
  }
 #}
 #dan-2-18 {
@@ -57726,6 +57862,9 @@
  }
 #}
 #dan-2-25 {
+ {
+  <i>ich habe einen Mann gefunden</i> vgl §dan-5-11: bei Daniel wurde Verstand und Weisheit gefunden.
+ }
  {
   TODO: Ist das vor oder nach Ablauf der drei Jahre Ausbildung Daniels (<a class='kom' href='#Idan-1-18'>Dan&nbsp;1,18</a>)?
  }
@@ -57759,6 +57898,9 @@
   TODO: <i>Silber</i> <span class='hebr'>כַּסְפָּ֣<b>א</b></span> ist offensichtlich betont (abschliessendes Aleph). Dies im Gegensatz zu <a href='http://bibel.renenyffenegger.ch/dan_2.html#v32'>Vers 32</a>.
   Betont auch in <a href='http://bibel.renenyffenegger.ch/dan_5.html#v2'>Dan&nbsp;5,2</a>, <a href='http://bibel.renenyffenegger.ch/dan_5.html#v4'>Dan&nbsp;5,4</a> und
   <a href='http://bibel.renenyffenegger.ch/dan_5.html#v23'>Dan&nbsp;5,23</a>.
+ }
+ {
+  TODO: Berg evtl. besser mit «Fels» übersetzt?
  }
 #}
 #dan-2-37 {
@@ -57867,7 +58009,7 @@
 @Daniel 4 {
 #dan-4-1 {
  {
-  <i>Friede euch in Fülle</i>: §dan-6-26.
+  §dan-6-26.
  }
  {
   TODO: <a href="http://www.bibleinsight.com/tree.html">http://www.bibleinsight.com/tree.html</a>.
@@ -57946,6 +58088,13 @@
   Das Gesicht von Daniel verfärbte sich in <a class='kom' href='#Idan-7-28'>Dan&nbsp;7,28</a>, §dan-10-8.
  }
 #}
+#dan-5-11 {
+ {
+   Man fand Weisheit bei Daniel, aber keinen Anklagegrund: §dan-6-5
+  <br>
+   Vgl auch §dan-2-25
+ }
+#}
 #dan-5-21 {
  {
   <i>Tierherz</i>: vgl §dan-7-4.
@@ -57954,6 +58103,15 @@
 #dan-5-22 {
  {
   → biblisches/Personen/Belsazar
+ }
+#}
+#dan-5-25 {
+ {
+  <i>Mene</i> ist offenbar verwandt mit dem Gewichtsmass «Mine» (z. B. §1koe-10-17, §hes-45-12 etc)
+ <br>
+  <i>Tekel</i> ist offenbar verwandt mit dem Gewichtsmass «Schekel» (z. B. §2mo-38-29)
+ <br>
+  <i>Upharsin</i> ist offenbar verwandt mit «Perez», Bruch/Riss (auch teilen?) (Vgl §1mo-38-29, §2sam-6-8).
  }
 #}
 #dan-5-26 {
@@ -58004,6 +58162,11 @@
   TODO: vgl mit den 127 Provinzen (<a class='kom' href='#Iest-1-1'>Est&nbsp;1,1</a>).
  }
 #}
+#dan-6-5 {
+ {
+  Man fand keinen Anklagegrund bei Daniel, aber Weisheit: §dan-5-11
+ }
+#}
 #dan-6-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/knien
@@ -58014,6 +58177,11 @@
   TODO: <a class='kom' href='#Idan-3-12'>Dan&nbsp;3,12</a>.
  }
 #}
+#dan-6-19 {
+ {
+  <i>Der Schlaf floh</i> vgl §dan-2-1, 
+ }
+#}
 #dan-6-23 {
  {
   §+hebr-11-33
@@ -58021,7 +58189,10 @@
 #}
 #dan-6-26 {
  {
-  <i>Friede euch in Fülle</i>: §dan-4-1.
+  <i>alle Völker, Völkerschaften und Sprachen, Friede euch in Fülle</i> vgl §dan-4-1, §dan-7-14
+ }
+ {
+  Vgl <i>Friede in Fülle</i> mit «allen Frieden», §esr-5-7
  }
 #}
 #dan-6-27 {
@@ -58335,6 +58506,9 @@
 #dan-8-23 {
  {
   TODO: <i>Ränke</i> wäre evtl. besser mit «Rätsel» übersetzt.
+ }
+ {
+  TODO: Strongs 6586
  }
 #}
 #dan-8-25 {
@@ -59089,6 +59263,12 @@
 #}
 @}
 @Hosea 8 {
+#hos-8-1 {
+ {
+  Könnte <i>gegen mein Gesetz gefrevelt</i> besser übersetzt werden mit
+ «von meinem Gesetz abgefallen»?
+ }
+#}
 #hos-8-2 {
  {
   Vgl <a class='kom' href='#Ijes-1-3'>Jes&nbsp;1,3</a>.
@@ -59119,6 +59299,11 @@
  }
  {
     TODO: Vgl auch mit <a class='kom' href='#I5mo-28-68'>5.&nbsp;Mo&nbsp;28,68</a>.
+ }
+#}
+#hos-8-14 {
+ {
+  TODO Vgl §jer-49-27
  }
 #}
 @}
@@ -59297,6 +59482,11 @@
 #hos-14-4 {
  {
   TODO Vgl <a class='kom' href='#Ijes-19-25'>Jes&nbsp;19,25</a>.
+ }
+#}
+#hos-14-10 {
+ {
+  <i>Abtrünnig</i>: <span class='hebr'>פוֹשְׁעִ֖ים</span> (Strongs 6558): §+jes-46-8
  }
 #}
 @}
@@ -59656,12 +59846,23 @@
   <a class='kom' href='#Ihes-13-5'>Hes&nbsp;13,5</a>, <a class='kom' href='#I1koe-11-27'>1.&nbsp;Kö&nbsp;11,27</a>.
  }
  {
+  Vgl §am-9-11
+ }
+ {
+  <i>Harmon</i>: <span class='hebr'>הַרְמוֹן </span> (Strongs 2038, 1x) ist offenbar verwandt mit
+  «Palast» (dem Wort, das so häufig in Amos vorkommt). Vgl auch mit dem Berg Hermon.
+ }
+ {
   TODO: Dieser Vers enthält <span class='hebr'>וּפְרָצִ֥ים</span> (Mehrzahl von Strongs 802)
  }
 #}
 #am-4-4 {
  {
-   → biblisches/Orte/Gilgal, vgl §+hos-4-15
+  → biblisches/Orte/Gilgal, vgl §+hos-4-15
+ }
+ {
+  <i>übertretet</i> und <i>Übertretung</i>: <span class='hebr'>פוֹשְׁעִ֖ים</span> (Strongs 6558), dasselbe Wort wie für
+  «abgefallen» in §jes-43-27. 
  }
 #}
 #am-4-9 {
@@ -59853,6 +60054,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Edom/index#gericht-ueber-edom
+ }
+ {
+  Vgl §am-4-3
  }
  {
   TODO <i>Hütte</i>: Strongs 5521, was sonst mit 'Laubhütte' übersetzt wird (<a class='kom' href='#I3mo-23-34'>3.&nbsp;Mo&nbsp;23,34</a>).
