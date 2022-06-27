@@ -26665,7 +26665,7 @@
 #}
 #ri-20-33 {
  {
-  <i>Baal-Tamar</i> <span class='hebr'>בַּעַל תָּמָר</span> (Strongs 1193), vgl mit Debora Palme (<a href='http://bibel.renenyffenegger.ch/ri_4.html#v5'>Ri&nbsp;4,5</a>).
+  <i>Baal-Tamar</i> <span class='hebr'>בַּעַל תָּמָר</span> (Strongs 1193) bedeutet etwa «Besitzer/Herr» der Palme, vgl mit Debora Palme, §ri-4-5, → biblisches/Grundtext/Wörter/Baal
  }
  {
   TODO: heisst dieser Ort 'Giach' (siehe <a class='kom' href='#I2sam-2-24'>2.&nbsp;Sam&nbsp;2,24</a>, Strongs 1520).
@@ -39097,6 +39097,11 @@
   transkribiert mit «Susankiter».
  }
 #}
+#esr-4-10 {
+ {
+  <i>diesseits</i> und <i>jenseits</i> wurden aus demselben hebräischen Wort übersetzt. Sch2K übersetzt in beiden Versen mit «jenseits», KJV mit «on this side».
+ }
+#}
 #esr-4-11 {
  {
   <i>Abschrift des Briefes</i> vgl §esr-5-6
@@ -39109,6 +39114,11 @@
  }
  {
   <i>Steuern, Zoll und Weggeld</i>: §esr-4-20, §esr-6-8, §esr-7-24, §neh-5-4
+ }
+#}
+#esr-4-15 {
+ {
+  <i>Buch der Denkwürdigkeiten</i> (<span class='hebr'>סְפַר־דָּכְרָ֨נַיָּ֜א</span>): vgl §esr-6-2
  }
 #}
 #esr-4-21 {
@@ -39187,6 +39197,11 @@
 #}
 @}
 @Esra 6 {
+#esr-6-2 {
+ {
+  <i>Denkschrift</i>: <span class='hebr'>דִּכְרוֹנָֽ</span> (Strongs 1799): vgl §esr-4-15
+ }
+#}
 #esr-6-3 {
  {
   Der Befehl von Kores: §esr-1-1-2.
@@ -39287,6 +39302,9 @@
  {
   Beachte, dass hier Das Gesetz jenes 'des Gottes des Himmels' gennant wird, nicht das 'Gesetz Moses'.
  }
+ {
+  <i>Schriftgelehrter im Gesetz</i> (<span class='hebr'>סָפַ֨ר דָּתָ֜א</span>) wäre evtl besser übersetzt mit «Schriftgelehrter des Befehls», vgl §Vesr-7-14
+ }
 #}
 #esr-7-14 {
  {
@@ -39296,6 +39314,11 @@
 #esr-7-19 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/Haus-Gottes
+ }
+#}
+#esr-7-21 {
+ {
+  <i>Schriftgelehrter im Gesetz</i>: §+Vesr-7-12
  }
 #}
 #esr-7-23 {
@@ -42943,7 +42966,7 @@
   <a href='http://bibel.renenyffenegger.ch/ps_98.html#v1'>Ps&nbsp;98,1</a>,
   <a href='http://bibel.renenyffenegger.ch/ps_144.html#v9'>Ps&nbsp;144,9</a>,
   <a href='http://bibel.renenyffenegger.ch/ps_149.html#v1'>Ps&nbsp;149,1</a>,
-  <a href='http://bibel.renenyffenegger.ch/jes_41.html#v10'>Jes&nbsp;41,10</a>
+  §jes-42-10
   <br>S.a. <a class='kom' href='#Ioffb-5-9'>Offb&nbsp;5,9</a>.
  }
 #}
@@ -43910,6 +43933,11 @@
 #ps-60-5 {
  {
   <i>Taumelwein</i>: §jes-28-7, §spr-20-1
+ }
+#}
+#ps-60-7 {
+ {
+  <i>erhöre uns</i> (<span class='hebr'>עננו</span>, Strongs 6032) könnte evtl. besser übersetzt werden mit «antworte uns».
  }
 #}
 #ps-60-8 {
@@ -51542,8 +51570,10 @@
  {
   §+jes-40-15
  }
+#}
+#jes-41-2 {
  {
-   <i>Neues Lied</i>: <a class='kom' href='#Ips-33-3'>Ps&nbsp;33,3</a>.
+  <i>Vom Aufgang her erwecken</i> vgl §Vjes-41-25
  }
 #}
 #jes-41-4 {
@@ -51588,6 +51618,9 @@
  {
   <i>von Sonnenaufgang her den, der meinen Namen anruft</i> vgl §offb-16-12
  }
+ {
+  <i>Sonnenaufgang</i> vgl §Vjes-41-2
+ }
 #}
 @}
 @Jesaja 42 {
@@ -51615,6 +51648,16 @@
 #jes-42-6 {
  {
    <i>Licht der Nationen</i>: §+jes-49-6, §lk-2-32, §apg-13-47.  §apg-26-23
+ }
+#}
+#jes-42-7 {
+ {
+  <i>um blinde Augen aufzutun</i> §jes-43-8
+ }
+#}
+#jes-42-10 {
+ {
+   <i>Neues Lied</i>: §+ps-33-3.
  }
 #}
 #jes-42-11 {
@@ -51662,6 +51705,11 @@
 #jes-43-6 {
  {
   TODO: Für 'Süden' wird offenbar das weibliche Strongs 8486 verwendet.
+ }
+#}
+#jes-43-8 {
+ {
+  <i>das blinde Volk, das doch Augen hat</i> §jes-42-7
  }
 #}
 #jes-43-10 {
@@ -51793,6 +51841,9 @@
  }
  {
   <i>Kyrus</i>: Betreffend des Befehles, dass Jerusalem wieder gebaut werde, siehe §+esr-1-2, §2chr-36-23, → biblisches/Bücher/Daniel/70-Wochen
+ }
+ {
+  → Geschichte/Personen/Herodot berichtet (Histories, op. cit. I, 110), dass Kyros II. (?) in seinen ersten 10 Lebensjahren als Hirte erzogen worden war.
  }
 #}
 @}
@@ -55535,6 +55586,9 @@
  {
   Die <i>Meder</i> werden Babylon erobern, vgl §jes-13-17. Dies ist unter Daniel eingetroffen in §dan-6-1 und §dan-9-1.
  }
+ {
+  Beachte den Gebrauch des Plurals (Könige von Medien, auch §Vjer-51-28). Einige gehen davon aus, dass dies eine Co-Regentschaft von Darius und Kores nahelegt (§+dan-6-29).
+ }
 #}
 #jer-51-13 {
  {
@@ -57823,6 +57877,11 @@
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/kla_4.html#v5'>Kla&nbsp;4,5</a> und <a href='http://bibel.renenyffenegger.ch/esr_6.html#v11'>Esr&nbsp;6,11</a>.
  }
 #}
+#dan-2-8 {
+ {
+  <i>Zeit gewinnen</i> vgl §eph-5-16
+ }
+#}
 #dan-2-9 {
  {
   <i>bis die Zeit sich ändert</i> vgl §Vdan-2-21
@@ -57866,7 +57925,15 @@
   <i>ich habe einen Mann gefunden</i> vgl §dan-5-11: bei Daniel wurde Verstand und Weisheit gefunden.
  }
  {
+  <i>Söhne der Wegführung</i> vgl §dan-5-13, §dan-6-14
+ }
+ {
   TODO: Ist das vor oder nach Ablauf der drei Jahre Ausbildung Daniels (<a class='kom' href='#Idan-1-18'>Dan&nbsp;1,18</a>)?
+ }
+#}
+#dan-2-27 {
+ {
+  TODO: Dieser Vers enthält <span class='hebr'>גְּזַר</span>, Strongs 1505
  }
 #}
 #dan-2-28 {
@@ -57914,7 +57981,7 @@
 #}
 #dan-2-38 {
  {
-   TODO: Menschenkinder wäre evtl. besser mit »Söhne der Menschen« (oder »Söhne des Menschen«) übersetzt worden
+   TODO: Menschenkinder wäre evtl. besser mit »Söhne der Menschen« (oder »Söhne des Menschen«) übersetzt worden, vgl §dan-5-21
  }
 #}
 #dan-2-41 {
@@ -57967,6 +58034,11 @@
  {
   Vgl mit dem Feuerofen, in den in der → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#vollendung-des-zeitalters[Vollendung der Zeitalter] die Bösen aus der Mitte der Gerechten
   geworfen werden werden, §mt-13-49-50
+ }
+#}
+#dan-3-9 {
+ {
+  <i>hoben an</i> (<span class='hebr'>עֲנוֹ֙</span>, Strongs 6032) könnte evtl. besser übersetzt werden mit «antworteten». Ebenso §Vdan-3-16, 19 etc.
  }
 #}
 #dan-3-10 {
@@ -58035,7 +58107,7 @@
 #}
 #dan-4-9 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis
  }
 #}
 #dan-4-11 {
@@ -58043,10 +58115,15 @@
   <i>Grosser Baum</i> vgl §lk-13-19
  }
 #}
+#dan-4-15 {
+ {
+  Vgl die <i>sieben Zeiten</i> mit den dreieinhalb Zeiten
+ }
+#}
 #dan-4-16 {
  {
-  Vgl <i>sieben Zeiten</i> mit 'eine Zeit, zwei Zeiten und eine halbe Zeit' in <a class='kom' href='#Idan-7-25'>Dan&nbsp;7,25</a>.
-  <br>Das Wort für 'Zeit' kommt auch in <a href='http://bibel.renenyffenegger.ch/dan_7.html#v12'>Dan&nbsp;7,12</a> vor.
+  Vgl <i>sieben Zeiten</i> mit «eine Zeit, zwei Zeiten und eine halbe Zeit» in §+dan-7-25.
+  <br>Das Wort für «Zeit» kommt auch in §dan-7-12 vor.
  }
 #}
 #dan-4-19 {
@@ -58093,6 +58170,11 @@
    Man fand Weisheit bei Daniel, aber keinen Anklagegrund: §dan-6-5
   <br>
    Vgl auch §dan-2-25
+ }
+#}
+#dan-5-13 {
+ {
+  <i>Daniel, einer der Söhne der Wegführung</i> vgl §dan-2-25
  }
 #}
 #dan-5-21 {
@@ -58142,13 +58224,20 @@
   <i>Darius, der Meder</i> §dan-11-1.
  <br>
   Vgl mit Darius, dem <i>Perser</i>: §+esr-4-5, §neh-12-22
-
  }
  {
   Beachte, dass die Zahl 62 auch in §dan-9-25-26 vorkommt.
  }
  {
   Darius, der <i>Meder</i>, bekam das Königreich. Vgl. mit den Prophezeiungen in §jes-13-17 und §jer-51-11/§jer-51-28.
+ }
+ {
+  <i>Königreich bekommen</i> vgl §dan-7-18
+ }
+ {
+  Floyd Nolen Jones glaubt, dass <a href='https://en.wikipedia.org/wiki/Cyaxares_II'>Kyaxares II</a> und Darius der Meder die gleiche Person waren.
+  Da allerdings Kyaxares II von → Geschichte/Personen/Herodot nicht erwähnt wird, ist diese These (zumindest in säkularen Kreisen) umstritten.
+
  }
  {
   TODO: In der → biblisches/Grundtext/LXX[Septuaginta] kommt hier auch <span class='gr'>αρταξερξης</span> (also Artaxerxes) vor, siehe
@@ -58170,6 +58259,11 @@
 #dan-6-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/knien
+ }
+#}
+#dan-6-14 {
+ {
+  <i>Söhne der Wegführung</i> vgl §dan-2-25
  }
 #}
 #dan-6-17 {
@@ -58209,6 +58303,11 @@
 #dan-6-29 {
  {
   <i>Regierung Kores' des Persers</i> §dan-1-21
+ }
+ {
+  Einige argumentieren, dass Darius und Kores eine Co-Regentschaft hatten, vgl §+dan-9-1 und den Gebrauch des Plurals in §jer-51-11 und §jer-51-28.
+ <br>
+  Donald J. Wiseman meint, dass das <i>und</i> nicht zwei verschiedene Personen verbindet, sondern zwei Namen für die gleiche Person angibt. (Ebenso für §1chr-5-26).
  }
 #}
 @}
@@ -58282,13 +58381,16 @@
 #}
 #dan-7-6 {
  {
-   <i>Herrschaft wird gegeben</i> und genommen (§Vdan-7-12, §Vdan-7-26). Die Herrschaft des Menschensohn vergeht allerdings nicht (§Vdan-7-14).
+  <i>Herrschaft wird gegeben</i> und genommen (§Vdan-7-12, §Vdan-7-26). Die Herrschaft des Menschensohn vergeht allerdings nicht (§Vdan-7-14).
  }
  {
   <i>vier Flügel eines Vogels</i>: vgl mit §+dan-8-5.
  }
  {
   Dieses Tier wird nicht <i>as dritte</i> genannt.
+ }
+ {
+  <i>Leopard</i>: <span class='hebr'>נְמַר </span> ist möglicherweise mit → biblisches/Personen/Nimrod verwandt.
  }
 #}
 #dan-7-7 {
@@ -58354,6 +58456,11 @@
 #dan-7-17 {
  {
    <i>Vier Könige aus der Erde</i>: vgl §+Vdan-7-3
+ }
+#}
+#dan-7-18 {
+ {
+  <i>Das Reich empfangen</i>: vgl §dan-6-1.
  }
 #}
 #dan-7-20 {
@@ -58532,13 +58639,16 @@
 @Daniel 9 {
 #dan-9-1 {
  {
-  → biblisches/Personen/Ahasveros
- }
- {
   Offenbar wird nun §jes-13-17 und §jer-51-11 Tatsache.
  }
  {
-  TODO: <i>Abstammung</i> wäre wohl besser mit 'Samen' übersetzt worden.
+  KJV übersetzt mit «which was made king», Sch2K mit «der zum König … gemacht worden war». Daraus folgern einige (z. B. Floyd Nolen Jones), dass noch jemand <i>über</i> Darius stand,
+  nämlich (wieder Jones) Kyros der Grosse (Kyros II) und so Darius gleichsam ein Co-Regent war. Für diese These spricht evtl. auch, dass Daniel unter der Regierung von
+  Darius <i>und</i> Kores Gedeihen hatte (§dan-6-29).
+  Vgl in diesem Zusammenhang, dass Darius das Königtum empfing («bekam»), §dan-6-1.,
+ }
+ {
+  TODO: Floyd Nolen Jones gibt an, dieser <i>Ahasveros</i> ist Astyages.
  }
 #}
 #dan-9-2 {
@@ -92370,6 +92480,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>gelegene Zeit</i>: <span class='gr'>τον καιρον</span>, also der «Zeitpunkt»
+ }
+ {
+  <i>Zeit auskaufen</i> vgl §dan-2-8
  }
 #}
 #eph-5-18 {
