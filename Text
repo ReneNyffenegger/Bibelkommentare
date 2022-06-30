@@ -9941,6 +9941,9 @@
  {
   <i>Nun weiss ich, dass der HERR grösser ist als alle Götter</i> Vgl <a href='http://bibel.renenyffenegger.ch/dan_2.html#v47'>Dan&nbsp;2,47</a>.
  }
+ {
+  <i>worin sie in Übermut handelten</i> vgl §+neh-9-10, §5mo-1-43
+ }
 #}
 #2mo-18-18 {
  {
@@ -20024,6 +20027,11 @@
   Bis an den Himmel befestigte Städte: <a href='http://bibel.renenyffenegger.ch/5mo_9.html#v1'>5.&nbsp;Mo&nbsp;9,1</a>.
  }
 #}
+#5mo-1-31 {
+ {
+  <i>wie ein Mann seinen Sohn trägt</i> vgl §5mo-8-4
+ }
+#}
 #5mo-1-33 {
  {
   <i>Vor dem Volk herziehen, um einen Ort zu erkunden, daß sie sich lagern können</i> vgl §4mo-10-33
@@ -20080,6 +20088,9 @@
 #5mo-1-43 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Befehl-des-HERRN.
+ }
+ {
+  <i>handeltet vermessen</i> vgl §+2mo-18-11
  }
 #}
 #5mo-1-46 {
@@ -20899,6 +20910,11 @@
 #5mo-8-3 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Manna
+ }
+#}
+#5mo-8-4 {
+ {
+  <i>wie ein Mann seinen Sohn züchtigt</i> vgl §5mo-1-31
  }
 #}
 #5mo-8-7 {
@@ -31117,6 +31133,9 @@
 #}
 #1koe-10-27 {
  {
+  §2chr-1-15, §2chr-9-27
+ }
+ {
   <i>Sykamoren in der Niederung</i> §1chr-27-28
  }
 #}
@@ -34113,6 +34132,9 @@
   <a href='http://bibel.renenyffenegger.ch/jer_29.html#v25'>Jer&nbsp;29,25</a> und
   <a href='http://bibel.renenyffenegger.ch/jer_37.html#v3'>Jer&nbsp;37,3</a>.
  }
+ {
+  <i>Scheraja</i>: §1chr-5-40
+ }
 #}
 #2koe-25-21 {
  {
@@ -34938,11 +34960,23 @@
   → biblisches/Personen/Itamar
  }
 #}
+#1chr-5-39 {
+ {
+  → biblisches/Personen/Esra ist wohl ein Nachkomme der Linie Hilkija, Asarja, Seraja, Jehozadak, §esr-7-1
+ <br>
+  Seraja ist wohl nach Jerusalems Eroberung getötet worden: §2koe-25-18-ff
+ }
+#}
+#1chr-5-41 {
+ {
+  <i>Jozadak</i> ist wohl der Vater von Jeschua, der in §esr-3-2 erwähnt wird.
+ }
+#}
 @}
 @1. Chronik 6 {
 #1chr-6-1 {
  {
-   <i>Die Söhne Levis</i>: In §+1chr-5-27-ff wird die Line durch Kahat, Amram, Aaron, Eleasar etc. aufgezählt.
+  <i>Die Söhne Levis</i>: In §+1chr-5-27-ff wird die Line durch Kahat, Amram, Aaron, Eleasar etc. aufgezählt.
  }
  {
   → biblisches/Personen/Kahat, 
@@ -36407,13 +36441,13 @@
 #}
 #1chr-27-28 {
  {
-  §2chr-1-15, §2chr-9-27
+  §2chr-9-27
  }
  {
   <i>Baal-Hanan</i> war auch <i>König der Edomiter, bevor Israel einen König hatte</i> (<a href='http://bibel.renenyffenegger.ch/1mo_36.html#v38'>1.&nbsp;Mo&nbsp;36,38</a>).
  }
  {
-  <i>Sykamoren in der Niederung</i> §1koe-10-27
+  <i>Sykamoren in der Niederung</i>: §+1koe-10-27
  }
  {
   TODO Gederiter: siehe <a href='http://bibel.renenyffenegger.ch/jos_12.html#v13'>Jos&nbsp;12,13</a>.
@@ -36582,6 +36616,11 @@
   <i>Glanz</i>: <span class='he'>נֶצַח</span> (Strongs 5331) KJV übersetzt mit «victory», vgl §jes-25-8.
  }
 #}
+#1chr-29-12 {
+ {
+  <i>Herrscher über alles</i>: vgl mit seinem Sohn Salomo, der «Herrscher über alle Könige» wurde, §2chr-9-26
+ }
+#}
 #1chr-29-15 {
  {
   <i>Fremdlinge und Gäste</i>: <a class='kom' href='#I3mo-25-23'>3.&nbsp;Mo&nbsp;25,23</a>. Vgl <a href='http://bibel.renenyffenegger.ch/ps_39.html#v13'>Ps&nbsp;39,13</a>.
@@ -36649,7 +36688,10 @@
 #}
 #2chr-1-15 {
  {
-  §1chr-27-28, §2chr-9-27
+  §1koe-10-27, §2chr-9-27
+ }
+ {
+  <i>Sykomoren in der Niederung</i>: §1chr-27-28
  }
 #}
 @}
@@ -37042,9 +37084,18 @@
   TODO: in <a href='http://bibel.renenyffenegger.ch/1koe_5.html#v6'>1.&nbsp;Kö&nbsp;5,6</a> 40000 Stallplätze.
  }
 #}
+#2chr-9-26 {
+ {
+  Vgl <i>Herrscher über alle Könige</i> mit → biblisches/Eigene-Uebersetzung/Konkordanz/König/der-Könige,
+  §1chr-29-12
+ }
+#}
 #2chr-9-27 {
  {
-  §1chr-27-28, §2chr-1-15
+  §1koe-10-27, §2chr-1-15
+ }
+ {
+  <i>Sykomoren in der Niederung</i>: §1chr-27-28
  }
 #}
 #2chr-9-29 {
@@ -39062,19 +39113,25 @@
  {
   Nachdem im letzten Kapitel die Anzahl der ganzen Versammlung genannt wurde (§esr-2-64) stehen sie nun da <i>wie ein Mann</i>. Vgl §neh-8-1
  }
+ {
+  <i>wie ein Mann</i> §Vesr-3-9, §esr-6-20, §neh-8-1
+ }
 #}
 #esr-3-2 {
  {
-  Esra war ein 'Schriftgelehrter, wohlbewandert im Gesetz Moses' (<a class='kom' href='#Iesr-7-6'>Esr&nbsp;7,6</a>).
+  → biblisches/Personen/Esra war ein «Schriftgelehrter, wohlbewandert im Gesetz Moses», §+esr-7-6
  }
  {
   → biblisches/Personen/Schealtiel
  }
  {
-   <a class='kom' href='#I1chr-16-40'>1.&nbsp;Chr&nbsp;16,40</a>.
+  <a class='kom' href='#I1chr-16-40'>1.&nbsp;Chr&nbsp;16,40</a>.
  }
  {
   <i>Serubbabel, der Sohn Schealtiels</i>: §mt-1-12
+ }
+ {
+  <i>Joschua</i> ist wohl ein Bruder von → biblisches/Personen/Esra, vgl §1chr-5-41 mit §esr-7-1
  }
 #}
 #esr-3-4 {
@@ -39107,6 +39164,11 @@
   Aufsicht ab 20 Jahren: §+1chr-23-24
  }
 #}
+#esr-3-9 {
+ {
+  <i>wie ein Mann</i> §Vesr-3-1
+ }
+#}
 #esr-3-10 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel, → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
@@ -39131,7 +39193,7 @@
 #}
 #esr-4-5 {
  {
-  <i>Darius</i>, der König von Persien.
+  <i>Darius</i>, der König von Persien: §neh-12-22.
   Vgl mit Darius, dem <i>Meder</i>, §dan-6-1 und §dan-9-1
   <br>
   Darius, der Sohn Ahasveros, aus dem Samen der Meder, wird gemäss §dan-9-1 zum König der Chaldäer gemacht.
@@ -39346,8 +39408,18 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah
  }
 #}
+#esr-6-20 {
+ {
+  <i>wie ein Mann</i> §+esr-3-1
+ }
+#}
 @}
 @Esra 7 {
+#esr-7-1 {
+ {
+  → biblisches/Personen/Esra
+ }
+#}
 #esr-7-6 {
  {
   Beachte: Esra war wohlbewandert im Gesetz des Mose, er richtet (nun aber?) das Herz darauf, das Gesetz des HERRN zu erforschen (V. 10).
@@ -39421,6 +39493,9 @@
 #esr-8-1 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis, vgl §esr-2-62, §+neh-7-5
+ }
+ {
+  <i>wie ein Mann</i> §+esr-3-1
  }
 #}
 #esr-8-7 {
@@ -40357,6 +40432,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder beim → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder#zeichen-wunder-auszug-aegypten[Auszug von Ägypten].
  }
  {
+  <i>In Übermut gegen sie gehandelt haben</i> vgl §Vneh-9-16, §Vneh-9-29, §2mo-18-11
+ }
+ {
   <i>du hast dir einen Namen gemacht</i> §2mo-9-16, vgl mit Gebet von → biblisches/Personen/Daniel in §dan-9-15 und §ps-106-8.
  }
 #}
@@ -40745,6 +40823,11 @@
 #neh-12-14 {
  {
   TODO: <i>Schebanja</i>: §Vneh-12-3, §neh-10-5
+ }
+#}
+#neh-12-16 {
+ {
+  <i>Sacharja von Iddo</i> vgl §sach-1-1
  }
 #}
 #neh-12-21 {
@@ -41827,6 +41910,11 @@
    Der HERR stellt eine Liste von Fragen. Bereits in §hi-9-3 wusste Hiob, dass «man ihm auf tausend nicht eins antworten kann».
  }
 #}
+#hi-38-3 {
+ {
+  §hi-40-7
+ }
+#}
 #hi-38-4 {
  {
   <a class='kom' href='#Ijes-40-12'>Jes&nbsp;40,12</a>.
@@ -41914,6 +42002,11 @@
 #}
 @}
 @Hiob 40 {
+#hi-40-7 {
+ {
+  §hi-38-3
+ }
+#}
 #hi-40-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Behemoth, vgl §1mo-1-24
@@ -53322,6 +53415,11 @@
   <br>Vgl mit <a href='http://bibel.renenyffenegger.ch/jes_57.html#v14'>Jes&nbsp;57,14</a>, wo jeder Anstoss aus dem Weg Seines Volkes geräumt werden soll.
  }
 #}
+#jer-6-23 {
+ {
+  §jer-50-42
+ }
+#}
 #jer-6-26 {
  {
   <i>Sich in der Asche wälzen</i>: <a href='http://bibel.renenyffenegger.ch/jer_25.html#v34'>Jer&nbsp;25,34</a>, <a href='http://bibel.renenyffenegger.ch/hes_27.html#v30'>Hes&nbsp;27,30</a>.
@@ -55676,6 +55774,9 @@
 #jer-50-42 {
  {
   <i>Tochter Babel</i>: <a class='kom' href='#Ips-137-8'>Ps&nbsp;137,8</a>.
+ }
+ {
+  §jer-6-23
  }
 #}
 #jer-50-44 {
@@ -61147,6 +61248,9 @@
 #sach-1-1 {
  {
   <i>Im zweiten Jahr des Königs Darius</i>: §esr-4-24 
+ }
+ {
+  <i>Sacharja, der Nachkomme von Iddo</i> vgl §neh-12-16
  }
  {
   TODO: Vgl <i>Sacharja, den Sohn Berechjas</i> mit <i>Zacharia, den Sohn Barachias</i> (<a href='http://bibel.renenyffenegger.ch/mt_23.html#v35'>Mt&nbsp;23,35</a>)
