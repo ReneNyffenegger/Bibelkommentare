@@ -34969,7 +34969,9 @@
 #}
 #1chr-5-41 {
  {
-  <i>Jozadak</i> ist wohl der Vater von Jeschua, der in §esr-3-2 erwähnt wird.
+  <i>Jozadak</i> ist wohl der Vater von Jeschua, der in §esr-3-2 erwähnt wird, vgl §hag-1-1.
+ <br>
+  Siehe auch §neh-12-26, §sach-6-11
  }
 #}
 @}
@@ -35403,6 +35405,9 @@
  }
 #}
 #1chr-9-16 {
+ {
+  <i>Dörfer der Netophathiter</i> §neh-12-28
+ }
  {
   TODO: <i>Jeduthun</i>.
   <br>Es gibt drei Psalmen für Jeduthun: <a class='kom' href='#Ips-39-1'>Ps&nbsp;39,1</a>.
@@ -39131,7 +39136,11 @@
   <i>Serubbabel, der Sohn Schealtiels</i>: §mt-1-12
  }
  {
-  <i>Joschua</i> ist wohl ein Bruder von → biblisches/Personen/Esra, vgl §1chr-5-41 mit §esr-7-1
+  <i>Jeschua</i> ist wohl ein Bruder von → biblisches/Personen/Esra, vgl §1chr-5-41 mit §esr-7-1.
+ <br>
+  Dieser Jeschua ist wohl der Josua aus dem Buch Sacharja, §sach-3-1, §sach-6-11 (§sach-1-7)
+ <br>
+  Die Nachkommen von Joschua werden evtl. in §neh-12-10-11 genannt.
  }
 #}
 #esr-3-4 {
@@ -39168,6 +39177,9 @@
  {
   <i>wie ein Mann</i> §Vesr-3-1
  }
+ {
+  Söhne Henadads: Bawai (§neh-3-18), Binnui (§neh-3-24, §neh-10-10)
+ }
 #}
 #esr-3-10 {
  {
@@ -39177,6 +39189,11 @@
 #esr-3-12 {
  {
    Vgl mit der Frage des Herrn: 'Wer ist unter euch übriggeblieben, der dieses Haus in seiner früheren Herrlichkeit gesehen hat?'? (<a href='http://bibel.renenyffenegger.ch/hag_2.html#v3'>Hag&nbsp;2,3</a>).
+ }
+#}
+#esr-3-13 {
+ {
+  <i>der Schall wurde gehört bis in die Ferne</i> §neh-12-43
  }
 #}
 @}
@@ -39417,7 +39434,7 @@
 @Esra 7 {
 #esr-7-1 {
  {
-  → biblisches/Personen/Esra
+  Vgl den → biblisches/Personen/Esra, der unter der Regierung Artasasta hinaufzog, mit dem Esra, der mit Serubbabel hinaufzog: §neh-12-1
  }
 #}
 #esr-7-6 {
@@ -39494,13 +39511,23 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis, vgl §esr-2-62, §+neh-7-5
  }
+#}
+#esr-8-2 {
  {
-  <i>wie ein Mann</i> §+esr-3-1
+  Vgl mit dem <i>Daniel</i>, der bis zum ersten Jahr des Königs Kores blieb, §dan-1-21
+ }
+ {
+  Ein anderer(?) Hattusch ist mit Serubbabel hinaufgezogen: §neh-12-2, vgl §neh-10-5
+ }
+#}
+#esr-8-3 {
+ {
+  <i>Von den Söhnen Schekanjas</i> §Vesr-8-5
  }
 #}
 #esr-8-7 {
  {
-  <i>Esra</i>: <a class='kom' href='#Iesr-2-7'>Esr&nbsp;2,7</a>.
+  <i>Elam</i>: <a class='kom' href='#Iesr-2-7'>Esr&nbsp;2,7</a>.
  }
 #}
 #esr-8-15 {
@@ -39516,6 +39543,11 @@
 #esr-8-17 {
  {
    <i>Kasiphja</i>: <span class='hebr'><span class='grey'>בְּ</span>כָסִפְיָ֖א</span> (Strongs 3703), bedeutet vermutlich 'silbern'.
+ }
+#}
+#esr-8-18 {
+ {
+  <i>Scherebja</i> und <i>Haschabja</i>: §Vesr-8-24
  }
 #}
 #esr-8-27 {
@@ -39657,7 +39689,7 @@
 #}
 #neh-1-5 {
  {
-  <i>der den Bund und die Güte denen bewahrt, die ihn lieben und seine Gebote halten</i> §+5mo-7-9
+  <i>der den Bund und die Güte denen bewahrt, die ihn lieben und seine Gebote halten</i> §+5mo-7-9, vgl §neh-9-8
  }
  {
   <i>gross und furchtbar</i>: vgl §neh-4-8, §neh-9-32.
@@ -39705,8 +39737,7 @@
 #}
 #neh-2-10 {
  {
-  Am Schluss verschwägert sich Jojada, ein Sohn des Hohenpriesters Eljaschibs mit Sanballat. Nehemia wird diesen Jojada wegschicken
-  (<a href='http://bibel.renenyffenegger.ch/neh_13.html#v28'>Neh&nbsp;13,28</a>).
+  <i>Sanballat, der Horoniter</i> §neh-13-28
  }
 #}
 #neh-2-11 {
@@ -39806,6 +39837,16 @@
  }
  {
   <i>Quelltor</i>: §neh-2-14, §neh-12-37.
+ }
+#}
+#neh-3-18 {
+ {
+  <i>Bawai, der Sohn Henadads</i> vgl §esr-3-9
+ }
+#}
+#neh-3-24 {
+ {
+  <i>Binnui, der Sohn Henadads</i> §neh-10-10, vgl §esr-3-9
  }
 #}
 #neh-3-25 {
@@ -40300,6 +40341,9 @@
  {
   Vgl mit der Auslegung des Gesetzes durch → biblisches/Personen/Mose, §5mo-1-5-ff
  }
+ {
+  <i>wie ein Mann</i> §+esr-3-1
+ }
 #}
 #neh-8-2 {
  {
@@ -40422,6 +40466,9 @@
  }
  {
   In §1mo-15-19 werden zehn Nationen aufgezählt. Vgl §2mo-3-8, §2mo-23-23, §5mo-7-1, §jos-3-10, §apg-13-19
+ }
+ {
+  <i>du hast mit ihm den Bund gemacht</i> vgl §neh-1-5, §Vneh-9-32
  }
  {
   TODO zusaetzliche_texte Nationen-in-Kanaan
@@ -40620,7 +40667,29 @@
 #}
 #neh-10-5 {
  {
+  <i>Schebanja</i> auch in §Vneh-10-11 und §Vneh-10-13
+ }
+ {
+  <i>Hattusch</i>: §esr-8-2, §neh-12-2
+ }
+ {
   TODO: Schebanja: §neh-12-3, §neh-12-14
+ }
+#}
+#neh-10-10 {
+ {
+  <i>Binnui, von den Söhnen Henadads</i> §neh-3-24
+ }
+#}
+#neh-10-11 {
+ {
+  Vgl <i>Pelaja, Hanan</i> mit Pedaja (von den Leivten) und Hanan (der Sohn Sakkurs) in §neh-13-12
+ }
+ {
+  <i>Hodija</i> auch in §Vneh-10-14
+ }
+ {
+  <i>Schebanja</i> auch in §+Vneh-10-5
  }
 #}
 #neh-10-29 {
@@ -40812,12 +40881,39 @@
 @Nehemia 12 {
 #neh-12-1 {
  {
-   → biblisches/Personen/Schealtiel
+  → biblisches/Personen/Schealtiel
+ }
+ {
+  Vgl mit dem Esra, der unter der Regierung Artasastas hinaufzog: §esr-7-1
+ }
+#}
+#neh-12-2 {
+ {
+  Ein anderer <i>Hattusch</i> ist mit Esra hinaufgezogen, §esr-8-2, vgl §neh-10-5
  }
 #}
 #neh-12-3 {
  {
   TODO <i>Schekanja</i>: sollte <span class='hebr'>שכניה</span> als <span class='hebr'>שבניה</span> im Grundtext stehen, vgl §Vneh-12-14, §neh-10-5
+ }
+#}
+#neh-12-10 {
+ {
+  Dieser Jeschua ist evtl. der Sohn Jozadaks, vgl §esr-3-2, §1chr-5-41
+ }
+ {
+  TODO: Joiakim (contemporary with Nehemiah, Ezra,
+  and Xerxes I; Nehemiah 12:10,12,36; Josephus,
+  Antiq. XI, 5, 1)
+  <br>
+   Eliashib (allied to Tobiah – a younger contemporary of Nehemiah in the 20th year of Artaxerxes; §neh-3-1, §neh-3-20-21; §neh-6-18; §neh-13-4-7),
+  <br>
+   Jonathan: 2 Maccabees
+   1:23 speaks of him as contemporary with Nehemiah; the Elephantine papyri possibly
+   places him [Yedoniah?, texts 30 and 31, Cowley edition] in the 14th and 17th years of Darius II
+   Nothus [c. 410–407 BC]; Jos. Antiq. XI, 7, 1), and
+   <br>
+    Jaddua: §neh-12-22, §esr-3-2
  }
 #}
 #neh-12-14 {
@@ -40847,7 +40943,15 @@
 #}
 #neh-12-26 {
  {
-   → biblisches/Personen/Nehemia/index: vgl §+neh-8-9.
+  → biblisches/Personen/Nehemia/index: vgl §+neh-8-9.
+ }
+ {
+  <i>Jozadak</i>: §1chr-5-41
+ }
+#}
+#neh-12-28 {
+ {
+  <i>Dörfer der Netophathiter</i> §1chr-9-16
  }
 #}
 #neh-12-29 {
@@ -40887,6 +40991,11 @@
   → biblisches/Personen/Eleasar
  }
 #}
+#neh-12-43 {
+ {
+  <i>wurde bis in die Ferne gehört</i> §esr-3-13
+ }
+#}
 #neh-12-45 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Torhüter
@@ -40920,6 +41029,11 @@
 #neh-13-11 {
  {
   <i>Warum ist das Haus Gottes verlassen worden?</i> vgl §neh-10-40
+ }
+#}
+#neh-13-12 {
+ {
+  Vgl <i>Pedaja</i> und <i>Hanan</i> mit Palaja und Hanan in §neh-10-11
  }
 #}
 #neh-13-13 {
@@ -40962,7 +41076,7 @@
 #}
 #neh-13-28 {
  {
-  <i>Sanballat</i>: <a class='kom' href='#Ineh-2-10'>Neh&nbsp;2,10</a>.
+  <i>Sanballat, der Horoniter</i>: §+neh-2-10
  }
  {
   Vgl §+esr-10-2, §esr-10-18
@@ -58080,6 +58194,9 @@
   <br>
    Vgl auch <i>erstes Jahr des Kores</i> in §+2chr-36-22.
  }
+ {
+  Ein (wohl anderer?) <i>Daniel</i> zog mit Esra unter der Regierung des Königs Artasasta aus Babel herauf, §esr-8-1-2
+ }
 #}
 @}
 @Daniel 2 {
@@ -61173,6 +61290,9 @@
  {
   → biblisches/Personen/Schealtiel
  }
+ {
+  <i>Jozadak</i> vgl §1chr-5-41
+ }
 #}
 #hag-1-6 {
  {
@@ -61340,6 +61460,9 @@
 @Sacharja 3 {
 #sach-3-1 {
  {
+  <i>Jeschua</i>: §+esr-3-2
+ }
+ {
   TODO: Normalerweise ist der HERR zur Rechten Gottes (<a class='kom' href='#Ips-110-1'>Ps&nbsp;110,1</a>)
   <br>vgl §1koe-22-19
  }
@@ -61481,6 +61604,11 @@
 #sach-6-10 {
  {
   <i>Heldai</i>: <a class='kom' href='#I1chr-27-15'>1.&nbsp;Chr&nbsp;27,15</a>.
+ }
+#}
+#sach-6-11 {
+ {
+  <i>Josua, der Sohn Jozadaks</i>: §+esr-3-2, §1chr-5-41
  }
 #}
 #sach-6-12 {
