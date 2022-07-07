@@ -20848,6 +20848,11 @@
    S.a. <a class='kom' href='#Iri-14-2'>Ri&nbsp;14,2</a>.
  }
 #}
+#5mo-7-4 {
+ {
+  <i>schnell vertilgen</i> vgl §+V5mo-7-22 («eilends vertilgen»)
+ }
+#}
 #5mo-7-5 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim
@@ -21309,6 +21314,11 @@
   <i>Zehnter</i>: <a class='kom' href='#I3mo-27-30'>3.&nbsp;Mo&nbsp;27,30</a>.
  }
 #}
+#5mo-12-7 {
+ {
+  <i>Geschäft deiner Hand</i> §V5mo-12-18, §5mo-15-10, §5mo-23-21, §5mo-28-8
+ }
+#}
 #5mo-12-8 {
  {
   <i>Ihr sollt nicht tun … was irgend recht ist in seinen Augen</i> vgl §2mo-15-26, §ri-17-6, §ri-21-25
@@ -21496,6 +21506,11 @@
 #5mo-15-7 {
  {
   <i>Almosen</i>: <a class='kom' href='#Imt-6-1'>Mt&nbsp;6,1</a>.
+ }
+#}
+#5mo-15-10 {
+ {
+  <i>Geschäft deiner Hand</i> §+5mo-12-7
  }
 #}
 #5mo-15-11 {
@@ -22029,6 +22044,9 @@
  {
   <i>Zins auferlegen</i>: <span class='hebr'>נָשַׁךְ</span> (Strongs 5391) ist dasselbe Wort, wie für den Biß einer Schlange verwendet wird (z. B. §1mo-49-17).
  }
+ {
+  <i>Geschäft deiner Hand</i> §+5mo-12-7
+ }
 #}
 #5mo-23-26 {
  {
@@ -22232,6 +22250,11 @@
   §5mo-26-19
  }
 #}
+#5mo-28-8 {
+ {
+  <i>Geschäft deiner Hand</i> §+5mo-12-7
+ }
+#}
 #5mo-28-9 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/heilig
@@ -22246,6 +22269,11 @@
  }
  {
   <i>Schatz, der Himmel</i> vgl §+mt-19-21
+ }
+#}
+#5mo-28-20 {
+ {
+  <i>Jehova wird den Fluch … senden</i> vgl §mal-2-2, §spr-3-33
  }
 #}
 #5mo-28-22 {
@@ -35873,6 +35901,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete[Trompeten], vgl §V1chr-16-42
  }
 #}
+#1chr-16-8 {
+ {
+  <i>macht kund unter den Völkern seine Taten</i> vgl §+ps-9-12
+ }
+#}
 #1chr-16-9 {
  {
   Vgl folgende Verse mit §ps-105-2-ff
@@ -35918,7 +35951,7 @@
 #}
 #1chr-16-17 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/ewig
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/ewig
  }
  {
   §ps-105-10
@@ -42066,6 +42099,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes
  }
 #}
+#hi-37-12 {
+ {
+  <i>Leitung</i> (<span class='hebr'>תַּחְבֻּלָה</span>, Strongs 8458) könnte vielleicht auch mit «Rat» übersetzt werden, vgl §+spr-24-6
+ }
+#}
 #hi-37-17 {
  {
   <i>Südwind</i>: Strongs 1864, siehe auch <a class='kom' href='#I5mo-33-23'>5.&nbsp;Mo&nbsp;33,23</a>.
@@ -42579,6 +42617,11 @@
 #ps-9-11 {
  {
   <i>deinen Namen kennen</i> vgl §ps-91-14, §jes-52-6, §jer-48-17
+ }
+#}
+#ps-9-12 {
+ {
+  <i>verkündet unter den Völkern seine Taten</i> vgl §ps-105-1, §1chr-16-8, §jes-12-4
  }
 #}
 #ps-9-16 {
@@ -44309,6 +44352,11 @@
   TODO: Wurde dieser Psalm in <a href='http://bibel.renenyffenegger.ch/2sam_8.html#v13'>2.&nbsp;Sam&nbsp;8,13</a> geschrieben?
  }
 #}
+#ps-60-4 {
+ {
+  TODO: <i>Du hast das Land erschüttert</i> vgl §ps-68-9
+ }
+#}
 #ps-60-5 {
  {
   <i>Taumelwein</i>: §jes-28-7, §spr-20-1
@@ -44439,6 +44487,14 @@
 #ps-68-2 {
  {
   <i>Mögen sich zerstreuen seine Feinde, und vor ihm fliehen seine Hasser!</i> vgl §4mo-10-35
+ }
+#}
+#ps-68-9 {
+ {
+  <i>Da bebte die Erde</i> vgl §ps-77-19, §jes-13-13
+ }
+ {
+  TODO <i>Da bebte die Erde</i> vgl §ps-60-4 (gleiche Hebr. Wörter)
  }
 #}
 #ps-68-15 {
@@ -44847,6 +44903,21 @@
   «And I said, This [is] my infirmity: [but I will remember] the years of the right hand of the most High.»
  }
 #}
+#ps-77-12 {
+ {
+  <i>der Taten des Jah gedenken</i> vgl §ps-78-7
+ }
+#}
+#ps-77-13 {
+ {
+  Vgl §ps-78-11
+ }
+#}
+#ps-77-19 {
+ {
+  <i>es zitterte und bebte die Erde</i> vgl §ps-68-9
+ }
+#}
 #ps-77-20 {
  {
   <i>Weg durchs Meer</i> und <i>Pfad durch gewaltige Fluten</i>: <a class='kom' href='#Ips-8-9'>Ps&nbsp;8,9</a>.
@@ -44869,9 +44940,19 @@
   <i>Die Wunderwerke erzählen</i>: §+ps-9-1.
  }
 #}
+#ps-78-7 {
+ {
+  <i>die Taten Gottes nicht vergessen</i> vgl §ps-77-12 
+ }
+#}
 #ps-78-9 {
  {
   <i>Ephraim</i>: §Vps-78-67
+ }
+#}
+#ps-78-11 {
+ {
+  <i>sie vergaßen seine Taten</i> vgl §ps-77-13
  }
 #}
 #ps-78-12 {
@@ -46024,6 +46105,9 @@
 #ps-105-1 {
  {
   <i>Dank</i> in den Psalmen: <a class='kom' href='#Ips-50-14'>Ps&nbsp;50,14</a>.
+ }
+ {
+  <i>macht kund unter den Völkern seine Taten</i> vgl §+ps-9-11
  }
 #}
 #ps-105-2 {
@@ -47887,6 +47971,9 @@
 #}
 #spr-3-33 {
  {
+  <i>Der Fluch Jehovas</i> vgl §5mo-28-20
+ }
+ {
   Siehe <a class='kom' href='#Ispr-2-21'>Spr&nbsp;2,21</a>
  }
 #}
@@ -48014,7 +48101,7 @@
 #}
 #spr-7-17 {
  {
-  TODO: vgl <a href='http://bibel.renenyffenegger.ch/hl_4.html#v14'>Hl&nbsp;4,14</a>.
+  <i>Myrrhe, Aloe und Zimt</i>: vgl §hl-4-14.
  }
 #}
 #spr-7-27 {
@@ -48946,6 +49033,9 @@
  {
   <i>Viele Ratgeber</i>: <a class='kom' href='#Ispr-11-14'>Spr&nbsp;11,14</a>.
  }
+ {
+  <i>Überlegung</i> (<span class='hebr'>תַּחְבֻּלָה</span>, Strongs 8458) könnte vielleicht besser mit «Rat» übersetzt werden, vgl §spr-1-5, §hi-37-12
+ }
 #}
 #spr-24-7 {
  {
@@ -49699,7 +49789,7 @@
 #}
 #hl-4-14 {
  {
-  TODO: vgl <a class='kom' href='#Ispr-7-17'>Spr&nbsp;7,17</a>.
+  <i>Zimt… Aloe und Myrrhe</i>: vgl §+spr-7-17.
  }
 #}
 #hl-4-16 {
@@ -50613,6 +50703,11 @@
   <i>… denn Jah, der HERR, ist meine Stärke und mein Gesang, und er ist mir zum Heil geworden.</i> §2mo-15-2, §ps-118-14
  }
 #}
+#jes-12-4 {
+ {
+  <i>macht unter den Völkern kund seine Taten</i> vgl §+ps-9-11
+ }
+#}
 #jes-12-6 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
@@ -50672,6 +50767,11 @@
   → biblisches/Orte/Ophir
  }
 #}
+#jes-13-13 {
+ {
+  Vgl §+ps-68-9, §jes-14-16, §jes-24-18
+ }
+#}
 #jes-13-17 {
  {
   Die <i>Meder</i> werden Babylon erobern, vgl §jer-51-11.
@@ -50720,6 +50820,11 @@
  }
  {
   <i>äusserster Norden</i> vgl §ps-48-3
+ }
+#}
+#jes-14-16 {
+ {
+  <i>der die Erde beben machte</i> vgl §jes-13-13
  }
 #}
 #jes-14-25 {
@@ -51260,6 +51365,9 @@
  }
  {
   <i>Grundfesten</i>: <a class='kom' href='#I2sam-22-8'>2.&nbsp;Sam&nbsp;22,8</a>.
+ }
+ {
+  <i>es erbeben die Grundfesten der Erde</i> vgl §+jes-13-13
  }
 #}
 #jes-24-19 {
@@ -53731,6 +53839,11 @@
 #jer-8-11 {
  {
   <i>Friede, Friede! Und das ist doch kein Friede</i> §+jer-6-14
+ }
+#}
+#jer-8-16 {
+ {
+  TODO: <i>erzittert das ganze Land</i> oder «erbebt die Erde»? vgl §jes-13-13, §jer-10-10, §jer-49-20, §jer-50-46, §jer-51-29
  }
 #}
 #jer-8-20 {
@@ -56231,11 +56344,21 @@
   Beachte, die <i>Töchter Judas</i> frohlocken um Gottes Gerichte willen, §+ps-48-12
  }
 #}
+#kla-1-20 {
+ {
+  <i>Meine Eingeweide wallen</i> §kla-2-11
+ }
+#}
 @}
 @Klagelieder 2 {
 #kla-2-8 {
  {
   TODO: <i>Messschnur</i>: <a href='http://bibel.renenyffenegger.ch/2koe_21.html#v13'>2.&nbsp;Kö&nbsp;21,13</a>.
+ }
+#}
+#kla-2-11 {
+ {
+  <i>meine Eingeweide wallen</i> §kla-1-20
  }
 #}
 #kla-2-15 {
@@ -61989,6 +62112,11 @@
 #}
 @}
 @Maleachi 2 {
+#mal-2-2 {
+ {
+  <i>so werde ich den Fluch unter euch senden</i> vgl §5mo-28-20, §mal-3-9
+ }
+#}
 #mal-2-5 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern
@@ -62028,6 +62156,11 @@
 #mal-3-8 {
  {
   <i>Gott berauben</i> vgl §+roem-2-22
+ }
+#}
+#mal-3-9 {
+ {
+  Vgl §mal-2-2
  }
 #}
 #mal-3-10 {
