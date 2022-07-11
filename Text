@@ -353,10 +353,8 @@
 #}
 #1mo-1-21 {
  {
-  <i>Meerestiere</i> (<span class='hebr'>תַּנִּין</span>, Strongs 8577): dasselbe Wort wie für 'Schlange' in
-  <a href='http://bibel.renenyffenegger.ch/2mo_7.html#v9'>2.&nbsp;Mo&nbsp;7,9</a>,
-  oder 'Drache' in <a href='http://bibel.renenyffenegger.ch/5mo_32.html#v33'>5.&nbsp;Mo&nbsp;32,33</a> ,
-  <a href='http://bibel.renenyffenegger.ch/jes_51.html#v9'>Jes&nbsp;51,9</a> und <a href='http://bibel.renenyffenegger.ch/neh_2.html#v13'>Neh&nbsp;2,13</a>.
+  <i>Meerestiere</i> (<span class='hebr'>תַּנִּין</span>, Strongs 8577): dasselbe Wort wie für «Schlange» in §2mo-7-9 und
+  «Drache» in §5mo-32-33, §jes-51-9 und §neh-2-13.
  }
 #}
 #1mo-1-22 {
@@ -5656,7 +5654,7 @@
   <br>S.a. <a href='http://bibel.renenyffenegger.ch/jos_24.html#v32'>Jos&nbsp;24,32</a>.
  }
  {
-    Hier kaufte Abraham «nur» ein Grundstück, für den Pharao wird er ganz Ägypten kaufen (<a href='http://bibel.renenyffenegger.ch/1mo_47.html#v20'>1. Mo 47,20ff</a>).
+  Hier kaufte Jakob «nur» ein Grundstück, für den Pharao wird Joseph ganz Ägypten kaufen, §1mo-47-20-ff.
  }
 #}
 #1mo-33-20 {
@@ -6171,9 +6169,12 @@
 #}
 #1mo-36-33 {
  {
-  <i>Bozra</i> (<span class='hebr'>בָּצְרָה</span>, Strongs 1224) bedeutet offenbar auch 'Schafhürde' (Siehe <a class='kom' href='#I4mo-32-16'>4.&nbsp;Mo&nbsp;32,16</a>,
+  §1chr-1-44
+ }
+ {
+  <i>Bozra</i> (<span class='hebr'>בָּצְרָה</span>, Strongs 1224) bedeutet offenbar auch «Schafhürde» (Siehe <a class='kom' href='#I4mo-32-16'>4.&nbsp;Mo&nbsp;32,16</a>,
   <a class='kom' href='#Imi-2-12'>Mi&nbsp;2,12</a>).
-  <br>In Bozra hält der HERR ein Schlachtopfer, Bozra scheint in Edom zu liegen (<a href='http://bibel.renenyffenegger.ch/jes_34.html#v5'>Jes 34,5-6</a>).
+  <br>In Bozra hält der HERR ein Schlachtopfer, Bozra scheint in Edom zu liegen (§jes-34-5-6).
  }
 #}
 #1mo-36-35 {
@@ -6654,6 +6655,11 @@
 #1mo-41-5 {
  {
   TODO: vgl mit <i>Menorah</i> (<a href='http://bibel.renenyffenegger.ch/2mo_25.html#v31'>2.&nbsp;Mo&nbsp;25,31</a>, <a class='kom' href='#I2mo-25-31'>2.&nbsp;Mo&nbsp;25,31</a>).
+ }
+#}
+#1mo-41-7 {
+ {
+  <i>am Ufer des Stromes</i> §+dan-10-4
  }
 #}
 #1mo-41-8 {
@@ -7185,7 +7191,7 @@
 #}
 #1mo-47-20 {
  {
-  TODO: Vgl <a class='kom' href='#I1mo-33-19'>1.&nbsp;Mo&nbsp;33,19</a>.
+  Vgl §+1mo-33-19.
  }
 #}
 #1mo-47-22 {
@@ -8503,6 +8509,11 @@
   <i>Frösche</i>: §ps-78-45, §ps-105-30
  }
 #}
+#2mo-7-28 {
+ {
+  <i>Backtrog</i> §5mo-28-5
+ }
+#}
 @}
 @2. Mose 8 {
 #2mo-8-3 {
@@ -9653,6 +9664,11 @@
   <i>nach dem Maß seines Essens</i>: vgl <a href='http://bibel.renenyffenegger.ch/2mo_12.html#v4'>2.&nbsp;Mo&nbsp;12,4</a>.
  }
 #}
+#2mo-16-18 {
+ {
+  vgl §mt-13-12
+ }
+#}
 #2mo-16-20 {
  {
   Dies ist die vierte von → biblisches/Exodus/Zehnmalige-Versuchung[zehn Versuchungen].
@@ -10277,7 +10293,7 @@
 #}
 #2mo-20-16 {
  {
-  Vgl §3mo-19-11 («ihr sollt nicht lügen»).
+  Vgl §3mo-19-11 («ihr sollt nicht lügen»), §2mo-23-7 («Von der Sache der Lüge sollst du dich fernhalten»)
  }
  {
   Gesetze über <i>deinen Nächsten</i> in §3mo-19-13-18. Vgl insbesondere
@@ -10656,6 +10672,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetzloser
+ }
+ {
+  <i>Von der Sache der Lüge sollst du dich fernhalten</i> vgl §2mo-20-16
  }
 #}
 #2mo-23-8 {
@@ -13991,6 +14010,11 @@
   siehe <a class='kom' href='#I2mo-29-22'>2.&nbsp;Mo&nbsp;29,22</a>.
  }
 #}
+#3mo-8-23 {
+ {
+  Vgl §2mo-29-20
+ }
+#}
 #3mo-8-26 {
  {
    → biblisches/Eigene-Uebersetzung/Varianten/Ungesäuertes
@@ -14219,6 +14243,11 @@
 #3mo-11-15 {
  {
   TODO: vgl §5mo-14-14
+ }
+#}
+#3mo-11-16 {
+ {
+  §5mo-14-15
  }
 #}
 #3mo-11-17 {
@@ -21061,6 +21090,9 @@
  {
   <i>Und ich warf mich vor dem HERRN nieder</i>: §V5mo-9-25.
  }
+ {
+  <i>ihn zu reizen</i> vgl §5mo-31-29
+ }
 #}
 #5mo-9-21 {
  {
@@ -21460,6 +21492,11 @@
 #5mo-14-14 {
  {
   TODO: vgl §3mo-11-15
+ }
+#}
+#5mo-14-15 {
+ {
+  §3mo-11-16
  }
 #}
 #5mo-14-21 {
@@ -22250,6 +22287,11 @@
   §5mo-26-19
  }
 #}
+#5mo-28-5 {
+ {
+  <i>Backtrog</i> §2mo-7-28, §V5mo-28-17
+ }
+#}
 #5mo-28-8 {
  {
   <i>Geschäft deiner Hand</i> §+5mo-12-7
@@ -22608,6 +22650,9 @@
  {
   <i>Werke eurer Hände</i>: <a class='kom' href='#I5mo-2-7'>5.&nbsp;Mo&nbsp;2,7</a>.
  }
+ {
+  <i>ihn zu reizen</i> vgl §5mo-9-18
+ }
 #}
 @}
 @5. Mose 32 {
@@ -22732,7 +22777,7 @@
 #}
 #5mo-32-33 {
  {
-  <i>Drachengeifer</i>: TODO, vgl mit <a class='kom' href='#I1mo-1-21'>1.&nbsp;Mo&nbsp;1,21</a>.
+  <i>Drachengeifer</i>: TODO, vgl mit §+1mo-1-21.
  }
 #}
 #5mo-32-34 {
@@ -25785,6 +25830,9 @@
  {
   TODO: Hufe: evtl. besser mit »Fersen« übersetzt (Strongs H6119)
  }
+ {
+  TODO: <i>stampfen</i> ist wohl dasselbe Wort wie «hämmern» in §Vri-5-26
+ }
 #}
 #ri-5-23 {
  {
@@ -26968,7 +27016,7 @@
 #}
 #rt-4-12 {
  {
-  <i>Der Sammen, den der HERR dir geben wird</i>: vgl <a href='http://bibel.renenyffenegger.ch/1sam_2.html#v20'>1.&nbsp;Sam&nbsp;2,20</a>.
+  <i>Der Samen, den der HERR dir geben wird</i>: vgl §1sam-2-20.
  }
  {
   → biblisches/Personen/Perez/Judas-Sohn
@@ -27085,6 +27133,11 @@
     TODO Grundtext: <span class='hebr'>לא</span> statt <span class='hebr'>לו</span>?
  }
 #}
+#1sam-2-4 {
+ {
+  <i>mit Kraft umgürten</i> §2sam-22-40
+ }
+#}
 #1sam-2-5 {
  {
   <i>Die Unfruchtbare hat sieben geboren</i> vgl §jer-15-9
@@ -27100,6 +27153,9 @@
   <a href='http://bibel.renenyffenegger.ch/jer_17.html#v12'>Jer&nbsp;17,12</a>,
   <a href='http://bibel.renenyffenegger.ch/mt_19.html#v28'>Mt&nbsp;19,28</a> (seiner),
   <a href='http://bibel.renenyffenegger.ch/mt_25.html#v31'>Mt&nbsp;25,31</a>
+ }
+ {
+  Vgl §ps-113-7
  }
 #}
 #1sam-2-10 {
@@ -27132,7 +27188,7 @@
 #}
 #1sam-2-20 {
  {
-  <i>Der HERR gebe dir Samen</i>: <a class='kom' href='#Irt-4-12'>Rt&nbsp;4,12</a>.
+  <i>Der HERR gebe dir Samen</i>: §+rt-4-12.
  }
 #}
 #1sam-2-22 {
@@ -30032,6 +30088,11 @@
 #2sam-22-36 {
  {
   Vgl den <i>Schild des Heils</i> mit dem «Schild des Glaubens» in <a href='http://bibel.renenyffenegger.ch/eph_6.html#v16'>Eph&nbsp;6,16</a>.
+ }
+#}
+#2sam-22-40 {
+ {
+  <i>mit Kraft umgürten</i> §1sam-2-4
  }
 #}
 #2sam-22-51 {
@@ -34061,6 +34122,9 @@
   Das erste Regierungsjahr Nebukadnezars fällt in die Regierungszeit Jojakim/Eljakims.
   <br>TODO: <a class='kom' href='#I2chr-36-9'>2.&nbsp;Chr&nbsp;36,9</a>.
  }
+ {
+  TODO: §+jer-21-9
+ }
 #}
 #2koe-24-13 {
  {
@@ -34404,7 +34468,7 @@
 #}
 #1chr-1-44 {
  {
-  <i>Bozra</i> (Strongs 1224): <a class='kom' href='#I1mo-36-33'>1.&nbsp;Mo&nbsp;36,33</a>.
+  <i>Bozra</i> (Strongs 1224): §+1mo-36-33.
  }
 #}
 @}
@@ -34658,6 +34722,14 @@
  }
 #}
 #1chr-3-17 {
+ {
+  <i>Assir</i> bedeutet «Gefangener» und einige Ausleger interpretieren diesen Vers so: «Die Söhne Jekonias, des Gefangenen: dessen Sohn Schealtiel …».
+ <br>
+  Für diese Variante spricht, dass <i>Assir</i> in keinem Stammbaum als Sohn von Jekonia angegebn wird. Dagegen spricht, dass Assir ohne Artikel geschrieben wurde.
+ }
+ {
+ TODO Hier werden <i>sieben</i> Söhne von Jekonja aufgezählt, obwohl er als «kinderlos aufgeschrieben wurde», §jer-22-30 (<i>Assir</i> kann offenbar auch als «der Gefangene» übersetzt werden).
+ }
  {
   → biblisches/Personen/Schealtiel
  }
@@ -36417,6 +36489,9 @@
  {
   <i>Heman</i>: §1chr-6-18
  }
+ {
+  <i>Romamti-Eser</i>: §V1chr-25-31
+ }
 #}
 #1chr-25-5 {
  {
@@ -36434,6 +36509,11 @@
 #1chr-25-7 {
  {
   288 Sänger: <a class='kom' href='#I1chr-27-1'>1.&nbsp;Chr&nbsp;27,1</a>.
+ }
+#}
+#1chr-25-31 {
+ {
+  <i>Romamti-Eser</i>: §V1chr-25-4
  }
 #}
 @}
@@ -38872,6 +38952,9 @@
  {
   Die Verse 22 und 23 finden sich in <a href='http://bibel.renenyffenegger.ch/esr_1.html#v1'>Esr 1,1-2</a> wieder, wo es dann aber weitergeht mit
   '&hellip;, das in Juda ist, und baue das Haus des HERRN, des Gottes Israels - Er ist Gott - in Jerusalem!'.
+ }
+ {
+  Der <i>Dienst Jeremias</i> daurte bis zur Wegführung, §jer-1-1-3
  }
 #}
 #2chr-36-23 {
@@ -41408,6 +41491,11 @@
    Trotzdem sagt er in §hi-9-20 «wäre ich vollkommen, so würde er mich für verkehrt erklären».
  }
 #}
+#hi-1-2 {
+ {
+  <i>sieben Söhne und drei Töchter<i> §hi-42-13
+ }
+#}
 #hi-1-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Söhne
@@ -42289,6 +42377,11 @@
   <i>Kesita</i>: <a class='kom' href='#I1mo-33-19'>1.&nbsp;Mo&nbsp;33,19</a>.
  }
 #}
+#hi-42-13 {
+ {
+  <i>sieben Söhne und drei Töchter<i> §hi-1-2
+ }
+#}
 #hi-42-17 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/alt-und-der-Tage-satt
@@ -42645,7 +42738,7 @@
 #}
 #ps-10-4 {
  {
-  <i>Es ist kein Gott</i> vgl §ps-14-1
+  <i>Es ist kein Gott</i> vgl §ps-14-1, §ps-53-2
  }
 #}
 #ps-10-6 {
@@ -42997,6 +43090,9 @@
 #ps-22-13 {
  {
   <i>Stiere von Basan</i> vgl mit den «Kühen Basans», §am-4-1
+ }
+ {
+  TODO: <span class='hebr'>אַבִּיר</span> (Strongs 47).
  }
 #}
 #ps-22-19 {
@@ -44125,6 +44221,9 @@
 #ps-53-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
+ }
+ {
+  <i>es ist kein Gott</i> vgl §ps-10-4
  }
 #}
 #ps-53-3 {
@@ -46749,6 +46848,9 @@
 #ps-113-7 {
  {
   Vgl §ps-107-41
+ }
+ {
+  Vgl §1sam-2-8
  }
 #}
 #ps-113-9 {
@@ -51378,6 +51480,9 @@
 #}
 #jes-24-22 {
  {
+  Vgl §jes-42-7
+ }
+ {
   TODO: Sind diese <i>vielen Jahre</i> die '1000 Jahre' aus <a href='http://bibel.renenyffenegger.ch/offb_20.html#v2'>Offb 20,2 ff</a>?
  }
  {
@@ -52172,6 +52277,9 @@
 #jes-42-7 {
  {
   <i>um blinde Augen aufzutun</i> §jes-43-8
+ }
+ {
+  Vgl §jes-24-22
  }
 #}
 #jes-42-10 {
@@ -53465,6 +53573,9 @@
   Weggführung im 5. Monat: <a href='http://bibel.renenyffenegger.ch/2koe_25.html#v8'>2.&nbsp;Kö&nbsp;25,8</a>,
   <a class='kom' href='#I2koe-25-21'>2.&nbsp;Kö&nbsp;25,21</a>.
  }
+ {
+  Der Dienst Jeremias dauert <i>bis</i> zur Wegführung, aber ein (das) Wort Jehovas durch Jeremia wird im erste Jahr des Kores erfüllt werden, §2chr-36-22
+ }
 #}
 #jer-1-5 {
  {
@@ -54369,6 +54480,11 @@
   Vgl §jer-32-3-5
  }
 #}
+#jer-21-9 {
+ {
+  TODO: Hat Jojakin/Jekonja diese Warnung beherzigt (§2koe-24-12) und ist deshalb verschont geblieben (§jer-52-31-34)?
+ }
+#}
 @}
 @Jeremia 22 {
 #jer-22-11 {
@@ -54410,6 +54526,13 @@
  }
  {
   Vgl mit → biblisches/Personen/Serubbabel (der ein Nachkomme von → biblisches/Personen/Jekonja-Jojakin[Jekonja] zu sein scheint), den der HERR zum Siegelring machen will (§hag-2-23).
+ }
+#}
+#jer-22-30 {
+ {
+  <i>Schreibt diesen Mann als kinderlos auf</i> und <i>von seinem Samen wird … keiner auf dem Thron Davids sitzen</i> vgl §jer-36-30.
+ <br>
+  Obwohl Jekonja als kinderlos aufgeschrieben wird, wird im Stammbaum des Herrn erwähnt: §mt-1-11. In §1chr-3-17-18 werden sogar <i>sieben</i>(?) Söhne von Jekonja aufgezählt.
  }
 #}
 @}
@@ -55375,6 +55498,9 @@
 #}
 #jer-36-30 {
  {
+  <i>Jojakim wird niemanden haben, der auf dem Thron Davids sitze</i>. Er wird auch als «kinderlos» aufgeschrieben werden, §+jer-22-30
+ }
+ {
   Vgl <a class='kom' href='#I2koe-23-36'>2.&nbsp;Kö&nbsp;23,36</a>, <a href='http://bibel.renenyffenegger.ch/jer_22.html#v18'>Jer&nbsp;22,18</a>.
  }
 #}
@@ -56323,6 +56449,9 @@
  }
  {
   TODO: Beachte: Der Schluss Jeremias ist in etwa der Schluss der 2. Könige (<a href='http://bibel.renenyffenegger.ch/2koe_25.html#v27'>2.&nbsp;Kö&nbsp;25,27</a>).
+ }
+ {
+  TODO: §+jer-21-9
  }
 #}
 #jer-52-32 {
@@ -59160,6 +59289,9 @@
  {
   Obwohl Gabriel das Gesicht zu verstehen geben soll, verstand es niemand (§+Vdan-8-27).
  }
+ {
+  <i>zwischen den Ufern des Ulai</i> §+dan-10-4
+ }
 #}
 #dan-8-17 {
  {
@@ -59397,6 +59529,11 @@
   <i>Kein Wein kam in meinen Mund</i>: §dan-1-8
  }
 #}
+#dan-10-4 {
+ {
+  <i>Am Ufer des großen Stromes</i> vgl §dan-8-16, §dan-12-5, §1mo-41-7
+ }
+#}
 #dan-10-5 {
  {
   Daniel hebt die Augen auf, während Johannes sich umwandte (<a href='http://bibel.renenyffenegger.ch/offb_1.html#v12'>Offb&nbsp;1,12</a>).
@@ -59615,6 +59752,9 @@
  }
 #}
 #dan-12-5 {
+ {
+  <i>am Ufer des Stromes</i> §+dan-10-4
+ }
  {
   TODO: Strongs 2975 (siehe <a class='kom' href='#I2koe-19-24'>2.&nbsp;Kö&nbsp;19,24</a>).
  }
@@ -62278,6 +62418,9 @@
  {
   <i>Wegführung nach → biblisches/Orte/Babel[Babylon]</i> wäre wohl genauer übersetzt mit «babylonische Wegführung». Ebenso §Vmt-1-12 und §Vmt-1-17.
  }
+ {
+  TODO: §+jer-22-30, §jer-36-30
+ }
 #}
 #mt-1-12 {
  {
@@ -64917,7 +65060,7 @@
 #}
 #mt-13-12 {
  {
-  <i>wer da hat, dem wird gegeben werden…</i> vgl §lk-12-48
+  <i>wer da hat, dem wird gegeben werden…</i> vgl §2mo-16-18, s.a. §lk-12-48
  }
 #}
 #mt-13-13 {
@@ -101492,7 +101635,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-2-25 {
  {
-   §joh-10-6, §mt-9-36, §mk-6-34, §4mo-27-16
+   §joh-10-16, §mt-9-36, §mk-6-34, §4mo-27-16
   <br>
    Vgl §1petr-5-2.
  }
@@ -101881,7 +102024,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-5-2 {
  {
-  Beachte: Es gibt <i>einen</i> Hüter der Seelen (<a class='kom' href='#I1petr-2-25'>1.&nbsp;Petr&nbsp;2,25</a>).
+  Beachte: Es gibt <i>einen</i> Hüter der Seelen: §+1petr-2-25
  }
  {
   Vgl <i>hüten</i> (<span class='gr'>ποιμαίνω</span>, Strongs 4165) mit <i>Herde</i> (<span class='gr'>ποίμνιον</span>, Strongs 4168).
@@ -102291,7 +102434,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Vgl <a href='http://bibel.renenyffenegger.ch/1tim_6.html#v7'>1.&nbsp;Tim&nbsp;6,7-9</a>
  }
  {
-  <i>betrügerisch</i> <span class='gr'>πλαστός</span> (Strongs 4112, 1x), in Elberfelder mit 'gekünstelt', in KJV mit 'feigned' übersetzt.
+  <i>erkünstelt</i> <span class='gr'>πλαστός</span> (Strongs 4112, 1x), in Sch2K mit «betrügerisch», in KJV mit «feigned» übersetzt.
  }
  {
   <i>ausbeuten</i>: <a class='kom' href='#Ijak-4-13'>Jak&nbsp;4,13</a>.
@@ -102382,7 +102525,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2petr-2-14 {
  {
-  <i>Habsucht</i>: Vers 3.
+  <i>Habsucht</i>: §V2petr-2-3
  }
  {
   <i>unbefestigt</i>: <span class='gr'>ἀστήρικτος</span> (Strongs 793, 2x), vgl §2petr-3-16
@@ -103467,8 +103610,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Entwurzeln</i>: <a class='kom' href='#Imt-13-29'>Mt&nbsp;13,29</a>.
  }
  {
-  TODO: Sie weiden sich selbst, statt die Herde Gottes (<a href='http://bibel.renenyffenegger.ch/1petr_5.html#v2'>1.&nbsp;Petr&nbsp;5,2</a>, wo 'hüten' dasselbe griechische
-  Wort ist wie hier 'weiden').
+  Sie weiden sich selbst, statt die Herde Gottes (§1petr-5-2, wo «hüten» dasselbe griechische Wort ist wie hier «weiden»).
  }
 #}
 #jud-1-13 {
