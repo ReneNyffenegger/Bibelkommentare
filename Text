@@ -5780,7 +5780,7 @@
   <i>Terebinthe</i>: (<span class='hebr'>אֵלָה</span>, Strongs 424).
  }
  {
-  Dies ist möglicherweise die 'Terebinthe Mores' (<a href='http://bibel.renenyffenegger.ch/1mo_12.html#v6'>1.&nbsp;Mo&nbsp;12,6</a>) [aber dort
+  Dies ist möglicherweise die 'Terebinthe Mores' (<a href='http://bibel.renenyffenegger.ch/1mo_12.html#v6'>1.&nbsp;Mo&nbsp;12,6</a>) (aber dort
   steht für Terebinthe Strongs 436, welches, wie auch 424, mit 352 verwandt ist).
  }
  {
@@ -5789,7 +5789,7 @@
 #}
 #1mo-35-7 {
  {
-  <i>sich offenbaren</i>: <span class='hebr'>גָּלָה </span> (Strongs 1540), sonst häufig mit «Blösse aufdecken» oder «entblössen» übersetzt, z. B. in §1mo-9-21, §2mo-20-26, §3mo-18-7 etc.
+  <i>sich offenbaren</i>: <span class='hebr'>גָּלָה </span> (Strongs 1540), sonst häufig mit «Blöße aufdecken» oder «entblößen» übersetzt, z. B. in §1mo-9-21, §2mo-20-26, §3mo-18-7 etc.
   <br>
   Vgl mit «Gott erschien» in §V1mo-35-9.
  }
@@ -6210,7 +6210,10 @@
 #}
 #1mo-37-2 {
  {
-   <i>Geschichte</i>: <a class='kom' href='#I1mo-2-4'>1.&nbsp;Mo&nbsp;2,4</a>.
+  <i>Geschichte</i>: §+1mo-2-4.
+ }
+ {
+  TODO: Jakob verbringt seine ersten und letzten 17 Jahre mit Joseph, §1mo-47-28
  }
 #}
 #1mo-37-3 {
@@ -6229,7 +6232,7 @@
 #}
 #1mo-37-5 {
  {
-  Joseph wird sich an die Träume erinnern: <a href='http://bibel.renenyffenegger.ch/1mo_42.html#v9'>1.&nbsp;Mo&nbsp;42,9</a>.
+  Joseph wird sich an die Träume erinnern: §1mo-42-9.
  }
 #}
 #1mo-37-7 {
@@ -6730,7 +6733,7 @@
   <i>Weisse Leinwand</i>: <span class='hebr'>שֵׁשׁ</span> (Strongs 8336). Dieses Wort wird offenbar auch in <a href='http://bibel.renenyffenegger.ch/2mo_25.html#v4'>2.&nbsp;Mo&nbsp;25,4</a>
   und <a href='http://bibel.renenyffenegger.ch/est_1.html#v6'>Est&nbsp;1,6</a>
   verwendet.
-  <br>Beachte, <span class='hebr'>בַּד</span> (Strongs 906), ist auch ein Wort, welches mit <i>leinen</i> übersetzt wird, zum Beispiel in
+  <br>Beachte, <span class='hebr'>בַּד</span> (Strongs 906), ist auch ein Wort, welches mit <i>Leinen</i> übersetzt wird, zum Beispiel in
   <a href='http://bibel.renenyffenegger.ch/2mo_28.html#v42'>2.&nbsp;Mo&nbsp;28,42</a>.
  }
  {
@@ -6797,7 +6800,7 @@
 #}
 #1mo-42-9 {
  {
-  <i>Träume</i>: <a class='kom' href='#I1mo-37-5'>1.&nbsp;Mo&nbsp;37,5</a>.
+  <i>Träume</i>: §+1mo-37-5.
  }
 #}
 #1mo-42-15 {
@@ -7226,6 +7229,11 @@
  }
  {
   TODO: Vgl das fruchtbare Israel (im Land ihres Elends) mit dem fruchtbaren Ephraim im Land seines Elends, §1mo-41-52
+ }
+#}
+#1mo-47-28 {
+ {
+  TODO: Jakob verbringt seine ersten und letzten 17 Jahre mit Joseph, §1mo-37-2
  }
 #}
 #1mo-47-29 {
@@ -14123,7 +14131,7 @@
   → biblisches/Personen/Eleasar/Aaron, → biblisches/Personen/Itamar
  }
  {
-  TODO: <i>entblössen</i> ist Strong 6544, siehe <a class='kom' href='#I2mo-5-4'>2.&nbsp;Mo&nbsp;5,4</a>.
+  TODO: <i>entblößen</i> ist Strong 6544, siehe <a class='kom' href='#I2mo-5-4'>2.&nbsp;Mo&nbsp;5,4</a>.
   <br>Ebenso <a class='kom' href='#I3mo-13-45'>3.&nbsp;Mo&nbsp;13,45</a>
  }
 #}
@@ -14478,7 +14486,7 @@
 #}
 #3mo-13-45 {
  {
-  <i>Haupt entblössen</i> §+3mo-10-6, §3mo-21-10, §4mo-5-18
+  <i>Haupt entblößen</i> §+3mo-10-6, §3mo-21-10, §4mo-5-18
  }
  {
   
@@ -14840,12 +14848,12 @@
 #}
 #3mo-18-7 {
  {
-  <i>Blösse des Vaters nicht aufdecken</i> §3mo-20-11
+  <i>Blöße des Vaters nicht aufdecken</i> §3mo-20-11
  }
 #}
 #3mo-18-9 {
  {
-  <i>Die Blösse der Schwester nicht aufdecken</i> §3mo-20-17
+  <i>Die Blöße der Schwester nicht aufdecken</i> §3mo-20-17
  }
 #}
 #3mo-18-11 {
@@ -15178,7 +15186,7 @@
 #}
 #3mo-20-11 {
  {
-  <i>Blösse des Vaters aufdecken</i> §3mo-18-7
+  <i>Blöße des Vaters aufdecken</i> §3mo-18-7
  }
 #}
 #3mo-20-13 {
@@ -15201,7 +15209,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gerechtigkeit/Ungerechtigkeit-tragen vgl §V2mo-28-43
  }
  {
-  <i>Blösse der Schwester aufdecken</i> §3mo-18-9
+  <i>Blöße der Schwester aufdecken</i> §3mo-18-9
  }
  {
   Abraham hatte eine Halbschwester, siehe auch <a class='kom' href='#I1mo-20-12'>1.&nbsp;Mo&nbsp;20,12</a>.
@@ -59290,6 +59298,11 @@
   scheint asugeschlossen.
  }
 #}
+#dan-8-15 {
+ {
+  <i>Verständnis suchen</i> vgl §dan-9-22, §dan-10-1, §dan-10-12
+ }
+#}
 #dan-8-16 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Gabriel
@@ -59421,6 +59434,9 @@
  {
   Vgl §+dan-8-27.
  }
+ {
+  <i>gab mir Verständnis</i> vgl §+dan-8-15
+ }
 #}
 #dan-9-23 {
  {
@@ -59524,6 +59540,9 @@
    Kyrus erlaubt den Juden in seinem ersten Jahr, wieder nach Jerusalem zu ziehen (§esr-1-1-ff). Da Daniel nur bis zum ersten Jahr des Kyrus geblieben ist (§dan-1-21), scheint es naheliegend,
    dass Daniel diese offenbarte Sache wieder in Israel erhielt.
  }
+ {
+  <i>bekam Verständnis über das Gesicht</i> vgl §+dan-8-15
+ }
 #}
 #dan-10-2 {
  {
@@ -59582,7 +59601,7 @@
 #}
 #dan-10-12 {
  {
-   Vgl §+dan-8-27
+  Vgl §+dan-8-15, §+dan-8-27
  }
 #}
 #dan-10-13 {
