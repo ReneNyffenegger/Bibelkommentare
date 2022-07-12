@@ -4605,7 +4605,7 @@
   <i>Jakob</i>: <span class='hebr'>יַעֲקֹב</span>, <i>Ferse</i>: <span class='hebr'>עָקֵב</span>, vgl → biblisches/Personen/Jakob#jakobs-name und §1mo-27-36.
  }
  {
-  TODO: Beachte, dass Israel auch Gott nicht los liess: §1mo-32-27
+  Beachte, dass Jakob/Israel auch Gott nicht los liess: §1mo-32-27
  }
  {
   TODO: Jakobs Söhne werden ihm in Paddan-Aram geboren (<a href='http://bibel.renenyffenegger.ch/1mo_35.html#v26'>1.&nbsp;Mo&nbsp;35,26</a>) (Wegen Benjamin siehe
@@ -5130,7 +5130,7 @@
 @1. Mose 29 {
 #1mo-29-1 {
  {
-  Als Jakob über den Jordan ging, hatte er nur einen Stab (<a href='http://bibel.renenyffenegger.ch/1mo_32.html#v11'>1.&nbsp;Mo&nbsp;32,11</a>).
+  Als Jakob über den Jordan ging, hatte er nur einen Stab, §1mo-32-11.
  }
  {
   <i>Söhne des Ostens</i>: Ist das Kedar (<a href='http://bibel.renenyffenegger.ch/jer_49.html#v28'>Jer&nbsp;49,28</a>).
@@ -5349,12 +5349,6 @@
   Auch Laban gehört eigentlich zur <i>Verwandtschaft</i> von Jakob, aber wohl nicht zur engeren.
  }
 #}
-#1mo-31-9 {
- {
-  <i>Macht meiner Hand</i>: <span class='hebr'>לְאֵל יָדִי</span>. Dasselbe Idiom wird auch verwendet in
-  §5mo-28-32, §spr-3-27, §mi-2-1.
- }
-#}
 #1mo-31-11 {
  {
   <i>Engel spricht im Traum</i>, vgl §mt-1-19, §mt-2-13
@@ -5404,6 +5398,12 @@
 #1mo-31-27 {
  {
    TODO: <i>Laute</i> ist offenbar 'Harfe' (Strongs 3658)
+ }
+#}
+#1mo-31-29 {
+ {
+  <i>Macht meiner Hand</i>: <span class='hebr'>לְאֵל יָדִי</span>. Dasselbe Idiom wird auch verwendet in
+  §5mo-28-32, §spr-3-27, §mi-2-1.
  }
 #}
 #1mo-31-32 {
@@ -5509,6 +5509,9 @@
  {
   <i>Rette mich …</i> vgl §V1mo-32-31
  }
+ {
+  <i>zwei Züge</i> vgl «Machanaim», §V1mo-32-3.
+ }
 #}
 #1mo-32-14 {
  {
@@ -5527,7 +5530,7 @@
 #}
 #1mo-32-23 {
  {
-  Jakob hatte mit Dina zwölf Kinder. Sie wurde offensichtlich nicht gezählt.
+  Jakob hatte mit Dina zwölf Kinder.
  }
  {
   <i>Furt</i>: <a class='kom' href='#I1mo-26-17'>1.&nbsp;Mo&nbsp;26,17</a>.
@@ -5544,7 +5547,7 @@
 #}
 #1mo-32-27 {
  {
-   TODO: Vgl §+1mo-25-26.
+   <i>Ich lasse dich nicht los</i> vgl §+1mo-25-26.
  }
 #}
 #1mo-32-28 {
@@ -22356,7 +22359,7 @@
 #}
 #5mo-28-32 {
  {
-   <i>Macht deiner Hand</i>: §+1mo-31-9.
+   <i>Macht deiner Hand</i>: §+1mo-31-29.
  }
 #}
 #5mo-28-33 {
@@ -48071,7 +48074,7 @@
 #}
 #spr-3-27 {
  {
-  <i>Macht deiner Hand</i>: §+1mo-31-9.
+  <i>Macht deiner Hand</i>: §+1mo-31-29.
  }
 #}
 #spr-3-29 {
@@ -61141,7 +61144,7 @@
 @Micha 2 {
 #mi-2-1 {
  {
-  <i>Macht ihrer Hand</i>: §+1mo-31-9.
+  <i>Macht ihrer Hand</i>: §+1mo-31-29.
  }
 #}
 #mi-2-5 {
