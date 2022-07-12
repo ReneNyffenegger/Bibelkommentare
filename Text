@@ -25626,6 +25626,9 @@
  {
   <i>taten wieder, was böse war</i> auch in <a href='http://bibel.renenyffenegger.ch/ri_10.html#v6'>Ri&nbsp;10,6</a> und <a href='http://bibel.renenyffenegger.ch/ri_13.html#v1'>Ri&nbsp;13,1</a>.
  }
+ {
+  Vgl §1sam-12-9
+ }
 #}
 #ri-3-13 {
  {
@@ -25724,6 +25727,9 @@
  }
  {
   <i>König(e) der Kanaaniter</i>: <a class='kom' href='#Ijos-5-1'>Jos&nbsp;5,1</a>.
+ }
+ {
+  <i>Sisera</i>: §1sam-12-9
  }
  {
   <i>Sisera</i> wird in den <a href='https://de.wikipedia.org/wiki/Amarna-Briefe'>Amarna Briefen</a> erwähnt. Gérard Gertoux datiert anhand dieser Briefe den Tod von Sisera in das
@@ -25899,6 +25905,9 @@
  }
  {
   <i>Kelter</i> <span class='hebr'>גַּת</span> (Strongs 1660).
+ }
+ {
+  Vgl §+1sam-12-11
  }
 #}
 #ri-6-12 {
@@ -26170,7 +26179,7 @@
 @Richter 11 {
 #ri-11-1 {
  {
-  <i>Jephtah</i>: <a class='kom' href='#Ijos-15-43'>Jos&nbsp;15,43</a>.
+  <i>Jephtah</i>: <a class='kom' href='#Ijos-15-43'>Jos&nbsp;15,43</a>, vgl §1sam-12-11
  }
  {
   Auch Gideon ist ein <i>tapferer Held</i>: <a class='kom' href='#Iri-6-12'>Ri&nbsp;6,12</a>.
@@ -27779,9 +27788,23 @@
   Vgl <a class='kom' href='#I1sam-11-15'>1.&nbsp;Sam&nbsp;11,15</a>.
  }
 #}
+#1sam-12-9 {
+ {
+  <i>Sisera</i>: §ri-4-2
+ <br>
+  <i>Philister</i>: ?
+ <br>
+  <i>König von Moab</i>: §ri-3-12
+ }
+#}
 #1sam-12-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
+ }
+ {
+  <i>Jerub-Baal</i> (=Gideon): §ri-6-11-ff
+ <br>
+  <i>Jephta</i>: §ri-11-1-ff
  }
 #}
 #1sam-12-12 {
