@@ -5538,7 +5538,7 @@
 #}
 #1mo-32-14 {
  {
-  <i>Geschenk</i>: dasselbe Wort wie für 'Opfer' in <a href='http://bibel.renenyffenegger.ch/1mo_4.html#v3'>1.&nbsp;Mo&nbsp;4,3</a> ff.
+  <i>Geschenk</i>: dasselbe Wort wie für 'Opfer' in §1mo-4-3-ff.
  }
 #}
 #1mo-32-16 {
@@ -22385,6 +22385,9 @@
 #}
 #5mo-28-29 {
  {
+  <i>du wirst am Mittag umhertappen, wie der Blinde im Finstern tappt</i> vgl §hi-5-14, §hi-12-25
+ }
+ {
   <i>Mittag</i>: <span class='hebr'>צֹהַר</span> (Strongs 6672), wird z. B. in §1mo-6-16 mit Licht(öffnung) übersetzt.
  }
 #}
@@ -30135,6 +30138,11 @@
 #2sam-22-24 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen#vollkommener-mensch
+ }
+#}
+#2sam-22-26 {
+ {
+  Hier: <span class='hebr'>גִּבּ֥וֹר</span> (Strongs 1368), in der Parallelstelle §ps-18-26: <span class='hebr'>גְּבַ֥ר</span> (Strongs 1399)
  }
 #}
 #2sam-22-31 {
@@ -41671,6 +41679,11 @@
    Vgl <a class='kom' href='#I1kor-3-19'>1.&nbsp;Kor&nbsp;3,19</a>.
  }
 #}
+#hi-5-14 {
+ {
+  Vgl §hi-12-25, §5mo-28-29
+ }
+#}
 #hi-5-17 {
  {
   Vgl §ps-32-1-2
@@ -41842,6 +41855,11 @@
  }
  {
   <i>Worte prüfen</i> §1mo-42-16
+ }
+#}
+#hi-12-25 {
+ {
+  <i>Sie tappen in der Finsternis</i> Vgl §hi-5-14, §5mo-28-29
  }
 #}
 @}
@@ -43062,6 +43080,11 @@
 #ps-18-24 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen#vollkommener-mensch[vollkommen]
+ }
+#}
+#ps-18-26 {
+ {
+  Hier: <span class='hebr'>גְּבַ֥ר</span> (Strongs 1399), in der Parallelstelle §2sam-22-26: <span class='hebr'>גִּבּ֥וֹר</span> (Strongs 1368)
  }
 #}
 #ps-18-31 {
