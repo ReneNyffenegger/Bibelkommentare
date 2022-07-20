@@ -2743,7 +2743,7 @@
 #}
 #1mo-13-6 {
  {
-  Die Habe von Esau und Jakob war auch zu gross, so dass Esau von Jakob wegzog (<a href='http://bibel.renenyffenegger.ch/1mo_36.html#v7'>1.&nbsp;Mo&nbsp;36,7</a>).
+  Die Habe von Esau und Jakob war auch zu gross, so dass Esau von Jakob wegzog, §1mo-36-7
  }
  {
   TODO: <a class='kom' href='#I1mo-34-21'>1.&nbsp;Mo&nbsp;34,21</a>.
@@ -3371,6 +3371,11 @@
 #1mo-16-9 {
  {
   Der Engel des HERRN spricht nach diesen Vorfällen zu Hagar, und nicht etwa zu Abram oder Sarai!
+ }
+#}
+#1mo-16-10 {
+ {
+  <i>nicht gezählt werden kann</i> vgl §1mo-34-30
  }
 #}
 #1mo-16-11 {
@@ -4524,6 +4529,9 @@
  {
    <i>Geschichte</i>: <a class='kom' href='#I1mo-2-4'>1.&nbsp;Mo&nbsp;2,4</a>.
  }
+ {
+  <i>Nebajoth</i> §1mo-36-3
+ }
 #}
 #1mo-25-13 {
  {
@@ -5109,6 +5117,7 @@
  {
   Bethel und Lus:
   <a class='kom' href='#I1mo-12-8'>1.&nbsp;Mo&nbsp;12,8</a>,
+  §1mo-35-6,
   <a href='http://bibel.renenyffenegger.ch/ri_1.html#v23'>Ri&nbsp;1,23</a>.
   <a class='kom' href='#Ijos-16-2'>Jos&nbsp;16,2</a>,
  }
@@ -5732,8 +5741,7 @@
 #}
 #1mo-34-14 {
  {
-  Sie können ihre Schwester nicht «einem unbeschnittenen Mann» geben, aber Simeon konnte offenbar ein kanaanäische Frau heiraten
-         (<a href='http://bibel.renenyffenegger.ch/1mo_46.html#v10'>1.&nbsp;Mo&nbsp;46,10</a>).
+  Sie können ihre Schwester nicht «einem unbeschnittenen Mann» geben, aber Simeon konnte offenbar ein kanaanäische Frau heiraten, §1mo-46-10.
  }
 #}
 #1mo-34-21 {
@@ -5760,29 +5768,28 @@
   und <a href='http://bibel.renenyffenegger.ch/1mo_30.html#v21'>1.&nbsp;Mo&nbsp;30,21</a>).
  }
 #}
-#1mo-34-30 {
+#1mo-34-30 
  {
   <i>Kanaaniter und Pherisiter</i> vgl §1mo-13-7
  }
  {
   <i>Unter den Bewohnern des Landes stinkend gemacht</i> vgl §2mo-5-21
  }
+ {
+  <i>ein zählbares Häuflein</i> vgl §1mo-16-10
+ }
 #}
 @}
 @1. Mose 35 {
 #1mo-35-1 {
  {
-  Endlich 'kann' (oder 'darf?') Jakob wohnen, nachdem er zweimal geflüchtet ist (<a href='http://bibel.renenyffenegger.ch/1mo_27.html#v43'>1.&nbsp;Mo&nbsp;27,43</a>
-  und <a href='http://bibel.renenyffenegger.ch/1mo_31.html#v21'>1.&nbsp;Mo&nbsp;31,21</a>).
+  Endlich kann (oder darf?) Jakob wohnen, nachdem er zweimal geflüchtet ist, §1mo-27-43 und §1mo-31-21.
  }
  {
-  <i>Altar in Bethel</i>: vgl mit Altar in Sichem <a class='kom' href='#I1mo-33-20'>1.&nbsp;Mo&nbsp;33,20</a>.
+  <i>Altar in Bethel</i>: vgl mit Altar in Sichem §+1mo-33-20.
  }
 #}
 #1mo-35-2 {
- {
-  Siehe <a class='kom' href='#I1mo-33-20'>1.&nbsp;Mo&nbsp;33,20</a>.
- }
  {
   TODO: Offenbar wusste Jakob von den Teraphim (<a href='http://bibel.renenyffenegger.ch/1mo_31.html#v19'>1. Mo 31,19 ff</a>)
  }
@@ -5802,6 +5809,11 @@
  }
  {
   <i>Schrecken Gottes</i>: §2mo-15-16, §2mo-23-27, …
+ }
+#}
+#1mo-35-6 {
+ {
+  Lus ist der ehemalige Name von Bethel: §1mo-28-19
  }
 #}
 #1mo-35-7 {
@@ -5957,7 +5969,7 @@
    <br>Siehe auch <a class='kom' href='#I1mo-41-51'>1.&nbsp;Mo&nbsp;41,51</a>.
  }
  {
-  Die Söhne Esaus sind ihm im Land Kanaan geboren worden: <a href='http://bibel.renenyffenegger.ch/1mo_36.html#v5'>1.&nbsp;Mo&nbsp;36,5</a>.
+  Die Söhne Esaus sind ihm im Land Kanaan geboren worden: §1mo-36-5.
  }
 #}
 #1mo-35-27 {
@@ -6008,6 +6020,11 @@
   TODO: <i>Ohilibama</i> (Strongs 173): 'Zelt der Höhen' (Strongs 168 und 1116)
  }
 #}
+#1mo-36-3 {
+ {
+  <i>Nebajoth</i> ist der Erstgeborene von Ismale, §1mo-25-12
+ }
+#}
 #1mo-36-5 {
  {
   <i>Korah</i>: Der Sohn Oholibamas (auch <a href='http://bibel.renenyffenegger.ch/1mo_36.html#v14'>Vers 14</a>),
@@ -6035,7 +6052,7 @@
 #}
 #1mo-36-7 {
  {
-  Die Habe von Abraham und Lot war auch zu gross, dass es das Land nicht ertrug, dass sie beieinander wohnten (§1mo-13-6).
+  Die Habe von Abraham und Lot war auch zu gross, dass es das Land nicht ertrug, dass sie beieinander wohnten, §1mo-13-6.
  }
 #}
 #1mo-36-8 {
@@ -6266,12 +6283,12 @@
 #}
 #1mo-37-8 {
  {
-  <i>König</i>: <a class='kom' href='#I1mo-36-31'>1.&nbsp;Mo&nbsp;36,31</a>.
+  <i>König</i>: §+1mo-36-31.
  }
 #}
 #1mo-37-9 {
  {
-   Bedeuten die <i>zwei</i> Träume eine fest beschlossene Sache? (<a href='http://bibel.renenyffenegger.ch/1mo_41.html#v32'>1.&nbsp;Mo&nbsp;41,32</a>)?
+  Bedeuten die <i>zwei</i> Träume eine fest beschlossene Sache, §1mo-41-32?
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/offb_12.html#v1'>Offb&nbsp;12,1</a>: zwölf Sterne.
@@ -6314,7 +6331,7 @@
 #}
 #1mo-37-25 {
  {
-  <i>Balsam</i> (<span class='he'>צֳרִי</span>, (Strongs 6875): Elb05 übersetzt mit «Balsamharz».
+  <i>Balsam</i> (<span class='he'>צֳרִי</span>, Strongs 6875): Elb05 übersetzt mit «Balsamharz».
  }
  {
   Israel gab seinen Söhnen auch Tragakanth, Ladanum und Balsam (neben Honig, Pistazien und Mandeln), als diese
