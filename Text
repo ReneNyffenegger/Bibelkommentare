@@ -5575,6 +5575,9 @@
 #}
 #1mo-32-23 {
  {
+  <i>Kinder</i> (<span class='hebr'>יְלָדָ֑יו</span>, Strongs 3206): Elberfelder übersetzt mit «Söhne»
+ }
+ {
   Jakob hatte mit Dina zwölf Kinder.
  }
  {
@@ -33477,7 +33480,12 @@
 #}
 #2koe-18-13 {
  {
-  vgl <a href='http://bibel.renenyffenegger.ch/jes_36.html#v1'>Jes&nbsp;36,1</a>.
+  vgl §jes-36-1
+ }
+#}
+#2koe-18-14 {
+ {
+  Verse 14, 15 und 16 «fehlen» in Jesaja 36.
  }
 #}
 #2koe-18-15 {
@@ -33492,7 +33500,7 @@
 #}
 #2koe-18-17 {
  {
-  §2chr-32-9
+  §2chr-32-9. Vgl Unterschiede mit §jes-36-2
  }
  {
   <i>sie hielten an der Wasserleitung des oberen Teiches</i> §2chr-32-3-4
@@ -33503,9 +33511,6 @@
  }
  {
   <i>Rasbsaris</i>, <span class='hebr'>רַב־סָרִיס</span> (Strongs 7249), wird in §jer-39-3 mit «Oberkämmerer» übersetzt.
- }
- {
-  Vgl Unterschiede mit §jes-36-2
  }
  {
   TODO: <a href='http://bibel.renenyffenegger.ch/jes_20.html#v1'>Jes&nbsp;20,1</a>: Sargon, ein assyrischer König, sandte den Tartan nach Asdod. Dieser nahm es ein. Möglicherweise
@@ -33549,6 +33554,9 @@
 #}
 #2koe-18-20 {
  {
+  <i>Du sagst</i> vgl §jes-36-5
+ }
+ {
   <i>Ein Wort der Lippen</i>: Sch2K übersetzt «Leeres Geschwätz», KJV «vain words».
  }
 #}
@@ -33564,9 +33572,19 @@
   <i>Ägypten als Rohrstab</i>: vgl <a href='http://bibel.renenyffenegger.ch/hes_29.html#v6'>Hes&nbsp;29,6</a>.
  }
 #}
+#2koe-18-22 {
+ {
+  <i>Und wenn <b>ihr</b> zu mir sprecht</i> vgl §jes-36-7
+ }
+#}
 #2koe-18-24 {
  {
   <i>Befehlshaber</i>: §+1koe-20-24
+ }
+#}
+#2koe-18-25 {
+ {
+  §jes-36-10
  }
 #}
 #2koe-18-26 {
@@ -52164,18 +52182,23 @@
 @Jesaja 36 {
 #jes-36-1 {
  {
-  Vgl <a class='kom' href='#I2koe-18-13'>2.&nbsp;Kö&nbsp;18,13</a>.
+  Vgl §2koe-18-13.
  }
 #}
 #jes-36-2 {
  {
-   §+2koe-18-17
+  §+2koe-18-17
  }
 #}
 #jes-36-3 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/2koe_18.html#v18'>2.&nbsp;Kö&nbsp;18,18</a>: Der Tartan, Rabsaris und der Rabschake
   riefen den König, und Eljakim ging hinaus.
+ }
+#}
+#jes-36-5 {
+ {
+  <i>Ich sage</i> vgl §2koe-18-20
  }
 #}
 #jes-36-6 {
@@ -52185,12 +52208,18 @@
 #}
 #jes-36-7 {
  {
+  <i>Und wenn <b>du</b> zu mir sprichst</i> vgl §2koe-18-22
+ }
+ {
   Vgl <a href='http://bibel.renenyffenegger.ch/2chr_32.html#v12'>2.&nbsp;Chr&nbsp;32,12</a>.
  }
 #}
 #jes-36-10 {
  {
-  Vgl <a class='kom' href='#Ijes-10-5'>Jes 10,5-6</a>
+  Vgl §+jes-10-5-6
+ }
+ {
+  §2koe-18-25
  }
 #}
 #jes-36-17 {
