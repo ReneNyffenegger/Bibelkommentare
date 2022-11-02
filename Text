@@ -83,7 +83,8 @@
 #}
 #1mo-1-2 {
  {
-  <i>wüst und leer</i>: vgl §jer-4-23 und §+jes-34-11. Die Erde wurde nicht als eine Öde geschaffen, sondern um bewohnt zu werden §jes-45-18
+  <i>wüst (<span class='hebr'>תֹ֥הוּ</span>, Strongs 8418) und leer</i>: vgl §jer-4-23 und §+jes-34-11.
+  <br>Die Erde wurde nicht als eine Öde (<span class='hebr'>תֹ֥הוּ</span>) geschaffen, sondern um bewohnt zu werden §jes-45-18
   <br>Siehe auch → biblisches/Lehre/Lückentheorie.
  }
  {
@@ -41944,6 +41945,11 @@
   <i>Worte prüfen</i> §1mo-42-16
  }
 #}
+#hi-12-24 {
+ {
+  <i>macht sie umherirren in pfadloser Einöde</i>: §ps-107-40
+ }
+#}
 #hi-12-25 {
  {
   <i>Sie tappen in der Finsternis</i> Vgl §hi-5-14, §5mo-28-29
@@ -41953,8 +41959,8 @@
 @Hiob 13 {
 #hi-13-4 {
  {
-  'Quachsalber' (<span class='hebr'>רֹפְאֵ֖י אֱלִ֣ל</span>, Strongs 7495 457), also eigentlich 'Götzenärzte' oder 'nichtige Ärzte',
-  vgl <a class='kom' href='#Isach-11-17'>Sach&nbsp;11,17</a>.
+  <i>Quacksalber</i> (<span class='hebr'>רֹפְאֵ֖י אֱלִ֣ל</span>, Strongs 7495 457), also eigentlich «Götzenärzte» oder «nichtige Ärzte».
+  Sch2K übersetzt mit «nichtige Ärzte». vgl §+sach-11-17.
  }
 #}
 #hi-13-24 {
@@ -46844,6 +46850,11 @@
 #ps-107-33 {
  {
   Vgl §jes-35-7
+ }
+#}
+#ps-107-40 {
+ {
+  <i>macht sie umherirren in pfadloser Einöde</i>: §hi-12-24
  }
 #}
 #ps-107-41 {
@@ -52347,6 +52358,11 @@
   <i>Nationen wie Tropfen, Inseln wie Stäubchen</i> vgl §jes-41-1: sie sollen sich zum HERRN wenden, um neue Kraft zu gewinnen.
  }
 #}
+#jes-40-17 {
+ {
+  <i>Nichtigkeit</i> §Vjes-40-23
+ }
+#}
 #jes-40-21 {
  {
   <i>Grundfesten</i>: <a class='kom' href='#I2sam-22-8'>2.&nbsp;Sam&nbsp;22,8</a>.
@@ -52358,6 +52374,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/ausspannen
+ }
+#}
+#jes-40-23 {
+ {
+  <i>Nichtigkeit</i> §jes-40-17
  }
 #}
 #jes-40-26 {
@@ -52435,6 +52456,11 @@
  }
  {
   <i>Sonnenaufgang</i> vgl §Vjes-41-2
+ }
+#}
+#jes-41-29 {
+ {
+  <i>Wind und Leere ihre gegossenen Bilder</i> vgl §jes-44-9
  }
 #}
 @}
@@ -52615,6 +52641,11 @@
   <a href='http://bibel.renenyffenegger.ch/jes_48.html#v12'>Jes&nbsp;48,12</a>.
  }
 #}
+#jes-44-9 {
+ {
+  <i>Die Bildner geschnitzter Bilder sind allesamt nichtig</i> vgl §jes-41-29
+ }
+#}
 #jes-44-13 {
  {
   Vgl mit dem 'Menschen im Bild Gottes': <a class='kom' href='#I1mo-1-26'>1.&nbsp;Mo&nbsp;1,26</a>.
@@ -52713,7 +52744,7 @@
 #}
 #jes-45-18 {
  {
-  <i>nicht als eine Öde hat er sie geschaffen…</i> §1mo-1-2-ff 
+  <i>nicht als eine Öde (<span class='hebr'>תֹ֥הוּ</span>, Strongs 8418) hat er sie geschaffen…</i> §1mo-1-2-ff 
  }
 #}
 #jes-45-21 {
@@ -54287,10 +54318,13 @@
 #}
 #jer-10-14 {
  {
+  Derselbe Vers in §jer-51-17
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild,  vgl <i>gegossenes Bild ohne Geist</i> mit §+offb-13-15
  }
  {
-  Derselbe Vers in §jer-51-17
+  <i>Kein Geist ist in ihm</i> vgl §offb-13-15
  }
 #}
 #jer-10-16 {
@@ -61626,7 +61660,7 @@
 #}
 #hab-2-19 {
  {
-  <a class='kom' href='#Ioffb-13-15'>Offb&nbsp;13,15</a>.
+  <i>Kein Odem/Geist im Holz</i> vgl §+offb-13-15
  }
 #}
 #hab-2-20 {
@@ -62302,8 +62336,7 @@
  }
  {
   «nichtig» im Hebräischen: <span class='hebr'>אֱלִיל</span> (Strongs 457), in andern Stellen mit
-  'Götze' übersetzt, zum Beispiel in <a href='http://bibel.renenyffenegger.ch/3mo_19.html#v4'>3.&nbsp;Mo&nbsp;19,4</a>.
-  Vgl auch <a class='kom' href='#Ihi-13-4'>Hi&nbsp;13,4</a>.
+  «Götze» übersetzt, zum Beispiel in §3mo-19-4. Vgl auch §+hi-13-4.
  }
 #}
 @}
@@ -83471,6 +83504,11 @@
   Dies wird auch in §+apg-7-48 zitiert.
  }
 #}
+#apg-17-25 {
+ {
+  <i>Der Gott, der die Welt gemacht hat … und allen Leben und Odem gibt</i> vgl §offb-11-11, §offb-13-15
+ }
+#}
 #apg-17-26 {
  {
   <i>er verordnete … die Grenzen …</i> §+5mo-32-8, §ps-74-17
@@ -98267,6 +98305,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Gemeinde Älteste bestimmt hatten.
  }
  {
+  TODO: Nachdem die Ältesten eingesetzt wurden, soll sich Titus befleissigen, zu Paulus zu gehen, §tit-3-12.
+ }
+ {
   TODO: Verhältnis von Ältesten und Aufsehern: <a class='kom' href='#Iapg-20-17'>Apg&nbsp;20,17</a>.
  }
 #}
@@ -98573,6 +98614,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Ist Titus in Ephesus? Paulus erwähnt zwei Mal, dass er Tychikus nach Ephesus senden will (<a href='http://bibel.renenyffenegger.ch/2tim_4.html#v12'>2.&nbsp;Tim&nbsp;4,12</a>,
   <a href='http://bibel.renenyffenegger.ch/eph_6.html#v21'>Eph&nbsp;6,21</a>).
+ }
+ {
+  TODO: Bedeutet der Umstand, dass sich Titus befleissigen soll, nach Nikopolis zu kommen, dass Paulus davon ausgeht, dass das Einsetzen der Ältesten (§tit-1-5) eine kurze Angelegenheit ist und dass
+  die (weise gewählten, §tit-1-6-ff) Ältesten schnell mit ihrer Arbeit beginnen können?
  }
  {
   TODO: Offenbar gab es sehr viele Orte, die <i>Nikopolis</i> genannt wurden zu jener Zeit. Titus war vielleicht deshalb in der Nähe von Paulus, damit er wissen
@@ -106023,7 +106068,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-11-11 {
  {
-  <i>Geist des Lebens</i>, der lebendig macht, vgl §offb-13-15, §ps-104-29, §+pred-12-7, §hi-33-4, §joh-6-63, §+roem-8-11, §2kor-3-6
+  <i>Geist des Lebens</i>, der lebendig macht, vgl §offb-13-15, §ps-104-29, §+pred-12-7, §hi-33-4, §joh-6-63, §+roem-8-11, §2kor-3-6, §apg-17-25
  }
 #}
 #offb-11-12 {
@@ -106502,7 +106547,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-13-15 {
  {
-  Elberfelder übersetzt <i>Geist</i> mit «Odem», vgl mit §jer-51-17 (Im → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild ist kein Geist), §apg-17-25
+  Elberfelder übersetzt <i>Geist</i> mit «Odem»
+ }
+ {
+  <i>Dem Bild des Tieres Geist zu geben</i>: §+jer-10-14 und §jer-51-17 (gegossenes Bild ohne Geist) und §hab-2-19 (wo im Holz kein Geist ist)
+  <br>Vgl §apg-17-24-25: Der Gott, der die Welt gemacht hat … gibt allen Leben und Odem
  }
  {
   §+offb-11-11
@@ -106512,10 +106561,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   TODO: Es gibt Überwinder über das Tier, sein Bild und die Zahl seines Namens (<a href='http://bibel.renenyffenegger.ch/offb_15.html#v2'>Offb&nbsp;15,2</a>).
- }
- {
-  TODO: vgl <a href='http://bibel.renenyffenegger.ch/jer_10.html#v14'>Jer&nbsp;10,14</a> (gegossens Bild ohne Geist)
-  und <a href='http://bibel.renenyffenegger.ch/hab_2.html#v19'>Hab&nbsp;2,19</a>, wo im Holz kein Geist ist (siehe dort auch Vers 17).
  }
 #}
 #offb-13-16 {
