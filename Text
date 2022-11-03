@@ -29364,6 +29364,11 @@
   Siehe <a class='kom' href='#I2sam-3-2'>2.&nbsp;Sam&nbsp;3,2</a>.
  }
 #}
+#2sam-5-16 {
+ {
+  Vgl <i>Eljama</i> mit <i>Beeljada</i>, §1chr-14-7, s. a. §1chr-3-8
+ }
+#}
 #2sam-5-18 {
  {
   <i>Philister im Tal der Rephaiter</i>:
@@ -34254,9 +34259,6 @@
 #}
 #2koe-24-7 {
  {
-  <i>Jechonja/Jojachin</i> wird in <a href='http://bibel.renenyffenegger.ch/1chr_3.html#v17'>1.&nbsp;Chr&nbsp;3,17</a> 'der Gefangene' genannt.
- }
- {
   In <a class='kom' href='#I1koe-8-65'>1.&nbsp;Kö&nbsp;8,65</a> gehörte das Land vom Bach Ägyptens bis Lebo Hamat noch zu 'Salomo'.
  }
  {
@@ -34297,6 +34299,9 @@
  {
   <i>Elnathan</i> ist auch der Name des Sohnes Achbors, den Jojakim nach Ägypten gesandt hat, um Urija zu holen, den Jojakim töten wollte.
   (<a href='http://bibel.renenyffenegger.ch/jer_26.html#v20'>Jer 26,20-23</a>).
+ }
+ {
+  <i>Jechonja/Jojachin</i> wird in §1chr-3-17 «der Gefangene» genannt.
  }
 #}
 #2koe-24-12 {
@@ -34857,6 +34862,11 @@
   TODO: <i>Bathschua, Tochter Ammiels</i>: vgl mit 'Bathseba, Tochter Eliams' (<a href='http://bibel.renenyffenegger.ch/2sam_11.html#v3'>2.&nbsp;Sam&nbsp;11,3</a>).
  }
 #}
+#1chr-3-8 {
+ {
+  Vgl <i>Eljama</i> mit <i>Beeljada</i>, §1chr-14-7, s. a. §2sam-5-16
+ }
+#}
 #1chr-3-10 {
  {
   Hier werden die Könige Judas aufgezählt, allerdings ohne sie «König» zu nennen.
@@ -34905,21 +34915,21 @@
 #}
 #1chr-3-17 {
  {
-  <i>Assir</i> bedeutet «Gefangener» und einige Ausleger interpretieren diesen Vers so: «Die Söhne Jekonias, des Gefangenen: dessen Sohn Schealtiel …».
+  Die Zeit der hier genannten Personen fällt auf die Wegführung (Gefangenschaft) in Babel und <i>Assir</i> (<span class='hebr'>אַסִּיר</span>, Strongs 617)
+  bedeutet «Gefangener» und einige Ausleger interpretieren diesen Vers so: «Die Söhne Jekonias, des Gefangenen: dessen Sohn Schealtiel …».
  <br>
-  Für diese Variante spricht, dass <i>Assir</i> in keinem Stammbaum als Sohn von Jekonia angegebn wird. Dagegen spricht, dass Assir ohne Artikel geschrieben wurde.
+  Die Septuaginta deutet das Wort als Namen (ασιρ).
+ <br>
+  Für diese Variante spricht, dass <i>Assir</i> in keinem Stammbaum als Sohn von Jekonia angegeben wird. Dagegen spricht, dass Assir ohne Artikel geschrieben wurde.
  }
  {
- TODO Hier werden <i>sieben</i> Söhne von Jekonja aufgezählt, obwohl er als «kinderlos aufgeschrieben wurde», §jer-22-30 (<i>Assir</i> kann offenbar auch als «der Gefangene» übersetzt werden).
+ Hier werden <i>sieben</i> Söhne von Jekonja (des Gefangenen) aufgezählt, obwohl er als «kinderlos aufgeschrieben wurde», §jer-22-30
  }
  {
   → biblisches/Personen/Schealtiel
  }
  {
-  <i>Assir</i> (<span class='hebr'>אַסִּיר</span>, Strongs 617) bedeutet «Gefangener». Die Zeit der hier genannten Personen fällt auf die Wegführung (Gefangenschaft) in Babel.
- }
- {
-  <a class='kom' href='#I2koe-24-7'>2.&nbsp;Kö&nbsp;24,7</a>.
+  §+2koe-24-8.
  }
 #}
 #1chr-3-19 {
@@ -34927,6 +34937,11 @@
   TODO: Es scheint (mindestens zwei) <i>Serubbabel</i> zu geben: Serubbabel, der Sohn Pedajas, der Sohn Jechonjas und
   Serubbabel, der Sohn Schealtiels, der Sohn Jechonjas (der dann auch in der königlichen Linie ist, <a href='http://bibel.renenyffenegger.ch/mt_1.html#v12'>Mt&nbsp;1,12</a>).
   <br><i>Serubbabel</i>: <a class='kom' href='#Iesr-2-2'>Esr&nbsp;2,2</a>.
+ }
+#}
+#1chr-3-22 {
+ {
+  ist dieser <i>Hattusch</i> derselbe, der in §esr-8-2 als «von den Söhnen Davids» genannt wird?
  }
 #}
 @}
@@ -36030,6 +36045,11 @@
 #}
 @}
 @1. Chronik 14 {
+#1chr-14-7 {
+ {
+  Vgl <i>Beljada</i> mit <i>Eljama</i>, §1chr-3-8, §1chr-14-7. Die <i>Expositor's Bible Commentary</i> deutet diesen Wechsel des Namens so, dass damit eine Verwechslung mit <i>Baal</i> vermieden werden soll.
+ }
+#}
 #1chr-14-9 {
  {
   <i>Philister im Tal der Rephaiter</i>: <a class='kom' href='#I2sam-5-18'>2.&nbsp;Sam&nbsp;5,18</a>.
@@ -39878,6 +39898,8 @@
  }
  {
   Ein anderer(?) Hattusch ist mit Serubbabel hinaufgezogen: §neh-12-2, vgl §neh-10-5
+ <br>
+  Vgl §+1chr-3-22
  }
 #}
 #esr-8-3 {
@@ -62632,6 +62654,9 @@
  {
   Die → biblisches/Bücher/Evangelien beginnen mit <span class='gr'>Βίβλος</span> und enden mit <span class='gr'>βιβλία ἀμήν</span> §joh-21-25.
  }
+ {
+  <i>des Sohnes Davids, des Sohnes Abrahams</i> vgl §roem-1-3, §roem-4-1 und §gal-3-16
+ }
 #}
 #mt-1-2 {
  {
@@ -85361,7 +85386,7 @@
 #}
 #roem-1-3 {
  {
-  Der Herr ist <i>dem Fleisch nach</i> aus dem Samen Davids, → biblisches/Personen/Abraham ist «unser Vater nach dem Fleisch», §roem-4-1
+  Der Herr ist <i>dem Fleisch nach</i> aus dem Samen Davids, → biblisches/Personen/Abraham ist «unser Vater nach dem Fleisch», §roem-4-1, vgl §mt-1-1
  }
  {
   <i>dem Fleisch nach</i>: §roem-9-5, §apg-2-30, vgl §+1tim-3-16.
@@ -92225,6 +92250,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #gal-3-16 {
+ {
+  Vgl §mt-1-1
+ }
  {
   TODO: Hier ist der <i>Same</i> einer, nämlich Christus, in <a href='http://bibel.renenyffenegger.ch/hebr_2.html#v16'>Hebr&nbsp;2,16</a> scheinen es viele zu sein.
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/roem_4.html#v1'>Röm&nbsp;4,1</a>.
