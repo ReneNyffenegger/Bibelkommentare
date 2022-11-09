@@ -1876,7 +1876,7 @@
 #}
 #1mo-9-18 {
  {
-  TODO: Beachte, mit Buchstabenwerten gilt: Noah (58) + Japhet (490) + Sem (340) = 888. Noah (58) + Ham (606) = 666.
+  TODO: Beachte, mit Buchstabenwerten gilt: Noah (58) + Japhet (490) + Sem (340) = 888. Noah (58) + Ham (608) = 666. (Aber offenbar muss dazu das finale Mem von Ham als 600, das finale Mem von Sem als 40 gezählt werden?)
  }
 #}
 #1mo-9-19 {
@@ -14971,6 +14971,11 @@
   <i>Blöße des Vaters nicht aufdecken</i> §3mo-20-11
  }
 #}
+#3mo-18-8 {
+ {
+  §5mo-27-20
+ }
+#}
 #3mo-18-9 {
  {
   <i>Die Blöße der Schwester nicht aufdecken</i> §3mo-20-17
@@ -15306,7 +15311,7 @@
 #}
 #3mo-20-11 {
  {
-  <i>Blöße des Vaters aufdecken</i> §3mo-18-7
+  <i>Blöße des Vaters aufdecken</i> §3mo-18-7-8
  }
 #}
 #3mo-20-13 {
@@ -22401,6 +22406,11 @@
 #5mo-27-18 {
  {
   §3mo-19-14
+ }
+#}
+#5mo-27-20 {
+ {
+  §3mo-18-8
  }
 #}
 #5mo-27-25 {
@@ -72022,6 +72032,9 @@
  }
 #}
 #lk-3-23 {
+ {
+  Alle(? aufgezählten haben einen Artikel <i>ausser</i> Joseph (also <span class='gr'>υιος ιωσηφ του ηλι του ματθατ …</span>)
+ }
  {
   Jesus, der adoptierte Sohn von Joseph, vgl <a class='kom' href='#I1mo-9-25'>1.&nbsp;Mo&nbsp;9,25</a>.
  }
