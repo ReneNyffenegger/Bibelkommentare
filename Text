@@ -2271,9 +2271,17 @@
   <i>Aram</i> wird in <a href='http://bibel.renenyffenegger.ch/1chr_1.html#v17'>1.&nbsp;Chr&nbsp;1,17</a> nicht als Vater seiner vier Söhne aufgezählt.
  }
 #}
+#1mo-10-24 {
+ {
+  §1mo-11-13, §1chr-1-18
+ }
+ {
+  Vgl §lk-3-36, wo zwischen Arpakschad und Heber ein gewisser <i>Kainan</i> eingefügt ist.
+ }
+#}
 #1mo-10-25 {
  {
-  §1chr-1-20
+  §1chr-1-19
  }
  {
   → biblisches/Personen/Peleg <span class='hebr'>פֶּלֶג</span> (Strongs 6389). Vgl mit 'geteilt' (<span class='hebr'>פָּלַג</span>, Strongs 6385).
@@ -2438,6 +2446,11 @@
   500 Jahre: §+1mo-5-32.
  }
 #}
+#1mo-11-13 {
+ {
+  §+1mo-10-24, §1chr-1-18
+ }
+#}
 #1mo-11-16 {
  {
   In → biblisches/Personen/Peleg[Pelegs] Tagen wurde die Erde geteilt, der hier unerwähnte Name seines Bruders war Joktan: §1mo-10-25
@@ -2447,6 +2460,8 @@
  {
   430 Jahre ist auch die Zeit, welche die Kinder Israels in Ägypten gewohnt hatten (<a href='http://bibel.renenyffenegger.ch/2mo_12.html#v40'>2.&nbsp;Mo&nbsp;12,40</a>).
  }
+#}
+#1mo-11-20 {
 #}
 #1mo-11-22 {
  {
@@ -34589,7 +34604,12 @@
   Söhne Arams (<a class='kom' href='#I1mo-10-23'>1.&nbsp;Mo&nbsp;10,23</a>).
  }
 #}
-#1chr-1-20 {
+#1chr-1-18 {
+ {
+  §+1mo-10-24, §1mo-11-13
+ }
+#}
+#1chr-1-19 {
  {
   §1mo-10-25
  }
@@ -72090,11 +72110,14 @@
 #lk-3-36 {
  {
   <i>Kainan</i> (der wohl Kanaan ist) erscheint nicht als Nachkomme von Arpakschad im (masoretischen) Alten Testament (wohl aber in
-  der <a href='https://renenyffenegger.ch/notes/biblisches/Grundtext/LXX'>Septuaginta</a>). Siehe auch §+1mo-9-25.
+  der → biblisches/Grundtext/LXX[Septuaginta]), vgl §1mo-10-24, §1mo-11-13 und §1chr-1-18.
+ <br>
   Da der <a href="https://renenyffenegger.ch/Biblisches/Zahlen/22-Patriarchen.html">Zahlenwert der 22 Patriarchen</a> (ohne Kainan) 7000 ergibt, kann angenommen werden,
   dass Kainan tatsächlich nicht zu diesen Patriarchen gehörte.
  <br>
   Andere hingegen argumentieren, dass der Autor durch dein Einschub von Kainan und Aminadab (§Vlk-3-33) dafür sorgte, dass Abraham in die 21. (=3*7) und David in die 35. (=5*7) Generation rutschte.
+ <br>
+  Siehe auch §+1mo-9-25.
  }
  {
   TODO: Kainan: M Bowden, True Science, S. 175 / Prof. Samuel R. Kulling Are the Geneologies in Genesis 5 and 11 Historical and Complete, that is, without Gaps / D. Rosevear: The Genealogies in Scripture in Concepts in Creationism
