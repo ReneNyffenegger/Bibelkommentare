@@ -64912,6 +64912,9 @@
 #}
 #mt-11-21 {
  {
+  §lk-10-13
+ }
+ {
   Vgl. §+hebr-2-3-4.
  }
  {
@@ -65162,6 +65165,9 @@
  }
 #}
 #mt-12-26 {
+ {
+  §lk-11-18
+ }
  {
   §mk-3-23
  }
@@ -65734,6 +65740,11 @@
   <br>Das Wort, das in <a href='http://bibel.renenyffenegger.ch/apg_9.html#v25'>Apg&nbsp;9,25</a> mit «Korb» übersetzt wird, ist auch Strongs 4711.
  }
 #}
+#mt-14-21 {
+ {
+  §mt-16-9
+ }
+#}
 #mt-14-22 {
  {
   Gemäss §mk-6-45 scheint das <i>jenseitige Ufer</i> bei <i>Bethsaida</i> zu sein. Vgl §+joh-6-17
@@ -65880,6 +65891,9 @@
   <i>Verlorene Schafe des Hauses Israel</i>: §+mt-10-6.
  }
  {
+  <i>nur zu den verlorenen Schafen des Hauses Israel gesandt</i> vgl §1joh-4-9
+ }
+ {
   <i>gesandt</i> vgl §lk-4-43, §joh-3-17
  }
 #}
@@ -65926,6 +65940,11 @@
 #mt-15-37 {
  {
   <i>Körbe</i>: <a class='kom' href='#Imt-14-20'>Mt&nbsp;14,20</a>.
+ }
+#}
+#mt-15-38 {
+ {
+  §mt-16-10
  }
 #}
 #mt-15-39 {
@@ -65979,6 +65998,21 @@
 #mt-16-8 {
  {
   <i>Kleingläubig in den Evangelien</i>: <a class='kom' href='#Imt-6-30'>Mt&nbsp;6,30</a>.
+ }
+#}
+#mt-16-9 {
+ {
+  §mt-14-21
+ }
+#}
+#mt-16-10 {
+ {
+  §mt-15-38
+ }
+#}
+#mt-16-11 {
+ {
+  §mk-8-21
  }
 #}
 #mt-16-13 {
@@ -66095,6 +66129,14 @@
  }
  {
   <i>Kreuz auf sich nehmen</i>: <a class='kom' href='#Imt-10-38'>Mt&nbsp;10,38</a>.
+ }
+#}
+#mt-16-26 {
+ {
+  §mk-8-36, §lk-9-25
+ }
+ {
+  <i>Lösegeld</i>: <span class='gr'>ἀντάλλαγμα</span> (Strongs 465, 2x) ist nicht dasselbe Griechische Wort wie in §mt-20-28. Vgl §1tim-2-6
  }
 #}
 #mt-16-27 {
@@ -66237,7 +66279,7 @@
 #}
 #mt-17-22 {
  {
-  §mk-9-31, lk-9-44
+  §mk-9-31, §lk-9-44
  }
  {
   <i>Der Menschensohn muss viel leiden</i>: <a class='kom' href='#Imt-16-21'>Mt&nbsp;16,21</a>.
@@ -66553,6 +66595,9 @@
 #}
 #mt-20-17 {
  {
+  §mk-10-32, §lk-18-31
+ }
+ {
   TODO: befanden sich die Jünger hier auf dem Weg von Galiläa nach Jerusalem? Jesus ist nach seinem Tod mehreren Tagen denen erschienen, die
   mit ihm von Galiläa nach Jerusalem heraufzogen; diese sind seine Zeugen vor dem Volk (<a class='kom' href='#Iapg-13-31'>Apg&nbsp;13,31</a>).
  }
@@ -66568,6 +66613,11 @@
 #mt-20-19 {
  {
   TODO: <a class='kom' href='#Imt-17-22'>Mt&nbsp;17,22</a>.
+ }
+#}
+#mt-20-20 {
+ {
+  §mk-10-35
  }
 #}
 #mt-20-22 {
@@ -66592,7 +66642,7 @@
 #}
 #mt-20-26 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/joh_13.html#v16'>Joh&nbsp;13,16</a>.
+  §mk-10-35, Vgl §joh-13-16.
  }
 #}
 #mt-20-28 {
@@ -66603,11 +66653,17 @@
    S.a. §+mt-26-28, §mk-10-45
  }
  {
+  Das griechische Wort, das hier mit <i>Lösegeld</i> übersetzt wird (<span class='gr'>λύτρον</span>, Strongs 3083) ist nicht dasselbe Wort wie in §mt-16-26. Vgl §1tim-2-6
+ }
+ {
   Jesus ist gekommen, → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen[um zu dienen und sein Leben zu geben], aber auch,
   damit «sie» das Leben im Überfluss haben §joh-10-10
  }
 #}
 #mt-20-29 {
+ {
+  §mk-10-46
+ }
  {
   TODO: Wann kamen sie nach Jericho hinein?
  }
@@ -69751,6 +69807,11 @@
   Vgl §lk-10-23-24
  }
 #}
+#mk-8-21 {
+ {
+  §mt-16-11
+ }
+#}
 #mk-8-22 {
  {
   → biblisches/Orte/Bethsaida: §+mk-6-45.
@@ -69810,6 +69871,11 @@
 #mk-8-34 {
  {
   §mt-16-24, §lk-9-23
+ }
+#}
+#mk-8-36 {
+ {
+  §mt-16-26, §lk-9-25
  }
 #}
 #mk-8-37 {
@@ -70134,13 +70200,16 @@
 #}
 #mk-10-32 {
  {
-  <i>Der Menschensohn muss viel leiden</i>: <a class='kom' href='#Imt-16-21'>Mt&nbsp;16,21</a>.
+  §mt-20-17, §lk-18-31
  }
  {
   <i>Auf dem Weg hinauf nach Jerusalem</i>: §mk-11-1, §mk-11-11, §mk-15-41
  }
 #}
 #mk-10-35 {
+ {
+  §mt-20-20
+ }
  {
   → biblisches/Personen/Jakobus#jakobus-sohn-zebedaeus[Jakobus, der Sohn des Zebedäus]
  }
@@ -70166,6 +70235,11 @@
 #mk-10-45 {
  {
   <i>Lösegeld</i>, §mk-8-37, §+mt-20-28
+ }
+#}
+#mk-10-46 {
+ {
+  §mt-20-29, §lk-18-35
  }
 #}
 #mk-10-47 {
@@ -73318,6 +73392,11 @@
   <i>Kreuz tragen</i>: vgl <a href='http://bibel.renenyffenegger.ch/lk_14.html#v27'>Lk&nbsp;14,27</a>.
  }
 #}
+#lk-9-25 {
+ {
+  §mt-16-26, §mk-8-36
+ }
+#}
 #lk-9-27 {
  {
   <i>den Tod nicht schmecken</i>
@@ -73421,6 +73500,9 @@
  {
   §lk-18-17, §+mt-18-5, §mk-9-37
  }
+ {
+  <i>wer mich aufnehmen wird…</i> vgl §lk-10-16, §Vlk-9-51
+ }
 #}
 #lk-9-49 {
  {
@@ -73434,7 +73516,7 @@
 #}
 #lk-9-51 {
  {
-  <i>als sich die Tage seiner Aufnahme erfüllten</i> vgl §Vlk-9-31, §+mk-1-15
+  <i>als sich die Tage seiner Aufnahme erfüllten</i> vgl §Vlk-9-48, §Vlk-9-31, §+mk-1-15
  }
  {
   Jesus' <i>Reise nach Jerusalem</i>: <a href='http://bibel.renenyffenegger.ch/lk_13.html#v22'>Lk&nbsp;13,22</a>,
@@ -73560,6 +73642,9 @@
 #}
 #lk-10-13 {
  {
+  §mt-11-21
+ }
+ {
   → biblisches/Orte/Bethsaida
  }
 #}
@@ -73571,6 +73656,9 @@
 #lk-10-16 {
  {
   Vgl §mk-9-37, §joh-12-44-45
+ }
+ {
+  <i>wer mich verwirft…</i> vgl §lk-9-48
  }
 #}
 #lk-10-18 {
@@ -73704,6 +73792,11 @@
  }
  {
   <i>Ein Haus wider Haus entzweit fällt</i> vgl §lk-12-52
+ }
+#}
+#lk-11-18 {
+ {
+  §mt-12-26
  }
 #}
 #lk-11-19 {
@@ -74660,8 +74753,11 @@
 #}
 #lk-18-31 {
  {
-   <i>Es wird alles vollendet werden, was durch die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] … geschrieben ist</i> vgl §apg-13-27,
-   §lk-24-25
+  §mt-20-17, §mk-10-32
+ }
+ {
+  <i>Es wird alles vollendet werden, was durch die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] … geschrieben ist</i> vgl §apg-13-27,
+  §lk-24-25
  }
  {
   <i>Der Menschensohn muss viel leiden</i>: <a class='kom' href='#Imt-16-21'>Mt&nbsp;16,21</a>.
@@ -74676,6 +74772,11 @@
 #lk-18-33 {
  {
   Vgl §lk-9-22, §lk-24-7, §lk-24-7
+ }
+#}
+#lk-18-35 {
+ {
+  §mt-20-29, §mk-10-46
  }
 #}
 #lk-18-37 {
@@ -76503,13 +76604,15 @@
 #}
 #joh-3-16 {
  {
-  Vgl §1joh-4-9
- }
- {
   Vgl §roem-5-8. Dort ist Christus <i>für die Sünder gestorben</i>, hier ist er gegeben.
  }
  {
   Vgl mit den «Seinigen, die in der Welt waren» und die Er «geliebt hatte», §joh-13-1
+ }
+#}
+#joh-3-17 {
+ {
+  Vgl §1joh-4-9
  }
 #}
 #joh-3-19 {
@@ -85146,6 +85249,9 @@
 #}
 #apg-27-12 {
  {
+  <i>dort zu überwintern</i> §apg-28-11
+ }
+ {
   Gemäss Roger Liebi müsste das heissen: <i>Hafen für Kreta</i> (wie Bremerhaven).
  }
  {
@@ -85271,6 +85377,9 @@
 #apg-28-11 {
  {
   Beachte: Paulus hat nichts erwähnt, dass das Schiff Zeichen von Göttern trug.
+ }
+ {
+  <i>überwintern</i> §apg-27-12
  }
  {
   <i>Dioskuren</i> in KJV 'Castor and Pollux'.
@@ -96909,6 +97018,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1tim-2-6 {
  {
   <i>Lösegeld für alle</i>: §+mt-20-28.
+ <br>
+  Das griechische Wort, das hier mit <i>Lösegeld</i> übersetzt wird, ist <span class='gr'>ἀντίλυτρον</span> (Strongs 487, 1x), vgl §mt-16-26/§mk-8-37 und §mt-20-28/§mk-10-45.
  }
 #}
 #1tim-2-7 {
@@ -97132,17 +97243,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-3-14 {
  {
-    Aber es scheint, als ob Paulus es nicht geschaft hat, nach Ephesus (<a href='http://bibel.renenyffenegger.ch/1tim_1.html#v3'>1.&nbsp;Tim&nbsp;1,3</a>)
-    zu kommen, da er bis Pfingsten in Jerusalem sein wollte (<a href='http://bibel.renenyffenegger.ch/apg_20.html#v16'>Apg&nbsp;20,16</a>).
-    <br>TODO: <a class='kom' href='#Iapg-20-3'>Apg&nbsp;20,3</a>.
-    <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/1tim_4.html#v13'>1.&nbsp;Tim&nbsp;4,13</a>.
+   Aber es scheint, als ob Paulus es nicht geschaft hat, nach Ephesus (§1tim-1-3)
+   zu kommen, da er bis Pfingsten in Jerusalem sein wollte (<a href='http://bibel.renenyffenegger.ch/apg_20.html#v16'>Apg&nbsp;20,16</a>).
+   <br>TODO: <a class='kom' href='#Iapg-20-3'>Apg&nbsp;20,3</a>.
  }
  {
-  <i>Bald kommen</i>: vgl <a class='kom' href='#I1kor-4-19'>1.&nbsp;Kor&nbsp;4,19</a>.
- }
- {
-  Beachte auch, dass hier Paulus zu Timotheus gehen will, in <a href='http://bibel.renenyffenegger.ch/2tim_3.html#v1'>2.&nbsp;Tim&nbsp;3,1</a> soll sich Timotheus beeilen,
-  zu Paulus zu kommen.
+  Hier hofft Paulus, <i>bald zu Timotheus zu kommen</i> (s. a. §1tim-4-13), in §2tim-4-9 soll Timotheus sich befleißigen, zu Paulus zu kommen. vgl §+1kor-4-19
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
@@ -98006,9 +98112,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>schwer</i>: §+mt-8-28.
  }
  {
-  Vgl <a class='kom' href='#I1tim-3-14'>1.&nbsp;Tim&nbsp;3,14</a>.
- }
- {
   <i>Letzte Tage</i>: <a class='kom' href='#Ijoh-6-39'>Joh&nbsp;6,39</a>.
  }
 #}
@@ -98084,10 +98187,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-3-14 {
  {
-   Siehe Paulus' «du aber» <a class='kom' href='#I1tim-6-11'>1.&nbsp;Tim&nbsp;6,11</a>.
+  Siehe Paulus' «du aber» <a class='kom' href='#I1tim-6-11'>1.&nbsp;Tim&nbsp;6,11</a>.
  }
  {
   Siehe auch <a class='kom' href='#I2tim-3-7'>Vers 7</a>.
+ }
+ {
+  TODO: offenbar wäre <i>von wem</i> genauer mit «von welchen» übersetzt.
  }
 #}
 #2tim-3-15 {
@@ -98222,7 +98328,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-4-9 {
  {
-  Vgl §V2tim-4-21
+  Hier soll sich Timotheus befleißigen, zu Paulus kommen, in §1tim-3-14 hofft Paulus, bald zu Timotheus zu kommen. Vgl §V2tim-4-21
+ }
+ {
+  <i>Sich befleißigen, zu Paulus zu kommen</i> vgl §tit-3-12
  }
  {
   TODO: Also bevor Paulus stirbt? Aber siehe «denn» im nächsten Vers. Vgl auch Vers 21.
@@ -98320,7 +98429,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-4-21 {
  {
-  <i>Befleissige dich, vor dem Winter zu kommen</i> vgl §V2tim-4-9, §V2tim-4-13.
+  <i>Befleissige dich, vor dem Winter zu kommen</i> vgl §V2tim-4-9, §V2tim-4-13, §tit-3-12
  }
 #}
 #2tim-4-22 {
@@ -98398,7 +98507,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Gemeinde Älteste bestimmt hatten.
  }
  {
-  TODO: Nachdem die Ältesten eingesetzt wurden, soll sich Titus befleissigen, zu Paulus zu gehen, §tit-3-12.
+  TODO: Nachdem die Ältesten eingesetzt wurden, soll sich Titus befleißigen, zu Paulus zu gehen, §tit-3-12.
  }
  {
   TODO: Verhältnis von Ältesten und Aufsehern: <a class='kom' href='#Iapg-20-17'>Apg&nbsp;20,17</a>.
@@ -98705,11 +98814,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Personen/Tychikus
  }
  {
+  <i>befleißige dich, zu mir nach Nikopolis zu kommen</i> vgl §2tim-4-9
+ }
+ {
+  <i>daselbst zu überwintern</i> vgl §2tim-4-21
+ }
+ {
   Ist Titus in Ephesus? Paulus erwähnt zwei Mal, dass er Tychikus nach Ephesus senden will (<a href='http://bibel.renenyffenegger.ch/2tim_4.html#v12'>2.&nbsp;Tim&nbsp;4,12</a>,
   <a href='http://bibel.renenyffenegger.ch/eph_6.html#v21'>Eph&nbsp;6,21</a>).
  }
  {
-  TODO: Bedeutet der Umstand, dass sich Titus befleissigen soll, nach Nikopolis zu kommen, dass Paulus davon ausgeht, dass das Einsetzen der Ältesten (§tit-1-5) eine kurze Angelegenheit ist und dass
+  TODO: Bedeutet der Umstand, dass sich Titus befleißigen soll, nach Nikopolis zu kommen, dass Paulus davon ausgeht, dass das Einsetzen der Ältesten (§tit-1-5) eine kurze Angelegenheit ist und dass
   die (weise gewählten, §tit-1-6-ff) Ältesten schnell mit ihrer Arbeit beginnen können?
  }
  {
@@ -103657,7 +103772,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1joh-4-9 {
  {
-  §joh-3-16
+  <i>Sohn in die Welt gesant</i>: §joh-3-16-17, §mt-15-24
  }
  {
   TODO: <i>Liebe geoffenbart</I>: <a class='kom' href='#I1joh-3-16'>1.&nbsp;Joh&nbsp;3,16</a>.
