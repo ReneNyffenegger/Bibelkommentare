@@ -1214,6 +1214,9 @@
   Siehe auch <a href='http://bibel.renenyffenegger.ch/1mo_5.html#v3'>1.&nbsp;Mo&nbsp;5,3</a> und <a href='http://bibel.renenyffenegger.ch/1mo_5.html#v28'>1.&nbsp;Mo&nbsp;5,28</a>.
  }
  {
+  §1chr-1-1
+ }
+ {
   TODO: setzen (Strongs H7896): §1mo-3-15
  }
 #}
@@ -1278,6 +1281,19 @@
   <a href='http://bibel.renenyffenegger.ch/1mo_11.html#v10'>1. Mo 11,10ff</a> wo für Sem bis Nahor dieser
   Satz fehlt.
  }
+ {
+  §1chr-1-1
+ }
+#}
+#1mo-5-9 {
+ {
+  §1chr-1-2
+ }
+#}
+#1mo-5-12 {
+ {
+  §1chr-1-2
+ }
 #}
 #1mo-5-14 {
  {
@@ -1289,15 +1305,21 @@
   <span class='hebr'>יָֽרֶד</span> (Strongs 3382), hier transkribiert mit «Jared» ist offenbar verwandt mit
   <span class='hebr'>יָרַד</span> (Strongs 3381) welches etwa 'herabkommen' bedeutet. TODO: vgl mit Jordan.
  }
+ {
+  §1chr-1-2
+ }
 #}
 #1mo-5-18 {
  {
-  → biblisches/Personen/Henoch/index: <a class='kom' href='#I1mo-4-17'>1.&nbsp;Mo&nbsp;4,17</a>.
+  → biblisches/Personen/Henoch: §1chr-1-3, vgl §+1mo-4-17.
  }
 #}
 #1mo-5-21 {
  {
   Einige Ausleger deuten den Namen <i>Methusalah</i> als «Tod wird's senden». Bei Methusalah Tod beginnt die Flut.
+ }
+ {
+  §1chr-1-3
  }
  {
   TODO: Vgl Bedeutung von Methusalah mit jener von Methusael.
@@ -1313,7 +1335,7 @@
 #}
 #1mo-5-25 {
  {
-  → biblisches/Personen/Lamech: §+1mo-4-18
+  → biblisches/Personen/Lamech: §1chr-1-3, vgl §+1mo-4-18
  }
 #}
 #1mo-5-27 {
@@ -1941,6 +1963,9 @@
    <br>Beachte, dass es sowohl eine Geschichte der Söhne Noahs wie auch eine Geschichte Sems, eines Sohnes Noahs gibt: <a href='http://bibel.renenyffenegger.ch/1mo_11.html#v10'>1.&nbsp;Mo&nbsp;11,10</a>.
  }
  {
+  §1chr-1-4
+ }
+ {
   TODO:
   <table summary='.' style='font-size:7px'><!--{-->
     <tr><td colspan=7>Noah</td></tr>
@@ -2038,6 +2063,9 @@
 #}
 #1mo-10-3 {
  {
+  §1chr-1-6
+ }
+ {
   <b>R</b>iphat: <span class='hebr'><span class='grey'>וְ</span><font color='red'>רִ</font>יפַ֖ת</span>, vgl
   <b>D</b>iphat <a href='http://bibel.renenyffenegger.ch/1chr_1.html#v6'>1.&nbsp;Chr&nbsp;1,6</a>
      <span class='hebr'>וְ<font color='red'>דִ</font>יפַ֖ת</span>.  Ebenso <b>D</b>odaniter (<span class='hebr'><span class='grey'>וְ</span><font color='red'>דֹ</font>דָנִֽים</span>),
@@ -2057,6 +2085,9 @@
  }
 #}
 #1mo-10-4 {
+ {
+  §1chr-1-7
+ }
  {
   <i>Tarsis</i> (<span class='hebr'>תַּרְשִׁישׁ</span>, Strongs 8659), möglicherweise dasselbe wie Chrysolith (Strongs 8658): <a class='kom' href='#I2mo-28-20'>2.&nbsp;Mo&nbsp;28,20</a>.
   Vgl Tarschich (<a class='kom' href='#I1chr-1-7'>1.&nbsp;Chr&nbsp;1,7</a>)
@@ -2100,10 +2131,16 @@
   Die erste der Nationen war Amalek: <a href='http://bibel.renenyffenegger.ch/4mo_24.html#v20'>4.&nbsp;Mo&nbsp;24,20</a>.
  }
  {
+  Dieser Vers wird zwischen §1chr-1-7 und §1chr-1-8 nicht zitiert.
+ }
+ {
   TODO: Beachte, das abschliessende «Das sind die Söhne Japhets», entsprechend Vers 20 und 31, scheint hier zu fehlen.
  }
 #}
 #1mo-10-6 {
+ {
+  §1chr-1-8
+ }
  {
   <i>Mizraim</i> (<span class='hebr'><span class='grey'>וּ</span>מִצְרַ֖יִם</span>), dasselbe Wort wird auch mit Ägypten übersetzt.
  }
@@ -2117,6 +2154,9 @@
  }
 #}
 #1mo-10-7 {
+ {
+  §1chr-1-9
+ }
  {
   <i>Scheba und Dedan</i> sind auch Söhne des Jokschan, der Ketura (§1mo-25-3, §1chr-1-9, §1chr-1-32)
   <br>Scheba (<span class='hebr'>שְׁבָא</span>, Strongs 7614): die Sabäer (<span class='hebr'>שבאים</span>, Strongs 7615) sind ein weit weg wohnendes volk
@@ -2145,13 +2185,16 @@
 #}
 #1mo-10-10 {
  {
-  → biblisches/Orte/Babel
+  → biblisches/Orte/Babel, vgl §1mo-11-9
  }
  {
   <i>Sinear</i> (<span class='hebr'>שִׁנְעָר</span>, Strongs 8152): «Land der zwei Flüsse». Vgl mit <i>Mesopotamien</i>
  }
  {
   Erek = Iraq?
+ }
+ {
+  <i>Reich</i>: <span class='hebr'>מַמְלָכָה</span> (Strongs 4467) wird an anderen Orten auch mit «Königreich» übersetzt, z. B. in §2mo-19-6.
  }
  {
   TODO: Ist <i>Kalne</i> = Kalchu, dessen moderner Name <a href='https://de.wikipedia.org/wiki/Nimrud'>Nimrud</a> ist?
@@ -2182,6 +2225,9 @@
 #}
 #1mo-10-13 {
  {
+  §1chr-1-11
+ }
+ {
   <i>Luditer</i> <span class='hebr'>לוּדִ֧ים</span>, vgl <i>Lud</i> <span class='hebr'><span class='grey'>וְ</span>ל֥וּד</span> (Vers 22).
  }
  {
@@ -2190,24 +2236,35 @@
 #}
 #1mo-10-14 {
  {
+  §1chr-1-12
+ }
+ {
   Beachte: die <i>Philister</i> sind der Überrest der Insel <i>Kaphtor</i> in <a href='http://bibel.renenyffenegger.ch/jer_47.html#v4'>Jer&nbsp;47,4</a>.
-         <br>die Kaphtoriter vertilgten die Awiter und wohnten in den Dörfern bis Gaza (wo nun wohl die Philister wohnen?):
+    <br>die Kaphtoriter vertilgten die Awiter und wohnten in den Dörfern bis Gaza (wo nun wohl die Philister wohnen?):
    <a href='http://bibel.renenyffenegger.ch/5mo_2.html#v23'>5.&nbsp;Mo&nbsp;2,23</a>.
    <br>Der HERR die Philister aus Kaphtor herausgeführt (<a class='kom' href='#Iam-9-7'>Am&nbsp;9,7</a>)
  }
 #}
 #1mo-10-15 {
  {
-  <i>Zidon</i> <span class='hebr'>צִידוֹן</span> (Strongs 6679) etwa 'jagen' oder 'fischen'. Vgl
-  'Jäger' (<span class='hebr'>צַיִד</span>, Strongs 6718) in Vers 9.
+  §1chr-1-13
+ }
+ {
+  <i>Zidon</i> <span class='hebr'>צִידוֹן</span> (Strongs 6679) etwa «jagen» oder «fischen», vgl «Jäger» (<span class='hebr'>צַיִד</span>, Strongs 6718) in §V1mo-10-9.
  }
 #}
 #1mo-10-16 {
+ {
+  §1chr-1-14
+ }
  {
   <i>Girgasiter</i>: <a class='kom' href='#Ijos-3-10'>Jos&nbsp;3,10</a>, <a class='kom' href='#Ineh-9-8'>Neh&nbsp;9,8</a>
  }
 #}
 #1mo-10-17 {
+ {
+  §1chr-1-15
+ }
  {
   Die <i>Arkiter</i> <span class='hebr'>עַרְקִי</span> (Strongs 6208) wohnten möglicherweise in Erek (<span class='hebr'>אֶרֶךְ</span>, Strongs 751), vgl §1mo-10-10.
  }
@@ -2217,6 +2274,9 @@
  }
 #}
 #1mo-10-18 {
+ {
+  §1chr-1-16
+ }
  {
   <i>Hamatiter</i>: <a class='kom' href='#I4mo-13-21'>4.&nbsp;Mo&nbsp;13,21</a>.
  }
@@ -2256,6 +2316,9 @@
 #}
 #1mo-10-22 {
  {
+  §1chr-1-17
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Elam/index
   <br>Die Elamiter waren in <a href='http://bibel.renenyffenegger.ch/apg_2.html#v9'>Apg&nbsp;2,9</a> zugegen.
  }
@@ -2293,7 +2356,7 @@
  {
   Beachte: In → biblisches/Bücher/Mose/1/Kapitel-10[diesem Kapitel] werden 13 Nachkommen von Joktan aufgzeählt. Das ist die Hälfte der aufgezählten Nachkommen von Sem.
   <br>
-  Von → biblisches/Personen/Jakob und → biblisches/Personen/Ismael werden ebenfalls je 13 Nachkommen aufgezählt.
+  Von → biblisches/Personen/Jakob und → biblisches/Personen/Ismael (§1mo-25-13) werden ebenfalls je 13 Nachkommen, jeweils 12 Söhne und 1 Tochter (bei Ismael: Mahalath, §1mo-28-9), aufgezählt.
  }
  {
   TODO: War die Erde geteilt wegen des Turms von Babel?
@@ -2301,8 +2364,12 @@
 #}
 #1mo-10-26 {
  {
-  Joktan hat 13 Söhne. Ismael hat 12 Söhne (<a href='http://bibel.renenyffenegger.ch/1mo_25.html#v13'>1.&nbsp;Mo&nbsp;25,13</a>)
-  und eine Tochter (Mahalath, <a href='http://bibel.renenyffenegger.ch/1mo_28.html#v9'>1.&nbsp;Mo&nbsp;28,9</a>).
+  §1chr-1-20
+ }
+#}
+#1mo-10-27 {
+ {
+  §1chr-1-21
  }
 #}
 #1mo-10-28 {
@@ -2311,6 +2378,9 @@
  }
 #}
 #1mo-10-29 {
+ {
+  §1chr-1-23
+ }
  {
   Sowohl <i>Ophir</i> (<a href='http://bibel.renenyffenegger.ch/1chr_29.html#v4'>1.&nbsp;Chr&nbsp;29,4</a>) wie auch
   <i>Hawila</i> (<a href='http://bibel.renenyffenegger.ch/1mo_2.html#v11'>1.&nbsp;Mo&nbsp;2,11</a>) wird mit Gold
@@ -2425,6 +2495,11 @@
 #1mo-11-8 {
  {
   Vgl <a class='kom' href='#I1mo-10-32'>1.&nbsp;Mo&nbsp;10,32</a>.
+ }
+#}
+#1mo-11-9 {
+ {
+  <i>Babel</i> wurde von Nimrod gegründet, §1mo-10-10
  }
 #}
 #1mo-11-10 {
@@ -6118,6 +6193,9 @@
 #}
 #1mo-36-11 {
  {
+  §1chr-1-36
+ }
+ {
   <i>Teman</i> ist <span class='hebr'>תֵּימָ֣ן</span> (Strongs 8487) und offenbar verwandt mit dem Wort für 'Süden', siehe <a class='kom' href='#I2mo-26-18'>2.&nbsp;Mo&nbsp;26,18</a>.
   TODO: Siehe auch Strongs 8486 (zB <a class='kom' href='#I2mo-26-18'>2.&nbsp;Mo&nbsp;26,18</a>).
   <br>Teman, der Ort: scheint in Edom zu liegen (was ja Sinn macht, da Teman ein Nachkomme Esaus ist und Esau Edom ist [Vers 1]), zB via
@@ -6147,6 +6225,9 @@
 #}
 #1mo-36-17 {
  {
+  §1chr-1-37
+ }
+ {
   TODO: Serach: Ist das derselbe wie in <a href='http://bibel.renenyffenegger.ch/1mo_36.html#v33'>Vers 33</a>?
  }
 #}
@@ -6156,6 +6237,9 @@
  }
 #}
 #1mo-36-20 {
+ {
+  §1chr-1-38
+ }
  {
   <i>Seir, der Horiter</i> vgl §1mo-14-6
  }
@@ -23938,6 +24022,11 @@
   <br>Vgl auch mit <i>Adoni-Besek</i> (<a href='http://bibel.renenyffenegger.ch/ri_1.html#v5'>Ri&nbsp;1,5</a>).
  }
 #}
+#jos-10-2 {
+ {
+  Vgl <i>Gibeon</i>. doeVgl <i>Gibeon</i>, die große Stadt, wie eine der Königsstädte, mit <i>Hazor</i>, der Hauptstadt aller dieser Königreiche, §jos-11-10.
+ }
+#}
 #jos-10-3 {
  {
   <i>Lachis</i>: <a class='kom' href='#Ijos-15-39'>Jos&nbsp;15,39</a>.
@@ -24087,6 +24176,11 @@
  }
  {
   <i>Hewiter</i>: siehe <a class='kom' href='#Iri-9-7'>Ri&nbsp;9,7</a>.
+ }
+#}
+#jos-11-10 {
+ {
+  Vgl <i>Hazor</i>, die Hauptstadt aller dieser Königreiche, mit <i>Gibeon</i>, der großen Stadt, wie eine der Königsstädte, §jos-10-2.
  }
 #}
 #jos-11-14 {
@@ -34552,7 +34646,20 @@
 @1. Chronik 1 {
 #1chr-1-1 {
  {
-  Weder Kain noch Abel werden erwähnt.
+  <i>Seth</i>: §1mo-4-25, §1mo-5-3. Beachte, dass weder Kain noch Abel erwähnt werden.
+ }
+ {
+  <i>Enos</i>: §1mo-5-6
+ }
+#}
+#1chr-1-2 {
+ {
+  <i>Kenan</i>: §1mo-5-9, <i>Mahalel</i> §1mo-5-12, <i>Jered</i>: §1mo-5-15
+ }
+#}
+#1chr-1-3 {
+ {
+  <i>Henoch</i>: §1mo-5-18, <i>Methusalah</i>: §1mo-5-21, <i>Lamech</i>: §1mo-5-25
  }
 #}
 #1chr-1-4 {
@@ -34567,13 +34674,24 @@
   ab §V1chr-1-8 die Söhne Hams, ab §V1chr-1-17 die Söhne Sems.
   <br>Ähnlich auch die Nachkommen von Abraham.
  }
+ {
+  §1mo-10-1
+ }
 #}
 #1chr-1-5 {
  {
   §1mo-10-2
  }
 #}
+#1chr-1-6 {
+ {
+  Vgl §1mo-10-3, wo <i>Diphath</i> «Riphat</i> genannt wird.
+ }
+#}
 #1chr-1-7 {
+ {
+  Vgl §1mo-10-4, wo die <i>Rodanim</i> «Dodanim» genannt werden.
+ }
  {
   TODO: <b>R</b> und <b>D</b> Siehe <a class='kom' href='#I1mo-10-4'>1.&nbsp;Mo&nbsp;10,4</a>
  }
@@ -34583,22 +34701,63 @@
   (<span class='hebr'><span class='grey'>וְ</span>תַרְשִׁ֑ישׁ</span>).
  }
 #}
+#1chr-1-8 {
+ {
+  §1mo-10-6
+ }
+#}
 #1chr-1-9 {
+ {
+  §1mo-10-7
+ }
  {
   <i>Scheba und Dedan</i> sind auch die Namen der Söhne Jokschans (§V1chr-1-32)
  }
 #}
 #1chr-1-10 {
  {
-  Beachte: Kusch <i>zeugte</i> → biblisches/Personen/Nimrod, während seine andern Söhne »Söhne« genannt werden.
-  <br>
-  Hier ist auch das erste Vorkommen von <i>zeugen</i> in diesem Kapitel.
+   §1mo-10-8
  }
  {
-   §1mo-10-7-8.
+  Beachte: Kusch <i>zeugte</i> → biblisches/Personen/Nimrod, während seine andern Söhne »Söhne« genannt werden.
+ <br>
+  Hier ist auch das erste Vorkommen von <i>zeugen</i> in diesem Kapitel.
+ }
+#}
+#1chr-1-11 {
+ {
+  §1mo-10-13
+ }
+#}
+#1chr-1-12 {
+ {
+  §1mo-10-14
+ }
+#}
+#1chr-1-13 {
+ {
+  §1mo-10-15
+ }
+#}
+#1chr-1-14 {
+ {
+  §1mo-10-16
+ }
+#}
+#1chr-1-15 {
+ {
+  §1mo-10-17
+ }
+#}
+#1chr-1-16 {
+ {
+  §1mo-10-18
  }
 #}
 #1chr-1-17 {
+ {
+  §1mo-10-22
+ }
  {
   Uz, Hul, Geter und Mesech (Masch) sind gemäss <a href='http://bibel.renenyffenegger.ch/1mo_10.html#v23'>1.&nbsp;Mo&nbsp;10,23</a>
   Söhne Arams (<a class='kom' href='#I1mo-10-23'>1.&nbsp;Mo&nbsp;10,23</a>).
@@ -34606,7 +34765,7 @@
 #}
 #1chr-1-18 {
  {
-  §+1mo-10-24, §1mo-11-13
+  §+1mo-10-24, §1mo-10-24
  }
 #}
 #1chr-1-19 {
@@ -34614,9 +34773,24 @@
   §1mo-10-25
  }
 #}
+#1chr-1-20 {
+ {
+  §1mo-10-26
+ }
+#}
+#1chr-1-21 {
+ {
+  §1mo-10-27
+ }
+#}
 #1chr-1-22 {
  {
   <i>Ebal</i> wird in §1mo-10-28 Obal genannt.
+ }
+#}
+#1chr-1-23 {
+ {
+  §1mo-10-29
  }
 #}
 #1chr-1-27 {
@@ -34654,10 +34828,23 @@
 #}
 #1chr-1-36 {
  {
+  §1mo-36-11
+ }
+ {
   <i>Amalek</i>, der Sohn Eliphas: §1mo-36-12
  }
  {
   <i>Timna</i> ist sowohl ein männlicher wie auch ein weiblicher Name (§V1chr-1-39).
+ }
+#}
+#1chr-1-37 {
+ {
+  §1mo-36-17
+ }
+#}
+#1chr-1-38 {
+ {
+  §1mo-36-20
  }
 #}
 #1chr-1-39 {
@@ -35927,6 +36114,11 @@
 #1chr-10-1 {
  {
   vgl <a class='kom' href='#I1sam-31-1'>1.&nbsp;Sam&nbsp;31,1</a>.
+ }
+#}
+#1chr-10-8 {
+ {
+  §1mo-10-6
  }
 #}
 @}
