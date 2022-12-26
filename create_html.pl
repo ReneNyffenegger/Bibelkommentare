@@ -21,7 +21,12 @@ use warnings;
 use utf8;
 
 use lib "$ENV{github_root}/Biblisches";
+
+if ($ENV{notes_dir}) { # 2022-12-26
+use lib "$ENV{notes_dir}/scripts/";
+} else {
 use lib "$ENV{github_root}/notes/scripts/";
+}
 use lib "$ENV{github_root}/RN/";
 use lib "$ENV{github_root}/Bibelkommentare";
 
