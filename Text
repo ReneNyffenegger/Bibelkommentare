@@ -1919,6 +1919,11 @@
   TODO: <a class='kom' href='#I1mo-5-29'>1.&nbsp;Mo&nbsp;5,29</a>.
  }
 #}
+#1mo-9-21 {
+ {
+  <i>er wurde trunken und entblößte sich</i> vgl §kla-4-21, §hab-2-15
+ }
+#}
 #1mo-9-23 {
  {
   Siehe <a href='http://bibel.renenyffenegger.ch/3mo_18.html#v6'>3. Mo 18,6 ff</a>.
@@ -22652,6 +22657,11 @@
   → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
  }
 #}
+#5mo-28-63 {
+ {
+  Wie Jehova sich freute, vgl §5mo-30-9
+ }
+#}
 #5mo-28-64 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/unter-die-Nationen-verstreut
@@ -22782,7 +22792,10 @@
 #}
 #5mo-30-9 {
  {
-  Vgl <a class='kom' href='#I5mo-2-7'>5.&nbsp;Mo&nbsp;2,7</a>.
+  Vgl §+5mo-2-7
+ }
+ {
+  Jehova wird sich wieder freuen, vgl §5mo-28-63
  }
 #}
 #5mo-30-12 {
@@ -34765,13 +34778,12 @@
   §1mo-10-22
  }
  {
-  Uz, Hul, Geter und Mesech (Masch) sind gemäss <a href='http://bibel.renenyffenegger.ch/1mo_10.html#v23'>1.&nbsp;Mo&nbsp;10,23</a>
-  Söhne Arams (<a class='kom' href='#I1mo-10-23'>1.&nbsp;Mo&nbsp;10,23</a>).
+  Uz, Hul, Geter und Mesech (Masch) sind gemäss §1mo-10-23 Söhne Arams.
  }
 #}
 #1chr-1-18 {
  {
-  §+1mo-10-24, §1mo-10-24
+  §+1mo-10-24
  }
 #}
 #1chr-1-19 {
@@ -43494,7 +43506,7 @@
   Vgl <i>Beth-Lebaot</i> mit <i>Lebaot</i> in <a class='kom' href='#Ijos-15-32'>Jos&nbsp;15,32</a>.
  }
  {
-  TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/joe_2.html#v16'>Joe&nbsp;2,16</a>.
+  <i>ein Bräutigam, der hervortritt aus seinem Gemach</i> vgl §joe-2-16
  }
 #}
 #ps-19-7 {
@@ -44281,6 +44293,9 @@
 #}
 #ps-40-15 {
  {
+  §ps-70-3
+ }
+ {
   <i>Lass sie beschämt und zu Schanden werden</i> vgl §+ps-35-4
  }
 #}
@@ -44289,9 +44304,14 @@
   <i>Haha</i>: <a class='kom' href='#Ihi-39-25'>Hi&nbsp;39,25</a>.
  }
 #}
+#ps-40-17 {
+ {
+  §ps-70-5
+ }
+#}
 #ps-40-18 {
  {
-  <i>elend und arm</i> vgl §ps-70-6, §ps86-1, §ps-109-16, §ps-109-22
+  <i>elend und arm</i> vgl §ps-70-6, §ps-86-1, §ps-109-16, §ps-109-22
  }
 #}
 @}
@@ -45191,12 +45211,20 @@
 @Psalm 70 {
 #ps-70-3 {
  {
+  §ps-40-15
+ }
+ {
   Vgl §+ps-35-4
  }
 #}
 #ps-70-4 {
  {
   <i>Haha</i>: <a class='kom' href='#Ihi-39-25'>Hi&nbsp;39,25</a>.
+ }
+#}
+#ps-70-5 {
+ {
+  §ps-40-17
  }
 #}
 @}
@@ -51518,6 +51546,16 @@
   TODO: Ranken, die übers Meer gehen: <a class='kom' href='#Ijer-48-32'>Jer&nbsp;48,32</a>.
  }
 #}
+#jes-16-9 {
+ {
+  §jer-48-32
+ }
+#}
+#jes-16-10 {
+ {
+  §jer-48-33
+ }
+#}
 #jes-16-11 {
  {
   TODO: Vgl <i>Kir-Heres</i> mit «Ir-Heres» in <a href='http://bibel.renenyffenegger.ch/jes_19.html#v18'>Jes&nbsp;19,18</a>.
@@ -52151,6 +52189,11 @@
 #jes-29-6 {
  {
   <i>eine Flamme verzehrenden Feuers</i>: §jes-30-30, §jes-66-15
+ }
+#}
+#jes-29-9 {
+ {
+  <i>sie sind trunken, doch nicht von Wein</i>, §jes-51-21, vgl §jes-49-26
  }
 #}
 #jes-29-10 {
@@ -53225,6 +53268,11 @@
   <i>Den HERRN erkennen</i>: <a class='kom' href='#I2mo-6-7'>2.&nbsp;Mo&nbsp;6,7</a>
  }
 #}
+#jes-49-26 {
+ {
+  <i>von ihrem Blut sollen sie trunken werden wie von Most</i> vgl §jes-29-9, §jes-51-21
+ }
+#}
 @}
 @Jesaja 50 {
 #jes-50-1 {
@@ -53342,6 +53390,11 @@
   <br>TODO Besser übersetzt wäre wohl sowieso «Kelch des Zorns» (oder «Zorneskelch», analog dem «Taumelkelch»).
   <br>Vgl auch mit «Trostbecher» (Kelch des Trostes?) in <a href='http://bibel.renenyffenegger.ch/jer_16.html#v7'>Jer&nbsp;16,7</a>,
      <i>Kelch voll Zornwein</i> (<a class='kom' href='#Ijer-25-15'>Jer&nbsp;25,15</a>).
+ }
+#}
+#jes-51-21 {
+ {
+  <i>du … Trunkene, aber nicht von Wein</i> §jes-29-9, vgl §jes-49-26
  }
 #}
 @}
@@ -56463,7 +56516,15 @@
 #}
 #jer-48-32 {
  {
+  §jes-16-8-9
+ }
+ {
   TODO: Ranken die übers Meer gehen: <a href='http://bibel.renenyffenegger.ch/jes_16.html#v8'>Jes&nbsp;16,8</a>.
+ }
+#}
+#jer-48-33 {
+ {
+  §jes-16-10
  }
 #}
 #jer-48-34 {
@@ -57055,6 +57116,9 @@
  }
  {
   Siehe auch andere geografische Orte, die <i>Tochter</i> genannt werden: <a class='kom' href='#I2koe-19-21'>2.&nbsp;Kö&nbsp;19,21</a>.
+ }
+ {
+  <i>du wirst trunken werden und dich entblößen</i> vgl §1mo-9-21, §hab-2-15
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Edom/index#gericht-ueber-edom
@@ -60912,7 +60976,7 @@
 #}
 #joe-2-16 {
  {
-  TODO: <a class='kom' href='#Ips-19-6'>Ps&nbsp;19,6</a>.
+  <i>die Braut trete aus ihrem Gemach</i> vgl §ps-19-6
  }
 #}
 #joe-2-23 {
@@ -61040,7 +61104,10 @@
 #}
 #joe-4-18 {
  {
-  <i>Sittim</i> (<span class='hebr'>שִׁטָּים</span>, Strongs 7851): hier fing das Volk Israel an, Unzucht zu treiben mit den Töchtern der Moabiter (<a class='kom' href='#I4mo-25-1'>4.&nbsp;Mo&nbsp;25,1</a>).
+  <i>Die Berge werden triefen von Most</i> vgl §am-9-13
+ }
+ {
+  <i>Sittim</i> (<span class='hebr'>שִׁטָּים</span>, Strongs 7851): hier fing das Volk Israel an, Unzucht zu treiben mit den Töchtern der Moabiter, §+4mo-25-1.
  }
 #}
 #joe-4-19 {
@@ -61402,6 +61469,9 @@
  }
 #}
 #am-9-13 {
+ {
+  <i>Die Berge werden triefen von Most</i> vgl §joe-4-18
+ }
  {
   TODO Vgl §5mo-26-5
  }
@@ -61939,6 +62009,11 @@
   <i>Erde von der Herrlichkeit des HERRN erfüllt</i>: <a class='kom' href='#I4mo-14-21'>4.&nbsp;Mo&nbsp;14,21</a>
  }
 #}
+#hab-2-15 {
+ {
+  <i>…sie auch trunken machst, um ihre Blöße anzuschauen</i> vgl §1mo-9-21, §kla-4-21
+ }
+#}
 #hab-2-16 {
  {
   <i>Becher</i> (Strongs 3563): <a class='kom' href='#I1mo-40-11'>1.&nbsp;Mo&nbsp;40,11</a>.
@@ -62164,6 +62239,9 @@
 #hag-1-6 {
  {
   Vgl mit der in jener Zeit erwähnten Hungersnot in §+neh-5-3.
+ }
+ {
+  TODO: Ihr trinkt: eigtl. Ihr berauscht euch?
  }
 #}
 #hag-1-14 {
