@@ -31242,10 +31242,16 @@
 #}
 #1koe-7-15 {
  {
-         <object data="svg_alle_kapitel/1koe_7_15_saeule.svg" type="image/svg+xml" width='150' height='310'></object>
+  <i>18 Ellen die Höhe</i> vgl §2chr-3-15
+ }
+ {
+  <object data="svg_alle_kapitel/1koe_7_15_saeule.svg" type="image/svg+xml" width='150' height='310'></object>
  }
 #}
 #1koe-7-19 {
+ {
+  <i>Kapitäl</i>: §2chr-3-15
+ }
  {
   TODO: 'wie die Lilien in der Vorhalle': beziehen sich diese auf die 'offenen Blumen' (<a class='kom' href='#I1koe-6-18'>1.&nbsp;Kö&nbsp;6,18</a>'.
  }
@@ -37487,6 +37493,14 @@
 #2chr-3-14 {
  {
   Vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang[Vorhang] → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose[Heiligtums von Mose].
+ }
+#}
+#2chr-3-15 {
+ {
+  <i>35 Ellen die Länge</i> vgl §1koe-7-15
+ }
+ {
+  <i>Kapitäl</i> §1koe-7-19
  }
 #}
 #2chr-3-17 {
