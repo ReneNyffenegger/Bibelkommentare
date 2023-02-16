@@ -9562,7 +9562,7 @@
 #}
 #2mo-13-20 {
  {
-  <a href='http://bibel.renenyffenegger.ch/4mo_33.html#v6'>4.&nbsp;Mo&nbsp;33,6</a>.
+  §4mo-33-6.
  }
 #}
 #2mo-13-21 {
@@ -9790,11 +9790,14 @@
   Wasser zu trinken.
  }
  {
-  Schlachter überträgt <span class='hebr'>שׁוּר</span> hier mit 'Sur', sonst mit 'Schur'.
- }
- {
   Der <i>Weg durch das Land der Philister</i> (<a href='http://bibel.renenyffenegger.ch/2mo_13.html#v17'>2.&nbsp;Mo&nbsp;13,17</a>) wäre wohl von hier via <i>Gerar</i>
   nach <i>Kadesch</i> gewesen (vgl <a href='http://bibel.renenyffenegger.ch/1mo_20.html#v1'>1.&nbsp;Mo&nbsp;20,1</a> und <a href='http://bibel.renenyffenegger.ch/4mo_34.html#v4'>4.&nbsp;Mo&nbsp;34,4</a>).
+ }
+ {
+  Die <i>Wüste Sur</i> wird in §4mo-33-8 «Wüste Etam» genannt, vgl §2mo-13-20.
+ }
+ {
+  Schlachter überträgt <span class='hebr'>שׁוּר</span> hier mit 'Sur', sonst mit 'Schur'.
  }
 #}
 #2mo-15-23 {
@@ -10053,7 +10056,7 @@
 @2. Mose 17 {
 #2mo-17-1 {
  {
-  <i>Kein Wasser</i>: Vgl §+2mo-15-22, §4mo-20-1 und §+4mo-33-14.
+  <i>Kein Wasser</i>: Vgl §+2mo-15-22, §4mo-20-2 und §+4mo-33-14.
  }
  {
    Nachdem sie aus der Wüste Sin ausgezogen sind, lagerten sie sich noch in
@@ -18474,6 +18477,11 @@
   Beachte: Aaron hat auch gegen Mose geredet, aber er stirbt nicht.
  }
 #}
+#4mo-20-2 {
+ {
+  <i>Kein Wasser</i>: §+2mo-17-1
+ }
+#}
 #4mo-20-5 {
  {
   In Kanaan hätte es offenbar <i>Weinreben</i>, <i>Granatäpfel</i> und <i>Feigen</i> gehabt (<a href='http://bibel.renenyffenegger.ch/4mo_13.html#v23'>4.&nbsp;Mo&nbsp;13,23</a>).
@@ -19839,7 +19847,10 @@
   Hier wird Hachirot ohne 'Pi-' geschrieben, also <span class='hebr'>הַֽחִירֹ֔ת</span>!
  }
  {
-  <i>lagerten sich in Mara</i>: <a class='kom' href='#I2mo-15-23'>2.&nbsp;Mo&nbsp;15,23</a>.
+  <i>lagerten sich in Mara</i>: §+2mo-15-23.
+ }
+ {
+  Die <i>Wüste Etam</i> wird in §2mo-15-22 «Wüste Sur» genannt.
  }
 #}
 #4mo-33-9 {
@@ -19852,9 +19863,14 @@
   <i>Schilfmer</i> siehe §+4mo-14-25.
  }
 #}
+#4mo-33-11 {
+ {
+  §2mo-16-1
+ }
+#}
 #4mo-33-12 {
  {
-  <i>Dophka</i> <span class='hebr'>דָּפְקָה</span> (Strongs 1850) bedeutet offenbar «klopfen».
+  <i>Dophka</i> <span class='hebr'>דָּפְקָה</span> (Strongs 1850) bedeutet offenbar «klopfen». Der Ort wird nur hier erwähnt.
  }
  {
   Wüste Sin bis → biblisches/Orte/Rephidim: <a href='http://bibel.renenyffenegger.ch/2mo_17.html#v1'>2.&nbsp;Mo&nbsp;17,1</a>.
@@ -19862,7 +19878,7 @@
 #}
 #4mo-33-13 {
  {
-  <i>Alusch</i> <span class='hebr'>אָלוּשׁ</span> (Strongs 442): Herkunft unbekannt. Evtl «kneten» oder (gemäss Talmud) «eine Menge Männer».
+  <i>Alusch</i> <span class='hebr'>אָלוּשׁ</span> (Strongs 442): Herkunft unbekannt. Evtl «kneten» oder (gemäss Talmud) «eine Menge Männer». Der Ort wird nur hier erwähnt.
  }
 #}
 #4mo-33-14 {
@@ -26174,6 +26190,11 @@
   Vgl §3mo-26-16
  }
 #}
+#ri-6-5 {
+ {
+  <i>wie die Heuschrecken an Menge</i> §ri-7-12
+ }
+#}
 #ri-6-7 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
@@ -26285,6 +26306,11 @@
 #ri-7-3 {
  {
   TODO: <i>fürchtet</i> Strongs 2730.
+ }
+#}
+#ri-7-12 {
+ {
+  <i>wie die Heuschrecken an Menge</i> §ri-6-5
  }
 #}
 #ri-7-16 {
