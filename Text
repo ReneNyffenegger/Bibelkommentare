@@ -76494,6 +76494,11 @@
    S.a. §joh-8-12
  }
 #}
+#joh-1-10 {
+ {
+  <i>in der Welt</i>: §joh-9-5, §joh-13-1, §joh-16-33, §joh-17-11-ff
+ }
+#}
 #joh-1-11 {
  {
   Vgl
@@ -78331,6 +78336,9 @@
  {
   Das Licht ist nicht mehr lange da: §joh-12-35
  }
+ {
+  <i>in der Welt</i> §+joh-1-10
+ }
 #}
 #joh-9-6 {
  {
@@ -78946,6 +78954,9 @@
   §+joh-3-16
  }
  {
+  <i>in der Welt</i> §+joh-1-10
+ }
+ {
   Jesus <i>wusste</i> (Auch in Vers 3). Die Jünger wussten nicht, wovon er redete (Vers 22).
          <br>
   Vgl auch <a href='http://bibel.renenyffenegger.ch/joh_18.html#v4'>Joh&nbsp;18,4</a>,
@@ -79498,6 +79509,9 @@
  {
   <i>auf daß ihr in mir Frieden habt</i> §joh-14-27
  }
+ {
+  <i>in der Welt</i> §+joh-1-10
+ }
 #}
 @}
 @Johannes 17 {
@@ -79544,7 +79558,12 @@
 #}
 #joh-17-11 {
  {
-  <span class='gt'>NA hat «Bewahre sie in deinem Namen, <i>den</i> du mir gegeben  hast</span>
+  <i>in der Welt</i> §+joh-1-10
+ <br>
+  In der Welt, aber nicht von der Welt: vgl §gal-1-4 («aus der gegenwärtigen bösen Welt herausnehmen»)
+ }
+ {
+  <span class='gt'>NA hat «Bewahre sie in deinem Namen, <i>den</i> du mir gegeben hast</span>
  }
  {
   <i>Heiliger Vater</i> vgl §Vjoh-17-25
@@ -92526,7 +92545,9 @@
   <i>böse Welt</i> vgl §eph-5-16
  }
  {
-  <i>herausrette</i>: <span class='gr'>ἐξαιρέω</span> (Strongs 1807), in Elberfelder übersetzt mit «herausreisse».
+  <i>herausnehme</i>: <span class='gr'>ἐξαιρέω</span> (Strongs 1807), in Sch2K übersezt mit «herausrette», eine Elberfelderübersetung mit «herausreisse».
+ <br>
+  Vgl mit «in der Welt, nicht von der Welt» §joh-17-11-ff
  }
 #}
 #gal-1-5 {
@@ -92561,6 +92582,9 @@
  }
 #}
 #gal-1-10 {
+ {
+  <i>Menschen zu gefallen</i> vgl §gal-6-12
+ }
  {
   Vgl §1thes-2-4
  }
@@ -93366,6 +93390,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
    Paulus <i>eigenhändiger Gruss</i> vgl <a class='kom' href='#I1kor-16-21'>1.&nbsp;Kor&nbsp;16,21</a>.
+ }
+#}
+#gal-6-12 {
+ {
+  <i>wohl angesehen sein wollen</i> vgl §gal-1-10
  }
 #}
 #gal-6-13 {
@@ -94987,6 +95016,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @}
 @Philipper 3 {
 #phil-3-2 {
+ {
+  <i>Zerschneidung</i>: <span class='gr'>κατατομή</span> (Strongs 2699), <i>Beschneidung</i> im nächsten Vers: <span class='gr'>περιτομή</span>.
+ }
+ {
+  TODO: ähnliches Wortspiel wie Zerschneidung/Beschneidung evtl in §gal-5-12-13
+ }
  {
   Vgl mit Petrus' Erinnerungen: <a class='kom' href='#I2petr-1-12'>2.&nbsp;Petr&nbsp;1,12</a>.
  }
