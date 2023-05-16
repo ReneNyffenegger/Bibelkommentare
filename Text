@@ -24941,7 +24941,7 @@
   <i>En-Gedi</i>: siehe <a class='kom' href='#Ihl-1-14'>Hl&nbsp;1,14</a>.
  }
  {
-  <i>Ir-Hamelach</i> (<span class='hebr'>עִיר  הַמֶּלַח</span>, Strongs 5898), etwa 'Salzstadt'.
+  <i>Ir-Hamelach</i> (<span class='hebr'>עִיר  הַמֶּלַח</span>, Strongs 5898), etwa 'Salzstadt').
  }
 #}
 #jos-15-63 {
@@ -50467,14 +50467,22 @@
   <i>Freundin</i> vgl mit «Braut» in <a class='kom' href='#Ihl-4-8'>Hl&nbsp;4,8</a>.
  }
 #}
+#hl-1-11 {
+ {
+  <i>Kettchen</i>: §hl-4-9
+ }
+#}
 #hl-1-14 {
  {
-  <i>Weinberge von En-Gedi</i> vgl mit En-Gedi in der Wüste (<a href='http://bibel.renenyffenegger.ch/jos_15.html#v61'>Jos 15,61-62</a>
+  <i>Weinberge von En-Gedi</i> vgl mit En-Gedi in der Wüste (§jos-15-61-62)
  }
 #}
 @}
 @Hohelied 2 {
 #hl-2-1 {
+ {
+  <i>Lilie</i> vgl §Vhl-2-16
+ }
  {
   TODO: <i>Saron</i>: <a class='kom' href='#Iapg-9-35'>Apg&nbsp;9,35</a>.
  }
@@ -50482,6 +50490,11 @@
 #hl-2-5 {
  {
   TODO <i>Rosinen</i> (Strongs 809) siehe <a class='kom' href='#I2sam-6-19'>2.&nbsp;Sam&nbsp;6,19</a>.
+ }
+#}
+#hl-2-7 {
+ {
+  §hl-3-5
  }
 #}
 #hl-2-9 {
@@ -50500,11 +50513,21 @@
   TODO <i>röten</i>: Siehe <a class='kom' href='#I1mo-50-2'>1.&nbsp;Mo&nbsp;50,2</a>.
  }
 #}
+#hl-2-16 {
+ {
+  <i>Unter den Lilien weiden</i> vgl §Vhl-2-1.
+ }
+#}
 @}
 @Hohelied 3 {
 #hl-3-3 {
  {
   Die Wächter geben keine Antwort auf die Frage.
+ }
+#}
+#hl-3-5 {
+ {
+  §hl-2-7
  }
 #}
 #hl-3-6 {
@@ -50567,6 +50590,11 @@
  {
   TODO: Müsste <i>Schenir</i> nicht besster mit 'Senir' wiedergegeben werden?
   <br>S.a. <a class='kom' href='#I1chr-5-23'>1.&nbsp;Chr&nbsp;5,23</a>.
+ }
+#}
+#hl-4-9 {
+ {
+  <i>Kette</i>: §hl-1-11
  }
 #}
 #hl-4-10 {
