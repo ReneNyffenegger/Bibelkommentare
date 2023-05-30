@@ -7570,7 +7570,8 @@
 #}
 #1mo-48-14 {
  {
-  <i>absichtlich</i>: <span class='he'>שָׂכַל</span> (Strongs 7919). Elberfelder 1871 übersetzt mit «er legte seine Hände mit Wissen also», Sch2K mit «indem er so seine Hände kreuzte», LXX mit «<span class='gr'>εναλλαξ τας χειρας</span>».
+  <i>absichtlich</i>: <span class='he'>שָׂכַל</span> (Strongs 7919). Elberfelder 1871 übersetzt mit «er legte seine Hände mit Wissen also», Sch2K mit «indem er so seine Hände kreuzte», LXX mit «<span class='gr'>εναλλαξ τας χειρας</span>» (seine Hände kreuzend(?)).
+  Angeblich ist die wörtliche Übersetzung «machte seine Hände weise». Kann <i>absichtlich</i> evtl. mit «mit Einsicht» übersetzt werden?
  }
 #}
 #1mo-48-15 {
@@ -22807,6 +22808,11 @@
   TODO: Vgl mit dem Herrn, als er Brot und Wein einsetzt, §mt-26-26+
  }
 #}
+#5mo-29-8 {
+ {
+  Vgl §jos-1-7, §1koe-2-3, §2koe-18-6-7
+ }
+#}
 #5mo-29-10 {
  {
   <i>Holzhauer und Wasserschöpfer</i> vgl §jos-9-21-ff
@@ -23475,9 +23481,11 @@
 #}
 #jos-1-7 {
  {
+  <i>zu tun nach dem ganzen Gesetz…, auf daß es dir gelinge überall…</i> vgl §+5mo-29-8
+ }
+ {
   Beachte: hier steht im Zusammenhang mit dem Gesetz nichts von der Liebe zu Gott, gegen Ende des Buches hingegen schon
-  (<a href='http://bibel.renenyffenegger.ch/jos_22.html#v5'>Jos&nbsp;22,5</a>).
-  <br>Vgl auch <a class='kom' href='#I5mo-6-5'>5.&nbsp;Mo&nbsp;6,5</a>.
+  (<a href='http://bibel.renenyffenegger.ch/jos_22.html#v5'>Jos&nbsp;22,5</a>).  <br>Vgl auch <a class='kom' href='#I5mo-6-5'>5.&nbsp;Mo&nbsp;6,5</a>.
  }
 #}
 #jos-1-8 {
@@ -23487,7 +23495,7 @@
 #}
 #jos-1-9 {
  {
-  <i>Sei stark und muti…</i> §5mo-31-6, §1chr-28-20
+  <i>Sei stark und mutig…</i> §5mo-31-6, §1chr-28-20
  }
 #}
 #jos-1-11 {
@@ -27957,8 +27965,10 @@
 #}
 #1sam-9-16 {
  {
-  TODO: erstes Vorkommen von Strongs 5057.
-  <br>Dieses Wort wird hier mit 'Fürst' übersetzt, ist aber nicht jenes, welches zB in 2. Mose mit Fürst übersetzt wird.
+  Ihn zum Fürsten salben: §1sam-10-1
+ }
+ {
+  Hier erstes Vorkommen von <span class='hebr'></span> (Strongs 5057). Dieses Wort wird hier mit «Fürst» übersetzt, ist aber nicht jenes, welches zB in 2. Mose mit Fürst übersetzt wird.
  }
 #}
 #1sam-9-18 {
@@ -27978,6 +27988,11 @@
 #}
 @}
 @1. Samuel 10 {
+#1sam-10-1 {
+ {
+  Zum Fürsten gesalbt: §1sam-9-16
+ }
+#}
 #1sam-10-2 {
  {
   <i>Rahels Grab</i>: §+1mo-35-19.
@@ -28703,6 +28718,9 @@
 #1sam-18-5 {
  {
   → biblisches/Personen/David hier über die Kriegsleute, in Vers 13 zum Obersten über Tausend gesetzt.
+ }
+ {
+  David hatte <i>Gelingen</i>: vgl §+1koe-2-3, §V1sam-18-14, §V1sam-18-30
  }
 #}
 #1sam-18-6 {
@@ -30822,7 +30840,12 @@
 @1. Könige 2 {
 #1koe-2-3 {
  {
-   Vgl <a class='kom' href='#I1koe-3-3'>1.&nbsp;Kö&nbsp;3,3</a>.
+  <i>indem du seine Satzungen, seine Gebote und seine Rechte und seine Zeugnisse beobachtest …, auf daß es dir gelinge in allem…</i> vgl §+5mo-29-8.
+ <br>
+  David hatte Gelingen: §1sam-18-5, 14-15, 30
+ }
+ {
+  Vgl §+1koe-3-3.
  }
 #}
 #1koe-2-5 {
@@ -30923,7 +30946,7 @@
 #}
 #1koe-3-3 {
  {
-  Beachte: Salomo wandelte in den Ordnungen seines Vaters David, nicht in denen Gottes. Vgl <a href='http://bibel.renenyffenegger.ch/1koe_2.html#v3'>1.&nbsp;Kö&nbsp;2,3</a>.
+  Beachte: Salomo wandelte in den Ordnungen seines Vaters David, nicht in denen Gottes. Vgl §1koe-2-3.
  }
  {
   Salomo liebte aber auch «viele fremde Frauen» (<a href='http://bibel.renenyffenegger.ch/1koe_11.html#v1'>1.&nbsp;Kö&nbsp;11,1</a>).
@@ -31986,6 +32009,9 @@
   Die folgenden Verse gehen (wohl) an Jerobeams Sohn <i>Nadab</i> in Erfüllung (<a href='http://bibel.renenyffenegger.ch/1koe_15.html#v29'>1.&nbsp;Kö&nbsp;15,29</a>).
  }
  {
+  <i>Weil ich dich aus der Mitte des Volkes erhoben und dich als Fürst gesetzt habe</i> vgl §1koe-16-2, §+1chr-17-7
+ }
+ {
   <a class='kom' href='#I1koe-11-31'>1.&nbsp;Kö&nbsp;11,31</a>.
  }
 #}
@@ -32237,6 +32263,11 @@
  {
   → biblisches/Personen/Jehu
   <br>TODO: Vgl <i>Jehu, der Sohn Hananis</i> und <i>Jehu, der Sohn Nimsis</i>: <a class='kom' href='#I1koe-19-16'>1.&nbsp;Kö&nbsp;19,16</a>.
+ }
+#}
+#1koe-16-2 {
+ {
+  <i>Weil ich dich aus dem Staub erhoben und dich als Fürst über mein Volk Israel gesetzt habe</i> vgl §1koe-14-7, §+1chr-17-7
  }
 #}
 #1koe-16-4 {
@@ -33721,6 +33752,11 @@
   TODO: Auch von <i>Josia</i> heisst es: 'seinesgleichen ist vor ihm kein König gewesen' und 'auch nach ihm ist keiner seinesgleichen aufgestanden.', aber
   bei Josia heiss es zusätzlich: 'der sich so von ganzem Herzen und von ganzer Seele und mit allen seinen Kräften dem HERRN zuwandte, ganz nach dem Gesetz Moses;'.
   (<a href='http://bibel.renenyffenegger.ch/2koe_23.html#v25'>2.&nbsp;Kö&nbsp;23,25</a>). Dafür heisst es von Hiskia, dass er 'vertraute'.
+ }
+#}
+#2koe-18-6 {
+ {
+  <i>er beobachtete seine Gebote… überall, wohin er zog, gelang es ihm</i> vgl §++5mo-29-8
  }
 #}
 #2koe-18-7 {
@@ -35532,7 +35568,10 @@
   Juda: siehe <a href='http://bibel.renenyffenegger.ch/1mo_49.html#v8'>1.&nbsp;Mo&nbsp;49,8-11</a>.
  }
  {
-  <i>Fürst</i>: Strongs 5057, siehe <a class='kom' href='#I1sam-9-16'>1.&nbsp;Sam&nbsp;9,16</a>.
+  <i>Der Fürst kommt aus ihm</i>; §V1chr-28-4.
+ }
+ {
+  TODO: <i>Fürst</i>: Strongs 5057, siehe <a class='kom' href='#I1sam-9-16'>1.&nbsp;Sam&nbsp;9,16</a>.
  }
 #}
 #1chr-5-3 {
@@ -36115,7 +36154,7 @@
 #}
 #1chr-9-11 {
  {
-  <i>Oberaufseher des Hauses Gottes</i> vgl §neh-11-11
+  <i>Fürst des Hauses Gottes</i> vgl §neh-11-11
  }
  {
   <i>Asarja</i>: <a class='kom' href='#I2chr-31-16'>2.&nbsp;Chr&nbsp;31,16</a>
@@ -36306,6 +36345,9 @@
  {
   <i>David, der Schafhirte</i>: <a class='kom' href='#I1sam-16-11'>1.&nbsp;Sam&nbsp;16,11</a>.
  }
+ {
+  <i>David, der Fürst</i> vgl §1chr-17-7, §1chr-13-1, §1chr-28-4
+ }
 #}
 #1chr-11-3 {
  {
@@ -36422,6 +36464,11 @@
 #}
 @}
 @1. Chronik 13 {
+#1chr-13-1 {
+ {
+  David selbst war ein <i>Fürst</i>: §1chr-11-2
+ }
+#}
 #1chr-13-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
@@ -36777,6 +36824,9 @@
 #1chr-17-7 {
  {
   <i>Trift</i>: <a class='kom' href='#I2sam-7-8'>2.&nbsp;Sam&nbsp;7,8</a>.
+ }
+ {
+  <i>David, der Fürst</i>: §+1chr-11-2, vgl §1koe-14-7, §1koe-16-2
  }
  {
   TODO: <i>Von den Schafen weggenommen</i>: vgl mit Amos (<a href='http://bibel.renenyffenegger.ch/am_7.html#v15'>Am&nbsp;7,15</a>).
@@ -37154,6 +37204,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Torhüter, → biblisches/Eigene-Uebersetzung/Konkordanz/Schatz#schaetze-des-hauses-des-herrn, vgl §1chr-29-8 (Jechiel = Achija?)
  }
 #}
+#1chr-26-24 {
+ {
+  <i>Oberaufseher</i>: <span class='hebr'>נָגִ֖יד</span> (Strongs 5057), meist mit «Fürst» übersetzt.
+ }
+#}
 @}
 @1. Chronik 27 {
 #1chr-27-1 {
@@ -37167,9 +37222,17 @@
   → biblisches/Personen/Perez/index
  }
 #}
+#1chr-27-4 {
+ {
+  <i>Oberaufseher</i>: <span class='hebr'>נָגִ֖יד</span> (Strongs 5057), meist mit «Fürst» übersetzt. Vgl §2chr-28-7
+ }
+#}
 #1chr-27-6 {
  {
   Hier 30 Helden, bei Salomos Sänfte 60 Helden rings um sie her (<a href='http://bibel.renenyffenegger.ch/hl_3.html#v7'>Hl&nbsp;3,7</a>)
+ }
+ {
+  Ein Wort, das <i>Oberaufseher</i> entsprechen würde, kommt im Grundtext nicht vor (vgl §V1chr-27-4).
  }
 #}
 #1chr-27-11 {
@@ -37269,6 +37332,11 @@
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/ps_17.html#v4'>Ps&nbsp;17,4</a>: David war nicht gewalttätig.
   <br>TODO: Hat Salomo nicht auch Blut vergossen?
+ }
+#}
+#1chr-28-4 {
+ {
+  <i>Juda zum Fürsten erwählt</i> vgl §1chr-5-2, §+1chr-11-2
  }
 #}
 #1chr-28-11 {
@@ -37685,6 +37753,9 @@
 #}
 #2chr-6-5 {
  {
+  <i>ich habe keinen Mann erwählt, um Fürst zu sein über mein Volk Israel.</i> vgl §1sam-9-16, §1sam-13-14
+ }
+ {
   §+2chr-4-1, §2sam-7-6
  }
 #}
@@ -37946,6 +38017,11 @@
 #2chr-11-9 {
  {
   <i>Lachis</i> und <i>Aseka</i>: <a class='kom' href='#Ijer-34-7'>Jer&nbsp;34,7</a>.
+ }
+#}
+#2chr-11-11 {
+ {
+  <i>Befehlshaber</i>: das Hebräische Wort wird an anderen Orten mit «Fürst» übersetzt, vgl §V2chr-11-22
  }
 #}
 #2chr-11-14 {
@@ -38870,9 +38946,14 @@
   <a class='kom' href='#I2koe-16-1'>2.&nbsp;Kö&nbsp;16,1</a>
  }
 #}
+#2chr-28-7 {
+ {
+  <i>Oberaufseher</i>: <span class='hebr'>נָגִ֖יד</span> (Strongs 5057), meist mit «Fürst» übersetzt. Vgl §1chr-27-4
+ }
+#}
 #2chr-28-9 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
  }
 #}
 #2chr-28-12 {
@@ -41601,7 +41682,10 @@
 #}
 #neh-11-11 {
  {
-  <i>Oberaufseher des Hauses Gottes</i> vgl §1chr-9-11
+  <i>Fürst des Hauses Gottes</i> vgl §1chr-9-11
+ }
+ {
+  TODO: <i>Oberaufseher</i>: <span class='hebr'>נָגִ֖יד</span> (Strongs 5057), meist mit «Fürst» übersetzt. Vgl §1chr-27-4
  }
 #}
 #neh-11-12 {
@@ -49459,6 +49543,11 @@
 #}
 @}
 @Sprüche 17 {
+#spr-17-2 {
+ {
+  <i>Einsichtiger Knecht</i> §jes-52-13
+ }
+#}
 #spr-17-5 {
  {
   Vgl §spr-14-31, §spr-22-2
@@ -53703,6 +53792,9 @@
  {
   Der <i>erhöhte Sohn des Menschen</i>: <a class='kom' href='#Ijoh-3-14'>Joh&nbsp;3,14</a>.
  }
+ {
+  <i>einsichtig handelnder Knecht</i> §spr-17-2
+ }
 #}
 #jes-52-15 {
  {
@@ -54501,7 +54593,10 @@
 #}
 #jer-3-15 {
  {
-  <i>Hirten</i>: vgl <a href='http://bibel.renenyffenegger.ch/jer_23.html#v4'>Jer&nbsp;23,4</a>.
+  <i>Hirten</i>: vgl §jer-10-21, §jer-23-4.
+ }
+ {
+  <i>Mit Erkenntnis und Einsicht</i> vgl §jer-9-23
  }
  {
   <i>Nach meinem Herzen</i>: <a class='kom' href='#I1sam-2-35'>1.&nbsp;Sam&nbsp;2,35</a>.
@@ -54844,9 +54939,9 @@
 #}
 #jer-9-23 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/jer_22.html#v16'>Jer&nbsp;22,16</a>,
-  <a href='http://bibel.renenyffenegger.ch/jer_24.html#v7'>Jer&nbsp;24,7</a>,
-  <a href='http://bibel.renenyffenegger.ch/jer_31.html#v34'>Jer&nbsp;31,34</a>
+  <i>Jehova erkennen</i>: §jer-22-16, §jer-24-7, §jer-31-34
+  <br>
+  <i>Einsicht haben und Jehova erkennen</i> vgl §jer-3-15
  }
 #}
 #jer-9-25 {
@@ -55271,6 +55366,11 @@
 #}
 @}
 @Jeremia 20 {
+#jer-20-1 {
+ {
+  <i>Oberaufseher</i>: <span class='hebr'>נָגִ֖יד</span> (Strongs 5057), meist mit «Fürst» übersetzt.
+ }
+#}
 #jer-20-2 {
  {
   <i>Oberes Tor</i>: §+2koe-15-35, → biblisches/Eigene-Uebersetzung/Konkordanz/Tor#tore-jerusalems
@@ -55391,7 +55491,7 @@
 #}
 #jer-23-4 {
  {
-  <i>Hirten</i>: <a class='kom' href='#Ijer-3-15'>Jer&nbsp;3,15</a>.
+  <i>Hirten</i>: §+jer-3-15, §jer-10-21
  }
 #}
 #jer-23-5 {
@@ -57007,6 +57107,11 @@
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/offb_18.html#v4'>Offb&nbsp;18,4</a> und
   <a href='http://bibel.renenyffenegger.ch/jer_51.html#v45'>Jer&nbsp;51,45</a>.
+ }
+#}
+#jer-50-9 {
+ {
+  <i>geschickt:</i> <span class='hebr'>מַשְׁכִּ֔יל</span> (Strongs 7919), kann evtl. auch mit «einsichtsvoll» übersetzt werden.
  }
 #}
 #jer-50-13 {
@@ -59369,6 +59474,9 @@
  {
   <i>Gesicht</i> (<span class='hebr'>חָזוֹן</span>, Strongs 3277): <a class='kom' href='#Ips-89-20'>Ps&nbsp;89,20</a>.
  }
+ {
+  <i>Einsicht geben</i> vgl §dan-9-13
+ }
 #}
 #dan-1-18 {
  {
@@ -60269,6 +60377,11 @@
   Vgl mit <a class='kom' href='#I2chr-29-25'>2.&nbsp;Chr&nbsp;29,25</a>.
  }
 #}
+#dan-9-13 {
+ {
+  <i>Einsicht erlangen</i>: vgl mit den vier Jünglingen, die Einsicht erlangt hatten, §dan-1-17
+ }
+#}
 #dan-9-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
@@ -60364,6 +60477,9 @@
  {
   <i>Ausgehen des Wortes</i> (<span class='hebr'>מִן־מֹצָ֣א דָבָ֗ר</span>): Schlachter übersetzt mit «Vom Erlaß des Befehls», KJV mit «from the going forth of the commandment».
   Vgl §+Vdan-9-2 und §Vdan-9-23
+ }
+ {
+   Das Verb <span class='hebr'>תָּשׁוּב֙</span> ist offenbar sowohl die Form für 3. Pers. f. sg wie auch 2. Pers. m. sg. Achim Klein geht vom zweiten aus und deutet es als Anrede an Daniel.
  }
  {
   TODO: Angeblich fehlt im Grundtext der Artikel vor »Messias«, so dass mit »ein Gesalbter« übersetzt werden müsste.
