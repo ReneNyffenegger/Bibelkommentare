@@ -14711,6 +14711,9 @@
  {
   Bei einem alten Aussatz ist eine «Quarantäne» offenbar sinnlos, der kranke Mensch kann sofort als unrein erklärt werden.
  }
+ {
+   TODO: <i>Ein alter Aussatz</i>: wörtlich evtl. ein schlafender Aussatz.
+ }
 #}
 #3mo-13-12 {
  {
@@ -31113,6 +31116,11 @@
   TODO: Etan, ein Esrachiter und Heman, ein anderer Esrachiter schrieben je einen Psalm: §ps-88-1 und §ps-89-1.
  }
 #}
+#1koe-5-12 {
+ {
+  Salomos Lieder, vgl §hl-1-1
+ }
+#}
 #1koe-5-15 {
  {
   Auch Husai ist ein → biblisches/Eigene-Uebersetzung/Konkordanz/Freund von → biblisches/Personen/David: §2sam-15-37, §2sam-16-16, §1chr-27-33
@@ -44687,6 +44695,9 @@
 @Psalm 45 {
 #ps-45-1 {
  {
+  <i>Lied der Lieblichkeiten</i>: <span class='hebr'>שִׁ֣יר יְדִידֹֽת</span>, vgl mit dem Lied der Lieder, §hl-1-1
+ }
+ {
   → biblisches/Personen/Korah/Sohn-von-Jizhar
  }
  {
@@ -47985,6 +47996,11 @@
   → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
  }
 #}
+#ps-120-5 {
+ {
+  <i>Zelte Kedars</i> §hl-120-5
+ }
+#}
 @}
 }
 { 121-130
@@ -50544,6 +50560,24 @@
 }
 { Hohelied
 @Hohelied 1 {
+#hl-1-1 {
+ {
+  <span class='hebr'>שִׁיר הַשִׁירִים</span> kann auf zwei Arten verstanden werden:
+     1) Das aus mehreren Liedern zusammengesetzte Lied (daher das <span class='hebr'>שִׁיר</span> im Singular).
+     2) Ein Ausdruck der Superlative: das höchste Lied
+ }
+ {
+  Vgl mit Psalm 45, dem <i>Lied er Lieblichkeiten</i> (<span class='hebr'>שִׁ֣יר יְדִידֹֽת</span>, §ps-45-1) und dem <i>lieblichen Lied</i> (<span class='hebr'>שִׁ֣יר עֲגָבִ֔ים</span>, §hes-33-32)
+ }
+ {
+  Salomos Lieder waren tausendundfünf, §1koe-5-12
+ }
+#}
+#hl-1-2 {
+ {
+  <i>Deine Liebe ist besser als Wein</i>, §hl-4-10
+ }
+#}
 #hl-1-3 {
  {
   <i>Lieblich an Geruch sind deine Salben … </i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich, §joh-12-3
@@ -50560,7 +50594,15 @@
   mit <i>schwarz</i> (<span class='hebr'>שָׁחֹר</span>, Strongs 7838).
  }
  {
-  <i>Vorhang</i>: <a class='kom' href='#I4mo-4-25'>4.&nbsp;Mo&nbsp;4,25</a>.
+  <i>Zelte Kedars</i> §ps-120-5
+ }
+ {
+  <i>Zeltbehänge</i> in Sch2K mit «Vorhänge» übersetzt. Vgl §+4mo-4-25.
+ }
+#}
+#hl-1-7 {
+ {
+  <i>wo weidest du</i> vgl §hl-5-6, §joh-1-38
  }
 #}
 #hl-1-8 {
@@ -50581,6 +50623,11 @@
 #hl-1-14 {
  {
   <i>Weinberge von En-Gedi</i> vgl mit En-Gedi in der Wüste (§jos-15-61-62)
+ }
+#}
+#hl-1-15 {
+ {
+  <i>Deine Augen sind Tauben</i>: §hl-4-1, §hl-5-12
  }
 #}
 @}
@@ -50605,7 +50652,7 @@
 #}
 #hl-2-7 {
  {
-  §hl-3-5
+  <i>Ich beschwöre euch, Töchter Jerusalems</i>: §hl-3-5, §hl-5-8, §hl-8-4
  }
 #}
 #hl-2-9 {
@@ -50629,6 +50676,11 @@
   <i>Unter den Lilien weiden</i> vgl §Vhl-2-1.
  }
 #}
+#hl-2-17 {
+ {
+  <i>Bis der Tag sich kühlt und die Schatten fliehen</i> §hl-4-6
+ }
+#}
 @}
 @Hohelied 3 {
 #hl-3-3 {
@@ -50641,7 +50693,7 @@
 #}
 #hl-3-5 {
  {
-  §hl-2-7
+  <i>Ich beschwöre euch, Töchter Jerusalems</i>: §+hl-2-7
  }
 #}
 #hl-3-6 {
@@ -50651,7 +50703,7 @@
 #}
 #hl-3-7 {
  {
-   Hier: 60 Helden, 30 Helden in <a href='http://bibel.renenyffenegger.ch/1chr_27.html#v6'>1.&nbsp;Chr&nbsp;27,6</a>.
+  Vgl die <i>60 Helden</i> mit den 60 Königinnen in §hl-6-8 und den 30 Helden in §1chr-27-6.
  }
 #}
 #hl-3-10 {
@@ -50663,10 +50715,16 @@
 @Hohelied 4 {
 #hl-4-1 {
  {
+  <i>Deine Augen sind Tauben</i>: §+hl-1-15
+ }
+ {
   TODO: Vgl die Beschreibung der Freundin (Augen, Haar, Zähne, Lippen, Mund, Haupt) mit jender des Geliebten (ca ab <a href='http://bibel.renenyffenegger.ch/hl_5.html#v1'>Hl&nbsp;5,1</a>).
  }
 #}
 #hl-4-3 {
+ {
+  <i>Wie ein Schnittstück einer Granate ist deine Schläfe hinter deinem Schleier</i>: §hl-6-7
+ }
  {
   TODO: Die Lippen sind wie eine <i>Karmesinschnur</i>. Bedeutet dies, dass die Freundin den Mund nicht öffnet?
     <br><i>Karmesinschnur</i> (Strongs 8144 und 2339) kommt auch in <a href='http://bibel.renenyffenegger.ch/jos_2.html#v18'>Jos&nbsp;2,18</a> vor.
@@ -50687,6 +50745,9 @@
  }
 #}
 #hl-4-6 {
+ {
+  <i>Bis der Tag sich kühlt und die Schatten fliehen</i> §hl-2-17
+ }
  {
   <i>Myrrhenberg und → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch</i> §hl-3-6, §mt-2-11
  }
@@ -50715,6 +50776,9 @@
  }
 #}
 #hl-4-10 {
+ {
+  <i>wieviel besser ist deine Liebe als Wein</i>, §hl-1-2
+ }
  {
   TODO: In diesem Vers kommt <i>Spezerei</i> (Siehe <a class='kom' href='#I2mo-25-6'>2.&nbsp;Mo&nbsp;25,6</a>) vor.
  }
@@ -50749,9 +50813,24 @@
   TODO: Vermutlich wäre es auch besser übersetzt worden mit Spezerei. Vgl <a class='kom' href='#I1mo-37-25'>1.&nbsp;Mo&nbsp;37,25</a>.
  }
 #}
+#hl-5-6 {
+ {
+  <i>Ich suchte ihn und fand ihn nicht</i> vgl §hl-1-7
+ }
+#}
 #hl-5-7 {
  {
   <i>Es fanden mich die Wächter</i> §hl-3-3
+ }
+#}
+#hl-5-8 {
+ {
+  <i>Ich beschwöre euch, Töchter Jerusalems</i>: §+hl-2-7
+ }
+#}
+#hl-5-12 {
+ {
+  <i>Deine Augen sind Tauben</i>: §+hl-1-15
  }
 #}
 #hl-5-13 {
@@ -50789,6 +50868,16 @@
   <i>Tirza</i> wird eine kurze Zeit (nach Salomo) die Hauptstadt des Nordreiches: §1koe-16-15, §1koe-16-23
  }
 #}
+#hl-6-7 {
+ {
+  §hl-4-3
+ }
+#}
+#hl-6-8 {
+ {
+  Vgl die <i>60 Königinnen</i> mit den 60 Helden in §hl-3-7
+ }
+#}
 @}
 @Hohelied 7 {
 #hl-7-4 {
@@ -50811,6 +50900,11 @@
 #hl-8-3 {
  {
   §hl-2-6
+ }
+#}
+#hl-8-4 {
+ {
+  <i>Ich beschwöre euch, Töchter Jerusalems</i>: §hl-2-7
  }
 #}
 #hl-8-6 {
@@ -58386,6 +58480,11 @@
    Vgl <a class='kom' href='#Ihes-16-7'>Hes&nbsp;16,7</a>, Verse 18 und 29
  }
 #}
+#hes-23-31 {
+ {
+  <i>Becher</i> (Strongs 3563): §+1mo-40-11. Vgl §+jer-25-15.
+ }
+#}
 #hes-23-34 {
  {
    → biblisches/Bücher/prophetisch/Hesekiel#ich-der-herr-habe-geredet-hes
@@ -58762,6 +58861,11 @@
   <i>Sein Blut auf seinem Kopf</i> vgl §apg-18-5-6
  }
 #}
+#hes-33-22 {
+ {
+  <i>Liebliches Lied</i>: §+hl-1-1, §ps-45-1
+ }
+#}
 #hes-33-27 {
  {
   <i>auf dem freien Feld</i> vgl. §hes-39-5
@@ -58769,8 +58873,7 @@
 #}
 #hes-33-31 {
  {
-  <i>Becher</i> (Strongs 3563): <a class='kom' href='#I1mo-40-11'>1.&nbsp;Mo&nbsp;40,11</a>.
-  Vgl <a class='kom' href='#Ijer-25-15'>Jer&nbsp;25,15</a>.
+  <i>angenehm</i>: <span class='hebr'>עֲגָבִ֤ים</span> (Strongs 5690, 2x), dasselbe Wort wird im nächsten Vers mit «lieblich» übersetzt.
  }
 #}
 #hes-33-33 {
@@ -63633,7 +63736,7 @@
    In KJV scheint dieses Wort durchgängig mit «to worship» übersetzt worden zu sein.
  }
  {
-  <i>Wo ist der König der Juden?</i>: §mt-27-11
+  <i>Wo ist der König der Juden?</i>: vgl §mt-27-11, §joh-1-38
  }
  {
   <i>Wo ist der König der Juden…</i>: dies ist die erste Frage im → biblisches/Grundtext/Neues-Testament[Neuen Testament]. Die erste Frage Gottes (und damit dieses Königs) im Alten Testement stellt Gott in §1mo-3-9:
@@ -76970,6 +77073,9 @@
  }
  {
   <i>Was sucht ihr?</i> vgl §mk-1-37
+ }
+ {
+  <i>Wo hältst du dich auf?</i> vgl §mt-2-2, §hl-1-7
  }
 #}
 #joh-1-39 {
