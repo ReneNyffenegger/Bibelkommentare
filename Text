@@ -26520,6 +26520,9 @@
  {
   <a class='kom' href='#Iri-9-5'>Ri&nbsp;9,5</a>.
  }
+ {
+  §2sam-11-21
+ }
 #}
 #ri-9-54 {
  {
@@ -29079,6 +29082,11 @@
   TODO: Wer hat hier wem die Schafe gehütet. Vgl allenfalls mit <i>→ biblisches/Personen/David, dem Schafhirten</i>: <a class='kom' href='#I1sam-16-11'>1.&nbsp;Sam&nbsp;16,11</a>.
  }
 #}
+#1sam-25-18 {
+ {
+  <i>100 Rosinenkuchen und 200 Feigenkuchen</i> vgl §1sam-30-12, §2sam-16-1
+ }
+#}
 #1sam-25-28 {
  {
   Vgl <a class='kom' href='#I1sam-2-5'>1.&nbsp;Sam&nbsp;2,5</a>.
@@ -29285,6 +29293,9 @@
 #}
 #1sam-30-12 {
  {
+  <i> eine Schnitte Feigenkuchen und zwei Rosinenkuchen</i> vgl §1sam-25-18, §2sam-16-1
+ }
+ {
   TODO: Haben diese drei Tage etwas mit dem dritten Tag in Vers 1 zu tun?
  }
 #}
@@ -29413,7 +29424,7 @@
 #}
 #2sam-1-19 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Zierde
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zierde: <span class='hebr'>צְּבִי֙</span> (Strongs 6643) ist scheinbar das gleiche Wort wie Gazelle.
  }
 #}
 #2sam-1-21 {
@@ -29996,6 +30007,9 @@
   Vgl <i>Jerub Bescheth</i> mit «Jerub-Baal»: <a class='kom' href='#Iri-9-1'>Ri&nbsp;9,1</a>.
  }
  {
+  <i>War nicht eine Frau…</i>: §ri-9-53
+ }
+ {
   TODO: hat <i>Jerub-Bescheth</i> etwas mit 'Schande' zu tun, siehe <a class='kom' href='#I1sam-20-30'>1.&nbsp;Sam&nbsp;20,30</a>.
  }
  {
@@ -30214,6 +30228,11 @@
 #}
 @}
 @2. Samuel 16 {
+#2sam-16-1 {
+ {
+  <i>200 und 100 Rosinenkuchen und hundert Kuchen von getrocknetem Obst</i> vgl §1sam-25-18, §1sam-30-12
+ }
+#}
 #2sam-16-2 {
  {
   TODO: Offenbar hatte Ziba einen Plan (oder war gut organisiert).
@@ -32060,6 +32079,9 @@
 #}
 #1koe-14-23 {
  {
+  Vgl §2koe-16-4, §2koe-17-10, §2chr-28-4
+ }
+ {
   <i>Gedenksteine</i>: Siehe <a class='kom' href='#I5mo-16-22'>5.&nbsp;Mo&nbsp;16,22</a>.
  }
 #}
@@ -33513,6 +33535,11 @@
   <i>nach den Gräueln der Nationen, die Jehova vor den Kindern Israel ausgetrieben hatte</i> §2koe-21-2, §2chr-28-3, §2chr-33-2, vgl §5mo-18-12
  }
 #}
+#2koe-16-4 {
+ {
+  Vgl §1koe-14-23, §2koe-17-10, §2chr-28-4
+ }
+#}
 #2koe-16-5 {
  {
   <i>Sie vermochten nicht, gegen ihn zu streiten</i>, obwohl sie von Jehova gesandt wurden: §2koe-15-37, §jes-7-1
@@ -33644,6 +33671,9 @@
 #2koe-17-10 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim
+ }
+ {
+  Vgl §1koe-14-23, §2koe-16-4, §2chr-28-4
  }
 #}
 #2koe-17-13 {
@@ -36449,6 +36479,11 @@
   <a class='kom' href='#I2chr-8-5'>2.&nbsp;Chr&nbsp;8,5</a>.
  }
 #}
+#1chr-12-9 {
+ {
+  TODO: <i>Angesichter wie Löwenangesichter</i> vgl §offb-9-17
+ }
+#}
 #1chr-12-19 {
  {
   'Friede, Friede' siehe <a class='kom' href='#Ijes-57-19'>Jes&nbsp;57,19</a>.
@@ -38943,7 +38978,10 @@
 #}
 #2chr-28-4 {
  {
-  Vgl §ps-89-4
+  Vgl §1koe-14-23, §2koe-16-4, §2koe-17-10, §2chr-28-4
+ }
+ {
+  TODO: Vgl §ps-89-4
  }
 #}
 #2chr-28-5 {
@@ -46325,7 +46363,7 @@
 #}
 #ps-89-4 {
  {
-  Vgl §2chr-28-4
+  TODO Vgl §2chr-28-4
  }
 #}
 #ps-89-5 {
@@ -50570,6 +50608,9 @@
   Vgl mit Psalm 45, dem <i>Lied er Lieblichkeiten</i> (<span class='hebr'>שִׁ֣יר יְדִידֹֽת</span>, §ps-45-1) und dem <i>lieblichen Lied</i> (<span class='hebr'>שִׁ֣יר עֲגָבִ֔ים</span>, §hes-33-32)
  }
  {
+  Im Gegensatz zu §pred-1-1 and §spr-1-1 wird im Eröffnungsvers vom Hohelied nicht erwähnt, dass Salomo König ist. Seinen Titel findet man in §hl-3-11
+ }
+ {
   Salomos Lieder waren tausendundfünf, §1koe-5-12
  }
 #}
@@ -50600,12 +50641,20 @@
   <i>Zeltbehänge</i> in Sch2K mit «Vorhänge» übersetzt. Vgl §+4mo-4-25.
  }
 #}
+#hl-1-6 {
+ {
+  <i>meinen eigenen Weinberg</i> vgl §hl-8-12
+ }
+#}
 #hl-1-7 {
  {
   <i>wo weidest du</i> vgl §hl-5-6, §joh-1-38
  }
 #}
 #hl-1-8 {
+ {
+  <i>Schönste unter den Frauen</i> §hl-5-9, §hl-6-1
+ }
  {
   TODO: Spuren(?) vielleicht besser als »Fersen« (Strongs H6119 übersetzt).
  }
@@ -50628,6 +50677,11 @@
 #hl-1-15 {
  {
   <i>Deine Augen sind Tauben</i>: §hl-4-1, §hl-5-12
+ }
+#}
+#hl-1-17 {
+ {
+  <i>unserer Häuser</i> (<span class='hebr'>בָּתֵּ֨ינוּ֙</span>) ist in Elberfelder und Sch2K mit «unsere Behausung» übersetzt.
  }
 #}
 @}
@@ -50653,6 +50707,8 @@
 #hl-2-7 {
  {
   <i>Ich beschwöre euch, Töchter Jerusalems</i>: §hl-3-5, §hl-5-8, §hl-8-4
+ <br>
+  Obwohl das grammatikalische Geschlecht von von Töchter Jerusalems feminin ist, ist das Verb jeweils in 2. Person maskulin plural.
  }
 #}
 #hl-2-9 {
@@ -50828,6 +50884,11 @@
   <i>Ich beschwöre euch, Töchter Jerusalems</i>: §+hl-2-7
  }
 #}
+#hl-5-9 {
+ {
+  <i>Schönste unter den Frauen</i> §hl-1-8, §hl-6-1
+ }
+#}
 #hl-5-12 {
  {
   <i>Deine Augen sind Tauben</i>: §+hl-1-15
@@ -50859,6 +50920,9 @@
 @}
 @Hohelied 6 {
 #hl-6-1 {
+ {
+  <i>Schönste unter den Frauen</i> §hl-1-8, §hl-5-9
+ }
  {
   TODO: Werden sie Ihn auch finden?
  }
@@ -50915,6 +50979,11 @@
 #hl-8-9 {
  {
   <i>Zinne</i> (Strongs 2918): <a class='kom' href='#I1mo-25-16'>1.&nbsp;Mo&nbsp;25,16</a>.
+ }
+#}
+#hl-8-12 {
+ {
+  <i>Mein eigener Weinberg</i> vgl §hl-1-6
  }
 #}
 @}
@@ -107020,11 +107089,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-9-17 {
  {
-  Hier sieht Johannes <i>richtige</i> Pferde und Panzer, nicht <i>gleich</i> zum Kampf gerüstete Pferde (§Voffb-9-7) und <i>wie</i> Panzer (§offb-9-9). Das deutet wohl darauf hin, dass die sechste Posaune wörtlich verstanden werden kann, während die fünfte Posaune das Geschehen bildlich umschreibt.
+  Hier sieht Johannes <i>richtige</i> Pferde und Panzer, nicht <i>gleich</i> zum Kampf gerüstete Pferde (§Voffb-9-7) und <i>wie</i> Panzer (§offb-9-9).
+  Das deutet wohl darauf hin, dass die sechste Posaune wörtlich verstanden werden kann, während die fünfte Posaune das Geschehen bildlich umschreibt.
  }
  {
   <i>violett</i>: <span class='gr'>ὑακίνθινος</span> (Strongs 5191, 1x), vgl mit der Blume «Hyazinthen».
   Vgl auch mit dem Edelstein «Hyazinth» aus <a href='http://bibel.renenyffenegger.ch/offb_21.html#v20'>Offb&nbsp;21,20</a>.
+ }
+ {
+  TODO: <i>Köpfe … wie Löwenköpfe</i> vgl §1chr-12-9
  }
 #}
 #offb-9-18 {
