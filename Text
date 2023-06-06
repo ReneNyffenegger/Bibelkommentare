@@ -43599,8 +43599,7 @@
 #}
 #ps-12-7 {
  {
-  <i>geläutert</i> <span class='hebr'>זָקַק</span> (Strongs 2212)
-  <br>vgl mit «geläuterte Worte» in §+2sam-22-31.
+  <i>Die Worte Jehovas …, das geläutert</i> <span class='hebr'>זָקַק</span> (Strongs 2212)vgl mit «geläuterte Worte» in §+2sam-22-31. Siehe auch §ps-18-31, §ps-119-140
  }
 #}
 @}
@@ -43789,7 +43788,7 @@
 #}
 #ps-18-31 {
  {
-  <i>geläutert</i>: <a class='kom' href='#I2sam-22-31'>2.&nbsp;Sam&nbsp;22,31</a>.
+  <i>Jehovas Wort ist geläutert</i>: §+2sam-22-31, §ps-12-7, §ps-119-140, §spr-30-5
  }
 #}
 #ps-18-33 {
@@ -44262,6 +44261,9 @@
 @}
 @Psalm 33 {
 #ps-33-1 {
+ {
+  <i>Den Aufrichtigen geziemt Lobgesang</i> vgl §ps-147-1
+ }
  {
   §+ps-32-11.
  }
@@ -47984,7 +47986,7 @@
 #ps-119-140 {
  {
   <i>geläutert</i> <span class='hebr'>צָרַף</span> (Strongs 6884).
-  <br>Vgl mit «geläuterte Worte» in §+2sam-22-31.
+  <br>Vgl mit «geläuterte Worte» in §+2sam-22-31, §ps-12-7, §spr-30-5
  }
 #}
 #ps-119-142 {
@@ -48565,7 +48567,10 @@
   <i>Psalmanfang «Lobt Jah»</i>: <a class='kom' href='#Ips-111-1'>Ps&nbsp;111,1</a>.
  }
  {
-   <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>. Ebenso Vers 20.
+  <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>. Ebenso Vers 20.
+ }
+ {
+  <i>es geziemt zich Lobgesang</i> vgl §ps-33-1
  }
  {
   TODO: Jansen übersetzt hier mit 'Hallelujah'.
@@ -48601,6 +48606,11 @@
 #ps-147-10 {
  {
   Vgl <a class='kom' href='#Ips-33-17'>Ps&nbsp;33,17</a>.
+ }
+#}
+#ps-147-15 {
+ {
+  <i>Befehl</i>: <span class='hebr'>אִמְרָת֣</span>, oft mit «Wort» übersetzt.
  }
 #}
 #ps-147-17 {
@@ -50316,7 +50326,7 @@
 #}
 #spr-30-5 {
  {
-  <i>geläuterte Rede Gottes</i>: vgl §+2sam-22-31.
+  <i>geläuterte Rede Gottes</i>: vgl §+2sam-22-31, §ps-12-7, §ps-119-140
  }
 #}
 #spr-30-6 {
@@ -50645,6 +50655,9 @@
  {
   <i>meinen eigenen Weinberg</i> vgl §hl-8-12
  }
+ {
+  Vermutlich gehörte es zu den Aufgaben einer Hüterin der Weinberge, Füchse zu fangen: §hl-2-15
+ }
 #}
 #hl-1-7 {
  {
@@ -50727,6 +50740,16 @@
   TODO <i>röten</i>: Siehe <a class='kom' href='#I1mo-50-2'>1.&nbsp;Mo&nbsp;50,2</a>.
  }
 #}
+#hl-2-14 {
+ {
+  Im Hebräischen sind die beiden Worte, die hier mit <i>Gestalt</i> übersetzt werden, unterschiedlich.
+ }
+#}
+#hl-2-15 {
+ {
+  §+hl-1-6
+ }
+#}
 #hl-2-16 {
  {
   <i>Unter den Lilien weiden</i> vgl §Vhl-2-1.
@@ -50755,6 +50778,12 @@
 #hl-3-6 {
  {
   <i>Myrrhe</i> und → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch §hl-4-6, §mt-2-11
+ }
+ {
+  <i>Rauchsäulen</i> §joe-3-3
+ }
+ {
+  <i>Wer ist die…</i>: offenbar besteht die Möglichkeit, dass sich das Objekt der Frage auf Salomos Tragbett (§Vhl-3-7) bezieht (welches im Hebräischen feminin ist), also «was ist das, das da heraufkommt…».
  }
 #}
 #hl-3-7 {
@@ -51724,6 +51753,9 @@
  }
  {
   TODO: Anatot trachtete Jeremia nach dem Leben (<a class='kom' href='#Ijer-11-21'>Jer&nbsp;11,21</a>, <a class='kom' href='#Ijer-1-1'>Jer&nbsp;1,1</a>).
+ }
+ {
+  TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
  }
 #}
 #jes-10-33 {
@@ -52709,9 +52741,17 @@
   <br>TODO: Gottesaltar ist offenbar auch 'Ariel'.
  }
 #}
+#jes-29-4 {
+ {
+  TODO: Dieser Vers enthält Strongs 565, welches oft mit «Wort» übersetzt wird.
+ }
+#}
 #jes-29-6 {
  {
   <i>eine Flamme verzehrenden Feuers</i>: §jes-30-30, §jes-66-15
+ }
+ {
+  TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
  }
 #}
 #jes-29-9 {
@@ -54754,6 +54794,11 @@
   <a href='http://bibel.renenyffenegger.ch/hos_2.html#v4'>Hos&nbsp;2,4</a>.
  }
 #}
+#jer-3-9 {
+ {
+  TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
+ }
+#}
 #jer-3-15 {
  {
   <i>Hirten</i>: vgl §jer-10-21, §jer-23-4.
@@ -54813,6 +54858,11 @@
   <i>Seele</i>: Sch2K übersetzt mit «Kehle».
  }
 #}
+#jer-4-19 {
+ {
+  oder auch: <i>du hörst die Stimme der Posaune</i>, ebenso §Vjes-4-21, vgl §Vjer-4-29, §jer-6-17
+ }
+#}
 #jer-4-23 {
  {
   <i>wüst und leer</i>: <a class='kom' href='#I1mo-1-2'>1.&nbsp;Mo&nbsp;1,2</a>.
@@ -54820,7 +54870,10 @@
 #}
 #jer-4-29 {
  {
-   <b>Felsen</b> siehe <a class='kom' href='#Ihi-30-6'>Hi&nbsp;30,6</a>.
+  <b>Felsen</b> siehe <a class='kom' href='#Ihi-30-6'>Hi&nbsp;30,6</a>.
+ }
+ {
+  oder auch: <i>Vor der Stimme der Reiter…</i> vgl §Vjer-4-19
  }
 #}
 #jer-4-30 {
@@ -54883,6 +54936,11 @@
   <i>Friede, Friede! Und das ist doch kein Friede</i> §jer-8-11
   <br>
    vgl §+jes-57-19.
+ }
+#}
+#jer-6-17 {
+ {
+  oder auch: <i>Merkt auf den Schall der Posaune</i> vgl §jer-4-19
  }
 #}
 #jer-6-20 {
@@ -55043,6 +55101,9 @@
 #}
 #jer-8-16 {
  {
+  oder auch: <i>von der Stimme des Wieherns…</i>
+ }
+ {
   TODO: <i>erzittert das ganze Land</i> oder «erbebt die Erde»? vgl §jes-13-13, §jer-10-10, §jer-49-20, §jer-50-46, §jer-51-29
  }
 #}
@@ -55168,6 +55229,9 @@
 #}
 #jer-10-13 {
  {
+  oder auch: <i>bei der Stimme des Donners</i> vgl §offb-10-3-4
+ }
+ {
   TODO: Dieser Verses sollte wohl in <a href='http://bibel.renenyffenegger.ch/jer_51.html#v16'>Jer&nbsp;51,16</a>
   gleich übersetzt werden. In Elberfelder wird er an beiden Orten mit
          «Wenn er beim Schalle des Donners Wasserrauschen am Himmel bewirkt und Dünste aufsteigen läßt vom Ende der Erde, Blitze zum Regen macht und den Wind herausführt aus seinen Vorratskammern» in
@@ -55208,6 +55272,9 @@
  {
   <i>die Herde hat sich zerstreut</i> §+jer-23-2, vgl §jer-25-34, §hes-34-12
  }
+ {
+  oder auch: <i>Die Stimme eines Gerüchtes</i>
+ }
 #}
 #jer-10-23 {
  {
@@ -55241,6 +55308,11 @@
 #jer-11-14 {
  {
   Keine Fürbitte für dieses Volk: <a class='kom' href='#Ijer-7-16'>Jer&nbsp;7,16</a>.
+ }
+#}
+#jer-11-16 {
+ {
+  oder auch: <i>Bei der Stimme eines großen Getümmels</i>
  }
 #}
 #jer-11-19 {
@@ -55898,6 +55970,11 @@
  }
  {
   §+jer-10-22
+ }
+#}
+#jer-25-36 {
+ {
+  TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
  }
 #}
 @}
@@ -56828,6 +56905,9 @@
  {
   Nach Ägypten ziehen: <a class='kom' href='#Ijer-41-17'>Jer&nbsp;41,17</a>.
  }
+ {
+  oder auch: <i>Stimme der Posaune</i>
+ }
 #}
 @}
 @Jeremia 43 {
@@ -56978,6 +57058,9 @@
 #}
 #jer-46-22 {
  {
+  oder auch: <i>Seine Stimme ist wie…</i>
+ }
+ {
   TODO <i>Holzhauer</i>: <a class='kom' href='#I5mo-19-5'>5.&nbsp;Mo&nbsp;19,5</a>.
  }
 #}
@@ -57001,6 +57084,11 @@
   <i>Wasser</i>: <a class='kom' href='#Ijer-46-8'>Jer&nbsp;46,8</a>.
  }
 #}
+#jer-47-3 {
+ {
+  oder auch: <i>vor der Stimme des Stampfens…</i>
+ }
+#}
 #jer-47-4 {
  {
   <i>Philister</i> und <i>Kaphtor</i>: <a class='kom' href='#I1mo-10-14'>1.&nbsp;Mo&nbsp;10,14</a>.
@@ -57017,6 +57105,11 @@
 #jer-48-1 {
  {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/jes_15.html#v1'>Jes 15,1 ff</a>.
+ }
+#}
+#jer-48-3 {
+ {
+  TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
  }
 #}
 #jer-48-5 {
@@ -57144,6 +57237,11 @@
   <i>dennoch trinken</i>: <a class='kom' href='#Ijer-25-28'>Jer&nbsp;25,28</a>.
  }
 #}
+#jer-49-16 {
+ {
+  <i>Der Übermut deines Herzens haben dich verführt, der du in Felsenklüften wohnst</i> §ob-1-3
+ }
+#}
 #jer-49-17 {
  {
   <i>Wegen Plagen zischen</i> vgl <a href='http://bibel.renenyffenegger.ch/jer_50.html#v13'>Jer&nbsp;50,13</a>.
@@ -57158,6 +57256,11 @@
 #jer-49-19 {
  {
   <i>Löwe vom Dickicht</i>, <i>auserwählt ist, über sie setzen</i> auch in <a href='http://bibel.renenyffenegger.ch/jer_50.html#v44'>Jer&nbsp;50,44</a>.
+ }
+#}
+#jer-49-21 {
+ {
+  TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
  }
 #}
 #jer-49-22 {
@@ -57292,6 +57395,11 @@
   <a class='kom' href='#I2koe-15-29'>2.&nbsp;Kö&nbsp;15,29</a>.
  }
 #}
+#jer-50-22 {
+ {
+  oder auch: <i>Stimme des Kriegs</i>
+ }
+#}
 #jer-50-25 {
  {
   TODO: Ist Waffenkammer eigentlich → biblisches/Eigene-Uebersetzung/Konkordanz/Schatz[Schatzkammer]?
@@ -57336,6 +57444,11 @@
 #jer-50-44 {
  {
   <a class='kom' href='#Ijer-49-19'>Jer&nbsp;49,19</a>.
+ }
+#}
+#jer-50-46 {
+ {
+  TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
  }
 #}
 @}
@@ -57407,6 +57520,9 @@
  {
   TODO: vgl <a href='http://bibel.renenyffenegger.ch/jer_10.html#v11'>Jer&nbsp;10,11</a> und
   <a class='kom' href='#Ijer-10-13'>Jer&nbsp;10,13</a>.
+ }
+ {
+  TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
  }
 #}
 #jer-51-17 {
@@ -57486,6 +57602,11 @@
 #jer-51-48 {
  {
   <i>Jubel über → biblisches/Orte/Babel[Babels] Zerstörung</i>: §offb-18-20
+ }
+#}
+#jer-51-54 {
+ {
+  TODO: Dieser und der nächste Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
  }
 #}
 #jer-51-59 {
@@ -57614,6 +57735,11 @@
 #}
 @}
 @Klagelieder 2 {
+#kla-2-7 {
+ {
+  TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
+ }
+#}
 #kla-2-8 {
  {
   TODO: <i>Messschnur</i>: <a href='http://bibel.renenyffenegger.ch/2koe_21.html#v13'>2.&nbsp;Kö&nbsp;21,13</a>.
@@ -57860,6 +57986,11 @@
   <i>ich habe dein Angesicht hart gemacht gegenüber ihrem Angesicht</i> vgl §5mo-28-50
  }
 #}
+#hes-3-12 {
+ {
+  TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
+ }
+#}
 #hes-3-15 {
  {
   <i>Tel-Abib</i> = 'Hügel der Ähren' (<a class='kom' href='#I2mo-9-31'>2.&nbsp;Mo&nbsp;9,31</a>).
@@ -58101,6 +58232,9 @@
 #hes-10-5 {
  {
   Vorhof: <a class='kom' href='#I1koe-6-36'>1.&nbsp;Kö&nbsp;6,36</a>.
+ }
+ {
+  TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
  }
 #}
 #hes-10-6 {
@@ -61610,6 +61744,11 @@
   Vgl mit der Bitte (oder Gebet) von Mose in <a class='kom' href='#I4mo-11-29'>4.&nbsp;Mo&nbsp;11,29</a>.
  }
 #}
+#joe-3-3 {
+ {
+  <i>Rauchsäulen</i> §hl-3-6
+ }
+#}
 #joe-3-4 {
  {
   Hier: Zeichen an Sonne und Mond, ehe der <i>grosse und schreckliche Tag des HERRN</i> kommt. Es wird auch der Prophet Elia gesendet, ehe dieser Tag kommt
@@ -62092,6 +62231,9 @@
  }
 #}
 #ob-1-3 {
+ {
+  <i>Der Übermut deines Herzens haben dich verführt, der du in Felsenklüften wohnst</i> §jer-43-16
+ }
  {
   TODO: <a class='kom' href='#I2chr-25-12'>2.&nbsp;Chr&nbsp;25,12</a>.
  }
@@ -107151,6 +107293,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Brüllender Löwe</i>: <a href='http://bibel.renenyffenegger.ch/hos_11.html#v10'>Hos&nbsp;11,10</a>
   <a href='http://bibel.renenyffenegger.ch/am_3.html#v8'>Am&nbsp;3,8</a>
+ }
+ {
+  <i>Donner, die ihre Stimme reden</i> vgl §jer-10-13
  }
 #}
 #offb-10-4 {
