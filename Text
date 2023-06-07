@@ -26165,8 +26165,8 @@
 #}
 #ri-5-5 {
  {
-  <i>Erbebende Berge</i>: vgl §ps-97-5, §hi-9-5, §nah-1-5
-  <br>(Sch2K übersetzt mit: <i>Die Berge zerfolossen vor dem HERRN</i>, KJV mit <i>The mountains melted from before the LORD</i>).
+  <i>Zerfliessende Berge</i>: vgl §ps-97-5, §hi-9-5, §nah-1-5
+  <br>Elberfelder übersetzt mit: <i>Die Berge erbebten vor dem HERRN</i>, KJV mit <i>The mountains melted from before the LORD</i>.
  }
 #}
 #ri-5-6 {
@@ -48989,6 +48989,16 @@
   <i>hinab zum Tod</i> vgl §+spr-2-18
  }
 #}
+#spr-5-15 {
+ {
+  Vgl §hl-4-15
+ }
+#}
+#spr-5-18 {
+ {
+  <i>Quelle</i> vgl §hl-4-12-15
+ }
+#}
 @}
 @Sprüche 6 {
 #spr-6-1 {
@@ -49028,6 +49038,9 @@
  }
 #}
 #spr-6-19 {
+ {
+  <i>Lügen aussprechen</i>: §Vspr-14-5, §spr-19-5
+ }
  {
   <i>falscher Zeuge</i> in den Sprüchen: <a href='http://bibel.renenyffenegger.ch/spr_12.html#v17'>Spr&nbsp;12,17</a>,
   <a href='http://bibel.renenyffenegger.ch/spr_14.html#v5'>Spr&nbsp;14,5</a>,
@@ -49391,6 +49404,9 @@
 #}
 #spr-14-5 {
  {
+  <i>Lügen aussprechen</i>: §Vspr-14-25, §spr-6-19, §spr-19-5
+ }
+ {
   <i>Falscher Zeuge</i>: <a class='kom' href='#Ispr-6-19'>Spr&nbsp;6,19</a>.
  }
 #}
@@ -49423,7 +49439,7 @@
 #}
 #spr-14-25 {
  {
-   TODO: <a class='kom' href='#Ijoh-5-33'>Joh&nbsp;5,33</a>.
+  TODO: <a class='kom' href='#Ijoh-5-33'>Joh&nbsp;5,33</a>.
  }
 #}
 #spr-14-27 {
@@ -49622,6 +49638,11 @@
   <i>Krone</i>: <a class='kom' href='#Ispr-4-9'>Spr&nbsp;4,9</a>
  }
 #}
+#spr-17-7 {
+ {
+  <span class='hebr'>נָאוָ֣ה־לֹא</span> (schickt sich nicht): vgl §spr-19-10, §spr-26-1
+ }
+#}
 #spr-17-8 {
  {
   <i>Bestechungsgeschenk</i> (<span class='hebr'>שֹׁחַד</span>, Strongs 7810), eigentlich 'Geschenk' (vgl <a href='http://bibel.renenyffenegger.ch/spr_6.html#v35'>Spr&nbsp;6,35</a>).
@@ -49708,7 +49729,15 @@
 @Sprüche 19 {
 #spr-19-5 {
  {
+  <i>Lügen aussprechen</i>: §Vspr-14-5, §spr-6-19
+ }
+ {
   <i>Falscher Zeuge</i>: <a class='kom' href='#Ispr-6-19'>Spr&nbsp;6,19</a>.
+ }
+#}
+#spr-19-10 {
+ {
+  <span class='hebr'>נָאוָ֣ה־לֹא</span> (nicht geziemt sich): vgl §spr-17-7, §spr-26-1
  }
 #}
 #spr-19-12 {
@@ -50099,6 +50128,9 @@
 #spr-26-1 {
  {
   <i>Sommer</i> und <i>Ernte</i>: Vgl §+spr-6-8.
+ }
+ {
+  <span class='hebr'>נָאוָ֣ה־לֹא</span> (nicht geziemend): vgl §spr-17-7, §spr-19-1
  }
 #}
 #spr-26-3 {
@@ -50648,6 +50680,9 @@
   <i>Zelte Kedars</i> §ps-120-5
  }
  {
+  <i>anmutig</i> (<span class='hebr'>נָאוֶ֑ה</span>, Strongs 5000): dasselbe Wort wird in §hl-4-3 mit «zierlich» übersetzt. Vgl §hl-2-14
+ }
+ {
   <i>Zeltbehänge</i> in Sch2K mit «Vorhänge» übersetzt. Vgl §+4mo-4-25.
  }
 #}
@@ -50744,6 +50779,9 @@
  {
   Im Hebräischen sind die beiden Worte, die hier mit <i>Gestalt</i> übersetzt werden, unterschiedlich.
  }
+ {
+  <i>anmutig</i> (<span class='hebr'>נָאוֶ֑ה</span>, Strongs 5000): dasselbe Wort wird in §hl-4-3 mit «zierlich» übersetzt. Vgl §hl-1-5
+ }
 #}
 #hl-2-15 {
  {
@@ -50783,7 +50821,8 @@
   <i>Rauchsäulen</i> §joe-3-3
  }
  {
-  <i>Wer ist die…</i>: offenbar besteht die Möglichkeit, dass sich das Objekt der Frage auf Salomos Tragbett (§Vhl-3-7) bezieht (welches im Hebräischen feminin ist), also «was ist das, das da heraufkommt…».
+  <i>Wer ist die…</i>: offenbar besteht die Möglichkeit, dass sich das Objekt der Frage auf Salomos Tragbett (§Vhl-3-7) bezieht (welches im Hebräischen feminin ist), also «was ist das, das da heraufkommt…» (was aber auch bedeuten würde, dass <span class='hebr'>מִ֣י</span> (Strongs 4310) mit «was» statt «wer» übersetzt
+  werden müsste.)
  }
 #}
 #hl-3-7 {
@@ -50811,6 +50850,9 @@
   <i>Wie ein Schnittstück einer Granate ist deine Schläfe hinter deinem Schleier</i>: §hl-6-7
  }
  {
+  <i>zierlich</i> (<span class='hebr'>נָאוֶ֑ה</span>, Strongs 5000): dasselbe Wort wird in §hl-1-5 und §hl-2-14 mit «anmutig» übersetzt.
+ }
+ {
   TODO: Die Lippen sind wie eine <i>Karmesinschnur</i>. Bedeutet dies, dass die Freundin den Mund nicht öffnet?
     <br><i>Karmesinschnur</i> (Strongs 8144 und 2339) kommt auch in <a href='http://bibel.renenyffenegger.ch/jos_2.html#v18'>Jos&nbsp;2,18</a> vor.
  }
@@ -50821,6 +50863,9 @@
 #hl-4-4 {
  {
   Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>.
+ }
+ {
+  <i>Dein Hals ist…</i> vgl §hl-7-5
  }
 #}
 #hl-4-5 {
@@ -50851,6 +50896,9 @@
   TODO: Müsste <i>Schenir</i> nicht besster mit 'Senir' wiedergegeben werden?
   <br>S.a. <a class='kom' href='#I1chr-5-23'>1.&nbsp;Chr&nbsp;5,23</a>.
  }
+ {
+  TODO: Gemäss <a href='http://www.biblefragrances.com/studies/song3.html'>biblefragrances.com</a> spricht hier die Beworbene mit sich selbst.
+ }
 #}
 #hl-4-9 {
  {
@@ -50858,6 +50906,9 @@
  }
  {
   <i>Schwester</i> vgl §hl-8-1
+ }
+ {
+  <i>Meine Schwester, meine Braut</i>: Im Grundtext fehlt das Possesivpronomen bei Braut, wörtlich also möglicherwiese: «Meine Schwester-Braut». Ebenso im nächsten Vers und in §hl-5-1
  }
 #}
 #hl-4-10 {
@@ -50873,6 +50924,11 @@
   Beachte die unübliche Reihenfolge <i>Honig und Milch</i>.
  }
 #}
+#hl-4-12 {
+ {
+  <i>Quelle</i> vgl §spr-5-18
+ }
+#}
 #hl-4-13 {
  {
   <i>Lustgarten</i> ist im Grundtext eigentlich <span class='hebr'>פַּרְדֵּס</span> (→ biblisches/Grundtext/Wörter/H6508-G3857-Paradies[Paradies]).
@@ -50881,6 +50937,11 @@
 #hl-4-14 {
  {
   <i>Zimt… Aloe und Myrrhe</i>: vgl §+spr-7-17.
+ }
+#}
+#hl-4-15 {
+ {
+  Vgl §spr-5-15
  }
 #}
 #hl-4-16 {
@@ -50896,6 +50957,9 @@
  {
   Balsam ist <span class='hebr'>בָּשָׂם</span> (Strongs 1313, 1x), welches wohl (?) dasselbe ist wie <i>Spezerei</i>, siehe <a class='kom' href='#I2mo-25-6'>2.&nbsp;Mo&nbsp;25,6</a>.
   TODO: Vermutlich wäre es auch besser übersetzt worden mit Spezerei. Vgl <a class='kom' href='#I1mo-37-25'>1.&nbsp;Mo&nbsp;37,25</a>.
+ }
+ {
+  <i>Meine Schwester, meine Braut</i>: §+hl-4-9-10
  }
 #}
 #hl-5-6 {
@@ -50976,6 +51040,11 @@
 #hl-7-4 {
  {
     <i>Gazelle</i>: <a class='kom' href='#Ihl-4-5'>Hl&nbsp;4,5</a>.
+ }
+#}
+#hl-7-5 {
+ {
+  <i>Dein Hals ist…</i> vgl §hl-4-4
  }
 #}
 #hl-7-14 {
