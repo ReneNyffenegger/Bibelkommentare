@@ -14793,7 +14793,9 @@
   <i>Haupt entblößen</i> §+3mo-10-6, §3mo-21-10, §4mo-5-18
  }
  {
-  
+  <i>Bart verhüllen</i> vgl §hes-24-17, §mi-3-7
+ }
+ {
   TODO: Strongs 6544: §+2mo-5-4
  }
 #}
@@ -30289,6 +30291,9 @@
 #2sam-17-8 {
  {
   <i>erbittertes Gemüt</i> vgl §1sam-22-2
+ }
+ {
+  <i>eine der Jungen beraubte Bärin</i> §spr-17-12, §hos-13-8
  }
 #}
 #2sam-17-14 {
@@ -49649,6 +49654,11 @@
   Ebenso Vers 23.
  }
 #}
+#spr-17-12 {
+ {
+  <i>Eine Bärin, die der Jungen beraubt ist</i> §2sam-17-8, §hos-13-8
+ }
+#}
 #spr-17-15 {
  {
   Siehe <a class='kom' href='#I2mo-23-7'>2.&nbsp;Mo&nbsp;23,7</a>,
@@ -50698,6 +50708,9 @@
  {
   <i>wo weidest du</i> vgl §hl-5-6, §joh-1-38
  }
+ {
+  <i>verschleiert</i>: §hl-4-1, §hl-5-7, §hl-6-7
+ }
 #}
 #hl-1-8 {
  {
@@ -50823,6 +50836,8 @@
  {
   <i>Wer ist die…</i>: offenbar besteht die Möglichkeit, dass sich das Objekt der Frage auf Salomos Tragbett (§Vhl-3-7) bezieht (welches im Hebräischen feminin ist), also «was ist das, das da heraufkommt…» (was aber auch bedeuten würde, dass <span class='hebr'>מִ֣י</span> (Strongs 4310) mit «was» statt «wer» übersetzt
   werden müsste.)
+  <br>
+   Vgl §hl-6-10
  }
 #}
 #hl-3-7 {
@@ -50839,10 +50854,21 @@
 @Hohelied 4 {
 #hl-4-1 {
  {
+  <i>Schleier</i>: §hl-1-7, §hl-5-7, §hl-6-7.
+ }
+ {
   <i>Deine Augen sind Tauben</i>: §+hl-1-15
  }
  {
+  <i>Dein Haar…</i> §hl-6-5
+ }
+ {
   TODO: Vgl die Beschreibung der Freundin (Augen, Haar, Zähne, Lippen, Mund, Haupt) mit jender des Geliebten (ca ab <a href='http://bibel.renenyffenegger.ch/hl_5.html#v1'>Hl&nbsp;5,1</a>).
+ }
+#}
+#hl-4-2 {
+ {
+  <i>Deine Zähne…</i> §hl-6-6
  }
 #}
 #hl-4-3 {
@@ -50971,10 +50997,16 @@
  {
   <i>Es fanden mich die Wächter</i> §hl-3-3
  }
+ {
+  <i>Schleier</i>: <span class='hebr'>רְדִידִ</span> (Strongs 7289), ein anderes Wort wie jenes, welches in §hl-4-1, §hl-4-3 und §hl-6-7 ebenfalls mit Schleier übersetzt wird (<span class='hebr'>צַמָּתֵֽ</span>, Strongs 6777). Vgl §hl-1-7
+ }
 #}
 #hl-5-8 {
  {
   <i>Ich beschwöre euch, Töchter Jerusalems</i>: §+hl-2-7
+ }
+ {
+  Wie's scheint, redet sie (Sulamith?) nicht vom König, sondern von einem unbekannten Mann, andernfalls hätten die Töchter Jerusalems ihn gekannt. Sie aber beschreibt nun diesen Mann, siehe vor allem §Vhl-5-16.
  }
 #}
 #hl-5-9 {
@@ -51024,15 +51056,41 @@
  {
   <i>Tirza</i> wird eine kurze Zeit (nach Salomo) die Hauptstadt des Nordreiches: §1koe-16-15, §1koe-16-23
  }
+ {
+  <i>furchtbar wie Kriegsscharen</i> §Vhl-6-10
+ }
+#}
+#hl-6-5 {
+ {
+  <i>Dein Haar…</i> §hl-4-1
+ }
+#}
+#hl-6-6 {
+ {
+  <i>Deine Zähne…</i> §hl-4-2
+ }
 #}
 #hl-6-7 {
  {
   §hl-4-3
  }
+ {
+  <i>Schleier</i>: §hl-1-7, §hl-4-1, §hl-5-7, §hl-6-7
+ }
 #}
 #hl-6-8 {
  {
   Vgl die <i>60 Königinnen</i> mit den 60 Helden in §hl-3-7
+ }
+#}
+#hl-6-9 {
+ {
+  TODO: Endet mit diesem Vers ein Abschnitt?
+ }
+#}
+#hl-6-10 {
+ {
+  <i>Wer ist sie</i>: vgl §hl-3-6
  }
 #}
 @}
@@ -58784,6 +58842,11 @@
    → biblisches/Bücher/prophetisch/Hesekiel#ich-der-herr-habe-geredet-hes
  }
 #}
+#hes-24-17 {
+ {
+  <i>Bart verhüllen</i> vgl §+3mo-13-45
+ }
+#}
 @}
 @Hesekiel 25 {
 #hes-25-3 {
@@ -61669,6 +61732,11 @@
   <i>Löwe, Leopard, Bärin</i>: §+dan-7-4.
  }
 #}
+#hos-13-8 {
+ {
+  <i>wie eine Bärin, welche der Jungen beraubt ist</i> §2sam-17-8, §spr-17-12 
+ }
+#}
 #hos-13-14 {
  {
   <i>Wo sind, o Tod …</i>: <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v55'>1.&nbsp;Kor&nbsp;15,55</a>.
@@ -62519,6 +62587,11 @@
  {
   <i>beißen</i>: <span class='hebr'>נָשַׁךְ</span> (Strongs 5391) ist dasselbe Wort, wie für den Biß einer Schlange verwendet wird (z. B. §1mo-49-17).
   Vgl §hab-2-7
+ }
+#}
+#mi-3-7 {
+ {
+  <i>Bart verhüllen</i> §+3mo-13-45
  }
 #}
 #mi-3-11 {
