@@ -7400,6 +7400,9 @@
   33+16 (Serach mitzählen: es werden Seelen gezählt)+14+7+1 (Dina auch mitzählen) - 3 (Jakob und seine Söhne bereits in Ägypten) -2 (Er und Onan bereits gestorben)= 66.
   Offensichtlich werden Er und Onan, die gestorben sind, hinzugezählt. Vgl aber auch <a class='kom' href='#I1mo-46-7'>1.&nbsp;Mo&nbsp;46,7</a>.
  }
+ {
+  TODO: vgl §offb-19-16
+ }
 #}
 #1mo-46-27 {
  {
@@ -21574,9 +21577,7 @@
 #}
 #5mo-10-17 {
  {
-  <i>Herr der Herren</i>: <a class='kom' href='#I1tim-6-15'>1.&nbsp;Tim&nbsp;6,15</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_17.html#v14'>Offb&nbsp;17,14</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_19.html#v16'>Offb&nbsp;19,16</a>.
+  <i>Herr der Herren</i>: §+1tim-6-15, §offb-17-14, §offb-19-16.
  }
  {
   <i>… der keine Person ansieht und kein Geschenk annimmt</i> vgl §2chr-19-7
@@ -85048,6 +85049,8 @@
 #apg-18-2 {
  {
   Obwohl Claudius befohlen hatte, dass alle Juden Rom verlassen sollten, findet man noch Juden in <a href='http://bibel.renenyffenegger.ch/apg_28.html#v17'>Apg&nbsp;28,17</a>).
+ <br>
+  Dieses Edit wurde 19 n. Chr. erlassen.
  }
 #}
 #apg-18-3 {
@@ -85255,6 +85258,9 @@
  }
  {
   <i>Jünger finden</i>: <a class='kom' href='#Iapg-21-4'>Apg&nbsp;21,4</a>, <a href='http://bibel.renenyffenegger.ch/apg_28.html#v14'>Apg&nbsp;28,14</a>
+ }
+ {
+  <i>Apollos in Korinth</i>: §1kor-1-12
  }
 #}
 #apg-19-3 {
@@ -89727,11 +89733,12 @@
 #}
 #1kor-1-12 {
  {
-  'ich gehöre zu...' ist ein Zeichen des Fleischlich-Seins (<a href='http://bibel.renenyffenegger.ch/1kor_3.html#v4'>1.&nbsp;Kor&nbsp;3,4</a>).
+  <i>ich gehöre zu…</i> ist ein Zeichen des Fleischlich-Seins, §1kor-3-4.
+ <br>
+  Apollo war ein mächtig in den Schriften (§apg-18-24) und hielt sich in Korinth auf (§apg-19-1).
  }
  {
-  Wollte Apollo nicht nach Korinth gehen, weil es Leute gab, die sagten 'sie gehören zu Apollo'?
-  (<a href='http://bibel.renenyffenegger.ch/apg_18.html#v24'>Apg&nbsp;18,24</a>).
+  TODO: Wollte Apollo nicht nach Korinth gehen, weil es Leute gab, die sagten 'sie gehören zu Apollo'?  (§apg-18-24).
  }
 #}
 #1kor-1-13 {
@@ -89949,6 +89956,9 @@
  }
 #}
 #1kor-3-4 {
+ {
+  Vgl §1kor-1-12
+ }
  {
   <span class='gt'>MT/TR: fleischlich, NA: menschlich</span>
  }
@@ -99001,14 +99011,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-6-15 {
  {
-   Siehe §+1tim-1-17.
+  Siehe §+1tim-1-17.
  }
  {
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/König/der-Könige und Herr der Herren</i>: §+offb-19-16, §ps-136-3
  }
  {
-  TODO: Statt <i>Herr der Herrschenden</i> wäre wohl wörtlicher übersetzt 'Herr der Herren'.
-  <br><a class='kom' href='#I5mo-10-17'>5.&nbsp;Mo&nbsp;10,17</a>.
+  <i>Herr der Herren</i>: §+5mo-10-17.
+ <br>
+  Sch2K übersetzt mit «Herr der Herrschenden».
  }
  {
   TODO: Worauf bezieht sich 'welche'. Warum ist 'welche' feminin, aber 'zu seiner Zeit' maskulin?
@@ -107390,11 +107401,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-9-11 {
  {
   <i>Abaddon</i> (<span class='gr'>Ἀβαδδών</span>, Strongs 3): siehe <a class='kom' href='#Ihi-26-6'>Hi&nbsp;26,6</a>.
-  <br><i>Apollyon</i> (<span class='gr'>Ἀπολλύων</span>, Strongs 623) ist offenbar das aktive Partizip von <span class='gr'>ἀπόλλυμι</span> (Strongs 622).,
-     vgl <a class='kom' href='#Iapg-18-24'>Apg&nbsp;18,24</a>.
+  <br><i>Apollyon</i> (<span class='gr'>Ἀπολλύων</span>, Strongs 623) ist offenbar das aktive Partizip von <span class='gr'>ἀπόλλυμι</span> (Strongs 622).
+  <br>
+   vgl §+apg-18-24.
  }
  {
-  Hier wird ein Wort in hebräisch und griechisch wiedergeben, in <a href='http://bibel.renenyffenegger.ch/offb_16.html#v16'>Offb&nbsp;16,16</a> nur auf hebräisch (Harmageddon).
+  Hier wird ein Wort in hebräisch und griechisch wiedergeben, in §offb-16-16 nur auf hebräisch (Harmageddon).
+ }
+ {
+  TODO: Apollo ist der berühmteste Sohn Zeus', der griechischste Gott überhaupt und einer der wenigen Götter mit dem gleichen Namen in Latein und Griechisch.
+  <br>
+  Apollo wird mit den Attributen Helfer, Sonnengott, Orakler (Oaacle giver) und wohltätiger Offenbarer verbunden.
  }
 #}
 #offb-9-12 {
@@ -108268,9 +108285,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl 144000 an Stirn versiegelte (<a class='kom' href='#Ioffb-7-3'>Offb&nbsp;7,3</a>). Vgl auch
   <a href='http://bibel.renenyffenegger.ch/offb_22.html#v4'>Offb&nbsp;22,4</a>: sie (wer?) werden sein Angesicht sehen, und
   sein Name wird auf ihren Stirnen sein.
-  <br>Beachte: die <i>grosse Hure</i> hat auch einen Namen auf ihrer Stirn <a href='http://bibel.renenyffenegger.ch/offb_17.html#v5'>Offb&nbsp;17,5</a>.
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/offb_22.html#v4'>Offb&nbsp;22,4</a>.
   <br>Siehe auch <a class='kom' href='#Ijes-27-13'>Jes&nbsp;27,13</a>.
+ }
+ {
+  Beachte: die <i>grosse Hure</i> hat auch einen Namen auf ihrer Stirn §offb-17-5. Vgl mit dem Namen auf der Hüfte des Herrn in §offb-19-16
  }
  {
   <i>Name des Vaters</i>: <a class='kom' href='#Ioffb-13-17'>Offb&nbsp;13,17</a>.
@@ -108849,7 +108868,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Mutter der Huren</i>: <a class='kom' href='#Ihes-16-44'>Hes&nbsp;16,44</a>.
  }
  {
-  <i>Name auf der Stirn</i>: <a class='kom' href='#Ioffb-14-1'>Offb&nbsp;14,1</a>.
+  <i>Name auf der Stirn</i>: §+offb-14-1. Vgl mit dem Namen auf der Hüfte des Herrn in §offb-19-16.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index,
@@ -108945,7 +108964,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-17-14 {
  {
-  <i>Herr der Herren</i>: <a class='kom' href='#I5mo-10-17'>5.&nbsp;Mo&nbsp;10,17</a>.
+  <i>Herr der Herren</i>: §+5mo-10-17.
  }
 #}
 #offb-17-15 {
@@ -109332,6 +109351,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/König/der-Könige und Herr der Herren</i>: §1tim-6-15.
+ }
+ {
+  Vgl den auf der Hüfte geschriebenen Namen mit §offb-17-5 und §offb-14-1
+ }
+ {
+  Die Hüfte und/oder Lende ist der Ort, wo das Schwert gegürtet wird: §2mo-32-27, §ri-3-16, §ps-45-4, §hl-3-8.
+ <br>
+  Vgl mit Jakobs Lende, aus der die ihm angehörenden Seelen hervorgegangen sind: §1mo-46-26.
  }
 #}
 #offb-19-17 {
