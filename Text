@@ -8191,7 +8191,9 @@
  {
   <i>Ziehe deine Schuhe aus</i>: Vgl mit §jos-5-15 (Dort: «Deinen Schuh»).
   <br>
-   Beachte auch, dass die Israeliten mit Schuhen an den Füssen das → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah assen: §2mo-12-11
+   Die <i>heiligen Kleider</i> für Aarons Priesterdienst enthielten keine Schuhe, §2mo-28-2-ff
+  <br>
+  Beachte auch, dass die Israeliten mit Schuhen an den Füssen das → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah assen: §2mo-12-11
  }
 #}
 #2mo-3-6 {
@@ -11845,11 +11847,14 @@
   welches in §V2mo-28-20 («eingefasst») und §V2mo-28-39 vorkommt.
  }
  {
-   Beachte, in §V2mo-28-39 wird präzisiert, dass der Leibrock aus Byssus gemacht werden soll, in
-   §3mo-16-4, dass er in Weberarbeit gemacht werden soll.
+  Beachte, in §V2mo-28-39 wird präzisiert, dass der Leibrock aus Byssus gemacht werden soll, in
+  §3mo-16-4, dass er in Weberarbeit gemacht werden soll.
  }
  {
-   Weitere Vorkommen dieses Leibrockes: §2mo-39-27, §3mo-8-7-ff, §3mo-16-4.
+  Weitere Vorkommen dieses Leibrockes: §2mo-39-27, §3mo-8-7-ff, §3mo-16-4.
+ }
+ {
+  Die <i>heiligen Kleider</i> für den Priesterdienst enthielten keine Schuhe, vgl §+2mo-3-5, §jos-5-15
  }
 #}
 #2mo-28-5 {
@@ -28652,6 +28657,11 @@
   mit <a href='http://bibel.renenyffenegger.ch/1sam_14.html#v32'>1.&nbsp;Sam&nbsp;14,32</a> zu tun?
  }
 #}
+#1sam-17-4 {
+ {
+  <i>Goliath, aus Gat</i> vgl §2sam-21-19, §1chr-20-5
+ }
+#}
 #1sam-17-12 {
  {
   <i>Ephratiter</i>: siehe <a class='kom' href='#Iri-12-5'>Ri&nbsp;12,5</a>.
@@ -28725,6 +28735,11 @@
 #1sam-17-52 {
  {
   <i>Israel und Juda</i>: <a class='kom' href='#I1sam-11-8'>1.&nbsp;Sam&nbsp;11,8</a>.
+ }
+#}
+#1sam-17-54 {
+ {
+  Möglicherweise wurde → biblisches/Orte/Golgatha nach dem Haupt (Schädel) Goliaths (aus Gath, §V1sam-17-4) = Gol-Gatha benannt.
  }
 #}
 #1sam-17-55 {
@@ -30498,6 +30513,9 @@
  {
   Elchanan, der Sohn Jaare-Orgims, der → biblisches/Orte/Bethlehem[Bethlehemiter], vgl §2sam-23-24
  }
+ {
+  Vgl §1chr-20-5, §1sam-17-4
+ }
 #}
 @}
 @2. Samuel 22 {
@@ -31824,6 +31842,9 @@
 #1koe-11-7 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#kemosch, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#molech
+ }
+ {
+  Vgl §2koe-23-13
  }
 #}
 #1koe-11-13 {
@@ -34448,6 +34469,9 @@
   <i>Ölberg</i>: <a class='kom' href='#I2sam-15-30'>2.&nbsp;Sam&nbsp;15,30</a>.
  }
  {
+  Vgl §1koe-11-7
+ }
+ {
   TODO: Salomo: <a class='kom' href='#I1koe-3-3'>1.&nbsp;Kö&nbsp;3,3</a>.
  }
 #}
@@ -36963,6 +36987,11 @@
  }
  {
   TODO: <i>Geser</i>: <a class='kom' href='#Ijos-10-33'>Jos&nbsp;10,33</a>.
+ }
+#}
+#1chr-20-5 {
+ {
+  Vgl §sam-21-19, §1sam-17-4
  }
 #}
 #1chr-20-6 {
@@ -69446,7 +69475,7 @@
   <i>Schädelstätte</i>: §+2mo-16-16.
  }
  {
-  → biblisches/Orte/Golgatha
+  → biblisches/Orte/Golgatha: §mk-15-22, §joh-19-17, vgl §lk-23-33
  }
 #}
 #mt-27-34 {
@@ -72239,7 +72268,7 @@
 #}
 #mk-15-22 {
  {
-  → biblisches/Orte/Golgatha
+  → biblisches/Orte/Golgatha: §mt-27-33, §joh-19-17
  }
  {
   Da der Autor des → biblisches/Bücher/Evangelien/Markus[Markusevangliums] das Wort <i>Golgatha</i> übersetzt, kann vielleicht angenommen werden, dass das Evangelium
@@ -76831,6 +76860,9 @@
  {
   <i>an den Ort kamen</i> §lk-22-40
  }
+ {
+  <i>Schädelstätte</i> (<span class='gr'>κρανιον</span>): Das Lukasevangelium bezeichnet diesen Ort nicht auch mit «Golgatha», vgl §mt-27-33, §mk-15-22, §joh-19-17.
+ }
 #}
 #lk-23-34 {
  {
@@ -80594,7 +80626,7 @@
 #}
 #joh-19-17 {
  {
-  → biblisches/Orte/Golgatha
+  → biblisches/Orte/Golgatha: §mt-27-33, §mk-15-22
  }
  {
   TODO: <a class='kom' href='#Imt-27-32'>Mt&nbsp;27,32</a>.
