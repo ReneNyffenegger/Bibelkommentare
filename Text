@@ -89910,6 +89910,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
  }
 #}
+#1kor-1-31 {
+ {
+  Vgl §1kor-3-21
+ }
+#}
 @}
 @1. Korinther 2 {
 #1kor-2-1 {
@@ -90158,17 +90163,29 @@
 #}
 #1kor-3-21 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v3'>1.&nbsp;Kor&nbsp;11,3</a> und <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v28'>1.&nbsp;Kor&nbsp;15,28</a>.
+  <i>So rühme sich denn niemand der Menschen</i> vgl §1kor-1-29-31
+ }
+ {
+  <i>Alles ist Euer</i> und nicht: «ich bin des Paulus» §1kor-1-12, §1kor-3-4.
  }
 #}
 #1kor-3-23 {
  {
   <i>Ihr seid Christi</i> §gal-3-29
  }
+ {
+  Vgl §1kor-11-3 und §1kor-15-28.
+ }
+ {
+  <i>Alles ist euer</i>: dazu gehören wohl auch die <i>Geheimnisse Gottes</i>, für die Apostel(?) Verwalter sein sollen (nächster Vers §1kor-4-1).
+ }
 #}
 @}
 @1. Korinther 4 {
 #1kor-4-1 {
+ {
+  <i>Alles</i> ist den Gläubigen (vorangehende Verse §1kor-3-21 und §1kor-3-23): so soll man auch dafür Verwalter sein.
+ }
  {
   TODO:
   <ul>
@@ -90193,10 +90210,10 @@
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/1kor_3.html#v5'>1.&nbsp;Kor&nbsp;3,5</a>.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis
  }
  {
-  <i>Haushalter</i>: siehe <a class='kom' href='#Iroem-16-23'>Röm&nbsp;16,23</a>.
+  <i>Verwalter</i>: siehe <a class='kom' href='#Iroem-16-23'>Röm&nbsp;16,23</a>.
  }
  {
   <i>uns</i> bezieht sich offenbar auf Paulus und Apollos (<a href='http://bibel.renenyffenegger.ch/1kor_4.html#v6'>Vers 6</a>).
@@ -91142,7 +91159,7 @@
   <a href='http://bibel.renenyffenegger.ch/1petr_3.html#v1'>1.&nbsp;Petr&nbsp;3,1</a>
  }
  {
-   Vgl <a class='kom' href='#I1kor-3-21'>1.&nbsp;Kor&nbsp;3,21</a>.
+   Vgl §+1kor-3-23
  }
  {
   <a href='http://hermeneutics.stackexchange.com/questions/546/what-is-the-head-covering-referring-to-in-1-corinthians-114-6'>hermeneutics.stackexchange.com</a>.
@@ -91892,7 +91909,7 @@
   <br>Vgl auch §phil-3-21, §+1petr-3-22
  }
  {
-  Vgl <a class='kom' href='#I1kor-3-21'>1.&nbsp;Kor&nbsp;3,21</a>.
+  Vgl §+1kor-3-23
  }
 #}
 #1kor-15-29 {
