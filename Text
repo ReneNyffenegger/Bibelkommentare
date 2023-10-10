@@ -48993,6 +48993,11 @@
   Siehe <a class='kom' href='#Ispr-2-21'>Spr&nbsp;2,21</a>
  }
 #}
+#spr-3-34 {
+ {
+  <i>den Demütigen gibt er Gnade</i> vgl §1petr-5-5, §jak-4-6
+ }
+#}
 @}
 @Sprüche 4 {
 #spr-4-1 {
@@ -89211,12 +89216,10 @@
 #}
 #roem-15-9 {
  {
-  Zitat aus <a class='kom' href='#Ips-18-50'>Ps&nbsp;18,50</a>.
+  Zitat aus §+ps-18-50.
  }
  {
-  <i>lobsingen</i> <span class='gr'>ψάλλω</span> (Strongs 5567, 4x) auch in <a href='http://bibel.renenyffenegger.ch/1kor_14.html#v15'>1.&nbsp;Kor&nbsp;14,15</a>,
-  <a href='http://bibel.renenyffenegger.ch/eph_5.html#v19'>Eph&nbsp;5,19</a>,
-  <a href='http://bibel.renenyffenegger.ch/jak_5.html#v13'>Jak&nbsp;5,13</a>.
+  <i>lobsingen</i> <span class='gr'>ψάλλω</span> (Strongs 5567, 4x) auch in §1kor-14-15, §eph-5-19, §jak-5-13.
  }
 #}
 #roem-15-10 {
@@ -95151,6 +95154,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Vgl §ps-47-7
+ }
+ {
+  <i>In Psalmen zueinander reden</i> vgl § roem-15-9, §jak-5-13
  }
  {
   TODO: <i>spielen</i> bedeutet im Griechischen offenbar auch, dass eine Saite klingt. (Jan Hammer)
@@ -102993,10 +102999,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-3-18 {
  {
-  <i>Frucht der Gerechtigkeit</i> §phil-1-11, §hebr-12-11
+  <i>Frucht der Gerechtigkeit</i> §phil-1-11, §hebr-12-11.
  }
  {
-  <i>die Frieden stiften</i> §mt-5-9
+  <i>die Frieden stiften</i> §mt-5-9, vgl mit nächstem Vers («Woher kommen Kriege…») in §jak-4-1.
  }
 #}
 @}
@@ -103004,6 +103010,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #jak-4-1 {
  {
   <i>Glieder</i>: <a class='kom' href='#Iroem-6-19'>Röm&nbsp;6,19</a>. Vgl auch <a href='http://bibel.renenyffenegger.ch/jak_3.html#v5'>Jak 3,5-6</a>.
+ }
+ {
+  <i>Woher kommen Kriege…</i>: vgl mit vorangehendem Vers §jak-3-18 («die Friede stiften»).
  }
 #}
 #jak-4-2 {
@@ -103021,6 +103030,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Wo spricht die Schrift dies?
  }
 #}
+#jak-4-6 {
+ {
+  <i>Gott widersteht den Hochmütigen, den Demütigen aber gibt er Gnade</i> vgl §1petr-5-5, vgl §spr-3-34
+ }
+#}
 #jak-4-7 {
  {
   <i>Widersteht dem Teufel</i> vgl §eph-6-11 
@@ -103036,8 +103050,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-4-10 {
  {
-  TODO Vgl <i>Erhöhung und Erniederung</i> in <a class='kom' href='#Imt-23-12'>Mt&nbsp;23,12</a>,
-  <a href='http://bibel.renenyffenegger.ch/jak_1.html#v9'>Jak&nbsp;1,9</a>
+   <i>Erhöhung und Erniederung</i> in §+mt-23-12, §jak-1-9
  }
 #}
 #jak-4-11 {
@@ -103145,7 +103158,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-5-13 {
  {
-  <i>Psalmen singen</i>: §+roem-15-9.
+  <i>Psalmen singen</i>: §+roem-15-9, §eph-5-19
  }
  {
   <i>… Er bete.</i>, vgl §jak-1-5
@@ -104098,6 +104111,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1petr-5-5 {
+ {
+  <i>Gott widersteht den Hochmütigen, den Demütigen aber gibt er Gnade</i> vgl §jak-4-6, vgl §spr-3-34
+ }
  {
   <i>Ordnet euch unter</i>: siehe <a class='kom' href='#I1petr-2-13'>1.&nbsp;Petr&nbsp;2,13</a>,
   <a class='kom' href='#I1kor-16-16'>1.&nbsp;Kor&nbsp;16,16</a>.
