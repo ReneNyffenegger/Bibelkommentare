@@ -6301,6 +6301,11 @@
   §1chr-1-40
  }
 #}
+#1mo-36-25 {
+ {
+  §1chr-1-41
+ }
+#}
 #1mo-36-28 {
  {
   <i>Uz und Aran</i> vgl §1mo-22-21, §1mo-10-23
@@ -6392,10 +6397,18 @@
 #}
 #1mo-36-35 {
  {
+  §1chr-1-46
+ }
+ {
   TODO <i>Awith</i>: siehe <a class='kom' href='#I5mo-2-23'>5.&nbsp;Mo&nbsp;2,23</a>.
  }
  {
   TODO: Hadad (<span class='hebr'>הֲדַד</span>, Strongs 1908), es gibt auch einen Benhadad (<span class='hebr'>בֶּן־הֲדַד</span>, Strongs 1908).
+ }
+#}
+#1mo-36-36 {
+ {
+  §1chr-1-47
  }
 #}
 #1mo-36-37 {
@@ -35130,6 +35143,11 @@
   §1mo-36-23
  }
 #}
+#1chr-1-41 {
+ {
+  §1mo-36-25
+ }
+#}
 #1chr-1-42 {
  {
   <i>Jakaan</i>: Siehe <a class='kom' href='#I4mo-33-31'>4.&nbsp;Mo&nbsp;33,31</a>.
@@ -35146,6 +35164,21 @@
 #1chr-1-44 {
  {
   <i>Bozra</i> (Strongs 1224): §+1mo-36-33.
+ }
+#}
+#1chr-1-45 {
+ {
+  §1mo-36-34
+ }
+#}
+#1chr-1-46 {
+ {
+  §1mo-36-35
+ }
+#}
+#1chr-1-47 {
+ {
+  §1mo-36-36
  }
 #}
 #1chr-1-48 {
@@ -65233,7 +65266,7 @@
 #}
 #mt-7-2 {
  {
-  <i>mit welchem Maß ihr messt…</i> §mk-4-24
+  <i>mit welchem Maß ihr messt…</i> §mk-4-24, §lk-6-38
  }
  {
   TODO: Vgl §mt-12-27
@@ -69364,6 +69397,9 @@
 #}
 #mt-27-11 {
  {
+  §mk-15-2, §lk-23-3, §joh-18-33
+ }
+ {
   Nachdem nun geklärt ist, dass Er der König der Juden ist, gibt es nichts mehr zu sagen (Vers 14).
   Vgl auch «Bist du der Christus» in <a href='http://bibel.renenyffenegger.ch/mk_14.html#v61'>Mk&nbsp;14,61</a>.
          <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v1'>Hebr 1,1 ff</a>.
@@ -70427,7 +70463,7 @@
   Das Maß, mit dem hier gemessen wird, bezieht sich wohl darauf, wieviel jemand dem gehörten beimisst.
  }
  {
-  <i>mit welchem Maß ihr messt…</i> §mt-7-2
+  <i>mit welchem Maß ihr messt…</i> §mt-7-2, §lk-6-38
  }
 #}
 #mk-4-26 {
@@ -72273,6 +72309,9 @@
 #}
 #mk-15-22 {
  {
+  §mt-27-11, §lk-23-3, §joh-18-33
+ }
+ {
   → biblisches/Orte/Golgatha: §mt-27-33, §joh-19-17
  }
  {
@@ -74110,6 +74149,11 @@
 #lk-6-37 {
  {
   §mt-7-1
+ }
+#}
+#lk-6-38 {
+ {
+  <i>mit welchem Maß ihr messt…</i> §mt-7-2, §mk-4-24
  }
 #}
 #lk-6-39 {
@@ -76793,6 +76837,11 @@
  {
   TODO: Hat Jesus irgendwo gesagt, er sei der König? König der Juden schon, aber <i>der König</i>?
   Beachte auch, dass Pilatus ihn fragt, ob er König der Juden sei.
+ }
+#}
+#lk-23-3 {
+ {
+  §mt-27-11, §mk-15-22, §joh-18-33
  }
 #}
 #lk-23-5 {
@@ -80562,6 +80611,11 @@
  }
  {
   <i>Wort Jesu</i> vgl §Vjoh-18-9
+ }
+#}
+#joh-18-33 {
+ {
+  §mt-27-11, §mk-15-22, §lk-23-3
  }
 #}
 #joh-18-37 {
