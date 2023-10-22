@@ -67338,7 +67338,7 @@
 #mt-16-16 {
  {
   <i>Sohn Gottes</i>: Beachte, hier spricht dieses Bekenntnis Petrus aus, in
-    <a href='http://bibel.renenyffenegger.ch/joh_6.html#v68'>Joh 6,68-69</a> spricht es Petrus in der "wir Form" aus.
+    §joh-6-68-69 spricht es Petrus in der "wir Form" aus.
   <br>Die Besessenen haben es bereits in <a class='kom' href='#Imt-8-29'>Mt&nbsp;8,29</a> ausgesprochen.
   <br>Vgl mit <i>Sohn des Jona</i> im nächsten Vers.
   <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/hos_2.html#v1'>Hos&nbsp;2,1</a>.
@@ -78122,6 +78122,11 @@
   TODO: Für die Samaritische Frau ist Jesus ein Jude, für andere ein Galiläer (§mt-26-69…)
  }
 #}
+#joh-4-10 {
+ {
+  <i>lebendiges Wasser</i> vgl §joh-7-38
+ }
+#}
 #joh-4-11 {
  {
   Brunnen siehe <a class='kom' href='#Ijoh-4-6'>Vers 6</a>.
@@ -78703,7 +78708,7 @@
  {
    Hier: sie erkennen, dass Er der Christus ist. Vgl <a href='http://bibel.renenyffenegger.ch/joh_7.html#v31'>Joh&nbsp;7,31</a>, wo die Volksmenge zwar glaubt,
    aber nicht erkennt, dass dieser der Christus ist.
-   Vgl auch <a class='kom' href='#Imt-16-16'>Mt&nbsp;16,16</a>.
+   Vgl auch §+mt-16-16.
  }
  {
    <span class='gt'>NA: «daß du der Heilige Gottes bist.»</span>
@@ -78866,6 +78871,9 @@
  }
 #}
 #joh-7-38 {
+ {
+  <i>Ströme lebendigen Wassers</i> vgl §joh-4-10
+ }
  {
   <i>Wer an mich glaubt</i>: <a class='kom' href='#Ijoh-6-35'>Joh&nbsp;6,35</a>.
  }
@@ -83445,11 +83453,11 @@
  {
   <i>nicht dem genzen Volk</i> §+mt-12-40
  }
+#}
+#apg-10-42 {
  {
   <i>Richter der Lebendigen und der Toten</i> §2tim-4-1
  }
-#}
-#apg-10-42 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
  }
@@ -84353,6 +84361,9 @@
 #apg-14-15 {
  {
   <i>welcher den Himmel und die Erde … gemacht hat</i> vgl §apg-4-24
+ }
+ {
+  <i>daß ihr euch von diesen nichtigen Götzen bekehren sollt zu dem lebendigen Gott</i> vgl §1thes-1-9
  }
  {
    TODO: Paulus verkündigt wohl 'dieses' Evangelium, weil die Bewohner meinten, Paulus und Barnabas seien Götter (Vers 11).
@@ -87757,7 +87768,7 @@
   <i>lebendig machen</i> §+joh-5-21
  }
  {
-  <i>welchem er glaubte, der die Toten lebendig macht</i> vgl §hebr-11-19
+  <i>welchem er glaubte, der die Toten lebendig macht</i> vgl §roem-8-11, §hebr-11-19
  }
  {
   <i>Vater vieler Nationen</i>: §1mo-17-5
@@ -88180,10 +88191,10 @@
   <i>Geist, der in euch wohnt</i>, vgl §1kor-3-16-17, §1kor-6-19, §2kor-6-16, §+offb-11-11
  }
  {
-  <i>der Geist dessen, der Jesus aus den Toten auferweckt</i> vgl §roem-6-4, §1petr-3-19
+  <i>sterbliche Leiber lebendig machen</i> vgl §roem-4-17, §+joh-5-21, §2kor-3-6
  }
  {
-  <i>lebendig machen</i> §+joh-5-21
+  <i>der Geist dessen, der Jesus aus den Toten auferweckt</i> vgl §roem-6-4, §1petr-3-19
  }
 #}
 #roem-8-12 {
@@ -88835,7 +88846,7 @@
   <br>Vgl auch §hebr-13-15.
  }
  {
-  <i>eure Leiber darstellen als ein … → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schlachtopfer[Schlachtopfer]</i> vgl §roem-6-19
+  <i>eure Leiber darstellen als ein … → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schlachtopfer[Schlachtopfer]</i> vgl §roem-6-19, §+1petr-2-5
  }
  {
   <i>Leiber als … lebendig darstellen</i> Vgl mit dem Leib, der tot der Sünde wegen ist: §+roem-8-18
@@ -92516,7 +92527,7 @@
  {
   <i>lebendig machen</i> §+joh-5-21
   <br>
-  <i>Geist macht lebendig</i>: §+offb-11-11
+  <i>Geist macht lebendig</i>: §roem-8-11, §+offb-11-11
  }
 #}
 #2kor-3-7 {
@@ -97082,15 +97093,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Wie ihr euch von den → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbildern] zu Gott bekehrt habt</i>:
   Offenbar waren die Mehrheit der bekehrten Heiden, Paulus würde die Juden kaum so bezeichnet haben. Allerdings werden in
-  §apg-17-4 werden «etliche von ihnen» (also den Juden) erwähnt, die geglaubt hatten, ebenso «eine grosse Menge von den anbetenden Griechen» (wohl Prosyleten).
+  §apg-17-4 «etliche von ihnen» (also von den Juden) erwähnt, die geglaubt hatten, ebenso «eine grosse Menge von den anbetenden Griechen» (wohl Prosyleten).
   <br>
-  Vgl §1kor-12-2
+  Vgl §apg-14-15, §1kor-12-2
  }
  {
   <i>Dem lebendigen Gott dienen</i>: <a class='kom' href='#Iroem-1-9'>Röm&nbsp;1,9</a>, <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v14'>Hebr&nbsp;9,14</a>.
  }
  {
-  Vgl <a class='kom' href='#Iapg-17-18'>Apg&nbsp;17,18</a>.
+  TODO: Vgl <a class='kom' href='#Iapg-17-18'>Apg&nbsp;17,18</a>.
  }
 #}
 #1thes-1-10 {
@@ -99736,7 +99747,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @2. Timotheus 4 {
 #2tim-4-1 {
  {
-  <i>Lebendige und Tote richten</i> §1petr-4-5, §apg-10-41
+  <i>Lebendige und Tote richten</i> §1petr-4-5, §apg-10-42
  }
  {
   TODO: <i>Vor Gott ernstlich ermahnen</i>: <a class='kom' href='#I1tim-5-21'>1.&nbsp;Tim&nbsp;5,21</a>.
@@ -103524,6 +103535,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>heiliges Priestertum</i> und «königliches Priestertum» vgl <a class='kom' href='#I2mo-19-6'>2.&nbsp;Mo&nbsp;19,6</a>.
+ }
+ {
+  Vgl die <i>lebendigen Steine</i> mit dem «lebendigen Schlachtopfer» §roem-12-1
  }
  {
   Vgl <a class='kom' href='#I1koe-6-7'>1.&nbsp;Kö&nbsp;6,7</a>.
