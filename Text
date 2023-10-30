@@ -2367,7 +2367,7 @@
 #}
 #1mo-10-24 {
  {
-  §1mo-11-13, §1chr-1-18
+  §1mo-11-12-13, §1chr-1-18
  }
  {
   Vgl §lk-3-36, wo zwischen Arpakschad und Heber ein gewisser <i>Kainan</i> eingefügt ist.
@@ -2552,9 +2552,14 @@
   500 Jahre: §+1mo-5-32.
  }
 #}
+#1mo-11-12 {
+ {
+  §+1mo-10-24
+ }
+#}
 #1mo-11-13 {
  {
-  §+1mo-10-24, §1chr-1-18
+  §1chr-1-18
  }
 #}
 #1mo-11-16 {
@@ -19303,6 +19308,11 @@
   Onan: siehe <a class='kom' href='#I1mo-38-10'>1.&nbsp;Mo&nbsp;38,10</a>, Er: <a href='http://bibel.renenyffenegger.ch/4mo_38.html#v7'>4.&nbsp;Mo&nbsp;38,7</a>.
  }
 #}
+#4mo-26-20 {
+ {
+  Die Nachkommen Schela werden in §1chr-4-21-23 aufgezählt.
+ }
+#}
 #4mo-26-21 {
  {
   <i>Hezron</i> ist ein Vorfahre Jesu.
@@ -24776,6 +24786,9 @@
 #}
 #jos-15-15 {
  {
+  §ri-1-11
+ }
+ {
   <i>Kirjat-Sepher</i> <span class='hebr'>קִרְיַת־סֵֽפֶר</span> (Strongs 7158), etwa «Stadt des Buches». <i>Debir</i>
   <span class='hebr'>דְּבִ֥ר</span> (Strongs 1688) etwa 'Ausspruch
  }
@@ -24794,7 +24807,10 @@
   <br>TODO: Kaleb wird aber auch ein Sohn Jephunnes genannt, vom Stamm Juda (<a href='http://bibel.renenyffenegger.ch/4mo_34.html#v19'>4.&nbsp;Mo&nbsp;34,19</a>)
  }
  {
-  Vgl mit <a class='kom' href='#Iri-1-13'>Ri&nbsp;1,13</a>.
+  §+ri-1-13.
+ }
+ {
+  TODO: Vgl mit dem früheren Kaleb, der ebenfalls eine Tochter namens Aksa hatte, §1chr-2-49
  }
 #}
 #jos-15-19 {
@@ -25662,6 +25678,9 @@
 #}
 #jos-24-29 {
  {
+  §ri-2-8
+ }
+ {
   <i>Josua, Knecht des HERRN</i>: <a class='kom' href='#I2mo-24-13'>2.&nbsp;Mo&nbsp;24,13</a>.
  }
 #}
@@ -25780,12 +25799,17 @@
   → biblisches/Orte/Hebron
  }
 #}
+#ri-1-11 {
+ {
+  §jos-15-15
+ }
+#}
 #ri-1-13 {
  {
   TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/ri_3.html#v9'>Ri&nbsp;3,9</a> (Otniel, der Sohn des Kenas, des <i>jüngeren</i>/<i>jüngsten</i> Bruder Kalebs)
  }
  {
-  Vgl auch mit <a href='http://bibel.renenyffenegger.ch/jos_15.html#v17'>Jos&nbsp;15,17</a>.
+  §jos-15-17
  }
 #}
 #ri-1-16 {
@@ -25953,6 +25977,11 @@
 #ri-2-7 {
  {
   <i>die das ganze grosse Werk Jehovas gesehen</i>: vgl §+jos-24-31, §+5mo-11-7
+ }
+#}
+#ri-2-8 {
+ {
+  §jos-24-29
  }
 #}
 #ri-2-9 {
@@ -29699,6 +29728,9 @@
  }
  {
   Siehe <a class='kom' href='#I2sam-3-2'>2.&nbsp;Sam&nbsp;3,2</a>.
+ }
+ {
+  §1chr-3-5
  }
 #}
 #2sam-5-16 {
@@ -35214,7 +35246,10 @@
 #}
 #1chr-2-4 {
  {
-   → biblisches/Personen/Perez/Judas-Sohn
+ → biblisches/Personen/Perez/Judas-Sohn
+ }
+ {
+  <i>Perz und Serach</i>: §mt-1-3
  }
 #}
 #1chr-2-5 {
@@ -35307,12 +35342,15 @@
 #}
 #1chr-2-49 {
  {
-  TODO: Siehe <a class='kom' href='#Ijos-15-40'>Jos&nbsp;15,40</a>.
- }
- {
   <i>Maacha</i> hiess auch die Frau Jeiels, des Vaters Gibeons (<a class='kom' href='#I1chr-9-35'>1.&nbsp;Chr&nbsp;9,35</a>).
   <br>In <a href='http://bibel.renenyffenegger.ch/1chr_8.html#v29'>1.&nbsp;Chr&nbsp;8,29</a> wird der Name des Vaters <i>Gibeons</i> (wie auch hier)
       nicht genannt.
+ }
+ {
+  TODO: Der (spätere) Kaleb (der Sohn des Jephunne) hatte eine Tochter namens Aksa, die er Othniel, seinem Bruder, zur Frau gab, weil dieser Kirjath-Sepher geschlagen hat, §jos-15-16-17
+ }
+ {
+  TODO: vgl <a class='kom' href='#Ijos-15-40'>Jos&nbsp;15,40</a>.
  }
 #}
 #1chr-2-50 {
@@ -35398,6 +35436,9 @@
  }
  {
   TODO: <i>Bathschua, Tochter Ammiels</i>: vgl mit 'Bathseba, Tochter Eliams' (<a href='http://bibel.renenyffenegger.ch/2sam_11.html#v3'>2.&nbsp;Sam&nbsp;11,3</a>).
+ }
+ {
+  §2sam-5-14
  }
 #}
 #1chr-3-8 {
@@ -35584,7 +35625,7 @@
 #}
 #1chr-4-21 {
  {
-  <i>Schela</i>: §1chr-2-3
+  <i>Schela</i>: §1chr-2-3, §4mo-26-20
  }
  {
   <i>Baumwollweber</i> <span class='hebr'>עֲבֹדַ֥ת הַבֻּ֖ץ</span> (Strongs 5656 948). Das Wort für 'Baumwolle' wird in
@@ -35602,7 +35643,7 @@
 #}
 #1chr-4-22 {
  {
-  <i>Koseba</i> ist wohl Achsib (Siehe <a class='kom' href='#Ijos-15-44'>Jos&nbsp;15,44</a>).
+  <i>Koseba</i> ist möglicherweise «Kesib» in §1mo-38-5 und «Achsib» in §jos-15-44.
  }
 #}
 #1chr-4-23 {
@@ -45382,6 +45423,11 @@
   Eventuell würde besser übersetzt mit »ich will Sichem teilen«, vgl §ps-108-8
  }
 #}
+#ps-60-9 {
+ {
+  §ps-108-9
+ }
+#}
 #ps-60-11 {
  {
   <i>feste Stadt</i> vgl §ps-31-22
@@ -47602,6 +47648,11 @@
  }
  {
   Eventuell würde besser übersetzt mit »ich will Sichem teilen«, vgl §ps-60-8
+ }
+#}
+#ps-108-9 {
+ {
+  §ps-60-9
  }
 #}
 @}
@@ -55342,8 +55393,8 @@
 #}
 #jer-8-22 {
  {
-  <i>Ist kein Balsam in Gilead?</i>. In <a href='http://bibel.renenyffenegger.ch/jer_46.html#v11'>Jer&nbsp;46,11</a> scheint es Balsam in Gilead zu haben.
-  Vgl auch <a href='http://bibel.renenyffenegger.ch/jer_51.html#v8'>Jer&nbsp;51,8</a>.
+  <i>Ist kein Balsam in Gilead?</i>. In §jer-46-11 scheint es Balsam in Gilead zu haben.
+  Vgl auch §jer-51-8.
  }
 #}
 @}
@@ -64010,6 +64061,8 @@
  }
  {
   Tamar war schwanger von Hurererei (§1mo-38-24), vgl §Vmt-1-5 (Rahab), §Vmt-1-6 (David und Bathseba) und §joh-8-41
+ <br>
+  <i>Perez und Serach</i>: §1chr-2-4
  }
  {
   TODO: Dieser Aram ist wohl nur wegen dem → biblisches/Bücher/Evangelien/Matthäus[Matthäusevangelium] bekannt.
@@ -66611,6 +66664,11 @@
  {
   → biblisches/Orte/Ninive
   <br>Vgl §lk-11-32.
+ }
+#}
+#mt-12-42 {
+ {
+  <i>Von den Enden der Erde kommen</i> §mk-13-27, §apg-1-8
  }
 #}
 #mt-12-43 {
@@ -71914,6 +71972,9 @@
 #mk-13-27 {
  {
    Vgl §+mt-24-31, → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde
+ }
+ {
+  <i>Vom Ende der Erde</i> §mt-12-42, §apg-1-8
  }
 #}
 #mk-13-28 {
@@ -81115,7 +81176,9 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/jes_43.html#v12'>Jes&nbsp;43,12</a>.
  }
  {
-  Das Evangelium geht in der Apostelgeschichte wohl bis zu den Heiden, aber nicht bis zum Ende der Welt?
+  <i>Bis an das Ende der Erde</i> §mt-12-42, §mk-13-27
+ <br>
+  Das Evangelium geht in der Apostelgeschichte wohl bis zu den Heiden, aber nicht bis zum Ende der Erde?
  }
  {
   Siehe auch <i>Zeuge der Auferstehung</i> <a href='http://bibel.renenyffenegger.ch/apg_1.html#v22'>Apg&nbsp;1,22</a>,
