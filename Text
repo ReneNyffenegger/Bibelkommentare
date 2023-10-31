@@ -29180,6 +29180,9 @@
   <br>Achinoam wird zusammen mit Abigail weggeführt werden (<a href='http://bibel.renenyffenegger.ch/1sam_30.html#v5'>1.&nbsp;Sam&nbsp;30,5</a>).
   <br>Der Erstgeborene → biblisches/Personen/David[Davids] (in → biblisches/Orte/Hebron?), Amnon, ist von Achinoam, §1chr-3-4
  }
+ {
+  <i>seine beiden Frauen</i>: §1sam-27-3, §1sam-30-5, §2sam-2-2
+ }
 #}
 #1sam-25-44 {
  {
@@ -29249,6 +29252,11 @@
  {
   Hier: Achis der Sohn <i>Maochs</i>, in <a href='http://bibel.renenyffenegger.ch/1koe_2.html#v39'>1.&nbsp;Kö&nbsp;2,39</a> der Sohn <i>Maachas</i>,
   vgl <a class='kom' href='#I1sam-21-11'>1.&nbsp;Sam&nbsp;21,11</a>.
+ }
+#}
+#1sam-27-3 {
+ {
+  <i>David und seine beiden Frauen</i>: §1sam-25-43, §1sam-30-5, §2sam-2-2
  }
 #}
 #1sam-27-7 {
@@ -29351,6 +29359,9 @@
 #1sam-30-5 {
  {
   <i>Achinoam</i>: <a class='kom' href='#I1sam-25-43'>1.&nbsp;Sam&nbsp;25,43</a>.
+ }
+ {
+  <i>die beiden Frauen Davids</i> §1sam-25-43, §1sam-27-3, §2sam-2-2
  }
 #}
 #1sam-30-7 {
@@ -29511,6 +29522,11 @@
   <i>Hebron</i>: <a class='kom' href='#I1mo-13-18'>1.&nbsp;Mo&nbsp;13,18</a>.
  }
 #}
+#2sam-2-2 {
+ {
+  <i>Davids zwei Frauen</i>: §1sam-25-34, §1sam-27-3, §1sam-30-5
+ }
+#}
 #2sam-2-4 {
  {
   Hier wohl erste Erwähnung von <i>Haus Juda</i>.
@@ -29578,6 +29594,9 @@
 @2. Samuel 3 {
 #2sam-3-2 {
  {
+  §1chr-3-1
+ }
+ {
   <table summary='Söhne Davids'>
     <tr><td>1</td><td>Amnon</td><td>Achinoam, die Jesreelitin</td></tr>
     <tr><td>2</td><td>Kileab</td><td>Abigail, die Frau Nabals, des Karmeliters</td></tr>
@@ -29590,6 +29609,9 @@
  }
 #}
 #2sam-3-3 {
+ {
+  §1chr-3-2
+ }
  {
   Maacha, die Mutter Absaloms, war von <i>Geschur</i>. In <a href='http://bibel.renenyffenegger.ch/2sam_13.html#v37'>2.&nbsp;Sam&nbsp;13,37</a> flieht
   Absalom nach Geschur.
@@ -29681,6 +29703,11 @@
 #}
 @}
 @2. Samuel 5 {
+#2sam-5-1 {
+ {
+  §1chr-11-1
+ }
+#}
 #2sam-5-2 {
  {
   <i>Du sollst mein Volk weiden</i>, §+1sam-16-11
@@ -29694,6 +29721,11 @@
   <br>§mt-2-6
   <br><a class='kom' href='#I2mo-34-3'>2.&nbsp;Mo&nbsp;34,3</a>
   <br>TODO: Weideplätze in <a href='http://bibel.renenyffenegger.ch/jos_21.html#v2'>Jos 21,2 ff</a>.
+ }
+#}
+#2sam-5-6 {
+ {
+  §1chr-11-4
  }
 #}
 #2sam-5-7 {
@@ -29722,20 +29754,30 @@
   <i>Millo</i>: <a class='kom' href='#Iri-9-6'>Ri&nbsp;9,6</a>
  }
 #}
+#2sam-5-11 {
+ {
+  §1chr-14-1
+ }
+#}
 #2sam-5-14 {
+ {
+  §1chr-3-5, §1chr-14-4
+ }
  {
   <i>Nathan</i> ist in der königlichen Linie (<a href='http://bibel.renenyffenegger.ch/lk_3.html#v31'>Lk&nbsp;3,31</a>).
  }
  {
   Siehe <a class='kom' href='#I2sam-3-2'>2.&nbsp;Sam&nbsp;3,2</a>.
  }
- {
-  §1chr-3-5
- }
 #}
 #2sam-5-16 {
  {
   Vgl <i>Eljama</i> mit <i>Beeljada</i>, §1chr-14-7, s. a. §1chr-3-8
+ }
+#}
+#2sam-5-17 {
+ {
+  §1chr-14-8
  }
 #}
 #2sam-5-18 {
@@ -29808,6 +29850,11 @@
   Warum fürchtete David sich, die Lade zu sich zu führen, wenn er doch die Lade zu Obed-Edom führen konnte?
  }
 #}
+#2sam-6-12 {
+ {
+  §1chr-15-25
+ }
+#}
 #2sam-6-13 {
  {
   Ein <i>fettes Schaf</i> <span class='hebr'>מְרִיא</span> (Strongs 4806), in der KJV mit 'fatling' (=junges Masttier) übersetzt, hier dessen erstes Vorkommen.
@@ -29838,6 +29885,11 @@
   und <a href='http://bibel.renenyffenegger.ch/hos_3.html#v1'>Hos&nbsp;3,1</a>.
  }
 #}
+#2sam-6-20 {
+ {
+  §1chr-15-29
+ }
+#}
 #2sam-6-23 {
  {
   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/2sam_21.html#v8'>2.&nbsp;Sam&nbsp;21,8</a>, hatte Michal nun Nachkommen, oder nicht?
@@ -29845,6 +29897,11 @@
 #}
 @}
 @2. Samuel 7 {
+#2sam-7-1 {
+ {
+  §1chr-17-1
+ }
+#}
 #2sam-7-2 {
  {
   <i>Teppich</i>: <a class='kom' href='#I4mo-4-25'>4.&nbsp;Mo&nbsp;4,25</a>.
@@ -29930,7 +29987,7 @@
 @2. Samuel 8 {
 #2sam-8-1 {
  {
-   Gemäss <a href='http://bibel.renenyffenegger.ch/1chr_18.html#v1'>1.&nbsp;Chr&nbsp;18,1</a> entriss → biblisches/Personen/David auch Gat und seine Tochterstädte.
+  Gemäss §1chr-18-1 entriss → biblisches/Personen/David auch Gat und seine Tochterstädte.
  }
 #}
 #2sam-8-3 {
@@ -29939,7 +29996,7 @@
   regierten dort. Dieser wurde zu einem Widersacher Israels, solange Salomo lebte und König über Aram (<a href='http://bibel.renenyffenegger.ch/1koe_11.html#v23'>1.&nbsp;Kö&nbsp;11,23-25</a>).
  }
  {
-  Frage: warum <i>wiederherzustellen</i>? Vgl auch <a href='http://bibel.renenyffenegger.ch/2chr_18.html#v3'>2.&nbsp;Chr&nbsp;18,3</a> wo es 'aufgerichtet' wird.
+  Frage: warum <i>wiederherzustellen</i>? Vgl auch §1chr-18-3 wo es «befestigt» wird.
  }
  {
   Zoba: <a class='kom' href='#I1sam-14-47'>1.&nbsp;Sam&nbsp;14,47</a>.
@@ -29959,6 +30016,11 @@
     </ul>
  }
 #}
+#2sam-8-5 {
+ {
+  §1chr-18-5
+ }
+#}
 #2sam-8-6 {
  {
   <i>Besatzungen</i>: fehlt in <a class='kom' href='#I1chr-18-6'>1.&nbsp;Chr&nbsp;18,6</a>.
@@ -29967,14 +30029,30 @@
   <i>Aram wurde</i>: Sch2k und Elb05 übersetzen: «die Syrer». Ebenso in <a href='http://bibel.renenyffenegger.ch/1chr_18.html#v6'>1.&nbsp;Chr&nbsp;18,6</a>.
  }
 #}
+#2sam-8-7 {
+ {
+  §1chr-18-7
+ }
+#}
 #2sam-8-8 {
  {
-  <i>Berotai</i> gehört zur Hesekielschen Nordgrenze: <a href='http://bibel.renenyffenegger.ch/hes_47.html#v16'>Hes&nbsp;47,16</a> (dort genannt: 'Berota').
+  §1chr-18-8: Betach = Tibchad, Berotahai = Kun
+ }
+ {
+  <i>Berotai</i> gehört zur Hesekielschen Nordgrenze: §hes-47-16 (dort genannt: «Berota»).
  }
 #}
 #2sam-8-9 {
  {
+  §1chr-18-9
+ }
+ {
   <i>Hamat</i>: <a class='kom' href='#I4mo-13-21'>4.&nbsp;Mo&nbsp;13,21</a>.
+ }
+#}
+#2sam-8-10 {
+ {
+  §1chr-18-10
  }
 #}
 #2sam-8-13 {
@@ -29986,6 +30064,11 @@
  {
    TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/1koe_11.html#v15'>1.&nbsp;Kö&nbsp;11,15 ff</a>: als David in Edom war, erschlug Joab während 6 Monaten alles Männliche in Edom.
    Da floh Hadad und einige Knechte nach Ägypten. Dieser Hadad wird Salomos widersacher.
+ }
+#}
+#2sam-8-15 {
+ {
+  §1chr-18-14
  }
 #}
 #2sam-8-17 {
@@ -30035,13 +30118,17 @@
 @2. Samuel 10 {
 #2sam-10-1 {
  {
-  TODO: Dieser König war wohl <i>Nahus</i> (vgl <a href='http://bibel.renenyffenegger.ch/1chr_19.html#v1'>1.&nbsp;Chr&nbsp;19,1</a>),
-  der Jabes in Gilead belagerte (<a href='http://bibel.renenyffenegger.ch/1sam_11.html#v1'>1.&nbsp;Sam&nbsp;11,1</a>) ff.
+  Dieser König war <i>Nahas</i> (vgl §1chr-19-1), der Jabes in Gilead belagerte (§1sam-11-1-ff).
  }
 #}
 #2sam-10-6 {
  {
   Das sind dann 33'000.
+ }
+#}
+#2sam-10-15 {
+ {
+  §1chr-19-16
  }
 #}
 @}
@@ -31654,6 +31741,9 @@
   )
   <br>Beachte auch, dass in <a class='kom' href='#I2koe-24-7'>2.&nbsp;Kö&nbsp;24,7</a> der König von Ägypten wohl ein Grossteil dieses
       Landes eingenommen hatte.
+ }
+ {
+  TODO: Vgl §2koe-14-25
  }
 #}
 @}
@@ -33467,6 +33557,9 @@
   vgl mit <a href='http://bibel.renenyffenegger.ch/am_6.html#v14'>Am&nbsp;6,14</a> (<span class='hebr'>מִלְּב֥וֹא חֲמָ֖ת עַד־נַ֥חַל הָעֲרָבָֽה</span>)
   <br>Beachte auch, das in der Prophetie von Amos ein Volk erweckt wird, das das Haus Israel in diesem Gebiet bedrängen wird.
  }
+ {
+  TODO: Vgl §1koe-8-65
+ }
 #}
 #2koe-14-27 {
  {
@@ -34045,6 +34138,11 @@
   Bei der Eroberung und Wegführung Israels durch den Assyrischen Königs sah es vielleicht so aus, als ob der Gott Israels nicht helfen konnte, §2koe-17-6, §2koe-18-10
  }
 #}
+#2koe-18-34 {
+ {
+  Vgl §2koe-19-13
+ }
+#}
 #2koe-18-36 {
  {
   <i>Und das Volk schwieg still</i> vgl mit «Und sie schwiegen still» in §jes-36-21.
@@ -34073,6 +34171,11 @@
 #2koe-19-12 {
  {
   TODO <i>Eden</i> und <i>Haran</i>: vgl <a href='http://bibel.renenyffenegger.ch/hes_27.html#v23'>Hes&nbsp;27,23</a>.
+ }
+#}
+#2koe-19-13 {
+ {
+  Vgl §2koe-18-34
  }
 #}
 #2koe-19-15 {
@@ -35018,6 +35121,8 @@
 #1chr-1-7 {
  {
   Vgl §1mo-10-4, wo die <i>Rodanim</i> «Dodanim» genannt werden.
+  <br>
+  R/D Tausch auch in Hadareser/Hadadeser, §1chr-18-3/§2sam-8-3
  }
  {
   <i>Tarsis</i>, eigentlich <i>Tarsisah</i> (<span class='hebr'><span class='grey'>וְ</span> תַרְשִׁ֑ישָׁה</span>) vgl mit <i>Tarsis</i> in §1mo-10-4 (<span class='hebr'><span class='grey'>וְ</span>תַרְשִׁ֑ישׁ</span>).
@@ -35417,7 +35522,15 @@
 @1. Chronik 3 {
 #1chr-3-1 {
  {
+  §2sam-3-2
+ }
+ {
   → biblisches/Personen/David: §1chr-2-15
+ }
+#}
+#1chr-3-2 {
+ {
+  §2sam-3-3
  }
 #}
 #1chr-3-3 {
@@ -35427,6 +35540,9 @@
 #}
 #1chr-3-4 {
  {
+  <i>David regierte in Hebron</i>: §1chr-11-1
+ }
+ {
   7 ½ Jahre: <a href='http://bibel.renenyffenegger.ch/1koe_6.html#v38'>1.&nbsp;Kö&nbsp;6,38</a>.
  }
  {
@@ -35435,6 +35551,9 @@
 #}
 #1chr-3-5 {
  {
+  §1chr-14-4, §2sam-5-14
+ }
+ {
   <i>Nathan</i>: <a class='kom' href='#I2sam-5-14'>2.&nbsp;Sam&nbsp;5,14</a>.
  }
  {
@@ -35442,9 +35561,6 @@
  }
  {
  <i>Bathschua, Tochter Ammiels</i>: vgl mit «Bathseba, Tochter Eliams», §2sam-11-3
- }
- {
-  §2sam-5-14
  }
 #}
 #1chr-3-8 {
@@ -36501,6 +36617,14 @@
 }
 { 11-20
 @1. Chronik 11 {
+#1chr-11-1 {
+ {
+  <i>David in Hebron</i>: §1chr-3-4
+ }
+ {
+  §2sam-5-1
+ }
+#}
 #1chr-11-2 {
  {
   <i>David, der Schafhirte</i>: <a class='kom' href='#I1sam-16-11'>1.&nbsp;Sam&nbsp;16,11</a>.
@@ -36512,6 +36636,11 @@
 #1chr-11-3 {
  {
   <i>Salbung Davids</i> vgl §1sam-16-13
+ }
+#}
+#1chr-11-4 {
+ {
+  §2sam-5-6
  }
 #}
 #1chr-11-8 {
@@ -36634,6 +36763,11 @@
   David selbst war ein <i>Fürst</i>: §1chr-11-2
  }
 #}
+#1chr-13-5 {
+ {
+  <i>Vom Sihor Ägyptes bis nach Hamath hin</i> §2chr-7-8
+ }
+#}
 #1chr-13-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
@@ -36656,9 +36790,24 @@
 #}
 @}
 @1. Chronik 14 {
+#1chr-14-1 {
+ {
+  §2sam-5-11
+ }
+#}
+#1chr-14-4 {
+ {
+  §1chr-3-5, §2sam-5-14
+ }
+#}
 #1chr-14-7 {
  {
   Vgl <i>Beljada</i> mit <i>Eljama</i>, §1chr-3-8, §1chr-14-7. Die <i>Expositor's Bible Commentary</i> deutet diesen Wechsel des Namens so, dass damit eine Verwechslung mit <i>Baal</i> vermieden werden soll.
+ }
+#}
+#1chr-14-8 {
+ {
+  §2sam-5-17
  }
 #}
 #1chr-14-9 {
@@ -36749,9 +36898,19 @@
   Obed-Edom als <i>Torhüter der Lade</i> §1chr-16-38
  }
 #}
+#1chr-15-25 {
+ {
+  §2sam-6-12
+ }
+#}
 #1chr-15-27 {
  {
   <i>Leinen</i>: siehe <a class='kom' href='#I1chr-4-21'>1.&nbsp;Chr&nbsp;4,21</a>.
+ }
+#}
+#1chr-15-29 {
+ {
+  §2sam-6-20-ff
  }
 #}
 @}
@@ -36978,6 +37137,9 @@
 @1. Chronik 17 {
 #1chr-17-1 {
  {
+  §2sam-7-1
+ }
+ {
   <i>Teppich</i>: <a class='kom' href='#I4mo-4-25'>4.&nbsp;Mo&nbsp;4,25</a>.
  }
 #}
@@ -37021,12 +37183,25 @@
 @1. Chronik 18 {
 #1chr-18-1 {
  {
-  Gemäss <a class='kom' href='#I2sam-8-1'>2.&nbsp;Sam&nbsp;8,1</a> nahm → biblisches/Personen/David auch die Zügel der Regierung aus der Hand der Philister.
+  Gemäss §+2sam-8-1 nahm → biblisches/Personen/David auch die Zügel der Regierung aus der Hand der Philister.
+ }
+#}
+#1chr-18-2 {
+ {
+  §2sam-8-2
  }
 #}
 #1chr-18-3 {
  {
+  §2sam-8-3
+ }
+ {
   Beachte, wie häufig plötzlich das Wort «König» bis ca §1chr-19-9 vorkommt.
+ }
+#}
+#1chr-18-5 {
+ {
+  §2sam-8-5
  }
 #}
 #1chr-18-6 {
@@ -37037,15 +37212,50 @@
   <i>Aram wurde</i>: <a class='kom' href='#I2sam-8-6'>2.&nbsp;Sam&nbsp;8,6</a>.
  }
 #}
+#1chr-18-7 {
+ {
+  §2sam-8-7
+ }
+#}
 #1chr-18-8 {
+ {
+  §+2sam-8-8
+ }
  {
   TODO: Das Wort für <b>Erz</b> (Strongs 5178, erstes Vorkommen in <a class='kom' href='#I1mo-4-22'>1.&nbsp;Mo&nbsp;4,22</a>) hat hier ein
   Suffix. Ebenso in <a href='http://bibel.renenyffenegger.ch/dan_10.html#v6'>Dan&nbsp;10,6</a>ff und <a href='http://bibel.renenyffenegger.ch/hes_1.html#v7'>Hes&nbsp;1,7</a>.
  }
 #}
+#1chr-18-9 {
+ {
+  §2sam-8-9
+ }
+#}
+#1chr-18-10 {
+ {
+  §2sam-8-10
+ }
+#}
+#1chr-18-14 {
+ {
+  §2sam-8-15
+ }
+#}
 #1chr-18-17 {
  {
   <i>Ersten</i>: siehe <a class='kom' href='#I2sam-8-18'>2.&nbsp;Sam&nbsp;8,18</a>.
+ }
+#}
+@}
+@1. Chronik 19 {
+#1chr-19-1 {
+ {
+  §2sam-10-1
+ }
+#}
+#1chr-19-16 {
+ {
+  §2sam-10-15
  }
 #}
 @}
@@ -37994,6 +38204,9 @@
 #2chr-7-8 {
  {
   Dieses Fest beginnt in §+2chr-5-3 und fällt auf die Zeit des → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfestes].
+ }
+ {
+  <i>Vom Eingang Hamaths bis an den Fluß Ägyptens</i>: §chr-13-5
  }
 #}
 #2chr-7-14 {
@@ -39952,6 +40165,9 @@
 #}
 #esr-2-4 {
  {
+  <i>Söhne Schephatjas</i> werden auch in §Vesr-2-57 erwähnt.
+ }
+ {
   §neh-7-9
  }
 #}
@@ -40089,6 +40305,11 @@
 #esr-2-52 {
  {
   Die <i>Söhne Asnas</i> fehlen in der Aufzählung in <a href='http://bibel.renenyffenegger.ch/neh_7.html#v52'>Neh&nbsp;7,52</a>.
+ }
+#}
+#esr-2-57 {
+ {
+  <i>Söhne Schephatjas</i> werden auch in §Vesr-2-4 erwähnt.
  }
 #}
 #esr-2-58 {
@@ -52331,6 +52552,9 @@
   <i>Denn die Anhöhe von Luchith steigt man mit Weinen hinauf</i> vgl §jer-15-5
  }
  {
+  <i>bis Zoar, bis Eglath-Schelischija</i> vgl §jer-48-34
+ }
+ {
   TODO: <i>Eglath</i>: Strongs 5697, dasselbe Wort wie für 'Kuh' in <a href='http://bibel.renenyffenegger.ch/1mo_15.html#v9'>1.&nbsp;Mo&nbsp;15,9</a>.,
   <i>Schelischija</i> (<span class='hebr'>שְׁלִישִׁי</span>, Strongs 7992) bedeutet etwa 'dritte' (wie in <a href='http://bibel.renenyffenegger.ch/1mo_1.html#v13'>1.&nbsp;Mo&nbsp;1,13</a>).
   In KJV mit mit 'a heifer of three years old' übersetzt.
@@ -57475,6 +57699,9 @@
  {
   Die <i>Wasserplätze von Nimrim</i>: siehe <a class='kom' href='#Ijes-15-6'>Jes&nbsp;15,6</a>.
  }
+ {
+  <i>von Zoar … bis Eglath-Schelischija</i> vgl §jes-15-5
+ }
 #}
 #jer-48-40 {
  {
@@ -59945,7 +60172,7 @@
 #}
 #hes-47-16 {
  {
-  <i>Berota</i> siehe <a class='kom' href='#I2sam-8-8'>2.&nbsp;Sam&nbsp;8,8</a>.
+  <i>Berotha</i> siehe §+2sam-8-8.
  }
 #}
 #hes-47-18 {
