@@ -2367,7 +2367,7 @@
 #}
 #1mo-10-24 {
  {
-  §1mo-11-13, §1chr-1-18
+  §1mo-11-12-13, §1chr-1-18
  }
  {
   Vgl §lk-3-36, wo zwischen Arpakschad und Heber ein gewisser <i>Kainan</i> eingefügt ist.
@@ -2552,9 +2552,14 @@
   500 Jahre: §+1mo-5-32.
  }
 #}
+#1mo-11-12 {
+ {
+  §+1mo-10-24
+ }
+#}
 #1mo-11-13 {
  {
-  §+1mo-10-24, §1chr-1-18
+  §1chr-1-18
  }
 #}
 #1mo-11-16 {
@@ -19303,6 +19308,11 @@
   Onan: siehe <a class='kom' href='#I1mo-38-10'>1.&nbsp;Mo&nbsp;38,10</a>, Er: <a href='http://bibel.renenyffenegger.ch/4mo_38.html#v7'>4.&nbsp;Mo&nbsp;38,7</a>.
  }
 #}
+#4mo-26-20 {
+ {
+  Die Nachkommen Schela werden in §1chr-4-21-23 aufgezählt.
+ }
+#}
 #4mo-26-21 {
  {
   <i>Hezron</i> ist ein Vorfahre Jesu.
@@ -24776,6 +24786,9 @@
 #}
 #jos-15-15 {
  {
+  §ri-1-11
+ }
+ {
   <i>Kirjat-Sepher</i> <span class='hebr'>קִרְיַת־סֵֽפֶר</span> (Strongs 7158), etwa «Stadt des Buches». <i>Debir</i>
   <span class='hebr'>דְּבִ֥ר</span> (Strongs 1688) etwa 'Ausspruch
  }
@@ -24794,7 +24807,10 @@
   <br>TODO: Kaleb wird aber auch ein Sohn Jephunnes genannt, vom Stamm Juda (<a href='http://bibel.renenyffenegger.ch/4mo_34.html#v19'>4.&nbsp;Mo&nbsp;34,19</a>)
  }
  {
-  Vgl mit <a class='kom' href='#Iri-1-13'>Ri&nbsp;1,13</a>.
+  §+ri-1-13.
+ }
+ {
+  TODO: Vgl mit dem früheren Kaleb, der ebenfalls eine Tochter namens Aksa hatte, §1chr-2-49
  }
 #}
 #jos-15-19 {
@@ -25662,6 +25678,9 @@
 #}
 #jos-24-29 {
  {
+  §ri-2-8
+ }
+ {
   <i>Josua, Knecht des HERRN</i>: <a class='kom' href='#I2mo-24-13'>2.&nbsp;Mo&nbsp;24,13</a>.
  }
 #}
@@ -25780,12 +25799,17 @@
   → biblisches/Orte/Hebron
  }
 #}
+#ri-1-11 {
+ {
+  §jos-15-15
+ }
+#}
 #ri-1-13 {
  {
   TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/ri_3.html#v9'>Ri&nbsp;3,9</a> (Otniel, der Sohn des Kenas, des <i>jüngeren</i>/<i>jüngsten</i> Bruder Kalebs)
  }
  {
-  Vgl auch mit <a href='http://bibel.renenyffenegger.ch/jos_15.html#v17'>Jos&nbsp;15,17</a>.
+  §jos-15-17
  }
 #}
 #ri-1-16 {
@@ -25953,6 +25977,11 @@
 #ri-2-7 {
  {
   <i>die das ganze grosse Werk Jehovas gesehen</i>: vgl §+jos-24-31, §+5mo-11-7
+ }
+#}
+#ri-2-8 {
+ {
+  §jos-24-29
  }
 #}
 #ri-2-9 {
@@ -29699,6 +29728,9 @@
  }
  {
   Siehe <a class='kom' href='#I2sam-3-2'>2.&nbsp;Sam&nbsp;3,2</a>.
+ }
+ {
+  §1chr-3-5
  }
 #}
 #2sam-5-16 {
@@ -35217,7 +35249,10 @@
 #}
 #1chr-2-4 {
  {
-   → biblisches/Personen/Perez/Judas-Sohn
+ → biblisches/Personen/Perez/Judas-Sohn
+ }
+ {
+  <i>Perz und Serach</i>: §mt-1-3
  }
 #}
 #1chr-2-5 {
@@ -35310,12 +35345,15 @@
 #}
 #1chr-2-49 {
  {
-  TODO: Siehe <a class='kom' href='#Ijos-15-40'>Jos&nbsp;15,40</a>.
- }
- {
   <i>Maacha</i> hiess auch die Frau Jeiels, des Vaters Gibeons (<a class='kom' href='#I1chr-9-35'>1.&nbsp;Chr&nbsp;9,35</a>).
   <br>In <a href='http://bibel.renenyffenegger.ch/1chr_8.html#v29'>1.&nbsp;Chr&nbsp;8,29</a> wird der Name des Vaters <i>Gibeons</i> (wie auch hier)
       nicht genannt.
+ }
+ {
+  TODO: Der (spätere) Kaleb (der Sohn des Jephunne) hatte eine Tochter namens Aksa, die er Othniel, seinem Bruder, zur Frau gab, weil dieser Kirjath-Sepher geschlagen hat, §jos-15-16-17
+ }
+ {
+  TODO: vgl <a class='kom' href='#Ijos-15-40'>Jos&nbsp;15,40</a>.
  }
 #}
 #1chr-2-50 {
@@ -35401,6 +35439,9 @@
  }
  {
  <i>Bathschua, Tochter Ammiels</i>: vgl mit «Bathseba, Tochter Eliams», §2sam-11-3
+ }
+ {
+  §2sam-5-14
  }
 #}
 #1chr-3-8 {
@@ -35587,7 +35628,7 @@
 #}
 #1chr-4-21 {
  {
-  <i>Schela</i>: §1chr-2-3
+  <i>Schela</i>: §1chr-2-3, §4mo-26-20
  }
  {
   <i>Baumwollweber</i> <span class='hebr'>עֲבֹדַ֥ת הַבֻּ֖ץ</span> (Strongs 5656 948). Das Wort für 'Baumwolle' wird in
@@ -35605,7 +35646,7 @@
 #}
 #1chr-4-22 {
  {
-  <i>Koseba</i> ist wohl Achsib (Siehe <a class='kom' href='#Ijos-15-44'>Jos&nbsp;15,44</a>).
+  <i>Koseba</i> ist möglicherweise «Kesib» in §1mo-38-5 und «Achsib» in §jos-15-44.
  }
 #}
 #1chr-4-23 {
@@ -45385,6 +45426,11 @@
   Eventuell würde besser übersetzt mit »ich will Sichem teilen«, vgl §ps-108-8
  }
 #}
+#ps-60-9 {
+ {
+  §ps-108-9
+ }
+#}
 #ps-60-11 {
  {
   <i>feste Stadt</i> vgl §ps-31-22
@@ -47605,6 +47651,11 @@
  }
  {
   Eventuell würde besser übersetzt mit »ich will Sichem teilen«, vgl §ps-60-8
+ }
+#}
+#ps-108-9 {
+ {
+  §ps-60-9
  }
 #}
 @}
@@ -55345,8 +55396,8 @@
 #}
 #jer-8-22 {
  {
-  <i>Ist kein Balsam in Gilead?</i>. In <a href='http://bibel.renenyffenegger.ch/jer_46.html#v11'>Jer&nbsp;46,11</a> scheint es Balsam in Gilead zu haben.
-  Vgl auch <a href='http://bibel.renenyffenegger.ch/jer_51.html#v8'>Jer&nbsp;51,8</a>.
+  <i>Ist kein Balsam in Gilead?</i>. In §jer-46-11 scheint es Balsam in Gilead zu haben.
+  Vgl auch §jer-51-8.
  }
 #}
 @}
@@ -64013,6 +64064,8 @@
  }
  {
   Tamar war schwanger von Hurererei (§1mo-38-24), vgl §Vmt-1-5 (Rahab), §Vmt-1-6 (David und Bathseba) und §joh-8-41
+ <br>
+  <i>Perez und Serach</i>: §1chr-2-4
  }
  {
   TODO: Dieser Aram ist wohl nur wegen dem → biblisches/Bücher/Evangelien/Matthäus[Matthäusevangelium] bekannt.
@@ -66616,6 +66669,11 @@
   <br>Vgl §lk-11-32.
  }
 #}
+#mt-12-42 {
+ {
+  <i>Von den Enden der Erde kommen</i> §mk-13-27, §apg-1-8
+ }
+#}
 #mt-12-43 {
  {
   §lk-11-24
@@ -67341,7 +67399,7 @@
 #mt-16-16 {
  {
   <i>Sohn Gottes</i>: Beachte, hier spricht dieses Bekenntnis Petrus aus, in
-    <a href='http://bibel.renenyffenegger.ch/joh_6.html#v68'>Joh 6,68-69</a> spricht es Petrus in der "wir Form" aus.
+    §joh-6-68-69 spricht es Petrus in der "wir Form" aus.
   <br>Die Besessenen haben es bereits in <a class='kom' href='#Imt-8-29'>Mt&nbsp;8,29</a> ausgesprochen.
   <br>Vgl mit <i>Sohn des Jona</i> im nächsten Vers.
   <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/hos_2.html#v1'>Hos&nbsp;2,1</a>.
@@ -68469,6 +68527,9 @@
 #mt-23-38 {
  {
   <i>Euer Haus</i>: damit ist wohl der (nun) vom Herrn verlassene Tempel gemeint, vgl §mt-21-13.
+ }
+ {
+  §lk-13-35
  }
 #}
 #mt-23-39 {
@@ -71914,6 +71975,9 @@
 #mk-13-27 {
  {
    Vgl §+mt-24-31, → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde
+ }
+ {
+  <i>Vom Ende der Erde</i> §mt-12-42, §apg-1-8
  }
 #}
 #mk-13-28 {
@@ -75647,6 +75711,9 @@
  {
   <i>Ihr werdet mich nicht sehen</i> vgl §lk-17-22, §mk-14-62, §joh-16-16-ff
  }
+ {
+  §mt-23-38-39
+ }
 #}
 @}
 @Lukas 14 {
@@ -78125,6 +78192,11 @@
   TODO: Für die Samaritische Frau ist Jesus ein Jude, für andere ein Galiläer (§mt-26-69…)
  }
 #}
+#joh-4-10 {
+ {
+  <i>lebendiges Wasser</i> vgl §joh-7-38
+ }
+#}
 #joh-4-11 {
  {
   Brunnen siehe <a class='kom' href='#Ijoh-4-6'>Vers 6</a>.
@@ -78706,7 +78778,7 @@
  {
    Hier: sie erkennen, dass Er der Christus ist. Vgl <a href='http://bibel.renenyffenegger.ch/joh_7.html#v31'>Joh&nbsp;7,31</a>, wo die Volksmenge zwar glaubt,
    aber nicht erkennt, dass dieser der Christus ist.
-   Vgl auch <a class='kom' href='#Imt-16-16'>Mt&nbsp;16,16</a>.
+   Vgl auch §+mt-16-16.
  }
  {
    <span class='gt'>NA: «daß du der Heilige Gottes bist.»</span>
@@ -78869,6 +78941,9 @@
  }
 #}
 #joh-7-38 {
+ {
+  <i>Ströme lebendigen Wassers</i> vgl §joh-4-10
+ }
  {
   <i>Wer an mich glaubt</i>: <a class='kom' href='#Ijoh-6-35'>Joh&nbsp;6,35</a>.
  }
@@ -81104,7 +81179,9 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/jes_43.html#v12'>Jes&nbsp;43,12</a>.
  }
  {
-  Das Evangelium geht in der Apostelgeschichte wohl bis zu den Heiden, aber nicht bis zum Ende der Welt?
+  <i>Bis an das Ende der Erde</i> §mt-12-42, §mk-13-27
+ <br>
+  Das Evangelium geht in der Apostelgeschichte wohl bis zu den Heiden, aber nicht bis zum Ende der Erde?
  }
  {
   Siehe auch <i>Zeuge der Auferstehung</i> <a href='http://bibel.renenyffenegger.ch/apg_1.html#v22'>Apg&nbsp;1,22</a>,
@@ -83448,11 +83525,11 @@
  {
   <i>nicht dem genzen Volk</i> §+mt-12-40
  }
+#}
+#apg-10-42 {
  {
   <i>Richter der Lebendigen und der Toten</i> §2tim-4-1
  }
-#}
-#apg-10-42 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
  }
@@ -84356,6 +84433,9 @@
 #apg-14-15 {
  {
   <i>welcher den Himmel und die Erde … gemacht hat</i> vgl §apg-4-24
+ }
+ {
+  <i>daß ihr euch von diesen nichtigen Götzen bekehren sollt zu dem lebendigen Gott</i> vgl §1thes-1-9
  }
  {
    TODO: Paulus verkündigt wohl 'dieses' Evangelium, weil die Bewohner meinten, Paulus und Barnabas seien Götter (Vers 11).
@@ -87760,7 +87840,7 @@
   <i>lebendig machen</i> §+joh-5-21
  }
  {
-  <i>welchem er glaubte, der die Toten lebendig macht</i> vgl §hebr-11-19
+  <i>welchem er glaubte, der die Toten lebendig macht</i> vgl §roem-8-11, §hebr-11-19
  }
  {
   <i>Vater vieler Nationen</i>: §1mo-17-5
@@ -88183,10 +88263,10 @@
   <i>Geist, der in euch wohnt</i>, vgl §1kor-3-16-17, §1kor-6-19, §2kor-6-16, §+offb-11-11
  }
  {
-  <i>der Geist dessen, der Jesus aus den Toten auferweckt</i> vgl §roem-6-4, §1petr-3-19
+  <i>sterbliche Leiber lebendig machen</i> vgl §roem-4-17, §+joh-5-21, §2kor-3-6
  }
  {
-  <i>lebendig machen</i> §+joh-5-21
+  <i>der Geist dessen, der Jesus aus den Toten auferweckt</i> vgl §roem-6-4, §1petr-3-19
  }
 #}
 #roem-8-12 {
@@ -88838,7 +88918,7 @@
   <br>Vgl auch §hebr-13-15.
  }
  {
-  <i>eure Leiber darstellen als ein … → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schlachtopfer[Schlachtopfer]</i> vgl §roem-6-19
+  <i>eure Leiber darstellen als ein … → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schlachtopfer[Schlachtopfer]</i> vgl §roem-6-19, §+1petr-2-5
  }
  {
   <i>Leiber als … lebendig darstellen</i> Vgl mit dem Leib, der tot der Sünde wegen ist: §+roem-8-18
@@ -92519,7 +92599,7 @@
  {
   <i>lebendig machen</i> §+joh-5-21
   <br>
-  <i>Geist macht lebendig</i>: §+offb-11-11
+  <i>Geist macht lebendig</i>: §roem-8-11, §+offb-11-11
  }
 #}
 #2kor-3-7 {
@@ -97085,15 +97165,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Wie ihr euch von den → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbildern] zu Gott bekehrt habt</i>:
   Offenbar waren die Mehrheit der bekehrten Heiden, Paulus würde die Juden kaum so bezeichnet haben. Allerdings werden in
-  §apg-17-4 werden «etliche von ihnen» (also den Juden) erwähnt, die geglaubt hatten, ebenso «eine grosse Menge von den anbetenden Griechen» (wohl Prosyleten).
+  §apg-17-4 «etliche von ihnen» (also von den Juden) erwähnt, die geglaubt hatten, ebenso «eine grosse Menge von den anbetenden Griechen» (wohl Prosyleten).
   <br>
-  Vgl §1kor-12-2
+  Vgl §apg-14-15, §1kor-12-2
  }
  {
   <i>Dem lebendigen Gott dienen</i>: <a class='kom' href='#Iroem-1-9'>Röm&nbsp;1,9</a>, <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v14'>Hebr&nbsp;9,14</a>.
  }
  {
-  Vgl <a class='kom' href='#Iapg-17-18'>Apg&nbsp;17,18</a>.
+  TODO: Vgl <a class='kom' href='#Iapg-17-18'>Apg&nbsp;17,18</a>.
  }
 #}
 #1thes-1-10 {
@@ -99739,7 +99819,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @2. Timotheus 4 {
 #2tim-4-1 {
  {
-  <i>Lebendige und Tote richten</i> §1petr-4-5, §apg-10-41
+  <i>Lebendige und Tote richten</i> §1petr-4-5, §apg-10-42
  }
  {
   TODO: <i>Vor Gott ernstlich ermahnen</i>: <a class='kom' href='#I1tim-5-21'>1.&nbsp;Tim&nbsp;5,21</a>.
@@ -103527,6 +103607,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>heiliges Priestertum</i> und «königliches Priestertum» vgl <a class='kom' href='#I2mo-19-6'>2.&nbsp;Mo&nbsp;19,6</a>.
+ }
+ {
+  Vgl die <i>lebendigen Steine</i> mit dem «lebendigen Schlachtopfer» §roem-12-1
  }
  {
   Vgl <a class='kom' href='#I1koe-6-7'>1.&nbsp;Kö&nbsp;6,7</a>.
