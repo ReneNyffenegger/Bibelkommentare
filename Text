@@ -19702,6 +19702,9 @@
 #}
 #4mo-31-8 {
  {
+  §jos-13-21
+ }
+ {
   <i>5. Könige der Midianiter</i>: <a class='kom' href='#I1mo-14-9'>1.&nbsp;Mo&nbsp;14,9</a>. Vgl mit den
     <i>beiden Königen der Midianiter</i> (<a href='http://bibel.renenyffenegger.ch/ri_8.html#v12'>Ri&nbsp;8,12</a>)
   <br>TODO: Vgl mit den Königen der Amoriter, die auch <i>fünf</i> oder <i>beide</i> sind (<a class='kom' href='#Ijos-10-5'>Jos&nbsp;10,5</a>).
@@ -24564,6 +24567,9 @@
 #}
 #jos-13-21 {
  {
+  §4mo-31-8
+ }
+ {
   Fünf Fürste werden hier aufgezählt, vgl mit den fünf Fürsten der Philister: §Vjos-13-3.
  }
  {
@@ -24660,6 +24666,9 @@
 #jos-14-12 {
  {
   <i>Enakim</i>: §+jos-11-21
+ }
+ {
+  TODO: Gemäss §1chr-2-42 ist Marescha, ein Nachkomme des früheren Kalebs, der Vater Hebrons.
  }
 #}
 #jos-14-13 {
@@ -24810,7 +24819,7 @@
   §+ri-1-13.
  }
  {
-  TODO: Vgl mit dem früheren Kaleb, der ebenfalls eine Tochter namens Aksa hatte, §1chr-2-49
+  Vgl mit dem früheren Kaleb, der ebenfalls eine Tochter namens Aksa hatte, §1chr-2-49
  }
 #}
 #jos-15-19 {
@@ -35378,6 +35387,11 @@
   <i>Karmi</i> war der Sohn Sabdis, des Sohnes Serachs, §jos-7-1.
  }
 #}
+#1chr-2-9 {
+ {
+  <i>Kelubai</i> wird in §V1chr-2-18 Kaleb, in §1chr-4-1 Karmi genannt.
+ }
+#}
 #1chr-2-11 {
  {
   Salma, sonst genannt: <b>Salmon</b> ist der Mann Rahabs (<a href='http://bibel.renenyffenegger.ch/mt_1.html#v5'>Mt&nbsp;1,5</a>).
@@ -35402,7 +35416,7 @@
 #}
 #1chr-2-18 {
  {
-  Frage: Ist <i>Kaleb, der Sohn Hezrons</i> derselbe wie <i>Kaleb, der Bruder Jerachmeels</i> (Vers 42)?
+  <i>Kaleb</i> wird in §V1chr-2-9 Kelubai, in §1chr-4-1 Karmi genannt. Seine Söhne werden in §V1chr-2-42 aufgezählt.
  }
 #}
 #1chr-2-19 {
@@ -35439,12 +35453,25 @@
 #}
 #1chr-2-31 {
  {
-  Frage: Ist <i>Achlai</i> die Tochter. Vgl Vers 34.
+  Gemäss §V1chr-2-34 hatte Scheschai keine Söhne.
+ }
+#}
+#1chr-2-39 {
+ {
+  TODO Vgl mit Asarja, dem Sohn Obeds aus §2chr-23-1
  }
 #}
 #1chr-2-42 {
  {
-  <i>Siph</i> und <i>Marescha</i> wird in §2chr-11-8 als Orte genannt.
+  <i>Kaleb</i>: §V1chr-2-18
+ }
+ {
+  TODO: Hebron wurde Kaleb, dem Sohn Jephunnes, zum Erbteil gegeben, §jos-14-12.
+  <br>
+   Siph wird als Nachkomme on Jehallelel, ebenfalls im Zusammenhang mit Kaleb, dem Sohn Jephunnes, in §1chr-4-16 genannt.
+ }
+ {
+  <i>Siph</i> und <i>Marescha</i> werden in §2chr-11-8 als Orte genannt.
  }
  {
   <i>Marescha</i>: <a class='kom' href='#Ijos-15-44'>Jos&nbsp;15,44</a>.
@@ -35458,7 +35485,7 @@
       nicht genannt.
  }
  {
-  TODO: Der (spätere) Kaleb (der Sohn des Jephunne) hatte eine Tochter namens Aksa, die er Othniel, seinem Bruder, zur Frau gab, weil dieser Kirjath-Sepher geschlagen hat, §jos-15-16-17
+  Der (spätere) Kaleb (der Sohn des Jephunne) hatte auch eine Tochter namens Aksa, die er Othniel, seinem Bruder, zur Frau gab, weil dieser Kirjath-Sepher geschlagen hat, §jos-15-16-17
  }
  {
   TODO: vgl <a class='kom' href='#Ijos-15-40'>Jos&nbsp;15,40</a>.
@@ -35644,10 +35671,16 @@
  {
   ist dieser <i>Hattusch</i> derselbe, der in §esr-8-2 als «von den Söhnen Davids» genannt wird?
  }
+ {
+  Namentlich werden hier <i>fünf</i>, nicht sechs, Söhne aufgezählt.
+ }
 #}
 @}
 @1. Chronik 4 {
 #1chr-4-1 {
+ {
+  <i>Karmi</i> scheint ein anderer Name für Kelubai resp. Kaleb zu sein, vgl §1chr-2-9, §1chr-2-18-20.
+ }
  {
   <i>Schobal</i> §1chr-2-50
  }
@@ -35733,6 +35766,11 @@
 #1chr-4-13 {
  {
   <i>Hatat</i> (<span class='hebr'>חֲתַת</span>, Strongs 2867), dasselbe Wort wie 'Schreckliches' in <a href='http://bibel.renenyffenegger.ch/hi_6.html#v21'>Hi&nbsp;6,21</a> (dort Strongs 2866).
+ }
+#}
+#1chr-4-16 {
+ {
+  TODO: Siph als Nachkomme Kalebs: §1chr-2-42
  }
 #}
 #1chr-4-17 {
@@ -39017,6 +39055,11 @@
 #}
 @}
 @2. Chronik 23 {
+#2chr-23-1 {
+ {
+  TODO: Vgl mit Asarja, dem Sohn des Sohnes Obeds aus §1chr-2-39
+ }
+#}
 #2chr-23-8 {
  {
   <i>Wechsel am Sabbat</i> vgl §+1chr-24-6, §1chr-9-25
@@ -62777,6 +62820,9 @@
 #ob-1-3 {
  {
   <i>Der Übermut deines Herzens haben dich verführt, der du in Felsenklüften wohnst</i> §jer-43-16
+ }
+ {
+  <i>Wer wird mich zur Erde hinabstürzen?</i> vgl §offb-12-9
  }
  {
   TODO: <a class='kom' href='#I2chr-25-12'>2.&nbsp;Chr&nbsp;25,12</a>.
@@ -108487,7 +108533,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte die Einheit des Drachens und der Schlange auch in den Versen 15 bis 16. Vgl mit <a href='http://bibel.renenyffenegger.ch/offb_20.html#v2'>Offb&nbsp;20,2</a>.
  }
  {
-   <i>wurde auf die Erde geworfen</i> vgl §jes-14-12, §lk-10-18
+   <i>wurde auf die Erde geworfen</i> vgl §jes-14-12, §lk-10-18, §ob-1-3
  <br>
   Beachte: Das Niederwerfen des Satans hat offenbar etwas mit der Rettung, der Macht und dem Reich zu tun (Vers 10).
  }
