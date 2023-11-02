@@ -29145,12 +29145,15 @@
   Es gibt aber auch das 'Südland von Kaleb' (<a href='http://bibel.renenyffenegger.ch/1sam_30.html#v14'>1.&nbsp;Sam&nbsp;30,14</a>).
  }
  {
-  <i>Abigail</i> wird → biblisches/Personen/David[Davids] Frau (<a href='http://bibel.renenyffenegger.ch/1sam_25.html#v40'>1.&nbsp;Sam&nbsp;25,40-42</a>) und (mit Achinoam) gefangen werggeführt werden
+  <i>Abigail</i> wird → biblisches/Personen/David[Davids] Frau (<a href='http://bibel.renenyffenegger.ch/1sam_25.html#v40'>1.&nbsp;Sam&nbsp;25,40-42</a>) und (mit Achinoam) gefangen weggeführt werden
   (<a href='http://bibel.renenyffenegger.ch/1sam_30.html#v5'>1.&nbsp;Sam&nbsp;30,5</a>).
  }
  {
   <i>Nabal</i>: <span class='hebr'>נָבָל</span> (Strongs 5037), bedeutet offenbar 'Narr' (Strongs 5036) (zum Beispiel übersetzt als 'töricht' in
   <a href='http://bibel.renenyffenegger.ch/5mo_32.html#v6'>5.&nbsp;Mo&nbsp;32,6</a>.
+ }
+ {
+  Beachte: <i>Abigail</i> ist auch der Name einer Schwester Davids, §1chr-2-16
  }
 #}
 #1sam-25-4 {
@@ -29228,6 +29231,11 @@
 #1sam-26-2 {
  {
   Vgl <a class='kom' href='#I1sam-13-2'>1.&nbsp;Sam&nbsp;13,2</a>.
+ }
+#}
+#1sam-26-6 {
+ {
+  <i>Zeruja</i> ist die Schwester Davids, vgl §2sam-2-18 und §1chr-2-16
  }
 #}
 #1sam-26-10 {
@@ -29584,6 +29592,11 @@
 #2sam-2-17 {
  {
   <a class='kom' href='#I2sam-24-2'>2.&nbsp;Sam&nbsp;24,2</a>.
+ }
+#}
+#2sam-2-18 {
+ {
+  <i>Drei Söhne der Zeruja</i>: §1chr-2-16
  }
 #}
 #2sam-2-24 {
@@ -35376,6 +35389,9 @@
 #}
 #1chr-2-6 {
  {
+  Offenbar ist hier die erste Stelle in der Chronik, wo der Autor Informationen gibt, die nicht anderweitig aus dem Alten Testament bekannt sind.
+ }
+ {
   Etan und Heman: §+1chr-15-17, vgl §1koe-5-11.
  }
 #}
@@ -35407,6 +35423,14 @@
 #1chr-2-15 {
  {
   Die Söhne von → biblisches/Personen/David werden in §1chr-3-1-ff aufgezählt.
+ }
+#}
+#1chr-2-16 {
+ {
+  <i>Drei Söhne der Zeruja</i>: §2sam-2-18
+ }
+ {
+  <i>Abigail</i> ist die Mutter Amasas, §V1chr-2-17, §2sam-17-25. David heiratete eine <i>Abigail</i> (die Karmelitin), §1chr-3-1, §1sam-25-39-42.
  }
 #}
 #1chr-2-17 {
@@ -35553,6 +35577,9 @@
  }
  {
   → biblisches/Personen/David: §1chr-2-15
+ }
+ {
+  <i>Abigail</i> ist auch der Name einer Schwester Davids, §1chr-2-16
  }
 #}
 #1chr-3-2 {
