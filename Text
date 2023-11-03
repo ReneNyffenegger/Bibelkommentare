@@ -35573,16 +35573,18 @@
 @1. Chronik 3 {
 #1chr-3-1 {
  {
-  §2sam-3-2
- }
- {
-  → biblisches/Personen/David: §1chr-2-15
+  Hier wird der Stammbaum → biblisches/Personen/David[Davids] fortgesetzt, der in §1chr-2-15 unterbrochen wird.
+  <br>
+  Davids Söhne, die in Hebron geboren wurden, werden auch in §2sam-3-2-ff aufgezählt. Dort wird Daniel Kileab genannt.
  }
  {
   <i>Abigail</i> ist auch der Name einer Schwester Davids, §1chr-2-16
  }
 #}
 #1chr-3-2 {
+ {
+  Im Grundtext hat Absalom ein führendes Lamed (<span class='hebr'>לְאַבְשָׁל֣וֹם</span>). Einige Ausleger interpretieren dies als ein «Lo», also nicht-Absalom, oder «nicht der Vater des Friedens».
+ }
  {
   §2sam-3-3
  }
@@ -42275,7 +42277,12 @@
    places him [Yedoniah?, texts 30 and 31, Cowley edition] in the 14th and 17th years of Darius II
    Nothus [c. 410–407 BC]; Jos. Antiq. XI, 7, 1), and
    <br>
-    Jaddua: §neh-12-22, §esr-3-2
+    Jaddua: §Vneh-12-22, §esr-3-2
+ }
+#}
+#neh-12-11 {
+ {
+  <i>Jaddua</i> ist möglicherweise der Priester, der Alexander dem Grossen entgegentrat (→ Geschichte/Israel/Personen/Flavius-Josephus, → Geschichte/Quellen/0094-Jüdische-Altertuemer[Altertümer] <a href='https://de.wikisource.org/wiki/J%C3%BCdische_Altert%C3%BCmer/Buch_XI#11_326'>11.326-339</a>)
  }
 #}
 #neh-12-14 {
@@ -44473,6 +44480,11 @@
   <br>TODO: Vgl <a href='http://bibel.renenyffenegger.ch/offb_10.html#v7'>Offb&nbsp;10,7</a>.
  }
 #}
+#ps-25-15 {
+ {
+  <i>Meine Augen sind stets auf den HERRN gerichtet</i> vgl §ps-34-16, §+ps-121-1, §ps-141-8
+ }
+#}
 #ps-25-19 {
  {
   Beachte, wie → biblisches/Personen/David gehasst wird.
@@ -44756,6 +44768,11 @@
 #ps-33-14 {
  {
   Vgl Vers 18 und <a href='http://bibel.renenyffenegger.ch/ps_34.html#v16'>Ps&nbsp;34,16</a>.
+ }
+#}
+#ps-33-16 {
+ {
+  <i>Die Augen des HERRN sind gerichtet auf die Gerechten</i> vgl §25-15
  }
 #}
 #ps-33-17 {
@@ -48165,6 +48182,11 @@
   Vgl diesen und folgende Verse mit <a href='http://bibel.renenyffenegger.ch/ps_135.html#v15'>Ps 135,15 ff</a>.
  }
 #}
+#ps-115-5 {
+ {
+  §ps-135-16
+ }
+#}
 #ps-115-10 {
  {
   Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>. Auch Vers 11.
@@ -48292,6 +48314,11 @@
   <i>Den Herrn suchen</i>: vgl Vers 10.
  }
 #}
+#ps-119-18 {
+ {
+  <i>Öffne meine Augen</i> vgl §Vps-119-37, §Vps-119-82
+ }
+#}
 #ps-119-22 {
  {
   <i>Wälze von mir Hohn</i> vgl §Vps-119-39, §Vps-119-42
@@ -48308,6 +48335,9 @@
  }
 #}
 #ps-119-37 {
+ {
+  <i>Wende meine Augen ab</i> vgl §Vps-119-18
+ }
  {
   → biblisches/Bücher/Ketuvim/Psalmen/119#ps-119-belebe-mich[Belebe mich] in → biblisches/Bücher/Ketuvim/Psalmen/119
  }
@@ -48372,6 +48402,9 @@
 #ps-119-82 {
  {
   <i>Wann wirst du mich trösten</i> vgl §Vps-119-52.
+ }
+ {
+  <i>Meine Augen schmachten…</i> vgl §+Vps-119-18
  }
 #}
 #ps-119-88 {
@@ -48490,6 +48523,9 @@
  {
   → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
  }
+ {
+  <i>Ich hebe meine Augen auf zu dir</i> vgl §ps-123-1, §+ps-25-15
+ }
 #}
 #ps-121-2 {
  {
@@ -48520,6 +48556,9 @@
 #ps-123-1 {
  {
   → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[Stufenlied]
+ }
+ {
+  <i>Ich hebe meine Augen auf zu dir</i>: §+ps-121-1
  }
 #}
 @}
@@ -48731,6 +48770,11 @@
   Vgl diesen und die folgenden Verse mit <a class='kom' href='#Ips-115-4'>Ps&nbsp;115,4ff</a>.
  }
 #}
+#ps-135-16 {
+ {
+  §ps-115-5
+ }
+#}
 #ps-135-17 {
  {
   Vgl §offb-13-15
@@ -48852,6 +48896,11 @@
 #ps-141-5 {
  {
    TODO: Menge schreibt, dass seine Übersetzung der Verse 5-7 unsicher ist und der hebräische Text verderbt sei.
+ }
+#}
+#ps-141-8 {
+ {
+  <i>Auf dich … sind meine Augen gerichtet</i> vgl §+ps-25-15
  }
 #}
 @}
