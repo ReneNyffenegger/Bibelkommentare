@@ -27508,6 +27508,9 @@
   → biblisches/Personen/Perez/Judas-Sohn[Perez] bis → biblisches/Personen/David: §mt-1-3-ff
  }
  {
+  Vgl die Stammeslinie bis David mit §1chr-2-9-15
+ }
+ {
   <i>Geschlechter</i>: Toledot (תֹלְדֹותָ)
  }
 #}
@@ -30375,8 +30378,7 @@
 #}
 #2sam-15-16 {
  {
-  Die <i>zehn Nebenfrauen</i>: <a href='http://bibel.renenyffenegger.ch/2sam_16.html#v21'>2.&nbsp;Sam&nbsp;16,21</a> und
-  <a href='http://bibel.renenyffenegger.ch/2sam_20.html#v3'>2.&nbsp;Sam&nbsp;20,3</a>.
+  Die <i>zehn Nebenfrauen</i>: §2sam-16-21 und §2sam-20-3. Vgl §1chr-3-9
  }
 #}
 #2sam-15-27 {
@@ -35405,14 +35407,20 @@
 #}
 #1chr-2-9 {
  {
+  Vgl die Linie bis David in §V1chr-2-15 mit dem Ende des Buches Ruth, §rt-4-18-22
+ }
+ {
   <i>Kelubai</i> wird in §V1chr-2-18 Kaleb, in §1chr-4-1 Karmi genannt.
  }
 #}
 #1chr-2-11 {
  {
-  Salma, sonst genannt: <b>Salmon</b> ist der Mann Rahabs (<a href='http://bibel.renenyffenegger.ch/mt_1.html#v5'>Mt&nbsp;1,5</a>).
-  <br>Beachte, dass ein anderer(?) Salma der 'Vater Bethlehems' genannt wird (und dass Salmon, der Vorfahre Davids doch
+  Salma, sonst genannt: <b>Salmon</b> ist der Mann Rahabs (§mt-1-5).
+  <br>Beachte, dass ein anderer(?) Salma der «Vater Bethlehems» genannt wird (und dass Salmon, der Vorfahre Davids doch
   bestimmt auch etwas mit Bethlehem zu tun hat).
+ }
+ {
+  TODO: Möglicherweise kann <i>Hareph, der Vater von Beth-Gader</i> mit «Pnuel, dem vater Gedors» gleichgesetzt werden, ebenfalls in §1chr-4-4
  }
 #}
 #1chr-2-13 {
@@ -35525,7 +35533,7 @@
 #}
 #1chr-2-51 {
  {
-  Salma, der Vater von → biblisches/Orte/Bethlehem, vgl §1chr-4-4
+  Salma, der Vater von → biblisches/Orte/Bethlehem, vgl §V1chr-2-54, §1chr-4-4
  }
 #}
 #1chr-2-52 {
@@ -35552,8 +35560,14 @@
 #}
 #1chr-2-54 {
  {
+  <i>Bethlehem</i> als Sohn Salmas: §1chr-2-51
+ }
+ {
   TODO: <i>Hälfte der Manachtiter</i> (<span class='hebr'>חֲצִי  הַמְּנַחְתִּי</span>, Strongs ???) vgl Vers 52.
   <br>Vgl auch mit <i>Manoach</i>, dem Vater Simsons, der von <i>Zorea</i> (wegen Zoriter) kommt.
+ }
+ {
+  TODO: Gibt es eine Verbindung von <i>Ateroth-Beth-Joab</i> zu Joab in §1chr-4-14
  }
 #}
 #1chr-2-55 {
@@ -35566,7 +35580,7 @@
   <br>S.a. <a class='kom' href='#I1chr-4-12'>1.&nbsp;Chr&nbsp;4,12</a>.
  }
  {
-  TODO: <i>Jabez</i>: vgl <a href='http://bibel.renenyffenegger.ch/1chr_4.html#v9'>1.&nbsp;Chr&nbsp;4,9</a>.
+  <i>Jabez</i>: vgl §1chr-4-9.
  }
 #}
 @}
@@ -35622,6 +35636,14 @@
 #1chr-3-8 {
  {
   Vgl <i>Eljama</i> mit <i>Beeljada</i>, §1chr-14-7, s. a. §2sam-5-16
+ }
+#}
+#1chr-3-9 {
+ {
+  David hatte mindestens 10 Nebenfrauen, §2sam-15-16, §2sam-20-3
+ }
+ {
+  <i>Tamar</i> hat vermutlich dieselbe Mutter wie Absalom, §2sam-13-1
  }
 #}
 #1chr-3-10 {
@@ -35795,6 +35817,14 @@
 #1chr-4-13 {
  {
   <i>Hatat</i> (<span class='hebr'>חֲתַת</span>, Strongs 2867), dasselbe Wort wie 'Schreckliches' in <a href='http://bibel.renenyffenegger.ch/hi_6.html#v21'>Hi&nbsp;6,21</a> (dort Strongs 2866).
+ }
+#}
+#1chr-4-14 {
+ {
+  <i>Tal der Werkleute</i> §neh-11-35
+ }
+ {
+  TODO: <i>Joab</i> §1chr-2-54
  }
 #}
 #1chr-4-16 {
@@ -42238,7 +42268,10 @@
 #}
 #neh-11-35 {
  {
-   <i>Lod und Ono</i>: §+1chr-8-12. Vgl §neh-6-2
+  <i>Lod und Ono</i>: §+1chr-8-12. Vgl §neh-6-2
+ }
+ {
+  <i>Tal der Werkleute</i>: §1chr-4-14
  }
 #}
 @}
