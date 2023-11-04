@@ -4638,10 +4638,10 @@
   Isaak starb <i>alt</i> (nicht in <i>gutem Alter</i>), und wurde auch zu seinen Völkern versammelt (§1mo-35-29)
  }
  {
-  <i>zu seinen Völkern versammelt werden</i>: vgl §1mo-17-4-5
+  → biblisches/Eigene-Uebersetzung/Konkordanz/alt-und-der-Tage-satt
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/alt-und-der-Tage-satt
+  <i>zu seinen Völkern versammelt werden</i>: vgl §1mo-17-4-5
  }
 #}
 #1mo-25-9 {
@@ -4707,6 +4707,9 @@
   <br><a href='http://bibel.renenyffenegger.ch/jes_21.html#v14'>Jes&nbsp;21,14</a> (Last über Arabien): die Bewohner des Landes Tema sollen dem Durstigen Wasser
       entgegenbringen, dem Flüchtling mit Brot.
   <br><a href='http://bibel.renenyffenegger.ch/jer_26.html#v23'>Jer&nbsp;25,23</a>
+ }
+ {
+  Die Kinder Ruben und die Gaditer und der hable Stamm Manasse werden Krieg mit den Hageritern und mit <i>Jetur</i> und <i>Naphish</i> führen: §1chr-5-19
  }
 #}
 #1mo-25-16 {
@@ -7342,7 +7345,7 @@
 #}
 #1mo-46-9 {
  {
-  <i>Die Söhne Rubens</i>: §1chr-5-3
+  <i>Die Söhne Rubens</i>: §2mo-6-14, §4mo-26-5, §1chr-5-3
  }
  {
   Hier hat Ruben vier Söhne, zur Zeit von <a href='http://bibel.renenyffenegger.ch/1mo_42.html#v37'>1.&nbsp;Mo&nbsp;42,37</a> waren es zwei.
@@ -8560,6 +8563,9 @@
  {
   Hier werden die beisten ersten Söhne von Ruben mit einem <i>und</i> verbunden. Hat das damit zu tun, dass zwei seiner Söhne bereits geboren wurden, bevor die 10 Brüder nach Ägypten gezogen sind, um Korn zu kaufen?
   Vgl <a class='kom' href='#I1mo-46-9'>1.&nbsp;Mo&nbsp;46,9</a>.
+ }
+ {
+  <i>Die Söhne Rubens</i>: §1mo-46-9, §4mo-26-5, §1chr-5-3
  }
 #}
 #2mo-6-15 {
@@ -19263,6 +19269,11 @@
    TODO: Wenn dies das 40. Jahr des Auszuges ist, sind diejenigen zwischen 20 und 40 jährigen <i>nicht</i> aus Ägypten ausgezogen.
  }
 #}
+#4mo-26-5 {
+ {
+  <i>Die Söhne Rubens</i>: §1mo-46-9, §2mo-6-14, §1chr-5-3
+ }
+#}
 #4mo-26-9 {
  {
   <i>Berufenen</i> siehe <a class='kom' href='#I4mo-1-16'>4.&nbsp;Mo&nbsp;1,16</a>.
@@ -19868,12 +19879,17 @@
 #}
 #4mo-32-34 {
  {
-   → biblisches/Orte/Aroer
+  → biblisches/Orte/Aroer wurden den Rubitern gegeben: §jos-13-16
  }
 #}
 #4mo-32-37 {
  {
   TODO: Siehe <a class='kom' href='#I4mo-22-39'>4.&nbsp;Mo&nbsp;22,39</a>.
+ }
+#}
+#4mo-32-38 {
+ {
+  <i>Baal-Meon</i>: §1chr-5-8
  }
 #}
 #4mo-32-39 {
@@ -24542,7 +24558,7 @@
 #}
 #jos-13-16 {
  {
-  → biblisches/Orte/Aroer, vgl §1chr-5-8
+  → biblisches/Orte/Aroer wurde von den Kindern Gad gebaut: §4mo-32-34, vgl §1chr-5-8
  }
 #}
 #jos-13-17 {
@@ -25217,6 +25233,9 @@
  {
   <i>Beerot</i>: <a class='kom' href='#Ijos-9-17'>Jos&nbsp;9,17</a>.
  }
+ {
+  TODO: Vgl <i>Rama</i> und <i>Beeroth</i> mit Baalath-Beer, das Süd-Ramath ist (§jos-19-8)
+ }
 #}
 @}
 @Josua 19 {
@@ -25227,7 +25246,7 @@
 #}
 #jos-19-2 {
  {
-  Vgl das <i>Erbteil Simeons</i> mit §1chr-4-28-ff
+  Vgl das <i>Erbteil Simeons</i> mit §1chr-4-28-ff, wo <i>Scheba</i> nicht erwähnt wird.
  }
 #}
 #jos-19-4 {
@@ -25238,7 +25257,15 @@
 #}
 #jos-19-6 {
  {
-  Insgesammt werden ab §Vjos-19-2 vierzehn Namen aufgegzählt. In §1chr-4-28-31 werden allerdings nur dreizehn. Namen erwähnt.
+  In §1chr-4-31 wird <i>Beth-Lebaoth</i> «Beth-Birei», <i>Scharuchen</i> «Schaaraim» genannt.
+ }
+ {
+  Insgesammt werden ab §Vjos-19-2 vierzehn Namen aufgezählt. In §1chr-4-28-31 werden allerdings nur dreizehn Namen erwähnt.
+ }
+#}
+#jos-19-8 {
+ {
+  TODO: §jos-18-25
  }
 #}
 #jos-19-10 {
@@ -29284,6 +29311,11 @@
   <i>David und seine beiden Frauen</i>: §1sam-25-43, §1sam-30-5, §2sam-2-2
  }
 #}
+#1sam-27-6 {
+ {
+  <i>Ziklag hat den Königen von Juda gehört</i> vgl §1chr-4-31
+ }
+#}
 #1sam-27-7 {
  {
   <i>Ein Jahr und vier Monate</i>: <a class='kom' href='#Iri-19-2'>Ri&nbsp;19,2</a>.
@@ -30974,6 +31006,9 @@
  {
   <i>Tachtim-Hodschi</i> (<span class='hebr'>תַּחְתִּים חָדְשִׁי</span>, Strongs 8483, bestehend aus 8482 2320) bedeutet offenbar etwa 'tiefster Monat'.
   <br>Vgl auch <a class='kom' href='#I1mo-7-11'>1.&nbsp;Mo&nbsp;7,11</a>.
+ }
+ {
+  <i>Dan-Jaan</i>: §+1chr-5-12
  }
 #}
 #2sam-24-7 {
@@ -33194,6 +33229,11 @@
  {
   Beachte: <i>dein Sohn</i> ... Ben-Hadad (also Sohn des Hadads)
   <br>TODO: <a class='kom' href='#I1mo-36-35'>1.&nbsp;Mo&nbsp;36,35</a>.
+ }
+#}
+#2koe-8-17 {
+ {
+  §2chr-21-5
  }
 #}
 #2koe-8-19 {
@@ -35898,7 +35938,7 @@
 #}
 #1chr-4-28 {
  {
-  <i>Und sie wohnten in Beerseba, Molada und Hazar-Schual…</i> vgl mit dem Erbteil Simeons in §jos-19-2-ff, wo zusätzlich als zweite Ort «Scheba» aufgezählt wird.
+  <i>Und sie wohnten in Beerseba, Molada und Hazar-Schual…</i> vgl mit dem Erbteil Simeons in §jos-19-2-ff, wo zusätzlich als zweiter Ort «Scheba» aufgezählt wird.
  }
 #}
 #1chr-4-30 {
@@ -35906,9 +35946,17 @@
   TODO: <b>Betuel</b> offenbar gleich geschrieben wie <i>Bethuel</i> (<a href='http://bibel.renenyffenegger.ch/1mo_22.html#v22'>1.&nbsp;Mo&nbsp;22,22</a>).
  }
 #}
+#1chr-4-31 {
+ {
+  In §jos-19-6 wird <i>Beth-Birei</i> «Beth-Lebaoth», <i>Schaaraim</i> «Scharuchen» genannt.
+ }
+ {
+  <i>das waren ihre Städte, bis David König wurde</i> vgl §1sam-27-6.
+ }
+#}
 #1chr-4-33 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis, vgl §1chr-5-7, §1chr-9-1
  }
 #}
 #1chr-4-37 {
@@ -35965,7 +36013,7 @@
 #}
 #1chr-5-3 {
  {
-  <i>Die Söhne Rubens</i>: §1mo-46-9
+  <i>Die Söhne Rubens</i>: §1mo-46-9, §2mo-6-14, §4mo-26-5
  }
  {
   <i>Entweihung des Lagers seines Vaters</i>: §+1mo-35-22.
@@ -35991,7 +36039,7 @@
  {
   <i>nach dem Verzeichnis</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis[בְּהִתְיַחֵשׂ]
   <br>
-  <i>ihrer Geschlechter</i>: Toledot (לְתֹלְדֹותָם)
+  <i>ihrer Geschlechter</i>: Toledot (לְתֹלְדֹותָם), vgl §1chr-4-33, §1chr-9-1
  }
  {
   TODO Jehiel: <a class='kom' href='#I1chr-9-35'>1.&nbsp;Chr&nbsp;9,35</a>.
@@ -35999,12 +36047,14 @@
 #}
 #1chr-5-8 {
  {
-  → biblisches/Orte/Aroer im Erbteil Rubens: §jos-13-16; <i>Baal-Meon</i>: §jos-13-17
+  → biblisches/Orte/Aroer im Erbteil Rubens (§jos-13-16), von den Kindern Gad gebaut (§4mo-32-34).
+  <br>
+  <i>Baal-Meon</i>: §jos-13-17, §4mo-32-38
  }
 #}
 #1chr-5-9 {
  {
-  (Das halbe) <i>Gilead</i> war eigentlich das Erbteil der Gaditer, §jes-13-25
+  (Das halbe) <i>Gilead</i> war eigentlich das Erbteil der Gaditer, §jos-13-25
  }
 #}
 #1chr-5-10 {
@@ -36014,8 +36064,10 @@
 #}
 #1chr-5-12 {
  {
-  TODO: bei <i>Saphat</i> handelt es sich womöglich um den Hirten Schaphat (unter David?) in <a class='kom' href='#I1chr-27-29'>1.&nbsp;Chr&nbsp;27,29</a>. Falls ja, dann wäre er
-  der Sohn Adlais.
+  Bei <i>Schaphat</i> handelt es sich womöglich um den Hirten Schaphat (unter David?) in §+1chr-27-29. Falls ja, dann wäre er der Sohn Adlais.
+ }
+ {
+  Wird «Dan-Jaan» in §2sam-24-6 nach <i>Jahnai</i> benannt?
  }
 #}
 #1chr-5-16 {
@@ -36025,6 +36077,9 @@
 #}
 #1chr-5-17 {
  {
+  Jerobeam II hat vor Jotam regiert, es scheint sich hier also um zwei Verzeichnungen zu handeln.
+ }
+ {
   <i>Verzeichnet worden sind</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
  }
  {
@@ -36033,7 +36088,9 @@
 #}
 #1chr-5-19 {
  {
-  <i>Krieg mit den Hageritern</i> §V1chr-5-10
+  <i>Krieg mit den Hageritern</i>: <i>Jetur</i> und <i>Naphisch</i> waren Nachkommen von Hagar, §1mo-25-15.
+  <br>
+   Siehe auch §V1chr-5-10
  }
 #}
 #1chr-5-23 {
@@ -36502,7 +36559,7 @@
   <i>Juda wurde wegen seiner Untreue nach Babel weggeführt</i> vgl §1chr-5-25-26
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis, vgl §1chr-4-33, §1chr-9-1
  }
  {
   Möglicherweise wurde diese Verzeichnung ins → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis unter
@@ -39074,6 +39131,11 @@
 }
 { 21-30
 @2. Chronik 21 {
+#2chr-21-5 {
+ {
+  §2koe-8-17
+ }
+#}
 #2chr-21-7 {
  {
   <i>Um Davids willen…</i> §2koe-8-19, vgl §1koe-15-4
