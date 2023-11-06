@@ -22862,10 +22862,13 @@
 #}
 #5mo-29-3 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+  §roem-11-8
  }
  {
-  <i>Ohren, die hören</i>: vgl <a class='kom' href='#I2mo-24-7'>2.&nbsp;Mo&nbsp;24,7</a>.
+  <i>Ohren, die hören</i>: vgl §+2mo-24-7.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
  }
 #}
 #5mo-29-4 {
@@ -53386,6 +53389,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leviathan
  }
 #}
+#jes-27-9 {
+ {
+  §roem-11-26
+ }
+#}
 #jes-27-10 {
  {
   <i>Feste Stadt</i>: vgl §jes-25-2.
@@ -53521,6 +53529,9 @@
  }
 #}
 #jes-29-10 {
+ {
+  §roem-11-8
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
  }
@@ -67279,6 +67290,11 @@
   <i>Gehör</i>: §+mt-4-24.
  }
 #}
+#mt-13-15 {
+ {
+  <i>Augen und Ohren</i> vgl §mk-8-18, §lk-10-23-24, §roem-11-8, §apg-28-27
+ }
+#}
 #mt-13-17 {
  {
   <i>Viele → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] und Gerechte haben begehrt zu sehen…</i> vgl §1petr-1-10, §lk-10-24
@@ -71669,7 +71685,7 @@
 #}
 #mk-8-18 {
  {
-  Vgl §lk-10-23-24
+  <i>Augen und Ohren</i> Vgl §lk-10-23-24, §mt-13-15, §roem-11-8, §apg-28-27
  }
 #}
 #mk-8-21 {
@@ -87431,6 +87447,11 @@
   Das Zitat stammt aus §jes-6-9-ff
  }
 #}
+#apg-28-27 {
+ {
+  <i>Augen und Ohren</i> vgl §mt-13-15, §mk-8-18, §roem-11-8
+ }
+#}
 #apg-28-28 {
  {
   <i>Heil</i>: §+lk-2-30.
@@ -89224,6 +89245,9 @@
 #}
 #roem-11-2 {
  {
+  <i>Gott hat sein Volk nicht verstossen</i>, aber Israel ist gestrauchelt und gefallen, §Vroem-11-11
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
 #}
@@ -89248,15 +89272,24 @@
   TODO Beachte:  <i>nicht mehr aus Werken</i> impliziert, dass die Gnadenwahl einmal aus Werken geschah.
  }
 #}
+#roem-11-7 {
+ {
+  <i>Die Auserwählten</i> und <i>die übrigen</i> §Vroem-11-25
+ }
+#}
 #roem-11-8 {
+ {
+  Paulus zitiert hier und im nächsten Vers aus den drei grosen Teilen des Alten Testaments: Propheten (§jes-29-10),
+  Gesetz (§5mo-29-3) und Psalmen (§ps-69-23-24)
+ }
+ {
+  <i>Augen und Ohren</i> vgl §mt-13-15, §mk-8-18, §apg-28-27
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
  }
 #}
 #roem-11-9 {
- {
-  Verweis: §ps-69-23
- }
  {
   TODO: <i>Fallstrick</i> (<span class='gr'>θήρα</span>, Strongs 2339) wird in KJV mit 'Trap' übersetzt. Der Diminutiv
   dieses Wortes ist offenbar <span class='gr'>θηρίον</span>, Strongs 2342, welches oft mit 'wilden Tieren' übersetzt
@@ -89264,6 +89297,9 @@
  }
 #}
 #roem-11-11 {
+ {
+  <i>Sind sie gestrauchelt … durch ihren Fall …</i>: Beachte, dass Sein Volk nicht verstossen ist: §Vroem-11-2.
+ }
  {
   <i>Zur Eifersucht reizen</i>: §+roem-10-19.
  }
@@ -89279,7 +89315,7 @@
   <i>Verminderung</i>, in Sch2K und Elb 1905 mit «Verlust», in KJV mit «diminishing» übersetzt. Ebenfalls mit «Verminderung» übersetzt in Elb 1865.
  }
  {
-  <i>Fülle</i>: <span class='gr'>πλήρωμα</span> (Strongs 4138), in §+Vroem-11-25 mit «Vollzahl» übersetzt.
+  <i>Vollzahl</i> (<span class='gr'>πλήρωμα</span>, Strongs 4138) auch in §+Vroem-11-25.
  }
  {
   <i>Reichtum der Nationen</i> vgl §jes-60-5
@@ -89326,10 +89362,16 @@
 #}
 #roem-11-25 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/Paulus
+  <i>zum Teil</i>: angeblich bezieht sich diese Quantifizierung auf Israel, nicht auf die Verstockung (also, dass nur ein Teil von Israel verstockt worden ist), vgl §Vroem-11-7
  }
  {
-  Vgl die <i>Vollzahl der Nationen</i> mit den «Zeiten der Nationen» in §lk-21-24, der «Fülle Israels» in §Vroem-11-12 und der
+  <i>bis</i> (<span class='hebr'>αχρι ου</span>) muss angeblich nicht notwendigerweise ein Ende bedeuten, sondern kann offenbar einfach anzeigen, dass etwas «bis und darüber hinaus» fortgeführt wurde (wie z. B. in §apg-7-17-18).
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/Paulus, vgl §roem-16-25 (am Ende des Römerbriefes!)
+ }
+ {
+  Vgl die <i>Vollzahl der Nationen</i> mit den «Zeiten der Nationen» in §lk-21-24, der «Vollzahl Israels» in §Vroem-11-12 und der
   «Fülle von Nationen» in §1mo-48-19.
   <br>
    Vgl §apg-15-14
@@ -89341,7 +89383,7 @@
 #}
 #roem-11-26 {
  {
-  Verweis: §+jes-59-20.
+  Verweis: §+jes-59-20, §jes-27-9
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
@@ -90249,7 +90291,7 @@
 #}
 #roem-16-25 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/Paulus
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/Paulus, vgl §roem-11-25
  }
  {
   <i>Geheimnis, das … verschwiegen war, jetzt aber geoffenbart</i> vgl §kol-1-26, §2tim-1-10
