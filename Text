@@ -19225,8 +19225,7 @@
 #}
 #4mo-25-11 {
  {
-  Vgl mit §ps-106-30-31: Pinehas übte Gericht. Es wird ihm zur
-  Gerechtigkeit in Ewigkeit angerechnet. Vgl auch Vers §V4mo-25-13
+  Vgl mit §ps-106-30-31: → biblisches/Personen/Pinehas übte Gericht. Es wird ihm zur Gerechtigkeit in Ewigkeit angerechnet. Vgl auch Vers §V4mo-25-13
  }
 #}
 #4mo-25-12 {
@@ -20253,7 +20252,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zufluchtsstadt[Zufluchtsstädte]
  }
  {
-  6 Zufluchtsstädte sind eine weniger wie 7, und 48 Städte (§V4mo-35-7) sind eine weniger wie 7x7 Städte.
+  6 Zufluchtsstädte sind eine weniger wie 7, und 48 (=6+42) Städte (§V4mo-35-7) sind eine weniger wie 7x7 Städte.
  }
  {
   TODO: Siehe auch <a href='http://bibel.renenyffenegger.ch/5mo_19.html#v2'>5. Mo 19,2 ff</a>.
@@ -25269,7 +25268,15 @@
   Insgesammt werden ab §Vjos-19-2 vierzehn Namen aufgezählt. In §1chr-4-28-31 werden allerdings nur dreizehn Namen erwähnt.
  }
 #}
+#jos-19-7 {
+ {
+  §1chr-4-32
+ }
+#}
 #jos-19-8 {
+ {
+  §1chr-4-33
+ }
  {
   TODO: §jos-18-25
  }
@@ -35963,7 +35970,15 @@
   <i>das waren ihre Städte, bis David König wurde</i> vgl §1sam-27-6.
  }
 #}
+#1chr-4-32 {
+ {
+  §jos-19-7
+ }
+#}
 #1chr-4-33 {
+ {
+  §jos-19-8
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis, vgl §1chr-5-7, §1chr-9-1
  }
@@ -36199,7 +36214,7 @@
 #}
 #1chr-5-28 {
  {
-  §+2mo-6-18, §1chr-6-3
+  Vgl §+2mo-6-18, §1chr-6-3. <i>Amminadab</i> wird auch Jizhar genannt.
  }
 #}
 #1chr-5-29 {
@@ -36225,6 +36240,9 @@
 @1. Chronik 6 {
 #1chr-6-1 {
  {
+  §1mo-46-11
+ }
+ {
   <i>Die Söhne Levis</i>: In §+1chr-5-27-ff wird die Line durch Kahat, Amram, Aaron, Eleasar etc. aufgezählt.
  }
  {
@@ -36236,10 +36254,13 @@
  {
   §2mo-6-17
  }
+ {
+  <i>Libni</i> wird in §1chr-23-1 Ladan genannt.
+ }
 #}
 #1chr-6-3 {
  {
-  §+2mo-6-18, §1chr-5-28
+  Vgl §+2mo-6-18, §1chr-5-28: <i>Jizhar</i> wird auch Amminadab genannt.
  }
 #}
 #1chr-6-4 {
@@ -36252,7 +36273,18 @@
 #}
 #1chr-6-5 {
  {
+  <i>Jachath</i> wird auch Jechiel genannt und ist das haupt, §1chr-23-8.
+ }
+ {
   Der Cousin von Jachath heisst ebenfalls Jachath, §1chr-23-10
+ }
+#}
+#1chr-6-6 {
+ {
+  <i>Iddo</i> wird in §V1chr-6-26 Adaja genannt.
+ }
+ {
+  <i>Jeathrai</i> wird in §V1chr-6-27 Ethan genannt.
  }
 #}
 #1chr-6-7 {
@@ -36331,6 +36363,16 @@
   TODO: Ist dieser Asaph 'Asaph, der Seher' (<a href='http://bibel.renenyffenegger.ch/2crh_29.html#v30'>2.&nbsp;Crh&nbsp;29,30</a>).
  }
 #}
+#1chr-6-26 {
+ {
+  <i>Adaja</i> wird in §V1chr-6-6 Iddo genannt.
+ }
+#}
+#1chr-6-27 {
+ {
+  <i>Ethan</i> wird in §V1chr-6-6 Jeathrai genannt.
+ }
+#}
 #1chr-6-30 {
  {
   TODO: Ist <i>Haschabja</i> derselbe wie <i>Hasabja</i> in <a href='http://bibel.renenyffenegger.ch/neh_12.html#v21'>Neh&nbsp;12,21</a>?
@@ -36353,6 +36395,9 @@
 #}
 #1chr-6-35 {
  {
+  → biblisches/Personen/Pinehas
+ }
+ {
   Die Nachkommen Aarons werden hier beginnend mit Aaron augezählt, die Nachkommen Levis in vorherigen Versen werden so aufgezählt, dass Levi als letzter genannt wird.
  }
 #}
@@ -36362,6 +36407,11 @@
  }
  {
   Beachte, dass hier der Stamm bei der Vergabe von Städten nicht erwähnt wird.
+ }
+#}
+#1chr-6-41 {
+ {
+  → biblisches/Personen/Kaleb
  }
 #}
 #1chr-6-42 {
@@ -37569,6 +37619,11 @@
 #1chr-23-6 {
  {
   → biblisches/Personen/Gerson-Kahat-und-Merari
+ }
+#}
+#1chr-23-7 {
+ {
+  <i>Ladan</i> wird auch Libni genannt, §1chr-6-2
  }
 #}
 #1chr-23-9 {
