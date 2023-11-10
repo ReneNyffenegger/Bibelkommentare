@@ -7420,7 +7420,15 @@
   Vgl §4mo-26-38, §1chr-7-6, §1chr-8-1
  }
  {
+  <i>Muppim und Huppim</i> werden in §1chr-7-12 die Söhne Irs genannt. Ihre Schwester war Maaka, §1chr-7-15
+ }
+ {
   Ist <i>Beker</i> dieselbe Person wie «Bekorath», §1sam-9-1, vgl §1chr-7-6
+ }
+#}
+#1mo-46-24 {
+ {
+  §1chr-7-13
  }
 #}
 #1mo-46-26 {
@@ -19335,7 +19343,7 @@
 #}
 #4mo-26-23 {
  {
-  Puwa: siehe <a class='kom' href='#I1mo-46-13'>1.&nbsp;Mo&nbsp;46,13</a>.
+  §+1mo-46-13, §1chr-7-1
  }
 #}
 #4mo-26-29 {
@@ -19416,6 +19424,11 @@
 #4mo-26-38 {
  {
   §+1mo-46-21
+ }
+#}
+#4mo-26-44 {
+ {
+  §1chr-7-30
  }
 #}
 #4mo-26-46 {
@@ -36110,6 +36123,11 @@
   Auch unter → biblisches/Personen/Hiskia fand eine Einschreibung ins → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis statt: §+2chr-31-16.
  }
 #}
+#1chr-5-18 {
+ {
+  <i>die zum Heer auszogen</i> §1chr-7-11, §1chr-12-37
+ }
+#}
 #1chr-5-19 {
  {
   <i>Krieg mit den Hageritern</i>: <i>Jetur</i> und <i>Naphisch</i> waren Nachkommen von Hagar, §1mo-25-15.
@@ -36449,7 +36467,7 @@
 @1. Chronik 7 {
 #1chr-7-1 {
  {
-  Pua: siehe <a class='kom' href='#I1mo-46-13'>1.&nbsp;Mo&nbsp;46,13</a>.
+  §+1mo-46-13, §4mo-26-23-ff
  }
 #}
 #1chr-7-5 {
@@ -36486,9 +36504,19 @@
   TODO: Ehud: §+1chr-8-6
  }
 #}
+#1chr-7-11 {
+ {
+  <i>die zum Heer auszogen in den Streit</i> vgl §1chr-5-18, §1chr-12-37
+ }
+#}
+#1chr-7-12 {
+ {
+  §1mo-46-21
+ }
+#}
 #1chr-7-13 {
  {
-  Vgl <a class='kom' href='#I1mo-35-25'>1.&nbsp;Mo&nbsp;35,25</a>
+  §1mo-46-24
  }
 #}
 #1chr-7-15 {
@@ -36503,7 +36531,15 @@
 #}
 #1chr-7-21 {
  {
-  <i>Gat</i>: <a class='kom' href='#Ijos-11-22'>Jos&nbsp;11,22</a>.
+  <i>Die Männer von Gat erschlugen sie</i> vgl §1chr-8-13
+ }
+ {
+  <i>Gat</i>: §+jos-11-22.
+ }
+#}
+#1chr-7-27 {
+ {
+  → biblisches/Personen/Josua/Nun 
  }
 #}
 #1chr-7-28 {
@@ -36512,6 +36548,11 @@
  }
  {
   TODO: <i>Geser</i>: <a class='kom' href='#Ijos-10-33'>Jos&nbsp;10,33</a>.
+ }
+#}
+#1chr-7-30 {
+ {
+  §4mo-26-44
  }
 #}
 #1chr-7-40 {
@@ -36549,6 +36590,11 @@
    Vgl mit den »Söhnen Lods … und Onos«: §esr-2-33, §neh-7-37.
    <br>
    Lod und Ono liegt offenbar im Tal der Werkleute: §neh-11-35.
+ }
+#}
+#1chr-8-13 {
+ {
+  <i>Sie verjagten die Bewohner von Gat</i> vgl §1chr-7-21
  }
 #}
 #1chr-8-19 {
@@ -36985,6 +37031,11 @@
   'Friede, Friede' siehe <a class='kom' href='#Ijes-57-19'>Jes&nbsp;57,19</a>.
  }
 #}
+#1chr-12-20 {
+ {
+  TODO: Dieser Streit scheint in 1. Sam 29-30 beschrieben zu sein.
+ }
+#}
 #1chr-12-24 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Befehl-des-HERRN.
@@ -36999,6 +37050,11 @@
  {
   Beachte: von Issaschar wird nicht angegeben, wieviele Kriegsmänner sie hatten. Stattdessen wird die Anzahl der Häupter angegeben, die
   Einsicht hatten.
+ }
+#}
+#1chr-12-37 {
+ {
+  <i>die zum Heer auszogen</i> vgl §1chr-5-18, §1chr-7-11
  }
 #}
 @}
@@ -90303,6 +90359,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
  }
+ {
+  <i>Satan unter den Füssen zertreten</i> vgl §hebr-2-14
+ }
 #}
 #roem-16-21 {
  {
@@ -101487,6 +101546,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Fleisch und Blut</i>: <a class='kom' href='#Imt-16-17'>Mt&nbsp;16,17</a>.
+ }
+ {
+  <i>Den Teufel zunichte machen</i> vgl §roem-16-20
  }
  {
   TODO Grundtext: σακρος Και αιματος oder αιματος Και σακρος?
