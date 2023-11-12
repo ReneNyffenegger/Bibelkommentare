@@ -7417,7 +7417,7 @@
 #}
 #1mo-46-21 {
  {
-  Vgl §4mo-26-38, §1chr-7-6, §1chr-8-1
+  Vgl §4mo-26-38, §1chr-7-6, §1chr-8-1, §1chr-9-7
  }
  {
   <i>Muppim und Huppim</i> werden in §1chr-7-12 die Söhne Irs genannt. Ihre Schwester war Maaka, §1chr-7-15
@@ -36531,7 +36531,7 @@
 #}
 #1chr-7-21 {
  {
-  <i>Die Männer von Gat erschlugen sie</i> vgl §1chr-8-13
+  <i>Die Männer von Gat erschlugen sie</i> vgl §1chr-8-13, §1chr-18-1
  }
  {
   <i>Gat</i>: §+jos-11-22.
@@ -36564,7 +36564,7 @@
 @1. Chronik 8 {
 #1chr-8-1 {
  {
-  Vgl §1mo-46-21
+  Vgl §1chr-9-7, §1mo-46-21
  }
 #}
 #1chr-8-3 {
@@ -36594,7 +36594,7 @@
 #}
 #1chr-8-13 {
  {
-  <i>Sie verjagten die Bewohner von Gat</i> vgl §1chr-7-21
+  <i>Sie verjagten die Bewohner von Gat</i> vgl §1chr-7-21, §1chr-18-1
  }
 #}
 #1chr-8-19 {
@@ -36709,6 +36709,11 @@
  }
  {
   TODO: Ist Bani direkter Nachfahre von Perez? Ist er einer von Hezron und Hamul? Vgl §1mo-46-12, §neh-11-4
+ }
+#}
+#1chr-9-7 {
+ {
+  §1chr-8-1, §1mo-46-21
  }
 #}
 #1chr-9-10 {
@@ -37485,6 +37490,9 @@
 #1chr-18-1 {
  {
   Gemäss §+2sam-8-1 nahm → biblisches/Personen/David auch die Zügel der Regierung aus der Hand der Philister.
+ }
+ {
+  <i>Gat</i>: §1chr-7-21, §1chr-8-13
  }
 #}
 #1chr-18-2 {
