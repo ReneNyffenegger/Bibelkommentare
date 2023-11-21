@@ -36347,6 +36347,9 @@
 #}
 #1chr-6-16 {
  {
+  <i>welche David zur Leitung des Gesanges im Haus Jehovas anstellte</i> vgl §1chr-25-1
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#lade-ruheplatz
  }
 #}
@@ -36360,6 +36363,9 @@
   <i>Heman</i>: §ps-88-1, §1chr-25-4
   <br>
   <i>Stammbaum des Heman</i> siehe §+1sam-1-1.
+ }
+ {
+  TODO: Joel war korrupt, sein Sohn Heman offenbar wieder gottesfürchtig: er schreibt Psalmen.
  }
 #}
 #1chr-6-19 {
@@ -36382,7 +36388,15 @@
   <i>Tachath</i>: §V1chr-6-9
  }
 #}
+#1chr-6-23 {
+ {
+  <i>Levi, des Sohnes Israels</i> vgl §V1chr-6-28, §V1chr-6-32.
+ }
+#}
 #1chr-6-24 {
+ {
+  <i>sein Bruder</i> vgl §V1chr-6-33
+ }
  {
   TODO: Ist dieser Asaph 'Asaph, der Seher' (<a href='http://bibel.renenyffenegger.ch/2crh_29.html#v30'>2.&nbsp;Crh&nbsp;29,30</a>).
  }
@@ -36397,6 +36411,11 @@
   <i>Ethan</i> wird in §V1chr-6-6 Jeathrai genannt.
  }
 #}
+#1chr-6-28 {
+ {
+  Hier wird, im Gegensatz zu §V1chr-6-23 nicht erwähnt, das Levi ein Sohn Israels ist.
+ }
+#}
 #1chr-6-30 {
  {
   TODO: Ist <i>Haschabja</i> derselbe wie <i>Hasabja</i> in <a href='http://bibel.renenyffenegger.ch/neh_12.html#v21'>Neh&nbsp;12,21</a>?
@@ -36408,6 +36427,9 @@
  }
 #}
 #1chr-6-33 {
+ {
+  <i>ihre Brüder</i> vgl §V1chr-6-24
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/Haus-Gottes
  }
@@ -37440,7 +37462,10 @@
 #}
 #1chr-16-41 {
  {
-   Jeduthun wurden drei Psalmen gewidmet: §+ps-39-1.
+  Jeduthun wurden drei Psalmen gewidmet: §+ps-39-1.
+ }
+ {
+  TODO: Vgl §1chr-16-41
  }
 #}
 #1chr-16-42 {
@@ -37839,6 +37864,11 @@
 #}
 @}
 @1. Chronik 25 {
+#1chr-25-1 {
+ {
+  <i>Von David zum Dienst der Weissagung abgesondert</i> vgl §1chr-6-16, §1chr-16-41
+ }
+#}
 #1chr-25-3 {
  {
   Der sechste (Simei? Vers 17) wird nicht genannt.
