@@ -11488,7 +11488,7 @@
   <br>Siehe auch <a class='kom' href='#I2mo-39-33'>2.&nbsp;Mo&nbsp;39,33</a>.
  }
  {
-  TODO: in <a href='http://bibel.renenyffenegger.ch/1sam_7.html#v6'>1.&nbsp;Sam&nbsp;7,6</a> wird <i>Zelt</i> und <i>Wohnung</i> unterschieden.
+  In §2sam-7-6 wird <i>Zelt</i> und <i>Wohnung</i> unterschieden.
  }
 #}
 #2mo-25-10 {
@@ -27707,6 +27707,11 @@
   <br>In <a href='http://bibel.renenyffenegger.ch/1sam_12.html#v17'>1.&nbsp;Sam&nbsp;12,17</a> donnert es auch.
  }
 #}
+#1sam-2-12 {
+ {
+  <i>sie kannten Jehova nicht</i> vgl §1sam-3-7
+ }
+#}
 #1sam-2-13 {
  {
   Laut Gesetz darf gekocht werden: <ul>
@@ -27783,6 +27788,11 @@
   <i>die Lampe Gottes war noch nicht erloschen</i> vgl §3mo-6-5-6, §2sam-21-17, §2chr-29-7
  }
 #}
+#1sam-3-7 {
+ {
+  <i>Samuel kannte Jehova nicht</i> vgl §1sam-2-12
+ }
+#}
 #1sam-3-10 {
  {
   Verdoppelung des Namens, siehe <a class='kom' href='#I1mo-22-11'>1.&nbsp;Mo&nbsp;22,11</a>.
@@ -27839,6 +27849,11 @@
 #1sam-4-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
+#}
+#1sam-4-12 {
+ {
+  <i>ein Mann von Benjamin</i> §1sam-9-1
  }
 #}
 #1sam-4-20 {
@@ -27929,9 +27944,6 @@
  {
   <i>Wasser ausschütten</i> dürfte kaum etwas zur Sündenvergebung beigetragen haben. (§hebr-9-22)
  }
- {
-  <i>Zelt</i> und <i>Wohnung</i>: <a class='kom' href='#I2mo-25-9'>2.&nbsp;Mo&nbsp;25,9</a>.
- }
 #}
 #1sam-7-10 {
  {
@@ -27987,6 +27999,9 @@
  {
   <a class='kom' href='#Iri-17-6'>Ri&nbsp;17,6</a>, <a class='kom' href='#Ijoh-19-15'>Joh&nbsp;19,15</a>.
  }
+ {
+  <i>Deine Söhne wandeln nicht in deinen Wegen</i>, §1sam-12-2
+ }
 #}
 #1sam-8-7 {
  {
@@ -28009,6 +28024,9 @@
 @}
 @1. Samuel 9 {
 #1sam-9-1 {
+ {
+  <i>ein Mann von Benjamin</i> §1sam-4-12
+ }
  {
  TODO
    <object data="svg_alle_kapitel/1sam_9_1_saul.svg" type="image/svg+xml" width='650' height='290'></object>
@@ -28055,10 +28073,13 @@
   <i>Salisa</i> vgl <a href='http://bibel.renenyffenegger.ch/2koe_4.html#v42'>2.&nbsp;Kö&nbsp;4,42</a>.
  }
  {
-   TODO: <i>Saalim</i>: Strongs 8171: Plural von 7776 (Füchse)
+  Ist Saul von Gibea aus losgezogen? Immerhin befindet sich sein Haus dort <a href='http://bibel.renenyffenegger.ch/1sam_10.html#v26'>1.&nbsp;Sam&nbsp;10,26</a>.
  }
  {
-  Ist Saul von Gibea aus losgezogen? Immerhin befindet sich sein Haus dort <a href='http://bibel.renenyffenegger.ch/1sam_10.html#v26'>1.&nbsp;Sam&nbsp;10,26</a>.
+  Saul findet die Eselinnen nicht, in §1sam-10-21 wird er nicht gefunden.
+ }
+ {
+  TODO: <i>Saalim</i>: Strongs 8171: Plural von 7776 (Füchse)
  }
  {
   TODO: Möglicherweise könnte man statt <i>Gebiet Benjamin</i> auch übersetzten: <i>Land der Jaminiter</i>?
@@ -28080,7 +28101,7 @@
 #}
 #1sam-9-7 {
  {
-  TODO: wir haben kein Geschenk, §1sam-10-27
+  <i>Wir haben kein Geschenk</i> §1sam-10-27
  }
 #}
 #1sam-9-9 {
@@ -28088,10 +28109,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
  }
  {
-  Die Propheten wurden vorher «Seher» genannt, evtl. steht dies damit im Zusammenhang, dass §apg-3-24 die «Propheten von Samuel an» erwähnt.
- }
- {
-  TODO: Vgl §ri-4-4, §ri-6-8
+  Die <i>Propheten</i> wurden vorher «Seher» genannt, evtl. steht dies damit im Zusammenhang, dass §apg-3-24 die «Propheten von Samuel an» erwähnt.
+ <br>
+  Den Begriff <i>Prophet</i> scheint es schon früher gegeben zu haben: §ri-4-4, §ri-6-8
  }
 #}
 #1sam-9-11 {
@@ -28212,6 +28232,9 @@
 #}
 #1sam-10-21 {
  {
+  Saul wird hier nicht gefunden, Saul hat die Eselinnen seines Vaters nicht gefunden, §1sam-9-3-ff
+ }
+ {
   <i>Matri</i> kommt sonst in der Bibel nicht vor.
  }
 #}
@@ -28238,10 +28261,10 @@
 #}
 #1sam-10-27 {
  {
-  Vgl <a class='kom' href='#I1sam-11-12'>1.&nbsp;Sam&nbsp;11,12</a>.
+  <i>Wir haben kein Geschenk</i>, §1sam-9-7
  }
  {
-  TODO: wir haben kein Geschenk, §1sam-9-7
+  Vgl <a class='kom' href='#I1sam-11-12'>1.&nbsp;Sam&nbsp;11,12</a>.
  }
 #}
 @}
@@ -28316,6 +28339,11 @@
 #}
 @}
 @1. Samuel 12 {
+#1sam-12-2 {
+ {
+  <i>meine Söhne sind bei euch</I> §1sam-8-5
+ }
+#}
 #1sam-12-6 {
  {
   Vgl <a class='kom' href='#I1sam-11-15'>1.&nbsp;Sam&nbsp;11,15</a>.
@@ -29395,7 +29423,7 @@
 #}
 #1sam-28-6 {
  {
-  Beachte: die → biblisches/Eigene-Uebersetzung/Konkordanz/Urim-und-Thummim[Urim] gehören in das *Brustschild des Gerichtes* (§2mo-28-30, §3mo-8-8) welches nicht vom Ephod verrückt werden soll (§2mo-28-28).
+  Beachte: die → biblisches/Eigene-Uebersetzung/Konkordanz/Urim-und-Thummim[Urim] gehören in das <i>Brustschild des Gerichtes</i> (§2mo-28-30, §3mo-8-8) welches nicht vom Ephod verrückt werden soll (§2mo-28-28).
   Dieses Gebot wurde bei → biblisches/Personen/David und/oder Abjatar (§1sam-23-6, §1sam-30-7) nicht beachtet.
  }
  {
@@ -30016,6 +30044,9 @@
  }
  {
   Vgl §2chr-6-5
+ }
+ {
+  <i>Zelt</i> und <i>Wohnung</i>: §+2mo-25-9.
  }
 #}
 #2sam-7-7 {
@@ -36167,7 +36198,7 @@
 #}
 #1chr-5-25 {
  {
-  <i>Sie handelten treulos… und wurden hinweggeführt</i> vgl §1chr-9-1
+  <i>Sie handelten treulos… und wurden hinweggeführt</i> vgl §1chr-9-1, §1chr-10-13.
  }
 #}
 #1chr-5-26 {
@@ -36726,7 +36757,9 @@
 @1. Chronik 9 {
 #1chr-9-1 {
  {
-  <i>Juda wurde wegen seiner Untreue nach Babel weggeführt</i> vgl §1chr-5-25-26
+  <i>Juda wurde wegen seiner Untreue nach Babel weggeführt</i> vgl §1chr-5-25-26.
+ <br>
+  Im nächsten Kapitel wird von Saul berichtet, der wegen seiner Treulosigkeit stirbt, §1chr-10-13
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis, vgl §1chr-4-33, §1chr-9-1
@@ -36967,6 +37000,10 @@
  }
 #}
 #1chr-10-13 {
+ {
+  Saul stirbt wegen seiner <i>Treulosigkeit</i>, vgl mit Juda, das wegen seiner <i>Untreue</i> nach Babel
+  weggeführt wurde, §1chr-9-1  (s. a. §1chr-5-25-26)
+ }
  {
   Saul hatte ursprünglich die Totenbeschwörer und die Wahrsager aus dem Land weggeschafft, §1sam-28-3
  }
@@ -91127,6 +91164,9 @@
 #}
 #1kor-4-3 {
  {
+  TODO: <i>das Geringste, … beurteilt zu werden</i> vgl §1kor-6-2
+ }
+ {
   TODO: müsste oder könnte <i>menschlicher Gerichtstag</i> nicht auch mit 'Tag des Menschen' übersetzt werden?
   Vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN.
  }
@@ -91354,7 +91394,10 @@
 #}
 #1kor-6-2 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
+ → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
+ }
+ {
+  TODO: §1kor-4-3
  }
 #}
 #1kor-6-3 {
@@ -92719,7 +92762,7 @@
  }
  {
   <i>Geringster Apostel</i>: vgl §eph-3-8.
-  Obwohl → biblisches/Personen/Paulus der geringste Apostel ist, steht der den ausgezeichnetsten in nichs nach: §+2kor-11-5.
+  Obwohl → biblisches/Personen/Paulus der geringste Apostel ist, steht der den ausgezeichnetsten in nichts nach: §+2kor-11-5.
   <br>Vgl auch §+mt-11-11.
  }
 #}
