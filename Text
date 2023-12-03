@@ -5145,7 +5145,7 @@
 #}
 #1mo-27-43 {
  {
-  Jakob floh auch von Laban (<a href='http://bibel.renenyffenegger.ch/1mo_31.html#v21'>1.&nbsp;Mo&nbsp;31,21</a>). Siehe auch <a href='http://bibel.renenyffenegger.ch/1mo_35.html#v1'>1.&nbsp;Mo&nbsp;35,1</a>.
+  <i>mache dich auf</i>: Jakob floh auch von Laban (§1mo-31-21). Vgl auch §1mo-35-1.
  }
  {
   Siehe <a class='kom' href='#I1mo-28-2'>1.&nbsp;Mo&nbsp;28,2</a>.
@@ -5569,10 +5569,10 @@
   (<a class='kom' href='#I1mo-31-47'>Vers 47</a>)
  }
  {
-  <i>Bergland Gilead</i> <span class='hebr'>הַ֥ר הַגִּלְעָֽד</span> (Strongs 2022 1568), eigentlich 'Berg Gilead'.
+  <i>Bergland Gilead</i> <span class='hebr'>הַ֥ר הַגִּלְעָֽד</span> (Strongs 2022 1568), eigentlich «Berg Gilead».
  }
  {
-  Jakob auf der Flucht, siehe <a class='kom' href='#I1mo-35-1'>1.&nbsp;Mo&nbsp;35,1</a>.
+  <i>Mache dich auf</i> - Jakob auf der Flucht, vgl §1mo-27-43, §+1mo-35-1.
  }
 #}
 #1mo-31-27 {
@@ -5953,7 +5953,7 @@
 @1. Mose 35 {
 #1mo-35-1 {
  {
-  Endlich kann (oder darf?) Jakob wohnen, nachdem er zweimal geflüchtet ist, §1mo-27-43 und §1mo-31-21.
+  <i>Mache dich auf</i>: Endlich kann (oder darf?) Jakob wohnen, nachdem er zweimal geflüchtet ist, §1mo-27-43 und §1mo-31-21.
  }
  {
   <i>Altar in Bethel</i>: vgl mit Altar in Sichem §+1mo-33-20.
@@ -6086,10 +6086,7 @@
   Jakob erinnert sich an den Tod Rahels: §1mo-48-7.
  }
  {
-  Beachte: Rahel wurde nicht im Erbbegräbnis begraben (<a href='http://bibel.renenyffenegger.ch/1mo_23.html#v9'>1.&nbsp;Mo&nbsp;23,9</a>, <a href='http://bibel.renenyffenegger.ch/1mo_49.html#v31'>1.&nbsp;Mo&nbsp;49,31</a>).
- }
- {
-  Rahels Grab wird in §1sam-10-2 als «an der Grenze zu Benjamin, zu Zelzach» beschrieben.
+  Beachte: Rahel wurde nicht im Erbbegräbnis begraben (§1mo-23-9, §1mo-49-31).
  }
  {
   TODO: <a href="http://hermeneutics.stackexchange.com/questions/21488/conflicting-locations-for-rachels-burial">http://hermeneutics.stackexchange.com/questions/21488/conflicting-locations-for-rachels-burial</a>.
@@ -6097,7 +6094,10 @@
 #}
 #1mo-35-20 {
  {
-  <i>Grabmal</i>: Strongs 4678, siehe <a class='kom' href='#I1mo-35-14'>Vers 14</a>.
+  <i>Grabmal Rahels</i>: §1sam-10-2. Dort wird Rahels Grab als «an der Grenze zu Benjamin, zu Zelzach» beschrieben.
+ }
+ {
+  <i>Denkmal</i>: Strongs 4678, siehe <a class='kom' href='#I1mo-35-14'>Vers 14</a>.
  }
 #}
 #1mo-35-21 {
@@ -6124,6 +6124,11 @@
 #1mo-35-23 {
  {
   TODO: siehe <a class='kom' href='#I1mo-29-30'>1.&nbsp;Mo&nbsp;29,30</a>.
+ }
+#}
+#1mo-35-24 {
+ {
+  §1mo-46-19
  }
 #}
 #1mo-35-25 {
@@ -7405,6 +7410,11 @@
 #1mo-46-17 {
  {
   TODO: Hier insgesamt 16 Personen aufgezählt, aber eine davon ist eine Schwester (Serach), nicht ein Sohn.
+ }
+#}
+#1mo-46-19 {
+ {
+  §1mo-35-24
  }
 #}
 #1mo-46-20 {
@@ -26799,17 +26809,6 @@
   Vgl <a class='kom' href='#Iri-8-1'>Ri&nbsp;8,1</a>.
  }
 #}
-#ri-12-5 {
- {
-   TODO: <i>Ephraimiter</i> (<span class='hebr'>אֶפְרָתִי</span>, Strongs 673) kann offenbar sowohl einen Einwohner von Ephraim wie
-   auch einen Einwohner von Ephrata bezeichnen. Dasselbe Wort kommt noch in den folgenden Stellen vor, wo es überall mit 'Ephratiter' übersetzt wird: <ul>
-     <li><a href='http://bibel.renenyffenegger.ch/rt_1.html#v2'>Rt&nbsp;1,2</a>
-     <li><a href='http://bibel.renenyffenegger.ch/1sam_1.html#v1'>1.&nbsp;Sam&nbsp;1,1</a>
-     <li><a href='http://bibel.renenyffenegger.ch/1sam_17.html#v12'>1.&nbsp;Sam&nbsp;17,12</a>
-     <li><a href='http://bibel.renenyffenegger.ch/1koe_11.html#v26'>1.&nbsp;Kö&nbsp;11,26</a>
-   </ul>
- }
-#}
 #ri-12-6 {
  {
   <i>Schibbolet</i> <span class='hebr'>שִׁבֹּלֶת</span> (Strongs 7641) bedeutet 'Ähre' (und angeblich auch 'Strömung').
@@ -27465,9 +27464,6 @@
  {
   TODO: <i>Elimelech</i> vgl mit Abimelech <a class='kom' href='#Iri-8-31'>Ri&nbsp;8,31</a>.
  }
- {
-  <i>Ephratiter</i>: siehe <a class='kom' href='#Iri-12-5'>Ri&nbsp;12,5</a>.
- }
 #}
 #rt-1-22 {
  {
@@ -27686,6 +27682,11 @@
   <i>Die Unfruchtbare hat sieben geboren</i> vgl §jer-15-9
  }
 #}
+#1sam-2-6 {
+ {
+  <i>Jehova tötet und macht lebendig</i> vgl §2koe-5-7. Beachte: Der Herr selbst war tot und lebending (§offb-1-18).
+ }
+#}
 #1sam-2-8 {
  {
   <i>Erdkreis</i> <span class='hebr'>תֵּבֵל</span> (Strongs 8398).
@@ -27873,6 +27874,11 @@
   Eben-Eser: <a class='kom' href='#I1sam-4-1'>1.&nbsp;Sam&nbsp;4,1</a>
  }
 #}
+#1sam-5-2 {
+ {
+  Der Schädel Sauls wurde an das Haus Dagons geheftet, §1chr-10-10
+ }
+#}
 #1sam-5-8 {
  {
    Siehe <a href='#weg_der_lade'>Der Weg der Bundeslade</a>.
@@ -28057,7 +28063,11 @@
 #}
 #1sam-9-2 {
  {
-  <i>Er überragte alles Volk um Haupteslänge</i>: Vgl Eliab der «von hohem Wuchs war» in <a href='http://bibel.renenyffenegger.ch/1sam_16.html#v6'>1.&nbsp;Sam&nbsp;16,6-7</a>.
+  <i>von seiner Schulter an aufwärts war er höher als alles Volk</i>, §1sam-10-20.
+ <br>
+  Auch Eliab, der nächste Königsanwärter, war offenbar von hohem Wuchs. Aber der Herr gebot Samuel, nicht auf das Aussehen zu blicken: §1sam-16-6-7.
+ <br>
+  Beachte auch, dass Saul nach seinem Tod um einen Kopf kürzer gemacht wurde: sein Schädel wurde in das Haus Dagons gebracht: §1chr-10-10
  }
 #}
 #1sam-9-3 {
@@ -28156,7 +28166,7 @@
 #}
 #1sam-10-2 {
  {
-  <i>Rahels Grab</i>: §+1mo-35-19.
+  <i>Rahels Grab</i>: §+1mo-35-20
  }
  {
   TODO: Ist Zelzach Bethlehem oder Ephrata? Es bedeutet offenbar etwa <i>sonniger Schatten</i>.
@@ -28241,6 +28251,11 @@
 #1sam-10-22 {
  {
   Saul hätte wohl nach Gilgal gehen sollen (Vers 8).
+ }
+#}
+#1sam-10-23 {
+ {
+  <i>er war höher als alles Volk, von seiner Schulter an aufwärts</i>, §1sam-9-2
  }
 #}
 #1sam-10-24 {
@@ -28341,7 +28356,7 @@
 @1. Samuel 12 {
 #1sam-12-2 {
  {
-  <i>meine Söhne sind bei euch</I> §1sam-8-5
+  <i>meine Söhne sind bei euch</i>, sie wandeln aber nicht in Samuels wegen: §1sam-8-5
  }
 #}
 #1sam-12-6 {
@@ -28707,6 +28722,9 @@
 @1. Samuel 16 {
 #1sam-16-1 {
  {
+  <i>Isai, der Bethlehemiter</i> §+1sam-17-12.
+ }
+ {
   → biblisches/Orte/Bethlehem
  }
 #}
@@ -28727,7 +28745,7 @@
 #}
 #1sam-16-7 {
  {
-  <i>Hoher Wuchs</i>: Vgl Saul <a class='kom' href='#I1sam-9-2'>1.&nbsp;Sam&nbsp;9,2</a>.
+  <i>Hoher Wuchs</i>: Vgl mit Saul, der «von seiner Schulter an aufwärts höher war als alles Volk», §+1sam-9-2.
  }
  {
   Trotzdem: → biblisches/Personen/David war schön (Vers 12).
@@ -28807,10 +28825,10 @@
 #}
 #1sam-17-12 {
  {
-  <i>Ephratiter</i>: siehe <a class='kom' href='#Iri-12-5'>Ri&nbsp;12,5</a>.
+  <i>Isai, der Ephratiter</i> wird wird auch genannt, «der Bethlehemiter»: §1sam-16-1, §1sam-16-18, §1sam-17-58.
  }
  {
-  → biblisches/Personen/David war (ein Sohn) eines Ephratiters, wie auch Jerobeam, ser Sohn Nebats (<a href='http://bibel.renenyffenegger.ch/1koe_11.html#v26'>1.&nbsp;Kö&nbsp;11,26</a>).
+  → biblisches/Personen/David war (ein Sohn) eines Ephratiters, wie auch Jerobeam, der Sohn Nebats (§1koe-11-26) und Elkana, der Vater Samuels §1sam-1-1.
  }
 #}
 #1sam-17-15 {
@@ -28890,6 +28908,11 @@
   Saul wusste eigentlich, wer → biblisches/Personen/David war: Der Sohn Isais, tüchtig zum Kampf (<a href='http://bibel.renenyffenegger.ch/1sam_16.html#v18'>1.&nbsp;Sam&nbsp;16,18</a>) und <i>sogar</i>
   der Waffenträger Sauls (<a href='http://bibel.renenyffenegger.ch/1sam_16.html#v21'>1.&nbsp;Sam&nbsp;16,21</a>).
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/1sam_17.html#v33'>1.&nbsp;Sam&nbsp;17,33</a>.
+ }
+#}
+#1sam-17-58 {
+ {
+  <i>Isai, der Bethlehemiter</i> §+1sam-17-12.
  }
 #}
 @}
@@ -30683,10 +30706,13 @@
 @2. Samuel 20 {
 #2sam-20-1 {
  {
+  <i>Wir haben kein Teil an David und kein Erbteil an dem Sohn Isais! Ein jeder zu seinen Zelten, Israel!</i> §1koe-12-16
+ }
+ {
   <i>Scheba</i> <span class='hebr'>שֶׁבַע</span> (Strongs 7652), 'sieben' (siehe <a class='kom' href='#I1mo-21-31'>1.&nbsp;Mo&nbsp;21,31</a>).
  }
  {
-   TODO <i>nichtswürdiger</i> eigentlich <span class='hebr'>בְּלִיַּעַל</span>. Ebenso <a href='http://bibel.renenyffenegger.ch/2sam_23.html#v6'>2.&nbsp;Sam&nbsp;23,6</a>.
+  TODO <i>nichtswürdiger</i> eigentlich <span class='hebr'>בְּלִיַּעַל</span>. Ebenso <a href='http://bibel.renenyffenegger.ch/2sam_23.html#v6'>2.&nbsp;Sam&nbsp;23,6</a>.
  }
 #}
 #2sam-20-3 {
@@ -32158,8 +32184,7 @@
 #}
 #1koe-11-26 {
  {
-  <i>Ephratiter</i>: siehe <a class='kom' href='#Iri-12-5'>Ri&nbsp;12,5</a>.
-  <br>→ biblisches/Personen/David, der Ephratiter: <a class='kom' href='#I1sam-17-12'>1.&nbsp;Sam&nbsp;17,12</a>.
+  → biblisches/Personen/David, der Ephratiter: <a class='kom' href='#I1sam-17-12'>1.&nbsp;Sam&nbsp;17,12</a>.
  }
  {
   <i>Nebat</i> (<span class='hebr'>נְבָט</span>, Strongs 5028): beachte, es gibt auch einen <i>Nabot</i> (<span class='hebr'>נָבוֹת</span>, Strongs, 5022, <a class='kom' href='#I1koe-21-1'>1.&nbsp;Kö&nbsp;21,1</a>).
@@ -32234,6 +32259,11 @@
  }
  {
   Parallel: <a href='http://bibel.renenyffenegger.ch/2chr_10.html#v15'>2.&nbsp;Chr&nbsp;10,15</a>.
+ }
+#}
+#1koe-12-16 {
+ {
+  <i>Was haben wir für Teil an David? Und wir haben kein Erbteil am Sohn Isais! Zu deinen Zelten, Israel!</i> §2sam-20-1
  }
 #}
 #1koe-12-18 {
@@ -33201,7 +33231,7 @@
 #}
 #2koe-5-7 {
  {
-  <i>Bin ich Gott, um zu töten und lebendig zu machen</i> vgl §offb-1-18
+  <i>Bin ich Gott, um zu töten und lebendig zu machen</i> vgl §1sam-2-6, §offb-1-18
  }
 #}
 #2koe-5-8 {
@@ -35642,6 +35672,9 @@
 #}
 #1chr-2-50 {
  {
+  <i>Das sind die Söhne Hurs, des Erstgeborenen der Ephratha</i> §1chr-4-4
+ }
+ {
   <i>Kirjat-Jearim</i>: <a class='kom' href='#Ijos-9-21'>Jos&nbsp;9,21</a>.
  }
  {
@@ -35885,6 +35918,9 @@
  }
 #}
 #1chr-4-4 {
+ {
+  <i>Die Söhne Hurs, des Erstgeborenen der Ephratha</i> §1chr-2-50
+ }
  {
   Hur, der Vater von → biblisches/Orte/Bethlehem, vgl §1chr-2-51
  }
@@ -36180,6 +36216,9 @@
 #1chr-5-22 {
  {
   <i>bis zur Wegführung</i>: §V1chr-5-6
+ }
+ {
+  <i>Der Streit war von Gott</i> vgl §2chr-20-15
  }
 #}
 #1chr-5-23 {
@@ -36997,6 +37036,14 @@
 #1chr-10-6 {
  {
   §1sam-31-6
+ }
+#}
+#1chr-10-10 {
+ {
+  Die Bundeslade wurde auch in das Haus Dagons gebracht, §1sam-5-2 
+ }
+ {
+  Beachte, dass Saul ein Kopf (also ein Schädel) höher war wie das Volk, §1sam-9-2.
  }
 #}
 #1chr-10-13 {
@@ -39318,6 +39365,11 @@
 #2chr-20-14 {
  {
   TODO: <i>Jehiel</i>: <a class='kom' href='#I1chr-16-5'>1.&nbsp;Chr&nbsp;16,5</a>
+ }
+#}
+#2chr-20-15 {
+ {
+  <i>denn nicht euer ist der Streit, sondern Gottes</i> vgl §1chr-5-22
  }
 #}
 #2chr-20-19 {
@@ -53234,6 +53286,9 @@
 #}
 #jes-19-19 {
  {
+  <i>Denksäule</i> (<span class='hebr'>מַצֵּבָ֥ה</span>, Strongs 4676) wird häufig mit «Bildsäule» oder «Denkmal» übersetzt.
+ }
+ {
   <span class='u'>Offenbar ist der Zahlwert dieses und des nächsten Verses 5449, welches die Höhe der Pyramide in Pyramidenzoll sei. (Chuck Missler, Pyramids, Planets &amp; the Bible, http://www.youtube.com/watch?v=Gq5BzADd9Nc)</span>
  }
  {
@@ -57944,6 +57999,11 @@
 #jer-43-11 {
  {
   Vgl <a class='kom' href='#Ioffb-13-10'>Offb&nbsp;13,10</a>, <a href='http://bibel.renenyffenegger.ch/jer_15.html#v2'>Jer&nbsp;15,2</a>.
+ }
+#}
+#jer-43-13 {
+ {
+  <i>Säule</i> (<span class='hebr'>מַצֵּבָ֥ה</span>, Strongs 4676) wird häufig mit «Bildsäule» oder «Denkmal» übersetzt.
  }
 #}
 @}
@@ -107176,7 +107236,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>ich bin lebendig von Ewigkeit zu Ewigkeit</i> vgl §5mo-32-40
  }
  {
-  <i>Ich war tot, … und bin lebendig</i> vgl §2koe-5-7, §lk-15-32, §lk-24-5
+  <i>Ich war tot, … und bin lebendig</i> vgl §2koe-5-7, §lk-15-32, §lk-24-5, §1sam-2-6
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/tot-und-lebendig
