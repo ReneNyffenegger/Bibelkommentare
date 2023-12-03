@@ -27699,6 +27699,9 @@
   <a href='http://bibel.renenyffenegger.ch/mt_25.html#v31'>Mt&nbsp;25,31</a>
  }
  {
+  <i>Säulen der Erde</i>: §hi-9-6, §ps-75-4
+ }
+ {
   Vgl §ps-113-7
  }
 #}
@@ -28149,6 +28152,10 @@
 #}
 #1sam-9-21 {
  {
+  <i>Bin ich nicht ein Benjaminiter, von einem der kleinsten Stämme Israels, und ist nicht meine Familie die geringste unter allen Familien des Stammes Benjamin?</i> vgl mit David in
+  §1sam-18-23
+ }
+ {
   <a class='kom' href='#Iri-6-15'>Ri&nbsp;6,15</a>.
  }
 #}
@@ -28304,11 +28311,6 @@
  {
          <i>Schmach</i> (<span class='hebr'>חֶרְפָּה</span>, Strongs 2781) wird auch mit 'Schande' übersetzt (<a href='http://bibel.renenyffenegger.ch/jos_5.html#v9'>Jos&nbsp;5,9</a>,
    <a href='http://bibel.renenyffenegger.ch/1sam_17.html#v26'>1.&nbsp;Sam&nbsp;17,26</a>).
- }
-#}
-#1sam-11-6 {
- {
-  Sie kommen in <a href='http://bibel.renenyffenegger.ch/1sam_14.html#v11'>1.&nbsp;Sam&nbsp;14,11</a> wieder aus den Höhlen heraus.
  }
 #}
 #1sam-11-7 {
@@ -28957,6 +28959,11 @@
  }
  {
   Auch die andere Tochter, Michal, wurde von Saul einem anderen gegeben: <a href='http://bibel.renenyffenegger.ch/1sam_25.html#v44'>1.&nbsp;Sam&nbsp;25,44</a>.
+ }
+#}
+#1sam-18-23 {
+ {
+  <i>Bin ich doch ein armer und geringer Mann.</i> vgl mit Saul in §1sam-9-21
  }
 #}
 #1sam-18-25 {
@@ -32416,7 +32423,10 @@
 #}
 #1koe-14-23 {
  {
-  Vgl §2koe-16-4, §2koe-17-10, §2chr-28-4
+  <i> auf jedem hohen Hügel und unter jedem grünen Baum</i> Vgl §2koe-16-4, §2koe-17-10, §2chr-28-4
+ }
+ {
+  <i>Bildsäulen</i> Vgl §2koe-10-26, §2koe-17-10, §2koe-18-4, §2koe-21-3
  }
  {
   <i>Gedenksteine</i>: Siehe <a class='kom' href='#I5mo-16-22'>5.&nbsp;Mo&nbsp;16,22</a>.
@@ -33863,6 +33873,9 @@
 @}
 @2. Könige 16 {
 #2koe-16-1 {
+ {
+  §2chr-28-1
+ }
  {
   TODO: Was ist die 'Sonnenuhr des Ahas' (<a href='http://bibel.renenyffenegger.ch/2koe_20.html#v11'>2.&nbsp;Kö&nbsp;20,11</a>)?
   Kann 2. Kö 20, 9-11 so interpretiert werden, dass zur Zeit Ahas der Schatten vorwärts ging und dann bei Hiskia wieder rückwärts?
@@ -39797,6 +39810,11 @@
 #}
 @}
 @2. Chronik 28 {
+#2chr-28-1 {
+ {
+  §2koe-16-1
+ }
+#}
 #2chr-28-3 {
  {
   <i>nach den Gräueln der Nationen, die Jehova vor den Kindern Israel ausgetrieben hatte</i> §+2koe-16-3
@@ -43293,7 +43311,10 @@
 #}
 #hi-9-6 {
  {
-   TODO: Da die Erde in der Bibel nur in eschotologischen Zusammenhang mit dem Gericht bewegt wird, muss es sich hier um (zukünftiges?) Gericht handeln.
+  <i>Säulen der Erde</i>: §1sam-2-8, vgl §hi-26-11
+ }
+ {
+  TODO: Da die Erde in der Bibel nur in eschotologischen Zusammenhang mit dem Gericht bewegt wird, muss es sich hier um (zukünftiges?) Gericht handeln.
  }
 #}
 #hi-9-7 {
@@ -43647,6 +43668,11 @@
  {
   <i>Kreis</i> (<span class='hebr'>חוּג</span>, Strongs 2328, 1x) vgl <a class='kom' href='#Ihi-22-14'>Hi&nbsp;22,14</a>.
   TODO: vgl <a class='kom' href='#Ispr-8-27'>Spr&nbsp;8,27</a>.
+ }
+#}
+#hi-26-11 {
+ {
+  <i>Säulen der Erde</i>: §hi-9-6
  }
 #}
 #hi-26-13 {
@@ -44025,7 +44051,7 @@
 #}
 #hi-42-13 {
  {
-  <i>sieben Söhne und drei Töchter<i> §hi-1-2
+  <i>sieben Söhne und drei Töchter</i> §hi-1-2
  }
 #}
 #hi-42-17 {
@@ -46648,6 +46674,9 @@
 #ps-75-4 {
  {
   <i>Wankende Erde</i>: <a class='kom' href='#Ips-93-1'>Ps&nbsp;93,1</a>.
+ }
+ {
+  <i>säulen der Erde</i> §1sam-2-8
  }
 #}
 #ps-75-5 {
@@ -63659,6 +63688,11 @@
 #mi-5-5 {
  {
   → biblisches/Personen/Nimrod
+ }
+#}
+#mi-5-11 {
+ {
+  <i>du wirst keine Zauberer mehr haben</i> vgl §offb-22-15
  }
 #}
 #mi-5-13 {
@@ -111137,6 +111171,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Vgl <a class='kom' href='#Ioffb-21-8'>Offb&nbsp;21,8</a>.
+ }
+ {
+  <i>Draußen sind die Zauberer</i> vgl §mi-5-11
  }
 #}
 #offb-22-16 {
