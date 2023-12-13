@@ -2946,6 +2946,9 @@
   <a href='http://bibel.renenyffenegger.ch/1mo_17.html#v7'>1.&nbsp;Mo&nbsp;17,7</a> aufrichten. In <a href='http://bibel.renenyffenegger.ch/1mo_21.html#v33'>1.&nbsp;Mo&nbsp;21,33</a> wird
   Abraham den 'ewigen Gott' anrufen.
  }
+ {
+  TODO: vgl §+1mo-12-7
+ }
 #}
 #1mo-13-16 {
  {
@@ -47012,6 +47015,11 @@
   → biblisches/Bücher/Ketuvim/Psalmen/80/index#ps-80-gott-der-heerscharen in → biblisches/Bücher/Ketuvim/Psalmen/80/index
  }
 #}
+#ps-80-9 {
+ {
+  vgl §joh-15-15
+ }
+#}
 #ps-80-14 {
  {
    Das Ayin in <span class='hebr'>מִיָּ֑עַר</span> (Strongs 3293) ist der <i>mittlere Buchstabe der Psalmen</i> und hochgestellt (Vgl §+3mo-11-42), siehe auch
@@ -62993,6 +63001,9 @@
  {
   <i>Sittim</i> (<span class='hebr'>שִׁטָּים</span>, Strongs 7851): hier fing das Volk Israel an, Unzucht zu treiben mit den Töchtern der Moabiter, §+4mo-25-1.
  }
+ {
+  <i>eine Quelle wird aus dem Haus Jehovas hervorbrechen</i>: §offb-22-1
+ }
 #}
 #joe-4-19 {
  {
@@ -63136,7 +63147,7 @@
   <a class='kom' href='#Ihes-13-5'>Hes&nbsp;13,5</a>, <a class='kom' href='#I1koe-11-27'>1.&nbsp;Kö&nbsp;11,27</a>.
  }
  {
-  Vgl §am-9-11
+  <i>Mauerrisse</i> vgl §am-9-11
  }
  {
   <i>Harmon</i>: <span class='hebr'>הַרְמוֹן </span> (Strongs 2038, 1x) ist offenbar verwandt mit
@@ -63334,7 +63345,7 @@
  {
   Dieser Vers wird in §+apg-15-16 zitiert. → biblisches/Personen/Jakobus sagt da, dass
   die Worte der Propheten mit Simon (→ biblisches/Personen/Petrus) Aussage übereinstimmen, dass «Gott zuerst sein Augenmerk darauf richtete, aus
-  den Heiden ein Volk für seinen Namen anzunehmen».
+  den Heiden ein Volk für seinen Namen anzuinehmen».
   <br>
   Beachte den Unterschied von «Überrest → biblisches/Eigene-Uebersetzung/Konkordanz/Edom[Edoms]» hier mit «Übriggebliebenen der Menschen» dort. Die hebräischen Wörter für Edom und Mensch (Adam) sind verwandt:
   <span class='hebr'>אֱדוֹם</span> respektive <span class='hebr'>אָדָם</span>.
@@ -63346,7 +63357,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Edom/index#gericht-ueber-edom
  }
  {
-  Vgl §am-4-3
+  <i>Risse vermauern</i> vgl §am-4-3
  }
  {
   TODO <i>Hütte</i>: Strongs 5521, was sonst mit 'Laubhütte' übersetzt wird (<a class='kom' href='#I3mo-23-34'>3.&nbsp;Mo&nbsp;23,34</a>).
@@ -64641,12 +64652,13 @@
 #}
 #sach-12-10 {
  {
+  <i>sie werden auf mich blicken, den sie durchbohrt haben</i>: §offb-1-7 (auch zusammen mit §Vsach-12-12), §joh-19-37.
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
  }
  {
-  <i>durchstochen</i>: <a href='http://bibel.renenyffenegger.ch/joh_19.html#v34'>Joh&nbsp;19,34</a>,
-  <a class='kom' href='#Ijoh-19-37'>Joh&nbsp;19,37</a>,
-  <br>§offb-1-7 (auch zusammen mit §Vsach-12-12)
+  <i>durchbohren</i>: §joh-19-34,
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/sach_13.html#v6'>Sach&nbsp;13,6</a>.
   <br>Vgl auch <a class='kom' href='#Ihi-26-13'>Hi&nbsp;26,13</a>.
  }
@@ -64659,7 +64671,7 @@
 #}
 #sach-12-12 {
  {
-  <i>Geschlecht</i>: <span class='hebr'>מִשְׁפָּחָה</span> (Strongs 4940), in der → biblisches/Grundtext/LXX mit <span class='gr'>φυλή</span> (etwa: «Stämme») übersetzt. Vgl. §+offb-1-7.
+  <i>Geschlecht</i>: <span class='hebr'>מִשְׁפָּחָה</span> (Strongs 4940), in der → biblisches/Grundtext/LXX mit <span class='gr'>φυλή</span> (etwa: «Stämme») übersetzt. Vgl. §mt-24-30, §+offb-1-7.
  }
 #}
 @}
@@ -69614,7 +69626,7 @@
 #}
 #mt-24-30 {
  {
-  <i>Alle → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme[Stämme] werden wehklagen</i>: §offb-1-7
+  <i>Alle → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme[Stämme] werden wehklagen</i>: §sach-12-12, §offb-1-7
  }
  {
   <i>und dann werden wehklagen alle Stämme des Landes</i> Sch2K übersetzt mit «und dann werden sich alle Geschlechter der Erde an die Brust schlagen».
@@ -73817,7 +73829,7 @@
 #}
 #lk-1-68 {
  {
-  <i>Erlösung geschafft hat seinem Volk</i> vgl §mt-1-21, §lk-2-11, §joh-1-29, §lk-24-21
+  <i>Erlösung geschafft hat seinem Volk</i> vgl §mt-1-21, §lk-2-11, §lk-2-38, §joh-1-29, §lk-21-28, §lk-24-21
  }
  {
   <i>Sein Volk besuchen</i> vgl §lk-7-16
@@ -74024,9 +74036,9 @@
 #}
 #lk-2-25 {
  {
-  Vgl den <i>Menschen Simeon</i> mit der »Prophetin Anna« (§+Vlk-2-36).
+  Vgl den <i>Menschen Simeon</i> mit der «Prophetin Anna» (§+Vlk-2-36).
   <br>
-   Er wartete auf den Trost Israels, sie redet von ihm zu allen, welche auf die Erlösung warteten, §lk-2-38
+  Er wartete auf den Trost Israels, sie redet von ihm zu allen, welche auf die Erlösung warteten, §Vlk-2-38
  }
  {
   <i>Der Trost Israels</i> siehe §+1mo-49-10.
@@ -74134,6 +74146,11 @@
  }
  {
   84 = 12 * 7
+ }
+#}
+#lk-2-38 {
+ {
+  <i>auf die Erlösung warten</i> vgl §lk-21-28
  }
 #}
 #lk-2-39 {
@@ -77436,6 +77453,11 @@
  {
   Vgl das <i>Brausende Meer</i> und die <i>Zeichen an Sonne und Mond</i> mit §jer-31-35-36. Bedeutet dies, dass
   hier Israel kurz davor ist, aufzuhören eine Nation vor dem Angesicht Gottes zu sein?
+ }
+#}
+#lk-21-28 {
+ {
+  <i>weil eure Erlösung naht</i> vgl §lk-2-38
  }
 #}
 #lk-21-29 {
@@ -81150,6 +81172,9 @@
  {
   <i>was ich euch kundgetan habe</i> vgl §joh-17-26
  }
+ {
+  <i>Ich bin der wahre Weinstock</i> vgl §ps-80-9
+ }
 #}
 #joh-15-16 {
  {
@@ -81723,8 +81748,7 @@
 #}
 #joh-19-37 {
  {
-  TODO: Bezieht sich das <i>durchstochhen haben</i> auf den Speer (Vers 34)?
-  S.a. <a class='kom' href='#Isach-12-10'>Sach&nbsp;12,10</a>.
+ §sach-12-10
  }
 #}
 #joh-19-38 {
@@ -100420,6 +100444,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: <i>Wettkämpfe</i>:<a class='kom' href='#I1kor-9-25'>1.&nbsp;Kor&nbsp;9,25</a>.
  }
 #}
+#2tim-2-6 {
+ {
+  <i>Der Ackerbauer muß…</i> vgl §jak-5-7
+ <br>
+  Das Griechische Wort für Ackerbauer wird an anderen Stellen mit Weingärtner übersetzt, zB §joh-15-1
+ }
+#}
 #2tim-2-8 {
  {
   <i>Mein Evangelium</i>: §+roem-2-16.
@@ -104199,6 +104230,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Frucht der Erde</i>: vgl §Vjak-5-18
  }
+ {
+  <i>der Ackerbauer wartet</i> vgl §2tim-2-6
+ }
 #}
 #jak-5-9 {
  {
@@ -107054,7 +107088,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Möglicherweise wird diese Wiederkunft in §offb-14-14 beschrieben.  
  }
  {
-  TODO: Haben diese wolken mit der Schechina zu tun.
+  TODO: Haben diese Wolken mit der Schechina zu tun.
  }
  {
   <i>Alle → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme[Stämme] werden wehklagen</i>: §+mt-24-30, vgl §offb-18-9.
@@ -111060,7 +111094,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Offenbarung 22 {
 #offb-22-1 {
  {
-  <i>Strom, der aus dem Thron Gottes und des Lammes hervorging</i> §ps-46-5-6, §sach-14-8-9, §hes-47-1
+  <i>Strom, der aus dem Thron Gottes und des Lammes hervorging</i> §ps-46-5-6, §sach-14-8-9, §hes-47-1-12, §joe-4-18
  <br>
   Vgl mit dem Strom, der von Eden ausging, um den Garten zu bewässern §1mo-2-5
  }
