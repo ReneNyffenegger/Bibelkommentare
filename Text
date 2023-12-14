@@ -2728,8 +2728,9 @@
   → biblisches/Personen/Abraham/Same
  }
  {
-  Der HERR will Abrahams Samen dieses Land geben.
-  <br>In Bethel: Abraham und seinem Samen soll das ganze Land auf ewig gegeben werden, dass er dort sieht (<a href='http://bibel.renenyffenegger.ch/1mo_13.html#v14'>1.&nbsp;Mo&nbsp;13,14-15</a>)
+  Der HERR will Abrahams Samen dieses Land geben (der Herr behält aber das Eigentumsrecht, §3mo-25-23)
+  <br>In Bethel: Abraham und seinem Samen soll das ganze Land auf ewig gegeben werden, dass er dort sieht (<a href='http://bibel.renenyffenegger.ch/1mo_13.html#v14'>1.&nbsp;Mo&nbsp;13,14-15</a>).
+      Gemäss §roem-4-13 wurde er oder der Same der Verheißung sogar Erbe der ganzen Welt (Kosmos).
   <br>Der HERR führte Abram von Ur in Chaldäa, um ihm 'dieses' Land zum Erbesitz zu geben
     (<a href='http://bibel.renenyffenegger.ch/1mo_15.html#v7'>1.&nbsp;Mo&nbsp;15,7</a>)
   <br>Der HERR machte einen Bund und gab Abrahams Samen das Land vom Strom Ägyptens bis an den grossen Strom Euphrat
@@ -16198,6 +16199,9 @@
 #}
 #3mo-25-23 {
  {
+  TODO: <i>Das Land ist mein</i> vgl §1mo-12-7
+ }
+ {
   TODO: Dass Israel Gäste bei Gott sind wird erst wieder von → biblisches/Personen/David in <a href='http://bibel.renenyffenegger.ch/1chr_29.html#v15'>1.&nbsp;Chr&nbsp;29,15</a>,
   <a href='http://bibel.renenyffenegger.ch/ps_39.html#v13'>Ps&nbsp;39,13</a> erwähnt.
  }
@@ -18064,7 +18068,10 @@
 #}
 #4mo-14-3 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/zurückkehren[Nach Ägypten zurückkehren], vgl §2mo-13-7
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/zurückkehren[Nach Ägypten zurückkehren], vgl §2mo-13-17
+ }
+ {
+  §4mo-20-4-5, §4mo-21-5
  }
 #}
 #4mo-14-4 {
@@ -18593,6 +18600,11 @@
   <i>Kein Wasser</i>: §+2mo-17-1
  }
 #}
+#4mo-20-4 {
+ {
+  §+4mo-14-3
+ }
+#}
 #4mo-20-5 {
  {
   In Kanaan hätte es offenbar <i>Weinreben</i>, <i>Granatäpfel</i> und <i>Feigen</i> gehabt (<a href='http://bibel.renenyffenegger.ch/4mo_13.html#v23'>4.&nbsp;Mo&nbsp;13,23</a>).
@@ -18749,6 +18761,9 @@
 #4mo-21-5 {
  {
   Offenbar haben <i>etliche von ihnen</i> hier Christus versucht, §1kor-10-9
+ }
+ {
+  §+4mo-14-3
  }
 #}
 #4mo-21-6 {
@@ -23622,7 +23637,7 @@
 #}
 #jos-1-13 {
  {
-  In <a href='http://bibel.renenyffenegger.ch/jos_21.html#v44'>Jos&nbsp;21,44</a> heisst es, dass 'der HERR ihnen ringsum Ruhe verschaffte'.
+  <i>Jehova, euer Gott, schafft euch Ruhe</i> §jos-21-44, §jos-23-1, vgl §+jos-11-23
  }
 #}
 #jos-1-14 {
@@ -24452,7 +24467,7 @@
   Vgl mit <i>Verlosung des Landes als Erbteil</i>: §jos-13-6
  }
  {
-  Auch in <a href='http://bibel.renenyffenegger.ch/jos_14.html#v25'>Jos&nbsp;14,25</a> wird erwähnt, dass das 'Land vom Krieg ausruhte'.
+  <i>Und das Land hatte Ruhe vom Krieg.</i> §jos-14-15, vgl §jos-1-13
  }
 #}
 @}
@@ -24746,7 +24761,7 @@
   <i>Die Stadt Arbas</i> <span class='hebr'>קִרְיַת אַרְבַּע</span> (Strongs 7153), siehe auch <a class='kom' href='#I1mo-13-18'>1.&nbsp;Mo&nbsp;13,18</a>.
  }
  {
-  <i>Vom Krieg ausruhen</i>: <a class='kom' href='#Ijos-11-23'>Jos&nbsp;11,23</a>.
+  <i>das Land hatte Ruhe vom Krieg</i>: §jos-11-23.
  }
 #}
 @}
@@ -25604,7 +25619,7 @@
 #}
 #jos-21-44 {
  {
-  Siehe <a class='kom' href='#Ijos-1-13'>Jos&nbsp;1,13</a>.
+  <i>Und Jehova schaffte ihnen Ruhe</i> §jos-1-13.
  }
 #}
 @}
@@ -25652,6 +25667,9 @@
 @}
 @Josua 23 {
 #jos-23-1 {
+ {
+  <i>nachdem Jehova Israel Ruhe geschafft hatte</i> §jos-1-13.
+ }
  {
   <i>→ biblisches/Personen/Josua/Nun ist alt und wohlbetagt geworden</i> §jos-13-1
  }
@@ -38673,6 +38691,11 @@
   TODO: in <a class='kom' href='#I1koe-8-50'>1.&nbsp;Kö&nbsp;8,50</a> hat es noch einen weiteren Teil des Gebetes von Salomo aufgezeichnet.
  }
 #}
+#2chr-6-40 {
+ {
+  §2chr-7-15
+ }
+#}
 @}
 @2. Chronik 7 {
 #2chr-7-1 {
@@ -38707,6 +38730,11 @@
 #2chr-7-14 {
  {
   <i>Vom Himmel her hören</i> §neh-9-27
+ }
+#}
+#2chr-7-15 {
+ {
+  §2chr-6-40
  }
 #}
 #2chr-7-22 {
@@ -83302,7 +83330,7 @@
   <i>Dem Glauben gehorsam werden</i>: <a class='kom' href='#Iroem-1-5'>Röm&nbsp;1,5</a>.
  }
  {
-  <i>Das Wort wuchs</i>: §apg-12-24, §apg-19-20
+  <i>Das Wort wuchs</i>: §apg-12-24, §apg-13-49, §apg-19-20
  }
 #}
 #apg-6-8 {
@@ -85222,6 +85250,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
  }
 #}
+#apg-13-49 {
+ {
+  §apg-6-7
+ }
+#}
 #apg-13-50 {
  {
    Ist diese Verfolgung eine der Leiden, die Paulus in Antiochia widerfuhr (<a class='kom' href='#I2tim-3-11'>2.&nbsp;Tim&nbsp;3,11</a>)?
@@ -86462,7 +86495,7 @@
 #}
 #apg-19-20 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn], vgl §+apg-19-10
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn], vgl §+Vapg-19-10
  }
  {
   Also <i>wuchs das Wort</i>: §apg-6-7, §apg-12-24
@@ -88729,6 +88762,11 @@
  }
  {
   Siehe §+1mo-17-10.
+ }
+#}
+#roem-4-13 {
+ {
+  Beachte: <i>Erbe der Welt</i> (Kosmos), nicht «nur» Erbe des Landes! Vgl §1mo-12-7.
  }
 #}
 #roem-4-15 {
@@ -95698,7 +95736,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    Vgl §phil-3-20 «Unser Bürgerrecht ist im Himmel.»
  }
  {
-  TODO Beachte: die Lehre des Paulus sagt, wir sind nicht mehr <i>Fremdlinge und Gäste</i>, Petrus (im Brief an die Fremdlinge in der Zerstreung (<a href='http://bibel.renenyffenegger.ch/1petr_1.html#v1'>1.&nbsp;Petr&nbsp;1,1</a>)
+  TODO Beachte: die Lehre des Paulus sagt, wir sind nicht mehr <i>Fremdlinge und Gäste</i>, Petrus (im Brief an die Fremdlinge in der Zerstreuung (<a href='http://bibel.renenyffenegger.ch/1petr_1.html#v1'>1.&nbsp;Petr&nbsp;1,1</a>)
   schreibt, sie seien noch «Gäste und Fremdlinge» (<a href='http://bibel.renenyffenegger.ch/1petr_2.html#v11'>1.&nbsp;Petr&nbsp;2,11</a>).
  }
 #}
@@ -104314,7 +104352,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Vgl auch unterschiedliche Adressaten.
  }
  {
-  Hier sind die angeschriebenen Juden(?) in der <i>Zerstreung</i>; sie wohnen nicht im verheissenen Erbteil. Ihnen wird ein besseres Erbteil in den Himmeln versprochen.
+  Hier sind die angeschriebenen Juden(?) in der <i>Zerstreuung</i>; sie wohnen nicht im verheissenen Erbteil. Ihnen wird ein besseres Erbteil in den Himmeln versprochen.
   <br>
     Vgl §+joh-7-35, §jak-1-1
  }
