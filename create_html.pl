@@ -122,6 +122,15 @@ unless ($skip_bible) { # {{{
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Notizen zur Bibel</title>
   </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JRYJQTGB2N"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+
+  gtag("config", "G-JRYJQTGB2N");
+</script>
   <body>';
   
   
