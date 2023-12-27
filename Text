@@ -14712,7 +14712,7 @@
 #}
 #3mo-12-4 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/lk_2.html#v22'>Lk&nbsp;2,22</a>.
+  Vgl §lk-2-22.
  }
 #}
 #3mo-12-5 {
@@ -18337,7 +18337,7 @@
 #}
 #4mo-16-30 {
  {
-   <i>Der Erdboden tut seinen Mund auf</i> siehe <a class='kom' href='#I1mo-4-11'>1.&nbsp;Mo&nbsp;4,11</a>.
+   <i>Der Erdboden tut seinen Mund auf</i> siehe §+1mo-4-11, §4mo-26-10, §offb-12-16
  }
  {
   Die Söhne Korahs starben nicht (<a href='http://bibel.renenyffenegger.ch/4mo_26.html#v11'>4.&nbsp;Mo&nbsp;26,11</a>).
@@ -19322,7 +19322,7 @@
 #}
 #4mo-26-10 {
  {
-  → biblisches/Personen/Korah/Sohn-von-Jizhar, vgl §4mo-16-32, §4mo-16-35
+  → biblisches/Personen/Korah/Sohn-von-Jizhar, vgl §4mo-16-30
  }
 #}
 #4mo-26-11 {
@@ -21733,7 +21733,7 @@
 #}
 #5mo-11-6 {
  {
-   <i>Wie die Erde ihren Mund auftat</i> §+1mo-4-11.
+   <i>Wie die Erde ihren Mund auftat</i> §+1mo-4-11, §4mo-16-30
  }
 #}
 #5mo-11-7 {
@@ -53957,6 +53957,9 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/mt_15.html#v8'>Mt&nbsp;15,8</a> und <a href='http://bibel.renenyffenegger.ch/mk_7.html#v6'>Mk&nbsp;7,6</a>.
   <br>Vgl auch <a class='kom' href='#Ijer-12-2'>Jer&nbsp;12,2</a>.
  }
+ {
+  Das Volk naht sich mit seinem Mund, befragt aber den Mund des Herrn nicht, §jes-30-2
+ }
 #}
 #jes-29-14 {
  {
@@ -53979,6 +53982,11 @@
 #}
 @}
 @Jesaja 30 {
+#jes-30-2 {
+ {
+  <i>Meinen Mund haben sie nicht befragt</i> vgl §jes-29-13
+ }
+#}
 #jes-30-4 {
  {
   Die Fürsten von Zoan sind Toren: <a href='http://bibel.renenyffenegger.ch/jes_19.html#v11'>Jes&nbsp;19,11</a>.
@@ -55183,6 +55191,9 @@
  {
   Verweis: §roem-15-21
  }
+ {
+  <i>über ihn werden Könige ihren Mund verschließen</i> vgl §jes-53-7
+ }
 #}
 @}
 @Jesaja 53 {
@@ -55226,7 +55237,7 @@
   (Die Wörter für Schaf und Schlachtbank scheinen im Grundtext zu variieren).
  }
  {
-  <i>seinen Mund nicht auftun</i> vgl §ps-38-14
+  <i>seinen Mund nicht auftun</i> vgl §jes-52-15, §jes-55-11 §ps-38-14
   <br>
    In §mt-5-2 tut der Herr den Mund auf (und lehrt)
  }
@@ -55895,7 +55906,7 @@
 #}
 #jer-1-9 {
  {
-  <a class='kom' href='#Ijes-6-6'>Jes&nbsp;6,6</a>.
+  <i>rührte meinen Mund an</i> §+jes-6-6-7, vgl §jer-5-14
  }
 #}
 #jer-1-11 {
@@ -56075,6 +56086,11 @@
 #jer-5-4 {
  {
   TODO <i>Geringe</i>: <a class='kom' href='#Ijer-39-10'>Jer&nbsp;39,10</a>.
+ }
+#}
+#jer-5-14 {
+ {
+  <i>ich will meine Worte in deinem Mund zu Feuer machen</i>: §jer-1-9
  }
 #}
 #jer-5-15 {
@@ -57566,6 +57582,9 @@
  {
   Zedekia wurden die Augen ausgestochen (<a href='http://bibel.renenyffenegger.ch/2koe_25.html#v7'>2.&nbsp;Kö&nbsp;25,7</a>).
  }
+ {
+  §jer-34-3
+ }
 #}
 #jer-32-5 {
  {
@@ -57717,6 +57736,9 @@
 #jer-34-3 {
  {
   <i>deine Augen werden die Augen des Königs von Babel sehen</i> vgl §jer-39-7
+ }
+ {
+  §jer-32-4
  }
 #}
 #jer-34-4 {
@@ -57890,6 +57912,11 @@
  }
  {
   Vgl <a class='kom' href='#I2koe-23-36'>2.&nbsp;Kö&nbsp;23,36</a>, <a href='http://bibel.renenyffenegger.ch/jer_22.html#v18'>Jer&nbsp;22,18</a>.
+ }
+#}
+#jer-36-32 {
+ {
+  Baruche schreibt die Worte Jeremias in ein Buch, §jer-45-1
  }
 #}
 @}
@@ -58188,6 +58215,9 @@
 #jer-45-1 {
  {
   <i>Baruch</i>: <a class='kom' href='#Ijer-32-12'>Jer&nbsp;32,12</a>.
+ }
+ {
+  Baruch schreibt die Worte Jeremias in ein Buch, vgl §jer-36-32
  }
  {
   Das <i>vierte Jahr Jojakims</i> §+jer-25-1.
@@ -58963,6 +58993,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/mit-den-Zähnen-knirschen
  }
+ {
+  Die Feinde sperren ihren Mund auf, §kla-3-46
+ }
 #}
 #kla-2-17 {
  {
@@ -58984,6 +59017,11 @@
 #kla-3-37 {
  {
    Vgl §ps-33-9.
+ }
+#}
+#kla-3-46 {
+ {
+  §kla-2-16
  }
 #}
 #kla-3-53 {
@@ -65855,9 +65893,12 @@
   Am Anfang der (sogenannten) Bergpredigt sieht der Herr die <i>Volksmengenn</i>, am Ende sind sie erstaunt (§mt-7-28).
  }
  {
-   Hier sieht Jesus die <i>Volksmenge</i> und er steigt auf den Berg, als er in §mt-8-1 vom Berg herabstieg, folgte ihm eine große Volksmenge.
-   <br>Als er in §mt-8-18 wieder eine große Volksmenge sah, befahl er, ans jenseite Ufer hinwegzufahren.
-   <br>Vgl auch §mt-9-36, §mt-14-14
+  Hier setzt sich der Herr, in §mt-23-2 sind die Schriftgelehrten und Pharisäer gesetzt.
+ }
+ {
+  Hier sieht Jesus die <i>Volksmenge</i> und er steigt auf den Berg, als er in §mt-8-1 vom Berg herabstieg, folgte ihm eine große Volksmenge.
+  <br>Als er in §mt-8-18 wieder eine große Volksmenge sah, befahl er, ans jenseite Ufer hinwegzufahren.
+  <br>Vgl auch §mt-9-36, §mt-14-14
  }
  {
   <i>Berg</i>: <a class='kom' href='#Imt-4-8'>Mt&nbsp;4,8</a>. TODO: Beachte, dass er sich auch auf dem Berg in <a href='http://bibel.renenyffenegger.ch/mt_15.html#v29'>Mt&nbsp;15,29</a>
@@ -69357,6 +69398,11 @@
 #}
 @}
 @Matthäus 23 {
+#mt-23-2 {
+ {
+  Vgl mit dem Herrn, der sich auch zum lehren setzt, §mt-5-1
+ }
+#}
 #mt-23-4 {
  {
   §lk-11-46, vgl §gal-6-2
@@ -74107,10 +74153,10 @@
 #}
 #lk-2-22 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/3mo_12.html#v4'>3.&nbsp;Mo&nbsp;12,4</a>.
+  <i>Reinigung nach dem Gesetz des Moses</i>: §3mo-12-4. Vgl §lk-5-14.
  }
  {
-  TODO: Vgl das <i>Gesetz des Mose</i> mit dem <i>Gesetz des Herrn</i> in Vers 23. S.a. Vers 39.
+  Vgl das <i>Gesetz des Mose</i> mit dem <i>Gesetz des Herrn</i> im nächsten Vers. S.a. §Vlk-2-39.
  }
 #}
 #lk-2-23 {
@@ -74926,7 +74972,7 @@
 #}
 #lk-5-14 {
  {
-  §mt-8-4, §mk-1-44
+  <i>gehe hin und zeige dich dem Priester und opfere…</i>: §mt-8-4, §mk-1-44. <i>… für deine Reinigung</i>, Vgl §lk-2-22
  }
  {
   Der Geheilte musste sich dem Priester zeigen und durfte niemandem etwas sagen. Der Gadarener, von dem die Dämonen ausgefahren sind, sollte nach Hause gehen und erzählen, wieviel Gott an ihm getan hat, §lk-8-39.
@@ -76910,6 +76956,8 @@
  {
   <a href='https://renenyffenegger.ch/Biblisches/Mose-und-Propheten.html'>Mose und die Propheten</a>: beachte, das Gesetz und die Propheten waren bis auf → biblisches/Personen/Johannes/Täufer[Johannes],
   nun wird das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium[Evangelium] des Reiches Gottes verkündigt.
+ <br>
+  Vgl §lk-24-27
  }
 #}
 #lk-16-31 {
@@ -78173,6 +78221,9 @@
 #lk-24-27 {
  {
   <i>erklärte er ihnen in allen Schriften</i> vgl §Vlk-24-32, §Vlk-24-45
+ }
+ {
+  
  }
  {
   TODO: erklärte: <span class='gr'>διερμηνεύω</span> (Strongs 1329), dasselbe Wort, welches möglicherweise auch mit «übersetzen» übersetzt
@@ -83937,6 +83988,9 @@
  {
   Philippus beginnt das <i>Evangelium</i> mit der Schriftstelle von Jesaja.
  }
+ {
+  <i>Philippus tat seinen Mund auf</i> vgl §apg-10-34
+ }
 #}
 #apg-8-36 {
  {
@@ -84460,6 +84514,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen#kein-ansehen-der-person[dass Gott die Person nicht ansieht]
+ }
+ {
+  <i>Petrus tat seinen Mund auf</i> vgl §apg-8-35
  }
  {
   TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/5mo_4.html#v7'>5.&nbsp;Mo&nbsp;4,7-8</a> (wo Gott einen Unterschied zwischen Israel und dem Rest macht).
@@ -109405,7 +109462,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-12-16 {
  {
-   <i>Der Erdboden tut seinen Mund auf</i> siehe <a class='kom' href='#I1mo-4-11'>1.&nbsp;Mo&nbsp;4,11</a>.
+   <i>Der Erdboden tut seinen Mund auf</i> siehe §+1mo-4-11, §4mo-16-30
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Drache
