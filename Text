@@ -66215,6 +66215,8 @@
 #mt-6-13 {
  {
   <i>führe uns nicht in Versuchung</i>, §lk-11-4, vgl §mt-26-41, §lk-22-40
+ <br>
+  <i>erlöse uns vom Bösen</i> vgl §joh-17-15
  }
  {
   <i>erlöse</i>, in Elb05 und Sch2K mit «errette» übersetzt. Vgl §lk-11-4, wo dasselbe Griechische Wort ebenfalls mit «erlöse» übersetzt wird.
@@ -69764,7 +69766,7 @@
 #}
 #mt-24-30 {
  {
-  <i>Alle → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme[Stämme] werden wehklagen</i>: §sach-12-12, §offb-1-7
+  <i>Alle → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme[Stämme] werden wehklagen</i>: §sach-12-12, §offb-1-7, vgl §offb-18-9.
  }
  {
   <i>und dann werden wehklagen alle Stämme des Landes</i> Sch2K übersetzt mit «und dann werden sich alle Geschlechter der Erde an die Brust schlagen».
@@ -69772,7 +69774,6 @@
  {
   TODO <i>Sich an die Brust schlagen</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_1.html#v7'>Offb&nbsp;1,7</a>,
   <a class='kom' href='#Ijes-32-12'>Jes&nbsp;32,12</a>.
-  <br>TODO: <a href='http://bibel.renenyffenegger.ch/offb_18.html#v9'>Offb&nbsp;18,9</a>.
   <br>TODO: Ein Zöllner schlug an seine Brust (<a href='http://bibel.renenyffenegger.ch/lk_18.html#v13'>Lk&nbsp;18,13</a>) und ganze Scharen auch
           (<a href='http://bibel.renenyffenegger.ch/lk_23.html#v48'>Lk&nbsp;23,48</a>).
  }
@@ -69783,10 +69784,17 @@
   
  }
  {
-  <i>Gott kommt in einer Wolke</i>: <a class='kom' href='#I2mo-19-9'>2.&nbsp;Mo&nbsp;19,9</a>
+  <i>Gott kommt in einer Wolke</i>: §mt-26-64, §+2mo-19-9
  }
  {
-   TODO: Vgl mit <a class='kom' href='#Imt-26-64'>Mt&nbsp;26,64</a>.
+  Beachte die Ähnlichkeit der hier geschilderten Ereignisse mit §1thes-4-15-ff<ul>
+    <li>Das Kommen des Sohnes des Menschen
+    <li>auf Wolken
+    <li>Engel
+    <li>Posaunenschall
+    <li>Versammlung der Auserwählten
+  </ul>
+  Vgl auch §2thes-2-1
  }
  {
   TODO: od «alle Stämme des Landes» statt <i>alle Geschlechter der Erde</i>, vgl <a href='http://bibel.renenyffenegger.ch/offb_1.html#v7'>Offb&nbsp;1,7</a>.
@@ -81562,7 +81570,10 @@
 #}
 #joh-17-15 {
  {
-  TODO: <i>bewahren vor</i> <span class='gr'>τηρέω ἐκ</span> (Strongs 5083+1537) kommt offenbar nur noch in <a href='http://bibel.renenyffenegger.ch/offb_3.html#v10'>Offb&nbsp;3,10</a> vor.
+  <i>vor dem Bösen bewahren</i> §mt-6-13
+ }
+ {
+  <i>bewahren vor</i> (<span class='gr'>τηρέω ἐκ</span>, Strongs 5083+1537) kommt angeblich nur noch in §offb-3-10 vor.
  }
 #}
 #joh-17-17 {
@@ -98788,11 +98799,18 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Bücher/Paulus/Thessalonicher#thes-wiederkunft[Erwähnung der Wiederkunft in den Thessalonicherbriefen]
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]
+  Beachte die Ähnlichkeit der hier geschilderten Ereignisse mit §mt-24-30-ff (und dass Paulus diese Dinge
+  «→ biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]» sagt):<ul>
+    <li>Das Kommen des Herrn
+    <li>Erzengels
+    <li>Posaune
+    <li>in Wolken entrückt werden
+    <li>beim Herrn sein
+  </ul>
+  Vgl auch §2thes-2-1
  }
  {
-  TODO: <i>Kommen des Herrn</i>: <a class='kom' href='#I1thes-2-19'>1.&nbsp;Thes&nbsp;2,19</a>.
-  Ist da <i>wirklich</i> die Entrückung gemeint?
+   <i>Kommen des Herrn</i>: §V1thes-2-19.
  }
 #}
 #1thes-4-16 {
@@ -98843,7 +98861,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-5-2 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
+  Der → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN kommt wie ein Dieb in der Nacht, vgl §2petr-3-10
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
@@ -99152,6 +99170,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Versammeltwerden</i> <span class='gr'>ἐπισυναγωγή</span>, Strongs 1997, 2x, wird in §hebr-10-25 mit «Zusammenkommen» übersetzt.
   <br>Sch2K übersetzt mit «Vereinigung».
+ }
+ {
+  <i>Kommen des Herrn</i> und <i>Versammeltwerden</i> vgl §+mt-24-30-ff und §+1thes-4-15-ff.
  }
  {
   Vgl §+mt-24-31, §mt-25-32
@@ -106022,10 +106043,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2petr-3-10 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
+  Der → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN kommt wie ein Dieb in der Nacht, vgl §1thes-5-2
  }
  {
-  TODO: Elberfelder 1905 hat kein <i>dann</i>, sondern 'Es wird aber der Tag des Herrn kommen wie ein Dieb, <i>an welchem</i> die Himmel vergehen werden'
+  Sch2K übersetzt mit «Es wird aber der Tag des Herrn kommen wie ein Dieb in der Nacht, <i>dann</i> …»
  }
 #}
 #2petr-3-12 {
@@ -107837,8 +107858,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Stunde der Versuchung</i>: vgl mit dem «Tag der Versuchung», §hebr-3-8
  }
  {
-  Auch im Griechischen kommt zweimal dasselbe Wort für 'bewahren' vor: τηρέω (Strongs 5083).
-  <br><span class='gr'>τηρέω ἐκ</span> (Strongs 5083+1537): vgl <a class='kom' href='#Ijoh-17-15'>Joh&nbsp;17,15</a>.
+  Auch im Griechischen kommt zweimal dasselbe Wort für <i>bewahren</i> vor: τηρέω (Strongs 5083).
+  <br><span class='gr'>τηρέω ἐκ</span> (Strongs 5083+1537): vgl §+joh-17-15.
  }
  {
   TODO: <i>den ganzen Erdkreis verführen</i>: <a href='http://bibel.renenyffenegger.ch/offb_12.html#v9'>Offb&nbsp;12,9</a>
