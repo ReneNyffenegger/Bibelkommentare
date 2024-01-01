@@ -31728,6 +31728,11 @@
   §+1koe-6-7.
  }
 #}
+#1koe-7-10 {
+ {
+  <i>Grundlage aus wertvollen Steinen</i> vgl §offb-21-19
+ }
+#}
 #1koe-7-14 {
  {
   <i>Huram-Abi</i> ist gemäss §+2chr-2-13-14 «der Sohn einer Frau von den Töchtern Dans». Vgl mit 
@@ -62284,6 +62289,9 @@
  {
   <i>Gelingen haben</i> vgl §dan-8-12
  }
+ {
+  <i>er wird sich erheben und groß machen über jeden Gott</i> vgl §2thes-2-4
+ }
 #}
 #dan-11-40 {
  {
@@ -66411,6 +66419,9 @@
  }
  {
   <i>Haus auf dem Felsen (<span class='gr'>πέτρα</span>, Strongs 4073) bauen</i> vgl §mt-16-18
+ }
+ {
+  TODO: Beachte, in Versen 24-27 kommt hier das Wort «Fundament» nicht vor; und §mt-16-18 erwähnt den Bau der Versammlung auf dem Felsen. §lk-6-47-ff erwähnt das Fundament und es wird dann auch in §lk-14-29 wieder erscheinen.
  }
 #}
 #mt-7-28 {
@@ -75281,6 +75292,11 @@
   §lk-8-21, §mt-7-24
  }
 #}
+#lk-6-48 {
+ {
+  <i>Fundament legen</i> vgl §lk-14-29, §1kor-3-10-12, §eph-2-20
+ }
+#}
 @}
 @Lukas 7 {
 #lk-7-1 {
@@ -76804,6 +76820,11 @@
 #lk-14-28 {
  {
    <i>berechnen</i>: <span class='gr'>ψηφίζω</span> (Strongs 5585, 2x), das andere Vorkommen in <a href='http://bibel.renenyffenegger.ch/offb_13.html#v18'>Offb&nbsp;13,18</a>.
+ }
+#}
+#lk-14-29 {
+ {
+  <i>Fundament legen</i> vgl §lk-6-48-49
  }
 #}
 #lk-14-33 {
@@ -89129,6 +89150,9 @@
  {
   <i>auferweckt durch die Herrlichkeit des Vaters</i> vgl §roem-8-11
  }
+ {
+  <i>So sind wir nun mit ihm begraben worden durch die Taufe auf den Tod … so werden wir es auch in seiner Auferstehung sein</i> Vgl §kol-2-12
+ }
 #}
 #roem-6-5 {
  {
@@ -89514,6 +89538,11 @@
  }
  {
   <i>der sich für uns verwendet</i> vgl §Vroem-8-26, §hebr-7-25
+ }
+#}
+#roem-8-38 {
+ {
+  <i>weder Gegenwärtiges noch Zukünftiges</i> vgl §1kor-3-22
  }
 #}
 #roem-8-39 {
@@ -91348,6 +91377,9 @@
    Vgl mit dem 'Kostbarsten Stein': <a href='http://bibel.renenyffenegger.ch/offb_21.html#v11'>Offb&nbsp;21,11</a>.
  }
  {
+  TODO: vgl die Nähe der beiden Konzepte <i>Fundament</i> und <i>Gold, Silber…</i> mit §2tim-2-19.
+ }
+ {
   TODO: Vgl §4mo-31-22-ff
  }
 #}
@@ -91420,6 +91452,11 @@
  }
  {
   <i>Alles ist Euer</i> und nicht: «ich bin des Paulus» §1kor-1-12, §1kor-3-4.
+ }
+#}
+#1kor-3-22 {
+ {
+  <i>es sei Gegenwärtiges oder Zukünftiges</i> vgl §roem-8-38
  }
 #}
 #1kor-3-23 {
@@ -93089,6 +93126,9 @@
 #1kor-15-12 {
  {
   <i>Aus den Toten auferstanden</i>: <a class='kom' href='#I1kor-1-23'>1.&nbsp;Kor&nbsp;1,23</a>.
+ }
+ {
+  Hier ist die Irrlehre, daß es gar keine Auferstehung gebe, in §2tim-2-18, daß sie bereits geschehen sei.
  }
 #}
 #1kor-15-14 {
@@ -95000,6 +95040,11 @@
   <i>Der Gerechte wird aus Glauben leben</i>: §+hab-2-4, §roem-1-17, §hebr-10-38
  }
 #}
+#gal-3-13 {
+ {
+  <i>Christus hat uns losgekauft von dem Fluch des Gesetzes</i> vgl §gal-4-5
+ }
+#}
 #gal-3-14 {
  {
   Vgl <a class='kom' href='#I1mo-22-18'>1.&nbsp;Mo&nbsp;22,18</a>.
@@ -95150,6 +95195,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>geboren von einer Frau</i>: <a class='kom' href='#Ihi-14-1'>Hi&nbsp;14,1</a>.
+ }
+#}
+#gal-4-5 {
+ {
+  <i>… die, welche unter Gesetz waren, loskaufte …</i> vgl §gal-3-13
  }
 #}
 #gal-4-6 {
@@ -95890,7 +95940,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-2-20 {
  {
-  <i>Fundament</i>: <a class='kom' href='#Iroem-15-20'>Röm&nbsp;15,20</a>, <a class='kom' href='#I1kor-3-10'>1.&nbsp;Kor&nbsp;3,10</a>.
+  <i>Fundament</i>: §+roem-15-20, §+1kor-3-10; vgl §+lk-6-48
  }
  {
    Vgl <a href='http://bibel.renenyffenegger.ch/eph_4.html#v11'>Eph&nbsp;4,11</a>: Gegeben sind
@@ -97806,7 +97856,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-2-12 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
+  <i>mit ihm begraben in der → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe, in welcher ihr auch mitauferweckt worden seid …</i> vgl §roem-6-4-5, §kol-3-1
  }
 #}
 #kol-2-13 {
@@ -97862,6 +97912,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 @}
 @Kolosser 3 {
+#kol-3-1 {
+ {
+  <i>Wenn ihr nun mit dem Christus auferweckt worden seid</i> vgl §kol-2-12
+ }
+#}
 #kol-3-2 {
  {
   Vgl mit «Glieder auf Erden» (§Vkol-3-5).
@@ -99203,6 +99258,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl <i>Wort oder angeblichen Brief</i> mit Vers 15.
  }
+ {
+  Möglicherweise könnte das Ende des Verses auch übersetzt werden mit «als ob der Tag Christi gegenwärtig (<span class='gr'>ενεστηκεν</span>, Strongs 1764) wäre». vgl §2tim-3-1
+ }
 #}
 #2thes-2-3 {
  {
@@ -99225,6 +99283,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Sich in den Tempel Gottes setzen</i> vgl. mit Satan, der die «Gestalt eines Engels des Lichts annimmt» §2kor-11-14 und dem Gleichnis des Sämanns, §+mt-13-25 und mit
   Manasse, der die Aschera in den Tempel gesetzt hat, §2koe-21-7, §2chr-33-7
+ }
+ {
+  <i>und sich selbst erhöht über alles, was Gott heißt</i> vgl §dan-11-36
  }
 #}
 #2thes-2-6 {
@@ -100734,6 +100795,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>von der Wahrheit abgeirrt</i>: §+2tim-3-8
  }
+ {
+  Hier ist die Irrlehre, daß die Auferstehung schon geschehen sei, in §1kor-15-12-ff, daß es sie gar nicht gebe.
+ }
+#}
+#2tim-2-19 {
+ {
+  TODO: vgl die Nähe der beiden Konzepte <i>Fundament</i> und <i>goldene und silberne Gefässe</i> mit §1kor-3-12.
+ }
 #}
 #2tim-2-20 {
  {
@@ -100839,6 +100908,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Letzte Tage</i>: <a class='kom' href='#Ijoh-6-39'>Joh&nbsp;6,39</a>.
+ }
+ {
+  Möglicherweise könnte das Ende dieses Verses auch übersetzt werden mit «daß in den letzten Tagen schwere Zeiten gegenwärtig (<span class='gr'>ενστησονται</span>, Strongs 1764) sein werden», vgl §2thes-2-2, §hebr-9-9.
  }
 #}
 #2tim-3-2 {
@@ -102818,8 +102890,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>vollkommen</i>: <a class='kom' href='#Ihebr-2-10'>Hebr&nbsp;2,10</a>.
  }
  {
-  <i>gegenwärtige Zeit</i> vgl mit den «zukünftigen Gütern» (§Vhebr-9-11) und dem
-  dem ersten Bund, der dem Verschwinden nahe ist (§hebr-8-13).
+  <i>gegenwärtige Zeit</i> vgl mit den «zukünftigen Gütern» (§Vhebr-9-11) und dem dem ersten Bund, der dem Verschwinden nahe ist (§hebr-8-13).
+  <br>
+   Siehe auch §2tim-3-1
  }
  {
   TODO: <i>nicht vollkommen</i> sollte wohl mit «nicht vollenden» übersetzt werden, vgl §hebr-2-10 und §hebr-5-8.
@@ -103317,7 +103390,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Siehe auch <a class='kom' href='#I1kor-3-10'>1.&nbsp;Kor&nbsp;3,10</a> betreffend eines anderen Wortes für «Baumeister».
  }
  {
-  <i>Grundfesten</i>: <span class='gr'>θεμέλιος</span>, Strongs 2310. TODO: Ist 'Grundfeste' nicht ein bisschen <i>zu stark</i>
+  <i>Stadt, welche Fundamente hat, …</i> vgl §offb-21-14
+ }
+ {
+  TODO: <i>Grundfesten</i>: <span class='gr'>θεμέλιος</span>, Strongs 2310. TODO: Ist 'Grundfeste' nicht ein bisschen <i>zu stark</i>
   übersetzt; das Wort wird zB in <a href='http://bibel.renenyffenegger.ch/1kor_3.html#v11'>1.&nbsp;Kor&nbsp;3,11</a> lediglich mit 'Grund',
   in <a href='http://bibel.renenyffenegger.ch/eph_2.html#v20'>Eph&nbsp;2,20</a> und <a href='http://bibel.renenyffenegger.ch/1tim_6.html#v19'>1.&nbsp;Tim&nbsp;6,19</a> mit 'Grundlage'
   übersetzt.
@@ -111186,6 +111262,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-21-14 {
  {
+  <i>Die Mauer der Stadt hatte zwölf Fundamente</i>: §Voffb-21-19, vgl §hebr-11-10
+ }
+ {
   Ist Matthias einer der <i>zwölf Namen der Apostel</i>: <a class='kom' href='#Iapg-1-26'>Apg&nbsp;1,26</a>.
  }
 #}
@@ -111217,6 +111296,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Edelstein</i>: <a class='kom' href='#I1kor-3-12'>1.&nbsp;Kor&nbsp;3,12</a>.
+ }
+ {
+  Vgl das Fundament mit geschmückten Edelsteinen</i> mit der Grundlage aus wertvollen Steinen von Salomos Haus, §1koe-7-10.
  }
 #}
 #offb-21-20 {
