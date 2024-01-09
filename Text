@@ -55284,8 +55284,7 @@
   <i>Drache</i>: <a class='kom' href='#I1mo-1-21'>1.&nbsp;Mo&nbsp;1,21</a>.
  }
  {
-  <i>Wache auf, wache auf</i>: <a href='http://bibel.renenyffenegger.ch/jes_51.html#v17'>Jes&nbsp;51,17</a>, <a href='http://bibel.renenyffenegger.ch/jes_52.html#v1'>Jes&nbsp;52,1</a>
-   (Jeweils Strongs 5782)
+  <i>Wache auf, wache auf</i>: §Vjes-51-17, §jes-52-1 (Jeweils Strongs 5782)
  }
  {
   <i>Rahab</i> §ps-89-11
@@ -55313,6 +55312,9 @@
 #}
 #jes-51-17 {
  {
+  <i>Erwache, erwache</i> vgl §Vjes-51-9
+ }
+ {
   TODO: Vgl den <i>Becher des Zornes</i> und <i>Taumelkelch</i> mit dem <i>Kelch voll Zornwein</i> in <a href='http://bibel.renenyffenegger.ch/jer_25.html#v15'>Jer&nbsp;25,15</a>.
   <br>TODO Besser übersetzt wäre wohl sowieso «Kelch des Zorns» (oder «Zorneskelch», analog dem «Taumelkelch»).
   <br>Vgl auch mit «Trostbecher» (Kelch des Trostes?) in <a href='http://bibel.renenyffenegger.ch/jer_16.html#v7'>Jer&nbsp;16,7</a>,
@@ -55328,7 +55330,7 @@
 @Jesaja 52 {
 #jes-52-1 {
  {
-  <i>Wache auf, wache auf</i>: <a class='kom' href='#Ijes-51-9'>Jes&nbsp;51,9</a>.
+  <i>Wache auf, wache auf</i>: §+jes-51-9.
  }
  {
   Vgl <a class='kom' href='#I5mo-23-2'>5.&nbsp;Mo&nbsp;23,2</a>, <a class='kom' href='#I3mo-21-17'>3.&nbsp;Mo&nbsp;21,17-18</a>, <a class='kom' href='#Ijes-56-3'>Jes&nbsp;56,3</a>.
@@ -89870,6 +89872,9 @@
   <i>Macht</i> (<span class='gr'>δύναμις</span>, Strongs 1411), möglicherweise besser übersetzt mit «Kraft», vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft.
  }
  {
+  <i>habe erweckt</i> <span class='gr'>εξηγειρα</span> (Strongs 1825): eine Verstärkung von Strongs 1453, siehe §+1kor-6-14.
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Denn-die-Schrift-sagt
  }
  {
@@ -92079,7 +92084,11 @@
   Siehe §2kor-1-9: Paulus vertraut auf Gott, der die Toten auferweckt.
  }
  {
-   S. a. §+1kor-15-43 und §phil-3-10 (Paulus will offenbar die Kraft seiner Auferstehung kennenlernen!)
+  S. a. §+1kor-15-43 und §phil-3-10 (Paulus will offenbar die Kraft seiner Auferstehung kennenlernen!)
+ }
+ {
+  <i>hat aufwerweckt</i> ist im Grundtext <span class='gr'>ηγειρεν</span> (Strongs 1453), <i>auferwecken wird</i> <span class='gr'>εξεγερει</span> (Strongs 1825), also eine Verstärkung (eine Zusammensetzung aus ek und egeiro). Diese Verstärkung
+  wird auch Verwendet in der Septuaginta z. B. in §jes-52-1 und §roem-9-17.
  }
 #}
 #1kor-6-15 {
