@@ -17679,7 +17679,9 @@
   Hier erste Erwähnung von «Lade des Bundes» (nicht nur «Lade»): <a class='kom' href='#I2mo-25-10'>2.&nbsp;Mo&nbsp;25,10</a>.
  }
  {
-  <i>die Lade des Bundes Jehovas zog …ihnen her, um ihnen einen Ruheort zu erkunden</i> vgl §5mo-1-33
+  <i>die Lade des Bundes Jehovas zog …ihnen her, um ihnen einen Ruheort zu erkunden</i> vgl §5mo-1-33.
+ <br>
+  David bereitete eine Ort für die Lade: §1chr-15-3
  }
 #}
 #4mo-10-35 {
@@ -37445,6 +37447,11 @@
   David selbst war ein <i>Fürst</i>: §1chr-11-2
  }
 #}
+#1chr-13-3 {
+ {
+  <i>den wir haben sie … nicht befragt</i>  vgl §1chr-14-10.
+ }
+#}
 #1chr-13-5 {
  {
   <i>Vom Sihor Ägyptes bis nach Hamath hin</i> §2chr-7-8
@@ -37458,6 +37465,9 @@
 #1chr-13-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
+ }
+ {
+  Vgl §1chr-15-16-ff
  }
 #}
 #1chr-13-9 {
@@ -37475,6 +37485,9 @@
 #1chr-14-1 {
  {
   §2sam-5-11
+ }
+ {
+  <i>damit sie ihm ein Haus bauten.</i> vgl §1chr-15-1
  }
 #}
 #1chr-14-4 {
@@ -37497,6 +37510,11 @@
   <i>Philister im Tal der Rephaiter</i>: <a class='kom' href='#I2sam-5-18'>2.&nbsp;Sam&nbsp;5,18</a>.
  }
 #}
+#1chr-14-10 {
+ {
+  <i>David befragte Gott</i> vgl §1chr-13-3
+ }
+#}
 #1chr-14-16 {
  {
   <i>Geser</i>: <a class='kom' href='#Ijos-10-33'>Jos&nbsp;10,33</a>.
@@ -37512,9 +37530,17 @@
  {
   Vgl den <i>Namen Davids, der in alle Länder ausging</i> mit dem Namen Salomos: §1koe-5-11
  }
+ {
+  <i>Und der HERR legte die Furcht vor ihm auf alle Nationen</i> vgl §ps-9-21
+ }
 #}
 @}
 @1. Chronik 15 {
+#1chr-15-1 {
+ {
+  <i>er machte sich Häuser</i> vgl §1chr-14-1
+ }
+#}
 #1chr-15-2 {
  {
   Vgl §5mo-10-8
@@ -37522,7 +37548,9 @@
 #}
 #1chr-15-3 {
  {
-  <i>Der Ort der Lade</i>: §+1sam-5-11
+  <i>Der Ort der Lade</i>: §+1sam-5-11.
+ <br>
+  In §4mo-10-33-ff brach die Lade «selbständig» auf, um den Israeliten einen Ruheort zu erkunden.
  }
 #}
 #1chr-15-5 {
@@ -37539,6 +37567,11 @@
 #1chr-15-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Stangen, → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#wer-traegt-die-lade
+ }
+#}
+#1chr-15-16 {
+ {
+  Vgl §1chr-13-8
  }
 #}
 #1chr-15-17 {
@@ -37566,7 +37599,7 @@
   und <a href='http://bibel.renenyffenegger.ch/ps_12.html#v1'>Ps&nbsp;12,1</a> verwendet.
  }
  {
-  <i>Vorsänger</i>: <span class='hebr'>נָצַח</span> (Strongs 5329) in KJV mit «to Excel», in Elbefelder mit «Anführer des Gesanges der Sänger» übersetzt.
+  <i>Vorsänger</i>: <span class='hebr'>נָצַח</span> (Strongs 5329) in KJV mit «to excel», in Elbefelder mit «Anführer des Gesanges der Sänger» übersetzt.
   TODO: Dasselbe wort wird in <a href='http://bibel.renenyffenegger.ch/1chr_23.html#v4'>1.&nbsp;Chr&nbsp;23,4</a> mit «Aufsicht» führen» und in
   <a href='http://bibel.renenyffenegger.ch/2chr_2.html#v2'>2.&nbsp;Chr&nbsp;2,2</a> mit «Aufsicht» übersetzt.
   <br>Vgl <a class='kom' href='#Ips-4-1'>Ps&nbsp;4,1</a>
@@ -37603,7 +37636,7 @@
   <br>Offenbar wird hier Bathseba nicht erwähnt.
  }
  {
-  Dieses <i>Zelt</i> ist nicht die 'Wohnung', denn diese ist noch in Gibeon (Vers 39).
+  Dieses <i>Zelt</i> ist nicht die Wohnung, denn diese ist noch in Gibeon, §V1chr-16-39
  }
 #}
 #1chr-16-2 {
@@ -37791,7 +37824,7 @@
 #}
 #1chr-16-39 {
  {
-  <i>Wohnung</i>: Vers 1.
+  <i>Wohnung</i>: §V1chr-16-1
  }
 #}
 #1chr-16-40 {
@@ -37810,7 +37843,7 @@
   Jeduthun wurden drei Psalmen gewidmet: §+ps-39-1.
  }
  {
-  TODO: Vgl §1chr-16-41
+  TODO: §1chr-25-1, §1chr-6-16
  }
 #}
 #1chr-16-42 {
@@ -44658,6 +44691,11 @@
 #ps-9-20 {
  {
   <i>Stehe auf, HERR</i> §ps-10-12
+ }
+#}
+#ps-9-21 {
+ {
+  <i>Lege Furcht auf sie, HERR; mögen die Nationen wissen …</i> vgl §1chr-14-17
  }
 #}
 @}
