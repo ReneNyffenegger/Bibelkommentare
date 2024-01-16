@@ -15302,6 +15302,11 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/3mo_20.html#v15'>3.&nbsp;Mo&nbsp;20,15</a>.
  }
 #}
+#3mo-18-24 {
+ {
+  TODO: vgl §hes-4-13
+ }
+#}
 #3mo-18-25 {
  {
   Beachte: dadurch wurde das <i>Land</i> verunreinigt, und das Land speit seine Einwohner aus.
@@ -30480,6 +30485,11 @@
   Edelsteine werden auch für das »Brustschild des Gerichts« verwendet: §2mo-28-15 (dort aber nur als Steine, nicht als Edelsteine bezeichnet), vgl §+2mo-28-17
  }
 #}
+#2sam-12-31 {
+ {
+  Vgl §+1chr-20-3
+ }
+#}
 @}
 @2. Samuel 13 {
 #2sam-13-1 {
@@ -37901,6 +37911,9 @@
 @1. Chronik 18 {
 #1chr-18-1 {
  {
+  <i>Und es geschah hernach</i> §1chr-19-1, §1chr-20-4
+ }
+ {
   Gemäss §+2sam-8-1 nahm → biblisches/Personen/David auch die Zügel der Regierung aus der Hand der Philister.
  }
  {
@@ -37971,6 +37984,9 @@
 @1. Chronik 19 {
 #1chr-19-1 {
  {
+  <i>Und es geschah hernach</i> §1chr-18-1
+ }
+ {
   §2sam-10-1
  }
 #}
@@ -37991,10 +38007,19 @@
   1 Talent Gold: <a class='kom' href='#I2sam-12-30'>2.&nbsp;Sam&nbsp;12,30</a>.
  }
 #}
+#1chr-20-3 {
+ {
+  Sch2K übersetzt mit «er stellte sie an die Sägen und an eiserne Werkzeuge und eiserne Beile», KJV mit
+  «and cut them with saws, and with harrows of iron, and with axes». Angeblich ist das Hebräische Wort für «zersägen» unsicher. Vgl §2sam-12-31.
+ }
+#}
 #1chr-20-4 {
  {
   <i>Söhnen des Rapha</i>: <span class='hebr'>ילִדֵ֥י הָ/רְפָאִ֖ם</span> (Repha is in der Mehrzahl: Rephaim)
   <br>In §+2sam-21-16 ist Rapha in der Einzahl.
+ }
+ {
+  <i>Und es geschah hernach</i> §1chr-18-1
  }
  {
   TODO: <i>Geser</i>: <a class='kom' href='#Ijos-10-33'>Jos&nbsp;10,33</a>.
@@ -59533,6 +59558,9 @@
 #hes-4-13 {
  {
   TODO: <a class='kom' href='#Ihes-2-3'>Hes&nbsp;2,3</a>.
+ }
+ {
+  TODO: vgl §3mo-18-24
  }
 #}
 #hes-4-16 {
