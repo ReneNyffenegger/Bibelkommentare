@@ -27853,6 +27853,17 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
  }
 #}
+#1sam-2-34 {
+ {
+  TODO: <i>an einem Tag sollen sie beide sterben</i>: §1sam-4-11
+ <br>
+  Pinehas Sohn Ahitub scheint früh gestorben zu sein, da in §1sam-14-3 Ahitubs Sohn als Priester erwähnt wird.
+ <br>
+  Ahitubs Sohn Ahimelech (auch genannt Ahija: §1sam-22-9-ff, §1sam-22-20, §1sam-23-6, §1sam-30-7) war ein Gefolgsmann des Saul und wurde getötet (§1sam-22-11-19)
+ <br>
+  Ahimelechs Sohn Abjathar entrann zu David (§1sam-22-20).
+ }
+#}
 #1sam-2-35 {
  {
   TODO: <i>Haus bauen</i>: Ist dieser treue Priester Samuel, → biblisches/Personen/David, Salomo oder Jesus Christus?
@@ -27935,6 +27946,11 @@
 #1sam-4-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Cherubim
+ }
+#}
+#1sam-4-11 {
+ {
+  Hophni und Pinehas starben an <i>einem Tag</i>, vgl §1sam-2-34
  }
 #}
 #1sam-4-12 {
@@ -28600,6 +28616,9 @@
 #1sam-14-3 {
  {
   <i>Ikabod</i>: <a class='kom' href='#I1sam-4-21'>1.&nbsp;Sam&nbsp;4,21</a>.
+ }
+ {
+  TODO: Ahija wird auch genannt Ahimelech. Damit scheint angedeutet zu werden, dass er die Wahl hat, dem König (Melech) oder Gott (Ja) zu folgen.
  }
 #}
 #1sam-14-4 {
@@ -33769,6 +33788,11 @@
   Diese Lade wurde auf Befehl des Königs Joas erstellt: §2chr-24-8
  }
 #}
+#2koe-12-11 {
+ {
+  TODO: Offenbar ist dieser Hohepriester die erste Person mit diesem Titel (das Amt wurde in §3mo-21-10 beschrieben). Vgl §2koe-22-8, §neh-3-1, §hag-1-12
+ }
+#}
 #2koe-12-14 {
  {
   Athalja verwendete alle geheiligten Dinge des Hauses Jehovas für die Baalim, §2chr-24-7, vgl §1chr-29-2
@@ -34928,6 +34952,11 @@
 #2koe-22-7 {
  {
   §+2koe-12-16.
+ }
+#}
+#2koe-22-8 {
+ {
+  TODO: Hohepriester Hilija: §+2koe-12-11, §neh-3-1
  }
 #}
 #2koe-22-12 {
@@ -41893,6 +41922,9 @@
  }
  {
   TODO: Gemüss Roger Liebi bedeute <i>Eljashib</i> etwa «Gott macht, dass er sich bekehrt».
+ }
+ {
+  TODO: Hohepriester: §+2koe-12-11
  }
 #}
 #neh-3-4 {
@@ -64571,6 +64603,11 @@
  }
  {
   TODO: Ihr trinkt: eigtl. Ihr berauscht euch?
+ }
+#}
+#hag-1-12 {
+ {
+  TODO: Hohepriester: §+2koe-12-11
  }
 #}
 #hag-1-14 {
