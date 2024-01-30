@@ -2957,7 +2957,7 @@
 #}
 #1mo-13-16 {
  {
-  Vgl §4mo-23-10
+  <i>Den Staub der Erde zählen</i> Vgl §1mo-15-5, §4mo-23-10
  }
 #}
 #1mo-13-18 {
@@ -3287,8 +3287,9 @@
   Vgl mit <a class='kom' href='#Ijes-40-26'>Jes&nbsp;40,26</a>.
  }
  {
-  <i>Sterne zählen</i>: vgl <a href='http://bibel.renenyffenegger.ch/ps_147.html#v4'>Ps&nbsp;147,4</a>.
-  (Hier ist <i>zählen</i> <span class='hebr'>סָפַר</span> (Strongs 5608), dort ist es <span class='hebr'>מָנָה</span> (Strongs 4487).).
+  <i>Sterne zählen</i>: vgl §ps-147-4.  (Hier ist <i>zählen</i> <span class='hebr'>סָפַר</span> (Strongs 5608), dort ist es <span class='hebr'>מָנָה</span> (Strongs 4487).).
+ <br>
+  Vgl §+1mo-13-16
  }
  {
   <i>zählen</i> (<span class='hebr'>סָפַר</span>, Strongs 5608): TODO: Kommt in <a href='http://bibel.renenyffenegger.ch/ps_19.html#v2'>Ps&nbsp;19,2</a>
@@ -19059,7 +19060,7 @@
 #}
 #4mo-23-10 {
  {
-  <i>Wer könnte zählen den Staub Jakobs</i> vgl §1mo-13-16
+  <i>Wer könnte zählen den Staub Jakobs</i> vgl §1mo-13-16, §2sam-24-1, §1chr-21-1
  }
 #}
 #4mo-23-19 {
@@ -31213,6 +31214,11 @@
 #}
 @}
 @2. Samuel 24 {
+#2sam-24-1 {
+ {
+  §1chr-21-1, vgl §4mo-23-10
+ }
+#}
 #2sam-24-2 {
  {
    TODO: War diese <i>Zählung</i> falsch, weil das Volk 'unzählbar' ist (zB <a href='http://bibel.renenyffenegger.ch/1koe_3.html#v8'>1.&nbsp;Kö&nbsp;3,8</a>,
@@ -31247,6 +31253,9 @@
 #}
 #2sam-24-9 {
  {
+  Vgl die hier genannten Zahlen mit jenen in §1chr-21-5
+ }
+ {
   TODO: <i>gemustert</i> (Strongs 4662) siehe <a class='kom' href='#Ihes-43-21'>Hes&nbsp;43,21</a>.
  }
 #}
@@ -31269,7 +31278,7 @@
 #}
 #2sam-24-24 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1chr_21.html#v25'>1.&nbsp;Chr&nbsp;21,25</a> wo David
+  Vgl §1chr-21-25 wo David die Tenne für 600 Sekel Gold kauft.
  }
 #}
 @}
@@ -32036,7 +32045,7 @@
 #}
 #1koe-8-17 {
  {
-  TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/1chr_22.html#v7'>1.&nbsp;Chr&nbsp;22,7</a>.
+  §1chr-22-7.
  }
 #}
 #1koe-8-25 {
@@ -38073,12 +38082,27 @@
 }
 { 21-29
 @1. Chronik 21 {
+#1chr-21-1 {
+ {
+  §2sam-24-1, vgl §4mo-23-10
+ }
+#}
+#1chr-21-5 {
+ {
+  Vgl die hier genannten Zahlen mit jenen in §2sam-24-9
+ }
+#}
+#1chr-21-6 {
+ {
+  <i>das Wort des Königs war Joab ein Gräuel</i> vgl §1chr-27-24
+ }
+#}
 #1chr-21-12 {
  {
   <i>Drei</i> oder </i>sieben Jahre Hungersnot</i>? Vgl §+2sam-24-13.
  }
  {
-  Vgl <i>Hungersnot</i>, <i>Schwert (des HERRN)</i> und <i>Pest</i> mit <a href='http://bibel.renenyffenegger.ch/2chr_20.html#v9'>2.&nbsp;Chr&nbsp;20,9</a>.
+  Vgl <i>Hungersnot</i>, <i>Schwert (des HERRN)</i> und <i>Pest</i> mit §2chr-20-9.
  }
 #}
 #1chr-21-15 {
@@ -38099,14 +38123,17 @@
 #}
 #1chr-21-29 {
  {
-  §2chr-1-3
+  <i>Die Wohnung Jehovas auf der Höhe zu Gibeon</i>: §2chr-1-3
+ }
+ {
+  TODO: vgl §1sam-2-22
  }
 #}
 @}
 @1. Chronik 22 {
 #1chr-22-7 {
  {
-  TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/1koe_8.html#v17'>1.&nbsp;Kö&nbsp;8,17</a>
+  §1koe-8-17
  }
 #}
 #1chr-22-8 {
@@ -38116,11 +38143,19 @@
 #}
 #1chr-22-12 {
  {
-   Vgl <a href='http://bibel.renenyffenegger.ch/2chr_1.html#v10'>2.&nbsp;Chr&nbsp;1,10</a> wo Salomo um 'Weisheit und Erkenntnis' bittet.
+   Vgl §2chr-1-10 wo Salomo um «Weisheit und Erkenntnis» bittet.
+ }
+ {
+  TODO:
    Beachte, dass das Wort für <i>Weisheit</i> hier <span class='hebr'>שֵׂכֶל</span>, Strongs 7922, dort <span class='hebr'>חָכְמָה</span>, Strongs 2451 ist.
  }
  {
   <i>Gesetz des HERRN</i>: <a class='kom' href='#I1mo-26-5'>1.&nbsp;Mo&nbsp;26,5</a>.
+ }
+#}
+#1chr-22-16 {
+ {
+  Das Volk ist auch nicht zu zählen.
  }
 #}
 @}
@@ -38427,7 +38462,7 @@
 #}
 #1chr-27-24 {
  {
-  <a class='kom' href='#I2sam-24-2'>2.&nbsp;Sam&nbsp;24,2</a>c
+  Vgl §+2sam-24-2, §1chr-21-6
  }
  {
   → biblisches/Bücher/referenzierte-ausserbiblische
@@ -38688,10 +38723,7 @@
 #}
 #2chr-1-3 {
  {
-  Hier ist das → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft in Gibea, unter Eli war sie noch in Silo: §+1sam-2-22.
- }
- {
-  §1chr-21-29
+  Hier ist das → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft in Gibea, unter Eli war sie noch in Silo: §+1sam-2-22, vgl §1chr-21-29
  }
 #}
 #2chr-1-5 {
@@ -38701,7 +38733,7 @@
 #}
 #2chr-1-10 {
  {
-  <i>Weisheit</i>: <a class='kom' href='#I1chr-22-12'>1.&nbsp;Chr&nbsp;22,12</a>.
+  §+1chr-22-12.
  }
 #}
 #2chr-1-15 {
