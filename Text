@@ -23640,6 +23640,9 @@
  {
   Landesgrenzen: vgl mit Bund in §1mo-15-18, §1mo-12-7.
  }
+ {
+  Josua hat das ganze Land eingenommen: §jos-11-23, §jos-21-43
+ }
 #}
 #jos-1-5 {
  {
@@ -24525,6 +24528,9 @@
  }
  {
   <i>Und das Land hatte Ruhe vom Krieg.</i> §jos-14-15, vgl §jos-1-13
+ }
+ {
+  <i>Josua nahm das ganze Land ein</i>: §jos-1-2-4
  }
 #}
 @}
@@ -25674,9 +25680,19 @@
   Sch2K übersetzt → biblisches/Eigene-Uebersetzung/Konkordanz/Zufluchtsstadt mit «Freistadt».
  }
 #}
+#jos-21-43 {
+ {
+  <i>Jehova gab das ganze Land</i>: §jos-1-2-4
+ }
+#}
 #jos-21-44 {
  {
   <i>Und Jehova schaffte ihnen Ruhe</i> §jos-1-13.
+ }
+#}
+#jos-21-45 {
+ {
+  <i>Kein Wort fiel dahin</i>: §jos-23-14
  }
 #}
 @}
@@ -25758,6 +25774,11 @@
  }
  {
   Vgl §2mo-34-12, §ri-2-3
+ }
+#}
+#jos-23-14 {
+ {
+  <i>nicht ein Wort ist dahingefallen</i>: §jos-21-45
  }
 #}
 @}
