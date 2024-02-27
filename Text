@@ -38170,7 +38170,10 @@
 #}
 #1chr-22-8 {
  {
-   TODO: <i>Wort des HERRN, das an David ergeht</i>: <a class='kom' href='#I2sam-7-4'>2.&nbsp;Sam&nbsp;7,4</a>.
+  <i>Du hast Blut in Menge vergossen und große Kriege geführt</i>: §1chr-28-3
+ }
+ {
+  TODO: <i>Wort des HERRN, das an David ergeht</i>: <a class='kom' href='#I2sam-7-4'>2.&nbsp;Sam&nbsp;7,4</a>.
  }
 #}
 #1chr-22-12 {
@@ -38195,6 +38198,9 @@
 #1chr-23-1 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/alt-und-der-Tage-satt
+ }
+ {
+  <i>Salomo zum König gemacht</i> vgl §1chr-29-22
  }
  {
   TODO: <a class='kom' href='#I1koe-1-13'>1.&nbsp;Kö&nbsp;1,13</a>.
@@ -38593,6 +38599,9 @@
 #}
 #1chr-28-3 {
  {
+  <i>du bist ein Kriegsmann und hast Blut vergossen</i>:§1chr-22-8
+ }
+ {
   Vgl <a href='http://bibel.renenyffenegger.ch/ps_17.html#v4'>Ps&nbsp;17,4</a>: David war nicht gewalttätig.
   <br>TODO: Hat Salomo nicht auch Blut vergossen?
  }
@@ -38748,6 +38757,9 @@
  }
 #}
 #1chr-29-22 {
+ {
+  <i>Salomo zum zweiten Mal zum König gemacht</i> vgl §1chr-23-1
+ }
  {
   TODO: siehe <i>Salbungen von Königen</i> <a class='kom' href='#I1sam-15-1'>1.&nbsp;Sam&nbsp;15,1</a>.
  }
