@@ -31978,7 +31978,7 @@
 #}
 #1koe-7-26 {
  {
-  Vgl 3000 Bat in <a href='http://bibel.renenyffenegger.ch/2chr_4.html#v5'>2.&nbsp;Chr&nbsp;4,5</a>. Jener Satz enthält zusätlich
+  Vgl 3000 Bat in <a href='http://bibel.renenyffenegger.ch/2chr_4.html#v5'>2.&nbsp;Chr&nbsp;4,5</a>. Jener Satz enthält zusätzlich
   noch <span class='hebr'>מַחֲזִ֣יק</span> (Strongs 2388).
  }
  {
@@ -37440,7 +37440,7 @@
 #1chr-11-23 {
  {
   <span class='hebr'>אִ֥ישׁ מִדָּ֣ה</span> (Strongs 376 4060):
-  TODO: In KJV zusätlich 'a man of [great] stature' (stature ist Strongs 4060, sonst mit 'Mass' übersetzt).
+  TODO: In KJV zusätzlich 'a man of [great] stature' (stature ist Strongs 4060, sonst mit 'Mass' übersetzt).
   Vgl <a href='http://bibel.renenyffenegger.ch/1chr_20.html#v6'>1.&nbsp;Chr&nbsp;20,6</a> (wo 4060 mit 'von grosser Länge' übersetzt wird).
   <br>TODO: vgl auch <a class='kom' href='#I4mo-13-32'>4.&nbsp;Mo&nbsp;13,32</a> wo statt Strongs 376 582 verwendet wird.
  }
@@ -38161,6 +38161,11 @@
 #}
 @}
 @1. Chronik 22 {
+#1chr-22-2 {
+ {
+  Vgl mit der in §2chr-2-17 erwähnte «Zählung der Fremdlingen im Land Israel, welche David gemacht hatte».
+ }
+#}
 #1chr-22-7 {
  {
   §1koe-8-17
@@ -38524,7 +38529,7 @@
 #}
 #1chr-27-24 {
  {
-  Vgl §+2sam-24-2, §1chr-21-6
+  Vgl §+2sam-24-2, §1chr-21-6, §2chr-2-17
  }
  {
   → biblisches/Bücher/referenzierte-ausserbiblische
@@ -38822,6 +38827,11 @@
   <i>Aufsicht</i>: <a class='kom' href='#I1chr-15-21'>1.&nbsp;Chr&nbsp;15,21</a>.
  }
 #}
+#2chr-2-3 {
+ {
+  <i>ließ ihm sagen</i> vgl §V2chr-2-11
+ }
+#}
 #2chr-2-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, → biblisches/Eigene-Uebersetzung/Konkordanz/Schaubrot#schichtbrot
@@ -38846,6 +38856,9 @@
 #2chr-2-11 {
  {
   <i>Weil der HERR sein Volk liebt</i> vgl §+1koe-3-3, §1koe-10-9
+ }
+ {
+  <i>antwortete schriftlich</i> vgl §V2chr-2-3
  }
 #}
 #2chr-2-13 {
@@ -38872,6 +38885,9 @@
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1koe_5.html#v30'>1.&nbsp;Kö&nbsp;5,30</a> (Dort 3300 Oberaufsseher, hier 3600 Aufseher).
+ }
+ {
+  <i>Zählung, welche sein Vater David von ihnen gemacht hat</i> vgl §1chr-22-2, §+1chr-27-24
  }
  {
   'zählte' (<span class='hebr'>הַסְּפָ֔ר</span>, Strongs 5610): vgl <a class='kom' href='#I1mo-10-30'>1.&nbsp;Mo&nbsp;10,30</a>.
@@ -38922,10 +38938,7 @@
 #}
 #2chr-3-15 {
  {
-  <i>35 Ellen die Länge</i> vgl §1koe-7-15
- }
- {
-  <i>Kapitäl</i> §1koe-7-19
+  <i>35 Ellen die Länge</i> und <i>Kapitäl</i> vgl §1koe-7-15
  }
 #}
 #2chr-3-17 {
@@ -38939,7 +38952,6 @@
  {
   Die Grundfläche des Altars entspricht jener des Allerheiligsten, aber der Altar ist nur halb so hoch
          (<a href='http://bibel.renenyffenegger.ch/1koe_6.html#v20'>1.&nbsp;Kö&nbsp;6,20</a>).
-         <br>Podium: <a href='http://bibel.renenyffenegger.ch/2chr_6.html#v5'>2.&nbsp;Chr&nbsp;6,5</a>.
  }
 #}
 #2chr-4-2 {
@@ -38965,6 +38977,11 @@
 #2chr-4-10 {
  {
   <i>rechts</i> ist wohl von innen aus gesehen.
+ }
+#}
+#2chr-4-14 {
+ {
+  TODO: Gestell (Sch2K: «Podium»): §2chr-6-13
  }
 #}
 #2chr-4-16 {
