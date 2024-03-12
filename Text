@@ -516,6 +516,9 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/2mo_16.html#v30'>2.&nbsp;Mo&nbsp;16,30</a>, wo das Volk am siebten Tag ruht.
  }
  {
+  In 7 (od 6) Tagen wurde die Schöpfung vollendet, das (erste) Haus Gottes in 7 Jahren, §1koe-6-38
+ }
+ {
   §+hebr-4-4.
  }
  {
@@ -31871,7 +31874,12 @@
 #}
 #1koe-6-38 {
  {
-  Eigentlich: 7 Jahre und 6 Monate, also gleich lang, wie David in Hebron regierte (<a href='http://bibel.renenyffenegger.ch/1chr_3.html#v4'>1.&nbsp;Chr&nbsp;3,4</a>).
+  Das Haus Gottes wurde im 7. Jahr vollendet, die Schöpfung in 7 (bzw. 6) Tagen, §1mo-2-2
+  <br>
+  Eigentlich: 7 Jahre und 6 Monate, also gleich lang, wie David in Hebron regierte (§1chr-3-4).
+ }
+ {
+  §2chr-5-1
  }
  {
   TODO: Der Tempel wurde im achten Monat fertiggestellt, die Lade kam im 7. Monat herauf (§2chr-5-2-3).
@@ -37623,6 +37631,9 @@
  {
   <i>er machte sich Häuser</i> vgl §1chr-14-1
  }
+ {
+  <i>Ort für die Lade</i> vgl §2chr-5-7
+ }
 #}
 #1chr-15-2 {
  {
@@ -39006,7 +39017,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Schatz#schaetze-des-hauses-des-herrn[Schatzkammern des Hauses Gottes]
  }
  {
-  <a class='kom' href='#I1mo-2-2'>1.&nbsp;Mo&nbsp;2,2</a>.
+  §1koe-6-38, §+1mo-2-2.
  }
  {
   TODO: <i>Geräte</i> werden in KJV mit «instruments» übersetzt (in <a href='http://bibel.renenyffenegger.ch/2chr_25.html#v24'>2.&nbsp;Chr&nbsp;25,24</a> aber mit
@@ -39035,6 +39046,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
 #}
+#2chr-5-7 {
+ {
+  <i>Ort der Lade</i> vgl §1chr-15-1
+ }
+#}
 #2chr-5-9 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Stangen
@@ -39043,6 +39059,11 @@
 #2chr-5-12 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete, vgl §1chr-16-6, §1chr-16-42
+ }
+#}
+#2chr-5-13 {
+ {
+  TODO: <i>wie ein Mann</i>, <i>eine Stimme</i>: §offb-19-6
  }
 #}
 #2chr-5-14 {
@@ -39080,6 +39101,11 @@
 #2chr-6-21 {
  {
   <a class='kom' href='#I1koe-8-30'>1.&nbsp;Kö&nbsp;8,30</a>.
+ }
+#}
+#2chr-6-22 {
+ {
+  <i>beim Altar in diesem Haus schwören</i> vgl §mt-23-18-ff
  }
 #}
 #2chr-6-24 {
@@ -66517,6 +66543,11 @@
   TODO: <i>Du Narr</i> (Strongs 3474): §mt-7-26, §mt-23-17, §mt-23-19, §mt-25-2-ff, §1kor-1-25-ff, §1kor-3-18, §1kor-4-10, §2tim-2-23, §tit-3-9
  }
 #}
+#mt-5-23 {
+ {
+  <i>Eine Gabe for dem Altar darbringen</i> vgl §mt-23-19
+ }
+#}
 #mt-5-25 {
  {
   <i>Richter</i> (<span class='gr'>ὑπηρέτης</span>, Strongs 5257), an andern Orten einfach mit «Diener» übersetzt. Sch2K übersetzt mit «Gerichtsdiener».
@@ -69947,6 +69978,16 @@
 #mt-23-16 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel: <span class='gr'>ναός</span> (Strongs 3485) vgl <a class='kom' href='#Imt-4-11'>Mt&nbsp;4,11</a>.
+ }
+#}
+#mt-23-18 {
+ {
+  <i>beim Altar schwören</i> vgl §2chr-6-22
+ }
+#}
+#mt-23-19 {
+ {
+  <i>Altar, der die Gabe heiligt</i> vgl §mt-5-23-24
  }
 #}
 #mt-23-22 {
@@ -111388,6 +111429,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-19-5 {
  {
   TODO: Wo in Psalmen (und anderswo?) werden die Heiligen aufgefordert, Gott zu loben?
+ }
+#}
+#offb-19-6 {
+ {
+  TODO: <i>eine Stimme</i> vgl §2chr-5-13
  }
 #}
 #offb-19-7 {
