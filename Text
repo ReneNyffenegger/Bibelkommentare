@@ -39639,6 +39639,9 @@
 #}
 #2chr-15-3 {
  {
+  <i>Ohne lehrenden Priester und ohne Gesetz</i> §2chr-17-8-9
+ }
+ {
   TODO: Vgl mit Josaphat, der Leviten und Preister bestellte, §2chr-19-8-11. Josaphat liess auch das Buch des Gesetzes des HERRN lehre: §2chr-17-7-ff
  }
 #}
@@ -39743,7 +39746,10 @@
 #}
 #2chr-17-9 {
  {
-  <i>Gesetz des HERRN</i>: <a class='kom' href='#I1mo-26-5'>1.&nbsp;Mo&nbsp;26,5</a>.
+  <i>sie lehrten in Juda, indem sie das Buch des Gesetzens des HERRN bei sich hatten</i> §2chr-15-3
+ }
+ {
+  TODO: <i>Gesetz des HERRN</i>: <a class='kom' href='#I1mo-26-5'>1.&nbsp;Mo&nbsp;26,5</a>.
  }
 #}
 #2chr-17-10 {
@@ -56219,7 +56225,7 @@
 @Jesaja 66 {
 #jes-66-1 {
  {
-  §apg-7-49
+  §apg-7-49, §apg-17-24
  }
 #}
 #jes-66-2 {
@@ -84313,6 +84319,8 @@
  }
  {
   <i>Tempel, die nicht von Händen gemacht sind</i> vgl §2kor-5-1
+ <br>
+  <i>wohnt nicht in Tempeln, die mit …</i> §apg-17-24
  }
 #}
 #apg-7-49 {
@@ -86790,10 +86798,7 @@
 #}
 #apg-17-24 {
  {
-  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Tempel, die nicht von Händen gemacht sind</i> vgl §2kor-5-1
- }
- {
-  Dies wird auch in §+apg-7-48 zitiert.
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Tempel, die nicht von Händen gemacht sind</i> vgl §apg-7-48, §2kor-5-1, §jes-66-1
  }
 #}
 #apg-17-25 {
