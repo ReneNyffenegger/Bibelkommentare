@@ -32224,8 +32224,7 @@
 #}
 #1koe-9-17 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/2chr_8.html#v5'>2. Chr 8,5 ff</a>. Hier 'nur' das untere Beth-Horon, dort beide Beth-Horon.
-  Hier Bahalot, dort Baalat. Und weitere Unterschiede.
+  Vgl §2chr-8-5: Hier «nur» das untere Beth-Horon, dort beide Beth-Horon. Hier Bahalot, dort Baalat. Und weitere Unterschiede.
  }
 #}
 #1koe-9-20 {
@@ -32235,7 +32234,7 @@
 #}
 #1koe-9-23 {
  {
-  TODO: Hier ist die Zahl der Oberaufseher 550, in <a href='http://bibel.renenyffenegger.ch/2chr_8.html#v10'>2.&nbsp;Chr&nbsp;8,10</a> ist sie 250.
+  Hier ist die Zahl der Oberaufseher 550, in §2chr-8-10 ist sie 250.
  }
 #}
 #1koe-9-24 {
@@ -39158,6 +39157,11 @@
   TODO: Hätte nicht mindestens ein Hohepriester ins Haus gehen sollen?
  }
 #}
+#2chr-7-3 {
+ {
+  <i>seine Güte währt ewiglich</i> vgl §esr-3-11, §ps-100-5, §ps-106-1
+ }
+#}
 #2chr-7-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
@@ -39171,7 +39175,10 @@
   Dieses Fest beginnt in §+2chr-5-3 und fällt auf die Zeit des → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhüttenfestes].
  }
  {
-  <i>Vom Eingang Hamaths bis an den Fluß Ägyptens</i>: §chr-13-5
+  <i>Vom Eingang Hamaths bis an den Fluß Ägyptens</i>: §1chr-13-5
+ }
+ {
+  Bereits im nächsten Kapitel überwältigt Salomo <i>Hamath-Zoba</i>, §2chr-8-3
  }
 #}
 #2chr-7-14 {
@@ -39191,10 +39198,16 @@
 #}
 @}
 @2. Chronik 8 {
+#2chr-8-3 {
+ {
+  <i>Hamath-Zoba</i> scheint an der Grenze Israels gelegen zu sein und Salomo hat evtl. versucht, sein Reich zu vergrössern, vgl §2chr-7-8
+ }
+#}
 #2chr-8-5 {
  {
-  §+1koe-9-17.
-  <br>Auch(?) Rehabeam baute feste Städte: <a class='kom' href='#I2chr-11-5'>2.&nbsp;Chr&nbsp;11,5</a>
+  Ober-Beth-Horon scheint Geser zu sein, vgl §+1koe-9-17.
+  <br>
+  Auch(?) Rehabeam baute feste Städte: <a class='kom' href='#I2chr-11-5'>2.&nbsp;Chr&nbsp;11,5</a>
  }
 #}
 #2chr-8-7 {
@@ -39204,7 +39217,7 @@
 #}
 #2chr-8-10 {
  {
-  TODO: Anzahl Oberaufseher: <a class='kom' href='#I1koe-9-23'>1.&nbsp;Kö&nbsp;9,23</a>.
+  Anzahl Oberaufseher, vgl §+1koe-9-23.
  }
 #}
 #2chr-8-13 {
@@ -41466,6 +41479,11 @@
 #esr-3-10 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel, → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
+ }
+#}
+#esr-3-11 {
+ {
+  <i>seine Güte währt ewiglich</i> vgl §2chr-7-3
  }
 #}
 #esr-3-12 {
@@ -48258,6 +48276,11 @@
   <i>Er hat uns gemacht</i> vgl §ps-102-19
  }
 #}
+#ps-100-5 {
+ {
+  <i>seine Güte währt ewiglich</i> vgl §+2chr-7-3, §ps-106-1
+ }
+#}
 @}
 }
 { 101-110
@@ -48666,6 +48689,9 @@
 #ps-106-1 {
  {
   → biblisches/Bücher/Ketuvim/Psalmen/106/index
+ }
+ {
+  <i>seine Güte währt ewiglich</i> vgl §+2chr-7-3, §ps-100-5
  }
  {
   <i>Dank</i> in den Psalmen: <a class='kom' href='#Ips-50-14'>Ps&nbsp;50,14</a>.
