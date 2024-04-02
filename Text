@@ -32504,6 +32504,11 @@
   wo Rehabeam 'Fürst über mein Volk' genannt wird.
  }
 #}
+#1koe-11-40 {
+ {
+  Vgl §2chr-10-2
+ }
+#}
 #1koe-11-41 {
  {
   → biblisches/Bücher/referenzierte-ausserbiblische
@@ -32567,7 +32572,15 @@
   <br><a class='kom' href='#I1koe-13-1'>1.&nbsp;Kö&nbsp;13,1</a>.
  }
 #}
+#1koe-12-24 {
+ {
+  §2chr-11-4
+ }
+#}
 #1koe-12-25 {
+ {
+  Jerobeam wohnte in Sichem, Rehabeam in Jerusalem, §2chr-11-5
+ }
  {
   In → biblisches/Orte/Sichem wollte Israel Rehabeam zum König machen (<a href='http://bibel.renenyffenegger.ch/1koe_12.html#v1'>Vers 1</a>).
  }
@@ -32582,7 +32595,7 @@
 #}
 #1koe-12-28 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#goldene-kaelber, vgl §2mo-32-4-8, §2chr-13-8
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#goldene-kaelber, vgl §2mo-32-4-8, §2chr-13-8, §2chr-11-15
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
@@ -37673,6 +37686,9 @@
  {
   Vgl §1chr-13-8
  }
+ {
+  Musikinstrumente für die Sänger, vgl §2chr-9-11
+ }
 #}
 #1chr-15-17 {
  {
@@ -39269,6 +39285,11 @@
   §1koe-10-2
  }
 #}
+#2chr-9-3 {
+ {
+  Vgl §spr-9-1
+ }
+#}
 #2chr-9-6 {
  {
   §1koe-10-7
@@ -39287,6 +39308,11 @@
 #2chr-9-10 {
  {
   → biblisches/Orte/Ophir
+ }
+#}
+#2chr-9-11 {
+ {
+  Musikinstrumente für die Sänger, vgl §1chr-15-16
  }
 #}
 #2chr-9-14 {
@@ -39351,6 +39377,11 @@
   → biblisches/Orte/Sichem
  }
 #}
+#2chr-10-2 {
+ {
+  Jerobeam flüchtete, weil Salomo ihn töten wollte: §1koe-11-40
+ }
+#}
 #2chr-10-15 {
  {
   Parallel <a href='http://bibel.renenyffenegger.ch/1koe_12.html#v15'>1.&nbsp;Kö&nbsp;12,15</a>.
@@ -39371,9 +39402,16 @@
   Das <i>Wort des HERRN</i> ergeht an Schemaja auch in <a href='http://bibel.renenyffenegger.ch/2chr_12.html#v7'>2.&nbsp;Chr&nbsp;12,7</a>.
  }
 #}
+#2chr-11-4 {
+ {
+  §1koe-12-24
+ }
+#}
 #2chr-11-5 {
  {
-  
+  Rehabeam wohnte in Jerusalem, Jerobeam in Sichem, §1koe-12-25
+ }
+ {
   Die festen Städte werden bereits in §2chr-12-4 von Sisak erobert.
  }
  {
@@ -39407,6 +39445,9 @@
  }
 #}
 #2chr-11-15 {
+ {
+  <i>Kälber</i> vgl §1koe-12-28
+ }
  {
   <i>Böcke</i> in KJV mit «devils» übersetzt, siehe §+3mo-17-7.
  }
@@ -50639,7 +50680,7 @@
  {
   <i>Die Weisheit hat ihr Haus gebaut</i>, vgl <a href='http://bibel.renenyffenegger.ch/spr_14.html#v1'>Spr&nbsp;14,1</a> und
   <a href='http://bibel.renenyffenegger.ch/spr_24.html#v3'>Spr&nbsp;24,3</a> ('Durch Weisheit wird ein Haus gebaut').
-  <br>Vgl <a class='kom' href='#I1koe-10-4'>1.&nbsp;Kö&nbsp;10,4</a>.
+  <br>Vgl <a class='kom' href='#I1koe-10-4'>1.&nbsp;Kö&nbsp;10,4</a>, §2chr-9-3
   <br>Beachte, dass <a href='http://bibel.renenyffenegger.ch/jak_3.html#v17'>Jak&nbsp;3,17</a> sieben Elemente zur Weisheit gehörend aufzählt.
  }
 #}
