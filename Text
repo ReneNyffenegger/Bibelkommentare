@@ -26025,8 +26025,7 @@
    Auch Israel wurden die Kanaaniter in die Hand gegeben und sie nannten den Ort Horma (<a href='http://bibel.renenyffenegger.ch/4mo_21.html#v3'>4.&nbsp;Mo&nbsp;21,3</a>).
  }
  {
-  <i>Zephat</i> <span class='hebr'>צְפָת</span> (Strongs 6857, 1x) bedeutet offenbar 'Wachtturm', vgl Strongs 6822. Offenbar ist
-  Strongs 6859 (<a class='kom' href='#I2chr-14-10'>2.&nbsp;Chr&nbsp;14,10</a>) dasselbe Wort.
+  <i>Zephat</i> <span class='hebr'>צְפָת</span> (Strongs 6857, 1x) bedeutet offenbar 'Wachtturm', vgl Strongs 6822. Offenbar ist Strongs 6859 (§+2chr-14-9) dasselbe Wort.
  }
 #}
 #ri-1-18 {
@@ -39483,6 +39482,8 @@
 #2chr-12-1 {
  {
   <i>Gesetz des HERRN</i>: <a class='kom' href='#I1mo-26-5'>1.&nbsp;Mo&nbsp;26,5</a>.
+ <br>
+  Vgl mit Asa: §2chr-14-3
  }
 #}
 #2chr-12-4 {
@@ -39508,6 +39509,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Schatz#schaetze-des-hauses-des-herrn
  }
 #}
+#2chr-12-13 {
+ {
+  Trotz des Alters von 41 Jahren wird Rehabeam in §2chr-13-7 als Jüngling bezeichnet.
+ }
+#}
 #2chr-12-15 {
  {
   → biblisches/Bücher/referenzierte-ausserbiblische
@@ -39516,7 +39522,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis
  }
  {
-  <i>Krieg zwischen</i>: <a class='kom' href='#I1koe-14-30'>1.&nbsp;Kö&nbsp;14,30</a>.
+  <i>Krieg zwischen</i>: §+1koe-14-30, vgl §2chr-13-2
  }
 #}
 #2chr-12-16 {
@@ -39536,7 +39542,7 @@
   <i>Michaja</i>: <a class='kom' href='#I1koe-15-2'>1.&nbsp;Kö&nbsp;15,2</a>.
  }
  {
-  <i>Krieg zwischen</i>: <a class='kom' href='#I1koe-14-30'>1.&nbsp;Kö&nbsp;14,30</a>.
+  <i>Krieg zwischen Abija und Jerobeam</i>: §+1koe-14-30, vgl §2chr-12-15
  }
 #}
 #2chr-13-3 {
@@ -39563,7 +39569,7 @@
 #}
 #2chr-13-7 {
  {
-  Rehabeam war doch 41 jährig. Ist das noch 'jung'?
+  Rehabeam war doch 41 jährig (§2chr-12-13). Ist das noch jung?
  }
 #}
 #2chr-13-8 {
@@ -39602,7 +39608,7 @@
 #}
 #2chr-13-15 {
  {
-  Erst als die Männer Judas ein <i>Feldgeschrei</i> erhoben, schlug Gott den Jerobeam.
+  Erst als die Männer Judas ein <i>Kriegsgeschrei</i> erhoben, schlug Gott den Jerobeam.
  }
 #}
 #2chr-13-17 {
@@ -39645,6 +39651,11 @@
   → biblisches/Personen/Könige/Juda/Asa
  }
 #}
+#2chr-14-3 {
+ {
+  Asas Grossvater Rehabeam hatte das Gesetz verlassen, §2chr-12-1
+ }
+#}
 #2chr-14-5 {
  {
   TODO: <i>feste Städte</i>: <a class='kom' href='#I2chr-11-5'>2.&nbsp;Chr&nbsp;11,5</a>
@@ -39664,7 +39675,7 @@
 #}
 #2chr-14-8 {
  {
-  Gemäss <a href='http://bibel.renenyffenegger.ch/2chr_16.html#v8'>2.&nbsp;Chr&nbsp;16,8</a> zogen die Kuschitter <i>und Luber</i> mit
+  Gemäss <a href='http://bibel.renenyffenegger.ch/2chr_16.html#v8'>2.&nbsp;Chr&nbsp;16,8</a> zogen die Kuschiter <i>und Luber</i> mit
   einem gewaltigen Heer und dvielen Streitwagen und Reitern an.
  }
 #}
@@ -39673,10 +39684,8 @@
   <i>Marescha</i>: <a class='kom' href='#Ijos-15-44'>Jos&nbsp;15,44</a>.
   <br>Es wurde in <a href='http://bibel.renenyffenegger.ch/2chr_11.html#v8'>2.&nbsp;Chr&nbsp;11,8</a> von Rehabeam zur Festung ausgebaut.
  }
-#}
-#2chr-14-10 {
  {
-  <i>Zephata</i> (<span class='hebr'>צְפָֽתָה</span>, Strongs 6859, 1x) offenbar dasselbe wie Strongs 6857 in <a href='http://bibel.renenyffenegger.ch/ri_1.html#v17'>Ri&nbsp;1,17</a>.
+  <i>Zephata</i> (<span class='hebr'>צְפָֽתָה</span>, Strongs 6859, 1x) offenbar dasselbe wie Strongs 6857 in §ri-1-17.
  }
 #}
 @}
@@ -39693,10 +39702,15 @@
 #}
 #2chr-15-3 {
  {
-  <i>Ohne lehrenden Priester und ohne Gesetz</i> §2chr-17-8-9
+  <i>Ohne lehrenden Priester und ohne Gesetz</i> §2chr-17-7-8
  }
  {
   TODO: Vgl mit Josaphat, der Leviten und Preister bestellte, §2chr-19-8-11. Josaphat liess auch das Buch des Gesetzes des HERRN lehre: §2chr-17-7-ff
+ }
+#}
+#2chr-15-7 {
+ {
+  <i>Lohn für euer Tun</i> vgl §offb-22-12
  }
 #}
 #2chr-15-8 {
@@ -39796,6 +39810,11 @@
 #2chr-17-1 {
  {
   §1koe-22-41
+ }
+#}
+#2chr-17-7 {
+ {
+  §2chr-15-3
  }
 #}
 #2chr-17-9 {
@@ -57044,6 +57063,9 @@
 #jer-11-16 {
  {
   oder auch: <i>Bei der Stimme eines großen Getümmels</i>
+ }
+ {
+  TODO: Vgl §roem-11-17
  }
 #}
 #jer-11-19 {
@@ -90568,6 +90590,9 @@
   TODO: <i>wilder Ölzweig</i>: <span class='gr'>ἀγριέλαιος</span> (Strongs 65, 2x) kommt noch in Vers 24 ('wilder Ölzweig' vor.
   TODO auch <i>Ölbaum</i> möglicherweise besser übersetzt als 'Olivenbaum' (Vgl <a class='kom' href='#Imt-21-1'>Mt&nbsp;21,1</a>)
  }
+ {
+  TODO: Vgl §jer-11-16
+ }
 #}
 #roem-11-25 {
  {
@@ -106567,10 +106592,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>als Achten</i>: einige Ausleger beziehen dies darauf, dass → biblisches/Personen/Noah die achte Person (neben seiner Frau, seinen drei Söhnen und ihren Frauen) auf der Arche war.
   Andere Ausleger beziehen dies darauf, dass Noah der achte (sogenannte) Patriarch war, der den Tod seines Vaters überlebte (→ biblisches/Personen/Henoch wurde entrückt und
-  Lamech starb vor → biblisches/Personen/Methusalah, s.
-   <a href='https://renenyffenegger.ch/Biblisches/Grafiken/Lebensalter-Adam-bis-Noah.html'>Lebensalter Adam bis Noah</a>.)
+  Lamech starb vor → biblisches/Personen/Methusalah, s.  <a href='https://renenyffenegger.ch/Biblisches/Grafiken/Lebensalter-Adam-bis-Noah.html'>Lebensalter Adam bis Noah</a>.)
+ }
+ {
+   Vgl den «Verkündiger der Gerechtigkeit» (als Achten) mit «Henoch, der siebte nach Adam», der von Gottlosen(?) geweissagt hat, §jud-1-14-15
   <br>
-   Vgl den »Verkündiger der Gerechtigkeit« (als Achten) mit »Henoch, der siebte nach Adam« hat von Gottlosen geweissagt (§jud-1-14-15)
+   Lot wird in §V2petr-2-7 als «gerecht» bezeichnet, nicht aber als «Verkündiger der Gerechtigkeit».
+  <br>
+   Sowohl Noah wie auch Lot scheinen im Gegensatz zur Ungerechtigkeit (§V2petr-2-13) zu stehen, vgl §V2petr-2-21.
  }
 #}
 #2petr-2-6 {
@@ -110051,7 +110080,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten[Knechte, die Propheten]: §offb-10-7
  }
  {
-  <i>Lohn</i>: §+1kor-3-8, §ps-58-12
+  <i>Lohn</i>: §offb-22-12, §+1kor-3-8, §ps-58-12
  }
  {
   <i>dein → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn[Zorn] ist gekommen und die Zeit der Toten, um gerichtet zu werden…</i> vgl §roem-2-5
@@ -112169,7 +112198,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-22-12 {
  {
-  <i>Lohn</i>: §+1kor-3-8
+  <i>Lohn</i>: §+1kor-3-8, §offb-11-18, §2chr-15-7
   <br>
   <i>und mein Lohn mit mir, um einem jeden zu vergelten…</i> vgl §jes-40-10, §jes-62-11
   <br>
