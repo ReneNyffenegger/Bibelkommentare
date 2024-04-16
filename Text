@@ -39850,7 +39850,7 @@
 #}
 #2chr-18-4 {
  {
-  <i>Wort des HERRN</i>: vgl Vers 18.
+  <i>Wort des HERRN</i>: vgl §V2chr-18-18
  }
 #}
 #2chr-18-6 {
@@ -39865,7 +39865,7 @@
 #}
 #2chr-18-9 {
  {
-  Auch der HERR sitzt auf seinem Thron (Vers 18).
+  Auch der HERR sitzt auf seinem Thron, §V2chr-18-18
  }
 #}
 #2chr-18-13 {
@@ -39886,10 +39886,18 @@
   Das <i>Heer des Himmels</i>: es soll nicht angebetet werden (<a href='http://bibel.renenyffenegger.ch/5mo_4.html#v19'>5.&nbsp;Mo&nbsp;4,19</a>).
   Israel hat es in der Wüste angebetet (<a href='http://bibel.renenyffenegger.ch/apg_7.html#v42'>Apg&nbsp;7,42</a>)
  }
+ {
+  Jehova auf dem Thron sehen, vgl §jes-6-1, §V2chr-18-9
+ }
 #}
 #2chr-18-26 {
  {
   Es ist dann Josaphat, der in Frieden heimkehrt (<a href='http://bibel.renenyffenegger.ch/2chr_19.html#v1'>2.&nbsp;Chr&nbsp;19,1</a>).
+ }
+#}
+#2chr-18-27 {
+ {
+  <i>hört es, ihr Völker alle</i>: ähnlich redet auch der Prophet Micha in §mi-1-2.
  }
 #}
 @}
@@ -39906,6 +39914,9 @@
  {
   Bereits Hanani war ein Seher: §2chr-16-7.
  }
+ {
+  Ein <i>Zorn über dir</i> vgl §V2chr-19-10
+ }
 #}
 #2chr-19-7 {
  {
@@ -39914,7 +39925,10 @@
 #}
 #2chr-19-10 {
  {
-   TODO: Vgl <a class='kom' href='#I5mo-25-1'>5.&nbsp;Mo&nbsp;25,1</a>.
+  daß nicht <i>ein Zorn über euch komme</i>, vgl §V2chr-19-2
+ }
+ {
+  TODO: Vgl <a class='kom' href='#I5mo-25-1'>5.&nbsp;Mo&nbsp;25,1</a>.
  }
 #}
 @}
@@ -52999,6 +53013,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
+  Jehova auf dem Thron sehen, vgl §2chr-18-18
+ }
+ {
   Vgl mit Todesjahr des Ahas <a class='kom' href='#Ijes-14-28'>Jes&nbsp;14,28</a>.
  }
  {
@@ -64221,6 +64238,11 @@
  }
  {
   TODO: Hat <i>Moraschit</i> etwas mit 'Moreschet-Gat' und/oder 'Marescha' zu tun?
+ }
+#}
+#mi-1-2 {
+ {
+  <i>Hört, ihr Völker alle</i>: ähnlich redet auch ein anderer(?) Micha in §2chr-18-27
  }
 #}
 #mi-1-3 {
@@ -93440,9 +93462,6 @@
 #}
 #1kor-13-10 {
  {
-  das <i>Vollkommene</i> (<span class='gr'>το τελειον</span>, Strongs 5046) vgl §1kor-14-20.
- }
- {
   TODO: Beachte, dass die beiden Wörter 'Vollkommen' (<span class='gr'>τέλειος</span>, Strongs 5046) wie auch
   <i>Spiegel</i> (Strongs 4383) in Vers 12 in einem ähnlichen (wenn man hier davon ausgeht, dass es sich beim Vollkommenen um das Wort handelt)
   Kontext auch in <a href='http://bibel.renenyffenegger.ch/jak_1.html#v23'>Jak 1,23-25</a> vorkommt.
@@ -93568,7 +93587,7 @@
   <i>Verstand</i>: <span class='gr'>φρήν</span> (Strongs 5424, 2x) bedeutet auch «Zwerchfell».
  }
  {
-  <i>Erwachsene</i>: im Griechischen <span class='gr'>τέλειος</span>, Strongs 5046, was auch «vollkommen» bedeutet, vgl §1kor-13-10, §hebr-5-14.
+  <i>Erwachsene</i>: im Griechischen <span class='gr'>τέλειος</span>, Strongs 5046, was auch «vollkommen» bedeutet, vgl §hebr-5-14.
  }
  {
   <i>Werdet nicht Kinder am Verstand</i> vgl §1kor-3-1-2
@@ -96474,9 +96493,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <i>Begierden des Fleisches</i> mit «Begierden der Herzen» in <a class='kom' href='#Iroem-1-24'>Röm&nbsp;1,24</a>.
  }
  {
-  <i>Gedanken</i>: <span class='gr'>διάνοια</span> (Strongs 1271): das Wort wird auch mit «Verstand» (§eph-4-18 (!), §mt-22-37 etc.) oder «Gesinnung» (§lk-1-51) übersetzt.
- }
- {
   <i>Kinder des Zorns</i> vgl §eph-5-6, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
  }
 #}
@@ -96914,9 +96930,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #eph-4-18 {
- {
-  <i>Verstand</i>: <span class='gr'>διάνοια</span> (Strongs 1271), vgl §eph-2-3
- }
  {
   <i>verfinstert am Verstand</i> vgl §roem-1-21
  }
@@ -104990,7 +105003,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>den ganzen Leib zügeln</i> vgl §jak-1-26
  }
  {
-  <i>vollkommener Mann</i> ('τελειος ανηρ', Strongs 5046, 435) vgl mit §+eph-4-13.
+  TODO <i>vollkommener Mann</i> ('τελειος ανηρ', Strongs 5046, 435) vgl mit <a class='kom' href='#Ieph-4-13'>Eph&nbsp;4,13</a>.
  }
 #}
 #jak-3-5 {
