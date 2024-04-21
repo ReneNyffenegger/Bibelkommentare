@@ -54957,7 +54957,7 @@
   Das Zitat wird in <a href='http://bibel.renenyffenegger.ch/roem_11.html#v34'>Röm&nbsp;11,34</a> verwendet, um 'die Tiefe des Reichtums
   der Weisheit wie auch der Erkenntnis Gottes, die Unergründlichkeit seiner Gerichte und Unausforschbarkeit seiner Wege' zu zeigen.
   Und in <a href='http://bibel.renenyffenegger.ch/1kor_2.html#v16'>1.&nbsp;Kor&nbsp;2,16</a> wird es verwendet, um
-  zu zeigen, dass der natürliche Mensch nichts annimt, was von Gott ist und es ihm eine Torheit ist, weil es
+  zu zeigen, dass der natürliche Mensch nichts annimmt, was von Gott ist und es ihm eine Torheit ist, weil es
   geistlich ist.
  }
 #}
@@ -67292,7 +67292,7 @@
   Frage: haben sie dies gebeten, weil ihre Schweine weg waren?
  }
  {
-  <i>Aus ihren Grenzen weggehen</i>: vgl §apg-13-50, §mk-5-17
+  <i>baten sie, daß er aus ihren Grenzen weggehen möchte</i>: vgl §apg-13-50, §mk-5-17, §apg-16-39
  }
 #}
 @}
@@ -69252,6 +69252,9 @@
   <i>O ungläubiges und verkehrtes Geschlecht</i> §mt-12-39
   <br>
   <i>verkehrtes Geschlecht</i> §apg-2-40
+ }
+ {
+  <i>verkehrt</i>: vgl §lk-23-2
  }
 #}
 #mt-17-19 {
@@ -71552,6 +71555,9 @@
  }
  {
   Beachte: die vier Evangelien hören alle mit «Amen» auf: §mk-16-20, §lk-24-53, §joh-21-25 (Zumindest im Mehrheitstext und Textus Receptus?)
+ }
+ {
+  TODO: «bewahren» könnte auch mit «halten» übersetzt werden. Vgl §joh-14-15
  }
 #}
 @}
@@ -76539,6 +76545,9 @@
  {
   Vgl §mk-9-k
  }
+ {
+  <i>verkehrt</i>: vgl §lk-23-2
+ }
 #}
 #lk-9-44 {
  {
@@ -76748,8 +76757,7 @@
 #}
 #lk-10-20 {
  {
-  Vgl <i>Im Himmel geschriebenen Namen</i> mit der <i>Gemeinde der Erstgeborenen, die im Himmel angeschrieben sind</i>:
-  <a href='http://bibel.renenyffenegger.ch/hebr_12.html#v23'>Hebr&nbsp;12,23</a>.
+  Vgl <i>Im Himmel geschriebenen Namen</i> mit der <i>Gemeinde der Erstgeborenen, die im Himmel angeschrieben sind</i>: §hebr-12-23.
  }
 #}
 #lk-10-21 {
@@ -78605,6 +78613,8 @@
  }
  {
   Der unsere Nation <i>verführt</i> vgl §mt-27-63
+ <br>
+  Das Wort, das hier mit «verführt» übersetzt wird ist <span class='gr'></span>διαστρεφοντα</span> (Strongs 1294) und wird in §lk-9-41 und §mt-17-17 mit «verkehrt» übersetzt.
  }
  {
   TODO: Ist Lukas der einzige, der die Anklage wiedergibt, dass Jesus das Volk abhalten wolle, die Steuern zu
@@ -81834,6 +81844,11 @@
   <i>bitten in meinem Namen</i>: §joh-15-16, §joh-16-23-ff
  }
 #}
+#joh-14-15 {
+ {
+  TODO: «haltet» könnte auch mit «bewahren» übersetzt werden. Vgl §mt-28-20, §Vjoh-14-21
+ }
+#}
 #joh-14-16 {
  {
   <i>Sachwalter</i> (<span class='gr'>παράκλητος</span>, Strongs 3875) kommt noch vor in
@@ -82622,7 +82637,7 @@
 #}
 #joh-20-9 {
  {
-  Vgl §lk-24-45-46
+  Vgl §lk-24-45-46, §1kor-15-3-4
  }
 #}
 #joh-20-13 {
@@ -83048,9 +83063,9 @@
   <br><a href='http://bibel.renenyffenegger.ch/apg_10.html#v39'>Apg 10,39-42</a>,
   <a href='http://bibel.renenyffenegger.ch/apg_13.html#v30'>Apg 13,30-31</a>
   <br>
-    Beachte, dass es einigen Zuhörern zuviel wird, wenn die Auferstehung zur Sprache kommt:
+    Beachte, dass es einigen Zuhörern zu viel wird, wenn die Auferstehung zur Sprache kommt:
     <a href='http://bibel.renenyffenegger.ch/apg_17.html#v32'>Apg&nbsp;17,32</a>,
-    <a href='http://bibel.renenyffenegger.ch/apg_23.html#v6'>Apg&nbsp;23,6</a>,
+    §apg-23-6,
     <a href='http://bibel.renenyffenegger.ch/apg_26.html#v8'>Apg&nbsp;26,8</a>.
     Vgl auch <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v14'>1.&nbsp;Kor&nbsp;15,14</a>.
  }
@@ -86083,13 +86098,13 @@
 #}
 #apg-13-50 {
  {
-   Ist diese Verfolgung eine der Leiden, die Paulus in Antiochia widerfuhr (<a class='kom' href='#I2tim-3-11'>2.&nbsp;Tim&nbsp;3,11</a>)?
+  Ist diese Verfolgung eine der Leiden, die Paulus in Antiochia widerfuhr (<a class='kom' href='#I2tim-3-11'>2.&nbsp;Tim&nbsp;3,11</a>)?
  }
  {
   'Vornehm': <a class='kom' href='#Iapg-17-4'>Apg&nbsp;17,4</a>. 'angesehen': <a class='kom' href='#Iapg-17-12'>Apg&nbsp;17,12</a>.
  }
  {
-  <i>aus ihren Grenzen vertreiben</i> vgl §mt-8-34, §mk-5-17
+  <i>aus ihren Grenzen vertreiben</i> vgl §apg-16-39, §mt-8-34, §mk-5-17
  }
 #}
 #apg-13-51 {
@@ -86642,8 +86657,7 @@
 #}
 #apg-16-21 {
  {
-   TODO: Hier dürfen die Römer die von Paulus gelehrten <i>Gebräuche</i> nicht annehmen, in <a href='http://bibel.renenyffenegger.ch/apg_21.html#v21'>Apg&nbsp;21,21</a> sind
-   es die Juden.
+   Hier dürfen die Römer die von Paulus gelehrten <i>Gebräuche</i> nicht annehmen, in §apg-21-21 sind es die Juden.
  }
 #}
 #apg-16-22 {
@@ -86711,6 +86725,11 @@
   Sch2K übersetzt das Wort mit mit «Gerichtsdiener». Ebenso §Vapg-16-38.
  }
 #}
+#apg-16-39 {
+ {
+  <i>baten sie, daß sie aus der Stadt gehen möchten</i> vgl §apg-13-50, §mt-8-34
+ }
+#}
 @}
 @Apostelgeschichte 17 {
 #apg-17-1 {
@@ -86749,10 +86768,12 @@
  {
   Beachte: Paulus unterredet sich hier an <i>drei → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat[Sabbaten]</i> aus den Schriften über das Leiden und die Auferstehung des Herrn.
   <br>
-   In §apg-19-8 spricht er <i>drei Monate</i> lang über die Dinge des → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Reich[Reich Gottes].
+   In §apg-19-8 spricht er <i>drei Monate</i> lang über die Dinge des → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Reich[Reiches Gottes].
   <br>
    Die Epheser hat er <i>drei Jahre</i> Nacht und Tag mit Tränen ermahnt, §apg-20-31
-
+ }
+ {
+  <i>aus den Schriften… darlegte,  daß der Christus leiden und aus den Toten auferstehen mußte…</i> vgl §1kor-15-3-4
  }
 #}
 #apg-17-3 {
@@ -86981,6 +87002,9 @@
  }
  {
   <i>Beweis</i>: vgl §apg-1-3 («sichere Kennzeichen»)
+ }
+ {
+  <i>weil er einen Tag gesetzt hat</i> vgl §apg-28-23
  }
  {
   TODO: Wo fällt der Heilige Geist (<a class='kom' href='#Iapg-10-44'>Apg&nbsp;10,44</a>).
@@ -87676,6 +87700,9 @@
 #}
 #apg-20-30 {
  {
+  <i>abzuziehen</i>: <span class='gr'>ἀποσπάω</span> (Strongs 645). Dasselbe Wort wird in §apg-21-1 mit «losreissen» übersetzt.
+ }
+ {
   TODO: Frage: ist das aus der Mitte der Ältesten oder aus der Mitte der Gemeinde in Ephesus? Wohl eher aus
   der Mitte der Ältesten, da zwischen ihnen und den Jüngern unterschieden wird. Beachte auch den
   Gebrauch der 2. Person Mehrzahl ab Vers 25.
@@ -87721,6 +87748,11 @@
 #}
 @}
 @Apostelgeschichte 21 {
+#apg-21-1 {
+ {
+  <i>losgerissen</i>: <span class='gr'>ἀποσπάω</span> (Strongs 645). Dasselbe Wort wird in §apg-20-30 mit «abziehen» übersetzt.
+ }
+#}
 #apg-21-4 {
  {
   Beachte: sie blieben sieben Tage bei den Jüngern und einen Tag bei den Brüdern (Vers 7).
@@ -88085,7 +88117,10 @@
 #}
 #apg-23-6 {
  {
-   <i>Auferstehung</i>: <a href='http://bibel.renenyffenegger.ch/apg_1.html#v22'>Apg&nbsp;1,22</a>,
+  <i>wegen der Hoffnung und Auferstehung der Toten werde ich gerichtet</i> vgl §apg-24-21, §apg-28-20
+ }
+ {
+  <i>Auferstehung</i>: §apg-1-22
  }
 #}
 #apg-23-8 {
@@ -88212,9 +88247,19 @@
   'Weg': <a class='kom' href='#Iapg-9-2'>Apg&nbsp;9,2</a>.
  }
 #}
+#apg-24-17 {
+ {
+  Vgl §roem-15-24-ff, §1kor-16-3
+ }
+#}
 #apg-24-18 {
  {
   TODO: <a class='kom' href='#Iapg-21-26'>Apg&nbsp;21,26</a>.
+ }
+#}
+#apg-24-21 {
+ {
+  <i>Wegen der Auferstehung der Toten werde ich heute von euch gerichtet</i> vgl §apg-23-6
  }
 #}
 #apg-24-22 {
@@ -88229,8 +88274,7 @@
 #}
 #apg-24-27 {
  {
-  TODO: <i>Die Juden zu Dank verpflichten</i> vgl <a href='http://bibel.renenyffenegger.ch/apg_25.html#v9'>Apg&nbsp;25,9</a>
-  <br>TODO: vgl auch Vers 3.
+  <i>Da Felix sich bei den Juden in Gunst setzen wollte</i> vgl §apg-25-9
  }
 #}
 @}
@@ -88252,10 +88296,10 @@
 #}
 #apg-25-9 {
  {
-  TODO: Wollte Paulus nach Rom, damit <a href='http://bibel.renenyffenegger.ch/apg_23.html#v11'>Apg&nbsp;23,11</a> in Erfüllung geht?
+  <i>Festus aber, der sich bei den Juden in Gunst setzen wollte</i> vgl §apg-24-27
  }
  {
-  TODO: <i>Die Juden zu Dank verpflichten</i>: <a class='kom' href='#Iapg-24-27'>Apg&nbsp;24,27</a>.
+  TODO: Wollte Paulus nach Rom, damit <a href='http://bibel.renenyffenegger.ch/apg_23.html#v11'>Apg&nbsp;23,11</a> in Erfüllung geht?
  }
 #}
 #apg-25-11 {
@@ -88325,7 +88369,7 @@
 #}
 #apg-26-6 {
  {
- <i>Verheissung an die Väter</i> vgl §apg-13-32, §roem-15-8, §apg-2-39, §hebr-4-1
+ <i>Verheissung an die Väter</i> vgl §apg-28-20, §apg-13-32, §roem-15-8, §apg-2-39, §hebr-4-1
  }
 #}
 #apg-26-8 {
@@ -88668,15 +88712,16 @@
 #}
 #apg-28-20 {
  {
+  <i>wegen der Hoffnung Israels bin ich mit dieser Kette umgeben</i> vgl §apg-23-6, §apg-26-6
+  <br>
   Paulus trug bereits in Jerusalem (zwei) Ketten (§apg-21-33).
- }
- {
-  <i>Hoffnung Israel</i> ist wohl der HERR: §+jer-14-8, §jer-17-13, vgl §jer-50-7
+  <br>
+  Die <i>Hoffnung Israel</i> ist wohl der HERR: §+jer-14-8, §jer-17-13, vgl §jer-50-7
  }
 #}
 #apg-28-23 {
  {
-  <a class='kom' href='#Iapg-17-31'>Apg&nbsp;17,31</a>.
+  <i>Als sie ihm aber einen Tag bestimmt hatten</i> vgl §+apg-17-31.
  }
  {
   TODO: Selbst bei Heiden scheint Paulus mit dem Gesetz und den Propheten zu beginnen. Allerdings
@@ -90690,7 +90735,7 @@
 #roem-11-34 {
  {
   Das Zitat wird auch in <a href='http://bibel.renenyffenegger.ch/1kor_2.html#v16'>1.&nbsp;Kor&nbsp;2,16</a> verwendet, um
-  zu zeigen, dass der natürliche Mensch nichts annimt, was von Gott ist und es ihm eine Torheit ist, weil es
+  zu zeigen, dass der natürliche Mensch nichts annimmt, was von Gott ist und es ihm eine Torheit ist, weil es
   geistlich ist.
  }
 #}
@@ -91308,7 +91353,10 @@
   Ist der Grund für die Sammlung in <a href='http://bibel.renenyffenegger.ch/gal_2.html#v10'>Gal&nbsp;2,10</a> erwähnt?
  }
  {
-   <i>Sammlung</i>, im Griechischen <span class='gr'>κοινωνία</span>, wird häufig mit «Gemeinschaft» übersetzt (zB in §apg-2-42)
+  <i>Sammlung</i>, im Griechischen <span class='gr'>κοινωνία</span>, wird häufig mit «Gemeinschaft» übersetzt (zB in §apg-2-42)
+ }
+ {
+  §apg-24-17
  }
 #}
 #roem-15-27 {
@@ -92795,7 +92843,10 @@
 #}
 #1kor-8-3 {
  {
-  <i>der ist von ihm erkannt</i> §1kor-13-12
+  <i>der ist von ihm erkannt</i> §1kor-13-12, §gal-4-9
+ }
+ {
+  Vgl §1joh-4-7
  }
 #}
 #1kor-8-4 {
@@ -93732,7 +93783,15 @@
 #}
 #1kor-15-3 {
  {
+  Vgl §apg-17-2-3
+ }
+ {
   TODO: <i>überliefern, was ich auch von dem Herrn empfangen habe</i> vgl <a class='kom' href='#I1kor-11-23'>1.&nbsp;Kor&nbsp;11,23</a>.
+ }
+#}
+#1kor-15-4 {
+ {
+  Vgl §joh-20-9
  }
 #}
 #1kor-15-5 {
@@ -95865,8 +95924,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-4-3 {
  {
-  <i>Grundsätze der Welt</i> (evtl besser übersetzt mit 'Elemente (Strongs 4747) der Welt', vgl aber
-   auch <a class='kom' href='#Ihebr-5-12'>Hebr&nbsp;5,12</a>): vgl <a class='kom' href='#Ikol-2-8'>Kol&nbsp;2,8</a>.
+  <i>Elemente der Welt</i> (in Sch2K mit «Grundsätze der Welt» übersetzt) vgl §+kol-2-8, §+hebr-5-12
  }
 #}
 #gal-4-4 {
@@ -95914,6 +95972,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #gal-4-9 {
+ {
+  <i>von Gott erkannt sein</i> vgl §1kor-8-3
+ }
  {
   <i>wiederum</i>: <a class='kom' href='#Ijoh-3-3'>Joh&nbsp;3,3</a>.
  }
@@ -96516,7 +96577,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-2-6 {
  {
-  <i>himmlische [Regionen]</i>: <a class='kom' href='#Ieph-1-3'>Eph&nbsp;1,3</a>.
+  Mitsitzen in den  <i>himmlische [Regionen]</i> vgl §+eph-1-3, §hebr-11-16
+  
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
@@ -97664,7 +97726,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-2-2 {
  {
-  <i>Einheit</i>: <a class='kom' href='#Ijoh-17-23'>Joh&nbsp;17,23</a>.
+  <i>einerlei gesinnt</i>, <i>Einheit</i>: §+joh-17-23, vgl §Vphil-2-20
  }
  {
   <i>gleiche Liebe</i>: gibt es denn auch verschiedene Liebe?
@@ -97807,6 +97869,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: legt dies nahe, dass diese beiden Briefe kurz nacheinander geschrieben wurden?
  }
 #}
+#phil-2-20 {
+ {
+  <i>gleichgesinnt</i> vgl §Vphil-2-2
+ }
+#}
 #phil-2-22 {
  {
   <i>Am Evangelium dienen</i>: <a class='kom' href='#Iroem-1-9'>Röm&nbsp;1,9</a>
@@ -97884,7 +97951,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-3-3 {
  {
-  Vgl §1kor-1-29
+  <i>nicht auf Fleisch vertrauen</i> vgl §1kor-1-29
  }
  {
   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/jer_17.html#v5'>Jer&nbsp;17,5</a>.
@@ -98518,7 +98585,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Philosophie</i>: s.a. <a href='http://bibel.renenyffenegger.ch/apg_17.html#v18'>Apg&nbsp;17,18</a>.
  }
  {
-  <i>Grundsätze der Welt</i>: <a class='kom' href='#Igal-4-3'>Gal&nbsp;4,3</a>. Vgl auch Vers 20.
+  <i>Elemente der Welt</i>: §+gal-4-3. Vgl auch §Vkol-2-20
  }
  {
   <i>Überlieferungen</i>: <a class='kom' href='#I1kor-11-2'>1.&nbsp;Kor&nbsp;11,2</a>.
@@ -102767,6 +102834,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-2-11 {
  {
+  <i>…er sich nicht schämt, sie Brüder zu nennen</i> vgl §hebr-11-16
+ }
+ {
   Vgl <i>Brüder</i> mit «heilige Brüder» in <a href='http://bibel.renenyffenegger.ch/hebr_3.html#v1'>Hebr&nbsp;3,1</a>.
   <br>
     TODO: Bezieht sich «Brüder» auf die Israeliten oder auf Wiedergeborene?
@@ -103517,6 +103587,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>werden nicht lehren</i> vgl §eph-4-11-16
  }
 #}
+#hebr-8-12 {
+ {
+  <i>ihrer Gesetzlosigkeiten werde ich nie mehr gedenken</i> vgl §hebr-10-3
+ }
+#}
 #hebr-8-13 {
  {
   <i>Neuer und alter Bund</i>: <a class='kom' href='#Imt-26-28'>Mt&nbsp;26,28</a>.
@@ -103819,6 +103894,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO <i>Gestalt</i>: Elberfelder übersetzt mit «Ebenbild», KJV mit «image».
  }
 #}
+#hebr-10-3 {
+ {
+  <i>Alljährliche Erinnerung an die Sünden</i> §Vhebr-10-17, §hebr-8-12
+ }
+#}
 #hebr-10-4 {
  {
   TODO: <i>Unglaube</i> vs <i>Ungehorsam</i>: siehe <a class='kom' href='#Ieph-2-2'>Eph&nbsp;2,2</a>.
@@ -103855,6 +103935,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-10-15 {
  {
   Der Heilige Geist bezeugt, vgl §hebr-9-8
+ }
+#}
+#hebr-10-17 {
+ {
+  Vgl §Vhebr-10-12
  }
 #}
 #hebr-10-19 {
@@ -103899,9 +103984,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Verheissung</i> vgl Vers 36.
- }
- {
-  <i>Im Himmel angeschrieben</i>: <a class='kom' href='#Ilk-10-20'>Lk&nbsp;10,20</a>.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
@@ -104185,6 +104267,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Vaterland</i>: <a class='kom' href='#Imt-13-54'>Mt&nbsp;13,54</a>.
+ }
+#}
+#hebr-11-16 {
+ {
+  <i>Jetzt trachten sie nach einem … himmlischen</i> vgl §eph-2-6
+ }
+ {
+  <i>darum schämt sich Gott ihrer nicht</i> vgl §hebr-2-11
  }
 #}
 #hebr-11-17 {
@@ -104484,6 +104574,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-12-23 {
  {
   <i>vollendeten</i>: <a class='kom' href='#Ihebr-2-10'>Hebr&nbsp;2,10</a>.
+ }
+ {
+  <i>Im Himmel angeschrieben</i>: §+lk-10-20.
  }
  {
   <i>angeschrieben</i> ist im Griechischen das Wort <span class='gr'>ἀπογραφή</span> (Strongs 583), welches (als Verb) im Neuen Testament auch noch
@@ -107469,6 +107562,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1joh-4-6 {
  {
   <i>Geist der Wahrheit</i>: <a class='kom' href='#Ijoh-14-17'>Joh&nbsp;14,17</a>.
+ }
+#}
+#1joh-4-7 {
+ {
+  <i>jeder, der liebt, … erkennt Gott</i> vgl §1kor-8-3, §gal-4-9
  }
 #}
 #1joh-4-9 {
