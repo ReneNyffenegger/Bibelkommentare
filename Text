@@ -44827,7 +44827,7 @@
 #}
 #ps-4-5 {
  {
-  Vgl §+eph-4-26
+  <i>Seid erregt, und sündigt nicht!</i> Vgl §+eph-4-26
  }
 #}
 #ps-4-9 {
@@ -89414,6 +89414,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
  }
 #}
+#roem-3-7 {
+ {
+  <i>Lüge</i>: <span class='gr'>ψεῦσμα</span> (Strongs 5582, 1x). Vgl <span class='gr'>ψεῦδος</span> (Strongs 5579).
+ }
+#}
 #roem-3-9 {
  {
   <i>Vorzug</i> vgl mit dem «Vorteil» in §Vroem-3-1
@@ -93439,9 +93444,9 @@
 #}
 #1kor-12-12 {
  {
-  <i>Der Leib mit vielen Gliedern</i>: <a class='kom' href='#Iroem-12-4'>Röm&nbsp;12,4</a>,
-  <i>Leib des Christus</i>: <a class='kom' href='#Iroem-12-5'>Röm&nbsp;12,5</a>.
-        <br>
+  <i>Der Leib mit vielen Gliedern</i>: §+roem-12-4, §eph-4-25
+  <i>Leib des Christus</i>: §+roem-12-5.
+     <br>
    <i>Ein Leib</i>: §1kor-10-17, §eph-4-4
  }
 #}
@@ -97009,6 +97014,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Christus, das Haupt</i>: <a class='kom' href='#Ieph-1-10'>Eph&nbsp;1,10</a>.
  }
+ {
+  <i>heranwachsen zu ihm</i> vgl §kol-2-7 («gewurzelt in ihm»)
+ }
 #}
 #eph-4-16 {
  {
@@ -97063,12 +97071,27 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-4-25 {
  {
-  <i>Der Leib mit vielen Gliedern</i>: §+roem-12-4, §eph-5-30
+  <i>ablegen</i> vgl §Veph-4-22, §kol-3-8
+ }
+ {
+  <i>Die Lüge ablegen und die Wahrheit reden</i> vgl §offb-14-5
+ <br>
+  Im Griechischen ist «ablegen» angeblich in einer Zeitform, bei der die Bedeutung <i>ein-für-allemal</i> mitschwingt, während «reden» in einer Zeitform ist, die ausdrückt, dass es kontinuerlich ist.
+ }
+ {
+  <i>Der Leib mit vielen Gliedern</i>: §+roem-12-4, §1kor-12-12-ff, §eph-5-30
  }
 #}
 #eph-4-26 {
  {
-  <i>Zorn</i> §Veph-4-31, §ps-4-5, §ps-37-8, §spr-15-1, §jak-1-19
+  <i>Zürnt, und sündigt nicht</i>: Vgl §ps-4-5
+  <br>
+  <i>Zorn</i> §Veph-4-31, §ps-37-8, §spr-15-1, §jak-1-19
+  <br>
+  <i>Zorn</i>: <span class='gr'>παροργισμός</span> (Strongs 3950, 1x) vgl mit <span class='gr'>θυμός</span> (Strongs 2372) z. B. in §Veph-4-31 od §kol-3-8
+ }
+ {
+  <i>Die Sonne gehe nicht unter</i> §5mo-24-15 (auch §5mo-24-13, evtl §jer-15-9)
  }
  {
   Sch2K übersetzt mit «Zürnt ihr, so sündigt nicht». Jantzen schreibt «Die Worte sind wahrscheinlich ein Zitat aus §ps-4-5.
@@ -97077,9 +97100,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Obwohl das griech. <span class='gr'>ὀργίζεσθε</span> als ein Indikativ aufgefasst werden könnte, veranlasst uns das darauf folgende <span class='gr'>καὶ</span> es als einen Imperativ zu deuten.
  <br>
   KJV übersetzt mit «Be ye angry, and sin not».
- }
- {
-  <i>Die Sonne gehe nicht unter</i> §5mo-24-15
  }
 #}
 #eph-4-27 {
@@ -98592,6 +98612,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>befestigt</i>: §+roem-1-11
  }
+ {
+  <i>gewurzelt in ihm</i> vgl §eph-4-15 («heranwachsen zu ihm»).
+ }
 #}
 #kol-2-8 {
  {
@@ -98740,7 +98763,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-3-8 {
  {
-  Vgl §eph-4-31
+  Vgl §eph-4-31, <i>ablegen</i> auch §eph-4-25
  }
  {
   <i>Jetzt aber legt auch ihr das alles ab</i>: Vgl §1petr-2-1.
@@ -110816,6 +110839,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>
    «denn» in MT und TR, nicht in NA.
   </span>.
+ }
+ {
+  <i>In ihrem Mund wurde keine Lüge gefunden</i> vgl §eph-4-25
  }
 #}
 #offb-14-6 {
