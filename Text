@@ -66822,6 +66822,11 @@
   In diesem Vers ist das einzige Vorkommen von Strongs 945 im Neuen Testament.
  }
 #}
+#mt-6-8 {
+ {
+  <i>ehe ihr ihn bittet</i> vgl §mt-7-7-ff
+ }
+#}
 #mt-6-9 {
  {
   <i>im Himmel</i>: <a class='kom' href='#Ilk-11-2'>Lk&nbsp;11,2</a>.
@@ -66959,7 +66964,13 @@
 #}
 #mt-7-7 {
  {
+  §lk-11-9, §joh-11-25
+ }
+ {
   <i>sucht, und ihr werdet finden</i> vgl §5mo-4-29
+ }
+ {
+  <i>Bittet, und es wird euch gegeben werden</i> vgl §mt-6-8, §mt-18-19, §mt-20-22, §mkt-11-24
  }
 #}
 #mt-7-9 {
@@ -69424,6 +69435,11 @@
   <i>Versammlung</i> <span class='gr'>ἐκκλησία</span> (Strongs 1577): §+mt-16-18.
  }
 #}
+#mt-18-19 {
+ {
+  <i>um welche sie auch bitten mögen</i> vgl §mt-7-7
+ }
+#}
 #mt-18-20 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/zwei-oder-drei
@@ -69642,7 +69658,10 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
  }
  {
-   <span class='gt'>Nicht in NA «und getauft werden mit der Taufe, womit ich getauft werde»</span>
+  <span class='gt'>Nicht in NA «und getauft werden mit der Taufe, womit ich getauft werde»</span>
+ }
+ {
+  <i>Ihr wisst nicht, um was ihr bittet</i> vgl §mt-7-7
  }
 #}
 #mt-20-23 {
@@ -73435,6 +73454,11 @@
   TODO: <i>Berg ins Meer</i>: §+ps-46-3.
  }
 #}
+#mk-11-24 {
+ {
+  vgl §mt-7-7
+ }
+#}
 #mk-11-25 {
  {
   <i>steht</i>, <span class='gr'>στήκω</span> (Strongs 4739), wird häufig mit «feststehen» übersetzt, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/feststehen
@@ -76864,6 +76888,11 @@
   Beachte: in <a class='kom' href='#Ilk-22-46'>Lk&nbsp;22,46</a> sollen die Jünger auch darum beten, nicht in Versuchung (dort mit «Anfechtung» übersetzt) zu geraten.
  }
 #}
+#lk-11-9 {
+ {
+  §mt-7-7, §joh-11-22
+ }
+#}
 #lk-11-11 {
  {
   <i>Um Brot bitten, einen Stein erhalten</i>, vgl mit der Versuchung des Teufels, aus einem Stein ein Brot zu machen, §lk-4-3
@@ -78688,6 +78717,11 @@
 #lk-23-17 {
  {
    <span class='gt'>Vers fehlt in NA</span>.
+ }
+#}
+#lk-23-24 {
+ {
+  <i>Forderung</i>: <span class='gr'></span>αἴτημα</span> (Strongs 155, 3x): §+phil-4-6
  }
 #}
 #lk-23-26 {
@@ -81295,6 +81329,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten/Stadium
  }
 #}
+#joh-11-22 {
+ {
+  §joh-14-13-ff, §mt-7-7, §lk-11-9
+ }
+#}
 #joh-11-24 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzter-tag
@@ -81858,7 +81897,7 @@
   Der Vater wird dadurch verherrlicht, dass 'sie' viel Frucht bringen und seine Jünger werden (<a href='http://bibel.renenyffenegger.ch/joh_15.html#v8'>Joh&nbsp;15,8</a>).
  }
  {
-  <i>bitten in meinem Namen</i>: §joh-15-16, §joh-16-23-ff
+  <i>bitten in meinem Namen</i>: §joh-15-16, §joh-16-23-ff, vgl. §joh-11-22, §mt-7-7, §lk-11-9
  }
 #}
 #joh-14-15 {
@@ -82028,7 +82067,7 @@
 #}
 #joh-15-16 {
  {
-  <i>bitten in meinem Namen</i>: §joh-14-13, §joh-16-23-ff
+  <i>bitten in meinem Namen</i>: §joh-14-13, §joh-16-23-ff, vgl §Vjoh-15-7
  }
  {
   <i>ich habe euch auserwählt</i> §joh-6-70
@@ -98170,7 +98209,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-4-6 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/1petr_5.html#v7'>1.&nbsp;Petr&nbsp;5,7</a>.
+  Vgl mit §1petr-5-7.
+ }
+ {
+  <i>Anliegen</i>: <span class='gr'></span>αἴτημα</span> (Strongs 155, 3x) wird in §lk-23-24 mit «Forderung», in §1joh-5-15 mit «Bitte» übersetzt.
  }
  {
   TODO: vgl <i>sorgen</i> mit Vers 10.
@@ -100546,6 +100588,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @1. Timotheus 2 {
 #1tim-2-1 {
  {
+  <i>Fürbitten</i>: <span class='gr'>ἔντευξις</span> (Strongs 1783, 2x): dasselbe Wort wird in §1tim-4-5 mit «Gebet» übersetzt.
+ }
+ {
   TODO: Bezieht sich das <i>so</i> auf den letzten Vers? In Elberfelder 1905 fehlt dieses Wort.
   Im Griechischen gibt's das Wort <span class='gr'>οὖν</span> (Strongs 3767).
  }
@@ -100910,6 +100955,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1tim-4-4 {
  {
   TODO: hier kommt <span class='gr'>κτίσμα</span> (Strongs 2938), welches sonst mit 'Geschöpfe' übersetzt wird (zB <a href='http://bibel.renenyffenegger.ch/jak_1.html#v18'>Jak&nbsp;1,18</a>).
+ }
+#}
+#1tim-4-5 {
+ {
+  <i>Gebet</i>: <span class='gr'>ἔντευξις</span> (Strongs 1783, 2x): dasselbe Wort wird in §1tim-2-1 mit «Fürbitte» übersetzt.
  }
 #}
 #1tim-4-6 {
@@ -106407,10 +106457,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-5-7 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/phil_4.html#v6'>Phil&nbsp;4,6</a> und <a href='http://bibel.renenyffenegger.ch/ps_55.html#v23'>Ps&nbsp;55,23</a>.
+  Vgl mit §phil-4-6 und §ps-55-23.
  }
  {
-  <i>Sorge</i> vs <i>sorgen</i>: <span class='gr'>μέριμνα</span> (Strongs 3308) vs <span class='gr'>μέλει</span> (Strongs 3199).
+  <i>Sorge</i> vs <i>besorgt sein</i>: <span class='gr'>μέριμνα</span> (Strongs 3308) vs <span class='gr'>μέλει</span> (Strongs 3199).
  }
  {
   Gehört dies zur Demut, dass man alle Sorgen auf Ihn wirft?
@@ -107773,6 +107823,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>bitten</i>: Hier, in Vers 15 (bitten und erbeten haben) und beim ersten Vorkommen in Vers 16: αἰτέω; im zweiten Vorkommen in Vers 16: ἐρωτάω.
+ }
+#}
+#1joh-5-15 {
+ {
+  <i>Bitte</i>: <span class='gr'></span>αἴτημα</span> (Strongs 155, 3x): §+phil-4-6
  }
 #}
 #1joh-5-16 {
