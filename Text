@@ -23647,7 +23647,7 @@
 #}
 #jos-1-3 {
  {
-  <i>verheissen</i> wird in Elberfelder mit «geredet», in KJV mit «said» übersetzt. Das Hebräische Wort ist <span class='hebr'>דָּבַר</span>, Strongs 1696.
+  <i>geredet</i> wird in Sch2K mit «verheißenj», in KJV mit «said» übersetzt. Das Hebräische Wort ist <span class='hebr'>דָּבַר</span>, Strongs 1696.
  }
 #}
 #jos-1-4 {
@@ -23671,9 +23671,9 @@
   <br>In §jos-10-25 spricht Josua dies zum Volk.
   <br>Vgl auch §+5mo-1-38.
   <br>Der HERR hat Mose geboten, Josua zu stärken und festigen (§5mo-3-28), was er dann in §5mo-31-7 auch getan hat.
+  <br>Vgl mit den <i>verzagten</i> Kanaanitern, §jos-2-9
  }
  {
-  
   TODO: Wie mutig war Josua in §jos-2-1.
  }
 #}
@@ -23778,6 +23778,11 @@
   Beachte: die Männer hatten offenbar viel Vertrauen (zu Gott und/oder Rahab), dass sie sich im Feindesland schlafen legen konnten.
  }
 #}
+#jos-2-9 {
+ {
+  Die Kanaaniter sind <i>verzagt</i>, vgl mit Josua, der «stark und mutig» sein soll, §jos-1-6
+ }
+#}
 #jos-2-10 {
  {
   <i>Wasser des Schilfmeeres ausgetrocknet</i> vgl §jos-4-23
@@ -23802,6 +23807,9 @@
 #jos-2-15 {
  {
   <i>Mauer</i>: <a class='kom' href='#Ijos-6-20'>Jos&nbsp;6,20</a>.
+ }
+ {
+  Vgl mit Paulus, §apg-9-25, §2kor-11-33
  }
 #}
 #jos-2-18 {
@@ -23878,6 +23886,11 @@
   <i>Der HERR in der Mitte Israels</i>: <a class='kom' href='#I2mo-17-7'>2.&nbsp;Mo&nbsp;17,7</a>.
   <br>
   → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
+ }
+#}
+#jos-3-11 {
+ {
+  <i>Herr der ganzen Erde</i> vgl §ps-47-8
  }
 #}
 #jos-3-16 {
@@ -25793,6 +25806,9 @@
 #jos-23-14 {
  {
   <i>nicht ein Wort ist dahingefallen</i>: §jos-21-45
+ }
+ {
+  <i>Den Weg er ganzen Erde gehen</i>, §k1oe-2-2
  }
 #}
 @}
@@ -31375,6 +31391,11 @@
 #}
 @}
 @1. Könige 2 {
+#1koe-2-2 {
+ {
+  <i>Den Weg er ganzen Erde gehen</i>, §jos-23-14
+ }
+#}
 #1koe-2-3 {
  {
   <i>indem du seine Satzungen, seine Gebote und seine Rechte und seine Zeugnisse beobachtest …, auf daß es dir gelinge in allem…</i> vgl §+5mo-29-8, §+1koe-3-3, §1koe-3-14, §1koe-6-12, §1koe-8-58, §1koe-9-6, §1koe-11-11, §1koe-11-34-38
@@ -38228,6 +38249,11 @@
   <i>Gesetz des HERRN</i>: <a class='kom' href='#I1mo-26-5'>1.&nbsp;Mo&nbsp;26,5</a>.
  }
 #}
+#1chr-22-13 {
+ {
+  <i>Sei stark und mutig</i> §1chr-28-20
+ }
+#}
 #1chr-22-16 {
  {
   Das Volk ist auch nicht zu zählen.
@@ -38701,7 +38727,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/Haus-Gottes vgl §2chr-29-35
  }
  {
-  <i>Sei stark und mutig…</i> §2chr-1-1, vgl §5mo-31-6, §jos-1-9
+  <i>Sei stark und mutig…</i> §1chr-22-13, §2chr-1-1, vgl §5mo-31-6, §jos-1-9
  }
 #}
 @}
@@ -46361,6 +46387,11 @@
   Vgl §eph-5-19
  }
 #}
+#ps-47-8 {
+ {
+  Vgl §jos-3-11, §ps-48-3
+ }
+#}
 #ps-47-10 {
  {
   S.a: Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>.
@@ -46384,6 +46415,9 @@
  }
  {
   <i>Nordseite</i> vgl §jes-14-13
+ }
+ {
+  <i>der ganzen Erde</i> vgl §ps-47-8
  }
 #}
 #ps-48-5 {
@@ -85048,6 +85082,9 @@
     (Siehe <a href='file:///e:/Digitales-Backup/Lesbares/Biblisches/Apostelgeschichte/Reihenfolge-Gal-2_Apg-15#lukassche_chronologie'>e:\Digitales-Backup\Lesbares\Biblisches\\Apostelgeschichte\Reihenfolge-Gal-2_Apg-15#lukassche_chronologie</a>)
   </span>
  }
+ {
+  §2kor-11-33
+ }
 #}
 #apg-9-26 {
  {
@@ -95325,6 +95362,11 @@
  }
  {
   <i>Gott, gelobt in Ewigkeit</i>: <a class='kom' href='#Iroem-1-25'>Röm&nbsp;1,25</a>.
+ }
+#}
+#2kor-11-33 {
+ {
+  §apg-9-25,Vgl mit Rahab, §jos-2-15
  }
 #}
 @}
