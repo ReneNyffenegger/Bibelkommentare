@@ -65898,6 +65898,9 @@
   Beachte auch, dass die Wiederkunft des Herrn durch fallende Sterne vom Himmel angekündigt werden.
  }
  {
+  <i>Wo ist der König der Juden?</i>: §mt-27-37
+ }
+ {
   <i>anbeten</i>: <span class='gr'>προσκυνέω</span> (Strongs 4352),
   in Matthäus
     §mt-8-2,
@@ -67856,6 +67859,11 @@
   TODO: <a href='http://bibel.renenyffenegger.ch/jes_35.html#v5'>Jes&nbsp;35,5</a>.
  }
 #}
+#mt-11-6 {
+ {
+  TODO: Vgl dieses <i>glückselig</i> im Anschluss and sehend gewordene Blinde und hörend gewordene Taube mit «glückselig» in §mt-13-16, dort ebenfalls im Zusammenhang mit Blind/sehen und Taub/hören.
+ }
+#}
 #mt-11-7 {
  {
   §lk-7-24
@@ -68476,6 +68484,11 @@
   <i>Augen und Ohren</i> vgl §mk-8-18, §lk-10-23-24, §roem-11-8, §apg-28-27
  }
 #}
+#mt-13-16 {
+ {
+  TODO: §mt-11-6
+ }
+#}
 #mt-13-17 {
  {
   <i>Viele → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] und Gerechte haben begehrt zu sehen…</i> vgl §1petr-1-10, §lk-10-24
@@ -68707,6 +68720,9 @@
 @Matthäus 14 {
 #mt-14-1 {
  {
+  §mk-6-14, §lk-9-7
+ }
+ {
   → biblisches/Personen/Herodes, der Vierfürst von → biblisches/Orte/Galiläa, §lk-3-1
  }
  {
@@ -68724,6 +68740,13 @@
 #mt-14-3 {
  {
   → biblisches/Personen/Philippus
+ }
+#}
+#mt-14-5 {
+ {
+  <i>Die Volksmenge fürchten</i>: §mt-21-26
+ <br>
+  In §mk-6-20 fürchtet Herodes den Johannes.
  }
 #}
 #mt-14-6 {
@@ -69882,6 +69905,9 @@
 #mt-21-26 {
  {
   <i>→ biblisches/Personen/Johannes/Täufer[Johannes] für einen → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] halten</i> vgl §Vmt-21-46
+ }
+ {
+  <i>Die Volksmenge fürchten</i>: §mt-14-5, §Vmt-21-46, §mk-11-18, §mk-11-32, §mk-12-12
  }
 #}
 #mt-21-31 {
@@ -71349,6 +71375,11 @@
   §mt-26-56
  }
 #}
+#mt-27-37 {
+ {
+  <i>Dieser ist der König der Juden</i>: §mt-2-2
+ }
+#}
 #mt-27-40 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
@@ -72555,6 +72586,9 @@
 #}
 #mk-6-14 {
  {
+  §mt-14-1, §lk-9-7
+ }
+ {
   → biblisches/Personen/Herodes
  }
 #}
@@ -72581,6 +72615,9 @@
  }
 #}
 #mk-6-20 {
+ {
+  In §mt-14-5 fürchtet Herodes die Volksmenge.
+ }
  {
   TODO: <a href="http://www.bbkr.ch/forum/showthread.php/5881-Mt-23-39">http://www.bbkr.ch/forum/showthread.php/5881-Mt-23-39</a>.
  }
@@ -73464,6 +73501,9 @@
  {
   <i>erstaunt über Seine Lehre</i> §+mt-7-28
  }
+ {
+  <i>sie fürchteten ihn, weil die ganze Volksmenge…</i> vgl §mt-21-26
+ }
 #}
 #mk-11-19 {
  {
@@ -73514,6 +73554,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
  }
 #}
+#mk-11-32 {
+ {
+  <i>Sie fürchteten das Volk</i> vgl §mt-21-26
+ }
+#}
 @}
 @Markus 12 {
 #mk-12-1 {
@@ -73545,6 +73590,9 @@
 #mk-12-12 {
  {
   §mt-21-45
+ }
+ {
+  <i>Die Volksmenge fürchten</i>: §mt-21-26
  }
  {
   TODO: Frage: wer sind 'sie'? Die obersten Schriftgelehrten, Schriftgelehrten und Ältesten aus §mt-11-27?
@@ -74039,6 +74087,9 @@
    Vgl <i>Bist du der Christus</i> auch mit  §lk-22-67, §lk-23-39, §joh-10-24.
    <br>
    Vgl «Bist du der König der Juden» mit §+mt-27-11
+ }
+ {
+  <i>des Gesegneten</i> (<span class='gr'>του ευλογητου</span>, Strongs 2128) kann wohl alternativ auch mit «des Gepriesenen» übersetzt werden, vgl §+roem-1-25, §roem-9-5 etc.
  }
 #}
 #mk-14-62 {
@@ -74731,7 +74782,9 @@
 #}
 #lk-1-74 {
  {
-  <i>ohne Furcht dienen</i>: beachte, dass das Volk Israel bereits bei der Rettung aus Ägypten Gott dienen sollte: §2mo-4-23, §2mo-7-16, §2mo-7-26, etc.
+  <i>ohne Furcht dienen</i> vgl §hebr-12-28
+  <br>
+   beachte, dass das Volk Israel bereits bei der Rettung aus Ägypten Gott dienen sollte: §2mo-4-23, §2mo-7-16, §2mo-7-26, etc.
  }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
@@ -76468,6 +76521,9 @@
  }
 #}
 #lk-9-7 {
+ {
+  §mt-14-1, §mk-6-14
+ }
  {
   TODO: Der Tod Johannes des Täufers wird in Lukas offenbar nicht explizit erwähnt.
  }
@@ -89208,7 +89264,7 @@
   <i>Dem Geschöpft Dienst darbringen</i>: vgl §roem-12-1 (der «vernünftige Dienst»).
  }
  {
-  <i>welcher gepriesen ist in Ewigkeit. Amen.</i>: vgl §roem-9-5, §2kor-11-31, §roem-11-36
+  <i>welcher gepriesen ist in Ewigkeit. Amen.</i>: §roem-9-5, §2kor-1-3, §2kor-11-31, §eph-1-3, §1petr-1-3 vgl §roem-11-36
  }
  {
   <i>Verehrung darbringen</i>: <span class='gr'>σεβάζομαι</span> (Strongs 4573), KJV übersetzt mit «worshipped».
@@ -94387,6 +94443,9 @@
  {
   <i>Jesus Christus, der Vater der Erbarmungen</i> vgl §eph-1-17, §roem-12-1. S. a. §hebr-12-9, §jak-1-17
  }
+ {
+  <i>Gepriesen sei…</i> vgl §+roem-1-25, §2kor-11-31
+ }
 #}
 #2kor-1-4 {
  {
@@ -95364,6 +95423,9 @@
  }
  {
   <i>Gott, gelobt in Ewigkeit</i>: <a class='kom' href='#Iroem-1-25'>Röm&nbsp;1,25</a>.
+ }
+ {
+  <i>Gott …, der gepriesen ist…</i> vgl §+roem-1-25, §2kor-1-3
  }
 #}
 #2kor-11-33 {
@@ -96485,6 +96547,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/2petr_1.html#v3'>2.&nbsp;Petr&nbsp;1,3</a>: die göttliche Kraft hat alles geschenkt, was zum Leben ... dient.
  }
+ {
+  <i>Gepriesen sei…</i> vgl §+roem-1-25
+ }
 #}
 #eph-1-4 {
  {
@@ -97456,9 +97521,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-6-5 {
  {
   <i>Ihr Knechte</i>: §kol-3-22-25, §1tim-6-1, §tit-2-9.
- }
- {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern
+ <br>
+  gehorcht euren Herren nach dem Fleisch mit → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern: vgl §1petr-2-18
  }
 #}
 #eph-6-6 {
@@ -104764,9 +104828,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-12-28 {
  {
   <i>dienen</i>: §roem-1-9.
+ <br>
+  <i>mit Frömmigkeit und Furcht</i> vgl §lk-1-74
  }
  {
-  
   <span class='gr'>εὐλάβεια</span> (Strongs 2124, 2x) kommt noch in §hebr-5-7 vor.
  }
 #}
@@ -105593,6 +105658,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  <br>
   Obwohl wiergeboren/gezeugt, sollen die Adressaten wie neugeborene Kindlein begierig nach Milch sein, §petr-2-2
  }
+ {
+  <i>Gepriesen sei…</i> vgl §+roem-1-25
+ }
 #}
 #1petr-1-4 {
  {
@@ -105973,7 +106041,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>gelind</i>: Sch2K übersetzt mit «mild». Vgl §+phil-4-5.
  }
  {
-   <i>Hausknecht</i>: <a class='kom' href='#Ilk-16-13'>Lk&nbsp;16,13</a>.
+  Ihr Hausknechte, seid den Herren unterwürfig in aller Furcht: vgl §eph-6-5
+ }
+ {
+  <i>Hausknecht</i>: <a class='kom' href='#Ilk-16-13'>Lk&nbsp;16,13</a>.
  }
 #}
 #1petr-2-19 {
