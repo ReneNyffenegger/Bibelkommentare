@@ -70083,7 +70083,7 @@
 #}
 #mt-22-23 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer, vgl §apg-23-8
  }
 #}
 #mt-22-25 {
@@ -77593,6 +77593,11 @@
   <i>… noch deine Brüder, noch dein Verwandten …</i> vgl §Vlk-14-26
  }
 #}
+#lk-14-14 {
+ {
+  <i>Auferstehung der Gerechten</i> vgl §apg-24-15
+ }
+#}
 #lk-14-21 {
  {
   Vgl §mt-22-9
@@ -80337,6 +80342,11 @@
  }
  {
   → biblisches/Bücher/Evangelien/Johannes#joh-stunde
+ }
+#}
+#joh-5-29 {
+ {
+  Vgl §apg-24-15
  }
 #}
 #joh-5-31 {
@@ -88289,7 +88299,7 @@
 #}
 #apg-23-8 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer, → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer, → biblisches/Eigene-Uebersetzung/Konkordanz/Pharisäer, vgl §mt-22-23
  }
 #}
 #apg-23-9 {
@@ -88409,6 +88419,11 @@
 #apg-24-14 {
  {
   'Weg': <a class='kom' href='#Iapg-9-2'>Apg&nbsp;9,2</a>.
+ }
+#}
+#apg-24-15 {
+ {
+  <i>Auferstehung sowohl der Gerechten als der Ungerechten</i>: §joh-5-29, vgl §lk-14-14
  }
 #}
 #apg-24-17 {
