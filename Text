@@ -17697,7 +17697,7 @@
   Hier erste Erwähnung von «Lade des Bundes» (nicht nur «Lade»): <a class='kom' href='#I2mo-25-10'>2.&nbsp;Mo&nbsp;25,10</a>.
  }
  {
-  <i>die Lade des Bundes Jehovas zog …ihnen her, um ihnen einen Ruheort zu erkunden</i> vgl §5mo-1-33.
+  <i>die Lade des Bundes Jehovas zog … vor ihnen her, um ihnen einen Ruheort zu erkunden</i> vgl §5mo-1-33, §jos-6-8
  <br>
   David bereitete eine Ort für die Lade: §1chr-15-3
  }
@@ -23786,6 +23786,8 @@
 #jos-2-10 {
  {
   <i>Wasser des Schilfmeeres ausgetrocknet</i> vgl §jos-4-23
+ <br>
+  <i>verzagte Könige der Amoriter</i> vgl §jos-5-1
  }
 #}
 #jos-2-11 {
@@ -23947,7 +23949,10 @@
 @Josua 5 {
 #jos-5-1 {
  {
-  <i>Alle Könige der Amoriter</i>: <a class='kom' href='#Ijos-10-5'>Jos&nbsp;10,5</a>.
+  <i>Verzagte Könige der Amoriter</i> vgl §jos-2-10
+ }
+ {
+  <i>Alle Könige der Amoriter</i>: §+jos-10-5.
  }
  {
   <i>König(e) der Kanaaniter</i>: Hier Mehrzahl, in §ri-4-2 Einzahl und in
@@ -23956,8 +23961,8 @@
 #}
 #jos-5-3 {
  {
-  <i>Aralot</i> <span class='hebr'>עָרְלָה</span> (Strongs 6190) ist die Mehrzahl von 'Vorhaut',
-  siehe auch <a href='http://bibel.renenyffenegger.ch/1mo_17.html#v11'>1.&nbsp;Mo&nbsp;17,11</a>.
+  <i>Aralot</i> <span class='hebr'>עָרְלָה</span> (Strongs 6190) ist die Mehrzahl von «Vorhaut».
+  siehe auch §1mo-17-11.
  }
 #}
 #jos-5-4 {
@@ -24024,12 +24029,6 @@
 #}
 @}
 @Josua 6 {
-#jos-6-1 {
- {
-  TODO: <i>Niemand ging heraus, und niemand ging hinein.</i>:
-   Diese Wendung ist sprachlich falsch: entweder muß es heißen "kam heraus ... ging hinein" (aus der Sicht der Israeliten) oder "ging hinaus ... kam herein" (aus der Sicht der Bewohner von Jericho).
- }
-#}
 #jos-6-2 {
  {
   TODO: Mit dem König von Makkeda machte es Josua ebenso wie mit dem König von Jericho (<a href='http://bibel.renenyffenegger.ch/jos_10.html#v28'>Jos 10,28/30</a>).
@@ -24041,6 +24040,9 @@
  }
 #}
 #jos-6-8 {
+ {
+  <i>Die Lade des Bundes Jehovas folgte hinter ihnen</i> vgl §4mo-10-33
+ }
  {
   TODO <i>Hörner des Halljahres</i> in KVJ: 'trumpets of rams' horns', in Elberfelder 1905: 'Halljahrsposaunen'.
  }
@@ -24107,7 +24109,7 @@
   §+5mo-13-16-17.
  }
  {
-  Der HERR redete durch Josua (<a href='http://bibel.renenyffenegger.ch/1koe_16.html#v34'>1.&nbsp;Kö&nbsp;16,34</a>).
+  Jericho wurde durch Hiel wieder aufgebaut, §1koe-16-34.
  }
 #}
 #jos-6-27 {
@@ -33028,7 +33030,7 @@
   Ein anderer Abiram nahm bei der Rotte Korah teil: <a href='http://bibel.renenyffenegger.ch/4mo_16.html#v1'>4.&nbsp;Mo&nbsp;16,1</a>.
  }
  {
-  <a class='kom' href='#Ijos-6-26'>Jos&nbsp;6,26</a>.
+  <i>Nach dem Wort des Herrn</i>: §+jos-6-26.
  }
 #}
 @}
