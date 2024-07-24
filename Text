@@ -70080,6 +70080,11 @@
   <i>viele Berufen, wenige auserwählt</i>: <a class='kom' href='#Imt-20-16'>Mt&nbsp;20,16</a>.
  }
 #}
+#mt-22-16 {
+ {
+  <i>Lehrer, wir wissen</i>: §joh-3-2
+ }
+#}
 #mt-22-18 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heuchelei
@@ -79833,6 +79838,8 @@
  }
  {
   <i>daß du ein Lehrer bist</i> vgl §Vjoh-3-10
+ <br>
+  <i>Rabbi, wir wissen daß du ein Lehrer bist</i>: §+mt-22-16
  }
 #}
 #joh-3-3 {
@@ -80507,7 +80514,7 @@
 #}
 #joh-6-14 {
  {
-  <i>wahrhaftig der Propeht</i> §joh-7-40
+  <i>wahrhaftig der Prophet</i> §joh-7-40
  }
  {
   TODO: <i>Prophet</i>: §+joh-1-21.
@@ -80798,6 +80805,11 @@
   <i>wie kennt dieser die Schriften</i>: Elberfelder übersetzt mit «Wie besitzt dieser Gelehrsamkeit».
  }
 #}
+#joh-7-18 {
+ {
+  <i>der mich gesandt hat, ist wahrhaftig</i> §Vjoh-7-28
+ }
+#}
 #joh-7-20 {
  {
   <i>Du hast einen Dämon</i>: §joh-8-48-ff, §joh-10-20-21
@@ -80837,6 +80849,9 @@
  }
  {
   <i>der mich gesandt hat…, welchen ihr nicht kennt</i> vgl §joh-15-21, §+joh-1-26
+ }
+ {
+  <i>der mich gesandt hat, ist wahrhaftig</i> §Vjoh-7-18
  }
 #}
 #joh-7-29 {
@@ -80904,7 +80919,7 @@
 #}
 #joh-7-40 {
  {
-  <i>wahrhaftig der Propeht</i> §joh-6-14
+  <i>wahrhaftig der Prophet</i> §joh-6-14
  }
 #}
 #joh-7-42 {
