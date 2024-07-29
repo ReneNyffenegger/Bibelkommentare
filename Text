@@ -55864,7 +55864,16 @@
 #}
 #jes-53-9 {
  {
+  <i>Und man hat sein Grab bei Gesetzlosen bestimmt; aber bei einem Reichen ist er gewesen in seinem Tod</i> vgl mit dem reichen Joseph von Arimathia, der Jesu Leib in eine neue Gruft gelegt hat, §mt-27-57-60 
+ }
+ {
+  <i>weil er kein Unrecht begangen hat und kein Trug in seinem Mund gewesen ist</i> Vgl §1petr-2-22
+ }
+ {
   TODO: Wo überall (in den Psalmen und Sprüchen) findet man Menschen mit Betrug im Mund?
+ }
+ {
+  TODO: Gemäss Daniel M. hätte ein Verbrecher kein Grab bei einem Reichen erhalten.
  }
 #}
 #jes-53-10 {
@@ -71532,6 +71541,18 @@
   Die <i>Mutter der Söhne Zebedäaus</i> heisst Salome: §mk-15-40.
  }
 #}
+#mt-27-57 {
+ {
+  §mk-15-43, §lk-23-50, §joh-19-38
+sa:
+  gh: temp/Bibel/Vergleiche
+  https://github.com/ReneNyffenegger/temp-Bibel-Exodus-Chronologie
+  https://github.com/ReneNyffenegger/Biblisches/tree/master/Chronologie
+ }
+ {
+  Vgl den <i>reichen Joseph von Arimithia, der den Leib Jesu in eine Gruft gelegt hat</i> mit §jes-53-9.
+ }
+#}
 #mt-27-59 {
  {
   §mk-15-46, §lk-23-53, §joh-19-40
@@ -74353,6 +74374,9 @@
  }
 #}
 #mk-15-43 {
+ {
+  §mt-27-57, §lk-23-50, §joh-19-38
+ }
  {
   <i>kühn</i>, vgl mit §joh-19-38, wo Joseph von Arimathia als «aus Furcht vor den Juden ein verborgener Jünger» beschrieben wird.
  }
@@ -78023,7 +78047,7 @@
 #}
 #lk-18-20 {
  {
-  <i>Ehebruch vor Mord</i>: §mk-7-21. In den zehn Geboten kommt der Mord zuert: §2mo-20-13-14Ehebruch, vgl §+lk-18-20
+  <i>Ehebruch vor Mord</i>: §mk-7-21. In den zehn Geboten kommt der Mord zuerst: §2mo-20-13-14Ehebruch, vgl §+lk-18-20
  }
 #}
 #lk-18-21 {
@@ -78759,7 +78783,7 @@
 #}
 #lk-22-48 {
  {
-  <i>überliefst</i> (Strongs 3860): Sch2K übersetzt mit «verrätst», vgl §+mt-4-12.
+  <i>überlieferst</i> (Strongs 3860): Sch2K übersetzt mit «verrätst», KJV mit «betrayest», vgl §+mt-4-12.
  }
 #}
 #lk-22-50 {
@@ -79003,6 +79027,11 @@
 #lk-23-48 {
  {
   Vgl mit dem Zöllner, der sich an die <i>Brust schlägt</i>, §lk-18-13
+ }
+#}
+#lk-23-50 {
+ {
+  §mt-27-57, §mk-15-43, §joh-19-38
  }
 #}
 #lk-23-53 {
@@ -81435,7 +81464,7 @@
 #}
 #joh-10-32 {
  {
-  <i>Viele gute Werke habe ich uch von meinem Vater gezeigt</i>, vgl §joh-5-20, → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werke Gottes]
+  <i>Viele gute Werke habe ich euch von meinem Vater gezeigt</i>, vgl §joh-5-20, → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes[Werke Gottes]
  }
 #}
 #joh-10-33 {
@@ -82867,6 +82896,9 @@
  }
 #}
 #joh-19-38 {
+ {
+  §mt-27-57, §mk-15-43, §lk-23-50
+ }
  {
   Obwohl Joseph von Arimathia <i>aus Furcht vor den Juden ein verborgener Jünger</i> war, ging er doch kühn zu Pilatus, §mk-15-43
  }
@@ -93638,9 +93670,6 @@
  {
   <span class='gt'>In NA fehlt «Nehmt, eßt!» und «gebrochen».</span>
  }
- {
-  <i>daß Gott wirklich unter euch ist</i> vgl §1kor-11-26, wo durch das Essen des Brotes und Trinken des Kelches «der Tod des Herrn verkündigt» wird.
- }
 #}
 #1kor-11-25 {
  {
@@ -93661,7 +93690,7 @@
   <i>Bis er (der Herr) kommt</i>: <a class='kom' href='#I1kor-4-5'>1.&nbsp;Kor&nbsp;4,5</a>.
  }
  {
-  <i>den Tod des Herrn verkündigen</i> vgl §apg-4-2, §1kor-11-24
+  <i>den Tod des Herrn verkündigen</i> vgl §apg-4-2, §1kor-14-25
  }
 #}
 #1kor-11-28 {
@@ -94000,6 +94029,11 @@
  }
  {
   TODO: an einem Ort: vgl §1kor-11-20
+ }
+#}
+#1kor-14-25 {
+ {
+  <i>daß Gott wirklich unter euch ist</i> vgl §1kor-11-26, wo durch das Essen des Brotes und Trinken des Kelches «der Tod des Herrn verkündigt» wird und §2kor-6-16
  }
 #}
 #1kor-14-26 {
@@ -95158,6 +95192,9 @@
 #2kor-6-16 {
  {
   <i>ihr seid der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel des lebendigen Gottes</i> §+1kor-3-16
+ }
+ {
+  <i>ich will unter ihnen wohnen und wandeln</i>: §1kor-14-25
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
@@ -98827,7 +98864,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium, das der ganzen Schöpfung gepredigt worden ist</i> vgl §+mk-16-15, §1tim-3-16, §Vkol-1-6, §roem-16-26
  <br>
-  Wegen dieser Aussage nehmen einige Auslege an, dass Paulus vor der Abfassung des → biblisches/Bücher/Paulus/Kolosser[Kolosserbriefes] in Spanien war (§roem-15-23-ff).
+  Wegen dieser Aussage nehmen einige Ausleger an, dass Paulus vor der Abfassung des → biblisches/Bücher/Paulus/Kolosser[Kolosserbriefes] in Spanien war (§roem-15-23-ff).
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, vgl §Vkol-1-5
@@ -106312,6 +106349,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1petr-2-22 {
+ {
+  Vgl §jes-53-9
+ }
  {
   <i>welcher keine Sünde tat</i> vgl §2kor-5-21, §joh-8-46
  }
