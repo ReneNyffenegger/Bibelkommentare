@@ -76325,6 +76325,11 @@ sa:
   <a href='http://bibel.renenyffenegger.ch/lk_17.html#v16'>Lk&nbsp;17,16</a>.
  }
 #}
+#lk-7-39 {
+ {
+  <i>bei (zu) sich selbst</i>: §lk-12-17, §lk-15-17, §lk-16-3, §lk-18-4, §lk-18-11
+ }
+#}
 #lk-7-40 {
  {
   Beachte: er <i>ist</i> ein Prophet, da er auf die Gedanken Simons eingeht. Vgl §+mt-9-4
@@ -76451,6 +76456,9 @@ sa:
 #lk-8-21 {
  {
   §lk-6-47
+ }
+ {
+  <i>das Wort Gottes hören und tun</i> vgl §lk-11-28
  }
 #}
 #lk-8-22 {
@@ -77143,6 +77151,9 @@ sa:
   <i>die das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes] hören und bewahren</i>, vgl §lk-8-15 und Maria, die seinem Wort zuhörte, §lk-10-39-ff
  }
  {
+  <i>das Wort Gottes hören und bewahren</i> vgl §lk-8-21, §offb-3-8
+ }
+ {
   <i>glückselig</i>: §joh-13-17, §jak-1-25.
  }
 #}
@@ -77310,6 +77321,11 @@ sa:
 #lk-12-16 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
+ }
+#}
+#lk-12-17 {
+ {
+  <i>bei sich selbst</i>: §+lk-7-39
  }
 #}
 #lk-12-18 {
@@ -77726,6 +77742,9 @@ sa:
  {
   Vgl <i>Wer Ohren hat zu hören</i>: <a class='kom' href='#Ilk-14-35'>Lk&nbsp;14,35</a>.
  }
+ {
+  <i>ihn zu hören</i> §lk-21-38
+ }
 #}
 #lk-15-2 {
  {
@@ -77758,6 +77777,11 @@ sa:
   Vgl §lk-17-25, §lk-24-26
  }
 #}
+#lk-15-17 {
+ {
+  <i>zu sich selbst</i>: §+lk-7-39
+ }
+#}
 #lk-15-22 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1mo_41.html#v42'>1.&nbsp;Mo&nbsp;41,42</a>.
@@ -77784,6 +77808,11 @@ sa:
 #lk-16-1 {
  {
    <i>Haushalter</i>: siehe <a class='kom' href='#Ilk-12-42'>Lk&nbsp;12,42</a> und <a class='kom' href='#Iroem-16-23'>Röm&nbsp;16,23</a>.
+ }
+#}
+#lk-16-3 {
+ {
+  <i>bei sich selbst</i>: §+lk-7-39
  }
 #}
 #lk-16-8 {
@@ -78002,6 +78031,11 @@ sa:
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
  }
 #}
+#lk-18-4 {
+ {
+  <i>bei sich selbst</i>: §+lk-7-39
+ }
+#}
 #lk-18-8 {
  {
   <i>Wird Er … den Glauben finden?</i> vgl §+mt-24-23.
@@ -78015,6 +78049,9 @@ sa:
 #lk-18-11 {
  {
   Vgl. diesen Pharisäer mit dem Obersten in den Versen §lk-18-18-ff
+ }
+ {
+  <i>betete bei sich selbst</i> kann angeblich auch übersetzt werden mit «betete zu sich selbst».
  }
 #}
 #lk-18-13 {
@@ -78551,6 +78588,11 @@ sa:
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
+#lk-21-38 {
+ {
+  <i>ihn zu hören</i>: §lk-15-1
+ }
+#}
 @}
 @Lukas 22 {
 #lk-22-1 {
@@ -78715,6 +78757,13 @@ sa:
 #lk-22-36 {
  {
   Vgl: §+lk-9-3.
+ }
+ {
+  Mindestens ein Ausleger sieht beim Befehl, Schwerter zu kaufen, die Voraussetzung zur Erfüllung des nächsten Verses: mit den Schwertern gehören die Jünger zu den Gesetzlosen und der Herr kann unter die Gesetzlosen gerechnet werden.
+ <br>
+  Bei dieser Interpretation sind zwei Schwerter offenbar genug (übernächster Vers).
+ <br>
+  Ungeachtet dieser Auslegungsmöglichkeit hat der Herr nicht vorgesehen, das Schwert als Verteidigung zu verwenden, §mt-26-52
  }
 #}
 #lk-22-37 {
@@ -79122,6 +79171,11 @@ sa:
   <i>Kleopas</i>: einziges Vorkommen. Vgl aber mit Klopas in §joh-19-25.
  }
 #}
+#lk-24-19 {
+ {
+  Möglicherweise bezieht sich das <i>Werk</i> auf Jesu Wunder (im Anfang Seines Wirkens?) und das <i>Wort</i> auf seine Gleichnisse (gegen Ende Seines Wirkens?).
+ }
+#}
 #lk-24-21 {
  {
   <i>… der Israel erlösen sollte</i> Vgl §+lk-1-68
@@ -79174,6 +79228,11 @@ sa:
   assen, vgl §1mo-3-5-ff. Nachdem die Augen wurden erkannten die Jünger den Herrn; Adam und Eva aber, dass sie nackt waren.
  }
 #}
+#lk-24-32 {
+ {
+  <i>Schriften</i>: §Vlk-24-27
+ }
+#}
 #lk-24-33 {
  {
   <i>Elf</i>: <a class='kom' href='#I1kor-15-5'>1.&nbsp;Kor&nbsp;15,5</a>.
@@ -79218,7 +79277,7 @@ sa:
 #}
 #lk-24-44 {
  {
-  <i>dass alles erfüllte werden muss, was über mich geschrieben steht</i> vgl §lk-21-22
+  <i>dass alles erfüllt werden muss, was über mich geschrieben steht</i> vgl §lk-21-22
  }
  {
   TODO: Die Psalmen sind die erste Rolle der Schriften, der dritten Gliederung nach den zwei ersten: Gesetz und Propheten.
@@ -79226,7 +79285,7 @@ sa:
 #}
 #lk-24-45 {
  {
-  <i>…um die Schriften zu verstehen … und am dritten Tag auferstehen …</i> vgl §joh-20-9
+  <i>…um die Schriften zu verstehen … und am dritten Tag auferstehen …</i> vgl §joh-20-9, §Vlk-24-27
  }
 #}
 #lk-24-46 {
@@ -79273,7 +79332,10 @@ sa:
 #}
 #lk-24-51 {
  {
-   TODO: Verse 51-52 sind gemäss Menge Einschiebsel, die sich in den Urtext eingeschlichen haben.
+  Hier wird der Herr in den Himmel <i>hinaufgetragen</i>, in §joh-3-13 ist er in den Himmel «hinaufgestiegen».
+ }
+ {
+  TODO: Verse 51-52 sind gemäss Menge Einschiebsel, die sich in den Urtext eingeschlichen haben.
  }
 #}
 #lk-24-53 {
@@ -79723,7 +79785,7 @@ sa:
 #}
 #joh-2-4 {
  {
-   <i>Meine Stunde</i> ist noch nicht gekommen, vgl §lk-22-14, vgl mit «eure Stunde», §lk-22-53
+   <i>Meine Stunde</i> ist noch nicht gekommen, vgl §joh-13-1, §lk-22-14, vgl mit «eure Stunde», §lk-22-53
   <br>
     Vgl → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
@@ -79969,6 +80031,9 @@ sa:
  }
  {
   Vgl §eph-4-10
+ }
+ {
+  Hier ist der Herr in den Himmel <i>hinaufgestiegen</i>, in §lk-24-51 wird er in den Himmel «hinaufgetragen».
  }
 #}
 #joh-3-14 {
@@ -81885,7 +81950,7 @@ sa:
 @Johannes 13 {
 #joh-13-1 {
  {
-  → biblisches/Bücher/Evangelien/Johannes#joh-stunde
+  <i>daß seine → biblisches/Bücher/Evangelien/Johannes#joh-stunde gekommen war</i> vgl §joh-2-4, §lk-22-14
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah
@@ -90556,9 +90621,12 @@ sa:
  {
   <i>dem Bild seines Sohnes gleichgestaltet werden</i> vgl §1joh-3-2, §2petr-1-4, §1mo-3-5
   <br>Vgl auch §2kor-3-18
-  <br>Beachte auch, dass Christus «Gottes Bild» ist (§+2kor-4-4), das «Bild des unsichtbaren Gottes» (§kol-1-15)
+  <br>Beachte auch, dass Christus «Gottes Bild» ist (§+2kor-4-4)
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/kol_3.html#v10'>Kol&nbsp;3,10</a>.
   <br>§+1mo-1-26
+ }
+ {
+   Kombination <i>Bild</i> und <i>Erstgeborener</i>: §kol-1-15
  }
 #}
 #roem-8-31 {
@@ -98795,7 +98863,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-1-15 {
  {
-  <i>Bild</i>: Siehe §+mt-22-20, §roem-8-29
+  §roem-8-29
+ }
+ {
+  <i>Bild</i>: vgl §+mt-22-20
  }
  {
   <i>Gottes Bild</i>: §+2kor-4-4, §+1kor-11-7.
@@ -109239,6 +109310,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Die Stunde nicht kennen</i> :vgl §mt-24-42
  }
+ {
+  <i>wie du … gehört hast, und bewahre es</i> vgl §Voffb-3-8.
+ }
 #}
 #offb-3-4 {
  {
@@ -109267,6 +109341,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-3-8 {
  {
   <i>geöffnete Tür</i> vgl §Voffb-3-20, §offb-4-1
+ }
+ {
+  <i>du hast mein Wort bewahrt</i> vgl §lk-11-28, §Voffb-3-3
  }
 #}
 #offb-3-9 {
