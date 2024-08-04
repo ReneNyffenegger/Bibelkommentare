@@ -35880,7 +35880,7 @@
  → biblisches/Personen/Perez/Judas-Sohn
  }
  {
-  <i>Perz und Serach</i>: §mt-1-3
+  <i>Perez und Serach</i>: §mt-1-3
  }
 #}
 #1chr-2-5 {
@@ -63992,7 +63992,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
  }
  {
-  TODO: Vgl das <i>Sternbild eurer Götter</i> mit <a href='http://bibel.renenyffenegger.ch/apg_7.html#v43'>Apg&nbsp;7,43</a>.
+  TODO: Vgl das <i>Sternbild eures Gottes</i> mit §apg-7-43.
  }
 #}
 #am-5-27 {
@@ -67250,8 +67250,8 @@
   <i>nachfolgen, wohin irgend du gehst</i> §lk-9-57, §offb-14-4
  }
  {
-  <i>Meister</i> (<span class='gr'>διδάσκαλος</span>, Strongs 1320), möglicherwise besser (und wie in Elberfelder) mit «Lehrer» übersetzt.
-  Vgl auch <a class='kom' href='#Iapg-13-1'>Apg&nbsp;13,1</a>.
+  <i>Lehrer</i> (<span class='gr'>διδάσκαλος</span>, Strongs 1320), in Sch2K mit «Meister», KJV mit «Master» übersetzt.
+  Vgl auch §+apg-13-1.
  }
 #}
 #mt-8-20 {
@@ -82749,6 +82749,11 @@ sa:
   <i>Kohlenfeuer</i> §joh-21-9
  }
 #}
+#joh-18-19 {
+ {
+  <i>frage … über seine Lehre</i> vgl §apg-17-19
+ }
+#}
 #joh-18-20 {
  {
   → biblisches/Bücher/Evangelien/Johannes/index#strongs-3954-joh
@@ -86079,7 +86084,7 @@ sa:
   nennt er sich 'Apostel und <i>Lehrer</i> der Heiden'. Möglicherweise wird er im nächsten Vers zum Apostel, da er zum Werk berufen wird.
  }
  {
-  <i>Lehrer</I>: <a class='kom' href='#Imt-8-19'>Mt&nbsp;8,19</a>.
+  <i>Lehrer</I>: §+mt-8-19.
  }
  {
   <i>Gemeinde in Antiochia</i>: <a class='kom' href='#Iapg-8-1'>Apg&nbsp;8,1</a>.
@@ -87313,6 +87318,9 @@ sa:
  }
 #}
 #apg-17-19 {
+ {
+  <i>Können wir erfahren, was diese neue Lehre ist</i> vgl §joh-18-19
+ }
  {
   <i>Aeropag</i>: §Vapg-17-34
  }
