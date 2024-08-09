@@ -66764,7 +66764,8 @@
 #}
 #mt-5-25 {
  {
-  <i>Richter</i> (<span class='gr'>ὑπηρέτης</span>, Strongs 5257), an andern Orten einfach mit «Diener» übersetzt. Sch2K übersetzt mit «Gerichtsdiener».
+  <i>Diener</i> (<span class='gr'>ὑπηρέτης</span>, Strongs 5257): Sch2K übersetzt mit «Gerichtsdiener», KJV mit «officer».
+  <br>
   Vgl auch §apg-16-35.
  }
 #}
@@ -71265,7 +71266,7 @@
 #}
 #mt-27-8 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen: Dieser Hinweis deutet darauf hin, dass das → biblisches/Bücher/Evangelien/Matthäus[Matthäusevangelium] vor der Zerstörung Jerusalems 70 n. Chr. geschrieben worden ist.
  }
 #}
 #mt-27-9 {
@@ -74568,10 +74569,12 @@ sa:
 #}
 #lk-1-2 {
  {
-   <i>Diener</i> (<span class='gr'>ὑπηρέτης</span>, Strongs 5257). Siehe auch <a class='kom' href='#Imt-5-25'>Mt&nbsp;5,25</a>.
+  <i>Diener</i> (<span class='gr'>ὑπηρέτης</span>, Strongs 5257). Siehe auch <a class='kom' href='#Imt-5-25'>Mt&nbsp;5,25</a>.
  }
  {
-  <i>Diener des Wortes</i>, vgl §+apg-6-4, §+1kor-4-1.
+  <i>Diener des Wortes</i>: <span class='gr'>υπηρεται του λογου</span>. υπηρεται wird auch mit «Gerichtsdiener» oder «Rutenträger» übersetzt.
+ <br>
+  vgl §+apg-6-4.
  }
  {
   <i>wie es uns die überliefert haben</i> vgl §1kor-11-2
@@ -79907,7 +79910,7 @@ sa:
 #}
 #joh-2-22 {
  {
-  <i>geachten seine Jünger … dem Wort</i> vgl §lk-24-8, §joh-16-4
+  <i>Als er nun aus den Toten auferweckt war, gedachten seine Jünger daran, daß er dies gesagt hatte …</i> vgl §lk-24-5-8, §joh-12-16, §joh-16-4
  }
 #}
 #joh-2-23 {
@@ -81762,6 +81765,11 @@ sa:
  }
  {
   §+sach-9-9, §mt-21-5
+ }
+#}
+#joh-12-16 {
+ {
+  <i>dann erinnerten sie sich, daß dies von ihm geschrieben war</i>: §joh-2-22
  }
 #}
 #joh-12-21 {
@@ -84509,8 +84517,8 @@ sa:
 #}
 #apg-6-4 {
  {
-  <i>Dienst des Wortes</i>: Hier ist 'Dienst' im Griechischen <span class='gr'>διακονία</span> (Strongs 1248) vgl <a class='kom' href='#Ilk-1-2'>Lk&nbsp;1,2</a>.
-  <br>Vgl mit dem 'dienen an den Tischen' in Vers 2.
+  <i>Dienst des Wortes</i>: Hier ist «Dienst» im Griechischen <span class='gr'>διακονία</span> (Strongs 1248) vgl §+lk-1-2.
+  <br>Vgl mit dem «Dienen an den Tischen» in §Vapg-6-2
  }
 #}
 #apg-6-5 {
@@ -87132,7 +87140,12 @@ sa:
 #apg-16-35 {
  {
   <i>Rutenträger</i> (<span class='gr'>ῥαβδοῦχος</span>, Strongs 4465), vgl §+mt-5-25.
-  Sch2K übersetzt das Wort mit mit «Gerichtsdiener». Ebenso §Vapg-16-38.
+  Sch2K übersetzt das Wort mit mit «Gerichtsdiener», KJV mit «serjeants». Ebenso §Vapg-16-38.
+ }
+#}
+#apg-16-38 {
+ {
+  <i>Rutenträger</i>: §Vapg-16-35
  }
 #}
 #apg-16-39 {
@@ -90557,7 +90570,7 @@ sa:
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
  {
-  Vgl §2thes-1-5
+  <i>daß die Leiden der Jetztzeit nicht wert sind…</i> Vgl §2thes-1-5, §phil-3-8
  }
 #}
 #roem-8-19 {
@@ -92655,7 +92668,6 @@ sa:
      <li>Diener in Paulus' Not, Epaphroditus: <a href='http://bibel.renenyffenegger.ch/phil_2.html#v25'>Phil&nbsp;2,25</a>.
   </ul>
   TODO: Tychikus, der treue Diener im Herrn (<a href='http://bibel.renenyffenegger.ch/eph_6.html#v21'>Eph&nbsp;6,21</a>, <a href='http://bibel.renenyffenegger.ch/kol_4.html#v7'>Kol&nbsp;4,7</a>).
-  <br>TODO: <i>Diener des Wortes</i>: <a class='kom' href='#Ilk-1-2'>Lk&nbsp;1,2</a>
   <br><i>Diener der Gerechtigkeit</i>: <a href='http://bibel.renenyffenegger.ch/2kor_11.html#v15'>2.&nbsp;Kor&nbsp;11,15</a>.
   <br>Vgl auch <i>Gottes Dienerin</i>: <a href='http://bibel.renenyffenegger.ch/roem_13.html#v4'>Röm&nbsp;13,4</a>.
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/1kor_3.html#v5'>1.&nbsp;Kor&nbsp;3,5</a>.
@@ -92758,10 +92770,10 @@ sa:
 #}
 #1kor-4-17 {
  {
-  Später wird → biblisches/Personen/Paulus → biblisches/Personen/Timotheus anweisen, in Paulus' Abwesenheit mit Vorlesen, Ermahnen und Lehren etc. anzuhalten: §1tim-4-13
+  Später wird → biblisches/Personen/Paulus → biblisches/Personen/Timotheus anweisen, in Paulus' Abwesenheit mit Vorlesen, Ermahnen und Lehren etc. anzuhalten: §1tim-4-13, vgl §2tim-2-2
  }
  {
-  → biblisches/Personen/Timotheus/index ist noch nicht angekommen (und gemäss <a class='kom' href='#I1kor-16-10'>1.&nbsp;Kor&nbsp;16,10</a> ist es gar nicht sicher, ob er überhaupt ankommt.).
+  → biblisches/Personen/Timotheus ist noch nicht angekommen (und gemäss <a class='kom' href='#I1kor-16-10'>1.&nbsp;Kor&nbsp;16,10</a> ist es gar nicht sicher, ob er überhaupt ankommt.).
  }
  {
   Timotheus wird (wohl?) in <a href='http://bibel.renenyffenegger.ch/apg_19.html#v22'>Apg&nbsp;19,22</a> gesandt? Dort steht, dass er &mdash;zusammen
@@ -93158,7 +93170,7 @@ sa:
 #}
 #1kor-7-15 {
  {
-  <i>gebunden</i>: <span class='gr'>δουλόω</span> (Strongs 1402), bedeutet auch 'versklavt' oder 'geknechtet'.
+  <i>gebunden</i>: <span class='gr'>δουλόω</span> (Strongs 1402), bedeutet auch «versklavt» oder «geknechtet».
   Vgl <a class='kom' href='#Iroem-7-2'>Röm&nbsp;7,2</a>.
  }
 #}
@@ -94920,8 +94932,8 @@ sa:
 #}
 #2kor-2-17 {
  {
-  Auch in §2kor-4-2 schreibt → biblisches/Personen/Paulus, dass er «das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes] nicht verfälscht». Hier ist das Verb allerdings <span class='gr'>καπηλεύω</span> (Strongs 2585, 1x), dort ist es
-  <span class='gr'>δολόω</span> (Strongs 1389, 1x).
+  Auch in §2kor-4-2 schreibt → biblisches/Personen/Paulus, dass er «das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes] nicht verfälscht».
+  Hier ist das Verb allerdings <span class='gr'>καπηλεύω</span> (Strongs 2585, 1x), dort ist es <span class='gr'>δολόω</span> (Strongs 1389, 1x).
  }
  {
   Den Ausdruck «vor Gott reden wir → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus[in Christus]» benutzt Paulus auch in §2kor-12-19 zur «Erbauung der Korinther».
@@ -98515,6 +98527,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-3-8 {
  {
+  Vgl §+roem-8-18
+ }
+ {
   <i>Kot</i>: <span class='gr'>σκύβαλον</span> (Strongs 4657, 1x), in andern Übersetzungen mit «Dreck» oder «Unrat» übersetzt.
  }
 #}
@@ -101991,6 +102006,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2tim-2-1 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Paulus-und-Johannes-Kinder ­ → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+ }
+#}
+#2tim-2-2 {
+ {
+  §+1kor-4-17
  }
 #}
 #2tim-2-3 {
@@ -106800,7 +106820,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit/Leiden
  }
  {
-  <i>der Leiden des Christus teilhaftig sein</i> vgl §phl-3-10
+  <i>der Leiden des Christus teilhaftig sein</i> vgl §phil-3-10
  }
  {
   <i>Geoffenbarte Herrlichkeit</i>: vgl <a href='http://bibel.renenyffenegger.ch/1petr_5.html#v1'>1.&nbsp;Petr&nbsp;5,1</a>.
