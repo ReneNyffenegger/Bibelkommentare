@@ -68076,7 +68076,7 @@
 #}
 #mt-11-29 {
  {
-  <i>sanftmütig</i> §mt-21-5, §+4mo-12-3
+  <i>ich bin sanftmütig</i> §mt-21-5, §2kor-10-1, §+4mo-12-3
  }
 #}
 #mt-11-30 {
@@ -70279,6 +70279,11 @@
 #mt-23-23 {
  {
   <i>Recht</i>: <span class='gr'>κρίσις</span> (Strongs 2920), in Elberfelder mit «Gericht» in KJV mit «Judgement» übersetzt.
+ }
+#}
+#mt-23-27 {
+ {
+  <i>ihr gleicht übertünchten Gräbern</i> vgl §apg-23-3
  }
 #}
 #mt-23-28 {
@@ -73441,6 +73446,9 @@ sa:
 #mk-10-30 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+ {
+  Vgl §lk-18-30
  }
 #}
 #mk-10-31 {
@@ -76955,6 +76963,9 @@ sa:
   <i>Der Arbeiter ist seines Lohnes wert</i>: <a class='kom' href='#I1tim-5-18'>1.&nbsp;Tim&nbsp;5,18</a>.
   Vgl mit «Der Arbeiter ist seiner Nahrung wert» in <a class='kom' href='#Imt-10-10'>Mt&nbsp;10,10</a>.
  }
+ {
+  <i>eßt und trinkt, was sie haben</i> vgl §1kor-10-27
+ }
 #}
 #lk-10-9 {
  {
@@ -78134,6 +78145,9 @@ sa:
 #lk-18-30 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+ {
+  Vgl §mk-10-30
  }
 #}
 #lk-18-31 {
@@ -87421,7 +87435,7 @@ sa:
 #}
 #apg-17-31 {
  {
-  <i>den Erdkreis in Gerechtigkeit richten</i> Vgl §apg-10-42, §ps-96-13
+  <i>den Erdkreis in Gerechtigkeit richten</i> Vgl §apg-10-42, §apg-24-25, §ps-96-13
  }
  {
   Vgl diesen <i>festgesetzten Tag</i> mit dem «ihm bestimmten Tag» in §apg-28-23 (Das Griechische Wort ist nicht dasselbe).
@@ -88541,6 +88555,14 @@ sa:
   <i>Ananias</i>: <a class='kom' href='#Iapg-5-1'>Apg&nbsp;5,1</a>.
  }
 #}
+#apg-23-3 {
+ {
+  <i>getünchte Wand</i> vgl §mt-23-27
+ }
+ {
+  TODO Offenbar war dieser  Hohepriester Ananias b. Nedebaeus, der 66 n. Chr. von Menahem getötet wurde.
+ }
+#}
 #apg-23-6 {
  {
   <i>wegen der Hoffnung und Auferstehung der Toten werde ich gerichtet</i> vgl §apg-24-21, §apg-28-20
@@ -88696,6 +88718,11 @@ sa:
 #apg-24-22 {
  {
   'Weg': <a class='kom' href='#Iapg-9-2'>Apg&nbsp;9,2</a>.
+ }
+#}
+#apg-24-25 {
+ {
+  <i>Gerechtigkeit und … das kommende Gericht</i> §+apg-17-31
  }
 #}
 #apg-24-26 {
@@ -93581,6 +93608,11 @@ sa:
   <i>Götzenopferfleisch essen</i>: <a class='kom' href='#Iapg-15-29'>Apg&nbsp;15,29</a>.
  }
 #}
+#1kor-10-27 {
+ {
+  <i>eßt alles, was euch vorgesetzt wird…</i> vgl §lk-10-7 
+ }
+#}
 #1kor-10-29 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit
@@ -95529,6 +95561,9 @@ sa:
 #2kor-10-1 {
  {
   Der <i>abwesende</i> Paulus: §+1kor-5-3. (Vgl §V2kor-10-11)
+ }
+ {
+  <i>Sanftmut des Christus</i> §mt-11-29
  }
 #}
 #2kor-10-4 {
