@@ -24143,7 +24143,7 @@
   erstgeborene ist, Serach oder Perez (<a href='http://bibel.renenyffenegger.ch/1mo_38.html#v27'>1. Mo 38,27 ff</a>).
  }
  {
-  <i>Sabdi</i> s. 'Zebedäaus' in <a class='kom' href='#Imt-4-21'>Mt&nbsp;4,21</a>.
+  <i>Sabdi</i> s. «Zebedäus» in <a class='kom' href='#Imt-4-21'>Mt&nbsp;4,21</a>.
  }
 #}
 #jos-7-2 {
@@ -37083,7 +37083,7 @@
 #}
 #1chr-8-19 {
  {
-  <i>Sabdi</i> s. <i>Zebedäaus</i> in §+mt-4-21.
+  <i>Sabdi</i> s. <i>Zebedäus</i> in §+mt-4-21.
  }
 #}
 #1chr-8-24 {
@@ -38628,7 +38628,7 @@
   <i>Siphmiter</i> (<span class='hebr'>שִׁפְמִי</span>, Strongs 8225, 1x), ist offenbar das Patronymikon von Schepham, Strongs 8221: <a class='kom' href='#I4mo-34-10'>4.&nbsp;Mo&nbsp;34,10</a>.
  }
  {
-  <i>Sabdi</i> s. 'Zebedäaus' in <a class='kom' href='#Imt-4-21'>Mt&nbsp;4,21</a>.
+  <i>Sabdi</i> s. «Zebedäus» in <a class='kom' href='#Imt-4-21'>Mt&nbsp;4,21</a>.
  }
 #}
 #1chr-27-28 {
@@ -43259,7 +43259,7 @@
 #}
 #neh-11-17 {
  {
-  <i>Sabdi</i> s. 'Zebedäaus' in <a class='kom' href='#Imt-4-21'>Mt&nbsp;4,21</a>.
+  <i>Sabdi</i> s. «Zebedäus» in <a class='kom' href='#Imt-4-21'>Mt&nbsp;4,21</a>.
  }
 #}
 #neh-11-18 {
@@ -44979,6 +44979,9 @@
 #ps-8-2 {
  {
   <i>HERR, unser Herrscher, wie herrlich ist dein Name auf der ganzen Erde</i> vgl §Vps-8-10.
+ }
+ {
+  <i>über die Himmel</i> vgl §ps-57-6, §ps-108-5-6, §ps-113-4, §hebr-7-26
  }
 #}
 #ps-8-3 {
@@ -46752,6 +46755,11 @@
 #ps-57-5 {
  {
   <i>scharfes Schwert</i> vgl §ps-55-22
+ }
+#}
+#ps-57-6 {
+ {
+  <i>über die Himmel</i> vgl §+ps-8-2
  }
 #}
 #ps-57-8 {
@@ -49099,6 +49107,11 @@
 #}
 @}
 @Psalm 108 {
+#ps-108-5 {
+ {
+  <i>über die Himmel</i> vgl §+ps-8-2
+ }
+#}
 #ps-108-8 {
  {
   → biblisches/Orte/Sichem
@@ -49285,6 +49298,11 @@
  }
  {
   <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>. Ebenso Vers 9.
+ }
+#}
+#ps-113-4 {
+ {
+  <i>über die Himmel</i>: §ps-8-2
  }
 #}
 #ps-113-7 {
@@ -69756,10 +69774,13 @@
 #}
 #mt-20-20 {
  {
-  §mk-10-35
+  Vgl mit §mk-10-35-ff. Hier werden die Namen der Söhne des Zebedäus (Johannes und Jakobs) nicht genannt (auch nicht in §Vmt-20-24), während sie im Parallelbericht genannt werden.
  }
 #}
 #mt-20-22 {
+ {
+  §mk-10-38
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
  }
@@ -69772,7 +69793,13 @@
 #}
 #mt-20-23 {
  {
+  <i>Meinen Kelch trinken</i> vgl §1kor-10-21
+ }
+ {
   <span class='gt'>Nicht in NA: «und getauft werden mit der Taufe, womit ich getauft werde.»</span>.
+ }
+ {
+  TODO: Mind. ein preteristischer Ausleger deutet das Trinken des Kelches dieser beiden Brüder so, dass sie vor dem 2. Kommen des Herrn sterben würden. Vgl mit §joh-21-23
  }
 #}
 #mt-20-25 {
@@ -71557,7 +71584,7 @@
   → biblisches/Personen/Jakobus
  }
  {
-  Die <i>Mutter der Söhne Zebedäaus</i> heisst Salome: §mk-15-40.
+  Die <i>Mutter der Söhne Zebedäus</i> heisst Salome: §mk-15-40.
  }
 #}
 #mt-27-57 {
@@ -72249,7 +72276,7 @@ sa:
   Da der Autor des → biblisches/Bücher/Evangelien/Markus[Markusevangliums] Boanerges übersetzt, kann vielleicht angenommen werden, dass das Evangelium
   → biblisches/Bücher/Evangelien/Markus#mk-nicht-an-juden[nicht an Juden] gerichtet ist, vgl §mk-7-11, §mk-7-34, §mk-15-22
  <br>
-  Obwohl genannt «Söhne des Donners», sind sie eigentlich Söhne des Zebedäaus, s.a. §+mt-4-21.
+  Obwohl genannt «Söhne des Donners», sind sie eigentlich Söhne des Zebedäus, s.a. §+mt-4-21.
  <br>
   Vgl mit Barnabas, dem Sohn des Trostes: §apg-4-36.
  }
@@ -73466,7 +73493,7 @@ sa:
 #}
 #mk-10-35 {
  {
-  §mt-20-20
+  Vgl mit §mt-20-20. Hier werden die Namen der Söhne des Zebedäus genannt (auch in §Vmk-10-41), nicht aber im Parallelbericht.
  }
  {
   → biblisches/Personen/Jakobus#jakobus-sohn-zebedaeus[Jakobus, der Sohn des Zebedäus]
@@ -73482,7 +73509,10 @@ sa:
 #}
 #mk-10-38 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
+  §mt-20-22, vgl §1kor-10-21
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
  }
 #}
 #mk-10-40 {
@@ -80414,7 +80444,12 @@ sa:
    Vgl mit «Teich Siloam» §joh-9-7
  }
  {
-   Vgl §joh-10-7, → biblisches/Eigene-Uebersetzung/Konkordanz/Tor#tore-jerusalems
+  Vgl §joh-10-7, → biblisches/Eigene-Uebersetzung/Konkordanz/Tor#tore-jerusalems
+ }
+ {
+  Das Präsens in <i>ist … ein Teich</i> deutet darauf hin, dass das Johannesevangelium vor der Zerstörung Jerusalems 70 n. Chr. geschrieben worden ist, da der Teich angeblich bei dieser Zerstörung zerstört und mit Schutt aufgefüllt wurde. Beachte die Vergangenheitsform im nächsten Vers.
+  Vgl → biblisches/Bücher/Chronologie
+
  }
 #}
 #joh-5-3 {
@@ -83244,6 +83279,9 @@ sa:
 #joh-21-23 {
  {
   <i>Jener Jünger stirbt nicht</i>: Möglicherweise trug diese (falsche) Annahme dazu bei, dass die Jünger glaubten, sie lebten in der → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#endzeit-letzte-generation[letzten Generation].
+ }
+ {
+  TODO: §+mt-20-23
  }
 #}
 #joh-21-25 {
@@ -86809,7 +86847,7 @@ sa:
 #}
 #apg-15-20 {
  {
-    <i>Verunreinigung durch die Götzen, Unzucht</i>: vgl <a class='kom' href='#Ioffb-2-14'>Offb&nbsp;2,14</a>.
+  Vgl das <i>Enthalten von den Verunreinigungen der Götzen und von der Hurerei</i> mit der Lehre Baalams in vgl §+offb-2-14.
  }
 #}
 #apg-15-21 {
@@ -88976,9 +89014,11 @@ sa:
 #}
 #apg-27-9 {
  {
-  'Fasten' ist wohl im Herbst, denn das Fasten ist jetzt vorüber und die Überwinterung kommt.
-  <br>TODO: Das Fasten bezieht sich angeblich auf den <i>Versöhnungstag</i>
-   (<a href='http://bibel.renenyffenegger.ch/3mo_23.html#v26'>3.&nbsp;Mo&nbsp;23,26-32</a>). Ist das so? Wo wird im Gesetz ein Fasten geboten?
+  Diess <i>Fasten</i> ist wohl im Herbst, denn die Überwinterung kommt (§Vapg-27-12).
+  <br>
+   Angeblich bezieht es sich auf den <i>Versöhnungstag</i> (§3mo-23-26-32).
+  <br>
+   Elberfelder übersetzt im Plural mit «die Fasten».
  }
  {
    In <a href='http://bibel.renenyffenegger.ch/jer_36.html#v22'>Jer&nbsp;36,22</a> gibt es im Winter ein Fasten (<a href='http://bibel.renenyffenegger.ch/jer_36.html#v9'>Jer&nbsp;36,9</a>).
@@ -89057,6 +89097,9 @@ sa:
  {
   Paulus wurde dreimal mit Ruten geschlagen, einmal gesteinigt, erlitt dreimal Schiffbruch und hat einen Tag und eine Nacht in der Tiefe zugebracht
   (<a href='http://bibel.renenyffenegger.ch/2kor_11.html#v25'>2.&nbsp;Kor&nbsp;11,25</a>).
+ }
+ {
+  TODO: <a href='https://www2.cbn.com/news/world/searching-pauls-shipwreck-malta'>Documentation Robert Cornuke</a> about the shipwreck.
  }
 #}
 @}
@@ -93140,6 +93183,9 @@ sa:
  {
   → biblisches/Grundtext/Wörter/epi-o-autos
  }
+ {
+   <span class='gt'>In NA fehlt «zum Fasten»</span>
+ }
 #}
 #1kor-7-6 {
  {
@@ -93591,6 +93637,11 @@ sa:
 #1kor-10-20 {
  {
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Dämon#daemonen-opfern[den Dämonen opfern] und nicht Gott</i> vgl §+3mo-17-7, §5mo-32-17.
+ }
+#}
+#1kor-10-21 {
+ {
+  <i>des Herrn Kelch trinken</i>: §mt-20-23, §mk-10-39
  }
 #}
 #1kor-10-22 {
@@ -104084,6 +104135,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>eintreten</i>: <a class='kom' href='#Iroem-8-26'>Röm&nbsp;8,26</a>.
  }
+ {
+  <i>höher als die Himmel</i> vgl §ps-8-2
+ }
 #}
 #hebr-7-27 {
  {
@@ -109262,19 +109316,19 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-2-14 {
  {
-  Vgl <i>Lehre Bileams</i> mit dem «Betrug Bileams» <a class='kom' href='#Ijud-1-11'>Jud&nbsp;1,11</a>.
- }
- {
-   TODO: Bileam: Siehe <a class='kom' href='#I4mo-22-5'>4.&nbsp;Mo&nbsp;22,5</a>.
+  Vgl die <i>Lehre Baalams</i> mit dem «Irrtum Bileams» §+jud-1-11.
  }
  {
   Vgl <i>Lehre Bileams</i> und <i>Lehre der Nikolaiten</i> (Vers 15), s.a. <a class='kom' href='#I4mo-22-5'>4.&nbsp;Mo&nbsp;22,5</a>.
  }
  {
-  <i>Götzenopfer essen und Unzucht treiben</i>: Vgl
-  <a class='kom' href='#Iapg-15-20'>Apg&nbsp;15,20</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_2.html#v20'>Offb&nbsp;2,20</a>.
-  <br>TODO: Erlaubt dies Paulus 1. Korinther 8 / Römer 14 / 1. Kor 10:19-31?
+  <i>Götzenopfer essen und Hurerei treiben</i>: Vgl §Voffb-2-20, §+apg-15-20.
+ }
+ {
+  TODO: Erlaubt Paulus das Essen von Götzenopfer 1. Korinther 8 / Römer 14 / §1kor-10-19-31?
+ }
+ {
+  Baalam: Siehe §+4mo-22-5.
  }
 #}
 #offb-2-15 {
@@ -109331,7 +109385,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] sein sollen und nicht von einer falschen Prophetin verführt werden.
  }
  {
-  <i>Unzucht treiben und Götzenopfer essen</i>: <a class='kom' href='#Ioffb-2-14'>Offb&nbsp;2,14</a>.
+  <i>Hurerei treiben und Götzenopfer essen</i>: §+Voffb-2-14.
  }
  {
   <span class='gt'>NA und MT lassen «ein weniges» weg.</span>
