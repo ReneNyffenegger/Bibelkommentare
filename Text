@@ -28928,7 +28928,7 @@
  {
   → biblisches/Personen/David, der Hirte, §1sam-17-15, §1sam-17-34-ff
   <br>
-   David sollte nicht nur Fürst über Israel sein, sondern auch das Volk des HERRN, Israel, weiden, §2sam-5-2.
+   David sollte nicht nur Fürst über Israel sein, sondern auch das Volk des HERRN, Israel, weiden, §2sam-5-2, §2sam-7-8, §ps-78-70-72
   <br>
    David setzt fünf Hirten (Sitrai, Saphat, Obil, Jechdeja und Jaser) ein, §1chr-27-29-31.
   <br>
@@ -28943,7 +28943,6 @@
  {
   Beachte: → biblisches/Personen/David scheint der einzige Bruder zu sein, der überhaupt etwas gemacht hat (und zwar: <i>Schafe hüten</i>),
   und nicht untätig war.
-         <br>Beachte auch das Zeugnis Asaphs über David in <a href='http://bibel.renenyffenegger.ch/ps_78.html#v70'>Ps 78,70-72</a>.
          <br>TODO: Wollte David Nabal treffen, um ihm die Schafe zu scheren (helfen) (<a href='http://bibel.renenyffenegger.ch/1sam_25.html#v4'>1. Sam 25,4 ff</a>)?
          <br>TODO: vgl David mit Doeg, dem Aufseher über die Hirten Sauls (<a href='http://bibel.renenyffenegger.ch/1sam_21.html#v8'>1.&nbsp;Sam&nbsp;21,8</a>.
  }
@@ -30267,6 +30266,9 @@
  }
 #}
 #2sam-7-8 {
+ {
+  <i>Ich habe … genommen, hinter dem Kleinvieh weg, daß du Fürst sein solltest über mein Volk…</i>: §1sam-16-11, §ps-78-70-72
+ }
  {
   <i>Trift</i> <span class='he'>נָוֶה</span> (Strongs 5116): eine Trift bezeichnet gem <a href="https://de.wikipedia.org/wiki/Viehtrift">Wikipedia</a> einen Weg zwischen Stall und Weide.
  }
@@ -37608,6 +37610,9 @@
 #}
 #1chr-13-5 {
  {
+  Vgl §1chr-15-3, wo David ganz Israel nach <i>Jerusalem</i> versammelt, um die Lade an <i>ihren Ort</i> zu bringen.
+ }
+ {
   <i>Vom Sihor Ägyptes bis nach Hamath hin</i> §2chr-7-8
  }
 #}
@@ -37704,6 +37709,9 @@
  }
 #}
 #1chr-15-3 {
+ {
+  Vgl §+1chr-13-5
+ }
  {
   <i>Der Ort der Lade</i>: §+1sam-5-11.
  <br>
@@ -47633,10 +47641,10 @@
 #}
 #ps-78-70 {
  {
-  <i>David, der Schafhirte</i>: <a class='kom' href='#I1sam-16-11'>1.&nbsp;Sam&nbsp;16,11</a>.
+  <i>David, der Schafhirte</i>: §+1sam-16-11.
  }
  {
-   Vgl mit anderen Versen von Asaph in <a href='http://bibel.renenyffenegger.ch/ps_80.html#v2'>Ps&nbsp;80,2</a>.
+  Vgl mit anderen Versen von Asaph in §ps-80-2.
  }
 #}
 #ps-78-72 {
