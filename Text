@@ -44779,7 +44779,7 @@
 #}
 #ps-1-3 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/ps_92.html#v14'>Ps&nbsp;92,14</a> und <a href='http://bibel.renenyffenegger.ch/jer_17.html#v8'>Jer&nbsp;17,8</a>
+  Vgl §ps-92-14, §jer-17-8 und §ps-37-35
  }
 #}
 @}
@@ -46109,6 +46109,11 @@
 #ps-37-34 {
  {
   <i>harren</i>: <a class='kom' href='#I1mo-49-18'>1.&nbsp;Mo&nbsp;49,18</a>.
+ }
+#}
+#ps-37-35 {
+ {
+  <i>nicht verpflanzter grüner Baum</i> vgl §ps-1-3
  }
 #}
 #ps-37-38 {
@@ -56518,6 +56523,9 @@
  {
   <i>ihr Wurm wird nicht sterben und ihr Feuer nicht erlöschen</i>: vgl <a href='http://bibel.renenyffenegger.ch/mk_9.html#v44'>Mk&nbsp;9,44/46/48</a>.
  }
+ {
+  <i>Feuer, das nicht erlöscht</i> vgl §jer-17-27, §mt-3-12
+ }
 #}
 @}
 }
@@ -57412,6 +57420,11 @@
 #jer-17-26 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch
+ }
+#}
+#jer-17-27 {
+ {
+  <i>ein Feuer, das nicht erlöschen wird</i> vgl §jes-66-24, §mt-3-12, §mk-9-43
  }
 #}
 @}
@@ -66292,6 +66305,9 @@
  {
   <i>Weizen sammeln</i>: vgl §mt-13-30, §+mt-24-31
  }
+ {
+  <i>unauslöschliches Feuer</i> vgl §mk-9-43, §jer-17-27, §jes-66-24
+ }
 #}
 #mt-3-13 {
  {
@@ -67703,6 +67719,9 @@
   <i>Haus Israel</i>: vgl auch §apg-2-36.
  }
  {
+  Das griechische Verb, das hier mit <i>verloren</i> übersetzt wird, wird in §Vmt-10-28 mit «verderben» übersetzt, vgl §Vmt-10-39
+ }
+ {
   TODO Beachte: das <i>Haus Juda</i> wird im Neuen Testament nur in §hebr-8-8 erwähnt.
  }
 #}
@@ -67822,6 +67841,9 @@
  {
   §lk-12-5
  }
+ {
+  Das griechische Verb, das hier mit <i>verderben</i> übersetzt wird, wird in §Vmt-10-6 und §Vmt-10-39 mit «verloren» respektive «verlieren» übersetzt.
+ }
 #}
 #mt-10-29 {
  {
@@ -67867,9 +67889,19 @@
    Vgl auch mit dem zweiten Reiter aus der Offenbarung, §offb-6-4
  }
 #}
+#mt-10-37 {
+ {
+  <i>Wer Vater oder Mutter mehr liebt als mich…</i> vgl §joh-12-25
+ }
+#}
 #mt-10-38 {
  {
   <i>Kreuz auf sich nehmen</i>: <a href='http://bibel.renenyffenegger.ch/mt_16.html#v24'>Mt&nbsp;16,24</a>.
+ }
+#}
+#mt-10-39 {
+ {
+  Vgl §mt-16-25
  }
 #}
 #mt-10-42 {
@@ -69291,6 +69323,11 @@
  }
  {
   <i>Kreuz auf sich nehmen</i>: <a class='kom' href='#Imt-10-38'>Mt&nbsp;10,38</a>.
+ }
+#}
+#mt-16-25 {
+ {
+  Vgl §mt-10-39, §joh-12-25
  }
 #}
 #mt-16-26 {
@@ -73353,6 +73390,11 @@ sa:
 #mk-9-42 {
  {
   §mt-18-6, vgl §lk-17-2, §offb-18-21
+ }
+#}
+#mk-9-43 {
+ {
+  <i>unauslöschliches Feuer</i> vgl §mt-3-12, §jer-17-27
  }
 #}
 #mk-9-44 {
@@ -80132,6 +80174,9 @@ sa:
 #}
 #joh-3-16 {
  {
+  Vgl §+joh-10-28
+ }
+ {
   Vgl §roem-5-8. Dort ist Christus <i>für die Sünder gestorben</i>, hier ist er gegeben.
  }
  {
@@ -80696,6 +80741,12 @@ sa:
   §mt-14-17, §mk-6-38, §lk-9-13
  }
 #}
+#joh-6-12 {
+ {
+  Das Verb, das mit «umkomme» übersetzt wird (<span class='gr'>αποληται</span>, Strongs 622) ist dasselbe, das in §Vjoh-6-27 mit «vergeht» und in §Vjoh-6-39 mit «verliere» übersetzt wird.
+  Vgl §+joh-10-10
+ }
+#}
 #joh-6-14 {
  {
   <i>wahrhaftig der Prophet</i> §joh-7-40
@@ -80742,6 +80793,9 @@ sa:
 #joh-6-27 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+ {
+  <i>vergeht</i>: §+Vjoh-6-12
  }
 #}
 #joh-6-29 {
@@ -80807,6 +80861,9 @@ sa:
 #joh-6-39 {
  {
   Vgl §mt-18-14, §2petr-3-9
+ }
+ {
+  <i>verliere</i>: §+Vjoh-6-12
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzter-tag, vgl §joh-7-37
@@ -81525,6 +81582,9 @@ sa:
  {
   Jesus ist → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen[gekommen, damit sie Leben haben], Er selbst gibt sein Lösegeld für viele §mt-20-28, §mk-10-45
  }
+ {
+  Das griechische Verb, das hier mit <i>verderben</i> übersetzt wird, wird in §Vjoh-10-28 mit «verloren» übersetzt, vgl §+joh-6-12
+ }
 #}
 #joh-10-11 {
  {
@@ -81592,6 +81652,9 @@ sa:
  }
 #}
 #joh-10-28 {
+ {
+  Vgl §joh-3-16, §joh-17-12
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
@@ -81752,6 +81815,11 @@ sa:
   <i>glaubten an ihn</i> vgl §lk-16-30-31
  }
 #}
+#joh-11-50 {
+ {
+  §joh-18-14
+ }
+#}
 #joh-11-52 {
  {
   <i>Zerstreute Kinder sammeln</i>: §+jer-31-10, vgl §eph-3-6, §sach-13-7, §apg-2-39
@@ -81867,8 +81935,11 @@ sa:
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
  {
-  Die beiden ersten <i>Leben</i> in diesem Vers sind <span class='gr'>ψυχή</span> (Strongs 559)
-  <span class='gr'>ζωή</span> (Strongs 2222).
+  Die beiden ersten <i>Leben</i> in diesem Vers sind <span class='gr'>ψυχή</span> (Strongs 559),
+  das letzte <i>Leben</i> ist <span class='gr'>ζωή</span> (Strongs 2222).
+ }
+ {
+  <i>Wer sein Leben liebt …</i> vgl §mt-10-37-38, §mt-16-25, §1joh-3-14
  }
 #}
 #joh-12-27 {
@@ -82679,7 +82750,9 @@ sa:
 #}
 #joh-17-12 {
  {
-  Vgl mit Erfüllung in <a href='http://bibel.renenyffenegger.ch/joh_18.html#v9'>Joh&nbsp;18,9</a>.
+  <i>Keiner von ihnen ist verloren</i>: §joh-10-28
+ <br>
+  Vgl mit Erfüllung in §joh-18-9.
  }
  {
   <i>Sohn des Verderbens</i>: <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v3'>2.&nbsp;Thes&nbsp;2,3</a>.
@@ -82829,6 +82902,11 @@ sa:
  {
    TODO: Sind das dieselben Hannas und Kajaphas wie in <a href='http://bibel.renenyffenegger.ch/apg_4.html#v6'>Apg&nbsp;4,6</a> (wo aber Hannas
    der Hohepriester ist)?
+ }
+#}
+#joh-18-14 {
+ {
+  §joh-11-50
  }
 #}
 #joh-18-15 {
@@ -108200,6 +108278,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Wer seinen Bruder nicht liebt, bleibt im Tod; wer seinen Bruder liebt, stirbt, wenn er sein Leben für den Bruder darlegt,
   §V1joh-3-16.
+ <br>
+  Vgl §joh-12-25
  }
 #}
 #1joh-3-15 {
@@ -110629,7 +110709,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   TODO: Apollo ist der berühmteste Sohn Zeus', der griechischste Gott überhaupt und einer der wenigen Götter mit dem gleichen Namen in Latein und Griechisch.
   <br>
-  Apollo wird mit den Attributen Helfer, Sonnengott, Orakler (Oaacle giver) und wohltätiger Offenbarer verbunden.
+  Apollo wird mit den Attributen Helfer, Sonnengott, Orakler (Oracle giver) und wohltätiger Offenbarer verbunden.
  }
 #}
 #offb-9-12 {
