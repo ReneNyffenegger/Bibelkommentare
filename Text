@@ -62758,7 +62758,7 @@
 #}
 #dan-9-27 {
  {
-  <i>feste Bund</i> §neh-10-1
+  <i>fester Bund</i> §neh-10-1
  }
  {
   <i>Bund schließen</i>: KJV übersetzt mit «confirm the covenant».
@@ -62769,6 +62769,9 @@
  }
  {
   <i>Beschirmung der Gräuel</i> vgl §dan-11-31
+ }
+ {
+  <i>wird er Schlachtopfer und Speisopfer aufhören lassen</i> vgl §dan-12-11
  }
  {
   <i>Festbeschlossenes</i> §dan-2-5, §1mo-41-32, §+jes-10-22
@@ -63072,7 +63075,10 @@
 #}
 #dan-12-11 {
  {
-  <i>Das Beständige</i>: <a class='kom' href='#Idan-8-11'>Dan&nbsp;8,11</a>.
+  <i>Das Beständige</i>: §+dan-8-11.
+ }
+ {
+  <i>Abschaffung des Beständigen:</i> vgl §dan-9-27
  }
  {
   <i>Verwüstenden Gräuel</i>: §dan-11-31.
@@ -82787,6 +82793,11 @@ sa:
   <i>Ich bin's</i>: <a class='kom' href='#Ijoh-6-35'>Joh&nbsp;6,35</a>.
  }
 #}
+#joh-18-6 {
+ {
+  <i>Ich bin's</i> vgl §Vjoh-18-25
+ }
+#}
 #joh-18-9 {
  {
   <i>Wort, welches er sprach</i> vgl §Vjoh-18-32
@@ -82838,6 +82849,16 @@ sa:
 #joh-18-20 {
  {
   → biblisches/Bücher/Evangelien/Johannes/index#strongs-3954-joh
+ }
+#}
+#joh-18-24 {
+ {
+  TODO: Ist <i>Annas</i> derselbe wie «Ananus I»?
+ }
+#}
+#joh-18-25 {
+ {
+  <i>Ich bin's nicht</i> vgl §Vjoh-18-6
  }
 #}
 #joh-18-28 {
@@ -94056,7 +94077,10 @@ sa:
 #}
 #1kor-13-4 {
  {
-   Beachte: Erkenntnis (nicht die Liebe) bläht auf: <a class='kom' href='#I1kor-8-1'>1.&nbsp;Kor&nbsp;8,1</a>.
+  Beachte: Erkenntnis (nicht die Liebe) bläht auf: <a class='kom' href='#I1kor-8-1'>1.&nbsp;Kor&nbsp;8,1</a>.
+ }
+ {
+  <i>neidet nicht</i> (<span class='gr'>ου ζηλοι</span>) könnte evtl. auch mit «eifert nicht» übersetzt werden. Das Verb ist dasselbe wie in §1kor-12-31 und §1kor-14-1
  }
  {
   TODO <i>sich aufblähen</i>: <a class='kom' href='#I1kor-4-6'>1.&nbsp;Kor&nbsp;4,6</a>.
@@ -94122,6 +94146,9 @@ sa:
 #1kor-14-1 {
  {
   <i>geistliche Gaben</i>: §+1kor-12-1.
+ }
+ {
+  <i>eifert aber um die geistlichen Gaben, vielmehr aber, daß ihr weissagt</i> vgl §V1kor-14-39
  }
 #}
 #1kor-14-2 {
@@ -97478,6 +97505,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>auf alle Geschlechter…</i> vgl §Veph-3-5
  }
+ {
+  <i>auf alle Geschlechter des Zeitalters der Zeitalter hin</i>: KJV übersetzt mit «throughout all ages, world without end».
+ }
 #}
 @}
 @Epheser 4 {
@@ -97803,6 +97833,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #eph-5-11 {
  {
   <i>Werke der Finsternis</i>: vgl §+roem-13-12.
+ }
+ {
+  <i>straft</i>: <span class='gr'>ελεγχετε</span>. Dasselbe Verb wird in §Veph-3-13 mit «bloßgestelt» übersetzt.
  }
 #}
 #eph-5-14 {
@@ -112049,6 +112082,18 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   TODO: <i>Scharlachrot</i> (<span class='gr'>κόκκινος</span>, Strongs 2847): <a class='kom' href='#Imt-27-28'>Mt&nbsp;27,28</a> (dort mit 'Purpur' übersetzt). Dieses Wort
   kommt in der Offenbarung noch vor in Vers 4, <a href='http://bibel.renenyffenegger.ch/offb_18.html#v12'>Offb 18,12/16</a>.
+ }
+ {
+  TODO:
+    Der Engel:
+     <br>
+      Auf der Erde: hier und §offb-21-10
+    <br>
+     einen anderen Engel aus dem Himmel herniederkommen: §offb-18-1, §offb-20-1
+    <br>
+     §offb-18-21, §offb-19-17
+    <br>
+     §offb-19-11
  }
  {
   Tier mit → biblisches/Eigene-Uebersetzung/Konkordanz/Sieben-Köpfe-und-zehn-Hörner[7 Köpfen und 10 Hörnern].
