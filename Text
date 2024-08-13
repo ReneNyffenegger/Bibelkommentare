@@ -30070,7 +30070,7 @@
 #}
 #2sam-5-9 {
  {
-  <a href='http://bibel.renenyffenegger.ch/1chr_11.html#v8'>1.&nbsp;Chr&nbsp;11,8</a> ergänzt: 'während Joab die übrige Stadt wiederherstellte'.
+  <a href='http://bibel.renenyffenegger.ch/1chr_11.html#v8'>1.&nbsp;Chr&nbsp;11,8</a> ergänzt: «während Joab die übrige Stadt wiederherstellte».
  }
  {
   <i>Millo</i>: <a class='kom' href='#Iri-9-6'>Ri&nbsp;9,6</a>
@@ -44914,6 +44914,9 @@
   Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel war noch gar nicht gebaut. S.a.  §ps-11-4,
   §ps-18-7, §ps-27-4, §ps-29-9, §ps-65-5, §ps-68-30, §ps-138-2.
  }
+ {
+  <i>ich werde anbeten … gegen deinen heiligen Tempel</i>: §ps-138-2
+ }
 #}
 #ps-5-10 {
  {
@@ -50026,6 +50029,9 @@
  }
  {
   Beachte: der → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel ist noch gar nicht gebaut: §+ps-5-8.
+ }
+ {
+  <i>Ich will anbeten gegen deinen heiligen Tempel</i>: §ps-5-8
  }
 #}
 #ps-138-8 {
@@ -55208,7 +55214,7 @@
   <i>um blinde Augen aufzutun</i> §jes-43-8
  }
  {
-  Vgl §jes-24-22
+  <i>um Gefangene aus dem Kerker herauszuführen</i> Vgl §jes-24-22, §jes-49-9, §jes-61-1
  }
 #}
 #jes-42-10 {
@@ -55632,7 +55638,7 @@
 #}
 #jes-49-9 {
  {
-  Vgl mit Lazarus: <a class='kom' href='#Ijoh-11-43'>Joh&nbsp;11,43</a>.
+  <i>um den Gefangenen zu sagen: Geht hinaus!</i>: §jes-42-7, Vgl mit Lazarus: §+joh-11-43.
  }
 #}
 #jes-49-10 {
@@ -56226,6 +56232,9 @@
  }
  {
   <i>Der Geist des HERRN ist auf mir</i> vgl §jes-59-21, §+jes-11-2
+ }
+ {
+  <i>Freiheit auszurufen den Gefangenen</i>: §jes-42-7
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freiheit/ausrufen
@@ -69536,6 +69545,11 @@
   <i>Kinder</i>: vgl <a href='http://bibel.renenyffenegger.ch/mt_19.html#v13'>Mt 19,13 ff</a>
  }
 #}
+#mt-18-4 {
+ {
+  <i>wer sich selbst erniedrigt</i> vgl §mt-23-12
+ }
+#}
 #mt-18-5 {
  {
   §+mk-9-37, §lk-9-48
@@ -70308,13 +70322,17 @@
 #mt-23-12 {
  {
   <i>Erhöhung und Erniederung</i>:
+    §mt-18-4,
     <a href='http://bibel.renenyffenegger.ch/lk_18.html#v14'>Lk&nbsp;18,14</a>,
-    <a href='http://bibel.renenyffenegger.ch/2kor_11.html#v7'>2.&nbsp;Kor&nbsp;11,7</a> (Paulus hat sich selbst erniedrigt),
     <a href='http://bibel.renenyffenegger.ch/jak_1.html#v9'>Jak&nbsp;1,9</a>,
     <a href='http://bibel.renenyffenegger.ch/jak_4.html#v10'>Jak&nbsp;4,10</a>
   <br>Vgl auch <a class='kom' href='#Ijoh-3-14'>Joh&nbsp;3,14</a>.
   <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/lk_18.html#v13'>Lk&nbsp;18,13</a> (der Pharisäer, der vertraute,
   dass er gerecht wäre).
+  <br>
+    §2kor-11-7: Paulus hat sich selbst erniedrigt damit die Korinther erhöht würden
+  <br>
+   §phil-2-8-9: Der Herr erniedrigte sich bis zum Tod und wurde deshalb hoch erhoben
  }
 #}
 #mt-23-13 {
@@ -71162,7 +71180,7 @@
 #}
 #mt-26-31 {
  {
-  Vgl §+sach-13-7
+  Vgl §+sach-13-7, §mk-14-27
  }
 #}
 #mt-26-32 {
@@ -71181,6 +71199,11 @@
 #mt-26-34 {
  {
   TODO: den Herrn verleugnen: §mt-10-32-33.
+ }
+#}
+#mt-26-35 {
+ {
+  Petrus verleugnet den Herrn, vgl §2tim-2-12
  }
 #}
 #mt-26-36 {
@@ -74171,7 +74194,7 @@ sa:
 #}
 #mk-14-27 {
  {
-  Vgl §sach-13-7
+  Vgl §sach-13-7, §mt-26-31
  }
 #}
 #mk-14-28 {
@@ -77789,6 +77812,11 @@ sa:
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
  }
 #}
+#lk-14-11 {
+ {
+  §lk-18-14
+ }
+#}
 #lk-14-12 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Mittagessen
@@ -78177,7 +78205,7 @@ sa:
 #}
 #lk-18-14 {
  {
-  §+lk-14-11, §+mt-23-12.
+  <i>jeder, der sich selbst erhöht, wird erniedrigt werden…</i> §+lk-14-11, §+mt-23-12.
  }
 #}
 #lk-18-15 {
@@ -83519,7 +83547,7 @@ sa:
 #}
 #apg-1-11 {
  {
-  → biblisches/Orte/Galiläa: <a class='kom' href='#Imt-10-2'>Mt&nbsp;10,2</a>, <a class='kom' href='#Iapg-2-7'>Apg&nbsp;2,7</a>.
+  <i>Männer von → biblisches/Orte/Galiläa</i>: <a class='kom' href='#Imt-10-2'>Mt&nbsp;10,2</a>, §+apg-2-7.
  }
 #}
 #apg-1-12 {
@@ -90410,6 +90438,9 @@ sa:
 #}
 #roem-5-14 {
  {
+  <i>der Tod herrschte</i> vgl §1kor-15-55-56
+ }
+ {
   <i>Vorbild</i>: <span class='gr'>τύπος</span>, Strongs 5179, vgl §+1kor-10-6, §hebr-8-5
  }
 #}
@@ -94602,8 +94633,10 @@ sa:
   <span class='gr'>ινα η ο θεος τα παντα εν πασιν</span> kann offenbar mit beiden Varianten übersetzt werden.
  }
  {
+  <i>Wenn ihm aber alles unterworfen sein wird</i> Vgl §phil-3-21, §+1petr-3-22
+ }
+ {
   <i>Unterwerfung</i>: Vgl §+lk-2-51, §+roem-13-1.
-  <br>Vgl auch §phil-3-21, §+1petr-3-22
  }
  {
   Vgl §+1kor-3-23
@@ -94651,7 +94684,10 @@ sa:
 #}
 #1kor-15-43 {
  {
-  Vgl <a class='kom' href='#I1kor-6-14'>1.&nbsp;Kor&nbsp;6,14</a>.
+  <i>Es wird gesät in Unehre, es wird auferweckt in Herrlichkeit</i> vgl §phil-3-21
+ }
+ {
+  Vgl §+1kor-6-14.
  }
 #}
 #1kor-15-45 {
@@ -94711,7 +94747,7 @@ sa:
 #}
 #1kor-15-55 {
  {
-  <i>Wo ist, o Tod …</i>: §hos-13-14.
+  <i>Wo ist, o Tod …</i>: §hos-13-14, vgl §roem-5-14
  }
  {
   <i>Tod</i> u. <i>Hades</i>: §offb-1-18, §offb-6-8, §offb-20-13-14
@@ -95820,7 +95856,7 @@ sa:
   Paulus hat das Evangelium umsonst (untentgeltlich) verkündigt. Vgl §1kor-9-18.
  }
  {
-  TODO Vgl <i>Erhöhung und Erniederung</i> in <a class='kom' href='#Imt-23-12'>Mt&nbsp;23,12</a>.
+  Vgl <i>Erhöhung und Erniederung</i> in §+mt-23-12, vgl §+2kor-12-21
  }
 #}
 #2kor-11-8 {
@@ -96032,6 +96068,11 @@ sa:
  {
    TODO: Vgl <a href='http://bibel.renenyffenegger.ch/gal_5.html#v20'>Gal&nbsp;5,20</a>,
    <a href='http://bibel.renenyffenegger.ch/1tim_6.html#v4'>1.&nbsp;Tim&nbsp;6,4</a>.
+ }
+#}
+#2kor-12-21 {
+ {
+  <i>demütige</i>: <span class='gr'>ταπεινωσει</span>, Strongs 5013, ist dasselbe Verb das in §2kor-11-7 mit «erniedrigen» übersetzt wird.
  }
 #}
 @}
@@ -98514,7 +98555,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-2-8 {
  {
-  Vgl §hebr-5-8
+  <i>sich selber erniedrigen und erhöht werden</i>: §+mt-23-12
+ }
+ {
+  <i>Gehorsam werden</i> Vgl §hebr-5-8
  }
 #}
 #phil-2-9 {
@@ -98522,7 +98566,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Der <i>erhöhte Sohn des Menschen</i>: <a class='kom' href='#Ijoh-3-14'>Joh&nbsp;3,14</a>.
  }
  {
-  <i>Name über jeden Namen</i>: §+offb-19-13.
+  TODO: <i>Name über jeden Namen</i>: §+offb-19-13.
  }
 #}
 #phil-2-10 {
@@ -98816,7 +98860,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-3-21 {
  {
-  TODO: vgl <a class='kom' href='#I1kor-15-28'>1.&nbsp;Kor&nbsp;15,28</a>.
+  <i>der unseren Leib der Niedrigkeit umgestalten wird zur Gleichförmigkeit mit seinem Leib der Herrlichkeit</i> vgl §1kor-15-43
+ }
+ {
+  <i>nach der wirksamen Kraft, mit der er vermag, auch alle Dinge sich zu unterwerfen</i>: vgl §+1kor-15-28.
  }
 #}
 @}
@@ -102286,6 +102333,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl §V2tim-2-18: «die Auferstehung ist noch nicht geschehen» und §V2tim-2-8: «Jesus Christus, auferweckt aus den Toten»
  }
 #}
+#2tim-2-12 {
+ {
+  <i>wenn wir verleugnen, so wird auch er uns verleugnen</i> vgl mit Petrus Verleugnung des Herrn in §mt-26-31-35, §lk-22-34 etc.
+ }
+#}
 #2tim-2-14 {
  {
   <i>Verwirrung</i>: <span class='gr'>καταστροφή</span> (Strongs 2692, 2x), das andere Vorkommen in <a class='kom' href='#I2petr-2-6'>2.&nbsp;Petr&nbsp;2,6</a>.
@@ -105327,10 +105379,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-12-21 {
  {
-  Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern mit <i>Scheu und Furcht</i> in Vers 28.
+  Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern mit <i>Frömmigkeit und Furcht</i> in §Vhebr-12-28
  }
  {
   → biblisches/Personen/Mose war <i>voll Furcht und Zittern</i>: vgl §apg-7-32.
+ }
+ {
+  <i>Erscheinung</i>: das griechische Wort leitet sich von <span class='gr'>φαντάζω</span> (Strongs 5324) ab, vgl mit «Gespenst» in §mt-14-26 und §mk-6-49.
  }
 #}
 #hebr-12-22 {
@@ -105427,6 +105482,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <span class='gr'>εὐλάβεια</span> (Strongs 2124, 2x) kommt noch in §hebr-5-7 vor.
+ }
+ {
+  Sch2K übersetzt mit «dienen können mit Scheu und Ehrfurcht!», KJV mit «with reverence and godly fear».
  }
 #}
 #hebr-12-29 {
@@ -107547,10 +107605,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Engel, die gerichtet werden</i>: §jud-1-6, §1kor-6-3
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Tartaros (Eigentlich ein Verb: <span class='gr'>ταρταρόω</span>) kommt im NT nur 1 Mal vor.
+  <i>in den → biblisches/Eigene-Uebersetzung/Konkordanz/Tartaros hinabstürzend</i>: Im Grundtext ein Wort (Verb): <span class='gr'>ταρταρωσας</span>. Es kommt im NT nur 1 Mal (hier) vor.
   In Elberfelder mit «tiefster Abgrund», in Sch2K mit «Abgrund», in KJV mit «Tartarus» übersetzt oder transkribiert.
   Vgl <span class='gr'>ἄβυσσος</span>, zB in §offb-9-1.
   <br>Vgl mit §+lk-8-31.
+ }
+ {
+  <i>Ketten der Finsternis</i>: <span class='gr'>σειραις ζοφου</span> vgl mit den «ewigen Ketten unter der Finsternis» in §jud-1-6
+ <br>
+  Dasselbe Wort, das mit Finsternis übersetzt wird, kommt auch in §V2petr-2-17 vor.
  }
  {
   Beachte: Gott verschonte weder die Engel noch die alte Welt (Vers 5), aber die Engel wurden in den Abgrund geworfen, während
@@ -108749,6 +108812,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Gebundene (gekettete) Engel</i> vgl §offb-20-1-3
+ }
+ {
+  <i>ewigen Ketten unter der Finsternis</i>: <span class='gr'>δεσμοις αιδιοις υπο ζοφον</span>, vgl mit den «Ketten der Finsternis» in §2petr-2-4.
+ <br>
+  Dasselbe Wort, das mit Finsternis übersetzt wird, kommt auch in §Vjud-1-13 vor.
  }
  {
   TODO <i>Gericht des grossen Tages</i>: <a class='kom' href='#Imt-10-15'>Mt&nbsp;10,15</a>.
@@ -112635,7 +112703,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-19-11 {
  {
-  Beachte, Er sitzt hier auf dem Pferd, nicht auf dem Thron. (Vgl Vers 4).
+  Beachte, Er sitzt hier auf dem Pferd, nicht auf dem Thron, Vgl §Voffb-19-4.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen: §+offb-4-1
@@ -112658,7 +112726,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Name</i>: §+offb-13-17.
-  <br>Gott hat ihm einen Namen gegeben, der über jeden Namen ist … (§phil-2-9-ff)
+ }
+ {
+  TODO: Gott hat ihm einen Namen gegeben, der über jeden Namen ist … (§phil-2-9-ff)
  }
 #}
 #offb-19-14 {
