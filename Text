@@ -46311,7 +46311,7 @@
 #}
 #ps-44-22 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
+  <i>Er kennt die → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis[Geheimnisse] des Herzens</i> vgl §lk-16-15, §apg-15-8
  }
 #}
 @}
@@ -51176,6 +51176,11 @@
   TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/spr_15.html#v31'>Spr&nbsp;15,31</a>.
  }
 #}
+#spr-15-14 {
+ {
+  <i>Des Verständnigen Herz sucht Erkenntnis</i> vgl §spr-18-15
+ }
+#}
 #spr-15-16 {
  {
    TODO: <i>Reichtum</i> (<span class='hebr'>אוֹצָר</span>, Strongs 214) vielleicht besser übersetzt mit «Schatz»
@@ -51393,6 +51398,11 @@
 #spr-18-14 {
  {
   <i>Niedergeschlagener Geist</i>: <a class='kom' href='#Ispr-17-22'>Spr&nbsp;17,22</a>.
+ }
+#}
+#spr-18-15 {
+ {
+  <i>Das Herz des Verständigen erwirbt Erkenntnis</i> vgl §spr-15-14
  }
 #}
 #spr-18-17 {
@@ -70580,7 +70590,9 @@
 #}
 #mt-24-15 {
  {
-  <i>Gräuel der Verwüstung</i> §dan-11-31.
+  <i>Gräuel der Verwüstung</i> §dan-11-31, §mk-13-14
+ <br>
+  Vgl den Gräuel der verwüstung mit der Verwüstung Jerusalems, §lk-21-20
  }
  {
   Gemäss dem → biblisches/Talmud war Daniel → biblisches/Personen/Daniel kein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet (→ biblisches/Talmud/Sedarim/Moed/Megilla#megilla-3a-daniel-kein-prophet[Megilla 3a]).
@@ -73949,6 +73961,11 @@ sa:
 #mk-13-13 {
  {
   §+lk-21-19
+ }
+#}
+#mk-13-14 {
+ {
+  §mt-24-15
  }
 #}
 #mk-13-17 {
@@ -77990,6 +78007,11 @@ sa:
    → biblisches/Eigene-Uebersetzung/Konkordanz/Geld#geldliebe
  }
 #}
+#lk-16-15 {
+ {
+  <i>Gott kennt eure Herzen</i> vgl §apg-15-8, §ps-44-22
+ }
+#}
 #lk-16-16 {
  {
   <i>Gesetz und die Propheten</i>: <a href='http://bibel.renenyffenegger.ch/lk_16.html#v31'>Vers 31</a>.
@@ -78654,6 +78676,8 @@ sa:
  }
  {
   <i>Verwüstung ist nahe gekommen</i> §+dan-9-26
+ <br>
+  Vgl die Verwüstung Jerusalems mit dem «Gräuel der Verwüstung» in §mt-24-15 und §mk-13-14.
  }
 #}
 #lk-21-22 {
@@ -86914,6 +86938,11 @@ sa:
  }
  {
   <i>Männer und Brüder</i>: <a class='kom' href='#Iapg-1-16'>Apg&nbsp;1,16</a>.
+ }
+#}
+#apg-15-8 {
+ {
+  <i>Gott, der Herzenskenner</i> vgl §lk-16-15, §ps-44-22
  }
 #}
 #apg-15-12 {
