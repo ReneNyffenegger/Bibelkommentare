@@ -66097,9 +66097,12 @@
 #}
 #mt-2-12 {
  {
-   <i>Traum</i> (<span class='gr'>ὄναρ</span>, Strongs 3677), kommt nur in Matthäus vor, und zwar in diesem Kapitel, §mt-1-20 und §mt-27-19.
-   <br>TODO: Strongs 1797 kommt auch in <a href='http://bibel.renenyffenegger.ch/jud_1.html#v8'>Jud&nbsp;1,8</a> vor.
-   <br>Vgl aber auch <a class='kom' href='#Iapg-2-17'>Apg&nbsp;2,17</a>.
+  <i>zogen sie</i> §+mt-2-22
+ }
+ {
+  <i>Traum</i> (<span class='gr'>ὄναρ</span>, Strongs 3677), kommt nur in Matthäus vor, und zwar in diesem Kapitel, §mt-1-20 und §mt-27-19.
+  <br>TODO: Strongs 1797 kommt auch in <a href='http://bibel.renenyffenegger.ch/jud_1.html#v8'>Jud&nbsp;1,8</a> vor.
+  <br>Vgl aber auch <a class='kom' href='#Iapg-2-17'>Apg&nbsp;2,17</a>.
  }
  {
   TODO: <i>Ein andererer Weg</i>: → biblisches/Grundtext/Wörter/G243-allos_G2087-heteros
@@ -66165,7 +66168,7 @@
 #}
 #mt-2-22 {
  {
-   → biblisches/Orte/Galiläa 
+  <i>zog er hin in die Gegenden von→ biblisches/Orte/Galiläa</i>: das Verb ist dasselbe wie in §mt-4-12, und §Vmt-2-12-14
  }
 #}
 #mt-2-23 {
@@ -66489,6 +66492,9 @@
  }
 #}
 #mt-4-12 {
+ {
+  <i>entwich er nach Galiläa</i> §mt-2-22
+ }
  {
   §mk-1-14, §lk-4-14
  }
@@ -71259,6 +71265,9 @@
 #}
 #mt-26-49 {
  {
+  <i>Sei gegrüsst, Rabbi</i> vgl §mt-27-29
+ }
+ {
   <i>und küsste ihn sehr</i> vgl §ps-2-12, §mk-14-45, §lk-22-47
  }
 #}
@@ -71505,6 +71514,14 @@
   <i>Purpurmantel</i>: §+spr-31-21
  }
 #}
+#mt-27-29 {
+ {
+  §mk-15-18
+ }
+ {
+  <i>Sei gegrüßt, König der Juden</i> vgl §mt-26-49, §joh-19-3
+ }
+#}
 #mt-27-30 {
  {
   <i>speien</i> §+mt-26-67
@@ -71699,6 +71716,9 @@ sa:
 #mt-27-60 {
  {
   <i>wälzte einen großen Stein an die Tür der Gruft</i>, §joh-11-38, vgl §mt-28-2
+ }
+ {
+  Sie <i>legten ihn in seine Gruft</i> nachdem alles vollendet war, was über ihn geschrieben war, §apg-13-29
  }
 #}
 #mt-27-62 {
@@ -74394,6 +74414,11 @@ sa:
   griechisches Wort auch mit 'Purpur' übersetzt wird).
  }
 #}
+#mk-15-18 {
+ {
+  §mt-27-29
+ }
+#}
 #mk-15-19 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/knien#knie-beugen[Knie beugen], vgl §roem-14-11, §eph-3-14
@@ -74542,9 +74567,11 @@ sa:
 #}
 #mk-15-46 {
  {
-  §mt-27-59, §mk-15-46, §lk-23-53, §joh-19-40
+  §mt-27-59-60, §mk-15-46, §lk-23-53, §joh-19-40
  }
  {
+  <i>legten ihn in eine Gruft</i> §apg-13-29
+ <br>
   <i>in eine Gruft legen</i> vgl §mk-6-29
  }
  {
@@ -77367,7 +77394,10 @@ sa:
 #}
 #lk-11-47 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden, vgl §+lk-13-33
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden, vgl §+lk-13-33
+ }
+ {
+  <i>Grabmäler</i> ist im Griechischen dasselbe Wort, das in §Vlk-11-44 mit «Grüfte» übersetzt wird.
  }
 #}
 #lk-11-49 {
@@ -79262,10 +79292,16 @@ sa:
 #}
 #lk-23-53 {
  {
-   §mt-27-59, §mk-15-46, §joh-19-40
+  §mt-27-59, §mk-15-46, §joh-19-40
  }
  {
-   Nach Seinem Tod wurde der Herr in <i>feine Leinwand gewickelt</i> und in eine <i>Gruft</i> gelegt, nach Seiner Geburt wurde er in <i>Windeln gewickelt</i> und in eine <i>Krippe</i> gelegt, §+lk-2-7.
+  <i>legten ihn in eine Gruft</i> §apg-13-29
+ }
+ {
+  <i>Gruft</i>: <span class='gr'>μνῆμα</span> (Strongs 3418). Vgl mit <span class='gr'>μνημεῖον</span> (Strongs 3419), welches in §Vlk-23-55 ebenfalls mit «Gruft» übersetzt wird.
+ }
+ {
+  Nach Seinem Tod wurde der Herr in <i>feine Leinwand gewickelt</i> und in eine <i>Gruft</i> gelegt, nach Seiner Geburt wurde er in <i>Windeln gewickelt</i> und in eine <i>Krippe</i> gelegt, §+lk-2-7.
  }
 #}
 #lk-23-56 {
@@ -80103,6 +80139,9 @@ sa:
  }
  {
   <i>Es war aber ein Mensch</i> §joh-1-6, §+joh-2-25
+ }
+ {
+  Es ist bemerkenswert dass ein Lehrer Israels (§Vjoh-3-10) einen griechischen Namen hat.
  }
 #}
 #joh-3-2 {
@@ -81453,6 +81492,8 @@ sa:
 #joh-8-46 {
  {
   <i>Wer von euch überführt mich der Sünde</i> vgl §2kor-5-21, §1petr-2-22
+ <br>
+  S. a. §Vjoh-8-9
  }
 #}
 #joh-8-48 {
@@ -81664,8 +81705,8 @@ sa:
 #}
 #joh-10-18 {
  {
-  <i>Auftrag</i> (<span class='gr'>ἐντολή</span>, Strongs 1785), sonst häufig mit 'Gebot' übersetzt.
-  Vgl <a href='http://bibel.renenyffenegger.ch/joh_11.html#v57'>Joh&nbsp;11,57</a>, <a class='kom' href='#Iapg-17-15'>Apg&nbsp;17,15</a>.
+  <i>Gebot</i> (<span class='gr'>ἐντολή</span>, Strongs 1785) wird in Sch2K mit «Auftrag» übersetzt.
+  Vgl §joh-11-57, §+apg-17-15.
  }
  {
   Die Gebote des Vaters an seinen Sohn:
@@ -81959,6 +82000,11 @@ sa:
 #joh-12-16 {
  {
   <i>dann erinnerten sie sich, daß dies von ihm geschrieben war</i>: §joh-2-22
+ }
+#}
+#joh-12-17 {
+ {
+  <i>Gruft</i>: Elberfelder übersetzt (inkonsistent) mit «Grab», vgl §joh-11-17, §joh-11-31 und §joh-11-38.
  }
 #}
 #joh-12-21 {
@@ -83068,6 +83114,16 @@ sa:
   <i>geißeln</i> vgl §hebr-12-6
  }
 #}
+#joh-19-3 {
+ {
+  §mt-27-29, §mk-15-18
+ }
+#}
+#joh-19-5 {
+ {
+  Beachte: Hier sagt Pilatus <siehe, der Mensch» und die Reaktion ist: «Kreuzige, kreuzige ihn». In §Vjoh-19-14 sagt Pilatus «siehe, euer König» und die Reaktion ist «Hinweg, hinweg! Kreuzige ihn!»
+ }
+#}
 #joh-19-7 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/joh_18.html#v31'>Joh&nbsp;18,31</a>.
@@ -83095,6 +83151,11 @@ sa:
 #joh-19-12 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat
+ }
+#}
+#joh-19-13 {
+ {
+  <i>setzte sich</i>: Die Verbform <span class='gr'>εκαθισεν</span> ist nicht eindeutig und kann intransitiv oder transitiv (also etwa: Pilatus setzte [Jesus] auf den Richterstuhl) verstanden werden. (Mark Bradley, Jesus on the Judge's Seat: Adjudicating ἘΚΆΘΙΣΕΝ in John 19:13).
  }
 #}
 #joh-19-14 {
@@ -86558,12 +86619,17 @@ sa:
   <i>Die Stimmen der → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] wurden erfüllt…</i> vgl §lk-18-31, §apg-3-18
  }
  {
-  Vgl die <i>Stimmen er Propheten</i> mit dem «Mund der Propheten», §lk-1-70, §apg-3-18
+  Vgl die <i>Stimmen er Propheten</i> mit dem «Mund der Propheten», §lk-1-70, §apg-3-18 und mit «was über ihn geschrieben steht», §Vapg-13-29
  }
 #}
 #apg-13-28 {
  {
   §mt-27-23, §mk-15-14, §joh-18-38-40
+ }
+#}
+#apg-13-29 {
+ {
+  <i>legten ihn in eine Gruft</i> §mt-27-60, §mk-15-46, §lk-23-53
  }
 #}
 #apg-13-30 {
@@ -87532,7 +87598,7 @@ sa:
 #}
 #apg-17-15 {
  {
-  <i>Auftrag</i> (Strongs 1785): <a class='kom' href='#Ijoh-10-18'>Joh&nbsp;10,18</a>.
+  <i>Befehl</i> (Strongs 1785), in Sch2K mit «Auftrag» übersetzt: §+joh-10-18.
  }
  {
   <i>Athen</i> vgl §1thes-3-1
@@ -91580,6 +91646,11 @@ sa:
   TODO: Instead of χρειαις, necessities, some ancient MSS. have μνειαις, memorials; distributing to the memorials of the saints, which some interpret as referring to saints that were absent; as if he had said: Do not forget those in other Churches who have a claim on your bounty. But I really cannot see any good sense which this various reading can make in the text; I therefore follow the common reading.
  }
 #}
+#roem-12-15 {
+ {
+  vgl §1kor-7-30
+ }
+#}
 #roem-12-17 {
  {
   <i>Vergeltet niemand Böses mit Bösem</i> vgl §1petr-3-9.
@@ -93504,6 +93575,11 @@ sa:
 #1kor-7-27 {
  {
   Paulus meinte, er sei in der → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit, deshalb empfahl (oder verbot) er, eine Frau zu suchen. Vgl §V1kor-7-29 («Die Zeit ist gedrängt»).
+ }
+#}
+#1kor-7-30 {
+ {
+  <i>die Weinenden als nicht Weinende, … die sich Freuenden als sich nicht Freuende</i> vgl §roem-12-15
  }
 #}
 #1kor-7-36 {
@@ -96151,7 +96227,7 @@ sa:
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#gott-des-der[Gott des] Friedens: §roem-15-33, §roem-16-20, §1kor-14-33, §2kor-13-11, §phil-4-9, §1thes-5-23
  }
  {
-  <i>Übrigens, Brüder …</i>: §eph-6-10, §phil-3-1, §phil-4-8, §1thes-4-1, §2thes-3-1
+  <i>Übrigens, Brüder …</i>: §eph-6-10, §phil-3-1 («freut euch»), §phil-4-8, §1thes-4-1, §2thes-3-1
  }
  {
   TODO: Schlachter übersetzt <i>lasst euch zurechtbringen</i> mit «werdet vollkommen», JKV mit «Be perfect».
@@ -98747,6 +98823,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 @}
 @Philipper 3 {
+#phil-3-1 {
+ {
+  <i>Übrigens, meine Brüder, freut euch im Herrn!</i> vgl §2kor-13-11, §phil-4-1
+ }
+#}
 #phil-3-2 {
  {
   <i>Zerschneidung</i>: <span class='gr'>κατατομή</span> (Strongs 2699), <i>Beschneidung</i> im nächsten Vers: <span class='gr'>περιτομή</span>.
@@ -100615,7 +100696,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-5-16 {
  {
-  Vgl <a class='kom' href='#Iphil-4-4'>Phil&nbsp;4,4</a>.
+  Vgl §phil-3-1, §+phil-4-4.
  }
 #}
 #1thes-5-18 {
@@ -109388,6 +109469,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Johannes <i>sah</i> ihn, unf fällt zu seinen Füssen nieder wie tot. Daniel <i>hörte</i> den Klang der Worte und sank ohnmächtig
   auf sein Angesicht zur Erde nieder (§dan-10-9).
+ <br>
+  Vgl §offb-19-10, §offb-22-8
  }
  {
   <i>wie tot</i> §mk-9-26
@@ -110272,7 +110355,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   §+2koe-7-1.
  }
  {
-  Vgl §joe-joe-1-10-11
+  Vgl §joe-1-10-11
  }
 #}
 #offb-6-8 {
@@ -111145,6 +111228,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Auf der Erde wohnen</i>: <a class='kom' href='#Ioffb-3-10'>Offb&nbsp;3,10</a>.
+ <br>
+  <i>freuen sich</i> vgl §offb-19-7
  }
 #}
 #offb-11-11 {
@@ -112722,6 +112807,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>TODO: Beachte, dass in <a href='http://bibel.renenyffenegger.ch/jes_62.html#v4'>Jes&nbsp;62,4</a> «das Land vermählt wird».
  }
  {
+  <i>Laßt uns fröhlich sein</i> vgl §offb-11-10
+ }
+ {
   TODO: Die Hochzeit ist gekommen. Wird die Braut deshalb in <a class='kom' href='#Ioffb-21-9'>Offb&nbsp;21,9</a> nicht mehr
   «Jungfrau» (<a href='http://bibel.renenyffenegger.ch/offb_14.html#v4'>Offb&nbsp;14,4</a>) genannt?
  }
@@ -112763,6 +112851,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-19-10 {
  {
   Hier und auch in §offb-22-9 wollte Johannes seinen Mitknecht anbeten.
+ }
+ {
+  <i>Johannes fiel nieder</i> vgl §offb-22-8, §offb-1-17
  }
  {
   Das <i>Zeugnis Jesu</i> §offb-1-2
@@ -113337,7 +113428,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-22-8 {
  {
-   <i>gesehen und gehört</i>: vgl mit 'Schreibe, was du gesehen hast': <a class='kom' href='#Ioffb-1-19'>Offb&nbsp;1,19</a>.
+  <i>Johannes fiel nieder</i> vgl §offb-19-10, §offb-1-17
+ }
+ {
+  <i>gesehen und gehört</i>: vgl mit 'Schreibe, was du gesehen hast': <a class='kom' href='#Ioffb-1-19'>Offb&nbsp;1,19</a>.
  }
 #}
 #offb-22-9 {
