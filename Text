@@ -21832,7 +21832,9 @@
 #}
 #5mo-11-29 {
  {
-  <i>Gerisim</i> und <i>Ebal</i>: §+5mo-27-4 und §5mo-27-12-ff, §jos-8-30-ff
+  Die <i>Erteilung des Segens auf dem Berg Gerisim Ebal</i> fand nach der Eroberung Ais und der Tötung des Königs von Ai statt: §jos-8-30-ff
+  <br>
+  Vgl §+5mo-27-4 und §5mo-27-12-ff
  }
 #}
 #5mo-11-30 {
@@ -22792,6 +22794,11 @@
  {
   Beachte: Der Berg, von dem aus verflucht wird, wird mit Kalk bestrichen. Wie es scheint, wurde dann zwar ein Altar errichtet, aber die Steine nicht
   mit Kalk bestrichen (<a href='http://bibel.renenyffenegger.ch/jos_8.html#v30'>Jos 8,30-32</a>).
+ }
+#}
+#5mo-27-5 {
+ {
+  <i>Einen Altar bauen, und kein Eisen darüber schwingen</i>: §jos-8-31
  }
 #}
 #5mo-27-8 {
@@ -23813,7 +23820,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
  }
  {
-  Beachte, nach Achans Sünde verzagte auch das Herz der Israeliten (<a href='http://bibel.renenyffenegger.ch/jos_7.html#v5'>Jos&nbsp;7,5</a>) und zerfloss sogar wie Wasser.
+  Beachte, nach Achans Sünde <i>zerschmolz auch das Herz</i> der Israeliten und wurde wie Wasser, §jos-7-5.
  }
  {
   Auch den Moabitern graute vor den Kindern Israel: <a href='http://bibel.renenyffenegger.ch/4mo_22.html#v3'>4.&nbsp;Mo&nbsp;22,3</a>.
@@ -24104,8 +24111,10 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Schatz#schatz-des-herrn
  }
  {
-  Achan nahm etwas vom Gebannten (<a href='http://bibel.renenyffenegger.ch/jos_7.html#v1'>Jos&nbsp;7,1</a>,
-  einen Goldbarren <a href='http://bibel.renenyffenegger.ch/jos_7.html#v21'>Jos&nbsp;7,21</a>).
+  Achan nahm etwas vom Gebannten (§jos-7-1, einen Goldbarren §jos-7-21) und brachte Israel ins Unglück.
+ }
+ {
+  Vgl mit der Eroberung Ais, wo die Beute und das Vieh ausdrücklich geplündert werden durfte, §jos-8-2
  }
 #}
 #jos-6-20 {
@@ -24162,12 +24171,17 @@
   TODO: Ist das da, wo auch Sauls(?) Kampf mit den Philistern stattgefunden hat? <a class='kom' href='#I1sam-13-17'>1.&nbsp;Sam&nbsp;13,17</a>.
  }
 #}
+#jos-7-3 {
+ {
+  2000 oder 3000 Mann, vgl mit den 5000 Mann in §jos-8-12
+ }
+#}
 #jos-7-5 {
  {
   <i>Sechsundreissig Erschlagene</i>: §jos-22-20
  }
  {
-  <i>Verzagtes Herz</i>: <a class='kom' href='#Ijos-2-11'>Jos&nbsp;2,11</a>.
+  <i>Da zerschmolz das Herz</i>: §+jos-2-11.
  }
 #}
 #jos-7-6 {
@@ -24178,6 +24192,11 @@
   TODO: Warum ging Josua zur Lade und nicht zum Herrn selbst?
  }
 #}
+#jos-7-13 {
+ {
+  <i>bis <b>ihr</b> den Bann aus eurer Mitte hinwegtut</i>: Beachte, der Herr hätte Achan selbst töten können, Er will aber offenbar, dass sich das Volk mit dem Gericht Gottes eins macht.
+ }
+#}
 #jos-7-16 {
  {
   Beachte: Josua lässt keine Zeit verstreichen (Vers 6, 10ff).
@@ -24186,7 +24205,7 @@
 #}
 #jos-7-19 {
  {
-  <i>Geständnis</i>: <a class='kom' href='#I3mo-7-12'>3.&nbsp;Mo&nbsp;7,12</a>
+  <i>Bekenntnis</i>: <a class='kom' href='#I3mo-7-12'>3.&nbsp;Mo&nbsp;7,12</a>
  }
  {
   Beachte: Josua nennt Achan <i>seinen Sohn</i>. TODO: War dies und das folgende Geständnis eine Bedingung für das Ablassen des Zornes des Herrn (Vers 26)?
@@ -24226,6 +24245,11 @@
 #}
 @}
 @Josua 8 {
+#jos-8-2 {
+ {
+  Bei der Eroberung Jerichos durfte nicht geplündert werden, §+jos-6-19
+ }
+#}
 #jos-8-9 {
  {
   Beachte, dass Abraham zwischen Bethel und Ai einen Altar errichtet hatte: <a href='http://bibel.renenyffenegger.ch/1mo_12.html#v8'>1.&nbsp;Mo&nbsp;12,8</a>.
@@ -24236,18 +24260,25 @@
   <i>sich früh aufmachen</i>: <a class='kom' href='#Ijos-3-1'>Jos&nbsp;3,1</a>.
  }
 #}
+#jos-8-12 {
+ {
+  Vgl die 5000 Mann hier mit den 2000 oder 3000 Mann in §jos-7-3
+ }
+#}
 #jos-8-13 {
  {
   TODO: dieser Vers enthält Strongs H6119 (Ferse).
  }
 #}
-#jos-8-22 {
+#jos-8-25 {
  {
-  Ai wurde wieder aufgebaut: <a href='http://bibel.renenyffenegger.ch/esr_2.html#v28'>Esr&nbsp;2,28</a>,
-  <a href='http://bibel.renenyffenegger.ch/neh_11.html#v31'>Neh&nbsp;11,31</a>.
+  TODO: Beachte, dass hier auch Frauen mitgezählt werden. Das scheint unüblich. Von Kindern steht hingegen nichts.
  }
 #}
 #jos-8-28 {
+ {
+  Obwohl Ai ein ewiger Trümmeruahfen ist, scheint es wieder aufgebaut worden zu sein: §esr-2-28, §neh-11-31.
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
  }
@@ -24259,6 +24290,11 @@
  {
   TODO: wurde vergessen, die mit Kalk bestrichenen Steine auf dem Ebal aufzurichten (<a href='http://bibel.renenyffenegger.ch/5mo_27.html#v2'>5.&nbsp;Mo&nbsp;27,2-4</a>)?
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/5mo_27.html#v8'>5.&nbsp;Mo&nbsp;27,8</a>.
+ }
+#}
+#jos-8-31 {
+ {
+  §5mo-27-5
  }
 #}
 #jos-8-32 {
@@ -41396,7 +41432,7 @@
 #}
 #esr-2-28 {
  {
-         <i>Ai</i> wurde unter Josua zerstört: <a href='http://bibel.renenyffenegger.ch/jos_8.html#v22'>Jos&nbsp;8,22</a>.
+  <i>Ai</i> wurde unter Josua zerstört (§jos-8-22) und zu einem ewigen Trümmerhaufen gemacht §jos-8-28
  }
 #}
 #esr-2-29 {
@@ -43323,7 +43359,7 @@
   TODO: Ist <i>Aja</i> = Ai (Zumindest Strongs gibt dieselbe Nummer an).
   <br>Beachte die möglicherweise erkennbare Nähe von Michmas, Aja, Bethel hier und Ajat, Migron, Michmas in
   <a class='kom' href='#Ijes-10-28'>Jes&nbsp;10,28</a>.
-  <br>Beachte auch, dass <i>Ai</i> unter Josua zerstört wurde: <a href='http://bibel.renenyffenegger.ch/jos_8.html#v22'>Jos&nbsp;8,22</a>.
+  <br>Beachte auch, dass <i>Ai</i> unter Josua zerstört wurde: §jos-8-22-28
  }
 #}
 #neh-11-33 {
@@ -81134,7 +81170,7 @@ sa:
   <i>Furcht vor den Juden</i> §joh-19-38, §joh-20-18
  }
  {
-  → biblisches/Bücher/Evangelien/Johannes/index#strongs-3954-joh
+  → biblisches/Bücher/Evangelien/Johannes#strongs-3954-joh
  }
 #}
 #joh-7-14 {
