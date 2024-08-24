@@ -25914,6 +25914,11 @@
   <i>Hornissen</i>: §+5mo-7-20.
  }
 #}
+#jos-24-15 {
+ {
+  <i>so erwählt euch heute, wem ihr dienen wollt</i> vgl §1koe-18-21
+ }
+#}
 #jos-24-17 {
  {
   <i>Haus der Knechschaft</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-knechte-aegyptens
@@ -33172,6 +33177,11 @@
 #1koe-18-5 {
  {
   <i>Maultier</i> §+3mo-19-19
+ }
+#}
+#1koe-18-21 {
+ {
+  <i>Wie lange hinkt ihr auf beiden Seiten?</i> vgl §jos-24-15
  }
 #}
 #1koe-18-29 {
@@ -68028,6 +68038,8 @@
  }
  {
   <i>Johannes im Gefängnis</i>: §+mt-4-12.
+ <br>
+  Das Wort, das hier mit Gefängnis übersetzt wird, ist <span class='gr'>δεσμωτήριον</span> (Strongs 1201), in §mt-14-3 und §mt-14-10 ist es <span class='gr'>φυλακή</span> (Strongs 5438), ein Wort das mit Gefängnis oder Wache übersetzt wird. Vgl §+apg-5-21, §+apg-16-26
  }
  {
   <i>Zwei Jünger senden</i> §+mk-6-7, §mt-21-2
@@ -68252,7 +68264,7 @@
 @Matthäus 12 {
 #mt-12-1 {
  {
-  §mk-2-23, §lk-6-1
+  <i>Zu jener Zeit ging Jesus am Sabbat durch die Saaten</i>: §mk-2-23, §lk-6-1
  }
  {
   <a href='http://bibel.renenyffenegger.ch/5mo_23.html#v26'>5.&nbsp;Mo&nbsp;23,26</a> erlaubt zwar, Ähren mit der abzustreifen, sagt aber nichts
@@ -68505,7 +68517,7 @@
 #}
 #mt-12-38 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen
+  <i>Diese wollen vom Lehrer ein → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen sehen</i> vgl mit den Griechen, die Jesus sehen wollen, §joh-12-21
  }
  {
   <i>Zeichen</i> (<span class='gr'>σημεῖον</span>, Strongs 4592).
@@ -68947,7 +68959,10 @@
 #}
 #mt-14-3 {
  {
-  → biblisches/Personen/Philippus
+ → biblisches/Personen/Philippus
+ }
+ {
+  <i>Gefängnis</i> <span class='gr'>φυλακή</span> (Strongs 5438), vgl §+mt-11-2
  }
 #}
 #mt-14-5 {
@@ -69052,7 +69067,7 @@
 #}
 #mt-14-25 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache, vgl §+mk-6-48
  }
 #}
 #mt-14-27 {
@@ -70175,7 +70190,9 @@
 #}
 #mt-21-34 {
  {
-  <i>Zeit der Früchte</i> vgl §mt-3-8-ff
+  <i>Zeit der Früchte, die naht</i> vgl §mt-3-8-ff
+ <br>
+  Vgl mit dem «Fest der Ungesäuerten, welches nahte», §lk-22-1
  }
 #}
 #mt-21-37 {
@@ -70910,6 +70927,11 @@
   Vgl §+lk-12-37
  }
 #}
+#mt-24-43 {
+ {
+  <i>Wenn der Hausherr gewußt hätte, in welcher Wache der Dieb komme</i> vgl §lk-12-37-ff
+ }
+#}
 #mt-24-45 {
  {
   Vgl §lk-12-42-ff
@@ -71059,7 +71081,7 @@
 #}
 #mt-26-3 {
  {
-  §mk-14-1
+  §mk-14-1, §lk-22-1, vgl §joh-11-47
  }
  {
   Frage: Ist 'Da' das das Resultat von dem Ausspruch in <a href='http://bibel.renenyffenegger.ch/mt_26.html#v2'>Vers 2</a>? Auf jeden
@@ -73012,7 +73034,7 @@ sa:
   Beachte, dass Jesus <i>sah</i>, obwohl es bereits Abend war.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
+  Hier kommt der Herr um die vierte → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache zu den Jüngern, vgl §lk-12-38, §mt-14-25
  }
 #}
 #mk-6-50 {
@@ -77657,7 +77679,13 @@ sa:
 #}
 #lk-12-38 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
+  §mt-14-25
+ }
+ {
+  <i>… wenn er in der zweiten und in der dritten → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache kommt …</i> vgl mit §mk-6-48, wo der Herr um die vierte Wache zu den Jüngern kommt.
+ }
+ {
+  Beachte, die Zahlen <i>zwei</i> und <i>drei</i> kommen auch in §Vlk-12-52 vor.
  }
 #}
 #lk-12-39 {
@@ -77665,7 +77693,10 @@ sa:
   <i>Hausherr</i> §lk-13-25
  }
  {
-   TODO: wer ist der <i>Hausherr</i>? Der Teufel, die Jünger...?
+  <i>Wenn der Hausherr gewußt hätte, zu welcher Stunde der Dieb kommen würde</i> vgl §mt-24-43
+ }
+ {
+  TODO: wer ist der <i>Hausherr</i>? Der Teufel, die Jünger...?
  }
 #}
 #lk-12-41 {
@@ -78874,7 +78905,7 @@ sa:
   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah
  }
  {
-  Vgl <i>Fest der ungesäuerten Brote</i> (das naht) mit <i>Tag der ungesäuerten Brote</i> (das kommt) in Vers 7.
+  Vgl <i>Fest der ungesäuerten Brote</i> (das naht) mit <i>Tag der ungesäuerten Brote</i> (das kommt) in §Vlk-22-7 und der «Zeit der Früchte, die naht», §mt-21-34
  }
 #}
 #lk-22-3 {
@@ -79197,7 +79228,7 @@ sa:
 #}
 #lk-23-7 {
  {
-  → biblisches/Personen/Herodes
+  <i>aus dem Gebiet des → biblisches/Personen/Herodes</i>: <span class='gr'>εκ τηςεξουσιας ηρωδου</span>, wörtlich etwa: «aus der Gewalt des Herodes».
  }
 #}
 #lk-23-8 {
@@ -80022,7 +80053,7 @@ sa:
   → biblisches/Orte/Nazareth
  }
  {
-  <i>Komm und sieh</i>: §+joh-11-34.  Vgl §offb-6-1-7, §joh-1-39
+  <i>Komm und sieh</i>: §+joh-11-34. Vgl §offb-6-1-7, §joh-1-39
  }
 #}
 #joh-1-47 {
@@ -81981,6 +82012,11 @@ sa:
   <i>glaubten an ihn</i> vgl §lk-16-30-31
  }
 #}
+#joh-11-47 {
+ {
+  Vgl §mt-26-3
+ }
+#}
 #joh-11-50 {
  {
   §joh-18-14
@@ -82076,10 +82112,12 @@ sa:
 #}
 #joh-12-21 {
  {
-   <i>→ biblisches/Personen/Philippus von → biblisches/Orte/Bethsaida</i>: §+joh-1-44.
+  <i>→ biblisches/Personen/Philippus von → biblisches/Orte/Bethsaida</i>: §+joh-1-44.
  }
  {
   Beachte: sie gehen zu Philippus und wollen Jesus sehen, in §joh-14-8 möchte Philippus den Vater sehen. Wie sich in §joh-14-9 herausstellt, hat Philippus nicht einmal den Sohn erkannt.
+ <br>
+  Vgl diese Griechen, die Jesus sehen wollen mit den Schriftgelehrten und Pharisäern, die vom «Lehrer» ein Zeichen sehen wollen, §mt-12-38
  }
 #}
 #joh-12-23 {
@@ -83545,6 +83583,9 @@ sa:
   Beachte, dass Petrus in <a href='http://bibel.renenyffenegger.ch/1petr_5.html#v1'>1.&nbsp;Petr&nbsp;5,1-4</a> die Ältesten ermahnt,
   die Herde Gottes zu hüten.
  }
+ {
+  Hier fragt der Herr Petrus <i>dreimal</i>, ob er Ihn liebe. Vgl mit §apg-10-13-ff, wo eine Stimme dreimal zu Petrus spricht.
+ }
 #}
 #joh-21-18 {
  {
@@ -84711,6 +84752,11 @@ sa:
 #apg-5-20 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
+#apg-5-21 {
+ {
+  Das Wort, das hier und in §Vapg-5-23 mit <i>Gefängnis</i> übersetzt wird, ist <span class='gr'>δεσμωτήριον</span> (Strongs 1201). Im nächsten Vers ist es <span class='gr'>φυλακή</span> (Strongs 5438), ein Wort das auch mit «Wache» übersetzt wird. Vgl §+mt-11-2, §+apg-16-26
  }
 #}
 #apg-5-23 {
@@ -85948,6 +85994,11 @@ sa:
  }
  {
   Siehe auch <a href='http://bibel.renenyffenegger.ch/3mo_11.html#v1'>3. Mo 11,1ff</a> und <a href='http://bibel.renenyffenegger.ch/5mo_14.html#v3'>5. Mo 14,3ff</a>
+ }
+#}
+#apg-10-13 {
+ {
+  Eine Stimme spricht <i>dreimal</i> zu Petrus. Vgl mit dem Herrn, der Petrus dreimal gefragt hat, ob er Ihn liebe, §joh-21-15
  }
 #}
 #apg-10-19 {
@@ -87462,6 +87513,9 @@ sa:
  {
   <i>Fesseln</i> (<span class='gr'>δεσμός</span>, Strongs 1199). TODO: in <a href='http://bibel.renenyffenegger.ch/2tim_2.html#v9'>2.&nbsp;Tim&nbsp;2,9</a> mit
   'Ketten' übersetzt.
+ }
+ {
+  Das Wort, das hier mit Gefängnis übersetzt wird, ist <span class='gr'>δεσμωτήριον</span> (Strongs 1201), in den Versen 23, 24, 27 (und an vielen anderen Stellen auch), ist es <span class='gr'>φυλακή</span> (Strongs 5438), ein Wort das mit Gefängnis oder Wache übersetzt wird. Vgl §+mt-11-2, §+apg-5-21
  }
 #}
 #apg-16-28 {
@@ -109714,7 +109768,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Zehntägige Drangsal</i>: §+mt-24-9-10, vgl §dan-1-12
  }
  {
-  TODO: Beachte: hier wird die <i>Drangsal</i> vom Teufel verursacht, in Vers 22 vom Herrn verursacht.
+  Hier <i>wirft der Teufel etliche ins Gefängnis</i>, in §offb-20-7 wird er aus seinem Gefängnis losgelassen.
+ }
+ {
+  Beachte: hier wird die <i>Drangsal</i> vom Teufel, in §Voffb-2-22 vom Herrn verursacht.
  }
 #}
 #offb-2-12 {
@@ -112639,7 +112696,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Bücher/prophetisch/Offenbarung/Babylon
  }
  {
-   TODO: <i>Unreine Geister</i>: <a class='kom' href='#Ioffb-16-13'>Offb&nbsp;16,13</a>.
+  TODO: <i>Unreine Geister</i>: <a class='kom' href='#Ioffb-16-13'>Offb&nbsp;16,13</a>.
+ }
+ {
+  TODO: Gewahrsam: Strongs 5438, oft mit «Gefängnis» oder «Wache» übersetzt.
  }
  {
   TODO: <i>kraftvoll</i> <span class='gr'>ἰσχύς</span>, Strongs 2479.
@@ -113100,6 +113160,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <b>Die sieben 'Glückselig'</b>: siehe <a class='kom' href='#Ioffb-1-3'>Offb&nbsp;1,3</a>.
   Hier 'Glückselig <i>und heilig</i>', sonst "nur" 'Glückselig'.
+ }
+#}
+#offb-20-7 {
+ {
+  Hier wird <i>der Teufel aus seinem Gefängnis losgelassen</i>, in §offb-2-10 wirft er etliche ins Gefängnis.
  }
 #}
 #offb-20-8 {
