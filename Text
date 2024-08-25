@@ -66112,6 +66112,11 @@
   <i>Hohenpriester</i>: <span class='gr'>ἀρχιερεύς</span> (Strongs 749), in Schlachter mit  «obersten Priester» übersetzt.
  }
 #}
+#mt-2-5 {
+ {
+  <i>denn also steht durch den Propheten geschrieben</i> vgl §joh-7-42
+ }
+#}
 #mt-2-6 {
  {
   <i>Ein Führer, der mein Volk Israel weiden wird</i>: es waren Hirten, die zuerst von der Geburt dieses Führers erfuhren, §lk-2-8-ff
@@ -67906,6 +67911,11 @@
   sollen aber eigentrlich nur(?) zu den verlorenen Schafen des Hauses Israel gehen, §Vmt-10-6, vgl §mt-15-24
  }
 #}
+#mt-10-17 {
+ {
+  §mk-13-9
+ }
+#}
 #mt-10-18 {
  {
   <i>vor Statthalter und Könige geführt werden</i> §mk-13-9, §lk-21-12
@@ -67914,6 +67924,11 @@
  }
  {
   <i>den Nationen zu Zeugnis</i>: die Jünger sollen nicht auf den «Weg der Nationen gehen», §mt-10-5
+ }
+#}
+#mt-10-19 {
+ {
+  §mk-13-11
  }
 #}
 #mt-10-20 {
@@ -68880,6 +68895,9 @@
 #mt-13-52 {
  {
   <i>Aus seinem Schatz Neues und Altes hervorbringen</i> vgl §mt-12-35
+ }
+ {
+  <i>gleich einem Hausherrn</i> vgl §mt-20-1
  }
 #}
 #mt-13-53 {
@@ -69904,8 +69922,10 @@
 @Matthäus 20 {
 #mt-20-1 {
  {
-  <i>Gleichnisse in den Evangelien</i>: <a class='kom' href='#Imt-13-3'>Mt&nbsp;13,3</a>,
-  <i>Das Reich der Himmel gleicht...</i>: <a class='kom' href='#Imt-13-24'>Mt&nbsp;13,24</a>.
+  <i>Gleichnisse in den Evangelien</i>: §+mt-13-3,
+  <i>Das Reich der Himmel gleicht...</i>: §+mt-13-24.
+ <br>
+  Jeder Schriftgelehrte, der im Reich der Himmel unterrichtet ist, gleicht einem Hausherrn, der aus seinem Schatz Neues und Altes hervorbring, §mt-13-52 
  }
 #}
 #mt-20-13 {
@@ -70038,6 +70058,9 @@
  {
   <i>Zwei Jünger senden</i> §+mk-6-7, §mt-11-2
  }
+ {
+  <i>gegenüber</i>: <span class='gr'>απεναντι</span> (Strongs 561), vgl §mk-11-2, §lk-19-30
+ }
 #}
 #mt-21-4 {
  {
@@ -70130,7 +70153,7 @@
   Beachte, der Feigenbaum wird saftig und treibt Blätter in §mt-24-32. In §offb-6-13 wirft er seine unreifen Früchte ab.
  }
  {
-  Vgl den <i>unfruchtbaren Feigenbaum</i> mit der «Nation, die Früchte bringt» §mt-21-43.
+  Vgl den <i>unfruchtbaren Feigenbaum</i> mit der «Nation, die Früchte bringt» §Vmt-21-43.
  }
  {
   Vgl §hl-2-13.
@@ -70216,7 +70239,7 @@
    Vgl §mt-8-11-12 
  }
  {
-  <i>Eine Nation, die Früchte bringt</i> vgl mit dem fruchtlosen Feigenbaum §mt-21-19
+  <i>Eine Nation, die Früchte bringt</i> vgl mit dem fruchtlosen Feigenbaum §Vmt-21-19
  }
  {
   <i>Nation</i>: <span class='gr'>ἔθνος</span> (Strongs 1484), in Sch2K zum Teil mit «Heiden» (<a href='http://bibel.renenyffenegger.ch/mt_4.html#v15'>Mt&nbsp;4,15</a>)
@@ -70334,6 +70357,9 @@
 #}
 #mt-22-23 {
  {
+  §mk-12-18, §lk-20-27
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer, vgl §apg-23-8
  }
 #}
@@ -70343,6 +70369,16 @@
  }
  {
   Sieben Brüder plus fünf Brüder (§lk-16-28) machen zusammen 12 Brüder. Die Auferstehung aus den Toten spielt sowohl hier (§Vmt-22-28) wie auch dort (§lk-16-31) eine gewisse Rolle.
+ }
+#}
+#mt-22-29 {
+ {
+  §mk-12-24
+ }
+#}
+#mt-22-32 {
+ {
+  §mk-12-27, §lk-20-38
  }
 #}
 #mt-22-33 {
@@ -70935,7 +70971,7 @@
 #}
 #mt-24-43 {
  {
-  <i>Wenn der Hausherr gewußt hätte, in welcher Wache der Dieb komme</i> vgl §lk-12-37-ff
+  <i>Wenn der Hausherr gewußt hätte, in welcher Wache der Dieb komme</i> vgl §lk-12-37-ff, §+mk-13-35
  }
 #}
 #mt-24-45 {
@@ -71079,7 +71115,7 @@
 #}
 #mt-26-2 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah
+  <i>Ihr wisst, daß nach zwei Tagen das → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah ist</i> §mk-14-1
  }
  {
   Vgl mit den Ankündigungen des Herrn über Seine Leiden, die die Jünger damals noch nicht verstanden §+mt-16-21, §lk-18-34.
@@ -71087,7 +71123,7 @@
 #}
 #mt-26-3 {
  {
-  §mk-14-1, §lk-22-1, vgl §joh-11-47
+  §mk-14-1, §lk-22-2, vgl §joh-11-47
  }
  {
   Frage: Ist 'Da' das das Resultat von dem Ausspruch in <a href='http://bibel.renenyffenegger.ch/mt_26.html#v2'>Vers 2</a>? Auf jeden
@@ -71380,6 +71416,11 @@
    Malchus wird das rechte Ohr abgehauen. Vgl §mk-14-47, §lk-22-50, §joh-18-10, §+2mo-29-20.
  }
 #}
+#mt-26-54 {
+ {
+  <i>Wie sollten denn die Schriften erfüllt werden</i> §mk-14-49
+ }
+#}
 #mt-26-55 {
  {
   Im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel lehrend: vgl §mk-12-35, §mk-14-49, §+lk-2-46
@@ -71392,6 +71433,9 @@
  {
   Vgl die <i>Schriften</i> der → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] mit dem, was durch den Propheten gesagt wurde: §mt-27-35.
  }
+ {
+  <i>Da verließen ihn die Jünger alle und flohen</i> §mk-14-50, vgl §joh-16-32
+ }
 #}
 #mt-26-59 {
  {
@@ -71400,7 +71444,7 @@
 #}
 #mt-26-60 {
  {
-  <i>Zwei falsche Zeugen</i> vgl §mt-18-16
+  <i>Zwei falsche Zeugen</i> vgl §mt-18-16, §offb-11-3
  }
 #}
 #mt-26-61 {
@@ -71961,7 +72005,7 @@ sa:
 #}
 #mt-28-20 {
  {
-  <i>Ich bin bei euch alle Tage...</i>: §+mt-1-23, §joh-14-17
+  <i>Ich bin bei euch alle Tage...</i>: §+mt-1-23, §joh-14-17, §joh-17-24
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#vollendung-des-zeitalters[Vollendung des Zeitalters], §mt-13-49, §mt-24-3 
@@ -73776,12 +73820,20 @@ sa:
   §lk-19-30
  }
  {
+  <i>gegenüber</i>: <span class='gr'>κατεναντι</span> (Strongs 2713), vgl §mt-21-2
+ }
+ {
   <i>Geht in das Dorf</i> vgl §mk-14-13 
  }
  {
   Der Herr reitet hier auf einem Pferd, auf dem noch kein Mensch gesessen hat. Vgl mit der Gruft, in die Er gelegt wurde und in die noch nie jemand gelegt worden war, §joh-19-41.
  <br>
   Ein unberittenes Pferd is gemäss Daniel M. sehr schwer zu reiten.
+ }
+#}
+#mk-11-9 {
+ {
+  §joh-12-13
  }
 #}
 #mk-11-10 {
@@ -73959,9 +74011,19 @@ sa:
   §mt-22-22
  }
 #}
+#mk-12-18 {
+ {
+  §mt-22-23, §lk-20-27
+ }
+#}
 #mk-12-20 {
  {
   §mt-22-25
+ }
+#}
+#mk-12-24 {
+ {
+  §mt-22-29
  }
 #}
 #mk-12-26 {
@@ -73970,6 +74032,11 @@ sa:
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Buch
+ }
+#}
+#mk-12-27 {
+ {
+  §mt-22-32, §lk-20-38
  }
 #}
 #mk-12-28 {
@@ -74059,6 +74126,8 @@ sa:
 #mk-13-9 {
  {
   <i>an → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge[Synagogen] überliefern</i> vgl §lk-21-12, §joh-16-2
+ <br>
+  An <i>Synedrien</i> überliefern, §mt-10-17
  }
  {
   <i>vor Statthalter und Könige gestellt werden</i> vgl §mt-10-18, §apg-9-15
@@ -74167,6 +74236,11 @@ sa:
   Vgl §1petr-4-7
  }
 #}
+#mk-13-35 {
+ {
+  <i>Herr des Hauses</i>: <span class='gr'>κυριος της οικιας</span>. Vgl mit «Hausherrn», <span class='gr'>οἰκοδεσπότης</span> (Strongs 3617) in §mt-24-43
+ }
+#}
 #mk-13-36 {
  {
   <i>euch schlafend finde</i> vgl §mk-14-37
@@ -74181,7 +74255,10 @@ sa:
 @Markus 14 {
 #mk-14-1 {
  {
-  §mt-26-3
+  <i>Es war aber nach zwei Tagen das Passah</i> §mt-26-2
+ }
+ {
+  <i>die Hohenpriester und die Schriftgelehrten suchten…</i> §mt-26-3
  }
 #}
 #mk-14-2 {
@@ -74406,7 +74483,12 @@ sa:
   im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel lehrend: vgl §mt-26-55, §mk-12-35, §lk-2-46
  }
  {
-  <i>auf dass die Schriften erfüllt wurden</i> vgl §mk-15-28
+  <i>auf dass die Schriften erfüllt wurden</i> vgl §mk-15-28, §mt-26-54
+ }
+#}
+#mk-14-50 {
+ {
+  §mt-26-56, vgl §joh-16-32
  }
 #}
 #mk-14-51 {
@@ -74442,6 +74524,9 @@ sa:
  }
 #}
 #mk-14-62 {
+ {
+  <i>ich bin's</i> §joh-18-6
+ }
  {
   <i>Ihr werdet den Sohn des Menschen sitzen sehen…</i> vgl §+lk-13-35
  }
@@ -75096,7 +75181,7 @@ sa:
    → biblisches/Personen/Abraham/Same
  }
  {
-  Vgl §hebr-2-16
+  Vgl §hebr-2-16, §Vlk-1-73
  }
 #}
 #lk-1-57 {
@@ -75142,6 +75227,13 @@ sa:
  {
   <i>von alters her</i>: <span class='gr'>απ αιωνος</span>, in §apg-3-21 mit «von jeher» übersetzt.
  <br>KJV übersetzt mit «since the world began».
+ }
+#}
+#lk-1-73 {
+ {
+  <i>Abraham, unser Vater</i> §lk-3-8, §joh-8-39
+ <br>
+  S. a. §Vlk-1-55
  }
 #}
 #lk-1-74 {
@@ -75596,7 +75688,10 @@ sa:
 #}
 #lk-3-8 {
  {
-  §mt-3-8
+  <i>Bringt nun der Buße würdige Früchte</i>: §mt-3-8
+ }
+ {
+  <i>Wir haben Abraham zum Vater</i> vgl §lk-1-73, §joh-8-39
  }
  {
   <i>Gott vermag Abraham aus diesen Steinen Kinder zu erwecken</i> vgl mit der Zerstörung des Tempels (§lk-19-44) den «lebendigen Steinen» (§1petr-2-4-5) und dem neuen Tempel (§1kor-3-16-17, §eph-2-21)
@@ -75933,6 +76028,9 @@ sa:
   TODO <i>deiner Vaterstadt</i>: <a class='kom' href='#Imt-13-54'>Mt&nbsp;13,54</a>.
   Beachte, dass Vaterstadt wohl besser wörtlicher mit «deinem Land» und Vaterland im nächsten
   Vers mit «seinem Land» übersetzt wird. KJV: «thy country» und «his own country».
+ }
+ {
+  TODO: Sprichwort könnte evtl. auch mit «Gleichnis» übersetzt werden.
  }
 #}
 #lk-4-24 {
@@ -78571,6 +78669,9 @@ sa:
  {
   §mk-11-2
  }
+ {
+  <i>gegenüber</i>: <span class='gr'>κατεναντι</span> (Strongs 2713), vgl §mt-21-2
+ }
 #}
 #lk-19-38 {
  {
@@ -78685,6 +78786,11 @@ sa:
   <a class='kom' href='#Ilk-23-2'>Lk&nbsp;23,2</a>.
  }
 #}
+#lk-20-27 {
+ {
+  §mt-22-23, §mk-12-18
+ }
+#}
 #lk-20-36 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Söhne
@@ -78693,6 +78799,11 @@ sa:
 #lk-20-37 {
  {
   TODO: genau das hat ja Mose nicht gesagt: §2mo-3-6, §2mo-3-15-16 und §2mo-4-5
+ }
+#}
+#lk-20-38 {
+ {
+  §mt-22-32, §mk-12-27
  }
 #}
 #lk-20-42 {
@@ -78911,6 +79022,11 @@ sa:
  }
  {
   Vgl <i>Fest der ungesäuerten Brote</i> (das naht) mit <i>Tag der ungesäuerten Brote</i> (das kommt) in §Vlk-22-7 und der «Zeit der Früchte, die naht», §mt-21-34
+ }
+#}
+#lk-22-2 {
+ {
+  §mt-26-3
  }
 #}
 #lk-22-3 {
@@ -79603,6 +79719,9 @@ sa:
  {
   <i>…um die Schriften zu verstehen … und am dritten Tag auferstehen …</i> vgl §joh-20-9, §Vlk-24-27
  }
+ {
+  TODO: vgl §joh-2-22
+ }
 #}
 #lk-24-46 {
  {
@@ -80208,6 +80327,9 @@ sa:
 #joh-2-22 {
  {
   <i>Als er nun aus den Toten auferweckt war, gedachten seine Jünger daran, daß er dies gesagt hatte …</i> vgl §lk-24-5-8, §joh-12-16, §joh-16-4
+ }
+ {
+  TODO: vgl §lk-24-45
  }
 #}
 #joh-2-23 {
@@ -81345,6 +81467,9 @@ sa:
  {
   <i>Wer an mich glaubt</i>: <a class='kom' href='#Ijoh-6-35'>Joh&nbsp;6,35</a>.
  }
+ {
+  <i>gleichwie die Schrift gesagt hat</i> vgl §Vjoh-7-42
+ }
 #}
 #joh-7-39 {
  {
@@ -81365,7 +81490,10 @@ sa:
 #}
 #joh-7-42 {
  {
-  <i>Aus → biblisches/Orte/Bethlehem … kommt der Christus</i> vgl §lk-2-11
+  <i>Aus → biblisches/Orte/Bethlehem … kommt der Christus</i> vgl §lk-2-11, §mt-2-5-6
+ }
+ {
+  <i>Hat nicht die Schrift gesagt</i> vgl §Vjoh-7-38
  }
 #}
 #joh-7-43 {
@@ -81454,7 +81582,7 @@ sa:
 #}
 #joh-8-12 {
  {
-  <i>Licht der Welt</i>: vgl §joh-12-46, §joh-1-9, §mt-5-14, §ps-27-1
+  <i>Licht der Welt</i>: vgl §joh-12-46, §joh-1-9, §joh-9-5, §mt-5-14, §ps-27-1
  }
  {
   Beachte: Hier redet der Herr wieder zu ihnen, obwohl er mit der Frau allein gelassen wurde (Vers 9) und er niemanden sah (Vers 10).
@@ -81562,7 +81690,7 @@ sa:
 #}
 #joh-8-39 {
  {
-  → biblisches/Personen/Abraham/Same#abraham-vater[Abraham ist unser Vater], vgl §+Vjoh-8-19, §Vjoh-8-53
+  → biblisches/Personen/Abraham/Same#abraham-vater[Abraham ist unser Vater], vgl §+Vjoh-8-19, §Vjoh-8-53, §lk-1-73, §lk-3-8
  }
  {
   TODO: Was sind Abrahams Werke?
@@ -81667,7 +81795,7 @@ sa:
 #}
 #joh-9-5 {
  {
-  Das Licht ist nicht mehr lange da: §joh-12-35
+  §joh-8-12. Das Licht ist nicht mehr lange da: §joh-12-35
  }
  {
   <i>in der Welt</i> §+joh-1-10
@@ -81866,7 +81994,7 @@ sa:
 #}
 #joh-10-30 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#ist-einer[sind eins] vgl §joh-17-22, §+1joh-5-7, §5mo-6-4
+ → biblisches/Eigene-Uebersetzung/Konkordanz/Gott#ist-einer[sind eins] vgl §joh-17-21-22, §+1joh-5-7, §5mo-6-4
  }
 #}
 #joh-10-31 {
@@ -82030,6 +82158,10 @@ sa:
 #joh-11-52 {
  {
   <i>Zerstreute Kinder sammeln</i>: §+jer-31-10, vgl §eph-3-6, §sach-13-7, §apg-2-39
+ <br>
+  <i>in eins versammeln</i> vgl §joh-17-21, §eph-4-4
+ <br>
+  Es kommt die Stunde, wo die Jünger zerstreut sein werden, §joh-16-32
  }
 #}
 #joh-11-54 {
@@ -82091,7 +82223,7 @@ sa:
 #}
 #joh-12-13 {
  {
-  <i>Gepriesen, der kommt</i>: <a class='kom' href='#Imt-21-9'>Mt&nbsp;21,9</a>
+  <i>Gepriesen, der kommt</i>: §+mt-21-9, §mk-11-9
  }
  {
   TODO: <i>Palmzweige</i>: <a class='kom' href='#Ioffb-7-9'>Offb&nbsp;7,9</a>.
@@ -82410,6 +82542,9 @@ sa:
 #joh-13-18 {
  {
   <i>welche ich auserwählt habe</i>: §joh-6-70
+ }
+ {
+  <i>auf daß die Schrift erfüllt würde</i> vgl §joh-17-12, §joh-19-24
  }
  {
   §ps-41-10
@@ -82880,7 +83015,7 @@ sa:
   <i>Gleichnis</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse#paroimia[παροιμία]
  }
  {
-  → biblisches/Bücher/Evangelien/Johannes/index#strongs-3954-joh
+  → biblisches/Bücher/Evangelien/Johannes#strongs-3954-joh
  }
 #}
 #joh-16-29 {
@@ -82894,6 +83029,11 @@ sa:
  }
 #}
 #joh-16-32 {
+ {
+  <i>ihr werdet zerstreut werden … und mich allein lassen</i> §mt-26-56, §mk-14-50
+ <br>
+  Vgl mit den <i>zerstreuten Kindern Gottes</i>, die Gott in eins versammelt, §joh-11-52
+ }
  {
   → biblisches/Bücher/Evangelien/Johannes#joh-stunde
  }
@@ -82970,6 +83110,8 @@ sa:
   <i>Keiner von ihnen ist verloren</i>: §joh-10-28
  <br>
   Vgl mit Erfüllung in §joh-18-9.
+ <br>
+  <i>auf daß die Schrift erfüllt werde</i> vgl §joh-13-18, §joh-19-24
  }
  {
   <i>Sohn des Verderbens</i>: <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v3'>2.&nbsp;Thes&nbsp;2,3</a>.
@@ -83013,7 +83155,7 @@ sa:
 #}
 #joh-17-21 {
  {
-  <i>auf daß auch sie in uns eins seien</i> vgl §eph-4-4
+  <i>auf daß auch sie in uns eins seien</i>: §joh-10-30, vgl §joh-11-52, §eph-4-4
  }
  {
   Offenbar hat das <i>eins sein der Jünger</i> einen Zeichen Charakter, der hilft, zu glauben, vgl §joh-20-31.
@@ -83048,6 +83190,9 @@ sa:
 #joh-17-24 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Grundlegung#vor-grundlegung[Vor Grundlegung der Welt]
+ }
+ {
+  <i>ich will, daß die … bei mir seien</i> vgl §mt-28-20 
  }
 #}
 #joh-17-25 {
@@ -83085,7 +83230,7 @@ sa:
 #}
 #joh-18-6 {
  {
-  <i>Ich bin's</i> vgl §Vjoh-18-25
+  <i>Ich bin's</i> vgl §mk-14-62, §Vjoh-18-25
  }
 #}
 #joh-18-9 {
@@ -83293,6 +83438,11 @@ sa:
 #joh-19-20 {
  {
   Überschrift in drei Sprachen: vgl §lk-23-38
+ }
+#}
+#joh-19-24 {
+ {
+  <i>auf daß die Schrift erfüllt werde</i> vgl §Vjoh-19-28, §Vjoh-19-36, §Vjoh-19-37, §joh-13-18, §joh-17-12
  }
 #}
 #joh-19-25 {
@@ -97943,7 +98093,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Ein Geist</i>: vgl §eph-2-18, §1kor-6-17
  }
  {
-  <i>Ein Leib und ein Geist</i> vgl §joh-17-21
+  <i>Ein Leib und ein Geist</i> vgl §joh-17-21, §joh-11-52
  }
 #}
 #eph-4-5 {
@@ -111345,7 +111495,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Weissagen</i>: <a class='kom' href='#Ioffb-10-11'>Offb&nbsp;10,11</a>.
  }
  {
-  → biblisches/Bücher/prophetisch/Offenbarung/Zwei-Zeugen
+  Vgl die → biblisches/Bücher/prophetisch/Offenbarung/Zwei-Zeugen[zwei Zeugen der Offenbarung] mit den zwei falschen Zeugen bei Jesu Verurteilung, §mt-26-60
  }
  {
   TODO: Sind die beiden Zeugen <i>Elia</i> und der von Mose angekündigte Prophet?  <a class='kom' href='#Ijoh-1-21'>Joh&nbsp;1,21</a>.
