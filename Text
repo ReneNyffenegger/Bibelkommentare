@@ -45590,8 +45590,7 @@
   Vgl §ps-78-19
  }
  {
-  TODO: Der Pharisäer in <a href='http://bibel.renenyffenegger.ch/lk_7.html#v46'>Lk&nbsp;7,46</a> hat das Haupt von Jesus nicht mit Ö gesalbt, aber
-  die Sünderin hat seine Füsse gesalbt.
+  Der Pharisäer in §lk-7-46 hat das Haupt von Jesus nicht mit Öl gesalbt, aber die Sünderin hat seine Füsse gesalbt.
  }
 #}
 #ps-23-6 {
@@ -67869,8 +67868,9 @@
   §lk-9-3
  }
  {
-  <i>Der Arbeiter ist seiner Nahrung wert</i>: vgl mit «Der Arbeiter ist seines Lohnes wert» in <a class='kom' href='#Ilk-10-7'>Lk&nbsp;10,7</a>.
-  Vgl auch <a class='kom' href='#I1tim-5-18'>1.&nbsp;Tim&nbsp;5,18</a>.
+ <i>Der Arbeiter ist seiner Nahrung wert</i>: vgl mit «Der Arbeiter ist seines Lohnes wert» in §+lk-10-7 und §+1tim-5-18. 
+<br>
+ Vgl auch den «Lohn eines Propheten» in §Vmt-10-41
  }
 #}
 #mt-10-13 {
@@ -67882,7 +67882,7 @@
  {
   §mk-6-11, §lk-9-5
  <br>
-  <i>Staub von Füssen schütteln</i>: §apg-13-51
+  <i>Staub von Füssen schütteln</i>: §lk-9-56, §mk-6-11, §apg-13-51
  }
  {
   <i>Staub</i>: <span class='gr'>κονιορτός</span> (Strongs 2868), auch in <a href='http://bibel.renenyffenegger.ch/lk_9.html#v5'>Lk&nbsp;9,5</a>,
@@ -68031,6 +68031,11 @@
 #mt-10-39 {
  {
   Vgl §mt-16-25
+ }
+#}
+#mt-10-41 {
+ {
+  <i>Lohn eines Prophten</i> und <i>Lohn eines Gerechten</i>: §Vmt-10-10
  }
 #}
 #mt-10-42 {
@@ -69036,12 +69041,12 @@
 #}
 #mt-14-16 {
  {
-  §mk-6-37, §lk-9-13
+  <i>Gebt ihr ihnen zu essen</i>: §mk-6-37, §lk-9-13
  }
 #}
 #mt-14-17 {
  {
-  §mk-6-38, §lk-9-13, §joh-6-9
+  <i>Nicht mehr als fünf Brote und zwei Fische</i>: §mk-6-38, §lk-9-13, §joh-6-9
  }
 #}
 #mt-14-19 {
@@ -69078,7 +69083,7 @@
 #}
 #mt-14-23 {
  {
-  §mk-4-46, §joh-6-15
+  §mk-6-46, §joh-6-15
  }
  {
   <i>Berg</i>: <a class='kom' href='#Imt-4-8'>Mt&nbsp;4,8</a>.
@@ -72925,9 +72930,17 @@ sa:
   Beachte, in <a href='http://bibel.renenyffenegger.ch/lk_9.html#v3'>Lk&nbsp;9,3</a> sollen die Jünger keinen <i>Stab</i> mitnehmen.
  }
 #}
+#mk-6-10 {
+ {
+  §lk-9-4
+ }
+#}
 #mk-6-11 {
  {
   §lk-9-5
+ }
+ {
+  <i>schüttelt den Staub von euren Füssen</i>: §mt-10-14, §apg-13-51
  }
  {
   <i>Tag des Gerichts</i>: <a class='kom' href='#Imt-10-15'>Mt&nbsp;10,15</a>.
@@ -73050,7 +73063,7 @@ sa:
 #}
 #mk-6-38 {
  {
-  §mt-14-17, §lk-9-13, §joh-6-9
+  <i>Fünf Brote und zwei Fische</i>: §mt-14-17, §lk-9-13, §joh-6-9
  }
 #}
 #mk-6-39 {
@@ -76713,7 +76726,7 @@ sa:
 #}
 #lk-7-46 {
  {
-  TODO: <a class='kom' href='#Ips-23-5'>Ps&nbsp;23,5</a>.
+  <i>Du hast mein Haupt nicht mit Öl gesalbt</i> vgl §+ps-23-5.
  }
 #}
 #lk-7-49 {
@@ -76735,6 +76748,9 @@ sa:
 @}
 @Lukas 8 {
 #lk-8-1 {
+ {
+  Vgl mit §lk-13-22, wo er nacheinander Städte und Dörfer durchzog, indem <i>er lehrte und nach Jerusalem reiste</i>.
+ }
  {
   §mt-9-35
  }
@@ -76977,12 +76993,20 @@ sa:
   Vgl mit <a href='http://bibel.renenyffenegger.ch/lk_22.html#v36'>Lk&nbsp;22,36</a> und <a href='http://bibel.renenyffenegger.ch/lk_10.html#v3'>Lk&nbsp;10,3</a>.
  }
 #}
+#lk-9-4 {
+ {
+  §mk-6-10
+ }
+#}
 #lk-9-5 {
  {
   §mk-6-11
  }
  {
-  §+Vlk-9-56
+  §Vlk-9-56
+ }
+ {
+  <i>schüttelt den Staub von euren Füssen</i>: §mt-10-14, §apg-13-51
  }
 #}
 #lk-9-6 {
@@ -77031,7 +77055,7 @@ sa:
 #}
 #lk-9-13 {
  {
-  §mt-14-16, §mk-6-37, §joh-6-9
+  <i>nicht mehr als fünf Brote und zwei Fische</i>: §mt-14-17, §mk-6-38, §joh-6-9
  }
 #}
 #lk-9-17 {
@@ -77415,6 +77439,11 @@ sa:
  }
  {
   <i>seinem Wort zuhören</i> vgl §lk-11-28
+ }
+#}
+#lk-10-40 {
+ {
+  <i>Martha aber war sehr beschäftigt mit vielem Dienen</i> §joh-12-2
  }
 #}
 #lk-10-41 {
@@ -77956,6 +77985,9 @@ sa:
  }
 #}
 #lk-13-22 {
+ {
+  Vgl mit §lk-8-1, wo er nacheinander Städte und Dörfer durchzog, indem <i>er predigte und das Evangelium vm Reich Gottes verkündigte</i>.
+ }
  {
   Jesus' <i>Reise nach Jerusalem</i>: <a class='kom' href='#Ilk-9-51'>Lk&nbsp;9,51</a>.
  }
@@ -81060,7 +81092,7 @@ sa:
 #}
 #joh-6-9 {
  {
-  §mt-14-17, §mk-6-38, §lk-9-13
+  <i>Fünf Gerstenbrote und zwei Fische</i>: §mt-14-17, §mk-6-38, §lk-9-13
  }
 #}
 #joh-6-12 {
@@ -81079,7 +81111,7 @@ sa:
 #}
 #joh-6-15 {
  {
-  <i>allein auf dem Berg</i> vgl §+Vjoh-6-3, §mt-14-23, §mk-4-46
+  <i>allein auf dem Berg</i> vgl §+Vjoh-6-3, §mt-14-23, §mk-6-46
  }
 #}
 #joh-6-17 {
@@ -82052,7 +82084,7 @@ sa:
 #}
 #joh-11-2 {
  {
-  TODO: <i>Chronologie</i>: Die hier referenzierte Salbung wird in <a href='http://bibel.renenyffenegger.ch/joh_12.html#v3'>Joh&nbsp;12,3</a> beschrieben.
+  §joh-12-3
  }
 #}
 #joh-11-3 {
@@ -82191,7 +82223,10 @@ sa:
 #}
 #joh-12-2 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen
+  <i>Martha diente</i> §lk-10-40
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen
  }
 #}
 #joh-12-3 {
@@ -82199,7 +82234,10 @@ sa:
   <i>Das Haus wurde vom Geruch der Salbe erfüllt</i> vgl §hl-1-3 
  }
  {
-  TODO: <i>Chronologie</i> der Salbung, siehe <a class='kom' href='#Ijoh-11-2'>Joh&nbsp;11,2</a>, vgl auch <a class='kom' href='#Imt-26-6'>Mt&nbsp;26,6</a>.
+  §joh-11-2
+ }
+ {
+  TODO: Vgl auch §+mt-26-6.
  }
 #}
 #joh-12-4 {
@@ -87092,8 +87130,9 @@ sa:
 #}
 #apg-13-51 {
  {
-  <i>Staub von Füssen schütteln</i>: <a class='kom' href='#Imt-10-14'>Mt&nbsp;10,14</a>. Vgl auch mit
-  «in die nächste Stadt fliehen» in <a href='http://bibel.renenyffenegger.ch/mt_10.html#v23'>Mt&nbsp;10,23</a>.
+  Indem sie hier den <i>Staub von ihren Füssen schütteln</i>, zeigen sie an, dass es dem Land von Sodom und Gomorra erträglicher gehen wird, wie Antiochien: §mt-10-14-15, §mk-6-11; vgl §lk-9-5.
+  <br>
+  Vgl auch mit «in die nächste Stadt fliehen» in <a href='http://bibel.renenyffenegger.ch/mt_10.html#v23'>Mt&nbsp;10,23</a>.
  }
  {
   TODO: Es scheint, als ob Paulus in Ikonium das Evangelium nicht verkündigt hatte.
