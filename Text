@@ -65855,7 +65855,7 @@
 @}
 }
 }
-{ NT
+ NT
 { Evangelien
 { Matthäus
 { 1-10
@@ -66849,6 +66849,9 @@
  {
   vgl §mk-4-21, §lk-8-16, §lk-11-33
  }
+ {
+  <i>Die Lampe leuchtet allen, die im Haus sind</i> TODO: Beachte den Anfang (nach den Seligpreisungen) dieser Rede mit dem Ende, wo Er vom auf den Sand oder Fels gebauten Haus spricht, §mt-7-24-ff
+ }
 #}
 #mt-5-16 {
  {
@@ -67291,6 +67294,9 @@
  }
  {
   TODO: Beachte, in Versen 24-27 kommt hier das Wort «Fundament» nicht vor; und §mt-16-18 erwähnt den Bau der Versammlung auf dem Felsen. §lk-6-47-ff erwähnt das Fundament und es wird dann auch in §lk-14-29 wieder erscheinen.
+ }
+ {
+  <i>Das Haus auf den Felsen/Sand bauen</i>: vgl mit dem Beginn der Rede, wo das Thema das Licht im Haus ist, §mt-5-15
  }
 #}
 #mt-7-28 {
@@ -68815,7 +68821,7 @@
 #}
 #mt-13-39 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#vollendung-des-zeitalters[Vollendung des Zeitalters], vgl §mt-24-3, §mt-28-20
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#vollendung-des-zeitalters[Vollendung des Zeitalters], vgl §mt-24-3, §mt-28-20, §hebr-9-26
  }
  {
   <i>Ernte</i> vgl Vers 30 und <a href='http://bibel.renenyffenegger.ch/offb_14.html#v15'>Offb&nbsp;14,15</a>.
@@ -77908,8 +77914,7 @@ sa:
 #}
 #lk-13-33 {
  {
-  Vgl <a class='kom' href='#Ioffb-18-24'>Offb&nbsp;18,24</a>.
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/lk_11.html#v47'>Lk 11,47 ff</a>.
+  <i> es geht nicht an, daß ein Prophet außerhalb Jerusalems umkomme</i> Vgl §+offb-18-24 und §lk-11-47.
  }
 #}
 #lk-13-34 {
@@ -82496,6 +82501,9 @@ sa:
  {
   Wohnen: siehe <a href='http://bibel.renenyffenegger.ch/joh_1.html#v14'>Joh&nbsp;1,14</a>.
  }
+ {
+  <i>ich gehe hin, euch eine Stätte zu bereiten</i> vgl §2kor-5-1
+ }
 #}
 #joh-14-4 {
  {
@@ -85735,8 +85743,9 @@ sa:
   <br>Vgl auch <a class='kom' href='#Igal-1-16'>Gal&nbsp;1,16</a>.
  }
  {
-  Paulus kommt vor den König Agrippa (<a href='http://bibel.renenyffenegger.ch/apg_26.html#v1'>Apg&nbsp;26,1</a>) und kann wohl da vor einem
-  König den Herrn durch das Evangelium verkünden(?).
+  Paulus kommt vor den König Agrippa (<a href='http://bibel.renenyffenegger.ch/apg_26.html#v1'>Apg&nbsp;26,1</a>) und kann wohl da vor einem König den Herrn durch das Evangelium verkünden(?).
+ <br>
+  Vor dem Richterstuhl des Kaisers muß er gerichtet werden, §apg-25-10
  }
  {
   Paulus soll den Namen (auch) vor <i>Könige</i> tragen. Vgl mit §mt-10-18, §mk-13-9
@@ -85998,6 +86007,9 @@ sa:
 #}
 #apg-10-13 {
  {
+  §apg-11-7
+ }
+ {
   Eine Stimme spricht <i>dreimal</i> zu Petrus. Vgl mit dem Herrn, der Petrus dreimal gefragt hat, ob er Ihn liebe, §joh-21-15
  }
 #}
@@ -86176,6 +86188,11 @@ sa:
 #apg-11-6 {
  {
   <i>Raubtier</i>: <a class='kom' href='#Iapg-10-12'>Apg&nbsp;10,12</a>.
+ }
+#}
+#apg-11-7 {
+ {
+  §apg-10-13
  }
 #}
 #apg-11-11 {
@@ -87958,6 +87975,9 @@ sa:
  {
   <i>Euer Gesetz</i>: <a class='kom' href='#Ijoh-8-17'>Joh&nbsp;8,17</a>.
  }
+ {
+  <i>über diese Dinge will ich nicht Richter sein</i> vgl §apg-25-10
+ }
 #}
 #apg-18-17 {
  {
@@ -88001,6 +88021,9 @@ sa:
  }
 #}
 #apg-18-21 {
+ {
+  <i>Ich muß unbedingt das kommende Fest in Jerusalem halten</i> vgl §apg-19-21, §apg-23-11
+ }
  {
   Das kommende Fest ist Pfingsten, vgl §apg-20-16
  }
@@ -88184,6 +88207,9 @@ sa:
  }
 #}
 #apg-19-21 {
+ {
+  <i>…muß ich auch Rom sehen</i> §apg-23-11
+ }
  {
   → biblisches/Orte/Achaja, → biblisches/Orte/Macedonien
  }
@@ -88981,6 +89007,9 @@ sa:
 #}
 #apg-23-11 {
  {
+  <i>Denn wie du von mir in Jerusalem gezeugt hast, so mußt du auch in Rom zeugen</i> vgl §apg-19-21, §apg-18-21, §apg-25-10
+ }
+ {
   <i>Zeugnis</i>: vgl <a class='kom' href='#Iapg-20-24'>Apg&nbsp;20,24</a>.
  }
  {
@@ -89153,6 +89182,15 @@ sa:
  }
  {
   TODO: Wollte Paulus nach Rom, damit <a href='http://bibel.renenyffenegger.ch/apg_23.html#v11'>Apg&nbsp;23,11</a> in Erfüllung geht?
+ }
+#}
+#apg-25-10 {
+ {
+  <i>Ich stehe vor dem Richterstuhl des Kaisers, wo ich gerichtet werden muß</i> §apg-23-11, §apg-9-15-16, §apg-27-24
+  <br>
+   Vom Richterstuhl von Gallion, vor den die Juden Paulus in §apg-18-12-16 geführt hatten, wurde Paulus nicht gerichtet.
+  <br>
+   Wir werden alle vor dem Richterstuhl Gottes gestellt oder offenbar werden müßen, §roem-14-10, §2kor-5-10
  }
 #}
 #apg-25-11 {
@@ -89419,6 +89457,9 @@ sa:
 #}
 #apg-27-24 {
  {
+  <i>Du mußt vor den Kaiser gestellt werden</i> §apg-25-10
+ }
+ {
   TODO: <i>Schiff</i> fehlt wohl im Grundtext. Elberfelder: ', die mit dir fahren', KJV: 'them that sail with thee.'
  }
 #}
@@ -89587,7 +89628,7 @@ sa:
   <i>ungehindert</i>.
  }
  {
-   TODO: <i>Zeugnis</i>: <a class='kom' href='#Iapg-23-11'>Apg&nbsp;23,11</a>.
+  TODO: <i>Zeugnis</i>: <a class='kom' href='#Iapg-23-11'>Apg&nbsp;23,11</a>.
  }
 #}
 #apg-28-26 {
@@ -91984,7 +92025,9 @@ sa:
 #}
 #roem-14-10 {
  {
-  <i>Alle vor dem Richterstuhl des Christus erscheinen</i>: <a class='kom' href='#I2kor-5-10'>2.&nbsp;Kor&nbsp;5,10</a>.
+  <i>Denn wir werden alle vor den Richterstuhl Gottes gestellt werden</i>: §+2kor-5-10.
+  <br>
+  Vgl mit dem Richterstuhl des Kaisers, wo Paulus gerichtet werden mußte, §apg-25-10
  }
  {
   <i>Richterstuhl</i>: <a class='kom' href='#Imt-27-19'>Mt&nbsp;27,19</a>.
@@ -95575,11 +95618,14 @@ sa:
 #2kor-5-1 {
  {
   <i>Ein Haus, nicht mit Händen gemacht</i> vgl mit dem vollkommneren Zelt, das nicht mit Händen gemacht ist (§hebr-9-11) und dem Tempel, der nicht mit Händen gemacht ist (§mk-14-58). Siehe auch §apg-7-48 und §apg-17-24
-  <br>
-   Vgl auch mit dem «wahrhaftgien Zelt, welches der Herr errichtet hat, nicht der Mensch» (§hebr-8-2) und der «nicht mit Händen geschehenen Beschneidung» (§kol-2-11).
+ <br>
+  Vgl auch mit dem «wahrhaftigen Zelt, welches der Herr errichtet hat, nicht der Mensch» (§hebr-8-2) und der «nicht mit Händen geschehenen Beschneidung» (§kol-2-11).
  }
  {
   Hütte (Zelt) vgl §V2kor-5-4, §2petr-1-13-14
+ }
+ {
+  Vgl §joh-14-2: Der Herr bereitet den Jüngern eine Stätte
  }
 #}
 #2kor-5-2 {
@@ -95589,7 +95635,7 @@ sa:
 #}
 #2kor-5-4 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v53'>1.&nbsp;Kor&nbsp;15,53</a>.
+  <i> damit das Sterbliche verschlungen werde vom Leben</i> Vgl §1kor-15-53-54
  }
 #}
 #2kor-5-7 {
@@ -95599,7 +95645,9 @@ sa:
 #}
 #2kor-5-10 {
  {
-  <i>Alle vor dem Richterstuhl offenbar werden</i>: <a class='kom' href='#Iroem-14-10'>Röm&nbsp;14,10</a>.
+  <i>Vor dem Richterstuhl offenbar werden</i>: §+roem-14-10.
+ <br>
+  Vgl mit dem Richterstuhl des Kaisers, wo Paulus gerichtet werden mußte, §apg-25-10
  }
  {
   <i>Richterstuhl</i>: <a class='kom' href='#Imt-27-19'>Mt&nbsp;27,19</a>.
@@ -99926,9 +99974,19 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl Verse 3-4 mit §eph-6-18-20
  }
 #}
+#kol-4-4 {
+ {
+  <i>wie ich reden soll</i> vgl §Vkol-4-6
+ }
+#}
 #kol-4-5 {
  {
   <i>die draußen sind</i> §1kor-5-13-14, §1thes-4-12, §1tim-3-7
+ }
+#}
+#kol-4-6 {
+ {
+  <i>wie ihr … antworten sollt</i> vgl §Vkol-4-4
  }
 #}
 #kol-4-7 {
@@ -100510,9 +100568,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @1. Thessaloniker 4 {
 #1thes-4-1 {
  {
-   Im ersten Brief ermahnt und bittet Paulus die Brüder, 'im Wandel' zuzunehemen, so wie sie es von ihm (TODO: ihnen) empfangen
-   haben. Im zweiten Brief gebietet Paulus seinen Brüdern sich von den Brüdern zurückzuziehen, die unordentlich
-   wandeln (<a href='http://bibel.renenyffenegger.ch/2thes_3.html#v6'>2.&nbsp;Thes&nbsp;3,6</a>).
+  <i>wie ihr von uns empfangen habt, in welcher Weise ihr wandeln … sollt</i> vgl §2thes-3-7
+ }
+ {
+  Im ersten Brief ermahnt und bittet Paulus die Brüder, <i>im Wandel</i> zuzunehmen, so wie sie es von ihm (TODO: ihnen) empfangen
+  haben. Im zweiten Brief gebietet Paulus seinen Brüdern sich von den Brüdern zurückzuziehen, die unordentlich
+  wandeln (§2thes-3-6).
  }
  {
   <i>Übrigens nun, Brüder</i>: §+2kor-13-11
@@ -101258,6 +101319,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #2thes-3-7 {
+ {
+  Vgl §1thes-4-1
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst,
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer[nachahmen]
@@ -106631,6 +106695,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Eine kleine Zeit betrübt sein</i> vgl §1petr-5-10, §jak-4-14
  }
+ {
+  TODO <i>wenn es nötig ist</i>: evtl kann dies auch mit «Wenn es sein muß» übersetzt werden?
+ }
 #}
 #1petr-1-7 {
  {
@@ -110056,7 +110123,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Posaune</i>: §+mt-24-31.
  }
  {
-  <i>was nach diesem geschehen muß</i> §offb-1-19, §offb-1-1, §offb-22-6
+  <i>was nach diesem geschehen muß</i> §offb-1-1, §offb-1-19, §offb-22-6
  }
  {
   Ist jetzt «was ist» (§offb-1-19) vorbei, und es kommt «was nach diesem geschehen soll»?
@@ -111222,7 +111289,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-10-11 {
  {
-  <i>über viele Völker weissagen</i> vgl §Vhes-3-5.
+  <i>über viele Völker weissagen</i> vgl §hes-3-5.
  }
  {
   TODO: Hier muss Johannes wiederum weissagen, wie es dann aber aussieht, sind es die zwei Zeugen, die weissagen werden (<a href='http://bibel.renenyffenegger.ch/offb_11.html#v3'>Offb&nbsp;11,3</a>).
