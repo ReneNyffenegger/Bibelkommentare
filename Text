@@ -83316,6 +83316,11 @@ sa:
   <i>Ich bin's</i> vgl §mk-14-62, §Vjoh-18-25
  }
 #}
+#joh-18-8 {
+ {
+  <i>… daß ich es bin; wenn ihr nun mich sucht …</i> vgl §apg-10-21
+ }
+#}
 #joh-18-9 {
  {
   <i>Wort, welches er sprach</i> vgl §Vjoh-18-32
@@ -86259,6 +86264,9 @@ sa:
  }
 #}
 #apg-10-21 {
+ {
+  <i>Ich bin's, den ihr sucht</i> vgl §joh-18-8
+ }
  {
   <span class='gt'>NA und MT lassen «die von Kornelius zu ihm gesandt worden waren» weg</span>.
  }
