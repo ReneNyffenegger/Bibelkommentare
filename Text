@@ -71927,6 +71927,11 @@ sa:
   Vgl Vers 4 mit <a href='http://bibel.renenyffenegger.ch/offb_1.html#v17'>Offb&nbsp;1,17</a>.
  }
 #}
+#mt-28-5 {
+ {
+  <i>Daß ihr Jesus, den Gekreuzigten sucht</i> §mk-16-6. Vgl §lk-24-5: «Was sucht ihr den Lebendigen unter den Toten».
+ }
+#}
 #mt-28-7 {
  {
   §mt-26-32
@@ -73035,6 +73040,9 @@ sa:
 #mk-6-32 {
  {
   §mt-14-13, §mk-6-31, §joh-6-9
+ }
+ {
+  Hier geht der Herr an einen öden Ort und ist innnerlich über eine große Volksmenge bewegt, vgl §lk-4-42
  }
 #}
 #mk-6-33 {
@@ -74803,6 +74811,11 @@ sa:
   <i>Erster Tag der Woche</i>: <a class='kom' href='#Imt-28-1'>Mt&nbsp;28,1</a>. S.a. <a class='kom' href='#Imk-16-9'>Vers 9</a>.
  }
 #}
+#mk-16-6 {
+ {
+  <i>ihr sucht Jesus, … den Gekreuzigten</i> §mt-28-5. Vgl §lk-24-5: «Was sucht ihr den Lebendigen unter den Toten».
+ }
+#}
 #mk-16-7 {
  {
   hingehen nach → biblisches/Orte/Galiläa: §mk-14-28
@@ -76142,6 +76155,9 @@ sa:
 #lk-4-42 {
  {
   §mk-1-37
+ }
+ {
+  Vgl mit §mk-6-32-34, wo er an einen öden Ort ging, und innerlich über eine große Volksmenge bewegt wird.
  }
 #}
 #lk-4-43 {
@@ -79590,7 +79606,7 @@ sa:
 #}
 #lk-24-5 {
  {
-  <i>Was sucht ihr den Lebendigen unter den Toten</i> §offb-1-18
+  <i>Was sucht ihr den Lebendigen unter den Toten</i>: In §mt-28-5 und §mk-16-6 wird «Jesus, der Gekreuzigte» gesucht, vgl §offb-1-18
  }
 #}
 #lk-24-6 {
@@ -81046,6 +81062,11 @@ sa:
   <i>ihr nehmt mich nicht auf</i> vgl §mt-18-5, §lk-9-53
  }
 #}
+#joh-5-44 {
+ {
+  <i>Wie könnt ihr glauben, die ihr Ehre voneinander nehmt…</i> Vgl §joh-7-18, §joh-8-50, §joh-9-24, §joh-12-43
+ }
+#}
 @}
 @Johannes 6 {
 #joh-6-1 {
@@ -81402,6 +81423,9 @@ sa:
 #}
 #joh-7-18 {
  {
+  <i>Wer aus sich selbst redet, sucht seine eigene Ehre…</i> Vgl §joh-5-44, §joh-8-50
+ }
+ {
   <i>der mich gesandt hat, ist wahrhaftig</i> §Vjoh-7-28
  }
 #}
@@ -81482,6 +81506,13 @@ sa:
  {
   <i>Zerstreuten</i> <span class='gr'>διασπορά</span> (Strongs 1290) auch in <a href='http://bibel.renenyffenegger.ch/jak_1.html#v1'>Jak&nbsp;1,1</a>
   und <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v1'>1.&nbsp;Petr&nbsp;1,1</a> (als «Zerstreuung» übersetzt).
+ }
+#}
+#joh-7-36 {
+ {
+  <i>Ihr werdet mich suchen und nicht finden, und: Wo ich bin, könnt ihr nicht hinkommen</i> vgl §joh-8-21, wo der Herr noch hinzufügt, dass die suchenden in ihrer Sünde sterben werden.
+ <br>
+  Vgl §joh-13-33
  }
 #}
 #joh-7-37 {
@@ -81668,6 +81699,9 @@ sa:
   Hier sagen die Juden <i>Will er sich etwa selbst töten</i> und → biblisches/Personen/Petrus (Joh 13:36) fragt
   «Herr, wohin gehst du?».
  }
+ {
+  <i>Ihr werdet mich suchen und werdet in eurer Südne Sterben, wo ich hingeghe, könnt ihr nicht hinkommen</i> vgl §joh-7-36
+ }
 #}
 #joh-8-24 {
  {
@@ -81762,6 +81796,11 @@ sa:
 #joh-8-48 {
  {
   <i>Du hast einen Dämon</i>: §+joh-7-20, §mt-11-18
+ }
+#}
+#joh-8-50 {
+ {
+  <i>Ich aber suche nicht meine Ehre</i> vgl §joh-5-44, §joh-7-18
  }
 #}
 #joh-8-51 {
@@ -81881,9 +81920,10 @@ sa:
 #}
 #joh-9-24 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben:
-  Haben die Juden erwartet, dass der Mensch Gott die Ehre gibt, wenn er gesagt hätte, Gott (und nicht ein Mensch) habe
-     ihn sehend gemacht? Vgl auch mit den Versen 11, 32 und 33 und §+ps-146-8.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben: Haben die Juden erwartet, dass der Mensch Gott die Ehre gibt, wenn er gesagt hätte, Gott (und nicht ein Mensch) habe ihn sehend gemacht? Vgl auch mit den Versen 11, 32 und 33 und §+ps-146-8.
+ }
+ {
+  Vgl §+joh-5-44
  }
 #}
 #joh-9-28 {
@@ -82443,6 +82483,11 @@ sa:
    Vgl §+apg-18-17 wo vermutlich ein Synagogenvorsteher aus der Synagoge ausgeschlossen wurde, nachdem er gläubig geworden ist.
  }
 #}
+#joh-12-43 {
+ {
+  §+joh-5-44
+ }
+#}
 #joh-12-44 {
  {
   <i>Wer an mich glaubt</i>: <a class='kom' href='#Ijoh-6-35'>Joh&nbsp;6,35</a>.
@@ -82630,7 +82675,7 @@ sa:
    §gal-4-19, §1joh-2-1, §1joh-2-12, §1joh-2-28 §1joh-3-7, §1joh-3-18 §1joh-4-4 und §1joh-5-21.
  }
  {
-   <i>Wohin ich gehe, könnt ihr nicht hingehen</i>: <a class='kom' href='#Ijoh-8-21'>Joh&nbsp;8,21</a>.
+   <i>Wohin ich gehe, könnt ihr nicht hingehen</i>: §joh-7-36, §+joh-8-21.
  }
  {
   <i>noch eine kleine Zeit</i> §joh-7-33, §joh-12-35
