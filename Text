@@ -11124,6 +11124,9 @@
  {
   §2mo-20-3
  }
+ {
+  <i>Den Namen anderer Götter sollt ihr nicht erwähnen</i>: §jos-23-7
+ }
 #}
 #2mo-23-14 {
  {
@@ -18040,7 +18043,10 @@
 #}
 #4mo-13-22 {
  {
-  Kaleb wird → biblisches/Orte/Hebron als sein Erbteil erhalten, weil dem HERRN gänzlich nachgefolgt ist (§jos-14-14).
+  <i>Die Kinder Enaks in Hebron</i> vgl §jos-11-22
+ }
+ {
+  Kaleb wird → biblisches/Orte/Hebron als sein Erbteil erhalten, weil er dem HERRN gänzlich nachgefolgt ist (§jos-14-14).
  }
  {
   TODO: <i>drei Menschen in Hebron(?)</i> siehe <a class='kom' href='#I1mo-14-13'>1.&nbsp;Mo&nbsp;14,13</a>.
@@ -19452,7 +19458,12 @@
 #}
 #4mo-26-29 {
  {
-  <i>Gilead</i> scheint auf Josephs Knien gesessen zu sein (<a href='http://bibel.renenyffenegger.ch/1mo_50.html#v23'>1.&nbsp;Mo&nbsp;50,23</a>).
+  <i>Machir zeugte Gilead</i> vgl §jos-17-1.
+ <br>
+  Machir war ein Kriegsmann, ebenda.
+ }
+ {
+ <i>Gilead</i> scheint auf Josephs Knien gesessen zu sein (<a href='http://bibel.renenyffenegger.ch/1mo_50.html#v23'>1.&nbsp;Mo&nbsp;50,23</a>).
  }
 #}
 #4mo-26-30 {
@@ -21990,6 +22001,11 @@
   <i>Die Stadt niemehr bauen</i>: Besteht hier ein Zusammenhang mit Jericho? (§jos-6-26).
  }
 #}
+#5mo-13-17 {
+ {
+  Hezron wurde <i>mit Feuer verbrannt</i>, §jos-11-11
+ }
+#}
 @}
 @5. Mose 14 {
 #5mo-14-1 {
@@ -24341,7 +24357,7 @@
 #}
 #jos-9-3 {
  {
-  Offenbar sind die Gibeoniter von den Ammonitern übrig geblieben (<a href='http://bibel.renenyffenegger.ch/2sam_21.html#v2'>2.&nbsp;Sam&nbsp;21,2</a>).
+  Offenbar sind die Gibeoniter von den Amoritern übrig geblieben, §2sam-21-2
  }
  {
   TODO: Ist Gibeon (<span class='hebr'>גִּבְעוֹן</span>, Strongs 1391) dasselbe wie Gibea (<span class='hebr'>גִּבְעָה</span>, Strongs 1390). Hier ist die erste Erwähnung von
@@ -24439,6 +24455,13 @@
  {
   Vgl Adoni-Besek in <a class='kom' href='#Iri-1-7'>Ri&nbsp;1,7</a>.
  }
+ {
+  Hier ist <i>Debir</i> der Name des Königs von Eglon, in §Vjos-10-38 ist es der Name einer Stadt.
+ <br>
+  Eglon wird in §Vjos-10-35 eingenommen.
+ <br>
+  Vgl auch §jos-12-10-ff
+ }
 #}
 #jos-10-5 {
  {
@@ -24458,7 +24481,10 @@
 #}
 #jos-10-9 {
  {
-  TODO: Josue kam plötzlich über sie, vgl mit «Wie ein Dieb in der Nacht» und/oder §offb-3-3
+  <i>Josua kam plötzlich über sie</i> §jos-11-7
+ }
+ {
+  TODO: Josua kam plötzlich über sie, vgl mit «Wie ein Dieb in der Nacht» und/oder §offb-3-3
  }
 #}
 #jos-10-10 {
@@ -24567,6 +24593,11 @@
 #}
 #jos-10-38 {
  {
+  Hier ist <i>Debir</i> der Name einer Stadt, in §Vjos-10-3 ist Debir der Name des Königs von <i>Eglon</i>.
+ <br>
+  Der Name von Debir war vordem <i>Kirjath-Sepher</i>, §jos-15-15
+ }
+ {
   Siehe <a href='http://bibel.renenyffenegger.ch/jos_15.html#v16'>Jos&nbsp;15,16</a>: Kaleb gab seine Tochter Achsa dem zur Frau, der Debir (=Kirjat-Sepher) erobert.
   <br>Kirjat-Sepher siehe <a class='kom' href='#Ijos-15-15'>Jos&nbsp;15,15</a>.
  }
@@ -24594,9 +24625,26 @@
   <i>Hewiter</i>: siehe <a class='kom' href='#Iri-9-7'>Ri&nbsp;9,7</a>.
  }
 #}
+#jos-11-5 {
+ {
+  Am <i>Wasser Merom</i> wird der König von Schimron (§Vjos-11-1) geschlagen. In §jos-12-20 wird der König von «Schimron-Meron» erwähnt. Möglicherwiese ist dort <i>Meron</i> an Merom hier angelehnt.
+ <br>
+  Vgl das <i>Wasser Merom</i> mit <i>Misrephot-Majim</i> (Majim ist der Plural von Wasser).
+ }
+#}
+#jos-11-7 {
+ {
+  <i>kam plötzlich über sie</i>: §jos-10-9
+ }
+#}
 #jos-11-10 {
  {
   Vgl <i>Hazor</i>, die Hauptstadt aller dieser Königreiche, mit <i>Gibeon</i>, der großen Stadt, wie eine der Königsstädte, §jos-10-2.
+ }
+#}
+#jos-11-11 {
+ {
+  <i>Eine (israelische) Stadt soll mit Feuer verbrannt werden</i>, wenn Söhne Belials aus ihrer Mitte ausgehen und zum Götzendienst verleiten, §5mo-13-13-ff
  }
 #}
 #jos-11-14 {
@@ -24616,6 +24664,8 @@
  }
  {
   Josua hat die Enakiter ausgerottet, aber Kaleb wird noch drei Söhne Enaks vertreiben: §jos-14-12, §+jos-15-14, §ri-1-20.
+ <br>
+  In <i>Hebron</i> waren vor 40 Jahren die (drei?) Kinder Enaks: Achiman, Scheschai und Talmai, §4mo-13-22
  }
  {
   <i>Anab</i>: <a class='kom' href='#Ijos-15-50'>Jos&nbsp;15,50</a>.
@@ -24686,6 +24736,11 @@
   <br>Jesaja über Saron: <a class='kom' href='#Ijes-33-9'>Jes&nbsp;33,9</a>.
  }
 #}
+#jos-12-20 {
+ {
+  Der König von <i>Schimron-Meron</i> wird am «Wasser Merom» geschlagen, §jos-11-5
+ }
+#}
 #jos-12-23 {
  {
   <i>König der Gojim</i>: <a class='kom' href='#I1mo-14-1'>1.&nbsp;Mo&nbsp;14,1</a>.
@@ -24699,9 +24754,9 @@
   <i>Tirza</i>: <a class='kom' href='#I4mo-26-33'>4.&nbsp;Mo&nbsp;26,33</a>.
  }
  {
-  TODO: Hier: 31 Könige, in <a class='kom' href='#I1koe-20-1'>1.&nbsp;Kö&nbsp;20,1</a> 32 Könige.
-  <br>Die 2 Könige Sihon (Vers 2) und Og (Vers 4) sind nicht mitgezählt (Vgl auch <a href='http://bibel.renenyffenegger.ch/ps_135.html#v11'>Ps&nbsp;135,11</a>). Wenn man diese
-      hinzuzählen würde, wären es 33 Könige.
+  Hier: 31 Könige, in §+1koe-20-1 32 Könige.
+  <br>
+   Die 2 Könige Sihon (§Vjos-12-2) und Og (§Vjos-12-4) sind nicht mitgezählt (Vgl §ps-135-11). Wären diese mitgezählt, wären es 33 Könige.
  }
 #}
 @}
@@ -24757,7 +24812,7 @@
 #}
 #jos-13-6 {
  {
-  Den Zahlreichen soll ein grösseres Erbteil gegeben werden, den Kleien ein kleineres §4mo-33-54.
+  Den Zahlreichen soll ein grösseres Erbteil gegeben werden, den Kleinen ein kleineres §4mo-33-54.
   <br>
   Das Land soll in drei Teile geteilt werden §5mo-19-3.
  }
@@ -25046,10 +25101,11 @@
  }
  {
   <i>Kirjat-Sepher</i> <span class='hebr'>קִרְיַת־סֵֽפֶר</span> (Strongs 7158), etwa «Stadt des Buches». <i>Debir</i>
-  <span class='hebr'>דְּבִ֥ר</span> (Strongs 1688) etwa 'Ausspruch
- }
- {
+  <span class='hebr'>דְּבִ֥ר</span> (Strongs 1688) etwa «Ausspruch»
+ <br>
   Hier ist <i>Debir</i> der Name des ehemaligen <i>Kirjath-Sephers</i>, in §Vjos-15-49 wird gesagt, dass <i>Kirjath-Sanna</i> Debir ist.
+ <br>
+  Vgl §+jos-10-38
  }
 #}
 #jos-15-16 {
@@ -25310,6 +25366,11 @@
 #}
 @}
 @Josua 17 {
+#jos-17-1 {
+ {
+  <i>Gilead wurde Machir zuteil</i> vgl §4mo-26-29
+ }
+#}
 #jos-17-2 {
  {
   Vgl <a class='kom' href='#I4mo-26-30'>4.&nbsp;Mo&nbsp;26,30</a>.
@@ -25816,7 +25877,7 @@
 #}
 #jos-22-5 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl §+5mo-6-5, §5mo-30-16
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl §+5mo-6-5, §5mo-30-16, §mt-22-37, vgl §jos-23-11
  }
 #}
 #jos-22-9 {
@@ -25870,6 +25931,9 @@
 #}
 #jos-23-7 {
  {
+  <i>den Namen ihrer Götter nicht erwähnen</i> §2mo-23-13
+ }
+ {
   Vgl mit Vers 12 und <a href='http://bibel.renenyffenegger.ch/ri_3.html#v5'>Ri 3,5 ff</a>
  }
 #}
@@ -25877,6 +25941,14 @@
  {
   <i>Ein Mann von euch jagt tausend</i> vgl §3mo-26-8, §+5mo-32-30, §jes-30-17,
   §+2mo-14-7.
+ }
+#}
+#jos-23-11 {
+ {
+  
+ }
+ {
+  <i>Den HERRN, euren Gott lieben</i>, §jos-22-5
  }
 #}
 #jos-23-13 {
@@ -70451,7 +70523,7 @@
 #}
 #mt-22-37 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl §+5mo-6-5.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl §+5mo-6-5, §jos-22-5
  }
 #}
 #mt-22-38 {
