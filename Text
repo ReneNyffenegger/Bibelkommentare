@@ -13012,7 +13012,7 @@
 #}
 #2mo-34-12 {
  {
-  Trotzdem werden sie einen Bund schliessen mit den Einwohnern von Gibeon (<a href='http://bibel.renenyffenegger.ch/jos_9.html#v3'>Jos 9,3-15</a>).
+  Trotzdem werden sie einen Bund schliessen mit den Einwohnern von Gibeon §jos-9-3-15. Vgl §5mo-7-2
  }
  {
   <i>daß sie nicht zum Fallstrick werden</i> vgl §2mo-23-33, §jos-23-13
@@ -21399,7 +21399,7 @@
 #}
 #5mo-7-2 {
  {
-  <i>du sollst keinen Bund mit ihnen machen</i> §jos-9-6-ff
+  <i>du sollst keinen Bund mit ihnen machen</i> §jos-9-6-ff, vgl §2mo-34-12
  }
 #}
 #5mo-7-3 {
@@ -22496,7 +22496,7 @@
 #}
 #5mo-21-23 {
  {
-  <i>Den Leichnam nicht am Holz lassen</i> §joh-19-38
+  <i>Den Leichnam nicht am Holz lassen</i> §joh-19-38, vgl §jos-10-27
  }
 #}
 @}
@@ -24322,12 +24322,18 @@
   TODO: <i>Garizim</i> und <i>Ebal</i> sind bei der Strasse gegen Sonnenuntergang, in der Ebene, Gilgal gegenüber, bei den Terebinthen Mores
   (<a href='http://bibel.renenyffenegger.ch/5mo_11.html#v29'>5.&nbsp;Mo&nbsp;11,29-30</a>).
  }
+ {
+  TODO: Hier wird nur erwähnt, daß das Volk gesegnet wird. Daß es verflucht wird, steht hier nicht. Es wird aber wohl durch das Gesetz verflucht, welches
+  im nächsten Vers vorgelesen wird.
+ <br>
+  Vgl aber mit der Verfluchung der Hetiter in §jos-9-23
+ }
 #}
 @}
 @Josua 9 {
 #jos-9-1 {
  {
-  Offenbar versammelten sich die Könige, als diese das <i>Gesetz hörten</i> (<a href='http://bibel.renenyffenegger.ch/jos_8.html#v34'>Jos 8,34-35</a>).
+  Offenbar versammelten sich die Könige, als diese das <i>Gesetz hörten</i> (<a href='http://bibel.renenyffenegger.ch/jos_8.html#v34'>Jos 8,34-35</a>). Vgl §Vjos-9-3
  }
  {
   TODO zusaetzliche_texte Nationen-in-Kanaan
@@ -24367,13 +24373,12 @@
 #}
 #jos-9-14 {
  {
-  TODO: Siehe <a class='kom' href='#Iri-1-1'>Ri&nbsp;1,1</a>.
+  Vgl §+ri-1-1.
  }
 #}
 #jos-9-15 {
  {
-  Gott befahl, sich davor zu hüten, einen Bund mit den Einwohnern des Landes zu schliessen, damit diese nicht zum Fallstrick werden
-  (<a href='http://bibel.renenyffenegger.ch/2mo_34.html#v12'>2.&nbsp;Mo&nbsp;34,12</a>).
+  Gott befahl, sich davor zu hüten, einen Bund mit den Einwohnern des Landes zu schliessen, damit diese nicht zum Fallstrick werden §2mo-34-12, vgl §5mo-7-2.
   <br>Weil Saul die Gibeoniter getötet hat, lag auf seinem Haus eine Blutschuld (<a href='http://bibel.renenyffenegger.ch/2sam_21.html#v1'>2.&nbsp;Sam&nbsp;21,1</a>).
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/5mo_20.html#v10'>5.&nbsp;Mo&nbsp;20,10-15</a>.
   <br>Beachte auch, dass sich Gibea zur 'bedeutensten Höhe' entwickelte (<a class='kom' href='#I1koe-3-4'>1.&nbsp;Kö&nbsp;3,4</a>).
@@ -24405,6 +24410,9 @@
  {
   Unter Nehemia gab es wohl diese <i>Holzhauer</i> nicht mehr, so dass die Juden selbst Holz spenden mussten §neh-10-35.
  }
+ {
+  TODO: Verfluchung der Hetiter, vgl §jos-8-33
+ }
 #}
 @}
 @Josua 10 {
@@ -24421,7 +24429,7 @@
 #}
 #jos-10-2 {
  {
-  Vgl <i>Gibeon</i>. doeVgl <i>Gibeon</i>, die große Stadt, wie eine der Königsstädte, mit <i>Hazor</i>, der Hauptstadt aller dieser Königreiche, §jos-11-10.
+   Vgl <i>Gibeon</i>, die große Stadt, wie eine der Königsstädte, mit <i>Hazor</i>, der Hauptstadt aller dieser Königreiche, §jos-11-10.
  }
 #}
 #jos-10-3 {
@@ -24446,6 +24454,11 @@
 #jos-10-6 {
  {
    → biblisches/Orte/Gilgal
+ }
+#}
+#jos-10-9 {
+ {
+  TODO: Josue kam plötzlich über sie, vgl mit «Wie ein Dieb in der Nacht» und/oder §offb-3-3
  }
 #}
 #jos-10-10 {
@@ -24489,6 +24502,9 @@
  {
   → biblisches/Buch-Jascher, §2sam-1-18
  }
+ {
+  Wie hat man die Zeit ohne Sonnenbewegung gemessen?
+ }
 #}
 #jos-10-14 {
  {
@@ -24513,6 +24529,9 @@
 #jos-10-27 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/An-eben-diesem-Tag
+ }
+ {
+  §5mo-21-23
  }
 #}
 #jos-10-28 {
@@ -26020,7 +26039,7 @@
   <i>Und es geschah nach dem Tod</i>: <a class='kom' href='#Ijos-1-1'>Jos&nbsp;1,1</a>.
  }
  {
-  TODO: Wurde in ganz Josua der HERR nicht befragt? Vgl <a href='http://bibel.renenyffenegger.ch/jos_9.html#v14'>Jos&nbsp;9,14</a>.
+  Wurde während der ganzen Zeit von Josua der HERR nicht befragt? Vgl §jos-9-14.
  }
 #}
 #ri-1-2 {
@@ -110324,6 +110343,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>wie du … gehört hast, und bewahre es</i> vgl §Voffb-3-8.
+ }
+ {
+  TODO: Vgl §jos-10-9
  }
 #}
 #offb-3-4 {
