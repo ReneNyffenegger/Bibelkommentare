@@ -24167,7 +24167,7 @@
   Vgl <i>Der Herr war mit Josua</i> mit <a href='http://bibel.renenyffenegger.ch/jos_7.html#v12'>Jos&nbsp;7,12</a>.
  }
  {
-  <i>Die Kunde verbreitete sich im ganzen Land</i>: vgl <a href='http://bibel.renenyffenegger.ch/mk_1.html#v28'>Mk&nbsp;1,28</a>.
+  <i>Die Kunde verbreitete sich im ganzen Land</i>: vgl §mk-1-28.
  }
 #}
 @}
@@ -67685,6 +67685,9 @@
  {
   Vgl <i>mein Sohn</i> mit «meine Tochter» in Vers 22.
  }
+ {
+  <i>Sei guten Muttes</i> §Vmt-9-22
+ }
 #}
 #mt-9-4 {
  {
@@ -67762,9 +67765,19 @@
   S.a <a href='http://bibel.renenyffenegger.ch/lk_5.html#v34'>Lk&nbsp;5,34</a>.
  }
 #}
-#mt-9-18 {
+#mt-9-16 {
  {
   §mk-2-21, §lk-5-36
+ }
+#}
+#mt-9-18 {
+ {
+  Dieser <i>Vorsteher</i> ist ein Vorsteher der Synagoge und heisst Jairus §lk-8-41
+ }
+#}
+#mt-9-20 {
+ {
+  §mk-5-25, §lk-8-43
  }
 #}
 #mt-9-21 {
@@ -67781,6 +67794,9 @@
    <a href='http://bibel.renenyffenegger.ch/lk_8.html#v48'>Lk&nbsp;8,48</a>,
    <a href='http://bibel.renenyffenegger.ch/lk_17.html#v19'>Lk&nbsp;17,19</a>,
    <a href='http://bibel.renenyffenegger.ch/lk_18.html#v42'>Lk&nbsp;18,42</a>.
+ }
+ {
+  <i>Sei gutes Mutes</i>: §Vmt-9-2, §mt-14-27, §mk-10-49
  }
 #}
 #mt-9-23 {
@@ -69224,6 +69240,9 @@
 #mt-14-27 {
  {
   §mk-6-50
+ }
+ {
+  <i>Seid gutes Mutes</i> vgl §mt-9-22
  }
 #}
 #mt-14-29 {
@@ -71727,7 +71746,7 @@
 #mt-27-19 {
  {
   <i>Richterstuhl</i> (<span class='gr'>βῆμα</span>, Strongs 968) kommt noch vor in
-  <a href='http://bibel.renenyffenegger.ch/joh_19.html#v13'>Joh&nbsp;19,13</a>,
+  §joh-19-13,
   <a href='http://bibel.renenyffenegger.ch/apg_7.html#v5'>Apg&nbsp;7,5</a> (TODO),
   <a href='http://bibel.renenyffenegger.ch/apg_12.html#v21'>Apg&nbsp;12,21</a>,
   <a href='http://bibel.renenyffenegger.ch/apg_18.html#v12'>Apg 18,12/16/17</a>,
@@ -72383,6 +72402,9 @@ sa:
  {
   §mt-4-24, §lk-4-37
  }
+ {
+  <i>Das Gerücht verbreitete sich</i>: §+jos-6-27.
+ }
 #}
 #mk-1-30 {
  {
@@ -72961,15 +72983,15 @@ sa:
 #}
 #mk-5-25 {
  {
+  §mt-9-20, §lk-8-43
+ }
+ {
   §+3mo-15-25.
  }
 #}
 #mk-5-28 {
  {
   Vgl mit §mk-6-56, wo alle gesund werden, die Ihn anrühren.
- }
- {
-  <i>Das Gerücht verbreitete sich</i>: <a class='kom' href='#Ijos-6-27'>Jos&nbsp;6,27</a>.
  }
 #}
 #mk-5-31 {
@@ -73245,6 +73267,9 @@ sa:
 #mk-6-50 {
  {
   §mt-14-27
+ }
+ {
+  <i>Seid gutes Mutes</i> vgl §mk-10-49
  }
 #}
 #mk-6-51 {
@@ -73944,6 +73969,11 @@ sa:
 #mk-10-47 {
  {
   Nachdem der Bettler hört, dass es «Jesus, der Nazarener» ist, ruft er «Jesus, du Sohn Davids». Vgl §+lk-18-37.
+ }
+#}
+#mk-10-49 {
+ {
+  <i>Sei gutes Mutes</i>: §mt-9-22, §mt-14-27
  }
 #}
 #mk-10-51 {
@@ -77087,12 +77117,17 @@ sa:
 #}
 #lk-8-41 {
  {
-  §mk-5-21
+  §mt-9-18, §mk-5-22
  }
 #}
 #lk-8-42 {
  {
   <i>eingeborene Tochter</i>: vgl §+lk-7-12
+ }
+#}
+#lk-8-43 {
+ {
+  §mt-9-20, §mk-5-25
  }
 #}
 #lk-8-45 {
@@ -77109,6 +77144,9 @@ sa:
  }
  {
   <i>geh hin in Frieden</i> vgl §+lk-7-50
+ }
+ {
+  <i>Sei gutes Mutes</i>: §mk-10-49
  }
 #}
 #lk-8-52 {
@@ -79556,12 +79594,17 @@ sa:
 #}
 #lk-23-3 {
  {
-  §mt-27-11, §mk-15-22, §joh-18-33
+  <i>Bist du der König der Juden</i>: §mt-27-11, §mk-15-2, §joh-18-33, vgl §Vlk-23-6
  }
 #}
 #lk-23-5 {
  {
   <i>anfangend von → biblisches/Orte/Galiläa</i> vgl §apg-10-37
+ }
+#}
+#lk-23-6 {
+ {
+  <i>ob der Mensch ein Galiläer sei</i> vgl §Vlk-23-3
  }
 #}
 #lk-23-7 {
@@ -83660,7 +83703,7 @@ sa:
 #}
 #joh-19-5 {
  {
-  Beachte: Hier sagt Pilatus <siehe, der Mensch» und die Reaktion ist: «Kreuzige, kreuzige ihn». In §Vjoh-19-14 sagt Pilatus «siehe, euer König» und die Reaktion ist «Hinweg, hinweg! Kreuzige ihn!»
+  Beachte: Hier sagt Pilatus «siehe, der Mensch» und die Reaktion ist: «Kreuzige, kreuzige ihn». In §Vjoh-19-14 sagt Pilatus «siehe, euer König» und die Reaktion ist «Hinweg, hinweg! Kreuzige ihn!»
  }
 #}
 #joh-19-7 {
@@ -83699,7 +83742,13 @@ sa:
 #}
 #joh-19-13 {
  {
-  <i>setzte sich</i>: Die Verbform <span class='gr'>εκαθισεν</span> ist nicht eindeutig und kann intransitiv oder transitiv (also etwa: Pilatus setzte [Jesus] auf den Richterstuhl) verstanden werden. (Mark Bradley, Jesus on the Judge's Seat: Adjudicating ἘΚΆΘΙΣΕΝ in John 19:13).
+  <i>setzte sich</i>: Die Verbform <span class='gr'>εκαθισεν</span> ist nicht eindeutig und kann intransitiv (Pilatus setzte sich) oder transitiv (also etwa: Pilatus setzte [Jesus] auf den Richterstuhl) verstanden werden. (Mark Bradley, Jesus on the Judge's Seat: Adjudicating ἘΚΆΘΙΣΕΝ in John 19:13).
+ }
+ {
+  TODO: Die intransitive Variante ist sehr interessant, da im Matthäusevangelium Jesus bereits in §mt-27-19 (also vor diesen Ereigenissen) bereits auf dem Richterstuhl sass.
+ }
+ {
+  <i>Richterstuhl</i> §mt-27-19
  }
 #}
 #joh-19-14 {
@@ -89456,6 +89505,9 @@ sa:
   <i>Zeugnis</i>: vgl <a class='kom' href='#Iapg-20-24'>Apg&nbsp;20,24</a>.
  }
  {
+  <i>gutes Mutes</i>: <span class='gr'>θαρσέω</span> (Strongs 2293), vgl §apg-27-22
+ }
+ {
   TODO: Das ist ja ein ungewähnlicher Trost. Hat 'getrost' im Griechischen etwas mit 'Trost' zu tun?
   Vgl <a class='kom' href='#Iapg-20-24'>Apg&nbsp;20,24</a>.
  }
@@ -89890,6 +89942,11 @@ sa:
 #apg-27-18 {
  {
   Beachte, hier werfen <i>sie</i> etwas aus dem Schiff heraus, im nächsten Vers <i>wir</i>.
+ }
+#}
+#apg-27-22 {
+ {
+  <i>gutes Mutes</i>: <span class='gr'>εὐθυμέω</span> (Strongs 2114), vgl §apg-23-11
  }
 #}
 #apg-27-23 {
