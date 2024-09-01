@@ -68246,6 +68246,9 @@
   §lk-7-24
  }
  {
+  <i>Einen Propheten? … mehr als einen Propheten</i>: §mt-14-5
+ }
+ {
   <i>Rohr</i>: <a class='kom' href='#Imt-12-18'>Mt&nbsp;12,18</a>.
  }
 #}
@@ -69133,6 +69136,9 @@
  }
 #}
 #mt-14-5 {
+ {
+  <i>Johannes für einen Propheten halten</i> vgl §mt-21-26, §mt-11-7
+ }
  {
   <i>Die Volksmenge fürchten</i>: §mt-21-26
  <br>
@@ -70329,7 +70335,7 @@
 #}
 #mt-21-26 {
  {
-  <i>→ biblisches/Personen/Johannes/Täufer[Johannes] für einen → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] halten</i> vgl §Vmt-21-46
+  <i>→ biblisches/Personen/Johannes/Täufer[Johannes] für einen → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] halten</i>, §mt-14-5, vgl §Vmt-21-46
  }
  {
   <i>Die Volksmenge fürchten</i>: §mt-14-5, §Vmt-21-46, §mk-11-18, §mk-11-32, §mk-12-12
@@ -71571,6 +71577,11 @@
    Malchus wird das rechte Ohr abgehauen. Vgl §mk-14-47, §lk-22-50, §joh-18-10, §+2mo-29-20.
  }
 #}
+#mt-26-52 {
+ {
+  <i>Stecke das Schwert wieder an seinen Ort</i> vgl §joh-18-11
+ }
+#}
 #mt-26-54 {
  {
   <i>Wie sollten denn die Schriften erfüllt werden</i> §mk-14-49
@@ -71811,6 +71822,9 @@
 #mt-27-29 {
  {
   §mk-15-18
+ }
+ {
+  <i>gaben ihm ein Rohr in seine Rechte</i>, vgl §mk-15-19
  }
  {
   <i>Sei gegrüßt, König der Juden</i> vgl §mt-26-49, §joh-19-3
@@ -74694,6 +74708,11 @@ sa:
   Der Satzteil <i>der mit Händen gemacht ist</i> wird in §joh-2-19-21, §mt-26-61 und §mt-27-40 nicht erwähnt.
  }
 #}
+#mk-14-60 {
+ {
+  <i>Antwortest du nichts?</i> §mk-15-4, vgl §joh-18-22
+ }
+#}
 #mk-14-61 {
  {
   Beachte: der Hohepriester, als Vertreter der Religionen, fragt, ob Er der Christus ist; Pilatus, als Vertreter der staatlichen Gewalt, möchte wissen, ob er der König der Juden ist (§mk-15-2).
@@ -74748,7 +74767,15 @@ sa:
 #}
 #mk-15-2 {
  {
+  §mt-27-11, §lk-23-3, §joh-18-33
+ }
+ {
   <i>Bist du der König der Juden</i> §+mk-14-61
+ }
+#}
+#mk-15-4 {
+ {
+  <i>Antwortest du nichts?</i> §mk-14-60, vgl §joh-18-22
  }
 #}
 #mk-15-5 {
@@ -74756,6 +74783,14 @@ sa:
   Pilatus wird sich auch darüber verwundern, dass Er schnell sterben wird: §Vmk-15-44
  <br>
   Vgl §mt-27-14
+ }
+#}
+#mk-15-7 {
+ {
+  §lk-23-19
+ }
+ {
+  TODO: <i>Aufstand</i> sollte evtl mit «Aufruhr» übersetzt werden (§+apg-23-7)
  }
 #}
 #mk-15-14 {
@@ -74788,6 +74823,9 @@ sa:
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/knien#knie-beugen[Knie beugen], vgl §roem-14-11, §eph-3-14
  }
+ {
+  <i>sie schlugen ihm mit einem Rohr auf das Haupt</i> vglk §mt-27-29
+ }
 #}
 #mk-15-21 {
  {
@@ -74798,9 +74836,6 @@ sa:
  }
 #}
 #mk-15-22 {
- {
-  §mt-27-11, §lk-23-3, §joh-18-33
- }
  {
   → biblisches/Orte/Golgatha: §mt-27-33, §joh-19-17
  }
@@ -74977,7 +75012,7 @@ sa:
 #}
 #mk-16-6 {
  {
-  <i>ihr sucht Jesus, … den Gekreuzigten</i> §mt-28-5. Vgl §lk-24-5: «Was sucht ihr den Lebendigen unter den Toten».
+  <i>ihr sucht Jesus, … den Gekreuzigten</i> §mt-28-5. Vgl §lk-24-5: «Was sucht ihr den Lebendigen unter den Toten»; §joh-20-15
  }
 #}
 #mk-16-7 {
@@ -75126,6 +75161,11 @@ sa:
  }
  {
   TODO: <i>nachgehen</i> <span class='gr'>παρακολουθέω</span> (Strongs 3877, 4x): <a class='kom' href='#Imk-16-17'>Mk&nbsp;16,17</a>.
+ }
+#}
+#lk-1-4 {
+ {
+  Vgl den hier geschilderten Grund der Abfassung des Lukasevangeliums mit jenem des Johannesevangeliums, §joh-20-30-31
  }
 #}
 #lk-1-5 {
@@ -79645,6 +79685,11 @@ sa:
    <span class='gt'>Vers fehlt in NA</span>.
  }
 #}
+#lk-23-19 {
+ {
+  Barabbas wegen eines Aufruhrs und wegen eines Mordes ins Gefängnis geworfen: §mk-15-7, §joh-18-40
+ }
+#}
 #lk-23-24 {
  {
   <i>Forderung</i>: <span class='gr'></span>αἴτημα</span> (Strongs 155, 3x): §+phil-4-6
@@ -83531,7 +83576,7 @@ sa:
   Sie kommen mit <i>Fackeln</i> zum Licht!
  }
  {
-  <i>Fackel</i> (<span class='gr'>בליעל</span>, Strongs 2985), dasselbe Wort wie für 'Lampen' in <a href='http://bibel.renenyffenegger.ch/mt_25.html#v1'>Mt&nbsp;25,1</a>.
+  <i>Fackel</i> (<span class='gr'>λαμπάς</span>, Strongs 2985), dasselbe Wort wie für «Lampen» in §mt-25-1.
  }
  {
   TODO: Jesus verbarg sich: <a class='kom' href='#Ijoh-12-36'>Joh&nbsp;12,36</a>.
@@ -83574,6 +83619,9 @@ sa:
  }
 #}
 #joh-18-11 {
+ {
+  <i>Stecke das Schwert in die Scheide</i> vgl §mt-26-52
+ }
  {
   TODO: Dies ist die einzige Stelle im Johannes Evangelium, wo der <i>Kelch</i> erwähnt wird.
   Dafür erwähnt Johannes als einziger, dass man Sein Fleisch essen und Sein Blut trinken muss, um ewiges Leben
@@ -83640,6 +83688,9 @@ sa:
 #}
 #joh-18-31 {
  {
+  <i>richtet ihn nach eurem Gesetz</i> §joh-19-7
+ }
+ {
   <i>Richten</i>: <a class='kom' href='#Ijoh-5-22'>Joh&nbsp;5,22</a>.
  }
  {
@@ -83663,7 +83714,7 @@ sa:
 #}
 #joh-18-33 {
  {
-  §mt-27-11, §mk-15-22, §lk-23-3
+  §mt-27-11, §mk-15-2, §lk-23-3
  }
 #}
 #joh-18-36 {
@@ -83681,12 +83732,12 @@ sa:
 #}
 #joh-18-38 {
  {
-  §apg-13-28
+  <i>Ich finde keinerlei Schuld an ihm</i> §joh-19-4, vgl §apg-13-28
  }
 #}
 #joh-18-40 {
  {
-  Barabbas war auch ein Mörder, §mk-15-6, §apg-3-14
+  Barabbas war auch ein Mörder, §mk-15-7, §lk-23-19, §apg-3-14
  }
 #}
 @}
@@ -83701,6 +83752,11 @@ sa:
   §mt-27-29, §mk-15-18
  }
 #}
+#joh-19-4 {
+ {
+  <i>daß ich keinerlei Schuld an ihm finde.</i> §joh-18-38, §Vjoh-19-6
+ }
+#}
 #joh-19-5 {
  {
   Beachte: Hier sagt Pilatus «siehe, der Mensch» und die Reaktion ist: «Kreuzige, kreuzige ihn». In §Vjoh-19-14 sagt Pilatus «siehe, euer König» und die Reaktion ist «Hinweg, hinweg! Kreuzige ihn!»
@@ -83708,7 +83764,9 @@ sa:
 #}
 #joh-19-7 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/joh_18.html#v31'>Joh&nbsp;18,31</a>.
+  <i>Wir haben ein Gesetz…</i> Vgl §joh-18-31.
+ }
+ {
   <br>Vgl auch <a class='kom' href='#Ijoh-5-18'>Joh&nbsp;5,18</a>.
   <br>TODO: Welches Gesetz war hier gemeint: <a href='http://bibel.renenyffenegger.ch/3mo_24.html#v16'>3.&nbsp;Mo&nbsp;24,16</a> und
    <a href='http://bibel.renenyffenegger.ch/5mo_18.html#v20'>5.&nbsp;Mo&nbsp;18,20</a>,
@@ -83932,6 +83990,9 @@ sa:
 #}
 #joh-20-15 {
  {
+  <i>Wen suchst du?</i> §+mk-16-6
+ }
+ {
   Beachte: Maria meint, es handle sich um den Gärtner und nennt ihn trotzdem <i>Herr</i>.
  }
 #}
@@ -83997,8 +84058,9 @@ sa:
  }
  {
   <i>auf dass ihr glaubt</i>: vgl §joh-1-7, → biblisches/Bücher/Evangelien/Johannes#grund-des-buches-joh
- }
- {
+ <br>
+  Vgl den hier erwähnten Grund der Abfassung des Johannesevangeliums mit jenem, der im Lukasevangelium genannt wird, §lk-1-1-4
+ <br>
   <i>Diese aber sind geschrieben…</i> vgl §1joh-5-13
  }
  {
@@ -84889,6 +84951,9 @@ sa:
  }
 #}
 #apg-3-14 {
+ {
+  <i>Ein Mann, der ein Mörder war</i> vgl §joh-18-40, §lk-23-7
+ }
  {
   <a class='kom' href='#Ijoh-1-11'>Joh&nbsp;1,11</a>.
  }
@@ -87614,6 +87679,9 @@ sa:
 #}
 #apg-15-2 {
  {
+  TODO <i>Zwiespalt</i>: §+apg-23-7
+ }
+ {
   TODO: Aber Paulus war doch Apostel. Respektive: wann wurde Paulus Apostel? Vgl Vers 22.
   <br>In <a href='http://bibel.renenyffenegger.ch/apg_14.html#v14'>Apg&nbsp;14,14</a> wurden Barnabas und Paulus <i>Apostel</i> genannt.
  }
@@ -89482,6 +89550,13 @@ sa:
  }
  {
   <i>Auferstehung</i>: §apg-1-22
+ }
+#}
+#apg-23-7 {
+ {
+  TODO: <i>Zwiespalt</i> sollte evtl mit «Aufruhr» (wie z. B. in §apg-19-40, §lk-23-19) übersetzt werden.
+ <br>
+  Vgl §apg-15-2
  }
 #}
 #apg-23-8 {
