@@ -8639,6 +8639,9 @@
  {
   <i>Die Söhne Rubens</i>: §1mo-46-9, §4mo-26-5, §1chr-5-3
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme#drei-erste-staemme[Die drei ersten Stämme]
+ }
 #}
 #2mo-6-15 {
  {
@@ -22414,6 +22417,11 @@
    Vgl §2mo-21-12
  }
 #}
+#5mo-19-14 {
+ {
+  <i>Du sollst nicht die Grenze deines Nächsten verrücken</i> vgl §5mo-27-17
+ }
+#}
 #5mo-19-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/zwei-oder-drei[zweier oder dreier] Zeugen: §+5mo-17-6
@@ -22864,6 +22872,11 @@
  {
   Beachte, die Leviten sind auf dem Berg Garizim zum segnen (<a href='http://bibel.renenyffenegger.ch/5mo_27.html#v12'>Vers 12</a>), und doch
   beginnt jeder Satz mit 'verflucht'.
+ }
+#}
+#5mo-27-17 {
+ {
+  Vgl §5mo-19-14
  }
 #}
 #5mo-27-18 {
@@ -25433,6 +25446,11 @@
   <i>Nach dem Befehl des HERRN ein Erbteil geben</i>: §+jos-15-13.
  }
 #}
+#jos-17-5 {
+ {
+  Das Wort, das hier mit <i>Anteil</i> übersetzt wird, wird in §Vjos-17-14 mit «Meßschnur» übersetzt.
+ }
+#}
 #jos-17-7 {
  {
   → biblisches/Orte/Sichem
@@ -25445,9 +25463,9 @@
    <br>TODO: Ahasja kommt mit seinem Wagen bei Gur bei Jibleam durch, bevor er in Megiddo erschlagen wird (<a href='http://bibel.renenyffenegger.ch/2koe_9.html#v27'>2.&nbsp;Kö&nbsp;9,27</a>).
  }
 #}
-#jos-17-13 {
+#jos-17-12 {
  {
-  Vgl die mächtig gewordenen Israeliten, die die Kanaaniter fronpflichtig gemacht hatten mit <a href='http://bibel.renenyffenegger.ch/ri_1.html#v28'>Ri&nbsp;1,28</a>.
+  §ri-1-27
  }
 #}
 #jos-17-16 {
@@ -25516,9 +25534,9 @@
 #jos-18-17 {
  {
   <i>Gelilot</i> <span class='hebr'>גְּלִילוֹת</span> (Strongs 1553) ist die Mehrzahl von <span class='hebr'>גְּלִילָה</span> (Strongs 1552), welches
-  in <a href='http://bibel.renenyffenegger.ch/jos_13.html#v2'>Jos&nbsp;13,2</a> mit  'Bezirke',
-  in <a href='http://bibel.renenyffenegger.ch/jos_22.html#v10'>Jos&nbsp;22,10</a> mit 'Gegend' und in
-  <a href='http://bibel.renenyffenegger.ch/hes_47.html#v8'>Hes&nbsp;47,8</a> mit 'Kreis'
+  in <a href='http://bibel.renenyffenegger.ch/jos_13.html#v2'>Jos&nbsp;13,2</a> mit  «Bezirke»,
+  in <a href='http://bibel.renenyffenegger.ch/jos_22.html#v10'>Jos&nbsp;22,10</a> mit «Gegend» und in
+  <a href='http://bibel.renenyffenegger.ch/hes_47.html#v8'>Hes&nbsp;47,8</a> mit «Kreis» übersetzt wird
  }
 #}
 #jos-18-21 {
@@ -26302,6 +26320,9 @@
 #}
 #ri-1-27 {
  {
+  §jos-17-12
+ }
+ {
   Beachte, mit Manasse und den folgenden Stämmen war der HERR nicht. Hat sich der HERR abgewendet, weil die Israeliten den Mann aus Vers 25 gehen liessen?
   Vgl <a class='kom' href='#Iri-1-19'>Vers 19</a> und <a class='kom' href='#Iri-1-24'>Vers 24</a>.
  }
@@ -26335,11 +26356,6 @@
  }
  {
   <i>Jibleam</i>: <a class='kom' href='#Ijos-17-11'>Jos&nbsp;17,11</a>.
- }
-#}
-#ri-1-28 {
- {
-  Vergleiche die erstarkten Israeliten, die die Kanaaniter fronpflichtig machten mit <a class='kom' href='#Ijos-17-13'>Jos&nbsp;17,13</a>.
  }
 #}
 #ri-1-32 {
