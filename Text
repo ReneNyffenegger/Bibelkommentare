@@ -23288,9 +23288,6 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
  }
  {
-  TODO: <i>letzte Tage</i>: siehe §+1mo-49-1.
- }
- {
   <i>Werke eurer Hände</i>: <a class='kom' href='#I5mo-2-7'>5.&nbsp;Mo&nbsp;2,7</a>.
  }
  {
@@ -23311,7 +23308,7 @@
 #}
 #5mo-32-5 {
  {
-  <i>verkehrtes und verdrehtes Geschlecht</i> vgl §phil-2-15, §apg-2-40
+  <i>verkehrtes und verdrehtes Geschlecht</i> vgl §V5mo-32-20, §phil-2-15, §apg-2-40
  }
 #}
 #5mo-32-6 {
@@ -23366,6 +23363,9 @@
  }
 #}
 #5mo-32-16 {
+ {
+  <i>Sie reizten ihn zur Eifersucht</i> §V5mo-32-21
+ }
  {
   <i>ihn erbittern</i> vgl §hebr-3-8-ff
  }
@@ -76019,6 +76019,9 @@ sa:
  {
   <i>und die höckerichten werden zu ebenen Wegen werden</i> vgl §lk-6-17
  }
+ {
+  <i>das Krumme</i>: <span class='gr'>σκολιός</span> (Strongs 4646), wird z. B. in §apg-2-40 mit «verkehrt» übersetzt.
+ }
 #}
 #lk-3-6 {
  {
@@ -92180,7 +92183,9 @@ sa:
 #}
 #roem-10-19 {
  {
-  <i>Zur Eifersucht reizen</i>: vgl §roem-11-11-14
+  <i>Ich will euch zur Eifersucht reizen über ein Nicht-Volk, über eine unverständige Nation will ich euch erbittern</i>, §5mo-32-21, vgl §roem-11-11-14.
+ <br>
+  Beachte, Israel hat den Herrn mit nicht-Göttern zur Eifersucht gereizt (§5mo-32-16), nun wird Israel vom Herrn mit einem nicht-Volk zur Eifersucht gereizt.
  <br>
   Diese <i>Reizung zur Eifersucht</i> hat Paulus wohl in §apg-13-45 durch das Blenden von Elymas (§apg-13-8-11) praktiziert.
  <br>
@@ -99675,6 +99680,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   TODO: <i>Lichter</i>: <span class='gr'>φωστήρ</span> (Strongs 5458, 2x), vgl <a class='kom' href='#Ioffb-21-11'>Offb&nbsp;21,11</a>.
+ }
+ {
+  TODO: Müsste nicht besser mit «inmitten eines verkehrten und verdrehten Geschlechts» übersetzt werden?
  }
 #}
 #phil-2-16 {
