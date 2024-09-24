@@ -16284,6 +16284,9 @@
 #}
 #3mo-25-32 {
  {
+  <i>Städte der Leviten…</i>: §4mo-35-2, §jos-21-2
+ }
+ {
   Hier einzige Erwähnung von <i>Leviten</i> im ganzen Levitikus. Neben Dan (<a href='http://bibel.renenyffenegger.ch/3mo_24.html#v11'>3.&nbsp;Mo&nbsp;24,11</a>)
   wird kein anderer Stamm in diesem Buch erwähnt.
  }
@@ -20382,6 +20385,9 @@
 @4. Mose 35 {
 #4mo-35-2 {
  {
+  Vgl §jos-21-2, §jos-14-4, §3mo-25-32
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme/Levi#levi-mitte-volk[Levi aus der Mitte des Volkes genommen]
  }
 #}
@@ -20395,13 +20401,18 @@
   Vgl mit dem Gebot in <a href='http://bibel.renenyffenegger.ch/2mo_20.html#v13'>2.&nbsp;Mo&nbsp;20,13</a>.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Zufluchtsstadt[Zufluchtsstädte]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zufluchtsstadt[Zufluchtsstädte], vgl §jos-20-2-ff
  }
  {
   6 Zufluchtsstädte sind eine weniger wie 7, und 48 (=6+42) Städte (§V4mo-35-7) sind eine weniger wie 7x7 Städte.
  }
  {
   TODO: Siehe auch <a href='http://bibel.renenyffenegger.ch/5mo_19.html#v2'>5. Mo 19,2 ff</a>.
+ }
+#}
+#4mo-35-7 {
+ {
+  <i>achtundvierzig Städte</i>: §jos-21-41
  }
 #}
 #4mo-35-12 {
@@ -25001,7 +25012,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme
  }
  {
-  <i>Kein Teil im Land für die Leviten</i> vgl §jos-21-2
+  <i>Kein Teil im Land für die Leviten, außer Städten zum Wohnen und deren Bezirken für ihr Vieh und für ihre Habe</i> vgl §jos-21-2, §4mo-35-2
  }
 #}
 #jos-14-6 {
@@ -25809,7 +25820,7 @@
 @Josua 20 {
 #jos-20-2 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Zufluchtsstadt[Zufluchtsstädte] siehe: <a class='kom' href='#I4mo-35-6'>4.&nbsp;Mo&nbsp;35,6</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zufluchtsstadt[Zufluchtsstädte], vgl §+4mo-35-6-ff
  }
 #}
 #jos-20-7 {
@@ -25845,7 +25856,7 @@
 #}
 #jos-21-2 {
  {
-  <i>…uns Städte zum Wohnen zu geben…</i> vgl §jos-14-4
+  <i>…uns Städte zum Wohnen zu geben…</i> vgl §jos-14-4, §4mo-35-2, §3mo-25-32
  }
  {
   <i>Weideplätze</i>: §+2sam-5-2.
@@ -25921,6 +25932,11 @@
  }
  {
   Sch2K übersetzt → biblisches/Eigene-Uebersetzung/Konkordanz/Zufluchtsstadt mit «Freistadt».
+ }
+#}
+#jos-21-41 {
+ {
+  <i>achtundvierzig Städte</i>: §4mo-35-7
  }
 #}
 #jos-21-43 {
