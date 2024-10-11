@@ -51543,6 +51543,11 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/spr_16.html#v2'>Spr&nbsp;16,2</a>.
  }
 #}
+#spr-16-27 {
+ {
+  <i>auf seinen Lippen ist es wie brennendes Feuer</i> vgl §jak-3-6
+ }
+#}
 #spr-16-28 {
  {
   <i>Verleumder</i> (<span class='hebr'>נִרְגָּן</span>, Strongs 5372, 4x) in Elberfelder mit «Ohrenbläser» übersetzt.
@@ -70139,6 +70144,11 @@
   Vgl <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig erlangen</i> mit <i>ewiges Leben erben</i> in Vers 29.
  }
 #}
+#mt-19-17 {
+ {
+  <i>halten</i>, <span class='gr'>τηρησον</span> (Strongs 5083): dieses Wort wird an anderen Orten mit «bewahren» übersetzt, vgl §joh-8-51
+ }
+#}
 #mt-19-19 {
  {
   <i>Du sollst deinen Nächsten lieben wie dich selbst</i> §mt-22-39, §+3mo-19-18, §3mo-19-34
@@ -72019,6 +72029,11 @@
   §mt-26-56
  }
 #}
+#mt-27-36 {
+ {
+  <i>bewachen</i>: §mt-28-4, §Vmt-27-54
+ }
+#}
 #mt-27-37 {
  {
   <i>Dieser ist der König der Juden</i>: §mt-2-2
@@ -72224,6 +72239,11 @@ sa:
  {
   TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/offb_1.html#v14'>Offb&nbsp;1,14</a>.
   Vgl Vers 4 mit <a href='http://bibel.renenyffenegger.ch/offb_1.html#v17'>Offb&nbsp;1,17</a>.
+ }
+#}
+#mt-28-4 {
+ {
+  <i>Hüter</i>: <span class='gr'>τηρουντες</span> (Strongs 5083), derselbe Wortstamm wie für «bewachen» in §mt-27-36 und §mt-27-54
  }
 #}
 #mt-28-5 {
@@ -72634,7 +72654,7 @@ sa:
 @Markus 2 {
 #mk-2-1 {
  {
-  → biblisches/Orte/Kapernaum
+  → biblisches/Orte/Kapernaum, im Haus, vgl §mk-9-33
  }
 #}
 #mk-2-2 {
@@ -73870,7 +73890,7 @@ sa:
   §mt-17-24
  }
  {
-  → biblisches/Orte/Kapernaum
+  → biblisches/Orte/Kapernaum, im Haus, vgl §mk-2-1
  }
 #}
 #mk-9-34 {
@@ -82253,6 +82273,8 @@ sa:
 #joh-8-51 {
  {
   <i>Wort bewahren</i>: vgl §joh-12-47, §joh-17-6
+  <br>
+  <i>… so wird er den Tod nicht sehen…</i> vgl §mt-19-17: das Wort, das hier mit «bewahren» übersetzt wird (<span class='gr'>τηρηση</span>, Strongs 5083) wird dort mit «halten» übersetzt. Ebenso §joh-9-16
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tod#tod-nicht-sehen[Tod nicht sehen]
@@ -82351,6 +82373,9 @@ sa:
  }
  {
   <i>nicht von Gott</i> vgl §+joh-3-2, §Vjoh-9-33
+ }
+ {
+  <i>Den Sabbat nicht halten</i>: siehe §+joh-8-51
  }
 #}
 #joh-9-17 {
@@ -106979,7 +107004,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>langsam zum Zorn</i>: §+neh-5-7, §+eph-4-26, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Der-HERR-ist-langsam-zum-Zorn-und-gross-an-Güte
  }
  {
-  <i>Daher, meine geliebten Brüder, sei jeder Mensch schnell zum Hören …</i> vgl mit §jak-2-5 «Hört, meine geliebten Brüder».
+  <i>Daher, meine geliebten Brüder, sei jeder Mensch schnell zum Hören …</i> vgl mit §jak-2-5 «Hört, meine geliebten Brüder» und §jak-3-1 «Seid nicht viele Lehrer…»
  }
 #}
 #jak-1-20 {
@@ -107179,6 +107204,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Jakobus 3 {
 #jak-3-1 {
  {
+  <i>Seid nicht viele Lehrer</i>, §jak-1-19
+ }
+ {
   Wer ist «wir»?
  }
  {
@@ -107202,6 +107230,16 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO <i>vollkommener Mann</i> ('τελειος ανηρ', Strongs 5046, 435) vgl mit <a class='kom' href='#Ieph-4-13'>Eph&nbsp;4,13</a>.
  }
 #}
+#jak-3-3 {
+ {
+  <i>Gebiss</i>: <span class='gr'>χαλινός</span>, Strongs 5469. Vgl mit «zügeln» (<span class='gr'>χαλιναγωγέω</span>, Strongs 6468) im vorangehenden Vers.
+ <br>
+  Vgl auch §offb-14-20
+ }
+ {
+  Beachte: Die Zügel («Gebisse»), die dazu dienen, den Leib des Pferdes zu lenken, wird <i>ins Maul</i> des Pferdes gelegt.
+ }
+#}
 #jak-3-5 {
  {
   Vgl §lk-6-45, §roem-3-14
@@ -107212,7 +107250,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-3-6 {
  {
-  <i>Umkreis</i> (<span class='gr'>τροχός</span>, Strongs 5164, 1x) eigtl: «Rad».
+  <i>Und die Zunge ist ein Feuer</i> vgl §spr-16-27
+ }
+ {
+  <i>Lauf</i> (<span class='gr'>τροχός</span>, Strongs 5164, 1x) eigtl: «Rad». In Sch2K mit «Umkreis», in KJV mit «course» übersetzt.
  }
 #}
 #jak-3-7 {
@@ -107248,6 +107289,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Sanftmut</i> §jak-1-21
+ }
+#}
+#jak-3-14 {
+ {
+  <i>bitterer Neid</i> vgl §jak-4-2, §Vjak-3-11
  }
 #}
 #jak-3-15 {
@@ -107295,6 +107341,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #jak-4-2 {
  {
   <i>ihr habt nichts</i> vgl §jak-1-4
+ }
+ {
+  <i>ihr neidet</i> vgl §jak-3-14
  }
  {
   <i>bitten</i>: <a class='kom' href='#Ijak-1-5'>Jak&nbsp;1,5</a>.
@@ -108324,6 +108373,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    Luther übersetzte hier mit «Hitze»
  }
  {
+  <i>Versuchung</i>: vgl §2petr-2-9: «der Herr weiß die Gottseligkeit aus der Versuchung zu retten</i> 
+ }
+ {
   <i>Geliebte</i>: <a class='kom' href='#Ijak-1-16'>Jak&nbsp;1,16</a>.
  }
  {
@@ -108909,6 +108961,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2petr-2-9 {
  {
   <i>Tag des Gerichts</i>: §2petr-3-7, §+mt-10-15
+ }
+ {
+  <i>Versuchung</i> vgl §1petr-4-12
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
@@ -110202,6 +110257,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #jud-1-21 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
+ }
+ {
+  <i>erhaltet</i>: <span class='gr'>τηρησατε</span>, Strongs 5083, wäre wohl konsistenter mit «bewahrt» übersetz, wie auch in §Vjud-1-1, 6 und 13.
  }
 #}
 #jud-1-22 {
@@ -111979,7 +112037,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>In <a href='http://bibel.renenyffenegger.ch/offb_20.html#v1'>Offb&nbsp;20,1</a> hat ein Engel den <i>Schlüssel des Abgrundes</i>.
  }
  {
-  <i>Abgrund</i> (<span class='gr'>ἄβυσσος</span>, Strongs 12): §+lk-8-31 und → biblisches/Eigene-Uebersetzung/Konkordanz/Tartaros (§2petr-2-4).
+  <i>Schlund</i>, <span class='gr'>φρέαρ</span>, Strongs 5421, wird in §lk-14-5, §joh-4-11 mit «Brunnen» übersetzt. Evtl. könnte dieses Wort in allen Versen konsistenter mit «Schacht» übersetzt werden.
+ }
+ {
+  <i>Abgrund</i> <span class='gr'>ἄβυσσος</span>, Strongs 12: §+lk-8-31 und → biblisches/Eigene-Uebersetzung/Konkordanz/Tartaros (§2petr-2-4).
  }
  {
   Das Tier steigt aus dem Abgrund (TODO: nicht aus dem 'Schlund es Abgrunds'): <a href='http://bibel.renenyffenegger.ch/offb_11.html#v7'>Offb&nbsp;11,7</a>,
@@ -113175,6 +113236,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-14-20 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten/Stadium, vgl §offb-21-16
+ }
+ {
+  <i>Gebisse der Pferde</i> §jak-3-3
  }
  {
   Vgl §ps-58-11
@@ -114559,7 +114623,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-22-7 {
  {
-  <i>Die sieben 'Glückselig'</i>: siehe <a class='kom' href='#Ioffb-1-3'>Offb&nbsp;1,3</a>.
+  <i>Die sieben 'Glückselig'</i> (und «die Worte der Weissagung bewahren»): siehe §+offb-1-3.
  }
 #}
 #offb-22-8 {
