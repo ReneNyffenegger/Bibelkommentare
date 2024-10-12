@@ -68017,6 +68017,9 @@
  {
   §mk-3-14-15, §lk-9-1
  }
+ {
+  <i>Gewalt über die unreinen Geister</i> vgl §mk-1-27
+ }
 #}
 #mt-10-2 {
  {
@@ -69864,6 +69867,11 @@
   Vgl mit dem Herrn, der «alles neu macht», §offb-21-5
  }
 #}
+#mt-17-14 {
+ {
+  §lk-9-38
+ }
+#}
 #mt-17-16 {
  {
   <i>Ich brachte ihn zu deinen Jüngern</i> vgl §mk-9-17
@@ -70046,6 +70054,9 @@
 #mt-18-20 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/zwei-oder-drei
+ }
+ {
+  <i>da bin ich in ihrer Mitte</i>: §+joh-20-19, §lk-22-27, §lk-24-36
  }
 #}
 #mt-18-22 {
@@ -72532,10 +72543,13 @@ sa:
 #}
 #mk-1-22 {
  {
-  §lk-4-32
+  §lk-4-32, vgl §+mt-7-28-29
  }
  {
-   <i>erstaunt über Seine Lehre</i> §+mt-7-28
+  Hier <i>lehrt</i> der Herr, wie einer der <i>Gewalt</i> hat, mit Gewalt gebietet er selbst den unreinen Geistern, §Vmk-1-27.
+ }
+ {
+  <i>erstaunt über Seine Lehre</i> §+mt-7-28
  }
 #}
 #mk-1-23 {
@@ -72566,7 +72580,10 @@ sa:
   §lk-4-36
  }
  {
-  <i>neue Lehre</i> vgl §mk-2-12
+  <i>neue Lehre</i> vgl §Vmk-2-12
+ }
+ {
+  Der Herr gebietet mit <i>Gewalt</i> den unreinen Geistern; den zwölf Jüngern gibt er Gewalt über die unreinen Geister, §mt-10-1
  }
 #}
 #mk-1-28 {
@@ -77601,12 +77618,15 @@ sa:
 #}
 #lk-9-38 {
  {
+  §mt-17-14
+ }
+ {
   <i>eingeborener Sohn</i>: vgl §+lk-7-12.
  }
 #}
 #lk-9-40 {
  {
-  Beachte, der Unbekannte in Vers 49 konnte Dämonen austreiben.
+  Beachte, der Unbekannte in §lk-9-49 konnte Dämonen austreiben.
  }
 #}
 #lk-9-41 {
@@ -77615,6 +77635,11 @@ sa:
  }
  {
   <i>verkehrt</i>: vgl §lk-23-2
+ }
+#}
+#lk-9-42 {
+ {
+  TODO: <i>unreiner Geist</i>: wird das Thema in §lk-11-24-ff wieder behandelt?
  }
 #}
 #lk-9-44 {
@@ -77996,6 +78021,9 @@ sa:
  {
   §mt-12-43
  }
+ {
+  TODO: Ist das eine Reprise von §lk-9-42
+ }
 #}
 #lk-11-26 {
  {
@@ -78297,7 +78325,7 @@ sa:
 #}
 #lk-12-42 {
  {
-  TODO: <i>Haushalter</i> <span class='gr'>οἰκονόμος</span> (Strongs 3623) kommt in den anderen Evangelien nicht vor. Im Lukas Evangelium kommt es
+  <i>Verwalter</i> <span class='gr'>οἰκονόμος</span> (Strongs 3623) kommt in den anderen Evangelien nicht vor. Im Lukas Evangelium kommt es
   noch vor in §lk-16-1, §+lk-16-3 und §lk-16-8.
   <br>Siehe auch §+roem-16-23.
  }
@@ -79646,6 +79674,9 @@ sa:
  {
   <i>wer ist größer?</i> vgl §joh-13-16, §+mt-20-26
  }
+ {
+  <i>Ich bin aber in eurer Mitte…</i> §+joh-20-19, §mt-18-20
+ }
 #}
 #lk-22-28 {
  {
@@ -79786,6 +79817,11 @@ sa:
  }
  {
   <i>eure Stunde</i> vgl §Vlk-22-14, vgl mit «meine Stunde» (die noch nicht gekommen ist), §joh-2-4
+ }
+#}
+#lk-22-55 {
+ {
+  <i>Petrus in der Mitte</i> vgl §apg-1-15
  }
 #}
 #lk-22-56 {
@@ -80202,7 +80238,7 @@ sa:
 #}
 #lk-24-36 {
  {
-  <i>Friede euch</i> §joh-20-19, vgl §lk-10-5
+  <i>Friede euch</i>, <i>Jesus in der Mitte</i> §joh-20-19, vgl §lk-10-5
  }
 #}
 #lk-24-38 {
@@ -84056,6 +84092,11 @@ sa:
   TODO: <a class='kom' href='#Imt-27-32'>Mt&nbsp;27,32</a>.
  }
 #}
+#joh-19-18 {
+ {
+  <i>Jesus in der Mitte</i>: §+joh-20-19
+ }
+#}
 #joh-19-20 {
  {
   Überschrift in drei Sprachen: vgl §lk-23-38
@@ -84248,6 +84289,11 @@ sa:
 #joh-20-19 {
  {
   <i>Friede euch</i> §lk-24-36, §+joh-14-27
+ }
+ {
+  <i>Jesus in der Mitte</i>: §joh-19-18, §mt-18-20, §lk-22-27, §lk-24-36
+  <br>
+   Vgl mit <i>Petrus in der Mitte</i>: §apg-1-15, §lk-22-55
  }
 #}
 #joh-20-21 {
@@ -84582,11 +84628,14 @@ sa:
 #}
 #apg-1-15 {
  {
-   Etwa 10 Mal mehr Personen wie Apostel. Oder 108 Personen und 12 Apostel?
+  Etwa 10 Mal mehr Personen wie Apostel. Oder 108 Personen und 12 Apostel?
  }
  {
-  TODO: Beachte: hier Petrus <i>mitten unter den Jüngern</i>, <a href='http://bibel.renenyffenegger.ch/apg_2.html#v14'>Apg&nbsp;2,14</a>
-  <i>zusammen mit den Elf</i>.
+  <i>Petrus in der Mitte</i>: vgl §lk-22-55
+ <br>
+  Hier stand Petrus <i>in der Mitte der Jünger</i>, in §apg-2-14 steht er <i>zusammen mit den Elf</i> auf.
+ <br>
+  Vgl mit <i>Jesus in der Mitte</i>, §+joh-20-19
  }
  {
   → biblisches/Grundtext/Wörter/epi-o-autos
@@ -84739,7 +84788,7 @@ sa:
 #}
 #apg-2-14 {
  {
-  <i>Zusammen mit den Elf</i>: <a class='kom' href='#Iapg-1-15'>Apg&nbsp;1,15</a>.
+  <i>Zusammen mit den Elf</i>: §+apg-1-15.
  }
 #}
 #apg-2-16 {
@@ -86075,6 +86124,9 @@ sa:
 #apg-7-51 {
  {
   Beachte: die «Lästerung des Geistes wird … nicht vergeben werden», §+mt-12-31.
+ }
+ {
+  <i>unbeschnitten an Herz</i> vgl §roem-2-29
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
@@ -90102,6 +90154,14 @@ sa:
   Das Wort ist verwandt mit 'berechnen': <a class='kom' href='#Ilk-14-28'>Lk&nbsp;14,28</a>.
  }
 #}
+#apg-26-12 {
+ {
+  <i>Vollmacht</i>: <span class='gr'>ἐπιτροπή</span> (Strongs 2011, 1x)
+ }
+ {
+  <i>mit Gewalt und Vollmacht</i>: Sch2K übersetzt mit «mit Vollmacht und Erlaubnis», KJV mit «with authority and commission».
+ }
+#}
 #apg-26-14 {
  {
   TODO: Beachte: Paulus scheint die Stimme erst zu hören, als (wenn?) er zu Boden fällt. Vgl mit Johannes, der erst die Stimme
@@ -91062,7 +91122,10 @@ sa:
 #}
 #roem-2-29 {
  {
-   <i>Lob</i>: Beachte, Juda (wovon Jude abstammt) bedeutet Lob, oder preisen (§1mo-29-35). Elberfelder übersetzt mit «Anerkennung», KJV mit «praise».
+  <i>Beschneidung am Herzen</i>: vgl §apg-7-51, §kol-2-11
+ }
+ {
+  <i>Lob</i>: Beachte, Juda (wovon Jude abstammt) bedeutet Lob, oder preisen (§1mo-29-35). Elberfelder übersetzt mit «Anerkennung», KJV mit «praise».
  }
  {
   <i>Im Verborgenen</i>: <span class='gr'>ἐν τῷ κρυπτῷ</span>, derselbe Ausdruck, wie zum Beispiel in §mt-6-4-ff. In Schlachter und Elberfelder mit «innerlich», in KJV mit «inwardly» übersetzt.
@@ -93355,14 +93418,15 @@ sa:
 #}
 #roem-16-23 {
  {
-   <i>Haushalter</i> <span class='gr'>οἰκονόμος</span> (Strongs 3623) (Hier eigentlich: Haushalter der Stadt) kommt in den Lehrbriefen noch vor in: <ul>
-      <li><a href='http://bibel.renenyffenegger.ch/1kor_4.html#v1'>1.&nbsp;Kor&nbsp;4,1-2</a> (Haushalter der Geheimnisse Gottes),
-      <li><a href='http://bibel.renenyffenegger.ch/gal_4.html#v2'>Gal&nbsp;4,2</a> (Haushalter Gottes)
-      <li><a href='http://bibel.renenyffenegger.ch/tit_1.html#v7'>Tit&nbsp;1,7</a> (Haushalter Gottes)
-      <li><a href='http://bibel.renenyffenegger.ch/1petr_4.html#v10'>1.&nbsp;Petr&nbsp;4,10</a>
-      (Haushalter der mannigfaltigen Gnade Gottes)
+  <i>Stadtverwalter</i>: <span class='gr'>ο οικονομος της πολεως</span>, Elberfelder übersetzt mit «Stadtrentmeister», KJV mit «chamberlain».
+  <br>
+       <span class='gr'>οἰκονόμος</span> (Strongs 3623) kommt in den Lehrbriefen noch vor in: <ul>
+      <li>§1kor-4-1-2 (Verwalter der Geheimnisse Gottes),
+      <li>§gal-4-2 (Verwalter)
+      <li>§tit-1-7 (Gottes Verwalter)
+      <li>§1petr-4-10 (Verwalter der mancherlei Gnade Gottes.)
    </ul>
-   <br>Daneben kommt dieses Wort nur noch im Lukas Evangelium vor: Siehe <a class='kom' href='#Ilk-12-42'>Lk&nbsp;12,42</a>.
+   Daneben kommt dieses Wort nur noch im Lukas Evangelium vor: Siehe §+lk-12-42, §lk-16-1-ff
  }
  {
   <i>Erastus</i>: in <a href='http://bibel.renenyffenegger.ch/apg_19.html#v22'>Apg&nbsp;19,22</a>, zusammen mit Timotheus, ein «Gehilfe von Paulus» genannt.
@@ -100601,6 +100665,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #kol-2-11 {
  {
   <i>Eine nicht mit Händen geschnittene Beschneidung</i> vgl mit dem Haus (§2kor-5-1), dem Zelt (§hebr-9-11) und dem Tempel (§mk-14-58), die  nicht mit Händen gemacht sind.
+ <br>
+  Vgl auch mit der <i>Beschneidung am Herzen</i> §roem-2-29
  }
 #}
 #kol-2-12 {
