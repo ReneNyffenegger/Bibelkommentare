@@ -70467,6 +70467,11 @@
   Vgl auch §ps-46-3
  }
 #}
+#mt-21-23 {
+ {
+  <i>Recht</i>: <span class='gr'>ἐξουσία</span> (Strongs 1849), wird in anderen Versen auch mit «Gewalt» übersetzt, z. B. §mt-7-29 oder §mt-28-18, vgl §mk-11-28, §joh-1-12, §1kor-8-9, §2thes-3-9, §hebr-13-10, §offb-22-4
+ }
+#}
 #mt-21-25 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
@@ -72310,7 +72315,7 @@ sa:
 #}
 #mt-28-18 {
  {
-  <i>Mir ist gegeben alle Gewalt</i> §lk-1-37
+  <i>Mir ist gegeben alle Gewalt</i>: §+lk-4-6, §lk-1-37, vgl §2kor-13-10
  }
 #}
 #mt-28-19 {
@@ -74298,6 +74303,11 @@ sa:
 #mk-11-26 {
  {
    <span class='gt'>Vers fehlt in NA.</span>
+ }
+#}
+#mk-11-28 {
+ {
+  <i>Recht</i>: §+mt-21-23
  }
 #}
 #mk-11-30 {
@@ -76316,6 +76326,11 @@ sa:
   TODO: Der Teufel zeigt dem Herrn <i>Die Reiche</i> und will ihm die <i>Macht</i> und ihre <i>
   Herrlichkeit</i> geben, doch dies gehört ihm bereits
   (<a href='http://bibel.renenyffenegger.ch/mt_6.html#v13'>Mt&nbsp;6,13</a>).
+ }
+#}
+#lk-4-6 {
+ {
+  <i>Ich will dir alle diese Gewalt… geben, denn mir ist sie gegeben</i> vgl §mt-28-18
  }
 #}
 #lk-4-9 {
@@ -79125,7 +79140,10 @@ sa:
 #}
 #lk-19-17 {
  {
-  <i>Im Geringten treu sein</i> §+lk-16-10
+  <i>Im Geringsten treu sein</i> §+lk-16-10
+ }
+ {
+  <i>Gewalt über zehn Städte</i> vgl §offb-2-26, §offb-13-7
  }
 #}
 #lk-19-21 {
@@ -80369,6 +80387,9 @@ sa:
  }
 #}
 #joh-1-12 {
+ {
+  <i>Recht</i>: §+mt-21-23
+ }
  {
   TODO <i>an seinen Namen glauben</i>: <a href='http://bibel.renenyffenegger.ch/joh_2.html#v23'>Joh&nbsp;2,23</a>
  }
@@ -84447,6 +84468,9 @@ sa:
  {
   <i>Zeiten oder Zeitpunkte</i> (<span class='gr'>χρονους η καιρους</span>, Strongs 5550 2228 2540) vgl §1thes-5-1, §+dan-2-21
   <br>Vgl §+mt-16-3.
+ }
+ {
+  Eine Online-Ausgabe der Elberfelder 1905 liest «in seine eigene Gewalt gesetzt», was aber falsch scheint. Elberfelder 1871 übersetzt ebenfalls mit «in seiner eigenen Gewalt».
  }
  {
   TODO: Offenbar ist der Ausdruck, der mit 'Sache' übersetzt wird, im Griechischen 'es ist nicht eures'.
@@ -92074,6 +92098,9 @@ sa:
 #}
 #roem-9-21 {
  {
+  <i>Macht</i>: <span class='gr'>ἐξουσία</span> (Strongs 1849), wird häufig auch mit «Gewalt» übersetzt, z. B. §mt-7-29 oder §mt-28-18.
+ }
+ {
   TODO: <i>Gefäss</i> als Synonym für Körper?: <a class='kom' href='#I2kor-4-7'>2.&nbsp;Kor&nbsp;4,7</a>.
   S.a. <a class='kom' href='#Imt-12-29'>Mt&nbsp;12,29</a>.
  }
@@ -94639,6 +94666,9 @@ sa:
 #}
 #1kor-8-9 {
  {
+  <i>Recht</i>: §+mt-21-23, §1kor-9-4
+ }
+ {
   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/roem_14.html#v13'>Röm&nbsp;14,13ff</a>.
  }
 #}
@@ -94675,6 +94705,11 @@ sa:
  {
   <i>untersuchen</i> <span class='gr'>ἀνακρίνω</span> (Strongs 350), wird auch als «verhören» übersetzt (zum Beispiel
   in <a href='http://bibel.renenyffenegger.ch/lk_23.html#v14'>Lk&nbsp;23,14</a>).
+ }
+#}
+#1kor-9-4 {
+ {
+  <i>Recht</i>: §+1kor-8-9
  }
 #}
 #1kor-9-6 {
@@ -94999,6 +95034,9 @@ sa:
  {
   <i>Um der Engel willen</i>: Weil die Engel geschlechtslos sind und unter Ihresgleichen kein Vorbild für Engel gibt die Haupt von anderen Engel sind?
   <br>S.a. <a class='kom' href='#I1kor-4-9'>1.&nbsp;Kor&nbsp;4,9</a>.
+ }
+ {
+  <i>Macht</i>: <span class='gr'>ἐξουσία</span> (Strongs 1849), wird häufig auch mit «Gewalt» übersetzt, z. B. §mt-7-29 oder §mt-28-18.
  }
 #}
 #1kor-11-12 {
@@ -97230,6 +97268,11 @@ sa:
 #2kor-13-5 {
  {
   <i>prüft euch selbst</i> vgl §1kor-11-28, §gal-6-4
+ }
+#}
+#2kor-13-10 {
+ {
+  <i>Gewalt, die der Herr gegeben hat</i> vgl §mt-28-18
  }
 #}
 #2kor-13-11 {
@@ -102211,6 +102254,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-3-9 {
  {
+  <i>Recht</i>: §+mt-21-23
+ }
+ {
   <i>Vorbild</i> <span class='gr'>τύπος</span>
   <br>
   <i>zum Vorbild geben</i> vgl §phil-3-17, §1thes-1-7, §1tim-4-12 , §tit-2-4, §1petr-5-3
@@ -106741,6 +106787,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: TR vs NA: Arghelger_Gedanken-zu-einzelnen-Versen-des-Hebräerbriefs-in-der-Schlachter-2000
  }
 #}
+#hebr-13-10 {
+ {
+  <i>Recht</i>: §+mt-21-23
+ }
+#}
 #hebr-13-11 {
  {
   <i>Blut, das in die Stiftshütte getragen wird</i>: <a class='kom' href='#I3mo-4-5'>3.&nbsp;Mo&nbsp;4,5</a>,
@@ -110920,7 +110971,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-2-26 {
  {
-  Hier einziger Ort, wo 'meine Werke' erwähnt werden?
+  <i>Gewalt über die Nationen</i> vgl §lk-19-17, §offb-13-7
+ }
+ {
+  Hier einziger Ort, wo «meine Werke» erwähnt werden?
  }
 #}
 #offb-2-27 {
@@ -112103,6 +112157,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <a href='http://bibel.renenyffenegger.ch/1thes_5.html#v8'>1.&nbsp;Thes&nbsp;5,8</a>.
  }
 #}
+#offb-9-10 {
+ {
+  <i>ihre Gewalt ist in ihren Schwänzen</i> vgl §Voffb-9-19
+ }
+#}
 #offb-9-11 {
  {
   <i>Abaddon</i> (<span class='gr'>Ἀβαδδών</span>, Strongs 3): siehe <a class='kom' href='#Ihi-26-6'>Hi&nbsp;26,6</a>.
@@ -112184,6 +112243,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <a href='http://bibel.renenyffenegger.ch/offb_19.html#v20'>Offb&nbsp;19,20</a>
   <a href='http://bibel.renenyffenegger.ch/offb_20.html#v10'>Offb&nbsp;20,10</a>
   <a href='http://bibel.renenyffenegger.ch/offb_21.html#v8'>Offb&nbsp;21,8</a>.
+ }
+#}
+#offb-9-19 {
+ {
+  <i>die Gewalt der Pferde ist in ihrem Maul und in ihren Schwänzen</i> vgl §Voffb-9-10
  }
 #}
 #offb-9-20 {
@@ -112814,10 +112878,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-13-7 {
  {
-  Vgl <i>jeden Volksstamm, jede sprache, jede Nation</i> mit <a href='http://bibel.renenyffenegger.ch/offb_14.html#v6'>Offb&nbsp;14,6</a>.
+  Vgl <i>jeden Volksstamm, jede Sprache, jede Nation</i> mit <a href='http://bibel.renenyffenegger.ch/offb_14.html#v6'>Offb&nbsp;14,6</a>.
  }
  {
-   Frage: wenn die Heiligen schon entrückt worden sind, wer sind denn diese Heiligen hier?
+  <i>Gewalt über jeden Stamm und Volk und Sprache und Nation</i> vgl §offb-2-26
+ }
+ {
+  TODO: Frage: wenn die Heiligen schon entrückt worden sind, wer sind denn diese Heiligen hier?
  }
  {
   Vgl mit Brüdern, die überwinden: <a class='kom' href='#Ioffb-12-11'>Offb&nbsp;12,11</a>, <a class='kom' href='#Ioffb-2-7'>Offb&nbsp;2,7</a>.
@@ -113292,8 +113359,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
       Denn wahrhaftig und gerecht sind seine Gerichte; denn er hat die große Hure gerichtet, welche die Erde verderbte mit ihrer Unzucht, und hat das Blut seiner Knechte von ihrer Hand gefordert!  (§offb-19-1-2)
  }
  {
-  Das <i>Lied des Mose</i> ist wohl jenes in <a class='kom' href='#I5mo-31-19'>5.&nbsp;Mo&nbsp;31,19</a> bis <a class='kom' href='#I5mo-32-44'>5.&nbsp;Mo&nbsp;32,44</a>.
-  <br><i>Lied des Mose und das Lied des Lammes</i>: <a class='kom' href='#Ioffb-5-9'>Offb&nbsp;5,9</a>.
+  Das <i>Lied des Mose</i> ist wohl jenes in §+5mo-31-19 bis §+5mo-32-44 oder vielleicht §2mo-15-1-ff.
+ <br>
+   <i>Lied des Lammes</i>: vgl mit dem <i>neuen Lied</i> in §+offb-5-9-
  }
  {
   <i>König der Nationen</i>: <a class='kom' href='#Ijer-10-7'>Jer&nbsp;10,7</a>.
@@ -114590,6 +114658,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-22-4 {
  {
   <i>Name auf der Stirn</i>: §+offb-14-1.
+ }
+ {
+  <i>Recht</i>: §+mt-21-23
  }
  {
   <i>sein Angesicht sehen</i>, vgl §offb-1-7, §mt-18-10muss
