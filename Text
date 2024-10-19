@@ -3896,7 +3896,7 @@
 #}
 #1mo-19-5 {
  {
-  Dieselbe Wendung findet sich auch in <a href='http://bibel.renenyffenegger.ch/ri_19.html#v22'>Ri&nbsp;19,22</a>.
+  <i>Bring … heraus …, damit wir sie erkennen</i>: §ri-19-22.
  }
 #}
 #1mo-19-7 {
@@ -3915,7 +3915,10 @@
   Lot wurde durch den zügellosen Lebenswandel der Frevler geplagt (<a href='http://bibel.renenyffenegger.ch/2petr_2.html#v7'>2.&nbsp;Petr&nbsp;2,7</a>).
  }
  {
-  'den Richter spielen' vgl <a href='http://bibel.renenyffenegger.ch/1mo_18.html#v25'>1.&nbsp;Mo&nbsp;18,25</a>: der Richter der Erde wird gerecht richten.
+  <i>will den Richter machen</i> (in Sch2K mit «will den Richter spielen» übersetzt) vgl §1mo-18-25: der Richter der Erde wird gerecht richten.
+ }
+ {
+  <i>sie drangen hart ein</i> vgl §ri-19-7
  }
 #}
 #1mo-19-14 {
@@ -7340,6 +7343,8 @@
  {
   300 Silberlinge sind <i>15 Mal</i> der Preis, mit dem Joseph verkauft wurde, §1mo-37-28.
   Joseph gibt hier insgesamt <i>15 Wechselkleider</i>: 10 x 1 und 5 für Benjamin.
+ <br>
+  Interessanterweise wurde Joseph, bevor er verkauft wurde, das Kleid (ein Leibrock), von seinen Brüdern ausgezogen, §1mo-37-23
  }
 #}
 @}
@@ -27471,7 +27476,7 @@
 #}
 #ri-17-7 {
  {
-  Hier wird in <i>Levit</i> aus → biblisches/Orte/Bethlehem[Bethlehem]-Juda erwähnt, in §ri-19-1 ein <i>levitscher Mann</i>, der sich eine Nebenfrau aus Bethlehem-Juda nahm.
+  Hier wird in <i>Levit</i> aus → biblisches/Orte/Bethlehem[Bethlehem]-Juda erwähnt, in §ri-19-1 ein <i>levitscher Mann</i>, der sich eine Nebenfrau aus Bethlehem-Juda nahm, vgl §+rt-1-1.
  }
  {
   TODO: Frage: wie ist's denn möglich, dass ein Judäer ein Levit ist?
@@ -27577,7 +27582,7 @@
 @Richter 19 {
 #ri-19-1 {
  {
-  Hier nimmt ein <i>levitischer</i> Mann eine Nebenfrau aus → biblisches/Orte/Bethlehem[Bethlehem]-Juda, in §ri-17-7 wird ein <i>Levit</i> aus Bethlehem-Juda erwähnt.
+  Hier nimmt ein <i>levitischer</i> Mann eine Nebenfrau aus → biblisches/Orte/Bethlehem[Bethlehem]-Juda, in §ri-17-7 wird ein <i>Levit</i> aus Bethlehem-Juda erwähnt, vgl §+rt-1-1.
  }
  {
   <i>Zu jener Zeit</i>: <a class='kom' href='#Iri-17-6'>Ri&nbsp;17,6</a>.
@@ -27591,6 +27596,9 @@
  }
 #}
 #ri-19-2 {
+ {
+  <i>vier Monate</i>: §ri-20-47
+ }
  {
   Beachte: die Wendung, die hier mit <i>volle vier Monate lang</i> übersetzt wird, ist im Hebräischen
   <span class='hebr'>יָמִים אַרְבָּעָה חֳדָשִֽׁים</span>, bis auf ein Wav dieselbe wie in <a class='kom' href='#I1sam-27-7'>1.&nbsp;Sam&nbsp;27,7</a>
@@ -27611,10 +27619,15 @@
   <i>Das Herz mit einem Bissen Brot stärken</i>: vgl <a href='http://bibel.renenyffenegger.ch/ps_104.html#v15'>Ps&nbsp;104,15</a>.
  }
 #}
+#ri-19-7 {
+ {
+  <i>drang … in ihn</i> vgl §1mo-19-9
+ }
+#}
 #ri-19-10 {
  {
-  TODO: Diese Geschichte spielt wohl <i>vor</i> <a href='http://bibel.renenyffenegger.ch/ri_1.html#v7'>Ri 1,7-21</a>, da hier die Stadt noch <i>Jebus</i> genannt wird, dort aber
-  bereits <i>Jerusalem</i>. Beachte auch, dass in Vers 12 steht, dass es eine Fremde Stadt ist, was nicht ganz stimme würde, ab dem Zeitpunkt, wo Juda Jerusalem erobert haben (<a href='http://bibel.renenyffenegger.ch/ri_1.html#v8'>Ri&nbsp;1,8</a>).
+  Diese Geschichte spielt wohl <i>vor</i> §ri-1-7-21, da hier die Stadt noch <i>Jebus</i> genannt wird, dort aber
+  bereits <i>Jerusalem</i>. Beachte auch, daß in §Vri-19-12 erwähnt, daß es eine <i>Stadt der Fremden</i> ist, was ab dem Zeitpunkt nicht ganz stimme würde, wo Juda Jerusalem erobert haben (§ri-1-8).
  }
 #}
 #ri-19-12 {
@@ -27640,20 +27653,27 @@
 #}
 #ri-19-18 {
  {
+  <i>wandle mit dem Haus Gottes</i>: Sch2K übersetzt mit «ziehe zum Haus Gottes», KJV mit «am now going to the house of the LORD».
+ }
+ {
   Er antwortet erst auf die zweite Frage, dann auf die erste Frage.
  }
  {
-  Möglicherweise hatte er vor, zum Haus des Herrn zu gehen, um für die erfolgreiche Rüchholung seiner Frau zu danken. Vgl aber <a href='http://bibel.renenyffenegger.ch/ri_19.html#v28'>Ri&nbsp;19,28</a>.
+  Möglicherweise hatte er vor, zum Haus des Herrn zu gehen, um für die erfolgreiche Rückholung seiner Frau zu danken. Vgl aber <a href='http://bibel.renenyffenegger.ch/ri_19.html#v28'>Ri&nbsp;19,28</a>.
+ }
+ {
+  TODO: Von <i>Bethlehem</i> (Vers 1) kommt König David, von <i>Gibea</i> König Saul (<a href='https://x.com/DrPJWilliams/status/1163595557769756673'>twitter</a>).
+ <br>
  }
 #}
-#ri-19-20 {
+#ri-19-21 {
  {
   <i>gab</i> Futter: eigentlich etwa: «vermengte/vermischte» Futter (<span class='hebr'>יָּ֖בָול</span>< Strongs 1101)
  }
 #}
 #ri-19-22 {
  {
-  Dieselbe Wendung findet sich auch in <a class='kom' href='#I1mo-19-5'>1.&nbsp;Mo&nbsp;19,5</a>.
+  <i>Bring … heraus …, damit wir ihn erkennen</i>: §1mo-19-5
  }
 #}
 #ri-19-24 {
@@ -27677,7 +27697,7 @@
 #}
 #ri-19-28 {
  {
-  Er zog nicht zum Haus Gottes, wie er es erst vorgehabt hatte. (<a href='http://bibel.renenyffenegger.ch/ri_19.html#v18'>Ri&nbsp;19,18</a>).
+  Er zog nicht zum Haus Gottes, wie er es erst vorgehabt hatte, §Vri-19-18.
  }
 #}
 #ri-19-29 {
@@ -27798,6 +27818,9 @@
 #}
 #ri-20-47 {
  {
+  <i>vier Monate</i>: §ri-19-2
+ }
+ {
   <a class='kom' href='#Iri-21-12'>Ri&nbsp;21,12</a>.
  }
 #}
@@ -27829,10 +27852,10 @@
   → biblisches/Orte/Sichem
  }
  {
-  <i>Lebona</i>, offenbar dasselbe Wort wie für 'Weihrauch', siehe <a class='kom' href='#I2mo-30-34'>2.&nbsp;Mo&nbsp;30,34</a>.
+  <i>Lebona</i>, offenbar dasselbe Wort wie für «Weihrauch», siehe <a class='kom' href='#I2mo-30-34'>2.&nbsp;Mo&nbsp;30,34</a>.
  }
  {
-  <i>Von Jahr zu Jahr</i>: <span class='he'>מִיָּמִים יָמִימָה</span>: <a class='kom' href='#I2mo-13-10'>2.&nbsp;Mo&nbsp;13,10</a>.
+  <i>Von Jahr zu Jahr</i>: <span class='he' dir='rtl'>מִיָּמִים יָמִימָה</span>: §+2mo-13-10.
  }
 #}
 #ri-21-25 {
@@ -27846,7 +27869,7 @@
 @Ruth 1 {
 #rt-1-1 {
  {
-  → biblisches/Orte/Bethlehem
+  Mit einem Mann aus → biblisches/Orte/Bethlehem beginnt das Buch Ruth; in den beiden letzten Geschichten aus dem Buch der Richter spielt eine <i>Nebenfrau aus Bethlehem-Juda</i> (§ri-19-1) und ein <i>Levit aus Bethlehem</i> (§ri-17-7) eine Rolle.
  }
 #}
 #rt-1-2 {
