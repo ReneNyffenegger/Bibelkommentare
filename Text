@@ -5406,6 +5406,11 @@
    TODO: Dieser Vers enthält <span class='hebr'>אֲחָדִים</span>&lrm;: <a class='kom' href='#I1mo-11-1'>1.&nbsp;Mo&nbsp;11,1</a>.
  }
 #}
+#1mo-29-24 {
+ {
+  Vgl §1mo-46-18, §1mo-30-7
+ }
+#}
 #1mo-29-28 {
  {
   'Woche': siehe <a class='kom' href='#Idan-9-24'>Dan&nbsp;9,24</a>.
@@ -5487,6 +5492,11 @@
  {
   Gott hat Bilha recht verschafft, und Dan «wird sein Volk richten» (<a href='http://bibel.renenyffenegger.ch/1mo_49.html#v16'>1.&nbsp;Mo&nbsp;49,16</a>) (TODO: Beides diesselben Wörter
   im Hebräischen)
+ }
+#}
+#1mo-30-7 {
+ {
+  <i>Bilha, die Magd Rahels</i> vgl §1mo-29-24, §1mo-35-25, §1mo-46-25
  }
 #}
 #1mo-30-11 {
@@ -6174,6 +6184,9 @@
  }
 #}
 #1mo-35-25 {
+ {
+  <i>Bilha, die Magd Rahels</i>: §+1mo-30-7
+ }
  {
   In <a href='http://bibel.renenyffenegger.ch/1chr_7.html#v13'>1.&nbsp;Chr&nbsp;7,13</a> werden auch die Söhne Naphtalis
   'Söhne Bilhas' genannt.
@@ -7440,6 +7453,9 @@
   §4mo-26-19, §1chr-2-3-5
  }
  {
+  <i>Er</i> und <i>Onan</i> werden bei der Zählung von Leas Söhnen, die sich auf 33 beläuft (§V1mo-46-15), nicht berücksichtigt, vgl §V1mo-46-27.
+ }
+ {
   <i>Hezron</i> starb in Kaleb-Ephrata (<a href='http://bibel.renenyffenegger.ch/1chr_2.html#v24'>1.&nbsp;Chr&nbsp;2,24</a>).
   <br>Frage: Kann daraus geschlossen werden, dass er gar nicht nach Ägypten ging, oder danach wieder zurückkam?
   <br>Hezron ist in der Linie des Christus (<a href='http://bibel.renenyffenegger.ch/lk_3.html#v33'>Lk&nbsp;3,33</a>).
@@ -7461,9 +7477,22 @@
   <i>Tola</i> (<span class='hebr'>תּוֹלָע</span>, Strongs 8439) bedeutet «Wurm». Vgl <a class='kom' href='#Iri-10-1'>Ri&nbsp;10,1</a>.
  }
 #}
+#1mo-46-15 {
+ {
+  <i>und Dina, seine Tochter</i>: <span class='hebr'>וְאֵ֖ת דִּינָ֣ה בִתּ֑וֹ</span>. Gemäss Talmud (<a href='https://www.talmud.de/tlmd/talmud-uebersetzung/baba-batra/bawa-batra-kapitel-6-bis-10/#daf_123a'>Traktat Bawa Batra 123 a</a> und/oder
+  <a href='https://en.wikipedia.org/wiki/Hiyya_the_Great'>Rabbi Hiyya</a>) kann dies auch so verstanden werden: «und, neben Dina, (Lea gebar) seine Tochter» (also daß Dina eine namentlich nicht genannte Schwester hatte).
+ <br>
+  Wenn dies stimmt, können die Zahlen in diesem Kapitel gut harmonisiert werden (James Bejon).
+ }
+#}
 #1mo-46-17 {
  {
   TODO: Hier insgesamt 16 Personen aufgezählt, aber eine davon ist eine Schwester (Serach), nicht ein Sohn.
+ }
+#}
+#1mo-46-18 {
+ {
+  <i>Silpa, die Lea gegeben wurde</i> vgl §1mo-29-24, §V1mo-46-25
  }
 #}
 #1mo-46-19 {
@@ -7495,9 +7524,14 @@
   §1chr-7-13
  }
 #}
+#1mo-46-25 {
+ {
+  <i>Bilha, Rahel gegeben wurde</i> vgl §+1mo-30-7, §V1mo-46-18, §1chr-7-13
+ }
+#}
 #1mo-46-26 {
  {
-  33+16 (Serach mitzählen: es werden Seelen gezählt)+14+7+1 (Dina auch mitzählen) - 3 (Jakob und seine Söhne bereits in Ägypten) -2 (Er und Onan bereits gestorben)= 66.
+  TODO 33+16 (Serach mitzählen: es werden Seelen gezählt)+14+7+1 (Dina auch mitzählen) - 3 (Jakob und seine Söhne bereits in Ägypten) -2 (Er und Onan bereits gestorben)= 66.
   Offensichtlich werden Er und Onan, die gestorben sind, hinzugezählt. Vgl aber auch <a class='kom' href='#I1mo-46-7'>1.&nbsp;Mo&nbsp;46,7</a>.
  }
  {
@@ -7506,7 +7540,21 @@
 #}
 #1mo-46-27 {
  {
-  Die 70 sind wohl die 66 + Ephraim + Manasse + Joseph + Jakob. Vgl mit §2mo-1-5 und §5mo-10-22.
+  70 = 33+16+14+7. Beachte 33+16 = 49 = 7*7, 14+7 = 21 = 3*7.
+ <br>
+  Jakob diente Laban zwei mal sieben Jahre.
+ <br>
+  Von Bilha werden 7 Nachkommen, von Rahel 2*7, von den Söhnen Silpas (Gad und Asser) jeweils je 7 Nachkommen genannt.
+ <br>
+  Die Zahl 7 kommt etwas indirekt in Beerseba in §V1mo-46-1 vor.
+ <br>
+  7 Frauen werden genannt: Lea, Dina, Silpa, Serach, Asnath, Rahel und Bilha.
+ }
+ {
+  TODO: 70 = 33 + 16 + 14 + 7: Die Frauen, Jakob, Er und Onan (die in Kanan gestorben sind) werden also nicht mitgezählt, Manasse und Ephraim, die in Ägypten geboren wurden, werden mitgezählt.
+ }
+ {
+  TODO: Die 70 sind wohl die 66 + Ephraim + Manasse + Joseph + Jakob. Vgl mit §2mo-1-5 und §5mo-10-22.
    <br>Vgl §apg-7-14: Die Verwandtschaft Jakobs: 75 Seelen.
    <br>Beachte auch, dass die → biblisches/Grundtext/LXX in diesem Vers auch von 75 Personen redet (→ biblisches/Grundtext/LXX-vs-masoretischer-Text#lxx-vs-ms-70-vs-75[LXX vs masoretischer Text]).
  }
@@ -20050,6 +20098,9 @@
 #}
 #4mo-32-39 {
  {
+  <i>Machir</i>: vgl §1chr-2-21
+ }
+ {
   TODO: Beachte, dass Gilead ein Enkel Manasses war.
  }
  {
@@ -20059,6 +20110,11 @@
 #4mo-32-40 {
  {
   Machir erhält Gilead: vgl <a href='http://bibel.renenyffenegger.ch/5mo_3.html#v15'>5.&nbsp;Mo&nbsp;3,15</a>.
+ }
+#}
+#4mo-32-41 {
+ {
+  <i>Jair</i> vgl §1chr-2-22
  }
 #}
 #4mo-32-42 {
@@ -36318,6 +36374,16 @@
   → biblisches/Personen/Bezaleel[Bezaleel]
  }
 #}
+#1chr-2-21 {
+ {
+  <i>Machir</i>: vgl §4mo-32-39-40
+ }
+#}
+#1chr-2-22 {
+ {
+  <i>Jair</i> vgl §4mo-32-41
+ }
+#}
 #1chr-2-23 {
  {
   TODO: <i>Kenat</i> siehe <a class='kom' href='#I4mo-32-42'>4.&nbsp;Mo&nbsp;32,42</a>.
@@ -36597,7 +36663,7 @@
 @1. Chronik 4 {
 #1chr-4-1 {
  {
-  <i>Karmi</i> scheint ein anderer Name für Kelubai resp. Kaleb zu sein, vgl §1chr-2-9, §1chr-2-18-20.
+  <i>Karmi</i> scheint ein anderer Name für Kelubai resp. Kaleb zu sein, vgl §1chr-2-9, §1chr-2-18-20. Es gibt aber auch einen Karmi aus dem Stamm Juda: §jos-7-1, §1chr-2-7 (der Vater Achans, der Israel in Trübsal brachte).
  }
  {
   <i>Schobal</i> §1chr-2-50
@@ -37348,7 +37414,9 @@
 #}
 #1chr-7-13 {
  {
-  §1mo-46-24
+  <i>Die Söhne Naphtalis</i>: §1mo-46-24
+ <br>
+  <i>Die Söhne Bilhas</i> vgl §1mo-46-25
  }
 #}
 #1chr-7-15 {
@@ -86054,9 +86122,6 @@ sa:
   (→ biblisches/Grundtext/LXX-vs-masoretischer-Text#lxx-vs-ms-70-vs-75[LXX vs masoretischer Text]).
   <br>
   Vgl auch §1mo-46-26: 66 Seelen.
-
- }
- {
  }
  {
   Beachte: hier taucht die Zahl 75 auf, und beim Auszug Abrahams aus Haran (§Vapg-7-4, §1mo-12-4)
