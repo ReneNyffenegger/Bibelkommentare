@@ -2345,13 +2345,13 @@
   <i>Das Gebiet der Kanaaniter</i> §1mo-12-6
  }
  {
-  TODO: <i>Gaza</i> (<span class='hebr'>עַזָּה</span>, Strongs 5804), wohl als 'Azzah' ausgesprochen. Entsrpechend in KJV
+  Ist <i>Lescha</i> <span class='hebr'>לֶשַׁע</span> (Strongs 3962, Elberfelder: «Lascha») dieselbe Stadt wie «Leschem» in §+jos-19-47?
+ }
+ {
+  TODO: <i>Gaza</i> (<span class='hebr'>עַזָּה</span>, Strongs 5804), wohl als 'Azzah' ausgesprochen. Entsprechend in KJV
   in <a href='http://bibel.renenyffenegger.ch/5mo_2.html#v23'>5.&nbsp;Mo&nbsp;2,23</a>,
   <a href='http://bibel.renenyffenegger.ch/1koe_5.html#v4'>1.&nbsp;Kö&nbsp;5,4</a> (1. Kö 4:24), <a href='http://bibel.renenyffenegger.ch/jer_25.html#v20'>Jer&nbsp;25,20</a>
   mit 'Azzah' übersetzt.
- }
- {
-  TODO: Ist <i>Lascha</i> <span class='hebr'>לֶשַׁע</span> (Strongs 3962) = 'Lesem' in <a class='kom' href='#Ijos-19-47'>Jos&nbsp;19,47</a>?
  }
 #}
 #1mo-10-21 {
@@ -3548,6 +3548,9 @@
  {
   Hagar soll ihrem Sohn den Namen Ismael geben, in <a href='http://bibel.renenyffenegger.ch/1mo_16.html#v15'>Vers 15</a> ist es dann Abram, der
   seinem Sohn diesen Namen gibt.
+ }
+ {
+  <i>du bist schwanger und wirst einen Sohn gebären</i> vgl §ri-13-3, §jes-7-14
  }
  {
   TODO: Vgl Bedeutung des Namens <i>Ismael</i> mit <i>Samuel</i>
@@ -7778,7 +7781,7 @@
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/hi_4.html#v11'>Hi&nbsp;4,11</a>.
  }
  {
-  Auch <i>Dan</i> ist ein junger Löwe, der aber aus Baschann herausspringt (<a href='http://bibel.renenyffenegger.ch/5mo_33.html#v22'>5.&nbsp;Mo&nbsp;33,22</a>).
+  Auch <i>Dan</i> ist ein junger Löwe, der aber aus Basan herausspringt (§5mo-33-22).
  }
 #}
 #1mo-49-10 {
@@ -23625,8 +23628,10 @@
  {
   <i>Junger Löwe</i> <span class='hebr'>גּ֣וּר אַרְיֵ֑ה</span> (Strongs 1482 738).
   <br>Auch <i>Juda</i> ist ein junger Löwe (<a href='http://bibel.renenyffenegger.ch/1mo_49.html#v9'>1.&nbsp;Mo&nbsp;49,9</a>).
-  <br>Die Stadt <i>Lais</i> heisst offenbar auch Löwe (<a class='kom' href='#Iri-18-7'>Ri&nbsp;18,7</a>)
-  <br>TODO: <a class='kom' href='#Ijes-10-30'>Jes&nbsp;10,30</a>.
+  <br>Die Stadt <i>Lais</i>, welche von den Danitern erobert wurde, bedeutet Löwe, §+ri-18-7.
+ }
+ {
+  TODO: <a class='kom' href='#Ijes-10-30'>Jes&nbsp;10,30</a>.
  }
 #}
 #5mo-33-23 {
@@ -25254,14 +25259,14 @@
 #}
 #jos-15-33 {
  {
-  <i>Zorea</i> und <i>Estaol</i>: wird in <a href='http://bibel.renenyffenegger.ch/jos_19.html#v41'>Jos&nbsp;19,41</a> den Danitern zugeschlagen.
-  <br>In <a href='http://bibel.renenyffenegger.ch/ri_13.html#v25'>Ri&nbsp;13,25</a> gibt es zwischen Zorea und Estaol ein 'Lager Dans'.
-  <br><a href='http://bibel.renenyffenegger.ch/ri_16.html#v31'>Ri&nbsp;16,31</a>, <a href='http://bibel.renenyffenegger.ch/ri_18.html#v8'>Ri&nbsp;18,8</a>.
+  <i>Eschtaol und Zorha</i>: wird in §jos-19-41 den Danitern zugeschlagen.
+  <br>In §ri-13-25 gibt es zwischen Zorha und Estaol ein «Lager Dans».
+  <br>Vgl §ri-16-31, §ri-18-8.
  }
  {
-  <i>Zorea</i> (<span class='hebr'>צָרְעָה</span>, Strongs 6881), offenbar verwandt mit Strongs 6880.
-  <br>Manoach ist von Zorea (<a href='http://bibel.renenyffenegger.ch/ri_13.html#v2'>Ri&nbsp;13,2</a>).
-  <br>Vgl auch die <i>Zoratiter</i>: <a class='kom' href='#I1chr-2-53'>1.&nbsp;Chr&nbsp;2,53</a>.
+  <i>Zorha</i> (<span class='hebr'>צָרְעָה</span>, Strongs 6881) (Elberfelder «Zorea», KJV «Zoreah»), ist offenbar verwandt mit Strongs 6880.
+  <br>Manoach ist von Zorha (§ri-13-2).
+  <br>Vgl auch die <i>Zoratiter</i>: §+1chr-2-53.
  }
 #}
 #jos-15-34 {
@@ -25756,13 +25761,12 @@
 #}
 #jos-19-40 {
  {
-  In <a href='http://bibel.renenyffenegger.ch/ri_18.html#v1'>Ri&nbsp;18,1</a> sucht sich Dan ein Erbteil, weil ihm unter den Kindern Israels noch
-  kein Erbe zugefallen war.
+  Die Daniter wurden von den Amoritern ins Gebirge gedrängt (§ri-1-34) was wohl dazu führte, daß Dan in §ri-18-1 sucht ein (neues) Erbteil suchte (unter den Kindern Israels war ihnen dann noch kein Erbe zugefallen).
  }
 #}
 #jos-19-41 {
  {
-  <i>Zorea und Estaol</i>: <a class='kom' href='#Ijos-15-33'>Jos&nbsp;15,33</a>.
+  <i>Zorha und Estaol</i>: §+jos-15-33.
  }
  {
          TODO <i>Ir-Schemesch</i>: siehe <a href='http://bibel.renenyffenegger.ch/jos_15.html#v7'>Jos&nbsp;15,7</a>
@@ -25793,7 +25797,7 @@
   <i>Lesem</i> siehe <a class='kom' href='#I2mo-28-19'>2.&nbsp;Mo&nbsp;28,19</a>. Siehe auch <a class='kom' href='#I1mo-10-19'>1.&nbsp;Mo&nbsp;10,19</a>.
  }
  {
-  Vgl auch die ähnliche Wendung in <a href='http://bibel.renenyffenegger.ch/ri_18.html#v29'>Ri&nbsp;18,29</a>.
+  Vgl auch die ähnliche Wendung in §ri-18-29.
  }
 #}
 #jos-19-49 {
@@ -26337,6 +26341,9 @@
  {
   <i>Bethel</i> und <i>Lus</i>: <a class='kom' href='#I1mo-28-19'>1.&nbsp;Mo&nbsp;28,19</a>.
  }
+ {
+  <i>auskundschaften</i>: <span class='hebr'>יָּתִ֥ירוּ</span> (Strongs 8446), vgl §ri-18-2
+ }
 #}
 #ri-1-24 {
  {
@@ -26401,9 +26408,14 @@
 #}
 #ri-1-34 {
  {
-  Vermutlich war dies der Grund, dass sich die Daniter in <a href='http://bibel.renenyffenegger.ch/ri_18.html#v1'>Ri&nbsp;18,1</a> ein
-         (neues) Erbteil suchten. Vgl auch <a class='kom' href='#Iri-17-1'>Ri&nbsp;17,1</a>. TODO: hat <a href='http://bibel.renenyffenegger.ch/ri_5.html#v17'>Ri&nbsp;5,17</a>
-         etwas damit zu tun?
+  Vermutlich war dies der Grund, dass sich die Daniter in §ri-18-1 ein (neues) Erbteil suchten.
+ <br>
+  Vgl §+jos-19-40.
+ }
+ {
+  TODO: Vgl §ri-17-1
+  <br>
+  Hat <a href='http://bibel.renenyffenegger.ch/ri_5.html#v17'>Ri&nbsp;5,17</a> etwas damit zu tun?
  }
 #}
 #ri-1-35 {
@@ -26992,6 +27004,9 @@
   Beachte, Abimelech, der Sohn <i>Jerub-Baals</i> wird in <a href='http://bibel.renenyffenegger.ch/2sam_11.html#v21'>2.&nbsp;Sam&nbsp;11,21</a>
   «Jerub-Bescheths» genannt (etwa Jerub der Schande).
  }
+ {
+  Der Zahlenwert von Abimelech und Gaal sind jeweils 103.
+ }
 #}
 #ri-9-5 {
  {
@@ -27252,7 +27267,12 @@
 #}
 #ri-13-2 {
  {
-  <i>Zorea</i>: <a class='kom' href='#Ijos-15-33'>Jos&nbsp;15,33</a> (gehört zu Juda).
+  <i>Zorha</i> gehört zu Juda, §+jos-15-33.
+ }
+#}
+#ri-13-3 {
+ {
+  <i>du wirst schwanger werden und einen Sohn gebären</i> vgl §1mo-16-11, §jes-7-14
  }
 #}
 #ri-13-4 {
@@ -27287,10 +27307,11 @@
 #}
 #ri-13-25 {
  {
-  <i>Zorea und Estaol</i> werden auch in <a href='http://bibel.renenyffenegger.ch/jos_15.html#v33'>Jos&nbsp;15,33</a>
-  <a href='http://bibel.renenyffenegger.ch/ri_16.html#v31'>Ri&nbsp;16,31</a> und
-  <a href='http://bibel.renenyffenegger.ch/ri_18.html#v2'>Ri&nbsp;18,2</a>
-  nebeneinander erwähnt.
+  In <i>Zorha und Estaol</i> wird Samson begraben werden.
+ <br>
+  Der Stamm Dan sendet aus Zorha und Eschtaol aus, um das Land auszukundschaften, §ri-18-2
+ <br>
+  Diese beiden Orte werden auch in §jos-15-33 nebeneinander erwähnt.
  }
  {
   <i>Lager Dans</i>: <a class='kom' href='#Iri-17-1'>Ri&nbsp;17,1</a> und <a href='http://bibel.renenyffenegger.ch/ri_18.html#v12'>Ri&nbsp;18,12</a>.
@@ -27310,6 +27331,11 @@
  }
 #}
 #ri-14-5 {
+ {
+  Hier brüllt Simson, der von Zorha und Eschtaol ausgezogen war (§ri-13-25), ein brüllender Löwe (<span class='hebr'>כְּפִ֣יר אֲרָי֔וֹת</span>) entgegen.
+  Die Daniter, die ebenfalls Zorha und Eschtaol augeszogen waren (§ri-18-11), kommen nach Lais (<span dir='rtl' class='hebr'>לַיִשׁ</span> = Löwe, §ri-18-7).
+  Lais (im Gegensatz zum Löwen) ist ein ruhiges Volk (§ri-18-27).
+ }
  {
   <i>brüllender Löwe</i>:
    <a href='http://bibel.renenyffenegger.ch/ps_22.html#v14'>Ps&nbsp;22,14</a>,
@@ -27407,8 +27433,10 @@
 #}
 #ri-16-5 {
  {
-  TODO: Haben diese <i>1100 Silberlinge</i> etwas mit den 1100 Silberlingen von <a href='http://bibel.renenyffenegger.ch/ri_17.html#v2'>Ri&nbsp;17,2</a> zu tun?
-  <br>Aber vermutlich sind es hier 5 Fürsten und damit 5500 Silberlinge (<a class='kom' href='#Ijos-13-3'>Jos&nbsp;13,3</a>).
+  <i>Tausend einhundert Sekel Silber</i> vgl §ri-17-2
+ }
+ {
+  TODO: Vermutlich sind es hier 5 Fürsten und damit 5500 Silberlinge (§+jos-13-3).
  }
 #}
 #ri-16-17 {
@@ -27423,12 +27451,24 @@
 #}
 #ri-16-31 {
  {
-  <i>Zorea und Estaol</i>: <a class='kom' href='#Iri-13-25'>Ri&nbsp;13,25</a>.
+  <i>Zorha und Estaol</i>: <a class='kom' href='#Iri-13-25'>Ri&nbsp;13,25</a>.
  }
 #}
 @}
 @Richter 17 {
 #ri-17-1 {
+ {
+  <i>Michajehu</i>: <span class='hebr'>מִיכָֽיְהוּ</span> (ebenso in §Vri-17-4), vgl mit «Micha» (<span class='hebr'>מִיכָ֔ה</span>) in §Vri-17-5 und danach.
+ <br>
+  Beachte, wie die Häufigkeit der Nennung des Namens Gottes (Jehova) in folgenden Versen und Kapiteln abnimmt
+ <br>
+  Sowohl Elberfelder wie auch Sch2K übersetzten hier (m. E. falsch) mit «Micha».
+ <br>
+  <i>Michajehu</i> bedeutet in etwa: «wer ist wie Gott» (es wird sich herausstellen, daß Micha überhaupt nicht wie Gott ist).
+ }
+ {
+  TODO: Strongs 4321 kommt auch in §1koe-22-8 ff und §2chr-18-7 ff vor.
+ }
  {
   Die folgenden Ereignisse scheinen sich kurz nach Josua abgespielt zu haben: <ul>
     <li>Das Grosskind von Mose wird in <a href='http://bibel.renenyffenegger.ch/ri_18.html#v30'>Ri&nbsp;18,30</a> erwähnt
@@ -27441,34 +27481,30 @@
         <a href='http://bibel.renenyffenegger.ch/ri_5.html#v8'>Ri&nbsp;5,8</a> erwähnt.
   </ul>
  }
- {
-  <i>Micha</i> hier und in Vers 5 eigentlich Michajehu (<span class='hebr'>מִיכָֽיְהוּ</span>, Strongs 4321). Erst ab
-  Vers 5 <span class='hebr'>מִיכָה</span>, Strongs 4318). In <a href='http://bibel.renenyffenegger.ch/jer_36.html#v11'>Jer 36,11/13</a> wird 4321 mit
-  «Michaja» wiedergegeben.
-  <br>
-   TODO: Strongs 4321 kommt auch in <a href='http://bibel.renenyffenegger.ch/1koe_22.html#v8'>1.&nbsp;Kö&nbsp;22,8</a> ff und
-   <a href='http://bibel.renenyffenegger.ch/2chr_18.html#v7'>2.&nbsp;Chr&nbsp;18,7</a> ff vor.
- }
 #}
 #ri-17-2 {
  {
-  TODO: Siehe <a class='kom' href='#Iri-16-5'>Ri&nbsp;16,5</a>.
+  <i>Tausend einhundert Sekel Silber</i> §ri-16-5
  }
 #}
 #ri-17-5 {
  {
-  Beachte die Übersetzung in Elberfelder «Und der Mann Micha...» resp KJV «And the man Micah...». Offenbar war Micha(jehu)
-  verantwortlich für sein tun.
+  <i>Und der Mann Micha… </i> (<span class='hebr'>הָאִ֣ישׁ מִיכָ֔ה</span>): Offenbar war Micha(jehu) verantwortlich für sein tun.
+ <br>
+  Sch2K übesetzt lediglich mit «So hatte also Micha ein Gotteshaus…», KJV mit «And the man Micah…»
  }
  {
-  TODO: Micha machte einen Teraphim und Michal hatte einen Teraphim (<a href='http://bibel.renenyffenegger.ch/1sam_19.html#v13'>1.&nbsp;Sam&nbsp;19,13</a>).
+  <i>Gotteshaus</i>: <span class='hebr'>בֵּ֣ית אֱלֹהִ֑ים</span>
+ }
+ {
+  <i>Micha</i> machte einen Teraphim; <i>Michal</i> hatte einen Teraphim (§1sam-19-13).
  }
 #}
 #ri-17-6 {
  {
-  <i>Zu jener Zeit gab es keinen König in Israel</i> auch noch in <a href='http://bibel.renenyffenegger.ch/ri_18.html#v1'>Ri&nbsp;18,1</a>,
-  <a href='http://bibel.renenyffenegger.ch/ri_19.html#v1'>Ri&nbsp;19,1</a> und im letzten Vers <a href='http://bibel.renenyffenegger.ch/ri_21.html#v25'>Ri&nbsp;21,25</a>.
-  <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/1sam_8.html#v5'>1.&nbsp;Sam&nbsp;8,5</a>.
+  <i>Zu jener Zeit gab es keinen König in Israel</i>: §ri-18-1, §ri-19-1 und im letzten Vers §ri-21-25.
+  <br>
+   Siehe auch §1sam-8-5.
  }
  {
   <i>Jeder tat, was recht war in seinen Augen</i> vgl §5mo-12-8
@@ -27479,7 +27515,10 @@
   Hier wird in <i>Levit</i> aus → biblisches/Orte/Bethlehem[Bethlehem]-Juda erwähnt, in §ri-19-1 ein <i>levitscher Mann</i>, der sich eine Nebenfrau aus Bethlehem-Juda nahm, vgl §+rt-1-1.
  }
  {
-  TODO: Frage: wie ist's denn möglich, dass ein Judäer ein Levit ist?
+  TODO:
+   Dieser Jüngling scheint Jonathan, der Sohn Gersons, des Sohes Moses zu sein, §ri-18-30
+  <br>
+   Frage: wie ist's denn möglich, dass ein Judäer ein Levit ist?
  }
 #}
 #ri-17-9 {
@@ -27493,6 +27532,9 @@
 #}
 #ri-17-10 {
  {
+  <i>Sei mir ein Vater</i>, doch der Levit «wurde ihm wie einer seiner Söhne», §Vri-17-11
+ }
+ {
   TODO: Der Unterhalt hätte wohl mindestens der Zehnte sein sollen (<a href='http://bibel.renenyffenegger.ch/4mo_18.html#v21'>4.&nbsp;Mo&nbsp;18,21</a>).
  }
 #}
@@ -27505,15 +27547,20 @@
 @Richter 18 {
 #ri-18-1 {
  {
-  Dans Erbteil in Josua: <a href='http://bibel.renenyffenegger.ch/jos_19.html#v40'>Jos&nbsp;19,40</a>.
- }
- {
   <i>Zu jener Zeit</i>: <a class='kom' href='#Iri-17-6'>Ri&nbsp;17,6</a>.
  }
 #}
 #ri-18-2 {
  {
-  <i>Zorea und Estaol</i>: <a class='kom' href='#Iri-13-25'>Ri&nbsp;13,25</a>.
+  Dans Erbteil wäre eigentlich in der Gegend von <i>Zorha und Eschtaol</i> gewesen: §jos-19-40-ff
+ <br>
+  Vgl §+ri-13-25.
+ }
+ {
+  <i>Aus Zorha und Eschtaol ausgesandte Männer</i> vgl §1chr-2-53
+ }
+ {
+  <i>auszukundschaften</i>: <span class='hebr'>רַגֵּ֤ל</span> (Strongs 7270) vgl §ri-1-23
  }
  {
   TODO: KJV übersetzt mit «....sent of their family five men from their coasts, men of valour...» (Die Entsprechung von «from ther coasts» fehlt
@@ -27522,7 +27569,10 @@
 #}
 #ri-18-3 {
  {
-  Sie erkannten die Mundart, sie wussten also dass er ein Levit war und er in einer Levitenstatt (oder am Zelt der Zusammenkunft?) hätte
+  <i>Stimme</i>: <span class='hebr'>ק֥וֹל<span>, Sch2K übersetzt mit «Mundart».
+ }
+ {
+  Sie erkannten die Stimme, sie wussten also dass er ein Levit war und er in einer Levitenstatt (oder am Zelt der Zusammenkunft?) hätte
   sein sollen. Deshalb die Frage «Was machst du hier?».
  }
 #}
@@ -27534,14 +27584,16 @@
 #}
 #ri-18-7 {
  {
-  <i>Lais</i> <span class='hebr'>לַיִשׁ</span> (Strongs 3919) bedeutet offenbar Löwe. Dasselbe Wort wie zB in <a href='http://bibel.renenyffenegger.ch/hi_4.html#v11'>Hi&nbsp;4,11</a>.
+  <i>Lais</i> <span class='hebr'>לַיִשׁ</span> (Strongs 3919) bedeutet Löwe (oder ist zumindest dasselbe Wort), vgl §+ri-14-5.
   <br>Vgl mit <a class='kom' href='#I5mo-33-22'>5.&nbsp;Mo&nbsp;33,22</a>.
   <br>Es gibt auch einen <i>Phalti</i> resp. <i>Paltiel</i>, ein Sohn des <i>Lais</i>: <a class='kom' href='#I1sam-25-44'>1.&nbsp;Sam&nbsp;25,44</a>.
  }
 #}
 #ri-18-12 {
  {
-  <i>Lager Dans</i>: <a class='kom' href='#Iri-17-1'>Ri&nbsp;17,1</a> und <a href='http://bibel.renenyffenegger.ch/ri_18.html#v25'>Ri&nbsp;18,25</a>.
+  <i>Machaneh-Dan</i>: <span class='hebr'>מַחֲנֵה־־</span>, Elberfelder übersetzt mit «Lager Dans».
+ <br>
+  Vgl §+ri-17-1 und §Vri-18-25.
  }
 #}
 #ri-18-17 {
@@ -27552,7 +27604,7 @@
 #}
 #ri-18-29 {
  {
-   TODO: <a class='kom' href='#Ijos-19-47'>Jos&nbsp;19,47</a>.
+  Vgl §+jos-19-47.
  }
 #}
 #ri-18-30 {
@@ -27585,7 +27637,7 @@
   Hier nimmt ein <i>levitischer</i> Mann eine Nebenfrau aus → biblisches/Orte/Bethlehem[Bethlehem]-Juda, in §ri-17-7 wird ein <i>Levit</i> aus Bethlehem-Juda erwähnt, vgl §+rt-1-1.
  }
  {
-  <i>Zu jener Zeit</i>: <a class='kom' href='#Iri-17-6'>Ri&nbsp;17,6</a>.
+  <i>in jenen Tagen, als kein König in Israel war</i>: §+ri-17-6.
  }
  {
   Zu dieser Zeit lebt Pinehas noch (<a href='http://bibel.renenyffenegger.ch/ri_20.html#v28'>Ri&nbsp;20,28</a>).
@@ -32915,6 +32967,11 @@
    <i>Bildnis in Dan</i>: <a class='kom' href='#Iri-18-30'>Ri&nbsp;18,30</a>.
  }
 #}
+#1koe-12-31 {
+ {
+  <i>machte Priester aus sämtlichem Volk</i> vgl §1koe-13-33, §2koe-17-32
+ }
+#}
 @}
 @1. Könige 13 {
 #1koe-13-1 {
@@ -32960,6 +33017,11 @@
  {
   <i>Samaria</i> (<span class='hebr'>שֹׁמְרוֹן</span>, Strongs 8111): hier erste Erwähnung.
   <br>Frage: ist das dasselbe Samaria, das erst in <a href='http://bibel.renenyffenegger.ch/1koe_16.html#v24'>1.&nbsp;Kö&nbsp;16,24</a> benannt wird?
+ }
+#}
+#1koe-13-33 {
+ {
+  <i>machte wiederum aus sämtlichem Volk Priester der Höhen</i> vgl §1koe-12-31, §2koe-17-32
  }
 #}
 @}
@@ -34708,6 +34770,11 @@
   <i>Sukkot-Benot</i> bedeutet wohl 'Hütten der Töchter' (siehe auch <a class='kom' href='#I1mo-33-17'>1.&nbsp;Mo&nbsp;33,17</a>).
  }
 #}
+#2koe-17-32 {
+ {
+  <i>sie machten sich aus ihrer Gesamtheit Priester der Höhen</i> vgl §+1koe-12-31
+ }
+#}
 #2koe-17-36 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
@@ -36327,20 +36394,24 @@
 #}
 #1chr-2-52 {
  {
-  TODO: <i>Hazi-Hamenuchot</i> (<span class='hebr'>חֲצִי  הַמְּנֻחוֹת</span>, Strongs 2677 4496) bedeutet etwa 'Hälfte des Ruheplatzes'. Vgl Vers 54.
+  <i>Hazi-Hamenuchot</i> (<span class='hebr'>חֲצִי  הַמְּנֻחוֹת</span>, Strongs 2677 4496) bedeutet etwa «Hälfte des Ruheplatzes». Vgl §V2chr-2-54.
  <br>
   Vgl auch mit <i>Manachath</i> in §1chr-8-6
  }
 #}
 #1chr-2-53 {
  {
+  <i>von diesen sind ausgegangen die Zorathiter und die Estauliter</i> vgl §ri-18-2
+ }
+ {
+  Die <i>Zoratiter</i> werden auch in §1chr-4-2 erwähnt.
+ }
+ {
   <b>Putiter</b> <span class='hebr'><span class='grey'>וְהַ</span>פּוּתִ֔י</span> vgl <b>Put</b> in
   <a href='http://bibel.renenyffenegger.ch/1mo_10.html#v6'>1.&nbsp;Mo&nbsp;10,6</a>: <span class='hebr'><span class='grey'>וּ</span>פ֥וּט</span>
  }
  {
-  TODO: Die <i>Zoratiter</i> werden auch in <a href='http://bibel.renenyffenegger.ch/1chr_4.html#v2'>1.&nbsp;Chr&nbsp;4,2</a> erwähnt.
-  <br>Siehe auch <i>Zorea</i>: <a class='kom' href='#Ijos-15-33'>Jos&nbsp;15,33</a>.
-  <br>TODO: Offenbar sind auch die <i>Zoriter</i> aus Vers 54 Einwohner von Zorea.
+  Die <i>Zoriter</i> aus Vers 54 sind vermutlich Einwohner von Zorha.
  }
  {
   Ira und Gareb, Helden Davids (?) sind <i>Jitriter</i> (<a href='http://bibel.renenyffenegger.ch/2sam_23.html#v38'>2.&nbsp;Sam&nbsp;23,38</a>,
@@ -36352,11 +36423,14 @@
   <i>Bethlehem</i> als Sohn Salmas: §1chr-2-51
  }
  {
-  TODO: <i>Hälfte der Manachtiter</i> (<span class='hebr'>חֲצִי  הַמְּנַחְתִּי</span>, Strongs ???) vgl Vers 52.
-  <br>Vgl auch mit <i>Manoach</i>, dem Vater Simsons, der von <i>Zorea</i> (wegen Zoriter) kommt.
+  <i>Hazi-Hammnachti</i> (<span class='hebr'>חֲצִי  הַמְּנַחְתִּי</span>): Sch2K übersetzt mit «Hälfte der Manachtiter», KJV mit «half of the Manahethites».
+  Vgl mit <i>Manoach</i>, dem Vater Simsons.
  }
  {
-  TODO: Gibt es eine Verbindung von <i>Ateroth-Beth-Joab</i> zu Joab in §1chr-4-14
+  <i>Hazi</i> vgl §V1chr-2-52
+ }
+ {
+  Gibt es eine Verbindung von <i>Ateroth-Beth-Joab</i> zu Joab in §1chr-4-14?
  }
 #}
 #1chr-2-55 {
@@ -45688,7 +45762,10 @@
 #}
 #ps-19-7 {
  {
-   <i>Sonne</i>: vgl <a href='http://bibel.renenyffenegger.ch/pred_1.html#v5'>Pred&nbsp;1,5</a>.
+  <i>Sonne</i>: vgl <a href='http://bibel.renenyffenegger.ch/pred_1.html#v5'>Pred&nbsp;1,5</a>.
+ }
+ {
+  Zwei unterschiedliche Worte werden hier mit «Ende» übersetzt: <i>Vom Ende der Himmel</i>: <span class='hebr'>מִקְצֵ֤ה הַשָּׁמַ֨יִם</span>, <i>bis zu ihren Enden</i>: <span class='hebr'>עַל קְצוֹתָ֑ם</span>.
  }
  {
   <span class='u'>
@@ -45916,9 +45993,12 @@
  }
  {
   <i>Prüfen und läutern</i> §ps-66-10
- }
- {
+ <br>
   <i>Prüfen und versuchen</i> §ps-95-9
+ <br>
+  <i>Prüfe mich</i> §ps-139-23
+ <br>
+  Vgl §kla-3-40
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/versuchen
@@ -50342,6 +50422,9 @@
  {
   <i>du hast mich erkannt</i> vgl §ps-142-5
  }
+ {
+  <i>du hast mich erforscht</i> vgl §Vps-139-23
+ }
 #}
 #ps-139-3 {
  {
@@ -50351,6 +50434,11 @@
 #ps-139-8 {
  {
   Vgl §roem-8-39
+ }
+#}
+#ps-139-23 {
+ {
+  <i>prüfe mich</i>: §Vps-139-1, §+ps-26-2
  }
 #}
 @}
@@ -52220,6 +52308,11 @@
   <i>Gräuel in den Sprüchen</i>: <a class='kom' href='#Ispr-3-32'>Spr&nbsp;3,32</a>.
  }
 #}
+#spr-28-11 {
+ {
+  <i>durchschaut ihn</i>: <span class='hebr'>יַחְקְרֶֽנּוּ</span> (Strongs 2713), könnte evtl. auch mit «erforscht» ihn übersetzt werden.
+ }
+#}
 #spr-28-12 {
  {
   <i>Wenn die Gesetzlosen emporkommen</i> vgl §Vspr-28-28
@@ -53576,6 +53669,9 @@
 #jes-7-14 {
  {
   → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §mt-1-22
+ }
+ {
+  <i>die Jungfrau wird schwanger werden und einen Sohn gebären</i> vgl §1mo-16-11, §ri-13-3
  }
  {
   TODO: Vgl §jes-8-18 (Zeichen und Kinder, die Jehova geben hat).
@@ -57542,7 +57638,7 @@
 #}
 #jer-11-20 {
  {
-  <i>Herz und Nieren prüfen</i>: <a class='kom' href='#Ips-7-10'>Ps&nbsp;7,10</a>.
+  <i>Herz und Nieren prüfen</i>: §jer-17-10, §+ps-7-10.
  }
 #}
 #jer-11-21 {
@@ -57728,7 +57824,7 @@
 #}
 #jer-17-10 {
  {
-  <i>Herz und Nieren erforschen</i>: <a class='kom' href='#Ips-7-10'>Ps&nbsp;7,10</a>.
+  <i>Herz und Nieren erforschen</i>: §jer-11-20, §+ps-7-10, §offb-2-23
  }
 #}
 #jer-17-12 {
@@ -59324,6 +59420,11 @@
   TODO <i>Holzhauer</i>: <a class='kom' href='#I5mo-19-5'>5.&nbsp;Mo&nbsp;19,5</a>.
  }
 #}
+#jer-46-23 {
+ {
+  <i>sie sind unzählig</i> (<span class='hebr'>לֹ֣א יֵֽחָקֵ֑ר</span>) könnte evtl. auch mit «sie sind unerforschbar» überesetzt werden
+ }
+#}
 #jer-46-27 {
  {
   TODO: <i>Nachkommen</i> wohl besser wörtlich mit «Samen» übersetzt.
@@ -60051,6 +60152,11 @@
    Vgl §ps-33-9.
  }
 #}
+#kla-3-40 {
+ {
+  <i>Prüfen und erforschen wir unsere Wege</i> vgl §ps-26-2
+ }
+#}
 #kla-3-46 {
  {
   §kla-2-16
@@ -60098,6 +60204,9 @@
  }
  {
   <i>Kebar</i> (<span class='hebr'>כְּבָר</span>, Strongs 3529), offenbar dasselbe wie Strongs 2528 ('Längst schon') in <a class='kom' href='#Ipred-1-10'>Pred&nbsp;1,10</a>.
+ }
+ {
+  Die Zahlen dieser Datierung ergeben addiert 49 ( 30 + 4 + 5 + 5 + 5), vgl §hes-40-1
  }
 #}
 #hes-1-2 {
@@ -61744,6 +61853,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/An-eben-diesem-Tag
+ }
+ {
+  Die drei Zahlen in diesem Vers ergeben addiert 49 (25 + 10 + 14). Die Zahlen in den ersten beiden Versen von Hesekiel ebenso: §hes-1-1-2
  }
 #}
 #hes-40-3 {
@@ -102957,8 +103069,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>…, dass in späteren Zeiten etliche vom Glauben abfallen werden, …</i> vgl §2tim-3-1, §2petr-3-3, → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit
  }
  {
-  <i>spätere Zeiten</i> in Luther 1912 übersetzt mit 'letzten Zeiten'. Der griechische Ausdruck ist
-  <span class='gr'>υστεροις καιροις</span>.
+  <i>spätere Zeiten</i>: <span class='gr'>υστεροις καιροις</span>, vgl mit → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzte-tage (z. B. in §2tim-3-1)
+  <br>
+   Luther 1912 übersetzt mit «letzten Zeiten».
  }
  {
   <i>Abfallen</i>: <span class='gr'>ἀφίστημι</span>, Strongs 868.
@@ -103774,7 +103887,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @2. Timotheus 3 {
 #2tim-3-1 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzte-tage
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzte-tage, vgl mit «spätere Zeiten», §1tim-4-1
+<br>
+  <i>…, daß in den letzten Tagen schwere Zeiten…</i> vgl §2petr-3-3
  }
  {
   <table summary='kapitelüberblick'>
@@ -103802,9 +103917,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
           <td><b>Du aber</b> bleibe in dem, was du gelernt hast und was dir zur Gewissheit geworden ist... </td></tr>
     </tbody>
   </table>
- }
- {
-  <i>…, dass in den letzten Tagen schwere Zeiten…</i> vgl §1tim-4-1, §2petr-3-3
  }
  {
   <i>schwer</i>: §+mt-8-28.
