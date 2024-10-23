@@ -5475,6 +5475,14 @@
 #}
 @}
 @1. Mose 30 {
+#1mo-30-1 {
+ {
+  Hier ist die unfruchtbare Rahel <i>eifersüchtig</i>, nach der Geburt ihres Sohnes Josephs werden die anderen Söhne Jakobs eifersüchtig auf Joseph sein: §1mo-37-11
+ }
+ {
+  <i>so sterbe ich</i>: Rahel wird sterben, wenn ihr zweiter Sohn auf die Welt kommt, §1mo-35-18
+ }
+#}
 #1mo-30-3 {
  {
   Bilhas Söhne <i>Dan</i> und <i>Naphatli</i> wohl während der Zeit der Geburt von Ruben, Simeon, Levi und Juda
@@ -6127,7 +6135,10 @@
 #}
 #1mo-35-18 {
  {
-  Als Rahel Joseph gebar, sprach sie «Der HERR wolle mir noch einen Sohn dazu geben»: <a class='kom' href='#I1mo-30-24'>1.&nbsp;Mo&nbsp;30,24</a>.
+  Als Rahel Joseph gebar, sprach sie «Der HERR wolle mir noch einen Sohn dazu geben»: §+1mo-30-24.
+ }
+ {
+  <i>denn sie starb</i>: §1mo-30-1
  }
 #}
 #1mo-35-19 {
@@ -6576,6 +6587,11 @@
 #1mo-37-10 {
  {
   Josephs Mutter (Rahel) ist bereits tot (<a href='http://bibel.renenyffenegger.ch/1mo_35.html#v19'>1.&nbsp;Mo&nbsp;35,19</a>) und kann sich gar nicht mehr verneigen.
+ }
+#}
+#1mo-37-11 {
+ {
+  Rahel, die Mutter Josephs, war eifersüchtig, befor sie Joseph gaber (§1mo-30-1), nun sind die Brüder Josephs eifersüchtig auf ihn
  }
 #}
 #1mo-37-12 {
@@ -46486,6 +46502,9 @@
  {
   <i>entzürnen</i>: Vgl Vers 7 und 8.
  }
+ {
+  <i>beneide nicht die, welche Unrecht tun</i> vgl §ps-73-3, §spr-3-31, §spr-23-17, §+spr-24-1
+ }
 #}
 #ps-37-2 {
  {
@@ -47750,6 +47769,11 @@
  }
  {
    TODO Psalme Asaphs: <a class='kom' href='#Ips-50-1'>Ps&nbsp;50,1</a>.
+ }
+#}
+#ps-73-3 {
+ {
+  <i>ich beneidete die Übermütigen</i> vgl §ps-37-1
  }
 #}
 #ps-73-6 {
@@ -51030,6 +51054,11 @@
   <i>vertrauensfoll bei dir wohnt</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
  }
 #}
+#spr-3-31 {
+ {
+  <i>Beneide nicht den Mann der Gewalttat</i> vgl §ps-37-1
+ }
+#}
 #spr-3-32 {
  {
   <i>Dem Herrn ein Gräuel</i> in den Sprüchen:
@@ -52163,6 +52192,11 @@
   TODO wohl besser wörtlich mit «Nieren» statt «Inneres» übersetzt. Vgl <a class='kom' href='#Ips-16-7'>Ps&nbsp;16,7</a>.
  }
 #}
+#spr-23-17 {
+ {
+  <i>Dein Herz beneide nicht die Sünder</i> vgl §ps-37-1
+ }
+#}
 #spr-23-31 {
  {
   <i>Becher</i> (Strongs 3563): <a class='kom' href='#I1mo-40-11'>1.&nbsp;Mo&nbsp;40,11</a>
@@ -52172,7 +52206,7 @@
 @Sprüche 24 {
 #spr-24-1 {
  {
-  Vgl Vers 19.
+  <i>Beneide nicht böse Menschen</i> Vgl §Vspr-24-19, §ps-37-1
  }
 #}
 #spr-24-3 {
@@ -52200,7 +52234,12 @@
 #}
 #spr-24-13 {
  {
-   <i>Honig essen</i>: <a href='http://bibel.renenyffenegger.ch/spr_25.html#v16'>Spr&nbsp;25,16</a>, <a href='http://bibel.renenyffenegger.ch/spr_25.html#v27'>Spr&nbsp;25,27</a>.
+  <i>Honig essen</i>: <a href='http://bibel.renenyffenegger.ch/spr_25.html#v16'>Spr&nbsp;25,16</a>, <a href='http://bibel.renenyffenegger.ch/spr_25.html#v27'>Spr&nbsp;25,27</a>.
+ }
+#}
+#spr-24-19 {
+ {
+  <i>beneide nicht die Gesetzlosen</i> vgl §Vspr-24-1, §ps-37-1
  }
 #}
 #spr-24-20 {
@@ -61910,6 +61949,9 @@
 #}
 #hes-39-25 {
  {
+  <i>werde eifern für meinen heiligen Namen</i> vgl §joe-2-18, §sach-1-14, §sach-8-2
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gefangenschaft/wenden, §ps-85-2
  }
 #}
@@ -64230,6 +64272,11 @@
   <i>die Braut trete aus ihrem Gemach</i> vgl §ps-19-6
  }
 #}
+#joe-2-18 {
+ {
+  <i>Dann eifert Jehova für sein Land</i> vgl §sach-1-14, §sach-8-2, §hes-39-25
+ }
+#}
 #joe-2-23 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Regen#frueh-und-spaetregen[Früh- und Spätregen], Vgl §5mo-11-13-14 und §jer-5-24.
@@ -65646,6 +65693,11 @@
    <i>70 Jahre</i>: §+2chr-36-21.
  }
 #}
+#sach-1-14 {
+ {
+  <i>Ich habe mit großem Eifer für Jerusalem und für Zion geeifert</i> vgl §sach-8-2, §joe-2-18, §hes-39-25
+ }
+#}
 #sach-1-16 {
  {
   §+esr-5-1-ff
@@ -65905,6 +65957,11 @@
 #}
 @}
 @Sacharja 8 {
+#sach-8-2 {
+ {
+  <i>Ich eifere für Zion mit großem Eifer</i> vgl §sach-1-14, §joe-2-18, §hes-39-25
+ }
+#}
 #sach-8-3 {
  {
   <i>Namen für Jerusalem</i>: <a class='kom' href='#Ijes-60-14'>Jes&nbsp;60,14</a>.
@@ -72139,6 +72196,11 @@
   TODO <i>sich verwundern</i>: <a class='kom' href='#Imt-8-10'>Mt&nbsp;8,10</a>
  }
 #}
+#mt-27-18 {
+ {
+  §mk-15-10
+ }
+#}
 #mt-27-19 {
  {
   <i>Richterstuhl</i> (<span class='gr'>βῆμα</span>, Strongs 968) kommt noch vor in
@@ -75207,6 +75269,11 @@ sa:
  }
  {
   TODO: <i>Aufstand</i> sollte evtl mit «Aufruhr» übersetzt werden (§+apg-23-7)
+ }
+#}
+#mk-15-10 {
+ {
+  §mt-27-18
  }
 #}
 #mk-15-14 {
@@ -88338,7 +88405,7 @@ sa:
  }
  {
   Beachte: → biblisches/Personen/Silvanus-Silas war bei der Abfassung des
-  → biblisches/Bücher/jüdische-Briefe/Petrus/1/index[1. Petrusbriefes] bei → biblisches/Personen/Paulus/index (§1petr-5-12).
+  → biblisches/Bücher/jüdische-Briefe/Petrus/1/index[1. Petrusbriefes] bei → biblisches/Personen/Paulus (§1petr-5-12).
   Da er nun mit Paulus und → biblisches/Personen/Barnabas/index mitgeht, ist dies ein Indiz dafür, dass der 1. Petrusbrief vor dem Konzil von Apostelgeschichte 15
   geschrieben wurde.
  }
@@ -90865,6 +90932,8 @@ sa:
         mit denen, die dem Evangelium nicht gehorcht haben (§roem-10-16).
   <br>
   Vgl mit Abraham, der »durch → biblisches/Eigene-Uebersetzung/Konkordanz/Glaube[Glauben] gehorsam war« (§hebr-11-8)
+  <br>
+    S. a. §1petr-1-2
  }
  {
   Wer ist «wir»?
@@ -93119,6 +93188,9 @@ sa:
  {
   <i>Ausschweifungen</i> und <i>Trinkgelage</i>: §+1petr-4-3.
  }
+ {
+  <i>Streit und Neid</i>, vgl §1kor-3-3
+ }
 #}
 #roem-13-14 {
  {
@@ -94119,7 +94191,7 @@ sa:
   Vgl mit den Werken des Fleisches in <a href='http://bibel.renenyffenegger.ch/gal_5.html#v20'>Gal 5,19-20</a>.
  }
  {
-  <i>Neid und Streit</i> §phil-1-15
+  <i>Neid und Streit</i> §phil-1-15, §roem-13-13
  }
  {
   <span class='gt'>Offenbahr fehlt in NA «Zwietracht»</span>
@@ -107717,6 +107789,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-4-4 {
  {
+  Vgl §1joh-2-15-17
+ }
+ {
  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
  {
@@ -107725,6 +107800,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-4-5 {
  {
+  <i>Begehrt der Geist, der in uns wohnt, mit Neid?</i> Sch2K übersetzt mit «Ein eifersüchtiges Verlangen hat der Geist, der in uns wohnt», KJV mit «The spirit that dwelleth in us lusteth to envy?».
+ <br>
   Wo spricht die Schrift dies?
  }
 #}
@@ -107960,7 +108037,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>nach Vorkenntnis Gottes</i> vgl §apg-2-23
  }
  {
-  <i>Gehorsam</i> vgl §V1petr-1-14, §V1petr-1-22
+  <i>zum Gehorsam</i> vgl §V1petr-1-14, §V1petr-1-22, §roem-1-5
  }
 #}
 #1petr-1-3 {
@@ -108633,7 +108710,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-4-2 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott - Vgl Gegensatz zu «Lüste der Menschen» respektive «Wille der Nationen» (§V1petr-4-3)
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott, §V1petr-4-19 - Vgl Gegensatz zu «Lüste der Menschen» respektive «Wille der Nationen» (§V1petr-4-3)
  }
  {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/eph_4.html#v17'>Eph&nbsp;4,17</a>.
@@ -108817,7 +108894,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-4-19 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott - Vgl §+1petr-3-17 (Leiden und Wille Gottes).
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott, §V1petr-4-2 - Vgl §+1petr-3-17 (Leiden und Wille Gottes).
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/phil_1.html#v29'>Phil&nbsp;1,29</a>.
@@ -108943,7 +109020,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <a href='http://bibel.renenyffenegger.ch/eph_1.html#v6'>Eph&nbsp;1,6</a>.
  }
  {
-  <i>Eine kleine zeit geltten haben</i> vgl §1petr-1-6, §jak-4-14
+  <i>Eine kleine Zeit gelitten haben</i> vgl §1petr-1-6, §jak-4-14
  }
  {
   Vgl <i>berufen zu</i> <a class='kom' href='#Ikol-3-15'>Kol&nbsp;3,15</a>
@@ -109855,7 +109932,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1joh-2-15 {
  {
-  <i>Liebt nicht die Welt…</i> vgl §2tim-4-10
+  <i>Liebt nicht die Welt…</i> vgl §2tim-4-10, §jak-4-4
  }
 #}
 #1joh-2-16 {
