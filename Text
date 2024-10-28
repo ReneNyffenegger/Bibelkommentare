@@ -68365,8 +68365,10 @@
  }
  {
   <i>Geht nicht auf den Weg der Nationen…</i>: dennoch werden die Jünger den Nationen zum Zeugnis sein, §Vmt-10-18
-   <br>
-    vgl mit → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, dem Apostel der Nationen]
+ <br>
+  In §mt-28-19 werden die Jünger beauftragt, alle Nationen zu Jüngern zu machen.
+ <br>
+  Vgl mit → biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, dem Apostel der Nationen]
  }
 #}
 #mt-10-6 {
@@ -68706,11 +68708,7 @@
 #}
 #mt-11-12 {
  {
-  <i>An sich reissen</i> (<span class='hebr'>ἁρπάζω</span>, Strongs 726) kommt Zb in
-   <a href='http://bibel.renenyffenegger.ch/2kor_12.html#v2'>2.&nbsp;Kor&nbsp;12,2</a>,
-   <a href='http://bibel.renenyffenegger.ch/1thes_4.html#v17'>1.&nbsp;Thes&nbsp;4,17</a>,
-   <a href='http://bibel.renenyffenegger.ch/offb_12.html#v5'>Offb&nbsp;12,5</a> ('entrückt'),
-   <a href='http://bibel.renenyffenegger.ch/jud_1.html#v23'>Jud&nbsp;1,23</a> ('reissen').
+  <i>An sich reissen</i> (<span class='hebr'>ἁρπάζω</span>, Strongs 726) kommt Z. b. vor in §2kor-12-2, §1thes-4-17, §offb-12-5 («entrückt»), §jud-1-23 («reissen»).
  }
 #}
 #mt-11-14 {
@@ -70533,7 +70531,7 @@
   <i>Erste und Letzte</i>: §+mt-19-30.
  }
  {
-  <i>viele Berufen, wenige auserwählt</i>: <a href='http://bibel.renenyffenegger.ch/mt_22.html#v14'>Mt&nbsp;22,14</a>.
+  <i>viele sind Berufene, wenige aber Auserwählte</i>: §mt-22-14, vgl §mt-24-22, §offb-17-14
  }
  {
   <span class='gt'>Nicht in NA: «denn viele sind Berufene, wenige aber Auserwählte.»</span>.
@@ -70926,7 +70924,7 @@
 #}
 #mt-22-14 {
  {
-  <i>viele Berufen, wenige auserwählt</i>: <a class='kom' href='#Imt-20-16'>Mt&nbsp;20,16</a>.
+  <i>viele Berufen, wenige auserwählt</i>: §+mt-20-16, vgl §mt-24-22
  }
 #}
 #mt-22-16 {
@@ -71365,6 +71363,17 @@
  }
  {
   <i>nicht gewesen</i> vgl §offb-16-18, §2mo-9-24
+ }
+#}
+#mt-24-22 {
+ {
+  §mk-13-20
+ }
+ {
+  <i>Auserwählte</i>: §Vmt-24-24, §Vmt-24-31, §mt-20-16, §mt-22-14
+ }
+ {
+  <i>aber um der Auserwählten willen werden jene Tage verkürzt werden</i>, vgl §lk-18-7
  }
 #}
 #mt-24-23 {
@@ -72634,8 +72643,7 @@ sa:
   <i>Geht hin… ich bin bei euch alle Tage…</i> vgl §mk-3-14, §+joh-17-18
  }
  {
-  Anordnung zur → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe auf den Namen des Vaters, des Sohnes und des Heiligen Geistes, jedoch in
-  <a href='#Iapg-2-38'>Apg&nbsp;2,38</a> &lsaquo;nur&rsaquo; auf den Namen Jesu Christi getauft.
+  <i>macht alle Nationen zu Jüngern</i> vgl §+mt-10-5
  }
  {
   Offenbar wurde die Anordnung an die Jünger, alle Völker zu Jüngern zu machen, in
@@ -72643,6 +72651,10 @@ sa:
   war (Vgl §+gal-1-16, → biblisches/Personen/Paulus/Apostel-der-Nationen), war ausserdem «nicht gesandt, zu taufen» (§1kor-1-17).
  <br>
   Von Paulus gibt es keine Anweisung, alle Völker zu Jüngern zu machen.
+ }
+ {
+  Anordnung zur → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe auf den Namen des Vaters, des Sohnes und des Heiligen Geistes, jedoch in
+  <a href='#Iapg-2-38'>Apg&nbsp;2,38</a> &lsaquo;nur&rsaquo; auf den Namen Jesu Christi getauft.
  }
  {
   Vgl §mk-16-15, §lk-24-47
@@ -74849,6 +74861,11 @@ sa:
  }
  {
   Vgl den <i>Winter</i> mit dem <i>Sommer</i> in §Vmk-13-28 und §lk-21-30
+ }
+#}
+#mk-13-20 {
+ {
+  §mt-24-22
  }
 #}
 #mk-13-22 {
@@ -78918,6 +78935,13 @@ sa:
   <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
  }
 #}
+#lk-14-24 {
+ {
+  In <i>The New Testament in the Original Greek: Byzantine Textform</i>, edited by Maurice A. Robinson and William G. Pierpont,
+  <a href='https://github.com/byztxt/byzantine-majority-text/blob/b844fff9cac3e5788504652d50802b94808b5905/source/CCAT/03_LUK.TXT#L684C174-L684C287'>endet der Vers mit</a>
+  «denn viele sind Berufene, wenige aber Auserwählte.» (Vgl §mt-20-16)
+ }
+#}
 #lk-14-26 {
  {
   <i>…seine Brüder und Schwestern</i> Vgl §Vlk-14-12
@@ -79268,6 +79292,11 @@ sa:
 #lk-18-4 {
  {
   <i>bei sich selbst</i>: §+lk-7-39
+ }
+#}
+#lk-18-7 {
+ {
+  Ist Gott im Bezug auf die Auserwählten langsam? Vgl §mt-24-22
  }
 #}
 #lk-18-8 {
@@ -80253,6 +80282,11 @@ sa:
   <i>Forderung</i>: <span class='gr'></span>αἴτημα</span> (Strongs 155, 3x): §+phil-4-6
  }
 #}
+#lk-23-25 {
+ {
+  <i>Jesus aber übergab er ihrem Willen</i> vgl §lk-22-42.
+ }
+#}
 #lk-23-26 {
  {
   <i>Simon von Kyrene</i>: <a class='kom' href='#Imt-27-32'>Mt&nbsp;27,32</a>.
@@ -80297,7 +80331,7 @@ sa:
 #}
 #lk-23-35 {
  {
-  <i>Jesus aber übergab er ihrem Willen</i> vgl §lk-22-42.
+  <i>Der Auserwählte Gottes</i> vgl §roem-8-33, §roem-16-13
  }
 #}
 #lk-23-36 {
@@ -92358,6 +92392,11 @@ sa:
   Vgl diese Verse mit <a href='http://bibel.renenyffenegger.ch/jes_50.html#v8'>Jes 50,8-9</a>.
  }
 #}
+#roem-8-33 {
+ {
+  <i>Die Auserwählten Gottes</i>, vgl §kol-3-12, §lk-23-35, §tit-1-1, §2tim-2-10, §roem-16-13
+ }
+#}
 #roem-8-34 {
  {
   <i>verdamme</i>: §+Vroem-8-1.
@@ -93666,6 +93705,9 @@ sa:
 #roem-16-13 {
  {
   (Ein anderer?) Rufus trug das Kreuz von Jesus zusammen mit Simon von Kyrene (<a href='http://bibel.renenyffenegger.ch/mk_15.html#v21'>Mk&nbsp;15,21</a>).
+ }
+ {
+  <i>Der Auserwählte im Herrn</i> vgl §lk-23-35, §roem-8-33
  }
 #}
 #roem-16-14 {
@@ -101148,6 +101190,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>herzliches Erbarmen</i>: §+phil-2-1
  }
+ {
+  <i>Auserwählte Gottes</i>, vgl §+roem-8-33
+ }
 #}
 #kol-3-13 {
  {
@@ -103930,6 +103975,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2tim-2-10 {
  {
+  <i>Auserwählte</i>, vgl §+roem-8-33
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
  }
 #}
@@ -104452,6 +104500,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl <i>Knecht Gottes und Apostel Jesu Christi</i> mit <a class='kom' href='#I2petr-1-1'>2.&nbsp;Petr&nbsp;1,1</a>. Vgl
   auch mit <a href='http://bibel.renenyffenegger.ch/roem_1.html#v1'>Röm&nbsp;1,1</a>.
+ }
+ {
+  <i>Auserwählte Gottes</i>, vgl §+roem-8-33
  }
  {
   TODO: Wo überall nennt sich Paulus <i>Knecht Gottes</i>? Vgl <a href='http://bibel.renenyffenegger.ch/jak_1.html#v1'>Jak&nbsp;1,1</a>.
@@ -105718,7 +105769,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-6-7 {
  {
-  TODO: <i>hervorbringt</i> eigtl. «gebiert».
+  <i>hervorbringt</i>: <span class='gr'>τικτουσα</span> (Strongs 5088) eigtl. «gebiert».
  }
 #}
 #hebr-6-8 {
@@ -107386,7 +107437,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-1-15 {
  {
-  Beachte: das erste gebiert ist im Griechischen <span class='gr'>τικτει</span> (Strongs 5088), das zweite ist <span class='gr'>αποκυει</span> (Strongs 616).
+  Beachte: das erste <i>gebiert</i> ist im Griechischen <span class='gr'>τικτει</span> (Strongs 5088), das zweite ist <span class='gr'>αποκυει</span> (Strongs 616) und wird in §Vjak-1-18 mit «gezeugt» übersetzt.
  }
 #}
 #jak-1-16 {
@@ -107430,14 +107481,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-1-18 {
  {
-   Vgl <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v23'>1.&nbsp;Petr&nbsp;1,23</a>: Wiedergeboren aus unvergänglichem Samen, durch
-   das lebendige → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes], das in Ewigkeit bleibt.
+  Vgl <a href='http://bibel.renenyffenegger.ch/1petr_1.html#v23'>1.&nbsp;Petr&nbsp;1,23</a>: Wiedergeboren aus unvergänglichem Samen, durch
+  das lebendige → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes], das in Ewigkeit bleibt.
  }
  {
   <i>Erstling</i>: <a class='kom' href='#Iroem-8-23'>Röm&nbsp;8,23</a>.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Wahrheit
+ }
+ {
+  <i>gezeugt</i>: <span class='gr'>απεκυησεν</span> (Strongs 616), vgl §Vjak-1-15
  }
 #}
 #jak-1-19 {
@@ -107579,6 +107633,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #jak-2-10 {
  {
   <i>aber in einem straucheln</i> vgl §jak-3-2
+ }
+#}
+#jak-2-11 {
+ {
+  <i>du sollst nicht ehebrechen</i> vgl §jak-4-4
  }
 #}
 #jak-2-12 {
@@ -107804,6 +107863,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
+ }
+ {
+  <i>Ihr Ehebrecherinnen</i> vgl §jak-2-11
  }
  {
   <span class='gt'>Mehrheitstext und TR: <i>Ihr Ehebrecher und Ehebrecherinnen</i>, NA: <i></i>Ihr Ehebrecherinnen</span>
@@ -108037,12 +108099,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-1-2 {
  {
+  Der erste Petrusbrief beginnt mit der Anrede an die <i>Auserwählten in der Zerstreuung</i> und endet mit dem «Gruss der Miterwählten in Babylon», §1petr-5-13.
+ <br>
+  Vgl aber auch §1petr-2-4-6 und §1petr-2-9
+ }
+ {
   <i>Gnade und Friede sei euch vermehrt</i>, vgl §2petr-1-2, → biblisches/Bücher/Paulus#paulusbriefe-gnade-euch[Briefanfänge von Paulus: Gnade euch und Friede von Gott, unserem Vater…]
  }
  {
-   Das <i>Blut der Besprengung</i> redet Besseres als jenes von Abel (§+hebr-12-24)
-  <br>
-   Vgl §hebr-9-13, §hebr-12-24
+  Das <i>Blut der Besprengung</i> redet Besseres als jenes von Abel (§+hebr-12-24)
+ <br>
+  Vgl §hebr-9-13, §hebr-12-24
  }
  {
   <i>nach Vorkenntnis Gottes</i> vgl §apg-2-23
@@ -108361,6 +108428,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Königliches Priestertum</i>: §+2mo-19-6, §V1petr-2-5
+ }
+ {
+  <i>ein auserwähltes Geschlecht</i> vgl §1petr-1-1-2, §1petr-5-13
  }
 #}
 #1petr-2-10 {
@@ -109061,6 +109131,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1petr-5-13 {
+ {
+  Der erste Petrusbrief endet mit dem <i>Gruss der Miterwählten in Babylon</i> und beginnt mit der Anrede an die «Auserwählten in der Zerstreuung», §1petr-1-1-2
+ }
  {
   TODO: <i>Babylon</i>: Gemeint ist möglicherweise das judenfreundlichere Perserreich (Sura und Pumbedita), welches von den Juden traditionell als Babylon bezeichnet wurde,
   obwohl eine Stadt oder ein Staat solchen Namens seit dem Untergang des neubabylonischen Reiches im 5. Jahrhundert v. Chr. nicht mehr existierte.
@@ -113066,7 +113139,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Eiserne Rute</i> vgl §offb-2-27, §offb-19-15, §ps-2-9
  }
  {
-  <i>Entrückt</i>: <a class='kom' href='#Imt-11-12'>Mt&nbsp;11,12</a>.
+  <i>Entrückt</i>: §+mt-11-12.
+ }
+ {
+  Hier wird das Kind zu Gott entrückt, in §Voffb-12-9 wird der Drache auf die Erde geworfen.
  }
 #}
 #offb-12-6 {
@@ -114202,6 +114278,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-17-14 {
  {
   <i>Herr der Herren</i>: §+5mo-10-17.
+ }
+ {
+  <i>Berufene und Auserwählte</i> vgl §+mt-20-16
  }
 #}
 #offb-17-15 {
