@@ -51412,7 +51412,7 @@
 #}
 #spr-10-12 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1petr_4.html#v8'>1.&nbsp;Petr&nbsp;4,8</a>.
+  <i>Liebe deckt alle Übertretungen zu</i> vgl §spr-17-9, §jak-5-20, §1petr-4-8
  }
 #}
 #spr-10-13 {
@@ -51830,6 +51830,11 @@
  {
   <i>Bestechungsgeschenk</i> (<span class='hebr'>שֹׁחַד</span>, Strongs 7810), eigentlich 'Geschenk' (vgl <a href='http://bibel.renenyffenegger.ch/spr_6.html#v35'>Spr&nbsp;6,35</a>).
   Ebenso Vers 23.
+ }
+#}
+#spr-17-9 {
+ {
+  <i>Wer Liebe sucht, deckt die Übertretung zu</i> vgl §spr-10-12
  }
 #}
 #spr-17-12 {
@@ -107998,7 +108003,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-5-20 {
  {
-  vgl §+1petr-4-8
+  vgl §spr-10-12, §+1petr-4-8
  }
 #}
 @}
