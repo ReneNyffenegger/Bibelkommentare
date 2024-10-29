@@ -84770,6 +84770,11 @@ sa:
   Hier fragt der Herr Petrus <i>dreimal</i>, ob er Ihn liebe. Vgl mit §apg-10-13-ff, wo eine Stimme dreimal zu Petrus spricht.
  }
 #}
+#joh-21-16 {
+ {
+  <i>Hüte meine Schafe</i> vgl §1petr-5-2, §1petr-2-25
+ }
+#}
 #joh-21-18 {
  {
   §2petr-1-14
@@ -88076,7 +88081,7 @@ sa:
 #}
 #apg-13-45 {
  {
-  <i>eifersüchtige Juden</i>: <a class='kom' href='#Iroem-10-19'>Röm&nbsp;10,19</a>, <a href='http://bibel.renenyffenegger.ch/roem_11.html#v11'>R&ouml;m&nbsp;11,11/14</a>.
+  <i>eifersüchtige Juden</i>: §+roem-10-19, §roem-11-11-14.
   Vgl §apg-5-17.
  }
  {
@@ -94241,6 +94246,9 @@ sa:
 #}
 #1kor-3-3 {
  {
+  <i>Neid</i>: <span class='gr'>ζῆλος</span> (Strongs 2205), vgl §2kor-7-7, §2kor-12-20, §jak-3-14
+ }
+ {
   Vgl mit den Werken des Fleisches in <a href='http://bibel.renenyffenegger.ch/gal_5.html#v20'>Gal 5,19-20</a>.
  }
  {
@@ -97170,6 +97178,9 @@ sa:
  {
   <i>Klage</i> (<span class='gr'>ὀδυρμός</span>, Strongs 3602), dasselbe Wort wie in <a href='http://bibel.renenyffenegger.ch/mt_2.html#v18'>Mt&nbsp;2,18</a>.
  }
+ {
+  <i>Eifer</i>: <span class='gr'>ζῆλος</span> (Strongs 2205), vgl §1kor-3-3, §V2kor-7-11
+ }
 #}
 #2kor-7-8 {
  {
@@ -97179,6 +97190,11 @@ sa:
 #2kor-7-10 {
  {
   <i>Buße zur Rettung</i>: §+apg-11-18.
+ }
+#}
+#2kor-7-11 {
+ {
+  <i>Eifer</i>: §2kor-9-2
  }
 #}
 #2kor-7-12 {
@@ -97278,6 +97294,9 @@ sa:
  }
  {
   Vgl §2kor-11-10
+ }
+ {
+  <i>Eifer</i>: §2kor-7-11
  }
 #}
 #2kor-9-4 {
@@ -97661,8 +97680,11 @@ sa:
 #}
 #2kor-12-20 {
  {
-   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/gal_5.html#v20'>Gal&nbsp;5,20</a>,
-   <a href='http://bibel.renenyffenegger.ch/1tim_6.html#v4'>1.&nbsp;Tim&nbsp;6,4</a>.
+  <i>Neid</i>: <span class='gr'>ζῆλος</span> (Strongs 2205), vgl §+1kor-3-3
+ }
+ {
+  TODO: Vgl <a href='http://bibel.renenyffenegger.ch/gal_5.html#v20'>Gal&nbsp;5,20</a>,
+  <a href='http://bibel.renenyffenegger.ch/1tim_6.html#v4'>1.&nbsp;Tim&nbsp;6,4</a>.
  }
 #}
 #2kor-12-21 {
@@ -101384,6 +101406,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #kol-4-13 {
  {
   → biblisches/Bücher/prophetisch/Offenbarung/Sendschreiben/Laodizäa
+ }
+ {
+  <span class='gt'>Mehrheitstext und TR: <i>Eifer</i>, NA: <i>Mühe</i></span>
  }
 #}
 #kol-4-14 {
@@ -107798,6 +107823,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>bitterer Neid</i> vgl §jak-4-2, §Vjak-3-11
  }
+ {
+  <i>Neid</i>: <span class='gr'>ζῆλος</span> (Strongs 2205), vgl §+1kor-3-3. Ebenso in §Vjak-3-16
+ }
 #}
 #jak-3-15 {
  {
@@ -107873,9 +107901,21 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-4-5 {
  {
+  <i>Neid</i> (<span class='gr'>φθόνος</span>, Strongs 5355) wird im Rest des Neuen Testamentes ausschliesslich in einem negativen Sinn verwendet.
+ }
+ {
   <i>Begehrt der Geist, der in uns wohnt, mit Neid?</i> Sch2K übersetzt mit «Ein eifersüchtiges Verlangen hat der Geist, der in uns wohnt», KJV mit «The spirit that dwelleth in us lusteth to envy?».
  <br>
   Wo spricht die Schrift dies?
+ }
+ {
+  Der griechische Grundtext des zweiten Teiles dieses Verses gilt allgemein als schwierig interpretier- und damit übersetzbar. Die folgenden Fragen werden diskutiert: <ul>
+   <li>Ist der «Geist» das Subjekt oder Objekt des Verses? (Die Form <span class='gr'>πνευμα</span> kann Nominativ oder Akkusativ sein).
+   <li>Handelt es sich beim Geist um den des Menschen oder Gottes?
+   <li>Muss «begehren» als eine positive oder negative Haltung verstanden werden?
+   <li>Wird hier eine Frage gestellt oder eine Aussage gemacht?
+   <li>Ist das Verb für «wohnen» im Grundtext <i>katoikizo</i> (keine Strongsnummer und bedeutet etwa «wohnen lassen») oder <i>katoikeo</i> (Strongsnummer 2730)?
+  </ul>
  }
 #}
 #jak-4-6 {
@@ -108592,7 +108632,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
    §joh-10-16, §mt-9-36, §mk-6-34, §4mo-27-16
   <br>
-   Vgl §1petr-5-2.
+   Vgl §1petr-5-2, §joh-21-16
  }
  {
    Das Wort für <i>Aufseher</i> ist im Griechischen <span class='gr'>ἐπίσκοπος</span> und kommt im Neuen Testament noch
@@ -109008,6 +109048,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-5-2 {
  {
+  Petrus, der Autor dieses Briefes, wurde vom Herrn angewiesen, Seine Schafe zu hüten, §joh-21-16.
+ <br>
   Beachte: Es gibt <i>einen</i> Hüter der Seelen: §+1petr-2-25
  }
  {
