@@ -46996,6 +46996,11 @@
   <i>Erlösung</i>: <span class='hebr'>פִּדְי֥וֹן</span> (Strongs 6306, 3x) könnte evtl. auch mit «Lösegeld» übersetzt werden. 
  }
 #}
+#ps-49-11 {
+ {
+  <i>der Tor und der Unvernünftige</i> vgl §ps-92-7, §ps-94-8
+ }
+#}
 @}
 }
 { 51-60
@@ -48655,6 +48660,11 @@
   → biblisches/Bücher/Ketuvim/Psalmen/92[Psalm 92] ist für den Tag des → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat[Sabbats].
  }
 #}
+#ps-92-7 {
+ {
+  Vgl §+ps-49-11, §ps-94-8
+ }
+#}
 #ps-92-11 {
  {
   <i>erhöhtes Horn</i>: <a class='kom' href='#I1sam-2-1'>1.&nbsp;Sam&nbsp;2,1</a>.
@@ -48682,6 +48692,11 @@
 #ps-94-1 {
  {
    <i>Rache</i>: <a class='kom' href='#I5mo-32-35'>5.&nbsp;Mo&nbsp;32,35</a>.
+ }
+#}
+#ps-94-8 {
+ {
+  Vgl §+ps-49-11, §ps-92-7
  }
 #}
 #ps-94-11 {
@@ -69302,7 +69317,7 @@
 #}
 #mt-13-17 {
  {
-  <i>Viele → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] und Gerechte haben begehrt zu sehen…</i> vgl §1petr-1-10, §lk-10-24
+  <i>Viele → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] und Gerechte haben begehrt zu sehen…</i> vgl §1petr-1-10, §+lk-10-24, §lk-17-22
  }
 #}
 #mt-13-21 {
@@ -78230,7 +78245,9 @@ sa:
 #}
 #lk-10-24 {
  {
-  <i>Viele Propheten und Könige haben begehrt…</i> vgl §1petr-1-10, §mt-13-17
+  <i>Viele Propheten und Könige haben gewünscht…</i>, vgl §mt-13-17, wo Propheten und Gerechte begehrt (hier <span class='gr'>θέλω</span>, Strongs 2309; dort <span class='gr'>ἐπιθυμέω</span>, Strongs 1937) haben, zu sehen.
+ <br>
+  Siehe auch §1petr-1-10
  }
 #}
 #lk-10-25 {
@@ -79050,6 +79067,11 @@ sa:
   Vgl §lk-17-25, §lk-24-26
  }
 #}
+#lk-15-16 {
+ {
+  <i>er begehrte, seinen Bauch zu füllen mit den Träbern…</i> vgl §lk-16-21
+ }
+#}
 #lk-15-17 {
  {
   <i>zu sich selbst</i>: §+lk-7-39
@@ -79154,7 +79176,7 @@ sa:
 #}
 #lk-16-21 {
  {
-  <i>sich von den Brosamen zu sättigen, die vom Tisch des Reichen fielen</i> vgl §mt-15-27
+  <i>sich von den Brosamen zu sättigen, die vom Tisch des Reichen fielen</i> vgl §mt-15-27, §lk-15-16
  }
 #}
 #lk-16-24 {
@@ -79249,7 +79271,7 @@ sa:
 #}
 #lk-17-22 {
  {
-  <i>einen der Tage des Sohnes des Menschen zu sehen, und ihr werdet ihn nicht sehen</i> vgl §lk-13-35, §mk-14-62
+  <i>begehren einen der Tage des Sohnes des Menschen zu sehen, und ihr werdet ihn nicht sehen</i> vgl §mt-13-17, §lk-13-35, §mk-14-62
  }
 #}
 #lk-17-23 {
@@ -79987,8 +80009,8 @@ sa:
 #}
 #lk-22-15 {
  {
-  Elberfelder übersetzt (wohl wörtlicher) mit 'Mit Sehnsucht habe ich mich gesehnt',
-  KJV mit 'With desire I have desired'.
+  <i>gesehnt</i>: <span class='gr'>επεθυμησα</span> (Strongs 1937) könnte evtl. auch mit «begehrt» übersetzt werden.
+  Sch2K übersetzt mit «Mich hat herzlich verlangt», KJV mit «With desire I have desired»
  }
 #}
 #lk-22-16 {
@@ -91630,7 +91652,7 @@ sa:
 #}
 #roem-3-13 {
  {
-  Vgl §ps-5-10, §ps-140-4
+  Vgl §ps-5-10, §ps-140-4, §jak-3-8
  }
 #}
 #roem-3-14 {
@@ -92206,7 +92228,7 @@ sa:
   <i>Die Sünde durchs Gesetz erkennen</i>: vgl <a class='kom' href='#Iroem-3-20'>Röm&nbsp;3,20</a>.
  }
  {
-  <i>Laß dich nicht gelüsten</i> vgl §2mo-20-7.
+  <i>Laß dich nicht gelüsten</i> («begehre nicht»), vgl §roem-13-9, §2mo-20-7, §1kor-10-6
  }
 #}
 #roem-7-9 {
@@ -93274,7 +93296,13 @@ sa:
   Vgl §jak-2-8, §roem-2-21
  }
  {
+  <i>Laß dich nicht gelüsten</i>: §+roem-7-7
+ }
+ {
   <i>In diesem Wort</i> vgl §gal-5-14
+ }
+ {
+  Sind diese fünf Worte die, die Paulus in §1kor-14-19 meint?
  }
 #}
 #roem-13-10 {
@@ -95364,6 +95392,9 @@ sa:
  {
   <i>Vorbild</i>: <span class='gr'>τύπος</span>, Strongs 5179, vgl §roem-5-14, §V1kor-10-11, §hebr-8-5
  }
+ {
+  <i>nicht nach bösen Dingen gelüsten</i> (oder «nicht böse Dinge gelüsten»), vgl §+roem-7-7
+ }
 #}
 #1kor-10-7 {
  {
@@ -96001,7 +96032,7 @@ sa:
 #}
 #1kor-14-19 {
  {
-  <i>Fünf Worte</i> und <i>zehntausen Worte</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Zehn-Worte[zehn Worte].
+  <i>Fünf Worte</i> und <i>zehntausen Worte</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz/Zehn-Worte[zehn Worte], §roem-13-9
  }
 #}
 #1kor-14-20 {
@@ -105824,6 +105855,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <br>Vgl mit <i>Weise Aarons</i>, auch in <a href='http://bibel.renenyffenegger.ch/hebr_7.html#v11'>Hebr&nbsp;7,11</a>.
  }
 #}
+#hebr-5-11 {
+ {
+  <i>träge</i>: §hebr-6-12
+ }
+ {
+  <i>schwer auszulegen</i>: <span class='gr'>δυσερμήνευτος</span> (Strongs 1421), vgl §hebr-7-2, wo es auch um Melchisedek geht.
+ }
+#}
 #hebr-5-12 {
  {
   <i>Aussprüche Gottes</i> vgl §apg-7-38, §roem-3-2, §1petr-4-11, vgl §hebr-11-7
@@ -105952,6 +105991,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Durch Glauben und Geduld die Verheissung erben</i>: vgl Vers 15.  Beachte: Die Verheissung wird nicht durch Glauben allein geerbt.
  }
  {
+  <i>träge</i>: §hebr-5-11
+ }
+ {
   TODO: <i>Ausharren</i> evtl. besser mit «Langmut» übersetzt?
  }
  {
@@ -106017,6 +106059,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #hebr-7-2 {
+ {
+  <i>übersetzt</i>: <span class='gr'>ἑρμηνεύω</span> (Strongs 2059), vgl §hebr-5-11, wo es auch um Melchisedek geht.
+ }
  {
   TODO: <i>gab</i> ist Strongs 3307.
  }
@@ -107677,6 +107722,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>gleich sein</i> vgl §Vjak-1-6
  }
  {
+  <i>natürliches Angesicht</i>: <span class='gr'>προσωπον της γενεσεως</span>, vgl §jak-3-6
+ }
+ {
   TODO: §+1kor-13-10.
  }
 #}
@@ -107900,12 +107948,19 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Und die Zunge ist ein Feuer</i> vgl §spr-16-27
  }
  {
-  <i>Lauf</i> (<span class='gr'>τροχός</span>, Strongs 5164, 1x) eigtl: «Rad». In Sch2K mit «Umkreis», in KJV mit «course» übersetzt.
+  <i>den Lauf der Natur</i> (<span class='gr'>τὸν τροχός</span> (Strongs 5164, 1x) <span glass='gr'>τῆς γενέσεως<span>) kann evtl mit «Rad der Geburt» oder einer Variante davon übersetzt werden. Sch2K übersetzt mit «Umkreis des Lebens», in KJV mit «course of nature» übersetzt.
+ <br>
+  Vgl §jak-1-23
  }
 #}
 #jak-3-7 {
  {
   <i>Tier</i> (<span class='gr'>θηρίον</span>, Strongs 2342): <a class='kom' href='#Imk-1-13'>Mk&nbsp;1,13</a>.
+ }
+#}
+#jak-3-8 {
+ {
+  Vgl §roem-3-13
  }
 #}
 #jak-3-9 {
@@ -108045,6 +108100,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>widerstehen</i>: <span class='gr'>ἀντιτάσσομαι</span> (Strongs 498). Vgl nächster Vers.
+ }
+ {
+  <i>gelüsten</i> (<span class='gr'>ἐπιθυμέω</span>, Strongs 1937) könnte evtl. auch mit «begehren» übersetzt werden, vgl §+roem-7-7
  }
 #}
 #jak-4-7 {
