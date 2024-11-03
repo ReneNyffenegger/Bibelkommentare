@@ -8287,7 +8287,7 @@
   <br>Mose ist in einem doppelten Sinn ein Fremdling: seine Heimat sollte Kanaan sein, doch er ist in Ägypten geboren, und nun ist er noch in einem dritten Land.
  }
  {
-  → biblisches/Personen/Mose, der → biblisches/Eigene-Uebersetzung/Konkordanz/Fremdling, vgl §2mo-18-3, §1mo-15-13
+  → biblisches/Personen/Mose, der → biblisches/Eigene-Uebersetzung/Konkordanz/Fremdling, vgl §2mo-18-3, §1mo-15-13, §apg-7-29
  }
  {
   Der andere (?) Sohn von Mose ist <i>Elieser</i>: <a href='http://bibel.renenyffenegger.ch/2mo_18.html#v4'>2.&nbsp;Mo&nbsp;18,4</a>.
@@ -8307,7 +8307,7 @@
   Vgl mit §offb-8-3-5
  }
  {
-  TODO: Ist das derselbe König, wie der in §1mo-1-8 erwähnt wird.
+  TODO: Ist das derselbe König, wie der in §2mo-1-8 erwähnt wird.
  }
 #}
 #2mo-2-25 {
@@ -86415,7 +86415,7 @@ sa:
   <a href='http://bibel.renenyffenegger.ch/2mo_4.html#v19'>2.&nbsp;Mo&nbsp;4,19</a> in Midian.
  }
  {
-  <i>wurde Fremdling im Land Midian</i> vgl §Vapg-7-6
+  <i>wurde Fremdling im Land Midian</i> vgl §Vapg-7-6, §2mo-2-22
  }
  {
   <i>Zwei Söhne von Mose</i> vgl §2mo-18-2-ff, §2mo-4-20
@@ -90716,7 +90716,7 @@ sa:
   den Sturm in den Versen 18 und 20 und die nachfolgende Bemerkung über 'unter' (die evtl auch mit dem Wind zu tun hat).
  }
  {
-  <i>unter</i>: <span class='gr'>ὑποπλέω</span> (Strongs 5284, 2x), bedeutet offenbar 'nahe bei ... segelen' oder 'leeseitig segeln' (Dem Wind abgewandte Seite).
+  <i>unter</i>: <span class='gr'>ὑποπλέω</span> (Strongs 5284, 2x), bedeutet offenbar 'nahe bei … segeln' oder 'leeseitig segeln' (Dem Wind abgewandte Seite).
   Das Wort kommt auch noch in Vers 7 vor.
   Vgl auch <a class='kom' href='#Iapg-27-16'>Apg&nbsp;27,16</a>.
  }
@@ -93901,6 +93901,13 @@ sa:
 #}
 #roem-16-23 {
  {
+  <i>Erastus</i>: in <a href='http://bibel.renenyffenegger.ch/apg_19.html#v22'>Apg&nbsp;19,22</a>, zusammen mit Timotheus, ein «Gehilfe von Paulus» genannt.
+  <span class='u'>Vgl Patton_New-Testament-Archaeology @ 32:00 ff</span>
+ }
+ {
+  <i>Wirt</i>: <span class='gr'>ξενος</span> (Strongs 3581).
+ }
+ {
   <i>Stadtverwalter</i>: <span class='gr'>ο οικονομος της πολεως</span>, Elberfelder übersetzt mit «Stadtrentmeister», KJV mit «chamberlain».
   <br>
        <span class='gr'>οἰκονόμος</span> (Strongs 3623) kommt in den Lehrbriefen noch vor in: <ul>
@@ -93910,10 +93917,6 @@ sa:
       <li>§1petr-4-10 (Verwalter der mancherlei Gnade Gottes.)
    </ul>
    Daneben kommt dieses Wort nur noch im Lukas Evangelium vor: Siehe §+lk-12-42, §lk-16-1-ff
- }
- {
-  <i>Erastus</i>: in <a href='http://bibel.renenyffenegger.ch/apg_19.html#v22'>Apg&nbsp;19,22</a>, zusammen mit Timotheus, ein «Gehilfe von Paulus» genannt.
-  <span class='u'>Vgl Patton_New-Testament-Archaeology @ 32:00 ff</span>
  }
  {
   Frage: Wurde der Römerbrief in Derbe geschrieben? Gajus, der Paulus und die Gemeinde beherbergt, ist aus Derbe (<a href='http://bibel.renenyffenegger.ch/apg_20.html#v4'>Apg&nbsp;20,4</a>)
@@ -99135,6 +99138,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Beachte: → biblisches/Personen/Paulus[Paulus'] hat auch das Römische Bürgerrecht, §apg-22-28.
  }
+ {
+  <i>entfremdet</i>: §kol-1-21, §eph-4-18
+ }
 #}
 #eph-2-13 {
  {
@@ -99539,6 +99545,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Verstockung ihres Herzens</i>: §mk-3-5
+ }
+ {
+  <i>entfremdet</i>: §eph-2-12
  }
 #}
 #eph-4-19 {
@@ -100999,6 +101008,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #kol-1-21 {
  {
   Vgl Verse 21 und 22 mit <a class='kom' href='#Ieph-2-15'>Eph&nbsp;2,15</a>.
+ }
+ {
+  <i>entfremded</i>: §eph-2-12
  }
 #}
 #kol-1-23 {
@@ -109080,6 +109092,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>lästern</i> vgl §V1petr-4-14
  }
+ {
+  <i>befremden</i>: §V1petr-4-12
+ }
 #}
 #1petr-4-5 {
  {
@@ -109158,6 +109173,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Geliebte</i>: <a class='kom' href='#Ijak-1-16'>Jak&nbsp;1,16</a>.
+ }
+ {
+  <i>befremden</i>: §V1petr-4-4
  }
  {
   TODO: Dieser Vers enthält auch Strongs 3986, welches sonst häufig mit 'Versuchung' oder 'Anfechtung' übersetzt
