@@ -40713,7 +40713,7 @@
 #}
 #2chr-24-20 {
  {
-  TODO: Sacharja: <a class='kom' href='#Imt-23-35'>Mt&nbsp;23,35</a>.
+  Sekarja: §+mt-23-35
  }
 #}
 #2chr-24-21 {
@@ -66509,7 +66509,7 @@
 #}
 #mt-1-19 {
  {
-  KJV enthält in diesem Vers «public», Elberfelder und Schlachter «öffentlich».
+  KJV übersetzt mit «public example», Elberfelder und Schlachter mit «öffentliche Schande» respektive «öffentlich zur Schau stellen».
  }
 #}
 #mt-1-20 {
@@ -68056,8 +68056,8 @@
   <i>furchtsam</i> und <i>Kleingläubige</i> vgl §mk-4-40, §offb-21-8, §joh-14-27
  }
  {
-  <i>befahl</i>: <span class='gr'>ἐπιτιμάω</span> (Strongs 2008) wird in Elberfelder mit «bedrohte» in KJV mit «rebuke» übersetzt.
-  In <a href='http://bibel.renenyffenegger.ch/mt_16.html#v22'>Mt&nbsp;16,22</a> mit «wehren» (Elberfelder: «strafen» od «tadeln»)
+  <i>bedrohte</i>: <span class='gr'>ἐπιτιμάω</span> (Strongs 2008) wird in Sch2K mit «befahl» in KJV mit «rebuke» übersetzt.
+  In §mt-16-22 mit «strafen» (Sch2K: «wehren», eine Elberfelder: «tadeln»)
  }
  {
   Vgl §+ps-89-10
@@ -68887,11 +68887,14 @@
   <i>Zu jener Zeit ging Jesus am Sabbat durch die Saaten</i>: §mk-2-23, §lk-6-1
  }
  {
+  <i>Saaten</i> wird in Sch2K mit «Kornfelder» übersetzt.
+ }
+ {
   <a href='http://bibel.renenyffenegger.ch/5mo_23.html#v26'>5.&nbsp;Mo&nbsp;23,26</a> erlaubt zwar, Ähren mit der abzustreifen, sagt aber nichts
   darüber aus, ob dies am Sabbat auch erlaubt ist.
  }
  {
-  Gemäss <a href='http://bibel.renenyffenegger.ch/lk_6.html#v1'>Lk&nbsp;6,1</a> geschah dies am 'zweiten Sabbat nach dem ersten' (Siehe Vers 9).
+  Gemäss §lk-6-1 geschah dies am «zweiten Sabbat nach dem ersten» (Siehe Vers 9).
  }
  {
   <i>Zu jener Zeit</i>: <a class='kom' href='#Imt-11-25'>Mt&nbsp;11,25</a>.
@@ -68902,9 +68905,6 @@
  {
   TODO: Mit Ausnahme von <a href='http://bibel.renenyffenegger.ch/mt_28.html#v1'>Mt&nbsp;28,1</a> kommt <i>Sabbat</i> in Matthäus nur
   bis Vers 12 vor.
- }
- {
-  <i>Kornfelder</i> wird in Elberfelder mit «Saaten» übersetzt.
  }
 #}
 #mt-12-2 {
@@ -69332,7 +69332,9 @@
 #}
 #mt-13-21 {
  {
-  <i>wetterwendisch</i>: Elberfelder übersetzt «Mensch des Augenblicks».
+  <i>ist nur für eine Zeit</i> (<span class='gr'>πρόσκαιρος</span>, Strongs 4340): Sch2K übersetzt mit «wetterwendisch», eine Elberfelder mit «Mensch des Augenblicks».
+ <br>
+  Vgl §2kor-4-18, §hebr-11-25
  }
 #}
 #mt-13-22 {
@@ -69378,7 +69380,7 @@
 #}
 #mt-13-29 {
  {
-  <i>ausraufen</i> (<span class='gr'>ἐκριζόω</span>, Strongs 1610, eigtl «entwurzeln»). Elberfelder übersetzt mit «ausreißen», KJV mit «root up».
+  <i>ausraufen</i> (<span class='gr'>ἐκριζόω</span>, Strongs 1610, eigtl «entwurzeln»). Sch2K übersetzt mit «ausreißen», KJV mit «root up».
   Vgl §mt-15-13.
   <br>Dasselbe Wort steht auch in <a href='http://bibel.renenyffenegger.ch/jud_1.html#v12'>Jud&nbsp;1,12</a>.
  }
@@ -69619,10 +69621,11 @@
   → biblisches/Bücher/Evangelien/Abschnitte#speisung-5000, §mk-6-31-ff, §lk-9-12-ff, §joh-6-5-ff
  }
  {
-  <i>einsam</i>: <span class='gr'>ἔρημος</span> (Strongs 2048), wird zum Beispiel in <a href='http://bibel.renenyffenegger.ch/mt_3.html#v1'>Mt&nbsp;3,1</a>
-  mit «Wüste» übersetzt. Entsprechend übersetzt KJV mit «he departed thence by ship into a desert», Elberfelder
-  mit «he departed thence by ship into a desert». (Dasselbe Wort auch in Vers 15).
-  Beachte, wie in Vers 19 plötzlich Gras da ist.
+  <i>einsam</i>: <span class='gr'>ἔρημος</span> (Strongs 2048), wird zum Beispiel in §mt-3-1
+  mit «Wüste» übersetzt. Entsprechend übersetzt KJV mit «he departed thence by ship into a desert», Sch2K
+  mit «zog sich … an einen einsamen Ort zurück». (Dasselbe Wort auch in Vers 15).
+ <br>
+  Beachte, wie in §Vmt-14-19 plötzlich Gras da ist.
  }
  {
   TODO: Beachte, dieser Vers enthält <span class='gr'>κατ᾽ ἰδίαν</span> (Strongs 2596+2398), das offenbar mit «allein» oder in anderem Kontext
@@ -69639,7 +69642,7 @@
   §mk-6-36, §lk-9-12
  }
  {
-  <i>einsam</i>: Elberfelder übersetzt mit «öde». Beachte, in Vers 19 hat's dann Gras.
+  <i>öde</i>: Sch2K übersetzt mit «einsam». Beachte, in Vers 19 hat's dann Gras.
  }
 #}
 #mt-14-16 {
@@ -70062,7 +70065,7 @@
 #}
 #mt-16-22 {
  {
-  <i>wehren</i> (Strongs 2008): <a class='kom' href='#Imt-8-26'>Mt&nbsp;8,26</a>.
+  <i>strafen</i> (Strongs 2008): §+mt-8-26.
  }
 #}
 #mt-16-23 {
@@ -71164,7 +71167,7 @@
 #}
 #mt-23-23 {
  {
-  <i>Recht</i>: <span class='gr'>κρίσις</span> (Strongs 2920), in Elberfelder mit «Gericht» in KJV mit «Judgement» übersetzt.
+  <i>Gericht</i>: <span class='gr'>κρίσις</span> (Strongs 2920), in Sch2K mit «Recht» in KJV mit «Judgement» übersetzt.
  }
 #}
 #mt-23-27 {
@@ -71187,7 +71190,7 @@
  }
  {
   Mit <i>Zacharia, dem Sohn Barachjas</i> scheint Sacharja gemeint zu sein: §+sach-1-1.
-  <i>Aber</i> in §2chr-24-20 wird ein Sacharja (Elberfelder: Sekarja), Sohn Jojadas im Hof des Hauses Jehovas gesteinigt.
+  <i>Aber</i> in §2chr-24-20-ff wird ein Sekarja (Sch2K: Sacharja), Sohn Jojadas im Hof des Hauses Jehovas gesteinigt.
    In §jes-8-2 ein gewisser <i>Sacharja, Sohn Jeberekjas</i> erwähnt.
   <br>
    Dies ist der letzte Gerechte, der umgebracht wird in der ursprünglichen Reihenfolge der Rollen der Bibel.
@@ -72070,7 +72073,7 @@
   Matthäusevangelium: §mt-11-16, §mt-20-13, §mt-22-12.
  }
  {
-  <i>wozu bist du gekommen?</i>: Elberfelder übersetzt mit einem Ausrufezeichen.
+  <i>wozu bist du gekommen?</i> Elberfelder übersetzt mit einem Ausrufezeichen.
  }
 #}
 #mt-26-51 {
@@ -72847,7 +72850,7 @@ sa:
    Jesu Dienst beginnt in → biblisches/Orte/Galiläa: §apg-10-37
  }
  {
-  Elberfelder üsetzt <i>gefangengenommen</i> mit 'überliefert'.
+  Sch2K übersetzt <i>überliefert</i> mit «gefangengenommen».
  }
 #}
 #mk-1-15 {
@@ -72864,6 +72867,9 @@ sa:
  }
  {
   Vgl die Berufung von Simon, Andreas, Jakobus und Johannes mit der von Levi, dem Sünder, §mk-2-14
+ }
+ {
+  TODO: Jesus wandelt und beruft dann zwei Jünger: §joh-1-36
  }
 #}
 #mk-1-17 {
@@ -81078,6 +81084,11 @@ sa:
   <i>Zwei Jünger von Johannes</i>: §+mt-11-2.
  }
 #}
+#joh-1-36 {
+ {
+  TODO: Jesus wandelt und beruft dann zwei Jünger, vgl §mk-1-16
+ }
+#}
 #joh-1-38 {
  {
   <i>Das heisst übersetzt</i>: vgl Vers 42 und <a href='http://bibel.renenyffenegger.ch/joh_9.html#v7'>Joh&nbsp;9,7</a>. S.a. <a class='kom' href='#Ihebr-7-2'>Hebr&nbsp;7,2</a>.
@@ -88435,9 +88446,8 @@ sa:
 #}
 #apg-15-7 {
  {
-  Die Heiden sollen durch <i>Petrus</i> das Evangelium hören. Aber Petrus ist auch vertraut mit dem Evangelium an die Beschneidung
-  (<a href='http://bibel.renenyffenegger.ch/gal_2.html#v7'>Gal&nbsp;2,7</a>). TODO: Warum aber haben dann die Heiden das Evangelium
-  durch Paulus gehört?
+  Die Heiden sollen durch <i>Petrus</i> das Evangelium hören, obwohl Petrus mit dem Evangelium an die Beschneidung betraut ist (§gal-2-7)
+  und → biblisches/Personen/Paulus der → biblisches/Personen/Paulus/Apostel-der-Nationen[Apostel der Nationen] ist.
  }
  {
   Hier: letzte Erwähnung von «Petrus» in der Apostelgeschichte. Von «Simon» in §Vapg-15-14.
@@ -88530,6 +88540,9 @@ sa:
  {
   <i>seit alten Geschlechtern her</i>: In Elberfelder und Sch2K mit «von alten Zeiten her», in KJV mit «of old time» übersetzt.
  }
+ {
+  <i>in jeder Stadt</i>: §Vapg-15-36
+ }
 #}
 #apg-15-22 {
  {
@@ -88598,6 +88611,9 @@ sa:
  }
  {
   Das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott verkündigen: §+apg-13-5
+ }
+ {
+  <i>in jeder Stadt</i>: §Vapg-15-21
  }
 #}
 #apg-15-38 {
@@ -97059,7 +97075,10 @@ sa:
 #}
 #2kor-4-18 {
  {
-   Vgl §hebr-11-3.
+  <i>zeitlich</i> (<span class='gr'>πρόσκαιρος</span>, Strongs 4340): §+mt-13-21
+ }
+ {
+  <i>was man sieht</i> Vgl §hebr-11-3.
  }
 #}
 @}
@@ -107050,6 +107069,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-11-25 {
  {
   <i>es vorziehen</i>: <a class='kom' href='#Iphil-1-22'>Phil&nbsp;1,22</a>.
+ }
+ {
+  <i>zeitlich</i> (<span class='gr'>πρόσκαιρος</span>, Strongs 4340): §+mt-13-21. Sch2K übersetzt mit «vergänglich».
  }
 #}
 #hebr-11-26 {
