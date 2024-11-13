@@ -27445,6 +27445,9 @@
  {
   <i>Untergang der Sonne</i>: Siehe <a class='kom' href='#Iri-8-13'>Ri&nbsp;8,13</a>.
  }
+ {
+  <i>Was ist süßer als Honig?</i> §ps-19-11
+ }
 #}
 @}
 @Richter 15 {
@@ -45879,6 +45882,11 @@
   <span class='u'>
      TODO Vgl Wilkins_Vertheidigter-Copernicus p.154
   </span>
+ }
+#}
+#ps-19-11 {
+ {
+  <i>Was ist süßer als Honig?</i> §ri-14-18
  }
 #}
 @}
@@ -64958,6 +64966,11 @@
 #}
 @}
 @Jona 4 {
+#jon-4-1 {
+ {
+  Nachdem der Herr Ninive, die große Stadt, vom Gericht verschont hatte, lobte Jona den Herrn nicht. Nachdem der Herr Babylon, eine andere große Stadt gerichtet hat, spricht die Volksmenge im Himmel «Halleluja», §offb-18-1
+ }
+#}
 #jon-4-2 {
  {
   → biblisches/Orte/Tarsis
@@ -68003,7 +68016,7 @@
   <i>Vögel des Himmels</i>: <a class='kom' href='#Imt-6-26'>Mt&nbsp;6,26</a>.
  }
  {
-  Vgl <a class='kom' href='#Imk-4-38'>Mk&nbsp;4,38</a>.
+  <i>wo er das Haupt hinlege</i> Vgl §+mk-4-38.
  }
  {
    Beachte: hier, im ersten Vorkommen von <i>Sohn des Menschen</i> im Neuen Testament hat Er nichts, wo er sein Haupt hinlegen kann, im letzten
@@ -68816,10 +68829,7 @@
 #}
 #mt-11-25 {
  {
-  Vgl §+lk-10-21
- }
- {
-  <i>Du hast es unmündigen offenbart</i> vgl §mt-21-16
+  <i>Du hast es unmündigen offenbart</i> vgl §mt-21-16, §mt-16-17, §+lk-10-21
  }
  {
   TODO: <i>offenbaren/offenbar machen</i>: <ul>
@@ -73429,8 +73439,11 @@ sa:
 #}
 #mk-4-38 {
  {
-  Er schlief auf einem Kissen: vgl <a href='http://bibel.renenyffenegger.ch/mt_8.html#v20'>Mt&nbsp;8,20</a>.
-  <br>Beachte: er ist der Hüter, der nicht schläft noch schlummert (<a href='http://bibel.renenyffenegger.ch/ps_121.html#v4'>Ps&nbsp;121,4</a>)
+  Er schlief auf <i>dem Kopfkissen</i> (<span class='gr'>το προσκεφαλαιον</span>, Strongs 4344, 1x: vgl mit dem «Haupt» (<span class='gr'>κεφαλή</span>, Strongs 2776) in  §mt-8-20.
+ <br>
+  Im Grundtext wird das Kopfkissen mit bestimmten Artikel genannt; Elberfelder und Sch2k übersetzten trotzdem mit «auf einem Kopfkissen», KJV mit «a pillow».
+ <br>
+  Beachte: Er ist der Hüter, der nicht schläft noch schlummert, §ps-121-4.
  }
 #}
 #mk-4-39 {
@@ -78242,8 +78255,7 @@ sa:
 #}
 #lk-10-21 {
  {
-  <i>…daß du dies vor Weisen und Verständigen verborgen hast, und hast es Unmündigen geoffenbart.</i> vgl §mt-11-25, §kol-1-26,
-  §lk-8-17
+  <i>…daß du dies vor Weisen und Verständigen verborgen hast, und hast es Unmündigen geoffenbart.</i> vgl §mt-11-25, §kol-1-26, §lk-8-17
  }
  {
   <i>Jesus frohlockte im Geist</i> vgl §lk-1-47
@@ -78711,6 +78723,9 @@ sa:
 #}
 #lk-12-42 {
  {
+  Vgl diesen <i>klugen Verwalter</i> mit dem <i>ungerechten</i> Verwalter, der <i>klug</i> gehandelt hat, §lk-16-8
+ }
+ {
   <i>Verwalter</i> <span class='gr'>οἰκονόμος</span> (Strongs 3623) kommt in den anderen Evangelien nicht vor. Im Lukas Evangelium kommt es
   noch vor in §lk-16-1, §+lk-16-3 und §lk-16-8.
   <br>Siehe auch §+roem-16-23.
@@ -79130,6 +79145,9 @@ sa:
  }
 #}
 #lk-16-8 {
+ {
+  Vgl den <i>ungerechten Verwalter</i>, der <i>klug</i> gehandelt hat mit dem <i>klugen Verwalter</i> in §lk-12-42.
+ }
  {
   <i>Söhne des des Lichts</i> vgl §joh-12-36, §eph-5-8, §1thes-5-5
   <br>
@@ -80229,6 +80247,9 @@ sa:
  {
   <i>eure Stunde</i> vgl §Vlk-22-14, vgl mit «meine Stunde» (die noch nicht gekommen ist), §joh-2-4
  }
+ {
+  <i>die Gewalt der Finsternis</i> vgl §joh-1-5
+ }
 #}
 #lk-22-55 {
  {
@@ -80787,6 +80808,9 @@ sa:
 #joh-1-5 {
  {
   <i>begriffen</i> (<span class='gr'>καταλαμβάνω</span>, Strongs 2638), in der Elberfelder 1905 mit 'erfasst' übersetzt.
+ }
+ {
+  <i>die Finsternis hat es nicht erfaßt</i> vgl §lk-22-53
  }
 #}
 #joh-1-6 {
@@ -92407,6 +92431,9 @@ sa:
  {
   <i>daß die Leiden der Jetztzeit nicht wert sind…</i> Vgl §2thes-1-5, §phil-3-8
  }
+ {
+  <i>zukünftige Herrlichkeit, die an uns geoffenbart werden soll</i> vgl §1petr-5-1
+ }
 #}
 #roem-8-19 {
  {
@@ -94097,6 +94124,9 @@ sa:
 #}
 #1kor-1-7 {
  {
+  Vgl §1petr-1-13
+ }
+ {
   Vgl <i>Offenbarung des Herrn Jesus Christus</i> mit der Offenbarung des
   <i>des Sohns des Verderbens/Menschen der Sünde</i> in §2thes-2-3.
   <br>
@@ -94627,6 +94657,9 @@ sa:
    <a href='http://bibel.renenyffenegger.ch/1kor_10.html#v15'>1.&nbsp;Kor&nbsp;10,15</a>.
  }
  {
+  <i>bis der Herr kommt</i> §1kor-11-26
+ }
+ {
   TODO: Warum <i>bis der Herr kommt</i> und nicht <i>bis ihr entrückt werdet</i>? Ebenso in <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v26'>1.&nbsp;Kor&nbsp;11,26</a>.
   Vgl auch mit «seinem Kommen» in <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v23'>1.&nbsp;Kor&nbsp;15,23</a> und
   <a href='http://bibel.renenyffenegger.ch/1thes_2.html#v19'>1.&nbsp;Thes&nbsp;2,19</a>.
@@ -94654,10 +94687,13 @@ sa:
 #}
 #1kor-4-10 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
+  → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
  }
  {
-  <i>Wir sind Narren</i>: §1kor-3-18 (Dasselbe Wort wie «törricht»)
+  <i>ihr seid klug</i> vgl §2kor-11-19, §1kor-10-15
+ }
+ {
+  <i>Wir sind Narren</i>: §1kor-3-18 (Dasselbe Wort wie «töricht»)
  }
 #}
 #1kor-4-12 {
@@ -95478,6 +95514,11 @@ sa:
 #1kor-10-14 {
  {
   <i>Flieht den Götzendienst</i> vgl §1joh-5-21, §+1kor-6-18
+ }
+#}
+#1kor-10-15 {
+ {
+  <i>Verständige</i>: <span class='gr'>φρονιμοις</span> (Strongs 5429): dieses Wort wird in §1kor-4-10 mit «klug» übersetzt.
  }
 #}
 #1kor-10-16 {
@@ -96355,6 +96396,11 @@ sa:
  {
   <i>bis er alle Feinde unter seine Füße gelegt hat</i> vgl §eph-1-22-23
   Siehe auch §apg-2-35 (und §ps-110-1, §hebr-2-8) wo der Herr dem Herrn die Feinde unter die Füsse legt.
+ }
+#}
+#1kor-15-26 {
+ {
+  Vgl §2tim-1-10
  }
 #}
 #1kor-15-27 {
@@ -97684,6 +97730,11 @@ sa:
 #2kor-11-18 {
  {
   Vgl §1kor-1-29, §gal-6-13
+ }
+#}
+#2kor-11-19 {
+ {
+  <i>da ihr ja klug seid</i> vgl §1kor-4-10
  }
 #}
 #2kor-11-22 {
@@ -104066,6 +104117,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>jetzt aber geoffenbart worden ist</i>, §roem-16-25
  }
+ {
+  <i>welcher den Tod zunichte gemacht hat</i> vgl §1kor-15-26
+ }
 #}
 #2tim-1-11 {
  {
@@ -108105,7 +108159,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>bitten</i>: <a class='kom' href='#Ijak-1-5'>Jak&nbsp;1,5</a>.
  }
  {
-  <i>gelüstet</i>: <span class='gr'>ἐπιθυμέω</span> (Strongs 1937) wird häufig mit «begehren» übersetzt (z. B. §mt-5-28, §mt-13-17, §apg-20-33) etc. Vgl §vjak-4-5.
+  <i>gelüstet</i>: <span class='gr'>ἐπιθυμέω</span> (Strongs 1937) wird häufig mit «begehren» übersetzt (z. B. §mt-5-28, §mt-13-17, §apg-20-33) etc. Vgl §Vjak-4-5.
  }
 #}
 #jak-4-3 {
@@ -108196,7 +108250,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-4-11 {
  {
-  <i>Richter</i> §jak-2-4, §jak-5-9.
+  <i>Richter</i> §jak-2-4; <i>redet nicht widereinander</i>: §jak-5-9.
  }
 #}
 #jak-4-12 {
@@ -108286,7 +108340,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Der Richter steht vor den Türen</i>: Elberfelder und Schlachter 2000 übersetzen das im Grundtext im Plural stehende Wort mit «Tür», vgl §+mt-24-33.
  }
  {
-  <i>Richter</i> §jak-2-4, §jak-4-11.
+  <i>Richter</i> §jak-2-4; <i>seufzt nicht widereinander</i>: §jak-4-11.
  }
 #}
 #jak-5-10 {
@@ -108518,7 +108572,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-1-13 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
+  <i>Gnade</i>, die bei der → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung Jesu Christi gebracht wird: vgl §1kor-1-7
  }
 #}
 #1petr-1-14 {
@@ -109285,6 +109339,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Geoffenbarte Herrlichkeit</i>: vgl <a href='http://bibel.renenyffenegger.ch/1petr_4.html#v13'>1.&nbsp;Petr&nbsp;4,13</a>.
+ }
+ {
+  <i>Teilhaber der Herrlichkeit, die geoffenbart werden soll</i> vgl §roem-8-18
  }
  {
   <i>Älteste</i>: vgl mit <i>Jüngere</i> in Vers 5.
@@ -112221,9 +112278,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Sieben Geister</i>: §+offb-1-4.
  }
  {
-  Beachte: hier ist das Lamm «wie geschlachtet», nachdem es das Buch genommen hat (§Voffb-5-8), erkennt (?) man, dass es geschlachtet worden ist (§Voffb-5-9 und 11).
-  <br>Vgl auch §+jes-53-7 und
-  §+jer-11-19.
+  Beachte: hier ist das Lamm «wie geschlachtet». Nachdem es das Buch genommen hat (§Voffb-5-8), erkennt (?) man, dass es geschlachtet worden ist (§Voffb-5-9 und 11).
+  <br>Vgl mit den Seelen derer, die um des Wortes Gottes willen und um des Zeugnisses willen, das sie hatten, geschlachtet werden, §offb-6-9
+  <br>Vgl auch §+jes-53-7 und §+jer-11-19.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Sieben-Köpfe-und-zehn-Hörner#sieben-hoerner
@@ -112416,7 +112473,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-6-9 {
  {
-  <i>die Seelen derer, welche geschlactet worden waren</i> vgl §offb-20-4
+  <i>die Seelen derer, welche geschlactet worden waren</i> vgl §offb-20-4, §offb-5-6
  }
  {
   TODO: Diese <i>Seelen</i> scheinen dieselben zu sein wie die 'grosse Schar' aus <a href='http://bibel.renenyffenegger.ch/offb_7.html#v9'>Offb&nbsp;7,9</a>. Falls ja:
@@ -114611,6 +114668,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>einen anderen Engel aus dem Himmel herniederkommen</i> vgl §offb-20-1. Dieser hat <i>grosse Gewalt</i>, jener die <i>Schlüssel des Abgrundes</i>.
+ }
+ {
+  Nachdem Babylon gerichtet wurde, spricht die Volksmenge <i>Halleluja</i>. Jona hingegen lobte Gott nicht, nachdem er Ninive, eine andere große Stadt, nicht gerichtet hat, §jon-4-1
  }
  {
   TODO: <i>Herrlichkeit</i>: <a class='kom' href='#Ioffb-11-13'>Offb&nbsp;11,13</a>.
