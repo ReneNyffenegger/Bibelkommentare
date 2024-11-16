@@ -58727,6 +58727,11 @@
   → biblisches/Personen/David#david-auferstehen
  }
 #}
+#jer-30-10 {
+ {
+  §jer-46-27
+ }
+#}
 #jer-30-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/unter-die-Nationen-verstreut
@@ -59593,6 +59598,9 @@
  }
 #}
 #jer-46-27 {
+ {
+  §jer-30-10
+ }
  {
   TODO: <i>Nachkommen</i> wohl besser wörtlich mit «Samen» übersetzt.
  }
@@ -67395,6 +67403,9 @@
  {
   Verfolgte → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], vgl §apg-7-52
  }
+ {
+  <i>Freut euch…</i> vgl §apg-5-41
+ }
 #}
 #mt-5-13 {
  {
@@ -72074,7 +72085,7 @@
 #}
 #mt-26-49 {
  {
-  <i>Sei gegrüsst, Rabbi</i> vgl §mt-27-29
+  <i>Sei gegrüsst, Rabbi</i> vgl §mt-27-29, §mt-28-9
  }
  {
   <i>und küsste ihn sehr</i> vgl §ps-2-12, §mk-14-45, §lk-22-47
@@ -72349,7 +72360,7 @@
   <i>gaben ihm ein Rohr in seine Rechte</i>, vgl §mk-15-19
  }
  {
-  <i>Sei gegrüßt, König der Juden</i> vgl §mt-26-49, §joh-19-3
+  <i>Sei gegrüßt, König der Juden</i> vgl §mt-26-49, §mt-28-9, §joh-19-3
  }
 #}
 #mt-27-30 {
@@ -72647,6 +72658,9 @@ sa:
  }
 #}
 #mt-28-9 {
+ {
+  <i>Seid gegrüßt</i> vgl §mt-26-49, §mt-27-29
+ }
  {
   in §joh-20-17 sagt Jesus, dass er nicht angerührt werden will, weil er noch nicht zum Vater aufgefahren ist.
  }
@@ -77278,6 +77292,9 @@ sa:
  {
   Nicht nur Judas war ein <i>Verräter</i>, sondern auch fast das ganze Volk, §apg-7-52
  }
+ {
+  <i>Judas, Jakobus' Bruder</i> §apg-1-13
+ }
 #}
 #lk-6-17 {
  {
@@ -77306,6 +77323,11 @@ sa:
  }
  {
   <i>Glückselig seid ihr, wenn die Menschen euch hassen werden</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung
+ }
+#}
+#lk-6-23 {
+ {
+  <i>freut euch</i> vgl §lk-10-20, §apg-5-41
  }
 #}
 #lk-6-25 {
@@ -78251,6 +78273,9 @@ sa:
 #lk-10-20 {
  {
   Vgl <i>Im Himmel geschriebenen Namen</i> mit der <i>Gemeinde der Erstgeborenen, die im Himmel angeschrieben sind</i>: §hebr-12-23.
+ }
+ {
+  <i>freut euch nicht … freut euch</i> vgl §lk-6-23
  }
 #}
 #lk-10-21 {
@@ -85063,6 +85088,8 @@ sa:
 #apg-1-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12
+ <br>
+  Judas, Jakobus' Bruder: §lk-6-16
  }
  {
   <i>Wo sie sich aufzuhalten pflegten</i> vgl <a href='http://bibel.renenyffenegger.ch/lk_24.html#v53'>Lk&nbsp;24,53</a> ('sie waren allezeit im Tempel')
@@ -86167,6 +86194,11 @@ sa:
 #apg-5-40 {
  {
   TODO: <i>Und sie fügten sich ihm</i> in Elberfelder 'Und sie gaben ihm Gehör', in KJV: 'And to him they agreed'.
+ }
+#}
+#apg-5-41 {
+ {
+  <i>Voll Freude…</i> §mt-5-12, §lk-6-23
  }
 #}
 #apg-5-42 {
@@ -87699,7 +87731,7 @@ sa:
   TODO: Vgl §+gal-2-9.
  }
  {
-  TODO: Ist dieser getötete Jakobus derselbe, wie der aus Vers 12?
+  TODO: Ist dieser getötete Jakobus derselbe, wie der in §Vapg-12-17?
  }
  {
   TODO: vgl <i>Jakobus, der Bruder des Johannes</i> mit <i>Jakobus und die Brüder</i> in Vers 17.
@@ -87738,9 +87770,6 @@ sa:
  }
 #}
 #apg-12-7 {
- {
-  → biblisches/Personen/Jakobus
- }
  {
    Beachte: hier <i>Engel des Herrn</i> in <a href='http://bibel.renenyffenegger.ch/apg_12.html#v17'>Vers 17</a> sagt Petrus, dass es der Herr selbst
    war, der ihn befreit hatte. Der Engel wurde vom Herrn gesant (Vers 11).
@@ -87782,7 +87811,7 @@ sa:
 #}
 #apg-12-17 {
  {
-  Ist dieser Jakobus derselbe, der in Vers 2 getötet wurde, und Petrus wusste dies gar nicht? Ging Petrus <i>deshalb</i> an
+  Ist dieser → biblisches/Personen/Jakobus derselbe, der in §Vapg12-2 getötet wurde, und Petrus wusste dies gar nicht? Ging Petrus <i>deshalb</i> an
   einen anderen Ort?
  }
  {
@@ -88676,12 +88705,11 @@ sa:
 #}
 #apg-15-41 {
  {
-  Paulus ist in <i>Cilicen</i> geboren worden (<a href='http://bibel.renenyffenegger.ch/apg_22.html#v3'>Apg&nbsp;22,3</a>,
+  Paulus ist in <i>Cilicien</i> geboren worden (<a href='http://bibel.renenyffenegger.ch/apg_22.html#v3'>Apg&nbsp;22,3</a>,
   <a href='http://bibel.renenyffenegger.ch/apg_23.html#v34'>Apg&nbsp;23,34</a>)
  }
  {
-  Paulus kamm in die Gegenden von <i>Syrien und Cilicien</i> nachdem er drei Jahre nach der Bekehrung Petrus
-  kennengelernt hatte (<a href='http://bibel.renenyffenegger.ch/gal_1.html#v21'>Gal&nbsp;1,21</a>).
+  Paulus kamm in die Gegenden von <i>Syrien und Cilicien</i> nachdem er drei Jahre nach der Bekehrung Petrus kennengelernt hatte, §gal-1-21.
  }
 #}
 @}
@@ -88749,10 +88777,13 @@ sa:
   <i>vom Heiligen Geist verhindert</i> und <i>der Geist Jesu erlaubte es ihnen nicht</i> vgl §1thes-2-18
  }
  {
+  <i>Phrygien und die galatische Landschaft</i> §apg-18-23
+ }
+ {
   Siehe §+1petr-1-1.
  }
  {
-  In §apg-19-10 hören dann doch alle in Asia das Wort des Herrn durch Paulus.  Siehe auch §apg-20-18.
+  In §apg-19-10 hören dann doch alle in Asia das Wort des Herrn durch Paulus. Siehe auch §apg-20-18.
  }
  {
   TODO: <a class='kom' href='#Iapg-8-36'>Apg&nbsp;8,36</a>.
@@ -89389,6 +89420,11 @@ sa:
 #apg-18-22 {
  {
   TODO: <i>Cäsarea</i>: <a class='kom' href='#Iapg-8-40'>Apg&nbsp;8,40</a>.
+ }
+#}
+#apg-18-23 {
+ {
+  <i>Die galatische Landschaft und Phrygien</i> §apg-16-6
  }
 #}
 #apg-18-24 {
@@ -95484,7 +95520,7 @@ sa:
 #}
 #1kor-10-8 {
  {
-  §+4mo-25-9. Vgl §jud-1-5. Vgl auch §+4mo-25-7
+  §+4mo-25-9. Vgl §hebr-8-9 und §jud-1-5. Vgl auch §+4mo-25-7
  }
 #}
 #1kor-10-10 {
@@ -100597,7 +100633,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Philipper 3 {
 #phil-3-1 {
  {
-  <i>Übrigens, meine Brüder, freut euch im Herrn!</i> vgl §2kor-13-11, §phil-4-1
+  <i>Übrigens, meine Brüder, freut euch im Herrn!</i> vgl §2kor-13-11, §phil-4-1, §kol-1-24
  }
 #}
 #phil-3-2 {
@@ -100797,7 +100833,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-4-4 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1thes_5.html#v16'>1.&nbsp;Thes&nbsp;5,16</a>, <a href='http://bibel.renenyffenegger.ch/phil_3.html#v1'>Phil&nbsp;3,1</a>
+  <i>Freut euch im Herrn</i> Vgl §Vphil-4-10, §1thes-5-16, §phil-3-1
  }
 #}
 #phil-4-5 {
@@ -101124,6 +101160,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, vgl §Vkol-1-5
+ }
+#}
+#kol-1-24 {
+ {
+  <i>Sich in den Leiden freuen</i> vgl §+phil-3-1
  }
 #}
 #kol-1-25 {
@@ -103923,10 +103964,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig
  }
  {
-  <i>Den guten Kampf kämpfen</i>: Siehe auch <a class='kom' href='#I1tim-1-18'>1.&nbsp;Tim&nbsp;1,18</a>.
+  <i>Den guten Kampf kämpfen</i>: §+1tim-1-18
+ <br>
+  Paulus hat «den guten Kampf gekämpft, den Lauf vollendet, den Glauben bewahrt». (§2tim-4-7).
  }
  {
-   Paulus hat 'den guten Kampf gekämpft, den Lauf vollendet, den Glauben bewahrt.'. (<a href='http://bibel.renenyffenegger.ch/2tim_4.html#v7'>2.&nbsp;Tim&nbsp;4,7</a>).
+  <i>Kampf des Glaubens</i>: §jud-1-3
  }
  {
   Vgl <i>berufen zu</i> <a class='kom' href='#Ikol-3-15'>Kol&nbsp;3,15</a>
@@ -106390,7 +106433,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-8-9 {
  {
-  Vgl <a class='kom' href='#I2mo-24-8'>2.&nbsp;Mo&nbsp;24,8</a>.
+  <i>Bund</i> §+2mo-24-8.
+ }
+ {
+  <i>… denn sie blieben nicht in meinem Bund, und ich kümmerte mich nicht um sie</i> §+1kor-10-8, §jud-1-5
  }
 #}
 #hebr-8-10 {
@@ -107639,13 +107685,16 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Jakobus 1 {
 #jak-1-1 {
  {
+  <i>Jakobus, Knecht Gottes und des Herrn Jesus Christus</i> §jud-1-1
+ }
+ {
   <i>Zerstreuung</i>: §+joh-7-35 und §1petr-1-1.
  }
  {
   Dieser Jakobus schreibt and → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/Stämme[12 Stämme], der erste Jakob hat sie gezeugt, vgl mit dem, was jener zu ihnen redete, §1mo-49-28.
  }
  {
-  TODO: Die Zerstreuten haben hier kein Land, aber die weltlich Armen sind auserwählt als Erben des Reiches, §jak-2-5
+  Die Zerstreuten haben hier kein Land oder sind zumindest nicht in ihrem Land, aber die weltlich Armen sind auserwählt als Erben des Reiches, §jak-2-5
  }
  {
   TODO: <i>Knecht Gottes</i>: §+tit-1-1.
@@ -107920,12 +107969,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Zu Erben des Reiches verheißen</i> vgl §lk-22-29
+  <br>
+  Vgl die <i>Erben des Reiches</i> mit den Adressaten des Briefes, die zerstreut (und nicht in ihrem Land) sind, §jak-1-1
  }
  {
   <i>weltlich arm, reich im Glauben</i> vgl §+2kor-8-9
- }
- {
-  TODO: Vgl die Erben des Reiches mit den Adressaten des Briefes, die zerstreut sind, §jak-1-1
  }
 #}
 #jak-2-6 {
@@ -108319,6 +108367,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-5-3 {
  {
+  <i>Gold und Silber</i> vgl §1petr-1-18
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#letzte-tage
  }
 #}
@@ -108490,6 +108541,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Gepriesen sei…</i> vgl §+roem-1-25
  }
+ {
+  <i>Barmherzigkeit</i>: §1petr-2-10
+ }
 #}
 #1petr-1-4 {
  {
@@ -108600,7 +108654,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   'anpassen' vgl <a class='kom' href='#Iroem-12-2'>Röm&nbsp;12,2</a>.
  }
  {
-  Vgl <i>gehorsame Kinder</i> mit <i>neugeborene Kindlein</i> in <a href='http://bibel.renenyffenegger.ch/2petr_2.html#v2'>2.&nbsp;Petr&nbsp;2,2</a>.
+  <i>Kinder des Gehorsams</i> vgl §V1petr-1-2
+ }
+ {
+  Vgl <i>gehorsame Kinder</i> mit <i>neugeborene Kindlein</i> in §1petr-2-2.
  }
 #}
 #1petr-1-15 {
@@ -108625,6 +108682,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1petr-1-18 {
  {
   <i>nicht mit verweslichen Dingen … erlöst worden</i> vgl §+1kor-6-20, §2petr-2-1
+ <br>
+  <i>Silber und Gold</i> vgl §jak-5-3
  }
  {
   <i>mit verweslichen Dingen, Silber oder Gold</i> vgl §V1petr-1-7
@@ -108801,7 +108860,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-2-10 {
  {
-   Verweis: <a class='kom' href='#Ihos-2-25'>Hos&nbsp;2,25</a>.
+  <i>nicht ein Volk, jetzt aber Volk Gottes</i>: §+hos-2-25.
+ }
+ {
+  <i>Barmherzigkeit</i>: §1petr-1-3
  }
  {
   TODO: Sind wir nun <i>Gottes Volk</i> oder nicht?
@@ -108827,7 +108889,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Heimsuchung</i>: §+lk-19-44.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Werk/index#gute-werke
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#gute-werke
+ }
+ {
+  <i>Wandel unter den Nationen</i> vgl §1petr-4-3
  }
 #}
 #1petr-2-13 {
@@ -109166,6 +109231,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1petr-4-3 {
  {
   Vgl §roem-13-13
+ }
+ {
+  <i>Wille der Nationen</i> vgl §1petr-2-12
  }
  {
          <table summary='.'>
@@ -109654,7 +109722,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Berufung</i>: <a class='kom' href='#I1petr-1-15'>1.&nbsp;Petr&nbsp;1,15</a>.
  }
  {
-  Vgl <a class='kom' href='#I1kor-10-12'>1.&nbsp;Kor&nbsp;10,12</a>.
+  <i>niemals straucheln</i> Vgl §jud-1-24, §+1kor-10-12.
  }
 #}
 #2petr-1-12 {
@@ -110984,6 +111052,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #jud-1-1 {
  {
   <i>den … Berufenenen</i>: vgl die Anfänge von §roem-1-1 und §1kor-1-1, wo sich → biblisches/Personen/Paulus, der Schreiber des Briefes, als «Berufen» bezeichnet.
+ <br>
+  <i>Judas, Knecht Jesu Christi und Bruder des Jakobus</i> vgl mit §jak-1-1
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
@@ -111007,6 +111077,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Geliebte</i>: §Vjud-1-17, §Vjud-1-20
  }
+ {
+  <i>für den Glauben kämpfen</i> §1tim-6-12
+ }
 #}
 #jud-1-4 {
  {
@@ -111024,7 +111097,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jud-1-5 {
  {
-  Vgl §+1kor-10-8
+  <i>der Herr vertilgte, nachdem er das Volk aus dem Land Ägypten gerettet hatte, zum anderenmal die, welche nicht geglaubt haben</I> Vgl §+1kor-10-8, §hebr-8-9
  }
  {
   <span class='gt'>Offenbar gibt es eine → biblisches/Grundtext/Varianten[Grundtext Variante], gemäss welcher Jesus anstelle des Herrn das Volk
@@ -111181,6 +111254,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>erhaltet</i>: <span class='gr'>τηρησατε</span>, Strongs 5083, wäre wohl konsistenter mit «bewahrt» übersetz, wie auch in §Vjud-1-1, 6 und 13.
  }
+ {
+  <i>Barmherzigkeit</i> §Vjud-1-2
+ }
 #}
 #jud-1-22 {
  {
@@ -111213,6 +111289,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>bewahrt</i> <a class='kom' href='#Ijud-1-1'>Vers 1</a>.
+ }
+ {
+  <i>ohne Straucheln</i> vgl §2petr-1-10
  }
 #}
 #jud-1-25 {
