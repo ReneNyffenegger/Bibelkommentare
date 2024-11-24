@@ -27612,7 +27612,7 @@
 #}
 #ri-17-6 {
  {
-  <i>Zu jener Zeit gab es keinen König in Israel</i>: §ri-18-1, §ri-19-1 und im letzten Vers §ri-21-25.
+  → biblisches/Bücher/prophetisch/Richter#ri-kein-koenig[In jenen Tagen war kein König in Israel]: §ri-18-1, §ri-19-1 und im letzten Vers §ri-21-25.
   <br>
    Siehe auch §1sam-8-5.
  }
@@ -27657,7 +27657,7 @@
 @Richter 18 {
 #ri-18-1 {
  {
-  <i>Zu jener Zeit</i>: <a class='kom' href='#Iri-17-6'>Ri&nbsp;17,6</a>.
+ → biblisches/Bücher/prophetisch/Richter#ri-kein-koenig[In jenen Tagen war kein König in Israel], §+ri-17-6
  }
 #}
 #ri-18-2 {
@@ -27747,7 +27747,7 @@
   Hier nimmt ein <i>levitischer</i> Mann eine Nebenfrau aus → biblisches/Orte/Bethlehem[Bethlehem]-Juda, in §ri-17-7 wird ein <i>Levit</i> aus Bethlehem-Juda erwähnt, vgl §+rt-1-1.
  }
  {
-  <i>in jenen Tagen, als kein König in Israel war</i>: §+ri-17-6.
+  → biblisches/Bücher/prophetisch/Richter#ri-kein-koenig[In jenen Tagen war kein König in Israel], §+ri-17-6
  }
  {
   Zu dieser Zeit lebt Pinehas noch (<a href='http://bibel.renenyffenegger.ch/ri_20.html#v28'>Ri&nbsp;20,28</a>).
@@ -28022,7 +28022,10 @@
 #}
 #ri-21-25 {
  {
-  <i>In jenen Tagen … was recht war in seinen Augen</i>: §+ri-17-6, vgl §5mo-12-8
+  → biblisches/Bücher/prophetisch/Richter#ri-kein-koenig[In jenen Tagen war kein König in Israel], §+ri-17-6
+ }
+ {
+  <i>ein jeder tat, was recht war in seinen Augen</i> vgl §5mo-12-8
  }
 #}
 @}
@@ -28603,7 +28606,10 @@
 #}
 #1sam-8-5 {
  {
-  <i>setze einen König über uns ein, …, gleich allen Nationen</i>: <a class='kom' href='#I5mo-17-14'>5.&nbsp;Mo&nbsp;17,14</a>.
+  <i>setze einen König über uns ein, …, gleich allen Nationen</i>: §+5mo-17-14.
+ <br>
+  Der Wunsch einen König einzusetzen war vielleicht eine Folge davon, dass während der Zeit der Richter
+  → biblisches/Bücher/prophetisch/Richter#ri-kein-koenig[kein König über Israel war].
  }
  {
   <a class='kom' href='#Iri-17-6'>Ri&nbsp;17,6</a>, <a class='kom' href='#Ijoh-19-15'>Joh&nbsp;19,15</a>.
@@ -51449,7 +51455,10 @@
 #}
 #spr-10-4 {
  {
-  Vgl §spr-12-24, §spr-21-5
+  <i>macht reich</i> vgl §Vspr-10-22
+ }
+ {
+  <i>Die Hand der Fleißigen</i> Vgl §spr-12-24, §spr-21-5
  }
 #}
 #spr-10-5 {
@@ -51475,6 +51484,11 @@
 #spr-10-15 {
  {
     Vgl §spr-18-11
+ }
+#}
+#spr-10-22 {
+ {
+  <i>macht reich</i> vgl §Vspr-10-4
  }
 #}
 @}
@@ -51565,7 +51579,7 @@
 #}
 #spr-12-24 {
  {
-  Vgl §+spr-10-4, §Vspr-12-27
+  <i>Die Hand der Fleißigen</i> Vgl §+spr-10-4, §Vspr-12-27
  }
 #}
 @}
@@ -52157,7 +52171,7 @@
 #}
 #spr-21-5 {
  {
-  Vgl §+spr-10-4
+  <i>Die Gedanken der Fleißigen</i> Vgl §+spr-10-4
  }
 #}
 #spr-21-6 {
@@ -52478,6 +52492,11 @@
   <i>Auf zwei Wegen gehen</i> §Vspr-28-18
  }
 #}
+#spr-28-7 {
+ {
+  <i>macht seinem Vater Schande</i> vgl §spr-29-15
+ }
+#}
 #spr-28-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zins
@@ -52559,6 +52578,9 @@
  }
 #}
 #spr-29-15 {
+ {
+  <i>macht seiner Mutter Schande</i> vgl §spr-28-7
+ }
  {
   Vgl §Vspr-29-17
  }
@@ -52815,6 +52837,11 @@
   TODO: <i>Salböl</i> ist im Hebr «nur» <span class='he'>שֶׁמֶן</span> (Strongs 8081).
   <br>
   Kombination <i>Name</i> und <i>(Salb-)öl</i>: vgl §hl-1-3.
+ }
+#}
+#pred-7-7 {
+ {
+  <i>… macht den Weisen…</i> vgl §Vpred-7-19
  }
 #}
 #pred-7-13 {
@@ -57723,13 +57750,13 @@
   oder auch: <i>bei der Stimme des Donners</i> vgl §offb-10-3-4
  }
  {
-  TODO: Dieser Verses sollte wohl in <a href='http://bibel.renenyffenegger.ch/jer_51.html#v16'>Jer&nbsp;51,16</a>
+  TODO: Dieser Verses sollte wohl in §jer-51-16
   gleich übersetzt werden. In Elberfelder wird er an beiden Orten mit
-         «Wenn er beim Schalle des Donners Wasserrauschen am Himmel bewirkt und Dünste aufsteigen läßt vom Ende der Erde, Blitze zum Regen macht und den Wind herausführt aus seinen Vorratskammern» in
+       «Wenn er beim Schalle des Donners Wasserrauschen am Himmel bewirkt und Dünste aufsteigen läßt vom Ende der Erde, Blitze zum Regen macht und den Wind herausführt aus seinen Vorratskammern» in
   KJV mit
-         «When he uttereth his voice, there is a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures.»
+     «When he uttereth his voice, there is a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures.»
   übersetzt.
-         <br>Beachte auch <i>Donner</i> vs <i>voice</i>.
+    <br>Beachte auch <i>Donner</i> vs <i>voice</i>.
  }
  {
   TODO: <i>Wind in Kammern [Schätze, Strongs 214]</i>: <a class='kom' href='#Ips-135-7'>Ps&nbsp;135,7</a>.
@@ -60067,7 +60094,7 @@
 #}
 #jer-51-16 {
  {
-  Derselbe (?) Vers auch in §jer-10-5
+  Derselbe (?) Vers auch in §jer-10-13
  }
  {
   <i>Wind in Vorratskammern [Schatz, Strongs 214]</i>: vgl <a class='kom' href='#Ips-135-7'>Ps&nbsp;135,7</a>.
@@ -72947,9 +72974,6 @@ sa:
  }
  {
   Hier <i>lehrt</i> der Herr, wie einer der <i>Gewalt</i> hat, mit Gewalt gebietet er selbst den unreinen Geistern, §Vmk-1-27.
- }
- {
-  <i>erstaunt über Seine Lehre</i> §+mt-7-28
  }
 #}
 #mk-1-23 {
@@ -99435,7 +99459,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Mitteilhaber</i>: §+eph-5-7.
  }
  {
-  <i>Miterben</i>: §eph-1-1-ff, §eph-3-6
+  <i>Miterben</i>: §eph-1-11-ff, §roem-8-17
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
