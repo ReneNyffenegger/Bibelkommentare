@@ -89407,6 +89407,9 @@ sa:
  {
   <i>über diese Dinge will ich nicht Richter sein</i> vgl §apg-25-10
  }
+ {
+  <i>Streitfragen über Worte und Namen und das Gesetz</i> vgl §apg-23-29, §apg-25-19, §apg-26-3
+ }
 #}
 #apg-18-17 {
  {
@@ -90513,6 +90516,9 @@ sa:
  {
   <i>… die des Todes oder der Bande wert wäre</i>: vgl §apg-26-31
  }
+ {
+  <i>Streitfragen ihres Gesetzes</i> vgl §apg-18-15, §agp-25-19
+ }
 #}
 #apg-23-30 {
  {
@@ -90670,6 +90676,11 @@ sa:
    <i>Verurteilung</i>: <span class='gr'>δίκη</span> (Strongs 1349, 4x), auch noch in §apg-28-4 («Rache»), §2thes-1-9 («Strafe»), §jud-1-7 («Strafe»).
  }
 #}
+#apg-25-19 {
+ {
+  <i>Streitfragen … wegen ihres … Gottesdienstes</i> vgl §apg-18-15, §apg-23-29
+ }
+#}
 #apg-25-21 {
  {
   Ist <i>Augustus</i> hier ein Titel des → biblisches/Personen/Kaiser[Kaisers] Nero?
@@ -90695,6 +90706,11 @@ sa:
 #apg-26-2 {
  {
   <i>Busse tun</i>: <a class='kom' href='#Iapg-2-38'>Apg&nbsp;2,38</a>
+ }
+#}
+#apg-26-3 {
+ {
+  <i>Streitfragen</i>: §+apg-18-15
  }
 #}
 #apg-26-5 {
@@ -94269,11 +94285,14 @@ sa:
 #}
 #1kor-1-11 {
  {
+  <i>daß Streitigkeiten unter euch sind</i> §1kor-3-3
+ }
+ {
   Vgl die Streitigkeiten, die in der Chloe bekannt geworden sind, mit dem Glauben, der überall oder in der ganzen
   Welt verkündigt wird: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
   <br>
-    Vgl auch mit was Paulus <i>hört</i> in <a href='http://bibel.renenyffenegger.ch/1kor_5.html#v1'>1.&nbsp;Kor&nbsp;5,1</a> und
-    <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v18'>1.&nbsp;Kor&nbsp;11,18</a>.
+   Vgl auch mit was Paulus <i>hört</i> in <a href='http://bibel.renenyffenegger.ch/1kor_5.html#v1'>1.&nbsp;Kor&nbsp;5,1</a> und
+   <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v18'>1.&nbsp;Kor&nbsp;11,18</a>.
  }
  {
   TODO: Geht dieser Abschnitt über Streitigkeiten bis <a href='http://bibel.renenyffenegger.ch/1kor_6.html#v20'>1.&nbsp;Kor&nbsp;6,20</a>?
@@ -94517,6 +94536,9 @@ sa:
  }
 #}
 #1kor-3-3 {
+ {
+  <i>Denn da … Streit und Zwietracht unter euch ist</i> vgl §1kor-1-11
+ }
  {
   <i>Neid</i>: <span class='gr'>ζῆλος</span> (Strongs 2205), vgl §2kor-7-7, §2kor-12-20, §jak-3-14
  }
@@ -103148,12 +103170,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1tim-1-4 {
  {
-   <i>Fabeln</i>: <span class='gr'>μῦθος</span>, Strongs 3454, vgl §1tim-4-7, §2tim-4-4, §tit-1-14, §2petr-1-16. Elberfelder übersetzt mit «Legenden».
+  <i>Fabeln</i>: <span class='gr'>μῦθος</span>, Strongs 3454, vgl §1tim-4-7, §2tim-4-4, §tit-1-14, §2petr-1-16. Elberfelder übersetzt mit «Legenden».
  }
  {
   <i>Geschlechtsregister</i>: <span class='gr'>γενεαλογία</span> (Strongs 1076, 2x) auch in §tit-3-9.
   <br>
   Vgl §+hebr-7-3 und → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis.
+ }
+ {
+  <i>Streitfragen</i>: <span class='gr'>ζήτησις</span> (Strongs 2214), vgl §1tim-6-4, §2tim-2-23
  }
  {
   TODO → biblisches/Grundtext/LXX-vs-masoretischer-Text/Chronologie
@@ -103924,6 +103949,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
  }
  {
+  <i>Streitfragen</i>: <span class='gr'>ζήτησις</span> (Strongs 2214), vgl §1tim-1-4, §2tim-2-23
+ }
+ {
   TODO: Vgl <a class='kom' href='#I2kor-12-20'>2.&nbsp;Kor&nbsp;12,20</a>.
  }
 #}
@@ -104461,6 +104489,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #2tim-2-23 {
+ {
+  <i>Streitfragen</i>: <span class='gr'>ζήτησις</span> (Strongs 2214), vgl §1tim-6-4, §1tim-6-4
+ }
  {
   §tit-3-9
  }
