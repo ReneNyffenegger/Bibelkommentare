@@ -595,10 +595,13 @@
   Vgl §+1mo-1-26.
  }
  {
-  <i>Odem in der Nase</i>: §jes-2-22
+  <i>Odem in der Nase</i>: §1mo-7-22, §jes-2-22 vgl §sach-12-1
  }
  {
-  §1kor-15-45
+  TODO: <i>Odem in der Nase</i> vgl §2sam-22-16
+ }
+ {
+  <i>Der Mensch wurde eine lebendige Seele</i>: §1kor-15-45
  }
  {
   <i>Staub vom Erdboden</i> vgl §ps-90-3, §ps-103-14, §ps-104-29
@@ -1139,8 +1142,15 @@
 #1mo-4-10 {
  {
   Kain redete mit Abel (Vers 8), aber die Stimme des Blutes seines Bruders schreit zu Gott. Und Abel redet noch immer durch
-  den Glauben (<a href='http://bibel.renenyffenegger.ch/hebr_11.html#v4'>Hebr&nbsp;11,4</a>). Das <i>Blut der Besprengung</i>
-  redet Besseres als jenes von Abel (<a href='http://bibel.renenyffenegger.ch/hebr_12.html#v24'>Hebr&nbsp;12,24</a>)
+  den Glauben (§hebr-11-4). Das <i>Blut der Besprengung</i> redet Besseres als jenes von Abel (§hebr-12-24)
+ <br>
+  Vgl §mt-23-35
+ }
+ {
+  <i>schreit zu mir</i> vgl §2mo-2-23
+ }
+ {
+  Beachte: <i>Blut</i> steht im Grundtext im Plural, vgl §2koe-9-26, §jes-1-15, §jes-9-4
  }
 #}
 #1mo-4-11 {
@@ -1574,7 +1584,7 @@
   <i>Alles, was auf der Erde ist, soll verscheiden</i> vgl §1mo-7-21
  }
  {
-  <i>Lebensodem</i> siehe <a class='kom' href='#I1mo-7-22'>1.&nbsp;Mo&nbsp;7,22</a>.
+  <i>Hauch des Lebens</i> siehe §+1mo-7-22.
  }
  {
   TODO: Strongs 1478 (auch verwendet in <a href='http://bibel.renenyffenegger.ch/1mo_25.html#v8'>1.&nbsp;Mo&nbsp;25,8</a> usw) ist nicht Strongs 4191
@@ -1734,7 +1744,7 @@
 #}
 #1mo-7-15 {
  {
-  <i>Lebensodem</i> siehe <a class='kom' href='#I1mo-7-22'>Vers 22</a>.
+  <i>Hauch des Lebens</i> vgl §V1mo-7-22
  }
 #}
 #1mo-7-17 {
@@ -1762,10 +1772,11 @@
 #}
 #1mo-7-22 {
  {
-   <i>Lebensodem</i> im Hebräischen <span class='hebr'>נִשְׁמַת־ר֨וּחַ חַיִּ֜ים</span>, Strongs: 5397,7307,2416.
-   In <a href='http://bibel.renenyffenegger.ch/1mo_6.html#v17'>1.&nbsp;Mo&nbsp;6,17</a> und
-   <a href='http://bibel.renenyffenegger.ch/1mo_7.html#v15'>Vers 15</a> ist <i>Lebensodem</i> im Hebräischen
-   lediglich <span class='hebr'>ר֥וּחַ חַיִּֽים</span>.
+  <i>Odem des Lebenshauches</i> im Hebräischen <span class='hebr'>נִשְׁמַת־ר֨וּחַ חַיִּ֜ים</span>, Strongs: 5397,7307,2416.
+  In §1mo-6-17 und §V1mo-7-15 wird lediglich vom «Lebenshauch» <span class='hebr'>ר֥וּחַ חַיִּֽים</span>.  gesprochen 
+ }
+ {
+  <i>In dessen Nase ein Odem des Lebenshauches…</i> vgl §1mo-2-7
  }
 #}
 #1mo-7-24 {
@@ -3606,7 +3617,7 @@
   <i>Vater einer Menge Nationen</i>: §roem-4-17
  }
  {
-  <i>sondern Abraham soll dein Name sein</i> §neh-9-7
+  <i>sondern Abraham soll dein Name sein</i> §neh-9-7, §V1mo-17-15
  }
 #}
 #1mo-17-6 {
@@ -3698,7 +3709,20 @@
 #}
 #1mo-17-15 {
  {
-   TODO: <i>Sara</i> siehe <a class='kom' href='#Iri-11-29'>Ri&nbsp;11,29</a>.
+  <i>Sondern Sara</i> soll dein Name sein, vgl §V1mo-17-5
+ }
+ {
+  Bei der Namensänderung von Abram (<span class='hebr'>אַבְרָם</span>) zu Abraham (<span class='gr'>אַבְרָהָם</span>) hat er ein → biblisches/Grundtext/Buchstaben/He[He] gewonnen. Sein Zahlenwert nahm also von → biblisches/Grundtext/Zahlenwert#n245[243 = 3⁵] um 5 auf 248 zu.
+ <br>
+  Bei der Namensänderung von Sarai (<span class='hebr'>שָׂרַי</span>) zu Sara (<span class='gr'>שָׂרָה</span>) verliert sie ein → biblisches/Grundtext/Buchstaben/Jod[Jod] und gewinnt ein → biblisches/Grundtext/Buchstaben/He[He], ihr Zahlenwert nimmt also um 5 auf → biblisches/Grundtext/Zahlen#n208[208], den
+  Wert Hagars, ab.
+ <br>
+  Ein <i>He</i> wurde verschoben, aber wohin ist das Jod gegangen? Es kann doch kein Jota vom Gesetz vergehen, §mt-5-18.
+  Ging es vielecht zu Hosea (<span class='hebr'>הוֹשֵׁעַ</span>), der Josua (<span class='hebr'>יְהוֹשׁוּעַ</span>) genannt wurde, §4mo-13-16
+  Beachte aber auch, dass auch die Namen ihrer Nachkommen Isaak und Jakob (auch Israel) mit einom Jod beginnen.
+ }
+ {
+  TODO: <i>Sara</i> siehe <a class='kom' href='#Iri-11-29'>Ri&nbsp;11,29</a>.
  }
 #}
 #1mo-17-16 {
@@ -5501,8 +5525,7 @@
   <a href='http://bibel.renenyffenegger.ch/1mo_49.html#v16'>1.&nbsp;Mo&nbsp;49,16</a>
  }
  {
-  Gott hat Bilha recht verschafft, und Dan «wird sein Volk richten» (<a href='http://bibel.renenyffenegger.ch/1mo_49.html#v16'>1.&nbsp;Mo&nbsp;49,16</a>) (TODO: Beides diesselben Wörter
-  im Hebräischen)
+  Gott hat Rahel recht verschafft, und Dan «wird sein Volk richten» (§1mo-49-16) (TODO: Beides diesselben Wörter im Hebräischen)
  }
 #}
 #1mo-30-7 {
@@ -8299,6 +8322,9 @@
 #}
 #2mo-2-23 {
  {
+  <i>ihr Geschrei … stieg hinauf zu Gott</i> vgl §1mo-4-10, §offb-6-9-11
+ }
+ {
   §jes-19-20
  }
  {
@@ -9899,6 +9925,9 @@
   <i>Israeliten als Knechte</i>: <a class='kom' href='#I1mo-15-13'>1.&nbsp;Mo&nbsp;15,13</a>.
  }
  {
+  <i>Sie glaubten an Jehova</i> vgl §ps-106-12
+ }
+ {
    Erste Erwähnung von Mose als «Knecht», die Mose nicht über sich selbst sagt, vgl <a class='kom' href='#I2mo-4-10'>2.&nbsp;Mo&nbsp;4,10</a>.
   <br>
    Vgl mit Mose als <i>Mann Gottes</i> in <a class='kom' href='#I5mo-33-1'>5.&nbsp;Mo&nbsp;33,1</a>.
@@ -9909,6 +9938,9 @@
 #2mo-15-1 {
  {
   <i>Lied</i>: Vgl §4mo-21-17, §+5mo-31-19 (Lied des Mose?), §5mo-32-43
+ }
+ {
+  <i>Damals sangen …</i> vgl §ps-106-12
  }
  {
   → biblisches/Personen/Mirjam[Mirjams] Antwort enthält die selben Worte, §V2mo-15-21
@@ -10009,9 +10041,9 @@
   Mose wusste wohl, dass es in der Nähe von Schur (Sur) einen Wasserbrunnen hatte (<a href='http://bibel.renenyffenegger.ch/1mo_16.html#v7'>1.&nbsp;Mo&nbsp;16,7</a>).
  }
  {
-  Beachte: Mose liess aufbrechen. Wäre es nicht besser gewesen, wenn er auf Gott gewartet hätte? Vgl insbesondere <a href='http://bibel.renenyffenegger.ch/ps_106.html#v12'>Ps 106,12-13</a>.
+  TODO: Beachte: Mose liess aufbrechen. Wäre es nicht besser gewesen, wenn er auf Gott gewartet hätte? Vgl insbesondere §ps-106-12-13.
   Beachte auch, dass sie kein Wasser fanden, respektive dass es in Mara bitter war (Vers 23).
-  <br>Im Gegensatz dazu <a href='http://bibel.renenyffenegger.ch/2mo_17.html#v1'>2.&nbsp;Mo&nbsp;17,1</a> zieht Israel 'nach dem Befehl des HERRN' aus, trotzdem haben sie dort kein
+  <br>Im Gegensatz dazu §2mo-17-1 zieht Israel 'nach dem Befehl des HERRN' aus, trotzdem haben sie dort kein
   Wasser zu trinken.
  }
  {
@@ -14057,7 +14089,7 @@
 #}
 #3mo-4-13 {
  {
-  TODO: Vergebung für <i>verborgene Sünden</i>: <a href='http://bibel.renenyffenegger.ch/4mo_11.html#v22'>4.&nbsp;Mo&nbsp;11,22&nbsp;ff</a>
+  TODO: Vergebung für <i>verborgene Sünden</i>: §4mo-15-24
  }
  {
   TODO: Strongs 816, siehe <a class='kom' href='#I3mo-5-6'>3.&nbsp;Mo&nbsp;5,6</a>.
@@ -17918,11 +17950,6 @@
   <i>600&nbsp;000 Mann zu Fuss</i>: §2mo-12-37, → biblisches/Exodus#summe-der-kinder-israel
  }
 #}
-#4mo-11-24 {
- {
-  <i>Vergebung für verborgene Sünden</i>: <a class='kom' href='#I3mo-4-13'>3.&nbsp;Mo&nbsp;4,13</a>.
- }
-#}
 #4mo-11-25 {
  {
   <i>Geist ruht auf ...</i>: <a href='http://bibel.renenyffenegger.ch/2koe_2.html#v15'>2.&nbsp;Kö&nbsp;2,15</a>,
@@ -18101,6 +18128,9 @@
  }
  {
   Beachte: bei der Einnahme Jaesers spielen Kundschafter auch eine Rolle (<a href='http://bibel.renenyffenegger.ch/4mo_21.html#v32'>4.&nbsp;Mo&nbsp;21,32</a>).
+ }
+ {
+  Bei der Umbenennung kriegt Josua ein → biblisches/Grundtext/Buchstaben/Jod[Jod]. Ist dieses Jod evtl. das Jod, welches bei der Umbennenung von Sarah und Abraham verloren ging, §1mo-17-15
  }
 #}
 #4mo-13-17 {
@@ -18354,6 +18384,9 @@
  {
   Vgl §5mo-1-39
  }
+ {
+  <i>Das Land…, das ihr verschmäht habt</i> vgl §ps-106-24
+ }
 #}
 #4mo-14-33 {
  {
@@ -18436,6 +18469,11 @@
 #4mo-15-7 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich, → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#hin
+ }
+#}
+#4mo-15-24 {
+ {
+  TODO: Vergebung für <i>verborgene Sünden</i>: §3mo-4-13-ff
  }
 #}
 #4mo-15-32 {
@@ -23045,7 +23083,7 @@
   <i>In den Werken der Händen gesegnet werden</i>: vgl <a class='kom' href='#I5mo-2-7'>5.&nbsp;Mo&nbsp;2,7</a>.
  }
  {
-  <i>Schatz, der Himmel</i> vgl §+mt-19-21
+  <i>Schatz, der Himmel</i> vgl §+mt-19-21, §5mo-33-19
  }
 #}
 #5mo-28-20 {
@@ -23265,7 +23303,7 @@
   In <span class='hebr'>וַיַּשְׁלִכֵ֛ם</span> (Strongs 7993) ist das Lamed vergrössert, siehe <a href='#typo_details'>Typografische Details im Alten Testament</a>.
  }
  {
-  <i>Das Verborgene ist des HERRN</i>: Vgl §spr-25-2
+  <i>Das Verborgene ist des HERRN</i>: §5mo-32-34, Vgl §spr-25-2
  }
 #}
 @}
@@ -23367,6 +23405,11 @@
 #5mo-31-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+#}
+#5mo-31-18 {
+ {
+  <i>Ich aber, ich werde an jenem Tag mein Angesicht gänzlich verbergen</i>: <span class='hebr'>וְאָנֹכִ֗י הַסְתֵּ֨ר אַסְתִּ֤יר פָּנַי֙ בַּיּ֣וֹם</span>, vgl mit Esther, deren Name offenbar die drei gleichen Grundbuchstaben von «verbergent» hat, §+est-2-7
  }
 #}
 #5mo-31-19 {
@@ -23506,7 +23549,7 @@
 #}
 #5mo-32-20 {
  {
-  <i>Ich will mein Angesicht vor ihnen verbergen</i> §+joh-12-36
+  <i>Ich will mein Angesicht vor ihnen verbergen</i> §+joh-12-36, §hes-39-29
  }
 #}
 #5mo-32-21 {
@@ -23546,11 +23589,10 @@
 #}
 #5mo-32-34 {
  {
-  Schatzkammern: → biblisches/Eigene-Uebersetzung/Konkordanz/Schatz#schatz-des-herrn, vgl §5mo-28-12
+  <i>Schatzkammern</i> (<span class='hebr'>אוֹצָר</span>, Strongs 214): KJV übersetzt mit «treasures», Sch2K mit «Archiven». Vgl §5mo-28-12
  }
  {
-  <i>Archive</i> (<span class='hebr'>אוֹצָר</span>, Strongs 214) wäre möglicherweise mit «Schätzen» übersetzt worden.
-  KJV übersetzt mit «treasures», Elberfelder mit «Schatzkammern».
+  <i>bei mir verborgen</i>: §5mo-29-28
  }
 #}
 #5mo-32-35 {
@@ -23709,6 +23751,8 @@
 #5mo-33-19 {
  {
   <i>verborgene → biblisches/Eigene-Uebersetzung/Konkordanz/Schatz[Schätze] des Sandes</i>: evtl. sind → Wissenschaft/Chemie/Stoffe/Mineral[Minerale] gemeint.
+ <br>
+  Vgl §5mo-28-12
  }
 #}
 #5mo-33-20 {
@@ -29939,7 +29983,7 @@
 #}
 #1sam-23-19 {
  {
-  <i>Hält sich David nicht bei uns verborgen…</i> vgl §1sam-20-5
+  <i>Hält sich David nicht bei uns verborgen…</i> vgl §1sam-20-5, §1sam-26-1, §1chr-12-1, §ps-54-2
  }
  {
   Hier ist der <i>Hügel Hachila</i> zur rechten der Wildnis, in <a href='http://bibel.renenyffenegger.ch/1sam_26.html#v1'>1.&nbsp;Sam&nbsp;26,1</a>
@@ -30109,10 +30153,10 @@
 @1. Samuel 26 {
 #1sam-26-1 {
  {
-  <i>Hügel Hachila</i> siehe <a href='http://bibel.renenyffenegger.ch/1sam_23.html#v19'>1.&nbsp;Sam&nbsp;23,19</a>.
+  Offenbar schrieb → biblisches/Personen/David den <a href='http://bibel.renenyffenegger.ch/ps_54.html#v1'>Psalm 54</a> zu dieser Zeit.
  }
  {
-  Offenbar schrieb → biblisches/Personen/David den <a href='http://bibel.renenyffenegger.ch/ps_54.html#v1'>Psalm 54</a> zu dieser Zeit.
+  <i>Hält sich David nicht verborgen auf dem Hügel Hakila …</i> vgl §1sam-23-19, §1chr-12-1, §ps-54-2
  }
 #}
 #1sam-26-2 {
@@ -31465,6 +31509,11 @@
   <i>Maultier</i> §+3mo-19-19
  }
 #}
+#2sam-18-13 {
+ {
+  <i>keine Sache bleibt vor dem König verborgen</i> §1koe-10-3
+ }
+#}
 #2sam-18-14 {
  {
   TODO: Offenbar enthält dieser Vers Strongs 7626, siehe <a class='kom' href='#I1mo-49-10'>1.&nbsp;Mo&nbsp;49,10</a>.
@@ -31668,6 +31717,11 @@
  }
  {
   <i>Haus des HERRN</i>: <a class='kom' href='#I2mo-23-19'>2.&nbsp;Mo&nbsp;23,19</a>.
+ }
+#}
+#2sam-22-16 {
+ {
+  TODO: <i>Schnauben des Hauchens der Nase</i> vgl §1mo-2-7
  }
 #}
 #2sam-22-17 {
@@ -32948,6 +33002,14 @@
  }
  {
   TODO: Vgl <a class='kom' href='#Ips-72-15'>Ps&nbsp;72,15</a>.
+ }
+#}
+#1koe-10-3 {
+ {
+  §2chr-9-2
+ }
+ {
+  <i>keine Sache war vor dem König verborgen</i> §2sam-18-13
  }
 #}
 #1koe-10-4 {
@@ -34360,6 +34422,11 @@
  }
  {
    <i>Ich werde das Blut … rächen</i>: §+offb-6-10
+ }
+#}
+#2koe-9-26 {
+ {
+  Beachte, <i>Blut</i> steht im Grundtext im Plural, vgl §1mo-4-10
  }
 #}
 #2koe-9-27 {
@@ -38203,6 +38270,11 @@
 #}
 @}
 @1. Chronik 12 {
+#1chr-12-1 {
+ {
+  <i>David hielt sich verborgen</i> vgl §1sam-23-19, §1sam-26-1, §ps-54-2
+ }
+#}
 #1chr-12-2 {
  {
   <a class='kom' href='#I2chr-8-5'>2.&nbsp;Chr&nbsp;8,5</a>.
@@ -40005,6 +40077,11 @@
  }
  {
   §1koe-10-2
+ }
+#}
+#2chr-9-2 {
+ {
+  §1koe-10-3
  }
 #}
 #2chr-9-3 {
@@ -43493,6 +43570,11 @@
    → biblisches/Personen/Nehemia/index wird in §neh-10-1 ebenfalls »Tirsatha«, aber in §neh-12-26 »Landpfleger« genannt.
  }
 #}
+#neh-8-10 {
+ 
+  <i>Die Freude am HERRN ist eure Stärke</i> vgl §jes-30-15
+ }
+#}
 #neh-8-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten: vgl §+esr-3-4.
@@ -44298,6 +44380,13 @@
 #est-2-6 {
  {
   → biblisches/Personen/Jekonja-Jojakin
+ }
+#}
+#est-2-7 {
+ {
+  <i>Esther</i>: <span class='hebr'>אֶסְתֵּר</span>. Der Name beinhaltet angeblich «verborgen sein» (oder ähnlich), vgl §5mo-31-18.
+ <br>
+  Beachte, daß Esther ihre Abstammung nicht kundtut (§Vest-2-10, §Vest-2-20) und im ganzen Buch Esther das Tetragrammaton nicht vorkommt (also Sein Wirken im Verborgenen stattfindet).
  }
 #}
 #est-2-12 {
@@ -47362,7 +47451,7 @@
 @Psalm 54 {
 #ps-54-2 {
  {
-  Vgl <a class='kom' href='#I1sam-26-1'>1.&nbsp;Sam&nbsp;26,1</a>.
+  Vgl §1sam-23-19, §+1sam-26-1, §1chr-12-1
  }
 #}
 @}
@@ -49608,13 +49697,13 @@
 #}
 #ps-106-12 {
  {
-  Vgl <a class='kom' href='#I2mo-15-22'>2.&nbsp;Mo&nbsp;15,22</a>.
+  Hier glauben sie Seinem Wort (vgl auch §2mo-14-31), bereits in §Vps-106-24 glauben sie Seinem Wort nicht mehr.
  }
  {
-  Hier glauben sie Seinem Wort (vgl auch <a href='http://bibel.renenyffenegger.ch/2mo_14.html#v31'>2.&nbsp;Mo&nbsp;14,31</a>), bereits in Vers 24 glauben sie Seinem Wort nicht mehr.
+  <i>Sein Lob singen</i>: §2mo-15-1.
  }
  {
-  <i>Sein Lob singen</i>: <a href='http://bibel.renenyffenegger.ch/2mo_15.html#v1'>2.&nbsp;Mo&nbsp;15,1</a>.
+  TODO Vgl §+2mo-15-22.
  }
 #}
 #ps-106-14 {
@@ -49677,6 +49766,9 @@
  }
 #}
 #ps-106-24 {
+ {
+  <i>sie verschmähten das köstliche Land</i> §4mo-14-31
+ }
  {
   TODO: vgl §4mo-13-32
  }
@@ -52634,6 +52726,11 @@
 #}
 @}
 @Sprüche 27 {
+#spr-27-5 {
+ {
+  TODO <i>verhehlt</i>: oder «verborgen»?
+ }
+#}
 #spr-27-7 {
  {
   <i>einer hungrigen Seele ist alles Bittere süß</i> vgl §offb-10-9-10
@@ -53682,6 +53779,11 @@
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk ein Gräuel</i> vgl §jer-44-21-23
  }
 #}
+#jes-1-15 {
+ {
+  Beachte, <i>Blut</i> steht im Grundtext im Plural, vgl §1mo-4-10, §jes-9-4
+ }
+#}
 #jes-1-21 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/hes_16.html#v2'>Hes&nbsp;16,2</a> und
@@ -54191,6 +54293,14 @@
   <i>Joch</i>: §+3mo-26-13
  }
 #}
+#jes-9-4 {
+ {
+  <i>jedes Gewand, in Blut gewälzt</i> §offb-19-13
+ }
+ {
+  Beachte, <i>Blut</i> steht im Grundtext im Plural, vgl §jes-1-15, §1mo-4-10
+ }
+#}
 #jes-9-5 {
  {
   <i>starker Gott</i> vgl §lk-2-40 «Das Kindlein … erstarkte …»
@@ -54305,6 +54415,13 @@
 #jes-10-20 {
  {
   <a class='kom' href='#I2koe-18-21'>2.&nbsp;Kö&nbsp;18,21</a>.
+ }
+ {
+  TODO: <i>wird sich nicht mehr stützen auf den, der es schlägt</i> vgl §jes-30-12, §jes-31-1, §jes-36-6
+ <br>
+  <i>es wird sich stützen auf den Herrn</i> §jes-48-2
+ <br>
+  vgl §jes-42-1, §jes-48-2, §jes-50-10
  }
 #}
 #jes-10-21 {
@@ -55451,6 +55568,19 @@
    <i>Weicht ab vom Weg</i>: vgl §Vjes-30-21.
  }
 #}
+#jes-30-12 {
+ {
+  TODO: <i>Sich auf Ägypten stützen</i>: §jes-10-20
+ }
+#}
+#jes-30-15 {
+ {
+  <i>in Stillstein und in Vertrauen würde eure Stärke sein</i> vgl §neh-8-10
+ }
+ {
+  <i>ihr habt nicht gewollt</i> vgl §mt-23-37, §jer-29-19
+ }
+#}
 #jes-30-17 {
  {
   <i>Ein Tausend wird fliehen vor dem Dräuen eines einzigen</i> §3mo-26-8, §5mo-32-30, §jos-23-10, §jes-30-17
@@ -55489,6 +55619,11 @@
 }
 { 31 - 40
 @Jesaja 31 {
+#jes-31-1 {
+ {
+  TODO: <i>Sich auf Ägypten stützen</i>: §jes-10-20
+ }
+#}
 #jes-31-8 {
  {
   <i>Assur fällt durch Schwert</i> Vgl §jes-30-31, §offb-1-16
@@ -55696,6 +55831,9 @@
 #jes-36-6 {
  {
   <i>geknickter Rohrstab</i> vgl §jes-42-3, §mt-12-20
+ }
+ {
+  TODO: <i>Sich auf Ägypten stützen</i>: §jes-10-20, §hes-30-6
  }
 #}
 #jes-36-7 {
@@ -56345,6 +56483,9 @@
  {
   → biblisches/Orte/Jerusalem#heilige-stadt
  }
+ {
+  TODO: Sie stützen sich auf den Gott Israels: §jes-10-20
+ }
 #}
 #jes-48-4 {
  {
@@ -56930,6 +57071,9 @@
 #}
 #jes-59-16 {
  {
+  Vgl §jes-63-5
+ }
+ {
   <i>Kein Mittler</i> vgl §1tim-2-5, §jes-43-11
  }
 #}
@@ -57145,6 +57289,11 @@
   <i>Tag der Rache</i> und <i>Jahr meiner Erlösung</i> vgl §+jes-61-2
  }
 #}
+#jes-63-5 {
+ {
+  Vgl §jes-59-16
+ }
+#}
 #jes-63-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Meer
@@ -57221,10 +57370,10 @@
 #}
 #jes-65-11 {
  {
-  <i>Glück</i>: <a class='kom' href='#I1mo-30-11'>1.&nbsp;Mo&nbsp;30,11</a>. Angeblich der Name des Jupiters.
+  <i>Gad</i> wird in Sch2K mit «Glück» übersetzt, vgl §+1mo-30-11. Gad ist angeblich der Name des Jupiters.
  }
  {
-  <i>Schicksal</i>: <span class='hebr'>מְנִי</span> (Strongs 4507, 1x), angeblich der Name der Venus.
+  <i>Meni</i> <span class='hebr'>מְנִי</span> (Strongs 4507, 1x), in Sch2K mit «Schicksal» übersetzt, ist angeblich der Name der Venus.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/heilig
@@ -58917,6 +59066,9 @@
 #jer-29-19 {
  {
   <i>indem ich mich früh aufmachte</i>: <a class='kom' href='#Ijer-7-13'>Jer&nbsp;7,13</a>.
+ }
+ {
+  <i>ihr habt nicht gehört</i> vgl §jes-30-15
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten
@@ -61752,6 +61904,11 @@
   <i>Zeit der Nationen</i>: §lk-21-24.
  }
 #}
+#hes-30-6 {
+ {
+  TODO: <i>die, welche Ägypten stützen</i> vgl §jes-36-6
+ }
+#}
 #hes-30-12 {
  {
    → biblisches/Bücher/prophetisch/Hesekiel#ich-der-herr-habe-geredet-hes
@@ -62247,6 +62404,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen. Beachte: Hier wird er über
   <i>das Haus Israel</i>, in §joe-3-1-2 über <i>alles Fleisch</i> ausgegossen.
+ }
+ {
+  <i>Ich werde mein Angesicht nicht mehr verbergen</i> vgl §5mo-32-20
  }
 #}
 @}
@@ -65872,6 +66032,11 @@
   TODO: Ihr trinkt: eigtl. Ihr berauscht euch?
  }
 #}
+#hag-1-9 {
+ {
+  TODO: <i>ich blies hinein</i> vgl §mal-1-13
+ }
+#}
 #hag-1-12 {
  {
   TODO: Hohepriester: §+2koe-12-11
@@ -66379,7 +66544,10 @@
 @Sacharja 12 {
 #sach-12-1 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/ausspannen
+  <i>Den Geist des Menschen im Innern bilden</i> vgl §1mo-2-7
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/ausspannen
  }
 #}
 #sach-12-2 {
@@ -66530,6 +66698,11 @@
 #mal-1-12 {
  {
   <i>Verunreinigter Tisch</i>: <a class='kom' href='#I3mo-24-6'>3.&nbsp;Mo&nbsp;24,6</a>.
+ }
+#}
+#mal-1-13 {
+ {
+  TODO <i>ihr blast ihn an</i> vgl §hag-1-9
  }
 #}
 @}
@@ -67687,6 +67860,9 @@
 #mt-5-18 {
  {
   Vgl mit §mt-24-35: Himmel und Erde werden vergehen, die Worte Jesu werden nicht vergehen. Vgl auch §lk-16-17, §joh-10-35
+ }
+ {
+  Es soll kein Jota vom Gesetz vergehen, vgl mit der Namensänderung von Abram zu Abraham und Sarai zu Sara in §1mo-17-15
  }
 #}
 #mt-5-19 {
@@ -71441,6 +71617,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
+  <i>Das Blut Abels</i>: §1mo-4-10
+ }
+ {
   Mit <i>Zacharia, dem Sohn Barachjas</i> scheint Sacharja gemeint zu sein: §+sach-1-1.
   <i>Aber</i> in §2chr-24-20-ff wird ein Sekarja (Sch2K: Sacharja), Sohn Jojadas im Hof des Hauses Jehovas gesteinigt.
    In §jes-8-2 ein gewisser <i>Sacharja, Sohn Jeberekjas</i> erwähnt.
@@ -71471,6 +71650,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden, vgl §lk-13-34,
   §+mt-24-31 (Sammlung Israels)
+ }
+ {
+  <i>ihr habt nicht gewollt</i> vgl §jes-30-15
  }
 #}
 #mt-23-38 {
@@ -76323,6 +76505,11 @@ sa:
 #lk-1-77 {
  {
   <i>Vergebung ihrer Sünden</i> vgl §lk-3-3, §joh-1-29
+ }
+#}
+#lk-1-78 {
+ {
+  <i>herzliche Barmherzigkeit</i>: <span class='gr'>σπλαγχνα ελεους</span> (Strongs 4698 1656), vgl §apg-1-18, §2kor-6-12, §phil-1-8, §phim-1-7, §1joh-3-17
  }
 #}
 #lk-1-79 {
@@ -85393,6 +85580,9 @@ sa:
  }
  {
   Zuerst hat sich Judas offenbar erhängt: <a class='kom' href='#Imt-27-5'>Mt&nbsp;27,5</a>.
+ }
+ {
+  <i>Eingeweide</i>: <span class='gr'>σπλάγχνον</span> (Strongs 4698), vgl §lk-1-78, §2kor-6-12
  }
  {
   TODO: §mt-26-15
@@ -96777,7 +96967,7 @@ sa:
   Vgl §+roem-5-15
  }
  {
-  <a href='http://bibel.renenyffenegger.ch/1mo_2.html#v7'>1.&nbsp;Mo&nbsp;2,7</a>.
+  <i>Der Mensch wurde eine lebendige Seele</i>: §1mo-2-7.
  }
  {
   Beachte: hier <i>letzter</i> Adam, in §V1kor-15-47 «zweiter» Mensch.
@@ -97610,6 +97800,11 @@ sa:
   «wohllautend» (<span class='gr'>εὔφημος</span>, Strongs 2163, 1x) in <a href='http://bibel.renenyffenegger.ch/phil_4.html#v8'>Phil&nbsp;4,8</a>.
  }
 #}
+#2kor-6-12 {
+ {
+  <i>in euerem Innern</i>: <span class='gr'>εν τοις σπλαγχνοις υμων</span> (Strongs 4698), vgl §+lk-1-78, §2kor-7-15
+ }
+#}
 #2kor-6-13 {
  {
   <i>Ich rede zu euch als Kindern</i> vgl §+1kor-3-1
@@ -97714,6 +97909,11 @@ sa:
 #2kor-7-14 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern: beachte, dass → biblisches/Personen/Paulus in Furcht und in vielem Zittern bei den Korinthern war.
+ }
+#}
+#2kor-7-15 {
+ {
+  <i>seine innerlichen Gefühle</i>: <span class='gr'>τα σπλαγχνα αυτου</span> (Strongs 4698), vgl §lk-1-78, §2kor-6-12
  }
 #}
 @}
@@ -100533,6 +100733,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>ich mich nach euch allen sehne</i>: vgl §+roem-1-11, §phil-4-1. Vgl mit Epaphroditus: §phil-2-26.
  }
+ {
+  <i>mit dem Herzen</i>: <span class='gr'>εν σπλαγχνοις</span> (Strongs 4698), vgl §phim-1-7, §lk-1-78, §phil-2-1
+ }
 #}
 #phil-1-9 {
  {
@@ -100670,7 +100873,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
  }
  {
-  <i>innerliche Gefühle und Erbarmungen</i> (span class=gr'>σπλαγχνα και οικτιρμοι</span>), vgl mit «herzliches Erbarmen» (<span class='gr'>σπλαγχνα οικτιρμου</span) in §kol-3-12
+  <i>innerliche Gefühle und Erbarmungen</i> (<span class=gr'>σπλαγχνα και οικτιρμοι</span>), vgl mit «herzliches Erbarmen» (<span class='gr'>σπλαγχνα οικτιρμου</span>) in §kol-3-12. S. a. §phil-1-8
  }
 #}
 #phil-2-2 {
@@ -105576,7 +105779,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Vielversprechend</i>: <a class='kom' href='#I1kor-16-9'>1.&nbsp;Kor&nbsp;16,9</a>.
  }
  {
-  <i>Herz</i>: §Vphim-1-12, §Vphim-1-20
+  <i>die Herzen</i>: <span class='gr'>τα σπλαγχνα</span> (Strongs 4698):  §Vphim-1-12, §Vphim-1-20
+  <br>
+  vgl §phil-1-8
  }
 #}
 #phim-1-8 {
@@ -110936,6 +111141,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>wir sind schuldig …</i>: §+roem-13-8, §1joh-2-6, §1joh-4-11
  }
 #}
+#1joh-3-17 {
+ {
+  <i>sein Herz</i>: <span class='gr'>τα σπλαγχνα</span> (Strongs 4698) vgl §lk-1-78, §phim-1-7 etc
+ }
+#}
 #1joh-3-18 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Paulus-und-Johannes-Kinder
@@ -112869,6 +113079,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Auf der Erde wohnen</i>: <a class='kom' href='#Ioffb-3-10'>Offb&nbsp;3,10</a>.
+ }
+ {
+  <i>sie riefen mit lauter Stimme…</i> vgl §1mo-4-10
  }
 #}
 #offb-6-11 {
@@ -115386,6 +115599,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Vgl das in <i>Blut getauchte Gewand</i> mit dem Leibrock von Joseph, der in das Blut eines geschlachteten Ziegenbocks getaucht wurde, §1mo-37-31
+ <br>
+  S. a. §jes-9-4
  }
  {
   TODO: Gott hat ihm einen Namen gegeben, der über jeden Namen ist … (§phil-2-9-ff)
