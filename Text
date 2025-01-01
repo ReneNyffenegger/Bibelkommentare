@@ -53292,7 +53292,7 @@
      2) Ein Ausdruck der Superlative: das höchste Lied
  }
  {
-  Vgl mit Psalm 45, dem <i>Lied er Lieblichkeiten</i> (<span class='hebr'>שִׁ֣יר יְדִידֹֽת</span>, §ps-45-1) und dem <i>lieblichen Lied</i> (<span class='hebr'>שִׁ֣יר עֲגָבִ֔ים</span>, §hes-33-32)
+  Vgl mit Psalm 45, dem <i>Lied der Lieblichkeiten</i> (<span class='hebr'>שִׁ֣יר יְדִידֹֽת</span>, §ps-45-1) und dem <i>lieblichen Lied</i> (<span class='hebr'>שִׁ֣יר עֲגָבִ֔ים</span>, §hes-33-32)
  }
  {
   Im Gegensatz zu §pred-1-1 and §spr-1-1 wird im Eröffnungsvers vom Hohelied nicht erwähnt, dass Salomo König ist. Seinen Titel findet man in §hl-3-11
@@ -53317,6 +53317,9 @@
  }
 #}
 #hl-1-5 {
+ {
+  <i>Ich bin…</i> vgl §hl-2-1, §hl-8-10
+ }
  {
   Beachte <i>Kedar</i> (<span class='hebr'>קֵדָר</span>, Strongs 6938) bedeutet offenbar 'schwarz' (od. dunkelhäutig). Vgl
   mit <i>schwarz</i> (<span class='hebr'>שָׁחֹר</span>, Strongs 7838).
@@ -53360,7 +53363,7 @@
   <i>Freundin</i> vgl mit «Braut» in <a class='kom' href='#Ihl-4-8'>Hl&nbsp;4,8</a>.
  }
 #}
-#hl-1-11 {
+#hl-1-10 {
  {
   <i>Kettchen</i>: §hl-4-9
  }
@@ -53383,6 +53386,9 @@
 @}
 @Hohelied 2 {
 #hl-2-1 {
+ {
+  <i>Ich bin…</i> vgl §hl-1-5, §hl-8-10
+ }
  {
   <i>Lilie</i> vgl §Vhl-2-16
  }
@@ -53437,6 +53443,9 @@
  }
 #}
 #hl-2-16 {
+ {
+  <i>Ich bin sein</i> vgl §hl-6-3, §hl-7-11
+ }
  {
   <i>Unter den Lilien weiden</i> vgl §Vhl-2-1.
  }
@@ -53563,7 +53572,7 @@
 #}
 #hl-4-9 {
  {
-  <i>Kette</i>: §hl-1-11
+  <i>Kette</i>: §hl-1-10-11
  }
  {
   <i>Schwester</i> vgl §hl-8-1
@@ -53687,6 +53696,11 @@
   TODO: Werden sie Ihn auch finden?
  }
 #}
+#hl-6-3 {
+ {
+  <i>Ich bin meines Geliebten</i> vgl §hl-2-16, §hl-7-11
+ }
+#}
 #hl-6-4 {
  {
   <i>Tirza</i> wird eine kurze Zeit (nach Salomo) die Hauptstadt des Nordreiches: §1koe-16-15, §1koe-16-23
@@ -53742,6 +53756,9 @@
 #}
 #hl-7-11 {
  {
+  <i>Ich bin meines Geliebten</i> §hl-6-3, §hl-2-16
+ }
+ {
   <i>nach mir ist sein Verlangen</i> §1mo-3-16
  }
 #}
@@ -53775,6 +53792,11 @@
 #hl-8-9 {
  {
   <i>Zinne</i> (Strongs 2918): <a class='kom' href='#I1mo-25-16'>1.&nbsp;Mo&nbsp;25,16</a>.
+ }
+#}
+#hl-8-10 {
+ {
+  <i>Ich bin…</i> vgl §hl-1-5, §hl-2-1
  }
 #}
 #hl-8-12 {
