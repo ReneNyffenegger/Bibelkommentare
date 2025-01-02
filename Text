@@ -16664,7 +16664,7 @@
 #}
 #3mo-26-41 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung#beschneidung-am-herzen[Unbeschnittenes Herz]
  }
  {
   <i>Wenn sich ihr Herz demütigt</i> vgl §2mo-10-3, §5mo-8-2
@@ -56454,7 +56454,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
-  <i>Kyrus</i>: Betreffend des Befehles, dass Jerusalem wieder gebaut werde, siehe §+esr-1-2, §2chr-36-23, → biblisches/Bücher/Daniel/70-Wochen
+  <i>Kyrus</i>: Betreffend des Befehles, dass Jerusalem wieder gebaut werde, siehe §jes-45-13, §+esr-1-2, §2chr-36-23, → biblisches/Bücher/Daniel/70-Wochen
  }
  {
   → Geschichte/Personen/Herodot berichtet (Histories, op. cit. I, 110), dass Kyros II. (?) in seinen ersten 10 Lebensjahren als Hirte erzogen worden war.
@@ -56483,6 +56483,11 @@
 #jes-45-12 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/ausspannen
+ }
+#}
+#jes-45-13 {
+ {
+  <i>er wird meine Stadt bauen</i> vgl §jes-44-28
  }
 #}
 #jes-45-14 {
@@ -62613,6 +62618,11 @@
 #}
 @}
 @Hesekiel 44 {
+#hes-44-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung#beschneidung-am-herzen[Unbeschnittenes Herz]
+ }
+#}
 #hes-44-15 {
  {
   TODO: <i>Zadok</i>: <a class='kom' href='#I2sam-8-17'>2.&nbsp;Sam&nbsp;8,17</a>.
@@ -63505,9 +63515,11 @@
 #}
 #dan-7-13 {
  {
-   Vgl §mt-26-64. «Von nun an werdet ihr den Sohn des Menschen sitzen sehen … und kommen auf den Wolken des Himmels».
-   <br>
-   S.a. §+2mo-19-9 (Gott kommt im Gewölk).
+  Vgl §mt-26-64. «Von nun an werdet ihr den Sohn des Menschen sitzen sehen … und kommen auf den Wolken des Himmels».
+  <br>
+  S. a. §+2mo-19-9 (Gott kommt im Gewölk).
+  <br>
+   S. a. §offb-1-7
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch
@@ -63763,6 +63775,9 @@
  {
   <i>Wort Jehovas</i>: Vgl mit dem »ausgegangenen Wort« in §Vdan-9-23 und dem »Ausgehen des Wortes« in §Vdan-9-25.
  }
+ {
+  Dieses 9. Kapitel ist das einzige Kapitel im Buch Daniel, in dem der Name des HERRN, Jehova, vorkommt.
+ }
 #}
 #dan-9-4 {
  {
@@ -63847,7 +63862,9 @@
   <i>um den Sünden ein Ende zu machen</i>: angeblich ist das Verb dasselbe, welches später im Vers mit «versiegeln» übersetzt wird.
  }
  {
-  <i>Gesicht</i> (<span class='hebr'>חָזוֹן</span>, Strongs 2377), <i>Weissagung</i> (<span class='hebr'>נָבִיא</span>,  Strongs 5030), vgl <a class='kom' href='#Ips-89-20'>Ps&nbsp;89,20</a>.
+  <i>Gesicht</i> (<span class='hebr'>חָזוֹן</span>, Strongs 2377), <i>Propeht</i> (<span class='hebr'>נָבִיא</span>,  Strongs 5030), vgl §+ps-89-20.
+ <br>
+  Elberfelder übersetzt «Prophet» in der Mehrzahl, Sch2K mit mit «Weissagung», KJV mit «prophecy».
  }
  {
   → biblisches/Bücher/Daniel/70-Wochen[70 Wochen]: <span class='hebr'>שָׁבֻעִים שִׁבְעִים</span>. Angeblich ist die hier verwendete männliche Mehrzahlform ein Hinweis darauf, dass es sich bei den »siebnern« um Jahre handelt (Jahre ist offenbar
@@ -91278,6 +91295,11 @@ sa:
   'vorstellig werden' (Strongs 1718): <a class='kom' href='#Imt-27-53'>Mt&nbsp;27,53</a>.
  }
 #}
+#apg-25-4 {
+ {
+  <i>in Kürze</i>: <span class='gr'>εν ταχει</span>
+ }
+#}
 #apg-25-6 {
  {
   <i>Richterstuhl</i>: <a class='kom' href='#Imt-27-19'>Mt&nbsp;27,19</a>.
@@ -94730,6 +94752,9 @@ sa:
  }
  {
   <i>Satan unter den Füssen zertreten</i> vgl §hebr-2-14
+ }
+ {
+  <i>in kurzem</i>: <span class='gr'>εν ταχει</span>
  }
 #}
 #roem-16-21 {
@@ -98930,7 +98955,7 @@ sa:
   <br>Vgl auch <a class='kom' href='#Iroem-16-25'>Röm&nbsp;16,25</a>, <a class='kom' href='#Ieph-3-3'>Eph&nbsp;3,3</a>.
  }
  {
-  durch die → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung Jesu Christi, vgl §2kor-12-1-ff
+  durch die → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung Jesu Christi, vgl §2kor-12-1-ff, §offb-1-1
  }
 #}
 #gal-1-13 {
@@ -107072,7 +107097,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-6-15 {
  {
-  Hier erlangte Abraham die Verheißung, gemäss §hebr-11-13 nicht.
+  Hier erlangte Abraham die Verheißung, gemäss §hebr-11-13 erlangte er sie nicht.
  }
 #}
 #hebr-6-17 {
@@ -107082,9 +107107,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-6-18 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang
- }
- {
   <i>in denen Gott unmöglich lügen kann</i>: vgl §tit-1-2.
  }
  {
@@ -107093,12 +107115,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-6-19 {
  {
-  TODO: Vorhang im
+  Der → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Vorhang ist Sein Fleisch, §hebr-10-19-20
  }
 #}
 #hebr-6-20 {
  {
-  <i>Vorläufer</i> (<span class='gr'>πρόδρομος</span>, Strongs 4274). TODO: Kann offenbar auch mit 'Wegbereiterr' übersetzt werden.
+  <i>wo Jesus als Vorläufer für uns hineingegangen ist</i> vgl §hebr-9-24, §hebr-10-19-20
+ }
+ {
+  <i>Vorläufer</i> (<span class='gr'>πρόδρομος</span>, Strongs 4274) kann angeblich auch mit «Wegbereiter» übersetzt werden.
   KJV: 'forerunner'.
  }
  {
@@ -107270,6 +107295,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl «Das <i>Zelt</i> (<span class='gr'>σκηνή</span>, Strongs 4633), welches der Herr errichtet <span class='gr'>πήγνυμι</span> (Strongs 4078) hat» mit dem Griechischen Wort
   für → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten[Laubhütte]: <span class='gr'>σκηνοπηγία</span> (Strongs 4634).
+ }
+ {
+  <i>wahrhaftiges Zelt</i> vgl §hebr-9-24
  }
  {
   <i>welches der Herr errichtet hat, nicht der Mensch</i>, vgl §2kor-5-1, §apg-7-48
@@ -107626,6 +107654,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Ein nicht mit Händen gemachtes Heiligtum</i> §Vhebr-9-11
  }
  {
+  <i>In den Himmel … ist der Christus … eingegangen</i> vgl §hebr-6-19-20, §hebr-10-19-20
+ }
+ {
+  <i>Nachbildung des wahrhaftigen Heiligtums</i> vgl §hebr-8-2
+ }
+ {
   TODO: Vgl <a class='kom' href='#Iroem-8-26'>Röm&nbsp;8,26</a>.
  }
  {
@@ -107746,11 +107780,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-10-19 {
  {
-  → biblisches/Bücher/jüdische-Briefe/Hebräer/index#freimuetigkeit-hebr im → biblisches/Bücher/jüdische-Briefe/Hebräer/index.
+  → biblisches/Bücher/jüdische-Briefe/Hebräer/index#freimuetigkeit-hebr im → biblisches/Bücher/jüdische-Briefe/Hebräer.
   <br>Vgl §eph-3-12
  }
  {
   <i>Eintritt in das Heiligtum</i>: Der Weg zum Heiligtum war noch nicht geoffenbart, solange die vordere Hütte Bestand hatte §hebr-9-8, vgl §+hebr-9-12
+ <br>
+  Vgl §hebr-9-24, §hebr-6-20
  }
 #}
 #hebr-10-20 {
@@ -112280,8 +112316,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
  {
+  <i>durch seinen Engel sendend</i> vgl §offb-22-6, §offb-22-16
+ <br>
   Durch <i>seinen Engel</i> erhält Johannes die Offenbarung Jesu Christi; Johannes soll den Engeln der sieben Gemeinden
-  schreiben (<a href='http://bibel.renenyffenegger.ch/offb_2.html#v1'>Offb&nbsp;2,1</a>).
+  schreiben (§offb-2-1).
  }
  {
   Beachte: Obwohl dieses Buch die 'Offenbarung Jesu Christi' ist, findet man den Namen 'Jesus' nur noch in
@@ -112311,6 +112349,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>zu zeigen</i>: <span class='gr'>δειξαι</i> (Strongs 1166), <i>gezeigt</i>: <span class='gr'>εσημανεν</span> (Strongs 4591).
+ }
+ {
+  <i>Offenbarung Jesu Christi</i> (<span class='gr'>αποκαλυψις ιησου χριστου</span>) kann als Genitivus objectivus («Das, was über Jesus Christus offenbart wird») oder Genitivus subjectivus («Das, was Jesus Christus offenbart hat») verstanden werden. vgl
+  §1kor-1-7, §2thes-1-7, §1petr-1-7, §1petr-1-13, §lk-17-30, §+gal-1-12
  }
  {
   TODO: Wer ist <i>ihm</i>? Wohl Johannes, vgl mit Vers 2: '<i>ihm</i>&hellip;, der das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes]&hellip;'.
@@ -112401,7 +112443,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>durchstochen</i>: §+sach-12-10, <i>Stämme</i>: §+sach-12-12
  }
  {
-  <i>Wolke</i>: vgl §offb-10-1, §offb-11-12, §offb-14-14-16
+  <i>Wolke</i>: vgl §offb-10-1, §offb-11-12, §offb-14-14-16, §dan-7-13
  }
  {
   <i>jedes Auge wird ihn sehen</i> vgl §offb-22-4
@@ -112968,6 +113010,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Schlüssel Davids</i>: Gott will den 'Schlüssel des Hauses Davids' auf die Schlulten Eljakims,
   den Sohn Hilkijas, des Knechtes des HERRN legen (<a href='http://bibel.renenyffenegger.ch/jes_22.html#v22'>Jes&nbsp;22,22</a>).
  }
+ {
+  <i>Der Wahrhaftige</i> vgl §Voffb-3-14
+ <br>
+  <i>Der Heilige, der Wahrhaftige</i> vgl §offb-6-10
+ }
 #}
 #offb-3-8 {
  {
@@ -113036,6 +113083,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-3-14 {
  {
   → biblisches/Bücher/prophetisch/Offenbarung/Sendschreiben/Laodizäa
+ }
+ {
+  <i>Der wahrhaftige Zeuge</i> vgl §Voffb-3-7
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/treu-gewiss_wahrhaftig[treu, wahrhaftig]
@@ -113569,6 +113619,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Bis wann … richtest und rächst du nicht unser Blut …</i> vgl §+offb-16-6, §offb-18-20, §offb-19-2, §2koe-9-7
   <br>
    Bereits beim nächsten (dem 6.) Siegel bemerken die Mächtigen: «gekommen ist der große Tag seines Zornes, und wer vermag zu bestehen» (§Voffb-6-17).
+ }
+ {
+  <i>der du heilig und wahrhaftig bist</i> vgl §offb-3-7
  }
  {
   <i>Auf der Erde wohnen</i>: <a class='kom' href='#Ioffb-3-10'>Offb&nbsp;3,10</a>.
@@ -115402,7 +115455,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-16-7 {
  {
-  vgl mit <a class='kom' href='#Ioffb-15-3'>Offb&nbsp;15,3</a>.
+  <i> wahrhaftig und gerecht</i> vgl §offb-19-2, §+offb-15-3.
  }
 #}
 #offb-16-9 {
@@ -115996,7 +116049,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-19-2 {
  {
-   <i>Blut seiner Knechte gerächt</i>: §+offb-6-10, §ps-79-10
+  <i>wahrhaftig und gerecht sind seine Gerichte</i> §offb-16-7
+ }
+ {
+  <i>Blut seiner Knechte gerächt</i>: §+offb-6-10, §ps-79-10
  }
 #}
 #offb-19-4 {
@@ -116642,7 +116698,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Diese Worte sind → biblisches/Eigene-Uebersetzung/Konkordanz/treu-gewiss_wahrhaftig[gewiß und wahrhaftig]</i> §+offb-21-5
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Der Herr … hat seinen Engel gesandt], §Voffb-22-16
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Der Herr … hat seinen Engel gesandt] vgl §Voffb-22-16, §offb-1-1
  }
  {
   TODO: <i>Gott der heiligen Propheten</i> siehe <a class='kom' href='#Ioffb-4-8'>Offb&nbsp;4,8</a>.
@@ -116740,7 +116796,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Ich bin die Wurzel … Davids</i> §offb-5-5
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Ich, Jesus, habe meinen Engel gesandt], §Voffb-22-6
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt[Ich, Jesus, habe meinen Engel gesandt] vgl §Voffb-22-6, §offb-1-1
  }
  {
    <i>der leuchtende Morgenstern</i>: <span class='gr'>ὁ ἀστὴρ ὁ λαμπρὸς καὶ ὀρθρινός</span>, Vgl §+offb-2-28.
