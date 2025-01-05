@@ -5343,6 +5343,9 @@
  {
   <i>Jakob träumte</i> (und schlief, §V1mo-28-16), vgl §1mo-15-12
  }
+ {
+  Gott redet im Traum zu Jakob: §1mo-31-10-ff
+ }
 #}
 #1mo-28-13 {
  {
@@ -5365,7 +5368,10 @@
 #}
 #1mo-28-18 {
  {
-  Siehe <a class='kom' href='#I1mo-31-13'>1.&nbsp;Mo&nbsp;31,13</a> (wo das Wort 'gesalbt' verwendet wird).
+  Vgl §1mo-31-13
+ }
+ {
+  TODO: Siehe <a class='kom' href='#I1mo-31-13'>1.&nbsp;Mo&nbsp;31,13</a> (wo das Wort 'gesalbt' verwendet wird).
   Das Wort für 'goss' ist <span class='hebr'><span class='grey'>וַ</span>יִּצֹ֥ק</span> (Strongs 3332).
  }
  {
@@ -5648,12 +5654,20 @@
   Auch Laban gehört eigentlich zur <i>Verwandtschaft</i> von Jakob, aber wohl nicht zur engeren.
  }
 #}
+#1mo-31-10 {
+ {
+  Gott kommt im Traum auch zu Laban, §V1mo-31-24. Vgl §1mo-28-12
+ }
+#}
 #1mo-31-11 {
  {
   <i>Engel spricht im Traum</i>, vgl §mt-1-19, §mt-2-13
  }
 #}
 #1mo-31-13 {
+ {
+  Vgl §1mo-28-18-ff
+ }
  {
   Gott ruft Jakob zurück, es war aber Rebekka, die versprach, ihn zurückzuholen (<a href='http://bibel.renenyffenegger.ch/1mo_27.html#v45'>1.&nbsp;Mo&nbsp;27,45</a>).
  }
@@ -21988,10 +22002,13 @@
 #}
 #5mo-10-16 {
  {
-  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten[Verhärtet euren Nacken] nicht mehr</i> §neh-9-16-17
+  Vgl §apg-7-51
  }
  {
-   <i>Beschneidung der Vorhaut des Herzens</i> vgl §5mo-30-6 
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten[Verhärtet euren Nacken] nicht mehr</i> vgl §neh-9-16-17, §5mo-31-27
+ }
+ {
+   <i>Beschneidung der Vorhaut des Herzens</i> vgl §5mo-30-6, §roem-2-29
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
@@ -23213,10 +23230,10 @@
 #}
 #5mo-28-49 {
  {
-  Das Volk, dessen Sprache die Israeliten nicht verstehen können: vgl
-  <a href='http://bibel.renenyffenegger.ch/jes_28.html#v11'>Jes&nbsp;28,11</a>,
-  <a class='kom' href='#Ijes-33-19'>Jes&nbsp;33,19</a>,
-  <a href='http://bibel.renenyffenegger.ch/jer_5.html#v15'>Jer&nbsp;5,15</a>.
+  Das Volk, dessen Sprache die Israeliten nicht verstehen können: vgl §jes-28-11, §+jes-33-19, §jer-5-15.
+ }
+ {
+  TODO: Ist dies derselbe Adler, von desen Flügel in §dan-7-4 gesprochen wird?
  }
 #}
 #5mo-28-50 {
@@ -23247,7 +23264,7 @@
 #}
 #5mo-28-64 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/unter-die-Nationen-verstreut
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/unter-die-Nationen-verstreut, vgl §5mo-30-1
  }
 #}
 #5mo-28-68 {
@@ -23366,6 +23383,11 @@
 #}
 @}
 @5. Mose 30 {
+#5mo-30-1 {
+ {
+  Vgl §5mo-28-64-ff
+ }
+#}
 #5mo-30-3 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/unter-die-Nationen-verstreut
@@ -23383,7 +23405,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben, vgl: §+5mo-6-5. Auch Verse 16 und 20.
  }
  {
-  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung des Herzens</i> vgl §5mo-10-16
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung des Herzens</i> vgl §5mo-10-16, §roem-2-29
  }
 #}
 #5mo-30-9 {
@@ -49926,6 +49948,11 @@
   <i>Dank</i> in den Psalmen: <a class='kom' href='#Ips-50-14'>Ps&nbsp;50,14</a>.
  }
 #}
+#ps-107-2 {
+ {
+  Vgl §Vps-107-13, §Vps-107-19, §Vps-107-28
+ }
+#}
 #ps-107-3 {
  {
   <i>und die er gesammelt hat …</i> vgl §ps-106-47
@@ -49939,7 +49966,7 @@
 #}
 #ps-107-6 {
  {
-  <i>Da schrieen sie zum HERRN</i>, vgl Vers 13, 1 und 28, sowie <a href='http://bibel.renenyffenegger.ch/jos_24.html#v7'>Jos&nbsp;24,7</a>, <a href='http://bibel.renenyffenegger.ch/2chr_13.html#v14'>2.&nbsp;Chr&nbsp;13,14</a>.
+  <i>Da schrieen sie zum HERRN</i>, vgl §Vps-107-13, §Vps-107-28, §Vps-107-2, sowie <a href='http://bibel.renenyffenegger.ch/jos_24.html#v7'>Jos&nbsp;24,7</a>, <a href='http://bibel.renenyffenegger.ch/2chr_13.html#v14'>2.&nbsp;Chr&nbsp;13,14</a>.
  }
 #}
 #ps-107-10 {
@@ -49950,6 +49977,16 @@
 #ps-107-11 {
  {
   Vgl <i>Worte Gottes</i> mit Vers 20.
+ }
+#}
+#ps-107-13 {
+ {
+  §+Vps-107-2
+ }
+#}
+#ps-107-19 {
+ {
+  §+Vps-107-2
  }
 #}
 #ps-107-20 {
@@ -49976,6 +50013,11 @@
 #ps-107-25 {
  {
    Vgl <i>Sturm</i> mit Vers 29.
+ }
+#}
+#ps-107-28 {
+ {
+  §+Vps-107-2
  }
 #}
 #ps-107-29 {
@@ -50139,6 +50181,11 @@
 #ps-111-8 {
  {
   <i>festgestellt</i> (Strongs 5564): dasselbe Wort wie für «befestigt» in §ps-112-8
+ }
+#}
+#ps-111-9 {
+ {
+  <i>Er hat Erlösung gesandt seinem Volk</i> vgl §lk-1-68
  }
 #}
 #ps-111-10 {
@@ -54096,6 +54143,9 @@
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/jes_43.html#v3'>Jes&nbsp;43,3</a> und <a class='kom' href='#Ijes-43-11'>Jes&nbsp;43,11</a>,
   <a href='http://bibel.renenyffenegger.ch/jes_45.html#v21'>Jes&nbsp;45,21</a>.
  }
+ {
+  TODO: Entsprechen diese Löwin und die jungen Löwen dem Löwen aus §dan-7-4
+ }
 #}
 #jes-5-30 {
  {
@@ -55010,6 +55060,11 @@
    TODO: Zur Zeit Salomos hat Damaskus zum Reich gehört. Sollte darum Damaskus den Gott nicht vergessen haben?
  }
 #}
+#jes-17-12 {
+ {
+  <i>das Rauschen gewaltiger Wasser</i> vgl §offb-1-15, §hes-1-24
+ }
+#}
 @}
 @Jesaja 18 {
 #jes-18-1 {
@@ -55450,6 +55505,9 @@
 #jes-27-1 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leviathan
+ }
+ {
+  TODO: Vgl den Leviathan mit dem «großen Seeungeheuer» in §hes-29-3
  }
 #}
 #jes-27-9 {
@@ -56810,6 +56868,9 @@
  {
   <i>Rahab</i> §ps-89-11
  }
+ {
+  TODO <i>Seeungeheuer</i> §jes-27-1
+ }
 #}
 #jes-51-12 {
  {
@@ -57084,6 +57145,11 @@
 #}
 @}
 @Jesaja 57 {
+#jes-57-5 {
+ {
+  <i>unter jedem grünen Baum…</i> §jer-2-20
+ }
+#}
 #jes-57-13 {
  {
   <i>Land erben</i>: <a class='kom' href='#I1mo-17-6'>1.&nbsp;Mo&nbsp;17,6</a>.
@@ -57704,8 +57770,11 @@
 #}
 #jer-2-20 {
  {
-   Sch2k übersetzt mit «Denn vor langer Zeit habe ich dein Joch zerbrochen und deine Bande zerrissen …», Elb05 mit «Denn vor alters hast du dein Joch zerbrochen, deine Bande zerrissen…»,
-   KJV mit «For of old time I have broken thy yoke, and burst thy bands;…».
+  Sch2k übersetzt mit «Denn vor langer Zeit habe ich dein Joch zerbrochen und deine Bande zerrissen …», Elb05 mit «Denn vor alters hast du dein Joch zerbrochen, deine Bande zerrissen…»,
+  KJV mit «For of old time I have broken thy yoke, and burst thy bands;…».
+ }
+ {
+  <i>unter jedem grünen Baum…</i> §jer-3-6, §jes-57-5, §hes-6-13
  }
 #}
 #jer-2-21 {
@@ -57729,6 +57798,9 @@
  }
 #}
 #jer-3-6 {
+ {
+  Vgl §jer-2-20, §hes-6-13
+ }
  {
   TODO: Beachte, dass während des Königs Josia Israel bereits in Gefangenschaft weggeführt wurde.
  }
@@ -57805,6 +57877,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
  }
 #}
+#jer-4-7 {
+ {
+  TODO: Ist dies der gleiche Löwe wie in §dan-7-4
+ }
+#}
 #jer-4-10 {
  {
   <i>Seele</i>: Sch2K übersetzt mit «Kehle».
@@ -57848,8 +57925,10 @@
 #}
 #jer-5-15 {
  {
+  Das Volk, dessen Sprache die Israeliten nicht verstehen können: §+5mo-28-49.
+ }
+ {
   TODO: (fremde) Sprachen als Gericht. Vgl <a class='kom' href='#Ijes-28-11'>Jes&nbsp;28,11</a>.
-  <br>Das Volk, dessen Sprache die Israeliten nicht verstehen können: <a class='kom' href='#I5mo-28-49'>5.&nbsp;Mo&nbsp;28,49</a>.
  }
 #}
 #jer-5-22 {
@@ -58948,6 +59027,11 @@
 #jer-25-36 {
  {
   TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
+ }
+#}
+#jer-25-38 {
+ {
+  TODO: Ist dies der gleiche Löwe wie in §dan-7-4
  }
 #}
 @}
@@ -60287,6 +60371,9 @@
  {
   <i>Löwe vom Dickicht</i>, <i>auserwählt ist, über sie setzen</i> auch in <a href='http://bibel.renenyffenegger.ch/jer_50.html#v44'>Jer&nbsp;50,44</a>.
  }
+ {
+  TODO: Ist dieser Löwe, der wie der Adler heraufzieht und seine Flügel über Bozraausbreitet (§Vjer-49-22) der gleiche Löwe wie in §dan-7-4?
+ }
 #}
 #jer-49-21 {
  {
@@ -60418,6 +60505,11 @@
 #jer-50-16 {
  {
   <i>verderbendes Schwert</i> §jer-46-16
+ }
+#}
+#jer-50-17 {
+ {
+  TODO: Ist dies der gleiche Löwe wie in §dan-7-4, vgl §Vjer-50-44
  }
 #}
 #jer-50-18 {
@@ -60588,12 +60680,7 @@
   <i>Aschkenas</i>: <a class='kom' href='#I1mo-10-3'>1.&nbsp;Mo&nbsp;10,3</a>.
  }
  {
-  TODO: entsprechen diese drei Nationen den drei Rippen von §dan-7-5?
- }
-#}
-#jer-51-32 {
- {
-  <span class='u'>http://linguascriptura.org/forum_de/viewtopic.php?f=14&amp;t=43</span>
+  <span class='u'>Sam Storms argumentiert, dass diese drei drei Nationen den drei Rippen von §dan-7-5 entsprechen.</span>
  }
 #}
 #jer-51-33 {
@@ -60840,6 +60927,11 @@
   TODO <i>Misthaufen</i>: <a class='kom' href='#Idan-2-5'>Dan&nbsp;2,5</a>.
  }
 #}
+#kla-4-19 {
+ {
+  TODO: Entsprechen <i>Adler des Himmels</i> den Adlersflügel in §dan-7-4
+ }
+#}
 #kla-4-20 {
  {
   Einige Ausleger beziehen den <i>Gesalbten des HERRN</i> auf → biblisches/Personen/Josia, vgl §2chr-35-25.
@@ -60950,6 +61042,9 @@
  }
 #}
 #hes-1-24 {
+ {
+  <i>Rauschen großer Wasser</i> vgl §hes-43-2, §offb-1-15
+ }
  {
   <i>Rauschen eines Getümmels</i> evtl besser übersetzt mit «Stimme eines Getümmels», vgl §+jes-13-4.
  }
@@ -61135,6 +61230,9 @@
  }
 #}
 #hes-6-13 {
+ {
+  <i>auf allen Gipfeln der Berge und unter jedem grünen Baum</i> vgl §+jer-3-6
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geruch/lieblich, vgl §hes-16-19, §hes-20-41
  }
@@ -61537,6 +61635,11 @@
 #}
 @}
 @Hesekiel 17 {
+#hes-17-3 {
+ {
+  TODO: <i>Ein großer Adler mit großen Flügeln</i> vgl §dan-7-4
+ }
+#}
 #hes-17-4 {
  {
   <i>Händlerland</i> siehe <a class='kom' href='#Ijes-23-8'>Jes&nbsp;23,8</a>.
@@ -61552,6 +61655,11 @@
  {
   <i>Mächtigen</i>: <span class='hebr'>אַיִל</span> (Strongs 352), dasselbe Wort wie für Widder, vgl
   §2mo-15-15, §2koe-24-15
+ }
+#}
+#hes-17-23 {
+ {
+  <i>unter ihr werden alle Vögel wohnen</i> vgl §lk-13-19
  }
 #}
 #hes-17-24 {
@@ -61977,6 +62085,11 @@
 #}
 @}
 @Hesekiel 29 {
+#hes-29-3 {
+ {
+  TODO Vgl das «Seeungheuer» mit §jes-51-9 und dem «Leviathan» in §jes-27-1
+ }
+#}
 #hes-29-4 {
  {
   <i>Haken in Kinnbacken</i>: vgl §hes-38-4.
@@ -62180,7 +62293,7 @@
 #}
 #hes-34-17 {
  {
-  Vgl §mt-25-33
+  Vgl §mt-25-32-33
  }
 #}
 #hes-34-23 {
@@ -62199,6 +62312,9 @@
  }
 #}
 #hes-34-27 {
+ {
+  <i>Der Baum des Feldes wird seine Frucht geben</i> §joe-2-22, vgl §mt-3-10
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
  }
@@ -62616,6 +62732,11 @@
 #}
 @}
 @Hesekiel 43 {
+#hes-43-2 {
+ {
+  <i>Rauschen großer Wasser</i> §+hes-1-24
+ }
+#}
 #hes-43-21 {
  {
   <i>bestimmten Ort</i> (<span class='hebr'>מִפְקָד</span>, Strongs 4662), vgl 'Tor Miphkad' (<a class='kom' href='#Ineh-3-31'>Neh&nbsp;3,31</a>).
@@ -63023,6 +63144,13 @@
  {
   Im aramäischen Grundtext kann hier für <i>Schenkel</i> nicht mehr bestimmt werden, ob sie im Dual oder im Plural stehen, da die beiden Formen ineinander aufgegangen sind.
  }
+ {
+  Einige Ausleger nennen als historische Zeitspannen
+ <br>Das Haupt = Babylon von 605 bis 539
+ <br>Die Brust = Medo-Persien (= <a href='https://de.wikipedia.org/wiki/Perserreich'>Perserreich</a>? <a href='https://de.wikipedia.org/wiki/Ach%C3%A4menidenreich'>Achämenidenreich</a>? …?) von 539 bis 331
+ <br>Bauch und Lenden = Griechenland von 331 (Alexander der Grosse) bis 146
+ <br>Füße = Rom von 146 v. Chr (Zerstörung von Karthago) bis 400 n. Chr.
+ }
 #}
 #dan-2-34 {
  {
@@ -63053,6 +63181,11 @@
    TODO: Menschenkinder wäre evtl. besser mit »Söhne der Menschen« (oder »Söhne des Menschen«) übersetzt worden, vgl §dan-5-21
  }
 #}
+#dan-2-40 {
+ {
+  Mit dem vierten Königreich wird u. a. <i>Eisen</i> und <i>zermalmen</i> assoziert. Vgl §dan-7-7
+ }
+#}
 #dan-2-41 {
  {
   <i>10 Zehen</i>: vgl mit den → biblisches/Bücher/Ketuvim/Psalmen/083#ps-83-zehn-nationen[10 Nationen in Psalm 83].
@@ -63067,6 +63200,11 @@
 #dan-2-43 {
  {
   <i>sie werden sich mit dem Samen der Menschen vermischen, aber sie werden nicht aneinander haften</i> vgl §esr-9-2  
+ }
+#}
+#dan-2-44 {
+ {
+  <i>ein Königreich, welches ewiglich nicht zerstört werden wird</i> §dan-7-14
  }
 #}
 #dan-2-46 {
@@ -63184,20 +63322,21 @@
   <i>Grosser Baum</i> vgl §lk-13-19
  }
 #}
-#dan-4-15 {
- {
-  Vgl die <i>sieben Zeiten</i> mit den dreieinhalb Zeiten
- }
-#}
 #dan-4-16 {
  {
   Vgl <i>sieben Zeiten</i> mit «eine Zeit, zwei Zeiten und eine halbe Zeit» in §+dan-7-25.
   <br>Das Wort für «Zeit» kommt auch in §dan-7-12 vor.
+  <br>S. a. §Vdan-4-23
  }
 #}
 #dan-4-19 {
  {
   <i>Seine Gedanken ängstigen ihn</i>: Vgl Belsazar: §dan-5-6.
+ }
+#}
+#dan-4-31 {
+ {
+  §dan-5-20-ff
  }
 #}
 #dan-4-34 {
@@ -63244,6 +63383,11 @@
 #dan-5-13 {
  {
   <i>Daniel, einer der Söhne der Wegführung</i> vgl §dan-2-25
+ }
+#}
+#dan-5-20 {
+ {
+  §dan-4-30-31
  }
 #}
 #dan-5-21 {
@@ -63449,19 +63593,27 @@
  {
   Die → biblisches/Grundtext/LXX[Septuaginta] übersetzt mit «Löwin».
  }
+ {
+  TODO:
+   <i>Löwe</i> vgl §jes-5-29, §jer-4-7, §jer-25-38, §jer-49-19, §jer-50-17
+  <br>
+   <i>Adlersflügel</i> §5mo-28-49, §kla-4-19, §hes-17-3 (vgl dazu §hes-17-11), §hab-1-8
+ }
 #}
 #dan-7-5 {
  {
   <i>Friss viel Fleisch</i>: in §offb-17-16 werden die 10 Hörner und das Tier das Fleisch der Hure fressen.
  }
  {
-  Gemäss einigen Auslegern bedeuten die drei Rippen drei Eroberungen durch Medo-Persion: 547 v. Chr. Lydien (das heutige Anatolien), 539 v. Chr. Babylon und 525 v. Chr. Ägypten.
- }
- {
   Vgl die <i>drei</i> Rippen mit den drei Windrichtungen, nach denen der Widder in §dan-8-3-4 stösst.
  }
  {
-  TODO: sind die drei Rippen die drei Nationen Ararat, Minni und Aschkenas (§jer-51-27)?
+  <span class='u'>Gemäss einigen Auslegern bedeuten die drei Rippen drei Eroberungen durch Medo-Persien: 546 v. Chr. Lydien (das heutige Anatolien), 539 v. Chr. Babylon und 525 v. Chr. Ägypten.
+ <br>
+  Sam Storms glaubt, dass der Bär das Reich die Meder (und der Leopard die Medo-Perser) representiert und sind die drei Rippen den drei in §jer-51-27 erwähnten Nationen Ararat (= <a href='https://de.wikipedia.org/wiki/Urart%C3%A4isches_Reich'>Urartu</a>, erobert 605 v. Chr.),
+  Minni (= <a href='https://de.wikipedia.org/wiki/Mann%C3%A4er'>Mannäer</a>, assyirische Allierte, die kurz nach dem Untergang Assyriens im Mederreich aufgegangen ist)
+  und Aschkenas (= Skythen, welche von Kyaxares II geschlagen wurden) entsprechen (<i>Kingdom Come</i>, p. 102).
+  <span>
  }
 #}
 #dan-7-6 {
@@ -63480,7 +63632,10 @@
 #}
 #dan-7-7 {
  {
-  Beachte: so furchtbar ist dieses vierte Tier, dass es keinem bekannten Tier (wie Löwe, Bär oder Leopard) verglichen werden kann.
+  Beachte: so furchtbar ist dieses vierte Tier, dass es keinem bekannten Tier (wie Löwe, Bär oder Leopard) verglichen werden kann. Vgl §Vdan-7-19
+ }
+ {
+  <i>Eiserne Zähne</i> und <i>zermalmen</i> vgl §dan-2-40
  }
  {
   TODO: Vgl diese <i>Hörner</i> mit den vier Hörnern in <a href='http://bibel.renenyffenegger.ch/sach_2.html#v1'>Sach 2,1-2</a>, welche Juda, Israel und Jerusalem zerstreut haben.
@@ -63493,6 +63648,9 @@
  }
  {
   Der <i>Mund, der grosse Dinge redete</i>: §+Vdan-7-20, §offb-13-5 (Drache, der dem Tier die Gewalt gab).
+ }
+ {
+  TODO: Sam Storms, der für eine Auslegung argumentiert, wo das dritte Tier Griechenland entspricht, schreibt, dass die drei ausgerissenen Hörner Kappadokien, Armenien und Parthia sind, die von Antiochus III geschlagen wurden. (Kingdom Come, p. 103)
  }
 #}
 #dan-7-9 {
@@ -63533,6 +63691,11 @@
   TODO: <i>Sohn des Menschen</i>: <a class='kom' href='#Idan-3-25'>Dan&nbsp;3,25</a>.
   <br>Beachte auch das «Herz des Menschen» (§Vdan-7-4) und die «Menschenaugen» (§Vdan-7-8).
   <br>Beachte allgemein «Mensch» im Buch Daniel.
+ }
+#}
+#dan-7-14 {
+ {
+  <i>seine Herrschaft ist eine ewige Herrschaft</i> §dan-2-44
  }
 #}
 #dan-7-15 {
@@ -63738,6 +63901,9 @@
  }
 #}
 #dan-8-26 {
+ {
+  <i>Verschließe das Gesicht, denn es sind noch viele Tage bis dahin</i> vgl §dan-12-4
+ }
  {
   <i>Wahrheit</i> vgl §+Vdan-8-12
  }
@@ -64205,8 +64371,10 @@
 #}
 #dan-12-4 {
  {
-  <i>Versiegle das Buch</i>: vgl Johannes, der die Worte der Weissagung seines Buches nicht versiegeln soll (§offb-22-10).
-  <br>vgl §+offb-10-4.
+  <i>Versiegle das Buch</i>: Vgl mit Johannes, der die Worte der Weissagung seines Buches nicht versiegeln soll, §offb-22-10 (aber s. a. §+offb-10-4).
+ }
+ {
+  <i>Verschließe die Worte</i> vgl §dan-8-26
  }
  {
   <i>durchforschen</i> <span class='hebr'>שׁוּט</span> (Strongs 7751), in KJV mit «run to and fro» übersetzt. In §am-8-12 wird das Wort mit
@@ -64865,6 +65033,11 @@
 #joe-2-18 {
  {
   <i>Dann eifert Jehova für sein Land</i> vgl §sach-1-14, §sach-8-2, §hes-39-25
+ }
+#}
+#joe-2-22 {
+ {
+  <i>Der Baum trägt seine Frucht</i> §hes-34-27, vgl §mt-3-10
  }
 #}
 #joe-2-23 {
@@ -65915,6 +66088,9 @@
  {
   TODO: Vgl <i>Wölfe am Abend</i> mit <a href='http://bibel.renenyffenegger.ch/zeph_3.html#v3'>Zeph&nbsp;3,3</a>.
  }
+ {
+  TODO: <i>fliegen herbei wie ein Adler</i>: §dan-7-4
+ }
 #}
 @}
 @Habakuk 2 {
@@ -66643,6 +66819,11 @@
 #}
 @}
 @Sacharja 10 {
+#sach-10-3 {
+ {
+  Vgl §mt-25-32-33
+ }
+#}
 #sach-10-4 {
  {
   TODO: Kommt das Wort 'Stein' im Grundtext vor, oder nur Ecke?
@@ -67486,7 +67667,7 @@
 #}
 #mt-3-10 {
  {
-  Vgl §mt-7-19, §mt-12-33, §jak-3-12, §mt-21-19-20, §joh-15-2-ff
+  Vgl §mt-7-19, §mt-12-33, §jak-3-12, §mt-21-19-20, §joh-15-2-ff, §hes-34-27, §joe-2-22
  }
 #}
 #mt-3-11 {
@@ -71511,7 +71692,7 @@
   §+lk-20-18
  }
  {
-  Beachte den Wechsel vom ruhenden <i>Eckstein</i> (§Vmt-21-44) zum sich bewegenden, fallenden Stein.
+  Beachte den Wechsel vom ruhenden <i>Eckstein</i> (§Vmt-21-42) zum sich bewegenden, fallenden Stein.
  }
  {
   Vgl §jes-8-14-15, §dan-2-34-ff (§dan-2-45)
@@ -72109,18 +72290,6 @@
   <i>und dann werden wehklagen alle Stämme des Landes</i> Sch2K übersetzt mit «und dann werden sich alle Geschlechter der Erde an die Brust schlagen».
  }
  {
-  TODO <i>Sich an die Brust schlagen</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_1.html#v7'>Offb&nbsp;1,7</a>,
-  <a class='kom' href='#Ijes-32-12'>Jes&nbsp;32,12</a>.
-  <br>TODO: Ein Zöllner schlug an seine Brust (<a href='http://bibel.renenyffenegger.ch/lk_18.html#v13'>Lk&nbsp;18,13</a>) und ganze Scharen auch
-          (<a href='http://bibel.renenyffenegger.ch/lk_23.html#v48'>Lk&nbsp;23,48</a>).
- }
- {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen des Sohnes des Menschen im Himmel: §offb-12-1-ff
-  <br>
-   Vgl mit dem «Zeichen aus dem Himmel», das die Pharisäer und Sadduzäer sehen wollten: §mt-16-1.
-  
- }
- {
   <i>Gott kommt in einer Wolke</i>: §mt-26-64, §+2mo-19-9
  }
  {
@@ -72132,6 +72301,18 @@
     <li>Versammlung der Auserwählten
   </ul>
   Vgl auch §2thes-2-1
+ }
+ {
+  TODO <i>Sich an die Brust schlagen</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_1.html#v7'>Offb&nbsp;1,7</a>,
+  <a class='kom' href='#Ijes-32-12'>Jes&nbsp;32,12</a>.
+  <br>TODO: Ein Zöllner schlug an seine Brust (<a href='http://bibel.renenyffenegger.ch/lk_18.html#v13'>Lk&nbsp;18,13</a>) und ganze Scharen auch
+          (<a href='http://bibel.renenyffenegger.ch/lk_23.html#v48'>Lk&nbsp;23,48</a>).
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen des Sohnes des Menschen im Himmel: §offb-12-1-ff
+  <br>
+   Vgl mit dem «Zeichen aus dem Himmel», das die Pharisäer und Sadduzäer sehen wollten: §mt-16-1.
+  
  }
  {
   TODO: od «alle Stämme des Landes» statt <i>alle Geschlechter der Erde</i>, vgl <a href='http://bibel.renenyffenegger.ch/offb_1.html#v7'>Offb&nbsp;1,7</a>.
@@ -72359,12 +72540,10 @@
 #}
 #mt-25-32 {
  {
-  Vgl §2thes-2-1
+  Vgl §hes-34-17, §sach-10-3
  }
-#}
-#mt-25-33 {
  {
-  Vgl §hes-34-17
+  Vgl §2thes-2-1
  }
 #}
 #mt-25-34 {
@@ -72676,6 +72855,14 @@
 #mt-26-39 {
  {
   §mk-14-36, §lk-22-42. Vgl §joh-18-11
+ }
+#}
+#mt-26-40 {
+ {
+  §mk-14-37
+ }
+ {
+  <i>Die Jünger, die nicht wachen konnten</i> vgl §k-12-37
  }
 #}
 #mt-26-41 {
@@ -75860,6 +76047,9 @@ sa:
 #}
 #mk-14-37 {
  {
+  §mt-26-40
+ }
+ {
   <i>findet sie schlafend</i> §mk-13-36
  }
  {
@@ -76693,7 +76883,7 @@ sa:
 #}
 #lk-1-68 {
  {
-  <i>Erlösung geschafft hat seinem Volk</i> vgl §mt-1-21, §lk-2-11, §lk-2-38, §joh-1-29, §lk-21-28, §lk-24-21
+  <i>Erlösung geschafft hat seinem Volk</i> vgl §mt-1-21, §lk-2-11, §lk-2-38, §joh-1-29, §lk-21-28, §lk-24-21, §ps-111-9
  }
  {
   <i>Sein Volk besuchen</i> vgl §lk-7-16
@@ -79376,14 +79566,13 @@ sa:
 #lk-12-37 {
  {
   <i>Glückselig jene Knechte, die der Herr, wenn er kommt, wachend finden wird</i> und <i>Wenn der Hausherr gewußt hätte, zu welcher Stunde der Dieb kommen würde…</i> (§Vlk-12-39), vgl §offb-16-15, §mt-24-42
+ <br>
+  Vgl mit den Jüngern, die nicht eine Stunde mit Ihm wachen konnten, §mt-26-40, §mk-14-37
  }
 #}
 #lk-12-38 {
  {
-  §mt-14-25
- }
- {
-  <i>… wenn er in der zweiten und in der dritten → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache kommt …</i> vgl mit §mk-6-48, wo der Herr um die vierte Wache zu den Jüngern kommt.
+  <i>… wenn er in der zweiten und in der dritten → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache kommt …</i> vgl mit §mt-14-25 und §mk-6-48, wo der Herr um die vierte Wache zu den Jüngern kommt.
  }
  {
   Beachte, die Zahlen <i>zwei</i> und <i>drei</i> kommen auch in §Vlk-12-52 vor.
@@ -79542,7 +79731,7 @@ sa:
  {
   <i>Grosser Baum</i> vgl §dan-4-11
   <br>
-  <i>Die Vögel des Himmels liessen sich nieder in seinen Zweigen</i> vgl §hes-31-6
+  <i>Die Vögel des Himmels liessen sich nieder in seinen Zweigen</i> vgl §hes-17-23, §hes-31-6
   <br>
   §+mt-13-32
  }
@@ -79997,6 +80186,9 @@ sa:
  {
   <i>begehren einen der Tage des Sohnes des Menschen zu sehen, und ihr werdet ihn nicht sehen</i> vgl §mt-13-17, §lk-13-35, §mk-14-62
  }
+ {
+  <i>Tage des Sohnes des Menschen</i> vgl mit den «Tagen Noahs» (§Vlk-17-26) und den «Tagen Lots» (§Vlk-17-28).
+ }
 #}
 #lk-17-23 {
  {
@@ -80015,12 +80207,10 @@ sa:
 #}
 #lk-17-26 {
  {
-  <a class='kom' href='#Imt-24-37'>Mt&nbsp;24,37</a>.
+  §+mt-24-37
  }
-#}
-#lk-17-27 {
  {
-  <i>Kasten</i>: <a class='kom' href='#Imt-24-37'>Mt&nbsp;24,37</a>.
+  <i>Tage des Sohnes des Menschen</i>: §Vlk-17-22
  }
 #}
 #lk-17-29 {
@@ -81444,7 +81634,7 @@ sa:
 #}
 #lk-24-49 {
  {
-  <i>Verheissung des Vaters</i>: §apg-1-4. Vgl mit der 'Verheissung des Heiligen Geistes', die der Herr selbst empfängt (§+apg-2-33)
+  <i>Verheissung des Vaters</i>: §apg-1-4. Vgl mit der «Verheissung des Heiligen Geistes», die der Herr selbst empfängt, §+apg-2-33.
   <br>
    Vgl auch §joh-14-26
  }
@@ -83384,6 +83574,11 @@ sa:
   <i>Ihr werdet mich suchen und werdet in eurer Südne Sterben, wo ich hingeghe, könnt ihr nicht hinkommen</i> vgl §joh-7-36
  }
 #}
+#joh-8-23 {
+ {
+  <i>Ich bin nicht von dieser Welt</i> vgl §joh-18-36
+ }
+#}
 #joh-8-24 {
  {
   TODO: Vgl <i>Glauben, dass ich es bin</i> vs <i>Erkennen, dass ich es bin</i> (Vers 28).
@@ -85150,7 +85345,7 @@ sa:
 #}
 #joh-18-36 {
  {
-  <i>Mein Reich ist nicht von dieser Welt</i> vgl §lk-17-20
+  <i>Mein Reich ist nicht von dieser Welt</i> vgl §lk-17-20, §offb-11-15, §joh-8-23
  }
 #}
 #joh-18-37 {
@@ -86154,7 +86349,7 @@ sa:
  }
  {
   <i>Verheissung des Heiligen Geistes</i>: §+lk-24-49, §gal-3-14
-  <br>Vgl mit der 'Gabe des Heiligen Geistes' in Vers 38.
+  <br>Vgl mit der «Gabe des Heiligen Geistes» in §Vapg-2-38
   <br>S.a. → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
  }
 #}
@@ -86202,6 +86397,9 @@ sa:
 #apg-2-38 {
  {
   <i>Was sollen wir tun…?</i> §lk-3-10, §apg-16-30
+ }
+ {
+  <i>Gabe des Heiligen Geistes</i> §apg-10-45
  }
  {
   Siehe <a href='#Imt-28-19'>Mt&nbsp;28,19</a> wo die Anordnung lautet, auf den Vater, den Sohn und den Heiligen Geist zu taufen.
@@ -87357,6 +87555,9 @@ sa:
 #}
 #apg-7-51 {
  {
+  <i>Ihr Halsstarrigen und Unbeschnittenen an Herz …</i> Vgl §5mo-10-16
+ }
+ {
   Beachte: die «Lästerung des Geistes wird … nicht vergeben werden», §+mt-12-31.
  }
  {
@@ -88148,7 +88349,10 @@ sa:
 #}
 #apg-10-35 {
  {
-  Vgl §roem-4-5, §tit-3-5
+  Vgl §apg-15-14, §apg-18-10, §roem-4-5, §tit-3-5
+ }
+ {
+  <i>daß in jedem Volk derjenige ihm angenehm ist, der ihn fürchtet</i> vgl §apg-13-26
  }
  {
   <i>Gerechtigkeit wirken</i> §hebr-11-33
@@ -88225,6 +88429,11 @@ sa:
   TODO: Oder fiel der Heilige Geist, weil Petrus zu den Heiden gekommen ist? Vgl <a href='http://bibel.renenyffenegger.ch/apg_11.html#v15'>Apg 11,15-17</a>.
   <br>In <a href='http://bibel.renenyffenegger.ch/apg_17.html#v31'>Apg&nbsp;17,31</a> zB fiel er nicht mehr, obwohl Paulus wohl das richtige gepredigt hat.
   <br>Vgl auch <a class='kom' href='#Iapg-8-16'>Apg&nbsp;8,16</a>.
+ }
+#}
+#apg-10-45 {
+ {
+  <i>Gabe des Heiligen Geistes</i> §apg-2-38
  }
 #}
 #apg-10-46 {
@@ -88832,7 +89041,7 @@ sa:
 #}
 #apg-13-26 {
  {
-  <i>und die unter euch, die Gott fürchten …</i>: dies dürfte auf Kornelius zutreffen (<a href='http://bibel.renenyffenegger.ch/apg_10.html#v1'>Apg&nbsp;10,1 ff</a>).
+  <i>und die unter euch, die Gott fürchten …</i>: dies dürfte auf Kornelius zutreffen (<a href='http://bibel.renenyffenegger.ch/apg_10.html#v1'>Apg&nbsp;10,1 ff</a>). Vgl §Vapg-13-16, §apg-10-35
  }
  {
   <i>Söhne des Geschlechtes Abrahams</i>: vgl mit → biblisches/Personen/Abraham/Same#abraham-vater und «Gottes Geschlecht», §apg-17-29
@@ -89222,6 +89431,14 @@ sa:
   <br>In <a href='http://bibel.renenyffenegger.ch/apg_14.html#v14'>Apg&nbsp;14,14</a> wurden Barnabas und Paulus <i>Apostel</i> genannt.
  }
 #}
+#apg-15-5 {
+ {
+  <i>Man muß sie beschneiden und ihnen gebieten, das Gesetz Moses zu halten</i> vgl §apg-21-21
+ }
+ {
+  TODO: Vgl die Forderung des Gesetzes Moses mit dem, was die Propheten schrieben, §Vapg-15-15
+ }
+#}
 #apg-15-6 {
  {
   <i>Sache</i>: <span class='gr'>λόγος</span> (Strongs 3056).
@@ -89263,7 +89480,7 @@ sa:
 #}
 #apg-15-14 {
  {
-  <i>um aus ihnen ein Volk zu nehmen</i> Vgl §roem-11-25-26
+  <i>um aus ihnen ein Volk zu nehmen</i> Vgl §apg-10-35, §apg-18-10 §roem-11-25-26
  }
  {
   Beachte: Jakobus nennt Petrus <i>Simon</i>, vgl <a class='kom' href='#Iapg-10-5'>Apg&nbsp;10,5</a>. Hier ist die letzte erwähnung von <i>Petrus</i> oder
@@ -89273,6 +89490,9 @@ sa:
 #apg-15-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
+ }
+ {
+  TODO: §Vapg-15-5
  }
 #}
 #apg-15-16 {
@@ -89356,7 +89576,10 @@ sa:
 #}
 #apg-15-24 {
  {
-   <span class='gt'>In NA fehlt «und sagen, ihr müßtet beschnitten werden und das Gesetz halten».</span>
+  TODO: <i>die aus unserer Mitte ausgegangen sind</i> §1joh-2-19
+ }
+ {
+  <span class='gt'>In NA fehlt «und sagen, ihr müßtet beschnitten werden und das Gesetz halten».</span>
  }
  {
   TODO: Trotz diesen Beschlüssen hat Paulus → biblisches/Personen/Timotheus beschnitten (§apg-16-3)!
@@ -90066,6 +90289,11 @@ sa:
  }
  {
   TODO: <i>Gesicht</i>, letztes Vorkommen von Strongs 3705, siehe <a class='kom' href='#Iapg-7-31'>Apg&nbsp;7,31</a>.
+ }
+#}
+#apg-18-10 {
+ {
+  <i>ch habe ein großes Volk in dieser Stadt</i> vgl §apg-10-35, §apg-15-14
  }
 #}
 #apg-18-12 {
@@ -90834,7 +91062,13 @@ sa:
 #}
 #apg-21-21 {
  {
-   <i>Gebräuche</i>: <a class='kom' href='#Iapg-16-21'>Apg&nbsp;16,21</a>.
+  <i>sie sollen die Kinder nicht beschneiden</i> vgl §apg-15-5
+ }
+ {
+  <i>Abfall von Mose lehren</i> vgl §apg-26-22
+ }
+ {
+  <i>Gebräuche</i>: <a class='kom' href='#Iapg-16-21'>Apg&nbsp;16,21</a>.
  }
  {
   <i>Abfall</i> §+2thes-2-3
@@ -91475,6 +91709,11 @@ sa:
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
 #}
+#apg-26-22 {
+ {
+  <i>ich sage nichts außer dem, was auch die Propheten und Mose geredet haben</i> vgl §apg-21-21
+ }
+#}
 #apg-26-23 {
  {
   Vgl <a class='kom' href='#Ijes-42-6'>Jes&nbsp;42,6</a>.
@@ -91483,7 +91722,7 @@ sa:
   <i>Erster aus der Auferstehung</i>: vgl <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v20'>1.&nbsp;Kor&nbsp;15,20-23</a>.
  }
  {
-  TODO: Licht verkündigen als erster aus den Auferstandenen, vgl §joh-1-3-4, §mt-4-1, §lk-1-79
+  TODO: Licht verkündigen als erster aus den Auferstandenen, vgl §joh-1-3-4, §mt-4-16, §lk-1-79
  }
 #}
 #apg-26-24 {
@@ -92425,7 +92664,7 @@ sa:
 #}
 #roem-2-29 {
  {
-  <i>Beschneidung am Herzen</i>: vgl §apg-7-51, §kol-2-11
+  <i>Beschneidung am Herzen</i>: vgl §apg-7-51, §kol-2-11, §5mo-10-16, §5mo-30-6
  }
  {
   <i>Lob</i>: Beachte, Juda (wovon Jude abstammt) bedeutet Lob, oder preisen (§1mo-29-35). Elberfelder übersetzt mit «Anerkennung», KJV mit «praise».
@@ -94987,6 +95226,9 @@ sa:
   Vgl <i>berufen zu</i> <a class='kom' href='#Ikol-3-15'>Kol&nbsp;3,15</a>
  }
  {
+  <i>Gott ist treu</i>: §1kor-10-13, §2kor-1-18, §2thes-3-3
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Koinonia[Gemeinschaft]
  }
 #}
@@ -95021,11 +95263,8 @@ sa:
   <i>daß Streitigkeiten unter euch sind</i> §1kor-3-3
  }
  {
-  Vgl die Streitigkeiten, die in der Chloe bekannt geworden sind, mit dem Glauben, der überall oder in der ganzen
-  Welt verkündigt wird: <a class='kom' href='#Iroem-1-8'>Röm&nbsp;1,8</a>.
-  <br>
-   Vgl auch mit was Paulus <i>hört</i> in <a href='http://bibel.renenyffenegger.ch/1kor_5.html#v1'>1.&nbsp;Kor&nbsp;5,1</a> und
-   <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v18'>1.&nbsp;Kor&nbsp;11,18</a>.
+  Vgl die Streitigkeiten, die kundgeworden sind, mit dem, was Paulus <i>hört</i>: §1kor-5-1 und §1kor-11-18 und 
+  mit dem Glauben, der in der ganzen Welt verkündigt wird: §+roem-1-8.
  }
  {
   TODO: Geht dieser Abschnitt über Streitigkeiten bis <a href='http://bibel.renenyffenegger.ch/1kor_6.html#v20'>1.&nbsp;Kor&nbsp;6,20</a>?
@@ -95273,7 +95512,7 @@ sa:
 #}
 #1kor-3-3 {
  {
-  <i>Denn da … Streit und Zwietracht unter euch ist</i> vgl §1kor-1-11
+  <i>Denn da … Streit und Zwietracht unter euch ist</i> vgl §1kor-1-11, §1kor-11-18
  }
  {
   <i>Neid</i>: <span class='gr'>ζῆλος</span> (Strongs 2205), vgl §2kor-7-7, §2kor-12-20, §jak-3-14
@@ -95632,6 +95871,9 @@ sa:
 @1. Korinther 5 {
 #1kor-5-1 {
  {
+  §1kor-11-18
+ }
+ {
    TODO: Vgl <a class='kom' href='#I1kor-1-11'>1.&nbsp;Kor&nbsp;1,11</a>.
  }
 #}
@@ -95753,7 +95995,7 @@ sa:
   <i>Ungerechte</i> (<span class='gr'>ἄδικος</span>, Strongs 94), vgl mit «Unrecht üben» (<span class='gr'>ἀδικέω</span>, Strong 91) in Vers 8.
  }
  {
-  Das Reich Gottes nicht erben: §kor-15-50, §gal-5-19-21 und §eph-5-5, vgl §mt-25-34
+  Das Reich Gottes nicht erben: §1kor-15-50, §gal-5-19-21 und §eph-5-5, vgl §mt-25-34
  <br>
   S.a. §+offb-21-8.
  }
@@ -96356,6 +96598,9 @@ sa:
   er selbst am Leben verzweifelte. Da vertraute er Gott, der die Toten auferweckt, und Gott errettete Paulus
   aus grosser Todesgefahr.
  }
+ {
+  <i>Gott aber ist treu</i>: §1kor-1-9, §2kor-1-18, §2thes-3-3
+ }
 #}
 #1kor-10-14 {
  {
@@ -96562,7 +96807,10 @@ sa:
   Beachte: 'in der Gemeinde zusammenkommen' vs 'am selben Ort zusammenkommen' (Vers 20).
  }
  {
-  <i>Spaltungen</i>: <a class='kom' href='#I1kor-1-10'>1.&nbsp;Kor&nbsp;1,10</a>.
+  <i>höre ich</i> vgl §1kor-5-1
+ }
+ {
+  <i>Spaltungen</i>: §+1kor-1-10, §1kor-3-3
  }
  {
    TODO: Vgl <a class='kom' href='#I1kor-1-11'>1.&nbsp;Kor&nbsp;1,11</a>.
@@ -97236,8 +97484,7 @@ sa:
 #}
 #1kor-15-24 {
  {
-  Vgl mit <a class='kom' href='#Ieph-1-21'>Eph&nbsp;1,21</a> und
-  <a class='kom' href='#I1petr-3-22'>1.&nbsp;Petr&nbsp;3,22</a>.
+  <i>alle Herrschaft und alle Gewalt und Macht</i>: <span class='gr'>πασαν αρχην και πασαν εξουσιαν και δυναμιν</span> Vgl mit §+eph-1-21 und §+1petr-3-22.
  }
  {
   <i>Reich</i> vgl <a class='kom' href='#Imt-26-29'>Mt&nbsp;26,29</a>.
@@ -97254,13 +97501,13 @@ sa:
 #}
 #1kor-15-26 {
  {
-  Vgl §2tim-1-10
+  Vgl §V1kor-15-55, §2tim-1-10
  }
 #}
 #1kor-15-27 {
  {
   <i>Unterwerfen</i> (<span class='gr'>ὑποτάσσω</span>, Strongs 5293), dasselbe Wort wird häufig mit 'unterordnen'
-     übersetzt (vgl <a class='kom' href='#Iroem-13-1'>Röm&nbsp;13,1</a>).
+  übersetzt (vgl <a class='kom' href='#Iroem-13-1'>Röm&nbsp;13,1</a>).
  }
  {
   Verweis: §ps-8-7
@@ -97278,12 +97525,12 @@ sa:
   <i>Unterwerfung</i>: Vgl §+lk-2-51, §+roem-13-1.
  }
  {
-  Vgl §+1kor-3-23
+  <i>daß Gott alles in allem sei</i> Vgl §+1kor-3-23
  }
 #}
 #1kor-15-29 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
  }
 #}
 #1kor-15-32 {
@@ -97397,7 +97644,7 @@ sa:
 #}
 #1kor-15-55 {
  {
-  <i>Wo ist, o Tod …</i>: §hos-13-14, vgl §roem-5-14
+  <i>Wo ist, o Tod …</i>: §hos-13-14, vgl §V1kor-15-26, §roem-5-14
  }
  {
   <i>Tod</i> u. <i>Hades</i>: §offb-1-18, §offb-6-8, §offb-20-13-14
@@ -97704,6 +97951,11 @@ sa:
 #2kor-1-16 {
  {
   → biblisches/Orte/Macedonien
+ }
+#}
+#2kor-1-18 {
+ {
+  <i>Gott aber ist treu</i>: §1kor-1-9, §1kor-10-13, §2thes-3-3
  }
 #}
 #2kor-1-19 {
@@ -100022,12 +100274,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Zukünftiges Zeitalter</i> vgl §eph-2-7, §eph-3-9, §hebr-6-5
  }
  {
-  TODO: Wenn jede <i>Herrschaft, Gewalt und Kraft (bzw Macht)</i> beseitigt ist, wird Er das Reich Seinem Vater übergeben (<a class='kom' href='#I1kor-15-24'>1.&nbsp;Kor&nbsp;15,24</a>).
+   Wenn jede <i>Herrschaft, Gewalt und Kraft (oder Macht)</i> (<span class='gr'>πασης αρχης και εξουσιας και δυναμεως</span>) beseitigt ist, wird Er das Reich Seinem Vater übergeben, §+1kor-15-24.
  }
 #}
 #eph-1-22 {
  {
-  <i>Unterwerfung unter die Füsse des Herrn</i>: vgl §1kor-15-25.
+  <i>Unterwerfung unter die Füsse des Herrn</i>: vgl §1kor-15-25-27.
   <br>Vgl auch §+roem-13-1.
  }
 #}
@@ -103844,6 +104096,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
  }
 #}
+#2thes-3-3 {
+ {
+  <i>Der Herr aber ist treu</i>: §1kor-1-8, §1kor-10-13, §2kor-1-18, §2tim-2-13
+ }
+#}
 #2thes-3-5 {
  {
   <i>Ausharren des Christus</i> §2thes-1-4
@@ -105218,6 +105475,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2tim-2-12 {
  {
   <i>wenn wir verleugnen, so wird auch er uns verleugnen</i> vgl mit Petrus Verleugnung des Herrn in §mt-26-31-35, §lk-22-34 etc.
+ }
+#}
+#2tim-2-13 {
+ {
+  <i>er bleibt treu</i>: §2thes-3-3
  }
 #}
 #2tim-2-14 {
@@ -106626,6 +106888,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   der für das Hoherpriestertum (?) wichtig ist (jener Vers beginnt mit «Da wir nun einen grossen Hohenpriester haben... »
  }
  {
+  <i>Treuer Hohepriester</i> vgl §hebr-3-2, §hebr-10-23
+ }
+ {
   Der Hebräerbrief ist der einzige Brief des NT, wo das Wort «Hohepriester» vorkommt.
  }
  {
@@ -106651,6 +106916,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Heilige Brüder</i>: <a class='kom' href='#Ihebr-2-11'>Hebr&nbsp;2,11</a>.
+ }
+#}
+#hebr-3-2 {
+ {
+  <i>treu</i> vgl §hebr-2-17, §hebr-10-23
  }
 #}
 #hebr-3-3 {
@@ -106815,8 +107085,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Gott Rechenschaft geben</i>: <a class='kom' href='#Imt-12-36'>Mt&nbsp;12,36</a>.
  }
  {
-  ', dem wir Rechenschaft zu geben haben.' wird in Luther 1912 mit 'Von dem reden wir.' übersetzt.
-  Elberfelder 'mit dem wir es zu tun haben'.
+  <i>dem wir Rechenschaft zu geben haben</i> wird in Luther 1912 mit «Von dem reden wir», in  Elberfelder mit «mit dem wir es zu tun haben» übersetzt.
+ }
+ {
+  <i>nackt</i>: Sch2K übersetzt mit «enthüllt», Elberfelder mit «bloß».
  }
  {
   TODO: Mit <i>ihm</i> ist wohl das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes] aus Vers 12 gemeint.
@@ -107829,6 +108101,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Verheissung</i> vgl Vers 36.
  }
  {
+  <i>denn er ist treu</i> §hebr-2-17, §hebr-3-2
+  <br>… der die Verheißung gegeben hat</i> §hebr-11-11
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
  }
 #}
@@ -108060,6 +108336,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-11-11 {
  {
   Hier empfing Sara durch Glauben Kraft, in §roem-4-19-20 wird Abraham im Glauben gestärkt, vgl §Vhebr-11-17-ff
+ }
+ {
+  <i>den für treu achten, der die Verheißung gegeben hat</i> vgl §hebr-10-23
  }
  {
   Beachte: Sarah lachte erst in ihrem Herzen, §1mo-18-12.
@@ -111486,6 +111765,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Bücher/Evangelien/Johannes#joh-stunde, letzte Stunde vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit, §roem-13-11
  }
 #}
+#1joh-2-19 {
+ {
+  TODO <i>Sie sind von uns ausgegangen</i> vgl §apg-15-24
+ }
+#}
 #1joh-2-20 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst[Ihr wisst/wir wissen]: <ul>
@@ -112624,6 +112908,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: Vgl mit <a class='kom' href='#Imt-28-3'>Mt&nbsp;28,3</a>.
  }
 #}
+#offb-1-15 {
+ {
+  <i>Rauschen vieler Wasser</i> vgl §offb-14-2, §jes-17-12-13, §hes-1-24
+ }
+#}
 #offb-1-16 {
  {
   Die <i>sieben Sterne</i> sind die Engel der sieben Gemeinden (§Voffb-1-20).
@@ -112839,6 +113128,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-2-13 {
  {
   Vgl den <i>Thron des Satans</i> mit <a href='http://bibel.renenyffenegger.ch/offb_13.html#v2'>Offb&nbsp;13,2</a>.
+ }
+ {
+  <i>Treuer Zeuge</i> vgl §offb-3-14
  }
  {
   TODO: Fehlt »Ich kenne deine Werke« in NA?
@@ -113090,7 +113382,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Bücher/prophetisch/Offenbarung/Sendschreiben/Laodizäa
  }
  {
-  <i>Der wahrhaftige Zeuge</i> vgl §Voffb-3-7
+  <i>Der treue und wahrhaftige Zeuge</i> vgl §Voffb-3-7, §offb-2-13
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/treu-gewiss_wahrhaftig[treu, wahrhaftig]
@@ -113101,8 +113393,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Ich bin reich…</i> vgl mit der Gemeinde in Smyrna (§offb-2-9)
  }
  {
-  <i>bloss</i>: <a class='kom' href='#Ihes-16-7'>Hes&nbsp;16,7</a>.
-  <br>Elend und arm: vgl §ps-86-1.
+  <i>nackt</i> vgl §+hes-16-7, §offb-16-15
+ }
+ {
+  <i>Elend und arm</i> vgl §ps-86-1.
  }
 #}
 #offb-3-18 {
@@ -114518,6 +114812,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>unseres Herrn und seines Christus</i> vgl §apg-4-26
  }
  {
+  <i>Das Reich der Welt unseres Herrn</i> vgl mit dem «Reich, das nicht von dieser Welt ist», §joh-18-36
+ }
+ {
   TODO: Ist diese siebte Posaune die letzte, die in <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v52'>1.&nbsp;Kor&nbsp;15,52</a> erwähnt wird?
   Beachte auch, dass Paulus schreibt: 'zur Zeit der letzten Posaune'.
  }
@@ -115082,6 +115379,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   TODO: 144000 vgl §2chr-3-3
  }
 #}
+#offb-14-2 {
+ {
+  <i>ein Rauschen vieler Wasser</i> §offb-1-15, <i>… und wie das Rollen eines lauten Donners</i> §offb-19-6
+ }
+#}
 #offb-14-3 {
  {
   → biblisches/Bücher/prophetisch/Offenbarung/24-Aelteste
@@ -115535,7 +115837,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Ich komme wie ein Dieb. Glückselig, der da wacht…</i> vgl §lk-12-37-39
  }
  {
-  <b>Die sieben 'Glückselig'</b>: siehe <a class='kom' href='#Ioffb-1-3'>Offb&nbsp;1,3</a>.
+  <i>daß er nicht nackt wandle</i> vgl §offb-3-17, §offb-17-16
+ }
+ {
+  <b>Die sieben 'Glückselig'</b>: siehe §+offb-1-3.
  }
  {
   TODO: <i>Wenn</i> er kommt wie ein Dieb, und das nächste 'Ereignis' ist die Versammlung in Armageddon, dann müsste doch dieses 'Kommen wie ein Dieb' noch
@@ -115757,10 +116062,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Vgl auch <a class='kom' href='#Ioffb-8-1'>Offb&nbsp;8,1</a>.
  }
  {
-  <i>10 Hörner</i> usw: <a class='kom' href='#Ioffb-13-1'>Offb&nbsp;13,1</a>.
- }
- {
-  Zehn Hörner, zehn Könige: vgl §dan-7-24.
+  <i>Zehn Hörner, zehn Könige</i>: vgl §dan-7-24, vgl §+offb-13-1
  }
 #}
 #offb-17-13 {
@@ -115791,6 +116093,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-17-16 {
  {
   <i>Das Fleisch der Hure Fressen</i>: §+dan-7-5.
+ }
+ {
+  <i>nackt</i> vgl §offb-16-15
  }
 #}
 #offb-17-17 {
@@ -116071,6 +116376,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-19-6 {
+ {
+  <i>ein Rauschen vieler Wasser und wie ein Rollen starker Donner</i> vgl §offb-14-2, §offb-1-15
+ }
  {
   TODO: <i>eine Stimme</i> vgl §2chr-5-13
  }
@@ -116743,7 +117051,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <a class='kom' href='#Ioffb-10-4'>Offb&nbsp;10,4</a>.
  }
  {
-  <i>Die Zeit ist nahe</i>: §+lk-21-8.
+  <i>Die Zeit ist nahe</i>: §+lk-21-8, §offb-1-1
  }
 #}
 #offb-22-11 {
