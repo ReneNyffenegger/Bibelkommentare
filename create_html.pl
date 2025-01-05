@@ -484,7 +484,8 @@ open (my $interlinear        , '<:unix:encoding(UTF-8)', "$ENV{github_root}Bibel
         if ($line eq ' }') {
 
     
-          if ($div_t_akku =~ m/TODO/ or $div_t_akku =~ /'u'/) { # {{{
+          if ($div_t_akku =~ m/TODO/ # or $div_t_akku =~ /'u'/
+          ) { # {{{
     
     
             if (!$web) {
