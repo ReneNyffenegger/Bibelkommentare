@@ -31520,6 +31520,11 @@
   Paltiel, der Mann Michals weinte bis <i>Bachurim</i>, als Abner/Ischboset sie zurück zu → biblisches/Personen/David führte: <a href='http://bibel.renenyffenegger.ch/2sam_3.html#v16'>2.&nbsp;Sam&nbsp;3,16</a>.
  }
 #}
+#2sam-16-8 {
+ {
+  <i>Blut</i> ist im Grundtext im Plural, vgl §2chr-24-25, §joh-1-13
+ }
+#}
 #2sam-16-9 {
  {
   <i>Toter Hund</i>: <a class='kom' href='#I1sam-24-15'>1.&nbsp;Sam&nbsp;24,15</a>.
@@ -41115,6 +41120,9 @@
  }
 #}
 #2chr-24-25 {
+ {
+  <i>Blut</i> ist im Grundtext im Plural, vgl §2sam-16-8, §joh-1-13
+ }
  {
   TODO: vgl Vers 22 und <a class='kom' href='#I2koe-12-22'>2.&nbsp;Kö&nbsp;12,22</a>.
  }
@@ -72012,6 +72020,9 @@
   <i>Das Blut Abels</i>: §1mo-4-10
  }
  {
+  <i>Das Blut … des Gerechten</i> vgl §mt-27-24
+ }
+ {
   Mit <i>Zacharia, dem Sohn Barachjas</i> scheint Sacharja gemeint zu sein: §+sach-1-1.
   <i>Aber</i> in §2chr-24-20-ff wird ein Sekarja (Sch2K: Sacharja), Sohn Jojadas im Hof des Hauses Jehovas gesteinigt.
    In §jes-8-2 ein gewisser <i>Sacharja, Sohn Jeberekjas</i> erwähnt.
@@ -73139,6 +73150,9 @@
  }
  {
   <i>Hände waschen</i> vgl §+5mo-21-6.
+ }
+ {
+  <i>Blut dieses Gerechten</i> vgl §mt-23-35
  }
 #}
 #mt-27-25 {
@@ -81701,7 +81715,7 @@ sa:
 #}
 #joh-1-3 {
  {
-  Alles wurde durch dasselbe (das Wort): vgl §ps-33-6, §hebr-11-3, §kol-1-16, §+hebr-1-2
+  Alles wurde durch dasselbe (das Wort): vgl §Vjoh-1-10, §ps-33-6, §hebr-11-3, §kol-1-16, §+hebr-1-2
  <br>
   Vgl §Vjoh-1-10
  }
@@ -81765,13 +81779,13 @@ sa:
  {
   <i>in der Welt</i>: §joh-9-5, §joh-13-1, §joh-16-33, §joh-17-11-ff
  }
+ {
+  <i>die Welt wurde durch ihn</i>: §+Vjoh-1-3
+ }
 #}
 #joh-1-11 {
  {
-  Vgl
-  <a href='http://bibel.renenyffenegger.ch/lk_19.html#v14'>Lk&nbsp;19,14</a>,
-  <a href='http://bibel.renenyffenegger.ch/joh_15.html#v18'>Joh&nbsp;15,18</a>,
-  <a href='http://bibel.renenyffenegger.ch/apg_3.html#v14'>Apg&nbsp;3,14</a>.
+  <i>die Seinigen nahmen ihn nicht an</i> Vgl §lk-19-14, §joh-15-18, §apg-3-14.
  }
 #}
 #joh-1-12 {
@@ -81797,6 +81811,9 @@ sa:
  }
  {
   <i>Aus Gott geboren sein</i> vgl §joh-8-41
+ }
+ {
+  <i>Blut</i>: Im Grundtext im Plural, Elberfelder übersetzt mit «Geblüt». Vgl §2sam-16-8, §2chr-24-25
  }
 #}
 #joh-1-14 {
@@ -82304,9 +82321,9 @@ sa:
  {
   <i>von neuem</i>: <span class='gr'>ἄνωθεν</span> (Strongs 509), wird häufig mit «von oben» übersetzt,
   zum Beispiel in §mt-27-51. 
-  In §gal-4-9 wird es mit «wiederum» übersetzt. Vgl aber auch §+apg-26-5.
+  In §gal-4-9 wird es mit «von neuem» übersetzt. Vgl aber auch §+apg-26-5.
   <br>
-   Vgl §joh-3-31, §joh-19-11, §joh-19-23, §lk-1-3 (»Von Anfang an«)
+   Vgl §Vjoh-3-31, §joh-19-11, §joh-19-23, §lk-1-3 (»Von Anfang an«)
  }
  {
   Vgl §joh-1-13
@@ -82497,6 +82514,9 @@ sa:
  }
  {
   <i>Der vom Himmel kommt</i> vgl §joh-20-17
+ }
+ {
+  <i>von der Erde reden</i> vgl §1joh-4-5
  }
 #}
 #joh-3-34 {
@@ -99738,7 +99758,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>von Gott erkannt sein</i> vgl §1kor-8-3
  }
  {
-  <i>wiederum</i>: <a class='kom' href='#Ijoh-3-3'>Joh&nbsp;3,3</a>.
+  <i>von neuem</i>: §+joh-3-3.
  }
 #}
 #gal-4-10 {
@@ -102265,7 +102285,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #kol-1-16 {
  {
   <i>Alle Dinge sind durch ihn und für ihn erschaffen worden</i> vgl §+roem-11-36, §+roem-13-1,
-  §joh-1-3, §+hebr-1-2
+  §joh-1-3, §+hebr-1-2, §joh-1-3
  }
 #}
 #kol-1-17 {
@@ -106675,10 +106695,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-1-7 {
  {
-   Zitat aus <a href='http://bibel.renenyffenegger.ch/ps_104.html#v4'>Ps&nbsp;104,4</a>.
+  Zitat aus §ps-104-4.
  }
  {
   <i>Diener</i>: <a class='kom' href='#Iroem-13-6'>Röm&nbsp;13,6</a>.
+ }
+ {
+  <i>Wind</i>: §+joh-3-8
  }
 #}
 #hebr-1-8 {
@@ -112054,6 +112077,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>überwinden</i>: <a class='kom' href='#I1joh-2-13'>1.&nbsp;Joh&nbsp;2,13</a>.
+ }
+#}
+#1joh-4-5 {
+ {
+  <i>aus der Welt reden</i> vgl §joh-3-31
  }
 #}
 #1joh-4-6 {
