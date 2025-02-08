@@ -69561,7 +69561,7 @@
 #}
 #mt-11-12 {
  {
-  <i>An sich reissen</i> (<span class='hebr'>ἁρπάζω</span>, Strongs 726) kommt Z. b. vor in §2kor-12-2, §1thes-4-17, §offb-12-5 («entrückt»), §jud-1-23 («reissen»).
+  <i>An sich reissen</i> (<span class='hebr'>ἁρπάζω</span>, Strongs 726) kommt z. B. vor in §2kor-12-2, §1thes-4-17, §offb-12-5 («entrückt»), §jud-1-23 («reissen»).
  }
 #}
 #mt-11-14 {
@@ -87833,6 +87833,10 @@ sa:
   <br>Beachte auch: in den Versen 32-33 liest dieser Mann Jesaja 53 und bereits in §jes-56-3 wird gesagt: «der Verschnittene sage nicht: Siehe ich bin ein dürrer Baum».
  }
  {
+  Einige Kommentatoren bemerken, dass der Kämmerer (der sich hier bekehrt) ein Nachkomme von Ham, Saulus (der sich im nächsten Kapitel bekehrt), ein Nachkomme von Sem und Kornelius (der sich im übernächsten Kapitel bekehrt), ein
+  Nachkomme von Japhet gewesen ist.
+ }
+ {
   TODO: war dieser Äthiopier ein Jude?
  }
  {
@@ -96382,6 +96386,9 @@ sa:
  {
   <i>die Weinenden als nicht Weinende, … die sich Freuenden als sich nicht Freuende</i> vgl §roem-12-15
  }
+ {
+  <i>nicht Besitzende</i> vgl §2kor-6-10
+ }
 #}
 #1kor-7-36 {
  {
@@ -96760,11 +96767,14 @@ sa:
   Unter anderem hat Paulus überliefert, was er vom Herrn empfangen hat (Vers 23) (Betreffend des Abendmahls).
  }
  {
+  <i>An den Überlieferungen festhalten</i> vgl §1kor-15-2
+ }
+ {
   Auch den Thessalonikern schreiben Paulus, Timotheus und Silvanus, dass sie 'an den Überlieferungen, die sie von ihnen gelehrt worden sind, es sei
   durch ein Wort oder durch einen Brief, festhalten' sollen. (<a href='http://bibel.renenyffenegger.ch/2thes_2.html#v15'>2.&nbsp;Thes&nbsp;2,15</a>).
  }
  {
-  <i>Überlieferungen</i>: <a class='kom' href='#I1kor-11-23'>1.&nbsp;Kor&nbsp;11,23</a>.
+  <i>Überlieferungen</i>: §V1kor-11-23.
   <br><i>Überlieferungen der Väter von Paulus</i>: <a href='http://bibel.renenyffenegger.ch/gal_1.html#v14'>Gal&nbsp;1,14</a>
       <i>Überlieferungen der Menschen</i>: <a href='http://bibel.renenyffenegger.ch/kol_2.html#v8'>Kol&nbsp;2,8</a>.
       Vgl auch <a href='http://bibel.renenyffenegger.ch/2thes_2.html#v15'>2.&nbsp;Thes&nbsp;2,15</a>,
@@ -96906,8 +96916,9 @@ sa:
 #}
 #1kor-11-23 {
  {
-  Vgl auch <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v3'>1.&nbsp;Kor&nbsp;15,3-8</a>. Offenbar hat Paulus (als Apostel?)
-  direkt vom Herrn empfangen, dass er <ul>
+  <i>Denn ich habe vom Herrn empfangen, was ich auch euch überliefert habe</i> Vgl §1kor-15-3-8.
+  <br>
+  Offenbar hat Paulus (als Apostel?) direkt vom Herrn empfangen, dass er <ul>
     <li>das Abendmahl einsetzte
     <li>dies zu seinem Gedächtnis einsetzte
     <li>gestorben ist
@@ -96916,12 +96927,7 @@ sa:
   Wir aber, die normalen Gläubigen sind (via Neues Testament) durch die Apostel darüber belehrt?
  }
  {
-  Vgl <i>überliefert</i> (<span class='gr'>παραδίδωμι</span>, Strongs 3860) mit <i>Überlieferung</i> (<span class='gr'>παράδοσις</span>, Strongs 3862) in <a class='kom' href='#I1kor-11-2'>Vers 2</a>
-  TODO: diese beiden Wörter sind also auch im Griechischen verwandt.
-  <br>Beachte auch, dass <i>überliefert</i> und <i>verraten</i> hier dasselbe Wort im Griechischen ist.
- }
- {
-  TODO: <i>überliefern, was ich auch von dem Herrn empfangen habe</i> vgl <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v3'>1.&nbsp;Kor&nbsp;15,3</a>.
+  <i>in welcher er überliefert worden ist</i>: Sch2K übersetzt mit «verraten»
  }
 #}
 #1kor-11-24 {
@@ -97427,12 +97433,17 @@ sa:
   TODO: Evangelium für Gläubige: <a class='kom' href='#Iroem-1-15'>Röm&nbsp;1,15</a>.
  }
 #}
+#1kor-15-2 {
+ {
+  <i>Am Wort festhalten</i> vgl §1kor-11-2
+ }
+#}
 #1kor-15-3 {
  {
-  Vgl §apg-17-2-3
+  <i>Denn ich habe euch zuerst überliefert, was ich auch empfangen habe</i> vgl §1kor-11-23
  }
  {
-  TODO: <i>überliefern, was ich auch von dem Herrn empfangen habe</i> vgl <a class='kom' href='#I1kor-11-23'>1.&nbsp;Kor&nbsp;11,23</a>.
+  Vgl §apg-17-2-3
  }
 #}
 #1kor-15-4 {
@@ -98503,6 +98514,11 @@ sa:
  {
   Vgl <i>gute Nachrede</i> (<span class='gr'>εὐφημία</span>, Strongs 2162, 1x) mit
   «wohllautend» (<span class='gr'>εὔφημος</span>, Strongs 2163, 1x) in <a href='http://bibel.renenyffenegger.ch/phil_4.html#v8'>Phil&nbsp;4,8</a>.
+ }
+#}
+#2kor-6-10 {
+ {
+  <i>nichts habend und alles besitzend</i> vgl §1kor-7-30
  }
 #}
 #2kor-6-12 {
@@ -112991,6 +113007,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-1-14 {
  {
+  Hier hat sein Haupt <i>keine</i> Krone. Vgl mit dem Engel mit dem Regenbogen auf seinem Haupt (§offb-10-1) und
+  dem Sohn des Menschen, der auf seinem Haupt eine goldene Krone hat (§offb-14-14) und dem Haupt, auf dem viele Diademe sind (§offb-19-12)
+ <br>
+  Vgl auch §offb-4-4, §offb-9-7, §offb-18-19
+ }
+ {
   TODO: Vgl mit <a class='kom' href='#Imt-28-3'>Mt&nbsp;28,3</a>.
  }
 #}
@@ -113165,11 +113187,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>Vgl auch <a class='kom' href='#I1joh-2-13'>1.&nbsp;Joh&nbsp;2,13</a>.
  }
 #}
-#offb-2-8 {
- {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Schwert/zweischneidig
- }
-#}
 #offb-2-9 {
  {
   <i>Du bist aber reich</i> vgl mit der Gemeinde in Laodizäa (§offb-3-17)
@@ -113210,7 +113227,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-2-12 {
  {
-  Beachte: der das <i>scharfe, zweischneidige Schwert</i> hat, kommt, falls keine Busse getan wird, mit «dem Schwert seines Mundes» (Vers 16)
+  Beachte: der das <i>scharfe, → biblisches/Eigene-Uebersetzung/Konkordanz/Schwert/zweischneidig[zweischneidige Schwert] </i> hat, kommt, falls keine Busse getan wird, mit «dem Schwert seines Mundes», §Voffb-2-16
  }
 #}
 #offb-2-13 {
@@ -113302,6 +113319,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <span class='gt'>NA und MT lassen «ein weniges» weg.</span>
+ }
+#}
+#offb-2-22 {
+ {
+  <i>große Drangsal</i> §offb-7-14
  }
 #}
 #offb-2-23 {
@@ -114239,6 +114261,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-7-14 {
  {
   Hier: <i>große Drangsal</i> mit Artikel, in §mt-24-21 ohne Artikel.
+ <br>
+  Vgl §offb-2-22
  }
  {
   TODO: Warum wird einer der Ältesten mit 'Herr' (<span class='gr'>κύριος</span>, Strongs 2962) angesprochen?
@@ -114409,10 +114433,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Berg ins Meer werfen</i> vgl §mt-21-21 und §mk-11-23. In den → biblisches/Bücher/Evangelien brauchten die Jünger
   → biblisches/Eigene-Uebersetzung/Konkordanz/Glaube[Glauben], um den Berg ins Meer zu werfen, hier scheint es eine Antwort auf die Gebete der Heiligen zu sein (§Voffb-8-3 ff).
- }
- {
-  Vgl §offb-18-21, wo ein grosser Mühlstein ins Meer geworfen wird (als Vergleich dazu, wie Babylon mit Wucht
-  hingeschleudert wird und nicht mehr gefunden wird).
+ <br>
+  Vgl §offb-18-21, wo ein grosser Mühlstein ins Meer geworfen wird (als Vergleich dazu, wie Babylon mit Gewalt niedergeworfen wird und nie mehr gefunden wird).
  }
  {
   Vgl auch mit dem «verbrannten Berg» in §jer-51-25.
@@ -114678,6 +114700,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-10-1 {
  {
   <i>Wolke</i>: <a class='kom' href='#Ioffb-1-7'>Offb&nbsp;1,7</a>.
+ }
+ {
+  <i>Haupt</i>: §offb-1-14
  }
 #}
 #offb-10-2 {
@@ -114951,6 +114976,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-11-17 {
  {
   <i>der du bist und du warst und der du kommst</i>: <a class='kom' href='#Ioffb-1-4'>Offb&nbsp;1,4</a>.
+ }
+ {
+  <i>Gott, der Allmächtige</i>, der die <i>Herrschaft angetreten hat</i>: §offb-19-6
  }
  {
   TODO: <i>Dank</i> <a class='kom' href='#Ioffb-4-9'>Offb&nbsp;4,9</a>.
@@ -115617,7 +115645,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-14-11 {
  {
   Nachdem der HERR in Bozra ein Schlachtopfer gehalten hat (<a class='kom' href='#Ijes-34-5'>Jes&nbsp;34,5</a>), wird Edom zu brennendem Pech, wo der
-  Rauch ewig aufsteigt (<a href='http://bibel.renenyffenegger.ch/jes_34.html#v10'>Jes&nbsp;34,10</a>).
+  Rauch ewig aufsteigt (§jes-34-10).
+ <br>
+  Vgl §offb-19-3
  }
  {
   <i>Tag und Nacht</i>: <a class='kom' href='#Ioffb-4-8'>Offb&nbsp;4,8</a>.
@@ -115663,6 +115693,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Wolke</i>: wird hier die Wiederkunft des Herrn beschrieben? Vgl §+offb-1-7.
+ }
+ {
+  <i>Haupt</i>: §offb-1-14
  }
  {
   TODO: Vgl mit Gleichnis in <a href='http://bibel.renenyffenegger.ch/mk_4.html#v26'>Mk&nbsp;4,26</a>, s.a. <a class='kom' href='#Imk-4-29'>Mk&nbsp;4,29</a>.
@@ -115780,7 +115813,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Das <i>Lied des Mose</i> ist wohl jenes in §+5mo-31-19 bis §+5mo-32-44 oder vielleicht §2mo-15-1-ff.
  <br>
-   <i>Lied des Lammes</i>: vgl mit dem <i>neuen Lied</i> in §+offb-5-9-
+  <i>Lied des Lammes</i>: vgl mit dem <i>neuen Lied</i> in §+offb-5-9.
  }
  {
   <i>König der Nationen</i>: <a class='kom' href='#Ijer-10-7'>Jer&nbsp;10,7</a>.
@@ -115874,6 +115907,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #offb-16-5 {
+ {
+  <i>der da ist und der da war</i> §offb-11-17
+ }
  {
   <span class='gt'>TR fügt nach «Du bist gerecht» ein: «o Herr».</span>
  }
@@ -116182,7 +116218,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>fünf gefallenen Könige</i> wird von einigen Auslegern auf Ägypten, Assyrien, Babel, Medo-Persion, Griechenland gedetuet. Der sechste wäre dann Rom.
  <br>
-  Andere zählen mit den Königen die Kaiser ab Julius Cäsar, mit dem das «Eisernen Weltreich» begonnen habe. Der sechste ist Nero. Diese Auffassung legt eine
+  Andere zählen mit den Königen die Kaiser ab Julius Cäsar, mit dem das «Eiserne Weltreich» begonnen habe. Der sechste ist Nero. Diese Auffassung legt eine
   → biblisches/Bücher/prophetisch/Offenbarung#offb-gruende-fruehdatierung[Frühdatierung der Abfassung der Offenbarung nahe].
  }
 #}
@@ -116414,13 +116450,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Bücher/prophetisch/Offenbarung/Babylon
  }
  {
-  Vgl §+mt-18-6
- }
- {
-  TODO vgl mit 2. Posaune: <a class='kom' href='#Ioffb-8-8'>Offb&nbsp;8,8</a>.
- }
- {
-  TODO: Ist der Engel so stark, dass sich der Berg aus <a href='http://bibel.renenyffenegger.ch/offb_8.html#v8'>Offb&nbsp;8,8</a> wie ein Stein anfühlt?
+ <i>Mühlstein ins Meer werfen</i>, vgl §offb-8-8 (2. Posaune), §+mt-18-6
+<br>
+  Ist der Engel so stark, dass sich der Berg aus §offb-8-8 wie ein Stein anfühlt?
  }
 #}
 #offb-18-22 {
@@ -116495,6 +116527,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Blut seiner Knechte gerächt</i>: §+offb-6-10, §ps-79-10
  }
 #}
+#offb-19-3 {
+ {
+  <i>Ihr Rauch steigt auf vn Ewigkeit zu Ewigkeit</i> vgl §offb-14-11
+ }
+#}
 #offb-19-4 {
  {
   → biblisches/Bücher/prophetisch/Offenbarung/24-Aelteste
@@ -116508,6 +116545,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-19-6 {
  {
   <i>ein Rauschen vieler Wasser und wie ein Rollen starker Donner</i> vgl §offb-14-2, §offb-1-15
+ }
+ {
+  <i>Gott, der Allmächtige, hat die Herrschaft angetreten</i> §offb-11-17 
  }
  {
   TODO: <i>eine Stimme</i> vgl §2chr-5-13
@@ -116580,7 +116620,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-19-11 {
  {
-  Beachte, Er sitzt hier auf dem Pferd, nicht auf dem Thron, Vgl §Voffb-19-4.
+  Beachte, Er sitzt hier auf dem Pferd, nicht auf dem Thron, vgl §Voffb-19-4.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Himmel/geöffnet-sehen: §+offb-4-1
@@ -116594,7 +116634,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-19-12 {
  {
-   Der Name scheint «das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes]» zu sein (§Voffb-19-13).
+  Der Name scheint «das → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes]» zu sein (§Voffb-19-13).
+ }
+ {
+  <i>Haupt</i>: §offb-1-14
  }
 #}
 #offb-19-13 {
