@@ -64067,6 +64067,9 @@
   <a class='kom' href='#I3mo-12-5'>3.&nbsp;Mo&nbsp;12,5</a>.
  }
  {
+  <i>versiegeln</i> §dan-12-4
+ }
+ {
   <i>um den Sünden ein Ende zu machen</i>: angeblich ist das Verb dasselbe, welches später im Vers mit «versiegeln» übersetzt wird.
  }
  {
@@ -64408,7 +64411,7 @@
 #}
 #dan-12-4 {
  {
-  <i>Versiegle das Buch</i>: Vgl mit Johannes, der die Worte der Weissagung seines Buches nicht versiegeln soll, §offb-22-10 (aber s. a. §+offb-10-4).
+  <i>Versiegle das Buch</i>: §dan-9-24. Vgl mit Johannes, der die Worte der Weissagung seines Buches nicht versiegeln soll, §offb-22-10 (aber s. a. §+offb-10-4, §offb-5-1-ff)
  }
  {
   <i>Verschließe die Worte</i> vgl §dan-8-26
@@ -70152,6 +70155,9 @@
  {
   Gleichnisse, die nicht verstanden werden: <a href='http://bibel.renenyffenegger.ch/joh_10.html#v6'>Joh&nbsp;10,6</a>.
  }
+ {
+  <i>sehend nicht sehen</i> vgl §joh-12-40
+ }
 #}
 #mt-13-14 {
  {
@@ -75727,6 +75733,9 @@ sa:
 #}
 #mk-12-35 {
  {
+  <i>daß der Christus Davids Sohn sei</i>: apg-13-23, vgl §lk-20-41
+ }
+ {
   Als er im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel lehrte: vgl §mk-14-49, §mt-26-55, §+lk-2-46
  }
 #}
@@ -76972,7 +76981,9 @@ sa:
 #}
 #lk-1-69 {
  {
-  <i>Aufgerichtetes Horn</i>: <a class='kom' href='#I1sam-2-1'>1.&nbsp;Sam&nbsp;2,1</a>.
+  <i>Aufgerichtetes Horn</i>: §+1sam-2-1.
+ <br>
+  <i>Im Haus Davids</i> vgl §apg-13-23
  }
  {
   TODO: <i>Rettung</i> <span class='gr'>σωτηρία</span> kommt in Matthäus und Markus nicht vor, in Johannes nur in <a href='http://bibel.renenyffenegger.ch/joh_4.html#v22'>Joh&nbsp;4,22</a>.
@@ -77070,7 +77081,7 @@ sa:
   → biblisches/Orte/Nazareth
  }
  {
-  → biblisches/Orte/Bethlehem, Davids Stadt, §1sam-20-6
+  → biblisches/Orte/Bethlehem, Davids Stadt, §1sam-20-6, vgl §joh-7-42
  }
  {
   <i>Geschlecht</i> (<span class='gr'>πατριά</span>, Strongs 3965, 3x) kommt auch noch vor in <a href='http://bibel.renenyffenegger.ch/apg_3.html#v25'>Apg&nbsp;3,25</a>
@@ -77125,7 +77136,7 @@ sa:
   <i>Ein Erretter geboren</i> vgl §mt-1-21, §lk-1-68-ff
  }
  {
-  <i>In Davids Stadts ist ein Erretter geboren, welcher ist Christus</i> vgl §joh-7-42 
+  <i>In Davids Stadts ist ein Erretter geboren, welcher ist Christus</i> vgl §joh-7-42 , §apg-13-23
  }
  {
   <i>welcher ist Christus, der Herr</i> vgl §apg-2-36
@@ -77369,7 +77380,7 @@ sa:
  {
   <i>An Größe zunehmen</i> vgl §lk-12-25
  }
-}
+#}
 @}
 @Lukas 3 {
 #lk-3-1 {
@@ -78029,6 +78040,9 @@ sa:
 #lk-5-15 {
  {
   <i>Die Rede über ihn verbreitete sich um so mehr</i>, vgl §mt-4-24, §mk-1-28, §lk-4-37
+ }
+ {
+  TODO <i>Krankheit</i>: <span class='gr'>ασθενειων</span> (Strongs 769), kann offenbar auch mit «Schwachheit» übersetzt werden, vgl §lk-8-2, §lk-13-11-12, §2kor-12-5
  }
 #}
 #lk-5-16 {
@@ -80732,6 +80746,11 @@ sa:
 #lk-20-38 {
  {
   §mt-22-32, §mk-12-27
+ }
+#}
+#lk-20-41 {
+ {
+  §mk-12-35
  }
 #}
 #lk-20-42 {
@@ -83520,7 +83539,7 @@ sa:
 #}
 #joh-7-42 {
  {
-  <i>Aus → biblisches/Orte/Bethlehem … kommt der Christus</i> vgl §lk-2-11, §mt-2-5-6
+  <i>Aus → biblisches/Orte/Bethlehem, dem Dorf … kommt der Christus</i> vgl §lk-2-11, §mt-2-5-6, §apg-13-23, vgl §lk-2-4
  }
  {
   <i>Hat nicht die Schrift gesagt</i> vgl §Vjoh-7-38
@@ -84449,6 +84468,8 @@ sa:
 #joh-12-40 {
  {
   <i>er hat ihre Augen verblendet</i> vgl §2kor-4-4, §1joh-2-11
+ <br>
+  <i>auf daß sie nicht sehen mit den Augen</i>: §mt-13-13
  }
  {
   <i>verstocktes Herz</i>: vgl §+mk-6-52.
@@ -86396,8 +86417,7 @@ sa:
   <a href='http://bibel.renenyffenegger.ch/hebr_7.html#v4'>Hebr&nbsp;7,4</a> (Abraham) mit 'Patriarch' übersetzt.
  }
  {
-  <i>Davids Grab</i> ist noch da, er ist also (noch nicht) auferstanden. Vgl: §+1koe-2-10. Christus hingegen ist
-  ausserdem ist bereits auferstanden: §Vapg-2-31.
+  <i>Davids Grab</i> ist noch da, er ist also (noch nicht) auferstanden, vgl §apg-13-36, §+1koe-2-10. Christus hingegen ist ausserdem ist bereits auferstanden: §Vapg-2-31.
   <br>
    Vgl §+ps-30-4, §ps-28-1
  }
@@ -86894,7 +86914,7 @@ sa:
 #}
 #apg-4-24 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde. <i>das Meer gemacht hat und alles, was in ihnen ist</i> vgl §neh-9-6, §apg-14-15
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde. <i>das Meer gemacht hat und alles, was in ihnen ist</i> vgl §neh-9-6, §apg-14-15, §apg-17-24
  }
 #}
 #apg-4-25 {
@@ -86952,6 +86972,9 @@ sa:
 #apg-4-30 {
  {
   Vgl §apg-5-12 Aber durch die Hände der Apostel geschahen viele → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder#zeichen-wunder-apostelgeschichte[Zeichen und Wunder] unter dem Volk …
+ }
+ {
+  <i>Die Hand zur Heilung ausstrecken</i>: §apg-7-25
  }
  {
   TODO: Wird dieses Gebet, insbesondere um die Zeichen und Wunder, erhöhrt? Möglicherweise ist die Tatsache, dass die Menge
@@ -87482,7 +87505,7 @@ sa:
   Vgl <a class='kom' href='#I2mo-2-12'>2.&nbsp;Mo&nbsp;2,12</a>.
  }
  {
-  Siehe <a class='kom' href='#Iapg-4-28'>Apg&nbsp;4,28</a>.
+  <i>durch seine Hand ihnen Rettung gebe</i>: §apg-4-28-30
  }
 #}
 #apg-7-27 {
@@ -89125,6 +89148,11 @@ sa:
   Vgl auch <a href='http://bibel.renenyffenegger.ch/ps_89.html#v21'>Ps&nbsp;89,21</a>.
  }
 #}
+#apg-13-23 {
+ {
+  <i>Retter aus dem Samen Davids</i>: §mk-12-35, §lk-1-69, §lk-2-11, §joh-7-42, §roem-1-3
+ }
+#}
 #apg-13-24 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
@@ -89229,6 +89257,9 @@ sa:
  }
  {
   <i>Ratschluss Gottes</i>: <a class='kom' href='#Ilk-7-30'>Lk&nbsp;7,30</a>.
+ }
+ {
+  <i>Denn David entschlief und sah die Verwesung</i> vgl §apg-2-29
  }
 #}
 #apg-13-38 {
@@ -90227,6 +90258,9 @@ sa:
 #apg-17-24 {
  {
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Tempel, die nicht von Händen gemacht sind</i> vgl §apg-7-48, §2kor-5-1, §jes-66-1
+ }
+ {
+  <i>Der Gott, der die Welt gemacht hat und alles, was darinnen ist</i> vgl §apg-4-24
  }
 #}
 #apg-17-25 {
@@ -91418,12 +91452,9 @@ sa:
 @Apostelgeschichte 23 {
 #apg-23-1 {
  {
-  <i>gutes Gewissen</i>:
-    <a href='http://bibel.renenyffenegger.ch/1tim_1.html#v5'>1.&nbsp;Tim&nbsp;1,5</a> (als Endziel des Gebotes),
-    <a href='http://bibel.renenyffenegger.ch/1tim_1.html#v19'>1.&nbsp;Tim&nbsp;1,19</a>,
-    <a href='http://bibel.renenyffenegger.ch/hebr_13.html#v18'>Hebr&nbsp;13,18</a>,
-    <a href='http://bibel.renenyffenegger.ch/1petr_3.html#v16'>1.&nbsp;Petr&nbsp;3,16</a>,
-    <a href='http://bibel.renenyffenegger.ch/1petr_3.html#v21'>1.&nbsp;Petr&nbsp;3,21</a>
+  <i>gutes Gewissen</i>: §1tim-1-5 (als Endziel des Gebotes), §1tim-1-19, §hebr-13-18, §1petr-3-16, §1petr-3-21
+ <br>
+  Vgl §apg-24-16
  }
 #}
 #apg-23-2 {
@@ -91590,6 +91621,11 @@ sa:
 #apg-24-15 {
  {
   <i>Auferstehung sowohl der Gerechten als der Ungerechten</i>: §joh-5-29, vgl §lk-14-14
+ }
+#}
+#apg-24-16 {
+ {
+  <i>Gewissen</i> vgl §+apg-23-1
  }
 #}
 #apg-24-17 {
@@ -92151,12 +92187,12 @@ sa:
 #}
 #apg-28-26 {
  {
-  Das Zitat stammt aus §jes-6-9-ff
+  Das Zitat stammt aus §jes-6-9-ff und wird vom Herrn selbst im Zusammenhang mit seinen Gleichnissen in §mt-13-14-15 zitiert.
  }
 #}
 #apg-28-27 {
  {
-  <i>Augen und Ohren</i> vgl §mt-13-15, §mk-8-18, §roem-11-8
+  <i>Augen und Ohren</i> vgl §mk-8-18, §roem-11-8
  }
 #}
 #apg-28-28 {
@@ -92237,6 +92273,9 @@ sa:
  }
  {
   <i>dem Fleisch nach</i>: §roem-9-5, §apg-2-30, vgl §+1tim-3-16.
+ }
+ {
+  §apg-13-23
  }
 #}
 #roem-1-4 {
@@ -99102,6 +99141,9 @@ sa:
  {
   Vgl §2kor-11-30
  }
+ {
+  <i>Schwachheit</i> vgl §2kor-13-4
+ }
 #}
 #2kor-12-7 {
  {
@@ -99205,6 +99247,8 @@ sa:
 #2kor-13-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Kraft
+ <br>
+  <i>Schwachheit</i> vgl §2kor-12-5
  }
 #}
 #2kor-13-5 {
@@ -103659,6 +103703,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Auferstehung</i> und <i>Posaune</i>: vgl <a class='kom' href='#I1kor-15-52'>1.&nbsp;Kor&nbsp;15,52</a>.
+ }
+ {
+  <i>Erzengel</i> vgl §jud-1-9
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus
@@ -112588,6 +112635,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>lästernd</i>: <span class='gr'>βλασφημία</span>
  }
  {
+  <i>Erzengel</i> vgl §1thes-4-16
+ }
+ {
   Vgl §sach-3-2.
  }
  {
@@ -113822,7 +113872,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Offenbarung 5 {
 #offb-5-1 {
  {
-  Vergleiche das Buch mit den sieben Siegeln mit §+offb-6-1.
+  Vergleiche das versiegelte Buch mit dem Öffnen der sieben Siegeln, §+offb-6-1. S. a §dan-12-4
  }
  {
   <i>versiegelt</i> (<span class='gr'>κατασφραγίζω</span>, Strongs 2696): Das Wort, das sonst mit «versiegelt»
