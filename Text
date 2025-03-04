@@ -68758,6 +68758,11 @@
   <i>Knecht</i>: <span class='gr'>παῖς</span> (Strongs 3816). Vgl <a href='http://bibel.renenyffenegger.ch/apg_3.html#v3'>Apg&nbsp;3,3</a>.
  }
 #}
+#mt-8-8 {
+ {
+  <i>sprich nur ein Wort</i> vgl §Vmt-8-16
+ }
+#}
 #mt-8-9 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat
@@ -68800,6 +68805,9 @@
 #mt-8-16 {
  {
   §mk-1-32, §lk-4-40
+ }
+ {
+  <i>mit einem Wort</i> vgl §Vmt-8-8
  }
 #}
 #mt-8-17 {
@@ -68883,10 +68891,10 @@
 #}
 #mt-8-25 {
  {
-  die jünger kamen auf dem gewässer nicht um, aber die schweineherde am jenseitigen ufer schon, §vmt-8-32.
+  Die Jünger kamen auf dem Gewässer nicht um, aber die Schweineherde am jenseitigen Ufer schon, §Vmt-8-32.
  }
  {
-  TODO: <i>wecken</i> ist im griechischen dasselbe für «aufstehen» in Vers 26 (Strongs 1453). S.a. <a class='kom' href='#Imt-24-7'>Mt&nbsp;24,7</a>.
+  TODO: <i>wecken</i> ist im Griechischen dasselbe für «aufstehen» in Vers 26 (Strongs 1453). S.a. <a class='kom' href='#Imt-24-7'>Mt&nbsp;24,7</a>.
  }
 #}
 #mt-8-26 {
@@ -68990,6 +68998,11 @@
   <i>Sei guten Muttes</i> §Vmt-9-22
  }
 #}
+#mt-9-3 {
+ {
+  <i>bei sich selbst sprechen</i> vgl §Vmt-9-21
+ }
+#}
 #mt-9-4 {
  {
   <i>Und als Jesus ihre Gedanken sah</i> §mk-2-8, §lk-5-22, vgl §lk-9-47, §+lk-7-40
@@ -69085,6 +69098,9 @@
  {
   <i>Wenn ich nur sein Kleid anrühre</i>: dieser Wunsch steht wohl im Zusammenhang mit der Belehrung über das neue Tuch auf einem alten Kleid in §Vmt-9-16.
  }
+ {
+  <i>bei sich selbst sprechen</i> vgl §Vmt-9-3
+ }
 #}
 #mt-9-22 {
  {
@@ -69112,6 +69128,9 @@
 #}
 #mt-9-26 {
  {
+  Vgl §Vmt-9-31
+ }
+ {
   TODO: <i>Nachricht</i> (<span class='gr'>φήμη</span>, Strongs 5345, 2x) wird in
   <a href='http://bibel.renenyffenegger.ch/lk_4.html#v14'>Lk&nbsp;4,14</a> mit
   «Gerücht» übersetzt.
@@ -69134,6 +69153,11 @@
 #mt-9-30 {
  {
   <i>niemand erfahre es</i> §+mt-8-4
+ }
+#}
+#mt-9-31 {
+ {
+  <i>machten ihn ruchbar in jenem ganzen Land</i> Vgl §Vmt-9-26
  }
 #}
 #mt-9-32 {
