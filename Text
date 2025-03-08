@@ -68454,6 +68454,11 @@
    <span class='u'>http://doctrine.org/the-lords-prayer/</span>
  }
 #}
+#mt-6-10 {
+ {
+  <i>dein Wille geschehe</i>: §apg-21-14, vgl §mt-7-21, §mt-26-42, §lk-22-42
+ }
+#}
 #mt-6-11 {
  {
   <i>nötig</i> (<span class='gr'>ἐπιούσιος</span>, Strongs 1967, 2x) kommt, ausser noch in §lk-11-3, nirgends in der antiken Griechischen Literatur vor
@@ -68675,6 +68680,9 @@
  {
   <i>Herr, Herr</i>: <a class='kom' href='#Imt-25-11'>Mt&nbsp;25,11</a>, <a href='http://bibel.renenyffenegger.ch/lk_6.html#v46'>Lk&nbsp;6,46</a>,
   <a href='http://bibel.renenyffenegger.ch/lk_13.html#v25'>Lk&nbsp;13,25</a>
+ }
+ {
+  <i>Den Willen des Vaters tun</i> vgl §mt-6-10, §mt-12-50
  }
 #}
 #mt-7-23 {
@@ -70126,7 +70134,7 @@
 #}
 #mt-12-50 {
  {
-  <i>Den Willen des Vaters tun</i> §mt-21-31
+  <i>Den Willen des Vaters tun</i>: §mt-7-21, §mt-21-31
  }
 #}
 @}
@@ -72114,6 +72122,11 @@
   <i>von außen zwar gerecht…</i> vgl §lk-20-20
  }
 #}
+#mt-23-31 {
+ {
+  Vgl §lk-11-48
+ }
+#}
 #mt-23-35 {
  {
   → biblisches/Personen/Abel,
@@ -73000,6 +73013,11 @@
 #mt-26-41 {
  {
   <i>Wacht und betet, auf daß ihr nicht in Versuchung kommt</i>: §mk-14-38 vgl §mt-6-13
+ }
+#}
+#mt-26-42 {
+ {
+  <i>so geschehe dein Wille</i>: §mt-6-10, §lk-22-42
  }
 #}
 #mt-26-45 {
@@ -78248,7 +78266,7 @@ sa:
 #}
 #lk-6-12 {
  {
-   <i>Jesus auf Berg, um zu beten</i>§+mk-6-46.
+   <i>Jesus auf Berg, um zu beten</i> §+mk-6-46.
   <br>
    Vgl §lk-5-16, wo Er sich in die Wüsteneien zurückzog, um zu beten.
  }
@@ -79524,6 +79542,11 @@ sa:
  }
  {
   <i>Grabmäler</i> ist im Griechischen dasselbe Wort, das in §Vlk-11-44 mit «Grüfte» übersetzt wird.
+ }
+#}
+#lk-11-48 {
+ {
+  Vgl §mt-23-31
  }
 #}
 #lk-11-49 {
@@ -81249,7 +81272,7 @@ sa:
 #}
 #lk-22-42 {
  {
-  <i>nicht mein Wille, sondern der deine geschehe</i> vgl §lk-23-25
+  <i>nicht mein Wille, sondern der deine geschehe</i> vgl §mt-26-42, §lk-23-25, §mt-6-10
  }
 #}
 #lk-22-43 {
@@ -86307,6 +86330,9 @@ sa:
   Beachte: Die Apostel sassen in einem Haus (Vers 2) und trotzdem hörte Jerusalem sie. Petrus steht erst in Vers 14 auf und
   erhebt dort die Stimme.
  }
+ {
+  TODO: <i>wurde bestürzt</i> kann evtl. mit «wurde verwirrt» übersetzt werden (vgl das Sprachwunder in Babel)
+ }
 #}
 #apg-2-7 {
  {
@@ -87719,6 +87745,8 @@ sa:
   <i>Tempel, die nicht von Händen gemacht sind</i> vgl §2kor-5-1, §hebr-8-2
  <br>
   <i>wohnt nicht in Tempeln, die mit …</i> §apg-17-24
+ <br>
+  S. a. §apg-19-26
  }
 #}
 #apg-7-49 {
@@ -89071,7 +89099,7 @@ sa:
   <i>Magier</i> wird Schlachter mit «Zauberer» in KJV mit «sorcerer» übersetzt. Vgl §apg-8-9, §+mt-2-1.
  }
  {
-  Beachte: <i>Bar-Jesus</i> (= Sohn von Jesus) wird in Vers 10 'Sohn des Teufels' genannt.
+  Beachte: <i>Bar-Jesus</i> (= Sohn von Jesus) wird in §Vapg-13-10 «Sohn des Teufels» genannt.
  }
  {
   Vgl diesen → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#falsche-propheten[falschen Propheten] (mit dem Namen Bar-Jesus!) mit §+mt-24-24.
@@ -89090,9 +89118,6 @@ sa:
 #apg-13-8 {
  {
   <i>Magier</i>: Elb05 übersetzt hier mit «Zauberer» obwohl es in Vers 6 dasselbe Wort ist, und Elb05 in Vers 6 mit «Magier» übersetzt.
- }
- {
-   Beachte: <i>Bar Jesus</i> hier und <i>Sohn des Teufels</i> in Vers 10.
  }
  {
   <i>das heisst übersetzt</i>: <a class='kom' href='#Imt-1-23'>Mt&nbsp;1,23</a>.
@@ -89507,9 +89532,9 @@ sa:
   Vgl mit §2kor-10-10 wo einer behauptet(?), → biblisches/Personen/Paulus[Paulus'] Rede sei verächtlich.
  }
  {
-   <i>Hermes</i>: <span class='gr'>Ἑρμῆς</span> (Strongs 2060, 2x) ist offenbar mit <span class='gr'>ἑρμηνεύω</span> (Strongs 2059) zu 'übersetzen' (Zb in
-   <a href='http://bibel.renenyffenegger.ch/joh_1.html#v38'>Joh&nbsp;1,38</a>) verwandt. Vgl auch <a class='kom' href='#Ilk-24-27'>Lk&nbsp;24,27</a>.
-   <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/roem_16.html#v14'>Röm&nbsp;16,14</a>.
+  <i>Hermes</i>: <span class='gr'>Ἑρμῆς</span> (Strongs 2060, 2x) ist offenbar mit <span class='gr'>ἑρμηνεύω</span> (Strongs 2059, «übersetzen», z. B in
+  §joh-1-38) verwandt. Vgl auch §+lk-24-27.
+  <br>Vgl auch mit §roem-16-14.
  }
 #}
 #apg-14-14 {
@@ -89519,6 +89544,10 @@ sa:
  }
 #}
 #apg-14-15 {
+ {
+  <i>gleichen Empfindungen</i> (<span class='gr'>ὁμοιοπαθής</span>, Strongs 3663, 2x) wird in
+  §jak-5-17 in Elberfelder mit «Gemütsbewegungen» übersetzt wird. Sch2K übersetzt mit «gleicher Art».
+ }
  {
   <i>welcher den Himmel und die Erde … gemacht hat</i> vgl §apg-4-24
  }
@@ -89531,11 +89560,6 @@ sa:
  {
   Vgl §offb-14-7: dort ist 'die Stunde seines Gerichts ist gekommen' und 'der die Wasserquellen gemacht hat'.
   Wo hier steht 'bekehrt euch von diesen nichtigen [Gützen] zum lebendigen Gott' steht dort 'Fürchtet Gott und gebt ihm die Ehre'.
- }
- {
-  TODO: Elberfelder übersetzt <i>Art</i> (<span class='gr'>ὁμοιοπαθής</span>, Strongs 3663, 2x) mit 'Empfindungen' übersetzt.
-  Dasselbe Wort kommt auch in <a href='http://bibel.renenyffenegger.ch/jak_5.html#v17'>Jak&nbsp;5,17</a> vor, wo es in Elberfelder mit 'Gemütsbewegungen'
-  übersetzt wird.
  }
 #}
 #apg-14-16 {
@@ -89572,6 +89596,9 @@ sa:
   <i>Trübsale</i>: Vgl §+roem-5-3.
  }
  {
+  Die <i>Seelen der Jünger befestigen</i> vgl §apg-15-32, §apg-15-41, §apg-18-23
+ }
+ {
   TODO: 'wir'?
  }
 #}
@@ -89589,6 +89616,9 @@ sa:
 #apg-14-26 {
  {
   In Antiochia wurden sie zum Werk berufen, und in Antiochia hatten sie es vollbracht (Vgl <a class='kom' href='#Iapg-13-2'>Apg&nbsp;13,2</a>).
+ }
+ {
+  Beachte, Paulus und Barnabas gehen direkt, nicht über Zypern, nach Antiochien zurück. Barnabas wird dann ohne Paulus, aber mit Johannes/Markus nach Zypern segeln, §apg-15-39
  }
 #}
 #apg-14-27 {
@@ -89788,6 +89818,9 @@ sa:
 #}
 #apg-15-32 {
  {
+  <i>stärkten sie</i>: <span class='gr'>επεστηριξαν</span> (Strongs 1991, 4x). Das Verb wird in §Vapg-15-41, §apg-14-22 und §apg-18-23 mit «befestigen» übersetzt.
+ }
+ {
   Propheten: ermahnen und stärken sie?
  }
 #}
@@ -89830,6 +89863,9 @@ sa:
  {
   Elberfelder übersetzt <i>Auseinandersetztung</i> mit 'Erbitterung'.
  }
+ {
+  §apg-14-26
+ }
 #}
 #apg-15-40 {
  {
@@ -89844,12 +89880,15 @@ sa:
  {
   Paulus kamm in die Gegenden von <i>Syrien und Cilicien</i> nachdem er drei Jahre nach der Bekehrung Petrus kennengelernt hatte, §gal-1-21.
  }
+ {
+  Die <i>Versammlungen befestigen</i> vgl §apg-14-22, §Vapg-15-32, §apg-18-23
+ }
 #}
 @}
 @Apostelgeschichte 16 {
 #apg-16-1 {
  {
-  → biblisches/Personen/Timotheus/index
+  → biblisches/Personen/Timotheus wird bis §apg-17-14 (Beröa) nicht mehr erwähnt
  }
  {
   Beachte Paulus' Zeugnis über Timotheus in <a href='http://bibel.renenyffenegger.ch/phil_2.html#v19'>Phil 2,19-20</a>.
@@ -89868,9 +89907,6 @@ sa:
  {
   TODO: hatte Paulus Timotheus schon in <a href='http://bibel.renenyffenegger.ch/apg_14.html#v6'>Apg&nbsp;14,6</a> kennengelernt?
   Vgl <a href='http://bibel.renenyffenegger.ch/2tim_3.html#v10'>2.&nbsp;Tim&nbsp;3,10-11</a>.
- }
- {
-  TODO: Was passiert mit Timotheus? Er wird nicht mehr erwähnt bis <a href='http://bibel.renenyffenegger.ch/apg_17.html#v14'>Apg&nbsp;17,14</a>.
  }
 #}
 #apg-16-2 {
@@ -89924,7 +89960,14 @@ sa:
 #}
 #apg-16-7 {
  {
-  Elberfelder übersetzt mit 'Geist Jesu'.
+  <span class='gt'>MT/TR: Geist, NA: Geist Jesu</span>
+ }
+#}
+#apg-16-8 {
+ {
+  Als Paulus nach Troas kam, wurde ihm im Herrn eine Tür für das Evangelium des Christus aufgetan, §2kor-2-12.
+ <br>
+  Er hatte aber keine Ruhe in seinem Geist, weil er Titus nicht fand, §2kor-2-13.
  }
 #}
 #apg-16-9 {
@@ -90007,14 +90050,21 @@ sa:
 #apg-16-19 {
  {
   → biblisches/Personen/Silvanus-Silas
- }
- {
-  Wo ist Timotheus. Von ihm hört man nichts mehr bis in Beröa (<a href='http://bibel.renenyffenegger.ch/apg_17.html#v14'>Apg&nbsp;17,14</a>).
+ <br>
+  Timotheus wird hier nicht erwähnt, vgl §Vapg-16-1, §apg-17-14
  }
 #}
 #apg-16-21 {
  {
-   Hier dürfen die Römer die von Paulus gelehrten <i>Gebräuche</i> nicht annehmen, in §apg-21-21 sind es die Juden.
+  <i>da wir Römer sind</i>: auch Paulus ist ein Römer, §Vapg-16-37
+ <br>
+  Das Bürgertum der gläubig gewordenen Philipper ist in den Himmeln, §phil-3-20
+ }
+ {
+  <i>Gebräuche, die uns nicht erlaubt sind anzunehmen</i>, vgl §apg-17-7, §apg-18-13
+ }
+ {
+  Hier dürfen die Römer die von Paulus gelehrten <i>Gebräuche</i> nicht annehmen, in §apg-21-21 sind es die Juden.
  }
 #}
 #apg-16-22 {
@@ -90083,6 +90133,11 @@ sa:
  {
   <i>Rutenträger</i> (<span class='gr'>ῥαβδοῦχος</span>, Strongs 4465), vgl §+mt-5-25.
   Sch2K übersetzt das Wort mit mit «Gerichtsdiener», KJV mit «serjeants». Ebenso §Vapg-16-38.
+ }
+#}
+#apg-16-37 {
+ {
+  <i>die wir Römer sind</i> vgl §Vapg-16-21
  }
 #}
 #apg-16-38 {
@@ -90189,6 +90244,9 @@ sa:
 #}
 #apg-17-7 {
  {
+  <i>Gegen die Verordnungen des Kaisers handeln</i> vgl §apg-16-21, §apg-18-13
+ }
+ {
   Ist dieser Jason jener, den Paulus einen Verwandten nennt (<a href='http://bibel.renenyffenegger.ch/roem_16.html#v21'>Röm&nbsp;16,21</a>)?
  }
  {
@@ -90243,11 +90301,10 @@ sa:
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
-  → biblisches/Personen/Timotheus/index «taucht» wieder auf (<a class='kom' href='#Iapg-16-1'>Apg&nbsp;16,1</a>, <a class='kom' href='#Iapg-16-19'>Apg&nbsp;16,19</a>).
+  → biblisches/Personen/Timotheus «taucht» wieder auf, §+apg-16-1, §+apg-16-19.
  }
  {
-  Sopater (aus Beröa) wird Paulus bis nach Asia (<a class='kom' href='#Iapg-20-4'>Apg&nbsp;20,4</a>). Ausgenommen davon
-  wird Beröa wird in der Bibel nicht mehr erwähnt.
+  Sopater (aus Beröa) wird Paulus bis nach Asia begleiten, §+apg-20-4. Ausgenommen davon wird Beröa in der Bibel nicht mehr erwähnt.
  }
 #}
 #apg-17-15 {
@@ -90464,11 +90521,9 @@ sa:
 #}
 #apg-18-8 {
  {
-  Krispus wird in <a href='http://bibel.renenyffenegger.ch/1kor_1.html#v14'>1.&nbsp;Kor&nbsp;1,14</a> als einer
-  'von euch' genannt.
- }
- {
-  Krispus ist einer der Wenigen, die Paulus → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe[getauft] hat (<a href='http://bibel.renenyffenegger.ch/1kor_1.html#v14'>1.&nbsp;Kor&nbsp;1,14</a>).
+  Krispus wird in §1kor-1-14 als einer «von euch» genannt.
+ <br>
+  Er ist einer der Wenigen, die Paulus → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe[getauft] hat
  }
 #}
 #apg-18-9 {
@@ -90481,7 +90536,7 @@ sa:
 #}
 #apg-18-10 {
  {
-  <i>ch habe ein großes Volk in dieser Stadt</i> vgl §apg-10-35, §apg-15-14
+  <i>Ich habe ein großes Volk in dieser Stadt</i> vgl §apg-10-35, §apg-15-14
  }
 #}
 #apg-18-12 {
@@ -90493,6 +90548,11 @@ sa:
  }
  {
   Vgl Verse 12-16 mit <a class='kom' href='#I1kor-6-1'>1.&nbsp;Kor&nbsp;6,1-12</a>.
+ }
+#}
+#apg-18-13 {
+ {
+  <i>Gott dem Gesetz zuwider anbeten</i>, vgl §apg-16-21, §apg-17-7
  }
 #}
 #apg-18-15 {
@@ -90533,7 +90593,7 @@ sa:
   sie ist auch Paulus (und anderen) ein Beistand gewesen (und bracht offenbar die Hilfe der Römer). (<a href='http://bibel.renenyffenegger.ch/roem_16.html#v2'>Röm&nbsp;16,2</a>).
  }
  {
-   Spekulation folgt: Paulus lässt sich in Kenchreä das Haupt scheren. Gemäss <a href='http://bibel.renenyffenegger.ch/4mo_6.html#v9'>4.&nbsp;Mo&nbsp;6,9</a> soll
+   Spekulation: Paulus lässt sich in Kenchreä das Haupt scheren. Gemäss <a href='http://bibel.renenyffenegger.ch/4mo_6.html#v9'>4.&nbsp;Mo&nbsp;6,9</a> soll
    sich ein <i>Nasiräer</i> das Haupt (auch dann) scheren, wenn jemand bei ihm unversehens stirbt. Priscilla und Paulus nun haben für Paulus
    Leben 'ihren eigenen Hals hingehalten' (<a href='http://bibel.renenyffenegger.ch/roem_16.html#v4'>Röm&nbsp;16,4</a>) und werden da (d.i. im Römerbrief)
    gleich nach Phöbe erwähnt, die ja auch aus Kenchreä ist...
@@ -90563,12 +90623,18 @@ sa:
 #}
 #apg-18-22 {
  {
+  <i>ging er hinauf</i>: wird von einigen so interpretiert, daß Paulus nach Jerusalem ging (möglicherweise, um das Gelübde aus §Vapg-18-18 zu erfüllen).
+ }
+ {
   TODO: <i>Cäsarea</i>: <a class='kom' href='#Iapg-8-40'>Apg&nbsp;8,40</a>.
  }
 #}
 #apg-18-23 {
  {
   <i>Die galatische Landschaft und Phrygien</i> §apg-16-6
+ }
+ {
+  Die <i>Jünger befestigen</i> vgl §apg-14-22, §apg-15-32, §apg-15-41
  }
 #}
 #apg-18-24 {
@@ -90797,6 +90863,9 @@ sa:
  {
   → biblisches/Orte/Ephesus
  }
+ {
+  <i>mit Händen gemachte Götter</i> vgl §apg-7-48
+ }
 #}
 #apg-19-28 {
  {
@@ -90985,6 +91054,9 @@ sa:
 #apg-20-19 {
  {
   <i>Versuchungen</i>, Strongs 3986, in Schlachter 2K mit «Anfechtung» übersetzt, s.a. §+lk-22-28.
+ }
+ {
+  <i>Nachstellung der Juden</i>: Paulus schreibt in §2kor-1-8, daß ihm in Asien Drangsal widerfahren ist.
  }
 #}
 #apg-20-21 {
@@ -91212,6 +91284,11 @@ sa:
   <br>Vgl auch mit 'Händer der Menschen' (<a href='http://bibel.renenyffenegger.ch/mt_17.html#v22'>Mt&nbsp;17,22</a>),
   'Händer der Sünder' (<a href='http://bibel.renenyffenegger.ch/mt_26.html#v45'>Mt&nbsp;26,45</a>) und
   'Händer der Gesetzlosen' (<a href='http://bibel.renenyffenegger.ch/apg_2.html#v23'>Apg&nbsp;2,23</a>).
+ }
+#}
+#apg-21-14 {
+ {
+  <i>Der Wille des Herrn geschehe</i>: §mt-6-10
  }
 #}
 #apg-21-16 {
@@ -95151,7 +95228,7 @@ sa:
 #}
 #roem-16-14 {
  {
-   <i>Hermes</i>: <a class='kom' href='#Iapg-9-36'>Apg&nbsp;9,36</a>.
+  <i>Hermes</i>: §+apg-14-12
  }
 #}
 #roem-16-16 {
@@ -98107,7 +98184,9 @@ sa:
  {
   Vgl §1kor-10-13: Gott lässt nicht zu, dass die Korinther über ihr Vermögen versucht werden, sondern schafft mit der Versuchung auch den Ausgang.
   <br>
-  Vgl auch §2kor-8-3.
+ }
+ {
+  Von der <i>Drangsal, die in Asien widerfahren ist</i>, spricht Paulus auch in §apg-20-18-21.
  }
  {
   TODO: <i>Vermögen</i> möglicherweise besser mit 'Kraft' (Strongs 1411) übersetzt.
@@ -98257,15 +98336,22 @@ sa:
   <i>Absichten des Satans</i>: <a class='kom' href='#I1thes-2-18'>1.&nbsp;Thes&nbsp;2,18</a>.
  }
 #}
+#2kor-2-12 {
+ {
+  <i>Paulus in Troas</i>: §apg-16-8
+ }
+#}
 #2kor-2-13 {
  {
   → biblisches/Orte/Macedonien
  }
  {
-  TODO: Wäre Paulus geblieben, wenn er Titus gefunden hätte? Immerhin war ihm ja eine Tür geöffnet im Herrn.
+  In Troas hatte Paulus <i>keine Ruhe in seinem Geist</i>, als er nach Mazedonien kam, hatte ihr Fleisch keine Ruhe, §+2kor-7-5
+ <br>
+  Dort wird Paulus auch durch das Kommen des Titus getröstet, §2kor-7-6
  }
  {
-  In Troas hatte Paulus keine Ruhe in seinem Geist, als er nach Mazedonien kam, hatte ihr Fleisch keine Ruhe (<a class='kom' href='#I2kor-7-5'>2.&nbsp;Kor&nbsp;7,5</a>).
+  TODO: Wäre Paulus geblieben, wenn er Titus gefunden hätte? Immerhin war ihm ja eine Tür geöffnet im Herrn.
  }
 #}
 #2kor-2-14 {
@@ -98707,12 +98793,12 @@ sa:
   → biblisches/Orte/Macedonien
  }
  {
-  TODO: <a class='kom' href='#I2kor-2-13'>2.&nbsp;Kor&nbsp;2,13</a>
+  <i>unser Fleisch hatte keine Ruhe</i> vgl §+2kor-2-13
  }
 #}
 #2kor-7-6 {
  {
-   Titus kam doch noch an, obwohl Paulus Titus erst nicht fand (<a href='http://bibel.renenyffenegger.ch/2kor_2.html#v13'>2.&nbsp;Kor&nbsp;2,13</a>).
+  Titus kam doch noch an, obwohl Paulus Titus erst nicht fand, §2kor-2-13.
  }
  {
   Paulus wird getröstet: siehe <a class='kom' href='#I2kor-1-4'>2.&nbsp;Kor&nbsp;1,4</a>.
@@ -100601,6 +100687,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk/index#gute-werke, → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes
  }
 #}
+#eph-2-11 {
+ {
+  §kol-2-11
+ }
+#}
 #eph-2-12 {
  {
   <i>ausgeschlossen vom Bürgerrecht Israels und Fremdlinge betreffs der Bündnisse der Verheißung</i> §Veph-2-19
@@ -102136,7 +102227,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Bürgertum in den Himmeln</i> vgl §eph-2-19, §hebr-11-13, §1petr-2-11
  }
  {
-  Beachte: → biblisches/Personen/Paulus[Paulus'] hatte nicht nur ein <i>Bürgertum</i> in den Himmeln, sondern auch das Römische Bürgerrecht, §apg-22-28.
+  Beachte: → biblisches/Personen/Paulus hatte nicht nur ein <i>Bürgertum</i> in den Himmeln, sondern auch das Römische Bürgerrecht, §apg-22-28.
  }
  {
   <i>Den Herrn Jesus Christus als Heiland von den Himmeln erwarten</i>: vgl §1thes-1-10
@@ -102704,7 +102795,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-2-11 {
  {
-  <i>Eine nicht mit Händen geschnittene Beschneidung</i> vgl mit dem Haus (§2kor-5-1), dem Zelt (§hebr-9-11) und dem Tempel (§mk-14-58), die  nicht mit Händen gemacht sind.
+  <i>Eine nicht mit Händen geschnittene Beschneidung</i> vgl mit §eph-2-11, mit dem Haus (§2kor-5-1), dem Zelt (§hebr-9-11) und dem Tempel (§mk-14-58), die nicht mit Händen gemacht sind.
  <br>
   Vgl auch mit der <i>Beschneidung am Herzen</i> §roem-2-29
  }
@@ -109962,7 +110053,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-5-17 {
  {
-  <i>Art</i>: <a class='kom' href='#Iapg-14-15'>Apg&nbsp;14,15</a>
+  <i>von gleichen Gemütsbewegungen</i>: §+apg-14-15
  }
 #}
 #jak-5-18 {
