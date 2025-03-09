@@ -69116,7 +69116,7 @@
 #}
 #mt-9-20 {
  {
-  §mk-5-25, §lk-8-43
+  §mk-5-25, §lk-8-43, vgl §mt-14-36
  }
 #}
 #mt-9-21 {
@@ -69153,7 +69153,7 @@
 #}
 #mt-9-26 {
  {
-  Vgl §Vmt-9-31
+  Das Gerücht ging aus, obwohl der Herr gebot, niemandem zu sagen, was geschehen war, §mk-5-43, §lk-8-56, vgl §Vmt-9-31
  }
  {
   TODO: <i>Nachricht</i> (<span class='gr'>φήμη</span>, Strongs 5345, 2x) wird in
@@ -69177,7 +69177,7 @@
 #}
 #mt-9-30 {
  {
-  <i>niemand erfahre es</i> §+mt-8-4
+  <i>niemand erfahre es</i> §+mt-8-4, vgl §mt-9-26
  }
 #}
 #mt-9-31 {
@@ -70657,6 +70657,11 @@
 #mt-14-34 {
  {
   <i>kamen im Land → biblisches/Orte/Genezareth an</i> vgl §+joh-6-21
+ }
+#}
+#mt-14-36 {
+ {
+  <i>Kleider anrühren</i>: §mt-9-20-21, §mk-6-56
  }
 #}
 @}
@@ -74164,6 +74169,11 @@ sa:
   In §lk-6-11 wird zusätzlich erwähnt, dass sie mit Unverstand erfüllt wurden. Vgl §mt-12-14
  }
 #}
+#mk-3-9 {
+ {
+  TODO: drängende Volksmenge: §lk-8-45, §mk-5-24
+ }
+#}
 #mk-3-11 {
  {
   Die unreinen Geister kannten ihn (§mk-1-23-24).
@@ -74516,12 +74526,22 @@ sa:
   «Tochter» (Vers 34). Vgl auch mit den <i>gemeinsamen 12 Jahren</i> (<a class='kom' href='#Imk-5-42'>Mk&nbsp;5,42</a>)
  }
 #}
+#mk-5-24 {
+ {
+  TODO: drängende Volksmenge: §mk-3-9, §Vmk-5-31
+ }
+#}
 #mk-5-25 {
  {
   §mt-9-20, §lk-8-43
  }
  {
   §+3mo-15-25.
+ }
+#}
+#mk-5-27 {
+ {
+  <i>Sein Klein anrühren</i>: §mk-6-56
  }
 #}
 #mk-5-28 {
@@ -74536,12 +74556,15 @@ sa:
 #}
 #mk-5-31 {
  {
-  U.S. sagt, dass die <i>Wahrheit</i>, die sie Ihm sagt, diese ist, dass sie wegen des Blutflußes unrein ist und deshalb gar nicht hätte in die Menge gehen dürfen. Vgl §3mo-15-25-ff
+  TODO: drängende Volksmenge: §Vmk-5-24
  }
 #}
 #mk-5-33 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern
+ }
+ {
+  U.S. sagt, dass die <i>Wahrheit</i>, die sie Ihm sagt, diese ist, dass sie wegen des Blutflußes unrein ist und deshalb gar nicht hätte in die Menge gehen dürfen. Vgl §3mo-15-25-ff
  }
 #}
 #mk-5-34 {
@@ -74570,6 +74593,11 @@ sa:
  {
   Frage: Was hat es mit den 12 Jahren des Mädchens und dem 12 jährigen Blutfluss (Vers 25) auf sich?
          <br>Vgl mit den Töchterlein/Tochter (<a class='kom' href='#Imk-5-23'>Mk&nbsp;5,23</a>).
+ }
+#}
+#mk-5-43 {
+ {
+  Obwohl der Herr gebot, niemandem zu sagen, was geschehen war, ging das Gerücht ins ganze Land aus, §mt-9-26, vgl §lk-8-56
  }
 #}
 @}
@@ -74840,7 +74868,7 @@ sa:
 #}
 #mk-6-56 {
  {
-  Kleider berühren: Vgl mit §+mk-5-28.
+  Kleider berühren: Vgl §+mk-5-27-28, §mt-14-36
  }
 #}
 @}
@@ -78826,6 +78854,9 @@ sa:
  {
   <i>Wer ist es …</i> vgl §lk-8-25
  }
+ {
+  TODO: drängende Volksmenge: §mk-3-9
+ }
 #}
 #lk-8-48 {
  {
@@ -78846,6 +78877,11 @@ sa:
 #lk-8-54 {
  {
   Totenauferweckungen in den Evangelien: §+mk-5-41, §lk-7-14
+ }
+#}
+#lk-8-56 {
+ {
+  Obwohl der Herr gebot, niemandem zu sagen, was geschehen war, ging das Gerücht ins ganze Land aus, §mt-9-26, vgl §mk-5-43
  }
 #}
 @}
@@ -89593,7 +89629,9 @@ sa:
 #}
 #apg-14-22 {
  {
-  <i>Trübsale</i>: Vgl §+roem-5-3.
+  <i>Drangsale</i>: Vgl §+roem-5-3.
+ <br>
+  Elberfelder übersetzt mit «Trübsale», Sch2K mit «Bedrängnisse».
  }
  {
   Die <i>Seelen der Jünger befestigen</i> vgl §apg-15-32, §apg-15-41, §apg-18-23
@@ -90496,6 +90534,9 @@ sa:
  {
   <i>Jesus der Christus</i>: <a class='kom' href='#Imt-16-20'>Mt&nbsp;16,20</a>. Hier wird dies bezeugt, in
   Vers 28 bewiesen.
+ }
+ {
+  <i>Paulus wurde gedrängt</i> vgl §2kor-5-14
  }
  {
   TODO <i>bezeugen</i>: <a class='kom' href='#Iapg-20-21'>Apg&nbsp;20,21</a>.
@@ -93328,10 +93369,12 @@ sa:
 #}
 #roem-5-3 {
  {
-  Trübsal (<span class='gr'>θλῖψις</span>, Strongs 2347) bewirkt standhaftes Ausharren (<span class='gr'>ὑπομονή</span>, Strongs 5281). Vgl
+  Drangsale (<span class='gr'>θλῖψις</span>, Strongs 2347) bewirkt standhaftes Ausharren (<span class='gr'>ὑπομονή</span>, Strongs 5281). Vgl
   mit <a class='kom' href='#Iroem-12-12'>Röm&nbsp;12,12</a>, <a href='http://bibel.renenyffenegger.ch/2thes_1.html#v4'>2.&nbsp;Thes&nbsp;1,4</a>
   <br>
    Vgl §apg-14-22, §1thes-3-3
+  <br>
+  Elberfelder übersetzt mit «Trübsale», Sch2K mit «Bedrängnisse».
  }
  {
   Vgl mit <a class='kom' href='#Ijak-1-3'>Jak&nbsp;1,3</a>.
@@ -94558,7 +94601,9 @@ sa:
 #}
 #roem-12-12 {
  {
-  In Trübsal ausharren (<span class='gr'>ὑπομένω</span>, Strongs 5278) vgl §+roem-5-3, §2kor-6-4.
+  In Drangsal ausharren (<span class='gr'>ὑπομένω</span>, Strongs 5278) vgl §+roem-5-3, §2kor-6-4.
+ <br>
+  Elberfelder übersetzt mit «Trübsal», Sch2K mit «Bedrängnis».
  }
 #}
 #roem-12-13 {
@@ -96584,6 +96629,11 @@ sa:
   Paulus meinte, er sei in der → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit, deshalb empfahl (oder verbot) er, eine Frau zu suchen. Vgl §V1kor-7-29 («Die Zeit ist gedrängt»).
  }
 #}
+#1kor-7-28 {
+ {
+  <i>Drangsal</i>: Elberfelder übersetzt mit «Trübsal», Sch2K mit «Bedrängnis».
+ }
+#}
 #1kor-7-30 {
  {
   <i>die Weinenden als nicht Weinende, … die sich Freuenden als sich nicht Freuende</i> vgl §roem-12-15
@@ -98174,10 +98224,13 @@ sa:
 #}
 #2kor-1-6 {
  {
-    Sowohl die Bedrängnis wie auch der Trost des Paulus geschehen zum Trost und der Rettung der Korinther.
+  Sowohl die Bedrängnis wie auch der Trost des Paulus geschehen zum Trost und der Rettung der Korinther.
  }
  {
   <i>Standhafte Erduldung</i>: <a class='kom' href='#Ilk-8-15'>Lk&nbsp;8,15</a>.
+ }
+ {
+  <i>wir werden bedrängt</i> vgl §2kor-4-8, §2kor-7-5
  }
 #}
 #2kor-1-8 {
@@ -98524,6 +98577,11 @@ sa:
   <i>irdenes Gefäss</i>: §4mo-5-17
  }
 #}
+#2kor-4-8 {
+ {
+  <i>Allenthalben bedrängt</i>: §2kor-1-6, §2kor-7-5
+ }
+#}
 #2kor-4-10 {
  {
   Vgl mit §+2kor-6-4.
@@ -98599,6 +98657,9 @@ sa:
  }
  {
   Sch2K übersetzt <i>geurteilt</i> mit «überzeugt»
+ }
+ {
+  <i>Die Liebe des Christus drängt uns</i> vgl §apg-18-5
  }
 #}
 #2kor-5-17 {
@@ -98794,6 +98855,9 @@ sa:
  }
  {
   <i>unser Fleisch hatte keine Ruhe</i> vgl §+2kor-2-13
+ }
+ {
+  <i>allenthalben bedrängt</i>: §2kor-4-8, §2kor-1-6
  }
 #}
 #2kor-7-6 {
@@ -101772,6 +101836,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    <span class='gt'>TR und NA vertauschen die Anfänge der Verse 16 und 17.</span>
  }
 #}
+#phil-1-17 {
+ {
+  <i>Drangsal</i>: Elberfelder übersetzt mit «Trübsal», Sch2K mit «Bedrängnis».
+ }
+#}
 #phil-1-18 {
  {
    <i>Was denn?</i>: <span class='gr'>τί γὰρ</span>. Ebenso in §roem-3-3
@@ -103606,6 +103675,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Drangsale</i>: §+1thes-1-6
+ <br>
+  Hier ein Verb, in §V1thes-3-3 ein Nomen.
  }
 #}
 #1thes-3-5 {
@@ -105766,7 +105837,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Ketten</i>: <a class='kom' href='#Iapg-16-26'>Apg&nbsp;16,26</a>.
  }
  {
-  <i>Trübsal leiden</i>: §2tim-1-8
+  <i>Trübsal leiden</i>: §2tim-1-8, §2tim-4-5
  }
 #}
 #2tim-2-10 {
@@ -106143,7 +106214,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Den Dienst vollführen</i>: Vgl §kol-4-17.
  }
  {
-   Siehe Paulus' «du aber» <a class='kom' href='#I1tim-6-11'>1.&nbsp;Tim&nbsp;6,11</a>.
+  Siehe Paulus' «du aber» <a class='kom' href='#I1tim-6-11'>1.&nbsp;Tim&nbsp;6,11</a>.
+ }
+ {
+  <i>Trübsal leiden</i>: §2tim-2-9, §jak-5-13
  }
 #}
 #2tim-4-6 {
@@ -110044,6 +110118,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>… Er bete.</i>, vgl §jak-1-5
+ }
+ {
+  <i>Trübsal leiden</i>: §2tim-4-5
  }
 #}
 #jak-5-14 {
