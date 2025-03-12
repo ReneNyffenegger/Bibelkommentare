@@ -53715,6 +53715,11 @@
   <i>Meine Schwester, meine Braut</i>: §+hl-4-9-10
  }
 #}
+#hl-5-2 {
+ {
+  <i>Mein Haupt ist …, meine Locken…</i> vgl §Vhl-5-11
+ }
+#}
 #hl-5-6 {
  {
   <i>Ich suchte ihn und fand ihn nicht</i> vgl §hl-1-7
@@ -53739,6 +53744,11 @@
 #hl-5-9 {
  {
   <i>Schönste unter den Frauen</i> §hl-1-8, §hl-6-1
+ }
+#}
+#hl-5-11 {
+ {
+  <i>Sein Haupt ist …, seine Locken sind… </i> vgl §Vhl-5-2
  }
 #}
 #hl-5-12 {
@@ -73835,7 +73845,7 @@ sa:
 #}
 #mk-1-13 {
  {
-  Bevor der Herr in versucht wurde, war er voll Heiligen Geistes (§lk-4-1), nach der Versuchung kehrt er in der <i>Kraft des Geistes</i> zurück (§lk-4-14).
+  Bevor der Herr versucht wurde, war er voll Heiligen Geistes (§lk-4-1), nach der Versuchung kehrt er in der <i>Kraft des Geistes</i> zurück (§lk-4-14).
  }
  {
   TODO: <i>wilde Tiere</i> (<span class='gr'>θηρίον</span>, Strongs 2342) wird auch mit 'Raubtier'
@@ -73983,13 +73993,13 @@ sa:
 #}
 #mk-1-35 {
  {
-   <i>einsam</i> (Strongs 2048): <a class='kom' href='#Imt-14-13'>Mt&nbsp;14,13</a>. Dasselbe Wort wird in Vers 12 und 13 mit «Wüste» übersetzt.
+  §lk-4-42
+ }
+ {
+  <i>einsam</i> (Strongs 2048): <a class='kom' href='#Imt-14-13'>Mt&nbsp;14,13</a>. Dasselbe Wort wird in Vers 12 und 13 mit «Wüste» übersetzt.
  }
 #}
 #mk-1-37 {
- {
-  §lk-4-42
- }
  {
   <i>Alle suchen dich</i> vgl §joh-1-38
  }
@@ -76998,6 +77008,11 @@ sa:
   Vgl auch §+mt-1-18
  }
 #}
+#lk-1-32 {
+ {
+  <i>Der Herr wird ihm den Thron seines Vaters David geben</i>: §apg-2-29
+ }
+#}
 #lk-1-33 {
  {
   <i>in Ewigkeit</i> §Vlk-1-55, §Vlk-1-70
@@ -78060,7 +78075,7 @@ sa:
 #}
 #lk-4-42 {
  {
-  §mk-1-37
+  §mk-1-35
  }
  {
   Vgl mit §mk-6-32-34, wo er an einen öden Ort ging, und innerlich über eine große Volksmenge bewegt wird.
@@ -78338,6 +78353,8 @@ sa:
 #lk-6-13 {
  {
   Erwählung der → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12[12 Jünger] §mt-10-2, §mk-3-13. Vgl mit Erwählung Israels §5mo-4-37
+ <br>
+  Die Apostel werden in §lk-9-1 ausgesandt werden. S. a. §lk-8-1.
  }
  {
   Möglicherweise bestimmt der Herr die Apostel, um Sein Werk fortzuführen, da Er nun weiss, dass die Schriftgelehrten und Pharisäer sich überlegten, was sie Ihm tun sollten (§Vlk-6-11).
@@ -78688,6 +78705,9 @@ sa:
 @Lukas 8 {
 #lk-8-1 {
  {
+  <i>Die 12</i>: §lk-6-13
+ }
+ {
   Vgl mit §lk-13-22, wo er nacheinander Städte und Dörfer durchzog, indem <i>er lehrte und nach Jerusalem reiste</i>.
  }
  {
@@ -78923,6 +78943,9 @@ sa:
 @}
 @Lukas 9 {
 #lk-9-1 {
+ {
+  Die Zwölfe werden in §lk-6-13 berufen.
+ }
  {
   §mk-3-14-15, §mt-10-1
  }
@@ -86616,6 +86639,9 @@ sa:
  {
   → biblisches/Personen/David#david-ein-prophet[David] war ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet.
   Vgl §+mt-27-35
+ }
+ {
+  <i>Auf Davids Thron setzen</i>: §lk-1-32
  }
  {
   <span class='gt'>In NA fehlt «dem Fleisch nach, den Christus erwecken werde».</span>
