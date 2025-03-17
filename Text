@@ -21826,6 +21826,11 @@
   <i>Um meiner Gerechtigkeit willen</i> §+5mo-6-25
  }
 #}
+#5mo-9-5 {
+ {
+  TODO: <i>Geradheit deines Herzens</i>: §1koe-9-4, §1chr-29-17
+ }
+#}
 #5mo-9-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/hartnäckig
@@ -29865,6 +29870,11 @@
   Auch die andere Tochter, Michal, wurde von Saul einem anderen gegeben: <a href='http://bibel.renenyffenegger.ch/1sam_25.html#v44'>1.&nbsp;Sam&nbsp;25,44</a>.
  }
 #}
+#1sam-18-20 {
+ {
+  <i>war recht in seinen Augen</i>: §V1sam-18-26
+ }
+#}
 #1sam-18-23 {
  {
   <i>Bin ich doch ein armer und geringer Mann.</i> vgl mit Saul in §1sam-9-21
@@ -33002,6 +33012,11 @@
 #1koe-9-2 {
  {
   Das erste Mal wird in in §+1koe-3-5 beschrieben.
+ }
+#}
+#1koe-9-4 {
+ {
+  TODO <i>Lauterkeit des Herzens</i>: §5mo-9-5, §1chr-29-17
  }
 #}
 #1koe-9-6 {
@@ -39695,6 +39710,11 @@
 #1chr-29-15 {
  {
   <i>Fremdlinge und Gäste</i>: <a class='kom' href='#I3mo-25-23'>3.&nbsp;Mo&nbsp;25,23</a>. Vgl <a href='http://bibel.renenyffenegger.ch/ps_39.html#v13'>Ps&nbsp;39,13</a>.
+ }
+#}
+#1chr-29-17 {
+ {
+  TODO <i>Aufrichtigkeit meines Herzens</i>: §5mo-9-5, §1koe-9-4
  }
 #}
 #1chr-29-19 {
@@ -51431,6 +51451,16 @@
   <br>Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>.
  }
 #}
+#spr-2-12 {
+ {
+  Vgl §Vspr-2-16
+ }
+#}
+#spr-2-16 {
+ {
+  Vgl §Vspr-2-12
+ }
+#}
 #spr-2-17 {
  {
   <i>Vertrauten</i> (Strongs 441) siehe <a class='kom' href='#Ips-55-14'>Ps&nbsp;55,14</a>.
@@ -51439,6 +51469,9 @@
 #spr-2-18 {
  {
   <i>zum Tod sinkt ihr Haus hinab</i> vgl §spr-5-5, §spr-7-27
+ }
+ {
+  <i>Schatten</i>: <span class='hebr'>רְ֝פָאִ֗ים</span> («rephaim», Strongs 7496), vgl §spr-9-18, §spr-21-16
  }
 #}
 #spr-2-21 {
@@ -51844,6 +51877,11 @@
 #spr-9-17 {
  {
   Vgl §spr-20-17
+ }
+#}
+#spr-9-18 {
+ {
+  <i>Schatten</i>: §+spr-2-18
  }
 #}
 @}
@@ -52611,6 +52649,11 @@
 #spr-21-11 {
  {
   Vgl mit §+spr-19-25.
+ }
+#}
+#spr-21-16 {
+ {
+  <i>Schatten</i>: §+spr-2-18
  }
 #}
 #spr-21-23 {
