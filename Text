@@ -70274,6 +70274,9 @@
 #}
 #mt-13-8 {
  {
+  §mk-4-8, §lk-8-8
+ }
+ {
   <i>gab Frucht</i>: §mt-3-8-10
  }
 #}
@@ -74489,6 +74492,14 @@ sa:
   §mt-13-3, §lk-8-5
  }
 #}
+#mk-4-8 {
+ {
+  §mt-13-8, §lk-8-8
+ }
+ {
+  <i>fiel in die gute Erde</i> vgl §mk-9-20, §mk-14-35
+ }
+#}
 #mk-4-9 {
  {
   §Vmk-4-23
@@ -75448,6 +75459,11 @@ sa:
  }
  {
   Offenbar reicht ja Glaube allein nicht aus, vgl §Vmk-9-29
+ }
+#}
+#mk-9-20 {
+ {
+  <i>fiel zur Erde</i> vgl §mk-14-35, §mk-4-8
  }
 #}
 #mk-9-22 {
@@ -76441,6 +76457,11 @@ sa:
   <i>Gethsemane</i>: §+mt-26-36.
   <br>
   <i>An den Ort gekommen</i> §lk-22-40
+ }
+#}
+#mk-14-35 {
+ {
+  <i>fiel auf die Erde</i> vgl §mk-9-20, §mk-4-8
  }
 #}
 #mk-14-36 {
@@ -78990,6 +79011,9 @@ sa:
  }
 #}
 #lk-8-8 {
+ {
+  §mt-13-8, §mk-4-8
+ }
  {
   <i>Wer Ohren hat zu hören, der höre</i> vgl §Vlk-8-18, §Vlk-8-21
  }
