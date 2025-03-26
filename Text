@@ -45975,6 +45975,11 @@
   <i>verkündet unter den Völkern seine Taten</i> vgl §ps-105-1, §1chr-16-8, §jes-12-4
  }
 #}
+#ps-9-15 {
+ {
+  <i>Über deine Rettung frohlocken</i>: §ps-13-5, §ps-21-2. vgl §ps-14-7
+ }
+#}
 #ps-9-16 {
  {
   <i>Grube</i> vgl §ps-7-16
@@ -46080,7 +46085,10 @@
 @Psalm 13 {
 #ps-13-5 {
  {
-   TODO: Eine Schlachter übersetzt mit 'Er', die andere mit 'Ich'.
+  <i>Über deine Rettung frohlocken</i>: §ps-9-15, §ps-21-2, vgl §ps-14-7
+ }
+ {
+  TODO: Eine Schlachter übersetzt mit 'Er', die andere mit 'Ich'.
  }
 #}
 @}
@@ -46113,7 +46121,7 @@
 #}
 #ps-14-7 {
  {
-  §ps-53-7
+  <i>Wenn Gott die Gefangenschaft seines Volkes wendet, soll Jakob frohlocken, Israel sich freuen</i>: §ps-53-7, vgl §ps-9-15
  }
 #}
 @}
@@ -46344,6 +46352,9 @@
 { 21-30
 @Psalm 21 {
 #ps-21-2 {
+ {
+  <i>Über deine Rettung frohlocken</i>: §ps-9-15, §ps-13-5
+ }
  {
   <i>In deiner Kraft</i> vgl §ps-18-33
  }
@@ -47412,8 +47423,7 @@
 #}
 #ps-48-12 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/ps_97.html#v8'>Ps&nbsp;97,8</a>,
-  <a class='kom' href='#Ikla-1-15'>Kla&nbsp;1,15</a>.
+  <i>es mögen frohlocken die Töchter Judas um deiner Gerichte willen</i> Vgl §ps-97-8, §+kla-1-15.
  }
  {
   <i>Töchter Judas</i>: <a class='kom' href='#I2koe-19-21'>2.&nbsp;Kö&nbsp;19,21</a>.
@@ -47596,7 +47606,7 @@
 #}
 #ps-53-7 {
  {
-  §ps-14-7
+  <i>Wenn Gott die Gefangenschaft seines Volkes wendet, soll Jakob frohlocken, Israel sich freuen</i>: §+ps-14-7
  }
 #}
 @}
@@ -48319,6 +48329,9 @@
  }
 #}
 #ps-75-3 {
+ {
+  <i>will ich in Geradheit richten</i> vgl §ps-96-10
+ }
  {
   TODO: Ist das die Antwort auf <a class='kom' href='#Ips-74-9'>Ps&nbsp;74,9</a>?
  }
@@ -49280,7 +49293,9 @@
   <i>Nicht wankender Erdkreis</i>: <a class='kom' href='#Ips-93-1'>Ps&nbsp;93,1</a>.
  }
  {
-  <i>Völker richten</i>: <a class='kom' href='#Ips-7-9'>Ps&nbsp;7,9</a>.
+  <i>Völker richten</i>: §+ps-7-9
+ <br>
+  <i>in Geradheit</i>: §ps-75-3
  }
 #}
 #ps-96-11 {
@@ -49338,7 +49353,7 @@
 #}
 #ps-97-8 {
  {
-  gl <a class='kom' href='#Ips-48-12'>Ps&nbsp;48,12</a>.
+  <i>Es frohlockten die Töchter Judas wegen deiner Gerichte</i> Vgl §+ps-48-12.
  }
 #}
 @}
@@ -49360,7 +49375,7 @@
 #}
 #ps-98-9 {
  {
-  Gleicher Vers in <a href='http://bibel.renenyffenegger.ch/ps_96.html#v13'>Ps&nbsp;96,13</a>.
+  Gleicher Vers in §ps-96-13.
  }
 #}
 @}
@@ -51790,6 +51805,11 @@
   <br>Vgl <a class='kom' href='#Ihes-2-1'>Hes&nbsp;2,1</a>.
  }
 #}
+#spr-8-6 {
+ {
+  <i>Das Auftun meiner Lippen soll Geradheit sein</i>: §spr-23-16
+ }
+#}
 #spr-8-7 {
  {
   <i>verabscheuen</i>: das hebräische Wort wird sonst mit 'Gräuel' übersetzt, vgl <i>Gräuel in den Sprüchen</i>: <a class='kom' href='#Ispr-3-32'>Spr&nbsp;3,32</a>.
@@ -52741,6 +52761,9 @@
 #}
 #spr-23-16 {
  {
+  <i>wenn deine Lippen Geradheit reden</i> vgl §spr-8-6
+ }
+ {
   TODO wohl besser wörtlich mit «Nieren» statt «Inneres» übersetzt. Vgl <a class='kom' href='#Ips-16-7'>Ps&nbsp;16,7</a>.
  }
 #}
@@ -52752,6 +52775,9 @@
 #spr-23-31 {
  {
   <i>Becher</i> (Strongs 3563): <a class='kom' href='#I1mo-40-11'>1.&nbsp;Mo&nbsp;40,11</a>
+ }
+ {
+  TODO: In diesem Vers kommt im Hebräischen «Auge» und «Geradheit/Aufrichtigkeit» vor.
  }
 #}
 @}
@@ -53442,7 +53468,15 @@
   Kombination <i>Name</i> und <i>(Salb-)öl</i>: vgl §pred-7-1.
  }
  {
+  <i>ausgegossenes Salböl</i>: <span class='hebr'>שֶׁ֖מֶן תּוּרַ֣ק</span>. Das rätselhafte <i>Turak</i> bezeichnet evtl. einfach ein speziel feines öl.
+ }
+ {
   TODO: <i>Salböl</i> ist im Hebr «nur» <span class='he'>שֶׁמֶן</span> (Strongs 8081).
+ }
+#}
+#hl-1-4 {
+ {
+  <i>preisen</i>: <span class='hebr'>נַזְכִּ֤ירָה</span> (Strongs 2142) kann angeblich auch mit «sich erinnern» übersetzt werden. Die homonyme Wurzel «Zakar» bedeute männlich und habe eine sexuelle konotation (Scott B. Noegel udn Gary A. Rendsburg - Solomon's Vineyard).
  }
 #}
 #hl-1-5 {
@@ -53465,7 +53499,7 @@
 #}
 #hl-1-6 {
  {
-  <i>meinen eigenen Weinberg</i> vgl §hl-8-12
+  <i>meinen eigenen Weinberg habe ich nicht gehütet</i> vgl §hl-8-11-12
  }
  {
   Vermutlich gehörte es zu den Aufgaben einer Hüterin der Weinberge, Füchse zu fangen: §hl-2-15
@@ -53529,6 +53563,9 @@
  {
   <i>Apfelbaum</i> vgl §hl-8-5
  }
+ {
+  <i>seine Frucht ist meinem Gaumen süß</i> vgl §hl-5-16
+ }
 #}
 #hl-2-5 {
  {
@@ -53573,7 +53610,7 @@
 #}
 #hl-2-15 {
  {
-  §+hl-1-6
+  <i>Fangt uns die Füchse …, welche die Weinberge verderben</i> §+hl-1-6
  }
 #}
 #hl-2-16 {
@@ -53827,6 +53864,9 @@
 #}
 #hl-5-16 {
  {
+  <i>sein Gaumen ist lauter Süßigkeit</i> vgl §hl-2-3, §hl-7-10
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
  }
 #}
@@ -53903,6 +53943,11 @@
   <i>Dein Hals ist…</i> vgl §hl-4-4
  }
 #}
+#hl-7-10 {
+ {
+  <i>Dein Gaume wie der beste Wein</i> vgl §hl-5-16
+ }
+#}
 #hl-7-11 {
  {
   <i>Ich bin meines Geliebten</i> §hl-6-3, §hl-2-16
@@ -53951,6 +53996,11 @@
 #hl-8-10 {
  {
   <i>Ich bin…</i> vgl §hl-1-5, §hl-2-1
+ }
+#}
+#hl-8-11 {
+ {
+  <i>er übergab den Weinberg den Hütern</i>. vgl §hl-1-6
  }
 #}
 #hl-8-12 {
@@ -55937,6 +55987,11 @@
    <i>Kalkbrände</i> vgl §am-2-1
  }
 #}
+#jes-33-15 {
+ {
+  <i>Wer in Gerechtigkeit wandelt und Aufrichtigkeit redet</i> vgl §jes-45-19
+ }
+#}
 #jes-33-17 {
  {
   <i>König in seiner Schönheit</i> vgl §jes-53-2
@@ -56672,6 +56727,11 @@
 #jes-45-18 {
  {
   <i>nicht als eine Öde (<span class='hebr'>תֹ֥הוּ</span>, Strongs 8418) hat er sie geschaffen…</i> §1mo-1-2-ff 
+ }
+#}
+#jes-45-19 {
+ {
+  <i>…der Gerechtigkeit redet, Aufrichtiges verkündet</i> vgl §jes-33-15
  }
 #}
 #jes-45-21 {
