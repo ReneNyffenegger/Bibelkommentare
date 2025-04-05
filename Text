@@ -8399,7 +8399,7 @@
 #}
 #2mo-2-25 {
  {
-  <i>Und Gott weiss</i>: Elb05 übersetzt mit «und Gott nahm Kenntnis von ihnen.», Sch2k mit «und Gott nahm sich ihrer an», KJV mit «and God had respect unto them».
+  <i>Und Gott weiß</i>: Elb05 übersetzt mit «und Gott nahm Kenntnis von ihnen.», Sch2k mit «und Gott nahm sich ihrer an», KJV mit «and God had respect unto them».
  }
 #}
 @}
@@ -47956,7 +47956,7 @@
 @Psalm 68 {
 #ps-68-2 {
  {
-  <i>Mögen sich zerstreuen seine Feinde, und vor ihm fliehen seine Hasser!</i> vgl §4mo-10-35
+  <i>Mögen sich zerstreuen seine Feinde, und vor ihm fliehen seine Hasser!</i> vgl §4mo-10-35, §ps-89-11
  }
 #}
 #ps-68-9 {
@@ -48961,6 +48961,9 @@
 #ps-89-11 {
  {
   <i>Rahab</i> §jes-51-9, §ps-87-4
+ }
+ {
+  <i>Zerstreute Feinde</i>: §ps-68-2
  }
  {
   <i>Gnade und Wahrheit</i>: <a class='kom' href='#Ips-25-10'>Ps&nbsp;25,10</a>.
@@ -61137,7 +61140,7 @@
   <i>Kebar</i> (<span class='hebr'>כְּבָר</span>, Strongs 3529), offenbar dasselbe wie Strongs 2528 ('Längst schon') in <a class='kom' href='#Ipred-1-10'>Pred&nbsp;1,10</a>.
  }
  {
-  Die Zahlen dieser Datierung ergeben addiert 49 ( 30 + 4 + 5 + 5 + 5), vgl §hes-40-1
+  Die Zahlen dieser Datierung ergeben addiert 49 (30 + 4 + 5 + 5 + 5), vgl §hes-40-1
  }
 #}
 #hes-1-2 {
@@ -61162,6 +61165,8 @@
 #}
 #hes-1-5 {
  {
+  <i>Vier lebendige Wesen</i>: §+offb-4-6
+ <br>
   Vgl die lebendenigen Wesen mit den <i>vier Flügeln</i> mit den Seraphim mit sechs Flügeln, §jes-6-2
  }
  {
@@ -61187,7 +61192,6 @@
        </ul>
        nach oben ausgebreitet
   </ul>
-   Vgl <a class='kom' href='#Ioffb-4-6'>Offb&nbsp;4,6</a>
    <br>TODO: Das lebendige Wesen ist der/ein Cherubim (<a href='http://bibel.renenyffenegger.ch/hes_10.html#v15'>Hes&nbsp;10,15</a>).
  }
 #}
@@ -61366,6 +61370,11 @@
  }
  {
   TODO: vgl §3mo-18-24
+ }
+#}
+#hes-4-14 {
+ {
+  Vgl §apg-10-14
  }
 #}
 #hes-4-16 {
@@ -89062,6 +89071,11 @@ sa:
  }
  {
   Eine Stimme spricht <i>dreimal</i> zu Petrus. Vgl mit dem Herrn, der Petrus dreimal gefragt hat, ob er Ihn liebe, §joh-21-15
+ }
+#}
+#apg-10-14 {
+ {
+  Vgl §hes-4-14
  }
 #}
 #apg-10-19 {
