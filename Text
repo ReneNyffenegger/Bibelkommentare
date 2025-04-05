@@ -515,10 +515,12 @@
 #}
 #1mo-2-2 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes; Vgl §joh-1-3: alles wurde durch das Wort Gottes.
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/2mo_16.html#v30'>2.&nbsp;Mo&nbsp;16,30</a>, wo das Volk am siebten Tag ruht.
+  <i>Er ruhte</i>: Gottes Sohn ruhte auch erst (im Grab), als alles vollbracht war (vgl §joh-5-17).
+ <br>
+  Vgl auch §2mo-16-30, wo das Volk am siebten Tag ruht.
  }
  {
   In 7 (od 6) Tagen wurde die Schöpfung vollendet, das (erste) Haus Gottes in 7 Jahren, §1koe-6-38
@@ -1150,7 +1152,7 @@
   Kain redete mit Abel (Vers 8), aber die Stimme des Blutes seines Bruders schreit zu Gott. Und Abel redet noch immer durch
   den Glauben (§hebr-11-4). Das <i>Blut der Besprengung</i> redet Besseres als jenes von Abel (§hebr-12-24)
  <br>
-  Vgl §mt-23-35
+  Vgl §mt-23-35, s. a. §V1mo-4-21
  }
  {
   <i>schreit zu mir</i> vgl §2mo-2-23
@@ -1222,8 +1224,9 @@
 #}
 #1mo-4-21 {
  {
-  TODO: <a class='kom' href='#Ioffb-18-22'>Offb&nbsp;18,22</a> (Der Klang der Harfenspieler und &hellip; Flötenspieler
-  wird nicht mehr' sein.
+   Möglicherweise sollte mit dem Klang der Laute und Orgel die Stimme des Blutes Abels (§V1mo-4-10) übertönt werden.
+  <br>
+   Vgl §+offb-18-22 (Der Klang der Harfenspieler und … Flötenspieler wird nicht mehr sein)
  }
  {
   <i>Orgel</i> <span class='he'>עוּגָב</span> (Strongs 7548): Elb05 und Sch2K übersetzen mit «Flöte» KJV mit «Orgel».
@@ -1293,13 +1296,13 @@
 @1. Mose 5 {
 #1mo-5-1 {
  {
-  <i>Geschichte</i>: <a class='kom' href='#I1mo-2-4'>1.&nbsp;Mo&nbsp;2,4</a>.
+  <i>Geschichte</i>: §+1mo-2-4.
  }
  {
-  <i>An dem Tag</i>: <a class='kom' href='#I1mo-2-4'>1.&nbsp;Mo&nbsp;2,4</a>.
+  <i>An dem Tag</i>: §+1mo-2-4.
  }
  {
-  <i>Gott ähnlich</i>: <a class='kom' href='#I1mo-1-26'>1.&nbsp;Mo&nbsp;1,26</a>.
+  <i>Gott ähnlich</i>: §+1mo-1-26.
  }
  {
   TODO: http://www.ruediger-heinzerling.de/forts3.htm#Akzent+6 (1. Mose 5 enthält 365 Wörter. Der Abschnitt über Enoch (Verse 19-24) enthält 65 Wörter.
@@ -1311,7 +1314,7 @@
   <i>Mensch</i>: <span class='hebr'>אָדָם</span>.
  }
  {
-  <i>Mann und Frau schuf er sie</i>: §1mo-1-27 
+  <i>Als Mann und Frau schuf er sie</i>: §1mo-1-27 
  }
  {
   TODO: <i>Gott segnet</i>: <a class='kom' href='#I1mo-1-22'>1.&nbsp;Mo&nbsp;1,22</a>
@@ -69911,6 +69914,11 @@
   §joh-1-18
  }
 #}
+#mt-11-28 {
+ {
+  <i>Ich werde euch Ruhe geben</i> vgl §mt-26-45
+ }
+#}
 #mt-11-29 {
  {
   <i>ich bin sanftmütig</i> §mt-21-5, §2kor-10-1, §+4mo-12-3
@@ -73221,6 +73229,12 @@
 #}
 #mt-26-45 {
  {
+  §mk-14-41
+ }
+ {
+  <i>ruht aus</i> vgl §mt-11-28-29
+ }
+ {
   <i>Die Stunde ist nahe gekommen</i> §+mt-26-18 vgl §lk-21-8
  }
  {
@@ -75021,7 +75035,7 @@ sa:
   Beachte: hier hatten sie <i>keine Zeit zu essen</i> und es folgt das Wunder der Speisung der 5000.
  }
  {
-  <i>ruht ein wenig aus</i> vgl §mk-14-41
+  <i>ruht ein wenig aus</i> vgl §mk-14-41, §mt-26-45
  }
 #}
 #mk-6-32 {
@@ -76555,6 +76569,9 @@ sa:
  }
 #}
 #mk-14-41 {
+ {
+  §mt-26-45
+ }
  {
   <i>ruht aus</i> vgl §mk-6-31
  }
@@ -82379,7 +82396,7 @@ sa:
  {
   Alles wurde durch dasselbe (das Wort): vgl §Vjoh-1-10, §ps-33-6, §hebr-11-3, §kol-1-16, §+hebr-1-2
  <br>
-  Vgl §Vjoh-1-10
+  Vgl §Vjoh-1-10, §1mo-2-2
  }
 #}
 #joh-1-4 {
@@ -83513,6 +83530,11 @@ sa:
   <span class='gt'>suchten ihn zu töten</span> fehlt NA.
  }
 #}
+#joh-5-17 {
+ {
+  <i>wirken</i>: §joh-6-27-ff. Vgl §1mo-2-2
+ }
+#}
 #joh-5-18 {
  {
    Sich Gott gleich (<span class='gr'>ἴσος</span>, Strongs 2470) machen: vgl <a href='http://bibel.renenyffenegger.ch/phil_2.html#v6'>Phil&nbsp;2,6</a>.
@@ -83764,6 +83786,9 @@ sa:
  }
  {
   <i>vergeht</i>: §+Vjoh-6-12
+ }
+ {
+  <i>wirken</i>: §joh-5-17
  }
 #}
 #joh-6-29 {
