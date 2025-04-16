@@ -11289,6 +11289,11 @@
   Siehe §1mo-47-23.
  }
 #}
+#2mo-23-11 {
+ {
+  <i>daß die Armen deines Volkes davon essen</i> Vgl §3mo-19-10
+ }
+#}
 #2mo-23-12 {
  {
   Vgl §+2mo-20-8. Beachte: Hier wird «→ biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat» als Verb, nicht als Nomen gebraucht.
@@ -15595,6 +15600,11 @@
   TODO: Ernte: Strongs 7114, abernten: Strongs 3615.
  }
 #}
+#3mo-19-10 {
+ {
+  <i>für den Armen und für den Fremdling sollst du sie lassen</i> vgl §2mo-23-11
+ }
+#}
 #3mo-19-11 {
  {
   <i>ihr sollt nicht lügen</i> §2mo-20-16
@@ -18949,6 +18959,9 @@
   Hier ist es <i>ein König von Edom</i>, zu Beginn des Auszuges aus Ägypten gab es noch <i>die Fürsten von Edom</i>, §2mo-15-15.
  }
  {
+  Vgl §4mo-21-22
+ }
+ {
   TODO: Gemäss <a href='http://bibel.renenyffenegger.ch/ri_11.html#v17'>Ri&nbsp;11,17</a> wurde auch zum König der Moabiter gesandt. Passierte dies hier?
  }
 #}
@@ -18958,6 +18971,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+#}
+#4mo-20-17 {
+ {
+  Vgl §4mo-21-22
  }
 #}
 #4mo-20-22 {
@@ -19151,6 +19169,9 @@
 #}
 #4mo-21-21 {
  {
+  Vgl §4mo-20-14
+ }
+ {
   Dies geschah wohl in Kedemoth (<span class='hebr'>קְדֵמוֹת</span>, Strongs 6932) [Siehe <a href='http://bibel.renenyffenegger.ch/5mo_2.html#v26'>5.&nbsp;Mo&nbsp;2,26</a>],
   welches offenbar 'Anfänge' heisst.
   Aber <span class='hebr'>קֶדֶם</span> (Strongs 6924) heisst wohl 'Osten' und so ist dies vielleicht einfach die Stadt im Osten.
@@ -19158,6 +19179,11 @@
  }
  {
   Vgl auch <a href='http://bibel.renenyffenegger.ch/ri_11.html#v19'>Ri&nbsp;11,19</a>.
+ }
+#}
+#4mo-21-22 {
+ {
+  vgl §4mo-20-17
  }
 #}
 #4mo-21-24 {
@@ -21597,6 +21623,11 @@
   <i>Zeichen auf der Hand</i> und <i>Stirnbänder zwischen den Augen</i>: vgl §+2mo-13-9
  }
 #}
+#5mo-6-11 {
+ {
+  <i>Weinberge und Olivengärten, die du nicht gepflanzt hast</i> vgl §jos-24-13
+ }
+#}
 #5mo-6-12 {
  {
   <i>Haus der Knechschaft</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-knechte-aegyptens
@@ -22182,6 +22213,11 @@
   <i>Um seinen Namen dort wohnen zu lassen</i> §V5mo-12-5
  }
 #}
+#5mo-12-15 {
+ {
+  Vgl §5mo-14-5
+ }
+#}
 #5mo-12-16 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Blut#blut-nicht-essen, Vgl. §5mo-15-23.
@@ -22303,6 +22339,11 @@
 #5mo-14-4 {
  {
    TODO: Siehe Strongs 7716.
+ }
+#}
+#5mo-14-5 {
+ {
+  <i>Hirsch und Gazelle</i>: §5mo-12-15
  }
 #}
 #5mo-14-7 {
@@ -26355,6 +26396,11 @@
  }
  {
   <i>Hornissen</i>: §+5mo-7-20.
+ }
+#}
+#jos-24-13 {
+ {
+  <i>Weinberge und Olivenbäume, die ihr nicht gepflanzt habt</i> vgl §5mo-6-11
  }
 #}
 #jos-24-15 {
@@ -53603,6 +53649,9 @@
 #}
 #hl-2-9 {
  {
+  <i>Mein Geliebetr gleicht einer Gazelle, oder einem Jungen der Hirsche</i> vgl §hl-8-14, §Vhl-2-17
+ }
+ {
   TODO Vgl §1sam-19-12
  }
 #}
@@ -53639,6 +53688,9 @@
  }
 #}
 #hl-2-17 {
+ {
+  Vgl die <i>zerklüfteten Berge</i> mit den «duftenden Bergen» in §hl-8-14
+ }
  {
   <i>Bis der Tag sich kühlt und die Schatten fliehen</i> §hl-4-6
  }
@@ -54023,6 +54075,13 @@
 #hl-8-12 {
  {
   <i>Mein eigener Weinberg</i> vgl §hl-1-6
+ }
+#}
+#hl-8-14 {
+ {
+  <i>Enteile, mein Geliebter, und sei gleich einer Gazelle oder einem Jungen der Hirsche</i> vgl §hl-2-9
+ <br>
+  Vgl die <i>duftenden Berge</i> mit den «zerklüfteten Bergen» in §hl-2-16.
  }
 #}
 @}
