@@ -9132,6 +9132,11 @@
   <i>Gräuel der Ägypter</i>: vgl §+1mo-43-32, §1mo-46-34
  }
 #}
+#2mo-8-26 {
+ {
+  <i>Mose flehte (für den Pharao) zu Jehova</i> vgl §4mo-21-7
+ }
+#}
 @}
 @2. Mose 9 {
 #2mo-9-4 {
@@ -19089,6 +19094,11 @@
  }
  {
   Vgl §3mo-26-22
+ }
+#}
+#4mo-21-7 {
+ {
+  <i>Mose flehte für das Volk</i> vgl §2mo-8-24-ff
  }
 #}
 #4mo-21-8 {
@@ -53598,6 +53608,9 @@
  {
   <i>Weinberge von En-Gedi</i> vgl mit En-Gedi in der Wüste (§jos-15-61-62)
  }
+ {
+  <i>Zypertrabue</i> <span class='hebr'>אֶשְׁכֹּ֨ל הַכֹּ֤פֶר</span>, vgl §hl-4-13
+ }
 #}
 #hl-1-15 {
  {
@@ -53697,6 +53710,11 @@
 #}
 @}
 @Hohelied 3 {
+#hl-3-1 {
+ {
+  <i>Lager</i> (<span class='hebr'>מִשְׁכָּבִ</span>): vgl «Tragbett» in §Vhl-3-7 und «Prachtbett» in §Vhl-3-9
+ }
+#}
 #hl-3-3 {
  {
   <i>Es fanden mich die Wächter</i> vgl §hl-5-7
@@ -53727,6 +53745,17 @@
 #hl-3-7 {
  {
   Vgl die <i>60 Helden</i> mit den 60 Königinnen in §hl-6-8 und den 30 Helden in §1chr-27-6.
+ }
+ {
+  <i>Tragbett</i> (<span class='hebr'>מִטָּת</span>): §+Vhl-3-1
+ }
+#}
+#hl-3-9 {
+ {
+  <i>Holz des Libanon</i> (<span class='hebr'>עֲצֵ֖י הַלְּבָנֽוֹן</span>), vgl mit «Weihrauchgehölz» in §hl-4-14
+ }
+ {
+  <i>Prachtbett</i> (<span class='hebr'>אַפִּרְי֗וֹן</span>): §+Vhl-3-1
  }
 #}
 #hl-3-10 {
@@ -53843,10 +53872,19 @@
  {
   <i>Lustgarten</i> ist im Grundtext eigentlich <span class='hebr'>פַּרְדֵּס</span> (→ biblisches/Grundtext/Wörter/H6508-G3857-Paradies[Paradies]), vgl §pred-2-5
  }
+ {
+  <i>köstliche Frucht</i> (<span class='hebr'>פְּרִ֣י מְגָדִ֑ים</span>): Elberfelder übersetzt anders als in §Vhl-4-16 mit «köstliche Frucht». Vgl §hl-7-14
+ }
+ {
+  <i>Zyperblumen</i> <span class='hebr'>כְּפָרִ֖ים</span>, vgl §hl-1-14
+ }
 #}
 #hl-4-14 {
  {
   <i>Zimt… Aloe und Myrrhe</i>: vgl §+spr-7-17.
+ }
+ {
+  <i>Weihrauchgehölz</i> (<span class='hebr'>עֲצֵ֣י לְבוֹנָ֑ה</span>), vgl mit «Holz des Libanon»in §hl-3-9.
  }
 #}
 #hl-4-15 {
@@ -54029,6 +54067,11 @@
  {
   <i>Alraunenfrüchte</i>: <a class='kom' href='#I1mo-30-14'>1.&nbsp;Mo&nbsp;30,14</a>.
  }
+ {
+  <i>köstliche Früchte</i> (<span class='hebr'>מְגָדִ֔ים</span>): Das Wort für «Früchte» fehlt im Hebräischen und wurde in der Übersetzung eingefügt.
+ <br>
+  Elberfelder und Sch2K übersetzen mit «edle Früchte», KJV mit «pleasant fruits», vgl §hl-4-13
+ }
 #}
 @}
 @Hohelied 8 {
@@ -54066,6 +54109,9 @@
  {
   <i>Ich bin…</i> vgl §hl-1-5, §hl-2-1
  }
+ {
+  <i>Friede</i> (<span class='hebr'>שָׁלֽוֹם</span>, Strongs 7965), vgl mit Salomo (<span class='hebr'>שְׁלֹמֹה֙</span>) im nächsten Vers.
+ }
 #}
 #hl-8-11 {
  {
@@ -54079,9 +54125,12 @@
 #}
 #hl-8-14 {
  {
+  <i>Gewürzberge</i> (<span class='hebr'>הָרֵ֥י בְשָׂמִֽים</span>): Elberfelder übersetzt mit «duftende Berge», Sch2K mit «Balsamberge», KJV mit «mountains of spices».
+ }
+ {
   <i>Enteile, mein Geliebter, und sei gleich einer Gazelle oder einem Jungen der Hirsche</i> vgl §hl-2-9
  <br>
-  Vgl die <i>duftenden Berge</i> mit den «zerklüfteten Bergen» in §hl-2-16.
+  Vgl die <i>Gewürzberge</i> mit den «zerklüfteten Bergen» in §hl-2-16.
  }
 #}
 @}
