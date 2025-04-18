@@ -5589,8 +5589,9 @@
 #}
 #1mo-30-14 {
  {
-  <i>Alraundenfrüchte</i>: <span class='hebr'>דֽוּדָאִים</span> (Strongs 1736): <a href='http://bibel.renenyffenegger.ch/hl_7.html#v14'>Hl&nbsp;7,14</a>,
-  <a class='kom' href='#Ijer-24-1'>Jer&nbsp;24,1</a>.
+  <i>Alraunenfrüchte</i>: <span class='hebr'>דֽוּדָאִים</span> (Strongs 1736): §hl-7-14, §+jer-24-1.
+ <br>
+  Das Wort <span class='hebr'>דֽוּדָאִים</span> hat die Wurzel <span class='hebr'>דוֹד</span> (weshalb wohl die Frucht auch mit «Liebesapfel» übersetzt wird).
  }
 #}
 #1mo-30-20 {
@@ -8221,6 +8222,9 @@
  {
   <i>Ziegel</i>: §+1mo-11-3
  }
+ {
+  <i>harter Dienst</i>: §2mo-6-9, §5mo-26-6
+ }
 #}
 #2mo-1-15 {
  {
@@ -8781,6 +8785,9 @@
 #2mo-6-9 {
  {
   <i>Ungeduld</i>: <span class='he'>מִקֹּצֶר רוּחַ</span>. KJV übersetzt mit «anguish of spirit».
+ }
+ {
+  <i>harter Dienst</i>: §2mo-1-14
  }
 #}
 #2mo-6-12 {
@@ -23115,6 +23122,11 @@
  TODO Vgl §am-9-13
  }
 #}
+#5mo-26-6 {
+ {
+  <i>harter Dienst</i> §2mo-1-14
+ }
+#}
 #5mo-26-7 {
  {
   §2mo-2-23
@@ -23734,7 +23746,7 @@
 #}
 #5mo-32-33 {
  {
-  <i>Drachengeifer</i>: TODO, vgl mit §+1mo-1-21.
+  <i>Drache</i>: Vgl mit §+1mo-1-21.
  }
 #}
 #5mo-32-34 {
@@ -35662,6 +35674,11 @@
   <a href='http://bibel.renenyffenegger.ch/dan_12.html#v5'>Dan&nbsp;12,5</a>
  }
 #}
+#2koe-19-26 {
+ {
+  §jes-37-27
+ }
+#}
 #2koe-19-28 {
  {
   <i>Ring in der Nase</i>: <a href='http://bibel.renenyffenegger.ch/jes_37.html#v29'>Jes&nbsp;37,29</a>, <a href='http://bibel.renenyffenegger.ch/hes_16.html#v12'>Hes&nbsp;16,12</a>.
@@ -44690,6 +44707,11 @@
   → biblisches/Personen/Ahasveros
  }
 #}
+#est-7-7 {
+ {
+  <i>Garten</i>: Strongs 1594, siehe §hl-6-11
+ }
+#}
 @}
 @Esther 8 {
 #est-8-1 {
@@ -49144,6 +49166,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
  }
 #}
+#ps-90-5 {
+ {
+  <i>Gras, das (aufsproßt und) verdorrt</i> vgl §jak-1-10-11
+ }
+#}
 #ps-90-7 {
  {
    TODO: Vgl <a href='http://bibel.renenyffenegger.ch/4mo_14.html#v29'>4.&nbsp;Mo&nbsp;14,29</a>.
@@ -51823,7 +51850,7 @@
 #}
 #spr-6-19 {
  {
-  <i>Lügen aussprechen</i>: §Vspr-14-5, §spr-19-5
+  <i>Lügen aussprechen</i>: §Vspr-14-5, §spr-19-5. Vgl §spr-12-17
  }
  {
   <i>falscher Zeuge</i> in den Sprüchen: <a href='http://bibel.renenyffenegger.ch/spr_12.html#v17'>Spr&nbsp;12,17</a>,
@@ -52133,6 +52160,11 @@
 #spr-12-15 {
  {
   Vgl §spr-14-12
+ }
+#}
+#spr-12-17 {
+ {
+  <i>Wer Wahrheit ausspricht</i> vgl §+spr-6-19
  }
 #}
 #spr-12-22 {
@@ -53577,6 +53609,9 @@
  {
   Vermutlich gehörte es zu den Aufgaben einer Hüterin der Weinberge, Füchse zu fangen: §hl-2-15
  }
+ {
+  <i>verbrannt</i> könnte evtl mit «angeschaut» oder «erblickt» übersetzt werden. KJV übersetzt mit «because the sun hath looked upon me».
+ }
 #}
 #hl-1-7 {
  {
@@ -53673,7 +53708,7 @@
   <i>Feigen</i>: <span class='hebr'>פַּג</span> (Strongs 6291, 1x). Auch etwa «unreife Feigen». Sch2K übersetzt mit «Frühfeigen», KJV mit «green Figs».
  }
  {
-  Hier und in §Vhl-2-15 sind die Weinstöcke in Blüte, in §hl-7-13 wollen «sie» sich aufmachen um zu sehen, ob der Weinstock ausgeschlagen, die Weinblüte sich geöffnet hat, und ob die Granaten blühen.
+  Hier und in §Vhl-2-15 sind die Weinstöcke in Blüte, in §hl-6-11 und §hl-7-13 wollen «sie» sich aufmachen um zu sehen, ob der Weinstock ausgeschlagen, die Weinblüte sich geöffnet hat, und ob die Granaten blühen.
  }
  {
   Vgl mit der Verfluchung des Feigenbaums in <a class='kom' href='#Imt-21-19'>Mt&nbsp;21,19</a>.
@@ -53709,6 +53744,9 @@
  }
  {
   <i>Bis der Tag sich kühlt und die Schatten fliehen</i> §hl-4-6
+ }
+ {
+  <i>kühlt</i>: §+hl-4-16
  }
 #}
 @}
@@ -53787,7 +53825,7 @@
 #}
 #hl-4-2 {
  {
-  <i>Deine Zähne…</i> §hl-6-6
+  <i>Deine Zähne sind wie eine Herde …</i> hier: <i>geschorener Schafe</i>, in §hl-6-6 «Mutterschafe».
  }
 #}
 #hl-4-3 {
@@ -53815,8 +53853,9 @@
 #}
 #hl-4-5 {
  {
-  <i>Gazelle</i>: <span class='hebr'>צְבִיָּה</span> (Strongs 6646, 2x): vgl mit 'Tabitha' in <a href='http://bibel.renenyffenegger.ch/apg_9.html#v36'>Apg&nbsp;9,36</a>.
-  <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/hl_7.html#v4'>Hl&nbsp;7,4</a>.
+  <i>Gazelle</i>: <span class='hebr'>צְבִיָּה</span> (Strongs 6646, 2x) ist wohl die weibliche Form von Gazelle, ebenso in §hl-7-4.
+  <br>
+  vgl mit 'Tabitha' in §apg-9-36.
  }
 #}
 #hl-4-6 {
@@ -53825,6 +53864,9 @@
  }
  {
   <i>Myrrhenberg und → biblisches/Eigene-Uebersetzung/Konkordanz/Weihrauch</i> §hl-3-6, §mt-2-11
+ }
+ {
+  <i>kühlt</i>: §+Vhl-4-16
  }
 #}
 #hl-4-8 {
@@ -53879,7 +53921,7 @@
   <i>Lustgarten</i> ist im Grundtext eigentlich <span class='hebr'>פַּרְדֵּס</span> (→ biblisches/Grundtext/Wörter/H6508-G3857-Paradies[Paradies]), vgl §pred-2-5
  }
  {
-  <i>köstliche Frucht</i> (<span class='hebr'>פְּרִ֣י מְגָדִ֑ים</span>): Elberfelder übersetzt anders als in §Vhl-4-16 mit «köstliche Frucht». Vgl §hl-7-14
+  <i>köstlichen Fruchten</i> (<span class='hebr'>פְּרִ֣י מְגָדִ֑ים</span>): Elberfelder übersetzt anders als in §Vhl-4-16 mit «edlen Fruchten». Vgl §hl-7-14
  }
  {
   <i>Zyperblumen</i> <span class='hebr'>כְּפָרִ֖ים</span>, vgl §hl-1-14
@@ -53900,9 +53942,12 @@
 #}
 #hl-4-16 {
  {
-   TODO: Strongs 8486, siehe <a class='kom' href='#Ips-78-26'>Ps&nbsp;78,26</a>. Entsprechend wird der entsprechende
-   Versteil mit 'thou <b>south</b>; blow...' übersetzt.
-   in KJV mit k
+  <i>durchwehe</i>: <span class='hebr'>הָפִ֥יחִי</span> (Strongs 6315): dasselbe Wort wird in §hl-2-17 und §Vhl-4-6 mit «kühlen» übersetzt.
+ }
+ {
+  TODO: Strongs 8486, siehe <a class='kom' href='#Ips-78-26'>Ps&nbsp;78,26</a>. Entsprechend wird der entsprechende
+  Versteil mit 'thou <b>south</b>; blow...' übersetzt.
+  in KJV mit k
  }
 #}
 @}
@@ -53959,6 +54004,9 @@
 #}
 #hl-5-13 {
  {
+  <i>Türme von duftenden Pflanzen</i> <span class='hebr'>מִגְדְּל֖וֹת מֶרְקָחִ֑ים</span>: Elberfelder übersetzt mit «Anhöhen von duftenden Pflanzen>, Sch2K mit «in denen würzige Pflanzen turmhoch wachsen».
+ }
+ {
   TODO: In diesem Vers kommt <i>Spezerei</i> (Siehe <a class='kom' href='#I2mo-25-6'>2.&nbsp;Mo&nbsp;25,6</a>) vor.
  }
 #}
@@ -54013,7 +54061,7 @@
 #}
 #hl-6-6 {
  {
-  <i>Deine Zähne…</i> §hl-4-2
+  <i>Deine Zähne…</i> §+hl-4-2
  }
 #}
 #hl-6-7 {
@@ -54037,6 +54085,14 @@
 #hl-6-10 {
  {
   <i>Wer ist sie</i>: vgl §hl-3-6
+ }
+#}
+#hl-6-11 {
+ {
+  <i>ob der Weinstock ausgeschlagen wäre, ob die Granaten blühten</i>: §hl-7-13, vgl §hl-2-13
+ }
+ {
+  <i>Garten</i>: <span class='hebr'>גִּנַּ֤ת</span> (Strongs 1594, 3x): die weibliche Form von <span class='hebr'>גַּן</span> (1588)? Dieses Wort kommt noch in §est-7-7-8 vor.
  }
 #}
 @}
@@ -54071,7 +54127,7 @@
 #}
 #hl-7-13 {
  {
-  §hl-2-13
+  <i>ob der Weinstock ausgeschlagen ist…, ob die Granaten blühen</i> §hl-6-11, vgl §hl-2-13
  }
 #}
 #hl-7-14 {
@@ -56339,6 +56395,11 @@
 #jes-37-26 {
  {
   <i>Tage der Vorzeit</i>: <a href='http://bibel.renenyffenegger.ch/jes_22.html#v11'>Jes&nbsp;22,11</a>.
+ }
+#}
+#jes-37-27 {
+ {
+  §2koe-19-26
  }
 #}
 #jes-37-29 {
@@ -61228,6 +61289,11 @@
 #}
 @}
 @Klagelieder 4 {
+#kla-4-3 {
+ {
+  <i>Schakale</i>: Im Grundtext weiblich. Ebenso in §mal-1-3
+ }
+#}
 #kla-4-5 {
  {
   TODO <i>Misthaufen</i>: <a class='kom' href='#Idan-2-5'>Dan&nbsp;2,5</a>.
@@ -67334,6 +67400,11 @@
 }
 { Maleachi
 @Maleachi 1 {
+#mal-1-3 {
+ {
+  <i>Schakale</i>: Im Grundtext weiblich. Ebenso in §kla-4-3.
+ }
+#}
 #mal-1-4 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Edom/index#gericht-ueber-edom
@@ -110146,7 +110217,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jak-1-10 {
  {
-  <i>wie Gras vergehen</i> vgl §ps-37-2, §ps-103-15, §1petr-1-24, §jes-40-6-8
+  <i>wie Gras vergehen</i> vgl §ps-37-2, §ps-90-5-6, §ps-103-15, §1petr-1-24, §jes-40-6-8
  }
 #}
 #jak-1-11 {
