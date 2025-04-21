@@ -53565,7 +53565,7 @@
 #}
 #hl-1-2 {
  {
-  <i>Deine Liebe ist besser als Wein</i>, §hl-4-10
+  <i>Deine Liebe ist besser als Wein</i>, §hl-4-10, vgl §Vhl-1-2, §hl-2-4
  }
 #}
 #hl-1-3 {
@@ -53576,13 +53576,18 @@
   Kombination <i>Name</i> und <i>(Salb-)öl</i>: vgl §pred-7-1.
  }
  {
-  <i>ausgegossenes Salböl</i>: <span class='hebr'>שֶׁ֖מֶן תּוּרַ֣ק</span>. Das rätselhafte <i>Turak</i> bezeichnet evtl. einfach ein speziel feines öl.
+  <i>ausgegossenes Salböl</i>: <span class='hebr'>שֶׁ֖מֶן תּוּרַ֣ק</span>. Das rätselhafte <i>Turak</i> bezeichnet evtl. einfach ein speziell feines öl.
  }
  {
   TODO: <i>Salböl</i> ist im Hebr «nur» <span class='he'>שֶׁמֶן</span> (Strongs 8081).
  }
 #}
 #hl-1-4 {
+ {
+  Hier hat <i>der König hat mich in seine Gemächer geführt</i> und hier soll die Liebe mehr gepriesen werden als der <i>Wein</i> Vgl in §hl-2-4 hat ihr Geliebter sie in das <i>Haus des Weines</i> geführt und dort ist sein Panier <i>die Liebe</i>.
+ <br>
+  Vgl auch mit §Vhl-1-2.
+ }
  {
   <i>preisen</i>: <span class='hebr'>נַזְכִּ֤ירָה</span> (Strongs 2142) kann angeblich auch mit «sich erinnern» übersetzt werden. Die homonyme Wurzel «Zakar» bedeute männlich und habe eine sexuelle Konnotation (Scott B. Noegel und Gary A. Rendsburg - Solomon's Vineyard).
  }
@@ -53618,7 +53623,7 @@
 #}
 #hl-1-7 {
  {
-  <i>wo weidest du</i> vgl §hl-5-6, §joh-1-38
+  <i>wo weidest du</i> vgl §hl-3-1, §hl-5-6, §joh-1-38
  }
  {
   <i>verschleiert</i>: §hl-4-1, §hl-5-7, §hl-6-7
@@ -53681,6 +53686,13 @@
   <i>seine Frucht ist meinem Gaumen süß</i> vgl §hl-5-16
  }
 #}
+#hl-2-4 {
+ {
+  <i>Er hat mich in das Haus des Weines geführt…</i> vgl §+hl-1-4
+ <br>
+  Vgl mit dem «Haus der Mutter», §hl-3-4
+ }
+#}
 #hl-2-5 {
  {
   TODO <i>Rosinen</i> (Strongs 809) siehe <a class='kom' href='#I2sam-6-19'>2.&nbsp;Sam&nbsp;6,19</a>.
@@ -53704,6 +53716,16 @@
  }
  {
   TODO Vgl §1sam-19-12
+ }
+#}
+#hl-2-10 {
+ {
+  <i>Mache dich auf, meine Freundin, meine Schöne, und komm</i> §Vhl-2-13
+ }
+#}
+#hl-2-12 {
+ {
+  <i>Gesang</i>: Das Hebräische Wort <span class='hebr'>זָמִיר</span> (Strongs 2159, 1x) kann offenbar auch als «Beschneiden/Stutzen» (einer Pflanze) übersetzt werden. Damit wäre es Teil eines Janusparallelismus (Beschneiden der Blumen und Gesang der Turteltaube).
  }
 #}
 #hl-2-13 {
@@ -53738,7 +53760,7 @@
   <i>Ich bin sein</i> vgl §hl-6-3, §hl-7-11
  }
  {
-  <i>Unter den Lilien weiden</i> vgl §Vhl-2-1.
+  <i>Unter den Lilien weiden</i>: §hl-4-6 vgl §Vhl-2-1.
  }
 #}
 #hl-2-17 {
@@ -53756,6 +53778,9 @@
 @Hohelied 3 {
 #hl-3-1 {
  {
+  <i>Ich suchte ihn und fand ihn nicht</i> §hl-5-6
+ }
+ {
   <i>Lager</i> (<span class='hebr'>מִשְׁכָּבִ</span>): vgl «Tragbett» in §Vhl-3-7 und «Prachtbett» in §Vhl-3-9
  }
 #}
@@ -53765,6 +53790,16 @@
  }
  {
   Die Wächter geben keine Antwort auf die Frage.
+ }
+#}
+#hl-3-4 {
+ {
+  <i>Bis ich ihn gebracht hatte in das Haus meiner Mutter</i> vgl §hl-8-2
+ <br>
+  Vgl mit dem «Haus des Weines» §hl-2-4
+ }
+ {
+  <i>ich ergriff ihn</i> vgl mit dem Schluss in §hl-8-14
  }
 #}
 #hl-3-5 {
@@ -53855,6 +53890,12 @@
  }
 #}
 #hl-4-5 {
+ {
+  <i>Deine beiden Brüste…</i> §hl-7-4
+ }
+ {
+  <i>Unter den Lilien weiden</i>: §hl-2-16
+ }
  {
   <i>Gazelle</i>: <span class='hebr'>צְבִיָּה</span> (Strongs 6646, 2x) ist wohl die weibliche Form von Gazelle, ebenso in §hl-7-4.
   <br>
@@ -53948,6 +53989,9 @@
   <i>durchwehe</i>: <span class='hebr'>הָפִ֥יחִי</span> (Strongs 6315): dasselbe Wort wird in §hl-2-17 und §Vhl-4-6 mit «kühlen» übersetzt.
  }
  {
+  <i>Wohlgerüche</i>: <span class='hebr'>בְשָׂמָ֑יו</span> (Strongs 1314): eigentlich «Gewürz».
+ }
+ {
   TODO: Strongs 8486, siehe <a class='kom' href='#Ips-78-26'>Ps&nbsp;78,26</a>. Entsprechend wird der entsprechende
   Versteil mit 'thou <b>south</b>; blow...' übersetzt.
   in KJV mit k
@@ -53971,7 +54015,7 @@
 #}
 #hl-5-6 {
  {
-  <i>Ich suchte ihn und fand ihn nicht</i> vgl §hl-1-7
+  <i>Ich suchte ihn und fand ihn nicht</i> §hl-3-1, vgl §hl-1-7
  }
 #}
 #hl-5-7 {
@@ -53995,6 +54039,11 @@
   <i>Schönste unter den Frauen</i> §hl-1-8, §hl-6-1
  }
 #}
+#hl-5-10 {
+ {
+  <i>weiß</i>: §+jes-32-4
+ }
+#}
 #hl-5-11 {
  {
   <i>Sein Haupt ist …, seine Locken sind… </i> vgl §Vhl-5-2
@@ -54007,7 +54056,10 @@
 #}
 #hl-5-13 {
  {
-  <i>Türme von duftenden Pflanzen</i> <span class='hebr'>מִגְדְּל֖וֹת מֶרְקָחִ֑ים</span>: Elberfelder übersetzt mit «Anhöhen von duftenden Pflanzen>, Sch2K mit «in denen würzige Pflanzen turmhoch wachsen».
+  <i>Türme von duftenden Pflanzen</i> <span class='hebr'>מִגְדְּל֖וֹת מֶרְקָחִ֑ים</span>: Elberfelder übersetzt mit «Anhöhen von duftenden Pflanzen», Sch2K mit «in denen würzige Pflanzen turmhoch wachsen».
+ }
+ {
+  <i>Würzkrautbeet</i> (<span class='hebr'>עֲרוּגַ֣ת הַבֹּ֔שֶׂם</span>), vgl §hl-6-2 (Angeblich ist <span class='hebr'>עֲרוּגַ֣ת</span> Singular und <span class='hebr'>עֲרוּג֖וֹת</span> Plural).
  }
  {
   TODO: In diesem Vers kommt <i>Spezerei</i> (Siehe <a class='kom' href='#I2mo-25-6'>2.&nbsp;Mo&nbsp;25,6</a>) vor.
@@ -54042,6 +54094,11 @@
  }
  {
   TODO: Werden sie Ihn auch finden?
+ }
+#}
+#hl-6-2 {
+ {
+  <i>Würzkrautbeete</i> (<span class='hebr'>עֲרוּג֖וֹת הַבֹּ֑שֶׂם</span>), vgl §hl-5-13
  }
 #}
 #hl-6-3 {
@@ -54089,6 +54146,9 @@
  {
   <i>Wer ist sie</i>: vgl §hl-3-6
  }
+ {
+  <i>furchtbar wie Kriegsscharen</i> §Vhl-6-4
+ }
 #}
 #hl-6-11 {
  {
@@ -54107,7 +54167,10 @@
 #}
 #hl-7-4 {
  {
-    <i>Gazelle</i>: <a class='kom' href='#Ihl-4-5'>Hl&nbsp;4,5</a>.
+  <i>Deine beiden Brüste…</i> §hl-4-5
+ }
+ {
+  <i>Gazelle</i>: <a class='kom' href='#Ihl-4-5'>Hl&nbsp;4,5</a>.
  }
 #}
 #hl-7-5 {
@@ -54147,7 +54210,12 @@
 @Hohelied 8 {
 #hl-8-1 {
  {
-  <i>Bruder</i> vgl §hl-4-9-ff
+  Das einzige Vorkommen von <i>Bruder</i> im Hohelied. Vgl mit «Schwester» §+hl-4-9-ff
+ }
+#}
+#hl-8-2 {
+ {
+  <i>In das Haus meiner Mutter hineinbringen</i> vgl §hl-3-4
  }
 #}
 #hl-8-3 {
@@ -54198,7 +54266,7 @@
   <i>Gewürzberge</i> (<span class='hebr'>הָרֵ֥י בְשָׂמִֽים</span>): Elberfelder übersetzt mit «duftende Berge», Sch2K mit «Balsamberge», KJV mit «mountains of spices».
  }
  {
-  <i>Enteile, mein Geliebter, und sei gleich einer Gazelle oder einem Jungen der Hirsche</i> vgl §hl-2-9
+  <i>Enteile, mein Geliebter, und sei gleich einer Gazelle oder einem Jungen der Hirsche</i> vgl §hl-2-9, §hl-3-4
  <br>
   Vgl die <i>Gewürzberge</i> mit den «zerklüfteten Bergen» in §hl-2-16.
  }
@@ -55425,6 +55493,11 @@
   (<a href='http://bibel.renenyffenegger.ch/1mo_2.html#v13'>1.&nbsp;Mo&nbsp;2,13</a>). <i>Jenseits der Ströme von Kusch</i>: <a href='http://bibel.renenyffenegger.ch/zeph_3.html#v10'>Zeph&nbsp;3,10</a>.
  }
 #}
+#jes-18-4 {
+ {
+  <i>Sonnenschein</i>; §+jes-32-4
+ }
+#}
 @}
 @Jesaja 19 {
 #jes-19-1 {
@@ -56138,6 +56211,9 @@
  {
   <i>stammeln</i>: <a class='kom' href='#Ijes-28-11'>Jes&nbsp;28,11</a>.
  }
+ {
+  <i>deutlich</i> <span class='hebr'>צָחֽוֹת</span> (Strongs 6703), in §hl-5-10 mit «weiss», in §jes-18-4 mit «Sonnenschein» übersetzt
+ }
 #}
 #jes-32-12 {
  {
@@ -56625,6 +56701,9 @@
 #jes-41-18 {
  {
   Vgl §+jes-35-6-7
+ }
+ {
+  <i>Auf den kahlen Höhen</i> §jes-49-9
  }
 #}
 #jes-41-25 {
@@ -57114,6 +57193,9 @@
 #jes-49-9 {
  {
   <i>um den Gefangenen zu sagen: Geht hinaus!</i>: §jes-42-7, Vgl mit Lazarus: §+joh-11-43.
+ }
+ {
+  <i>Auf allen kahlen Höhen</i> §jes-41-18
  }
 #}
 #jes-49-10 {
@@ -58252,6 +58334,11 @@
 #jer-4-10 {
  {
   <i>Seele</i>: Sch2K übersetzt mit «Kehle».
+ }
+#}
+#jer-4-11 {
+ {
+  <i>Wind</i>: <span class='hebr'>ר֣וּחַ</span> (Strongs 7307).
  }
 #}
 #jer-4-19 {
@@ -68885,7 +68972,10 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/lk_12.html#v22'>Lk&nbsp;12,22</a>.
  }
  {
-  Bachte das <i>deshalb</i>.
+  Beachte das <i>deshalb</i>.
+ }
+ {
+  <i>Leben</i>: <span class='gr'>ψυχή</span> (Seele). Interessanterweise begehrt die Seele (nicht der Körper) nach Nahrung, der Leib (nicht die Seele) aber nach Kleidung.
  }
 #}
 #mt-6-26 {
@@ -114164,7 +114254,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>wie tot</i> §mk-9-26
  }
  {
-  Bachte, die Hand, die die <i>sieben Sterne</i> (§Voffb-1-16), hat, ist die selbe Hand, mit der Johannes beruhigt/getröstet wird.
+  Beachte, die Hand, die die <i>sieben Sterne</i> (§Voffb-1-16), hat, ist die selbe Hand, mit der Johannes beruhigt/getröstet wird.
  }
  {
   TODO: Vgl <a class='kom' href='#Iapg-26-14'>Apg&nbsp;26,14</a>.
