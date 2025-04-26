@@ -93875,6 +93875,9 @@ sa:
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Gerechtigkeit, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn
  }
+ {
+  <i>Ich rede nach Menschenweise</i> vgl §roem-6-19, §1kor-9-8, §1kor-15-32, §gal-3-15
+ }
 #}
 #roem-3-7 {
  {
@@ -94424,6 +94427,9 @@ sa:
  }
  {
   <i>Schwachheit des Fleisches</i> vgl §roem-8-26
+ }
+ {
+  <i>Ich rede menschlich</i> vgl §roem-3-5, §1kor-9-8, §1kor-15-32, §gal-3-15
  }
  {
   TODO: <i>Fleisch</i> vs <i>Glieder</i>, s.a. <a href='http://bibel.renenyffenegger.ch/roem_7.html#v23'>Röm&nbsp;7,23</a>
@@ -97609,6 +97615,11 @@ sa:
   <i>Wer pflanzt einen Weinberg und ißt nicht dessen Frucht?</i> vgl §lk-13-6, §2koe-19-29
  }
 #}
+#1kor-9-8 {
+ {
+  <i>Rede ich … nach Menschenweise</i> vgl §1kor-15-32, §roem-3-5, §roem-6-19, §gal-3-15
+ }
+#}
 #1kor-9-9 {
  {
   <i>Du sollst dem Ochsen nicht das Maul verbinden, wenn er drischt</i>: <a class='kom' href='#I5mo-25-4'>5.&nbsp;Mo&nbsp;25,4</a>.
@@ -97783,6 +97794,9 @@ sa:
 #1kor-10-15 {
  {
   <i>Verständige</i>: <span class='gr'>φρονιμοις</span> (Strongs 5429): dieses Wort wird in §1kor-4-10 mit «klug» übersetzt.
+ }
+ {
+  <i>Ich rede also zu verständigen</i> vgl §2kor-6-13
  }
 #}
 #1kor-10-16 {
@@ -98718,6 +98732,9 @@ sa:
   → biblisches/Orte/Ephesus
  }
  {
+  <i>nach Menschweise reden</i> vgl §1kor-9-8, §roem-3-5, §roem-6-19, §gal-3-15
+ }
+ {
   Das Zitat stammt aus <a href='http://bibel.renenyffenegger.ch/jes_22.html#v13'>Jes&nbsp;22,13</a>.
  }
 #}
@@ -99646,7 +99663,7 @@ sa:
 #}
 #2kor-6-13 {
  {
-  <i>Ich rede zu euch als Kindern</i> vgl §+1kor-3-1
+  <i>Ich rede zu euch als Kindern</i> vgl §+1kor-3-1, §1kor-10-15
  }
  {
  → biblisches/Eigene-Uebersetzung/Konkordanz/Paulus-und-Johannes-Kinder
@@ -100740,6 +100757,9 @@ sa:
  }
 #}
 #gal-3-15 {
+ {
+  <i>Ich rede nach Menschenweise</i> vgl §roem-3-5, §roem-6-19, §1kor-9-8, §1kor-15-32
+ }
  {
    TODO: <pre>http://www.ambassador4christ.net/RightDivideronYoutube/02/2014-06-29-Galatians3v15-21-Law_does_not_void_God%27s_promises.txt
 Galatians 3:15-21  The law does not void God’s promises June 29, 2014
