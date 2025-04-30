@@ -87991,7 +87991,7 @@ sa:
 #}
 #apg-4-37 {
  {
-  Barnabas bringt hier den Aposteln das Geld des verkauften Ackers, in §apg-9-27 bringt er den Aposteln Paulus.
+  Barnabas bringt hier den Aposteln das Geld des verkauften Ackers, in §apg-9-27 bringt ein anderer Barnabas den Aposteln Paulus.
  }
 #}
 @}
@@ -89166,7 +89166,7 @@ sa:
 #}
 #apg-9-27 {
  {
-  Barnabas bringt hier den Aposteln Paulus, in §apg-4-37 bringt er den Aposteln das Geld seines verkauften Ackers.
+  Barnabas bringt hier den Aposteln Paulus, in §apg-4-37 bringt ein anderer Barnabas den Aposteln das Geld seines verkauften Ackers.
  }
  {
   <i>Den Herrn gesehen</i>: <a class='kom' href='#I1kor-9-1'>1.&nbsp;Kor&nbsp;9,1</a>.
@@ -89697,7 +89697,7 @@ sa:
   (<a href='http://bibel.renenyffenegger.ch/gal_1.html#v22'>Gal&nbsp;1,22</a>)
  }
  {
-  Beachte: hier beschlossen die Jünger, die Hilfeleistungen den Brüdern zu senden; über
+  TODO Beachte: hier beschlossen die Jünger, die Hilfeleistungen den Brüdern zu senden; über (§gal-1-22 ?)
  }
 #}
 #apg-11-30 {
@@ -94393,6 +94393,11 @@ sa:
   <span class='gt'><i>unserem Herrn</i> fehlt in NA</span>
  }
 #}
+#roem-6-12 {
+ {
+  <i>herrschen</i> hier <span class='gr'>βασιλεύω</span> (Strongs 936), in §Vroem-6-14 <span class='gr'>κυριεύω</span> (Strongs 2961).
+ }
+#}
 #roem-6-15 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1kor_6.html#v12'>1.&nbsp;Kor&nbsp;6,12</a>,
@@ -94429,7 +94434,7 @@ sa:
   <i>Glieder zur Sklaverei der Gerechtigkeit zur Heiligkeit</i> vgl §roem-12-1 (eure Leiber als ein → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Schlachtopfer[Schlachtopfer] darstellen).
  }
  {
-  <i>Schwachheit des Fleisches</i> vgl §roem-8-26
+  <i>Schwachheit des Fleisches</i> vgl §roem-8-26, §gal-4-13
  }
  {
   <i>Ich rede menschlich</i> vgl §roem-3-5, §1kor-9-8, §1kor-15-32, §gal-3-15
@@ -100544,7 +100549,7 @@ sa:
 #}
 #gal-1-22 {
  {
-  Siehe <a href='http://bibel.renenyffenegger.ch/apg_11.html#v29'>Apg&nbsp;11,29</a>.
+  TODO Siehe <a href='http://bibel.renenyffenegger.ch/apg_11.html#v29'>Apg&nbsp;11,29</a>.
  }
  {
   <i>Die Versammlungen von Judäa, die → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus[in Christo sind]</i> Vgl §1thes-2-14 («die in Christo Jesu sind»).
@@ -100966,8 +100971,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
  {
-  → biblisches/Personen/Paulus hat das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium in Schwachheit des Fleisches verkündigt, doch es ist Gottes Kraft: §roem-1-16,
-   vgl §1kor-2-3
+  → biblisches/Personen/Paulus hat das → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium in Schwachheit des Fleisches verkündigt, doch es ist Gottes Kraft: §roem-1-16, vgl §1kor-2-3
+ }
+ {
+  <i>Schwachheit des Fleisches</i> vgl §roem-6-19
  }
 #}
 #gal-4-14 {
@@ -106437,7 +106444,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Herr der Herren</i>: §+5mo-10-17.
  <br>
-  Sch2K übersetzt mit «Herr der Herrschenden».
+  Sch2K übersetzt mit «Herr der Herrschenden» (wohl weil <i>Herrschenden</i>, wie auch <i>der Könige</i> im Griechischen ein Verb (Partizip?) ist).
  }
  {
   TODO: Worauf bezieht sich 'welche'. Warum ist 'welche' feminin, aber 'zu seiner Zeit' maskulin?
