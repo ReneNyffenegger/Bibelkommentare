@@ -58795,6 +58795,9 @@
  {
   §jer-32-22
  }
+ {
+  Jeremia sprach <i>Amen</i>: §jer-28-6
+ }
 #}
 #jer-11-7 {
  {
@@ -59648,6 +59651,11 @@
 #jer-28-4 {
  {
    → biblisches/Personen/Jekonja-Jojakin
+ }
+#}
+#jer-28-6 {
+ {
+  <i>Jeremia sparch Amen</i> §jer-11-5
  }
 #}
 #jer-28-10 {
@@ -88378,6 +88386,9 @@ sa:
   <i>Gnade und Weisheit</i>: <span class='gr'>χαριν και σοφιαν</i>. Elberfelder übersetzt mit «Gunst und Gnade».
  }
  {
+  <i>rettete</i>: <span class='gr'>εξειλετο</span> (Strongs 1807). Dasselbe Verb wird in §Vapg-7-34 mit «herauszureißen» übersetzt. Vgl §apg-12-11, §apg-26-17 und §gal-1-4.
+ }
+ {
   TODO: <i>Gnade und Weisheit</i>: <a class='kom' href='#Iapg-6-3'>Apg&nbsp;6,3</a>.
   <br>TODO: In Elberfelder 'Gunst und Weisheit'.
  }
@@ -88507,6 +88518,11 @@ sa:
  }
  {
   <i>→ biblisches/Personen/Mose erzitterte</i>: vgl §hebr-12-21.
+ }
+#}
+#apg-7-34 {
+ {
+  <i>herauszureißen</i>: §Vapg-7-10
  }
 #}
 #apg-7-35 {
@@ -89117,9 +89133,9 @@ sa:
   Frage: Warum auch vor «die Kinder Israels»? Paulus ist doch → biblisches/Personen/Paulus/Apostel-der-Nationen[ein/der Apostel der Heiden].
  }
  {
-  Beachte: <i>Werkzeug</i> (<span class='gr'>σκεῦος</span>, Strongs 4632) ist dasselbe Wort wie für
-  'Gefäss' in <a href='http://bibel.renenyffenegger.ch/apg_10.html#v11'>Apg&nbsp;10,11</a>.
-  S.a. <a class='kom' href='#Imt-12-29'>Mt&nbsp;12,29</a>.
+  <i>Gefäss</i> (<span class='gr'>σκεῦος</span>, Strongs 4632) wird in Sch2K mit «Werkzeug» übersetzt. Vgl §apg-10-11.
+  <br>
+  S.a. §+mt-12-29.
  }
  {
   TODO: <i>auserwählt</i> (<span class='gr'>ἐκλογή</span>, Strongs 1589) ist im Griechischen eigentlich ein Nomen.
@@ -89172,7 +89188,7 @@ sa:
   <i>Den Herrn gesehen</i>: <a class='kom' href='#I1kor-9-1'>1.&nbsp;Kor&nbsp;9,1</a>.
  }
  {
-  TODO: In <a href='http://bibel.renenyffenegger.ch/gal_1.html#v19'>Gal&nbsp;1,19</a> sieht Paulus nur Petrus und Jakobus.
+  In Paulus' Reise, die in §gal-1-19 beschrieben wird, sieht Paulus nur Petrus und Jakobus.
  }
  {
   TODO: <i>freimütigkeit</i>: <a class='kom' href='#Iapg-2-29'>Apg&nbsp;2,29</a>.
@@ -89415,7 +89431,7 @@ sa:
   (<a href='http://bibel.renenyffenegger.ch/lk_24.html#v47'>Lk&nbsp;24,47</a>).
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen#kein-ansehen-der-person[dass Gott die Person nicht ansieht]
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen#kein-ansehen-der-person[dass Gott die Person nicht ansieht], vgl §apg-15-9
  }
  {
   <i>Petrus tat seinen Mund auf</i> vgl §apg-8-35, §mt-5-2.
@@ -89513,6 +89529,8 @@ sa:
 #apg-10-45 {
  {
   <i>Gabe des Heiligen Geistes</i> §apg-2-38
+ <br>
+  <i>…auf die Nationen ausgegossen</i> vgl §apg-11-18
  }
 #}
 #apg-10-46 {
@@ -89553,6 +89571,11 @@ sa:
 #apg-11-2 {
  {
   <i>stritten</i>: <span class='gr'>διεκρινοντο</span> (Strongs 1252). Dieses Wort wird auch mit «zweifeln» (z. B. §Vapg-11-12) oder «beurteilen» (z. B. §mt-16-3) übersetzt.
+ }
+#}
+#apg-11-3 {
+ {
+  <i>…und hast mit ihnen gegessen</i> vgl §gal-2-12
  }
 #}
 #apg-11-5 {
@@ -89624,6 +89647,8 @@ sa:
   Vgl §apg-17-30-31
  }
  {
+  <i>Den Nationen die Buße gegeben</i> vgl §apg-10-45
+  <br>
   Vgl <i>Buße zum Leben</i> mit «Buße zu Gott» (§apg-20-21) und «Buße zur Rettung» (§2kor-7-10).
  }
 #}
@@ -89795,6 +89820,9 @@ sa:
 #apg-12-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/gesandt
+ }
+ {
+  <i>gerettet</i>: <span class='gr'>εξειλετο</span> (Strongs 1807), vgl §apg-7-10
  }
 #}
 #apg-12-12 {
@@ -90510,6 +90538,8 @@ sa:
  {
   Gehörte <i>Petrus</i> zu jenen, die falsch lehrten, und deswegen Paulus ihm ins Angesicht widerstand? (<a href='http://bibel.renenyffenegger.ch/gal_2.html#v11'>Gal&nbsp;2,11</a>)
   In diesem Fall wären jene, die von Judäa kamen, jene 'etlichen von Jakobus' (<a href='http://bibel.renenyffenegger.ch/gal_2.html#v12'>Gal&nbsp;2,12</a>).
+ <br>
+  Möglicherweise sind die «etlichen» jene, die die Galater verwirrten und das Evangelium des Christus verkehren wollten, §gal-1-7
  }
  {
   <i>Gebrauch Moses</i> vgl <a href='http://bibel.renenyffenegger.ch/apg_6.html#v14'>Apg&nbsp;6,14</a>.
@@ -90552,6 +90582,11 @@ sa:
 #apg-15-8 {
  {
   <i>Gott, der Herzenskenner</i> vgl §lk-16-15, §ps-44-22
+ }
+#}
+#apg-15-9 {
+ {
+  <i>machte keinen Unterschied…</i> vgl §apg-10-34
  }
 #}
 #apg-15-12 {
@@ -92836,11 +92871,14 @@ sa:
 #}
 #apg-26-17 {
  {
-  TODO: <i>erst Juden, dann Heiden</i>: §+apg-13-46.
-  <br>Vgl §+apg-13-47.
+  <i>herausnehmen</i>: <span class='gr'></span>ἐξαιρέω</span>, s. §apg-7-10
  }
  {
   <i>zu den Nationen senden</i>: §apg-22-21, §apg-28-28
+ }
+ {
+  TODO: <i>erst Juden, dann Heiden</i>: §+apg-13-46.
+  <br>Vgl §+apg-13-47.
  }
 #}
 #apg-26-18 {
@@ -100387,9 +100425,9 @@ sa:
   <i>böse Welt</i> vgl §eph-5-16
  }
  {
-  <i>herausnehme</i>: <span class='gr'>ἐξαιρέω</span> (Strongs 1807), in Sch2K übersezt mit «herausrette», eine Elberfelderübersetung mit «herausreisse».
+  <i>herausnehme</i>: <span class='gr'>ἐξαιρέω</span> (Strongs 1807), in Sch2K übersezt mit «herausrette», eine Elberfelderübersetung mit «herausreisse». Vgl §apg-7-10.
  <br>
-  Vgl mit «in der Welt, nicht von der Welt» §joh-17-11-ff
+  Vgl auch mit «in der Welt, nicht von der Welt» §joh-17-11-ff
  }
  {
   <i>Zeitalter</i> ist im Griechischen dasselbe Wort, das im nächsten Vers mit «Ewigkeit» übersetzt wird.
@@ -100411,6 +100449,8 @@ sa:
 #gal-1-7 {
  {
   Beachte: es sind <i>etliche</i>.
+<br>
+ Vgl §apg-15-1
  }
 #}
 #gal-1-8 {
@@ -100523,14 +100563,23 @@ sa:
   → biblisches/Personen/Jakobus#jakobus-bruder-des-herrn[Jakobus, der Bruder des Herrn]
  }
  {
-  TODO: Eine alternative Übersetzung dieses Verses sei angeblich: <i>Other than the apostles I saw no one except James, the Lord’s brother</i>. Diese Alternative würde das Problem lösen, warum
-  → biblisches/Personen/Jakobus#jakobus-bruder-des-herrn[Jakobus, der Bruder des Herrn] in den Evangelien nie zu den → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12[12 Jüngern] gerechnet wird.
+  Fr. John Bligh gibt drei mögliche Übersetzungen dieses Verses an: <ul>
+    <li>I saw none of the other apostels except James (Diese Variante würde Jakobus zu den Aposteln zählen)
+    <li>I saw none of the other apostles, but only James (<span class='gr'>ει μη</span> verliert in dieser Variante die Auschliesslichkeit)
+    <li>I saw none of the other apostles – unless you count James as an apostel (paraphrasiert).
+  </ul>
+  Bligh verwirft die beiden ersten Varienten.
+  <br>
+   Gemäss L. Paul Trudinger, A Note on Galatians i 19, könne der Vers auch so übersetzt werden: <i>Ausser den Aposteln sah ich niemanden mit Ausnahme von Jakobus, dem Bruder des Herrn</i>. (Diese Alternative würde das Problem lösen, warum
+  → biblisches/Personen/Jakobus#jakobus-bruder-des-herrn[Jakobus, der Bruder des Herrn] in den Evangelien nie zu den → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12[12 Jüngern] gerechnet wird).
+  <br>
+  Siehe zur Thematik auch: J. B. Lightfoot: St Paul's Epistle to the Galatians (London 1890)
+ }
+ {
+  Wann hat Paulus welche Apostel kennengelernt? Vgl §+apg-9-27.
  }
  {
   TODO Beachte: Jakobus, der Bruder des Herrn, war kein Apostel.
- }
- {
-  TODO: Wann hat Paulus welche Apostel kennengelernt: §+apg-9-27.
  }
 #}
 #gal-1-20 {
@@ -100663,12 +100712,18 @@ sa:
 #}
 #gal-2-12 {
  {
+  <i>Mit denen aus den Nationen essen</i> vgl §apg-11-3
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung
  }
 #}
 #gal-2-14 {
  {
   <i>Wahrheit des Evangeliums</i>: §+Vgal-2-5
+ }
+ {
+  <i>nicht den geraden Weg nach der Wahrheit des Evangeliums wandelten</i>: Sch2K übersetzt mit «nicht richtig wandelten», KJV mit «walked not uprightly». Das Verb ist <span class='gr'>ορθοποδουσιν</span> (Strongs 3716, 1x).
  }
  {
   TODO: Kephas oder Petrus? Vgl §+gal-1-18.
