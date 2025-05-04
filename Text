@@ -89112,8 +89112,11 @@ sa:
 #apg-9-15 {
  {
   → biblisches/Personen/Paulus: den Namen des Herrn vor Heiden, Könige und die Kinder Israels zu tragen. Er muss leiden um seines Namens willen.
-  Vgl <a href='http://bibel.renenyffenegger.ch/gal_1.html#v16'>Gal&nbsp;1,16</a>: Den Herrn unter den Heiden durch das Evangleium zu verkünden.
+ <br>
+  Vgl §gal-1-16: Den Herrn unter den Heiden durch das Evangelium zu verkünden.
+<br>
   Vgl auch <a class='kom' href='#Igal-2-7'>Gal&nbsp;2,7</a>.
+<br>
   Er nennt sich auch <i>Apostel der Heiden</i> (<a href='http://bibel.renenyffenegger.ch/roem_11.html#v13'>Röm&nbsp;11,13</a>,
     <a href='http://bibel.renenyffenegger.ch/2tim_1.html#v11'>2.&nbsp;Tim&nbsp;1,11</a>)
   <br>Vgl auch <a class='kom' href='#Igal-1-16'>Gal&nbsp;1,16</a>.
@@ -89133,12 +89136,12 @@ sa:
   Frage: Warum auch vor «die Kinder Israels»? Paulus ist doch → biblisches/Personen/Paulus/Apostel-der-Nationen[ein/der Apostel der Heiden].
  }
  {
-  <i>Gefäss</i> (<span class='gr'>σκεῦος</span>, Strongs 4632) wird in Sch2K mit «Werkzeug» übersetzt. Vgl §apg-10-11.
+  <i>Gefäß</i> (<span class='gr'>σκεῦος</span>, Strongs 4632) wird in Sch2K mit «Werkzeug» übersetzt. Vgl §apg-10-11.
   <br>
   S.a. §+mt-12-29.
  }
  {
-  TODO: <i>auserwählt</i> (<span class='gr'>ἐκλογή</span>, Strongs 1589) ist im Griechischen eigentlich ein Nomen.
+  <i>auserwählt</i> (<span class='gr'>ἐκλογή</span>, Strongs 1589) ist im Griechischen eigentlich ein Nomen, also etwa: «Ein Gefäß der Auserwählung»
  }
 #}
 #apg-9-17 {
@@ -100443,6 +100446,9 @@ sa:
   <i>anderes → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium</i>: §+2kor-11-4.
  }
  {
+  <i>In der Gnade Christi berufen sein</i> vgl §Vgal-1-15
+ }
+ {
   <i>ein anderes Evangelium, welches kein anderes ist</i> hat im Grundtext zuerst ἕτερος und dann ἄλλος, vgl → biblisches/Grundtext/Wörter/G243-allos_G2087-heteros.
  }
 #}
@@ -100500,7 +100506,7 @@ sa:
   <i>Gemeinde Gottes</i>: <a class='kom' href='#Iapg-20-28'>Apg&nbsp;20,28</a>.
  }
  {
-  → biblisches/Personen/Paulus/index#verfolger-der-gemeinde
+  → biblisches/Personen/Paulus#verfolger-der-gemeinde, vgl §Vgal-1-23
  }
 #}
 #gal-1-14 {
@@ -100517,6 +100523,9 @@ sa:
 #gal-1-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Absonderung#absonderung-paulus[abgesondert] vgl. §+roem-1-1.
+ }
+ {
+  <i>durch seine Gnade berufen</i> vgl §Vgal-1-6
  }
  {
   <i>Von Mutterleib an berufen</i>: vgl §+jes-49-1.
@@ -100608,6 +100617,9 @@ sa:
  }
 #}
 #gal-1-23 {
+ {
+  → biblisches/Personen/Paulus#verfolger-der-gemeinde, vgl §Vgal-1-13
+ }
  {
   TODO <i>Priesen Gott um meinetwillen</i>: vgl <a class='kom' href='#Ies-49-1'>Es&nbsp;49,1</a>.
  }
@@ -103151,7 +103163,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-3-6 {
  {
-  → biblisches/Personen/Paulus/index#verfolger-der-gemeinde
+  → biblisches/Personen/Paulus#verfolger-der-gemeinde
  }
  {
   <i>Eifer</i> vgl §+apg-22-3
