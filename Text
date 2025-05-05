@@ -3703,12 +3703,14 @@
 #}
 #1mo-17-10 {
  {
+  Die Israeliten, die in der Wüste geboren wurden, wurden erst in Kanaan, am Hügel Araloth, beschnitten, §jos-5-2-ff
+ }
+ {
   Abraham empfing «das Zeichen der Beschneidung als Siegel der Gerechtigkeit des Glaubens, den er schon im unbeschnittenen Zustand hatte, damit er ein Vater
   aller unbeschnittenen Gläubigen sei, damit auch ihnen die Gerechtigkeit angerechnet werde» (<a href='http://bibel.renenyffenegger.ch/roem_4.html#v11'>Röm&nbsp;4,11</a>).
  }
  {
-  Isaak wurde beschnitten (<a href='http://bibel.renenyffenegger.ch/1mo_21.html#v4'>1.&nbsp;Mo&nbsp;21,4</a>).
-  TODO: Wurde Jakob beschnitten?
+  Isaak wurde beschnitten (§1mo-21-4).  TODO: Wurde Jakob beschnitten?
  }
 #}
 #1mo-17-12 {
@@ -3716,9 +3718,10 @@
   <i>Geld</i>: <span class='hebr'>כֶּ֙סֶף֙</span> (Strongs 3701), dasselbe Wort wie für 'Silber'.
  }
  {
-  Vgl die <i>Beschneidung am achten Tag</i> mit §3mo-12-3 und §lk-1-59 (Beschneidung von → biblisches/Personen/Johannes/Täufer[Johannes dem Täufer]),
-  §lk-2-21 (Beschneidung des Herrn)
-  §apg-7-8 (→ biblisches/Personen/Isaak), §phil-3-5 (→ biblisches/Personen/Paulus).
+  Vgl die <i>Beschneidung am achten Tag</i> mit §3mo-12-3.
+  Siehe auch die Beschneidung von → biblisches/Personen/Isaak in §1mo-21-4 und §apg-7-8, → biblisches/Personen/Paulus in §phil-3-5, → biblisches/Personen/Johannes/Täufer[Johannes dem Täufer] in §lk-1-59 und des Herrn in §lk-2-21.
+ <br>
+  Abraham und Ismael konnten wegen ihres Alters nicht am achten Tag beschnitten werden: §V1mo-17-26.
   <br>
   S.a. §2mo-22-29.
  }
@@ -4147,7 +4150,7 @@
 #}
 #1mo-21-4 {
  {
-  Beschneidung: siehe <a href='http://bibel.renenyffenegger.ch/1mo_17.html#v10'>1.&nbsp;Mo&nbsp;17,10</a>.
+  Beschneidung: siehe §1mo-17-10. Am achten Tag: §1mo-17-12.j
  }
 #}
 #1mo-21-5 {
@@ -14963,7 +14966,7 @@
 @3. Mose 12 {
 #3mo-12-3 {
  {
-  Die <i>Beschneidung am achten Tag</i> geht auf den Bund mit Abraham zurück: <a class='kom' href='#I1mo-17-12'>1.&nbsp;Mo&nbsp;17,12</a>.
+  Die <i>Beschneidung am achten Tag</i> geht auf den Bund mit Abraham zurück: §+1mo-17-12.
  }
 #}
 #3mo-12-4 {
@@ -22075,7 +22078,7 @@
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten[Verhärtet euren Nacken] nicht mehr</i> vgl §neh-9-16-17, §5mo-31-27
  }
  {
-   <i>Beschneidung der Vorhaut des Herzens</i> vgl §5mo-30-6, §roem-2-29
+   <i>Beschneidung der Vorhaut des Herzens</i> vgl §5mo-30-6, §jer-4-4, §jer-9-25, §hes-44-7, §roem-2-29
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
@@ -24373,6 +24376,11 @@
  {
   <i>König(e) der Kanaaniter</i>: Hier Mehrzahl, in §ri-4-2 Einzahl und in
   <a href='http://bibel.renenyffenegger.ch/ri_5.html#v19'>Ri&nbsp;5,19</a> wieder Mehrzahl.
+ }
+#}
+#jos-5-2 {
+ {
+  <i>Beschneidung</i>: §1mo-17-10-ff
  }
 #}
 #jos-5-3 {
@@ -58325,6 +58333,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
  }
+ {
+  <i>Tut hinweg die Vorhäute eurer Herzen</i> vgl §5mo-10-16, §jer-9-25
+ }
 #}
 #jer-4-7 {
  {
@@ -58670,6 +58681,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
+ }
+ {
+  <i>Das ganze Haus Israel ist unbeschnittenen Herzens</i>, vgl §5mo-10-16, §jer-4-4
  }
 #}
 @}
@@ -88371,10 +88385,9 @@ sa:
   <i>Patriarch</i>: <a class='kom' href='#Iapg-2-29'>Apg&nbsp;2,29</a>.
  }
  {
-  <i>Beschneidung am achten Tag</i>: <a class='kom' href='#I1mo-17-12'>1.&nbsp;Mo&nbsp;17,12</a>.
+  <i>Beschneidung am achten Tag</i>: §+1mo-17-12.
  }
  {
-  
   <i>und also</i>: <span class='gr'>καὶ οὕτως</span> vgl §roem-11-26
  }
 #}
@@ -90544,7 +90557,9 @@ sa:
   Möglicherweise sind die «etlichen» jene, die die Galater verwirrten und das Evangelium des Christus verkehren wollten, §gal-1-7
  }
  {
-  <i>Gebrauch Moses</i> vgl <a href='http://bibel.renenyffenegger.ch/apg_6.html#v14'>Apg&nbsp;6,14</a>.
+  <i>Beschnitten nach der Weise Moses</i>: Beachte, daß die Beschneidung nicht auf Mose, sondern auf Abraham zurückgeht, §1mo-17-10
+ <br>
+  <i>Weise Moses</i>: Elberfelder übersetzt mit «Gebrauch Moses», KJV mit «manner of Moses». vgl §apg-6-14.
  }
 #}
 #apg-15-2 {
@@ -103157,7 +103172,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl <a class='kom' href='#Imt-5-20'>Mt&nbsp;5,20</a>.
  }
  {
-  <i>Beschneidung am achten Tag</i>: <a class='kom' href='#I1mo-17-12'>1.&nbsp;Mo&nbsp;17,12</a>.
+  <i>Beschneidung am achten Tag</i>: §+1mo-17-12.
  }
 #}
 #phil-3-6 {
