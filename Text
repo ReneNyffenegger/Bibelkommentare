@@ -70052,7 +70052,7 @@
 #}
 #mt-11-5 {
  {
-  <i>Aussätzige werden gereinigt</i> und <i>Tote werden auferweckt</i> §mt-10-8
+  <i>Aussätzige werden gereinigt</i> und <i>Tote werden auferweckt</i> §mt-10-8, vgl §mt-15-31
  }
  {
   <i>Der Herr macht Blinde sehend</i>: <a class='kom' href='#Ips-146-8'>Ps&nbsp;146,8</a>.
@@ -71209,6 +71209,11 @@
   <i>ausrotten</i> (<span class='gr'>ἐκριζόω</span>, Strongs 1610, eigtl «entwurzeln»): vgl §+mt-13-29, §joh-15-6
  }
 #}
+#mt-15-14 {
+ {
+  §lk-6-30
+ }
+#}
 #mt-15-15 {
  {
   <i>Deute uns dieses → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse[Gleichnis]</i>: §mt-13-36, §mk-7-17
@@ -71247,7 +71252,7 @@
 #}
 #mt-15-23 {
  {
-  <i>Abfertigen</i> (<span class='gr'>ἀπολύω</span>, Strongs 630), dasselbe Wort wie zB für 'entlassen in <a href='http://bibel.renenyffenegger.ch/mt_15.html#v32'>Vers 32</a>.
+  <i>Enlaß</i> (<span class='gr'>ἀπολύω</span>, Strongs 630) wird in Sch2K mit «fertige sei ab» übresetzt. Dasselbe Verb kommt auch in §Vmt-15-32 vor.
  }
 #}
 #mt-15-24 {
@@ -71283,6 +71288,12 @@
  }
 #}
 #mt-15-31 {
+ {
+  Vgl §mt-11-5
+ }
+ {
+  <i>sie verherrlichten den Gott Israels</i>: damit ist wohl Jesus selbst gemeint!
+ }
  {
    TODO <i>Menge</i>: im Griechischen dasselbe Wort wie für <i>Volksmenge</i> in <a href='http://bibel.renenyffenegger.ch/mt_9.html#v33'>Mt&nbsp;9,33</a>?
  }
@@ -79083,6 +79094,11 @@ sa:
 #lk-6-27 {
  {
   §mt-5-44
+ }
+#}
+#lk-6-30 {
+ {
+  §mt-15-12
  }
 #}
 #lk-6-35 {
