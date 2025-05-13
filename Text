@@ -96717,7 +96717,9 @@ sa:
    → biblisches/Personen/Timotheus soll bei seiner Ankunft ohne Furcht sein: §1kor-16-10
  }
  {
-  <i>Ich war bei uch in Schwachheit</i> vgl §gal-4-13, §1kor-15-43, §2kor-11-30
+  <i>Ich war bei euch in Schwachheit</i> vgl §gal-4-13, §1kor-15-43, §2kor-11-30
+ <br>
+ <i>… und in Furcht und in vielem Zittern</i> vgl §1thes-2-7
  }
 #}
 #1kor-2-4 {
@@ -97156,10 +97158,10 @@ sa:
 @1. Korinther 5 {
 #1kor-5-1 {
  {
-  §1kor-11-18
+  <i>hört man</i> §1kor-11-18, vgl §+1kor-1-11.
  }
  {
-   TODO: Vgl <a class='kom' href='#I1kor-1-11'>1.&nbsp;Kor&nbsp;1,11</a>.
+  <i>daß Hurererei unter euch sei</i> vgl §1kor-6-18, §1kor-7-2, §2kor-12-21, §1thes-4-3
  }
 #}
 #1kor-5-2 {
@@ -97417,8 +97419,9 @@ sa:
 #}
 #1kor-7-2 {
  {
-  <i>Um Unzucht zu vermeiden</i>: <a class='kom' href='#I1kor-6-18'>1.&nbsp;Kor&nbsp;6,18</a>. TODO Vgl auch Abschnitt
-  <a href='http://bibel.renenyffenegger.ch/1thes_4.html#v3'>1.&nbsp;Thes&nbsp;4,3-8</a>.
+  <i>Aber um der Hurerei willen… </i>: §1kor-5-1, §+1kor-6-18.
+ <br>
+  Vgl auch Abschnitt §1thes-4-3-8.
  }
 #}
 #1kor-7-3 {
@@ -97867,7 +97870,7 @@ sa:
 #}
 #1kor-10-8 {
  {
-  §+4mo-25-9. Vgl §hebr-8-9 und §jud-1-5. Vgl auch §+4mo-25-7
+  §+4mo-25-9. Vgl §hebr-8-9 und §jud-1-5. Vgl auch §+4mo-25-7, §2kor-12-21
  }
 #}
 #1kor-10-10 {
@@ -100172,12 +100175,10 @@ sa:
   → biblisches/Orte/Macedonien
  }
  {
-  <i>Zur Last fallen</i>: vgl <a href='http://bibel.renenyffenegger.ch/2kor_12.html#v13'>2.&nbsp;Kor&nbsp;12,13</a>,
-  <a href='http://bibel.renenyffenegger.ch/1thes_2.html#v9'>1.&nbsp;Thes&nbsp;2,9</a>,
-  <a href='http://bibel.renenyffenegger.ch/2thes_3.html#v8'>2.&nbsp;Thes&nbsp;3,8</a>)
+  <i>Zur Last fallen</i>: vgl §2kor-12-13, §1thes-2-9, §2thes-3-8.
  }
  {
-   Paulus arbeitete als Zeltmacher in Korinth <a href='http://bibel.renenyffenegger.ch/apg_18.html#v3'>Apg&nbsp;18,3</a>.
+  Paulus arbeitete als Zeltmacher in Korinth <a href='http://bibel.renenyffenegger.ch/apg_18.html#v3'>Apg&nbsp;18,3</a>.
  }
  {
   Vgl die helfenden <i>Brüder aus Mazedonien</i> mit den helfenden Philipppern, §+phil-4-16. → biblisches/Orte/Philippi liegt in
@@ -100403,6 +100404,9 @@ sa:
 #2kor-12-21 {
  {
   <i>demütige</i>: <span class='gr'>ταπεινωσει</span>, Strongs 5013, ist dasselbe Verb das in §2kor-11-7 mit «erniedrigen» übersetzt wird.
+ }
+ {
+  <i>Buße über … Hurerei … getan</i> vgl §+1kor-5-1, §1kor-10-8
  }
 #}
 @}
@@ -104442,13 +104446,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Dem lebendigen Gott dienen</i>: <a class='kom' href='#Iroem-1-9'>Röm&nbsp;1,9</a>, <a href='http://bibel.renenyffenegger.ch/hebr_9.html#v14'>Hebr&nbsp;9,14</a>.
  }
  {
+  <i>Eingang</i>: §1thes-2-1
+ }
+ {
   TODO: Vgl <a class='kom' href='#Iapg-17-18'>Apg&nbsp;17,18</a>.
  }
 #}
 #1thes-1-10 {
  {
   <i>Vor dem Zorn erretten</i>: Vgl §+roem-5-9, §1thes-2-16 (Zorn kommt über die Juden) und §1thes-5-9
-
  }
  {
   → biblisches/Bücher/Paulus/Thessalonicher#thes-wiederkunft[Erwähnung der Wiederkunft in den Thessalonicherbriefen]
@@ -104461,10 +104467,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
  }
- {
-  TODO: Wenn Jesus aus dem Himmel kommt, kommt er im Zorn, aber für die Gläubigen so, dass er sie
-  vom zukünftigen Zorn erettet.
- }
 #}
 @}
 @1. Thessaloniker 2 {
@@ -104474,6 +104476,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>vergeblich</i> vgl §1thes-3-5, §+gal-4-11
+ }
+ {
+  <i>Eingang</i> §1thes-1-9
  }
 #}
 #1thes-2-2 {
@@ -104525,6 +104530,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   §V1thes-2-17 «da wir … von euch verwaist waren…»
  }
  {
+  <i>wir sind in eurer Mitte gewesen, wie …</i> vgl §1kor-2-3
+ }
+ {
   TODO: εγενημεν νηπιοι anstelle von ηπιοι («seria continua»). The Greek word translated “gentle” is ἤπιοι, but some Greek manuscripts use the word νήπιοι, which can be translated as <i>infants</i> or
   <i>young children</i>.
  }
@@ -104539,15 +104547,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
  }
  {
-   <i>Nacht und Tag arbeitend, um niemand von euch beschwerlich zu fallen</i> Vgl §2thes-3-8
-   <br>Vgl auch §1kor-4-12, §1kor-9-18, §+2kor-11-8/§+2kor-11-9
+  <i>Nacht und Tag arbeitend, um niemand von euch beschwerlich zu fallen</i>: §2thes-3-8, §1kor-4-12, §1kor-9-18, §+2kor-11-8-9
+ <br>
+  §apg-20-31,
  }
  {
-  <i>Nacht und Tag arbeitend</i> §apg-20-31, §2thes-3-8
- }
- {
-  Beachte: es ist offenbar möglich, Tag und Nacht zu arbeiten <i>und</i> das Evangelium zu verkündigen. TODO: Möglicherweise
-  unterstützte die Arbeit sie sogar bei der Verkündigung (beachte das Wort 'dabei').
+  Beachte: es ist offenbar möglich, Tag und Nacht zu arbeiten <i>und</i> das Evangelium zu verkündigen.
+ <br> Möglicherweise unterstützte die Arbeit sie sogar bei der Verkündigung (Sch2K hat sogar das Wort «dabei»).
  }
  {
   §+apg-17-2
@@ -104855,11 +104861,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-4-3 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1kor_6.html#v18'>1.&nbsp;Kor&nbsp;6,18</a>: 'Flieht die Unzucht'.
-  (Offenbar ist Unzucht Sünde am eigenen Leib und der Leib ist ein Tempel des Heiligen Geistes).
+  TODO: Vgl §1kor-6-18: 'Flieht die Unzucht'.  (Offenbar ist Unzucht Sünde am eigenen Leib und der Leib ist ein Tempel des Heiligen Geistes).
  }
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott
+  Dies ist der → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott, …daß ihr euch der Hurereri enthaltet, vgl §1kor-5-1, §1kor-6-18, §1kor-7-2
  }
 #}
 #1thes-4-4 {
@@ -104951,7 +104956,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Bücher/Paulus/Thessalonicher#thes-wiederkunft[Erwähnung der Wiederkunft in den Thessalonicherbriefen]
  }
  {
-  Beachte die Ähnlichkeit der hier geschilderten Ereignisse mit §mt-24-30-ff (und dass Paulus diese Dinge
+  Beachte die Ähnlichkeit der hier geschilderten Ereignisse mit §mt-24-30-ff (und dass Paulus diese Dinge im
   «→ biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]» sagt):<ul>
     <li>Das Kommen des Herrn
     <li>Erzengels
