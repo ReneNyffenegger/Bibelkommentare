@@ -68325,7 +68325,7 @@
     <li><a href='http://bibel.renenyffenegger.ch/mt_5.html#v1'>Mt&nbsp;5,1</a>: Auf einen hohen Berg
     <li><a href='http://bibel.renenyffenegger.ch/mt_14.html#v23'>Mt&nbsp;14,23</a>: auf einen Berg, um zu beten.
     <li><a href='http://bibel.renenyffenegger.ch/mt_15.html#v29'>Mt&nbsp;15,29</a>: auf einen Berg, wo er Lahme, Blinde etc heilte
-    <li><a href='http://bibel.renenyffenegger.ch/mt_17.html#v1'>Mt&nbsp;17,1</a>: auf einen hohen Berg mit Petrus, Jakobus und Johannes
+    <li>§mt-17-1: auf einen hohen Berg mit Petrus, Jakobus und Johannes
     <li><a href='http://bibel.renenyffenegger.ch/mt_28.html#v16'>Mt&nbsp;28,16</a>: die 11 Jünger auf den Berg, wohin Jesus sie bestellt hat.
   </ul>
   TODO: Vgl auch <a href='http://bibel.renenyffenegger.ch/mt_5.html#v14'>Mt&nbsp;5,14</a>, <a href='http://bibel.renenyffenegger.ch/mt_17.html#v20'>Mt&nbsp;17,20</a>,
@@ -70288,7 +70288,7 @@
   §mk-2-24, §lk-6-2
  }
  {
-  <i>was am Sabbat zu tun nicht erlaubt ist</i> vgl §Vmt-12-10
+  <i>was am Sabbat zu tun nicht erlaubt ist</i> vgl §Vmt-12-10, §joh-5-10
  }
 #}
 #mt-12-3 {
@@ -70828,6 +70828,9 @@
  }
  {
   Vgl den <i>verborgenen Sauerteig</i> mit dem <i>verborgenen Schatz</i> in §Vmt-13-44. Das Reich der Himmel wird mit beidem verglichen.
+ }
+ {
+  Vgl §1kor-5-6, §gal-5-9
  }
 #}
 #mt-13-35 {
@@ -71371,6 +71374,9 @@
  {
   Beachte: offenbar gab es überhaupt keinen Anlass, nach einem Zeichen zu fragen: Jesus ging einfach davon.
  }
+ {
+  <i>Kein Zeichen soll gegeben werden</i>: §+Vmt-16-20
+ }
 #}
 #mt-16-6 {
  {
@@ -71468,12 +71474,17 @@
   Vgl mit den Gesetzgelehrten, die die «Schlüssel der Erkenntnis» weggenommen haben, §lk-11-52.
  }
  {
+  <i>was irgend du auf der Erde binden wirst…</i> vgl §mt-18-18
+ }
+ {
   Vgl §joh-20-23
  }
 #}
 #mt-16-20 {
  {
-  <i>niemandem sagen, dass Er der Christus ist</i> §mk-8-30, §lk-9-20-21, vgl §mt-8-4
+  <i>niemandem sagen, dass Er der Christus ist</i> §mk-8-30, §lk-9-20-21, vgl §mt-8-4, §mt-17-9
+ <br>
+  Möglicherweise verbietet der Herr dies, weil den Pharisäern und Sadduzäern kein Zeichen ausser dem des Jona gegeben werden soll, §Vmt-16-4
  }
  {
   <i>Jesus der Christus</i>:
@@ -71563,7 +71574,7 @@
   → biblisches/Personen/Jakobus
  }
  {
-  <i>Berg</i>: <a class='kom' href='#Imt-4-8'>Mt&nbsp;4,8</a>.
+  <i>Auf einen hohen Berg führen</i>: §+mt-4-8.
   <br>
   Der Berg wird in §+2petr-1-18 → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/heilig[heiliger Berg] genannt.
  }
@@ -71610,7 +71621,9 @@
 #}
 #mt-17-9 {
  {
-  §mk-9-9, §lk-9-37
+ <i>Sag niemand…</i> §mt-16-20
+ <br>
+  Vgl §mk-9-9, §lk-9-37
  }
  {
   TODO: Dieser Abschnitt fehlt in <a class='kom' href='#Ilk-9-37'>Lk&nbsp;9,37</a>.
@@ -71807,12 +71820,6 @@
   Vgl §joh-6-39, §2petr-3-9
  }
 #}
-#mt-18-15 {
- {
-  TODO: Im Griechischen kommt <i>unter vier Augen</i> offenbar nicht vor. Entsprechend übersetzt Elberfelder
-  «überführe ihn zwischen dir und ihm allein», KJV mit «go and tell him his fault between thee and him alone»
- }
-#}
 #mt-18-16 {
  {
   <i>aus zweier oder dreier Zeugen Mund</i> vgl §+5mo-17-6, §mt-26-60
@@ -71821,6 +71828,11 @@
 #mt-18-17 {
  {
   <i>Versammlung</i> <span class='gr'>ἐκκλησία</span> (Strongs 1577): §+mt-16-18.
+ }
+#}
+#mt-18-18 {
+ {
+  <i>was irgend du auf der Erde binden wirst…</i> vgl §mt-16-19
  }
 #}
 #mt-18-19 {
@@ -83854,6 +83866,11 @@ sa:
 #joh-5-9 {
  {
   Die Juden zürnen, weil Er einen Menschen am Sabbat gesund gemacht hat, §joh-7-23
+ }
+#}
+#joh-5-10 {
+ {
+  Vgl §mt-12-2
  }
 #}
 #joh-5-12 {
@@ -97183,6 +97200,9 @@ sa:
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#wisst-ihr-nicht
  }
+ {
+  Vgl §mt-13-33, §gal-5-9
+ }
 #}
 #1kor-5-7 {
  {
@@ -101197,6 +101217,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #gal-5-7 {
  {
   TODO: <i>Der Wahrheit nicht gehorchen</i> vgl §+gal-3-1.
+ }
+#}
+#gal-5-9 {
+ {
+  Vgl §mt-13-33, §1kor-5-6
  }
 #}
 #gal-5-10 {
