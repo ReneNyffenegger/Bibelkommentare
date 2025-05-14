@@ -4818,10 +4818,9 @@
    TODO: <i>Höfe</i> (<span class='hebr'>חָצֵר</span>, Strongs 2691).
  }
  {
-  TODO: <i>Zeltlager</i> (<span class='hebr'>טִירָה</span>, Strongs 2918) in KJV mit 'Castles' übersetzt.
-  <br>S.a: <a class='kom' href='#Ips-69-26'>Ps&nbsp;69,26</a> (wo es mit 'Wohnstätte' übersetzt wird).
-  <br>S.a: <a class='kom' href='#Ihl-8-9'>Hl&nbsp;8,9</a> (wo es mit 'Zinne' übersetzt wird).
-  <br>S.a: <a class='kom' href='#Ihes-46-23'>Hes&nbsp;46,23</a> (wo es mit '[Mauer-]reihe' übersetzt wird).
+  <i>Zeltlager</i> (<span class='hebr'>טִירָה</span>, Strongs 2918) wird in KJV mit «Castles» übersetzt.
+  Das Wort wrid in §+ps-69-26 «Wohnung», §+hl-8-9 «Zinne», in §+hes-46-23 «[Mauer-]reihe» übersetzt.
+
  }
 #}
 #1mo-25-17 {
@@ -47587,7 +47586,7 @@
 #}
 #ps-50-14 {
  {
-   <i>Gott Dank opfern</i>: Vgl Vers §Vps-50-23.
+   <i>Gott Lob opfern</i>: Sch2K übersetzt mit «Dank opfern». Vgl §Vps-50-23.
    <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/ps_100.html#v1'>Ps&nbsp;100,1</a> (Ein Psalm zum Dankopfer),
        <a href='http://bibel.renenyffenegger.ch/ps_56.html#v13'>Ps&nbsp;56,13</a>, <a href='http://bibel.renenyffenegger.ch/ps_69.html#v31'>Ps&nbsp;69,31</a>,
        <a href='http://bibel.renenyffenegger.ch/ps_105.html#v1'>Ps&nbsp;105,1</a>, <a href='http://bibel.renenyffenegger.ch/ps_106.html#v1'>Ps&nbsp;106,1</a>,
@@ -48163,10 +48162,10 @@
 #}
 #ps-69-26 {
  {
-  Dieser Vers bezieht sich offenbar auf Judas (<a href='http://bibel.renenyffenegger.ch/apg_1.html#v20'>Apg&nbsp;1,20</a>).
+  Dieser Vers bezieht sich offenbar auf Judas, §apg-1-20.
  }
  {
-  TODO <i>Wohnstätte</i> (Strongs 2918): <a class='kom' href='#I1mo-25-16'>1.&nbsp;Mo&nbsp;25,16</a>.
+  <i>Wohnung</i> (Strongs 2918), in Sch2K mit «Wohnstätte» übersetzt. S. a. §+1mo-25-16.
  }
 #}
 #ps-69-29 {
@@ -53703,6 +53702,9 @@
 #}
 #hl-2-5 {
  {
+  <i>krank vor Liebe</i> §hl-5-8
+ }
+ {
   TODO <i>Rosinen</i> (Strongs 809) siehe <a class='kom' href='#I2sam-6-19'>2.&nbsp;Sam&nbsp;6,19</a>.
  }
 #}
@@ -53851,6 +53853,11 @@
 #hl-3-10 {
  {
   <b>Lehne</b>: siehe <a class='kom' href='#I4mo-33-14'>4.&nbsp;Mo&nbsp;33,14</a>.
+ }
+#}
+#hl-3-11 {
+ {
+  <i>Betrachtet den König</i> vgl §hl-7-1
  }
 #}
 @}
@@ -54041,6 +54048,9 @@
  {
   Wie's scheint, redet sie (Sulamith?) nicht vom König, sondern von einem unbekannten Mann, andernfalls hätten die Töchter Jerusalems ihn gekannt. Sie aber beschreibt nun diesen Mann, siehe vor allem §Vhl-5-16.
  }
+ {
+  <i>krank sein vor Liebe</i> §hl-2-5
+ }
 #}
 #hl-5-9 {
  {
@@ -54137,12 +54147,12 @@
   §hl-4-3
  }
  {
-  <i>Schleier</i>: §hl-1-7, §hl-4-1, §hl-5-7, §hl-6-7
+  <i>Schleier</i>: §hl-1-7, §hl-4-1, §hl-5-7
  }
 #}
 #hl-6-8 {
  {
-  Vgl die <i>60 Königinnen</i> mit den 60 Helden in §hl-3-7
+  Vgl die <i>60 Königinnen</i> mit der <i>einen</i> im nächsten Vers und den 60 Helden in §hl-3-7
  }
 #}
 #hl-6-9 {
@@ -54170,7 +54180,10 @@
 @Hohelied 7 {
 #hl-7-1 {
  {
-  Vgl <i>sulamith</i> mit Abiscahg, der Sunamitin, §1koe-2-17
+  <i>daß wir dich anschauen</i> vgl §hl-3-11
+ }
+ {
+  Vgl <i>Sulamith</i> mit Abischag, der Sunamitin, §1koe-2-17
  }
 #}
 #hl-7-4 {
@@ -64670,7 +64683,7 @@
 #}
 #dan-10-9 {
  {
-  Daniel <i>hörte</i> den Klang der Worte uns sank ohnmächtig auf sein Angesicht zur Erde nieder, Johannes <i>sah</i> ihn und fiel zu seinen Füssen
+  Daniel <i>hörte</i> den Klang der Worte und sank ohnmächtig auf sein Angesicht zur Erde nieder, Johannes <i>sah</i> ihn und fiel zu seinen Füssen
   nieder wie tot.
  }
 #}
@@ -67409,6 +67422,9 @@
 @}
 @Sacharja 13 {
 #sach-13-6 {
+ {
+  <i>Was sind das für Wunden in deinen Händen</i> vgl §joh-20-25
+ }
  {
   Vgl <a class='kom' href='#Isach-12-10'>Sach&nbsp;12,10</a>.
  }
@@ -86801,6 +86817,9 @@ sa:
 #}
 #joh-20-25 {
  {
+  <i>Wenn ich nicht an seinen Händen das Mal der Nägel sehe…</i> vgl §sach-13-6
+ }
+ {
   <i>Mal</i>: <span class='gr'>τύπος</span> (Strongs 5179).
  }
 #}
@@ -89287,7 +89306,7 @@ sa:
  {
    <i>Ein</i> Wunder macht, dass sich alle in Lydda und Saron zum Herrn <i>bekehrten</i>. In Vers 41ff machte ein anderes
    Wunder, dass viele in Joppe(?) <i>gläubig</i> an den Herrn wurden.
-   <br>Beachte auch, dass es bereits vorher <i>Heilige</i> gab, die in Lydda wohten (Vers 32 und 35)
+   <br>Beachte auch, dass es bereits vorher <i>Heilige</i> gab, die in Lydda wohnten (Vers 32 und 35)
  }
  {
   <i>Jesus der Christus</i>: <a class='kom' href='#Imt-16-20'>Mt&nbsp;16,20</a>.
@@ -89938,7 +89957,7 @@ sa:
 #}
 #apg-12-22 {
  {
-  Die wahre <i>Stimme Gottes</i> ist im Wort Gottes. Dieses überdaurt den Tod von → biblisches/Personen/Herodes, wächst und mehrt sich, §apg-12-24.
+  Die wahre <i>Stimme Gottes</i> ist im Wort Gottes. Dieses überdauret den Tod von → biblisches/Personen/Herodes, wächst und mehrt sich, §apg-12-24.
  }
 #}
 #apg-12-23 {
@@ -96696,7 +96715,7 @@ sa:
   <i>als nur Jesus Christus und ihn als gekreuzigt</i> §1kor-1-13, §1kor-1-23
  }
  {
-  Beachte: für → biblisches/Personen/Paulus war das Wort vom Kreuz (§1kor-1-18) wichtig, in den → biblisches/Bücher/jüdische-Briefe[jüdischen Briefen] kommt die Wörter «Kreuz» oder «kreuzigen»
+  Beachte: für → biblisches/Personen/Paulus war das Wort vom Kreuz (§1kor-1-18) wichtig, in den → biblisches/Bücher/jüdische-Briefe[jüdischen Briefen] kommen die Wörter «Kreuz» oder «kreuzigen»
   gar nicht vor. Vgl → biblisches/2-Timotheus-2-15/Paulus-und-jüdische-Briefe
  }
  {
@@ -96751,7 +96770,7 @@ sa:
   Vgl §+lk-9-21
  }
  {
-  Vgl mit dem <i>von Gott erkennbaren</i>: §+roem-1-19.
+  Vgl mit dem <i>von Gott Erkennbaren</i>: §+roem-1-19.
  }
 #}
 #1kor-2-10 {
@@ -100652,7 +100671,7 @@ sa:
     <li>I saw none of the other apostles, but only James (<span class='gr'>ει μη</span> verliert in dieser Variante die Auschliesslichkeit)
     <li>I saw none of the other apostles – unless you count James as an apostel (paraphrasiert).
   </ul>
-  Bligh verwirft die beiden ersten Varienten.
+  Bligh verwirft die beiden ersten Varianten.
   <br>
    Gemäss L. Paul Trudinger, A Note on Galatians i 19, könne der Vers auch so übersetzt werden: <i>Ausser den Aposteln sah ich niemanden mit Ausnahme von Jakobus, dem Bruder des Herrn</i>. (Diese Alternative würde das Problem lösen, warum
   → biblisches/Personen/Jakobus#jakobus-bruder-des-herrn[Jakobus, der Bruder des Herrn] in den Evangelien nie zu den → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/12[12 Jüngern] gerechnet wird).
@@ -105473,6 +105492,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Personen/Paulus/dankt
   <br>
   <i>Wir sind schuldig, Brüder, Gott allezeit für euch zu danken</i> §2thes-1-3.
+ }
+ {
+  <i>Heiligung des Geistes</i> §1petr-1-2
  }
  {
   <i>erwählt</i>: §1thes-1-4, §+phil-1-22.
@@ -111284,6 +111306,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl §hebr-9-13, §hebr-12-24
  }
  {
+  <i>Heiligung des Geistes</i> §2thes-2-13
+ }
+ {
   <i>nach Vorkenntnis Gottes</i> vgl §apg-2-23
  }
  {
@@ -114396,8 +114421,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
     <tbody><!--{-->
       <tr><!--{-->
         <td>bekleidet</td>
-        <td>Gewand bis zu den Füssen, goldener Gürtel um die Brust (13)</td>
-        <td>in Leinwand, Lenden mit Gold von Uphas umgürtet (5)</td>
+        <td>Gewand <i>bis zu den Füssen</i>, goldener Gürtel um die Brust (13)</td>
+        <td>in Leinwand, Lenden mit Gold <i>von Uphas</i> umgürtet (5)</td>
       </tr><!--}-->
       <tr><!--{-->
         <td>Haupt und Haare</td>
@@ -114458,7 +114483,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-1-17 {
  {
-  Johannes <i>sah</i> ihn, unf fällt zu seinen Füssen nieder wie tot. Daniel <i>hörte</i> den Klang der Worte und sank ohnmächtig
+  Johannes <i>sah</i> ihn, und fällt zu seinen Füssen nieder wie tot. Daniel <i>hörte</i> den Klang der Worte und sank ohnmächtig
   auf sein Angesicht zur Erde nieder (§dan-10-9).
  <br>
   Vgl §offb-19-10, §offb-22-8
