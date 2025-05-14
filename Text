@@ -46485,6 +46485,11 @@
    → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten, §+mt-27-35
  }
 #}
+#ps-22-22 {
+ {
+  <i>Rette mich aus dem Rachen des Löwen</i>: §2tim-4-17, §am-3-12, §dan-6-23
+ }
+#}
 #ps-22-23 {
  {
   Verweis: §hebr-2-12. Beachte: In §hebr-2-11 wird ausdrücklich darauf hingewiesen, dass hier der Herr selbst spricht.
@@ -64007,7 +64012,7 @@
 #}
 #dan-6-23 {
  {
-  §+hebr-11-33
+  <i>Den Rachen der Löwen verschliessen</i>: §+hebr-11-33
  }
 #}
 #dan-6-26 {
@@ -65808,6 +65813,11 @@
 #am-3-8 {
  {
          TODO: <i>Brüllender Löwe</i> <a class='kom' href='#Ioffb-10-3'>Offb&nbsp;10,3</a>.
+ }
+#}
+#am-3-12 {
+ {
+  <i>Aus dem Rachen des Löwen retten</i>: §+ps-22-22
  }
 #}
 @}
@@ -90934,15 +90944,14 @@ sa:
 #apg-16-6 {
  {
   <i>vom Heiligen Geist verhindert</i> und <i>der Geist Jesu erlaubte es ihnen nicht</i> vgl §1thes-2-18
+ <br>
+  In §apg-19-10 hören dann doch alle in Asia das Wort des Herrn durch Paulus. Siehe auch §apg-20-18.
  }
  {
   <i>Phrygien und die galatische Landschaft</i> §apg-18-23
  }
  {
   Siehe §+1petr-1-1.
- }
- {
-  In §apg-19-10 hören dann doch alle in Asia das Wort des Herrn durch Paulus. Siehe auch §apg-20-18.
  }
  {
   TODO: <a class='kom' href='#Iapg-8-36'>Apg&nbsp;8,36</a>.
@@ -91600,6 +91609,11 @@ sa:
   Obwohl Paulus in Korinth noch sagte, er gehe jetzt zu den Heiden (§apg-18-6), geht er jetzt doch zuerst zu den Juden. (§apg-13-46).
  }
 #}
+#apg-18-20 {
+ {
+  Hier bleibt Paulus keine <i>längere Zeit</i> in Ephesus. Bei seinem nächsten Besuch wird er dann drei Jahre bleiben, §apg-20-31
+ }
+#}
 #apg-18-21 {
  {
   <i>Ich muß unbedingt das kommende Fest in Jerusalem halten</i> vgl §apg-19-21, §apg-23-11
@@ -91653,7 +91667,7 @@ sa:
 #}
 #apg-18-25 {
  {
-  Vgl mit den Jüngern in Ephesus, die nach Apollas Abreise angaben, auf die Taufe des Johannes getauft worden zu sein, §apg-19-3
+  Vgl mit den Jüngern in Ephesus, die nach Apollos Abreise angaben, auf die Taufe des Johannes getauft worden zu sein, §apg-19-3
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
@@ -91729,10 +91743,9 @@ sa:
 #}
 #apg-19-8 {
  {
-   Paulus blieb 3 Jahre in Ephesus (§apg-20-31). Davon führte er
-   drei Monate Gespräche in der Synagoge, und 2 Jahre Lehrgespräche in der Schule.
-   <br>
-    Vgl §+apg-17-2, §apg-20-3
+  Paulus blieb 3 Jahre in Ephesus (§apg-20-31). Davon führte er drei Monate Gespräche in der Synagoge, und 2 Jahre Lehrgespräche in der Schule (§Vapg-19-10)
+ <br>
+  Vgl §+apg-17-2, §apg-20-3
  }
  {
   Beachte, dass er in der Schule Lehrgespräche führte, in der → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge aber «nur» Gespräche.
@@ -91758,13 +91771,16 @@ sa:
 #}
 #apg-19-10 {
  {
-  Siehe <a class='kom' href='#Iapg-16-6'>Apg&nbsp;16,6</a>.
+  <i>so daß alle, die in Asien wohnten, … das Wort des Herrn hörten.</i> vgl §+apg-16-6.
  }
  {
   <i>Juden und Griechen</i>: auch in Vers 17.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn], vgl §Vapg-19-20
+ }
+ {
+  <i>Zwei Jahre</i>: Paulus blieb insgesamt 3 Jahre in Ephesus, §apg-20-31
  }
 #}
 #apg-19-11 {
@@ -91863,7 +91879,7 @@ sa:
   → biblisches/Orte/Ephesus
  }
  {
-  <i>daß das keien Götter seien</i> vgl §1thes-1-9
+  <i>daß das keine Götter seien</i> vgl §1thes-1-9
  }
  {
   <i>mit Händen gemachte Götter</i> vgl §apg-7-48
@@ -92060,6 +92076,9 @@ sa:
  {
   <i>Nachstellung der Juden</i>: Paulus schreibt in §2kor-1-8, daß ihm in Asien Drangsal widerfahren ist.
  }
+ {
+  <i>Dem Herrn mit Tränen dienen</i> vgl §Vapg-20-31
+ }
 #}
 #apg-20-21 {
  {
@@ -92130,6 +92149,9 @@ sa:
 #}
 #apg-20-28 {
  {
+  <i>Die ganze Herde hüten</i> vgl §1petr-5-2-ff
+ }
+ {
   Beachte: Heiliger Geist = Gott = Jesus.
  }
  {
@@ -92177,10 +92199,15 @@ sa:
 #}
 #apg-20-31 {
  {
-  <i>3 Jahre</i>: §+apg-17-2, §apg-19-8.
+  <i>3 Jahre</i> in Ephesus: §apg-19-8, §apg-19-10. Bei seinem ersten Besuch in Ephesus willigte Paulus nicht ein, eine «längere Zeit» zu bleiben, §apg-18-20.
+ <br>
+  S. a. §+apg-17-2
  }
  {
   <i>Nacht und Tag nicht aufgehört…</i> §1thes-2-9
+ }
+ {
+  <i>jeden mit Tränen zu ermahnen</i> vgl §Vapg-20-19
  }
 #}
 #apg-20-33 {
@@ -98876,6 +98903,9 @@ sa:
  {
   Das Zitat stammt aus <a href='http://bibel.renenyffenegger.ch/jes_22.html#v13'>Jes&nbsp;22,13</a>.
  }
+ {
+  TODO: Möglicherweise ist <i>nach Menschenweise mit wilden Tieren in Ephesus zu kämpfen</i> dasselbe wie der Kampf, der nicht wider Fleisch und Blut ist, §eph-6-12
+ }
 #}
 #1kor-15-33 {
  {
@@ -102655,6 +102685,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <span class='gt'>In NA fehlt «dieses Zeitalters»</span>
+ }
+ {
+  TODO: Möglicherweise vergleicht Paulus den Kampf, der nicht wider Fleisch und Blut ist mit einem «Kampf mit wilden Tieren», §1kor-15-32
  }
 #}
 #eph-6-13 {
@@ -106859,7 +106892,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Gehörte → biblisches/Personen/Johannes auch zu den Personen, die sich von → biblisches/Personen/Paulus ab. Er scheint ja zu der Zeit der Abfassung des 2. Timotheusbriefes in Asien gewesen zu sein.
  }
  {
-  <i>alle haben sich abgewandt</i> vgl §2tim-4-11
+  <i>alle haben sich abgewandt</i> vgl §2tim-4-11, §2tim-4-16
  }
 #}
 #2tim-1-16 {
@@ -107425,13 +107458,18 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Die Philipper hatten (ein ander Mal?) Anteil an der Gnade bei seiner Verteidigung des Evangeliums (<a href='http://bibel.renenyffenegger.ch/phil_1.html#v7'>Phil&nbsp;1,7</a>).
  }
+ {
+  <i>Niemand stand mir bei</i> vgl §2tim-1-15
+ }
 #}
 #2tim-4-17 {
  {
-   TODO: <a class='kom' href='#Igal-1-16'>Gal&nbsp;1,16</a>.
+  <i>Ich bin gerettet worden aus dem Rachen des Löwen</i> vgl §ps-22-22, §dan-6-23
+ <br>
+  Einige Ausleger deuten den <i>Rachen des Löwen</i> auf Nero.
  }
  {
-  Einige Ausleger deuten den <i>Rachen des Löwen</i> auf Nero.
+  <i>… alle die aus den Nationen hören möchten</i> vgl §gal-1-16
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/retten#G4506
@@ -111472,7 +111510,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1petr-1-18 {
  {
-  <i>nicht mit verweslichen Dingen … erlöst worden</i> vgl §+1kor-6-20, §2petr-2-1
+  <i>nicht mit verweslichen Dingen … erlöst worden</i> vgl §+1kor-6-20, §2petr-2-1, §apg-20-28
  <br>
   <i>Silber und Gold</i> vgl §jak-5-3
  }
@@ -112250,6 +112288,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1petr-5-2 {
+ {
+  <i>Hütet die Herde Gottes…</I> vgl §apg-20-28, <i>… welche er sich erworben hat</i> vgl §1petr-1-18
+ }
  {
   Petrus, der Autor dieses Briefes, wurde vom Herrn angewiesen, Seine Schafe zu hüten, §joh-21-16.
  <br>
