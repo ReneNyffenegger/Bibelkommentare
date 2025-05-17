@@ -3868,6 +3868,11 @@
   Dies ist ein Verheissungswort: <a href='http://bibel.renenyffenegger.ch/roem_9.html#v9'>R&ouml;m&nbsp;9,9</a>.
  }
 #}
+#1mo-18-11 {
+ {
+  <i>nach der Frauen Weise</i>: <span class='gr'>אֹ֖רַח כַּנָּשִֽׁים</span>, vgl §1mo-19-31
+ }
+#}
 #1mo-18-12 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/hebr_11.html#v11'>Hebr&nbsp;11,11</a>: Durch Glauben erhielt Sarah die Kraft, schwanger zu werden (und sie
@@ -4036,6 +4041,9 @@
  }
 #}
 #1mo-19-31 {
+ {
+  <i>nach der Weise aller Welt</i>: <span class='gr'>כְּדֶ֖רֶךְ כָּל־הָאָֽרֶץ</span>, vgl §1mo-18-11
+ }
  {
   Schlachter 2k übersetzt <i>Erstgeborene</i> mit «Ältere».
  }
@@ -9207,7 +9215,7 @@
 #}
 #2mo-9-24 {
  {
-   Ägypten war bereits eine Nation, Israel sollte noch eine werden (<a href='http://bibel.renenyffenegger.ch/2mo_19.html#v6'>2.&nbsp;Mo&nbsp;19,6</a>, <a class='kom' href='#I1mo-12-2'>1.&nbsp;Mo&nbsp;12,2</a>).
+  Ägypten war bereits eine Nation, Israel sollte noch eine werden, §2mo-19-6, §+1mo-12-2.
  }
 #}
 #2mo-9-25 {
@@ -9301,7 +9309,7 @@
 #}
 #2mo-10-28 {
  {
-  <i>am Tag, da du mein Angesicht siehst, wirst du sterben.</i> vgl §2mo-33-20
+  <i>am Tag, da du mein Angesicht siehst, wirst du sterben.</i>, vgl §2mo-33-20
  }
 #}
 #2mo-10-29 {
@@ -9336,7 +9344,7 @@
 #}
 #2mo-11-6 {
  {
-  <i>Wie es nie gewesen ist</i>: <a class='kom' href='#I2mo-9-18'>2.&nbsp;Mo&nbsp;9,18</a>.
+  <i>Wie es nie gewesen ist</i>: §+2mo-9-18, vgl §mt-24-21
  }
 #}
 #2mo-11-7 {
@@ -36949,6 +36957,9 @@
   <i>Kaleb</i>: §V1chr-2-18
  }
  {
+  §1chr-3-1-ff unterscheidet zwischen den Söhnen Davids, die in <i>Hebron</i> und Jerusalem geboren wurden (vgl §1chr-3-5).
+ }
+ {
   TODO: Hebron wurde Kaleb, dem Sohn Jephunnes, zum Erbteil gegeben, §jos-14-12.
   <br>
    Siph wird als Nachkomme on Jehallelel, ebenfalls im Zusammenhang mit Kaleb, dem Sohn Jephunnes, in §1chr-4-16 genannt.
@@ -37051,6 +37062,9 @@
   Hier wird der Stammbaum → biblisches/Personen/David[Davids] fortgesetzt, der in §1chr-2-15 unterbrochen wird.
   <br>
   Davids Söhne, die in Hebron geboren wurden, werden auch in §2sam-3-2-ff aufgezählt. Dort wird Daniel Kileab genannt.
+ }
+ {
+  <i>Hebron</i> §1chr-2-42
  }
  {
   <i>Abigail</i> ist auch der Name einer Schwester Davids, §1chr-2-16
@@ -51046,7 +51060,7 @@
 #}
 #ps-135-9 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder#zeichen-wunder-auszug-aegypten
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder#zeichen-wunder-auszug-aegypten, vgl §2mo-7-3
  }
 #}
 #ps-135-11 {
@@ -58535,14 +58549,7 @@
 #}
 #jer-7-13 {
  {
-         <i>indem ich mich früh aufmachte</i>:
-   Vers 25,
-   <a href='http://bibel.renenyffenegger.ch/jer_11.html#v7'>Jer&nbsp;11,7</a>,
-   <a href='http://bibel.renenyffenegger.ch/jer_25.html#v3'>Jer 25,3-4</a>,
-   <a href='http://bibel.renenyffenegger.ch/jer_29.html#v19'>Jer&nbsp;29,19</a>,
-   <a href='http://bibel.renenyffenegger.ch/jer_32.html#v33'>Jer&nbsp;32,33</a>,
-   <a href='http://bibel.renenyffenegger.ch/jer_35.html#v14'>Jer 35,14-15</a>,
-   <a href='http://bibel.renenyffenegger.ch/jer_44.html#v4'>Jer&nbsp;44,4</a>.
+  <i>früh mich aufmachend</i>: §Vjer-7-25, §jer-11-7, §jer-25-3-4, §jer-29-19, §jer-32-33, §jer-35-14-15, §jer-44-4.
  }
 #}
 #jer-7-14 {
@@ -58834,6 +58841,9 @@
 #jer-11-7 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+ {
+  <i>früh mich aufmachend</i>: §+jer-7-13
  }
 #}
 #jer-11-14 {
@@ -59415,7 +59425,7 @@
   Dienst Jeremias: <a class='kom' href='#Ijer-1-2'>Jer&nbsp;1,2</a>.
  }
  {
-  <i>indem ich mich früh aufmachte</i>: <a class='kom' href='#Ijer-7-13'>Jer&nbsp;7,13</a>.
+  <i>früh mich aufmachend</i>: §+jer-7-13
  }
 #}
 #jer-25-4 {
@@ -59754,7 +59764,7 @@
 #}
 #jer-29-19 {
  {
-  <i>indem ich mich früh aufmachte</i>: <a class='kom' href='#Ijer-7-13'>Jer&nbsp;7,13</a>.
+  <i>früh mich aufmachend</i>: §+jer-7-13
  }
  {
   <i>ihr habt nicht gehört</i> vgl §jes-30-15
@@ -60022,7 +60032,7 @@
 #}
 #jer-32-33 {
  {
-  <i>indem ich mich früh aufmachte</i>: <a class='kom' href='#Ijer-7-13'>Jer&nbsp;7,13</a>.
+  <i>früh mich aufmachend</i>: §+jer-7-13
  }
 #}
 #jer-32-34 {
@@ -60196,7 +60206,7 @@
 #}
 #jer-35-14 {
  {
-  <i>indem ich mich früh aufmachte</i>: <a class='kom' href='#Ijer-7-13'>Jer&nbsp;7,13</a>.
+  <i>früh mich aufmachend</i>: §+jer-7-13
  }
 #}
 #jer-35-15 {
@@ -60533,7 +60543,7 @@
 @Jeremia 44 {
 #jer-44-4 {
  {
-  <i>indem ich mich früh aufmachte</i>: §+jer-7-13
+  <i>mich früh aufmachend</i>: §+jer-7-13
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten
@@ -65179,6 +65189,11 @@
   <i>Den HERRN erkennen</i>: <a class='kom' href='#I2mo-6-7'>2.&nbsp;Mo&nbsp;6,7</a>
  }
 #}
+#hos-6-4 {
+ {
+  <i>Tau, der früh verschwindet</i> §hos-13-3
+ }
+#}
 #hos-6-6 {
  {
    <a class='kom' href='#Ihos-5-4'>Hos&nbsp;5,4</a>.
@@ -65407,6 +65422,11 @@
 #hos-13-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild, vgl §hos-8-4
+ }
+#}
+#hos-13-3 {
+ {
+  <i>Tau, der früh verschwindet</i> §hos-6-4
  }
 #}
 #hos-13-4 {
@@ -66959,6 +66979,11 @@
   TODO: Vgl <i>Sacharja, den Sohn Berechjas</i> mit <i>Zacharia, den Sohn Barachias</i> (<a href='http://bibel.renenyffenegger.ch/mt_23.html#v35'>Mt&nbsp;23,35</a>)
  }
 #}
+#sach-1-4 {
+ {
+  <i>denen die früheren Propheten zuriefen</i> §sach-7-7
+ }
+#}
 #sach-1-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten
@@ -67243,9 +67268,19 @@
    <i>70 Jahre</i>: §+2chr-36-21.
  }
 #}
+#sach-7-7 {
+ {
+  <i>durch die früheren Propheten ausrief</i> §sach-1-4, §Vsach-7-12
+ }
+#}
 #sach-7-9 {
  {
    TODO: w. «richtet einen Rechtsspruch».
+ }
+#}
+#sach-7-12 {
+ {
+  <i>mittels der früheren Propheten</i> §Vsach-7-7, vgl §sach-8-11
  }
 #}
 @}
@@ -67279,6 +67314,11 @@
 #sach-8-9 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+#}
+#sach-8-11 {
+ {
+  <i>wie in den früheren Tagen</i> vgl §sach-7-12
  }
 #}
 #sach-8-22 {
@@ -71874,6 +71914,11 @@
   <i>da bin ich in ihrer Mitte</i>: §+joh-20-19, §lk-22-27, §lk-24-36
  }
 #}
+#mt-18-21 {
+ {
+  <i>Bis siebenmal?</i> vgl §lk-17-4
+ }
+#}
 #mt-18-22 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1mo_4.html#v24'>1.&nbsp;Mo&nbsp;4,24</a>.
@@ -72939,7 +72984,7 @@
   Hier: <i>große Drangsal</i> ohne Artikel, in §offb-7-14 mit Artikel.
  }
  {
-  <i>nicht gewesen</i> vgl §offb-16-18, §2mo-9-24
+  <i>Drangsal, wie nicht gewesen …</i> vgl §offb-16-18, §2mo-9-24, §2mo-11-6
  }
 #}
 #mt-24-22 {
@@ -81216,6 +81261,11 @@ sa:
 #lk-17-2 {
  {
   Vgl §mt-18-6, §mk-9-42, §offb-18-2
+ }
+#}
+#lk-17-4 {
+ {
+  <i>siebenmal sündigen</i> §mt-8-21-22
  }
 #}
 #lk-17-6 {
@@ -92204,7 +92254,7 @@ sa:
   S. a. §+apg-17-2
  }
  {
-  <i>Nacht und Tag nicht aufgehört…</i> §1thes-2-9
+  <i>Nacht und Tag nicht aufgehört…</i> §1thes-2-9, vgl §apg-26-7
  }
  {
   <i>jeden mit Tränen zu ermahnen</i> vgl §Vapg-20-19
@@ -92947,6 +92997,11 @@ sa:
 #apg-26-6 {
  {
  <i>Verheissung an die Väter</i> vgl §apg-28-20, §apg-13-32, §roem-15-8, §apg-2-39, §hebr-4-1
+ }
+#}
+#apg-26-7 {
+ {
+  <i>Nacht und Tag</i> vgl §apg-20-31
  }
 #}
 #apg-26-8 {
@@ -97863,6 +97918,9 @@ sa:
  {
   Vgl <i>sich am Wettkampf beteiligen</i> (<span class='gr'>ἀγωνίζομαι</span>, Strongs 75) mit
   <i>Wettkämpfen</i> (<span class='gr'>ἀθλέω</span>, Strongs  118) in <a href='http://bibel.renenyffenegger.ch/2tim_2.html#v5'>2.&nbsp;Tim&nbsp;2,5</a>.
+ }
+ {
+  <i>Eine unvergängliche Krone nach dem Kampf empfangen</i> vgl §2tim-4-7-8, §1petr-5-4
  }
 #}
 #1kor-9-27 {
@@ -107369,6 +107427,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #2tim-4-7 {
  {
   <i>Den guten Kampf kämpfen</i>: Paulus hat → biblisches/Personen/Timotheus aufgefordert, diesen zu kämpfen und das ewige Leben zu ergreifen, §1tim-1-18 / §1tim-6-12.
+ <br>
+  <i>…den Glauben bewahren</i> §1tim-1-19
  }
  {
   → biblisches/Personen/Paulus hat den <i>Lauf vollendet</i> vgl §apg-20-24
@@ -107384,6 +107444,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Erscheinung</i>: <span class='gr'>ἐπιφάνεια</span> (Strongs 2015), vgl → biblisches/Grundtext/Wörter/G602-Apokalypsis_G2015-Epiphaneia_G3952-Parousia.
  }
  {
+  <i>Ich habe den guten Kampf gekämpft… fortan liegt mir bereit die Krone der Gerechtigkeit</i> vgl §1kor-9-25
+ <br>
   Die <i>Krone der Gerechtigkeit</i> wird denen zur Vergeltung gegeben, die die Erscheinung des gerechten Richters lieben,
   die <i>Krone des Lebens</i> ist denen verheißen, die Ihn lieben, §jak-1-12
  }
@@ -112323,6 +112385,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1petr-5-4 {
  {
   <i>Erzhirte</i>: Sch2K übersetzt mit «oberster Hirte». Vgl §hebr-13-20.
+ }
+ {
+  <i>Eine unverwelkliche Krone … empfangen</i> vgl §1kor-9-25
  }
 #}
 #1petr-5-5 {
