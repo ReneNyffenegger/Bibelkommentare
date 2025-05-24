@@ -3083,7 +3083,9 @@
   haben 'vor Zeiten' in Moab (oder Ar?) gewohnt (<a href='http://bibel.renenyffenegger.ch/5mo_2.html#v9'>5.&nbsp;Mo&nbsp;2,9-11</a>).
  }
  {
-  <i>Kirjataim</i> <span class='hebr'>קִרְיָתָֽיִם</span> ist offenbar der Dual von
+  <i>Kirjathaim</i> §4mo-32-37
+ <br>
+  <i>Kirjathaim</i> <span class='hebr'>קִרְיָתָֽיִם</span> ist offenbar der Dual von
   <span class='hebr'>קִרְיָה</span>, welches Stadt bedeutet
   (zB Kirjat-Arba in <a href='http://bibel.renenyffenegger.ch/jos_15.html#v13'>Jos&nbsp;15,13</a>)
  }
@@ -8912,9 +8914,9 @@
   Normalerweise ist die Reihenfolge Mose -&gt; Aaron, hier ist sie umgekehrt.
  }
  {
-  Mose und Aaron sollten die <i>Heerscharen aus Ägypten</i> herausführen, in <a href='http://bibel.renenyffenegger.ch/2mo_12.html#v17'>2. Mo 12,17/51</a>
-  ist es Gott, der dies getan hat.
-  <br>TODO Vgl auch <a class='kom' href='#I2mo-12-41'>2.&nbsp;Mo&nbsp;12,41</a>.
+  Mose und Aaron sollten die Kinder Israel <i>nach ihren Heren aus Ägypten</i> herausführen, §2mo-12-17 und 51 ist es Gott, der dies getan hat.
+ <br>
+  Vgl auch §+2mo-12-41
  }
 #}
 @}
@@ -19350,7 +19352,7 @@
  {
   <i>Kirjath-Huzoth</i> (<span class='hebr'>קִרְיַת  חֻצוֹת</span>, Strongs 7155), bedeutet offenbar 'Stadt der Strassen'. TODO: aber
   das Wort wird (im Singular?) auch mit 'ohne' usw übersetzt.
-  <br>TODO: Ist Kirjath-Huzoth = Kirjataim? (<a href='http://bibel.renenyffenegger.ch/1mo_14.html#v5'>1.&nbsp;Mo&nbsp;14,5</a>,
+  <br>TODO: Ist Kirjath-Huzoth = Kirjathaim? (<a href='http://bibel.renenyffenegger.ch/1mo_14.html#v5'>1.&nbsp;Mo&nbsp;14,5</a>,
   <a href='http://bibel.renenyffenegger.ch/4mo_32.html#v37'>4.&nbsp;Mo&nbsp;32,37</a>,
   <a href='http://bibel.renenyffenegger.ch/jos_13.html#v19'>Jos&nbsp;13,19</a>
   <a href='http://bibel.renenyffenegger.ch/jer_48.html#v1'>Jer&nbsp;48,1</a>.
@@ -20294,6 +20296,9 @@
  }
 #}
 #4mo-32-37 {
+ {
+  <i>Kirjathaim</i> §1mo-14-5
+ }
  {
   TODO: Siehe <a class='kom' href='#I4mo-22-39'>4.&nbsp;Mo&nbsp;22,39</a>.
  }
@@ -24562,9 +24567,9 @@
 @Josua 7 {
 #jos-7-1 {
  {
-  <i>Achan</i> <span class='hebr'>עָכָן</span> (Strongs 5912) siehe <a class='kom' href='#Ijos-6-18'>Jos&nbsp;6,18</a> und <a class='kom' href='#Ijos-7-24'>Vers 24</a>.
+  <i>Achan</i> <span class='hebr'>עָכָן</span> (Strongs 5912) siehe §+jos-6-18, §1chr-2-7 und §Vjos-7-24.
  <br>
-  §1chr-2-7
+  Obwohl Achan als ein einzelner die Sünde begangen hatte, kam er nicht als einzelner um, §jos-22-20
  }
  {
   <i>Serach</i> war ein Bruder des Perez, der ein Vorfahre des Herrn war. Als Serach auf die Welt kam, gab man ihm einen roten Faden um die Hand. TODO: Es ist nicht ganz klar, wer der
@@ -25541,6 +25546,9 @@
  }
  {
   Vgl mit dem früheren Kaleb, der ebenfalls eine Tochter namens Aksa hatte, §1chr-2-49
+ }
+ {
+  <i>Othniel, der Sohn Kenas</i> §1chr-4-13
  }
 #}
 #jos-15-19 {
@@ -28002,10 +28010,13 @@
   <br>Vgl mit <a class='kom' href='#I5mo-33-22'>5.&nbsp;Mo&nbsp;33,22</a>.
   <br>Es gibt auch einen <i>Phalti</i> resp. <i>Paltiel</i>, ein Sohn des <i>Lais</i>: <a class='kom' href='#I1sam-25-44'>1.&nbsp;Sam&nbsp;25,44</a>.
  }
+ {
+  <i>sie sahen das Volk … ruhig und sicher</i> vgl §1chr-4-40
+ }
 #}
 #ri-18-12 {
  {
-  <i>Machaneh-Dan</i>: <span class='hebr'>מַחֲנֵה־־</span>, Elberfelder übersetzt mit «Lager Dans».
+  <i>Machaneh-Dan</i>: <span class='hebr'>מַחֲנֵה־דָ֗ן</span>, Elberfelder übersetzt mit «Lager Dans».
  <br>
   Vgl §+ri-17-1 und §Vri-18-25.
  }
@@ -28679,9 +28690,7 @@
   Vgl <a class='kom' href='#I1sam-25-28'>1.&nbsp;Sam&nbsp;25,28</a>.
  }
  {
-  <i>nach meinem Herzen</i>: vgl <a class='kom' href='#I1sam-13-14'>1.&nbsp;Sam&nbsp;13,14</a>,
-  <a href='http://bibel.renenyffenegger.ch/jer_3.html#v15'>Jer&nbsp;3,15</a>,
-  <a href='http://bibel.renenyffenegger.ch/apg_13.html#v22'>Apg&nbsp;13,22</a>.
+  <i>nach meinem Herzen</i>: vgl §+1sam-13-14, §jer-3-15, §apg-13-22.
  }
 #}
 @}
@@ -29146,7 +29155,7 @@
   → biblisches/Orte/Gilgal
  }
  {
-  TODO: ist das in <a href='http://bibel.renenyffenegger.ch/1sam_13.html#v8'>1.&nbsp;Sam&nbsp;13,8</a> soweit?
+  <i>Sieben Tage</i>: §1sam-13-8
  }
 #}
 #1sam-10-11 {
@@ -29394,7 +29403,7 @@
 #}
 #1sam-13-8 {
  {
-  Siehe <a class='kom' href='#I1sam-10-8'>1.&nbsp;Sam&nbsp;10,8</a>.
+  <i>Sieben Tage</i>: §+1sam-10-8.
  }
 #}
 #1sam-13-9 {
@@ -29412,10 +29421,9 @@
 #}
 #1sam-13-14 {
  {
-  David war nach dem <i>Herzen Gottes</i>: <a class='kom' href='#Iapg-13-22'>Apg&nbsp;13,22</a>.
-  Vgl auch <a href='http://bibel.renenyffenegger.ch/1sam_2.html#v35'>1.&nbsp;Sam&nbsp;2,35</a>,
-  <a href='http://bibel.renenyffenegger.ch/ps_89.html#v21'>Ps&nbsp;89,21</a>
-  <br>Saul war wohl nach dem <i>Herzen der Menschen</i>.
+  David war nach dem <i>Herzen Gottes</i>: §+apg-13-22. Vgl auch §1sam-2-35, §1sam-16-7, §1koe-14-8, §ps-89-21
+ <br>
+  Saul war wohl nach dem <i>Herzen der Menschen</i>.
  }
  {
   <i>Königtum wird keinen Bestand haben</i>: vgl <a href='http://bibel.renenyffenegger.ch/1sam_15.html#v28'>1.&nbsp;Sam&nbsp;15,28</a>.
@@ -29737,6 +29745,9 @@
  {
   Trotzdem: → biblisches/Personen/David war schön (Vers 12).
  }
+ {
+  <i>Jehova sieht auf das Herz</i>: §1sam-13-14
+ }
 #}
 #1sam-16-11 {
  {
@@ -29868,7 +29879,7 @@
 #}
 #1sam-17-43 {
  {
-  Vgl <i>bin ich den ein Hund</i> mit <a href='http://bibel.renenyffenegger.ch/2sam_3.html#v8'>2.&nbsp;Sam&nbsp;3,8</a>.
+  Vgl <i>bin ich den ein Hund</i> mit §2sam-3-8.
  }
 #}
 #1sam-17-44 {
@@ -30452,7 +30463,7 @@
 @1. Samuel 28 {
 #1sam-28-3 {
  {
-  Saul hat zwar die Wahrsager und Zeichendeuter vertrieben, er geht dann aber zu einer Totenbeschwörerin (§V1chr-28-7-ff).
+  Saul hat zwar die Wahrsager und Zeichendeuter vertrieben, er geht dann aber zu einer Totenbeschwörerin (§V1sam-28-7-ff).
   Das war ein Grund, dass Jehova ihn verworfen hatte (§1chr-10-13). Es wäre wohl besser gewesen,
   er hätte die Wahrsager getötetet. Vgl §3mo-20-27, §5mo-18-10-11.
  }
@@ -30702,6 +30713,9 @@
  {
   <i>Hebron</i>: <a class='kom' href='#I1mo-13-18'>1.&nbsp;Mo&nbsp;13,18</a>.
  }
+ {
+  <i>David befragt Jehova</i> vgl §2sam-5-23
+ }
 #}
 #2sam-2-2 {
  {
@@ -30820,6 +30834,11 @@
   TODO: Ist Ischboset der Sohn Abners und Rizpas?
  }
 #}
+#2sam-3-8 {
+ {
+  <i>Bin ich ein Hundskopf</i> vgl §1sam-17-43
+ }
+#}
 #2sam-3-14 {
  {
   Vgl <a class='kom' href='#I1sam-18-25'>1.&nbsp;Sam&nbsp;18,25</a>.
@@ -30928,8 +30947,7 @@
   Vergleiche mit <a class='kom' href='#I3mo-21-17'>3.&nbsp;Mo&nbsp;21,17-18</a>.
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/2mo_9.html#v13'>2.&nbsp;Mo&nbsp;9,13</a>: Mephiboset war lahm an beiden Füssen, und trotzdem liess David ihn Brot an seinem Tisch essen
-  (<a href='http://bibel.renenyffenegger.ch/2sam_9.html#v9'>2.&nbsp;Sam&nbsp;9,9-10</a>).
+  Vgl §2mo-9-13: Mephiboset war lahm an beiden Füssen, und trotzdem liess David ihn Brot an seinem Tisch essen, §2sam-9-9-13
  }
 #}
 #2sam-5-9 {
@@ -30986,6 +31004,11 @@
  {
   <i>Baal Perazim</i> <span class='hebr'>בַּעַל־פְּרָצִים</span> (Strongs 1188, bestehend aus 1167 und 6556) = 'place of the breaches' oder
   'Lord of the breaks'. TODO: Vgl <a href='http://bibel.renenyffenegger.ch/jes_28.html#v21'>Jes&nbsp;28,21</a>.
+ }
+#}
+#2sam-5-23 {
+ {
+  <i>David befragte Jehova</i> vgl §2sam-2-1
  }
 #}
 #2sam-5-25 {
@@ -31322,7 +31345,7 @@
 #}
 #2sam-9-13 {
  {
-  <a class='kom' href='#I2sam-5-8'>2.&nbsp;Sam&nbsp;5,8</a>.
+  <i>Mephiboset … war lahm …</i> §+2sam-5-8.
  }
 #}
 @}
@@ -31549,7 +31572,7 @@
 #}
 #2sam-14-30 {
  {
-  <i>Ackerstück mit Gerste<i> vgl §1chr-11-13
+  <i>Ackerstück mit Gerste</i> vgl §1chr-11-13
  }
 #}
 @}
@@ -33638,6 +33661,11 @@
  }
  {
   <a class='kom' href='#I1koe-11-31'>1.&nbsp;Kö&nbsp;11,31</a>.
+ }
+#}
+#1koe-14-8 {
+ {
+  <i>David, … der mir nachgefolgt ist mit seinem ganzen Herzen</i> vgl §1sam-13-14
  }
 #}
 #1koe-14-10 {
@@ -36904,6 +36932,9 @@
  {
   <i>Kaleb</i> wird in §V1chr-2-9 Kelubai, in §1chr-4-1 Karmi genannt. Seine Söhne werden in §V1chr-2-42 aufgezählt.
  }
+ {
+  <i>Jescher</i> wird möglicherweise in §V1chr-2-42 Mescha genannt.
+ }
 #}
 #1chr-2-19 {
  {
@@ -36922,6 +36953,9 @@
 #1chr-2-21 {
  {
   <i>Machir</i>: vgl §4mo-32-39-40
+ }
+ {
+  <i>Vater Gileads</i> vgl §1chr-5-14
  }
 #}
 #1chr-2-22 {
@@ -36963,6 +36997,9 @@
  }
  {
   §1chr-3-1-ff unterscheidet zwischen den Söhnen Davids, die in <i>Hebron</i> und Jerusalem geboren wurden (vgl §1chr-3-5).
+ }
+ {
+  <i>Mescha</i> wird möglicherweise in §V1chr-2-18 «Jescher» genannt.
  }
  {
   TODO: Hebron wurde Kaleb, dem Sohn Jephunnes, zum Erbteil gegeben, §jos-14-12.
@@ -37262,6 +37299,9 @@
   Beachte: auch <i>Jered</i> (Vers 18) ist ein Vater Gedors.
  }
  {
+  <i>Pnuel, der Vater Gedors</i> vgl §V1chr-4-18
+ }
+ {
   TODO: <b>Pnuel</b> offenbar dasselbe Wort wie Pniel (<a class='kom' href='#I1mo-32-31'>1.&nbsp;Mo&nbsp;32,31</a>).
   <br><i>Gedor</i>: <a class='kom' href='#Ijos-15-58'>Jos&nbsp;15,58</a>.
  }
@@ -37288,7 +37328,7 @@
 #}
 #1chr-4-9 {
  {
-  <i>Jabez</i>: §+1chr-2-55.
+  <i>Jabez</i>: §1chr-2-55.
  }
  {
   <i>Mit Schmerzen…</i> vgl §+V1chr-4-17.
@@ -37307,6 +37347,9 @@
 #1chr-4-13 {
  {
   <i>Hatat</i> (<span class='hebr'>חֲתַת</span>, Strongs 2867), dasselbe Wort wie 'Schreckliches' in <a href='http://bibel.renenyffenegger.ch/hi_6.html#v21'>Hi&nbsp;6,21</a> (dort Strongs 2866).
+ }
+ {
+  <i>Die Söhne Kenas: Othniel…</i> vgl §jos-15-17
  }
 #}
 #1chr-4-14 {
@@ -37335,7 +37378,7 @@
 #}
 #1chr-4-18 {
  {
-  <i>Vater Gedors</i>: <a class='kom' href='#I1chr-4-4'>Vers 4</a>.
+  <i>Vater Gedors</i>: §V1chr-4-4
  }
 #}
 #1chr-4-21 {
@@ -37431,6 +37474,9 @@
  {
   Hat Ham die gute und fette Weide freiwillig aufgegeben?
  }
+ {
+  <i>sie fanden … ruhig und still</i> vgl §ri-18-7
+ }
 #}
 #1chr-4-41 {
  {
@@ -37523,6 +37569,11 @@
  }
  {
   Wird «Dan-Jaan» in §2sam-24-6 nach <i>Jahnai</i> benannt?
+ }
+#}
+#1chr-5-14 {
+ {
+  <i>Sohn Gileads</i> vgl §1chr-2-21, §1chr-7-17
  }
 #}
 #1chr-5-16 {
@@ -37975,6 +38026,11 @@
   Vgl <i>Zelophchad</i>, der keine Söhne hatte (<a class='kom' href='#I4mo-26-33'>4.&nbsp;Mo&nbsp;26,33</a>).
  }
 #}
+#1chr-7-17 {
+ {
+  <i>Söhne Gileads</i> vgl §1chr-5-14
+ }
+#}
 #1chr-7-20 {
  {
   Bered (<span class='hebr'>וּבֶ֤רֶד</span>) vgl <a class='kom' href='#I1mo-16-14'>1.&nbsp;Mo&nbsp;16,14</a>.
@@ -38378,7 +38434,7 @@
   §1sam-31-1.
  }
  {
-  Während Israel als ganzes vor den Philistern flohen, waren die Rubeniter siegreich gegen die Hageriter, §1chr-5-10
+  Während Israel als ganzes vor den Philistern flohen, waren die Rubeniter siegreich gegen die Hageriter, §1chr-5-10. Vgl §1chr-11-13
  }
 #}
 #1chr-10-6 {
@@ -38396,11 +38452,13 @@
 #}
 #1chr-10-13 {
  {
-  Saul stirbt wegen seiner <i>Treulosigkeit</i>, vgl mit Juda, das wegen seiner <i>Untreue</i> nach Babel
-  weggeführt wurde, §1chr-9-1  (s. a. §1chr-5-25-26)
+  Saul stirbt wegen seiner <i>Treulosigkeit</i>, vgl mit Juda, das wegen seiner <i>Untreue</i> nach Babel weggeführt wurde, §1chr-9-1  (s. a. §1chr-5-25-26)
  }
  {
   Saul hatte ursprünglich die Totenbeschwörer und die Wahrsager aus dem Land weggeschafft, §1sam-28-3
+ }
+ {
+  Vgl mit David, der den Herrn befragte, §1chr-14-10, und der tat, wie Gott ihm geboten hatte, §1chr-14-16
  }
 #}
 @}
@@ -38453,6 +38511,9 @@
  }
 #}
 #1chr-11-13 {
+ {
+  <i>Das Volk floh vor den Philistern</i> vgl §1chr-10-1
+ }
  {
   <i>Dammim</i>: <span class='hebr'>דַּמִּים</span> (Mehrzahl, Strongs 1818): <i>Blut</i>.
  <br><i>Pas-Dammim</i> bedeutet offenbar «Grenzen der Blute» (oder vielleicht «Farben der Blute»?).
@@ -38648,9 +38709,16 @@
 #1chr-14-10 {
  {
   <i>David befragte Gott</i> vgl §1chr-13-3
+ <br>
+  Vgl mit Saul, der eine Totenbeschwörerin aufsuchte, um sie zu befragen, und deswegen starb, §1chr-10-13
  }
 #}
 #1chr-14-16 {
+ {
+  <i>David tat, wie Gott ihm geboten hatte</i> Vgl mit Saul, der Gottes Wort nicht beobachtet hatte, §1chr-10-13.
+ <br>
+  Beachte, dass David nun auch dafür sorgen wird, dass die Leviten die Lade auf ihren Schultern tragen, wie Mose nach dem Wort Jehovas geboten hat, §1chr-15-15
+ }
  {
   <i>Geser</i>: <a class='kom' href='#Ijos-10-33'>Jos&nbsp;10,33</a>.
  }
@@ -38708,6 +38776,9 @@
 #1chr-15-15 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Stangen, → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#wer-traegt-die-lade
+ }
+ {
+  <i>so wie Mose geboten hatte nach dem Wort Jehovas</i>, §1chr-14-16
  }
 #}
 #1chr-15-16 {
@@ -39211,6 +39282,9 @@
  }
 #}
 #1chr-21-26 {
+ {
+  David opfert Brandopfer und Friedensopfer, vgl §ps-51-18, §1sam-15-22
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Feuer#feuer-vom-himmel, vgl §3mo-9-24
  }
@@ -42386,6 +42460,11 @@
   §neh-7-26 weist für «→ biblisches/Orte/Bethlehem und Netopha» nur eine Zahl aus.
  }
 #}
+#esr-2-25 {
+ {
+  <i>Kirjath-Arim</i> wird in §neh-7-29 Kirjath-Jearim genannt.
+ }
+#}
 #esr-2-28 {
  {
   <i>Ai</i> wurde unter Josua zerstört (§jos-8-22) und zu einem ewigen Trümmerhaufen gemacht §jos-8-28
@@ -43659,6 +43738,11 @@
 #neh-7-26 {
  {
   → biblisches/Orte/Bethlehem: §esr-2-21, Netopha §esr-2-22
+ }
+#}
+#neh-7-29 {
+ {
+  <i>Kirjath-Jearim</i> wird in §esr-2-25 Kirjath-Arim genannt.
  }
 #}
 #neh-7-33 {
@@ -47658,7 +47742,7 @@
 #}
 #ps-51-18 {
  {
-  <i>Du hat keine Lust an Schlachtopfern … an Brandopfern hast du kein Wohlgefallen</i> vgl §1sam-15-22, §mk-12-33, §Vps-51-8
+  <i>Du hat keine Lust an Schlachtopfern … an Brandopfern hast du kein Wohlgefallen</i> vgl §1sam-15-22, §1chr-21-26, §mk-12-33, §Vps-51-8
  }
 #}
 #ps-51-19 {
@@ -49130,7 +49214,7 @@
 #}
 #ps-89-21 {
  {
-  Vgl <a class='kom' href='#Iapg-13-22'>Apg&nbsp;13,22</a> und <a href='http://bibel.renenyffenegger.ch/1sam_13.html#v14'>1.&nbsp;Sam&nbsp;13,14</a>.
+  <i>Ich habe David gefunden</i>: Vgl §+apg-13-22 und §1sam-13-14.
  }
 #}
 #ps-89-38 {
@@ -58322,7 +58406,7 @@
   <i>Mit Erkenntnis und Einsicht</i> vgl §jer-9-23
  }
  {
-  <i>Nach meinem Herzen</i>: <a class='kom' href='#I1sam-2-35'>1.&nbsp;Sam&nbsp;2,35</a>.
+  <i>Nach meinem Herzen</i>: §+1sam-2-35.
  }
 #}
 #jer-3-16 {
@@ -90315,8 +90399,8 @@ sa:
 #}
 #apg-13-22 {
  {
-  Saul war nicht nach dem Herzen Gottes: <a class='kom' href='#I1sam-13-14'>1.&nbsp;Sam&nbsp;13,14</a>.
-  Vgl auch <a href='http://bibel.renenyffenegger.ch/ps_89.html#v21'>Ps&nbsp;89,21</a>.
+  Saul war nicht nach dem Herzen Gottes: §+1sam-13-14.
+  Vgl auch §ps-89-21.
  }
 #}
 #apg-13-23 {
