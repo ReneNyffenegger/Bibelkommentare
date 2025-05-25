@@ -28927,7 +28927,7 @@
 #}
 #1sam-8-5 {
  {
-  <i>setze einen König über uns ein, …, gleich allen Nationen</i>: §+5mo-17-14.
+  <i>setze einen König über uns ein, …, gleich allen Nationen</i>: §+5mo-17-14, §1sam-12-11-12
  <br>
   Der Wunsch einen König einzusetzen war vielleicht eine Folge davon, dass während der Zeit der Richter
   → biblisches/Bücher/prophetisch/Richter#ri-kein-koenig[kein König über Israel war].
@@ -28944,7 +28944,7 @@
   Beachte: <i>Samuel</i> setzt sich aus den Worten »hören« und »Gott« zusammen. Nun soll er auf die Stimme des Volkes hören.
  }
  {
-  <i>Höre auf die Stimme des Volkes</i> §1sam-15-24
+  <i>Höre auf die Stimme des Volkes</i> §V1sam-8-22, §1sam-12-1, §1sam-15-24
  }
  {
   <i>mich haben sie verworfen</i>, vgl §1sam-10-19, §1sam-15-23
@@ -28958,6 +28958,11 @@
 #1sam-8-9 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1sam_10.html#v25'>1.&nbsp;Sam&nbsp;10,25</a>.
+ }
+#}
+#1sam-8-22 {
+ {
+  <i>Höre auf die Stimme</i> (des Volkes), §1sam-12-1, §V1sam-8-9
  }
 #}
 @}
@@ -28986,6 +28991,9 @@
  }
  {
   Ist <i>Bekorath</i> dieselbe Person wie «Beker», §1mo-46-21? Vgl §1chr-7-6
+ }
+ {
+  TODO: §1sam-14-51
  }
  {
   TODO: <i>Bechorat</i> <span class='hebr'>בְּכוֹרַת</span> (Strongs 1064, 1x) ist offenbar die weibliche Form von 'Erstling' (Strongs 1062).
@@ -29290,6 +29298,11 @@
 #}
 @}
 @1. Samuel 12 {
+#1sam-12-1 {
+ {
+  <i>Ich habe auf eure Stimme gehört in allem</i> §1sam-8-7, §1sam-8-22
+ }
+#}
 #1sam-12-2 {
  {
   <i>meine Söhne sind bei euch</i>, sie wandeln aber nicht in Samuels wegen: §1sam-8-5
@@ -29326,7 +29339,10 @@
 #}
 #1sam-12-12 {
  {
-  <i>Nahas</i>: <a class='kom' href='#I1sam-11-1'>1.&nbsp;Sam&nbsp;11,1</a>.
+  <i>Nahas</i>: §+1sam-11-1.
+ }
+ {
+  <i>Ein König soll über uns regieren</i> §1sam-8-5
  }
 #}
 #1sam-12-13 {
@@ -29399,6 +29415,11 @@
   <i>Das Volk versteckte sich in den Höhlen</i> vgl §jos-10-16, §offb-16-15
  <br>
   Das Volk kommt in §1sam-14-11 aus den «Löchern» hervor.
+ }
+#}
+#1sam-13-7 {
+ {
+  <i>Das ganze Volk zitterte hinter Saul her</i> vgl §1sam-28-5
  }
 #}
 #1sam-13-8 {
@@ -29557,6 +29578,11 @@
 #1sam-14-50 {
  {
   Auch eine von → biblisches/Personen/David[Davids] Frauen hiess <i>Achinoam</i> (<a href='http://bibel.renenyffenegger.ch/1sam_25.html#v43'>1.&nbsp;Sam&nbsp;25,43</a>).
+ }
+#}
+#1sam-14-51 {
+ {
+  Vgl §1sam-9-1
  }
 #}
 @}
@@ -29774,7 +29800,7 @@
 #}
 #1sam-16-12 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1sam_17.html#v42'>1.&nbsp;Sam&nbsp;17,42</a>.
+  <i>rötlich … und von gutem Ansehen</i> §1sam-17-42.
  }
 #}
 #1sam-16-13 {
@@ -29874,7 +29900,7 @@
 #}
 #1sam-17-42 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1sam_16.html#v12'>1.&nbsp;Sam&nbsp;16,12</a>.
+  <i>rötlich, schön von Ansehen</i> §1sam-16-12.
  }
 #}
 #1sam-17-43 {
@@ -30475,12 +30501,17 @@
 #}
 #1sam-28-5 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern
+ }
+ {
+  Saul scheint einen ängstlichen Charakter zu haben, vgl §1chr-10-3
+ <br>
+  Vgl mit §1sam-13-7, wo das Volk hinter Saul herzittert.
  }
 #}
 #1sam-28-6 {
  {
-  Aber Jehova antwortete ihm nicht</i> vgl §1sam-14-37
+  Aber Jehova antwortete ihm nicht</i> vgl §1sam-14-37, §1chr-10-14
  }
  {
   Beachte: die → biblisches/Eigene-Uebersetzung/Konkordanz/Urim-und-Thummim[Urim] gehören in das <i>Brustschild des Gerichtes</i> (§2mo-28-30, §3mo-8-8) welches nicht vom Ephod verrückt werden soll (§2mo-28-28).
@@ -30551,6 +30582,11 @@
   <i>Abjatar</i> und das <i>Ephod</i>: <a class='kom' href='#I1sam-23-9'>1.&nbsp;Sam&nbsp;23,9</a>.
  }
 #}
+#1sam-30-8 {
+ {
+  <i>David befragte Jehova</i> §2sam-5-19, §1chr-14-10
+ }
+#}
 #1sam-30-10 {
  {
   Beachte, dass 400 Amalekiter fliehen werden (Vers 17).
@@ -30576,6 +30612,9 @@
  }
 #}
 #1sam-30-17 {
+ {
+  David kommt nach der Schlacht gegen die Amalekiter nach Ziklag(?) zurück, §2sam-1-1
+ }
  {
   Der überrest der Amalekiter scheint von den Söhnen Simeons zur Zeit Hiskias geschlagen zu werden (<a href='http://bibel.renenyffenegger.ch/1chr_4.html#v41'>1.&nbsp;Chr&nbsp;4,41-43</a>).
   <br>Amalek s.a: <a class='kom' href='#I1mo-14-7'>1.&nbsp;Mo&nbsp;14,7</a>.
@@ -30663,6 +30702,9 @@
   <i>Und es geschah nach dem Tod</i>: <a class='kom' href='#Ijos-1-1'>Jos&nbsp;1,1</a>.
  }
  {
+  <i>Schlacht der Amalekiter</i> §1sam-30-17
+ }
+ {
   TODO: Besteht ein Zusammenhang, dass → biblisches/Personen/David hier eine Schlacht gegen die Amalekiter hatte, und dass ein Amalekiter (angeblich?) Saul umgebracht hatte
   (<a href='http://bibel.renenyffenegger.ch/2sam_1.html#v8'>Vers 8</a>)?
  }
@@ -30675,6 +30717,11 @@
 #2sam-1-8 {
  {
   TODO: Siehe <a class='kom' href='#I1sam-15-3'>1.&nbsp;Sam&nbsp;15,3</a>.
+ }
+#}
+#2sam-1-15 {
+ {
+  §2sam-4-10
  }
 #}
 #2sam-1-16 {
@@ -30777,6 +30824,11 @@
   <i>Drei Söhne der Zeruja</i>: §1chr-2-16
  }
 #}
+#2sam-2-23 {
+ {
+  Asael wird von Joab gerächt: §2sam-3-27
+ }
+#}
 #2sam-2-24 {
  {
   <i>Amma</i> <span class='hebr'>אַמָּה</span> (Strongs 522), dasselbe Wort wie für Elle.
@@ -30856,8 +30908,11 @@
 #}
 #2sam-3-27 {
  {
-   TODO: Ist Joab ein Bluträcher und hätte das Gesetz über die Zufluchtsstädte angewendet werden müssen (<a class='kom' href='#I4mo-35-6'>4.&nbsp;Mo&nbsp;35,6</a>).
-   → biblisches/Orte/Hebron war eine solche → biblisches/Eigene-Uebersetzung/Konkordanz/Zufluchtsstadt: <a class='kom' href='#Ijos-20-7'>Jos&nbsp;20,7</a>.
+  §2sam-2-23
+ }
+ {
+  TODO: Ist Joab ein Bluträcher und hätte das Gesetz über die Zufluchtsstädte angewendet werden müssen (<a class='kom' href='#I4mo-35-6'>4.&nbsp;Mo&nbsp;35,6</a>).
+  → biblisches/Orte/Hebron war eine solche → biblisches/Eigene-Uebersetzung/Konkordanz/Zufluchtsstadt: <a class='kom' href='#Ijos-20-7'>Jos&nbsp;20,7</a>.
  }
 #}
 #2sam-3-30 {
@@ -30901,6 +30956,11 @@
   TODO: 'gelähmt war': der Niphal von <span class='hebr'>פָּסַח</span> (Strongs 6452) (vgl <a class='kom' href='#I2mo-12-13'>2.&nbsp;Mo&nbsp;12,13</a>).
  }
 #}
+#2sam-4-10 {
+ {
+  §2sam-1-15
+ }
+#}
 #2sam-4-12 {
  {
   <i>Hände und Füsse abhauen</i> vgl §ri-1-6
@@ -30911,6 +30971,9 @@
 #2sam-5-1 {
  {
   §1chr-11-1
+ }
+ {
+  <i>Mein Gebein und mein Fleisch</i> vgl §2sam-19-13
  }
 #}
 #2sam-5-2 {
@@ -30998,6 +31061,11 @@
   Die → biblisches/Grundtext/LXX[Septuaginta] übersetzt Tal der → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Rephaiter mit «κοιλάδα τῶν τιτάνων» (Tal der → Geschichte/prähistorisch/Griechische-Mythologie/Titanen).
  <br>
   Ebenso in §V2sam-5-22
+ }
+#}
+#2sam-5-19 {
+ {
+  <i>David befragte den Herrn</i> §2sam-5-19
  }
 #}
 #2sam-5-20 {
@@ -31236,7 +31304,7 @@
   TODO: <span class='gt'><i>Strom</i>: Qere fügt hinzu: «Euphrat». Vgl §1chr-18-3, wo der Euphrat erwähnt wird</span>
  }
  {
-  TODO: Vgl Hadadeser, vermutlich in der Nähe des Stromes, mit Hadareser in §2sam-10-16
+  Vgl Hadadeser, vermutlich in der Nähe des Stromes, mit Hadareser in §2sam-10-16
  }
 #}
 #2sam-8-4 {
@@ -31307,7 +31375,7 @@
 #}
 #2sam-8-17 {
  {
-  Beachte, <i>Achitub</i>, der Vater <i>Zadoks</i> scheint nicht der Nachkomme Pinehas <a href='http://bibel.renenyffenegger.ch/1sam_14.html#v3'>1.&nbsp;Sam&nbsp;14,3</a>)
+  Beachte, <i>Achitub</i>, der Vater <i>Zadoks</i> scheint nicht der Nachkomme Pinehas (<a href='http://bibel.renenyffenegger.ch/1sam_14.html#v3'>1.&nbsp;Sam&nbsp;14,3</a>)
   zu sein, sondern in einer andern Linie zu sein (<a href='http://bibel.renenyffenegger.ch/1chr_6.html#v35'>1.&nbsp;Chr&nbsp;6,35-38</a>).
  }
  {
@@ -31321,6 +31389,9 @@
   <i>Krondienser</i> (Sch2K: Minister): <span class='hebr'>כֹּהֵן</span> (Strongs 3548), häufig mit «Priester» übersetzt. Vgl aber Paralellstelle
   §1chr-18-17, wo sie «erste» (<span class='hebr'>רִאשׁוֹן</span> Strongs 7223) genannt werden.
   <br>Ebenso §2sam-20-26, §1koe-4-5
+ }
+ {
+  <i>Benaja über die Kerethiter und über Pelethiter</i> §2sam-20-23
  }
  {
   <i>Kreter</i> siehe <a class='kom' href='#I1sam-30-14'>1.&nbsp;Sam&nbsp;30,14</a>.
@@ -31346,6 +31417,8 @@
 #2sam-9-13 {
  {
   <i>Mephiboset … war lahm …</i> §+2sam-5-8.
+ <br>
+  Seine Füße: §2sam-19-25
  }
 #}
 @}
@@ -31367,7 +31440,7 @@
 #}
 #2sam-10-16 {
  {
-  TODO: Hadareser, vgl §2sam-8-3
+  Hadareser, vgl §2sam-8-3
  }
 #}
 @}
@@ -31433,6 +31506,11 @@
 #}
 @}
 @2. Samuel 12 {
+#2sam-12-1 {
+ {
+  <i>Der Herr sandte Nathan</i> vgl §ps-51-2
+ }
+#}
 #2sam-12-3 {
  {
   <i>Becher</i> (Strongs 3563): <a class='kom' href='#I1mo-40-11'>1.&nbsp;Mo&nbsp;40,11</a>
@@ -31452,6 +31530,11 @@
 #2sam-12-9 {
  {
    Vgl mit <i>Sauls Verwerfung des Wortes des HERRN</i> in <a class='kom' href='#I1sam-15-23'>1.&nbsp;Sam&nbsp;15,23</a>.
+ }
+#}
+#2sam-12-12 {
+ {
+  <i>vor ganz Israel und vor der Sonne</i> vgl §2sam-16-22
  }
 #}
 #2sam-12-13 {
@@ -31555,6 +31638,11 @@
 #2sam-14-2 {
  {
   <i>klug</i>: <a class='kom' href='#I2sam-13-3'>2.&nbsp;Sam&nbsp;13,3</a>.
+ }
+#}
+#2sam-14-7 {
+ {
+  <i>Kohle</i>: Sch2K übersetzt mit «Funke».
  }
 #}
 #2sam-14-26 {
@@ -31666,6 +31754,11 @@
   Paltiel, der Mann Michals weinte bis <i>Bachurim</i>, als Abner/Ischboset sie zurück zu → biblisches/Personen/David führte: <a href='http://bibel.renenyffenegger.ch/2sam_3.html#v16'>2.&nbsp;Sam&nbsp;3,16</a>.
  }
 #}
+#2sam-16-7 {
+ {
+  <i>Du Mann des Blutes</i> vgl §1chr-22-8
+ }
+#}
 #2sam-16-8 {
  {
   <i>Blut</i> ist im Grundtext im Plural, vgl §2chr-24-25, §joh-1-13
@@ -31696,6 +31789,11 @@
 #2sam-16-21 {
  {
   Die <i>zehn Nebenfrauen</i>: <a class='kom' href='#I2sam-15-16'>2.&nbsp;Sam&nbsp;15,16</a>.
+ }
+#}
+#2sam-16-22 {
+ {
+  <i>Vor den Augen von ganz Israel</i> vgl §2sam-12-11-12
  }
 #}
 #2sam-16-23 {
@@ -31746,7 +31844,7 @@
   Amasa wird in <a href='http://bibel.renenyffenegger.ch/1koe_2.html#v32'>1.&nbsp;Kö&nbsp;2,32</a> 'Heerführer Judas' genannt.
  }
  {
-  Vgl <i>Jithra, den Israeliten</i> mit <i>Jehter, dem Ismaeliter</i> §1chr-2-17
+  Vgl <i>Jithra, den Israeliten</i> mit <i>Jether, dem Ismaeliter</i> §1chr-2-17
  }
 #}
 #2sam-17-29 {
@@ -31798,6 +31896,11 @@
   TODO: siehe <i>Salbungen von Königen</i> <a class='kom' href='#I1sam-15-1'>1.&nbsp;Sam&nbsp;15,1</a>.
  }
 #}
+#2sam-19-13 {
+ {
+  <i>Mein Gebein und mein Fleisch</i> vgl §2sam-5-1
+ }
+#}
 #2sam-19-16 {
  {
    → biblisches/Orte/Gilgal
@@ -31814,10 +31917,14 @@
   §1koe-2-8
  }
  {
-  TODO Simei hat dem Obersten geflucht (<a class='kom' href='#I2sam-16-5'>2.&nbsp;Sam&nbsp;16,5</a>).
-  Hier sagt → biblisches/Personen/David, Simei solle leben, gebietet aber Salomon, diesen 'mit Blut ins Totenreich' hinunterzubringen (<a href='http://bibel.renenyffenegger.ch/1koe_2.html#v9'>1.&nbsp;Kö&nbsp;2,9</a>).
-  <br>In <a href='http://bibel.renenyffenegger.ch/1koe_2.html#v36'>1.&nbsp;Kö&nbsp;2,36-37</a> sagt Salomo, dass Simei sterben muss, wenn er den Kidron
-  überschreitet.
+  Simei hat dem Obersten geflucht (§+2sam-16-5). Hier sagt → biblisches/Personen/David, Simei solle leben, gebietet aber Salomon, diesen «mit Blut in den Scheol hinabfahren laßen» hinunterzubringen, §1koe-2-9.
+ <br>
+  In §1koe-2-36-37 sagt Salomo, dass Simei sterben muss, wenn er den Kidron überschreitet.
+ }
+#}
+#2sam-19-25 {
+ {
+  Mephibosets Füße waren auch lahm, §2sam-4-4, §2sam-9-13
  }
 #}
 #2sam-19-38 {
@@ -31845,7 +31952,12 @@
 #}
 #2sam-20-10 {
  {
-  Mord an Amasa: siehe <a class='kom' href='#I2sam-3-30'>2.&nbsp;Sam&nbsp;3,30</a>.
+  Mord an Amasa: siehe §+2sam-3-30, §1koe-2-32
+ }
+#}
+#2sam-20-23 {
+ {
+  <i>Benaja über die Kerethiter und über Pelethiter</i> §2sam-8-18
  }
 #}
 #2sam-20-26 {
@@ -31857,7 +31969,7 @@
 @2. Samuel 21 {
 #2sam-21-1 {
  {
-  Die Israeliten hatten einen Bund mit den Gibeonitern geschlossen (<a href='http://bibel.renenyffenegger.ch/jos_9.html#v15'>Jos&nbsp;9,15</a>).
+  Die Israeliten hatten einen Bund mit den Gibeonitern geschlossen, §jos-9-15
  }
 #}
 #2sam-21-6 {
@@ -31904,9 +32016,9 @@
   <i>daß du die Leuchte Israels nicht auslöschest</i> vgl §+1sam-3-3
  }
  {
-  TODO Vgl <i>Leuchte</i> und <i>→ biblisches/Personen/David</i> mit
-  <a href='http://bibel.renenyffenegger.ch/1koe_15.html#v4'>1.&nbsp;Kö&nbsp;15,4</a> und
-  <a href='http://bibel.renenyffenegger.ch/2chr_21.html#v7'>2.&nbsp;Chr&nbsp;21,7</a>.
+  TODO Vgl <i>Leuchte</i> und <i>→ biblisches/Personen/David</i> mit §1koe-15-4 und §2chr-21-7.
+ <br>
+  Vgl auch §2sam-22-29
  }
 #}
 #2sam-21-18 {
@@ -31991,6 +32103,11 @@
 #2sam-22-26 {
  {
   Hier: <span class='hebr'>גִּבּ֥וֹר</span> (Strongs 1368), in der Parallelstelle §ps-18-26: <span class='hebr'>גְּבַ֥ר</span> (Strongs 1399)
+ }
+#}
+#2sam-22-29 {
+ {
+  TODO: du bist meine <i>Leucte</i> vgl §2sam-21-17
  }
 #}
 #2sam-22-31 {
@@ -32162,6 +32279,11 @@
   TODO: <span class='hebr'>איש חי</span> oder <span class='hebr'>חיל</span>?
  }
 #}
+#2sam-23-23 {
+ {
+  <i>geheimer Rat</i> vgl §1sam-30-17
+ }
+#}
 #2sam-23-24 {
  {
   Elchanan, der Sohn Dodos, von → biblisches/Orte/Bethlehem, vgl §2sam-21-19, §1chr-11-26
@@ -32222,6 +32344,11 @@
    <a href='http://bibel.renenyffenegger.ch/1chr_27.html#v23'>1.&nbsp;Chr&nbsp;27,23</a>).
    <br>Joab hat nicht fertig gezählt: <a href='http://bibel.renenyffenegger.ch/1chr_27.html#v24'>1.&nbsp;Chr&nbsp;27,24</a>.
    <br>Salomo lässt die Fremdlinge zählen: <a href='http://bibel.renenyffenegger.ch/2chr_2.html#v17'>2.&nbsp;Chr&nbsp;2,17</a> (wo nichts zu passieren scheint).
+ }
+#}
+#2sam-24-4 {
+ {
+  §1chr-21-4
  }
 #}
 #2sam-24-5 {
@@ -32363,11 +32490,6 @@
   §2sam-19-24
  }
 #}
-#1koe-2-9 {
- {
-  TODO: Siehe <a class='kom' href='#I2sam-19-24'>2.&nbsp;Sam&nbsp;19,24</a>.
- }
-#}
 #1koe-2-10 {
  {
   → biblisches/Personen/David wird wieder auferstehen:
@@ -32415,6 +32537,11 @@
  }
  {
   Dieses <i>Wort des HERRN</i> scheint in <a class='kom' href='#I1sam-3-11'>1.&nbsp;Sam&nbsp;3,11</a> geredet worden zu sein.
+ }
+#}
+#1koe-2-32 {
+ {
+  <i>Mord an Amasa</i>: §2sam-20-10
  }
 #}
 #1koe-2-33 {
@@ -38437,6 +38564,11 @@
   Während Israel als ganzes vor den Philistern flohen, waren die Rubeniter siegreich gegen die Hageriter, §1chr-5-10. Vgl §1chr-11-13
  }
 #}
+#1chr-10-3 {
+ {
+  Saul scheint einen ängstlichen Charakter zu haben, vgl §1sam-28-5
+ }
+#}
 #1chr-10-6 {
  {
   §1sam-31-6
@@ -38455,10 +38587,17 @@
   Saul stirbt wegen seiner <i>Treulosigkeit</i>, vgl mit Juda, das wegen seiner <i>Untreue</i> nach Babel weggeführt wurde, §1chr-9-1  (s. a. §1chr-5-25-26)
  }
  {
+  <i>weil er eine Totenbeschwörerin aufsuchte</i>: §1sam-1sam-28-7.
+ <br>
   Saul hatte ursprünglich die Totenbeschwörer und die Wahrsager aus dem Land weggeschafft, §1sam-28-3
  }
  {
   Vgl mit David, der den Herrn befragte, §1chr-14-10, und der tat, wie Gott ihm geboten hatte, §1chr-14-16
+ }
+#}
+#1chr-10-14 {
+ {
+  Saul wollte eigentlich Jehova befragen, aber Er antwortete nicht, §1sam-28-6
  }
 #}
 @}
@@ -38708,14 +38847,14 @@
 #}
 #1chr-14-10 {
  {
-  <i>David befragte Gott</i> vgl §1chr-13-3
+  <i>David befragte Gott</i> vgl §1chr-13-3, §1sam-30-8
  <br>
   Vgl mit Saul, der eine Totenbeschwörerin aufsuchte, um sie zu befragen, und deswegen starb, §1chr-10-13
  }
 #}
 #1chr-14-16 {
  {
-  <i>David tat, wie Gott ihm geboten hatte</i> Vgl mit Saul, der Gottes Wort nicht beobachtet hatte, §1chr-10-13.
+  <i>David tat, wie Gott ihm geboten hatte</i>. Vgl mit Saul, der Gottes Wort nicht beobachtet hatte, §1chr-10-13.
  <br>
   Beachte, dass David nun auch dafür sorgen wird, dass die Leviten die Lade auf ihren Schultern tragen, wie Mose nach dem Wort Jehovas geboten hat, §1chr-15-15
  }
@@ -39086,7 +39225,7 @@
 #}
 #1chr-17-7 {
  {
-  <i>Trift</i>: <a class='kom' href='#I2sam-7-8'>2.&nbsp;Sam&nbsp;7,8</a>.
+  §2sam-7-8.
  }
  {
   <i>David, der Fürst</i>: §+1chr-11-2, vgl §1koe-14-7, §1koe-16-2
@@ -39252,6 +39391,11 @@
   §2sam-24-1, vgl §4mo-23-10
  }
 #}
+#1chr-21-4 {
+ {
+  §2sam-24-4
+ }
+#}
 #1chr-21-5 {
  {
   Vgl die hier genannten Zahlen mit jenen in §2sam-24-9
@@ -39311,7 +39455,7 @@
 #}
 #1chr-22-8 {
  {
-  <i>Du hast Blut in Menge vergossen und große Kriege geführt</i>: §1chr-28-3
+  <i>Du hast Blut in Menge vergossen und große Kriege geführt</i>: §1chr-28-3, vgl §2sam-16-7
  }
  {
   TODO: <i>Wort des HERRN, das an David ergeht</i>: <a class='kom' href='#I2sam-7-4'>2.&nbsp;Sam&nbsp;7,4</a>.
@@ -39740,6 +39884,9 @@
   -
   Auch Hiram ist ein Freund Davids §1koe-5-15
  }
+ {
+  <i>Rat des Königs</i> vgl §2sam-23-23
+ }
 #}
 #1chr-27-34 {
  {
@@ -39755,7 +39902,7 @@
 #}
 #1chr-28-3 {
  {
-  <i>du bist ein Kriegsmann und hast Blut vergossen</i>:§1chr-22-8
+  <i>du bist ein Kriegsmann und hast Blut vergossen</i>: §1chr-22-8
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/ps_17.html#v4'>Ps&nbsp;17,4</a>: David war nicht gewalttätig.
@@ -47710,9 +47857,9 @@
 #}
 @}
 @Psalm 51 {
-#ps-51-1 {
+#ps-51-2 {
  {
-  <a class='kom' href='#I2sam-12-13'>2.&nbsp;Sam&nbsp;12,13</a>.
+  <i>als Nathan zu ihm kam</i> §2sam-12-1
  }
 #}
 #ps-51-4 {
@@ -47723,6 +47870,9 @@
 #ps-51-6 {
  {
   Verweis §roem-3-4.
+ }
+ {
+  §+2sam-12-13.
  }
 #}
 #ps-51-7 {
@@ -48814,6 +48964,8 @@
 #ps-78-70 {
  {
   <i>David, der Schafhirte</i>: §+1sam-16-11.
+ <br>
+  <i>… und nahm ihn von den Hürden der Schafe</i> §2sam-7-8
  }
  {
   Vgl mit anderen Versen von Asaph in §ps-80-2.
