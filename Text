@@ -30865,14 +30865,12 @@
   §1chr-3-2
  }
  {
-  Maacha, die Mutter Absaloms, war von <i>Geschur</i>. In <a href='http://bibel.renenyffenegger.ch/2sam_13.html#v37'>2.&nbsp;Sam&nbsp;13,37</a> flieht
-  Absalom nach Geschur.
+  → biblisches/Personen/Maaka, die Mutter Absaloms, war die Tochter des Königs von <i>Geschur</i>. In §2sam-13-37 flieht Absalom nach Geschur.
+ <br>
+  Maaka ist auch der Name der Tochter Absaloms.
  }
  {
-  Absalom (<span class='hebr'>אֲבּישָׁלוֹם</span>, Strongs 53) bedeutet etwa 'Mein Vater ist Friede'.
-  <br>Absoloms Mutter heisst Maacha; Rehabeam nimmt Maacha, eine Tochter eines Absoloms zur Frau. Diese Maacha hat er lieber als alle andern
-     Frauen (<a href='http://bibel.renenyffenegger.ch/2chr_11.html#v20'>2.&nbsp;Chr&nbsp;11,20-21</a>). Frage: ist dieser Absolom derselbe wie
-     der Sohn Davids? Beachte auch, dass Absaloms Frau Maacha hiess (<a href='http://bibel.renenyffenegger.ch/2sam_13.html#v37'>2.&nbsp;Sam&nbsp;13,37</a>).
+  → biblisches/Personen/Absalom
  }
 #}
 #2sam-3-5 {
@@ -33608,6 +33606,11 @@
   wo Rehabeam 'Fürst über mein Volk' genannt wird.
  }
 #}
+#1koe-11-36 {
+ {
+  <i>Leuchte</i>: §1koe-15-4, §2koe-8-19
+ }
+#}
 #1koe-11-40 {
  {
   Vgl §2chr-10-2
@@ -33746,7 +33749,7 @@
 #}
 #1koe-13-30 {
  {
-  TODO: Diese Grab wird von Josia in in <a href='http://bibel.renenyffenegger.ch/2koe_23.html#v17'>2.&nbsp;Kö&nbsp;23,17-18</a> verschont.
+  Diese Grab wird von Josia in in §2koe-23-17-18 verschont.
  }
 #}
 #1koe-13-31 {
@@ -33894,7 +33897,10 @@
 #}
 #1koe-15-2 {
  {
-  Vgl <i>Maacha, Tochter Abisaloms</i> mit <i>Maacha, Tochter Absaloms</i> (<a href='http://bibel.renenyffenegger.ch/2chr_11.html#v20'>2.&nbsp;Chr&nbsp;11,20</a>)
+  → biblisches/Personen/Maaka ist auch die Mutter Asas, des Sohnes Abijams, §V1koe-15-10
+ }
+ {
+  TODO: Vgl <i>Maacha, Tochter Abisaloms</i> mit <i>Maacha, Tochter Absaloms</i> (<a href='http://bibel.renenyffenegger.ch/2chr_11.html#v20'>2.&nbsp;Chr&nbsp;11,20</a>)
   mit <i>Michaja, Tochter Uriels von Gibea</i> (<a href='http://bibel.renenyffenegger.ch/2chr_13.html#v2'>2.&nbsp;Chr&nbsp;13,2</a>).
   <br>Auch Asas Mutter wird 'Macha, Tochter Abisaloms' genannt (<a href='http://bibel.renenyffenegger.ch/1koe_15.html#v10'>1.&nbsp;Kö&nbsp;15,10</a>.
  }
@@ -33913,14 +33919,21 @@
 #}
 #1koe-15-4 {
  {
-  <i>Um Davids willen</i>: vgl <a href='http://bibel.renenyffenegger.ch/2koe_8.html#v19'>2.&nbsp;Kö&nbsp;8,19</a>,
-  <a href='http://bibel.renenyffenegger.ch/2koe_19.html#v34'>2.&nbsp;Kö&nbsp;19,34</a>,
-  <a href='http://bibel.renenyffenegger.ch/2koe_20.html#v6'>2.&nbsp;Kö&nbsp;20,6</a>,
-  <a href='http://bibel.renenyffenegger.ch/2chr_21.html#v7'>2.&nbsp;Chr&nbsp;21,7</a> (Leuchte),
-  <a href='http://bibel.renenyffenegger.ch/jes_37.html#v35'>Jes&nbsp;37,35</a>
+  <i>Um Davids willen</i>: vgl
+  §1koe-11-36 (Leuchte),
+  §2koe-8-19,
+  §2koe-19-34,
+  §2koe-20-6,
+  §2chr-21-7 (Leuchte),
+  §jes-37-35
  }
  {
   TODO <i>Leuchte</i> und <i>David</i>: <a class='kom' href='#I2sam-21-17'>2.&nbsp;Sam&nbsp;21,17</a>.
+ }
+#}
+#1koe-15-5 {
+ {
+  <i>weil David getan hatte, … was er ihm geboten hatte …</i> vgl §1chr-14-16
  }
 #}
 #1koe-15-6 {
@@ -33959,7 +33972,7 @@
 #}
 #1koe-15-10 {
  {
-  <i>Maacha, Tochter Abisaloms</i>: <a class='kom' href='#I1koe-15-2'>1.&nbsp;Kö&nbsp;15,2</a>.
+  → biblisches/Personen/Maaka war auch die Mutter Abijams, des Vaters Asas: §+V1koe-15-2.
  }
 #}
 #1koe-15-12 {
@@ -34761,6 +34774,9 @@
 #2koe-8-19 {
  {
   §2chr-21-7
+ }
+ {
+  <i>Leuchte</i>: §1koe-11-36
  }
 #}
 #2koe-8-21 {
@@ -36271,7 +36287,7 @@
 #}
 #2koe-23-17 {
  {
-  <i>Grab</i>: <a class='kom' href='#I1koe-13-30'>1.&nbsp;Kö&nbsp;13,30</a>.
+  <i>Grab</i>: §+1koe-13-30.
  }
 #}
 #2koe-23-21 {
@@ -38854,7 +38870,7 @@
 #}
 #1chr-14-16 {
  {
-  <i>David tat, wie Gott ihm geboten hatte</i>. Vgl mit Saul, der Gottes Wort nicht beobachtet hatte, §1chr-10-13.
+  <i>David tat, wie Gott ihm geboten hatte</i> (außer in der Sache Urijas, des Hetiters, §1koe-15-5). Vgl mit Saul, der Gottes Wort nicht beobachtet hatte, §1chr-10-13.
  <br>
   Beachte, dass David nun auch dafür sorgen wird, dass die Leviten die Lade auf ihren Schultern tragen, wie Mose nach dem Wort Jehovas geboten hat, §1chr-15-15
  }
@@ -40752,7 +40768,15 @@
   <i>Abija</i>: <a class='kom' href='#I1koe-14-31'>1.&nbsp;Kö&nbsp;14,31</a>.
  }
  {
-  <i>Maacha</i>: <a class='kom' href='#I1koe-15-2'>1.&nbsp;Kö&nbsp;15,2</a>
+  → biblisches/Personen/Maaka: §+1koe-15-2
+ }
+ {
+  → biblisches/Personen/Absalom
+ }
+#}
+#2chr-11-21 {
+ {
+  <i>Maaka</i>: §2sam-3-3
  }
 #}
 @}
@@ -41011,7 +41035,7 @@
 #}
 #2chr-15-16 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim[Aschera], → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild, §1koe-15-13
+  → biblisches/Personen/Maaka, → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim[Aschera], → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild, §1koe-15-13
  }
 #}
 #2chr-15-18 {
