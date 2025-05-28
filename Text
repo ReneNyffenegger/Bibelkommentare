@@ -33957,9 +33957,6 @@
 #}
 #1koe-15-9 {
  {
-  → biblisches/Personen/Könige/Juda/Asa
- }
- {
   TODO: Asa liess offenbar wegen Baesa eine Zisterne machen (<a href='http://bibel.renenyffenegger.ch/jer_41.html#v9'>Jer&nbsp;41,9</a>).
  }
  {
@@ -33975,6 +33972,11 @@
   → biblisches/Personen/Maaka war auch die Mutter Abijams, des Vaters Asas: §+V1koe-15-2.
  }
 #}
+#1koe-15-11 {
+ {
+  → biblisches/Personen/Könige/Juda/Asa, §2chr-14-1
+ }
+#}
 #1koe-15-12 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempelhurer
@@ -33987,7 +33989,10 @@
 #}
 #1koe-15-14 {
  {
-  <i>das Herz Asas war ungeteilt mit Jehova alle seine Tage</i>: vgl mit den Worten des Sehers Hanani in §2chr-16-7
+  Gemäss §2chr-14-4 tat er <i>die Höhen</i> aus den Städten hinweg.
+ }
+ {
+  <i>das Herz Asas war ungeteilt mit Jehova alle seine Tage</i>: vgl mit den Worten des Sehers Hanani in §2chr-16-7-9
  }
 #}
 #1koe-15-15 {
@@ -33998,6 +34003,8 @@
 #1koe-15-16 {
  {
   <i>Es war Krieg zwischen Israel und Juda</i> §V1koe-15-32, vgl §1koe-14-30, §1koe-22-45
+ <br>
+  Offenbar hörte der Krieg mit Israel auf, nachdem Asa gebot, den Herrn zu suchen, §2chr-14-3-5, vgl §2chr-15-19
  }
 #}
 #1koe-15-17 {
@@ -34019,10 +34026,9 @@
 #}
 #1koe-15-20 {
  {
-  <i>Abel-Beth-Mechola</i> siehe <a class='kom' href='#I1koe-4-12'>1.&nbsp;Kö&nbsp;4,12</a>.
- }
- {
-  <i>Abel-Beth-Maacha</i> vgl mit Maacha, der Mutter Abijas (<a href='http://bibel.renenyffenegger.ch/1koe_15.html#v2'>1.&nbsp;Kö&nbsp;15,2</a>).
+  <i>Abel-Beth-Maaka</i> vgl mit → biblisches/Personen/Maaka, der Mutter Abijas, §1koe-15-2.
+ <br>
+  Vgl auch mit <i>Abel-Beth-Mechola</i>, §+1koe-4-12.
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/2koe_15.html#v29'>2.&nbsp;Kö&nbsp;15,29</a>, wo auch <i>Ijon</i>, <i>Abel-Beth-Maacha</i> und
@@ -34085,6 +34091,11 @@
 #1koe-16-7 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
+ }
+#}
+#1koe-16-8 {
+ {
+  Hier scheint Baesa im 26. Jahr Asas gestorben zu sein, in §2chr-16-1 scheint Baesa aber in Asas 36. Jahr noch zu leben.
  }
 #}
 #1koe-16-10 {
@@ -40950,7 +40961,7 @@
 @2. Chronik 14 {
 #2chr-14-1 {
  {
-  → biblisches/Personen/Könige/Juda/Asa
+  → biblisches/Personen/Könige/Juda/Asa, §1koe-15-11
  }
 #}
 #2chr-14-3 {
@@ -40958,7 +40969,15 @@
   Asas Grossvater Rehabeam hatte das Gesetz verlassen, §2chr-12-1
  }
 #}
+#2chr-14-4 {
+ {
+  Gemäss §1koe-15-14 wichen die Höhen nicht.
+ }
+#}
 #2chr-14-5 {
+ {
+  <i>es war kein Krieg gegen ihn in jenen Jahren</i>: Zur Zeit Baesas waren Juda und Israel noch im Krieg, §1koe-15-16, vgl §2chr-15-19
+ }
  {
   TODO: <i>feste Städte</i>: <a class='kom' href='#I2chr-11-5'>2.&nbsp;Chr&nbsp;11,5</a>
  }
@@ -41045,6 +41064,9 @@
 #}
 #2chr-15-19 {
  {
+  Vgl §1koe-15-16, §2chr-14-5
+ }
+ {
   TODO: Das 35. Jahr Asas fällt wohl in die Periode Omris (<a class='kom' href='#I1koe-16-23'>1.&nbsp;Kö&nbsp;16,23</a>).
   Beachte aber auch, dass Baesa im 36. Jahr der Regierung Baesas Rama baut (<a href='http://bibel.renenyffenegger.ch/2chr_16.html#v1'>2.&nbsp;Chr&nbsp;16,1</a>), obwohl
   Baesa eigentlich ca im 27 Jahr gestorben sein müsste (<a href='http://bibel.renenyffenegger.ch/1koe_15.html#v33'>1.&nbsp;Kö&nbsp;15,33</a>).
@@ -41052,6 +41074,11 @@
 #}
 @}
 @2. Chronik 16 {
+#2chr-16-1 {
+ {
+  Gemäss §1koe-16-6-8 scheint Baesa im 26. Jahr Asas gestorben zu sein. Einige Ausleger beziehen deshalb das hier erwähnte 36. Jahr auf die Reichsteilung.
+ }
+#}
 #2chr-16-2 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Schatz#schaetze-des-hauses-des-herrn
@@ -41170,6 +41197,11 @@
   Auch der HERR sitzt auf seinem Thron, §V2chr-18-18
  }
 #}
+#2chr-18-11 {
+ {
+  §2chr-20-20
+ }
+#}
 #2chr-18-13 {
  {
   Vgl §+4mo-24-13
@@ -41280,6 +41312,11 @@
 #2chr-20-19 {
  {
   → biblisches/Personen/Kahat, → biblisches/Personen/Korah/Sohn-von-Jizhar. Die Söhne von Korah starben nicht: §+4mo-26-11
+ }
+#}
+#2chr-20-20 {
+ {
+  <i>glaubt seinen Propheten, und es wird euch gelingen</i> vgl §esr-6-14, §2chr-18-11
  }
 #}
 #2chr-20-22 {
@@ -43093,6 +43130,9 @@
 #esr-6-14 {
  {
   <i>Weissagung Haggais und Sacharjas</i> §esr-5-1
+ }
+ {
+  <i>Es gelang ihnen durch die Weissagung … des Propheten</i> vgl §2chr-20-20
  }
  {
   → biblisches/Personen/Artasasta
