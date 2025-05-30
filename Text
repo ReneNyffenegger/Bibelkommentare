@@ -1687,8 +1687,7 @@
     </table><!--}-->
  }
  {
-    TODO: <i>allein</i> in eckigen Klammer. Wenn dieser Vers tatsächlich diesen Sinn hat, dann ist es bemerkenswert, dass
-    trotzdem Noahs ganze Familie ins Schiff ging.
+  TODO: <i>allein</i> in eckigen Klammer. Wenn dieser Vers tatsächlich diesen Sinn hat, dann ist es bemerkenswert, dass trotzdem Noahs ganze Familie ins Schiff ging.
  }
  {
   <i>rein</i> (<span class='hebr'>טָהוֹר</span>, Strongs 2889): hier erstes Vorkommen dieses Wortes. Beachte, dass das Gesetz über
@@ -5902,6 +5901,9 @@
   Gott wird Jakobs Namen «nochmals» ändern (<a href='http://bibel.renenyffenegger.ch/1mo_35.html#v10'>1.&nbsp;Mo&nbsp;35,10</a>), und zwar beim zweiten Mal, wo Gott
   ihm erscheint. Erst <i>danach</i> redet die Bibel von Israel statt Jakob (<a href='http://bibel.renenyffenegger.ch/1mo_35.html#v21'>1.&nbsp;Mo&nbsp;35,21</a>), nachdem
   Rahel gestorben ist (<a href='http://bibel.renenyffenegger.ch/1mo_35.html#v19'>1.&nbsp;Mo&nbsp;35,19</a>).
+ }
+ {
+  <i>Dein Name … soll Israel sein</i> vgl §1koe-18-31
  }
 #}
 #1mo-32-30 {
@@ -34149,6 +34151,11 @@
   <i>Ahab</i> wird in <a href='http://bibel.renenyffenegger.ch/1koe_21.html#v1'>1.&nbsp;Kö&nbsp;21,1</a> auch 'König von Samaria' genannt.
  }
 #}
+#1koe-16-31 {
+ {
+  <i>Zidonier</i>: Beachte, dass Elia, der gleichzeitit mit Ahab lebte, zu einer Witwe in Zidon gesandt wurde, §1koe-17-9
+ }
+#}
 #1koe-16-33 {
  {
   Die → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim[Aschera] wurden offenbar von Hesekia (?) wieder umgehauen §2chr-31-1. Vgl aber §2koe-17-10
@@ -34194,8 +34201,21 @@
 #}
 #1koe-17-9 {
  {
+  Im folgenden wird Elia von einer Witwe versorgt, in §1koe-19-6 von einem Engel.
+ }
+ {
   <i>Zarpat</i> <span class='hebr'>צָֽרְפַת</span> (Strongs 6886) ist dasselbe Wort, welches zB in <a href='http://bibel.renenyffenegger.ch/ri_7.html#v4'>Ri&nbsp;7,4</a>
   mit 'prüfen' übersetzt wird.
+ }
+ {
+  <i>Zidon</i>: Bachte, daß Ahabs Frau die Tochter des Königs von Zidon war, §1koe-16-31
+ }
+#}
+#1koe-17-12 {
+ {
+  <i>…und dann sterben</i> §V1koe-17-18
+ <br>
+  Vgl mit Elia, der darum bat, daß seine Seele stürbe, §1koe-19-4
  }
 #}
 #1koe-17-14 {
@@ -34238,9 +34258,19 @@
   <i>Wie lange hinkt ihr auf beiden Seiten?</i> vgl §jos-24-15
  }
 #}
+#1koe-18-22 {
+ {
+  <i>Ich allein bin übriggeblieben</i> §1koe-19-10, vgl mit den 7000 in Israel übriggelassenen, die ihre Knie nicht vor dem Baal gebeugt haben, §1koe-19-18
+ }
+#}
 #1koe-18-29 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Speisopfer#zeit-des-speisopfers
+ }
+#}
+#1koe-18-31 {
+ {
+  <i>Israel soll dein Name sein</i>: §1mo-32-29
  }
 #}
 #1koe-18-36 {
@@ -34260,7 +34290,12 @@
 @1. Könige 19 {
 #1koe-19-4 {
  {
-  Elia bat um seinen Tod; er musste aber → biblisches/Personen/Elia#elia-nicht-gestorben[nicht sterben], §2koe-2-11-12.
+  Elia bat um seinen Tod; er musste aber → biblisches/Personen/Elia#elia-nicht-gestorben[nicht sterben], §2koe-2-11-12. Vgl §1koe-17-12
+ }
+#}
+#1koe-19-6 {
+ {
+  Hier wird Elia von einem Engel mit Nahrung versorgt, in §1koe-17-9-ff von einer Witwe in Zidon.
  }
 #}
 #1koe-19-8 {
@@ -34270,7 +34305,10 @@
 #}
 #1koe-19-10 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden
+  <i>Ich allein bin übriggeblieben</i> §+1koe-18-22
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden
  }
 #}
 #1koe-19-11 {
@@ -34301,9 +34339,10 @@
   <br>Elisa wird in Chronik nicht erwähnt (<a class='kom' href='#I1koe-17-1'>1.&nbsp;Kö&nbsp;17,1</a>)
  }
  {
-  → biblisches/Personen/Könige/Israel/Jehu
-  <br>Jehu wird auch von Elisa gesalbt werden (<a href='http://bibel.renenyffenegger.ch/1koe_9.html#v6'>1.&nbsp;Kö&nbsp;9,6</a>). Beachte: Elisa (wie auch Jehu) wurden von Elia
-      gesalbt.
+  Bevor → biblisches/Personen/Könige/Israel/Jehu König wurde, waren noch Ahasja (2 Jahre lang, §1koe-22-52) und Joram (12 Jahre lang, §2koe-3-1) Könige.
+ }
+ {
+  Jehu wird auch von Elisa gesalbt werden (<a href='http://bibel.renenyffenegger.ch/1koe_9.html#v6'>1.&nbsp;Kö&nbsp;9,6</a>). Beachte: Elisa (wie auch Jehu) wurden von Elia gesalbt.
   <br>Vgl mit <i>Jehu, der Sohn Hananis</i>: <a class='kom' href='#I1koe-16-1'>1.&nbsp;Kö&nbsp;16,1</a>.
   <br>S.a. <i>Jehu, der Sohn Josaphats, des Sohnes Nimsis</i> §2koe-9-2
  }
@@ -34319,6 +34358,8 @@
   <i>7000, die ihre Knie nicht gebeugt haben</i>: §roem-11-4
  <br>
   vgl mit «alle Söhne Israels, 7000 Mann», §1koe-20-15.
+ <br>
+  Elia hat behauptet, er <i>allein</i> sei übriggeblieben, §1koe-18-22
  }
 #}
 @}
