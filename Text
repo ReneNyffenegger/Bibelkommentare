@@ -34604,6 +34604,11 @@
 }
 { 2. Koenige
 @2. Könige 1 {
+#2koe-1-1 {
+ {
+  §2koe-3-5
+ }
+#}
 #2koe-1-2 {
  {
   <i>Baal-Sebub</i> (<span class='hebr'>בַּעַל זְבוּב</span>, Strongs 1176) offenbar 'Herr der Fliegen', vgl <a class='kom' href='#Imt-10-25'>Mt&nbsp;10,25</a>.
@@ -34611,7 +34616,7 @@
 #}
 #2koe-1-8 {
  {
-  <i>Mantel des Elia</i>: <a class='kom' href='#I1koe-19-13'>1.&nbsp;Kö&nbsp;19,13</a>.
+  <i>Härenes Gewand und lederner Gürtel</i> vgl §mt-1-4
  }
 #}
 #2koe-1-9 {
@@ -34644,7 +34649,7 @@
 #2koe-2-1 {
  {
   → biblisches/Personen/Elia/index und Elisa: Gilgal -&gt; Bethel (Vers 2) -&gt; Jericho (Vers 4) -&gt; Jordan.
-  <br>Elisa: Jordan (Vers 13) -&gt; Jerich (Vers 18) -&gt; Bethel (Vers 23) -&gt; Karmel -&gt; Samaria (Vers 25).
+  <br>Elisa: Jordan (Vers 13) -&gt; Jerich0 (Vers 18) -&gt; Bethel (Vers 23) -&gt; Karmel -&gt; Samaria (Vers 25).
  }
  {
   → biblisches/Orte/Gilgal
@@ -34714,10 +34719,14 @@
    welches für <i>Hirten</i> verwendet wird (<span class='hebr'><span class='grey'>בַ</span>נֹּקְדִ֖ים</span>).
  }
 #}
+#2koe-3-5 {
+ {
+  §2koe-1-1
+ }
+#}
 #2koe-3-7 {
  {
-   <i>Mein Volk wie dein Volk</i> auch zwischen Ahab und Josaphat (<a href='http://bibel.renenyffenegger.ch/2chr_18.html#v3'>2.&nbsp;Chr&nbsp;18,3</a>).
-   <br>TODO: <a class='kom' href='#I1koe-14-30'>1.&nbsp;Kö&nbsp;14,30</a>.
+   <i>Mein Volk wie dein Volk</i> (und <i>willst du mit mir … in den Streit ziehen</i> ähnlich auch zwischen Ahab und Josaphat, §2chr-18-3
  }
 #}
 #2koe-3-11 {
@@ -41333,7 +41342,7 @@
 #}
 #2chr-18-3 {
  {
-  <i>Mein Volk wie dein Volk</i> auch zwischen Josaphat und Joram, §2koe-3-7
+  <i>Mein Volk wie dein Volk</i> und <i>ich will mit dir in den Streit ziehen</i> ähnlic auch zwischen Josaphat und Joram, §2koe-3-7
  }
 #}
 #2chr-18-4 {
@@ -68263,6 +68272,11 @@
  }
  {
   TODO: Dieser Aram ist wohl nur wegen dem → biblisches/Bücher/Evangelien/Matthäus[Matthäusevangelium] bekannt.
+ }
+#}
+#mt-1-4 {
+ {
+  <i>Kleidung von Kamelhaaren und einen ledernen Gürtel</i> vgl §2koe-1-8
  }
 #}
 #mt-1-5 {
