@@ -77626,7 +77626,7 @@ sa:
 #}
 #mk-14-58 {
  {
-  <i>Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel, der nicht mit Händen gemacht ist</i>: vgl mit dem Haus (§2kor-5-1) und dem vollkommneren Zelt (§hebr-9-11), die nicht
+  <i>Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel, der nicht mit Händen gemacht ist</i>: vgl mit dem Haus (§2kor-5-1) und dem vollkommeneren Zelt (§hebr-9-11), die nicht
   mit Händen gemacht sind.
  <br>
   Der Satzteil <i>der mit Händen gemacht ist</i> wird in §joh-2-19-21, §mt-26-61 und §mt-27-40 nicht erwähnt.
@@ -91619,9 +91619,10 @@ sa:
 #}
 #apg-16-10 {
  {
-  TODO: Erste (?) Erwähnung von 'wir', den Schreibern. Dieser Abschnitt scheint hier
-  bis Vers 17 zu dauern. Heisst das, dass Paulus hier Lukas getroffen hat?
-  <br>TODO: Vgl <a class='kom' href='#Iapg-20-5'>Apg&nbsp;20,5</a>. Beachte auch, dass Apg 20,5 möglicherweise wieder in Philippi ist.
+  Hier schreibt der Autor zum ersten Mal in der «wir-Form».
+  Dieser Abschnitt scheint bis §V1pg-16-17 zu gehen.
+  <br>
+  Vgl §+apg-20-5, welches ebenfalls in Troas stattfindet.
  }
 #}
 #apg-16-12 {
@@ -92645,9 +92646,9 @@ sa:
 #}
 #apg-20-5 {
  {
-   TODO: Apostelgeschichte wieder in der 'wir' Form geschrieben. TODO:
-   Möglicherweise spielt dieser Vers in Philippi und Lukas blieb in Philippi (wo die erste 'wir' Passage ist).
-   Vgl <a class='kom' href='#Iapg-16-10'>Apg&nbsp;16,10</a>.
+  Apostelgeschichte wieder in der «wir-Form» geschrieben (§+apg-16-10). Wieder spielt die Geschichte in Troas, wo möglicherweise Lukas blieb.
+ <br>
+  Dieser Abschnitt geht bis ca §apg-21-18.
  }
 #}
 #apg-20-7 {
@@ -92932,9 +92933,6 @@ sa:
  {
   → biblisches/Personen/Philippus: §+apg-8-40.
  }
- {
-  TODO: wird die 'Wir-Form' bis <a href='http://bibel.renenyffenegger.ch/apg_27.html#v1'>Apg&nbsp;27,1</a> unterbrochen?
- }
 #}
 #apg-21-10 {
  {
@@ -92971,6 +92969,11 @@ sa:
 #apg-21-18 {
  {
   → biblisches/Personen/Jakobus
+ }
+ {
+  Ende des Abschnittes, der in der «wir-Form» geschrieben ist und in §apg-20-5 beginnt.
+ <br>
+  Der nächste Abschnitt beginnt in §apg-27-1
  }
 #}
 #apg-21-19 {
@@ -93711,7 +93714,7 @@ sa:
 @Apostelgeschichte 27 {
 #apg-27-1 {
  {
-  TODO: 'Wir-Form': <a class='kom' href='#Iapg-21-8'>Apg&nbsp;21,8</a>.
+  Hier ist der Bericht wieder in der «wir-Form». Vgl §+apg-21-18.
  }
 #}
 #apg-27-2 {
@@ -97463,6 +97466,14 @@ sa:
   <i>gelehrt durch den Geist</i> vgl §joh-14-26
  }
 #}
+#1kor-2-14 {
+ {
+  <i>natürlicher Mensch</i> vgl §1kor-15-44-46
+ }
+ {
+   <i>natürlich</i>: <span class='gr'>ψυχικός</span> (Strongs 5591) Vgl §jud-1-19, §jak-3-15
+ }
+#}
 #1kor-2-16 {
  {
   <i>Christi Sinn haben</i> vgl §1kor-1-10
@@ -99586,6 +99597,11 @@ sa:
   Vgl die im Folgenden beschrieben Verschiedenheiten mit den «vielen Arten von Stimmen in der Welt», §1kor-14-10
  }
 #}
+#1kor-15-40 {
+ {
+  <i>es gibt himmlische und irdische Leiber</i> vgl §2kor-5-1
+ }
+#}
 #1kor-15-41 {
  {
   <span class='u'>Vgl Thomas Wright <i>An Original Theory Or New Hyptohesis of the Universe</i> (1750)</span>
@@ -99600,6 +99616,11 @@ sa:
  }
  {
   Vgl §+1kor-6-14.
+ }
+#}
+#1kor-15-44 {
+ {
+  <i>natürlicher Leib</i> vgl §1kor-2-14
  }
 #}
 #1kor-15-45 {
@@ -100295,9 +100316,12 @@ sa:
 @2. Korinther 5 {
 #2kor-5-1 {
  {
-  <i>Ein Haus, nicht mit Händen gemacht</i> vgl mit dem vollkommneren Zelt, das nicht mit Händen gemacht ist (§hebr-9-11) und dem Tempel, der nicht mit Händen gemacht ist (§mk-14-58). Siehe auch §apg-7-48 und §apg-17-24
+  <i>Ein Haus, nicht mit Händen gemacht</i> vgl mit dem vollkommeneren Zelt, das nicht mit Händen gemacht ist (§hebr-9-11) und dem Tempel, der nicht mit Händen gemacht ist (§mk-14-58). Siehe auch §apg-7-48 und §apg-17-24
  <br>
   Vgl auch mit dem «wahrhaftigen Zelt, welches der Herr errichtet hat, nicht der Mensch» (§hebr-8-2) und der «nicht mit Händen geschehenen Beschneidung» (§kol-2-11).
+ }
+ {
+  §1kor-15-40
  }
  {
   Hütte (Zelt) vgl §V2kor-5-4, §2petr-1-13-14
@@ -111693,6 +111717,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Weisheit von oben</i> vgl §jak-1-5, §jak-1-17.
  }
+ {
+  <i>sinnlich</i>: <span class='gr'>θυχικη</span> (Strongs 5591), vgl §1kor-2-14, §jud-1-19
+ }
 #}
 #jak-3-16 {
  {
@@ -114810,6 +114837,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #jud-1-19 {
+ {
+   <i>natürlich</i>: <span class='gr'>ψυχικός</span> (Strongs 5591) Vgl §1kor-2-14, §jak-3-15
+ }
  {
   <i>Trennung/Einheit</i>: <a class='kom' href='#Ijoh-17-23'>Joh&nbsp;17,23</a><br>
   TODO: <i>Trennungen verursachen</i> (<span class='gr'>ἀποδιορίζω</span>, Strongs 592), vgl <a class='kom' href='#I1kor-1-10'>1.&nbsp;Kor&nbsp;1,10</a>.
