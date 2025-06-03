@@ -29915,6 +29915,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
+#1sam-17-45 {
+ {
+  <i>ich (David) aber komme zu dir im Namen Jehovas der Heerscharen</i> vgl §1chr-11-9
+ }
+#}
 #1sam-17-46 {
  {
   <i>ich werde … dein Haupt von dir wegnehmen</i> §V1sam-17-54
@@ -38785,6 +38790,11 @@
   <i>Millo</i>: <a class='kom' href='#Iri-9-6'>Ri&nbsp;9,6</a>
  }
 #}
+#1chr-11-9 {
+ {
+  <i>und Jehova der Heerscharen war mit ihm (David)</i> §1sam-17-45
+ }
+#}
 #1chr-11-11 {
  {
   TODO: <i>300</i>: <a class='kom' href='#I2sam-23-18'>2.&nbsp;Sam&nbsp;23,18</a> und Vers 20.
@@ -42684,6 +42694,11 @@
  }
  {
   TODO: <a class='kom' href='#I2koe-24-17'>2.&nbsp;Kö&nbsp;24,17</a>.
+ }
+#}
+#2chr-36-15 {
+ {
+  <i>sich früh aufmachend</i>: §+jer-7-13
  }
 #}
 #2chr-36-16 {
@@ -59081,7 +59096,7 @@
 #}
 #jer-7-13 {
  {
-  <i>früh mich aufmachend</i>: §Vjer-7-25, §jer-11-7, §jer-25-3-4, §jer-29-19, §jer-32-33, §jer-35-14-15, §jer-44-4.
+  <i>früh mich aufmachend</i>: §Vjer-7-25, §jer-11-7, §jer-25-3-4, §jer-29-19, §jer-32-33, §jer-35-14-15, §jer-44-4, §2chr-36-15
  }
 #}
 #jer-7-14 {
@@ -100181,6 +100196,11 @@ sa:
   TODO <i>Dienst des Geistes</i>: <a class='kom' href='#Iapg-6-2'>Apg&nbsp;6,2</a>.
  }
 #}
+#2kor-3-11 {
+ {
+  <i>das, was hinweggetan werden sollte</i> vgl §hebr-8-13
+ }
+#}
 #2kor-3-12 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
@@ -109780,7 +109800,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Das Gesetz hat nichts vollendet</i>, aber Er wurde durch Leiden vollendet: §+hebr-2-10
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Hoffnung, <i>durch die wir Gott nahen</i>, vgl §Vhebr-7-25
  }
 #}
 #hebr-7-22 {
@@ -109791,6 +109811,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-7-25 {
  {
   <i>um sich für sie zu verwenden</i> vgl §roem-8-34
+ }
+ {
+  <i>die durch ihn Gott nahen</i> vgl §Vhebr-7-19, §hebr-10-1
  }
 #}
 #hebr-7-26 {
@@ -109956,7 +109979,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Neuer und alter Bund</i>: <a class='kom' href='#Imt-26-28'>Mt&nbsp;26,28</a>.
  }
  {
-  <i>…ist dem Verschwinden nahe.</i> vgl §hebr-9-9.
+  <i>…ist dem Verschwinden nahe.</i> vgl §hebr-9-9, §2kor-3-11
  }
  {
   Vgl den <i>alt gemachten</i> Bund mit dem neuen <i>jungen</i> Bund in §hebr-12-24.
@@ -110260,6 +110283,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>zukünftige Güter</i>: §hebr-9-11
+ }
+ {
+  <i>die Hinzunahenden</i> vgl §hebr-7-25
  }
  {
   TODO <i>Gestalt</i>: Elberfelder übersetzt mit «Ebenbild», KJV mit «image».
