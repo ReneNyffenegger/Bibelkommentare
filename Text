@@ -73381,7 +73381,7 @@
 #}
 #mt-23-38 {
  {
-  <i>Euer Haus</i>: damit ist wohl der (nun) vom Herrn verlassene Tempel gemeint, vgl §mt-21-13.
+  <i>Euer Haus</i>: damit ist wohl der (nun) vom Herrn verlassene Tempel gemeint, vgl §mt-21-13, vgl §mt-24-1
  }
  {
   §lk-13-35
@@ -73400,6 +73400,9 @@
 #mt-24-1 {
  {
   §mk-13-1, §lk-21-5
+ }
+ {
+  §+mt-23-38
  }
  {
   <i>Ankündigung der Zerstörung des → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel[Tempels]</i>: §+mk-13-1.
@@ -73444,7 +73447,7 @@
 #}
 #mt-24-4 {
  {
-  <i>daß euch niemand verführe</i> vgl §Vm-24-11, §Vmt-24-24
+  <i>daß euch niemand verführe</i> vgl §Vmt-24-11, §Vmt-24-24
  }
  {
   TODO: Das Griechische Wort für <i>verführe</i> ist evtl. verwandt mit <i>Planet</i>
@@ -73501,6 +73504,9 @@
   <br>
    S.a. §mt-7-15
  }
+ {
+  TODO: Es scheint, daß Jesus hier andeutet, daß die falschen Propheten sagen, es gar nicht nötig, in Drangsal überliefert zu werden.
+ }
 #}
 #mt-24-12 {
  {
@@ -73551,7 +73557,7 @@
   §mk-13-18
  }
  {
-  Vgl <i>Winter</i> mit «Sommer» in <a href='http://bibel.renenyffenegger.ch/mt_24.html#v32'>Vers 32</a>.
+  Vgl <i>Winter</i> mit «Sommer» in §Vmt-24-32.
  }
 #}
 #mt-24-21 {
@@ -73591,7 +73597,7 @@
  {
   Vgl die <i>falschen Christusse und falschen Propheten</i> mit Bar-Jesus, dem falschen Propheten aus
   <a href='http://bibel.renenyffenegger.ch/apg_13.html#v6'>Apg&nbsp;13,6</a>.
-  <br>Vgl auch Vers 11.
+  <br>Vgl auch §Vmt-24-11, §Vmt-24-4
  }
  {
   Vgl §5mo-13-2 Wenn in deiner Mitte ein Prophet aufsteht, … und er gibt dir ein → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Wunder[Zeichen oder ein Wunder];
@@ -73705,6 +73711,9 @@
    die Sterne auf die Erde fallen, wie ein <i>Feigenbaum</i>, der seine unreifen Früchte abwirft.
         <br><i>Gleichnisse in den Evangelien</i>: §+mt-13-3.
  }
+ {
+  <i>Sommer</i> vgl §Vmt-24-20
+ }
 #}
 #mt-24-33 {
  {
@@ -73778,7 +73787,7 @@
 #}
 #mt-24-42 {
  {
-  Vgl §offb-3-3
+  <i>zu welcher Stunde</i> Vgl §offb-3-3, §Vmt-24-50
  }
  {
   Vgl §+lk-12-37
@@ -81529,13 +81538,10 @@ sa:
 #}
 #lk-13-35 {
  {
-  <i>Siehe, euer Haus wird euch überlassen</i>: Eine Folge davon scheint zu sein, dass es sich entzweit, §lk-12-52
+  <i>Siehe, euer Haus wird euch überlassen</i>: Eine Folge davon scheint zu sein, dass es sich entzweit, §lk-12-52, vgl §mt-23-38-39
  }
  {
   <i>Ihr werdet mich nicht sehen</i> vgl §lk-17-22, §mk-14-62, §joh-16-16-ff
- }
- {
-  §mt-23-38-39
  }
 #}
 @}
