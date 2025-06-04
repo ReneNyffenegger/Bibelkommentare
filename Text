@@ -31452,6 +31452,9 @@
 @2. Samuel 11 {
 #2sam-11-1 {
  {
+  §1chr-20-1
+ }
+ {
   Warum blieb → biblisches/Personen/David in Jerusalem, wo doch die Zeit für die Könige war, in den Kampf zu ziehen?
  }
  {
@@ -31488,6 +31491,11 @@
   Damit sind wohl die 7 Tage aus §3mo-15-19 gemeint.
   <br>
   Alternativ besteht die Mölgichkeit, dass sie für 14 Tage nach ihrer Blutung unrein war, und nun gereinigt war und damit empfänglich.
+ }
+#}
+#2sam-11-6 {
+ {
+  Beachte: Hier entbietet David <i>Joab</i> in der Angelegenheit seiner Sünde mit Bathseba. In der Sache mit der Zählung Israels und Judas, bei der David auch gesündigt hat (§2sam-24-10), wird ebenfalls Joab angefragt, §2sam-24-1-ff, §1chr-21-1-ff
  }
 #}
 #2sam-11-21 {
@@ -32344,6 +32352,9 @@
  }
 #}
 #2sam-24-2 {
+ {
+  <i>Joab</i>: §+2sam-11-6
+ }
  {
    TODO: War diese <i>Zählung</i> falsch, weil das Volk 'unzählbar' ist (zB <a href='http://bibel.renenyffenegger.ch/1koe_3.html#v8'>1.&nbsp;Kö&nbsp;3,8</a>,
    <a href='http://bibel.renenyffenegger.ch/1chr_27.html#v23'>1.&nbsp;Chr&nbsp;27,23</a>).
@@ -39503,7 +39514,7 @@
 @1. Chronik 20 {
 #1chr-20-1 {
  {
-  <i>Im folgenden Jahr</i>: siehe <a class='kom' href='#I2sam-11-1'>2.&nbsp;Sam&nbsp;11,1</a>
+  §+2sam-11-1
  }
 #}
 #1chr-20-2 {
@@ -39546,6 +39557,11 @@
 #1chr-21-1 {
  {
   §2sam-24-1, vgl §4mo-23-10
+ }
+#}
+#1chr-21-2 {
+ {
+  <i>Joab</i>: §+2sam-11-6
  }
 #}
 #1chr-21-4 {
@@ -41428,7 +41444,7 @@
  {
   <i>kehrte in Frieden zurück</i> vgl §+2chr-18-26.
  <br>
-  Während Josaphat in Frieden zurückkehrte, start der König von Israel und wurde nach Samaria gebracht, §1koe-22-37
+  Während Josaphat in Frieden zurückkehrte, starb der König von Israel und wurde nach Samaria gebracht, §1koe-22-37
  }
  {
   TODO: <i>kehrte in Frieden zurück</i> vgl §1koe-22-45
@@ -72326,7 +72342,7 @@
   <br>Beachte: hier wird erwähnt, dass sie in → biblisches/Orte/Galiläa waren. Ebenso in §lk-24-6-7.
  }
  {
-  <i>Hände der Menschen</i>: <a class='kom' href='#Iapg-21-11'>Apg&nbsp;21,11</a>. Vgl mit 'Händer der Sünder'
+  <i>Hände der Menschen</i>: <a class='kom' href='#Iapg-21-11'>Apg&nbsp;21,11</a>. Vgl mit «Hände der Sünder»
   (<a href='http://bibel.renenyffenegger.ch/mt_26.html#v45'>Mt&nbsp;26,45</a>).
          <br>Beachte auch, dass der Sohn der <i>Menschen</i> in ebenderen Hände ausgeliefert wird.
          <br>Vgl auch mit <a href='http://bibel.renenyffenegger.ch/mt_20.html#v19'>Mt&nbsp;20,19</a> wo 'Hände' nicht erwähnt wird.
@@ -74266,7 +74282,7 @@
   <i>Die Stunde ist nahe gekommen</i> §+mt-26-18 vgl §lk-21-8
  }
  {
-  <i>Händer der Sünder</i>: <a class='kom' href='#Imt-17-22'>Mt&nbsp;17,22</a>.
+  <i>Hände der Sünder</i>: <a class='kom' href='#Imt-17-22'>Mt&nbsp;17,22</a>.
  }
 #}
 #mt-26-48 {
@@ -92972,9 +92988,9 @@ sa:
  }
  {
   <i>Hände der Heiden</i>: vgl 'Hände der Römer' (<a href='http://bibel.renenyffenegger.ch/apg_28.html#v17'>Apg&nbsp;28,17</a>).
-  <br>Vgl auch mit 'Händer der Menschen' (<a href='http://bibel.renenyffenegger.ch/mt_17.html#v22'>Mt&nbsp;17,22</a>),
-  'Händer der Sünder' (<a href='http://bibel.renenyffenegger.ch/mt_26.html#v45'>Mt&nbsp;26,45</a>) und
-  'Händer der Gesetzlosen' (<a href='http://bibel.renenyffenegger.ch/apg_2.html#v23'>Apg&nbsp;2,23</a>).
+  <br>Vgl auch mit 'Hände der Menschen' (<a href='http://bibel.renenyffenegger.ch/mt_17.html#v22'>Mt&nbsp;17,22</a>),
+  'Hände der Sünder' (<a href='http://bibel.renenyffenegger.ch/mt_26.html#v45'>Mt&nbsp;26,45</a>) und
+  'Hände der Gesetzlosen' (<a href='http://bibel.renenyffenegger.ch/apg_2.html#v23'>Apg&nbsp;2,23</a>).
  }
 #}
 #apg-21-14 {
@@ -105430,9 +105446,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-2-18 {
  {
-  <i>Der Satan hat uns verhindert</i> vgl §apg-16-6 («vom Heiligen Geist verhindert») und §apg-16-7 («der Geist Jesu erlaubte es ihnen nicht»)
+  <i>Der Satan hat uns verhindert</i>: offenbar war Paulus im Willen Gottes, daß er die Thessalonicher besuchen wollte, sonst hätte der Satan keinen Grund gehabt, Paulus daran zu hindern.
  <br>
-  Beachte: die Absichten des Satans sind 'ihnen' nicht unbekannt (<a href='http://bibel.renenyffenegger.ch/2kor_2.html#v11'>2.&nbsp;Kor&nbsp;2,11</a>).
+  Beachte: die Absichten des Satans sind nicht unbekannt (§2kor-2-11).
+ <br>
+  vgl §apg-16-6 («vom Heiligen Geist verhindert») und §apg-16-7 («der Geist Jesu erlaubte es ihnen nicht»)
  }
  {
   <i>einmal und zweimal</i> §phil-4-16
