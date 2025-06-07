@@ -33825,7 +33825,10 @@
 #}
 #1koe-14-10 {
  {
-   Ausrotten was mönnlich ist <i>oder</i> alle Nachkommen? Baesa hat das ganze Haus erschlagen (<a href='http://bibel.renenyffenegger.ch/1koe_15.html#v29'>1.&nbsp;Kö&nbsp;15,29</a>).
+  Vgl §1koe-21-22
+ }
+ {
+  Ausrotten was mönnlich ist <i>oder</i> alle Nachkommen? Baesa hat das ganze Haus erschlagen (<a href='http://bibel.renenyffenegger.ch/1koe_15.html#v29'>1.&nbsp;Kö&nbsp;15,29</a>).
  }
 #}
 #1koe-14-11 {
@@ -33856,6 +33859,11 @@
 #1koe-14-20 {
  {
   → biblisches/Personen/Nadab
+ }
+#}
+#1koe-14-22 {
+ {
+  <i>Und Juda tat, was böse war in den Augen Jehovas</i> vgl §2chr-12-12
  }
 #}
 #1koe-14-23 {
@@ -34448,8 +34456,21 @@
 #}
 #1koe-21-21 {
  {
+  Vgl §2koe-10-10
+ }
+ {
   TODO: Dieses Unheil müsste eigentlich unter Ahasja eingetreten sein, vgl <a class='kom' href='#I2koe-1-17'>2.&nbsp;Kö&nbsp;1,17</a>, beachte aber,
   dass Ahasja keinen Sohn hatte.
+ }
+#}
+#1koe-21-22 {
+ {
+  Vgl §1koe-14-10, §2koe-9-9
+ }
+#}
+#1koe-21-23 {
+ {
+  §2koe-9-36-37
  }
 #}
 #1koe-21-24 {
@@ -34570,7 +34591,7 @@
 #}
 #1koe-22-43 {
  {
-  Vgl §2chr-17-3
+  Vgl §2chr-17-3, §2chr-20-32
  }
 #}
 #1koe-22-45 {
@@ -34652,8 +34673,7 @@
 #}
 #2koe-1-17 {
  {
-   <i>Joram, Sohn Ahabs, König von Israel</i> wurde hier im 2. Jahr Jorams von Juda König, in <a href='http://bibel.renenyffenegger.ch/2koe_3.html#v1'>2.&nbsp;Kö&nbsp;3,1</a> im
-   18. Jahr Josaphats.
+  <i>Joram, Sohn Ahabs, König von Israel</i> wurde hier im 2. Jahr Jorams von Juda König, in §2koe-3-1 im 18. Jahr Josaphats.
  }
  {
   TODO: Gibt es einen Hinweis darauf, dass das angekündigte Unheil von <a class='kom' href='#I1koe-21-21'>1.&nbsp;Kö&nbsp;21,21</a> unter Ahasja eingetreten ist?
@@ -34980,6 +35000,11 @@
    <i>Ich werde das Blut … rächen</i>: §+offb-6-10
  }
 #}
+#2koe-9-9 {
+ {
+  Vgl §1koe-21-22
+ }
+#}
 #2koe-9-26 {
  {
   Beachte, <i>Blut</i> steht im Grundtext im Plural, vgl §1mo-4-10
@@ -35013,11 +35038,21 @@
   Simri erschlug Ela: <a class='kom' href='#I1koe-16-10'>1.&nbsp;Kö&nbsp;16,10</a>.
  }
 #}
+#2koe-9-36 {
+ {
+  §1koe-21-23
+ }
+#}
 @}
 @2. Könige 10 {
 #2koe-10-4 {
  {
   TODO: welche 2 Könige konnten nicht vor Ahab bestehen?
+ }
+#}
+#2koe-10-10 {
+ {
+  Vgl §1koe-21-21
  }
 #}
 #2koe-10-11 {
@@ -35064,7 +35099,7 @@
 #}
 #2koe-10-30 {
  {
-  Erfüllt in <a href='http://bibel.renenyffenegger.ch/2koe_15.html#v12'>2.&nbsp;Kö&nbsp;15,12</a>.
+  Erfüllt in §2koe-15-12.
   <br>Beachte aber auch, dass gemäss <a class='kom' href='#Ihos-1-4'>Hos&nbsp;1,4</a> 'das in Jesreel vergossene Blut am Haus
       Jehus gerächt' werden soll.
  }
@@ -35216,7 +35251,7 @@
 #}
 #2koe-13-14 {
  {
-  §+2koe-2-12.
+  <i>Mein Vater, mein Vater! Wagen Israels und seine Reiter</i> §+2koe-2-12.
  }
 #}
 #2koe-13-19 {
@@ -35226,7 +35261,7 @@
 #}
 #2koe-13-25 {
  {
-  Siehe Vers 18.
+  <i>dreimal</i> §V2koe-13-18
  }
 #}
 @}
@@ -35322,7 +35357,7 @@
   <i>Gat-Hepher</i>: <a class='kom' href='#Ijos-19-13'>Jos&nbsp;19,13</a>.
  }
  {
-  <a class='kom' href='#Ijon-1-1'>Jon&nbsp;1,1</a>.
+  <i>Jona, der Sohn Amittais</i>: §+jon-1-1.
  }
  {
   TODO: <i>Lebo Hamat bis an das Meer der Arava</i> (<span class='hebr'>מִלְּב֥וֹא חֲמָ֖ת עַד־יָ֣ם הָעֲרָבָ֑ה</span>)
@@ -35375,7 +35410,7 @@
 #}
 #2koe-15-12 {
  {
-  Erfüllung von <a href='http://bibel.renenyffenegger.ch/2koe_10.html#v30'>2.&nbsp;Kö&nbsp;10,30</a>.
+  Erfüllung von §2koe-10-30.
  }
  {
   TODO: Wird hier auch <a href='http://bibel.renenyffenegger.ch/hos_1.html#v4'>Hos&nbsp;1,4</a> erfüllt.
@@ -35737,8 +35772,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#ascherim[Aschera]
  }
  {
+  Möglicherweise beobachtete Hiskia den Untergang des Nordreiches und war entschlossen, für Juda das gleiche Ende zu vermeiden, was ihm die Kraft gab, aufzuräumen, vgl §V2koe-18-7.
+ }
+ {
   Vgl §+2chr-32-12.
-  Die Höhen wurden von seinem Sohn Manasse wieder gebaut (§2koe-21-3).
+  Die Höhen wurden von seinem Sohn Manasse wieder gebaut, §2koe-21-3.
  }
  {
   TODO: <i>Nechuschtan</i> (<span class='hebr'>נְחֻשְׁתָּן</span>, Strongs 5180, 1x) stammt von
@@ -40976,6 +41014,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Schatz#schaetze-des-hauses-des-herrn
  }
 #}
+#2chr-12-12 {
+ {
+  <i>Auch war in Juda noch etwas gutes</i> vgl §1koe-14-22
+ }
+#}
 #2chr-12-13 {
  {
   Trotz des Alters von 41 Jahren wird Rehabeam in §2chr-13-7 als Jüngling bezeichnet.
@@ -41054,7 +41097,7 @@
 #}
 #2chr-13-10 {
  {
-  <a class='kom' href='#I1koe-15-3'>1.&nbsp;Kö&nbsp;15,3</a>.
+  §+1koe-15-3
  }
 #}
 #2chr-13-11 {
@@ -41302,7 +41345,7 @@
 #}
 #2chr-17-3 {
  {
-  Vgl §1koe-22-43
+  <i>er wandelte auf den früheren Wegen seines Vaters David</i> Vgl §2chr-20-32, §1koe-22-43
  }
 #}
 #2chr-17-5 {
@@ -41574,6 +41617,11 @@
 #2chr-20-30 {
  {
   TODO hatte Ruhe: vgl §1koe-22-45
+ }
+#}
+#2chr-20-32 {
+ {
+  <i>er wandelte auf dem Weg seines Vaters Asa</i> §2chr-17-3, §1koe-22-43
  }
 #}
 #2chr-20-34 {
@@ -97451,7 +97499,7 @@ sa:
 #}
 #1kor-2-3 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern: Beachte, dass die Korinther → biblisches/Personen/Titus mit Furcht und Zittern empfangen haben (§2kor-7-14).
+   → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern: Paulus bittet die Korinther, dass Timotheus ohne Furcht bei den Korinthern sein kann. Beachte, dass die Korinther → biblisches/Personen/Titus mit Furcht und Zittern empfangen haben, §2kor-7-14.
    -
    → biblisches/Personen/Timotheus soll bei seiner Ankunft ohne Furcht sein: §1kor-16-10
  }
@@ -97583,11 +97631,9 @@ sa:
 #}
 #1kor-3-8 {
  {
-  <i>Lohn</i>: Vers 14,
-  <a href='http://bibel.renenyffenegger.ch/2joh_1.html#v8'>2.&nbsp;Joh&nbsp;1,8</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_11.html#v18'>Offb&nbsp;11,18</a>,
-  <a href='http://bibel.renenyffenegger.ch/offb_22.html#v12'>Offb&nbsp;22,12</a>.
-  <br>Siehe auch <a class='kom' href='#I2petr-2-13'>2.&nbsp;Petr&nbsp;2,13</a> (Lohn der Ungerechtigkeit)
+  <i>Lohn</i>: §V1kor-3-14, §2joh-1-8, §offb-11-18, §offb-22-12.
+ <br>
+  Siehe auch §+2petr-2-13 (Lohn der Ungerechtigkeit)
  }
  {
   TODO: <i>Arbeit</i> ist Strongs 2873. Vgl <a href='http://bibel.renenyffenegger.ch/1kor_15.html#v58'>1.&nbsp;Kor&nbsp;15,58</a>.
@@ -99802,7 +99848,7 @@ sa:
   (Es ist darüberhinaus gar nicht sicher, ob er überhaupt ankommt: es heisst <span class='gr'>ἐάν</span>, Strongs 1437) ('falls'), nicht 'wenn'.
  }
  {
-  <i>ohne Furcht</i>: vgl §+1kor-2-3.
+  <i>ohne Furcht</i>: vgl §+1kor-2-3, §2kor-7-15
  }
 #}
 #1kor-16-12 {
@@ -100673,6 +100719,9 @@ sa:
 #2kor-7-15 {
  {
   <i>seine innerlichen Gefühle</i>: <span class='gr'>τα σπλαγχνα αυτου</span> (Strongs 4698), vgl §lk-1-78, §2kor-6-12
+ }
+ {
+  <i>wie ihr ihn mit Furcht und Zittern empfangen habt</i> vgl §1kor-2-3, §1kor-16-10
  }
 #}
 @}
