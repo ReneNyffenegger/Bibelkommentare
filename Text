@@ -10869,9 +10869,6 @@
  {
   Vgl §3mo-19-12
  }
- {
-  <i>Du sollst nicht behehren…</i> Vgl §roem-7-7
- }
 #}
 #2mo-20-8 {
  {
@@ -10927,6 +10924,11 @@
  }
  {
   Vgl auch <a href='http://bibel.renenyffenegger.ch/5mo_5.html#v20'>5.&nbsp;Mo&nbsp;5,20</a>.
+ }
+#}
+#2mo-20-17 {
+ {
+  <i>Du sollst nicht begehren…</i> Vgl §roem-7-7
  }
 #}
 #2mo-20-19 {
@@ -11304,7 +11306,7 @@
 #}
 #2mo-23-8 {
  {
-  <i>kein Geschenk sollst du nehmen</i>: vgl §5mo-10-17, §5mo-16-19, §5mo-27-25, §1sam-8-3, §2chr-19-7, §spr-17-23
+  <i>kein Geschenk sollst du nehmen</i>: vgl §5mo-10-17, §5mo-16-19, §5mo-27-25, §1sam-8-3, §1koe-13-7, §2chr-19-7, §spr-17-23, §ps-15-5, §jes-5-23
  }
 #}
 #2mo-23-9 {
@@ -32737,6 +32739,11 @@
   <i>Salomo war Herrscher über alle Königreiche</i> §+jos-11-23, §neh-13-26
  }
  {
+  <i>sie brachten Geschenke</i> vgl §1koe-10-25
+ <br>
+  Vgl §ps-68-30, §ps-72-10
+ }
+ {
   Vgl diesen Vers und Vers 4 mit §ps-72-8 (der Psalm ist Salomo gewidmet §ps-72-1).
  }
 #}
@@ -33247,6 +33254,11 @@
   §1koe-2-1-3
  }
 #}
+#1koe-8-59 {
+ {
+  <i>meine Worte … mögen Jehova … nahe sein Tag und Nacht</i> vgl §2chr-6-20
+ }
+#}
 #1koe-8-60 {
  {
   <i>keiner mehr</i>: Sch2K übersetzt mit »und keiner sonst«.
@@ -33490,6 +33502,12 @@
  }
 #}
 #1koe-10-25 {
+ {
+  §2chr-9-24
+ }
+ {
+  <i>sie brachten ein jeder sein Geschenk</i> vgl §1koe-5-1
+ }
  {
   <i>Maultier</i> §+3mo-19-19
  }
@@ -33758,6 +33776,11 @@
 #1koe-13-5 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Mann-Gottes
+ }
+#}
+#1koe-13-7 {
+ {
+  <i>ich will dir ein Geschenk geben</i> vgl §2mo-23-8
  }
 #}
 #1koe-13-11 {
@@ -40603,6 +40626,11 @@
   Vgl auch mit <a class='kom' href='#I1koe-8-25'>1.&nbsp;Kö&nbsp;8,25</a>.
  }
 #}
+#2chr-6-20 {
+ {
+  <i>daß deine Augen Tag und Nacht offen seien</i> vgl §1koe-8-59
+ }
+#}
 #2chr-6-21 {
  {
   <a class='kom' href='#I1koe-8-30'>1.&nbsp;Kö&nbsp;8,30</a>.
@@ -40827,6 +40855,11 @@
  }
  {
   <i>Affe</i> und <i>Pfau</i>: <a class='kom' href='#I1koe-10-22'>1.&nbsp;Kö&nbsp;10,22</a>.
+ }
+#}
+#2chr-9-24 {
+ {
+  §1koe-10-25
  }
 #}
 #2chr-9-25 {
@@ -46847,6 +46880,9 @@
 #}
 #ps-15-5 {
  {
+  <i>kein Geschenk gegen den Unschuldigen nehmen</i> vgl §2mo-23-8
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zins
  }
 #}
@@ -48729,6 +48765,8 @@
  }
  {
   <i>Geschenke bringen</i>: vgl mit den Magiern aus dem Osten, §mt-2-11
+ <br>
+  S. a. §ps-72-10, §1koe-5-1
  }
  {
   TODO: Menge übersetzt «Um deines Tempels willen müssen Könige dir Geschenke hinauf nach Jerusalem bringen» und schreibt in einer Fussnote, dass die Übersetzung unsicher ist.
@@ -48911,10 +48949,10 @@
 #}
 #ps-72-10 {
  {
-  → biblisches/Orte/Tarsis
+  <i>Geschenke entrichten</i> Vgl §ps-68-30, §+jes-60-9, §1koe-5-1
  }
  {
-  Vgl §+jes-60-9
+  → biblisches/Orte/Tarsis
  }
 #}
 #ps-72-11 {
@@ -49094,6 +49132,11 @@
 #ps-76-4 {
  {
   TODO: Der HERR ist ein <i>Schild</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>.
+ }
+#}
+#ps-76-12 {
+ {
+  TODO: Vgl jes-18-7
  }
 #}
 @}
@@ -53007,6 +53050,11 @@
   <i>Gräuel in den Sprüchen</i>: <a class='kom' href='#Ispr-3-32'>Spr&nbsp;3,32</a>.
  }
 #}
+#spr-15-27 {
+ {
+  <i>wer aber Geschenke haßt</i> vgl §spr-17-23, §2mo-23-8
+ }
+#}
 #spr-15-30 {
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/spr_16.html#v24'>Spr&nbsp;16,24</a>.
@@ -53169,7 +53217,10 @@
 #}
 #spr-17-23 {
  {
-   Vgl §2mo-23-8.
+  Vgl §2mo-23-8, §spr-15-27
+ }
+ {
+  <i>Ein Geschenk im Busen</i> §spr-21-14
  }
 #}
 #spr-17-25 {
@@ -53419,6 +53470,11 @@
 #spr-21-11 {
  {
   Vgl mit §+spr-19-25.
+ }
+#}
+#spr-21-14 {
+ {
+  <i>Ein Geschenk im Busen</i>: §spr-17-23
  }
 #}
 #spr-21-16 {
@@ -55007,6 +55063,11 @@
   TODO: Wann war Jerusalem treu und gerecht? Evtl unter Melchisedek (<a href='http://bibel.renenyffenegger.ch/hebr_7.html#v2'>Hebr&nbsp;7,2</a>)?
  }
 #}
+#jes-1-23 {
+ {
+  <i>Geschenke lieben</i> §jes-5-23
+ }
+#}
 #jes-1-26 {
  {
   <i>Stadt der Gerechtigkeit</i>: <a class='kom' href='#Ijes-60-14'>Jes&nbsp;60,14</a>.
@@ -55188,6 +55249,11 @@
 #jes-5-21 {
  {
   <i>in den Augen weise sein</i> vgl §+spr-3-7
+ }
+#}
+#jes-5-23 {
+ {
+  <i>Den Gesetzlosen um eines Geschenkes willen gerecht sprechen</i> vgl §jes-1-23, §2mo-23-8
  }
 #}
 #jes-5-24 {
@@ -56147,6 +56213,11 @@
 #jes-18-4 {
  {
   <i>Sonnenschein</i>; §+jes-32-4
+ }
+#}
+#jes-18-7 {
+ {
+  TODO: Vgl §ps-76-12
  }
 #}
 @}
@@ -62735,6 +62806,11 @@
   <i>Höhe</i>: <a class='kom' href='#Ijos-18-25'>Jos&nbsp;18,25</a>.
  }
 #}
+#hes-16-33 {
+ {
+  <i>Geschenke</i> Vgl §hes-22-12
+ }
+#}
 #hes-16-36 {
  {
   <i>Geld</i> (<span class='hebr'>נְחשֶׁת</span>, Strongs 5178) sonst häufig mit 'Erz' übersetzt.
@@ -62947,6 +63023,9 @@
  }
 #}
 #hes-22-12 {
+ {
+  <i>Geschnke</i> vgl §hes-16-33
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zins
  }
@@ -64191,6 +64270,11 @@
   <br>Siehe auch <a href='http://bibel.renenyffenegger.ch/kla_4.html#v5'>Kla&nbsp;4,5</a> und <a href='http://bibel.renenyffenegger.ch/esr_6.html#v11'>Esr&nbsp;6,11</a>.
  }
 #}
+#dan-2-6 {
+ {
+  <i>Geschenke empfangen</i> §Vdan-2-48
+ }
+#}
 #dan-2-8 {
  {
   <i>Zeit gewinnen</i> vgl §eph-5-16
@@ -64347,6 +64431,11 @@
  }
  {
   Gott, ein Offenbarer der → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index[Geheimnisse]: §offb-10-7, §am-3-7.
+ }
+#}
+#dan-2-48 {
+ {
+  <i>Geschenke</i> §Vdan-2-6, §dan-5-17
  }
 #}
 #dan-2-49 {
@@ -64512,6 +64601,11 @@
 #dan-5-13 {
  {
   <i>Daniel, einer der Söhne der Wegführung</i> vgl §dan-2-25
+ }
+#}
+#dan-5-17 {
+ {
+  <i>Geschenke</i> §dan-2-48
  }
 #}
 #dan-5-20 {
@@ -69465,10 +69559,7 @@
 #}
 #mt-5-33 {
  {
-  <i>schwören</i> vgl §5mo-10-20
- }
- {
-  §3mo-19-12
+  <i>schwören</i> vgl §3mo-19-12, 5mo-10-20, §mt-23-18
  }
 #}
 #mt-5-34 {
@@ -73367,7 +73458,7 @@
 #}
 #mt-23-18 {
  {
-  <i>beim Altar schwören</i> vgl §2chr-6-22
+  <i>beim Altar schwören</i> vgl §2chr-6-22, §mt-5-33
  }
 #}
 #mt-23-19 {
@@ -75726,6 +75817,9 @@ sa:
 #}
 #mk-4-27 {
  {
+  <i>Nacht und Tag</i>, §mk-5-5, §1thes-2-9
+ }
+ {
   TODO: Beachte «Nacht und Tag» in dieser Reihenfolge vorkommt; «Tag und Nacht» kommt mehrmals vor. Beachte auch, dass der Sämann «schläft und aufsteht».
  }
  {
@@ -75807,6 +75901,11 @@ sa:
 #mk-5-3 {
  {
   TODO Vgl seine <i>Wohnung</i> mit seinem <i>Haus</i> in Vers 19.
+ }
+#}
+#mk-5-5 {
+ {
+  <i>Nacht und Tag</i>, §mk-4-27
  }
 #}
 #mk-5-6 {
@@ -78822,6 +78921,12 @@ sa:
  }
 #}
 #lk-2-37 {
+ {
+  Eine Witwe, die <i>Nacht und Tag mit Fasten und Flehen diente</i> vgl §1tim-5-5
+ }
+ {
+  <i>Nacht und Tag</i> §1thes-2-9
+ }
  {
   Vgl §ps-134-1
  }
@@ -95400,7 +95505,7 @@ sa:
   <i>Die Sünde durchs Gesetz erkennen</i>: vgl <a class='kom' href='#Iroem-3-20'>Röm&nbsp;3,20</a>.
  }
  {
-  <i>Laß dich nicht gelüsten</i> («begehre nicht») vgl §roem-13-9, §2mo-20-7, §1kor-10-6
+  <i>Laß dich nicht gelüsten</i> («begehre nicht») vgl §roem-13-9, §2mo-20-17, §1kor-10-6
  }
 #}
 #roem-7-9 {
@@ -101079,7 +101184,7 @@ sa:
   S.a. <a class='kom' href='#Ilk-8-31'>Lk&nbsp;8,31</a>.
  }
  {
-  <i>Einen Tag und eine Nacht</i>: <span class='gr'>νυχθήμερον</span> (Strongs 3574, 1x).
+  <i>Einen Tag und eine Nacht</i>: <span class='gr'>νυχθήμερον</span> (Strongs 3574, 1x), vgl §1thes-2-9
  }
 #}
 #2kor-11-26 {
@@ -105416,7 +105521,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Nacht und Tag arbeitend, um niemand von euch beschwerlich zu fallen</i>: §2thes-3-8, §1kor-4-12, §1kor-9-18, §+2kor-11-8-9
  <br>
-  §apg-20-31,
+  «Nacht und Tag>: §1thes-3-10, §apg-20-31, §1tim-5-5, §mk-4-27, §lk-2-37, §2kor-11-25
  }
  {
   Beachte: es ist offenbar möglich, Tag und Nacht zu arbeiten <i>und</i> das Evangelium zu verkündigen.
@@ -105470,7 +105575,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Von eigenen Volksgenossen erleiden</i>: <a class='kom' href='#I2kor-11-26'>2.&nbsp;Kor&nbsp;11,26</a>.
  }
  {
-  <i>Die Versammlungen von Judäa, die → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus[in Christo Jesu sind]</i>: §+gal-1-22, vgl §thes-1-1
+  <i>Die Versammlungen von Judäa, die → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus[in Christo Jesu sind]</i>: §+gal-1-22, vgl §1thes-1-1
  }
  {
   Die Thessaloniker <i>leiden</i> auch im zweiten Brief
@@ -105655,6 +105760,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1thes-3-10 {
  {
   <i>euer Angesicht sehen</i> §1thes-2-17
+ }
+ {
+  <i>Nacht und Tag</i> §1thes-2-9
  }
 #}
 #1thes-3-11 {
@@ -107237,6 +107345,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Eigenes Haus</i> §1tim-3-4
+ }
+#}
+#1tim-5-5 {
+ {
+  Vgl §lk-2-37
+ }
+ {
+  <i>Nacht und Tag</i> §1thes-2-9
  }
 #}
 #1tim-5-9 {
