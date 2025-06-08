@@ -32840,6 +32840,11 @@
   20000 Kor Weizen (wenn es Feinmehl wäre) würde 666 Tage (=20000/30) reichen, §V1koe-5-2.
  }
 #}
+#1koe-5-26 {
+ {
+  <i>Bund</i>, vgl §1koe-11-11, §1koe-15-19
+ }
+#}
 #1koe-5-28 {
  {
   <i>Adoniram</i>: <a class='kom' href='#I1koe-4-6'>1.&nbsp;Kö&nbsp;4,6</a>.
@@ -33560,6 +33565,9 @@
 #}
 #1koe-11-11 {
  {
+  <i>Bund</i> §1koe-5-26
+ }
+ {
   §1koe-2-1-3, §V1koe-11-34-38
  }
 #}
@@ -34074,6 +34082,11 @@
   <a href='http://bibel.renenyffenegger.ch/2koe_6.html#v24'>2.&nbsp;Kö&nbsp;6,24</a>
   <br>Benhadad wurde von einem Prophetensohn mit dem Bann belegt (<a href='http://bibel.renenyffenegger.ch/1koe_20.html#v42'>1.&nbsp;Kö&nbsp;20,42</a>).
   <br>Die Paläste Benhadads sollen verzehrt werden (<a href='http://bibel.renenyffenegger.ch/jer_49.html#v27'>Jer&nbsp;49,27</a>, <a href='http://bibel.renenyffenegger.ch/am_1.html#v4'>Am&nbsp;1,4</a>).
+ }
+#}
+#1koe-15-19 {
+ {
+  <i>Bund</i>: Salomo schloss einen Bund mit dem König von Tyrus, §1koe-5-26
  }
 #}
 #1koe-15-20 {
@@ -35123,8 +35136,7 @@
 #2koe-10-30 {
  {
   Erfüllt in §2koe-15-12.
-  <br>Beachte aber auch, dass gemäss <a class='kom' href='#Ihos-1-4'>Hos&nbsp;1,4</a> 'das in Jesreel vergossene Blut am Haus
-      Jehus gerächt' werden soll.
+  <br>Beachte aber auch, dass gemäss <a class='kom' href='#Ihos-1-4'>Hos&nbsp;1,4</a> «das in Jesreel vergossene Blut am Haus Jehus gerächt» werden soll.
  }
 #}
 #2koe-10-31 {
@@ -35147,6 +35159,11 @@
   Athalja wird von Joas gottlos genannt: sie und ihre Söhne haben das Haus Gottes zerstört und alle geheiligten Dinge des Hauses Jehovas für die Baalim verwendet, §2chr-24-7, vgl §+1chr-29-2
  <br>
   Obwohl das Haus Gottes zerstört war, konnte Joas sechs Jahre darin versteckt werden, §V2koe-11-3
+ }
+#}
+#2koe-11-2 {
+ {
+  <i>Joseba</i> wird in §2chr-22-11 Josabath genannt.
  }
 #}
 #2koe-11-4 {
@@ -41238,6 +41255,11 @@
   <i>Zephata</i> (<span class='hebr'>צְפָֽתָה</span>, Strongs 6859, 1x) offenbar dasselbe wie Strongs 6857 in §ri-1-17.
  }
 #}
+#2chr-14-10 {
+ {
+  <i>Wir stützen uns auf dich</i> vgl §2chr-16-7
+ }
+#}
 @}
 @2. Chronik 15 {
 #2chr-15-1 {
@@ -41252,10 +41274,8 @@
 #}
 #2chr-15-3 {
  {
-  <i>Ohne lehrenden Priester und ohne Gesetz</i> §2chr-17-7-8
- }
- {
-  TODO: Vgl mit Josaphat, der Leviten und Preister bestellte, §2chr-19-8-11. Josaphat liess auch das Buch des Gesetzes des HERRN lehre: §2chr-17-7-ff
+  <i>Ohne lehrenden Priester und ohne Gesetz</i>: Asas Sohn Josaphat liess das Buch des Gesetzes des HERRN lehren (§2chr-17-7-ff) un bestellte Priester (§2chr-19-8-11).
+  §2chr-17-7-8
  }
 #}
 #2chr-15-7 {
@@ -41276,7 +41296,7 @@
   <i>Den HERRN suchen</i>: §2chr-11-16, §2chr-30-19
  }
  {
-  <i>Bund</i> vgl §2chr-16-3
+  <i>Bund</i> vgl §2chr-16-3, §2chr-29-10
  }
 #}
 #2chr-15-14 {
@@ -41340,6 +41360,9 @@
 #}
 #2chr-16-7 {
  {
+  <i>Weil du dich auf den König von Aram gestützt hast</i> vgl §2chr-14-10
+ }
+ {
   Seher: → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
 <br>
   Hananis Sohn Jehu wird auch ein Seher sein: §2chr-19-2.
@@ -41379,6 +41402,11 @@
 #2chr-17-3 {
  {
   <i>er wandelte auf den früheren Wegen seines Vaters David</i> Vgl §2chr-20-32, §1koe-22-43
+ }
+#}
+#2chr-17-4 {
+ {
+  <i>sondern er suchte Gott</i>: §2chr-19-3
  }
 #}
 #2chr-17-5 {
@@ -41536,6 +41564,11 @@
   Ein <i>Zorn über dir</i> vgl §V2chr-19-10
  }
 #}
+#2chr-19-3 {
+ {
+  <i>Weil du … dein Herz darauf gerichtet hast, Gott zu suchen</i>: §2chr-17-4
+ }
+#}
 #2chr-19-4 {
  {
   Blieb Josaphat in Jerusalem, um in sich zu gehen? Es scheint, daß er unters Volk ging erst nachdem er sich geprüft hat.
@@ -41634,7 +41667,7 @@
 #}
 #2chr-20-26 {
  {
-  TODO: Ist das <i>Lobetal</i> das 'Tal Josaphats'? (<a class='kom' href='#I1koe-22-41'>1.&nbsp;Kö&nbsp;22,41</a>).
+  TODO: Ist das <i>Lobetal</i> das 'Tal Josaphats'?, §joe-4-2
  }
 #}
 #2chr-20-28 {
@@ -41772,6 +41805,11 @@
 #2chr-22-10 {
  {
   <i>Athalja</i>: §+2koe-11-1
+ }
+#}
+#2chr-22-11 {
+ {
+  <i>Josabath</i> wird in §2koe-11-2 Joseba genannt.
  }
 #}
 @}
@@ -42184,7 +42222,7 @@
 #}
 #2chr-29-3 {
  {
-  <i>Geöffnete Türen</i>: Sie wurden von Ahas geschlossen, §chr-28-24
+  <i>Geöffnete Türen</i>: Sie wurden von Ahas geschlossen, §2chr-28-24
  <br>
   Hiskia wird von den Türflügeln des Tempels das Gold abbrechen und dem König von Assyrien geben, §2koe-18-16.
  }
@@ -42195,6 +42233,11 @@
  }
  {
   §2chr-28-24
+ }
+#}
+#2chr-29-10 {
+ {
+  <i>Einen Bund mit Jehova machen</i> vgl §2chr-15-12
  }
 #}
 #2chr-29-11 {
@@ -43123,7 +43166,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis, vgl §esr-8-1, §neh-7-5
  }
  {
-  Beachte: Preister ohne → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis wurden als unrein vom Priesterdienst ausgeschlossen. Der wahre Priester des
+  Beachte: Priester ohne → biblisches/Eigene-Uebersetzung/Konkordanz/Geschlechtsverzeichnis wurden als unrein vom Priesterdienst ausgeschlossen. Der wahre Priester des
   → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/neu[neuen Bundes] hatte kein Geschlechtsverzeichnis, §+hebr-7-3.
  }
 #}
@@ -66341,7 +66384,7 @@
 #}
 #joe-4-2 {
  {
-  TODO <i>Tal Josaphats</i>: <a class='kom' href='#I1koe-22-41'>1.&nbsp;Kö&nbsp;22,41</a>.
+  TODO <i>Tal Josaphats</i>: §2chr-20-26
  }
 #}
 #joe-4-5 {
@@ -68471,6 +68514,11 @@
 #mt-1-7 {
  {
   <i>Rehabeam, der einzige (?) Sohn Salomos</i>: <a class='kom' href='#I1koe-11-43'>1.&nbsp;Kö&nbsp;11,43</a>.
+ }
+#}
+#mt-1-9 {
+ {
+  Beachte: Matthäus überspringt die drei Könige Joas, Amazja und Asarja.
  }
 #}
 #mt-1-11 {
