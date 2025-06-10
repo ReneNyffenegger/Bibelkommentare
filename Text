@@ -26386,8 +26386,7 @@
 #}
 #jos-23-10 {
  {
-  <i>Ein Mann von euch jagt tausend</i> vgl §3mo-26-8, §+5mo-32-30, §jes-30-17,
-  §+2mo-14-7, §jes-60-22
+  <i>Ein Mann von euch jagt tausend</i> vgl §3mo-26-8, §+5mo-32-30, §1sam-18-7, §jes-30-17, §+2mo-14-7, §jes-60-22
  }
 #}
 #jos-23-11 {
@@ -29945,7 +29944,7 @@
 #}
 #1sam-17-54 {
  {
-  <i>David nahm das Haupt des Philisters</i>, die Philister hieben den Kopf Sauls ab, §1sam-31-9
+  Vgl mit den Philistern, die Sauls Kopf Sauls abhieben und seine Waffen in das Haus der Astaroth legten, §1sam-31-9-10.
  }
  {
   Möglicherweise wurde → biblisches/Orte/Golgatha nach dem Haupt (Schädel) Goliaths (aus Gath, §V1sam-17-4) = Gol-Gatha benannt.
@@ -29980,8 +29979,10 @@
 #}
 #1sam-18-7 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/1sam_21.html#v12'>1.&nbsp;Sam&nbsp;21,12</a>,
-  <a href='http://bibel.renenyffenegger.ch/1sam_29.html#v5'>1.&nbsp;Sam&nbsp;29,5</a>.
+  Vgl <a href='http://bibel.renenyffenegger.ch/1sam_21.html#v12'>1.&nbsp;Sam&nbsp;21,12</a>, §1sam-29-5.
+ }
+ {
+  <i>Saul hat seine Tausende erschlagen</i> vgl §jos-23-10
  }
 #}
 #1sam-18-8 {
@@ -30513,7 +30514,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Furcht/Zittern
  }
  {
-  Saul scheint einen ängstlichen Charakter zu haben, vgl §1chr-10-3
+  Saul scheint einen ängstlichen Charakter zu haben, vgl §1sam-31-3
  <br>
   Vgl mit §1sam-13-7, wo das Volk hinter Saul herzittert.
  }
@@ -30573,7 +30574,7 @@
 #}
 #1sam-29-5 {
  {
-  <a class='kom' href='#I1sam-18-7'>1.&nbsp;Sam&nbsp;18,7</a>
+  §+1sam-18-7
  }
 #}
 @}
@@ -30680,7 +30681,13 @@
 #}
 #1sam-31-3 {
  {
+  §1chr-10-3
+ }
+ {
   Frage: Welche <i>Bogenschützen</i> sind hier gemeint? Doch nicht etwa die aus <a href='http://bibel.renenyffenegger.ch/1chr_8.html#v40'>1.&nbsp;Chr&nbsp;8,40</a>?
+ }
+ {
+  <i>es wurde ihm angst</i> vgl §1sam-28-5
  }
 #}
 #1sam-31-6 {
@@ -30690,7 +30697,7 @@
 #}
 #1sam-31-9 {
  {
-  Die Philister hieben Saul den Kopf ab, David nahm das Haupt des Philisters Goliath ab, §1sam-17-54
+  Vgl mit David, der das Haupt Goliaths abhieb und seine Waffen in sein Zelt legte, §1sam-17-54
  }
 #}
 #1sam-31-10 {
@@ -33655,7 +33662,7 @@
 #}
 #1koe-11-36 {
  {
-  <i>Leuchte</i>: §1koe-15-4, §2koe-8-19
+  <i>daß mein Knecht David alle Tage eine Leuchte vor mir habe in Jerusalem</i>: §1koe-15-4, §2koe-8-19
  }
 #}
 #1koe-11-40 {
@@ -33992,6 +33999,9 @@
   §jes-37-35
  }
  {
+  Vgl die <i>Leuchte in Jerusalem</i> mit dem von Abija erwähnten goldenen Leuchter in §2chr-13-11
+ }
+ {
   TODO <i>Leuchte</i> und <i>David</i>: <a class='kom' href='#I2sam-21-17'>2.&nbsp;Sam&nbsp;21,17</a>.
  }
 #}
@@ -34072,6 +34082,9 @@
  }
 #}
 #1koe-15-17 {
+ {
+  §2chr-16-1
+ }
  {
   <i>Rama</i>: <a class='kom' href='#Ijos-18-25'>Jos&nbsp;18,25</a>.
  }
@@ -38811,6 +38824,9 @@
 #}
 #1chr-10-3 {
  {
+  §1sam-31-3
+ }
+ {
   Saul scheint einen ängstlichen Charakter zu haben, vgl §1sam-28-5
  }
 #}
@@ -41161,6 +41177,9 @@
  {
   <i>Reiner Tisch</i>: <a class='kom' href='#I3mo-24-6'>3.&nbsp;Mo&nbsp;24,6</a>.
  }
+ {
+  <i>goldener Leuchter</i> vgl §1koe-15-4.
+ }
 #}
 #2chr-13-14 {
  {
@@ -41331,6 +41350,9 @@
 @}
 @2. Chronik 16 {
 #2chr-16-1 {
+ {
+  §1koe-15-17
+ }
  {
   Gemäss §1koe-16-6-8 scheint Baesa im 26. Jahr Asas gestorben zu sein. Einige Ausleger beziehen deshalb das hier erwähnte 36. Jahr auf die Reichsteilung.
  }
