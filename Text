@@ -26410,7 +26410,7 @@
   <i>nicht ein Wort ist dahingefallen</i>: §jos-21-45, vgl §ri-2-19
  }
  {
-  <i>Den Weg er ganzen Erde gehen</i>, §1koe-2-2
+  <i>Den Weg der ganzen Erde gehen</i>, §1koe-2-2
  }
 #}
 @}
@@ -32487,7 +32487,7 @@
 @1. Könige 2 {
 #1koe-2-2 {
  {
-  <i>Den Weg er ganzen Erde gehen</i>, §jos-23-14
+  <i>Den Weg der ganzen Erde gehen</i>, §jos-23-14
  }
 #}
 #1koe-2-3 {
@@ -32628,7 +32628,7 @@
   Salomo liebte aber auch «viele fremde Frauen», §1koe-11-1.
  }
  {
-   TODO: Salomo opferte auch der Astarte, dem Kemosch und dem Milkom auf dem Ölberg (<a href='http://bibel.renenyffenegger.ch/2koe_23.html#v13'>2.&nbsp;Kö&nbsp;23,13</a>).
+  TODO: Salomo opferte auch der Astarte, dem Kemosch und dem Milkom auf dem Ölberg (<a href='http://bibel.renenyffenegger.ch/2koe_23.html#v13'>2.&nbsp;Kö&nbsp;23,13</a>).
  }
 #}
 #1koe-3-4 {
@@ -32838,12 +32838,20 @@
   <i>kein Widersacher mehr</i> vgl §1koe-11-14
  }
 #}
+#1koe-5-19 {
+ {
+  Vgl §2chr-2-1
+ }
+#}
 #1koe-5-20 {
  {
    TODO: Siehe <a class='kom' href='#Ijos-9-21'>Jos&nbsp;9,21</a>.
  }
 #}
 #1koe-5-25 {
+ {
+  Vgl §2chr-2-10
+ }
  {
   TODO: 'feines Olivenöl' eigtl besser <i>zerstossenes Ö</i>, siehe auch <a class='kom' href='#I2mo-27-20'>2.&nbsp;Mo&nbsp;27,20</a>.
  }
@@ -33115,7 +33123,9 @@
 #}
 #1koe-7-25 {
  {
-  <i>12 Rinder</i>: §4mo-7-3, §2chr-4-4
+  <i>12 Rinder</i>: §4mo-7-3, §2chr-4-4.
+ <br>
+  Vgl mit den «zwölf Löwen», §1koe-10-20
  }
  {
   Beachte: <i>gegen Westen</i> (<span class='hebr'>יָ֜מָּה</span>) und <i>Wasserbecken</i> (eigtl: 'Meer') <span class='hebr'><span class='grey'>וְהַ</span>יָּ֥ם</span>.
@@ -33238,8 +33248,10 @@
 #}
 #1koe-8-30 {
  {
+  §2chr-6-21
+ }
+ {
   Das Gebet Hiskias wurde kam in die <i>Wohnung im Himmel</i> (<a href='http://bibel.renenyffenegger.ch/2chr_30.html#v27'>2.&nbsp;Chr&nbsp;30,27</a>).
-  <br>Parallel: <a href='http://bibel.renenyffenegger.ch/2chr_6.html#v21'>2.&nbsp;Chr&nbsp;6,21</a>?
   <br>TODO: <a class='kom' href='#I5mo-26-15'>5.&nbsp;Mo&nbsp;26,15</a>.
  }
 #}
@@ -33498,6 +33510,14 @@
   <i>Haus des Libanonwaldes</i>: <a class='kom' href='#I1koe-7-2'>1.&nbsp;Kö&nbsp;7,2</a>.
  }
 #}
+#1koe-10-20 {
+ {
+  §2chr-9-10
+ }
+ {
+  <i>zwölf Löwen</i>: §1koe-7-25
+ }
+#}
 #1koe-10-22 {
  {
    Vgl §jes-60-9: Die Tarssischiffe bringen die Söhne um die Söhne aus der Ferne samt Gold und Silber heimzubringen.
@@ -33542,7 +33562,7 @@
  {
   → biblisches/Personen/Salomo#salomo-fremde-frauen, §neh-13-26
  <br>
-  Vgl §+1koe-3-3.
+  <i>Salomo liebte viele fremde Frauen</i> Vgl §+1koe-3-3.
  }
 #}
 #1koe-11-4 {
@@ -40187,7 +40207,7 @@
 #}
 #1chr-28-9 {
  {
-  Trotz Davids Ermahnung wird das Herz Salomos im Alter nicht mehr ungeteilt mit dem HERRN sein, §1koe-11-4
+  Trotz Davids Ermahnung wird das Herz Salomos im Alter nicht mehr ungeteilt mit dem HERRN sein, §1koe-11-4. Vgl §1chr-29-19
  }
 #}
 #1chr-28-11 {
@@ -40327,7 +40347,7 @@
 #}
 #1chr-29-19 {
  {
-  Salomos Herz war im Alter nicht mehr ungeteilt: <a href='http://bibel.renenyffenegger.ch/1koe_11.html#v4'>1.&nbsp;Kö&nbsp;11,4</a>.
+  <i>meinem Sohn Salomo gib ein ungeteiltes Herz</i>: §+1chr-28-9.
  }
 #}
 #1chr-29-20 {
@@ -40395,9 +40415,17 @@
 #}
 @}
 @2. Chronik 2 {
+#2chr-2-1 {
+ {
+  Vgl §1koe-5-19
+ }
+#}
 #2chr-2-2 {
  {
   <i>3600 hatten die Aufsicht</i>: <a class='kom' href='#I1chr-23-4'>1.&nbsp;Chr&nbsp;23,4</a>.
+ }
+ {
+  Vgl §V2chr-2-17
  }
  {
   <i>Aufsicht</i>: <a class='kom' href='#I1chr-15-21'>1.&nbsp;Chr&nbsp;15,21</a>.
@@ -40425,6 +40453,11 @@
  }
 #}
 #2chr-2-10 {
+ {
+  <i>20000 Kor Weizen und 20000 Kor Gerste</i> vgl  §2chr-27-5, §esr-7-22
+ <br>
+  S. a. §1koe-5-25
+ }
  {
   TODO: <i>Holzhauer</i>: <a class='kom' href='#I5mo-19-5'>5.&nbsp;Mo&nbsp;19,5</a>.
  }
@@ -40457,7 +40490,7 @@
 #}
 #2chr-2-17 {
  {
-  70000 + 80000 + 3600 = 153600 (Vers 17).
+  70000 + 80000 + 3600 = 153600, vgl §V2chr-2-2
  }
  {
   Vgl <a href='http://bibel.renenyffenegger.ch/1koe_5.html#v30'>1.&nbsp;Kö&nbsp;5,30</a> (Dort 3300 Oberaufsseher, hier 3600 Aufseher).
@@ -40670,7 +40703,7 @@
 #}
 #2chr-6-21 {
  {
-  <a class='kom' href='#I1koe-8-30'>1.&nbsp;Kö&nbsp;8,30</a>.
+  §+1koe-8-30.
  }
 #}
 #2chr-6-22 {
@@ -40879,6 +40912,11 @@
 #2chr-9-16 {
  {
   <i>Haus des Libanonwaldes</i>: <a class='kom' href='#I1koe-7-2'>1.&nbsp;Kö&nbsp;7,2</a>.
+ }
+#}
+#2chr-9-19 {
+ {
+  §1koe-10-20
  }
 #}
 #2chr-9-20 {
@@ -42141,6 +42179,9 @@
 #2chr-27-5 {
  {
   <i>100 Talente Silber</i>: <a class='kom' href='#I2chr-25-9'>2.&nbsp;Chr&nbsp;25,9</a>.,
+ }
+ {
+  <i>10000 Kor Weizen und 10000 Kor Gerste</i> vgl §2chr-2-10
  }
 #}
 @}
@@ -43619,6 +43660,14 @@
 #esr-7-21 {
  {
   <i>Schriftgelehrter im Gesetz</i>: §+Vesr-7-12
+ }
+#}
+#esr-7-22 {
+ {
+  <i>100 Kor Weizen</i> vgl §lk-16-7
+ }
+ {
+  TODO: Vgl §2chr-2-10
  }
 #}
 #esr-7-23 {
@@ -82002,6 +82051,11 @@ sa:
 #lk-16-3 {
  {
   <i>bei sich selbst</i>: §+lk-7-39
+ }
+#}
+#lk-16-7 {
+ {
+  <i>100 Kor Weizen</i> vgl §esr-7-22
  }
 #}
 #lk-16-8 {
