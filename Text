@@ -26407,7 +26407,7 @@
 #}
 #jos-23-14 {
  {
-  <i>nicht ein Wort ist dahingefallen</i>: §jos-21-45, vgl §ri-2-19
+  <i>nicht ein Wort ist dahingefallen</i>: §jos-21-45, vgl §ri-2-19, §1koe-8-56
  }
  {
   <i>Den Weg der ganzen Erde gehen</i>, §1koe-2-2
@@ -29772,7 +29772,7 @@
   <i>Hoher Wuchs</i>: Vgl mit Saul, der «von seiner Schulter an aufwärts höher war als alles Volk», §+1sam-9-2.
  }
  {
-  Trotzdem: → biblisches/Personen/David war schön (Vers 12).
+  Trotzdem: → biblisches/Personen/David war schön, §V1sam-16-12
  }
  {
   <i>Jehova sieht auf das Herz</i>: §1sam-13-14
@@ -29804,6 +29804,9 @@
 #1sam-16-12 {
  {
   <i>rötlich … und von gutem Ansehen</i> §1sam-17-42.
+ }
+ {
+  <i>Denn dieser ist es</i>: §1chr-28-4
  }
 #}
 #1sam-16-13 {
@@ -29843,7 +29846,7 @@
  }
  {
   TODO: <i>Aseka</i> gehört zu dem Gebiet wo der HERR (Hagel?-)Steine auf die Amoriter (?) regnen liess (<a class='kom' href='#Ijos-10-11'>Jos&nbsp;10,11</a>).
-  Entstprechend heisst wohl dieser Ort <span class='hebr'>אֶפֶס דַּמִּים</span> (Strongs 658, etwa 'Rand des Blutes'). Mäglicherweise hat es aber auch
+  Entstprechend heisst wohl dieser Ort <span class='hebr'>אֶפֶס דַּמִּים</span> (Strongs 658, etwa 'Rand des Blutes'). Möglicherweise hat es aber auch
   mit <a href='http://bibel.renenyffenegger.ch/1sam_14.html#v32'>1.&nbsp;Sam&nbsp;14,32</a> zu tun?
  }
 #}
@@ -33233,6 +33236,16 @@
   §1chr-22-7.
  }
 #}
+#1koe-8-22 {
+ {
+  §2chr-6-12
+ }
+#}
+#1koe-8-23 {
+ {
+  §2chr-6-14
+ }
+#}
 #1koe-8-25 {
  {
   TODO: Vgl Parallelstelle <a href='http://bibel.renenyffenegger.ch/2chr_6.html#v16'>2.&nbsp;Chr&nbsp;6,16</a>, wo statt
@@ -33272,9 +33285,22 @@
   TODO: Ab 'und alle ihre Übertretungen' bis Vers 51 fehlt nahc <a href='http://bibel.renenyffenegger.ch/2chr_6.html#v39'>2.&nbsp;Chr&nbsp;6,39</a>.
  }
 #}
+#1koe-8-52 {
+ {
+  §2chr-6-40
+ }
+#}
 #1koe-8-54 {
  {
+  <i>Als Salomo geendigt hatte</i>: §2chr-7-1
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/knien#knie-beugen[Knie beugen]
+ }
+#}
+#1koe-8-56 {
+ {
+  <i>Kein einziges Wort ist dahingefallen</i>: §+jos-23-14
  }
 #}
 #1koe-8-58 {
@@ -33293,6 +33319,11 @@
  }
  {
   §+5mo-4-35
+ }
+#}
+#1koe-8-63 {
+ {
+  §2chr-7-5
  }
 #}
 #1koe-8-64 {
@@ -33315,14 +33346,25 @@
   TODO: Vgl §2koe-14-25
  }
 #}
+#1koe-8-66 {
+ {
+  <i>der achte Tag</i> ist der 23. Tag des 7. Monats, §2chr-7-10
+ }
+#}
 @}
 @1. Könige 9 {
 #1koe-9-2 {
+ {
+  §2chr-7-12
+ }
  {
   Das erste Mal wird in in §+1koe-3-5 beschrieben.
  }
 #}
 #1koe-9-4 {
+ {
+  §2chr-7-17
+ }
  {
   TODO <i>Lauterkeit des Herzens</i>: §5mo-9-5, §1chr-29-17
  }
@@ -33342,10 +33384,16 @@
 #}
 #1koe-9-10 {
  {
+  §2chr-8-1
+ }
+ {
   TODO: Das müsste dann im 500. Jahr nach dem Auszug sein (<a href='http://bibel.renenyffenegger.ch/1koe_6.html#v1'>1.&nbsp;Kö&nbsp;6,1</a>).
  }
 #}
 #1koe-9-11 {
+ {
+  <i>20 Städte, die Salomo dem Hiram gegeben atte</i> vgl §2chr-8-2
+ }
  {
   <i>Galiläa</i> scheint in Naphtali zu liegen: <a class='kom' href='#Ijos-20-7'>Jos&nbsp;20,7</a>
  }
@@ -37721,7 +37769,7 @@
 #}
 #1chr-4-6 {
  {
-  TODO: <i>Temni</i> = Strongs 8488, mäglicherweise verwandt mit 8486 (<a href='http://bibel.renenyffenegger.ch/2mo_26.html#v18'>2.&nbsp;Mo&nbsp;26,18</a>) und
+  TODO: <i>Temni</i> = Strongs 8488, möglicherweise verwandt mit 8486 (<a href='http://bibel.renenyffenegger.ch/2mo_26.html#v18'>2.&nbsp;Mo&nbsp;26,18</a>) und
   8487 (<a href='http://bibel.renenyffenegger.ch/1mo_36.html#v11'>1.&nbsp;Mo&nbsp;36,11</a>). Diese beiden Strongs bedeuten in irgend einer Art 'Süden' oder
   'südlich'.
  }
@@ -40202,6 +40250,9 @@
 #}
 #1chr-28-4 {
  {
+  <i>hat mich aus dem ganzen Haus meines Vaters erwählt</i> vgl §1sam-16-12
+ }
+ {
   <i>Juda zum Fürsten erwählt</i> vgl §1chr-5-2, §+1chr-11-2
  }
 #}
@@ -40685,9 +40736,19 @@
   §+2chr-4-1, §2sam-7-6
  }
 #}
+#2chr-6-12 {
+ {
+  §1koe-8-22
+ }
+#}
 #2chr-6-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/knien
+ }
+#}
+#2chr-6-14 {
+ {
+  §1koe-8-23
  }
 #}
 #2chr-6-16 {
@@ -40736,12 +40797,18 @@
 #}
 #2chr-6-40 {
  {
+  §1koe-8-52
+ }
+ {
   §2chr-7-15
  }
 #}
 @}
 @2. Chronik 7 {
 #2chr-7-1 {
+ {
+  <i>Und als Salomo geendigt hatte</i> §1koe-8-54
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Feuer#feuer-vom-himmel
  }
@@ -40757,6 +40824,11 @@
 #2chr-7-3 {
  {
   <i>seine Güte währt ewiglich</i> vgl §esr-3-11, §ps-100-5, §ps-106-1
+ }
+#}
+#2chr-7-5 {
+ {
+  §1koe-8-63
  }
 #}
 #2chr-7-6 {
@@ -40778,6 +40850,16 @@
   Bereits im nächsten Kapitel überwältigt Salomo <i>Hamath-Zoba</i>, §2chr-8-3
  }
 #}
+#2chr-7-10 {
+ {
+  §+1koe-8-66
+ }
+#}
+#2chr-7-12 {
+ {
+  §1koe-9-2
+ }
+#}
 #2chr-7-14 {
  {
   <i>Vom Himmel her hören</i> §neh-9-27
@@ -40788,6 +40870,11 @@
   §2chr-6-40
  }
 #}
+#2chr-7-17 {
+ {
+  §1koe-9-4
+ }
+#}
 #2chr-7-22 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen, vgl §2koe-17-7
@@ -40795,6 +40882,16 @@
 #}
 @}
 @2. Chronik 8 {
+#2chr-8-1 {
+ {
+  §1koe-9-10
+ }
+#}
+#2chr-8-2 {
+ {
+  <i>Städte, die Huram dem Salomo gegeben hatte</i> vgl §1koe-9-11
+ }
+#}
 #2chr-8-3 {
  {
   <i>Hamath-Zoba</i> scheint an der Grenze Israels gelegen zu sein und Salomo hat evtl. versucht, sein Reich zu vergrössern, vgl §2chr-7-8
@@ -69483,10 +69580,11 @@
 #}
 #mt-5-3 {
  {
-  <i>ihrer ist das Reich der Himmel</i>: Vers 10.
+  §lk-6-20
  }
  {
-  §lk-6-20
+  Das Grund für das erste und das achte (§Vmt-5-10) Glückselig ist der Gleiche: <i>ihrer ist das Reich der Himmel</i> und ist im Präsens formuliert.
+  Die Gründe für die sechs anderen Glückselig sind im Futur formuliert.
  }
  {
   Hier folgen acht <i>Glückselig</i>. Vgl mit den acht «Wehe» in §mt-23-13-ff
@@ -69531,16 +69629,19 @@
 #}
 #mt-5-11 {
  {
-  Beachte den Wechsel von <i>die</i> auf <i>euch</i>.
+  Dieses letzte Glückselig in der Rede, wie sie von Matthäus widergegeben wird entspricht dem letzten Glückselig in der Rede, wie sie von Lukas widergegeben wird, §lk-6-22.
  }
  {
-  §lk-6-22
+  Beachte den Wechsel von <i>die</i> auf <i>euch</i>.
  }
  {
   Vgl §jes-51-7
  }
 #}
 #mt-5-12 {
+ {
+  §lk-6-23
+ }
  {
   Verfolgte → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], vgl §apg-7-52
  }
@@ -72113,7 +72214,7 @@
 #}
 #mt-15-14 {
  {
-  §lk-6-30
+  §lk-6-39
  }
 #}
 #mt-15-15 {
@@ -80067,7 +80168,13 @@ sa:
 #}
 #lk-6-23 {
  {
+  §mt-5-12
+ }
+ {
   <i>freut euch</i> vgl §lk-10-20, §apg-5-41
+ }
+ {
+  <i>Lohn ist groß im Himmel</i> vgl §Vlk-6-35
  }
 #}
 #lk-6-25 {
@@ -80084,15 +80191,19 @@ sa:
  {
   §mt-5-44
  }
-#}
-#lk-6-30 {
  {
-  §mt-15-12
+  <i>Liebt eure Feinde</i>: §Vlk-6-35
  }
 #}
 #lk-6-35 {
  {
-   TODO: Richtig übersetzt sei: 'und erhofft nicht, das Verliehene zurückzuerhalten.'.
+  <i>Liebt eure Feinde</i>: §Vlk-6-27
+ }
+ {
+  <i>Lohn wird groß sein</i> vgl §Vlk-6-23
+ }
+ {
+  TODO: Richtig übersetzt sei: 'und erhofft nicht, das Verliehene zurückzuerhalten.'.
  }
 #}
 #lk-6-37 {
@@ -80106,6 +80217,9 @@ sa:
  }
 #}
 #lk-6-39 {
+ {
+  §mt-15-14
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
  }
