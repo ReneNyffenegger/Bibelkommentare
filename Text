@@ -40357,6 +40357,9 @@
  {
    TODO: 'weisse Marmorsteine' (Strongs 7893 68) ist offenbar verwandt mit Strongs 8336 (<a class='kom' href='#I1mo-41-42'>1.&nbsp;Mo&nbsp;41,42</a>).
  }
+ {
+  TODO: vgl <a href='http://bibel.renenyffenegger.ch/2mo_25.html#v7'>2.&nbsp;Mo&nbsp;25,7</a>.
+ }
 #}
 #1chr-29-4 {
  {
@@ -41592,7 +41595,8 @@
 #}
 #2chr-17-3 {
  {
-  <i>er wandelte auf den früheren Wegen seines Vaters David</i> Vgl §2chr-20-32, §1koe-22-43
+  <i>er wandelte auf den früheren Wegen seines Vaters David</i> Vgl §2chr-20-32, §2chr-28-1, §2chr-29-2, §2chr-34-2, §1koe-22-43
+  <br><i>… sondern er suchte den Gott seines Vaters</i> vgl §2chr-21-12
  }
 #}
 #2chr-17-4 {
@@ -41953,6 +41957,9 @@
  }
 #}
 #2chr-21-12 {
+ {
+  <i>Der Gott deines Vaters David</i> vgl §2chr-17-3-4
+ }
  {
   TODO: Elia wurde bereits in <a href='http://bibel.renenyffenegger.ch/2koe_2.html#v12'>2.&nbsp;Kö&nbsp;2,12</a> in den Himmel aufgenommen, zu einer Zeit, wo
   Josaphat noch lebte(?).
@@ -42320,6 +42327,9 @@
  {
   §2koe-16-1
  }
+ {
+  <i>wie sein Vater David</i> vgl §2chr-17-3
+ }
 #}
 #2chr-28-3 {
  {
@@ -42414,7 +42424,7 @@
 #}
 #2chr-29-2 {
  {
-  TODO: vgl <a href='http://bibel.renenyffenegger.ch/2mo_25.html#v7'>2.&nbsp;Mo&nbsp;25,7</a>.
+  <i>was sein Vater David getan hatte</i> vgl §2chr-17-3
  }
 #}
 #2chr-29-3 {
@@ -42821,7 +42831,7 @@
 #}
 #2chr-33-19 {
  {
-  <i>Geschichten der Seher</i> (<span class='hebr'>דִּבְרֵ֥י חוֹזָֽי</span>, Strongs 1697 2335), in KVJ: «sayings of the seers», in Elberfelder: «Geschichte Hosais»
+  <i>Geschichten der Seher</i> (<span class='hebr'>דִּבְרֵ֥י חוֹזָֽי</span>, Strongs 1697 2335), in KVJ: «sayings of the seers», in Sch2K: «Geschichtsbuch Hosais»
  }
  {
   → biblisches/Bücher/referenzierte-ausserbiblische
@@ -42829,6 +42839,11 @@
 #}
 @}
 @2. Chronik 34 {
+#2chr-34-2 {
+ {
+  <i>auf den Wegen seines Vaters David</i> vgl §2chr-17-3
+ }
+#}
 #2chr-34-3 {
  {
   <a class='kom' href='#I2koe-22-3'>2.&nbsp;Kö&nbsp;22,3</a>.
