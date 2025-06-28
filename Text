@@ -91810,6 +91810,9 @@ sa:
  {
   <i>Tür des Glaubens</i>: <a class='kom' href='#Iapg-13-2'>Apg&nbsp;13,2</a>.
  }
+ {
+  <i>erzählten sie alles, was Gott mit ihnen getan, und daß er den Nationen…</i> vgl §+apg-15-3, §apg-21-19
+ }
 #}
 @}
 @Apostelgeschichte 15 {
@@ -91833,6 +91836,11 @@ sa:
  {
   TODO: Aber Paulus war doch Apostel. Respektive: wann wurde Paulus Apostel? Vgl Vers 22.
   <br>In <a href='http://bibel.renenyffenegger.ch/apg_14.html#v14'>Apg&nbsp;14,14</a> wurden Barnabas und Paulus <i>Apostel</i> genannt.
+ }
+#}
+#apg-15-3 {
+ {
+  <i>erzählten die Bekehrung derer aus den nationen</i> vgl §apg-14-27, §apg-21-19, §Vapg-15-12, §Vapg-15-14
  }
 #}
 #apg-15-5 {
@@ -91890,10 +91898,11 @@ sa:
 #apg-15-14 {
  {
   <i>um aus ihnen ein Volk zu nehmen</i> Vgl §apg-10-35, §apg-18-10 §roem-11-25-26
+ <br>
+  Beachte, daß Simon (Petrus) in seinem ersten Brief vom «nicht Volk» schreibt, das zum Volk Gottes geworden ist, §1petr-2-9-10
  }
  {
-  Beachte: Jakobus nennt Petrus <i>Simon</i>, vgl <a class='kom' href='#Iapg-10-5'>Apg&nbsp;10,5</a>. Hier ist die letzte erwähnung von <i>Petrus</i> oder
-  <i>Simon</i> in der Apostelgeschichte.
+  Beachte: Jakobus nennt Petrus <i>Simon</i>, vgl §+apg-10-5. Hier ist die letzte erwähnung von <i>Petrus</i> oder <i>Simon</i> in der Apostelgeschichte.
  }
 #}
 #apg-15-15 {
@@ -93537,6 +93546,9 @@ sa:
   Der → biblisches/Personen/Paulus#dienst-von-paulus[Dienst von Paulus] war «das Evangelium der Gnade Gottes zu bezeugen», §apg-20-24.
   <br>→ biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, der Apostel der Nationen], vgl §+gal-2-9
  }
+ {
+  <i>erzählte er … was Gott unter den Nagtionen durch seinen Dient getan hatte</i> vgl §+apg-14-27
+ }
 #}
 #apg-21-20 {
  {
@@ -94123,11 +94135,6 @@ sa:
    Es wurde Paulus verheissen, den Namen des Herrn vor Königen durch das Evangelium zu verkünden (<a href='http://bibel.renenyffenegger.ch/apg_9.html#v15'>Apg&nbsp;9,15</a>).
  }
 #}
-#apg-26-2 {
- {
-  <i>Busse tun</i>: <a class='kom' href='#Iapg-2-38'>Apg&nbsp;2,38</a>
- }
-#}
 #apg-26-3 {
  {
   <i>Streitfragen</i>: §+apg-18-15
@@ -94209,6 +94216,11 @@ sa:
 #apg-26-19 {
  {
   <i>Erscheinung</i> (Strongs 3701): <a class='kom' href='#Ilk-1-22'>Lk&nbsp;1,22</a>.
+ }
+#}
+#apg-26-20 {
+ {
+  <i>Buße tun</i>: §+apg-2-38
  }
 #}
 #apg-26-21 {
@@ -113031,7 +113043,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>wunderbares Licht</i>: <a class='kom' href='#I1tim-6-16'>1.&nbsp;Tim&nbsp;6,16</a>.
  }
  {
-  <i>Volk des Besitztums</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum, §tit-2-14
+  <i>Volk des Besitztums</i> vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum, §tit-2-14. S. a. §+apg-15-14
  }
  {
   <i>Königliches Priestertum</i>: §+2mo-19-6, §V1petr-2-5
