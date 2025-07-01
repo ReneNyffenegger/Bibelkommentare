@@ -73001,6 +73001,9 @@
  {
   <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
  }
+ {
+  <i>…sondern das Schwert</i> vgl §mt-26-52
+ }
 #}
 #mt-18-35 {
  {
@@ -74792,7 +74795,7 @@
 #}
 #mt-26-52 {
  {
-  <i>Stecke das Schwert wieder an seinen Ort</i> vgl §joh-18-11
+  <i>Stecke das Schwert wieder an seinen Ort</i> vgl §joh-18-11, §mt-18-34
  }
 #}
 #mt-26-54 {
@@ -74863,10 +74866,13 @@
  {
   <i>Ins Angesicht speien</i> vgl §3mo-15-8, §mt-27-30
  }
+ {
+  <i>schlugen ihn mit Fäusten</i> vgl §1kor-4-11
+ }
 #}
 #mt-26-69 {
  {
-  Vgl <i>Jesus, der Galiläer</i> mit <i>Jesus, dem Nazarener</i> in Vers 71.
+  Vgl <i>Jesus, der Galiläer</i> mit <i>Jesus, dem Nazarener</i> in §Vmt-26-71.
  }
 #}
 #mt-26-73 {
@@ -75085,7 +75091,7 @@
  }
  {
    Jesus kostete den Essig und wollte ihn nicht trinken. Vgl <a href='http://bibel.renenyffenegger.ch/hebr_2.html#v9'>Hebr&nbsp;2,9</a>: 'Jesus sollte durch Gottes Gnade für alle den
-   Tod schmecken' (Schmecken und kosten sind dasselbe Wort im Griechischen <span class='gr'>γεύομαι</span>)
+   Tod schmecken' (Schmecken und kosten sind dasselbe Wort im Griechischen: <span class='gr'>γεύομαι</span>)
  }
  {
    Hier <i>Essig mit Galle</i>, in §mt-27-48 «nur» Essig.
@@ -75163,7 +75169,7 @@
  {
   <i>gab den Geist auf</i>: §+mt-3-16, vgl §lk-23-46
  <br>
-  Vgl mit Stephanus letzten Worten, §apg-7-59
+  Vgl mit Stephanus' letzten Worten, §apg-7-59
  }
  {
   TODO: Schrie hier Jesus: 'es ist vollbracht' (vgl <a href='http://bibel.renenyffenegger.ch/joh_19.html#v3'>Joh&nbsp;19,3</a>),
@@ -75233,10 +75239,6 @@
 #mt-27-57 {
  {
   §mk-15-43, §lk-23-50, §joh-19-38
-sa:
-  gh: temp/Bibel/Vergleiche
-  https://github.com/ReneNyffenegger/temp-Bibel-Exodus-Chronologie
-  https://github.com/ReneNyffenegger/Biblisches/tree/master/Chronologie
  }
  {
   Vgl den <i>reichen Joseph von Arimithia, der den Leib Jesu in eine Gruft gelegt hat</i> mit §jes-53-9.
@@ -75364,6 +75366,11 @@ sa:
 #mt-28-12 {
  {
   <i>Kriegsknechte</i> Elb übersetzt mit → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat[Soldaten].
+ }
+#}
+#mt-28-13 {
+ {
+  Urs S. weist darauf hin, daß ein römischer Soldat, der auf der Wache eingeschlafen ist, die Todesstrafe erhielt.
  }
 #}
 #mt-28-14 {
@@ -98364,6 +98371,11 @@ sa:
   <i>Wir sind Narren</i>: §1kor-3-18 (Dasselbe Wort wie «töricht»)
  }
 #}
+#1kor-4-11 {
+ {
+  <i>mit Fäusten geschlagen werden</i> vgl §2kor-12-7, §mt-26-67
+ }
+#}
 #1kor-4-12 {
  {
   <i>Mit unseren eigenen Händen arbeitend</i> vgl §1thes-2-9, §2thes-3-10
@@ -101668,6 +101680,9 @@ sa:
 #2kor-12-7 {
  {
   <i>Engel Satans</i>: §2kor-11-14
+ }
+ {
+  <i>daß er mich mit Fäusten schlage</i> vgl §1kor-4-11
  }
 #}
 #2kor-12-9 {
