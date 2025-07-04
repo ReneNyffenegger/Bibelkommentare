@@ -48599,7 +48599,7 @@
 #}
 #ps-51-18 {
  {
-  <i>Du hat keine Lust an Schlachtopfern … an Brandopfern hast du kein Wohlgefallen</i> vgl §1sam-15-22, §1chr-21-26, §mk-12-33, §Vps-51-8
+  <i>Du hat keine Lust an Schlachtopfern … an Brandopfern hast du kein Wohlgefallen</i> vgl §1sam-15-22, §1chr-21-26, §mk-12-33, §Vps-51-8, §mi-6-6-7 
  }
 #}
 #ps-51-19 {
@@ -56879,7 +56879,7 @@
   Vgl §jes-42-7
  }
  {
-  TODO: Sind diese <i>vielen Jahre</i> die '1000 Jahre' aus <a href='http://bibel.renenyffenegger.ch/offb_20.html#v2'>Offb 20,2 ff</a>?
+  TODO: Sind diese <i>vielen Jahre</i> die '1000 Jahre' aus §offb-20-2-ff?
  }
  {
   TODO: Vergleiche die eingesperrten und dann freigelassenen <i>Könige der Erde</i> mit dem Satan in <a href='http://bibel.renenyffenegger.ch/offb_20.html#v2'>Offb 20,2/3/7</a>.
@@ -67490,6 +67490,9 @@
 #}
 #mi-6-7 {
  {
+  <i>Wird der HERR Wohlgefallen haben an …</i> vgl §ps-51-18
+ }
+ {
   TODO: Strongs 7233, vgl <a class='kom' href='#I1mo-24-60'>1.&nbsp;Mo&nbsp;24,60</a>.
  }
 #}
@@ -71603,7 +71606,7 @@
 #}
 #mt-12-32 {
  {
-  <i>dieses und das zukünftige Zeitalter</i> vgl §mk-10-30, §eph-1-21
+  <i>dieses und das zukünftige Zeitalter</i> vgl §mk-10-30, §eph-1-21, §lk-20-34-35
  <br>
   Jetziges Zeitalter: §1tim-6-17
  }
@@ -74650,6 +74653,9 @@
 #}
 #mt-26-28 {
  {
+  §mk-14-24
+ }
+ {
   <i>Bund</i> (<span class='gr'>διαθήκη</span>, Strongs 1242) kann auch mit «Testament» übersetzt werden,
   zum Beispiel in §2kor-3-14, §gal-3-15.
  }
@@ -76601,7 +76607,9 @@
 #}
 #mk-6-34 {
  {
-  <i>Schafe, die keinen Hirten haben</i> §mt-9-36, §joh-10-16, §1petr-2-25, §4mo-27-16
+  <i>Schafe, die keinen Hirten haben</i> §mt-9-36, §1petr-2-25, §4mo-27-16
+ <br>
+  <i>kleine Herde</i>: §joh-10-16
  }
 #}
 #mk-6-36 {
@@ -78030,6 +78038,9 @@
  }
 #}
 #mk-14-24 {
+ {
+  §mt-26-28
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/neu: <a class='kom' href='#Imt-26-28'>Mt&nbsp;26,28</a>.
  }
@@ -81353,7 +81364,7 @@
 #}
 #lk-10-18 {
  {
-  vgl §offb-12-9
+  vgl §offb-12-9, §joh-12-31
  }
 #}
 #lk-10-19 {
@@ -82305,10 +82316,13 @@
  }
  {
   <i>Söhne des des Lichts</i> vgl §joh-12-36, §eph-5-8, §1thes-5-5
-  <br>
-   Vgl auch «Vater der Lichter» §jak-1-17
-  <br>
+ <br>
+  Vgl auch «Vater der Lichter» §jak-1-17
+ <br>
   Gott ist Licht: §1joh-1-5
+ }
+ {
+  <i>Söhne dieses Zeitalters</i> §lk-20-34
  }
 #}
 #lk-16-10 {
@@ -82729,6 +82743,9 @@
 #}
 #lk-19-11 {
  {
+  <i>sie meinten, daß das Reich Gottes alsbald erscheinen sollte</i> vgl §lk-21-31, §lk-17-20
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
  }
  {
@@ -82922,6 +82939,14 @@
 #lk-20-29 {
  {
   <i>sieben Brüder</i>: §lk-16-28
+ }
+#}
+#lk-20-34 {
+ {
+  <i>Söhne dieses Zeitalters</i> §lk-16-8
+ }
+ {
+  <i>dieses</i> und <i>jenes</i> (Vers 35) <i>Zeitalter</i>: §mt-12-32
  }
 #}
 #lk-20-36 {
@@ -83143,7 +83168,7 @@
  {
   <i>Das Reich Gottes ist nahe</i>: §+mt-3-2.
   <br>
-  Gemäss §+lk-17-20 kommt das Reich Gottes nicht so, dass man es beobachten könnte.
+  Gemäss §+lk-17-20 kommt das Reich Gottes nicht so, dass man es beobachten könnte. Vgl auch §lk-19-11
  }
 #}
 #lk-21-32 {
@@ -86251,7 +86276,10 @@
 #}
 #joh-10-16 {
  {
-  §1petr-2-25, §mt-9-36, §mk-6-34, §4mo-27-17, §jer-50-6, §hes-34-8
+  §1petr-2-25, §mt-9-36, §mk-6-34, §4mo-27-17, §jer-50-6, §hes-34-8, §apg-20-28-29
+ }
+ {
+  Diese <i>eine</i> Herde scheint eine kleine zu sein, §mk-6-34
  }
 #}
 #joh-10-18 {
@@ -86634,6 +86662,9 @@
  }
 #}
 #joh-12-31 {
+ {
+  Vgl §lk-10-18
+ }
  {
   <i>Gericht</i>: vgl <a class='kom' href='#Ijes-1-27'>Jes&nbsp;1,27</a>.
  }
@@ -93382,7 +93413,7 @@
 #}
 #apg-20-28 {
  {
-  <i>Die ganze Herde hüten</i> vgl §1petr-5-2-ff
+  <i>Die ganze Herde hüten</i> vgl §1petr-5-2-ff, §joh-10-16
  }
  {
   Beachte: Heiliger Geist = Gott = Jesus.
@@ -96784,7 +96815,7 @@
   <i>damit ihr prüfen mögt …</i> vgl §gal-6-4, §eph-5-10, §phil-1-10, §1thes-5-21, §roem-2-18
  }
  {
-  <i>Zeit</i> wäre evtl. konsistenter mit «Zeitalter» übersetzt.
+  <i>Weltzeit</i> wäre evtl. konsistenter mit «Zeitalter» übersetzt, vgl §1kor-1-20
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wille/Gott
@@ -97913,7 +97944,7 @@
   <i>zur Torheit gemacht</i> <span class='gr'>μωραίνω</span> (Strongs 3471), vgl §roem-1-23
  }
  {
-  <i>dieses Zeitlaufs</i> sollte evtl. mit «dieses Zeitalters» übersetzt werden, vgl §1kor-2-6
+  <i>dieses Zeitlaufs</i> sollte evtl. mit «dieses Zeitalters» übersetzt werden, vgl §1kor-2-6, §roem-12-2
  }
 #}
 #1kor-1-21 {
@@ -117436,21 +117467,22 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Offenbarung 9 {
 #offb-9-1 {
  {
-  Frage: Wurde der Schlüssel dem Engel oder dem Stern gegeben? (Im Griechischen sind beide maskulin).
-  <br>TODO: <a class='kom' href='#Ioffb-8-10'>Offb&nbsp;8,10</a>.
-  <br>Vgl <a class='kom' href='#Ioffb-6-1'>Offb&nbsp;6,1</a>.
-  <br>In <a href='http://bibel.renenyffenegger.ch/offb_20.html#v1'>Offb&nbsp;20,1</a> hat ein Engel den <i>Schlüssel des Abgrundes</i>.
- }
- {
   <i>Schlund</i>, <span class='gr'>φρέαρ</span>, Strongs 5421, wird in §lk-14-5, §joh-4-11 mit «Brunnen» übersetzt. Evtl. könnte dieses Wort in allen Versen konsistenter mit «Schacht» übersetzt werden.
  }
  {
   <i>Abgrund</i> <span class='gr'>ἄβυσσος</span>, Strongs 12: §+lk-8-31 und → biblisches/Eigene-Uebersetzung/Konkordanz/Tartaros (§2petr-2-4).
+ <br>
+  <i>Schlüssel des Abgrundes</i> vgl §offb-20-1
  }
  {
   Das Tier steigt aus dem Abgrund (TODO: nicht aus dem 'Schlund es Abgrunds'): <a href='http://bibel.renenyffenegger.ch/offb_11.html#v7'>Offb&nbsp;11,7</a>,
   <a href='http://bibel.renenyffenegger.ch/offb_17.html#v8'>Offb&nbsp;17,8</a>.
   <br>Der Drache  wird für 1000 Jahre im Abgrund eingschlossen (<a href='http://bibel.renenyffenegger.ch/offb_20.html#v1'>Offb 20,1-3</a>).
+ }
+ {
+  Frage: Wurde der Schlüssel dem Engel oder dem Stern gegeben? (Im Griechischen sind beide maskulin).
+  <br>TODO: <a class='kom' href='#Ioffb-8-10'>Offb&nbsp;8,10</a>.
+  <br>Vgl <a class='kom' href='#Ioffb-6-1'>Offb&nbsp;6,1</a>.
  }
  {
   TODO: Oder Brunnen des Abgrundes (<span class='gr'>τοῦ φρέατος τῆς ἀβύσσου</span>)?
@@ -117784,23 +117816,24 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-11-7 {
  {
-  Vgl <i>Tier aus dem Abgrund</i> mit dem <i>Tier aus dem Meer</i> (<a href='http://bibel.renenyffenegger.ch/offb_13.html#v1'>Offb&nbsp;13,1</a>).
+  Vgl <i>Tier aus dem Abgrund</i> mit dem <i>Tier aus dem Meer</i>, §offb-13-1.
   <br>Beachte: in <a href='http://bibel.renenyffenegger.ch/offb_17.html#v8'>Offb&nbsp;17,8</a> ein zukünftiges Ereignis.
-  <br>TODO: <a class='kom' href='#Ioffb-13-11'>Offb&nbsp;13,11</a>.
  }
  {
   <i>Tier</i> (<span class='gr'>θηρίον</span>, Strongs 2342): <a class='kom' href='#Imk-1-13'>Mk&nbsp;1,13</a>.
   <br>Vgl auch <a class='kom' href='#Ioffb-6-8'>Offb&nbsp;6,8</a>.
  }
  {
-  Beachte, das Tier überwindet die zwei Zeugen; der Drache wird von 'Brüdern' überwunden
-         (<a href='http://bibel.renenyffenegger.ch/offb_12.html#v10'>Offb 12,10-11</a>).
+  Beachte, das Tier überwindet die zwei Zeugen; der Drache wird von 'Brüdern' überwunden (<a href='http://bibel.renenyffenegger.ch/offb_12.html#v10'>Offb 12,10-11</a>).
  }
  {
   <i>Abrund</i>: <a class='kom' href='#Ioffb-9-1'>Offb&nbsp;9,1</a>.
  }
  {
   <i>überwinden</i>: <a class='kom' href='#Ioffb-2-7'>Offb&nbsp;2,7</a>, <a href='http://bibel.renenyffenegger.ch/offb_12.html#v11'>Offb&nbsp;12,11</a>.
+ }
+ {
+  TODO: <a class='kom' href='#Ioffb-13-11'>Offb&nbsp;13,11</a>.
  }
 #}
 #offb-11-8 {
@@ -118045,7 +118078,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte die Einheit des Drachens und der Schlange auch in den Versen 15 bis 16. Vgl mit §offb-20-2.
  }
  {
-  <i>wurde auf die Erde geworfen</i> vgl §jes-14-12, §lk-10-18, §ob-1-3
+  <i>wurde auf die Erde geworfen</i> vgl §jes-14-12, §lk-10-18, §ob-1-3, §offb-20-3
  <br>
   Beachte: Das Niederwerfen des Satans hat offenbar etwas mit der Rettung, der Macht und dem Reich zu tun (Vers 10).
  }
@@ -118095,8 +118128,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-12-14 {
  {
-  <i>eine Zeit und zwei Zeiten und eine halbe Zeit</i> (<span class='gr'>καιρὸν καὶ καιροὺς καὶ ἥμισυ καιροῦ</span>), entsprechend in KVJ:
-  'a time, and times, and half a time', in Elberfelder 'eine Zeit und Zeiten und eine halbe Zeit'.
+  <i>eine Zeit und Zeiten und eine halbe Zeit</i> (<span class='gr'>καιρὸν καὶ καιροὺς καὶ ἥμισυ καιροῦ</span>), entsprechend in KVJ:
+  «a time, and times, and half a time», aber in Sch2K «eine Zeit und zwei Zeiten und eine halbe Zeit».
  }
  {
   <i>Flügel des Adlers</i>: §2mo-19-4, vgl §+offb-4-7.
@@ -118109,7 +118142,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-12-16 {
  {
-   <i>Die Erde tat ihren MUnd auf</i> siehe §+1mo-4-11, §4mo-16-30-ff
+   <i>Die Erde tat ihren Mund auf</i> siehe §+1mo-4-11, §4mo-16-30-ff
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Drache
@@ -119662,7 +119695,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Offenbarung 20 {
 #offb-20-1 {
  {
-  <i>Schlüssel des Abgrundes</i>: <a class='kom' href='#Ioffb-9-1'>Offb&nbsp;9,1</a>.
+  <i>Schlüssel des Abgrundes</i>: §+offb-9-1.
  }
  {
   <i>einen Engel aus dem Himmel herniederkommen</i> vgl §+offb-18-1
@@ -119670,18 +119703,21 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-20-2 {
  {
-  <i>1000 Jahre</i>: <a class='kom' href='#Ijes-24-22'>Jes&nbsp;24,22</a>.
- }
- {
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Drache, Teufel, Satan</i>: vgl §+offb-12-9.
  }
  {
   <i>Gebundener Satan</i> vgl §jud-1-6
  }
+ {
+  TODO: <i>1000 Jahre</i>: §+jes-24-22.
+ }
 #}
 #offb-20-3 {
  {
   <i>Nationen verführen</i>, vgl §offb-18-23, §Voffb-20-8
+ }
+ {
+  <i>warf [den Teufel] in den Abgrund</i> vgl §offb-12-9
  }
 #}
 #offb-20-4 {
