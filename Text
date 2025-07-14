@@ -69104,11 +69104,14 @@
 #}
 #mt-2-18 {
  {
-  <i>trösten</i> (<span class='gr'>παρακαλέω</span>, Strongs 3870), sonst häufig mit «ermahnen», «ermutigen» oder «bitten» (TODO: §+mt-8-5) übersetzt.
-  S.a. §+1thes-4-18
+  <i>Eine Stimme ist in Rama gehört worden</i> vgl §mt-3-3, §mt-3-17
  }
  {
   <i>Rama</i>: <a class='kom' href='#Ijos-18-25'>Jos&nbsp;18,25</a>.
+ }
+ {
+  <i>trösten</i> (<span class='gr'>παρακαλέω</span>, Strongs 3870), sonst häufig mit «ermahnen», «ermutigen» oder «bitten» (TODO: §+mt-8-5) übersetzt.
+  S.a. §+1thes-4-18
  }
 #}
 #mt-2-19 {
@@ -69185,6 +69188,9 @@
 #mt-3-3 {
  {
   <a class='kom' href='#Ijes-40-3'>Jes&nbsp;40,3</a>.
+ }
+ {
+  <i>Stimme</i>: §+mt-2-18, §Vmt-3-17
  }
 #}
 #mt-3-4 {
@@ -69324,19 +69330,24 @@
 #}
 #mt-3-17 {
  {
-   Beachte: <a href='http://bibel.renenyffenegger.ch/joh_5.html#v37'>Joh&nbsp;5,37</a>: Niemand (alle?, wer?) hat die Stimme des Vaters jemals gehört
-   (<a href='http://bibel.renenyffenegger.ch/joh_5.html#v37'>Joh&nbsp;5,37</a>).
+  Beachte: <a href='http://bibel.renenyffenegger.ch/joh_5.html#v37'>Joh&nbsp;5,37</a>: Niemand (alle?, wer?) hat die Stimme des Vaters jemals gehört
+  (<a href='http://bibel.renenyffenegger.ch/joh_5.html#v37'>Joh&nbsp;5,37</a>).
  }
  {
   <i>Dies ist mein geliebter Sohn…</i> (auch in §mk-1-11, §lk-3-22). Dies wird nach Jesu' Taufe mit einer Stimme vom Himmel bezeugt.
   Im → biblisches/Bücher/Evangelien/Johannes[Johannesevangelium] ist es der Autor selbst, der bezeugt, dass Jesus der Sohn Gottes ist: §+joh-1-34.
  <br>
-  Vgl §mt-12-18
+  Vgl §mt-12-18, §2petr-1-17
   <br>
   Beachte: Der Versucher stellt bereits in §mt-4-3 in Frage, ober Er wirklich der Sohn Gottes ist.
  }
  {
   Vgl auch mit «Gottes Sohn» in <a class='kom' href='#Imt-14-33'>Mt&nbsp;14,33</a>.
+ }
+ {
+  <i>Stimme aus den Himmeln</i> vgl §+mt-2-18, §joh-12-28
+ <br>
+  Vgl mit der «Stimme aus der Wolke» §mt-17-5
  }
 #}
 @}
@@ -71514,6 +71525,11 @@
   <i>meinen Geist auf ihn legen</i> vgl §mk-1-10
  }
 #}
+#mt-12-19 {
+ {
+  <i>noch wird jemand seine Stimme … hören</i> vgl §mt-27-46
+ }
+#}
 #mt-12-20 {
  {
   Beachte: Er wird das <i>geknickte Rohr</i> nicht brechen, aber selbst wird Er von einem Rohr geschlagen werden (<a href='http://bibel.renenyffenegger.ch/mt_27.html#v29'>Mt 27,29-30</a>)
@@ -72738,10 +72754,13 @@
 #}
 #mt-17-5 {
  {
-  §mk-9-7, §lk-9-34
+  §mk-9-7, §lk-9-34, §2petr-1-17-18
  }
  {
   <i>überschattete sie … eine Wolke</i>: §+2mo-40-35, §lk-1-35
+ }
+ {
+  <i>Stimme aus der Wolke</i> vgl §mt-3-17
  }
  {
   TODO: Auf <i>ihn</i> sollt ihr hören, nicht auf Mose und Elia?
@@ -75175,6 +75194,9 @@
  <br>
   Hier wird Gott im Vokativ angesprochen, in §mk-15-34 im Nominativ.
  }
+ {
+  <i>mit lauter Stimme</i> vgl §mt-12-19
+ }
 #}
 #mt-27-48 {
  {
@@ -75677,6 +75699,11 @@
  }
  {
   <i>Was habe ich mit dir zu schaffen</i> §+mk-5-7, §+mt-8-29
+ }
+#}
+#mk-1-26 {
+ {
+  <i>mit lauter Stimme</i> vgl §mk-5-7, §apg-8-7
  }
 #}
 #mk-1-27 {
@@ -76287,6 +76314,9 @@
 #mk-5-7 {
  {
   Beachte: der andere Mensch mit einem unreinen Geist reagierte auf Jesus mit «Was habe ich mit dir zu schaffen» §mk-1-24.
+ }
+ {
+  <i>laute Stimme</i> vgl §mk-1-26, §apg-8-7
  }
 #}
 #mk-5-10 {
@@ -78411,6 +78441,9 @@
 #}
 #mk-15-37 {
  {
+  <i>Schrei</i>: <span class='gr'>φωνην</span> (Strongs 5456), wird häufig mit «Stimme» übersetzt, z. B. in §Vmk-15-34. Vgl §lk-23-23
+ }
+ {
   TODO: <i>Jesus' letzter Schrei</i>: <a class='kom' href='#Imt-27-50'>Mt&nbsp;27,50</a>.
  }
 #}
@@ -79566,7 +79599,7 @@
 #}
 #lk-3-22 {
  {
-  <i>Du bist mein geliebter Sohn…</i> §+mt-3-17
+  <i>Du bist mein geliebter Sohn…</i> §+mt-3-17, §lk-9-35
  }
  {
   <i>Der Heilige Geist fährt … auf ihn herab</i> vgl §mk-1-10, §joh-1-32
@@ -81118,6 +81151,11 @@
   §+mt-17-5
  }
 #}
+#lk-9-35 {
+ {
+  <i>Dieser ist mein geliebter Sohn</i> vgl §lk-3-22
+ }
+#}
 #lk-9-36 {
  {
   <i>… verkündigten in jenen Tagen niemand etwas von dem, …</i> §Vlk-9-21
@@ -82476,6 +82514,11 @@
   vgl diese <i>zehn</i> aussätzigen Männer mit den zehn Stämmen, die in Samaria und Galiläa waren (§Vlk-17-11).
  }
 #}
+#lk-17-15 {
+ {
+  <i>Mit lauter Stimme Gott verherrlichen</i> §lk-19-37
+ }
+#}
 #lk-17-16 {
  {
   <i>Zu Jesu Füssen</i>: <a class='kom' href='#Ilk-7-38'>Lk&nbsp;7,38</a>.
@@ -82831,6 +82874,11 @@
  }
  {
   <i>gegenüber</i>: <span class='gr'>κατεναντι</span> (Strongs 2713), vgl §mt-21-2
+ }
+#}
+#lk-19-37 {
+ {
+  <i>mit lauter Stimme Gott loben</i> vgl §lk-17-15
  }
 #}
 #lk-19-38 {
@@ -83606,6 +83654,11 @@
   Barabbas wegen eines Aufruhrs und wegen eines Mordes ins Gefängnis geworfen: §mk-15-7, §joh-18-40
  }
 #}
+#lk-23-23 {
+ {
+  <i>Geschrei</i>: <span class='gr'>φωναις</span> (Strongs 5456), wird häufig mit «Stimme» übersetzt, z. B. in §Vlk-23-46. Vgl §mk-15-37
+ }
+#}
 #lk-23-24 {
  {
   <i>Forderung</i>: <span class='gr'></span>αἴτημα</span> (Strongs 155, 3x): §+phil-4-6
@@ -84338,8 +84391,9 @@
 #}
 #joh-1-34 {
  {
-  Hier bezeugt der Autor dieses Evangeliums <i>nach</i> der Taufe Jesus, daß <i>dieser der Sohn Gottes</i> ist, in den anderen Evangelien ist es eine Stimme aus dem Himmel, die dies nach seiner Taufe
-  sagt: §mt-3-17, §mk-1-11, §lk-3-22.
+  Hier bezeugt der Autor dieses Evangeliums <i>nach</i> der Taufe Jesus, daß <i>dieser der Sohn Gottes</i> ist, in den anderen Evangelien ist es eine Stimme aus dem Himmel, die dies nach seiner Taufe sagt: §mt-3-17, §mk-1-11, §lk-3-22.
+ <br>
+  Eine «Stime aus dem Himmel» wird aber in §joh-12-28 erwähnt.
  }
  {
   <i>Sohn Gottes</i>: §Vjoh-1-49, §+mk-1-1
@@ -84684,12 +84738,17 @@
 #}
 #joh-3-8 {
  {
+  <i>Sausen</i>: <span class='gr'>φωνην</span> (Strongs 5456). Elberfelder und Sch2K übersetzen mit «Stimme», KJV mit «the sound thereof».
+ }
+ {
   Vgl §pred-11-5
  }
  {
-   Angeblich kommt das Wort Pneuma im NT 370 mal vor, und wird sonst (bis auf die andere Ausnahme von §hebr-1-7) immer mit Geist übersetzt. (Wind hat im Griechischen ein eigenes Wort: <span class='gr'>ἄνεμος</span>).
-   Entsprechend übersetzt die → biblisches/Uebersetzungen/Vulgata mit «Spiritus ubi vult spirat».
-   Der Vers könnte, grammatisch korrekt, aber wohl nicht wie gewünscht, mit »Der Geist weht, wo er will und du hörst seine Stimme« übersetzt werden.
+  Angeblich kommt das Wort Pneuma im NT 370 mal vor, und wird sonst (bis auf die andere Ausnahme von §hebr-1-7) immer mit Geist übersetzt. (Wind hat im Griechischen ein eigenes Wort: <span class='gr'>ἄνεμος</span>).
+  Entsprechend übersetzt die → biblisches/Uebersetzungen/Vulgata mit «Spiritus ubi vult spirat».
+  Der Vers könnte, grammatisch korrekt, aber wohl nicht wie gewünscht, mit »Der Geist weht, wo er will und du hörst seine Stimme« übersetzt werden.
+ <br>
+  Das Wort für Wind im Griechischen ist: <span class='gr'>ἄνεμος</sapn> (Strongs 417), vgl §joh-6-18
  }
 #}
 #joh-3-10 {
@@ -86301,6 +86360,9 @@
  {
   Diese <i>eine</i> Herde scheint eine kleine zu sein, §mk-6-34
  }
+ {
+  <i>sie werden meine Stimme hören</i> vgl §joh-18-37
+ }
 #}
 #joh-10-18 {
  {
@@ -86669,6 +86731,11 @@
  }
  {
   <i>Jetzt ist mein Herz bestürzt</i> vgl §joh-14-1, §joh-13-21
+ }
+#}
+#joh-12-28 {
+ {
+  <i>Stimme aus dem Himmel</i>: §mt-3-17, §+joh-1-34
  }
 #}
 #joh-12-29 {
@@ -87769,7 +87836,10 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
  {
-  TODO: <a class='kom' href='#Ijoh-5-33'>Joh&nbsp;5,33</a>.
+  <i>Jeder, der aus der Wahrheit ist, hört meine Stimme</i> vgl §joh-10-16
+ }
+ {
+  TODO: §+joh-5-33.
  }
 #}
 #joh-18-38 {
@@ -88554,6 +88624,9 @@
  {
   Beachte: Die Apostel sassen in einem Haus (Vers 2) und trotzdem hörte Jerusalem sie. Petrus steht erst in Vers 14 auf und
   erhebt dort die Stimme.
+ }
+ {
+  <i>Gerücht</i>: <span class='gr'>φωνης</span> (Strongs 5456) wird oft mit «Stimme» übersetzt. Beachte, dass auch in §joh-3-8 der Geist und die Stimme in einem Kontext genannt werden.
  }
  {
   TODO: <i>wurde bestürzt</i> kann evtl. mit «wurde verwirrt» übersetzt werden (vgl das Sprachwunder in Babel)
@@ -90121,6 +90194,11 @@
  }
  {
   Elbefelder: '<i>indem</i> sie zuhörten'
+ }
+#}
+#apg-8-7 {
+ {
+  <i>Unreine Geister mit lauter Stimme</i> vgl §mk-1-26, §mk-5-7-8
  }
 #}
 #apg-8-9 {
@@ -99840,6 +99918,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
  }
 #}
+#1kor-14-7 {
+ {
+  <i>Ton</i>: <span class='gr'>φωνην</span> (Strongs 5456), oft mit «Stimme» übersetzt, z. B. in §1kor-14-10
+ }
+#}
 #1kor-14-8 {
  {
   <i>Posaune</i>: §+mt-24-31, §neh-4-12.
@@ -100157,7 +100240,7 @@
 #}
 #1kor-15-21 {
  {
-  Vgl §roem-5-12,§+roem-5-16.
+  Vgl §roem-5-12, §+roem-5-16.
  }
 #}
 #1kor-15-22 {
@@ -106454,15 +106537,17 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-4-16 {
  {
+  Beachte die Geräusche, die mit diesem Ereignis (wohl die Auferstehung) verbunden werden: Kommando, Stimme, Posaune.
+ <br>
+  In §1kor-15-52 wird die <i>Auferstehung</i> ebenfalls mit einer <i>Posaune</i> erwähnt.
+ }
+ {
   <i>Kommando</i>: <span class='gr'>κέλευσμα</span> (Strongs 2752, 1x): Elb05 übersetzt mit «gebietendem Zuruf», Sch2K mit «Befehl», KJV mit «shout», Menge mit «Weckruf», Neü mit «ein Kommando wird gerufen».
-  Offenbar ist es ein Wort aus der Militärsprache (<a class='kom' href='#I1kor-15-23'>1.&nbsp;Kor&nbsp;15,23</a>).
+  Offenbar ist es ein Wort aus der Militärsprache, vgl §+1kor-15-23.
  }
  {
-  <i>Posaune</i>: <a class='kom' href='#Imt-24-31'>Mt&nbsp;24,31</a>,
+  <i>Posaune</i>: §+mt-24-31,
   <br>Beachte: hier ist es die <i>Posaune Gottes</i>, nicht die «Posaune der Engel».
- }
- {
-  <i>Auferstehung</i> und <i>Posaune</i>: vgl <a class='kom' href='#I1kor-15-52'>1.&nbsp;Kor&nbsp;15,52</a>.
  }
  {
   <i>Erzengel</i> vgl §jud-1-9
@@ -114101,6 +114186,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2petr-1-17 {
  {
+  <i>Dieser ist mein geliebter Sohn, an welchem ich Wohlgefallen habe</i>: §mt-17-5, vgl §+mt-3-17
+ }
+ {
   TODO: Vgl <i>Gott die Ehre/Herrlichkeit geben</i>: <a class='kom' href='#Ijoh-9-24'>Joh&nbsp;9,24</a>. (Hier
   wird die Ehre und Herrlichkeit dem Sohn gegeben).
  }
@@ -115855,7 +115943,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Posaune</i>: <a class='kom' href='#Imt-24-31'>Mt&nbsp;24,31</a>.
   Beachte, dass hier keine Posaune gehört wird, sondern eine Stimme <i>wie</i> von einer Posaune. Diese
   Stimme redet wieder in <a href='http://bibel.renenyffenegger.ch/offb_4.html#v1'>Offb&nbsp;4,1</a>.
-  <br>Beachte auch, dass die Stimme in Vers 15 wie <i>das Rauschen vieler Wasser</i> ist.
+ }
+ {
+  Beachte, dass die Stimme in Vers 15 wie <i>das Rauschen vieler Wasser</i> ist.
+ <br>
+  Wer Seine Stimme hört… vgl §offb-3-20
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN[Tag des Herrn], vgl <i>Tag des Zorns</i> (§offb-6-17,
@@ -116502,7 +116594,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Ist diese Stimme dieselbe, die in §offb-1-10 als eine «laute Stimme wie die einer Posaune» beschrieben wird. Könnte diese Stimme überhört werden?
  }
  {
-  <i>Stimme hören</i> und <i>Tür auftun</i> vgl §offb-4-1
+  <i>Stimme hören</i> vgl §offb-1-10
+ <br>
+  <i>… und Tür auftun</i> vgl §offb-4-1
  }
 #}
 #offb-3-21 {
@@ -117713,7 +117807,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-10-4 {
  {
-  Die Stimme aus dem Himmel sagt hier: schreibe nicht. In <a href='http://bibel.renenyffenegger.ch/offb_14.html#v13'>Offb&nbsp;14,13</a> sagt sie: 'schreibe'.
+  <i>Stimme aus dem Himmel</i> vgl §offb-11-12, §offb-12-10, §offb-14-2, §offb-16-17, §offb-18-4, §offb-19-1, §offb-21-3
+ <br>
+  Die Stimme aus dem Himmel sagt hier: schreibe nicht. In §offb-14-13 sagt sie: 'schreibe'.
  }
  {
   <i>Schreibe nicht</i>: <a class='kom' href='#Ioffb-1-11'>Offb&nbsp;1,11</a>.
@@ -117907,6 +118003,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-11-12 {
  {
   Auch → biblisches/Personen/Johannes[Johannes] ist in den Himmel gestiegen, nachdem der Herr ihm gesagt hat «Komm hier herauf»: §+offb-4-1.
+ }
+ {
+  <i>Laute Stimme aus dem Himmel</i>: vgl §+offb-10-4
  }
 #}
 #offb-11-13 {
@@ -118119,6 +118218,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Tag und Nacht</i>: <a class='kom' href='#Ioffb-4-8'>Offb&nbsp;4,8</a>.
+ }
+ {
+  <i>Laute Stimme aus dem Himmel</i>: vgl §+offb-10-4
  }
  {
   Vgl mit den zwei Zeugen, die überwunden werden: <a class='kom' href='#Ioffb-11-7'>Offb&nbsp;11,7</a>.
@@ -118519,6 +118621,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-14-2 {
  {
   <i>ein Rauschen vieler Wasser</i> §offb-1-15, <i>… und wie das Rollen eines lauten Donners</i> §offb-19-6
+ }
+ {
+  <i>Stimme aus dem Himmel</i>: vgl §+offb-10-4
  }
 #}
 #offb-14-3 {
@@ -119013,6 +119118,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl <a class='kom' href='#Ioffb-15-1'>Offb&nbsp;15,1</a>: mit den letzten sieben Plagen ist der Zorn Gottes vollendet.
  }
+ {
+  <i>Laute Stimme aus dem Tempel [des Himmels]</i>: vgl §+offb-10-4
+ }
 #}
 #offb-16-18 {
  {
@@ -119307,6 +119415,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl §jes-48-20, §jer-50-8 und §jer-51-45
  }
+ {
+  <i>Stimme aus dem Himmel</i>: vgl §+offb-10-4
+ }
 #}
 #offb-18-5 {
  {
@@ -119501,6 +119612,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Halleluja</i>: <a class='kom' href='#Ips-104-35'>Ps&nbsp;104,35</a>.
+ }
+ {
+  <i>Stimme einer großen Volksmenge im Himmel</i>: vgl §+offb-10-4
  }
  {
   TODO: <i>gehören</i> ist wohl nicht im Grundtext, vgl <a href='http://bibel.renenyffenegger.ch/offb_7.html#v10'>Offb&nbsp;7,10</a>.
@@ -119906,6 +120020,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Zelt</i>: §+hebr-8-2, §offb-15-5
+ }
+ {
+  <i>Laute Stimme aus dem Himmel</i>: vgl §+offb-10-4
  }
  {
   <br>TODO: Ist das eine Erfüllung von §+offb-7-15?
