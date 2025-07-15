@@ -41500,6 +41500,9 @@
   <i>Ohne lehrenden Priester und ohne Gesetz</i>: Asas Sohn Josaphat liess das Buch des Gesetzes des HERRN lehren (§2chr-17-7-ff) un bestellte Priester (§2chr-19-8-11).
   §2chr-17-7-8
  }
+ {
+  Vgl §jer-2-8
+ }
 #}
 #2chr-15-7 {
  {
@@ -42890,6 +42893,9 @@
 #2chr-34-3 {
  {
   <a class='kom' href='#I2koe-22-3'>2.&nbsp;Kö&nbsp;22,3</a>.
+ }
+ {
+  Beachte, daß im 13. Jahr Josias das Wort des Herrn an Jeremia erging, §jer-1-2.
  }
 #}
 #2chr-34-13 {
@@ -59171,14 +59177,12 @@
 #}
 #jer-1-2 {
  {
-  Der Dienst Jeremias scheint im 13. Jahr Josias zu beginnen, vgl <a href='http://bibel.renenyffenegger.ch/jer_25.html#v3'>Jer&nbsp;25,3</a>.
-  Beachte, dass Josia im 12. Jahr begann, «Juda und Jerusalem von den Höhen und den Aschera-Standbildern und den geschnitzten und gegossenen Bildern zu reinigen»
-  (<a href='http://bibel.renenyffenegger.ch/2chr_34.html#v3'>2.&nbsp;Chr&nbsp;34,3</a>). TODO steht das im Zusammenhang mit dem 13. Jahr hier?
+  Der Dienst Jeremias beginnt im 13. Jahr Josias zu beginnen, vgl §jer-25-3. Beachte, daß Josia im 12. Jahr begann, «Juda und Jerusalem von den Höhen und den Aschera-Standbildern und den geschnitzten und gegossenen Bildern zu reinigen», §2chr-34-3.
  }
  {
-  Beachte: die Könige Joahas (der drei Monate regierte, <a href='http://bibel.renenyffenegger.ch/2koe_23.html#v31'>2.&nbsp;Kö&nbsp;23,31</a>)
-  und Jechonja (der auch drei Monate regierte, <a href='http://bibel.renenyffenegger.ch/2koe_24.html#v8'>2.&nbsp;Kö&nbsp;24,8</a>)
-  werden hier nicht namentlich erwähnt.
+  Beachte: die Könige Joahas (der drei Monate regierte, §2koe-23-31) und Jechonja (der auch drei Monate regierte, §2koe-24-8) werden hier nicht namentlich erwähnt.
+ }
+ {
         <br>TODO: schweigt Jeremia zwischen dem 14. Jahr Josias und Jojakim?
     Nicht gemäss <a href='http://bibel.renenyffenegger.ch/jer_25.html#v3'>Jer&nbsp;25,3</a>.
  }
@@ -59207,7 +59211,7 @@
 #}
 #jer-1-11 {
  {
-  <i>Wächterbaum</i> (<span class='hebr'>מַקֵּ֥ל שָׁקֵ֖ד</span>, Strongs 4731+8247), in Elberfelder 1905: 'Mandelstab' in KVJ 'Rod of an almond tree'.
+  <i>Mandelbaum</i> (<span class='hebr'>מַקֵּ֥ל שָׁקֵ֖ד</span>, Strongs 4731+8247), in Sch2K mit «Wächterbaum», in KVJ mit «Rod of an almond tree» übersetzt.
   <br>Vgl mit <i>wachen</i> (<span class='hebr'>שָׁקַד</span>, Strongs) in Vers 12.
  }
 #}
@@ -59223,12 +59227,17 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
 #}
+#jer-2-8 {
+ {
+  Vgl §2chr-15-3
+ }
+#}
 #jer-2-13 {
  {
-   Vgl <a href='http://bibel.renenyffenegger.ch/jer_19.html#v4'>Jer&nbsp;19,4</a>.
+  Vgl §jer-19-4.
  }
  {
-  Vgl mit dem Wasser im Nil und Euphrat (Vers 18).
+  Vgl mit dem Wasser im Nil und Euphrat, §Vjer-2-18
  }
 #}
 #jer-2-16 {
@@ -59242,7 +59251,7 @@
 #}
 #jer-2-18 {
  {
-  <i>Wasser</i>: Vers 13.
+  <i>Wasser</i>: §Vjer-2-13
  }
 #}
 #jer-2-20 {
@@ -60105,7 +60114,7 @@
 #}
 #jer-19-4 {
  {
-  <a class='kom' href='#Ijer-2-13'>Jer&nbsp;2,13</a>.
+  §+jer-2-13.
  }
 #}
 #jer-19-5 {
