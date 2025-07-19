@@ -46737,9 +46737,10 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/jos_1.html#v8'>Jos&nbsp;1,8</a>.
  }
  {
-  In Luther 1912 wird <i>nachsinnt</i> mit <i>redet</i> übersetzt. Das entsprechende Verb <span class='hebr'>הָגָה</span> (Strongs 1897) kann
-  offenbar auch mit <i>leise reden</i> übersetrzt werden. Das Verb wird übrigens auch in <a href='http://bibel.renenyffenegger.ch/ps_2.html#v1'>Ps&nbsp;2,1</a>
-  für <i>ersinnen</i> verwendet.
+  <i>sinnt</i>: In Luther 1912 mit <i>redet</i> übersetzt. Das entsprechende Verb <span class='hebr'>הָגָה</span> (Strongs 1897) kann
+  offenbar auch mit <i>leise reden</i> übersetrzt werden.
+  <br>
+  Das Verb kommt übrigens auch in §ps-2-1 vor.
  }
 #}
 #ps-1-3 {
@@ -46747,11 +46748,16 @@
   Vgl §ps-92-14, §jer-17-8 und §ps-37-35
  }
 #}
+#ps-1-6 {
+ {
+  <i>vergehen</i>: Strongs 6 wird in §ps-2-12 mit «umkommt» übersetzt.
+ }
+#}
 @}
 @Psalm 2 {
 #ps-2-1 {
  {
-   <i>ersinnen</i>: §+ps-1-2.
+  <i>sinnen</i>: §+ps-1-2.
  }
  {
   Der → biblisches/Bücher/Ketuvim/Psalmen/2[zweite Psalm] wurde vom «Knecht David» geschrieben §apg-4-25.  Vgl §ps-36-1
@@ -46812,10 +46818,13 @@
 #}
 #ps-2-12 {
  {
-  <i>Wohl dem</i>: <a class='kom' href='#Ips-1-1'>Ps&nbsp;1,1</a>.
+  <i>Wohl dem</i>: §+ps-1-1.
  }
  {
   <i>Küsst den Sohn</i> vgl §mt-26-49
+ }
+ {
+  <i>umkommt</i> §+ps-1-12
  }
 #}
 @}
