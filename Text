@@ -46737,9 +46737,10 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/jos_1.html#v8'>Jos&nbsp;1,8</a>.
  }
  {
-  In Luther 1912 wird <i>nachsinnt</i> mit <i>redet</i> übersetzt. Das entsprechende Verb <span class='hebr'>הָגָה</span> (Strongs 1897) kann
-  offenbar auch mit <i>leise reden</i> übersetrzt werden. Das Verb wird übrigens auch in <a href='http://bibel.renenyffenegger.ch/ps_2.html#v1'>Ps&nbsp;2,1</a>
-  für <i>ersinnen</i> verwendet.
+  <i>sinnt</i>: In Luther 1912 mit <i>redet</i> übersetzt. Das entsprechende Verb <span class='hebr'>הָגָה</span> (Strongs 1897) kann
+  offenbar auch mit <i>leise reden</i> übersetrzt werden.
+  <br>
+  Das Verb kommt übrigens auch in §ps-2-1 vor.
  }
 #}
 #ps-1-3 {
@@ -46747,11 +46748,16 @@
   Vgl §ps-92-14, §jer-17-8 und §ps-37-35
  }
 #}
+#ps-1-6 {
+ {
+  <i>vergehen</i>: Strongs 6 wird in §ps-2-12 mit «umkommt» übersetzt.
+ }
+#}
 @}
 @Psalm 2 {
 #ps-2-1 {
  {
-   <i>ersinnen</i>: §+ps-1-2.
+  <i>sinnen</i>: §+ps-1-2.
  }
  {
   Der → biblisches/Bücher/Ketuvim/Psalmen/2[zweite Psalm] wurde vom «Knecht David» geschrieben §apg-4-25.  Vgl §ps-36-1
@@ -46812,10 +46818,13 @@
 #}
 #ps-2-12 {
  {
-  <i>Wohl dem</i>: <a class='kom' href='#Ips-1-1'>Ps&nbsp;1,1</a>.
+  <i>Wohl dem</i>: §+ps-1-1.
  }
  {
   <i>Küsst den Sohn</i> vgl §mt-26-49
+ }
+ {
+  <i>umkommt</i> §+ps-1-12
  }
 #}
 @}
@@ -73147,6 +73156,9 @@
   <i>alles verkaufen und den Armen geben</i> vgl §mt-26-9, §mk-10-21, §lk-12-33, §lk-18-22, §apg-2-45, §apg-4-34, §apg-5-2-ff
  }
  {
+  <i>verkaufe deine Habe</i> vgl §mt-24-47, §mt-25-14, §lk-12-33
+ }
+ {
   <i>Schatz im Himmel</i> vgl §+mt-6-19-ff, §5mo-28-12
  }
  {
@@ -74365,6 +74377,11 @@
   §lk-9-11, §lk-12-42 und §offb-22-2 (In §lk-9-11 und §offb-22-2 mit «Heilung» übersetzt).
  }
 #}
+#mt-24-47 {
+ {
+  <i>er wird ihn über seine ganze Habe setzen</i> vgl §mt-25-14, §mt-19-20
+ }
+#}
 #mt-24-48 {
  {
   <i>verzieht zu kommen</i> vgl §hebr-10-37, §lk-12-45
@@ -74418,6 +74435,9 @@
  {
   Vgl §lk-19-13-ff
  }
+ {
+  <i>seine Habe übergeben</i> vgl §mt-24-47, §mt-19-21
+ }
 #}
 #mt-25-15 {
  {
@@ -74427,6 +74447,11 @@
 #mt-25-21 {
  {
   <i>treuer Knecht</i> §mt-24-45
+ }
+#}
+#mt-25-24 {
+ {
+  <i>ausgestreut</i>: <span class='gr'>διεσκορπισας</span> (Strongs 1287). Das Verb wird in §mt-26-31 mit «zersteut» übersetzt.
  }
 #}
 #mt-25-29 {
@@ -74736,6 +74761,9 @@
  {
   Vgl §+sach-13-7, §mk-14-27
  }
+ {
+  <i>zerstreut werden</i> vgl §Vmt-26-56, §+mt-25-24, §lk-1-51, §joh-11-52
+ }
 #}
 #mt-26-32 {
  {
@@ -74865,7 +74893,7 @@
   Vgl die <i>Schriften</i> der → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] mit dem, was durch den Propheten gesagt wurde: §mt-27-35.
  }
  {
-  <i>Da verließen ihn die Jünger alle und flohen</i> §mk-14-50, vgl §joh-16-32
+  <i>Da verließen ihn die Jünger alle und flohen</i>, §Vmt-26-31, §mk-14-50, vgl §joh-16-32
  }
 #}
 #mt-26-59 {
@@ -78908,7 +78936,7 @@
 #}
 #lk-1-32 {
  {
-  <i>Der Herr wird ihm den Thron seines Vaters David geben</i>: §apg-2-29
+  <i>Der Herr wird ihm den Thron seines Vaters David geben</i>: §apg-2-29, vgl §Vlk-1-52
  }
 #}
 #lk-1-33 {
@@ -78973,9 +79001,14 @@
   Beachte das 5-malige vorkommen von «Bermherzigkeit» hier und in den Versen 54, 58, 72 und 78.
  }
 #}
+#lk-1-51 {
+ {
+  <i>zerstreut</i> vgl §mt-25-24, §joh-11-52
+ }
+#}
 #lk-1-52 {
  {
-  TODO: vgl §ps-110-5
+  Vgl §lk-22-30, §ps-110-5, §Vlk-1-32
  }
 #}
 #lk-1-54 {
@@ -81893,6 +81926,8 @@
  }
  {
   <i>Habe</i> vgl mit der Habe des Herrn, §Vlk-12-44.
+ <br>
+  <i>Verkauft eure Habe</i> vgl §mt-19-21, §lk-19-8.
  }
 #}
 #lk-12-35 {
@@ -82321,6 +82356,9 @@
  {
   <i>fernes Land</i> §lk-19-12
  }
+ {
+  <i>vergeudete</i>: <span class='gr'>διεσκορπισεν</span> (Strongs 1287). Dieses Verb wird in §lk-16-1 mit «verschwenden», in §lk-1-51 mit «zerstreut» übersetzt.
+ }
 #}
 #lk-15-14 {
  {
@@ -82362,7 +82400,10 @@
 @Lukas 16 {
 #lk-16-1 {
  {
-   <i>Haushalter</i>: siehe <a class='kom' href='#Ilk-12-42'>Lk&nbsp;12,42</a> und <a class='kom' href='#Iroem-16-23'>Röm&nbsp;16,23</a>.
+  <i>verschwende</i>: §+lk-15-13
+ }
+ {
+  <i>Haushalter</i>: siehe <a class='kom' href='#Ilk-12-42'>Lk&nbsp;12,42</a> und <a class='kom' href='#Iroem-16-23'>Röm&nbsp;16,23</a>.
  }
 #}
 #lk-16-3 {
@@ -82792,10 +82833,16 @@
 #}
 #lk-19-8 {
  {
-  Vgl §+3mo-5-21, §2mo-21-37 und §2sam-12-6.
+  Vierfältig erstatten, vgl §2mo-21-37, §2sam-12-6
  }
  {
-  Vierfältig erstatten, vgl §2mo-21-37
+  Vgl §+3mo-5-21
+ }
+ {
+  <i>Die Hälfte meiner Habe gebe ich den Armen</i> vgl §lk-12-33, §lk-18-27
+ }
+ {
+  <i>Habe</i>: Sch2K und Elberfelder übersetzten mit «Güter».
  }
 #}
 #lk-19-9 {
@@ -86367,6 +86414,9 @@
   §1petr-2-25, §mt-9-36, §mk-6-34, §4mo-27-17, §jer-50-6, §hes-34-8, §apg-20-28-29
  }
  {
+  <i>andere Schafe … bringen …, und es wird eine Herde, ein Hirte sein</i> vgl §joh-11-52.
+ }
+ {
   Diese <i>eine</i> Herde scheint eine kleine zu sein, §mk-6-34
  }
  {
@@ -86597,7 +86647,7 @@
 #}
 #joh-11-52 {
  {
-  <i>Zerstreute Kinder sammeln</i>: §+jer-31-10, vgl §eph-3-6, §sach-13-7, §apg-2-39
+  <i>Zerstreute Kinder sammeln</i>: §+jer-31-10, vgl §eph-3-6, §sach-13-7, §apg-2-39. Vgl §joh-10-16, §lk-1-51, §mt-26-31
  <br>
   <i>in eins versammeln</i> vgl §joh-17-21, §eph-4-4
  <br>
