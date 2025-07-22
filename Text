@@ -55334,6 +55334,9 @@
 #}
 #jes-1-3 {
  {
+  <i>Ein Ochse kennt seinen Besitzer…</i> vgl §jer-4-22
+ }
+ {
   TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/hos_8.html#v2'>Hos&nbsp;8,2</a>.
  }
  {
@@ -59224,6 +59227,11 @@
   <br>Vgl mit <i>wachen</i> (<span class='hebr'>שָׁקַד</span>, Strongs) in Vers 12.
  }
 #}
+#jer-1-14 {
+ {
+  <i>Von Norden her</i>: §jer-3-12, §jer-3-18, §jer-4-6
+ }
+#}
 @}
 @Jeremia 2 {
 #jer-2-2 {
@@ -59315,6 +59323,8 @@
   TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
  }
 #}
+#jer-3-12 {
+#}
 #jer-3-15 {
  {
   <i>Hirten</i>: vgl §jer-10-21, §jer-23-4.
@@ -59363,8 +59373,10 @@
 #}
 #jer-4-3 {
  {
-  <i>einen Neubruch pflügen</i>: vgl <a href='http://bibel.renenyffenegger.ch/hos_10.html#v12'>Hos&nbsp;10,12</a>.
-  <br>TODO: Einen «Neubruch» nennt man offenbar, wenn ein Stück Wiese in Acker verwandelt wird.
+  <i>einen Neubruch pflügen</i>: vgl §hos-10-12.
+ }
+ {
+  TODO: Einen «Neubruch» nennt man offenbar, wenn ein Stück Wiese in Acker verwandelt wird.
  }
 #}
 #jer-4-4 {
@@ -59375,6 +59387,11 @@
   <i>Tut hinweg die Vorhäute eurer Herzen</i> vgl §5mo-10-16, §jer-9-25
  }
 #}
+#jer-4-6 {
+ {
+  <i>von Norden her</i> vgl §jer-1-14
+ }
+#}
 #jer-4-7 {
  {
   TODO: Ist dies der gleiche Löwe wie in §dan-7-4
@@ -59383,6 +59400,9 @@
 #jer-4-10 {
  {
   <i>Seele</i>: Sch2K übersetzt mit «Kehle».
+ }
+ {
+  TOOD: Bezieht sich «Frieden haben» auf §jer-3-14-ff
  }
 #}
 #jer-4-11 {
@@ -59395,6 +59415,11 @@
   oder auch: <i>du hörst die Stimme der Posaune</i>, ebenso §Vjes-4-21, vgl §Vjer-4-29, §jer-6-17
  }
 #}
+#jer-4-22 {
+ {
+  <i>mich kennen sie nicht</i> vgl §jes-1-3
+ }
+#}
 #jer-4-23 {
  {
   <i>wüst und leer</i>: <a class='kom' href='#I1mo-1-2'>1.&nbsp;Mo&nbsp;1,2</a>.
@@ -59402,7 +59427,7 @@
 #}
 #jer-4-29 {
  {
-  <b>Felsen</b> siehe <a class='kom' href='#Ihi-30-6'>Hi&nbsp;30,6</a>.
+  <i>Felsen</i> siehe §+hi-30-6.
  }
  {
   oder auch: <i>Vor der Stimme der Reiter…</i> vgl §Vjer-4-19
@@ -62865,6 +62890,9 @@
  {
   Das <i>obere Tor</i> wurde von Jotam gebaut: <a class='kom' href='#I2koe-15-35'>2.&nbsp;Kö&nbsp;15,35</a>.
  }
+ {
+  <i>Das Tor … gegen Norden</i> §hes-40--20
+ }
 #}
 #hes-9-3 {
  {
@@ -64204,6 +64232,11 @@
 #hes-40-16 {
  {
   <i>Vergitterte Fenster</i>: §+1koe-6-4, §hes-41-16, §hes-41-26
+ }
+#}
+#hes-40-20 {
+ {
+  <i>Das Tor … gegen Norden</i> §hes-9-2
  }
 #}
 #hes-40-22 {
@@ -66363,7 +66396,7 @@
 #}
 #hos-10-12 {
  {
-  <i>Einen Neubruch pflügen</i>: <a class='kom' href='#Ijer-4-3'>Jer&nbsp;4,3</a>.
+  <i>Einen Neubruch pflügen</i>: §+jer-4-3.
  }
 #}
 @}
