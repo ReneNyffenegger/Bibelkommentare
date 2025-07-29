@@ -59273,6 +59273,9 @@
 #}
 #jer-2-20 {
  {
+  <i>zerbrochenes Joch</i> vgl §jer-5-5
+ }
+ {
   Sch2k übersetzt mit «Denn vor langer Zeit habe ich dein Joch zerbrochen und deine Bande zerrissen …», Elb05 mit «Denn vor alters hast du dein Joch zerbrochen, deine Bande zerrissen…»,
   KJV mit «For of old time I have broken thy yoke, and burst thy bands;…».
  }
@@ -59446,6 +59449,16 @@
   TODO <i>Geringe</i>: <a class='kom' href='#Ijer-39-10'>Jer&nbsp;39,10</a>.
  }
 #}
+#jer-5-5 {
+ {
+  <i>zerbrochenes Joch</i> vgl §jer-2-10
+ }
+#}
+#jer-5-9 {
+ {
+  Vgl §Vjer-5-29
+ }
+#}
 #jer-5-14 {
  {
   <i>ich will meine Worte in deinem Mund zu Feuer machen</i>: §jer-1-9
@@ -59454,9 +59467,13 @@
 #jer-5-15 {
  {
   Das Volk, dessen Sprache die Israeliten nicht verstehen können: §+5mo-28-49.
+ <br>
+  Vgl mit §jes-28-11 (wo es scheint, da§ die fremde Sprache als Gericht kommt).
  }
+#}
+#jer-5-21 {
  {
-  TODO: (fremde) Sprachen als Gericht. Vgl <a class='kom' href='#Ijes-28-11'>Jes&nbsp;28,11</a>.
+  Vgl §hes-12-2, §mt-13-15
  }
 #}
 #jer-5-22 {
@@ -59478,9 +59495,17 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
  }
 #}
+#jer-5-29 {
+ {
+  Vgl §Vjer-5-9
+ }
+#}
 @}
 @Jeremia 6 {
 #jer-6-1 {
+ {
+  Hier redet Jeremia zu Benjamin, in §jer-7-1-ff zu Juda.
+ }
  {
   <i>Beth-Kerem</i>: <a class='kom' href='#Ineh-3-14'>Neh&nbsp;3,14</a>.
  }
@@ -59525,7 +59550,7 @@
 #}
 #jer-6-23 {
  {
-  §jer-50-42
+  Vgl §jer-50-42: hier <i>Tochter Zion</i>, dort <i>Tochter Babel</i>
  }
 #}
 #jer-6-26 {
@@ -59547,6 +59572,11 @@
 #}
 @}
 @Jeremia 7 {
+#jer-7-1 {
+ {
+  Hier redet Jeremia zu Juda, in §jer-6-1-ff zu Benjamin.
+ }
+#}
 #jer-7-2 {
  {
   TODO: Gehören diese Tore zum Haus des Herrn? Hat das Haus nicht nur eine Tür?
@@ -59599,10 +59629,10 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer#trankopfer-anderen-goettern
  }
  {
-         <i>Himmelskönigin</i>: <a href='http://bibel.renenyffenegger.ch/jer_44.html#v17'>Jer 44,17-25</a>.
-         Beachte, dass die Männer wussten, dass ihre Frauen der Himmelskönigin räucherten (<a href='http://bibel.renenyffenegger.ch/jer_44.html#v15'>Jer&nbsp;44,15</a>).
-         Trotz Gerichtsandrohung (?) wollen die Männer und Frauen bezüglich der Himmelskönigin nicht auf Jeremia hören (<a href='http://bibel.renenyffenegger.ch/jer_44.html#v16'>Jer&nbsp;44,16</a>).
-         Allerdings ging es ihnen offenbar schlechter, als sie aufhörten, ihr zu räuchern (<a class='kom' href='#Ijer-44-18'>Jer&nbsp;44,18</a>).
+  <i>Himmelskönigin</i>: <a href='http://bibel.renenyffenegger.ch/jer_44.html#v17'>Jer 44,17-25</a>.
+   Beachte, dass die Männer wussten, dass ihre Frauen der Himmelskönigin räucherten (§jer-44-15).
+   Trotz Gerichtsandrohung (?) wollen die Männer und Frauen bezüglich der Himmelskönigin nicht auf Jeremia hören (<a href='http://bibel.renenyffenegger.ch/jer_44.html#v16'>Jer&nbsp;44,16</a>).
+   Allerdings ging es ihnen offenbar schlechter, als sie aufhörten, ihr zu räuchern (<a class='kom' href='#Ijer-44-18'>Jer&nbsp;44,18</a>).
  }
 #}
 #jer-7-22 {
@@ -63021,6 +63051,11 @@
 #}
 @}
 @Hesekiel 12 {
+#hes-12-2 {
+ {
+  Vgl §hes-40-4, §jer-5-21
+ }
+#}
 #hes-12-13 {
  {
   TODO: Vgl <a href='http://bibel.renenyffenegger.ch/hes_17.html#v20'>Hes&nbsp;17,20</a> (fast derselbe Satz).
@@ -64224,6 +64259,11 @@
    TODO: Siehe auch <a href='http://bibel.renenyffenegger.ch/sach_2.html#v5'>Sach&nbsp;2,5</a>.
  }
 #}
+#hes-40-4 {
+ {
+  Vgl sehes-44-5, §hes-12-2
+ }
+#}
 #hes-40-7 {
  {
   TODO: Dieser Vers enthält <span class='hebr'>אוּלָ֥ם</span> (Strongs 197), welches bei Salomos Tempel mit 'Vorhalle' übersetzt wird.
@@ -64309,6 +64349,11 @@
 #}
 @}
 @Hesekiel 44 {
+#hes-44-5 {
+ {
+  Vgl §hes-40-4
+ }
+#}
 #hes-44-7 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung#beschneidung-am-herzen[Unbeschnittenes Herz]
@@ -71921,7 +71966,7 @@
 #}
 #mt-13-15 {
  {
-  <i>Augen und Ohren</i> vgl §mk-8-18, §lk-10-23-24, §roem-11-8, §apg-28-27
+  <i>Augen und Ohren</i> vgl §mk-8-18, §lk-10-23-24, §roem-11-8, §apg-28-27, §jer-5-21
  }
 #}
 #mt-13-16 {
