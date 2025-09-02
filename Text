@@ -36521,7 +36521,7 @@
 #2koe-22-4 {
  {
   <i>Hilkija</i>: vgl mit jenem, der über den Palast gesetzt ist: <a class='kom' href='#I2koe-18-18'>2.&nbsp;Kö&nbsp;18,18</a>.
-  <br>Jeremia ist vermutlich Hilkijas Sohn (<a href='http://bibel.renenyffenegger.ch/jer_1.html#v1'>Jer&nbsp;1,1</a>). Falls ja, dann stamm Hilkia von
+  <br>Jeremia ist vermutlich Hilkijas Sohn (<a href='http://bibel.renenyffenegger.ch/jer_1.html#v1'>Jer&nbsp;1,1</a>). Falls ja, dann stammt Hilkia von
     den Priestern, die in Anatot im Lande Benjamin wohnten.
  }
 #}
@@ -56087,10 +56087,10 @@
 #}
 #jes-10-30 {
  {
-  TODO: Sowohl <i>Lais(cha)</i> (<a class='kom' href='#Iri-18-7'>Ri&nbsp;18,7</a>) wie auch <i>Gallim</i> kommen auch in <a href='http://bibel.renenyffenegger.ch/1sam_25.html#v44'>1.&nbsp;Sam&nbsp;25,44</a> vor.
+  Anatot trachtete Jeremia nach dem Leben, §+jer-11-21, vgl §+jer-1-1.
  }
  {
-  TODO: Anatot trachtete Jeremia nach dem Leben (<a class='kom' href='#Ijer-11-21'>Jer&nbsp;11,21</a>, <a class='kom' href='#Ijer-1-1'>Jer&nbsp;1,1</a>).
+  TODO: Sowohl <i>Lais(cha)</i> (<a class='kom' href='#Iri-18-7'>Ri&nbsp;18,7</a>) wie auch <i>Gallim</i> kommen auch in <a href='http://bibel.renenyffenegger.ch/1sam_25.html#v44'>1.&nbsp;Sam&nbsp;25,44</a> vor.
  }
  {
   TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
@@ -59186,11 +59186,7 @@
  }
  {
   Jeremia, der Sohn <i>Hilki(j)as</i>: <a class='kom' href='#I2koe-22-4'>2.&nbsp;Kö&nbsp;22,4</a>.
-  <br>Jeremias Vorfahren sind offenbar aus Anatot, diese Anatotiter trachten Jeremia nach dem Leben. Deshalb soll von ihnen kein Überrest übrigbleiben
-    (<a class='kom' href='#Ijer-11-21'>Jer&nbsp;11,21</a>).
- }
- {
-  <i>Männer von Anatot</i>: <a class='kom' href='#Ijer-11-21'>Jer&nbsp;11,21</a>.
+  <br>Jeremias Vorfahren sind offenbar aus Anatot, diese Anatotiter trachten Jeremia nach dem Leben. Deshalb soll von ihnen kein Überrest übrigbleiben, §+jer-11-21.
  }
 #}
 #jer-1-2 {
@@ -59911,6 +59907,9 @@
  {
   <i>Aus dem eisernen Schmelzofen, aus Ägpypten heraufgeführt</i> Vgl §5mo-4-20.
  }
+ {
+  <i>mein Volk … euer Gott</i> vgl §jer-30-22
+ }
 #}
 #jer-11-5 {
  {
@@ -59943,7 +59942,7 @@
 #}
 #jer-11-19 {
  {
-   <i>Lamm, das zur Schlachtbank geführt wird</i> vgl §jes-53-7, §+offb-5-6.
+   <i>Lamm, das zur Schlachtbank geführt wird</i> vgl §jer-12-3, §jes-53-7, §+offb-5-6.
    <br>
    Siehe auch <a href='http://bibel.renenyffenegger.ch/jer_12.html#v3'>Jer&nbsp;12,3</a>.
  }
@@ -59958,28 +59957,33 @@
 #}
 #jer-11-21 {
  {
-  <i>Anatot</i>: <a class='kom' href='#Ijer-1-1'>Jer&nbsp;1,1</a>.
-  <br>Vgl <i>Elendes Anatot</i> in <a href='http://bibel.renenyffenegger.ch/jes_10.html#v30'>Jes&nbsp;10,30</a>.
+  <i>Anatot</i>: §+jer-1-1.
+  <br>
+   Vgl <i>Elendes Anatot</i> in §jes-10-30.
  }
 #}
 @}
 @Jeremia 12 {
 #jer-12-2 {
  {
-  TODO: Möglicherweise besser wörtlich mit «Nieren» statt «Herzen» übersetzt.
-  <br>Vgl mit <a href='http://bibel.renenyffenegger.ch/jes_29.html#v13'>Jes&nbsp;29,13</a>.
+  <i>Nieren</i>: Sch2K übersetzt mit «Herzen», KJV mit «reins». Vgl mit §jes-29-13.
  }
 #}
 #jer-12-3 {
  {
-  TODO: <a class='kom' href='#Ijes-53-7'>Jes&nbsp;53,7</a>
+  <i>Schafe zur Schlachtung</i> vgl §jer-11-19, §+jes-53-7
+ }
+#}
+#jer-12-5 {
+ {
+  <i>Pracht des Jordan</i>: Sch2K übersetzt mit «Dickicht des Jordan», KJV mit «swelling of Jordan».
  }
 #}
 @}
 @Jeremia 13 {
 #jer-13-18 {
  {
-  <i>Gebieterin</i>: <a class='kom' href='#I1koe-11-19'>1.&nbsp;Kö&nbsp;11,19</a>.
+  <i>Köngigin</i>: Sch2K übersetzt mit «Gebieterin», KJV mit «queen». Vgl §+1koe-11-19.
  }
  {
   TODO: Wer ist der König und die Gebieterin.
@@ -60896,6 +60900,11 @@
 #jer-30-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/unter-die-Nationen-verstreut
+ }
+#}
+#jer-30-22 {
+ {
+  <i>mein Volk … euer Gott</i> §jer-11-4
  }
 #}
 #jer-30-24 {
