@@ -52275,6 +52275,9 @@
 #}
 #ps-144-14 {
  {
+  <i>kein Klagegeschrei auf den Straßen</i> vgl §jes-24-11
+ }
+ {
   <i>Rinder</i> (<span class='hebr'>אַלּוּף</span>, Strongs 441) bedeutet auch 'Fürsten'
   (wie in <a href='http://bibel.renenyffenegger.ch/1mo_36.html#v15'>1.&nbsp;Mo&nbsp;36,15</a>).
  }
@@ -56878,6 +56881,9 @@
 #}
 #jes-24-11 {
  {
+  <i>Klagegeschrei auf den Straßen</i> vgl §ps-144-14
+ }
+ {
   TODO: Dieser Vers enthält Strongs 6150.
  }
 #}
@@ -60001,6 +60007,11 @@
 #}
 @}
 @Jeremia 14 {
+#jer-14-2 {
+ {
+  <i>Jerusalems Klagegeschrei</i> vgl §jer-46-12
+ }
+#}
 #jer-14-8 {
  {
   <i>Hoffnung Israels</i>: §jer-17-13, §apg-28-20, vgl §jer-50-7
@@ -60085,7 +60096,7 @@
 #}
 #jer-16-9 {
  {
-  TODO: <i>Stimme des Bräutigams und der Braut</i>: <a class='kom' href='#Ijer-7-34'>Jer&nbsp;7,34</a>.
+  <i>Stimme des Bräutigams und der Braut</i>: §+jer-7-34.
  }
 #}
 #jer-16-14 {
@@ -61745,6 +61756,11 @@
  }
  {
   Siehe auch andere geografische Orte, die <i>Tochter</i> genannt werden: <a class='kom' href='#I2koe-19-21'>2.&nbsp;Kö&nbsp;19,21</a>.
+ }
+#}
+#jer-46-12 {
+ {
+  <i>Klagegeschrei</i> vgl §jer-14-2
  }
 #}
 #jer-46-16 {
