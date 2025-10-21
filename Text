@@ -47829,6 +47829,14 @@
   TODO Gruntext: <span class='hebr'>שאנאתי</span> oder <span class='hebr'>שנאתי</span>? <span class='hebr'>י</span> = Tetragrammaton.
  }
 #}
+#ps-31-14 {
+ {
+  §jer-20-10
+ }
+ {
+  <i>Schrecken ringsum</i>: §jer-6-25, §jer-46-5, §jer-49-29
+ }
+#}
 #ps-31-21 {
  {
   TODO <i>Hütte</i>: Strongs 5521, was sonst mit 'Laubhütte' übersetzt wird (<a class='kom' href='#I3mo-23-34'>3.&nbsp;Mo&nbsp;23,34</a>).
@@ -59590,6 +59598,11 @@
   Vgl §jer-50-42: hier <i>Tochter Zion</i>, dort <i>Tochter Babel</i>
  }
 #}
+#jer-6-25 {
+ {
+  <i>Schrecken ringsum</i>: §jer-46-5, §jer-49-29
+ }
+#}
 #jer-6-26 {
  {
   <i>Sich in der Asche wälzen</i>: <a href='http://bibel.renenyffenegger.ch/jer_25.html#v34'>Jer&nbsp;25,34</a>, <a href='http://bibel.renenyffenegger.ch/hes_27.html#v30'>Hes&nbsp;27,30</a>.
@@ -59702,6 +59715,9 @@
  }
 #}
 #jer-7-32 {
+ {
+  §jer-19-6, vgl §jer-12-3
+ }
  {
   TODO Vgl <a href='http://bibel.renenyffenegger.ch/jer_11.html#v3'>Jer 11,3-4</a>.
  }
@@ -59991,7 +60007,7 @@
 #}
 #jer-11-20 {
  {
-  <i>Herz und Nieren prüfen</i>: §jer-17-10, §+ps-7-10.
+  <i>Herz und Nieren prüfen</i>: §jer-17-10, §+ps-7-10. Vgl §jer-20-12
  }
 #}
 #jer-11-21 {
@@ -60011,6 +60027,9 @@
 #jer-12-3 {
  {
   <i>Schafe zur Schlachtung</i> vgl §jer-11-19, §+jes-53-7
+ }
+ {
+  <i>Tag des Würgens</i> vgl §jer-7-32, §jer-19-6
  }
 #}
 #jer-12-5 {
@@ -60257,6 +60276,9 @@
 #}
 #jer-19-6 {
  {
+  §jer-7-32
+ }
+ {
   <i>Tophet</i>: §+jer-7-13, §2koe-23-10.
  }
 #}
@@ -60297,8 +60319,7 @@
 #}
 #jer-20-3 {
  {
-  <i>Schrecken ringsum</i> (<span class='hebr'>מָגוֹר  מִסָּבִיב</span>, Strongs 4036, bestehend aus 4032 und 5439), vgl Vers 10 und
-  <a href='http://bibel.renenyffenegger.ch/jer_46.html#v5'>Jer&nbsp;46,5</a>.
+  <i>Schrecken ringsum</i> (<span class='hebr'>מָגוֹר  מִסָּבִיב</span> (Magor-Missabib), Strongs 4036, bestehend aus 4032 und 5439), vgl Vers 10 und §jer-46-5.
  }
 #}
 #jer-20-4 {
@@ -60309,6 +60330,16 @@
 #jer-20-5 {
  {
   Vgl <a class='kom' href='#Ijer-15-13'>Jer&nbsp;15,13</a>.
+ }
+#}
+#jer-20-10 {
+ {
+  §ps-31-14
+ }
+#}
+#jer-20-12 {
+ {
+  <i>Nieren und Herz sehen</i> vgl §+jer-11-20
  }
 #}
 #jer-20-18 {
@@ -61758,7 +61789,7 @@
 #}
 #jer-46-5 {
  {
-  <i>Schrecken ringsum</i>: vgl <a class='kom' href='#Ijer-20-3'>Jer&nbsp;20,3</a>.
+  <i>Schrecken ringsum</i>: vgl §+jer-20-3, §+jer-6-25
  }
 #}
 #jer-46-8 {
@@ -62044,6 +62075,11 @@
 #jer-49-28 {
  {
   <i>Söhne des Ostens</i>: <a class='kom' href='#I1mo-29-1'>1.&nbsp;Mo&nbsp;29,1</a>.
+ }
+#}
+#jer-49-29 {
+ {
+  <i>Schrecken ringsum</i>: §+jer-6-25
  }
 #}
 #jer-49-31 {
