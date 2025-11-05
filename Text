@@ -90,6 +90,9 @@
   <br>Siehe auch → biblisches/Lehre/Lückentheorie.
  }
  {
+  <i>Geist über den Wassern</i> vgl §1mo-8-1
+ }
+ {
   <span class='u'>Gemäss einigen Auslegern ging die 'damalige Welt' (<a href='http://bibel.renenyffenegger.ch/2petr_3.html#v6'>2.&nbsp;Petr&nbsp;3,6</a>) mit
   den hier erwähnten <i>Wassern</i> zugrunde</span>.
  }
@@ -1097,6 +1100,9 @@
   <br>Letztlich, vgl auch mit <a href='http://bibel.renenyffenegger.ch/1sam_25.html#v2'>1.&nbsp;Sam&nbsp;25,2</a>.
  }
  {
+  Kain wurde ein <i>Ackerbauer</i>. Vgl mit Noah, §1mo-9-20
+ }
+ {
   TODO: Warum hat Abel Schafe gehütet, wo er doch den Boden hätte bebauen sollen (<a href='http://bibel.renenyffenegger.ch/1mo_3.html#v23'>1.&nbsp;Mo&nbsp;3,23</a>).
   Ausserdem konnte man noch gar kein Fleisch essen konnte. Vgl <a class='kom' href='#I1mo-9-3'>1.&nbsp;Mo&nbsp;9,3</a>.
  }
@@ -1808,6 +1814,9 @@
 @1. Mose 8 {
 #1mo-8-1 {
  {
+  <i>Wind (= Ruach, Geist) über den Wassern</i> vgl §1mo-1-2
+ }
+ {
   Das scheint am 40. Tag der Flut gewesen zu sein.
  }
 #}
@@ -1981,8 +1990,10 @@
 #}
 #1mo-9-20 {
  {
-   <i>Landmann</i>: <span class='hebr'>איש האדמה</span> vgl <a class='kom' href='#I1mo-1-26'>1.&nbsp;Mo&nbsp;1,27</a>,
-   <a class='kom' href='#I1mo-3-23'>1.&nbsp;Mo&nbsp;3,23</a>.
+  <i>Ackersmann</i>: <span class='hebr'>איש האדמה</span> (in Sch2K mit «Landmann» übersetzt), vgl §+1mo-3-23, §1mo-4-2 (Kain)
+ }
+ {
+  TODO: vgl den <i>Ackersmann/Landmann</i> auch mit §+1mo-1-26.
  }
  {
   TODO: <a class='kom' href='#I1mo-5-29'>1.&nbsp;Mo&nbsp;5,29</a>.
@@ -43127,7 +43138,10 @@
 #}
 #2chr-36-12 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
+  → biblisches/Personen/Jeremia, der→ biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Prophet], vgl §jer-1-5
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
  }
 #}
 #2chr-36-13 {
@@ -43192,13 +43206,16 @@
 @Esra 1 {
 #esr-1-1 {
  {
-  → biblisches/Personen/Esra, → biblisches/Personen/Jeremia
+  S. a.  Vgl §+2chr-36-22.
  }
  {
-   <i>erfüllt</i> (Strongs 3615) u.a. auch mit 'vollenden': <a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>.
+  → biblisches/Personen/Esra
  }
  {
-  Vgl §+2chr-36-22.
+  Das <i>Wort</i> aus dem Mund → biblisches/Personen/Jeremia[Jeremias], vgl §dan-9-2. Beachte, daß Jeremia hier nicht → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Prophet] genannt wird.
+ }
+ {
+  <i>erfüllt</i> (Strongs 3615) u.a. auch mit 'vollenden': <a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>.
  }
  {
   Ist Esra 1:1-4 der → biblisches/Bücher/Daniel/70-Wochen#daniel-70-wochen-beginn[Beginn der 70 Wochen von Daniel]?
@@ -65680,7 +65697,7 @@
 #}
 #dan-9-2 {
  {
-   <i>70 Jahre</i>: §jer-25-11, §jer-29-10. Vgl §+2chr-36-21.
+  <i>70 Jahre</i>: §jer-25-11, §jer-29-10. Vgl §+2chr-36-21.
  }
  {
   Das Wort des → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] → biblisches/Personen/Jeremia vgl §esr-1-1
@@ -75229,7 +75246,7 @@
    Dieses Zitat kommt offenbar wörtlich in Jeremia nicht vor, sondern in §sach-11-13.
  }
  {
-  <i>Da wurde erfüllt, was durch den Propheten Jeremias geredet ist</i>: → biblisches/Personen/Jeremia wird im Neuen Testament → biblisches/Bücher/Evangelien/Matthäus#jeremia[nur im Matthäusevangelium] erwähnt, vgl §mt-2-17, §mt-16-14
+  <i>Da wurde erfüllt, was durch den → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] → biblisches/Personen/Jeremia[Jeremias] geredet ist</i>: → biblisches/Personen/Jeremia wird im Neuen Testament → biblisches/Bücher/Evangelien/Matthäus#jeremia[nur im Matthäusevangelium] erwähnt, vgl §mt-2-17, §mt-16-14
  }
  {
    Vgl §Vmt-27-35.
