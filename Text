@@ -16705,6 +16705,8 @@
 #3mo-26-16 {
  {
   <i>Schwindsucht und Fieberglut</i> vgl §5mo-28-22
+ <br>
+  <i>daß die Augen erlöschen</i> vgl §5mo-28-28
  }
  {
   <i>ihr werdet vergeblich euren Samen säen, denn eure Feinde werden ihn verzehren</i> vgl §5mo-28-33, §ri-6-3-ff, §mi-6-15 und die Umkehrung:
@@ -22860,6 +22862,11 @@
   Beachte: hier <i>gegen deinen Feind</i>, in §5mo-21-10 'gegen deine Feinde' (Vgl §V5mo-20-3).
  }
 #}
+#5mo-20-8 {
+ {
+  TODO: <i>der sich fürchtet und verzagten Herzens ist? Er gehe und kehre nach seinem Haus zurück</i> vgl §ri-7-3
+ }
+#}
 #5mo-20-10 {
  {
   Verse 10-15: vgl §jos-9-6-ff
@@ -23349,7 +23356,7 @@
 #}
 #5mo-28-22 {
  {
-  <i>Schwindsucht und Fieberglut</i> vgl §5mo-26-16
+  <i>Schwindsucht und Fieberglut</i> vgl §3mo-26-16
  }
 #}
 #5mo-28-23 {
@@ -23368,6 +23375,11 @@
  }
  {
   <i>Geschwüre Ägyptens</i>: <a class='kom' href='#I2mo-9-9'>2. Mo 9,9 ff</a>.
+ }
+#}
+#5mo-28-28 {
+ {
+  <i>Blindheit</i> vgl §3mo-26-16
  }
 #}
 #5mo-28-29 {
@@ -27368,6 +27380,9 @@
  }
 #}
 #ri-7-3 {
+ {
+  TODO: <i>Wer furchtsam und verzagt ist, kehre um und wende sich zurück vom Gebirge Gilead!</i> vgl §5mo-20-8
+ }
  {
   TODO: <i>fürchtet</i> Strongs 2730.
  }
@@ -45862,10 +45877,13 @@
 @Hiob 1 {
 #hi-1-1 {
  {
-   → biblisches/Personen/Hiob war → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen#vollkommener-mensch[vollkommen], rechtschaffenm, gottesfürchtig und das Böse meidend: ebenso in §hi-1-8
+   → biblisches/Personen/Hiob war → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen#vollkommener-mensch[vollkommen], rechtschaffen, gottesfürchtig und das Böse meidend: ebenso in §Vhi-1-8
    und §hi-2-3.
   <br>
    Trotzdem sagt er in §hi-9-20 «wäre ich vollkommen, so würde er mich für verkehrt erklären».
+ }
+ {
+  <i>gottesfürchtig</i> («fürchtete Gott») vgl §hi-28-28
  }
  {
   Einige Ausleger glauben, das Hiob der in §1mo-10-29 erwähnte <i>Jobab</i> ist.
@@ -45915,7 +45933,12 @@
 #}
 #hi-2-3 {
  {
-   → biblisches/Personen/Hiob war → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen#vollkommener-mensch[vollkommen], rechtschaffenm, gottesfürchtig und das Böse meidend: ebenso in §+hi-1-1 und §hi-1-8.
+   → biblisches/Personen/Hiob war → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen#vollkommener-mensch[vollkommen], rechtschaffen, gottesfürchtig und das Böse meidend: ebenso in §+hi-1-1 und §hi-1-8.
+ }
+#}
+#hi-2-5 {
+ {
+  <i>ob er sich nicht … von dir lossagen wird</i> vgl §Vhi-2-9
  }
 #}
 #hi-2-7 {
@@ -45925,11 +45948,10 @@
 #}
 #hi-2-9 {
  {
-  <i>und stirbt</i> bedeutet wohl: und bring dich um!
+  <i>Sage dich los</i> vgl §Vhi-2-5
  }
  {
-  TODO: Hier kommt <i>Eliphas, der Temaniter</i> vor. In <a href='http://bibel.renenyffenegger.ch/jer_49.html#v7'>Jer&nbsp;49,7</a> wird gefragt, ob denn keine Weisheit
-  mehr sei in Teman. Ist Eliphas möglicherweise ein Bild für die Weisheit von Teman?
+  <i>und stirbt</i> bedeutet wohl: und bring dich um!
  }
 #}
 #hi-2-10 {
@@ -45940,6 +45962,9 @@
 #hi-2-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Freund
+ }
+ {
+  Hier kommt <i>Eliphas, der Temaniter</i> vor. In §jer-49-7 wird gefragt, ob denn keine Weisheit mehr sei in Teman. Ist Eliphas möglicherweise ein Bild für die Weisheit von Teman?
  }
 #}
 @}
@@ -46460,7 +46485,7 @@
 #}
 #hi-28-28 {
  {
-  <i>Furcht des Herrn</i> und <i>Einsicht</i>: vgl <a class='kom' href='#Ispr-9-10'>Spr&nbsp;9,10</a>.
+  <i>Furcht des Herrn</i> und <i>Einsicht</i>: vgl §+spr-9-10, §hi-1-1
  }
 #}
 @}
@@ -62093,7 +62118,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Edom/index#gericht-ueber-edom
  }
  {
-  TODO: <i>Weisheit von Teman</i>: Siehe <a class='kom' href='#Ihi-2-9'>Hi&nbsp;2,9</a>.
+  <i>Weisheit von Teman</i>: Siehe §+hi-2-11
  }
 #}
 #jer-49-8 {
