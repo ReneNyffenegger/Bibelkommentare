@@ -5286,6 +5286,9 @@
  {
   <i>Deinem Bruder wirst du dienen</i> vgl §1mo-25-23, §V1mo-27-29
  }
+ {
+  <i>wirst du sein Joch zerbrechen von deinem Hals</i> vgl §5mo-28-48, §jes-10-27
+ }
 #}
 #1mo-27-41 {
  {
@@ -5997,6 +6000,9 @@
  }
 #}
 #1mo-33-4 {
+ {
+  <i>um den Hals fallen</i>: §1mo-45-14, §1mo-46-29, §lk-15-20
+ }
  {
   Im Hebräischen (oder zumindest in einer Schriftrolle) ist im Ausdruck <i>und er küsste ihn</i> jeder Buchstabe mit einem Punkt versehen: <span class='hebr'>וַׄיִּׄשָּׁׄקֵ֑ׄהׄוּׄ</span>.
  }
@@ -7510,6 +7516,9 @@
 #}
 #1mo-45-14 {
  {
+  <i>um den Hals fallen</i>: §+1mo-33-4
+ }
+ {
   <i>Am Hals weinen</i>: <a href='http://bibel.renenyffenegger.ch/1mo_46.html#v29'>1.&nbsp;Mo&nbsp;46,29</a>.
  }
 #}
@@ -7744,7 +7753,7 @@
 #}
 #1mo-46-29 {
  {
-  <i>Am Hals weinen</i>: <a class='kom' href='#I1mo-45-14'>1.&nbsp;Mo&nbsp;45,14</a>.
+  <i>Am Hals weinen</i> und <i>um den Hals fallen</i>: §+1mo-45-14.
  }
 #}
 #1mo-46-34 {
@@ -23418,6 +23427,8 @@
 #}
 #5mo-28-48 {
  {
+  <i>er wird ein eisernes Joch auf deinen Hals legen</i> vgl §+1mo-27-40
+<br>
   <i>Joch</i>: §+3mo-26-13
  }
 #}
@@ -56200,7 +56211,7 @@
   → biblisches/Bücher/prophetisch/Jesaja/index#es-wird-geschehen-an-jenem-tag-jes in → biblisches/Bücher/prophetisch/Jesaja
  }
  {
-  <i>Joch</i>: §+3mo-26-13
+  <i>Joch</i>: §+3mo-26-13, vgl §+1mo-27-40
  }
 #}
 #jes-10-28 {
@@ -60893,7 +60904,7 @@
 #}
 #jer-27-2 {
  {
-  Jeremia scheint das Joch im vierten Jahr Zedekias (?) noch zu haben (<a href='http://bibel.renenyffenegger.ch/jer_28.html#v10'>Jer&nbsp;28,10</a>).
+  Jeremia scheint das Joch im vierten Jahr Zedekias (?) noch zu haben, §jer-28-10.
  }
 #}
 #jer-27-3 {
@@ -60968,7 +60979,7 @@
 #}
 #jer-28-10 {
  {
-  <a class='kom' href='#Ijer-27-2'>Jer&nbsp;27,2</a>.
+  §+jer-27-2.
  }
 #}
 #jer-28-12 {
@@ -75670,6 +75681,9 @@
  {
   Vgl den <i>reichen Joseph von Arimithia, der den Leib Jesu in eine Gruft gelegt hat</i> mit §jes-53-9.
  }
+ {
+  <i>Ein [reicher] Mann</i> (<span class='gr'>ανθρωπος</span>, Strongs 444) könnte evtl. besser mit «Mensch» übersetzt werden. Vgl §lk-23-50.
+ }
 #}
 #mt-27-59 {
  {
@@ -80444,7 +80458,7 @@
   Beachte: Der Herr hat befohlen, Netze (Mehrzahl, §Vlk-5-4) hinabzulassen, Petrus hat aber nur ein Netz hinabgelassen. In der Folge riss es (§Vlk-5-6), da es nicht alle Fische halten konnte.
  }
  {
-  <i>Meister</i> (<span class='gr'>ἐπιστάτης</span>, Strongs 1988) kommt nur im Lukasvengelium vor. Vgl aber auch §mt-23-10
+  <i>Meister</i> (<span class='gr'>ἐπιστάτης</span>, Strongs 1988) kommt nur im Lukasvengelium vor (§lk-8-24). Vgl aber auch §mt-23-10
  }
 #}
 #lk-5-6 {
@@ -80637,7 +80651,7 @@
 #}
 #lk-6-6 {
  {
-  §mt-12-9, §mk-3-1
+  Vgl §mt-12-9, §mk-3-1: Nur Lukas, der Arzt, erwähnt, daß die <i>rechte</i> Hand verdorrt war.
  }
  {
   <i>Verdorrte rechte Hand</i> vgl §Vlk-6-1
@@ -80973,6 +80987,12 @@
   <i>herrliche Kleidung</i>: §+mt-6-29
  }
 #}
+#lk-7-26 {
+ {
+  TODO <i>mehr als ein Prophet</i>: <span class='gr'>περισσοτερον προφητου</span>. Prophet is in the genitive case, which is but one way to express comparison. More common in the other evangelists is to use  υπερ (above/beyond) or simply ἤ (than). 
+  To use the language's ability to show function by declining words is considered a higher register Greek. Luke's Greek is the most difficult of the NT anyway. (See <a href='https://x.com/ferrismattic/status/2004903374748066168'>this tweet</a>)
+ }
+#}
 #lk-7-27 {
  {
   <i>von dem geschrieben steht</i> vgl mit dem Anfang des Markusevangeliums, §mk-1-2
@@ -81212,6 +81232,9 @@
  }
 #}
 #lk-8-24 {
+ {
+  <i>Meister</i>: <span class='gr'>ἐπιστάτης</span> (Strongs 1988): Jemand, der über einem steht. vgl §lk-5-5
+ }
  {
   Vgl §+ps-89-10.
  }
@@ -82095,6 +82118,12 @@
 #}
 #lk-11-41 {
  {
+  <i>Gebt vielmehr Almosen</i> vgl §lk-12-33
+ }
+ {
+  <i>von dem, was ihr habt</i>: Sch2K übersetzt mit «von dem, was darin ist». Damit könnte das gemeint sein, was in den Bechern und Schüsseln (oder das Innere des Menschen selbst, das voller Raub und Bosheit ist?) ist. Der Griechische Ausdruck ist <span class='gr'>τα ενοντα</span>.
+ }
+ {
   <i>alles ist euch rein</i> vgl §tit-1-15, vgl §+mk-7-18
  }
 #}
@@ -82302,6 +82331,9 @@
  <br>
   <i>Verkauft eure Habe</i> vgl §mt-19-21, §lk-19-8.
  }
+ {
+  <i>gebt Almosen</i> vgl §lk-11-41
+ }
 #}
 #lk-12-35 {
  {
@@ -82419,6 +82451,9 @@
  <br>
   Diese Entzweigung ist möglicherweise eine Folge davon, dass das Haus sich selbst überlassen wird, §lk-13-35.
  }
+ {
+  TODO: Luke uses ἐπὶ with the dative to indicate "against." This is the sole NT example of this usage. Matthew uses the more usual κατὰ  with the genitive to mean against.  Luke is the preeminent literary stylist of the NT. (See <a href='https://x.com/ferrismattic/status/2006720448692650417'>this tweet</a>)
+ }
 #}
 #lk-12-56 {
  {
@@ -82467,6 +82502,11 @@
   Wenn der Herr seinen Dienst mit 30 jährig begonnen hat, und er hier noch 30 jährig ist, heisst das, das diese Tochter Abrahams vom Satan gebunden wurde, als der Herr 12 jährig war (§+lk-2-42)
   <br>
    Vgl auch mit §Vlk-13-4.
+ }
+#}
+#lk-13-13 {
+ {
+  <i>wurde sie gerade</i>: <span class='gr'>ἀνορθόω</span> (Strongs 461). Hier schwingt evtl. auch der Sinn von «wieder augerichtet» oder «wieder hergestellt» mit. Vgl §apg-15-16, §hebr-12-12
  }
 #}
 #lk-13-14 {
@@ -82706,6 +82746,9 @@
 #}
 #lk-15-2 {
  {
+  TODO: <i>Dieser nimmt Sünder auf und isst mit ihnen</i>. Lukas unterstreicht diese Aussage mit den nun folgenden 3 Gleichnissen, wo gezeigt wird, wie der Herr es liebt, reumütige Sünder aufzunehmen.
+ }
+ {
   <i>Zorn in den Evangelien</i>: <a class='kom' href='#Imt-3-7'>Mt&nbsp;3,7</a>.
  }
 #}
@@ -82754,6 +82797,11 @@
 #lk-15-17 {
  {
   <i>zu sich selbst</i>: §+lk-7-39
+ }
+#}
+#lk-15-20 {
+ {
+  <i>um den Hals fallen</i>: §+1mo-33-4
  }
 #}
 #lk-15-22 {
@@ -82953,6 +83001,11 @@
 #lk-17-16 {
  {
   <i>Zu Jesu Füssen</i>: <a class='kom' href='#Ilk-7-38'>Lk&nbsp;7,38</a>.
+ }
+#}
+#lk-17-18 {
+ {
+  <i>Fremdling</i>: <span class='gr'>ἀλλογενής</span> (Strongs 241, 1x), also jemand einer anderen Rasse oder ein Ausländer.
  }
 #}
 #lk-17-19 {
@@ -83649,6 +83702,11 @@
   hier Israel kurz davor ist, aufzuhören eine Nation vor dem Angesicht Gottes zu sein?
  }
 #}
+#lk-21-26 {
+ {
+  <i>verschmachten</i>: <span class='gr'>ἀποψύχω</span> (Strongs 674, 1x), wörtlich etwas «entseelen».
+ }
+#}
 #lk-21-28 {
  {
   <i>weil eure Erlösung naht</i> vgl §lk-2-38
@@ -83801,6 +83859,9 @@
 #lk-22-24 {
  {
   <i>Wer ist der Grösste?</i>: §+lk-9-46.
+ }
+ {
+  <i>Streit</i>: <span class='gr'>φιλονεικία</span> (Strongs 5379, 1x). Dieses Wort ist also aus den beiden Wörtern «Liebe» und «Sieg» zusammengesetzt.
  }
 #}
 #lk-22-25 {
@@ -84220,7 +84281,7 @@
 #}
 #lk-23-50 {
  {
-  §mt-27-57, §mk-15-43, §joh-19-38
+  <i>ein Mann</i>: <span class='gr'>ανηρ</span> (Strongs 435). Vgl §mt-27-57, §mk-15-43, §joh-19-38
  }
 #}
 #lk-23-53 {
@@ -93263,7 +93324,7 @@
   Vgl diesen <i>festgesetzten Tag</i> mit dem «ihm bestimmten Tag» in §apg-28-23 (Das Griechische Wort ist nicht dasselbe).
  }
  {
-  <i>Beweis</i>: vgl §apg-1-3 («sichere Kennzeichen»)
+  <i>Beweis</i> (<span class='gr'>πίστις</span>, Strongs 4102): vgl §apg-1-3 («sichere Kennzeichen»)
  }
  {
   <i>weil er einen Tag gesetzt hat</i> vgl §apg-28-23
@@ -98436,7 +98497,9 @@
   <br>Vgl §1kor-3-3
  }
  {
-  <i>in demselben Sinn</i> vgl §1kor-2-16, §roem-12-2, §roem-14-5
+  <i>in demselben Sinn</i> §phil-4-2, §1petr-3-8
+  <br>
+   Siehe auch §1kor-2-16, §roem-12-2, §roem-14-5
  }
  {
   TODO: <a class='kom' href='#Ijud-1-19'>Jud&nbsp;1,19</a>.
@@ -100095,7 +100158,9 @@
 #1kor-11-24 {
  {
   Vgl §mt-26-26 und §mk-14-22: Der Herr nahm das Brot und <i>segnete</i>. Offenbar zitiert → biblisches/Personen/Paulus aus §lk-22-19. Ebenso ist Lukas der einzige
-  Evangelist, der erwähnt, dass der Kelch <i>nach dem Mahl</i> genommen wurde. Vgl §1tim-5-18
+  Evangelist, der erwähnt, dass der Kelch <i>nach dem Mahl</i> genommen wurde und das Passah zu «seinem Gedächtnis» eingenommen werden soll.
+ <br>
+  Vgl §1tim-5-18
  }
  {
   <span class='gt'>In NA fehlt «Nehmt, eßt!» und «gebrochen».</span>
@@ -105404,7 +105469,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-4-2 {
  {
-  <i>einerlei gesinnt sein</i>: §phil-2-2, vgl §+joh-17-23.
+  <i>einerlei gesinnt sein</i>: §phil-2-2, vgl §1kor-1-10, §+joh-17-23.
  }
 #}
 #phil-4-3 {
@@ -110836,6 +110901,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Unterscheidung des Guten und des Bösen</i>: §+1mo-2-9, §1koe-3-9
  }
  {
+  <i>geübte Sinne haben</i> vgl §hebr-12-11
+ }
+ {
   <i>Erwachsene</i>: <span class='gr'>τέλειος</span> (Strongs 5046), bedeutet auch «vollkommen», vgl §1kor-14-20. Sch2K übersetzt mit «Gereift»,
   KJV mit «those of full age»
  }
@@ -112227,6 +112295,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #hebr-12-11 {
  {
   <i>Frucht der Gerechtigkeit</i>: §2kor-9-10 §phil-1-11, §jak-3-18
+ }
+ {
+  <i>geübt sein</i> vgl §hebr-5-14
  }
 #}
 #hebr-12-13 {
@@ -113970,6 +114041,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #1petr-3-8 {
+ {
+  <i>gleichgesinnt</i> vgl §1kor-1-10
+ }
  {
   <i>Brüderliche Liebe</i> (<span class='gr'>φιλάδελφος</span>, Strongs 5361): <a class='kom' href='#Iroem-12-10'>Röm&nbsp;12,10</a>.
  }
