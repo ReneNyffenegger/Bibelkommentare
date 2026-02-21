@@ -84631,6 +84631,11 @@
   TODO: Verse 51-52 sind gemäss Menge Einschiebsel, die sich in den Urtext eingeschlichen haben.
  }
 #}
+#lk-24-52 {
+ {
+  Lukas beginnt und endet seinen Bericht in Jersualem. In der Apostelgeschichte wird der Faden in Jerusalem wieder aufgenommen, dort endet der Bericht aber in Rom (§apg-28-14).
+ }
+#}
 #lk-24-53 {
  {
   <i>Allezeit im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel</i>: <a class='kom' href='#Iapg-1-13'>Apg&nbsp;1,13</a>.
@@ -88937,6 +88942,9 @@
 #apg-1-4 {
  {
   <i>Verheissung des Vaters</i>: <a class='kom' href='#Ilk-24-49'>Lk&nbsp;24,49</a>.
+ }
+ {
+  Die Apostelgeschichte beginnt in Jerusalem und endet in Rom, §apg-28-14 vgl §+lk-24-52
  }
 #}
 #apg-1-5 {
@@ -95260,6 +95268,9 @@
 #apg-28-14 {
  {
   <i>Brüder finden</i>: <a class='kom' href='#Iapg-19-1'>Apg&nbsp;19,1</a>.
+ }
+ {
+  Die Apostelgeschichte beginnt in Jerusalem (§apg-1-4) und endet in Rom, vgl §+lk-24-52
  }
 #}
 #apg-28-15 {
