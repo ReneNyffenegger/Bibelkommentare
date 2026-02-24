@@ -4195,7 +4195,7 @@
 #}
 #1mo-21-4 {
  {
-  Beschneidung: siehe §1mo-17-10. Am achten Tag: §1mo-17-12.j
+  Beschneidung: siehe §1mo-17-10. Am achten Tag: §1mo-17-12.
  }
 #}
 #1mo-21-5 {
@@ -60783,7 +60783,7 @@
 #}
 #jer-25-13 {
  {
-  <i>was Jeremia über alle Nationen geweissagt hat</i>: §jer-1-5, §offb-10-11
+  <i>was Jeremia über alle Nationen geweissagt hat</i>: §jer-1-5, §offb-10-11, vgl §jer-28-8
  }
 #}
 #jer-25-15 {
@@ -60865,8 +60865,7 @@
 @Jeremia 26 {
 #jer-26-1 {
  {
-  Beachte: Hier ergeht <i>im Anfang der Regierung Jojakims</i> das Wort vom HERRN, in <a href='http://bibel.renenyffenegger.ch/jer_27.html#v1'>Jer&nbsp;27,1</a> ergeht
-  es an Jeremia.
+  Beachte: Hier ergeht <i>im Anfang der Regierung Jojakims</i> das Wort vom HERRN, in §jer-27-1 ergeht es an Jeremia.
  }
  {
   Der <i>Anfang der Regierung Jojakims</i> scheint in seinem vierten Jahr gewesen zu sein (<a href='http://bibel.renenyffenegger.ch/jer_28.html#v1'>Jer&nbsp;28,1</a>)
@@ -60874,7 +60873,7 @@
 #}
 #jer-26-2 {
  {
-  TODO: Hier ist Jeremia im <i>Vorhof</i>, in Vers 9 im <i>Haus des HERRN</i>.
+  Hier ist Jeremia im <i>Vorhof</i>, in §Vjer-26-7 im <i>Haus des HERRN</i>.
  }
 #}
 #jer-26-5 {
@@ -60886,13 +60885,15 @@
 #}
 #jer-26-6 {
  {
-  <i>Silo</i>: <a class='kom' href='#Ijos-18-1'>Jos&nbsp;18,1</a>, vgl <a href='http://bibel.renenyffenegger.ch/jer_7.html#v12'>Jer&nbsp;7,12</a>.
+  <i>Silo</i>: §+jos-18-1, vgl §jer-7-12.
  }
 #}
 #jer-26-10 {
  {
-  <i>Neues Tor</i>: <a href='http://bibel.renenyffenegger.ch/jer_36.html#v10'>Jer&nbsp;36,10</a>.
-  <br>TODO: Wurde dieses (neu) gebaut, weil Nebukadnezar eingefallen ist?
+  <i>Neues Tor</i>: §jer-36-10.
+ }
+ {
+  TODO: Wurde dieses Tor (neu) gebaut, weil Nebukadnezar eingefallen ist?
  }
 #}
 #jer-26-15 {
@@ -60903,8 +60904,9 @@
 #}
 #jer-26-18 {
  {
-  Beachte, dass diese von Micha geweissagte Begebenheit in <a href='http://bibel.renenyffenegger.ch/mi_3.html#v12'>Mi&nbsp;3,12</a> ebenfalls aufgezeichnet ist.
-  <br>TODO: Hier wird Micha <i>der Mor<b>e</b>schiter</i>, in <a class='kom' href='#Imi-1-1'>Mi&nbsp;1,1</a> <i>der Mor<b>a</b>schiter</i> genannt.
+  Beachte, dass diese von Micha geweissagte Begebenheit in §mi-3-12 ebenfalls aufgezeichnet ist.
+ <br>
+  Hier wird Micha <i>der Mor<b>e</b>schiter</i>, in §+mi-1-1 <i>der Mor<b>a</b>schiter</i> genannt.
  }
  {
   <i>Berg des Hauses</i>: <a class='kom' href='#Ijes-2-2'>Jes&nbsp;2,2</a>.
@@ -60957,7 +60959,7 @@
 #}
 #jer-27-3 {
  {
-  Hier wird ein zukünftiges Ereignis in der Vergangeneheitsform geschildert:  → biblisches/Personen/Mattanja-Zedekia[Zedekia] ist hier ca. 11 Jahre alt und wird erst mit 21 Jahren König.j
+  Hier wird ein zukünftiges Ereignis in der Vergangeneheitsform geschildert:  → biblisches/Personen/Mattanja-Zedekia[Zedekia] ist hier ca. 11 Jahre alt und wird erst mit 21 Jahren König.
  }
 #}
 #jer-27-6 {
@@ -61022,7 +61024,12 @@
 #}
 #jer-28-6 {
  {
-  <i>Jeremia sparch Amen</i> §jer-11-5
+  <i>Jeremia sprach Amen</i> §jer-11-5
+ }
+#}
+#jer-28-8 {
+ {
+  Vgl §jer-25-13
  }
 #}
 #jer-28-10 {
@@ -61572,7 +61579,7 @@
   <i>Oberer Vorhof</i>: <a class='kom' href='#I1koe-6-36'>1.&nbsp;Kö&nbsp;6,36</a>.
  }
  {
-  <i>Neues Tor</i>: <a class='kom' href='#Ijer-26-10'>Jer&nbsp;26,10</a>.
+  <i>Neues Tor</i>: §+jer-26-10.
  }
  {
   <i>Elischama</i>, vgl mit dem, aus dem königlichen Samen: <a class='kom' href='#I2koe-25-23'>2.&nbsp;Kö&nbsp;25,23</a>.
