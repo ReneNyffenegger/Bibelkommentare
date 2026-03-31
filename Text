@@ -22440,7 +22440,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Todesstrafe, vgl §hes-14-9, §5mo-18-15
  }
 #}
 #5mo-13-7 {
@@ -22728,7 +22728,7 @@
  {
   → biblisches/Personen/Könige/Israel/Jehu stand aus der Mitte seiner Brüder auf §2koe-9-2-3.
   Vgl mit dem Propheten, den der HERR aus der Mitte der Brüder erwecken will §5mo-18-15.
-        <br>
+ <br>
   Vgl auch mit §4mo-23-21
  }
 #}
@@ -22797,6 +22797,8 @@
   <i>auf ihn sollst du hören</i> §mt-17-5
  }
  {
+  <i>Prophet in deiner Mitte</i> vgl §jer-29-8, §kla-4-13, §hes-2-5, §5mo-13-6
+ <br>
   Vgl auch mit dem König, den der HERR aus der Mitte der Brüder erwählen will §5mo-17-15
  }
  {
@@ -59924,6 +59926,9 @@
   <i>Ist kein Balsam in Gilead?</i>. In §jer-46-11 scheint es Balsam in Gilead zu haben.
   Vgl auch §jer-51-8.
  }
+ {
+  <i>Verband</i> §jer-30-17
+ }
 #}
 @}
 @Jeremia 9 {
@@ -60123,7 +60128,7 @@
   <i>Aus dem eisernen Schmelzofen, aus Ägpypten heraufgeführt</i> Vgl §5mo-4-20.
  }
  {
-  <i>mein Volk … euer Gott</i> vgl §jer-30-22, §hes-36-28
+  <i>mein Volk … euer Gott</i> vgl §jer-30-22, §hes-36-28, §2kor-6-16
  }
 #}
 #jer-11-5 {
@@ -60785,6 +60790,9 @@
  {
   <i>was Jeremia über alle Nationen geweissagt hat</i>: §jer-1-5, §offb-10-11, vgl §jer-28-8
  }
+ {
+  <i>Alles, was in diesem Buch geschrieben steht</i> vgl §jer-30-2, §jer-36-2
+ }
 #}
 #jer-25-15 {
  {
@@ -61005,9 +61013,8 @@
   → biblisches/Personen/Mattanja-Zedekia#anfang-der-regierung
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
- }
- {
+  Hananja, der <i>falsche</i> → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet, vgl §jer-29-8-9
+ <br>
   <i>Hananja, der Sohn Assurs</i> vgl §+hes-11-1.
  }
 #}
@@ -61029,7 +61036,7 @@
 #}
 #jer-28-8 {
  {
-  Vgl §jer-25-13
+  <i>sie haben über viele Länder geweissagt</i> Vgl §jer-25-13
  }
 #}
 #jer-28-10 {
@@ -61052,7 +61059,7 @@
 #jer-29-1 {
  {
   TODO: Achim Klein: Kap. 29 enthält keinerlei Datumsangabe. Dort schreibt Jeremia den
-  Exulanten in Babylon einen Brief. Das Datum der Abfassung des
+  Exilanten in Babylon einen Brief. Das Datum der Abfassung des
   Briefes lässt als frühesten Zeitpunkt 586 v. Chr. zu, denn der Brief
   erwähnt sowohl Hauptleute und Oberste des Volks als auch einfache
   Leute, die in die Gefangenschaft deportiert worden waren.
@@ -61079,6 +61086,16 @@
 #jer-29-5 {
  {
   Vgl §+mt-24-38
+ }
+#}
+#jer-29-8 {
+ {
+  <i>Propheten in eurer Mitte</i> vgl §5mo-18-15, §kla-4-13, §hes-2-5
+ }
+#}
+#jer-29-9 {
+ {
+  Vgl mit den falschen Propheten Hanaja, §jer-28-1, und Ahab und Zedekia, §Vjes-29-21
  }
 #}
 #jer-29-10 {
@@ -61138,7 +61155,7 @@
 @Jeremia 30 {
 #jer-30-2 {
  {
-  <i>In ein Buch schreiben</i>: §+offb-1-11.
+  <i>In ein Buch schreiben</i>: §+offb-1-11, vgl §jer-25-13, §jer-51-60
   <br>
   Vgl <i>Buch</i> hier mit dem Brief in §jer-29-25
  }
@@ -61168,9 +61185,14 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/unter-die-Nationen-verstreut
  }
 #}
+#jer-30-17 {
+ {
+  <i>Einen Verband anlegen und dich … heilen</i> vgl §jer-8-22, §jer-33-6, §hes-30-21
+ }
+#}
 #jer-30-22 {
  {
-  <i>mein Volk … euer Gott</i> §jer-11-4
+  <i>mein Volk … euer Gott</i> §jer-11-4, §jer-31-1
  }
 #}
 #jer-30-24 {
@@ -61185,6 +61207,11 @@
 }
 { 31-40
 @Jeremia 31 {
+#jer-31-1 {
+ {
+  <i>und sie werden mein Volk sein</i> §jer-30-22
+ }
+#}
 #jer-31-3 {
  {
   Vgl §hos-11-4.
@@ -61203,9 +61230,14 @@
   <i>Sammlung Israels</i>: vgl §hes-11-17, §hes-34-12-14, §+mt-24-31 §joh-11-52, §sach-2-10, §apg-2-39
  }
 #}
+#jer-31-11 {
+ {
+  Vgl §lk-11-22
+ }
+#}
 #jer-31-15 {
  {
-  Dies wird in §mt-2-17-18 erfüllt, als Herodes alle Knaben unter 2 Jahren in Bethelehem töten liess.
+  Dies wird in §mt-2-17-18 erfüllt, als Herodes alle Knaben unter 2 Jahren in Bethlehem töten liess.
   <br>
    Vgl → biblisches/Bücher/Evangelien/Matthäus#mt-erfuellung-propheten
  }
@@ -61437,6 +61469,11 @@
   <i>zweite Mal</i>: <a class='kom' href='#Ijer-32-1'>Jer&nbsp;32,1</a>.
  }
 #}
+#jer-33-6 {
+ {
+  <i>Einen Verband anlegen und Heilung bringen</i> vgl §jer-30-17
+ }
+#}
 #jer-33-7 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gefangenschaft/wenden
@@ -61450,6 +61487,11 @@
 #jer-33-11 {
  {
   <i>Stimme des Bräutigams und der Braut</i>: §+jer-7-34.
+ }
+#}
+#jer-33-15 {
+ {
+  Vgl §jer-23-5
  }
 #}
 #jer-33-16 {
@@ -61581,6 +61623,9 @@
 #jer-36-2 {
  {
   <i>Buchrolle</i> vgl §hes-2-9-10
+ }
+ {
+  Vgl §jer-25-13
  }
 #}
 #jer-36-4 {
@@ -62611,6 +62656,11 @@
   <i>Quartiermeister</i> in KJV: 'quiet prince', in Elberfelder 1905: 'Reisemarschall'.
  }
 #}
+#jer-51-60 {
+ {
+  <i>Jeremia schrieb in ein Buch</i> vgl §jer-30-2
+ }
+#}
 #jer-51-64 {
  {
   <i>Bis hierher gehen die Worte Jeremias</i>: vgl <a href='http://bibel.renenyffenegger.ch/hi_31.html#v40'>Hi&nbsp;31,40</a> und
@@ -62806,6 +62856,11 @@
   TODO <i>Misthaufen</i>: <a class='kom' href='#Idan-2-5'>Dan&nbsp;2,5</a>.
  }
 #}
+#kla-4-13 {
+ {
+  <i>Propheten … in seiner Mitte</i> vgl §5mo-18-15, §jer-29-8, §hes-2-5
+ }
+#}
 #kla-4-19 {
  {
   TODO: Entsprechen <i>Adler des Himmels</i> den Adlersflügel in §dan-7-4
@@ -62968,7 +63023,7 @@
 #}
 #hes-2-5 {
  {
-  <i>Erkennen, dass ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet in ihrer Mitte war</i>: §hes-33-33.
+  <i>Erkennen, dass ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet in ihrer Mitte war</i>: §hes-33-33. Vgl §5mo-18-15, §jer-29-8, §kla-4-13
  }
 #}
 #hes-2-9 {
@@ -63410,6 +63465,11 @@
 #}
 @}
 @Hesekiel 14 {
+#hes-14-9 {
+ {
+  <i>Den falschen Propheten aus der Mitte des Volkes vertilgen</i> vgl §5mo-13-6
+ }
+#}
 #hes-14-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum#mein-volk-ihr-gott[sie werden mein Volk, und ich werde ihr Gott sein]
@@ -64068,6 +64128,11 @@
 #hes-30-19 {
  {
   TODO: Siehe <a class='kom' href='#I2mo-7-5'>2.&nbsp;Mo&nbsp;7,5</a>.
+ }
+#}
+#hes-30-21 {
+ {
+  <i>Verband anlegen</i> vgl §+jer-30-17
  }
 #}
 #hes-30-23 {
@@ -82167,6 +82232,11 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Finger/Gottes, vgl §Vlk-11-46
+ }
+#}
+#lk-11-22 {
+ {
+  <i>ein Stärkerer</i> vgl §lk-3-16, §jer-31-11
  }
 #}
 #lk-11-23 {
@@ -102021,7 +102091,7 @@
   <i>ich will unter ihnen wohnen und wandeln</i>: §1kor-14-25
  }
  {
-  <i>ich werde ihr Gott sein, und sie werden mein Volk sein</i> §3mo-26-11-12, §hes-11-20, §hes-37-26-27, vgl §offb-21-7
+  <i>ich werde ihr Gott sein, und sie werden mein Volk sein</i> §3mo-26-11-12, §jer-11-4, §hes-11-20, §hes-37-26-27, vgl §offb-21-7
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
