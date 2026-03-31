@@ -60123,7 +60123,7 @@
   <i>Aus dem eisernen Schmelzofen, aus Ägpypten heraufgeführt</i> Vgl §5mo-4-20.
  }
  {
-  <i>mein Volk … euer Gott</i> vgl §jer-30-22
+  <i>mein Volk … euer Gott</i> vgl §jer-30-22, §hes-36-28
  }
 #}
 #jer-11-5 {
@@ -61099,6 +61099,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gefangenschaft/wenden
  }
 #}
+#jer-29-17 {
+ {
+  <i>Schwert, Hunger, Pest</i>: §+jer-14-12
+ }
+#}
 #jer-29-18 {
  {
   <i>Ich will sie zur Mißhandlung hingeben allen Königreichen der Erde</i> vgl §+jer-15-4
@@ -61125,12 +61130,17 @@
   <i>Zephanja, der Sohn Maasejas</i>: <a href='http://bibel.renenyffenegger.ch/jer_37.html#v3'>Jer&nbsp;37,3</a>.
   <i>Zephanja</i>: <a class='kom' href='#I2koe-25-18'>2.&nbsp;Kö&nbsp;25,18</a>.
  }
+ {
+  Vgl <i>Brief</i> hier mit dem Buch in §jer-30-2
+ }
 #}
 @}
 @Jeremia 30 {
 #jer-30-2 {
  {
-  <i>In ein Buch schreiben</i>: <a class='kom' href='#Ioffb-1-11'>Offb&nbsp;1,11</a>.
+  <i>In ein Buch schreiben</i>: §+offb-1-11.
+  <br>
+  Vgl <i>Buch</i> hier mit dem Brief in §jer-29-25
  }
 #}
 #jer-30-3 {
@@ -61140,7 +61150,7 @@
 #}
 #jer-30-8 {
  {
-  <i>Zerbrochenes Joch</i>: <a class='kom' href='#Ijer-28-12'>Jer&nbsp;28,12</a>.
+  <i>Zerbrochenes Joch</i>: §+jer-28-12.
  }
 #}
 #jer-30-9 {
@@ -61177,7 +61187,7 @@
 @Jeremia 31 {
 #jer-31-3 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/hos_11.html#v4'>Hos&nbsp;11,4</a>.
+  Vgl §hos-11-4.
  }
 #}
 #jer-31-9 {
@@ -64266,6 +64276,11 @@
 #hes-36-26 {
  {
   Vgl §hes-11-19, §jer-31-33
+ }
+#}
+#hes-36-28 {
+ {
+  <i>mein Volk, … euer Gott</i> vgl §jer-11-4
  }
 #}
 #hes-36-35 {
