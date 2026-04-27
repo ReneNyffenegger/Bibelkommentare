@@ -1160,6 +1160,9 @@
   <br>Vgl §ps-37-32
  }
  {
+  Abel antwortete (schrie) vom Erdboden, §V1mo-4-10
+ }
+ {
   <i>Feld</i>: <span class='hebr'>שָׂדֶה</span> (Strongs 7704).
  }
  {
@@ -23541,7 +23544,11 @@
   §roem-11-8
  }
  {
-  <i>Ohren, die hören</i>: vgl §+2mo-24-7.
+ }
+ {
+  Vgl §mt-13-15-ff
+ <br>
+  <i>Ohren, die (nicht) hören</i>: vgl §+2mo-24-7.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/bis-auf-diesen
@@ -23784,13 +23791,13 @@
   <i>ihn zu reizen</i> vgl §5mo-9-18
  }
 #}
-@}
-@5. Mose 32 {
-#5mo-32-1 {
+#5mo-31-30 {
  {
-  Mose ist der erste Mensch, der → biblisches/Eigene-Uebersetzung/Konkordanz/Mann-Gottes genannt wird.
+  Vgl §5mo-32-44
  }
 #}
+@}
+@5. Mose 32 {
 #5mo-32-2 {
  {
   «Regenschauer» <span class='hebr'>שָׂעִיר</span> (Strongs 8164), offenbar dasselbe Wort wie für Strongs 8163, siehe <a class='kom' href='#I1mo-27-11'>1.&nbsp;Mo&nbsp;27,11</a>.
@@ -23968,6 +23975,11 @@
   §ps-79-10, §offb-19-2
  }
 #}
+#5mo-32-44 {
+ {
+  Vgl §5mo-31-30
+ }
+#}
 #5mo-32-45 {
  {
   TODO: Hier Strongs 3615 (<a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>). Ist hier Mose quasi fertig?
@@ -23989,6 +24001,9 @@
 @}
 @5. Mose 33 {
 #5mo-33-1 {
+ {
+  Mose ist der erste Mensch, der → biblisches/Eigene-Uebersetzung/Konkordanz/Mann-Gottes genannt wird.
+ }
  {
   Beachte: Simeon wird nicht gesegnet.
  }
@@ -53148,6 +53163,11 @@
   Vgl <i>die mich lieben</i> mit <i>die mich hassen</i> (<a href='http://bibel.renenyffenegger.ch/spr_8.html#v36'>Vers 36</a>).
  }
 #}
+#spr-8-20 {
+ {
+  <i>Pfad der Gerechtigkeit</i>: §spr-12-28
+ }
+#}
 #spr-8-21 {
  {
   TODO: <i>Schatzkammern</i> (<span class='hebr'>אוֹצָר</span>, Strongs 214) vielleicht besser einfach als «Schätze» übersetzt.
@@ -53398,6 +53418,11 @@
 #spr-12-24 {
  {
   <i>Die Hand der Fleißigen</i> Vgl §+spr-10-4, §Vspr-12-27
+ }
+#}
+#spr-12-28 {
+ {
+  <i>Pfad der Gerechtigkeit</i>: §spr-8-20, Vgl §spr-16-31
  }
 #}
 @}
@@ -53686,6 +53711,9 @@
  }
  {
   <i>Graues Haar</i> §spr-20-29, §3mo-19-32
+ }
+ {
+  <i>Weg der Gerechtigkeit</i> vgl §spr-12-28
  }
 #}
 #spr-16-33 {
@@ -72426,7 +72454,7 @@
 #}
 #mt-13-15 {
  {
-  <i>Augen und Ohren</i> vgl §mk-8-18, §lk-10-23-24, §roem-11-8, §apg-28-27, §jer-5-21
+  <i>Augen und Ohren</i> vgl §mk-8-18, §lk-10-23-24, §roem-11-8, §apg-28-27, §5mo-29-3, §jer-5-21
  }
 #}
 #mt-13-16 {
@@ -74513,10 +74541,9 @@
 #}
 #mt-23-39 {
  {
-  Vgl <a class='kom' href='#Imt-21-9'>Mt&nbsp;21,9</a>.
- }
- {
-  Vgl <i>im Namen des Herrn kommen</i> mit <a href='http://bibel.renenyffenegger.ch/mt_24.html#v5'>Mt&nbsp;24,5</a>.
+  Vgl <i>im Namen des Herrn kommen</i> mit §mt-24-5.
+ <br>
+  <i>gepriesen sei …</i> Vgl §+mt-21-9.
  }
 #}
 @}
@@ -75674,6 +75701,11 @@
   <i>Sein Blut komme über uns und über unsere Kinder</i> vgl §apg-5-28, §2mo-24-8
  }
 #}
+#mt-27-26 {
+ {
+  §mk-15-15, §lk-23-25, §joh-19-1
+ }
+#}
 #mt-27-27 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat
@@ -75681,10 +75713,12 @@
 #}
 #mt-27-28 {
  {
-  <i>Purpur</i> (<span class='gr'>κόκκινος </span>, Strongs 2847) kommt im Neuen Testament ausser in §hebr-9-19
-  nur noch in der Offenbarung (§+offb-17-3, dort mit «scharlachrot» und §offb-18-16, dort mit 'Scharlach' übersetz) vor.
-  <br>Vgl §+mk-15-17 (wo ein anderes griechisches Wort auch mit 'Purpur' übersetzt wird). Beachte
-  auch, dass beide griechischen Wörter sowohl in §offb-17-4 wie auch §offb-18-12 vorkommen.
+  <i>scharlachrot</i> (<span class='gr'>κόκκινος </span>, Strongs 2847) kommt im Neuen Testament ausser in §hebr-9-19
+  nur noch in der Offenbarung (§+offb-17-3, dort ebenfalls mit «scharlachrot» und §offb-18-16, dort mit «Scharlach» übersetzt) vor.
+  Elberfelder und Sch2K übersetzten mit
+ <br>
+   Vgl §+mk-15-17 und §joh-19-2 (wo ein anderes griechisches Wort mit «Purpur» übersetzt wird).
+   Beachte auch, dass beide griechischen Wörter sowohl in §offb-17-4 wie auch §offb-18-12 vorkommen.
  <br>
   Vgl mit dem <i>glänzenden Gewand</i>, das ihm von Herodes umgeworfen wurde, §lk-23-11
  }
@@ -78962,6 +78996,11 @@
   §apg-13-28
  }
 #}
+#mk-15-15 {
+ {
+  §mt-27-26, §lk-23-25, §joh-19-1
+ }
+#}
 #mk-15-16 {
  {
    TODO: Waffen: → biblisches/Eigene-Uebersetzung/Konkordanz/Soldat
@@ -78981,6 +79020,9 @@
 #mk-15-18 {
  {
   §mt-27-29
+ }
+ {
+  <i>zu grüßen</i>: <span class='gr'>ασπαζεσθαι</span> (Strongs 782). <i>Sei gegrüßt</i>: <span class='gr'>χαιρε</span> (Strongs 5463).
  }
 #}
 #mk-15-19 {
@@ -82852,6 +82894,8 @@
  }
  {
   <i>Ihr werdet mich nicht sehen</i> vgl §lk-17-22, §mk-14-62, §joh-16-16-ff
+ <br>
+  <i>… bis ihr sprecht "Gepriesen sei…", §lk-19-38
  }
 #}
 @}
@@ -83600,7 +83644,7 @@
 #}
 #lk-19-38 {
  {
-  <i>Gepriesen, der kommt</i>: <a class='kom' href='#Imt-21-9'>Mt&nbsp;21,9</a>
+  <i>Gepriesen, der kommt</i>: §lk-13-35, §+mt-21-9
  }
  {
   <i>Friede im Himmel und Herrlichkeit in der Höhe</i>: §+lk-2-14.
@@ -84390,6 +84434,9 @@
  }
 #}
 #lk-23-25 {
+ {
+  §mt-27-26, §mk-15-15, §joh-19-1
+ }
  {
   <i>Jesus aber übergab er ihrem Willen</i> vgl §lk-22-42.
  }
@@ -88627,7 +88674,15 @@
 @Johannes 19 {
 #joh-19-1 {
  {
+  §mt-27-26, §mk-15-15, §lk-23-25
+ }
+ {
   <i>geißeln</i> vgl §hebr-12-6
+ }
+#}
+#joh-19-2 {
+ {
+  §mt-27-2
  }
 #}
 #joh-19-3 {
@@ -111887,10 +111942,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-9-19 {
  {
-   <a class='kom' href='#I2mo-24-7'>2.&nbsp;Mo&nbsp;24,7</a>.
+  <a class='kom' href='#I2mo-24-7'>2.&nbsp;Mo&nbsp;24,7</a>.
  }
  {
-  <i>Purpur</i> (<span class='gr'>κόκκινος</span>, Strongs 2847): <a class='kom' href='#Imt-27-28'>Mt&nbsp;27,28</a>.
+  <i>Scharlach</i> (<span class='gr'>κόκκινος</span>, Strongs 2847): Elberfelder und Sch2K übersetzen mit «Purpur». Vgl §+mt-27-28.
  }
  {
   TODO: Umfasst das Gesetz des Mose "nur" <a class='kom' href='#I2mo-20-1'>2.&nbsp;Mo&nbsp;20,1</a> bis <a class='kom' href='#I2mo-24-7'>2.&nbsp;Mo&nbsp;24,7</a>.
@@ -120455,8 +120510,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Reichtum</i>: <a class='kom' href='#Ioffb-5-12'>Offb&nbsp;5,12</a>.
  }
  {
-  <i>Kapitän</i>: <span class='gr'>κυβερνήτης</span> (Strongs 2942, 2x) in <a href='http://bibel.renenyffenegger.ch/apg_27.html#v11'>Apg&nbsp;27,11</a> mit
-  «Steuermann» übersetzt.
+  <i>Steuermann</i>: <span class='gr'>κυβερνήτης</span> (Strongs 2942, 2x) in Sch2K mit «Kapitän» übersetyt. Vgl §apg-27-11.
  }
 #}
 #offb-18-18 {
