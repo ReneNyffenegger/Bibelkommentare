@@ -16865,7 +16865,7 @@
   → biblisches/Orte/Berg-Sinai
  }
  {
-  Vgl §3mo-27-34
+  Vgl mit dem letzten Vers in 3. Mose, §3mo-27-34
  }
 #}
 @}
@@ -20904,6 +20904,11 @@
   TODO: In KJV: 'their fathers's brothers' sons' statt Vettern.
  }
 #}
+#4mo-36-13 {
+ {
+  Vgl §5mo-28-69
+ }
+#}
 @}
 }
 }
@@ -21427,6 +21432,11 @@
 #}
 @}
 @5. Mose 4 {
+#5mo-4-1 {
+ {
+  <i>Israel, höre…</i> §+5mo-5-1
+ }
+#}
 #5mo-4-2 {
  {
   <i>Ihr sollt nichts hinzutun</i> vgl §5mo-5-22, §5mo-13-1, §spr-30-6 und §offb-22-18-19.
@@ -21540,9 +21550,6 @@
  {
   Hier prophezeit Mose, daß Israel → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage] zum Herrn umkehren wird, in §5mo-31-29 sagt er, daß ihnen das Unglück begegnen wird.
  }
- {
-  TODO: <i>letzte Tage</i>: siehe <a class='kom' href='#I1mo-49-1'>1.&nbsp;Mo&nbsp;49,1</a>.
- }
 #}
 #5mo-4-34 {
  {
@@ -21617,6 +21624,8 @@
 #5mo-5-1 {
  {
   <i>Höre, Israel, die Satzungen und die Rechte…</i> vgl §5mo-6-1 
+ <br>
+  <i>Höre Israel</i>: §5mo-4-1, §5mo-6-4, §5mo-9-1, §5mo-27-9, §mk-12-29
  }
 #}
 #5mo-5-2 {
@@ -21751,6 +21760,9 @@
   Dies ist das <i>erste Gesetz</i> (§mk-12-29-30).
  <br>
   Vgl §+2mo-20-3 und §sach-14-9
+ }
+ {
+  <i>Höre, Israel</i>: §5mo-5-1
  }
  {
   In <span class='hebr'>שְׁמַ֖ע</span> (Strongs 8058) ist das Ayin vergrössert, siehe <a href='#typo_details'>Typografische Details im Alten Testament</a>.
@@ -22016,6 +22028,9 @@
 @}
 @5. Mose 9 {
 #5mo-9-1 {
+ {
+  <i>Höre, Israel</i>: §+5mo-5-1
+ }
  {
   Bis an den Himmel befestigte Städte: <a class='kom' href='#I5mo-1-28'>5.&nbsp;Mo&nbsp;1,28</a>.
  }
@@ -23339,6 +23354,14 @@
   TODO: Strongs 874 (<a href='http://bibel.renenyffenegger.ch/hab_2.html#v2'>Hab&nbsp;2,2</a>).
  }
 #}
+#5mo-27-9 {
+ {
+  <i>An diesem Tag bist du Jehova … zum Volk geworden</i> vgl §jes-66-8
+ }
+ {
+  <i>Höre, Israel</i>: §+5mo-5-1, §mk-12-29
+ }
+#}
 #5mo-27-12 {
  {
   Vgl mit <a class='kom' href='#I5mo-11-29'>5.&nbsp;Mo&nbsp;11,29</a>.
@@ -23401,6 +23424,11 @@
  }
  {
   <i>Schatz, der Himmel</i> vgl §+mt-19-21, §5mo-33-19
+ }
+#}
+#5mo-28-17 {
+ {
+  Beachte: die Reihenfolge hier ist verglichen mit den Segnungen vertauscht, §V5mo-28-5
  }
 #}
 #5mo-28-20 {
@@ -23527,6 +23555,9 @@
  }
 #}
 #5mo-28-69 {
+ {
+  Vgl mit dem Schluss von 4. Mose, §4mo-36-13
+ }
  {
   TODO: Horeb-Bund vs Moab-Bund: Siehe <a class='kom' href='#I2mo-24-7'>2.&nbsp;Mo&nbsp;24,7</a>.
   Siehe auch <a class='kom' href='#I5mo-1-5'>5.&nbsp;Mo&nbsp;1,5</a>.
@@ -59358,7 +59389,9 @@
 #}
 #jes-66-8 {
  {
-   <i>Volk/Nation, das geboren wird</i> vgl §4mo-11-12, §ps-22-32
+  <i>Volk/Nation, das geboren wird</i> vgl §4mo-11-12, §ps-22-32.
+ <br>
+  <i>an einem Tag …</i> vgl §5mo-27-9
  }
 #}
 #jes-66-11 {
@@ -78379,6 +78412,9 @@
  }
  {
   <i>das erste Gebot</i> vgl §mt-22-37-38
+ }
+ {
+  <i>Höre, Israel</i>: §5mo-5-1
  }
 #}
 #mk-12-31 {
