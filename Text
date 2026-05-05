@@ -26647,7 +26647,9 @@
 #}
 #jos-24-13 {
  {
-  <i>Weinberge und Olivenbäume, die ihr nicht gepflanzt habt</i> vgl §5mo-6-11
+  <i>Weinberge und Olivenbäume, die ihr nicht gepflanzt habt</i> vgl §5mo-6-11.
+ <br>
+  <i>… Häuser, die ihr nicht gebaut habt</i> vgl §jes-65-21, §jer-29-5
  }
 #}
 #jos-24-15 {
@@ -55759,6 +55761,11 @@
   TODO: Hat das etwas mit <a class='kom' href='#Iapg-7-56'>Apg&nbsp;7,56</a> zu tun?
  }
 #}
+#jes-3-14 {
+ {
+  <i>Ihr habt den Weinberg abgeweidet</i> vgl §jer-12-10
+ }
+#}
 #jes-3-24 {
  {
   <i>Wohlgeruch</i>: das Hebräische Wort (Strongs 1314) wird an anderen Orten mit <i>Spezerei</i> (Siehe <a class='kom' href='#I2mo-25-6'>2.&nbsp;Mo&nbsp;25,6</a>) vor.
@@ -59346,6 +59353,11 @@
   Vgl <a href='http://bibel.renenyffenegger.ch/offb_21.html#v4'>Offb&nbsp;21,4</a>.
  }
 #}
+#jes-65-21 {
+ {
+  <i>Sie werden Häuser bauen … und Weinberge pflanzen</i> vgl §jos-24-13, §jer-29-5
+ }
+#}
 #jes-65-22 {
  {
   <i>Sie werden nicht bauen und ein anderer es bewohnen, sie werden nicht pflanzen und ein anderer essen;</i>: §+3mo-26-16
@@ -60283,6 +60295,11 @@
   <i>Pracht des Jordan</i>: Sch2K übersetzt mit «Dickicht des Jordan», KJV mit «swelling of Jordan».
  }
 #}
+#jer-12-10 {
+ {
+  <i>Viele Hirten haben meinen Weinberg berderbt</i> vgl §jes-3-14
+ }
+#}
 @}
 @Jeremia 13 {
 #jer-13-18 {
@@ -61166,6 +61183,11 @@
 #}
 #jer-29-5 {
  {
+  §jer-29-28, vgl §jer-32-15, §jer-35-7, §jes-65-21
+ }
+#}
+#jer-29-6 {
+ {
   Vgl §+mt-24-38
  }
 #}
@@ -61230,6 +61252,11 @@
  }
  {
   Vgl <i>Brief</i> hier mit dem Buch in §jer-30-2
+ }
+#}
+#jer-29-28 {
+ {
+  <i>Baut Häuser und bewohnt sie, und pflanzt Gärten und eßt ihre Frucht</i> §jer-29-5
  }
 #}
 @}
@@ -61462,6 +61489,11 @@
       <a href='http://bibel.renenyffenegger.ch/jer_43.html#v6'>Jer&nbsp;43,6</a> vor.
  }
 #}
+#jer-32-15 {
+ {
+  <i>Häuser … und Weinberge kaufen</i>, vgl §+jer-29-5, §jer-35-7, §apg-4-34
+ }
+#}
 #jer-32-17 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gebet/Himmel-und-Erde
@@ -61496,6 +61528,9 @@
  }
 #}
 #jer-32-29 {
+ {
+  <i>Die Chaldäer … werden … diese Stadt mit Feuer anzünden</i> §jer-39-8, §jer-52-13
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer#trankopfer-anderen-goettern
  }
@@ -61674,7 +61709,7 @@
 #}
 #jer-35-5 {
  {
-  <i>Krüge</i> (Strongs 3563) wäre wohl besser mit «Kelch» oder zumindest (analog <a href='http://bibel.renenyffenegger.ch/jer_25.html#v15'>Jer&nbsp;25,15</a>) mit «Becher»
+  TODO: <i>Krüge</i> (Strongs 3563) wäre wohl besser mit «Kelch» oder zumindest (analog <a href='http://bibel.renenyffenegger.ch/jer_25.html#v15'>Jer&nbsp;25,15</a>) mit «Becher»
   übersetzt worden. Vgl <a class='kom' href='#I1mo-40-11'>1.&nbsp;Mo&nbsp;40,11</a>.
   <br>Vgl m <a href='http://bibel.renenyffenegger.ch/jer_25.html#v17'>Jer&nbsp;25,17</a>.
  }
@@ -61682,6 +61717,11 @@
 #jer-35-6 {
  {
   <i>Jonadab, der Sohn Rechabs</i>: <a class='kom' href='#I2koe-10-15'>2.&nbsp;Kö&nbsp;10,15</a>.
+ }
+#}
+#jer-35-7 {
+ {
+  <i>ihr sollt kein Haus bauen … und keinen Weinberg pflanzen, noch sie besitzen</i> vgl §jer-29-5, §jer-32-15
  }
 #}
 #jer-35-14 {
@@ -61892,6 +61932,14 @@
 #jer-39-7 {
  {
   <i>Und er blendete die Augen → biblisches/Personen/Mattanja-Zedekia[Zedekias]</i> vgl §+jer-34-3
+ }
+#}
+#jer-39-8 {
+ {
+  §jer-32-29, §jer-52-13
+ }
+ {
+  TODO: Die Mauern Jerusalems werden auch in §jer-52-14 niedergerissen
  }
 #}
 #jer-39-10 {
@@ -62776,6 +62824,16 @@
 #jer-52-12 {
  {
   10. Tag vs 7. Tag des 5. Monats des 19. Jahres Nebukadnezars (<a class='kom' href='#I2koe-25-8'>2.&nbsp;Kö&nbsp;25,8</a>).
+ }
+#}
+#jer-52-13 {
+ {
+  §jer-32-29
+ }
+#}
+#jer-52-14 {
+ {
+  TODO: Die Mauern Jerusalems wurden bereits in §jer-39-8 niedergerissen
  }
 #}
 #jer-52-15 {
@@ -90260,7 +90318,11 @@
 #}
 #apg-4-34 {
  {
+  <i>Häuser und Äcker verkaufen</i> vgl §jer-32-15
+ <br>
   Beachte: den Israeliten war es verboten, das Land des Herrn zu verkaufen: §3mo-25-23
+ <br>
+  <i>alles verkaufen</i>: §+mt-19-21
  }
  {
   Vgl mit Ananias und Saphira, die (wohl) nur einen gewissen Teil des Kaufpreises den Füßen der Apostel niederlegten, §apg-5-2-ff
@@ -90268,9 +90330,6 @@
  {
   <i>Acker</i> (<span class='gr'>χωρίον</span>, Strongs 5564). Beachte in Vers 37 wird Strongs 68 mit 'Acker' übersetzt.
   Strongs 5564 wird auch in <a href='http://bibel.renenyffenegger.ch/apg_5.html#v3'>Apg 5,3/8</a> verwendet.
- }
- {
-  <i>alles verkaufen</i>: §+mt-19-21
  }
 #}
 #apg-4-36 {
