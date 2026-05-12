@@ -61539,7 +61539,7 @@
 #}
 #jer-32-29 {
  {
-  <i>Die Chaldäer … werden … diese Stadt mit Feuer anzünden</i> §jer-39-8, §jer-52-13
+  <i>Die Chaldäer … werden … diese Stadt mit Feuer anzünden</i>: §jer-37-8, §jer-39-8, §jer-52-13
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer#trankopfer-anderen-goettern
@@ -61628,6 +61628,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/wohnen/sicher
  }
 #}
+#jer-33-17 {
+ {
+  <i>Nie soll es dem David an einem Mann fehlen</i> vgl §jer-35-19
+ }
+#}
 @}
 @Jeremia 34 {
 #jer-34-1 {
@@ -61637,10 +61642,10 @@
 #}
 #jer-34-3 {
  {
-  <i>deine Augen werden die Augen des Königs von Babel sehen</i> vgl §jer-39-7
+  §jer-32-4
  }
  {
-  §jer-32-4
+  <i>deine Augen werden die Augen des Königs von Babel sehen</i> vgl §jer-39-7
  }
 #}
 #jer-34-4 {
@@ -61744,6 +61749,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten
  }
 #}
+#jer-35-19 {
+ {
+  <i>Es soll Jonadab, … nicht an einem Mann fehlen</i> vgl §jer-33-17
+ }
+#}
 @}
 @Jeremia 36 {
 #jer-36-1 {
@@ -61798,6 +61808,11 @@
 #jer-36-19 {
  {
   In Vers 26 hielt sie dann der HERR selbst verborgen.
+ }
+#}
+#jer-36-20 {
+ {
+  TODO: Sollte <i>Gemach</i> mit «Zelle» übersetzt werden?
  }
 #}
 #jer-36-22 {
@@ -61856,9 +61871,14 @@
   TODO: Vgl <a class='kom' href='#I2koe-24-7'>2.&nbsp;Kö&nbsp;24,7</a>.
  }
 #}
+#jer-37-8 {
+ {
+  <i>Jerusalem mit Feuer verbrennen</i> §jer-32-29
+ }
+#}
 #jer-37-12 {
  {
-  Vgl <a class='kom' href='#Ijer-32-9'>Jer&nbsp;32,9</a>.
+  Vgl §+jer-32-9.
  }
 #}
 #jer-37-13 {
