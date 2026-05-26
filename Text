@@ -12509,7 +12509,7 @@
 #}
 #2mo-29-9 {
  {
-  <i>das Priestertum sei zu einer ewigen Satzung</i> vgl §hebr-7-12 »Denn wenn das Priestertum geändert wird, so findet notwendig auch eine Änderung des Gesetzes statt.«
+  <i>das Priestertum sei zu einer ewigen Satzung</i> vgl §hebr-7-12 «Denn wenn das Priestertum geändert wird, so findet notwendig auch eine Änderung des Gesetzes statt.». S. a. §2mo-40-15
  }
 #}
 #2mo-29-10 {
@@ -13913,6 +13913,11 @@
 #2mo-40-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Dienst/Priesterdienst
+ }
+#}
+#2mo-40-15 {
+ {
+  <i>ewiges Priestertum</i> vgl §2mo-29-9, §1sam-2-30
  }
 #}
 #2mo-40-17 {
@@ -28896,6 +28901,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk
  }
 #}
+#1sam-2-30 {
+ {
+  <i>Dein Haus und das Haus deines Vaters sollen vor mir wandeln ewiglich</i> vgl §2mo-40-15
+ }
+#}
 #1sam-2-34 {
  {
   TODO: <i>an einem Tag sollen sie beide sterben</i>: §1sam-4-11
@@ -28938,8 +28948,7 @@
 #}
 #1sam-3-11 {
  {
-  Dies ist offenbar «ein Wort des HERRN», das Er in Silo geredet hat (<a href='http://bibel.renenyffenegger.ch/1koe_2.html#v27'>1.&nbsp;Kö&nbsp;2,27</a>, wo es
-  auch in Erfüllung geht). Vgl <i>Silo</i> und <i>Wort des HERRN</i> auch mit Vers 21.
+  Dies ist offenbar «ein Wort des HERRN», das Er in Silo geredet hat» (S. §1koe-2-27, wo es in Erfüllung geht). Vgl <i>Silo</i> und <i>Wort des HERRN</i> auch mit Vers 21.
  }
  {
   <i>Jedem der es hören wird</i>: Wenn Samuel die Stimme Gottes nicht gekannt hat, wie wissen dann die Israeliten, dass Gott geredet hat.
@@ -28977,7 +28986,7 @@
 @1. Samuel 4 {
 #1sam-4-1 {
  {
-  Das <i>Wort Samuels</i>, nicht das Wort des HERRN.
+  Das <i>Wort Samuels</i>, nicht das Wort des HERRN (§1sam-3-21)
  }
  {
   Eben-Eser (<span class='hebr'>אֶבֶן  הָעֶזֶר</span>, Strongs 72): Stein der Hilfe. Siehe auch <a href='http://bibel.renenyffenegger.ch/1sam_5.html#v1'>1.&nbsp;Sam&nbsp;5,1</a>
@@ -31457,6 +31466,9 @@
 #}
 #2sam-7-2 {
  {
+  Die Lade Gottes wohnt unter Teppichen. Vgl §2sam-11-11
+ }
+ {
   <i>Teppich</i>: <a class='kom' href='#I4mo-4-25'>4.&nbsp;Mo&nbsp;4,25</a>.
  }
  {
@@ -31760,6 +31772,11 @@
 #2sam-11-6 {
  {
   Beachte: Hier entbietet David <i>Joab</i> in der Angelegenheit seiner Sünde mit Bathseba. In der Sache mit der Zählung Israels und Judas, bei der David auch gesündigt hat (§2sam-24-10), wird ebenfalls Joab angefragt, §2sam-24-1-ff, §1chr-21-1-ff
+ }
+#}
+#2sam-11-11 {
+ {
+  <i>Die Lade … weilt in Hütten</i> vgl §2sam-7-2
  }
 #}
 #2sam-11-21 {
@@ -32819,7 +32836,7 @@
   <i>Abjatar</i> s.a. <a class='kom' href='#I1sam-22-20'>1.&nbsp;Sam&nbsp;22,20</a>, <a class='kom' href='#I1koe-4-4'>1.&nbsp;Kö&nbsp;4,4</a>
  }
  {
-  Dieses <i>Wort des HERRN</i> scheint in <a class='kom' href='#I1sam-3-11'>1.&nbsp;Sam&nbsp;3,11</a> geredet worden zu sein.
+  Dieses <i>Wort des HERRN</i> scheint in §+1sam-3-11 geredet worden zu sein.
  }
 #}
 #1koe-2-32 {
@@ -56151,7 +56168,7 @@
 #}
 #jes-8-15 {
  {
-  <i>straucheln und fallen</i> vgl §ps-27-2, §jes-8-15, §jer-50-32, §roem-11-11 
+  <i>straucheln und fallen</i> vgl §ps-27-2, §jes-8-15, §jer-50-32, §roem-11-11
  }
 #}
 #jes-8-18 {
