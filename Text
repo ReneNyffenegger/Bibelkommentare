@@ -99644,10 +99644,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Paulus-und-Johannes-Kinder
  }
  {
-  <i>in jeder Gemeinde</i>: vgl <a class='kom' href='#I1kor-1-2'>1.&nbsp;Kor&nbsp;1,2</a> («an jedem Ort»).
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/1kor_7.html#v17'>1.&nbsp;Kor&nbsp;7,17</a>,
-  <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v16'>1.&nbsp;Kor&nbsp;11,16</a>,
-  <a href='http://bibel.renenyffenegger.ch/1kor_14.html#v33'>1.&nbsp;Kor&nbsp;14,33</a>.
+  <i>in jeder Gemeinde</i>: vgl §+1kor-1-2 («an jedem Ort»).
+ <br>
+  Vgl auch §1kor-7-17, §1kor-11-16, §1kor-14-33.
  }
  {
   Vgl auch <a class='kom' href='#I1kor-1-1'>1.&nbsp;Kor&nbsp;1,1</a>.
@@ -100060,7 +100059,7 @@
   Vgl <i>berufen zu</i> <a class='kom' href='#Ikol-3-15'>Kol&nbsp;3,15</a>
  }
  {
-  <i>In allen Gemeinden</i>: <a class='kom' href='#I1kor-4-17'>1.&nbsp;Kor&nbsp;4,17</a>.
+  <i>In allen Gemeinden</i>: §+1kor-4-17.
  }
  {
   TODO: Paulus setzt mit <span class='gr'>εἰ μή</span> (Strongs 1508) (wörtl. «wenn nicht», «ausser wenn») neu an.
@@ -101139,9 +101138,8 @@
 #}
 #1kor-14-32 {
  {
-  <i>untertan</i> (<span class='gr'>ὑποτάσσω</span>, Strongs 5293), dasselbe Wort, welches auch mit 'unterordnen'
-  übersetzt wird. Vgl <a class='kom' href='#Iroem-13-1'>Röm&nbsp;13,1</a>. Dasselbe Wort wird in
-  Vers 34 mit «unterordnen» übersetzt.
+  <i>untertan</i> (<span class='gr'>ὑποτάσσω</span>, Strongs 5293): dasselbe Wort wird in §V1kor-14-34 mit «unterwürfig sein» übersetzt.
+  Vgl §+roem-13-1.
  }
  {
   <i>Geister der → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten]</i>: <a class='kom' href='#Ioffb-22-6'>Offb&nbsp;22,6</a>.
@@ -101155,7 +101153,11 @@
   <i>Unordnung</i>: <span class='gr'>ἀκαταστασία</span> (Strongs 181). Dieses Wort wird in §lk-21-9 mit «Empörung», in §2kor-6-5 mit «Aufstand», in §2kor-12-20 auch mit «Unordnung» und §jak-3-16 mit «Zerrüttung» übersetzt.
  }
  {
-  <i>Wie in allen Gemeinden der Heiligen</i>: <a class='kom' href='#I1kor-4-17'>1.&nbsp;Kor&nbsp;4,17</a>.
+  <i>Wie in allen Gemeinden der Heiligen</i>: §+1kor-4-17.
+ }
+ {
+  Beachte: Der Satzteil <i>Wie in allen Gemeinden der Heiligen</i> kann anscheinend auch mit dem nächsten Gedanken verbunden werden, so daß einige Übersetzungen etwa so übersetzen:
+ «Wie in allen Gemeinden der Heiligen, sollen eure Frauen in den Versammlungen schweigen…». S. a. <a href='https://tips.translation.bible/story/translation-commentary-on-1-corinthians-1433/'>diesen Link</a>.
  }
 #}
 #1kor-14-34 {
@@ -101164,7 +101166,10 @@
   <br>TODO: Offenbar steht das Pronomen «Eure» nur im Textus Rezeptus (und Mehrheitstext?), nicht aber im Nestle Aland.
  }
  {
-  <i>Unterordnung</i>: <a class='kom' href='#Iroem-13-1'>Röm&nbsp;13,1</a>, Vers 32.
+  <i>unterwürfig sein</i>: §+roem-13-1, §V1kor-14-32.
+ }
+ {
+  <span class='gt'>Mehrheitstext und TR haben «Eure Frauen». NA lässt «Eure» weg.</span>
  }
 #}
 #1kor-14-35 {
