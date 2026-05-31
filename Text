@@ -10173,6 +10173,9 @@
  {
   <i>Wohnung</i> <span class='he'>נָוֶה</span> (Strongs 5116): vgl <a class='kom' href='#I2mo-15-17'>2.&nbsp;Mo&nbsp;15,17</a>, <a class='kom' href='#I2mo-25-9'>2.&nbsp;Mo&nbsp;25,9</a>.
  }
+ {
+  <i>Das Volk, das du erlöst</i>: §5mo-9-26, §5mo-21-8, §2sam-7-23, §1chr-17-21, §neh-1-10, §ps-77-16, §jes-52-9, §lk-1-68
+ }
 #}
 #2mo-15-14 {
  {
@@ -22152,6 +22155,9 @@
  {
   → biblisches/Bücher/Ketuvim/Psalmen#verdirb-nicht[Verdirb nicht] in den → biblisches/Bücher/Ketuvim/Psalmen.
  }
+ {
+  <i>Volk, das du erlöst hast</i>: §+2mo-15-13, §5mo-21-8
+ }
 #}
 @}
 @5. Mose 10 {
@@ -22999,6 +23005,11 @@
 #5mo-21-6 {
  {
   <i>Hände waschen</i> vgl §+mt-27-24.
+ }
+#}
+#5mo-21-8 {
+ {
+  <i>Volk, das du erlöst hast</i>: §+2mo-15-13, §5mo-9-26
  }
 #}
 #5mo-21-10 {
@@ -31522,6 +31533,11 @@
   der Same könnte sich also auf Jesus beziehen. Vgl auch «ferne Zukunft» in Vers 19.
  }
 #}
+#2sam-7-13 {
+ {
+  §lk-1-32
+ }
+#}
 #2sam-7-14 {
  {
   <i>den Sohn züchtigen</i>: §spr-3-12
@@ -31549,10 +31565,13 @@
 #}
 #2sam-7-23 {
  {
+  TODO: Parallel §1chr-17-21?
+ }
+ {
   <i>einen Namen zu machen</i> vgl §V2sam-7-9
  }
  {
-  TODO: Parallel §1chr-17-21?
+  <i>Volk, das du erlöst hast</i>: §+2mo-15-13
  }
 #}
 #2sam-7-28 {
@@ -39871,6 +39890,9 @@
 #}
 #1chr-17-21 {
  {
+  <i>Volk, das du erlöst hast</i>: §+2mo-15-13
+ }
+ {
   TODO: Parallel: §2sam-7-23?
  }
 #}
@@ -44352,6 +44374,11 @@
 #neh-1-8 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Israel/unter-die-Nationen-verstreut
+ }
+#}
+#neh-1-10 {
+ {
+  <i>Volk, das du erlöst hast</i>: §+2mo-15-13
  }
 #}
 #neh-1-11 {
@@ -49791,6 +49818,11 @@
 #ps-77-13 {
  {
   Vgl §ps-78-11
+ }
+#}
+#ps-77-16 {
+ {
+  <i>Volk, das du erlöst hast</i>: §+2mo-15-13
  }
 #}
 #ps-77-19 {
@@ -58763,6 +58795,11 @@
 #jes-52-7 {
  {
   §roem-10-15.
+ }
+#}
+#jes-52-9 {
+ {
+  <i>erlöstes Jerusalem</i> vgl §+2mo-15-13
  }
 #}
 #jes-52-11 {
@@ -70794,6 +70831,9 @@
  {
   §+mt-4-8
  }
+ {
+  TODO: besser übersetzt mit «Rette uns vor dem Bösen»? Ebenso §lk-11-4
+ }
 #}
 #mt-6-14 {
  {
@@ -79746,10 +79786,13 @@
 #}
 #lk-1-32 {
  {
-  <i>Der Herr wird ihm den Thron seines Vaters David geben</i>: §apg-2-29, vgl §Vlk-1-52
+  <i>Der Herr wird ihm den Thron seines Vaters David geben</i>: §apg-2-30, vgl §Vlk-1-52, §2sam-7-13
  }
 #}
 #lk-1-33 {
+ {
+  <i>In Ewigkeit herrschen</i>: §2sam-7-16
+ }
  {
   <i>in Ewigkeit</i> §Vlk-1-55, §Vlk-1-70
  }
@@ -79859,7 +79902,7 @@
 #}
 #lk-1-68 {
  {
-  <i>Erlösung geschafft hat seinem Volk</i> vgl §mt-1-21, §lk-2-11, §lk-2-38, §joh-1-29, §lk-21-28, §lk-24-21, §ps-111-9
+  <i>Erlösung geschafft hat seinem Volk</i> vgl §mt-1-21, §lk-2-11, §lk-2-38, §joh-1-29, §lk-21-28, §lk-24-21, §ps-111-9, §2mo-15-13
  }
  {
   <i>Sein Volk besuchen</i> vgl §lk-7-16
@@ -79880,7 +79923,7 @@
   <i>Mund der Propheten</i> vgl §apg-3-18, §apg-3-21, §2petr-1-21
  }
  {
-  <i>von alters her</i>: <span class='gr'>απ αιωνος</span>, in §apg-3-21 mit «von jeher» übersetzt.
+  <i>von alters her</i>: <span class='gr'>απ αιωνος</span>, in §apg-3-21 mit «von jeher», in §Vlk-1-33 mit «Ewigkeit» übersetzt.
  <br>KJV übersetzt mit «since the world began».
  }
 #}
@@ -80213,7 +80256,7 @@
 #}
 #lk-2-38 {
  {
-  <i>auf die Erlösung warten</i> vgl §lk-21-28
+  <i>auf die Erlösung warten</i> vgl §lk-21-28, §lk-1-68
  }
 #}
 #lk-2-39 {
@@ -82411,10 +82454,13 @@
   <i>führe uns nicht in Versuchung</i> §+mt-6-13
  }
  {
-   <span class='gt'>In NA fehlt «sondern erlöse uns von dem Bösen!»</span>
+  <span class='gt'>In NA fehlt «sondern erlöse uns von dem Bösen!»</span>
  }
  {
   Beachte: in <a class='kom' href='#Ilk-22-46'>Lk&nbsp;22,46</a> sollen die Jünger auch darum beten, nicht in Versuchung (dort mit «Anfechtung» übersetzt) zu geraten.
+ }
+ {
+  TODO: besser übersetzt mit «Rette uns vor dem Bösen»? Ebenso §mt-6-13
  }
 #}
 #lk-11-9 {
