@@ -10758,7 +10758,10 @@
 #}
 #2mo-19-5 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/index
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Bund
+ }
+ {
+  <i>wenn ihr … auf meine Stimme hören werdet, sollt ihr mein Eigentum sein</i> vgl §jer-11-4
  }
  {
   Welcher <i>Bund</i> ist hier gemeint? TODO: siehe auch <a href='http://bibel.renenyffenegger.ch/2mo_24.html#v7'>2.&nbsp;Mo&nbsp;24,7</a> (Buch des Bundes),
@@ -21793,7 +21796,9 @@
  {
   Dies ist das grösste Gebot, §mt-22-36-39, vgl mit dem «zweiten», §+3mo-19-18, §3mo-19-34
  <br>
-  Vgl auch §5mo-10-12, §5mo-30-16 und mit mit Josuas Rat an die Rubeniter, Gaditer und den halben Stamm Manasse in §jos-22-5.
+  Denen, die Gott lieben und seine Gebote halten, bewahrt er den Bund aufrecht, §5mo-7-9
+ <br>
+  Vgl mit §5mo-10-12, §5mo-30-16 und mit mit Josuas Rat an die Rubeniter, Gaditer und den halben Stamm Manasse in §jos-22-5.
  <br>
   Vgl auch mit der Versuchung durch Propheten, §5mo-13-2-4
  }
@@ -21934,12 +21939,13 @@
 #}
 #5mo-7-9 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben: §+5mo-6-5
  }
  {
   <i>die ihn lieben</i>: §+2mo-20-6.
   <br>
-   <i>Den Bund und die Güte … denen bewahren, die ihn lieben und seine Gebote halten</i>: §neh-1-5, §dan-9-4
+  <i>
+   Den Bund und die Güte … denen bewahren, die ihn lieben und seine Gebote halten</i>: §neh-1-5, §dan-9-4
  }
  {
   <i>tausend Geschlechter</i> §1chr-16-15
@@ -23452,6 +23458,11 @@
  }
  {
   <i>Schatz, der Himmel</i> vgl §+mt-19-21, §5mo-33-19
+ }
+#}
+#5mo-28-15 {
+ {
+  <i>Wenn du nicht gehorchst, so werden …</i> vgl §dan-9-11
  }
 #}
 #5mo-28-17 {
@@ -43437,6 +43448,8 @@
  }
  {
   Das <i>Wort</i> aus dem Mund → biblisches/Personen/Jeremia[Jeremias], vgl §dan-9-2. Beachte, daß Jeremia hier nicht → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Prophet] genannt wird.
+ <br>
+  Möglicherweise bezieht sich dieses Wort auf die Prophetien in §jer-25-11-ff und §jer-29-10.
  }
  {
   <i>erfüllt</i> (Strongs 3615) u.a. auch mit 'vollenden': <a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>.
@@ -43453,9 +43466,8 @@
   <i>Kyrus, beauftragt, das Haus Gottes zu bauen</i> vgl §+jes-44-28, §esr-5-13, §esr-6-3, → biblisches/Texte/Gott-wohnt-unter-seinem-Volk
  }
  {
-  <i>Gott des Himmels</i>: <a class='kom' href='#I1mo-24-3'>1.&nbsp;Mo&nbsp;24,3</a>.
+  <i>Gott des Himmels</i>: §+1mo-24-3.
   <br>Beachte das häufige Vorkommen dieses Ausdruckes im Buch Esra, Nehemia und Daniel.
-  <br>Das Haus des Gotts des Himmels soll in Jerusalem gebaut werden: 
  }
  {
   <i>Alle Königreiche der Erde hat der HERR mir gegeben</i>: §+dan-2-37.
@@ -60294,6 +60306,9 @@
 #}
 #jer-11-4 {
  {
+  <i>Wich ich geboten habe … hört auf meine Stimme …</i> §2mo-19-5.
+ }
+ {
   <i>Aus dem eisernen Schmelzofen, aus Ägpypten heraufgeführt</i> Vgl §5mo-4-20.
  }
  {
@@ -60950,7 +60965,7 @@
  {
   <i>70 Jahre</i>: §+2chr-36-21.
  <br>
-  in §+dan-9-2 sind diese 70 Jahre wohl vorbei.
+  in §+dan-9-2 sind diese 70 Jahre wohl vorbei, vgl §esr-1-1.
  }
  {
   TODO: Angeblich hat → biblisches/Chronologie/Quellen/1894-Anderson_The-Coming-Prince#prophetische-jahre[Robert Anderson] nachgewiesen, dass es sich bei den 70 Jahren von §jer-25-11 um Jahre von 360 Tagen handle.
@@ -61284,10 +61299,10 @@
 #}
 #jer-29-10 {
  {
-   <i>70 Jahre</i>: §jer-25-11, vgl §+2chr-36-21
+  <i>70 Jahre</i>: §jer-25-11, vgl §+2chr-36-21
  }
  {
-  TODO: <i>70 Jahre</i>: §+dan-9-2.
+  TODO: <i>70 Jahre</i>: §+dan-9-2. Vgl §esr-1-1
  }
 #}
 #jer-29-13 {
@@ -66221,6 +66236,11 @@
   Vgl mit <a class='kom' href='#I2chr-29-25'>2.&nbsp;Chr&nbsp;29,25</a>.
  }
 #}
+#dan-9-11 {
+ {
+  Vgl §5mo-28-15-ff
+ }
+#}
 #dan-9-13 {
  {
   <i>Einsicht erlangen</i>: vgl mit den vier Jünglingen, die Einsicht erlangt hatten, §dan-1-17
@@ -66309,7 +66329,7 @@
  }
  {
   Beachte auch, dass das Ereignis des → biblisches/Bücher/Daniel/70-Wochen#daniel-70-wochen-ende[Endes der hier beschriebenen Periode]
-  (z. B. Geburt des Messias oder erstes öffentliches Auftreten etc.) icht näher definiert wird.
+  (z. B. Geburt des Messias oder erstes öffentliches Auftreten etc.) nicht näher definiert wird.
  }
  {
   <i>Erlass</i> (<span class='hebr'>דָּבָר</span>, Strongs 1697) eigentlich: «Wort».
@@ -66356,9 +66376,12 @@
   <i>fester Bund</i> §neh-10-1
  }
  {
-  <i>Bund schließen</i>: KJV übersetzt mit «confirm the covenant».
-   Das entsprechende Verb in der → biblisches/Grundtext/LXX ist <span class='gr'>δυναμόω</span> (Strongs 1412), in
-   §gal-3-15 ist das griechische Wort für «bestätigen» <span class='gr'>κεκυρωμενην</span> (Strongs 2964)
+  <i>Bund schließen</i>: <span class='hebr'>וְהִגְבִּ֥יר בְּרִ֛ית</span>. Das Verb steht im Hifil von <span class='hebr'>גָּבַר</span> (etwa stärken, überhandnehmen).
+  Es wird unterschiedlich übersetzt: Luther 2017 - «Den Bund schwermachen», Elberfelder/Zürcher - «Einen Bund stark machen», KJV -  «confirm the covenant».
+<br>
+   Das entsprechende Verb in der → biblisches/Grundtext/LXX ist <span class='gr'>δυναμόω</span> (Strongs 1412)
+  <br>
+  In §gal-3-15 ist das griechische Wort für «bestätigen» <span class='gr'>κεκυρωμενην</span> (Strongs 2964)
   <br>
   Vgl §Vdan-9-4
  }
@@ -79657,6 +79680,11 @@
   Das Lukasevangelium beginnt damit, daß Zacharias in den Tempel geht und endet damit, daß die Jünger allezeit im Tempel sind, §lk-24-53
  }
 #}
+#lk-1-10 {
+ {
+  <i>Stunde des Räucherns</i>: <span class='gr'>ωρα του θυμιαματος</span>. Vgl §offb-5-8
+ }
+#}
 #lk-1-11 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Altar#raeucheraltar, → biblisches/Eigene-Uebersetzung/Konkordanz/Engel/Herrn
@@ -79871,10 +79899,13 @@
 #}
 #lk-1-55 {
  {
-   → biblisches/Personen/Abraham/Same
+  → biblisches/Personen/Abraham/Same
  }
  {
   Vgl §hebr-2-16, §Vlk-1-73
+ }
+ {
+  <i>wie er zu unseren Vätern geredet hat</i> vgl §Vlk-1-70
  }
 #}
 #lk-1-57 {
@@ -79921,6 +79952,8 @@
 #lk-1-70 {
  {
   <i>Mund der Propheten</i> vgl §apg-3-18, §apg-3-21, §2petr-1-21
+ <br>
+  <i>wie er geredet hat</i> vgl §Vlk-1-55
  }
  {
   <i>von alters her</i>: <span class='gr'>απ αιωνος</span>, in §apg-3-21 mit «von jeher», in §Vlk-1-33 mit «Ewigkeit» übersetzt.
@@ -89397,6 +89430,9 @@
 #}
 #apg-1-3 {
  {
+  Beachte, daß die Apostelgeschichte mit <i>Dingen, die das Reich Gottes betreffen</i> beginnt und mit dem «Predigen des Reiches Gottes und Dingen, die den Herrn Jesus Christus betreffen» aufhört, §apg-28-31. Vgl §apg-19-8
+ }
+ {
   <i>sichere Kennzeichen</i>: vgl §apg-17-31 («Beweis»).
  }
 #}
@@ -94209,6 +94245,9 @@
   Vgl §+apg-17-2, §apg-20-3
  }
  {
+  <i>Dinge des Reiches Gottes</i>: §+apg-1-3
+ }
+ {
   Beachte, dass er in der Schule Lehrgespräche führte, in der → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge aber «nur» Gespräche.
  }
  {
@@ -95873,6 +95912,9 @@
 #apg-28-31 {
  {
   <i>Das Reich Gottes → biblisches/Eigene-Uebersetzung/Konkordanz/predigen</i>: §+apg-20-25.
+ }
+ {
+  §+apg-1-3
  }
  {
   TODO: Weil die Apostelgeschichte abrupt und ohne «Amen» aufhört, nehmen einige an, dass sie nicht fertiggestellt wurde oder das die folgende Teile verlorengingen.
@@ -118174,7 +118216,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>goldene Schalen voll Räucherwerk</i>: §4mo-7-86
  }
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, als Gebet vgl §spr-27-9
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk, als Gebet vgl §spr-27-9.
+ <br>
+  S. a. §lk-1-10
  }
  {
   Vgl §+2chr-30-27.
