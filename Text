@@ -7320,7 +7320,7 @@
 #}
 #1mo-41-46 {
  {
-  Joseph ist 30 Jahre alt, als er vor dem Pharao stand. Jesus (wie man meinte ein Sohn Josephs) war 30 Jahre alt, als er begann (<a href='http://bibel.renenyffenegger.ch/lk_3.html#v23'>Lk&nbsp;3,23</a>).
+  Joseph ist 30 Jahre alt, als er vor dem Pharao stand. Jesus (wie man meinte ein Sohn Josephs) war 30 Jahre alt, als er Seinen Dienst begann (§lk-3-23).
  }
 #}
 #1mo-41-51 {
@@ -17554,7 +17554,7 @@
   die Söhne Kahats, Gersons und Meraris allerdings erst 30 jährig (vgl §V4mo-4-23, §V4mo-4-30).
  }
  {
-  Dienst ab dreißig Jahren: vgl §1chr-23-3
+  Dienst ab dreißig Jahren: vgl §1chr-23-3, §hes-1-1, §lk-3-23
  }
 #}
 #4mo-4-4 {
@@ -31289,6 +31289,11 @@
   <br>TODO: Weideplätze in <a href='http://bibel.renenyffenegger.ch/jos_21.html#v2'>Jos 21,2 ff</a>.
  }
 #}
+#2sam-5-3 {
+ {
+  Die Parallelstelle §1chr-11-3 erwähnt zusätzlich, dass die Salbung «nach dem Wort Jehovas durch Samuel» erfolgt ist.
+ }
+#}
 #2sam-5-6 {
  {
   §1chr-11-4
@@ -36993,7 +36998,7 @@
   §2chr-36-1-2
  }
  {
-  Jojakim ist offenbar vor Joahas geboren worden und hatte eine andere Mutter, vgl Vers 36.
+  Jojakim ist anscheinend vor Joahas geboren worden und hatte eine andere Mutter, §V2koe-23-36.
  }
  {
   → biblisches/Personen/Hamutal
@@ -37034,7 +37039,10 @@
 #}
 #2koe-23-36 {
  {
-   → biblisches/Personen/Eljakim-Jojakim
+  §2chr-36-5
+ }
+ {
+  → biblisches/Personen/Eljakim-Jojakim
  }
  {
   TODO: Im dritten Jahr Jojakims kommt Nebukadnezar nach Jerusalem und belagert es. Er führt einen Teil der Geräte
@@ -37158,7 +37166,7 @@
 #}
 #2koe-24-14 {
  {
-  Unter den <i>Weggeführten</i> war auch Hesekiel (<a href='http://bibel.renenyffenegger.ch/hes_1.html#v1'>Hes&nbsp;1,1</a>).
+  Unter den <i>Weggeführten</i> war (vermutlich) auch Hesekiel (§hes-1-1-2) und Mordekai (§est-2-5-6).
  }
 #}
 #2koe-24-15 {
@@ -37277,6 +37285,11 @@
   Vgl 7. Tag des 5. Monats des 19. Jahres Nebukadnezars mit dem 10.5. des 19. Jahres Nebukadnezars in <a href='http://bibel.renenyffenegger.ch/jer_52.html#v12'>Jer&nbsp;52,12</a>.
  }
 #}
+#2koe-25-9 {
+ {
+  §2chr-36-19, §jer-52-13
+ }
+#}
 #2koe-25-12 {
  {
   §jer-52-16
@@ -37334,10 +37347,10 @@
   → biblisches/Personen/Jekonja-Jojakin
  }
  {
-  TODO: Jojachin war wohl bei der Freilassung 55 Jahre alt (<a class='kom' href='#I2koe-24-8'>2.&nbsp;Kö&nbsp;24,8</a>).
+  Beachte: Der Schluss der 2. Könige ist in etwa der Schluss des → biblisches/Bücher/prophetisch/Jeremia[Buches Jeremias], §jer-52-31-ff.
  }
  {
-  TODO: Beachte: Der Schluss der 2. Könige ist in etwa der Schluss Jeremias (<a href='http://bibel.renenyffenegger.ch/jer_52.html#v31'>Jer&nbsp;52,31</a>).
+  TODO: Jojachin war wohl bei der Freilassung 55 Jahre alt (<a class='kom' href='#I2koe-24-8'>2.&nbsp;Kö&nbsp;24,8</a>).
  }
  {
   Ein früherer König Babels hiess <i>Merodach-Baladan</i>: <a class='kom' href='#I2koe-20-12'>2.&nbsp;Kö&nbsp;20,12</a>.
@@ -39276,7 +39289,10 @@
 #}
 #1chr-11-3 {
  {
-  <i>Salbung Davids</i> vgl §1sam-16-13
+  <i>Salbung Davids</i> vgl §2sam-5-3, §1sam-16-13
+ }
+ {
+  <i>Nach dem Wort Jehovas durch Samuel</i> wird in der Parallelstelle §2sam-5-3 nicht erwähnt.
  }
 #}
 #1chr-11-4 {
@@ -43321,7 +43337,7 @@
 #}
 #2chr-36-5 {
  {
-  TODO Ist §2koe-24-8 die Parallelstelle
+  §2koe-23-36
  }
 #}
 #2chr-36-6 {
@@ -43385,7 +43401,7 @@
 #}
 #2chr-36-12 {
  {
-  → biblisches/Personen/Jeremia, der→ biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Prophet], vgl §jer-1-5
+  → biblisches/Personen/Jeremia, der → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Prophet], vgl §jer-1-5
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
@@ -43412,6 +43428,11 @@
 #2chr-36-18 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Schatz#schaetze-des-hauses-des-herrn
+ }
+#}
+#2chr-36-19 {
+ {
+  §2koe-25-9, §jer-52-13
  }
 #}
 #2chr-36-21 {
@@ -56513,7 +56534,7 @@
   <i>Wolf und Lamm</i>: vgl §jes-65-25.
  }
  {
-  TOOD: Mastvieh oder calf?
+  TODO: Mastvieh oder calf?
  }
 #}
 #jes-11-9 {
@@ -59805,7 +59826,7 @@
   <i>Seele</i>: Sch2K übersetzt mit «Kehle».
  }
  {
-  TOOD: Bezieht sich «Frieden haben» auf §jer-3-14-ff
+  TODO: Bezieht sich «Frieden haben» auf §jer-3-14-ff
  }
 #}
 #jer-4-11 {
@@ -62938,6 +62959,9 @@
  {
   Vgl <a class='kom' href='#I2koe-25-1'>2.&nbsp;Kö&nbsp;25,1</a>.
  }
+ {
+  <i>Belagerungstürme</i>: §hes-4-2
+ }
 #}
 #jer-52-6 {
  {
@@ -62955,6 +62979,9 @@
  }
 #}
 #jer-52-13 {
+ {
+  §2koe-25-9, §2chr-36-19
+ }
  {
   §jer-32-29
  }
@@ -63011,7 +63038,7 @@
   → biblisches/Personen/Jekonja-Jojakin
  }
  {
-  TODO: Beachte: Der Schluss Jeremias ist in etwa der Schluss der 2. Könige (<a href='http://bibel.renenyffenegger.ch/2koe_25.html#v27'>2.&nbsp;Kö&nbsp;25,27</a>).
+  Beachte: Der Schluss des Buches → biblisches/Bücher/prophetisch/Jeremia[Jeremias] ist in etwa der Schluss der 2. Könige, §2koe-25-27-ff.
  }
  {
   TODO: §+jer-21-9
@@ -63166,6 +63193,9 @@
  }
  {
   Die Zahlen dieser Datierung ergeben addiert 49 (30 + 4 + 5 + 5 + 5), vgl §hes-40-1
+ }
+ {
+  Mit dem 30. Jahr ist möglicherweise das Alter von Hesekiel gemeint. Das würde bedeuten, daß er jetzt fähig wäre, den Priesterdienst auszuüben, wenn er im Tempel ware, §4mo-4-3.
  }
 #}
 #hes-1-2 {
@@ -63371,6 +63401,11 @@
 #}
 @}
 @Hesekiel 4 {
+#hes-4-2 {
+ {
+  <i>Belagerungstürme</i>, <i>Wall aufschütten</i>: §hes-17-17, §hes-21-27, §hes-26-8, §jer-52-4
+ }
+#}
 #hes-4-4 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gerechtigkeit/Ungerechtigkeit-tragen vgl §V2mo-28-43
@@ -63882,6 +63917,14 @@
   <i>Mächtigen</i>: <span class='hebr'>אַיִל</span> (Strongs 352), dasselbe Wort wie für Widder, vgl
   §2mo-15-15, §2koe-24-15
  }
+ {
+  <i>Königlicher Same</i>: §+dan-1-3
+ }
+#}
+#hes-17-17 {
+ {
+  <i>Belagerungstürme</i>, <i>Wall aufschütten</i>: §+hes-4-2
+ }
 #}
 #hes-17-23 {
  {
@@ -64019,6 +64062,11 @@
 #hes-21-24 {
  {
   <i>Schwert des Königs von Babel</i>: <a href='http://bibel.renenyffenegger.ch/hes_32.html#v11'>Hes&nbsp;32,11</a>.
+ }
+#}
+#hes-21-27 {
+ {
+  <i>Belagerungstürme</i>, <i>Wall aufschütten</i>: §+hes-4-2
  }
 #}
 #hes-21-32 {
@@ -64179,6 +64227,11 @@
 #hes-26-7 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/König/der-Könige
+ }
+#}
+#hes-26-8 {
+ {
+  <i>Belagerungstürme</i>, <i>Wall aufschütten</i>: §+hes-4-2
  }
 #}
 #hes-26-14 {
@@ -65195,6 +65248,9 @@
 #dan-1-3 {
  {
   <i>Aspenaz</i> (<span class='hebr'>אַשְׁפְּנַז</span>, Strongs 828): 1x.
+ }
+ {
+  <i>Königlicher Same</i>: §hes-17-13. vgl §1koe-11-14, §2koe-11-1
  }
 #}
 #dan-1-4 {
@@ -80568,7 +80624,7 @@
   Jesus, der adoptierte Sohn von Joseph, vgl <a class='kom' href='#I1mo-9-25'>1.&nbsp;Mo&nbsp;9,25</a>.
  }
  {
-  Siehe <a class='kom' href='#I1mo-41-46'>1.&nbsp;Mo&nbsp;41,46</a>.
+  Mit 30 Jahren kann ein Priester seinen Dienst beginnen. S. a. §+1mo-41-46.
  }
  {
   <span class='u'>Lukas zählt hier 77 Generationen auf. Offenbar sagt Enoch 10:4-6/11-12, dass in der 70. Generation nach Enoch das Gericht kommt.</span>
@@ -85678,10 +85734,8 @@
 #}
 #joh-2-19 {
  {
-  vgl <a href='http://bibel.renenyffenegger.ch/mt_26.html#v61'>Mt&nbsp;26,61</a>,
-  <a href='http://bibel.renenyffenegger.ch/mt_27.html#v40'>Mt&nbsp;27,40</a>,
-  <a class='kom' href='#Imk-14-58'>Mk&nbsp;14,58</a>,
-  <a href='http://bibel.renenyffenegger.ch/mk_15.html#v29'>Mk&nbsp;15,29</a>
+  Jesus sagt, daß Er den Tempel wieder aufrichten werde, wenn «sie» ihn abbrechen würden, er wird aber später zitiert, als hätte er gesagt, daß Er ihn abbrechen würde: §mt-26-61, §mt-27-40, §mk-15-29. In §mk-14-58
+  wird zusätzlich erwähnt, daß der Tempel mit Händen gemacht wurde.
  }
 #}
 #joh-2-20 {
@@ -120620,8 +120674,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>sich verwundern/ich verwunderte mich</i>: <a class='kom' href='#Ioffb-13-3'>Offb&nbsp;13,3</a>.
  }
  {
-  TOOD: Wenn Johannes hier den Antichrist sähe, würde er sich wohl nicht verwundern, denn er ist es ja, der vor dem Antichrist gewarnt hatte.
-  Vermutlich verwundert sich die Frau deshalb, weil die Frau die grosse Stadt ist (§Voffb-17-18) und die grosse Stadt wohl Jerusalem ist.
+  TODO: Wenn Johannes hier den Antichrist sähe, würde er sich wohl nicht verwundern, denn er ist es ja, der vor dem Antichrist gewarnt hatte.
+  Vermutlich verwundert er sich deshalb, weil die Frau die grosse Stadt ist (§Voffb-17-18) und die grosse Stadt wohl Jerusalem ist.
   Beachte aber auch, dass in §offb-18-10 Babylon die «grosse Stadt» genannt wird.
  }
 #}
