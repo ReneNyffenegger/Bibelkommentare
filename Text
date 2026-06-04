@@ -1134,9 +1134,9 @@
 #}
 #1mo-4-4 {
  {
-   'Durch Glauben brachte Abel Gott ein besseres Opfer dar als
-   Kain; durch ihn erhielt er das Zeugnis, daß er gerecht sei,
-   indem Gott über seine Gaben Zeugnis ablegte.' (<a href='http://bibel.renenyffenegger.ch/hebr_11.html#v4'>Hebr&nbsp;11,4</a>).
+  «Durch Glauben brachte Abel Gott ein besseres Opfer dar als Kain; durch ihn erhielt er das Zeugnis, daß er gerecht sei, indem Gott über seine Gaben Zeugnis ablegte.» (§hebr-11-4).
+ <br>
+  Beachte, daß Jehova nicht nur die Opfergabe sondern auch auf Abel und Kain schaut.
  }
 #}
 #1mo-4-7 {
@@ -7091,6 +7091,9 @@
        <td><a href='http://bibel.renenyffenegger.ch/1mo_40.html#v2'>1.&nbsp;Mo&nbsp;40,2</a></td>
      </tr>
   </table>
+ }
+ {
+  Vgl diesen Obersten der Leibwache mit → biblisches/Personen/Nebusaradan, dem Obersten der Leibwache von Nebukadnezar.
  }
 #}
 #1mo-39-4 {
@@ -20367,7 +20370,7 @@
  {
   <i>Nebo</i>: TODO: vgl mit Namen, die mit Nebo/Nebu beginnen (<a class='kom' href='#Ijeer-39-3'>Jeer&nbsp;39,3</a>,
     Nebukadnezar: <a class='kom' href='#I2koe-24-1'>2.&nbsp;Kö&nbsp;24,1</a>,
-    Nebusaradan: <a class='kom' href='#I2koe-25-8'>2.&nbsp;Kö&nbsp;25,8</a>,
+    → biblisches/Personen/Nebusaradan: <a class='kom' href='#I2koe-25-8'>2.&nbsp;Kö&nbsp;25,8</a>,
     Nebuschasban: <a class='kom' href='#Ijer-39-13'>Jer&nbsp;39,13</a>.
  }
  {
@@ -23561,6 +23564,11 @@
 #5mo-28-50 {
  {
   <i>eine Nation harten Angesichts</i> vgl §hes-3-8
+ }
+#}
+#5mo-28-57 {
+ {
+  <i>Belagerung</i>: §+2koe-24-10
  }
 #}
 #5mo-28-58 {
@@ -37142,6 +37150,11 @@
   <i>Jechonja/Jojachin</i> wird in §1chr-3-17 «der Gefangene» genannt.
  }
 #}
+#2koe-24-10 {
+ {
+  <i>Belagerung</i> §2koe-25-2, vgl §5mo-28-53
+ }
+#}
 #2koe-24-12 {
  {
   Das erste Regierungsjahr Nebukadnezars fällt in die Regierungszeit Jojakim/Eljakims.
@@ -37253,6 +37266,11 @@
   Sie bauten eine <i>Verschanzung … ringsumher</i> vgl §lk-19-43
  }
 #}
+#2koe-25-2 {
+ {
+  <i>Belagerung</i> §2koe-24-10
+ }
+#}
 #2koe-25-3 {
  {
   Einige Übersetzungen haben hier «Am Neunten des vierten Monats», obwohl «vierten» im Hebräischen Grundtext nicht vorkommt. Angeblich hat die Peschitta hier sogar «Am Neunten des fünften Monats».
@@ -37279,7 +37297,7 @@
 #}
 #2koe-25-8 {
  {
-  <i>Nebusaradan</i>: <span class='hebr'>נְבוּזַרְאֲדָן</span> (Strongs 5018) bedeutet offenbar 'Nebo hat Samen gegeben'. Siehe auch <a class='kom' href='#I4mo-32-3'>4.&nbsp;Mo&nbsp;32,3</a>.
+  → biblisches/Personen/Nebusaradan
  }
  {
   Vgl 7. Tag des 5. Monats des 19. Jahres Nebukadnezars mit dem 10.5. des 19. Jahres Nebukadnezars in <a href='http://bibel.renenyffenegger.ch/jer_52.html#v12'>Jer&nbsp;52,12</a>.
@@ -61563,7 +61581,7 @@
   <i>Gefängnishof</i>: §+neh-3-25.
  }
  {
-  <i>Jeremia eingesperrt</i> vgl §jer-37-4
+  → biblisches/Personen/Jeremia#jeremia-gefaengnis[Jeremia eingesperrt] vgl §jer-37-4, §jer-39-14
  }
  {
   TODO: <a class='kom' href='#Ijer-20-4'>Jer&nbsp;20,4</a>.
@@ -61588,12 +61606,12 @@
 #}
 #jer-32-5 {
  {
-  <i>er wird Zedekia nach Babel führen, und daselbst wird er sein, bis ich mich seiner annehme</i> vgl §jer-32-5 «In Frieden wirst du sterben».
+  <i>er wird Zedekia nach Babel führen, und daselbst wird er sein, bis ich mich seiner annehme</i> vgl §jer-34-5 «In Frieden wirst du sterben».
  }
 #}
 #jer-32-7 {
  {
-         <object data="svg_alle_kapitel/jer_32_7.svg" type="image/svg+xml" width='140' height='110'></object>
+  <object data="svg_alle_kapitel/jer_32_7.svg" type="image/svg+xml" width='140' height='110'></object>
  }
  {
   TODO: <i>Feld in Anatot</i>: <a class='kom' href='#I1koe-2-26'>1.&nbsp;Kö&nbsp;2,26</a>.
@@ -61982,7 +62000,7 @@
 #}
 #jer-37-4 {
  {
-  <i>Jeremia noch nicht im Gefängis</i> vgl §jer-32-2
+  → biblisches/Personen/Jeremia#jeremia-gefaengnis[Jeremia noch nicht im Gefängis] vgl §jer-32-2, §jer-39-14
  }
 #}
 #jer-37-5 {
@@ -62036,6 +62054,9 @@
 #}
 #jer-38-6 {
  {
+  → biblisches/Personen/Jeremia#jeremia-gefaengnis[Jeremia eingesperrt]
+ }
+ {
   <i>Königssohn</i>: <a class='kom' href='#Ijer-36-26'>Jer&nbsp;36,26</a>.
  }
  {
@@ -62044,7 +62065,10 @@
 #}
 #jer-38-7 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Tor#tore-jerusalems
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tor#tore-jerusalems
+ }
+ {
+  <i>Ebedmelech</i> §jer-39-16
  }
 #}
 @}
@@ -62091,6 +62115,11 @@
   TODO: Die Mauern Jerusalems werden auch in §jer-52-14 niedergerissen
  }
 #}
+#jer-39-9 {
+ {
+  → biblisches/Personen/Nebusaradan
+ }
+#}
 #jer-39-10 {
  {
   <i>Zurückgebliebene Geringe des Landes</i>: vgl
@@ -62104,8 +62133,18 @@
   <i>Nebuschasban</i> <span class='hebr'>נְבוּשַׁזְבָּן</span> (Strongs 5021) bedeutet offenbar 'Nebo delivers me'. Siehe auch <a class='kom' href='#I4mo-32-3'>4.&nbsp;Mo&nbsp;32,3</a>.
  }
 #}
+#jer-39-16 {
+ {
+  <i>Ebedmelech</i> §jer-38-7
+ }
+#}
 @}
 @Jeremia 40 {
+#jer-40-1 {
+ {
+  → biblisches/Personen/Nebusaradan
+ }
+#}
 #jer-40-7 {
  {
   <i>Zurückgebliebene Geringe des Landes</i>: <a class='kom' href='#Ijer-39-10'>Jer&nbsp;39,10</a>.
@@ -62152,6 +62191,11 @@
    TODO Zisterne: <a class='kom' href='#I1koe-15-9'>1.&nbsp;Kö&nbsp;15,9</a>.
  }
 #}
+#jer-41-10 {
+ {
+  → biblisches/Personen/Nebusaradan
+ }
+#}
 #jer-41-12 {
  {
   Das <i>grosse Wasser von Gibeon</i>: <a class='kom' href='#I2sam-2-13'>2.&nbsp;Sam&nbsp;2,13</a>.
@@ -62194,6 +62238,9 @@
  }
 #}
 #jer-43-6 {
+ {
+  → biblisches/Personen/Nebusaradan
+ }
  {
   <i>Baruch</i>: <a class='kom' href='#Ijer-32-12'>Jer&nbsp;32,12</a>.
  }
@@ -62974,6 +63021,9 @@
  }
 #}
 #jer-52-12 {
+ {
+  → biblisches/Personen/Nebusaradan
+ }
  {
   10. Tag vs 7. Tag des 5. Monats des 19. Jahres Nebukadnezars (<a class='kom' href='#I2koe-25-8'>2.&nbsp;Kö&nbsp;25,8</a>).
  }
@@ -65397,6 +65447,11 @@
  {
   <i>wurden getötet</i>: Die Form des aramäischen Zeitwortes deutet an, daß die Tötung eben erst begann.
   In §Vdan-2-24 bittet Daniel Arioch, die Weisen von Babel nicht zu töten.
+ }
+#}
+#dan-2-14 {
+ {
+  Möglicherweise ist Arioch der Hebräische Name von → biblisches/Personen/Nebusaradan, der Oberste der Leibwache Nebukadnezars.
  }
 #}
 #dan-2-18 {
