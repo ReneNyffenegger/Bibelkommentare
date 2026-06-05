@@ -29660,6 +29660,8 @@
   Saul regierte zwei Jahre über Israel, vgl §apg-13-21.
  <br>
   Auch Sauls Sohn, Isboseth, regierte 2 Jahre, §2sam-2-10.
+ <br>
+  Beachte, daß Gott den Israeliten Saul 40 Jahre lang gab, §apg-13-21.
  }
  {
   <i>Saul war … Jahre alt</i>: Mit dem Ende dieses Verses ist (ohne das Alter!) das 4444. Wort in 1. Samuel erreicht.
@@ -31107,7 +31109,10 @@
 #}
 #2sam-2-10 {
  {
-  Auch Saul, regierte 2 Jahre, §1sam-13-1.
+  Saul regierte auch 2 Jahre, §1sam-13-1.
+ }
+ {
+  Isboseth wurde in §1sam-14-49 nicht, wohl aber in §1chr-8-33 und §1chr-9-39, als Sohn von Saul aufgezählt.
  }
 #}
 #2sam-2-13 {
@@ -36162,6 +36167,9 @@
  }
 #}
 #2koe-17-24 {
+ {
+  Dieser König von Assyrien (Salmaneser?) wird wohl in §esr-4-10 Osnappar genannt.
+ }
  {
   TODO Hat <i>Sepharwajim</i> etwas mit 'Sephar' aus <a href='http://bibel.renenyffenegger.ch/1mo_10.html#v30'>1.&nbsp;Mo&nbsp;10,30</a>
   oder 'Sepharad' in <a href='http://bibel.renenyffenegger.ch/ob_1.html#v20'>Ob&nbsp;1,20</a> zu tun?
@@ -43463,6 +43471,9 @@
 #}
 #2chr-36-22 {
  {
+  → biblisches/Personen/Kyrus
+ }
+ {
   Beachte: Daniel blieb bis zum ersten Jahr des Kyrus (<a href='http://bibel.renenyffenegger.ch/dan_1.html#v21'>Dan&nbsp;1,21</a>).
  }
  {
@@ -43495,7 +43506,7 @@
   S. a.  Vgl §+2chr-36-22.
  }
  {
-  → biblisches/Personen/Esra
+  → biblisches/Personen/Esra, → biblisches/Personen/Kyrus
  }
  {
   Das <i>Wort</i> aus dem Mund → biblisches/Personen/Jeremia[Jeremias], vgl §dan-9-2. Beachte, daß Jeremia hier nicht → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Prophet] genannt wird.
@@ -43540,6 +43551,9 @@
 #esr-1-8 {
  {
   <i>Mitredat</i>: §+esr-4-7
+ }
+ {
+  <i>Sesbazar</i> wird als Landpfleger eingesetzt werden: §esr-5-14
  }
 #}
 #esr-1-9 {
@@ -43587,6 +43601,9 @@
  }
  {
   <i>Zahl der Männer</i> (LXX: <span class='gr'>ἀνδρῶν ἀριθμὸς</span>) vgl §offb-13-18
+ }
+ {
+  → biblisches/Personen/Nehemia
  }
 #}
 #esr-2-4 {
@@ -43814,6 +43831,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Torhüter
  }
+ {
+  <i>Ganz Israel wohnte in seinen Städten</i> vgl §neh-11-1
+ }
 #}
 @}
 @Esra 3 {
@@ -43851,11 +43871,8 @@
 #}
 #esr-3-4 {
  {
-  Beachte: Auch in Nehemia wird ein → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten gefeiert. Und zwar so, wie es seit der Zeit → biblisches/Personen/Josua nicht mehr gemacht worden
-  war (§neh-8-16-17). Sie fanden die Anweisung erst dort im → biblisches/Eigene-Uebersetzung/Konkordanz/Gesetz (§neh-8-14), vgl → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia.
- }
- {
-  <i>wie es vorgeschrieben ist/nach der Vorschrift</i>: Wo sind diese Vorschriften? 
+  Dieses → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten kann so gefeiert werden, <i>wie es vorgeschrieben ist</i>, weil sie die Bestimmungen darüber im Gesetz fanden, §neh-8-14-ff,
+  vgl → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia.
  }
 #}
 #esr-3-5 {
@@ -43873,9 +43890,6 @@
 #}
 #esr-3-8 {
  {
-  Beachte: «Die Hände Serubbabels haben dieses Haus gegründet, seine Hände sollen es auch vollenden» (§sach-4-9).
- }
- {
   Aufsicht ab 20 Jahren: §+1chr-23-24
  }
 #}
@@ -43890,6 +43904,11 @@
 #esr-3-10 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel, → biblisches/Eigene-Uebersetzung/Konkordanz/Trompete
+ }
+ {
+  Der Grund des Tempels wurde von Sesbazar, dem damaligen Landpfleger, gelegt, §esr-5-16.
+ <br>
+  Vgl §sach-4-9: «Die Hände Serubbabels haben dieses Haus gegründet, seine Hände sollen es auch vollenden»
  }
 #}
 #esr-3-11 {
@@ -43917,6 +43936,11 @@
 #esr-4-2 {
  {
   <i>Asar-Haddon</i>: <a class='kom' href='#I2koe-19-37'>2.&nbsp;Kö&nbsp;19,37</a>.
+ }
+#}
+#esr-4-3 {
+ {
+  <i>Es geziemt euch nicht, mit uns unserem Gott ein Haus zu bauen</I> vgl §sach-6-15
  }
 #}
 #esr-4-5 {
@@ -43968,10 +43992,18 @@
  {
   <i>diesseits</i> und <i>jenseits</i> wurden aus demselben hebräischen Wort übersetzt. Sch2K übersetzt in beiden Versen mit «jenseits», KJV mit «on this side».
  }
+ {
+  <i>Osnappar</i> ist möglicherweise Salmaneser (oder ein anderer assyrischer König), vgl §2koe-17-24.
+ }
 #}
 #esr-4-11 {
  {
   <i>Abschrift des Briefes</i> vgl §esr-5-6
+ }
+#}
+#esr-4-12 {
+ {
+  <i>Sie bauen die Stadt wieder auf</i> vgl §dan-9-25
  }
 #}
 #esr-4-13 {
@@ -43980,12 +44012,17 @@
    <a class='kom' href='#Ineh-5-4'>Neh&nbsp;5,4</a>.
  }
  {
-  <i>Steuern, Zoll und Weggeld</i>: §esr-4-20, §esr-6-8, §esr-7-24, §neh-5-4
+  <i>Steuern, Zoll und Weggeld</i>: §esr-4-20, §esr-6-8, §esr-7-24, §neh-5-4. Vgl auch §mt-22-17-ff
  }
 #}
 #esr-4-15 {
  {
   <i>Buch der Denkwürdigkeiten</i> (<span class='hebr'>סְפַר־דָּכְרָ֨נַיָּ֜א</span>): vgl §esr-6-2
+ }
+#}
+#esr-4-18 {
+ {
+  Ab hier bis §Vesr-6-18 ist der Text → biblisches/Grundtext/aramäisch[aramäisch]. Ebenso ab §esr-7-12
  }
 #}
 #esr-4-20 {
@@ -44005,11 +44042,11 @@
  {
   Im <i>zweiten Jahr der Regierung des Königs Darius</i> geschah das Wort des Herrn and Haggai oder Sacharja, oder das Jahr wird mit einem Ereignis erwähnt:
   <ul>
-     <li>Am 1. Tag des sechsten Monats, §hag-1-1
-     <li>Am 24. Tag des sechsten Monats, §hag-1-15
-     <li>Im achten Monat, §sach-1-1
-     <li>Am 24. Tag des neunten Monats, §hag-2-10
-     <li>Am 24. Tag des elften Monats, §sach-1-7
+     <li>Am 1. Tag des 6. Monats: Das Volk spricht, die Zeit ist nicht gekommen, das Haus zu bauen, §hag-1-1
+     <li>Am 24. Tag des 6. Monats: Der Geist Serubbabels und Josuas wird erweckt, §hag-1-13-15
+     <li>Im 8. Monat: Der HERR ist erzürnt gewesen über eure Väter, seid nicht so, wie sie, §sach-1-1
+     <li>Am 24. Tag des 9. Monats: §hag-2-10
+     <li>Am 24. Tag des 11. Monats: Nachtgesicht, §sach-1-7
   </ul>
  }
 #}
@@ -44048,12 +44085,18 @@
 #}
 #esr-5-13 {
  {
+  → biblisches/Personen/Kyrus
+ }
+ {
   §+esr-1-2
  }
 #}
 #esr-5-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
+ }
+ {
+  <i>Sesbazar</i> wird in §esr-1-8 der «Fürst Judas» genannt.
  }
  {
   Vgl §2chr-36-7, §dan-5-2-ff
@@ -44076,7 +44119,7 @@
 #}
 #esr-6-3 {
  {
-  Der Befehl von Kores: §esr-1-1-2.
+  Der Befehl von → biblisches/Personen/Kyrus: §esr-1-1-2.
  }
 #}
 #esr-6-4 {
@@ -44182,7 +44225,7 @@
   → biblisches/Personen/Artasasta, → biblisches/Eigene-Uebersetzung/Konkordanz/König/der-Könige
  }
  {
-  Ab hier bis <a href='http://bibel.renenyffenegger.ch/esr_7.html#v26'>Vers 26</a> ist der Text → biblisches/Grundtext/aramäisch[aramäisch].
+  Ab hier bis §Vesr-7-6 ist der Text → biblisches/Grundtext/aramäisch[aramäisch]. Ebenso ab §esr-4-18.
  }
  {
   Beachte, dass hier Das Gesetz jenes 'des Gottes des Himmels' gennant wird, nicht das 'Gesetz Moses'.
@@ -44464,6 +44507,9 @@
 #}
 #neh-2-6 {
  {
+  <i>Wann wirst du zurückkehren</i>: §neh-13-6
+ }
+ {
   <i>Königin</i> (<span class='hebr'>שֵׁגָל</span>, Strongs 7694) §+1koe-11-19
  <br>
   Einige Ausleger gehen davon aus, dass diese Königin Esther ist.
@@ -44549,6 +44595,11 @@
  {
   <i>Altes Tor</i>: §neh-12-39.
   <br>Gäbelein vermutet, das dies das Ecktor (§2chr-25-23) ist.
+ }
+#}
+#neh-3-7 {
+ {
+  Beachte, daß → biblisches/Personen/Nehemia zu jener Zeit selbst <i>Landpfleger</i> war, §neh-5-14
  }
 #}
 #neh-3-8 {
@@ -44784,7 +44835,7 @@
 #}
 #neh-5-19 {
  {
-  <i>Gedenke mir, mein Gott, zum Guten</i>: so hört das Buch Nehemia auf: §neh-13-31
+  <i>Gedenke mir, mein Gott, zum Guten</i>: so hört das Buch Nehemia auf: §neh-13-31. Vgl §neh-6-14
  }
 #}
 @}
@@ -44830,6 +44881,9 @@
 #neh-6-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
+ }
+ {
+  <i>Gedenke es, mein Gott …</i> vgl §+neh-5-19
  }
 #}
 #neh-6-15 {
@@ -45087,7 +45141,7 @@
 @Nehemia 8 {
 #neh-8-1 {
  {
-  Nachdem im letzten Kapitel die Anzahl der ganzen Versammlung genannt wurde (§neh-7-66) stehen sie nun da <i>wie ein Mann</i>. Vgl §esr-3-1
+  Nachdem im letzten Kapitel die Anzahl der Männer und Söhne ganzen Versammlung genannt wurde (§neh-7-66) stehen sie nun da <i>wie ein Mann</i>. Vgl §esr-3-1
  }
  {
   Beachte: Esra ist erst hinaufgezogen, nachdem das Haus bereits fertiggestellt war (<a href='http://bibel.renenyffenegger.ch/esr_7.html#v1'>Esr 7,1 ff</a>).
@@ -45113,6 +45167,11 @@
   Vgl §+5mo-31-11
  }
 #}
+#neh-8-3 {
+ {
+  <i>Lesen des Gesetzes</i> vgl §neh-13-1
+ }
+#}
 #neh-8-6 {
  {
   <i>Und Esra pries den HERRN</i>: das ist die Motivation von Esra, wenn er das Buch vor den Augen des ganzen Volkes öffnet (§Vneh-8-5). Dass das ganze Volk mit «Amen, Amen» antwortet,
@@ -45133,7 +45192,9 @@
 #}
 #neh-8-9 {
  {
-   → biblisches/Personen/Nehemia/index wird in §neh-10-1 ebenfalls »Tirsatha«, aber in §neh-12-26 »Landpfleger« genannt.
+  → biblisches/Personen/Nehemia wird in §neh-10-1 ebenfalls «Tirsatha», aber in §neh-12-26 »Landpfleger« genannt.
+ <br>
+  Offenbar zieht Nehemia wieder von Jerusalem weg. Im 20. ahr Artasastas kommt er bis zum 32. Jahr nach zurück, um Jerusalem aufzubaen, §neh-2-11-ff, §neh-13-6
  }
 #}
 #neh-8-10 {
@@ -45143,7 +45204,7 @@
 #}
 #neh-8-14 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten: vgl §+esr-3-4.
+  Dieses → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Laubhütten wird auch in §+esr-3-4 beschrieben, vgl → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia.
  }
 #}
 #neh-8-15 {
@@ -45168,8 +45229,6 @@
   <br>
    Beachte: Das Volk hätte ja auch auf das Feiern des Festes verzichten können unter dem Vorwand und der Begründung, dass es eigentlich in der Geschichte Israels bis auf die Ausnahme von
    der Zeit von → biblisches/Personen/Josua/Nun auch nicht gefeiert worden ist.
-  <br>
-   Beachte allerdings auch, dass bereits unter Esra ein Laubhüttenfest gefeiert wurde §esr-3-4, vgl → biblisches/Bücher/geschichtlich/Esra/Chronologie-Esra-Nehemia.
   <br>
    Vgl auch mit dem Fest von Salomo, das auf die Zeit des Laubhüttenfestes fiel (§+2chr-5-3 bis §2chr-7-10).
  }
@@ -45409,7 +45468,7 @@
 @Nehemia 10 {
 #neh-10-1 {
  {
-  → biblisches/Personen/Nehemia/index: vgl §+neh-8-9 und §neh-12-26.
+  → biblisches/Personen/Nehemia: vgl §+neh-8-9 und §neh-12-26.
  }
  {
   Die <i>Obersten</i> werden in §Vneh-10-15 «Häupter des Volkes genannt». Priester: Verse 2-9, Leviten: Verste 10-14.
@@ -45536,6 +45595,9 @@
 #neh-11-1 {
  {
   Nach schliessen des «festen Bundes» (§neh-10-1, §neh-10-29-ff) wird nun Jerusalem zum ersten Mal in diesem Buch die → biblisches/Orte/Jerusalem#heilige-stadt genannt. Vgl §Vneh-11-18.
+ }
+ {
+  <i>Die Obersten des Volkes wohnten in Jerusalem…</i> vgl §esr-2-70
  }
 #}
 #neh-11-3 {
@@ -45780,6 +45842,9 @@
 @Nehemia 13 {
 #neh-13-1 {
  {
+  <i>Das Buch Mose wurde gelesen</i> vgl §neh-8-1-ff
+ }
+ {
   §5mo-23-4-5
  }
 #}
@@ -45791,6 +45856,9 @@
 #neh-13-6 {
  {
   → biblisches/Personen/Artasasta
+ }
+ {
+   <i>war ich zum König zurückgekommen</i> vgl §neh-2-6
  }
  {
   §neh-5-14
@@ -58422,7 +58490,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
-  <i>Kyrus</i>: Betreffend des Befehles, dass Jerusalem wieder gebaut werde, siehe §jes-45-13, §+esr-1-2, §2chr-36-23, → biblisches/Bücher/Daniel/70-Wochen
+  → biblisches/Personen/Kyrus: Betreffend des Befehles, dass Jerusalem wieder gebaut werde, siehe §jes-45-13, §+esr-1-2, §2chr-36-23, → biblisches/Bücher/Daniel/70-Wochen
  }
  {
   → Geschichte/Personen/Herodot berichtet (Histories, op. cit. I, 110), dass Kyros II. (?) in seinen ersten 10 Lebensjahren als Hirte erzogen worden war.
@@ -58430,9 +58498,14 @@
 #}
 @}
 @Jesaja 45 {
+#jes-45-1 {
+ {
+  → biblisches/Personen/Kyrus
+ }
+#}
 #jes-45-2 {
  {
-  <i>Hügeliges, das eben werden soll</i>: <a class='kom' href='#Ijes-40-4'>Jes&nbsp;40,4</a>.
+  <i>Ich werde … das Höckerige eben mache</i>: §+jes-40-4, §mt-3-3
  }
 #}
 #jes-45-3 {
@@ -65551,6 +65624,11 @@
    TODO: Menschenkinder wäre evtl. besser mit »Söhne der Menschen« (oder »Söhne des Menschen«) übersetzt worden, vgl §dan-5-21
  }
 #}
+#dan-2-39 {
+ {
+  Vom zweiten Königreich wird hier nicht gesagt, daß es aus Silber ist.
+ }
+#}
 #dan-2-40 {
  {
   Mit dem vierten Königreich wird u. a. <i>Eisen</i> und <i>zermalmen</i> assoziert. Vgl §dan-7-7
@@ -66448,6 +66526,8 @@
 #}
 #dan-9-25 {
  {
+  <i>Jerusalem wiederherstellen</i>: §esr-4-12
+ <br>
   Beachte: Jerusalem wird wieder aufgebaut - und das Volk des kommenden Fürsten wird die Stadt <i>und das Heiligtum</i> wieder zerstören (§Vdan-9-26).
  }
  {
@@ -69031,17 +69111,19 @@
  {
   <i>Serubbabel</i>: <a class='kom' href='#Iesr-2-2'>Esr&nbsp;2,2</a>. Vgl <a href='http://bibel.renenyffenegger.ch/hag_2.html#v23'>Hag&nbsp;2,23</a>.
  }
+ {
+  <i>Wer bist du, großer Berg</i>. Vgl §mt-21-21
+ }
 #}
 #sach-4-9 {
  {
-  <i>Die Hände Serubbabels haben dieses Haus gegründet</i> §esr-3-8
+  <i>Die Hände Serubbabels haben dieses Haus gegründet</i> §esr-3-10
+ <br>
+  <i>Seine Hände werden es vollenden</i>: §sach-6-15.
  }
  {
   TODO: Ist zur Zeit dieses Ausspruches das Haus schon vollendet, oder bereits gegründet? Vgl <a class='kom' href='#Iesr-3-8'>Esr&nbsp;3,8</a>.
   <br><i>Serubbabel</i>: <a class='kom' href='#Iesr-2-2'>Esr&nbsp;2,2</a>.
- }
- {
-         Vgl <a href='http://bibel.renenyffenegger.ch/sach_6.html#v15'>Sach&nbsp;6,15</a>.
  }
 #}
 #sach-4-10 {
@@ -69150,7 +69232,7 @@
 #}
 #sach-6-15 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/sach_4.html#v9'>Sach&nbsp;4,9</a>.
+  <i>Entfernte werden kommen und am Tempel Jehovas bauen</i> Vgl §sach-4-9, §esr-4-21
  }
 #}
 @}
@@ -70083,7 +70165,7 @@
 #}
 #mt-3-3 {
  {
-  <a class='kom' href='#Ijes-40-3'>Jes&nbsp;40,3</a>.
+  §+jes-40-3, §jes-45-2
  }
  {
   <i>Stimme</i>: §+mt-2-18, §Vmt-3-17
@@ -70322,12 +70404,15 @@
  {
   <i>Jesus auf einem Berg</i>: <ul>
     <li>Hier: Der Teufel führt Jesus auf einen hohen Berg.
-    <li><a href='http://bibel.renenyffenegger.ch/mt_5.html#v1'>Mt&nbsp;5,1</a>: Auf einen hohen Berg
-    <li><a href='http://bibel.renenyffenegger.ch/mt_14.html#v23'>Mt&nbsp;14,23</a>: auf einen Berg, um zu beten.
-    <li><a href='http://bibel.renenyffenegger.ch/mt_15.html#v29'>Mt&nbsp;15,29</a>: auf einen Berg, wo er Lahme, Blinde etc heilte
+    <li>§mt-5-1: Auf einen hohen Berg
+    <li>§mt-14-23: auf einen Berg, um zu beten.
+    <li>§mt-15-29: auf einen Berg, wo er Lahme, Blinde etc heilte
     <li>§mt-17-1: auf einen hohen Berg mit Petrus, Jakobus und Johannes
-    <li><a href='http://bibel.renenyffenegger.ch/mt_28.html#v16'>Mt&nbsp;28,16</a>: die 11 Jünger auf den Berg, wohin Jesus sie bestellt hat.
+    <li>§mt-28-16: die 11 Jünger auf den Berg, wohin Jesus sie bestellt hat.
   </ul>
+ }
+ {
+  
   TODO: Vgl auch <a href='http://bibel.renenyffenegger.ch/mt_5.html#v14'>Mt&nbsp;5,14</a>, <a href='http://bibel.renenyffenegger.ch/mt_17.html#v20'>Mt&nbsp;17,20</a>,
   <a href='http://bibel.renenyffenegger.ch/mt_18.html#v12'>Mt&nbsp;18,12</a>, <a href='http://bibel.renenyffenegger.ch/mt_24.html#v16'>Mt&nbsp;24,16</a>
  }
@@ -73825,9 +73910,9 @@
 #mt-17-25 {
  {
   <i>Steuer</i>: <span class='gr'>κῆνσος</span> (Strongs 2778) kommt noch vor in
-  <a href='http://bibel.renenyffenegger.ch/mt_22.html#v17'>Mt 22,17/19</a>,
-  <a href='http://bibel.renenyffenegger.ch/mk_12.html#v14'>Mk&nbsp;12,14</a>.
-  Vgl mit <a class='kom' href='#Ilk-20-22'>Lk&nbsp;20,22</a>.
+  §mt-22-17-19, §mk-12-14.
+ <br>
+  Vgl mit §+lk-20-22.
  }
 #}
 #mt-17-27 {
@@ -74429,7 +74514,7 @@
  {
   <i>Berg ins Meer werfen</i> vgl §mk-11-23, §+offb-8-8, vgl auch §mt-17-20, §lk-17-6
  <br>
-  Vgl auch §ps-46-3
+  Vgl auch §ps-46-3, §sach-4-7
  }
 #}
 #mt-21-23 {
@@ -74608,6 +74693,13 @@
 #mt-22-16 {
  {
   <i>Lehrer, wir wissen</i>: §joh-3-2
+ }
+#}
+#mt-22-17 {
+ {
+   Beim Wiederaufbau Jerusalems wurde damit gedroht, daß die Steuer nicht mehr an die Könige bezahlt würde, §esr-4-12-13
+  <br>
+   Vgl §mt-17-25
  }
 #}
 #mt-22-18 {
@@ -80415,6 +80507,9 @@
  {
   84 = 12 * 7
  }
+ {
+  Beachte, daß am Tempel 46 Jahre gebaut wurde, §joh-2-20
+ }
 #}
 #lk-2-38 {
  {
@@ -85794,6 +85889,9 @@
  }
 #}
 #joh-2-20 {
+ {
+  Vgl mit der 84 jährigen Anna, die nicht vom Tempel wich, §lk-2-37.
+ }
  {
   Einige Ausleger berechnen das Jahr 28 für → biblisches/Chronologie/Jesus-Christus/Dienst#tempel-46[das 46. Jahr des Tempels]. 
  }
@@ -108339,6 +108437,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <br>
    This «thing» that hindered was no doubt the Roman Empire (or the angelic personality ruling that Empire).
  }
+ {
+  TODO: Angeblich bedeutet → biblisches/Personen/Darius der <i>Zurückhalter</i>.
+ }
 #}
 #2thes-2-7 {
  {
@@ -120779,7 +120880,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-17-10 {
  {
-  <i>fünf gefallenen Könige</i> wird von einigen Auslegern auf Ägypten, Assyrien, Babel, Medo-Persion, Griechenland gedetuet. Der sechste wäre dann Rom.
+  <i>fünf gefallenen Könige</i> wird von einigen Auslegern auf Ägypten, Assyrien, Babel, Medo-Persien, Griechenland gedeutet. Der sechste wäre dann Rom.
  <br>
   Andere zählen mit den Königen die Kaiser ab Julius Cäsar, mit dem das «Eiserne Weltreich» begonnen habe. Der sechste ist Nero. Diese Auffassung legt eine
   → biblisches/Bücher/prophetisch/Offenbarung#offb-gruende-fruehdatierung[Frühdatierung der Abfassung der Offenbarung nahe].
