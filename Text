@@ -4635,6 +4635,11 @@
   <span class='hebr'><span class='grey'>הָֽ</span>עַלְמָה֙</span> (Strong's 5959)
  }
 #}
+#1mo-24-21 {
+ {
+  <i>Glück</i>: evtl. Besser mit «Gelingen» übersetzt. Ebenso §V1mo-24-21, 22 und 56. Vgl §1mo-39-3.
+ }
+#}
 #1mo-24-22 {
  {
   <i>ein halber Sekel</i> <span class='hebr'>בֶּקַע מִשְׁקָלֹו</span>, vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Masseinheiten#beka, §2mo-38-26
@@ -4676,6 +4681,11 @@
 #1mo-24-45 {
  {
   Luther 1912: 'Da legte ich einen Reif an ihre <b>Stirn</b>'. TODO: Offenbar bedeutet das Hebräische Wort (Strongs 639) Gesicht.
+ }
+#}
+#1mo-24-48 {
+ {
+  <i>rechter Weg</i>: <span class='hebr'>דֶ֣רֶךְ אֱמֶ֔ת</span>: w. <i>Weg der Wahrheit</i>. LXX: <span class='gr'>οδώ αληθείας</span>. vgl §2petr-2-2
  }
 #}
 #1mo-24-49 {
@@ -7094,6 +7104,11 @@
  }
  {
   Vgl diesen Obersten der Leibwache mit → biblisches/Personen/Nebusaradan, dem Obersten der Leibwache von Nebukadnezar.
+ }
+#}
+#1mo-39-2 {
+ {
+  <i>Ein Mann, dem alles gelang</i>: §V1mo-39-23
  }
 #}
 #1mo-39-4 {
@@ -23628,8 +23643,6 @@
   §roem-11-8
  }
  {
- }
- {
   Vgl §mt-13-15-ff
  <br>
   <i>Ohren, die (nicht) hören</i>: vgl §+2mo-24-7.
@@ -36657,14 +36670,16 @@
   Allerdings scheint §2chr-32-25-26 anzudeuten, dass er sich gedemütigt hat.
  }
  {
-  <i>Friede und Sicherheit</i>: <a href='http://bibel.renenyffenegger.ch/jes_32.html#v17'>Jes&nbsp;32,17</a>
-  (<a href='http://bibel.renenyffenegger.ch/jes_39.html#v8'>Jes&nbsp;39,8</a>),
-  §+1thes-5-3
+  <i>Friede und Bestand</i>: <span class='hebr'>שָׁל֥וֹם וֶאֱמֶ֖ת</span> (w. «Friede und Wahrheit»), in Sch2K mit «Friede und Sicherheit», in KJV mit «peace and truth» übersetzt. Vgl §est-9-30.
+ <br>
+  LXX: <span class='gr'>ειρήνη και δικαιοσύνη</span> (Strongs 1515, 1342).
+ <br>
+  Vgl §jes-32-17 (§jes-39-8), §+1thes-5-3
  }
 #}
 #2koe-20-20 {
  {
-   Vgl → biblisches/Personen/Hiskia#hiskia-tunnel, → Geschichte/Israel/Personen/Archibald-Sayce
+  Vgl → biblisches/Personen/Hiskia#hiskia-tunnel, → Geschichte/Israel/Personen/Archibald-Sayce
  }
 #}
 @}
@@ -44068,6 +44083,11 @@
    → biblisches/Personen/Schealtiel
  }
 #}
+#esr-5-5 {
+ {
+  TODO: <i>Sache</i>: <span class='hebr'>טַעְמָ֖</span> (Strongs 2941). Dieses Wort wird in anderen Versen im Zusammenhang «Befehl» übersetzt, z. B. §esr-4-1. Vgl §Vesr-5-3
+ }
+#}
 #esr-5-6 {
  {
   <i>Abschrift des Briefes</i> vgl §esr-4-11
@@ -44172,6 +44192,9 @@
  }
  {
   → biblisches/Personen/Artasasta
+ }
+ {
+  Einige Ausleger argumentieren, daß dieser Vers mit einem <i>waw explicativum</i> gelesen werde müsse, etwa: «… nach dem Befehl Kores' und Darius', <i>das ist</i> Artasastas, des Königs von Persien».
  }
 #}
 #esr-6-15 {
@@ -46161,7 +46184,7 @@
 #}
 #est-9-30 {
  {
-  <i>Worte des Friedens und der Wahrheit</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Wahrheit
+  <i>Worte des Friedens und der Wahrheit</i>: <span class='hebr'>דִּבְרֵ֥י שָׁל֖וֹם וֶאֱמֶֽת</span>: Vgl §2koe-20-19, → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Wahrheit
  }
 #}
 @}
@@ -57616,21 +57639,27 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Geist/ausgiessen
  }
  {
-  <i>Der HERR hat einen Geist tiefen SChlafes über euch ausgegossen</i> vgl §+1mo-2-21
+  <i>Der HERR hat einen Geist tiefen Schlafes über euch ausgegossen</i> vgl §+1mo-2-21
  }
 #}
 #jes-29-11 {
  {
+  Beachte: das Buch kann man nicht lesen, aber die Tauben hören das Wort des Buches, §Vjes-29-18.
+ }
+ {
+  Vgl §dan-9-24
+ }
+ {
   TODO: Vgl das <i>versiegelte Buch</i> mit <a href='http://bibel.renenyffenegger.ch/offb_5.html#v5'>Offb&nbsp;5,5</a>. Beachte auch, dass
   es der <i>Löwe aus dem Stamm Juda</i> öffnen kann und dass hier im Vers 1 das Wort 'Ariel' vorkommt, welches offenbar
   'Löwe Gottes' heisst.
-  <br>Beachte: das Buch kann man nicht lesen, aber die Tauben hören das Wort des Buches!
  }
 #}
 #jes-29-13 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/mt_15.html#v8'>Mt&nbsp;15,8</a> und <a href='http://bibel.renenyffenegger.ch/mk_7.html#v6'>Mk&nbsp;7,6</a>.
-  <br>Vgl auch <a class='kom' href='#Ijer-12-2'>Jer&nbsp;12,2</a>.
+  Vgl §mt-15-8 und §mk-7-6.
+ <br>
+  Vgl auch §+jer-12-2.
  }
  {
   Das Volk naht sich mit seinem Mund, befragt aber den Mund des Herrn nicht, §jes-30-2
@@ -57645,6 +57674,11 @@
  {
   TODO: Ist dieses <i>wundersame</i> Handeln Gottes mit dem die <i>Weisheit seiner Weisen</i> zunichte gemacht werden sollte, die Weisheit,
   die Paulus in <a href='http://bibel.renenyffenegger.ch/roem_11.html#v33'>Röm&nbsp;11,33</a> beschreibt?
+ }
+#}
+#jes-29-16 {
+ {
+  §+roem-9-21
  }
 #}
 #jes-29-18 {
@@ -58518,7 +58552,7 @@
 #}
 #jes-45-9 {
  {
-  vgl <a class='kom' href='#Iroem-9-21'>Röm&nbsp;9,21</a>.
+  vgl §+roem-9-21.
  }
 #}
 #jes-45-12 {
@@ -59198,6 +59232,9 @@
  {
   <i>Grundmauern</i>: <a class='kom' href='#I2sam-22-8'>2.&nbsp;Sam&nbsp;22,8</a>.
  }
+ {
+  <i>Uralte Trümmer aufbauen</i>: §jes-61-4
+ }
 #}
 #jes-58-13 {
  {
@@ -59379,12 +59416,17 @@
   (<a class='kom' href='#I1mo-12-6'>1.&nbsp;Mo&nbsp;12,6</a>, <a class='kom' href='#I1mo-35-4'>1.&nbsp;Mo&nbsp;35,4</a>).
  }
 #}
+#jes-61-4 {
+ {
+  <i>Uralte Trümmer aufbauen</i>: §jes-58-12
+ }
+#}
 #jes-61-6 {
  {
   <i>Reichtum der Nationen</i>: <a class='kom' href='#Ijes-60-5'>Jes&nbsp;60,5</a>.
  }
  {
-  <i>Ihr werdet Priester des HERRN heissen</i>, vgl <a class='kom' href='#I2mo-19-6'>2.&nbsp;Mo&nbsp;19,6</a>.
+  <i>Ihr werdet Priester des HERRN heissen</i>, vgl §+2mo-19-6.
  }
 #}
 #jes-61-8 {
@@ -60727,6 +60769,11 @@
   Vgl das <i>Haus des Töpfers</i> mit dem «Scherbentor» in §jer-19-2.
  }
 #}
+#jer-18-6 {
+ {
+  Vgl §jer-18-2-ff, §+roem-9-21
+ }
+#}
 #jer-18-11 {
  {
   Hier: <i>die Männer Judas und die Einwohner Jerusalems</i>, in <a href='http://bibel.renenyffenegger.ch/jer_19.html#v3'>Jer&nbsp;19,3</a>
@@ -60776,6 +60823,11 @@
  <br>
   → Geschichte/Israel/Personen/Flavius-Josephus[Josephus] berichtet in → Geschichte/Israel/Quellen/Geschichte-des-jüdischen-Krieges von <i>Maria von Bethesob</i>, die ihr Kind in der Jerusalemer Belagerung
   gegessen hat <a href="https://de.wikisource.org/wiki/Seite:JosephusBellumGermanKohout.djvu/463">Buch VI, 201 ff</a>
+ }
+#}
+#jer-19-11 {
+ {
+  Vgl §jer-18-2-ff, §+roem-9-21,
  }
 #}
 #jer-19-13 {
@@ -61096,6 +61148,9 @@
  }
 #}
 #jer-25-12 {
+ {
+  <i>Wenn siebzig Jahre voll sind</i>: §jer-29-10
+ }
  {
   TODO <i>ewige Wüste</i>: <a href='http://bibel.renenyffenegger.ch/jer_49.html#v33'>Jer&nbsp;49,33</a>,
   <a href='http://bibel.renenyffenegger.ch/jer_51.html#v26'>Jer&nbsp;51,26</a>,
@@ -61423,10 +61478,10 @@
 #}
 #jer-29-10 {
  {
-  <i>70 Jahre</i>: §jer-25-11, vgl §+2chr-36-21
+  <i>70 Jahre</i>: §jer-25-11, vgl §+2chr-36-21, §+dan-9-2
  }
  {
-  TODO: <i>70 Jahre</i>: §+dan-9-2. Vgl §esr-1-1
+  TODO: <i>70 Jahre</i>: §esr-1-1
  }
 #}
 #jer-29-13 {
@@ -62746,14 +62801,16 @@
 #}
 #jer-49-36 {
  {
-  §apg-2-9.
- }
- {
+  <i>Elam nach allen vier Winden zerstreuen</i> vgl §dan-11-4
+ <br>
   Beachte: hier werden die Elamiter in die vier Himmelsrichtungen verstreut, in §mt-24-31, §mk-13-27 werden die Auserwählten von den vier Winden her wieder versammelt.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde,
   → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde#daniel-in-elam
+ }
+ {
+  §apg-2-9.
  }
 #}
 #jer-49-37 {
@@ -63863,11 +63920,11 @@
 @Hesekiel 13 {
 #hes-13-5 {
  {
-   <i>Risse</i> (<span class='hebr'>בַּפְּרָצ֔וֹת</span>, [abgeleitet von ?] Strongs 6556), vgl mit <a class='kom' href='#Iam-4-3'>Am&nbsp;4,3</a>,
-   <a class='kom' href='#Ijes-21-28'>Jes&nbsp;21,28</a>, <a class='kom' href='#I1koe-11-27'>1.&nbsp;Kö&nbsp;11,27</a>.
+  <i>Risse</i> (<span class='hebr'>בַּפְּרָצ֔וֹת</span>, [abgeleitet von ?] Strongs 6556), vgl mit <a class='kom' href='#Iam-4-3'>Am&nbsp;4,3</a>,
+  <a class='kom' href='#Ijes-21-28'>Jes&nbsp;21,28</a>, <a class='kom' href='#I1koe-11-27'>1.&nbsp;Kö&nbsp;11,27</a>.
  }
  {
-  Vgl auch §hes-22-30
+  <i>Die Mauer habt ihr nicht vermauert</i> vgl §hes-22-30
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
@@ -63876,6 +63933,11 @@
 #hes-13-7 {
  {
   <i>Gesicht</i>: <a class='kom' href='#I1mo-15-1'>1.&nbsp;Mo&nbsp;15,1</a>.
+ }
+#}
+#hes-13-10 {
+ {
+  <i>Friede! obwohl kein Friede da ist</i> vgl §1thes-5-3
  }
 #}
 #hes-13-15 {
@@ -64239,7 +64301,7 @@
 #}
 #hes-22-30 {
  {
-  Vgl §hes-13-5
+  <i>Ich suchte einen Mann, der die Mauer zumauert</i> vgl §hes-13-5
  }
 #}
 @}
@@ -65631,6 +65693,9 @@
 #}
 #dan-2-40 {
  {
+  Beachte, daß das ewige Königreich alle vier Königreiche <i>zermalmen</i> wird, §Vdan-2-44
+ }
+ {
   Mit dem vierten Königreich wird u. a. <i>Eisen</i> und <i>zermalmen</i> assoziert. Vgl §dan-7-7
  }
 #}
@@ -65652,7 +65717,7 @@
 #}
 #dan-2-44 {
  {
-  <i>ein Königreich, welches ewiglich nicht zerstört werden wird</i> §dan-7-14
+  <i>ein Königreich, welches ewiglich nicht zerstört werden wird</i>: §dan-6-27, §dan-7-14
  }
 #}
 #dan-2-45 {
@@ -65984,6 +66049,9 @@
 #}
 #dan-6-27 {
  {
+  <i>Sein Reich wird nie zerstört werden</i>: §dan-2-44
+ }
+ {
   Vgl <a href='http://bibel.renenyffenegger.ch/dan_3.html#v28'>Dan 3,28 ff</a>.
  }
 #}
@@ -66309,6 +66377,9 @@
  {
   <i>Gelingen haben</i> vgl §dan-11-36
  }
+ {
+  <i>Frevel</i>: <span class='hebr'>פֶּשַׁע</span> (Strongs 6588), in §dan-9-24 mit «Übertretung» übersetzt.
+ }
 #}
 #dan-8-13 {
  {
@@ -66406,15 +66477,18 @@
   Das Wort des → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] → biblisches/Personen/Jeremia vgl §esr-1-1
  }
  {
-  TODO: In §jer-25-11-12 wird eine 70 jährige Herrschaft des Königs von Babel angekündigt. Mit
-  Darius (Vers 1) ist diese vorbei. Möglicherweise fragt sich Daniel hier, ob diese 70 Jahre wirklich schon vorbei sind, und was jetzt passieren soll.
-  <br>TODO: Vielleicht weiss aber Daniel auch nicht, wann die 70 Jahre von §jer-29-10 begonnen haben.
- }
- {
   <i>Wort Jehovas</i>: Vgl mit dem »ausgegangenen Wort« in §Vdan-9-23 und dem »Ausgehen des Wortes« in §Vdan-9-25.
  }
  {
+  <i>Verwüstung</i>: <span class='hebr'>חׇרְבָּה</span> (Strongs 2723). Dieses Wort wird übersetzt mit «zur Öde machen» in §3mo-26-31, mit «Trümmer» in §esr-9-9 und §jes-44-26
+ }
+ {
   Dieses 9. Kapitel ist das einzige Kapitel im Buch Daniel, in dem der Name des HERRN, Jehova, vorkommt.
+ }
+ {
+  TODO: In §jer-25-11-12 wird eine 70 jährige Herrschaft des Königs von Babel angekündigt. Mit
+  Darius (Vers 1) ist diese vorbei. Möglicherweise fragt sich Daniel hier, ob diese 70 Jahre wirklich schon vorbei sind, und was jetzt passieren soll.
+  <br>TODO: Vielleicht weiss aber Daniel auch nicht, wann die 70 Jahre von §jer-29-10 begonnen haben.
  }
 #}
 #dan-9-4 {
@@ -66493,6 +66567,10 @@
 #}
 #dan-9-24 {
  {
+  → biblisches/Bücher/Daniel/70-Wochen[70 Wochen]: <span class='hebr'>שָׁבֻעִים שִׁבְעִים</span>. Angeblich ist die hier verwendete männliche Mehrzahlform ein Hinweis darauf, dass es sich bei den »siebnern« um Jahre handelt (Jahre ist offenbar
+  auch männlich).
+ }
+ {
   Das Wort für Woche im Hebräischen ist <span class='hebr'>שָׁבֻעִ֨ים</span>, welches unter anderem
   auch in <a href='http://bibel.renenyffenegger.ch/1mo_29.html#v27'>1. Mo 29,27/28</a> oder
   <a href='http://bibel.renenyffenegger.ch/3mo_12.html#v5'>3.&nbsp;Mo&nbsp;12,5</a> vorkommt.
@@ -66502,19 +66580,21 @@
   <a class='kom' href='#I3mo-12-5'>3.&nbsp;Mo&nbsp;12,5</a>.
  }
  {
-  <i>versiegeln</i> §dan-12-4
+  <i>Übertretung</i>: §dan-8-12
  }
  {
   <i>um den Sünden ein Ende zu machen</i>: angeblich ist das Verb dasselbe, welches später im Vers mit «versiegeln» übersetzt wird.
  }
  {
+  <i>Missetat</i>: Elberfelder übersetzt mit «Ungerechtigkeit». Vgl §Vdan-9-13 und 16.
+ }
+ {
+  <i>Gesicht und Prophet versiegeln</i> kann möglicherweise auch so verstanden werden, daß die Weissagungen nicht zugänglich sind, vgl §dan-12-4, §jes-29-11-12
+ }
+ {
   <i>Gesicht</i> (<span class='hebr'>חָזוֹן</span>, Strongs 2377), <i>Propeht</i> (<span class='hebr'>נָבִיא</span>,  Strongs 5030), vgl §+ps-89-20.
  <br>
   Elberfelder übersetzt «Prophet» in der Mehrzahl, Sch2K mit mit «Weissagung», KJV mit «prophecy».
- }
- {
-  → biblisches/Bücher/Daniel/70-Wochen[70 Wochen]: <span class='hebr'>שָׁבֻעִים שִׁבְעִים</span>. Angeblich ist die hier verwendete männliche Mehrzahlform ein Hinweis darauf, dass es sich bei den »siebnern« um Jahre handelt (Jahre ist offenbar
-  auch männlich).
  }
  {
   → biblisches/Orte/Jerusalem#heilige-stadt
@@ -66587,6 +66667,10 @@
   In §gal-3-15 ist das griechische Wort für «bestätigen» <span class='gr'>κεκυρωμενην</span> (Strongs 2964)
   <br>
   Vgl §Vdan-9-4
+ }
+ {
+  <i>für eine Woche</i>: Möglicherweise sollte «für» weggelassen werden: «Und er wird einen festen Bund mit den Vielen schließen eine Woche» (also daß der Bund während dieser Woche geschloßen wird, aber nach der Woche weiterbesteht). Vgl
+  <a href='https://www.csv-bibel.de/bibel/daniel-9'>Elberfelderübersetzung Edition CSV</a>.
  }
  {
   <i>Beschirmung der Gräuel</i> vgl §dan-11-31
@@ -66663,7 +66747,7 @@
 #}
 #dan-10-11 {
  {
-   → biblisches/Personen/Daniel#vielgeliebter[Daniel, der vielgeliebte]
+  → biblisches/Personen/Daniel#vielgeliebter[Daniel, der vielgeliebte]
  }
 #}
 #dan-10-12 {
@@ -66717,7 +66801,7 @@
 #}
 #dan-11-4 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde
+  Sein Reich wird nach den → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde[vier Winden] des Himmels zerteilt werden, vgl §jer-49-36
  }
 #}
 #dan-11-5 {
@@ -80972,13 +81056,12 @@
   <i>Armen gute Botschaft zu verkünden</i>: §mt-11-5
  }
  {
-  TODO: <i>gesalbt</i>: <span class='gr'>χρίω</span> (Strongs 5548). Kommt noch vor in
-  <a href='http://bibel.renenyffenegger.ch/apg_4.html#v27'>Apg&nbsp;4,27</a>,
-  <a href='http://bibel.renenyffenegger.ch/apg_10.html#v38'>Apg&nbsp;10,38</a>,
-  <a href='http://bibel.renenyffenegger.ch/2kor_1.html#v21'>2.&nbsp;Kor&nbsp;1,21</a>,
-  <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v9'>Hebr&nbsp;1,9</a>.
+  <i>weil er mich gesalbt hat</i> (<span class='gr'>χρίω</span>, Strongs 5548): §apg-4-27, §apg-10-38
+ }
+ {
+  TODO: <i>gesalbt</i>: §2kor-1-21, §hebr-1-9.
          <br>
-  Vgl mit Strongs 3462 in <a class='kom' href='#Imk-14-8'>Mk&nbsp;14,8</a>.
+  Vgl mit Strongs 3462 in §+mk-14-8.
  }
 #}
 #lk-4-19 {
@@ -89663,7 +89746,7 @@
 #}
 #apg-1-4 {
  {
-  <i>Verheissung des Vaters</i>: <a class='kom' href='#Ilk-24-49'>Lk&nbsp;24,49</a>.
+  <i>Verheissung des Vaters</i>: §+lk-24-49, §apg-2-33
  }
  {
   Die Apostelgeschichte beginnt in Jerusalem und endet in Rom, §apg-28-14 vgl §+lk-24-5Das Lukasevangelium beginnt damit, daß Zacharias in den Tempel geht und endet damit, daß die Jünger allezeit im Tempel sind, §lk-24-532
@@ -90651,7 +90734,7 @@
   <i>Knecht</i>: <a class='kom' href='#Iapg-3-13'>Apg&nbsp;3,13</a>.
  }
  {
-  <i>gesalbt</i>: <a class='kom' href='#Ilk-4-18'>Lk&nbsp;4,18</a>.
+  <i>gesalbt</i>: §+lk-4-18.
  }
 #}
 #apg-4-28 {
@@ -92231,7 +92314,7 @@
   → biblisches/Orte/Nazareth
  }
  {
-  <i>gesalbt</i>: <a class='kom' href='#Ilk-4-18'>Lk&nbsp;4,18</a>.
+  <i>gesalbt</i>: §+lk-4-18
  }
 #}
 #apg-10-39 {
@@ -92936,6 +93019,9 @@
  }
  {
   Vgl die <i>Stimmen er Propheten</i> mit dem «Mund der Propheten», §lk-1-70, §apg-3-18 und mit «was über ihn geschrieben steht», §Vapg-13-29
+ }
+ {
+  KJV übersetzt mit «ecause they knew him not, nor yet the voices of the prophets…»
  }
 #}
 #apg-13-28 {
@@ -97823,11 +97909,11 @@
   <i>Macht</i>: <span class='gr'>ἐξουσία</span> (Strongs 1849), wird häufig auch mit «Gewalt» übersetzt, z. B. §mt-7-29 oder §mt-28-18.
  }
  {
-  TODO: <i>Gefäss</i> als Synonym für Körper?: <a class='kom' href='#I2kor-4-7'>2.&nbsp;Kor&nbsp;4,7</a>.
-  S.a. <a class='kom' href='#Imt-12-29'>Mt&nbsp;12,29</a>.
+  Vgl §jes-29-16, §+jes-45-9, §jer-18-2-ff, §jer-19-11-ff
  }
  {
-  Vgl <a class='kom' href='#Ijes-45-9'>Jes&nbsp;45,9</a>.
+  TODO: <i>Gefäss</i> als Synonym für Körper?: <a class='kom' href='#I2kor-4-7'>2.&nbsp;Kor&nbsp;4,7</a>.
+  S.a. <a class='kom' href='#Imt-12-29'>Mt&nbsp;12,29</a>.
  }
 #}
 #roem-9-22 {
@@ -102864,6 +102950,9 @@
  {
   <i>Meinung</i>: Sch2K übersetzt mit «Rat», vgl <a class='kom' href='#Iapg-20-3'>Apg&nbsp;20,3</a>.
  }
+ {
+  Vgl §phil-2-13
+ }
 #}
 #2kor-8-16 {
  {
@@ -106026,7 +106115,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-2-13 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/phil_1.html#v6'>Phil&nbsp;1,6</a>.
+  Vgl §phil-1-6, §2kor-8-10
  }
 #}
 #phil-2-14 {
@@ -108047,7 +108136,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #1thes-5-3 {
  {
   <i>Friede und Sicherheit</i> vgl §+2koe-20-19.
-  Siehe auch «Friede, Friede» §+jes-57-19.
+  Siehe auch «Friede, Friede» §+jes-57-19. Vgl §hes-13-10
  <br>
    Beachte, Paulus schreibt in seinen Briefen häufig (immer?) ziemlich am Anfang <i>Gnade ... und Friede</i>: §+roem-1-7.
  }
