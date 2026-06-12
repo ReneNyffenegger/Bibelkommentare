@@ -3538,7 +3538,7 @@
   <br>Beachte, Mose hat (nur) das Land östlich vom Jordan angeschaut (<a class='kom' href='#I5mo-3-27'>5.&nbsp;Mo&nbsp;3,27</a>).
  }
  {
-  <i>vom Strom Ägyptens bis an den großen Strom, den Strom Euphrat</i>: §2koe-23-29, §2koe-24-7
+  <i>vom Strom Ägyptens bis an den großen Strom, den Strom Euphrat</i>: §1koe-5-1, §2koe-23-29, §2koe-24-7
  }
  {
   Landesgrenzen: Vgl §5mo-1-7, §5mo-11-24, §jos-1-4
@@ -7790,6 +7790,9 @@
 #}
 #1mo-46-27 {
  {
+  <i>In Ägypten geboren</i>: §1mo-48-5
+ }
+ {
   70 = 33+16+14+7. Beachte 33+16 = 49 = 7*7, 14+7 = 21 = 3*7.
  <br>
   Jakob diente Laban zwei mal sieben Jahre.
@@ -7814,9 +7817,7 @@
     <br>Vgl mit «Kinder Israel»: §1mo-32-33.
  }
  {
-  Die → biblisches/Grundtext/LXX übersetzt: <i>
-    Und die Söhne Josephs, die ihm im Land Ägypten geboren wurden, waren neun Seelen; alle Seelen des Hauses Jakob, die mit Joseph nach Ägypten kamen, waren fünfundsiebzig Seelen.
-  </i>.
+  Die → biblisches/Grundtext/LXX übersetzt: <i>Und die Söhne Josephs, die ihm im Land Ägypten geboren wurden, waren neun Seelen; alle Seelen des Hauses Jakob, die mit Joseph nach Ägypten kamen, waren fünfundsiebzig Seelen.</i>.
   <br>
    Vgl §V1mo-46-20, §apg-7-14.
  }
@@ -7929,7 +7930,7 @@
   Jakob will <i>Ephraim</i> und <i>Manasse</i>, aber Joseph sagt, 'sie sind meine Söhne' (<a href='http://bibel.renenyffenegger.ch/1mo_48.html#v9'>Vers 9</a>).
  }
  {
-   <i>In Ägypten geboren</i>: Siehe <a class='kom' href='#I1mo-25-26'>1.&nbsp;Mo&nbsp;25,26</a>.
+  <i>In Ägypten geboren</i>: Siehe §1mo-46-27.
  }
 #}
 #1mo-48-6 {
@@ -24349,8 +24350,8 @@
 @Josua 1 {
 #jos-1-1 {
  {
-  <i>Und es geschah nach dem Tod</i>: vgl mit dem Anfang von <a href='http://bibel.renenyffenegger.ch/ri_1.html#v1'>Richter</a> («nach dem Tod Josuas»), und dem Anfang
-  von <a href='http://bibel.renenyffenegger.ch/2sam_1.html#v1'>2. Samuel</a> («nach dem Tod Sauls»).
+  <i>Und es geschah nach dem Tod</i>: vgl mit dem Anfang von <a href='http://bibel.renenyffenegger.ch/ri_1.html#v1'>Richter</a> («nach dem Tod Josuas»),
+  und dem Anfang von <a href='http://bibel.renenyffenegger.ch/2sam_1.html#v1'>2. Samuel</a> («nach dem Tod Sauls»).
  }
  {
   TODO: Hier wird Josua genannt 'Diener Moses' (<span class='hebr'>שָׁרַת</span>, Strongs 8334).
@@ -31566,6 +31567,11 @@
   TODO: Doch, in <a class='kom' href='#I1chr-22-8'>1.&nbsp;Chr&nbsp;22,8</a> scheint es eben doch an David gegangen zu sein.
  }
 #}
+#2sam-7-5 {
+ {
+  TODO: Folgt hier der in §ps-89-4-ff erwähnte Bund?
+ }
+#}
 #2sam-7-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
@@ -31592,6 +31598,9 @@
  {
   <i>Trift</i> <span class='he'>נָוֶה</span> (Strongs 5116): eine Trift bezeichnet gem <a href="https://de.wikipedia.org/wiki/Viehtrift">Wikipedia</a> einen Weg zwischen Stall und Weide.
  }
+ {
+  TODO: Vgl §ps-89-21
+ }
 #}
 #2sam-7-9 {
  {
@@ -31600,13 +31609,13 @@
 #}
 #2sam-7-12 {
  {
-  Beachte: Salomo ist möglicherweise bereits geboren (<a href='http://bibel.renenyffenegger.ch/2sam_5.html#v14'>2.&nbsp;Sam&nbsp;5,14</a>),
-  der Same könnte sich also auf Jesus beziehen. Vgl auch «ferne Zukunft» in Vers 19.
+  Beachte: Salomo ist möglicherweise bereits geboren (§2sam-5-14),
+  der Same könnte sich also auf Jesus beziehen (§lk-1-32). Vgl auch «ferne Zukunft» in Vers 19.
  }
 #}
 #2sam-7-13 {
  {
-  §lk-1-32
+  <i>Ewiger Thron des Samens Davids</i> vgl §lk-1-32, §ps-89-5, §ps-132-11-12
  }
 #}
 #2sam-7-14 {
@@ -31622,6 +31631,11 @@
  }
  {
   «Wenn er eine ... Menschenrute ... strafen» fehlt in der "Parallelstelle" in <a href='http://bibel.renenyffenegger.ch/1chr_17.html#v13'>1. Chr 17,13ff</a>.
+ }
+#}
+#2sam-7-15 {
+ {
+  Vgl §ps-89-34
  }
 #}
 #2sam-7-16 {
@@ -33113,6 +33127,9 @@
 #1koe-5-1 {
  {
   <i>Salomo war Herrscher über alle Königreiche</i> §+jos-11-23, §neh-13-26
+ }
+ {
+  <i>Vom Strom … bis zur Grenze Ägyptens</i> vgl §1mo-15-18
  }
  {
   <i>sie brachten Geschenke</i> vgl §1koe-10-25
@@ -42768,9 +42785,6 @@
  {
   Vgl §1koe-14-23, §2koe-16-4, §2koe-17-10, §2chr-28-4
  }
- {
-  TODO: Vgl §ps-89-4
- }
 #}
 #2chr-28-5 {
  {
@@ -50228,6 +50242,9 @@
  {
   Vgl mit anderen Versen von Asaph in §ps-80-2.
  }
+ {
+  TODO: <i>Er erwählte David</i> vgl §ps-89-4
+ }
 #}
 #ps-78-72 {
  {
@@ -50551,12 +50568,15 @@
 #}
 #ps-89-4 {
  {
-  TODO Vgl §2chr-28-4
+  TODO: <i>Einen Bund habe ich mit David geschworen</i>: §2sam-7-5-ff, §ps-78-70
  }
 #}
 #ps-89-5 {
  {
   <i>Samen</i>: Verse 30 und 37. (Vgl auch Horn in Vers 18 und Thron in Vers 15)
+ }
+ {
+  <i>Davids ewiger Thron</i>: §Vps-89-30, §2sam-7-13
  }
 #}
 #ps-89-7 {
@@ -50628,6 +50648,19 @@
 #ps-89-21 {
  {
   <i>Ich habe David gefunden</i>: Vgl §+apg-13-22, §1sam-13-14
+ }
+ {
+  TODO: Vgl auch §2sam-7-8
+ }
+#}
+#ps-89-30 {
+ {
+  <i>Thron</i>: §Vps-89-5
+ }
+#}
+#ps-89-34 {
+ {
+  Vgl §2sam-7-15
  }
 #}
 #ps-89-38 {
@@ -52472,6 +52505,11 @@
 #ps-132-8 {
  {
   Sch2K übersetzt mit »Mache dich auf, o HERR, zu deiner Ruhestätte …« vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Lade#lade-ruheplatz
+ }
+#}
+#ps-132-11 {
+ {
+  <i>Von der Frucht deines Leibes will ich auf deinen Thron setzen</i> vgl §lk-1-32, §2sam-7-12-13
  }
 #}
 #ps-132-17 {
@@ -59037,7 +59075,7 @@
 #}
 #jes-52-13 {
  {
-  Der <i>erhöhte Sohn des Menschen</i>: <a class='kom' href='#Ijoh-3-14'>Joh&nbsp;3,14</a>.
+  <i>Er wird erhoben und erhöht werden</i>: §+joh-3-14.
  }
  {
   <i>einsichtig handelnder Knecht</i> §spr-17-2
@@ -59129,10 +59167,13 @@
 #}
 #jes-53-12 {
  {
-  Vgl <i>er hat für Übertreter Fürbitte getan</i> mit «vergib ihnen, denn sie wissen nicht, was sie tun» (§lk-23-34)
+  <i>den Übertretern beigezählt worden ist</i>: §lk-22-37
  }
  {
   <i>die Sünde vieler Getragen</i> vgl §hebr-9-28, §mt-26-28, §1joh-2-2
+ }
+ {
+  Vgl <i>er hat für Übertreter Fürbitte getan</i> mit «vergib ihnen, denn sie wissen nicht, was sie tun» (§lk-23-34)
  }
  {
   <i>Übertreter</i>: §+jes-48-8
@@ -75140,6 +75181,9 @@
   <i>Das Blut … des Gerechten</i> vgl §mt-27-24
  }
  {
+  <i>Damit über euch komme …</i> vgl §mt-27-25
+ }
+ {
   Mit <i>Zacharia, dem Sohn Barachjas</i> scheint Sacharja gemeint zu sein: §+sach-1-1.
   <i>Aber</i> in §2chr-24-20-ff wird ein Sekarja (Sch2K: Sacharja), Sohn Jojadas im Hof des Hauses Jehovas gesteinigt.
    In §jes-8-2 ein gewisser <i>Sacharja, Sohn Jeberekjas</i> erwähnt.
@@ -76357,13 +76401,13 @@
 #}
 #mt-27-25 {
  {
-    Vgl
-    <a class='kom' href='#I4mo-35-33'>4.&nbsp;Mo&nbsp;35,33</a>,
-    <a href='http://bibel.renenyffenegger.ch/1koe_2.html#v33'>1.&nbsp;Kö&nbsp;2,33</a>,
-    <a href='http://bibel.renenyffenegger.ch/jer_26.html#v15'>Jer&nbsp;26,15</a>
+  Vgl
+  <a class='kom' href='#I4mo-35-33'>4.&nbsp;Mo&nbsp;35,33</a>,
+  <a href='http://bibel.renenyffenegger.ch/1koe_2.html#v33'>1.&nbsp;Kö&nbsp;2,33</a>,
+  <a href='http://bibel.renenyffenegger.ch/jer_26.html#v15'>Jer&nbsp;26,15</a>
  }
  {
-  <i>Sein Blut komme über uns und über unsere Kinder</i> vgl §apg-5-28, §2mo-24-8
+  <i>Sein Blut komme über uns und über unsere Kinder</i> vgl §mt-23-35, §apg-5-28, §2mo-24-8
  }
 #}
 #mt-27-26 {
@@ -80261,7 +80305,7 @@
 #}
 #lk-1-32 {
  {
-  <i>Der Herr wird ihm den Thron seines Vaters David geben</i>: §apg-2-30, vgl §Vlk-1-52, §2sam-7-13
+  <i>Der Herr wird ihm den Thron seines Vaters David geben</i>: §apg-2-30, vgl §Vlk-1-52, §2sam-7-12-13, §ps-132-11-12
  }
 #}
 #lk-1-33 {
@@ -83558,7 +83602,7 @@
   <i>Herr, Herr</i>: §+mt-7-21.
  }
  {
-  TODO: Wann wird der Hausherr aufgestanden sein? Bevor die Gemeinde kommt. In <a href='http://bibel.renenyffenegger.ch/apg_7.html#v55'>Apg&nbsp;7,55</a>?
+  TODO: Wann wird der Hausherr aufgestanden sein? Bevor die Gemeinde kommt. In §apg-7-55?
  }
  {
   TODO: Schlachter übersetzt mit «Herr, Herr».
@@ -84932,6 +84976,9 @@
  }
 #}
 #lk-22-37 {
+ {
+  <i>Und er ist unter die Gesetzlosen gerechnet worden</i>: §jes-53-12
+ }
  {
   <i>noch dieses, was geschrieben steht</i>: vgl §lk-21-22, §lk-24-44
  }
@@ -88826,9 +88873,7 @@
 @Johannes 15 {
 #joh-15-1 {
  {
-  TODO: Wäre <i>Weinstock</i> besser übersetzt mit «Wein» (<span class='gr'>ἄμπελος</span>, Strongs 288)? Vgl a mit Strongs 290.
-  Ebenso Verse 4 und 5 und <a href='http://bibel.renenyffenegger.ch/jak_3.html#v12'>Jak&nbsp;3,12</a>.
-  <br>TODO: Vgl mit <i>Weinstock der Erde</i>: <a href='http://bibel.renenyffenegger.ch/offb_14.html#v19'>Offb&nbsp;14,19</a>.
+  Vgl mit dem <i>Weinstock der Erde</i>: §offb-14-18-ff
  }
 #}
 #joh-15-2 {
@@ -91700,7 +91745,10 @@
 #}
 #apg-7-55 {
  {
-  Vgl <a class='kom' href='#Ilk-13-25'>Lk&nbsp;13,25</a>.
+  Paulus willigte in die Tötung Stephanus' (§apg-8-1), der voll Heiligen Geistes war, ein. In §apg-13-9 wird er dann selbst vom Heiligen Geist erfüllt sein.
+ }
+ {
+  TODO: Vgl §+lk-13-25.
  }
 #}
 #apg-7-56 {
@@ -92175,6 +92223,9 @@
  {
   Beachte: Ananias nennt Saulus bereits 'Bruder'. Vgl <a href='http://bibel.renenyffenegger.ch/apg_22.html#v13'>Apg&nbsp;22,13</a>.
  }
+ {
+  <i>Damit du … mit heiligem Geist erfüllt wirst</i>: §apg-13-9
+ }
 #}
 #apg-9-18 {
  {
@@ -92193,9 +92244,14 @@
   <span class='gt'>MT und TR haben <i>Christus</i>, KT hat <i>Jesus</i>. In §apg-19-13 wird von → biblisches/Personen/Paulus gesagt, dass er Jesus → biblisches/Eigene-Uebersetzung/Konkordanz/predigen[predigt].</span>
  }
 #}
+#apg-9-22 {
+ {
+  Paulus verkündete denen in Damaskus <i>zuerst</i>, «Buße zu tun: §apg-26-20
+ }
+#}
 #apg-9-25 {
  {
-  Wann hat Saulus Jünger gemacht? Ist diese eine Lukas'sche Veränderung der Chronologie, wie in
+ TODO:  Wann hat Saulus Jünger gemacht? Ist diese eine Lukas'sche Veränderung der Chronologie, wie in
   <a class='kom' href='#Ilk-4-23'>Lk&nbsp;4,23</a>? <span class='u'>
     (Siehe <a href='file:///e:/Digitales-Backup/Lesbares/Biblisches/Apostelgeschichte/Reihenfolge-Gal-2_Apg-15#lukassche_chronologie'>e:\Digitales-Backup\Lesbares\Biblisches\\Apostelgeschichte\Reihenfolge-Gal-2_Apg-15#lukassche_chronologie</a>)
   </span>
@@ -93073,6 +93129,9 @@
  {
   Ab hier wird Saulus nur noch Paulus genannt.
   <br>Vgl <i>Beinamen/Übernamen im Neuen Testament</i>: <a class='kom' href='#Imt-10-3'>Mt&nbsp;10,3</a>.
+ }
+ {
+  <i>Paulus, erfüllt mit heiligem Geist</i>: §apg-9-17. Vgl §+apg-7-55
  }
 #}
 #apg-13-10 {
@@ -96027,6 +96086,9 @@
 #apg-26-20 {
  {
   <i>Buße tun</i>: §+apg-2-38
+ }
+ {
+  <i>Damaskus zuerst</i>: §apg-9-22, dann Jerusalem: §apg-9-28
  }
 #}
 #apg-26-21 {
@@ -100304,6 +100366,9 @@
  {
   <i>daß Hurererei unter euch sei</i> vgl §1kor-6-18, §1kor-7-2, §2kor-12-21, §1thes-4-3
  }
+ {
+  <i>die selbst unter den Nationen nicht stattfindet</i> vgl §1kor-12-2
+ }
 #}
 #1kor-5-2 {
  {
@@ -101392,6 +101457,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
  }
+ {
+  <i>als ihr von den Nationen wart</i> vgl §1kor-5-1
+ }
 #}
 #1kor-12-3 {
  {
@@ -101940,7 +102008,7 @@
  {
   <i>Erstling</i>: §+roem-8-23.
  <br>
-  <i>… der Enschlafenen</i> vgl §apg-26-23, §offb-1-5
+  <i>… der Enschlafenen</i> vgl §kol-1-18, §apg-26-23, §offb-1-5, §V1kor-15-23
  }
 #}
 #1kor-15-21 {
@@ -103761,7 +103829,7 @@
 #}
 #gal-1-8 {
  {
-  <i>verflucht</i> (auch nächster Vers): <span class='gr'>ἀνάθεμα</span> (Strongs 331), vgl <a class='kom' href='#I1kor-16-22'>1.&nbsp;Kor&nbsp;16,22</a>.
+  <i>verflucht</i> (auch nächster Vers): <span class='gr'>ἀνάθεμα</span> (Strongs 331), vgl §+1kor-16-22.
  }
  {
   <i>Ein Engel aus dem Himmel, der ein → biblisches/Eigene-Uebersetzung/Konkordanz/Evangelium verkündigt</i>: §offb-14-6 
@@ -106980,6 +107048,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #kol-1-18 {
  {
   <i>Leib des Christus</i>: <a class='kom' href='#Iroem-12-5'>Röm&nbsp;12,5</a>.
+ }
+ {
+  <i>Der Erstgeborene aus den Toten</i> §1kor-15-20-ff
  }
  {
   <i>Christus, das Haupt</i>: <a href='http://bibel.renenyffenegger.ch/1kor_11.html#v3'>1.&nbsp;Kor&nbsp;11,3</a>, <a class='kom' href='#Ieph-1-10'>Eph&nbsp;1,10</a>.
@@ -113294,6 +113365,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-11-13 {
  {
+  <i>haben die Verheißungen nicht empfangen</i> vgl §+hebr-6-15, §Vhebr-11-39
+ }
+ {
   Sie <i>sahen sie von ferne</i> vgl §Vhebr-11-1: der Glaube ist eine Überzeugung von Dingen, die man nicht sieht.
  }
  {
@@ -113301,9 +113375,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl §eph-2-19, §phil-3-20, §1petr-2-11, §+1mo-23-4.
   <br>
   Sch2K übersetzt mit «Gäste ohne Bürgerrecht und Fremdlinge sind auf Erden», KJV mit «strangers and sojourners they are upon the earth».
- }
- {
-  <i>haben die Verheißungen nicht empfangen</i> vgl §+hebr-6-15.
  }
  {
   <i>Erlangte Verheissungen</i>: diese sind im Glauben gestorben, ohne das Verheißene zu erlangen, aber Gideon, Barak, Simson,
@@ -113483,8 +113554,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-11-39 {
  {
-   Vgl <a class='kom' href='#Ihebr-10-34'>Hebr&nbsp;10,34</a>.
-   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/joh_20.html#v31'>Joh&nbsp;20,31</a>.
+  <i>das Verheißene nicht empfangen haben</i>: §Vhebr-11-13
+ }
+ {
+  Vgl <a class='kom' href='#Ihebr-10-34'>Hebr&nbsp;10,34</a>.
+  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/joh_20.html#v31'>Joh&nbsp;20,31</a>.
  }
 #}
 #hebr-11-40 {
@@ -120796,7 +120870,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-14-18 {
  {
-  Vgl mit §joe-4-13, §+joh-15-5.
+  <i>lies die Trauben des Weinstocks der Erde</i> vgl mit §joe-4-13, §+joh-15-5.
  }
 #}
 #offb-14-19 {
