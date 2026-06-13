@@ -66726,9 +66726,6 @@
   (z. B. Geburt des Messias oder erstes öffentliches Auftreten etc.) nicht näher definiert wird.
  }
  {
-  <i>Erlass</i> (<span class='hebr'>דָּבָר</span>, Strongs 1697) eigentlich: «Wort».
- }
- {
   <i>Strassen</i> (<span class='hebr'>רְחֹוב</span>, Strongs 7339). Das Wort steht im Grundtext in der Einzahl. Dasselbe Wort wird an anderen Orten mit «Platz» übersetzt, so z.B. in §esr-10-9, §neh-8-1, §neh-8-3, §neh-8-16.
  }
  {
@@ -66745,14 +66742,19 @@
   Vgl §+Vdan-9-2 und §Vdan-9-23
  }
  {
-   Das Verb <span class='hebr'>תָּשׁוּב֙</span> ist offenbar sowohl die Form für 3. Pers. f. sg wie auch 2. Pers. m. sg. Achim Klein geht vom zweiten aus und deutet es als Anrede an Daniel.
+  Das Verb <span class='hebr'>תָּשׁוּב֙</span> ist offenbar sowohl die Form für 3. Pers. f. sg wie auch 2. Pers. m. sg. Achim Klein geht vom zweiten aus und deutet es als Anrede an Daniel.
+ }
+ {
+  Im Masoretischen Text werden <i>sieben Wochen</i> und <i>zweiundsechzig Wochen</i> mit einem Atnah (<span class='hebr'>ˆ</span>) getrennt. McComiskey sagt, dies bedeute, daß
+  die Zeit bis auf den Gesalbten, den Fürsten, 7 Wochen sind. Entsprechend übersetzt zum Beispiel die Zürcher Bibel mit
+ «Von der Zeit an, … bis ein Gesalbter, …kommt, sind es sieben Wochen; und zweiundsechzig Wochen lang werden Plätze und Strassen wiederhergestellt …».
  }
  {
   TODO: Angeblich fehlt im Grundtext der Artikel vor »Messias«, so dass mit »ein Gesalbter« übersetzt werden müsste.
  }
  {
   TODO: gemäss <a href="https://jewsforjudaism.org/knowledge/articles/answers/jewish-polemics/texts/daniel-9-a-true-biblical-interpretation/">https://jewsforjudaism.org/knowledge/articles/answers/jewish-polemics/texts/daniel-9-a-true-biblical-interpretation/</a> solte so übersetzt werden: »
-   until an anointed prince shall be 7 weeks, then for 62 weeks it (Jerusalem) will be built again but in troubled times. Then after (those) the 62 weeks shall an anointed one will be cut off.
+  until an anointed prince shall be 7 weeks, then for 62 weeks it (Jerusalem) will be built again but in troubled times. Then after (those) the 62 weeks shall an anointed one will be cut off.
   »
  }
 #}
@@ -69313,7 +69315,7 @@
 @Sacharja 4 {
 #sach-4-2 {
  {
-  TODO: In <a href='http://bibel.renenyffenegger.ch/offb_11.html#v4'>Offb&nbsp;11,4</a> werden zwei Ölbäume und <i>zwei</i> Leuchter erwähnt, die vor dem Gott der Erde stehen.
+  In §offb-11-4 werden zwei Ölbäume und <i>zwei</i> Leuchter erwähnt, die vor dem Gott der Erde stehen.
  }
 #}
 #sach-4-3 {
@@ -69352,7 +69354,7 @@
 #}
 #sach-4-14 {
  {
-  <i>Vor dem Herrscher der ganzen Erde stehen</i>: <a class='kom' href='#Ioffb-11-4'>Offb&nbsp;11,4</a>.
+  <i>Vor dem Herrscher der ganzen Erde stehen</i>: §+offb-11-4, §sach-6-5
  }
 #}
 @}
@@ -69418,7 +69420,10 @@
 #}
 #sach-6-5 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde
+  → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde
+ }
+ {
+  <i>Sich vor den Herrn der ganzen Erde stellen</i> vgl §sach-4-14
  }
 #}
 #sach-6-6 {
@@ -76176,6 +76181,9 @@
  {
   <i>Stecke das Schwert wieder an seinen Ort</i> vgl §joh-18-11, §mt-18-34
  }
+ {
+  <i>Alle, die das Schwert nehmen, werden durchs Schwert sterben</i>: §offb-13-10.
+ }
 #}
 #mt-26-54 {
  {
@@ -80190,7 +80198,7 @@
 #}
 #lk-1-12 {
  {
-  Zacharias erschrak, als er den Engel sah, Maria über sein Wort, als sie ihn sah (Vers 29).
+  Zacharias erschrak, als er den Engel sah, Maria was bestürzt über sein Wort, als sie ihn sah, §Vlk-1-29.
  <br>
  <i>Furcht</i> vgl §Vlk-1-65, §Vlk-1-74
  }
@@ -84716,15 +84724,12 @@
 #}
 #lk-21-24 {
  {
-  <i>Jerusalem wird zertreten werden von den Nationen</i> §offb-11-2
+  <i>Jerusalem wird zertreten werden von den Nationen</i> §offb-11-2, §jer-32-28
  }
  {
   Vgl die <i>Zeiten der Nationen</i> mit den «Zeit der Nationen» in §hes-30-3.
  <br>
   Vgl auch mit der «Vollzahl der Nationen» in §roem-11-25.
- }
- {
-  <i>Jerusalem wird zertreten werden von den Nationen</i> vgl §jer-32-28
  }
 #}
 #lk-21-25 {
@@ -94185,8 +94190,10 @@
 #}
 #apg-16-33 {
  {
-   Beachte: er wusch ihnen die Striemen (oder 'wusch ... weg', im Griechischen steht zusätzlich <span class='gr'>ἀπό</span>), aber auch
-   der Kerkermeister wurde durch die Taufe gewaschen.
+  <i>Striemen</i>: <span class='gr'>πληγή</span> (Strongs 4127). Dasselbe Wort wird in §Vapg-16-23 mit «Schläge» übersetzt.
+ }
+ {
+  Beachte: er wusch ihnen die Striemen (oder 'wusch … weg', im Griechischen steht zusätzlich <span class='gr'>ἀπό</span>), aber auch der Kerkermeister wurde durch die Taufe gewaschen.
  }
 #}
 #apg-16-35 {
@@ -101673,6 +101680,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index
  }
 #}
+#1kor-14-3 {
+ {
+  <i>Wer aber weissagt, redet zur Tröstung</i> vgl §V1kor-14-31
+ }
+#}
 #1kor-14-5 {
  {
   <i>auslegen</i>: <a class='kom' href='#I1kor-12-30'>1.&nbsp;Kor&nbsp;12,30</a>. Ebenso Verse 13 und 27.
@@ -101818,7 +101830,10 @@
 #}
 #1kor-14-31 {
  {
-  <i>Lernen</i>: vgl Vers 35.
+  <i>weissagen, damit alle getröstet werden</i> vgl §V1kor-14-3
+ }
+ {
+  <i>Lernen</i>: vgl §V1kor-14-35
  }
 #}
 #1kor-14-32 {
@@ -103019,7 +103034,7 @@
   <i>Mühen</i> (<span class='gr'>κόπος</span>, Strongs 2873).
  }
  {
-  <i>Schläge</i>: <a href='http://bibel.renenyffenegger.ch/2kor_11.html#v23'>2.&nbsp;Kor&nbsp;11,23</a>.
+  <i>Schläge</i>: §2kor-11-23.
  }
  {
   <i>Aufständen</i> §+1kor-14-33
@@ -103518,7 +103533,7 @@
   <i>Diener des Christus</i>: <a class='kom' href='#I1kor-4-1'>1.&nbsp;Kor&nbsp;4,1</a>.
  }
  {
-  <i>Schläge</i>: <a class='kom' href='#I2kor-6-5'>2.&nbsp;Kor&nbsp;6,5</a>.
+  <i>Schläge</i>: §+2kor-6-5.
  }
 #}
 #2kor-11-24 {
@@ -117882,6 +117897,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#aufenthaltsort-von-propheten-oder-priester
  }
  {
+  <i>um des Wortes Gottes und des Zeugnisses Jesu willen</i> vgl §offb-6-9, §offb-20-4. Vgl §Voffb-1-2
+ }
+ {
   TODO: <i>Bedrängnis</i> (<span class='gr'>θλῖψις</span>, Strongs 2347), in
   <a href='http://bibel.renenyffenegger.ch/offb_2.html#v9'>Offb 2,9-10</a>,
   <a href='http://bibel.renenyffenegger.ch/offb_2.html#v22'>Offb&nbsp;2,22</a>
@@ -118610,7 +118628,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>was nach diesem geschehen muß</i> §offb-1-1, §offb-1-19, §offb-22-6
  }
  {
-  Hier steigt Johannes in den Himmel, nachdem er gehört hat <i>Komm hier herauf</i>, in §offb-11-12 sind es die zwei Zeugen.
+  <i>Steig hier herauf</i> Vgl mit den → biblisches/Buecher/prophetisch/Offenbarung/Zwei-Zeugen[zwei Zeugen], denen in §offb-11-12 geboten wird, heraufzusteigen.
  }
  {
   Hier ist eine Tür im Himmel aufgetan, in §offb-19-11 ist der Himmel selbst geöffnet.
@@ -119112,7 +119130,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Johannes <i>sah</i> zwar, fordert aber <i>nicht</i> auf: 'sieh'.
  }
  {
-  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wort Gottes] und Zeugnis Jesu Christi</i>: <a class='kom' href='#Ioffb-1-2'>Offb&nbsp;1,2</a>.
+  <i>um des → biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott[Wortes Gottes] und um des Zeugnis Jesu Christi willen</i>: §+offb-1-2, §offb-1-8
  }
 #}
 #offb-6-10 {
@@ -119438,6 +119456,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Varianten/Kraft-geben
  }
 #}
+#offb-8-4 {
+ {
+  <i>Rauch des Räucherwerks</i> vgl §+offb-9-2
+ }
+#}
 #offb-8-5 {
  {
   <i>Feuer des Altars auf die Erde werfen</i> vgl §lk-12-49, §offb-13-13, §offb-20-9
@@ -119630,6 +119653,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-9-2 {
  {
+  <i>Aufsteigender Rauch</i>: §offb-14-11, §offb-19-3. Vgl mit dem «Rauch des Räucherwerks» in §offb-8-4
+ }
+ {
   → biblisches/Grundtext/Handschriften/Vergleiche/2074-2075-2077-offb-9-2[Sonne in den Minuskeln 2074, 2075, 2077].
  }
 #}
@@ -119762,6 +119788,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Viele Menschen sind bereits in <a class='kom' href='#Ioffb-8-11'>Offb&nbsp;8,11</a> gestorben.
  }
  {
+  <i>Plage</i> (<span class='gr'>πληγή</span>, Strongs 4127) wird zB in §2kor-6-5 mit «Schlägen» übersetzt. Ebenso in §Voffb-9-20 oder §offb-15-1.
+ }
+ {
+  Die <i>sieben letzten Plagen</i>: §offb-15-1.
+ }
+ {
   Vgl <i>Feuer</i> und <i>Schwefel</i> mit <a href='http://bibel.renenyffenegger.ch/offb_14.html#v10'>Offb&nbsp;14,10</a>,
   <a href='http://bibel.renenyffenegger.ch/offb_19.html#v20'>Offb&nbsp;19,20</a>
   <a href='http://bibel.renenyffenegger.ch/offb_20.html#v10'>Offb&nbsp;20,10</a>
@@ -119776,11 +119808,6 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #offb-9-20 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
- }
- {
-  <i>Plage</i> (<span class='gr'>πληγή</span>, Strongs 4127) wird zB in <a href='http://bibel.renenyffenegger.ch/2kor_6.html#v5'>2.&nbsp;Kor&nbsp;6,5</a> mit
-  'Schlägen' übersetzt.
-  <br>Die <i>sieben letzten Plagen</i>: <a href='http://bibel.renenyffenegger.ch/offb_15.html#v1'>Offb&nbsp;15,1</a>.
  }
 #}
 #offb-9-21 {
@@ -119872,9 +119899,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>über viele Völker weissagen</i> vgl §jer-25-13, §hes-3-5
  }
  {
-  TODO: Hier muss Johannes wiederum weissagen, wie es dann aber aussieht, sind es die zwei Zeugen, die weissagen werden (<a href='http://bibel.renenyffenegger.ch/offb_11.html#v3'>Offb&nbsp;11,3</a>).
-  <br>Vgl auch die <i>Völker und Nationen und Sprachen und Könige</i> hier mit den «Völkern und Stämmen und Sprachen und Nationen», die die Leichname sehen werden.
-  <br>Wie's scheint, ist hier das erste Vorkommen des Verbes «weissagen»
+  Hier muss Johannes <i>wiederum weissagen</i>, es sind dann aber die zwei Zeugen, die weissagen werden (§offb-11-3).
+ <br>
+  Vgl auch die <i>Völker und Nationen und Sprachen und Könige</i> hier mit den «Völkern und Stämmen und Sprachen und Nationen», die die Leichname sehen werden.
  }
  {
   Es gibt Ausleger, die meinen, → biblisches/Personen/Johannes/index würde zur Zeit der → biblisches/Bücher/prophetisch/Offenbarung/index auferstehen, um <i>wiederum</i> zu weissagen.
@@ -119922,7 +119949,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-11-3 {
  {
-  <i>Weissagen</i>: <a class='kom' href='#Ioffb-10-11'>Offb&nbsp;10,11</a>.
+  <i>Weissagen</i>: §+offb-10-11.
  }
  {
   Vgl die → biblisches/Bücher/prophetisch/Offenbarung/Zwei-Zeugen[zwei Zeugen der Offenbarung] mit den zwei falschen Zeugen bei Jesu Verurteilung, §mt-26-60
@@ -119936,24 +119963,28 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-11-4 {
  {
+  Vgl mit den 7 goldenen Leuchtern (§offb-1-12), wo ein Leuchter eine Gemeinde ist.
+ }
+ {
+  In §sach-4-2-3 werden <i>ein</i> Leuchter und zwei Ölbaume erwähnt.
+ <br>
+  <i>die vor dem Herrn der Erde stehen</i>: §sach-4-14
+ }
+ {
+  TODO: Diese Symbole werden in §sach-4-6 und §sach-4-14 gedeutet.
+ }
+ {
   TODO: <i>Gott der Erde</i> vgl <i>Gott des Himmels</i> (<a href='http://bibel.renenyffenegger.ch/offb_11.html#v13'>Vers 13</a>, <a href='http://bibel.renenyffenegger.ch/offb_16.html#v11'>Offb&nbsp;16,11</a>).
   Siehe auch <a class='kom' href='#I1mo-24-3'>1.&nbsp;Mo&nbsp;24,3</a>.
- }
- {
-  Vgl mit den 7 goldenen Leuchtern (<a href='http://bibel.renenyffenegger.ch/offb_1.html#v12'>Offb&nbsp;1,12</a>), wo ein Leuchter eine Gemeinde isst.
- }
- {
-  TODO: In <a href='http://bibel.renenyffenegger.ch/sach_4.html#v2'>Sach 4,2-3</a> werden <i>ein</i> Leuchter und zwei Ölbaum und  erwähnt.
-  Vgl <i>vor dem Gott der Erde stehen</i> mit <a href='http://bibel.renenyffenegger.ch/sach_4.html#v14'>Sach&nbsp;4,14</a>.
  }
 #}
 #offb-11-6 {
  {
-  TODO: <i>Vollmacht</i> (<span class='gr'>ἐξουσία</span>, Strongs 1849), sonst häufig (?) mit 'Macht' übersetzt.
-  Vgl auch <a href='http://bibel.renenyffenegger.ch/offb_13.html#v2'>Offb&nbsp;13,2</a>, <a href='http://bibel.renenyffenegger.ch/offb_14.html#v18'>Offb&nbsp;14,18</a>
+  Vgl mit dem Namen Gottes, der Macht über die <i>Plagen</i> hat: §offb-16-9.
  }
  {
-  Der Name Gottes hat Macht über die <i>Plagen</i>: <a href='http://bibel.renenyffenegger.ch/offb_16.html#v9'>Offb&nbsp;16,9</a>.
+  TODO: <i>Vollmacht</i> (<span class='gr'>ἐξουσία</span>, Strongs 1849), sonst häufig (?) mit 'Macht' übersetzt.
+  Vgl auch <a href='http://bibel.renenyffenegger.ch/offb_13.html#v2'>Offb&nbsp;13,2</a>, <a href='http://bibel.renenyffenegger.ch/offb_14.html#v18'>Offb&nbsp;14,18</a>
  }
 #}
 #offb-11-7 {
@@ -120018,7 +120049,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-11-12 {
  {
-  Auch → biblisches/Personen/Johannes[Johannes] ist in den Himmel gestiegen, nachdem der Herr ihm gesagt hat «Komm hier herauf»: §+offb-4-1.
+  Auch → biblisches/Personen/Johannes[Johannes] wird geboten, in den Himmel heraufzusteigen: §+offb-4-1.
  }
  {
   <i>Laute Stimme aus dem Himmel</i>: vgl §+offb-10-4
@@ -120405,6 +120436,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Ein <i>Kopf, wie zum Tod geschlachtet</i>: vgl §1mo-3-15
  }
  {
+  <i>Todeswunde</i> (<span class='gr'>πληγη του θανατου</span>) könnte evtl. wörtlicher mit «Schlag des Todes» übersetzt werden.
+ }
+ {
   TODO: <i>verwundert</i>: vgl <a href='http://bibel.renenyffenegger.ch/offb_17.html#v6'>Offb 17,6-7</a>, wo Johannes sich verwundert,
   und <a href='http://bibel.renenyffenegger.ch/offb_17.html#v8'>Offb&nbsp;17,8</a>, wo nochmals gesagt wird, dass die Welt sich
   wundern wird, wenn sie das Tier sieht.
@@ -120427,7 +120461,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>42 Monate</i>: <a class='kom' href='#Ioffb-12-6'>Offb&nbsp;12,6</a>.
  }
  {
-  Ein Mund wird ihm gegeben: vgl mit dem feuerroten Pferde, dem ein Schwert gegeben wird: §+offb-6-4.
+  Ein Mund wird ihm gegeben: vgl mit dem feuerroten Pferd, dem ein Schwert gegeben wird: §+offb-6-4.
  }
  {
   <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
@@ -120488,7 +120522,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Ausharren</i>: §+offb-1-9
  }
  {
-  <i>wenn jemand mit dem Schwert töten wird, so muß er mit dem Schwert getötet werden</i>: §+offb-6-4.
+  <i>wenn jemand mit dem Schwert töten wird, so muß er mit dem Schwert getötet werden</i>: §+offb-6-4, §mt-26-52.
  }
  {
   <i>Ausharren</i>: vgl §+lk-21-19
@@ -120776,6 +120810,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-14-11 {
  {
+  <i>Rauch steigt auf von Ewigkeit zu Ewigkeit</i>: §offb-19-3. Vgl §offb-9-3, §offb-8-4
+ }
+ {
   Nachdem der HERR in Bozra ein Schlachtopfer gehalten hat (<a class='kom' href='#Ijes-34-5'>Jes&nbsp;34,5</a>), wird Edom zu brennendem Pech, wo der
   Rauch ewig aufsteigt (§jes-34-10).
  <br>
@@ -120907,10 +120944,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
    → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel[Ein anderes Zeichen im Himmel] Vgl §+offb-12-1
  }
  {
-   Vgl 7. Schale: 'es ist geschehen' (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v17'>Offb&nbsp;16,17</a>).
+  Vgl 7. Schale: 'es ist geschehen' (<a href='http://bibel.renenyffenegger.ch/offb_16.html#v17'>Offb&nbsp;16,17</a>).
  }
  {
-  <i>Plage</i>: <a class='kom' href='#Ioffb-9-20'>Offb&nbsp;9,20</a>.
+  <i>Plage</i>: §+offb-9-18.
  }
  {
   <i>Sieben Engel</i>: <a class='kom' href='#Ioffb-14-6'>Offb&nbsp;14,6</a>.
@@ -121066,7 +121103,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben, vgl §offb-14-7
  }
  {
-  <i>Macht über die Plage</i>: <a href='http://bibel.renenyffenegger.ch/offb_11.html#v6'>Offb&nbsp;11,6</a>.
+  <i>Macht über die Plage</i>: §offb-11-6.
  }
 #}
 #offb-16-10 {
@@ -121690,7 +121727,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-19-3 {
  {
-  <i>Ihr Rauch steigt auf vn Ewigkeit zu Ewigkeit</i> vgl §offb-14-11
+  <i>Ihr Rauch steigt auf von Ewigkeit zu Ewigkeit</i> vgl §offb-14-11
  }
 #}
 #offb-19-4 {
@@ -121896,7 +121933,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-19-21 {
  {
-  Vgl das <i>Schwert, das aus seinem Mund hervorgeht</i> mit <a class='kom' href='#Ioffb-2-16'>Offb&nbsp;2,16</a>.
+  Vgl das <i>Schwert, das aus seinem Mund hervorgeht</i> mit §+offb-2-16.
  }
 #}
 @}
