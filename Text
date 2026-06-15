@@ -63580,6 +63580,9 @@
 @Hesekiel 2 {
 #hes-2-1 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch[Menschensohn]
+ }
+ {
   TODO: <i>Menschensohn</i>
   <br>Vgl <a class='kom' href='#Ispr-8-4'>Spr&nbsp;8,4</a>.
  }
@@ -63626,6 +63629,9 @@
 #hes-3-3 {
  {
   <i>Rolle</i>: §hes-2-9
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch[Menschensohn]
  }
  {
   Auch → biblisches/Personen/Johannes musste ein Buch essen, das in seinem Mund <i>süss wie Honig</i> war (aber zusätzlich noch bitter in seinem Bauch): §offb-10-10.
@@ -65902,8 +65908,7 @@
 #}
 #dan-3-25 {
  {
-   TODO: Vgl <i>Sohn der Götter</i> mit <i>Sohn des Menschen</i> (<a href='http://bibel.renenyffenegger.ch/dan_7.html#v13'>Dan&nbsp;7,13</a>),
-   <i>Menschensohn</i> (<a href='http://bibel.renenyffenegger.ch/dan_8.html#v17'>Dan&nbsp;8,17</a>)
+  Vgl <i>Sohn der Götter</i> mit <i>Sohn des Menschen</i> (§dan-7-13), <i>Menschensohn</i> (§dan-8-17)
  }
 #}
 #dan-3-28 {
@@ -66325,12 +66330,12 @@
    S. a. §offb-1-7
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch, vgl §dan-3-25
  }
  {
-  TODO: <i>Sohn des Menschen</i>: <a class='kom' href='#Idan-3-25'>Dan&nbsp;3,25</a>.
-  <br>Beachte auch das «Herz des Menschen» (§Vdan-7-4) und die «Menschenaugen» (§Vdan-7-8).
-  <br>Beachte allgemein «Mensch» im Buch Daniel.
+  TODO: Beachte auch das «Herz des Menschen» (§Vdan-7-4) und die «Menschenaugen» (§Vdan-7-8).
+ <br>
+  Beachte allgemein «Mensch» im Buch Daniel.
  }
 #}
 #dan-7-14 {
@@ -66367,7 +66372,7 @@
 #}
 #dan-7-20 {
  {
-   Das Horn hat einen Mund, der grosse Dinge redete (vgl §+Vdan-7-8) und führt Krieg gegen die Heiligen. Vgl §offb-13-5-7.
+  Das Horn hat einen Mund, der grosse Dinge redete (vgl §+Vdan-7-8, §dan-7-25) und führt Krieg gegen die Heiligen. Vgl §offb-13-5-7.
  }
 #}
 #dan-7-21 {
@@ -66385,8 +66390,10 @@
 #}
 #dan-7-25 {
  {
-  'Eine Zeit, zwei Zeiten und eine halbe Zeit' ist offenbar 1260 Tage (vgl <a href='http://bibel.renenyffenegger.ch/offb_12.html#v6'>Offb&nbsp;12,6</a>
-  mit <a href='http://bibel.renenyffenegger.ch/offb_12.html#v14'>Offb&nbsp;12,14</a>)
+  <i>er wird Worte reden gegen den Höchsten und die Heiligen der höchsten Örter vernichten</i> vgl §Vdan-7-8, §Vdan-7-20, §dan-11-36, §offb-13-5
+ }
+ {
+  <i>Eine Zeit, zwei Zeiten und eine halbe Zeit</i> entspricht möglicherweise den 1260 Tagen (vgl §offb-12-6 mit §offb-12-14)
   <br>Vgl auch <a class='kom' href='#Idan-4-16'>Dan&nbsp;4,16</a>.
  }
  {
@@ -66545,6 +66552,11 @@
  }
  {
   TODO: Strongs 6586
+ }
+#}
+#dan-8-24 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch[Menschensohn], vgl §dan-3-25
  }
 #}
 #dan-8-25 {
@@ -67009,7 +67021,7 @@
   <i>Gelingen haben</i> vgl §dan-8-12
  }
  {
-  <i>er wird sich erheben und groß machen über jeden Gott</i> vgl §2thes-2-4
+  <i>er wird sich erheben und groß machen über jeden Gott</i> vgl §2thes-2-4, §dan-7-25, §offb-13-5
  }
 #}
 #dan-11-37 {
@@ -70507,7 +70519,7 @@
   §lk-3-17
  }
  {
-  <i>Weizen sammeln</i>: vgl §mt-13-30, §+mt-24-31
+  <i>Weizen sammeln</i>: vgl §mt-13-30, §+mt-24-31, vgl §+joh-4-35
  }
  {
   <i>unauslöschliches Feuer</i> vgl §mk-9-43, §jer-17-27, §jes-66-24
@@ -86482,7 +86494,7 @@
   Vgl §+joh-1-23.
  }
  {
-  <i>meine Freude ist nun erfüllt</i> vgl §joh-16-24, §joh-17-13
+  <i>meine Freude ist nun erfüllt</i> vgl §joh-16-24, §joh-17-13, §joh-4-36
  }
 #}
 #joh-3-31 {
@@ -86663,7 +86675,7 @@
 #}
 #joh-4-35 {
  {
-  §mt-9-37, §lk-10-2
+  §mt-9-37, §lk-10-2, §mt-3-12, §mk-4-29, §offb-14-14
  }
  {
   Wenn es noch vier Monate bis zur Ernte sind, und die Ernte am Wochenfest ist oder beginnt (§2mo-23-15-ff), dann sind wir hier noch vor dem → biblisches/Eigene-Uebersetzung/Konkordanz/Fest/Passah.
@@ -86675,6 +86687,9 @@
  }
  {
   <i>Säen und ernten</i> vgl §lk-19-21
+ }
+ {
+  <i>sich freuen</i>: §+joh-3-29
  }
 #}
 #joh-4-37 {
@@ -117572,7 +117587,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Erzengel</i> vgl §1thes-4-16
  }
  {
-  Vgl §sach-3-2.
+  <i>Der Herr schelte dich</i> §sach-3-2.
  }
  {
   Gemäss → Geschichte/Kirche/Personen/Väter/Clemens-von-Alexandria zitiert Judas aus einem nun verschollenen Abschnitt aus der → biblisches/Apokryphen/Himmelfahrt-des-Moses.
@@ -118016,7 +118031,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte: auch die sieben Engel mit den sieben Plagen sind <i>um die Brust gegürtet mit goldenen Gürteln</i>, §offb-15-6
  }
  {
-  <i>Einem Sohn des Menschen gleichen</i>: vgl §offb-14-14.
+  <i>Einem → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch[Sohn des Menschen] gleichen</i>: vgl §offb-14-14.
   <br>
   Vgl auch §+ps-8-5.
  }
@@ -120482,13 +120497,16 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-13-5 {
  {
-  <i>42 Monate</i>: <a class='kom' href='#Ioffb-12-6'>Offb&nbsp;12,6</a>.
- }
- {
   Ein Mund wird ihm gegeben: vgl mit dem feuerroten Pferd, dem ein Schwert gegeben wird: §+offb-6-4.
  }
  {
+  <i>große Dinge und Lästerungen reden</i> vgl §dan-7-25, §dan-11-36
+ }
+ {
   <i>Lästerung</i>: <span class='gr'>βλασφημία</span>
+ }
+ {
+  <i>42 Monate</i>: <a class='kom' href='#Ioffb-12-6'>Offb&nbsp;12,6</a>.
  }
  {
   <i>Krieg zu führen</i>: Sch2K und Elberfelder übersetzen mit «zu wirken». Vgl §Voffb-13-7, §offb-12-17
@@ -120540,7 +120558,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-13-10 {
  {
-  → biblisches/Bücher/prophetisch/Offenbarung#hier-ist
+  → biblisches/Bücher/prophetisch/Offenbarung#hier-ist, vgl §offb-14-12
  }
  {
   <i>Ausharren</i>: §+offb-1-9
@@ -120797,7 +120815,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/die-Ehre-Geben, vgl §offb-16-9, §+1petr-2-17
  }
  {
-  <i>Stunde seines Gerichts ist gekommen</i> vgl §offb-14-15, §offb-18-10
+  <i>Stunde seines Gerichts ist gekommen</i> vgl §Voffb-14-15, §offb-18-10
  }
 #}
 #offb-14-8 {
@@ -120854,8 +120872,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-14-12 {
  {
-  <i>Hier ist</i>: <a class='kom' href='#Ioffb-13-10'>Offb&nbsp;13,10</a>.
-  <br><i>Ausharren</i>: §lk-21-19, §+offb-1-9
+  → biblisches/Bücher/prophetisch/Offenbarung#hier-ist, vgl §offb-13-10
+  <br>
+   <i>Ausharren</i>: §lk-21-19, §+offb-1-9
  }
  {
   <i>Gebote Gottes halten</i> §offb-12-17, vgl §offb-22-14
@@ -120890,7 +120909,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-14-14 {
  {
-  <i>Einem Sohn des Menschen gleichen</i>: vgl §+offb-1-13.
+  <i>Einem → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch[Sohn des Menschen] gleichen</i>: vgl §offb-1-13
  }
  {
   <i>Wolke</i>: wird hier die Wiederkunft des Herrn beschrieben? Vgl §+offb-1-7.
@@ -120907,10 +120926,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-14-15 {
  {
-  Vgl <a class='kom' href='#Imt-13-30'>Mt&nbsp;13,30</a> ('Die Ernte ist das Ende dieser Weltzeit' <a href='http://bibel.renenyffenegger.ch/mt_13.html#v39'>Mt&nbsp;13,39</a>).
- }
- {
-  <i>Stunde des Erntens ist gekommen</i> vgl §offb-14-7
+  <i>Stunde des Erntens ist gekommen</i> vgl §Voffb-14-7
+ <br>
+  «Die Ernte ist das Ende dieser Weltzeit» §+mt-13-30, §mt-13-39
  }
  {
   <i>Schicke deine Sichel und Ernte</i>, vgl §joe-4-13, §mk-4-29
