@@ -55958,7 +55958,7 @@
 #}
 #jes-1-13 {
  {
-  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk ein Gräuel</i> vgl §jer-44-21-23
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Räucherwerk ein Gräuel</i>. Möglicherweise betrachtet der Herr dieses Räucherwerk als ob es fremden Göttern geräuchert wurde, vgl §jer-44-21-23
  }
 #}
 #jes-1-15 {
@@ -61006,6 +61006,11 @@
   TODO: Hat Jojakin/Jekonja diese Warnung beherzigt (§2koe-24-12) und ist deshalb verschont geblieben (§jer-52-31-34)?
  }
 #}
+#jer-21-10 {
+ {
+  <i>zum Bösen und nicht zum Guten</i> vgl §jer-39-16, §jer-44-27, §am-9-4
+ }
+#}
 @}
 @Jeremia 22 {
 #jer-22-11 {
@@ -62365,6 +62370,9 @@
 #}
 #jer-39-16 {
  {
+  <i>zum Bösen und nicht zum Guten</i> vgl §jer-21-10, §jes-44-27, §am-9-4
+ }
+ {
   <i>Ebedmelech</i> §jer-38-7
  }
 #}
@@ -62452,6 +62460,11 @@
   Vgl mit <a href='http://bibel.renenyffenegger.ch/jer_43.html#v2'>Jer&nbsp;43,2</a>.
  }
 #}
+#jer-42-6 {
+ {
+  Vgl §jer-44-16
+ }
+#}
 #jer-42-14 {
  {
   Nach Ägypten ziehen: <a class='kom' href='#Ijer-41-17'>Jer&nbsp;41,17</a>.
@@ -62516,6 +62529,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/zurückkehren[Nach Ägypten zurückkehren]
  }
 #}
+#jer-44-16 {
+ {
+  <i>so werden wir nicht auf dich hören</i> vgl §jer-42-6
+ }
+#}
 #jer-44-17 {
  {
   <i>Himmelskönigin</i>: <a class='kom' href='#Ijer-7-18'>Jer&nbsp;7,18</a>.
@@ -62539,6 +62557,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Opfer/Trankopfer#trankopfer-anderen-goettern
  }
 #}
+#jer-44-27 {
+ {
+  <i>zum Bösen und nicht zum Guten</i> vgl §jer-21-10, §jer-39-16, §am-9-4
+ }
+#}
 #jer-44-28 {
  {
   <i>ein zählbares Häuflein</i> §jes-41-14, §1mo-34-30
@@ -62553,10 +62576,7 @@
 @Jeremia 45 {
 #jer-45-1 {
  {
-  <i>Baruch</i>: <a class='kom' href='#Ijer-32-12'>Jer&nbsp;32,12</a>.
- }
- {
-  Baruch schreibt die Worte Jeremias in ein Buch, vgl §jer-36-32
+  Baruch schreibt die Worte Jeremias in ein Buch, §jer-36-32. Vgl §jer-32-12
  }
  {
   Das <i>vierte Jahr Jojakims</i> §+jer-25-1.
@@ -68240,6 +68260,11 @@
  {
   TODO: Hier und in <a href='http://bibel.renenyffenegger.ch/zeph_2.html#v14'>Zeph&nbsp;2,14</a> kommt Strongs 3730 (eigentlich nur «Knauf») vor.
   Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Kaphtor-Knauf
+ }
+#}
+#am-9-4 {
+ {
+  <i>zum Bösen und nicht zum Guten</i> vgl §jer-21-10, §jer-39-16, §jer-44-27
  }
 #}
 #am-9-6 {
