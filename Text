@@ -37163,16 +37163,19 @@
 @2. Könige 24 {
 #2koe-24-1 {
  {
+  Dies geschah wohl im dritten Jahr Jojakims, §dan-1-1-2
+ }
+ {
+  Jojakim hat sich wohl im selben Jahr empört, in dem auch die dreijährige Ausbildungszeit Daniels zu Ende ging, §dan-1-5.
+ }
+ {
   Auch Mattanja/Zedekia empörte sich gegen Nebukadnezar: §V2koe-24-20. Vgl §jer-27-8
  }
  {
   → biblisches/Personen/Nebukadnezar
  }
  {
-  <i>Jojakim wurde sein Knecht</i> §dan-1-2, vgl §2koe-17-3
- }
- {
-  Jojakim hat sich wohl im selben Jahr empört, in dem auch die dreijährige Ausbildungszeit Daniels zu Ende ging, §dan-1-5.
+  <i>Jojakim wurde sein Knecht</i> vgl §2koe-17-3
  }
  {
   TODO: Jojakim war 3 Jahre unteran (die ersten?), im 4. Jahr Jojakims ergeht ein Wort an Jeremia (<a href='http://bibel.renenyffenegger.ch/jer_25.html#v1'>Jer&nbsp;25,1</a>).
@@ -37200,10 +37203,10 @@
 #}
 #2koe-24-6 {
  {
-  Befor Jojakim sich zu seinen Vätern legte, wurde er von Nebukadnezar nach Babel geführt, §2chr-36-6
+  Bevor Jojakim sich zu seinen Vätern legte, wurde er von Nebukadnezar nach Babel geführt, §2chr-36-6
  }
  {
-   → biblisches/Personen/Jekonja-Jojakin
+  → biblisches/Personen/Jekonja-Jojakin
  }
 #}
 #2koe-24-7 {
@@ -37367,9 +37370,10 @@
 @2. Könige 25 {
 #2koe-25-1 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/jer_39.html#v1'>Jer&nbsp;39,1</a>,
-  <a href='http://bibel.renenyffenegger.ch/jer_52.html#v4'>Jer&nbsp;52,4</a>,
-  <a href='http://bibel.renenyffenegger.ch/hes_24.html#v1'>Hes 24,1ff</a>.
+  Vgl §jer-39-1, §jer-52-4,
+ }
+ {
+  Hesekiel hatte diesen Tag prophezeit, §hes-24-1-ff
  }
  {
   Sie bauten eine <i>Verschanzung … ringsumher</i> vgl §lk-19-43
@@ -63662,6 +63666,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Sohn/Mensch[Menschensohn]
  }
  {
+  <i>stelle dich auf deine Füße</i> vgl §hes-3-24, §hes-37-10
+ }
+ {
   TODO: <i>Menschensohn</i>
   <br>Vgl <a class='kom' href='#Ispr-8-4'>Spr&nbsp;8,4</a>.
  }
@@ -63764,6 +63771,9 @@
 #hes-3-24 {
  {
   <i>Der Geist kam in mich und stellte mich auf meine Füße</i> vgl §hes-2-2
+ }
+ {
+  <i>stellte mich auf meine Füße</i> §hes-2-1
  }
 #}
 @}
@@ -64166,7 +64176,9 @@
 #}
 #hes-14-14 {
  {
-   → biblisches/Personen/Noah/index, → biblisches/Personen/Daniel, → biblisches/Personen/Hiob/index
+  → biblisches/Personen/Noah/index, → biblisches/Personen/Daniel, → biblisches/Personen/Hiob
+ <br>
+  Vgl §hes-28-3
  }
 #}
 @}
@@ -64530,12 +64542,10 @@
 #}
 @}
 @Hesekiel 24 {
-#hes-24-1 {
- {
-   <i>9. Jahr, zehnter Monat, zehnter Tag</i>: Vgl <a href='http://bibel.renenyffenegger.ch/2koe_25.html#v1'>2.&nbsp;Kö&nbsp;25,1</a>.
- }
-#}
 #hes-24-2 {
+ {
+  Nebukadnezar kam im <i>9. Jahr</i> seiner Regierung, <i>im zehnten Monat, am Zehnten des Monats</i> und belagerte Jerusalem, §2koe-25-1.
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/An-eben-diesem-Tag
  }
@@ -64704,7 +64714,10 @@
 #}
 #hes-28-3 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis/index: Sch2K übersetzt mit »Verborgenes«.
+  <i>weiser als Daniel</i> vgl §hes-14-14
+ }
+ {
+  <i>Verborgenes</i>: Sch2K übersetzt mit → biblisches/Eigene-Uebersetzung/Konkordanz/Geheimnis.
  }
 #}
 #hes-28-4 {
@@ -64858,6 +64871,9 @@
 #hes-31-6 {
  {
   <i>Alle Vögel des Himmels nisteten in seinen Zweigen</i> vgl §lk-13-19
+ }
+ {
+  TODO: <i>Vögel des Himmels, die sich in seinen Zweigen nisten</i> vgl §+dan-4-12
  }
 #}
 @}
@@ -65053,6 +65069,11 @@
   <i>mein Volk, … euer Gott</i> vgl §jer-11-4
  }
 #}
+#hes-36-33 {
+ {
+  <i>Städte bewohnt machen und Trümmer aufbauen</i> vgl §dan-9-25
+ }
+#}
 #hes-36-35 {
  {
   <i>Garten Eden</i> vgl §joe-2-3, §jes-51-3.
@@ -65068,6 +65089,16 @@
 #hes-37-9 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde
+ }
+#}
+#hes-37-10 {
+ {
+  <i>sie standen auf ihren Füßen</i> vgl §hes-2-1
+ }
+#}
+#hes-37-12 {
+ {
+  <i>ich werde eure Gräber öffnen und euch aus euren Gräbern heraufkommen lassen</i> vgl §joh-5-28
  }
 #}
 #hes-37-14 {
@@ -66057,6 +66088,11 @@
   <i>Grosser Baum</i> vgl §lk-13-19
  }
 #}
+#dan-4-12 {
+ {
+  TODO: <i>Vögel des Himmels wohnen in seinen Zweigen</i> vgl §mt-13-32, §lk-13-19, §hes-31-6
+ }
+#}
 #dan-4-16 {
  {
   Vgl <i>sieben Zeiten</i> mit «eine Zeit, zwei Zeiten und eine halbe Zeit» in §+dan-7-25.
@@ -66835,7 +66871,7 @@
 #}
 #dan-9-25 {
  {
-  <i>Jerusalem wiederherstellen</i>: §esr-4-12
+  <i>Jerusalem wiederherstellen</i>: §esr-4-12, vgl §hes-36-33
  <br>
   Beachte: Jerusalem wird wieder aufgebaut - und das Volk des kommenden Fürsten wird die Stadt <i>und das Heiligtum</i> wieder zerstören (§Vdan-9-26).
  }
@@ -73351,6 +73387,9 @@
  }
  {
   Beachte, ein Senfkorn wächst normalerweise nicht zu einem Baum.
+ }
+ {
+  TODO: <i>Vögel des Himmels, die sich in seinen Zweigen niederlassen</i> vgl §+dan-4-12
  }
 #}
 #mt-13-33 {
@@ -83720,6 +83759,9 @@
   <br>
   §+mt-13-32
  }
+ {
+  TODO: <i>Vögel des Himmels, die sich in seinen Zweigen niederlassen</i> vgl §+dan-4-12
+ }
 #}
 #lk-13-21 {
  {
@@ -87035,7 +87077,7 @@
 #}
 #joh-5-28 {
  {
-  <i>aus den Gräbern heraus</i>: <a class='kom' href='#Ips-107-20'>Ps&nbsp;107,20</a>.
+  <i>aus den Gräbern heraus</i> vgl §hes-37-12, §+ps-107-20
  }
  {
   → biblisches/Bücher/Evangelien/Johannes#joh-stunde
