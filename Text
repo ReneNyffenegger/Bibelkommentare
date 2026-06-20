@@ -37169,7 +37169,10 @@
   → biblisches/Personen/Nebukadnezar
  }
  {
-  <i>Jojakim wurde sein Knecht</i> vgl §2koe-17-3
+  <i>Jojakim wurde sein Knecht</i> §dan-1-2, vgl §2koe-17-3
+ }
+ {
+  Jojakim hat sich wohl im selben Jahr empört, in dem auch die dreijährige Ausbildungszeit Daniels zu Ende ging, §dan-1-5.
  }
  {
   TODO: Jojakim war 3 Jahre unteran (die ersten?), im 4. Jahr Jojakims ergeht ein Wort an Jeremia (<a href='http://bibel.renenyffenegger.ch/jer_25.html#v1'>Jer&nbsp;25,1</a>).
@@ -37205,13 +37208,13 @@
 #}
 #2koe-24-7 {
  {
-  In <a class='kom' href='#I1koe-8-65'>1.&nbsp;Kö&nbsp;8,65</a> gehörte das Land vom Bach Ägyptens bis Lebo Hamat noch zu 'Salomo'.
+  In §+1koe-8-65 gehörte das Land vom Bach Ägyptens bis Lebo Hamat noch zu 'Salomo'.
  }
  {
   <i>vom Fluss Ägyptens an bis zum Strom Euphrat</i>: §1mo-15-18, §+2koe-23-29
  }
  {
-  Hier wird wohl <a class='kom' href='#Ijer-27-6'>Jer&nbsp;27,6</a> erfüllt.
+  Hier wird wohl §+jer-27-6 erfüllt.
  }
  {
   TODO Beachte: dieser Vers erscheint zwischen «Und Jojakin, sein Sohn, wurde König an seiner Statt.» und «Achtzehn Jahre war Jojakin alt,…».
@@ -37257,6 +37260,9 @@
 #}
 #2koe-24-12 {
  {
+  §2chr-36-10
+ }
+ {
   Das erste Regierungsjahr Nebukadnezars fällt in die Regierungszeit Jojakim/Eljakims.
   <br>TODO: <a class='kom' href='#I2chr-36-9'>2.&nbsp;Chr&nbsp;36,9</a>.
  }
@@ -37279,7 +37285,10 @@
 #}
 #2koe-24-14 {
  {
-  Unter den <i>Weggeführten</i> war (vermutlich) auch Hesekiel (§hes-1-1-2) und Mordekai (§est-2-5-6).
+  Vgl mit der Wegführung der Jünglinge aus könglichem Samen (§dan-1-3-ff) und der Wegführung nach der Zerstörung des Tempels (§2koe-25-11).
+ }
+ {
+  TODO: Unter den <i>Weggeführten</i> war (vermutlich) auch Hesekiel (§hes-1-1-2) und Mordekai (§est-2-5-6). Oder wurden die mit Daniel weggeführt (§dan-1-3-ff)
  }
 #}
 #2koe-24-15 {
@@ -37406,6 +37415,11 @@
 #2koe-25-9 {
  {
   §2chr-36-19, §jer-52-13. Vgl §jes-64-10
+ }
+#}
+#2koe-25-11 {
+ {
+  Vgl mit der Wegführung der Jünglinge des königlichen Samens (§dan-1-3) und der obersten und streitbaren Männer (§2koe-24-14)
  }
 #}
 #2koe-25-12 {
@@ -43491,7 +43505,7 @@
 #}
 #2chr-36-10 {
  {
-  §2koe-24-17
+  §2koe-24-12, §2koe-24-17
  }
  {
  <i>Um die Jahreswende</i>: siehe <a class='kom' href='#I2sam-11-1'>2.&nbsp;Sam&nbsp;11,1</a>.
@@ -61494,7 +61508,7 @@
 #}
 #jer-27-6 {
  {
-  Dies wird wohl in <a class='kom' href='#I2koe-24-7'>2.&nbsp;Kö&nbsp;24,7</a> erfüllt.
+  Dies wird wohl in §+2koe-24-7 erfüllt.
  }
 #}
 #jer-27-8 {
@@ -65610,6 +65624,9 @@
 #}
 #dan-1-2 {
  {
+  <i>Der Herr gab Jojakim in die Hand Nebukadnezars</i> vgl §2koe-24-1
+ }
+ {
   Beachte, dass Babel hier <i>Sinear</i> genannt wird, vgl mit §2chr-36-7 und §1mo-10-10.
  }
  {
@@ -65617,6 +65634,9 @@
  }
 #}
 #dan-1-3 {
+ {
+  Vgl mit der Wegführung der Obersten und streitbaren Männer (§2koe-24-14) under Wegführung nach der Zerstörung des Tempels (§2koe-25-11).
+ }
  {
   <i>Aspenaz</i> (<span class='hebr'>אַשְׁפְּנַז</span>, Strongs 828): 1x.
  }
@@ -65631,6 +65651,9 @@
  }
 #}
 #dan-1-5 {
+ {
+  Diese dreijährige Ausbildungszeit scheint im gleichen Jahr fertig zu sein, in dem sich auch Jojakin empört hat, §2koe-24-1
+ }
  {
   <i>Tafelkost</i> (<span class='hebr'>פת־בג</span>, Strongs 5698) wird in Sch2K mit «feine Speise» übersetzt.
   vgl §dan-11-26
@@ -69313,7 +69336,7 @@
 #}
 #sach-1-12 {
  {
-   <i>70 Jahre</i>: §+2chr-36-21.
+  <i>70 Jahre</i>: §+2chr-36-21. Vgl §sach-7-5
  }
 #}
 #sach-1-14 {
@@ -69575,7 +69598,7 @@
 #}
 #sach-7-5 {
  {
-   <i>70 Jahre</i>: §+2chr-36-21.
+   <i>70 Jahre</i>: §+2chr-36-21, vgl §sach-1-12
  }
 #}
 #sach-7-7 {
