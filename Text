@@ -607,13 +607,10 @@
   Vgl §+1mo-1-26.
  }
  {
+  <i>Er hauchte in seine Nase den Odem des Lebens und er Mensch wurde eine lebendige Seele</i>: §1kor-15-45, §hes-37-5
+ }
+ {
   <i>Odem in der Nase</i>: §1mo-7-22, §jes-2-22 vgl §sach-12-1
- }
- {
-  TODO: <i>Odem in der Nase</i> vgl §2sam-22-16
- }
- {
-  <i>Der Mensch wurde eine lebendige Seele</i>: §1kor-15-45
  }
  {
   <i>Staub vom Erdboden</i> vgl §ps-90-3, §ps-103-14, §ps-104-29
@@ -621,6 +618,9 @@
  {
   <i>bildete</i> ist im Grundtext grammatikalisch unkerrekt mit 2 Jod geschrieben (<span class='hebr'>וַיִּיצֶר֩</span>). In §V1mo-2-19 ist dieses Wort richtig
   (<span class='hebr'>וַיִּצֶר֩</span>).
+ }
+ {
+  TODO: <i>Odem in der Nase</i> vgl §2sam-22-16
  }
 #}
 #1mo-2-8 {
@@ -16795,6 +16795,9 @@
  }
  {
   <i>Ich werde in eurer Mitte wandeln</i> §offb-2-1, §2kor-6-16
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum#mein-volk-ihr-gott[Ich werde ihr Gott, und sie werden mein Volk sein], vgl §2kor-16-6
  }
 #}
 #3mo-26-13 {
@@ -34897,9 +34900,9 @@
   Bevor → biblisches/Personen/Könige/Israel/Jehu König wurde, waren noch Ahasja (2 Jahre lang, §1koe-22-52) und Joram (12 Jahre lang, §2koe-3-1) Könige.
  }
  {
-  Jehu wird auch von Elisa gesalbt werden (<a href='http://bibel.renenyffenegger.ch/1koe_9.html#v6'>1.&nbsp;Kö&nbsp;9,6</a>). Beachte: Elisa (wie auch Jehu) wurden von Elia gesalbt.
+  Jehu wird auch von Elisa gesalbt werden (§2koe-9-2), um das Haus Ahabs auszurotten (§2koe-9-7).
+  <br>Beachte: Elisa (wie auch Jehu) wurden von Elia gesalbt.
   <br>Vgl mit <i>Jehu, der Sohn Hananis</i>: <a class='kom' href='#I1koe-16-1'>1.&nbsp;Kö&nbsp;16,1</a>.
-  <br>S.a. <i>Jehu, der Sohn Josaphats, des Sohnes Nimsis</i> §2koe-9-2
  }
  {
   <i>Abel-Mechola</i>: <a class='kom' href='#Iri-7-22'>Ri&nbsp;7,22</a>.
@@ -35525,7 +35528,7 @@
   Vgl §5mo-17-15 <i>aus der Mitte deiner Brüder sollst du einen König über dich setzen</i>
  }
  {
-  Frage: ist dies der <i>Jehu, der Sohn Nimsis</i> (Vers 20, <a class='kom' href='#I1koe-19-16'>1.&nbsp;Kö&nbsp;19,16</a>)?
+  <i>Salbung Jehus, des Sohnes Nimsis</i> vgl §1koe-19-16
  }
 #}
 #2koe-9-6 {
@@ -35534,6 +35537,9 @@
  }
 #}
 #2koe-9-7 {
+ {
+  <i>du sollst das Haus Ahabs … erschlagen</i> vgl §2chr-22-7
+ }
  {
   Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#meine-knechte-die-propheten
  }
@@ -42495,7 +42501,7 @@
   → biblisches/Personen/Könige/Israel/Jehu
  }
  {
-  §+1koe-19-16.
+  <i>welchen Jehova gesalbt hatte, um das Haus Ahabs auszurotten</i> vgl §2koe-9-7, §+1koe-19-16.
  }
 #}
 #2chr-22-8 {
@@ -51160,6 +51166,11 @@
    Sowohl das <i>Käuzchen</i> wie auch der <i>Pelikan</i> sind unreine Tiere (<a href='http://bibel.renenyffenegger.ch/3mo_11.html#v17'>3.&nbsp;Mo&nbsp;11,17-18</a>).
  }
 #}
+#ps-102-14 {
+ {
+  <i>wirst dich Zions erbarmen</i> §ps-103-13
+ }
+#}
 #ps-102-19 {
  {
   <i>Jah</i>: Elb05 übersetzt mit «Jehova», Sch2K mit «HERR», vgl <a class='kom' href='#Ips-68-19'>Ps&nbsp;68,19</a>.
@@ -51200,6 +51211,11 @@
  {
    TODO: Elberfelder übersetzt mit 'gewaltig' statt <i>gross</i>. Eine andere Übersetzung verwendet offenbar
    'übermächtig'.
+ }
+#}
+#ps-103-13 {
+ {
+  <i>Wie ein Vater sich über die Kinder erbarmt…</i> §ps-102-14
  }
 #}
 #ps-103-14 {
@@ -57493,6 +57509,11 @@
   TODO: <i>seine Festen zu zerstören</i>: vgl §jer-48-18
  }
 #}
+#jes-23-13 {
+ {
+  <i>Das Land der Chaldäer richtet seine Belagerungstürme auf</i> Vgl §hes-26-9
+ }
+#}
 #jes-23-15 {
  {
    <i>70 Jahre</i>: §+2chr-36-21.
@@ -60351,9 +60372,12 @@
    Allerdings ging es ihnen offenbar schlechter, als sie aufhörten, ihr zu räuchern (<a class='kom' href='#Ijer-44-18'>Jer&nbsp;44,18</a>).
  }
 #}
-#jer-7-22 {
+#jer-7-23 {
  {
-  Vgl §+2mo-15-26.
+  <i>Hört auf meine Stimme</i> Vgl §+2mo-15-26.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum#mein-volk-ihr-gott[so werde ich euer Gott sein, und ihr werdet mein Volk sein]
  }
 #}
 #jer-7-25 {
@@ -60635,7 +60659,7 @@
   <i>Aus dem eisernen Schmelzofen, aus Ägpypten heraufgeführt</i> Vgl §5mo-4-20.
  }
  {
-  <i>mein Volk … euer Gott</i> vgl §jer-30-22, §hes-36-28, §2kor-6-16
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum#mein-volk-ihr-gott[Ich werde ihr Gott, und sie werden mein Volk sein] vgl §jer-30-22, §hes-36-28, §2kor-6-16
  }
 #}
 #jer-11-5 {
@@ -61742,7 +61766,7 @@
 #}
 #jer-30-22 {
  {
-  <i>mein Volk … euer Gott</i> §jer-11-4, §jer-31-1
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum#mein-volk-ihr-gott[Ich werde ihr Gott, und sie werden mein Volk sein] vgl §2kor-6-16
  }
 #}
 #jer-30-24 {
@@ -64624,6 +64648,8 @@
 #hes-26-8 {
  {
   <i>Belagerungstürme</i>, <i>Wall aufschütten</i>: §+hes-4-2
+ <br>
+  Vgl mit der Prophezeiung in §jes-23-13
  }
 #}
 #hes-26-14 {
@@ -64785,6 +64811,11 @@
   TODO: Siehe <a class='kom' href='#I2mo-7-5'>2.&nbsp;Mo&nbsp;7,5</a>.
  }
 #}
+#hes-29-8 {
+ {
+  <i>ich bringe das Schwert über dich</i> vgl §hes-30-4-ff, §hes-32-11
+ }
+#}
 #hes-29-12 {
  {
   Vgl §hes-30-23-ff
@@ -64793,6 +64824,11 @@
 #hes-29-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gefangenschaft/wenden
+ }
+#}
+#hes-29-19 {
+ {
+  <i>ich gebe Nebukadrezar das Land Ägypten</i> vgl §hes-30-24
  }
 #}
 #hes-29-21 {
@@ -64814,6 +64850,11 @@
  }
  {
   TODO: <i>Der Tag ist nahe</i>: §+roem-13-12
+ }
+#}
+#hes-30-4 {
+ {
+  <i>das Schwert wird über Ägypten kommen</i> vgl §hes-29-8, §hes-32-11
  }
 #}
 #hes-30-6 {
@@ -64856,6 +64897,11 @@
 #hes-30-23 {
  {
   Vgl §hes-29-12-ff
+ }
+#}
+#hes-30-24 {
+ {
+  Vgl §hes-29-19
  }
 #}
 #hes-30-26 {
@@ -64906,7 +64952,9 @@
 #}
 #hes-32-11 {
  {
-  <i>Schwert des Königs von Babel</i>: <a class='kom' href='#Ihes-21-24'>Hes&nbsp;21,24</a>.
+  <i>Schwert des Königs von Babel</i>: §+hes-21-24, §hes-30-24-ff
+ <br>
+  Vgl §hes-29-8, §hes-30-4-ff
  }
 #}
 #hes-32-15 {
@@ -65012,6 +65060,11 @@
   'Ruhm' siehe <a class='kom' href='#Ihes-16-14'>Hes&nbsp;16,14</a>.
  }
 #}
+#hes-34-30 {
+ {
+  TODO: Vgl §joe-2-27
+ }
+#}
 #hes-34-31 {
  {
   <i>Herde meiner Weide</i>: §+ps-74-1
@@ -65066,7 +65119,7 @@
 #}
 #hes-36-28 {
  {
-  <i>mein Volk, … euer Gott</i> vgl §jer-11-4
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum#mein-volk-ihr-gott[Ich werde ihr Gott, und sie werden mein Volk sein], vgl §hes-37-27, §2kor-6-16
  }
 #}
 #hes-36-33 {
@@ -65086,6 +65139,11 @@
 #}
 @}
 @Hesekiel 37 {
+#hes-37-5 {
+ {
+  <i>Ich bringe Odem in euch, daß ihr lebendig werdet.</i> vgl §Vhes-37-14, §1mo-2-7
+ }
+#}
 #hes-37-9 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde
@@ -65103,7 +65161,10 @@
 #}
 #hes-37-14 {
  {
-   → biblisches/Bücher/prophetisch/Hesekiel#ich-der-herr-habe-geredet-hes[dass ich … geredet und es getan  habe]
+  <i>Ich werde meinen Geist in euch geben, daß ihr lebt</i> §Vhes-37-5
+ }
+ {
+  → biblisches/Bücher/prophetisch/Hesekiel#ich-der-herr-habe-geredet-hes[dass ich … geredet und es getan  habe]
  }
 #}
 #hes-37-17 {
@@ -65136,7 +65197,7 @@
 #}
 #hes-37-27 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum#mein-volk-ihr-gott[Ich werde ihr Gott, und sie werden mein Volk sein], §2kor-6-16
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum#mein-volk-ihr-gott[Ich werde ihr Gott, und sie werden mein Volk sein] vgl §hes-36-28, §2kor-6-16
  }
 #}
 #hes-37-28 {
@@ -67308,6 +67369,9 @@
 #}
 #hos-1-6 {
  {
+  <i>Lo-Ruchama</i> bedeutet «sie findet kein Erbarmen». S. a. §hos-2-3, §hos-2-25
+ }
+ {
   Vgl mit <a href='http://bibel.renenyffenegger.ch/hos_2.html#v21'>Hos&nbsp;2,21</a>.
  }
 #}
@@ -67917,6 +67981,9 @@
 #joe-2-27 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Der-HERR-in-der-Mitte-der-Kinder-Israels
+ }
+ {
+  TODO: vgl §hes-34-30
  }
 #}
 @}
@@ -69898,6 +69965,9 @@
  }
  {
   <i>In das Tal meiner Berge fliehen</i> vgl §+mt-24-16
+ }
+ {
+  <i>Und kommen wird Jehova, mein Gott, und alle Heiligen mit dir</i> vgl §1thes-3-13, §jud-1-14
  }
 #}
 #sach-14-6 {
@@ -103295,7 +103365,7 @@
   <i>ich will unter ihnen wohnen und wandeln</i>: §1kor-14-25
  }
  {
-  <i>ich werde ihr Gott sein, und sie werden mein Volk sein</i> §3mo-26-11-12, §jer-11-4, §hes-11-20, §hes-37-26-27, vgl §offb-21-7
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum#mein-volk-ihr-gott[Ich werde ihr Gott, und sie werden mein Volk sein], vgl §3mo-26-11-12, §jer-11-4, §hes-11-20, §hes-37-26-27, vgl §offb-21-7
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götzenbild[Götzenbilder]
@@ -108422,14 +108492,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-3-13 {
  {
-  Mit <i>allen seine Heiligen</i> sind wohl die «Engel» aus §+mt-16-27 und/oder §mt-25-31 gemeint.
-  <br>Vgl §jud-1-14
+  Mit <i>allen seine Heiligen</i> sind vielleicht die «Engel» aus §+mt-16-27 und/oder §mt-25-31 gemeint, vgl §2thes-1-7 aber auch §2thes-1-10.
+ <br>
+  Vgl §sach-14-5, §jud-1-14
  }
  {
   → biblisches/Bücher/Paulus/Thessalonicher#thes-wiederkunft[Erwähnung der Wiederkunft in den Thessalonicherbriefen]
- }
- {
-  TODO: vgl §2thes-1-10.
  }
 #}
 @}
@@ -108898,14 +108966,14 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-1-7 {
  {
-  Vgl <a class='kom' href='#I1thes-1-10'>1.&nbsp;Thes&nbsp;1,10</a>.
+  Vgl §+1thes-1-10.
  }
  {
   → biblisches/Bücher/Paulus/Thessalonicher#thes-wiederkunft[Erwähnung der Wiederkunft in den Thessalonicherbriefen]
  }
  {
-  Vgl die <i>Offenbarung des Herrn mit den Engeln</i> mit der <i>beim Kommen des Herrn Jesus Christus mit all seinen Heiligen</i> (<a href='http://bibel.renenyffenegger.ch/1thes_3.html#v13'>1.&nbsp;Thes&nbsp;3,13</a>).
-  <br>S.a. <a class='kom' href='#Imt-16-27'>Mt&nbsp;16,27</a>.
+  Vgl die <i>Offenbarung des Herrn mit den Engeln</i> mit der <i>beim Kommen des Herrn Jesus Christus mit all seinen Heiligen</i> (§1thes-3-13).
+  <br>S.a. §+mt-16-27.
  }
 #}
 #2thes-1-8 {
@@ -117810,10 +117878,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jud-1-14 {
  {
-   <i>Tausende</i> <span class='gr'><a href="https://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s3461">μυριάς</a></span> (Strongs 3461),
-   könnte wohl auch mit «Zehntausende» übersetzt werden: §+lk-12-1, §+hebr-12-22.
-   <br>
-    <i>gekommen inmitten seiner Tausenden</i> vgl §5mo-33-2, §1thes-3-13
+  <i>Tausende</i> <span class='gr'><a href="https://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s3461">μυριάς</a></span> (Strongs 3461),
+  könnte wohl auch mit «Zehntausende» übersetzt werden: §+lk-12-1, §+hebr-12-22.
+ <br>
+  <i>gekommen inmitten seiner Tausenden</i> vgl §5mo-33-2, §1thes-3-13
  }
  {
   <i>Der siebte</i>: vgl §+2petr-2-5.
