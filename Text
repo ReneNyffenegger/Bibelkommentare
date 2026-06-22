@@ -5762,6 +5762,11 @@
 }
 { 1. Mose 31-40
 @1. Mose 31 {
+#1mo-31-1 {
+ {
+  <i>Reichtum</i>: <span class='hebr'>כָּבֹ֖ד</span> (Strongs 3519) wird an anderen Orten auch mit «Herrlichkeit» (z. B. in §1mo-45-13) oder mit «Ehre» (z. B. in §1mo-49-6) übersetzt
+ }
+#}
 #1mo-31-3 {
  {
   <i>Kehre zurürck…</i> vgl §1mo-12-1
@@ -7584,6 +7589,11 @@
   <i> du und deine Söhne und die Söhne deiner Söhne</i> vgl mit dem «vierten Geschlecht», §1mo-15-16
  }
 #}
+#1mo-45-13 {
+ {
+  <i>Reichtum</i>: §+1mo-31-1
+ }
+#}
 #1mo-45-14 {
  {
   <i>um den Hals fallen</i>: §+1mo-33-4
@@ -8045,6 +8055,11 @@
 #1mo-49-5 {
  {
   Siehe <a href='http://bibel.renenyffenegger.ch/1mo_34.html#v25'>1.&nbsp;Mo&nbsp;34,25-30</a>.
+ }
+#}
+#1mo-49-6 {
+ {
+  <i>Ehre</i>: §+1mo-31-1
  }
 #}
 #1mo-49-7 {
@@ -10400,6 +10415,11 @@
   <i>Den HERRN erkennen</i>: <a class='kom' href='#I2mo-6-7'>2.&nbsp;Mo&nbsp;6,7</a>
  }
 #}
+#2mo-16-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit#gottes-herrlichkeit-sehen, vgl §2mo-33-18
+ }
+#}
 #2mo-16-13 {
  {
   <i>Wachteln</i> §ps-78-26 (?), §ps-105-40, §4mo-11-31-ff
@@ -11790,6 +11810,9 @@
  }
 #}
 #2mo-24-16 {
+ {
+  <i>Die Herrlichkeit ruhte</i> und <i>die Wolke bedeckte</i> vgl §2mo-40-34
+ }
  {
   <i>ruhte</i> oder «wohnte», vgl §2mo-25-8, §2mo-40-25
  }
@@ -13292,7 +13315,7 @@
 #}
 #2mo-33-18 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit#gottes-herrlichkeit-sehen
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Herrlichkeit#gottes-herrlichkeit-sehen, vgl §2mo-16-7
  }
  {
   Mose wollte die Herrlichkeit (<span class='hebr'>כָּבוֹד</span>, Strongs 3519) sehen, → biblisches/Personen/David die Herrlichkeit und die Macht (§ps-63-3).
@@ -14026,6 +14049,9 @@
  }
 #}
 #2mo-40-34 {
+ {
+  <i>die Wolke bedeckte</i> und <i>Die Herrlichkeit erfüllte</i> vgl §2mo-24-16, §4mo-17-7
+ }
  {
   <i>Die Herrlichkeit erfüllte die Wohnung</i> vgl §ps-26-8
  }
@@ -14891,7 +14917,10 @@
 #}
 #3mo-9-6 {
  {
-  <i>Das ist es, was der HERR...</i> siehe <a class='kom' href='#I2mo-16-23'>2.&nbsp;Mo&nbsp;16,23</a>.
+  <i>die Herrlichkeit Jehovas wird euch erscheinen</i> §V3mo-9-23, §4mo-14-10, §4mo-20-6
+ }
+ {
+  <i>Das ist es, was der HERR…</i> siehe <a class='kom' href='#I2mo-16-23'>2.&nbsp;Mo&nbsp;16,23</a>.
  }
 #}
 #3mo-9-15 {
@@ -18597,6 +18626,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
+ {
+  <i>Da erschien die Herrlichkeit Jehovas</i> vgl §4mo-16-19, §3mo-9-6, §V4mo-14-21, §4mo-17-7
+ }
 #}
 #4mo-14-12 {
  {
@@ -18847,6 +18879,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
  }
 #}
+#4mo-16-19 {
+ {
+  <i>Da erschien die Herrlichkeit Jehovas</i> vgl §+4mo-14-10, §4mo-17-7
+ }
+#}
 #4mo-16-21 {
  {
   <i>Sondert euch ab aus der Mitte dieser Gemeinde</i> vgl §4mo-17-10
@@ -18911,7 +18948,7 @@
 #}
 #4mo-17-7 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+  <i>Die Wolke bedeckte das → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft und die Herrlichkeit Jehovas erschien</i> vgl §2mo-40-34, §+4mo-14-10
  }
 #}
 #4mo-17-10 {
@@ -19151,6 +19188,9 @@
 #4mo-20-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Heiligtum/Mose/Zelt-der-Zusammenkunft
+ }
+ {
+  <i>Die Herrlichkeit Jehovas erschien ihnen</i> §3mo-9-6
  }
 #}
 #4mo-20-8 {
@@ -23781,7 +23821,9 @@
   Vgl §5mo-28-64-ff
  }
  {
-  Salomo hat sich möglicherweise bei seinem Gebet auf diese Verse bezogen, §1koe-8-33
+  Salomo hat sich möglicherweise bei seinem Gebet auf diese Verse bezogen, §1koe-8-33. Daniel scheint sie in seinem Bussgebet beherzigt zu haben, §dan-9-7.
+ <br>
+  <i>Wenn du es zu Herzen nimmst unter all den Nationen</i>: §1koe-8-47
  }
 #}
 #5mo-30-3 {
@@ -26032,7 +26074,7 @@
 #}
 #jos-15-56 {
  {
-  <i>Jesreel</i> (hier im Bergland), vgl mit Jesreel in der Ebene (<a class='kom' href='#Ijos-17-16'>Jos&nbsp;17,16</a>).
+  → biblisches/Orte/Jisreel (hier im Bergland), vgl mit Jisreelitin in der Ebene, §+jos-17-16.
  }
 #}
 #jos-15-57 {
@@ -26146,18 +26188,15 @@
 #}
 #jos-17-16 {
  {
+  Tal → biblisches/Orte/Jisreel, vgl §+jos-15-56, §ri-6-33
+ }
+ {
   <i>Eiserne Streitwagen</i>: Vers 18, <a href='http://bibel.renenyffenegger.ch/ri_1.html#v19'>Ri&nbsp;1,19</a>,
   <a href='http://bibel.renenyffenegger.ch/ri_4.html#v13'>Ri&nbsp;4,13</a>.
  }
  {
   TODO <i>Ebene</i> wäre wohl besser übersetzt worden mit 'Land des Tales'.
   (gleiche Problematik auch in <a class='kom' href='#Iri-1-9'>Ri&nbsp;1,9</a>).
- }
- {
-  <i>Jesreel</i>: <a class='kom' href='#Ijos-15-56'>Jos&nbsp;15,56</a>,
-  <a href='http://bibel.renenyffenegger.ch/ri_6.html#v33'>Ri&nbsp;6,33</a>.
-         <br>
-   TODO: Beachte, dass es ein Jesreel gibt, das im Geibt Issaschars liegt (<a href='http://bibel.renenyffenegger.ch/jos_19.html#v17'>Jos 19,17-18</a>).
  }
 #}
 @}
@@ -26329,6 +26368,9 @@
  }
 #}
 #jos-19-18 {
+ {
+  → biblisches/Orte/Jisreel
+ }
  {
    TODO: <i>Schunem</i>: Elisa geht dorthin (<a href='http://bibel.renenyffenegger.ch/2koe_4.html#v8'>2.&nbsp;Kö&nbsp;4,8</a>).
    <br>Abischag ist eine Schunamitin (<a href='http://bibel.renenyffenegger.ch/1koe_1.html#v3'>1.&nbsp;Kö&nbsp;1,3</a>).
@@ -27581,7 +27623,7 @@
 #}
 #ri-6-33 {
  {
-  <i>Jesreel</i>: <a class='kom' href='#Ijos-17-16'>Jos&nbsp;17,16</a>.
+  Tal → biblisches/Orte/Jisreel: §+jos-17-16.
  }
 #}
 @}
@@ -30721,6 +30763,9 @@
 #}
 #1sam-25-43 {
  {
+  → biblisches/Orte/Jisreel
+ }
+ {
   Auch die Frau Sauls hiess <i>Achinoam</i> (<a href='http://bibel.renenyffenegger.ch/1sam_14.html#v50'>1.&nbsp;Sam&nbsp;14,50</a>).
   <br>Achinoam wird zusammen mit Abigail weggeführt werden (<a href='http://bibel.renenyffenegger.ch/1sam_30.html#v5'>1.&nbsp;Sam&nbsp;30,5</a>).
   <br>Der Erstgeborene → biblisches/Personen/David[Davids] (in → biblisches/Orte/Hebron?), Amnon, ist von Achinoam, §1chr-3-4
@@ -30810,6 +30855,9 @@
  }
 #}
 #1sam-27-3 {
+ {
+  → biblisches/Orte/Jisreel
+ }
  {
   <i>David und seine beiden Frauen</i>: §1sam-25-43, §1sam-30-5, §2sam-2-2
  }
@@ -30922,7 +30970,7 @@
 @1. Samuel 29 {
 #1sam-29-1 {
  {
-  <i>Quelle in Jesreel</i> siehe <a class='kom' href='#Iri-7-1'>Ri&nbsp;7,1</a>.
+  TODO: <i>Quelle in → biblisches/Orte/Jisreel</i> vgl §+ri-7-1.
  }
 #}
 #1sam-29-5 {
@@ -30930,9 +30978,17 @@
   §+1sam-18-7
  }
 #}
+#1sam-29-11 {
+ {
+  → biblisches/Orte/Jisreel
+ }
+#}
 @}
 @1. Samuel 30 {
 #1sam-30-5 {
+ {
+  → biblisches/Orte/Jisreel
+ }
  {
   <i>Achinoam</i>: <a class='kom' href='#I1sam-25-43'>1.&nbsp;Sam&nbsp;25,43</a>.
  }
@@ -31135,6 +31191,9 @@
 #}
 #2sam-2-2 {
  {
+  → biblisches/Orte/Jisreel
+ }
+ {
   <i>Davids zwei Frauen</i>: §1sam-25-34, §1sam-27-3, §1sam-30-5
  }
 #}
@@ -31217,6 +31276,9 @@
 @}
 @2. Samuel 3 {
 #2sam-3-2 {
+ {
+  → biblisches/Orte/Jisreel
+ }
  {
   §1chr-3-1
  }
@@ -31319,6 +31381,9 @@
  }
 #}
 #2sam-4-4 {
+ {
+  → biblisches/Orte/Jisreel
+ }
  {
   TODO: Hat <i>Mephiboset</i> etwas mit 'Schande' zu tun, siehe <a class='kom' href='#I1sam-20-30'>1.&nbsp;Sam&nbsp;20,30</a>.
  }
@@ -33127,6 +33192,9 @@
 #}
 #1koe-4-12 {
  {
+  → biblisches/Orte/Jisreel
+ }
+ {
   TODO <i>Abel-Mechola</i> vs <i>Abel-Beth-Mechola</i> (<a href='http://bibel.renenyffenegger.ch/1koe_15.html#v20'>1.&nbsp;Kö&nbsp;15,20</a>). Siehe auch
   <a class='kom' href='#I4mo-33-49'>4.&nbsp;Mo&nbsp;33,49</a>.
  }
@@ -33688,7 +33756,9 @@
 #}
 #1koe-8-47 {
  {
-  <i>und sie nehmen es zu Herzen im Land, wohin sie gefangen weggeführt sind</i>: Dies wurde offenbar von Daniel in seinem «Bussgebet»beherztigt, vgl §dan-9-7
+  <i>und sie nehmen es zu Herzen im Land, wohin sie gefangen weggeführt sind</i> Dies wurde offenbar von Daniel in seinem «Bussgebet» beherzigt, vgl §dan-9-7.
+ <br>
+  S. a. §5mo-30-1
  }
 #}
 #1koe-8-50 {
@@ -34844,6 +34914,11 @@
    Beim <i>Kison</i> wurde Jabin geschlagen (<a href='http://bibel.renenyffenegger.ch/ri_4.html#v2'>Ri 4,2 ff</a>, <a href='http://bibel.renenyffenegger.ch/ps_83.html#v10'>Ps&nbsp;83,10</a>).
  }
 #}
+#1koe-18-45 {
+ {
+  → biblisches/Orte/Jisreel
+ }
+#}
 @}
 @1. Könige 19 {
 #1koe-19-4 {
@@ -34970,6 +35045,9 @@
 @1. Könige 21 {
 #1koe-21-1 {
  {
+  → biblisches/Orte/Jisreel
+ }
+ {
   <i>Ahab</i>: <a class='kom' href='#I1koe-16-29'>1.&nbsp;Kö&nbsp;16,29</a>.
  }
  {
@@ -35004,7 +35082,10 @@
 #}
 #1koe-21-23 {
  {
-  §2koe-9-36-37
+  → biblisches/Orte/Jisreel
+ }
+ {
+  Vgl §2koe-9-10, §2koe-9-36-37
  }
 #}
 #1koe-21-24 {
@@ -35512,6 +35593,9 @@
 #}
 #2koe-8-29 {
  {
+  §2chr-22-6
+ }
+ {
   Beachte <i>Ramat</i>, nicht <i>Ramot</i>, in Elbefelder 'Rama', in <a href='http://bibel.renenyffenegger.ch/2chr_22.html#v6'>2.&nbsp;Chr&nbsp;22,6</a> 'Rama'.
  }
  {
@@ -35550,6 +35634,14 @@
 #2koe-9-9 {
  {
   Vgl §1koe-21-22
+ }
+#}
+#2koe-9-10 {
+ {
+  → biblisches/Orte/Jisreel
+ }
+ {
+  Vgl §1koe-21-23
  }
 #}
 #2koe-9-26 {
@@ -35592,6 +35684,11 @@
 #}
 @}
 @2. Könige 10 {
+#2koe-10-1 {
+ {
+  → biblisches/Orte/Jisreel
+ }
+#}
 #2koe-10-4 {
  {
   TODO: welche 2 Könige konnten nicht vor Ahab bestehen?
@@ -35603,6 +35700,9 @@
  }
 #}
 #2koe-10-11 {
+ {
+  → biblisches/Orte/Jisreel
+ }
  {
   TODO: Sind diese Erschlagenen der Grund dafür, dass der Herr 'das in Jesreel vergossene Blut am Haus Jehus rächen' will (<a class='kom' href='#Ihos-1-4'>Hos&nbsp;1,4</a>).
  }
@@ -38034,6 +38134,9 @@
 @1. Chronik 3 {
 #1chr-3-1 {
  {
+  → biblisches/Orte/Jisreel
+ }
+ {
   Hier wird der Stammbaum → biblisches/Personen/David[Davids] fortgesetzt, der in §1chr-2-15 unterbrochen wird.
   <br>
   Davids Söhne, die in Hebron geboren wurden, werden auch in §2sam-3-2-ff aufgezählt. Dort wird Daniel Kileab genannt.
@@ -38219,6 +38322,9 @@
  }
  {
   <i>Hazlelponi</i> (<span class='hebr'>צְלֶלְפּוֹנִי</span>, Strongs 6753): 1x.
+ }
+ {
+  TODO: → biblisches/Orte/Jisreel
  }
 #}
 #1chr-4-4 {
@@ -40883,6 +40989,9 @@
 #}
 #1chr-29-12 {
  {
+  <i>Reichtum und Ehre kommen von dir</i> vgl §2chr-1-12
+ }
+ {
   <i>Herrscher über alles</i>: vgl mit seinem Sohn Salomo, der «Herrscher über alle Könige» wurde, §2chr-9-26
  }
 #}
@@ -40954,6 +41063,11 @@
 #2chr-1-10 {
  {
   §+1chr-22-12.
+ }
+#}
+#2chr-1-12 {
+ {
+  <i>Reichtum und … Ehre will ich dir geben</i> vgl §1chr-29-12, §2chr-17-5, §2chr-32-27
  }
 #}
 #2chr-1-15 {
@@ -41220,7 +41334,10 @@
 #}
 #2chr-5-14 {
  {
-  Vgl §2chr-7-2, §1koe-8-11
+  §1koe-8-11
+ }
+ {
+  <i>Die Herrlichkeit Jehovas erfüllte das Haus</i> vgl 2chr-7-1
  }
 #}
 @}
@@ -41310,6 +41427,9 @@
 @2. Chronik 7 {
 #2chr-7-1 {
  {
+  <i>Die Herrlichkeit Jehovas erfüllte das Haus</i> vgl §2chr-5-14, §+offb-15-8.
+ }
+ {
   <i>Und als Salomo geendigt hatte</i> §1koe-8-54
  }
  {
@@ -41317,9 +41437,6 @@
  }
 #}
 #2chr-7-2 {
- {
-  Vgl mit <a class='kom' href='#Ioffb-15-8'>Offb&nbsp;15,8</a>.
- }
  {
   TODO: Hätte nicht mindestens ein Hohepriester ins Haus gehen sollen?
  }
@@ -42103,6 +42220,9 @@
  {
   <i>Geschenke</i> §V2chr-17-11, §2chr-19-7, §2chr-21-3
  }
+ {
+  <i>Er hatte Reichtum und Ehre in Fülle</i> vgl §2chr-1-12, §2chr-18-1
+ }
 #}
 #2chr-17-6 {
  {
@@ -42154,6 +42274,9 @@
 @}
 @2. Chronik 18 {
 #2chr-18-1 {
+ {
+  <i>So hatte Josaphat Reichtum und Ehre in Fülle</i> vgl §2chr-17-5
+ }
  {
   <i>Er verschwägerte sich mit Ahab</i> vgl §2chr-20-35, §2chr-21-6, §1koe-3-1
  }
@@ -42492,6 +42615,9 @@
  }
 #}
 #2chr-22-6 {
+ {
+  §2koe-8-29
+ }
  {
   Frage: Warum Wird Ahasja hier <i>Asarja</i> genannt?
  }
@@ -43206,6 +43332,9 @@
  }
 #}
 #2chr-32-27 {
+ {
+  <i>Jehiskia hatte sehr viel Reichtum und Ehre</i> §2chr-1-12
+ }
  {
   TODO: Der Reichtum ist ihm wohl in den Kopf gestossen, sonst hätte er ihn ja nicht herumgezeigt...
  }
@@ -66829,7 +66958,7 @@
 #}
 #dan-9-7 {
  {
-  §1koe-8-47
+  §5mo-30-1, §1koe-8-47
  }
 #}
 #dan-9-10 {
@@ -67365,6 +67494,9 @@
  {
   TODO: <a class='kom' href='#I2koe-15-12'>2.&nbsp;Kö&nbsp;15,12</a>. Vgl <a class='kom' href='#I2koe-10-30'>2.&nbsp;Kö&nbsp;10,30</a>.
   <br>TODO: Wurde dieses Blut in <a class='kom' href='#I2koe-10-11'>2.&nbsp;Kö&nbsp;10,11</a> vergossen?
+ }
+ {
+  TODO: → biblisches/Orte/Jisreel
  }
 #}
 #hos-1-6 {
