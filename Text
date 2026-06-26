@@ -742,7 +742,10 @@
 #}
 #1mo-2-17 {
  {
-  <i>Nur vom Baum der Erkenntnis nicht essen</i>: vgl mit → biblisches/Personen/Josef, dem nichts als nur Potiphars Frau vorenthalten war: §1mo-39-9.
+  <i>Vom Baum der Erkenntnis nicht essen</i>. Eva machte daraus ein verschärftes Gebot, nämlich von der Frucht des Baumes in der Mitte des Gartens nicht zu essen noch sie anzurühren, §1mo-3-3. Beachte auch, daß von diesem
+  Baum nicht gesagt wird, daß er in der Mitte des Gartens ist.
+ <br>
+  Vgl mit → biblisches/Personen/Josef, dem nichts als nur Potiphars Frau vorenthalten war: §1mo-39-9.
  }
  {
   <i>wirst du gewißlich sterben</i> vgl §roem-8-13
@@ -848,8 +851,8 @@
 #}
 #1mo-3-3 {
  {
-  Beachte: in der <i>Mitte des Gartens</i> war der «Baum des Lebens», über den es kein Gebot gab: <a href='http://bibel.renenyffenegger.ch/1mo_2.html#v9'>1.&nbsp;Mo&nbsp;2,9</a>.
-  Die Frau hat also offenbar die beiden Bäume verwechselt.
+  Beachte: in der <i>Mitte des Gartens</i> war der «Baum des Lebens», über den es kein Gebot gab: §1mo-2-9.
+  Die Frau hat also offenbar die beiden Bäume verwechselt und das Gebot, nicht vom Baum der Erkenntnis des Guten und Bösen damit verschärft, auch die Frucht nicht anzurühren, §1mo-2-17, vgl §kol-2-21
  }
 #}
 #1mo-3-5 {
@@ -42453,7 +42456,7 @@
 #}
 #2chr-19-7 {
  {
-  <i>Denn beim Herrn ist … kein Ansehen der Person oder Annehmen von Geschenk</i>, §5mo-10-17, vgl §+2mo-23-8
+  <i>Denn beim Herrn ist … → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen[kein Ansehen der Person] oder Annehmen von Geschenk</i>, §5mo-10-17, vgl §+2mo-23-8
  }
  {
   <i>Geschenk</i> vgl §+2chr-17-5
@@ -59901,6 +59904,11 @@
  }
  {
   Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Feuer#feuer-vom-himmel
+ }
+#}
+#jes-64-3 {
+ {
+  Vgl §1kor-2-9
  }
 #}
 #jes-64-5 {
@@ -96537,6 +96545,9 @@
  {
   <i>Nacht und Tag</i> vgl §apg-20-31
  }
+ {
+  <i>zu welcher … hinzugelangen hofft</i> vgl §phil-3-11
+ }
 #}
 #apg-26-8 {
  {
@@ -100457,6 +100468,11 @@
   Vgl mit dem <i>von Gott Erkennbaren</i>: §+roem-1-19.
  }
 #}
+#1kor-2-9 {
+ {
+  Vgl §jes-64-3
+ }
+#}
 #1kor-2-10 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Offenbarung
@@ -100638,6 +100654,9 @@
 #1kor-3-18 {
  {
   <i>Niemand betrüge sich selbst</i> vgl §+1kor-6-9, §2thes-2-3, §1joh-1-8.
+ }
+ {
+  <i>In diesem Zeitalter weise sein</i> vgl §1kor-2-6
  }
  {
   <i>werde er töricht</i>: §1kor-4-10 (Dasselbe Wort wie «Narren»)
@@ -101610,6 +101629,9 @@
  }
  {
   <i>Vorbild</i>: <span class='gr'>τύπος</span>, Strongs 5179.
+ }
+ {
+  <i>Ende</i> steht im Griechischen im Plural.
  }
 #}
 #1kor-10-12 {
@@ -106471,7 +106493,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #eph-6-9 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen#kein-ansehen-der-person
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen#kein-ansehen-der-person, vgl §kol-3-25
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
@@ -107179,6 +107201,15 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Gemeinschaft seiner Leiden</i> vgl §1petr-4-13
  }
 #}
+#phil-3-11 {
+ {
+  <i>Auferstehung</i>: <span class='gr'>εξαναστασιν</span> (Strongs 1815, 1x). Wörtlich etwa «Herausauferstehung». Einige Manuskaripte haben sogar eine Verdoppelung von «aus»:
+  <span class='gr'>ἐξανάστασιν τὴν ἐκ νεκρῶν</span>.
+ }
+ {
+  <i>ob ich … hingelangen möge</i> vgl §apg-26-7
+ }
+#}
 #phil-3-14 {
  {
   <i>Kampfpreis</i>: §+1kor-9-24, §+kol-2-18.
@@ -107864,8 +107895,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-2-18 {
  {
-  <i>Um den Kampfpreis bringen</i> (<span class='gr'>καταβραβεύω</span>, Strongs 2603 [1x]).
-  Vgl §+phil-3-14
+  <i>Um den Kampfpreis bringen</i> (<span class='gr'>καταβραβεύω</span>, Strongs 2603,1x).
+  Vgl §kol-3-15, §+phil-3-14
  }
  {
   <i>Verehrung</i>: <span class='gr'>θρησκεία</span> (Strongs 2356), auch in §apg-26-5, §jak-1-26-27
@@ -107885,6 +107916,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Elemente der Welt</i>: §Vkol-2-8
+ }
+#}
+#kol-2-21 {
+ {
+  Vgl mit Eva, die behauptet hat, dass man die Frucht des Baumes in der Mitte des Gartens nicht berühren darf (§1mo-3-3), obwohl Gott dies nicht gesagt hat (§1mo-2-17). Vgl §kol-2-21
  }
 #}
 #kol-2-22 {
@@ -108022,11 +108058,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   </ul>
  }
  {
-  <i>Leib des Christus</i>: <a class='kom' href='#Iroem-12-5'>Röm&nbsp;12,5</a>.
+  <i>regiere</i>: <span class='gr'>βραβευετω</span> (Strongs 1018, 1x). Dieses Verb ist mit «Kampfpreis» verwandt und bedeuten angelbich auch «wie ein Schiedsrichter entscheiden»
+ <br>
+  Vgl §kol-2-18
  }
  {
-  TODO: <i>regieren</i> (<span class='gr'>βραβεύω</span>, Strongs 1018) bedeutet offenbar (auch?) 'wie ein Schiedsrichter entscheiden'.
-  Vgl <a class='kom' href='#Ikol-2-18'>Kol&nbsp;2,18</a>.
+  <i>Leib des Christus</i>: <a class='kom' href='#Iroem-12-5'>Röm&nbsp;12,5</a>.
  }
 #}
 #kol-3-16 {
@@ -108085,7 +108122,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #kol-3-25 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen#kein-ansehen-der-person
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen#kein-ansehen-der-person, vgl §eph-6-9
  }
 #}
 @}
