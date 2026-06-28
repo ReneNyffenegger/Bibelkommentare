@@ -4462,8 +4462,8 @@
 #}
 #1mo-22-18 {
  {
-  Vgl mit <a href='http://bibel.renenyffenegger.ch/gal_3.html#v14'>Gal 3,14-16</a> und
-  <a href='http://bibel.renenyffenegger.ch/ps_72.html#v17'>Ps&nbsp;72,17</a>.
+  <i>In deinem Samen werden sich segnen alle Nationen der Erde</i> vgl §1mo-22-18, §1mo-28-14, §1mo-12-3, §apg-3-25
+  Vgl mit §gal-3-14-16 und §ps-72-17.
  }
 #}
 #1mo-22-20 {
@@ -5478,7 +5478,7 @@
 #}
 #1mo-28-14 {
  {
-  <i>in deinem Samen sollen gesegnet werden alle Geschlechter der Erde</i>: §1mo-12-3
+  <i>in deinem Samen sollen gesegnet werden alle Geschlechter der Erde</i>: §1mo-22-18, §1mo-12-3, §apg-3-25
  }
  {
   TODO: Du wirst dich ausbreiten, vgl §1mo-30-30
@@ -32185,6 +32185,11 @@
   <i>Kohle</i>: Sch2K übersetzt mit «Funke».
  }
 #}
+#2sam-14-14 {
+ {
+  <i>und Gott nimmt nicht das Leben weg</i>: KJV übersetzt mit «neither doth God respect any person».
+ }
+#}
 #2sam-14-26 {
  {
   TODO: <i>Jahres</i> scheint Strongs (3117) zu sein, also das Wort für Tag.
@@ -53311,7 +53316,7 @@
   <i>Sprüche</i>: <a class='kom' href='#I4mo-23-7'>4.&nbsp;Mo&nbsp;23,7</a>.
  }
  {
-  Vgl <i>Sprüche Salomos, des Sohnes Davids</i> mit den <i>Sprüchen Salomos</i> (<a href='http://bibel.renenyffenegger.ch/spr_10.html#v1'>Spr&nbsp;10,1</a>).
+  Vgl <i>Sprüche Salomos, des Sohnes Davids</i> mit den <i>Sprüchen Salomos</i>, §spr-10-1 §spr-25-1
  }
  {
   TODO: Das eröffnende Mem der Sprüche ist vergrössert (Siehe auch <a href='#typo_details'>Typografische Details im Alten Testament</a>).
@@ -53851,7 +53856,7 @@
 @Sprüche 10 {
 #spr-10-1 {
  {
-  <i>Sprüche Salomos</i>: <a class='kom' href='#Ispr-1-1'>Spr&nbsp;1,1</a>.
+  <i>Sprüche Salomos</i>: §+spr-1-1, §spr-25-1
  }
  {
   <i>Weiser Sohn</i>: vgl <a href='http://bibel.renenyffenegger.ch/spr_10.html#v5'>Vers 5</a>,
@@ -54799,6 +54804,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen, §spr-28-21
  }
  {
+  <i>Auch diese sind von den Weisen</i> vgl §spr-25-1
+ }
+ {
   TODO: KJV übersetzt mit 'These [things] also [belong] to the wise'.
  }
 #}
@@ -54824,6 +54832,9 @@
  {
   <i>Die Männer → biblisches/Personen/Hiskia[Hiskias]</i> waren möglicherweise Schebna, der Schreiber, Joach, der Geschichtsschreiber (§2koe-18-18) und → biblisches/Personen/Jesaja.
  }
+ {
+  <i>Auch diese sind Sprüche Salomos</i> vgl, §spr-10-1, §spr-24-23
+ }
 #}
 #spr-25-2 {
  {
@@ -54832,7 +54843,7 @@
 #}
 #spr-25-3 {
  {
-         <i>Vermessbarkeit des Himmels</i>: Vgl <a href='http://bibel.renenyffenegger.ch/jer_31.html#v37'>Jer&nbsp;31,37</a>.
+  <i>Vermessbarkeit des Himmels</i>: Vgl <a href='http://bibel.renenyffenegger.ch/jer_31.html#v37'>Jer&nbsp;31,37</a>.
  }
 #}
 #spr-25-9 {
@@ -70887,7 +70898,7 @@
 #}
 #mt-3-6 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe, → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer
  }
 #}
 #mt-3-7 {
@@ -74237,6 +74248,9 @@
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel, vgl §mt-12-38, §mt-24-30 (Zeichen des Sohnes des Menschen im Himmel), §Vmt-16-4 (Zeichen Jonas).
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer
  }
 #}
 #mt-16-2 {
@@ -79556,6 +79570,9 @@
 #mk-12-18 {
  {
   §mt-22-23, §lk-20-27
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer
  }
 #}
 #mk-12-20 {
@@ -85028,6 +85045,9 @@
  }
  {
   <i>einwenden</i>: <span class='gr'>ἀντιλέγω</span>, wird in §lk-2-34 und §lk-21-15 mit «widersprechen» übersetzt.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer
  }
 #}
 #lk-20-29 {
@@ -90697,11 +90717,7 @@
 #}
 #apg-1-22 {
  {
-  <i>Zeuge der Auferstehung</i>: <a href='http://bibel.renenyffenegger.ch/apg_2.html#v32'>Apg&nbsp;2,32</a>,
-  <a href='http://bibel.renenyffenegger.ch/apg_3.html#v15'>Apg&nbsp;3,15</a>,
-  <a href='http://bibel.renenyffenegger.ch/apg_5.html#v31'>Apg 5,31-32</a>
-  <br><a href='http://bibel.renenyffenegger.ch/apg_10.html#v39'>Apg 10,39-42</a>,
-  <a href='http://bibel.renenyffenegger.ch/apg_13.html#v30'>Apg 13,30-31</a>
+  <i>Zeuge der Auferstehung</i>: §apg-2-32, §apg-3-15, §apg-10-39-42, §apg-13-30-31. Vgl §apg-5-31-32
   <br>
     Beachte, dass es einigen Zuhörern zu viel wird, wenn die Auferstehung zur Sprache kommt:
     <a href='http://bibel.renenyffenegger.ch/apg_17.html#v32'>Apg&nbsp;17,32</a>,
@@ -90923,6 +90939,9 @@
  }
 #}
 #apg-2-24 {
+ {
+  <i>Den hat Gott auferweckt</i>: §apg-4-10
+ }
  {
   <i>Wehen</i>: <a class='kom' href='#Imt-24-8'>Mt&nbsp;24,8</a>
  }
@@ -91293,7 +91312,7 @@
 #}
 #apg-3-15 {
  {
-  <i>Zeuge der Auferstehung</i>: <a class='kom' href='#Iapg-1-22'>Apg&nbsp;1,22</a>.
+  <i>Zeuge der Auferstehung</i>: §+apg-1-22.
  }
 #}
 #apg-3-17 {
@@ -91309,13 +91328,13 @@
   Beachte: hier redet → biblisches/Personen/Petrus davon, <i>was Gott durch den Mund aller seiner → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] verkündigt hat</i> (Auch Verse 21 und 24),
   Paulus redet von «der Offenbarung des Geheimnisses, das von ewigen Zeiten her verschwiegen war» (§roem-16-25-26).
  <br>
-  In §apg-10-34 wird Petrus den Mund auftun.
+  In §apg-10-34 wird Petrus den Mund auftun. Vgl §apg-15-7
  }
  {
   <i>Mund der → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten]</i>: §lk-1-70. vgl mit den «Stimmen der Propheten» (§apg-13-27)
  }
  {
-  <i>Gott aber hat also erfüllt, was er durch den Mund aller Propheten zuvor verkündigt hatte</i> vgl §lk-18-31, §apg-13-27
+  <i>Gott aber hat also erfüllt, was er durch den Mund aller Propheten zuvor verkündigt hatte</i> §lk-18-31, §apg-13-27. Vgl mit «durch den Mund seiner heiligen Propheten», §Vapg-3-21
  }
 #}
 #apg-3-19 {
@@ -91328,7 +91347,7 @@
   In die <i>Wiederherstellung aller Dinge</i> ist offenbar → biblisches/Personen/Elia involviert §+mt-17-11, §mk-9-12
  }
  {
-  <i>Durch den Mund seiner heiligen → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] geredet</i> §+lk-1-70, vgl §2petr-1-21
+  <i>Durch den Mund seiner heiligen → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten] geredet</i> §+lk-1-70, vgl §2petr-1-21, §Vapg-3-18
  }
  {
   <i>von jeher</i>: <span class='gr'>απ αιωνος</span>, in §lk-1-70 mit «von alters her» übersetzt.
@@ -91363,7 +91382,7 @@
 #}
 #apg-3-25 {
  {
-  §1mo-12-3
+  <i>In deinem Samen werden gesegnet werden alle Geschlechter</i>: §1mo-22-18, §1mo-12-3, §1mo-28-14
  }
  {
   Beachte: dies sagt Petrus, der dann selbst nicht glauben will, dass die Heiden die Rettung erben sollen. TODO: aber
@@ -91388,7 +91407,10 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel
  }
  {
-   <i>Volk</i>: <a class='kom' href='#Iapg-3-12'>Apg&nbsp;3,12</a>.
+  <i>Volk</i>: <a class='kom' href='#Iapg-3-12'>Apg&nbsp;3,12</a>.
+ }
+ {
+  Die → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer glauben, es gebe keine Auferstehung (§apg-23-8) was wohl der Grund war, daß die Verkündigung der Auferstehung aus den Toten sie verdroß.
  }
 #}
 #apg-4-2 {
@@ -91422,6 +91444,11 @@
   Vgl <a class='kom' href='#Iapg-2-17'>Apg&nbsp;2,17</a>.
  }
 #}
+#apg-4-10 {
+ {
+  <i>den Gott auferweckt hat aus den Toten</i>: §apg-2-24
+ }
+#}
 #apg-4-11 {
  {
   §ps-118-22
@@ -91448,6 +91475,11 @@
 #apg-4-19 {
  {
   Vgl <i>Entscheidet, ob</i> mit 'man muss' in <a class='kom' href='#Iapg-5-29'>Apg&nbsp;5,29</a>.
+ }
+#}
+#apg-4-20 {
+ {
+  <i>was wir gesehen und gehört haben</i> vgl §apg-22-15, §1joh-1-3
  }
 #}
 #apg-4-24 {
@@ -91642,6 +91674,9 @@
  }
  {
   <i>Von Eifersucht erfüllt werden</i>: §+apg-13-45.
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Sadduzäer
  }
 #}
 #apg-5-18 {
@@ -93042,7 +93077,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Die-Person-nicht-ansehen#kein-ansehen-der-person[dass Gott die Person nicht ansieht], vgl §apg-15-9
  }
  {
-  <i>Petrus tat seinen Mund auf</i> vgl §apg-8-35, §mt-5-2.
+  <i>Petrus tat seinen Mund auf</i> vgl §apg-3-21, §apg-8-35, §apg-15-7, §mt-5-2.
  <br>
   In §apg-3-18-ff redet Petrus vom «Mund der Propheten», die zuvor verkündigt haben, daß Christus leiden sollte.
  }
@@ -94229,6 +94264,12 @@
  {
   <i>Männer und Brüder</i>: <a class='kom' href='#Iapg-1-16'>Apg&nbsp;1,16</a>.
  }
+ {
+  <i>durch meinen Mund</i>: §+apg-3-21
+ }
+ {
+  Sch2K übersetzt mit «Ihr Männer und Brüder, ihr wißt…»
+ }
 #}
 #apg-15-8 {
  {
@@ -94337,7 +94378,7 @@
 #}
 #apg-15-22 {
  {
-   Beachte: die Apostel und Ältesten setzten sich nicht einfach über die Gemeinde hinweg.
+  Beachte: die Apostel und Ältesten setzten sich nicht einfach über die Gemeinde hinweg.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Barsabas: §+apg-1-23
@@ -96146,6 +96187,11 @@
   <i>Bruder Saul</i>: <a class='kom' href='#Iapg-9-17'>Apg&nbsp;9,17</a>.
  }
 #}
+#apg-22-15 {
+ {
+  <i>was du gesehen und gehört hast</i> vgl §apg-4-20, §1kor-2-9
+ }
+#}
 #apg-22-16 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Taufe auf den Namen des Herrn: <a class='kom' href='#Iapg-2-38'>Apg&nbsp;2,38</a>.
@@ -96253,7 +96299,7 @@
   <i>Gegen Gott kämpfen</i>: <a href='http://bibel.renenyffenegger.ch/apg_5.html#v39'>Apg&nbsp;5,39</a>.
  }
  {
-   <span class='gt'>In NA fehlt «wollen wir nicht gegen Gott kämpfen».</span>
+  <span class='gt'>In NA fehlt «wollen wir nicht gegen Gott kämpfen».</span>
  }
 #}
 #apg-23-11 {
@@ -100470,7 +100516,7 @@
 #}
 #1kor-2-9 {
  {
-  Vgl §jes-64-3
+  <i>Was kein Auge gesehen und kein Ohr gehört hat</i> Vgl §jes-64-3, §apg-22-15
  }
 #}
 #1kor-2-10 {
@@ -117182,6 +117228,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>wir haben gesehen und bezeugen</i>: §1joh-4-14
+ }
+#}
+#1joh-1-3 {
+ {
+  <i>was wir gesehen und gehört haben</i> vgl §apg-4-20
  }
 #}
 #1joh-1-4 {
