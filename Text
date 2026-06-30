@@ -63008,6 +63008,11 @@
   <i>verderbendes Schwert</i> §jer-50-16
  }
 #}
+#jer-46-17 {
+ {
+  <i>ist verloren</i>. Sch2K übersetzt mit «Kriegslärmer», KJV mit «a noise». Andere Übersetzungen: «ist ein Getöse».
+ }
+#}
 #jer-46-21 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Mietling: In Elb05 und Sch2K mit «Söldner» übersetzt.
@@ -63024,6 +63029,11 @@
 #jer-46-23 {
  {
   <i>sie sind unzählig</i> (<span class='hebr'>לֹ֣א יֵֽחָקֵ֑ר</span>) könnte evtl. auch mit «sie sind unerforschbar» übersetzt werden
+ }
+#}
+#jer-46-25 {
+ {
+  <i>Amon von No</i> vgl §nah-3-8, §hes-30-14-ff
  }
 #}
 #jer-46-27 {
@@ -63124,6 +63134,16 @@
   TODO: Jahza wäre wohl besser genannt 'Jahaz', siehe <a class='kom' href='#Ijos-13-18'>Jos&nbsp;13,18</a>.
  }
 #}
+#jer-48-24 {
+ {
+  <i>Bozra</i>: §jer-49-13
+ }
+#}
+#jer-48-26 {
+ {
+  <i>Gelächter</i> §Vjer-46-39
+ }
+#}
 #jer-48-31 {
  {
   <i>Kir-Heres</i>: TODO Strongs 7025, <a class='kom' href='#I2koe-3-25'>2.&nbsp;Kö&nbsp;3,25</a>.
@@ -63154,6 +63174,11 @@
 #jer-48-40 {
  {
   <i>Flügel über Moab ausbreiten</i> vgl §jer-49-22
+ }
+#}
+#jer-48-41 {
+ {
+  Vgl §jer-49-22
  }
 #}
 #jer-48-46 {
@@ -63205,6 +63230,11 @@
   <i>dennoch trinken</i>: <a class='kom' href='#Ijer-25-28'>Jer&nbsp;25,28</a>.
  }
 #}
+#jer-49-13 {
+ {
+  <i>Bozra</i>: §jer-48-24
+ }
+#}
 #jer-49-16 {
  {
   <i>Der Übermut deines Herzens haben dich verführt, der du in Felsenklüften wohnst</i> §ob-1-3
@@ -63237,6 +63267,9 @@
 #jer-49-22 {
  {
   <i>Flügel über Bozra ausbreiten</i> vgl §jer-48-40
+ }
+ {
+  Vgl §jer-48-41
  }
 #}
 #jer-49-27 {
@@ -65148,6 +65181,9 @@
 #hes-30-14 {
  {
   <i>Zoan</i>: <a class='kom' href='#I4mo-13-22'>4.&nbsp;Mo&nbsp;13,22</a>.
+ }
+ {
+  §jer-46-25
  }
 #}
 #hes-30-15 {
@@ -69309,6 +69345,9 @@
  }
 #}
 #nah-3-8 {
+ {
+  <i>Ammon von No</i>: §jer-46-25
+ }
  {
   TODO: Strongs 2975
  }
