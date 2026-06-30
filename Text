@@ -8957,6 +8957,9 @@
 #}
 #2mo-6-7 {
  {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum#mein-volk-ihr-gott[Ich will euch annehmen mir zum Volk und will euer Gott sein]
+ }
+ {
   Die Israeliten sollen <i>erkennen, dass Er der HERR ist</i>:
   <a href='http://bibel.renenyffenegger.ch/2mo_16.html#v6'>2.&nbsp;Mo&nbsp;16,6/12</a>,
   <a href='http://bibel.renenyffenegger.ch/2mo_29.html#v46'>2.&nbsp;Mo&nbsp;29,46</a>,
@@ -10855,7 +10858,7 @@
 #}
 #2mo-19-5 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Bund
+  <i>Wenn ihr meinen → biblisches/Eigene-Uebersetzung/Konkordanz/Bund haltet</i> vgl §3mo-26-15
  }
  {
   <i>wenn ihr … auf meine Stimme hören werdet, sollt ihr mein Eigentum sein</i> vgl §jer-11-4
@@ -10866,8 +10869,8 @@
   <a href='http://bibel.renenyffenegger.ch/2mo_34.html#v10'>2.&nbsp;Mo&nbsp;34,10</a> (TODO-Bund)
  }
  {
-   TODO: Das Wort Lamed-Jod ist mit einem vergrösserten Lamed und einem verkleinerten Jod geschrieben worden
-   (Siehe auch <a href='#typo_details'>Typografische Details im Alten Testament</a>).
+  TODO: Das Wort Lamed-Jod ist mit einem vergrösserten Lamed und einem verkleinerten Jod geschrieben worden
+  (Siehe auch <a href='#typo_details'>Typografische Details im Alten Testament</a>).
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/Eigentum vgl §2mo-34-9 «Nimm uns an zum Eigentum», §tit-2-14
@@ -16880,10 +16883,10 @@
 #}
 #3mo-26-15 {
  {
-  <i>und daß ihr meinen Bund brecht</i> evtl. besser übersetzt mit «und <i>so</i> meinen Bund brecht»
+  <i>und daß ihr meinen → biblisches/Eigene-Uebersetzung/Konkordanz/Bund brecht</i> evtl. besser übersetzt mit «und <i>so</i> meinen Bund brecht».
  }
  {
-  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Bund brechen</i> vgl §1mo-17-14
+  <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Bund brechen</i> vgl §1mo-17-14, §2mo-19-5
  }
 #}
 #3mo-26-16 {
@@ -31787,14 +31790,13 @@
   <i>den Sohn züchtigen</i>: §spr-3-12
  }
  {
-  <i>Ich will ihm Vater sein, und er soll mir Sohn sein</i> §2kor-6-18
+  <i>Ich will ihm Vater sein, und er soll mir Sohn sein</i>: §hebr-1-5 , vgl  §2kor-6-18
  }
  {
-  TODO: Das sagt David doch zu Salomo. Gemäss <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v5'>Hebr&nbsp;1,5</a> zu Jesus Christus.
-  <br>TODO: Auf wen bezieht sich dann die Züchtigung.
+  : TODO: Auf wen bezieht sich dann die Züchtigung.
  }
  {
-  «Wenn er eine ... Menschenrute ... strafen» fehlt in der "Parallelstelle" in <a href='http://bibel.renenyffenegger.ch/1chr_17.html#v13'>1. Chr 17,13ff</a>.
+  «Wenn er eine … Menschenrute … strafen» fehlt in der Parallelstelle <a href='http://bibel.renenyffenegger.ch/1chr_17.html#v13'>1. Chr 17,13ff</a>.
  }
 #}
 #2sam-7-15 {
@@ -47603,7 +47605,7 @@
 #}
 #ps-2-8 {
  {
-  <i>Zum Erbteil geben die Nationen</i> vgl §ps-82-2, §jer-3-19.
+  <i>Zum Erbteil geben die Nationen</i> vgl §ps-82-8, §ps-111-6, §jer-3-19.
  }
 #}
 #ps-2-9 {
@@ -50648,6 +50650,11 @@
   Vgl §joh-10-34
  }
 #}
+#ps-82-8 {
+ {
+  <i>Denn du wirst zum Erbteil haben alle Nationen</i> vgl §ps-2-8
+ }
+#}
 @}
 @Psalm 83 {
 #ps-83-1 {
@@ -52200,6 +52207,11 @@
 #ps-111-4 {
  {
   <i>gnädig und barmherzig</i> §ps-112-4
+ }
+#}
+#ps-111-6 {
+ {
+  <i>um ihnen zu geben das Erbteil der Nationen</i>: §+ps-2-8
  }
 #}
 #ps-111-7 {
@@ -58536,15 +58548,11 @@
 @Jesaja 40 {
 #jes-40-3 {
  {
-  §lk-3-4
- }
- {
   Dieses Zitat wird von Johannes dem Täufer verwendet, als er den von den Juden von Jerusalem gesandten Priestern und Leviten gefragt wurde, wer er sei.
   (<a href='http://bibel.renenyffenegger.ch/joh_1.html#v23'>Joh&nbsp;1,23</a>).
-  <br>Matthäus bestätigt, dass es sich um Johannes d. Täufer handelt (<a href='http://bibel.renenyffenegger.ch/mt_3.html#v3'>Mt&nbsp;3,3</a>).
+  <br>Matthäus und Lukas bestätigen, dass es sich um Johannes d. Täufer handelt (§mt-3-3, §lk-3-4).
   <br>In Markus ist es zusammen mit <a href='http://bibel.renenyffenegger.ch/mal_3.html#v1'>Mal&nbsp;3,1</a> der «Anfang des Evangeliums von Jesus Christus, dem Sohn Gottes».
-      Entsprechend werden beide Verse es in <a class='kom' href='#Imt-11-10'>Mt&nbsp;11,10</a> und <a href='http://bibel.renenyffenegger.ch/lk_7.html#v27'>Lk&nbsp;7,27</a> zu einem
-      Satz zusammengezogen.
+      Entsprechend werden beide Verse in §+mt-11-10 und §lk-7-27 zu einem Satz zusammengezogen.
   <br>Beachte, dass diese Verse in allen vier Evangelien zitiert werden.
  }
 #}
@@ -112268,7 +112276,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl §hebr-12-5-ff
  }
  {
-  Vgl §+2sam-7-14.
+  <i>Ich will ihm zum Vater, und er soll mir zum Sohn sein</i>: §+2sam-7-14.
  }
 #}
 #hebr-1-6 {
@@ -112539,7 +112547,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 @Hebräer 3 {
 #hebr-3-1 {
  {
-  <i>betrachten den Apostel und Hohenpriester unseres Bekenntnisses, Jesus</i>, vgl §hebr-12-2.
+  <i>betrachten den Apostel und Hohenpriester unseres Bekenntnisses, Jesus</i>, vgl §hebr-12-2, §hebr-4-4
  }
  {
   <i>betrachten</i>: §+hebr-2-8-9.
@@ -112744,8 +112752,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-4-14 {
  {
-  <i>Am Bekenntnis festhalten</i>: vgl <a href='http://bibel.renenyffenegger.ch/hebr_10.html#v23'>Hebr&nbsp;10,23</a>.
-  <br>S.a. <a href='http://bibel.renenyffenegger.ch/hebr_3.html#v1'>Hebr&nbsp;3,1</a>.
+  <i>Am Bekenntnis festhalten</i>: §hebr-10-23, vgl §hebr-3-1.
  }
  {
   TODO: Ist Jesus der Hohepriester der Juden allein oder auch unserer?
