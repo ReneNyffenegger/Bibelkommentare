@@ -2796,12 +2796,17 @@
 #}
 #1mo-12-4 {
  {
+  <i>75 Jahre alt</i>: §+apg-7-14.
+ }
+ {
   TODO: Gemäss <a href='http://bibel.renenyffenegger.ch/apg_7.html#v4'>Apg&nbsp;7,4</a> zog Abraham aus dem Land der Chaldäer aus
   und wohnte in Haran. Erst nach dem Tod seines Vaters ging Abraham in das 'verheissene' Land. Offenbar war also Abraham
   nicht aus dem Haus seines Vaters ausgezogen (wie in Vers 1 befohlen), sondern nahm ihn mit (oder liess zumindest zu, dass dieser mitkam). Auch Lot hätte wohl gar nicht mitgehen dürfen.
  }
+#}
+#1mo-12-5 {
  {
-  <i>75</i>: <a class='kom' href='#Iapg-7-14'>Apg&nbsp;7,14</a>.
+  Hier wird keine Frau von Lot erwähnt, was die Vermutung nahelegt, dass er sie in Sodom geheiratet hat, §1mo-19-15
  }
 #}
 #1mo-12-6 {
@@ -3853,7 +3858,7 @@
 #}
 #1mo-17-17 {
  {
-  <i>lachen</i> vgl §+1mo-21-6
+  <i>Abraham lachte</i> vgl §1mo-18-12, §+1mo-21-6
  }
  {
   <i>sollte einem Hundertjährigen geboren werden</i> vgl §1mo-21-5
@@ -3864,7 +3869,10 @@
 #}
 #1mo-17-19 {
  {
-   <a href='http://bibel.renenyffenegger.ch/1mo_21.html#v3'>1.&nbsp;Mo&nbsp;21,3</a>.
+  <i>Isaak</i>, <span class='hebr'>יִצְחָ֑ק</span> (Strongs 3327): das Wort ist verwandt mit «Lachen», vgl §1mo-17-17, §+1mo-21-6
+ }
+ {
+  <a href='http://bibel.renenyffenegger.ch/1mo_21.html#v3'>1.&nbsp;Mo&nbsp;21,3</a>.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Bund/ewig
@@ -3970,7 +3978,7 @@
   Aber Sarahs leibliche Tochter nimmt Schmuck an (<a href='http://bibel.renenyffenegger.ch/1mo_24.html#v53'>1.&nbsp;Mo&nbsp;24,53</a>).
  }
  {
-   Siehe auch <a class='kom' href='#I1mo-21-6'>1.&nbsp;Mo&nbsp;21,6</a>
+  <i>Sarah lachte</i> vgl §1mo-17-17, §+1mo-21-6
  }
 #}
 #1mo-18-13 {
@@ -4041,11 +4049,12 @@
 #}
 #1mo-19-3 {
  {
-  <i>Ungesäuertes Brot</i>: <span class='he'>מַצָּה</span> (Strongs 4682) im Grundtext ohne Nomen. Sch2K übersetzt mit «ungesäuerte Brotfladen», Elb05 mit «ungesäuerte Kuchen».
-  <br>Vgl <a class='kom' href='#I2mo-12-8'>2.&nbsp;Mo&nbsp;12,8</a>.
+  <i>Ungesäuertes</i>: <span class='he'>מַצָּה</span> (Strongs 4682) im Grundtext ohne Nomen. Sch2K übersetzt mit «ungesäuerte Brotfladen», Elb05 mit «ungesäuerte Kuchen».
+ <br>
+  Vgl §+2mo-12-8.
  }
  {
-  <a class='kom' href='#I1mo-18-6'>1.&nbsp;Mo&nbsp;18,6</a>.
+  §+1mo-18-6.
  }
 #}
 #1mo-19-5 {
@@ -4060,8 +4069,9 @@
 #}
 #1mo-19-8 {
  {
-  Die beiden Töchter hatten noch keinen Mann erkannt, aber es war bereits klar, wen sie heiraten sollten (wenn sie nicht bereits
-  verheiratet waren): §V1mo-14-19
+  Die beiden Töchter hatten noch keinen Mann erkannt, aber es war bereits klar, wen sie heiraten sollten (wenn sie nicht bereits verheiratet waren): §V1mo-19-14
+ <br>
+  Sie wurden dann von Lot schwanger, §V1mo-19-36
  }
 #}
 #1mo-19-9 {
@@ -4082,13 +4092,19 @@
 #}
 #1mo-19-14 {
  {
-  Hätte Lot mit seinen zukünftigen Schwiegersöhnen ernster geredet, wären wohl
-  die Moabiter und Ammoniter nicht entstanden (<a href='http://bibel.renenyffenegger.ch/1mo_19.html#v31'>Vers 31 bis 3</a>)
+  Hätte Lot mit seinen zukünftigen Schwiegersöhnen ernster geredet, wären sie wohl gerettet worden und
+  die Moabiter und Ammoniter wären nicht entstanden (<a href='http://bibel.renenyffenegger.ch/1mo_19.html#v31'>Vers 31 bis 33</a>).
+ }
+ {
+  <i>Scherz treiben</i>: Das hebräische Wort ist mit «Isaak» verwandt, §1mo-17-19, §+1mo-21-6
  }
 #}
 #1mo-19-15 {
  {
-         Der gerechte Lot wurde herausgerettet (<a href='http://bibel.renenyffenegger.ch/2petr_2.html#v7'>2.&nbsp;Petr&nbsp;2,7</a>).
+  Der gerechte Lot wurde herausgerettet (<a href='http://bibel.renenyffenegger.ch/2petr_2.html#v7'>2.&nbsp;Petr&nbsp;2,7</a>).
+ }
+ {
+  Beim Auszug aus Haran wurde die Frau von Lot nicht erwähnt (§1mo-12-5), was vermuten läßt, dass er sie in Sodom geheiratet hat.
  }
  {
   TODO: Elberfelder übersetzt mit «Ungerechtigkeit», Schlachter mit «Bestrafung».
@@ -4118,16 +4134,25 @@
 #1mo-19-24 {
  {
   Durch die Einäscherung wurden Sodom und Gomorra zum Untergang verurteilt und dienen künftigen Gottlosen als warnendes Beispiel
-         (<a href='http://bibel.renenyffenegger.ch/2petr_2.html#v6'>2.&nbsp;Petr&nbsp;2,6</a>). Sie haben die Strafe eines
-         ewigen Feuers zu erleiden (<a href='http://bibel.renenyffenegger.ch/jud_1.html#v7'>Jud&nbsp;1,7</a>).
+ (§2petr-2-6). Sie haben die Strafe eines ewigen Feuers zu erleiden (§jud-1-7).
  }
  {
-  Gemäss <a href='http://bibel.renenyffenegger.ch/5mo_29.html#v22'>5.&nbsp;Mo&nbsp;29,22</a> hat wurde das Land mit Schwefel <i>und Salz</i> verbrannt, dass es nicht besät
-  werden kann, und nichts hervorbringt. Vgl auch <a href='http://bibel.renenyffenegger.ch/1mo_14.html#v3'>1.&nbsp;Mo&nbsp;14,3</a> und
+  Gemäss §5mo-29-22 hat wurde das Land mit Schwefel <i>und Salz</i> verbrannt, dass es nicht besät
+  werden kann, und nichts hervorbringt. Vgl auch §1mo-14-3 und
   <a href='http://bibel.renenyffenegger.ch/1mo_19.html#v26'>Vers 26</a>.
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Feuer#feuer-vom-himmel, vgl §lk-17-29
+ }
+#}
+#1mo-19-26 {
+ {
+  §lk-17-32
+ }
+#}
+#1mo-19-28 {
+ {
+  <i>Aufsteigender Rauch, wie der Rauch eines Schmelzofens</i>, §2mo-19-18, vgl §jos-8-20-21, §jes-30-27, §+offb-14-11
  }
 #}
 #1mo-19-30 {
@@ -4265,7 +4290,8 @@
  {
   Gott hat Sarah ein <i>Lachen</i> bereitet, nachdem zuerst Abraham (§1mo-17-17) und
   Sarah (§1mo-18-12-13) gelacht hatten.
-  <br>Dasselbe Wort wie für «lachen» (<span class='hebr'>צָחַק</span>, Strongs 6711) wird in §1mo-26-8 mit «scherzen» übersetzt.
+ <br>
+  Dasselbe Wort wie für «lachen» (<span class='hebr'>צָחַק</span>, Strongs 6711) wird in §1mo-19-14 mit «Scherz treiben», in §1mo-26-8 mit «scherzen» übersetzt.
  }
 #}
 #1mo-21-9 {
@@ -4278,7 +4304,7 @@
 #}
 #1mo-21-10 {
  {
-  <i>Sohn der Freien</i>: <a href='http://bibel.renenyffenegger.ch/gal_4.html#v30'>Gal&nbsp;4,30</a>.
+  <i>Treibe diese Magd un ihren Sohn hinaus</i>: §gal-4-30.
  }
 #}
 #1mo-21-12 {
@@ -11014,6 +11040,9 @@
  }
  {
   <i>Der ganze Berg bebte sehr</i>, und die Erde bewegte sich, §hebr-12-26
+ }
+ {
+  <i>Aufsteigender Rauch, wie der Rauch eines Schmelzofens</i>, §1mo-19-28
  }
 #}
 #2mo-19-20 {
@@ -25159,6 +25188,11 @@
   TODO: dieser Vers enthält Strongs H6119 (Ferse).
  }
 #}
+#jos-8-20 {
+ {
+  <i>Aufsteigender Rauch</i> vgl §+1mo-19-20
+ }
+#}
 #jos-8-25 {
  {
   TODO: Beachte, dass hier auch Frauen mitgezählt werden. Das scheint unüblich. Von Kindern steht hingegen nichts.
@@ -32682,6 +32716,14 @@
             <a href='http://bibel.renenyffenegger.ch/jes_40.html#v21'>Jes&nbsp;40,21</a>,
             <a href='http://bibel.renenyffenegger.ch/mi_6.html#v2'>Mi&nbsp;6,2</a> (<span class='hebr'>אֶרֶץ</span>, Strongs 776)),
   früherer Generationen (<a href='http://bibel.renenyffenegger.ch/jes_58.html#v12'>Jes&nbsp;58,12</a>, dort mit 'Grundmauern' übersetzt)
+ }
+#}
+#2sam-22-9 {
+ {
+  §ps-18-9
+ }
+ {
+  <i>Rauch stieg auf von seinerNase</i> vgl §hi-41-12
  }
 #}
 #2sam-22-11 {
@@ -47484,6 +47526,11 @@
 #}
 @}
 @Hiob 41 {
+#hi-41-12 {
+ {
+  <i>Aus seinen Nüstern fährt Rauch</i> vgl §2sam-22-9
+ }
+#}
 #hi-41-15 {
  {
   KJV übersetzt <i>Schilder</i> mit «scales».
@@ -48149,6 +48196,11 @@
 #ps-18-8 {
  {
   <i>Grundfesten</i>: <a class='kom' href='#I2sam-22-8'>2.&nbsp;Sam&nbsp;22,8</a>. (Beachte auch den Unterschied dort und hier).
+ }
+#}
+#ps-18-9 {
+ {
+  §2sam-22-9
  }
 #}
 #ps-18-11 {
@@ -48971,6 +49023,11 @@
 #ps-37-19 {
  {
   <i>Hunger</i>: Sch2K übersetzt mit »Hungersnot«.
+ }
+#}
+#ps-37-20 {
+ {
+  <i>Die Gesetzlosen schwinden dahin wie Rauch</i> vgl §ps-68-3
  }
 #}
 #ps-37-32 {
@@ -49898,6 +49955,11 @@
 #ps-68-2 {
  {
   <i>Mögen sich zerstreuen seine Feinde, und vor ihm fliehen seine Hasser!</i> vgl §4mo-10-35, §ps-89-11
+ }
+#}
+#ps-68-3 {
+ {
+  <i>Wie Rauch vertrieben wird</i> vgl §ps-37-20
  }
 #}
 #ps-68-9 {
@@ -58227,6 +58289,9 @@
 #}
 #jes-30-27 {
  {
+  <i>aufsteigender Rauch</i> §+1mo-19-28, §jes-34-10
+ }
+ {
   <i>verzehrendes Feuer</i>: §+5mo-4-26
  }
 #}
@@ -58408,7 +58473,7 @@
 #}
 #jes-34-10 {
  {
-  <a class='kom' href='#Ioffb-14-11'>Offb&nbsp;14,11</a>.
+  <i>aufsteigender Rauch</i> §+1mo-19-28, §jes-30-27, §+offb-14-11.
  }
 #}
 #jes-34-11 {
@@ -84804,6 +84869,11 @@
   <i>Gerät</i>: <a class='kom' href='#Imt-12-29'>Mt&nbsp;12,29</a>.
  }
 #}
+#lk-17-32 {
+ {
+  §1mo-19-26
+ }
+#}
 #lk-17-35 {
  {
   → biblisches/Grundtext/Wörter/epi-o-autos
@@ -105269,7 +105339,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #gal-4-30 {
  {
-  <i>Sohn der Freien</i>: <a class='kom' href='#I1mo-21-10'>1.&nbsp;Mo&nbsp;21,10</a>.
+  <i>Stoße hinaus die Magd mit ihrem Sohn …</i>: §+1mo-21-10.
  }
  {
   <i>Was sagt die Schrift</i>: §roem-4-3, vgl §+roem-9-17
@@ -117124,7 +117194,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2petr-2-6 {
  {
-  Vgl <a class='kom' href='#I1mo-19-24'>1.&nbsp;Mo&nbsp;19,24</a>.
+  Vgl §+1mo-19-24.
  }
  {
   TODO: <i>Umsturz</i> <span class='gr'>καταστροφή</span> (Strongs 2692, 2x). Das andere Vorkommen in <a href='http://bibel.renenyffenegger.ch/2tim_2.html#v14'>2.&nbsp;Tim&nbsp;2,14</a>.
@@ -121688,7 +121758,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-14-11 {
  {
-  <i>Rauch steigt auf von Ewigkeit zu Ewigkeit</i>: §offb-19-3. Vgl §offb-9-3, §offb-8-4
+  <i>Rauch steigt auf von Ewigkeit zu Ewigkeit</i>: §offb-19-3. Vgl §offb-9-3, §offb-8-4, vgl §+1mo-19-28
  }
  {
   Nachdem der HERR in Bozra ein Schlachtopfer gehalten hat (<a class='kom' href='#Ijes-34-5'>Jes&nbsp;34,5</a>), wird Edom zu brennendem Pech, wo der
