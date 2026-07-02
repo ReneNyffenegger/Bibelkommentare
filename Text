@@ -2751,8 +2751,8 @@
 #}
 #1mo-12-2 {
  {
-  <i>Ich will dich zu einer grossen Nation machen</i>: vgl <a class='kom' href='#I2mo-19-6'>2.&nbsp;Mo&nbsp;19,6</a>.
-  <br>Vgl auch mit Abraham, dem Vater «einer Menge von Nationen»: §1mo-17-4.
+  <i>Ich will dich zu einer grossen Nation machen</i>: vgl <a class='kom' href='#I2mo-19-6'>2.&nbsp;Mo&nbsp;19,6</a>
+  <br>Vgl auch mit Abraham, dem Vater «einer Menge von Nationen»: §1mo-17-4, vgl mit Sara (§1mo-17-16).
   <br>In Abraham sollen «alle Nationen der Erde gesegnet werden»: <a href='http://bibel.renenyffenegger.ch/1mo_18.html#v18'>1.&nbsp;Mo&nbsp;18,18</a> (und Vers 3).
   <br>Die Verheissung ergeht auch an Jakob: <a href='http://bibel.renenyffenegger.ch/1mo_46.html#v3'>1.&nbsp;Mo&nbsp;46,3</a>.
   <br>Manasse wird zu «einem Volk» werden, Ephraim zu «einer Fülle von Nationen»: <a href='http://bibel.renenyffenegger.ch/1mo_48.html#v19'>1.&nbsp;Mo&nbsp;48,19</a>.
@@ -3720,7 +3720,7 @@
 #}
 #1mo-17-4 {
  {
-  <i>Vater einer Menge Nationen</i>: vgl §+1mo-12-2, §roem-4-16-17
+  <i>Vater einer Menge Nationen</i>: vgl §+1mo-12-2, §V1mo-17-16, §roem-4-16-17
  <br>
   Beim Tod Abrahams wird er zu zeinen Völkern versammelt, §1mo-25-8
  }
@@ -3733,6 +3733,9 @@
 #1mo-17-6 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/fruchtbar-sein_sich-mehren. Ismael soll auch fruchtbar werden: §V1mo-17-20
+ }
+ {
+  <i>Könige sollen aus dir hervorkommen</i> vgl §V1mo-17-16
  }
  {
   <i>Könige sollen aus dir hervorkommen</i>, vgl §V1mo-17-16, §1mo-35-11, §2mo-19-6.
@@ -3840,7 +3843,9 @@
 #}
 #1mo-17-16 {
  {
-  Siehe <a class='kom' href='#I1mo-12-3'>1.&nbsp;Mo&nbsp;12,3</a>.
+  <i>sie wird zu Nationen werden</i> vgl §V1mo-17-4, §1mo-12-2
+ <br>
+  <i>Könige von Völkern sollen aus ihr kommen</i> vgl §V1mo-17-6
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Im-Herzen-sprechen
@@ -3975,13 +3980,12 @@
 #}
 #1mo-18-14 {
  {
-  In diesem Vers kommt <span class='hebr'>הֲיִפָּלֵ֥א</span> (Strongs 6381) vor, welches an andern Orten mit «Wunder»
-  (zB §2mo-34-10) übersetzt wird.
+  <i>wunderbar</i>: <span class='hebr'>הֲיִפָּלֵ֥א</span> (Strongs 6381); an andern Orten mit «Wunder» (z. B. §2mo-34-10) übersetzt.
  }
  {
   TODO: Warum wird bei Ussija berichtet, dass ihm wunderbar geholfen wurde (<a href='http://bibel.renenyffenegger.ch/2chr_26.html#v15'>2.&nbsp;Chr&nbsp;26,15</a>)?
   Das scheint bei anderen Königen nicht der Fall gewesen zu sein.
-        <br>
+ <br>
   §jes-28-29.
  }
 #}
@@ -5116,6 +5120,9 @@
 #1mo-26-12 {
  {
   Die Aussaat war fruchtbar, vgl §V1mo-26-22-24
+ }
+ {
+  <i>hundertfältig</i>: §mt-13-8, §mt-19-19
  }
 #}
 #1mo-26-14 {
@@ -52385,6 +52392,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Liebe/Den-HERRN-lieben
  }
 #}
+#ps-116-6 {
+ {
+  <i>die Einfältigen bewahren</i> §ps-119-130
+ }
+#}
 #ps-116-11 {
  {
   <i>Alle Menschen sind Lügner</i> vgl §roem-3-4
@@ -52624,6 +52636,11 @@
 #ps-119-127 {
  {
   <i>Gold und gediegenes Gold</i> vgl §Vps-119-72
+ }
+#}
+#ps-119-130 {
+ {
+  <i>den Einfältigen Einsicht geben</i>: §ps-116-6, §spr-1-4
  }
 #}
 #ps-119-131 {
@@ -53409,6 +53426,11 @@
   TODO: Die Sprüche können offenbar weise machen. Kann das Gesetz das auch (<a class='kom' href='#I2mo-20-1'>2.&nbsp;Mo&nbsp;20,1</a>)?
  }
 #}
+#spr-1-4 {
+ {
+  <i>Einfältigen Klugheit zu geben</i>: §ps-119-130. vgl §spr-8-5, §Vspr-1-22
+ }
+#}
 #spr-1-7 {
  {
    Vgl <i>Anfang der Erkenntnis</i> mit dem <i>Anfang der Weisheit</i> (<a href='http://bibel.renenyffenegger.ch/spr_4.html#v7'>Spr&nbsp;4,7</a>).
@@ -53470,6 +53492,9 @@
  }
 #}
 #spr-1-22 {
+ {
+  <i>Ihr Einfältigen</i> vgl §Vspr-1-4
+ }
  {
   <span class='u'>TODO: Gemäss C. Missler teilt Sprüche die Menschen in Unverständige, Spötter,Tore und Weise (scorner, fool, simple and wise) ein.</span>
  }
@@ -53816,6 +53841,11 @@
  {
   TODO: <i>Menschenkinder</i> eigentlich 'Söhne der Menschen'. Ebenso Vers 31
   <br>Vgl <a class='kom' href='#Ihes-2-1'>Hes&nbsp;2,1</a>.
+ }
+#}
+#spr-8-5 {
+ {
+  <i>Lernt Klugheit, ihr Einfältigen</i> vgl §spr-1-4
  }
 #}
 #spr-8-6 {
@@ -73686,6 +73716,9 @@
   §mk-4-8, §lk-8-8
  }
  {
+  <i>hundertfältig</i>: §mt-19-29, §1mo-26-12
+ }
+ {
   <i>gab Frucht</i>: §mt-3-8-10
  }
 #}
@@ -73843,7 +73876,7 @@
 #}
 #mt-13-33 {
  {
-  <i>Eine Frau und drei Mass Sauerteig</i> vgl §1mo-18-6, §lk-13-21
+  <i>Eine Frau und drei Maß Mehl</i> vgl §1mo-18-6, §lk-13-21
  }
  {
   <i>Sauerteig</i>: <span class='gr'>ζύμη</span> (Strongs 2219). Vgl «durchsäuert» (Strongs 106) in §+mt-26-17.
@@ -75087,6 +75120,9 @@
 #mt-19-29 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Leben/ewig erben, vgl §mk-10-17
+ }
+ {
+  <i>hundertfältig</i>: §mt-13-8, §1mo-26-12
  }
 #}
 #mt-19-30 {
@@ -84223,7 +84259,7 @@
 #}
 #lk-13-21 {
  {
-  <i>Eine Frau und drei Mass Sauerteig</i> vgl §1mo-18-6, §mt-13-33
+  <i>Eine Frau und drei Maß Mehl</i> vgl §1mo-18-6, §mt-13-33
  }
  {
   Vgl mit dem → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse[Gleichnis] des Sauerteigs.
