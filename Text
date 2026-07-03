@@ -2754,6 +2754,7 @@
   <i>Ich will dich zu einer grossen Nation machen</i>: vgl <a class='kom' href='#I2mo-19-6'>2.&nbsp;Mo&nbsp;19,6</a>
   <br>Vgl auch mit Abraham, dem Vater «einer Menge von Nationen»: §1mo-17-4, vgl mit Sara (§1mo-17-16).
   <br>In Abraham sollen «alle Nationen der Erde gesegnet werden»: <a href='http://bibel.renenyffenegger.ch/1mo_18.html#v18'>1.&nbsp;Mo&nbsp;18,18</a> (und Vers 3).
+  <br>Ismael soll auch zu einer großen Nation gemacht werden, §1mo-21-18
   <br>Die Verheissung ergeht auch an Jakob: <a href='http://bibel.renenyffenegger.ch/1mo_46.html#v3'>1.&nbsp;Mo&nbsp;46,3</a>.
   <br>Manasse wird zu «einem Volk» werden, Ephraim zu «einer Fülle von Nationen»: <a href='http://bibel.renenyffenegger.ch/1mo_48.html#v19'>1.&nbsp;Mo&nbsp;48,19</a>.
   <br>Die Israeliten sollen ein «eine heilige Nation» sein: <a href='http://bibel.renenyffenegger.ch/2mo_19.html#v6'>2.&nbsp;Mo&nbsp;19,6</a>.
@@ -3698,11 +3699,14 @@
 #}
 #1mo-16-14 {
  {
-  Hier nennt Hager den Brunnen einen 'Brunnen des Lebendigen, der mich sieht'. In §1mo-21-19
+  <i>Beer-Lachai-Roi</i>: «Brunnen des Lebendigen, der mich sieht».
+ }
+ {
+  Hier nennt Hager den Brunnen einen <i>Brunnen des Lebendigen, der mich sieht</i>. In §1mo-21-19
   öffnet Gott ihr die Augen, dass sie einen Wasserbrunnen sieht.
-  <br>Möglicherweise ist dieser Brunnen im <i>Negev</i>, jedenfalls ist Isaak bei diesem Brunnen, als er Rebekka zum ersten Mal sieht (<a href='http://bibel.renenyffenegger.ch/1mo_24.html#v62'>1.&nbsp;Mo&nbsp;24,62</a>).
-  Isaak wohnte bei diesem Brunnen
-  (<a href='http://bibel.renenyffenegger.ch/1mo_25.html#v11'>1.&nbsp;Mo&nbsp;25,11</a>).
+ <br>
+  Möglicherweise ist dieser Brunnen im <i>Negev</i>, jedenfalls ist Isaak bei diesem Brunnen, als er Rebekka zum ersten Mal sieht (<a href='http://bibel.renenyffenegger.ch/1mo_24.html#v62'>1.&nbsp;Mo&nbsp;24,62</a>).
+  Isaak wohnte bei diesem Brunnen, §1mo-25-11
  }
  {
    TODO: Isaaks Knechte werden einen Wasserbrunnen aufgraben, die sie zu Zeiten Abrahams gegraben hatten und werden einen 'Brunne lebendigen Wassers' finden.
@@ -4306,6 +4310,9 @@
  {
   <i>Treibe diese Magd un ihren Sohn hinaus</i>: §gal-4-30.
  }
+ {
+  <i>[er] soll nicht erben mit meinem Sohn</i> vgl §1mo-24-36, §1mo-25-5
+ }
 #}
 #1mo-21-12 {
  {
@@ -4327,6 +4334,11 @@
  {
   Vom Himmel her zurufen: <a href='http://bibel.renenyffenegger.ch/1mo_22.html#v11'>1. Mo 22,11/15</a>.
   <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/2mo_20.html#v22'>2.&nbsp;Mo&nbsp;20,22</a>.
+ }
+#}
+#1mo-21-18 {
+ {
+  <i>ich will ihn zu einer großen Nation machen</i> §1mo-12-2
  }
 #}
 #1mo-21-19 {
@@ -4457,7 +4469,9 @@
   <i>Lamm</i> (<span class='he'>שֶׂה</span>, Strongs 7716): das hebr. Wort kann offenbar sowohl «Schaf» wie auch «Ziege» bedeuten. In Elb05 mit «Schaf» übersetzt. Ebenso im nächsten Vers.
  }
  {
-  <i>Hier bin ich, mein Sohn</i> vgl §1mo-27-1
+  <i>Mein Vater</i>: Hier antwortet der Vater mit <i>Hier bin ich, mein Sohn</i>. Vgl mit §mt-27-46, wo Jesu Vater Ihn verlassen hat.
+ <br>
+   vgl §1mo-27-1
  }
 #}
 #1mo-22-9 {
@@ -4515,16 +4529,19 @@
 #}
 #1mo-22-17 {
  {
-  → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
+ → biblisches/Personen/Abraham/Same#same-abrahams-wie-sterne
  }
  {
   <i>Ich will dich reichlich segnen</i>: §+1mo-12-2
  }
+ {
+  <i>dein Same wird besitzen das Tor seiner Feinde</i> §1mo-24-60
+ }
 #}
 #1mo-22-18 {
  {
-  <i>In deinem Samen werden sich segnen alle Nationen der Erde</i> vgl §1mo-22-18, §1mo-28-14, §1mo-12-3, §apg-3-25
-  Vgl mit §gal-3-14-16 und §ps-72-17.
+  <i>In deinem Samen werden sich segnen alle Nationen der Erde</i> vgl §1mo-28-14, §1mo-12-3, §apg-3-25
+  Vgl mit §gal-3-14-16 und §ps-72-171
  }
 #}
 #1mo-22-20 {
@@ -4735,6 +4752,11 @@
   Möglicherweise hat Abraham diesen 'Segen' vom Pharao erhalten (<a href='http://bibel.renenyffenegger.ch/1mo_12.html#v16'>1.&nbsp;Mo&nbsp;12,16</a>).
  }
 #}
+#1mo-24-36 {
+ {
+  <i>er hat ihm alles gegeben, was er hat</i> vgl §1mo-21-10, §1mo-25-5
+ }
+#}
 #1mo-24-37 {
  {
   <i>Kanaaniter, in deren Land ich wohne</i> vgl §V1mo-24-3
@@ -4794,13 +4816,18 @@
   S.a. <a class='kom' href='#I1mo-17-6'>1.&nbsp;Mo&nbsp;17,6</a>.
  }
  {
+  <i>dein Same besitze das Tor seiner Feinde</i> §1mo-22-17
+ }
+ {
   <i>vieltausendmal Tausenden</i>: <span class='hebr'>לְאַלְפֵ֣י רְבָבָ֑ה</span> (Strongs 505 7233).
-  <br>Todo: Vgl <a href='http://bibel.renenyffenegger.ch/mi_6.html#v7'>Mi&nbsp;6,7</a>.
+ }
+ {
+  TODO: Vgl §mi-6-7.
  }
 #}
 #1mo-24-62 {
  {
-  «der Brunnen des Lebendigen, der [mich] sieht» wurde von Hagar so benannt (<a class='kom' href='#I1mo-16-14'>1.&nbsp;Mo&nbsp;16,14</a>).
+  «der Brunnen des Lebendigen, der [mich] sieht» (<i>Lachai Roi</i>). wurde von Hagar so benannt, §+1mo-16-14. S. a. §1mo-25-11
  }
  {
   TODO: <i>Negev</i> wäre wohl besser wörtlich übersetzt mit «Land des Südens». KJV übersetzt «south country», Elberfelder mit «Lande des Südens».
@@ -4854,6 +4881,11 @@
   TODO: siehe <a class='kom' href='#I4mo-31-8'>4.&nbsp;Mo&nbsp;31,8</a>.
  }
 #}
+#1mo-25-5 {
+ {
+  §1mo-21-10, §1mo-24-36
+ }
+#}
 #1mo-25-6 {
  {
   In <a href='http://bibel.renenyffenegger.ch/1chr_1.html#v28'>1.&nbsp;Chr&nbsp;1,28-34</a> werden nur Isaak und Ismael 'Söhne' Abrahams
@@ -4900,7 +4932,7 @@
   <br>Frage: Hat Abraham vergessen, seinen Sohn zu segnen?
  }
  {
-  <i>Brunnen des Lebendigen, der sieht</i>: Siehe <a class='kom' href='#I1mo-16-14'>1.&nbsp;Mo&nbsp;16,14</a>
+  <i>Brunnen Lachai-Roi</i> («des Lebendigen, der sieht»: Siehe §+1mo-16-14, §1mo-24-62
  }
  {
   <i>Isaak</i> kommt in diesem Vers im Hebräischen als 8. und 11. Wort vor. Das zweite Vorkommen von Isaak ist gemäss → biblisches/Chronologie/Paul-Gerhard-Zint das 8888. Wort der Bibel und vor diesem
@@ -49186,6 +49218,11 @@
   <i>Was beugst du dich… denn ich werde ihn noch preisen …</i>: vgl §+Vps-42-12
  }
 #}
+#ps-42-10 {
+ {
+  <i>Warum hast du mich vergessen?</i> vgl §ps-43-2
+ }
+#}
 #ps-42-12 {
  {
   Gleicher Schluss wie in §ps-43-5
@@ -49194,6 +49231,11 @@
 #}
 @}
 @Psalm 43 {
+#ps-43-2 {
+ {
+  <i>Warum hast du mich verworfen?</i> vgl §ps-42-10
+ }
+#}
 #ps-43-3 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/heilig
@@ -77282,7 +77324,7 @@
 #}
 #mt-27-46 {
  {
-  <i>Mein Gott, mein Gott, warum hast du mich verlassen</i> vgl §ps-22-2, §mk-15-34, §+4mo-14-34, §joh-16-32
+  <i>Mein Gott, mein Gott, warum hast du mich verlassen</i> vgl §ps-22-2, §mk-15-34, §+4mo-14-34, §joh-16-32, §1mo-22-7
  <br>
   Hier wird Gott im Vokativ angesprochen, in §mk-15-34 im Nominativ.
  }
@@ -77461,6 +77503,9 @@
 #mt-28-3 {
  {
   <i>Blitz</i>: §+mt-24-27, vgl §lk-24-4
+ }
+ {
+  <i>Ansehen</i>: <span class='gr'>ἰδέα</span> (Strongs 2397). Vgl §mk-16-12, §phil-2-6-8
  }
  {
   TODO: Vgl mit <a href='http://bibel.renenyffenegger.ch/offb_1.html#v14'>Offb&nbsp;1,14</a>.
@@ -80747,6 +80792,9 @@
 #mk-16-12 {
  {
   <i>Offenbaren/Offenbar machen</i>: <a class='kom' href='#Imt-11-25'>Mt&nbsp;11,25</a>.
+ }
+ {
+  <i>Gestalt</i>: <span class='gr'>μορφή</span> (Strongs 3444). Vgl §phil-2-6-8. S. a. §mt-28-3
  }
  {
   TODO: Das <i>dritte Mal</i>, dass sich Jesus seinen Jüngern offenbarte: <a class='kom' href='#Ijoh-21-14'>Joh&nbsp;21,14</a>.
@@ -91366,6 +91414,9 @@
 #}
 #apg-2-41 {
  {
+  3000. Vgl §apg-4-4, §apg-21-20, §apg-6-1, §apg-6-7
+ }
+ {
   Hier werden diejenigen, die bereitwillig sein Wort annahmen, getauft und hinzugetan.
   In <a href='http://bibel.renenyffenegger.ch/apg_4.html#v4'>Apg&nbsp;4,4</a> steht nichts von einer 'Taufe' und auch nichts davon, dass jemand
   hinzugetan würde. (Vgl auch Vers 46).
@@ -91373,7 +91424,6 @@
   die 3000).
   <br>TODO: Vgl mit den 5000 Männern (<a href='http://bibel.renenyffenegger.ch/apg_4.html#v4'>Apg&nbsp;4,4</a>) wo viele 'gläubig' geworden sind,
   und denen, die 'die an den Herrn glaubten, und hinzugetan wurden' (<a href='http://bibel.renenyffenegger.ch/apg_5.html#v14'>Apg&nbsp;5,14</a>).
-  <br>TODO: Vgl auch mit <a href='http://bibel.renenyffenegger.ch/apg_6.html#v1'>Apg 6,1/7</a> ('Zahl der Jünger wuchs/mehrte sich sehr').
  }
  {
   TODO: <i>hinzugetan</i>: hier Aorist passiv indikativ, in Vers 47 Imperfekt aktiv indikativ.
@@ -91666,7 +91716,7 @@
 #}
 #apg-4-4 {
  {
-  5000: <a class='kom' href='#Iapg-2-41'>Apg&nbsp;2,41</a>.
+  5000: §+apg-2-41, vgl §apg-4-4
  }
 #}
 #apg-4-8 {
@@ -92040,10 +92090,10 @@
 @Apostelgeschichte 6 {
 #apg-6-1 {
  {
-  Vgl §neh-5-1.
+  <i>Als die Jünger sich vermehrten</i> Vgl §+apg-2-41, §Vapg-6-7
  }
  {
-  TODO <i>wachstende Zahl von Jüngern</i> Vgl <a class='kom' href='#Iapg-2-41'>Apg&nbsp;2,41</a>, Vers 7.
+  Vgl §neh-5-1.
  }
 #}
 #apg-6-2 {
@@ -96206,13 +96256,16 @@
   <br>→ biblisches/Personen/Paulus/Apostel-der-Nationen[Paulus, der Apostel der Nationen], vgl §+gal-2-9
  }
  {
-  <i>erzählte er … was Gott unter den Nagtionen durch seinen Dient getan hatte</i> vgl §+apg-14-27
+  <i>erzählte er … was Gott unter den Nationen durch seinen Dient getan hatte</i> vgl §+apg-14-27
  }
  {
   <i>erzählen</i> (<span class='gr'>ἐξηγέομαι</span>, Strongs 1834): §+lk-24-35
  }
 #}
 #apg-21-20 {
+ {
+  <i>Tausende der Juden, die glauben</i> vgl §apg-2-41, §apg-4-4
+ }
  {
   <i>wie viele Tausende</i> (<span class='gr'><a href="https://renenyffenegger.ch/Biblisches/Sprachen/Griechisch-Neues-Testament-bekannt.html#s3461">μυριάς</a></span>, Strongs 3461),
   könnte wohl auch mit «Zehntausende» übersetzt werden., an anderen Orten mit 'Tausenden' übersetzt
@@ -101645,6 +101698,11 @@
  }
  {
   <i>nicht Besitzende</i> vgl §2kor-6-10
+ }
+#}
+#1kor-7-31 {
+ {
+  <i>Gestalt</i>: <span class='gr'>σχῆμα</span> (Strongs 4976). S. a. §phil-2-8
  }
 #}
 #1kor-7-36 {
@@ -107225,7 +107283,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #phil-2-6 {
  {
-  <i>Gestalt</i>: hier <span class='gr'>μορφή</span> (Strongs 3444), in §Vphil-2-8 <span class='gr'>σχῆμα</span> (Strongs 4976).
+  <i>Gestalt</i>: hier <span class='gr'>μορφή</span> (Strongs 3444), in §Vphil-2-8 <span class='gr'>σχῆμα</span> (Strongs 4976). S. a. §mk-16-12
  }
  {
   <i>gleich</i>: <span class='gr'>ἴσος</span>, Strongs 2470. Vgl mit «Gleichheit» in Vers 7 (<span class='gr'>ὁμοίωμα</span>, Strongs 3667)
@@ -107252,6 +107310,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Gehorsam werden</i> Vgl §hebr-5-8
+ }
+ {
+  <i>Gestalt</i>: <span class='gr'>σχῆμα</span> (Strongs 4976). S. a. §1kor-7-31
  }
 #}
 #phil-2-9 {
