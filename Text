@@ -2592,7 +2592,9 @@
 #1mo-11-4 {
  {
   Vgl den <i>Turm bis zum Himmel</i> mit den »Sünden bis zum Himmel« in §offb-18-5
-  und Babels Gericht, das bis zum Himmel reicht (§+jer-51-9). In §V1mo-11-7 fährt der HERR vom Himmel hinunter und beendet den Turmbau.
+  und Babels Gericht, das bis zum Himmel reicht (§+jer-51-9).
+ <br>
+  In §V1mo-11-7 fährt der HERR vom Himmel hinunter und beendet den Turmbau.
  }
  {
   <i>dass wir uns einen Namen machen</i>: Vgl mit dem Namen »Babel«, der dann der Stadt gegeben wird, §V1mo-11-9.
@@ -2600,6 +2602,9 @@
   Der HERR will den Namen von Abraham groß machen, §1mo-12-2
  <br>
   Beachte auch, dass → biblisches/Personen/Sem (§V1mo-11-10) »Name« bedeutet.
+ }
+ {
+  TODO Vgl§jer-51-53
  }
 #}
 #1mo-11-6 {
@@ -59225,8 +59230,7 @@
 @Jesaja 46 {
 #jes-46-1 {
  {
-  <i>Bel</i> (<span class='hebr'>בֵּל</span>, Strongs 1078), offenbar eine Kurzform von 'Baal'. Siehe auch <a href='http://bibel.renenyffenegger.ch/jer_50.html#v2'>Jer&nbsp;50,2</a>,
-  <a href='http://bibel.renenyffenegger.ch/jer_51.html#v44'>Jer&nbsp;51,44</a>.
+  <i>Bel</i> (<span class='hebr'>בֵּל</span>, Strongs 1078), offenbar eine Kurzform von 'Baal'. Siehe auch §jer-50-2, §jer-51-44.
  }
 #}
 #jes-46-8 {
@@ -63565,7 +63569,7 @@
 #}
 #jer-50-6 {
  {
-  <i>eine verlordene Schafherde…</i> §+joh-10-16, §hes-34-8
+  <i>eine verlorene Schafherde…</i> §+joh-10-16, §hes-34-8
  }
 #}
 #jer-50-7 {
@@ -63575,8 +63579,7 @@
 #}
 #jer-50-8 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/offb_18.html#v4'>Offb&nbsp;18,4</a> und
-  <a href='http://bibel.renenyffenegger.ch/jer_51.html#v45'>Jer&nbsp;51,45</a>.
+  Vgl §offb-18-4 und §jer-51-45.
  }
 #}
 #jer-50-9 {
@@ -63586,7 +63589,7 @@
 #}
 #jer-50-13 {
  {
-  <i>Wegen Plagen zischen</i> vgl <a href='http://bibel.renenyffenegger.ch/jer_49.html#v17'>Jer&nbsp;49,17</a>.
+  <i>Wegen Plagen zischen</i> vgl §jer-49-17.
  }
 #}
 #jer-50-16 {
@@ -63652,7 +63655,7 @@
 #}
 #jer-50-44 {
  {
-  <a class='kom' href='#Ijer-49-19'>Jer&nbsp;49,19</a>.
+  §+jer-49-19.
  }
 #}
 #jer-50-46 {
@@ -63690,7 +63693,7 @@
 #}
 #jer-51-9 {
  {
-  <i>Gericht, das bis zum Himmel reicht</i>: <a class='kom' href='#I1mo-11-4'>1.&nbsp;Mo&nbsp;11,4</a>.
+  <i>Gericht, das bis zum Himmel reicht</i>: §+1mo-11-4.
  }
 #}
 #jer-51-10 {
@@ -63711,7 +63714,7 @@
 #}
 #jer-51-13 {
  {
-  <i>Viele Wasser</i>: <a class='kom' href='#Ioffb-17-1'>Offb&nbsp;17,1</a>.
+  <i>Viele Wasser</i>: §+offb-17-1.
  }
 #}
 #jer-51-15 {
@@ -63725,10 +63728,6 @@
  }
  {
   <i>Wind in Vorratskammern [Schatz, Strongs 214]</i>: vgl <a class='kom' href='#Ips-135-7'>Ps&nbsp;135,7</a>.
- }
- {
-  TODO: vgl <a href='http://bibel.renenyffenegger.ch/jer_10.html#v11'>Jer&nbsp;10,11</a> und
-  <a class='kom' href='#Ijer-10-13'>Jer&nbsp;10,13</a>.
  }
  {
   TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
@@ -63747,7 +63746,7 @@
 #}
 #jer-51-25 {
  {
-  Vgl den <i>verbrannten Berg</i> mit <a href='http://bibel.renenyffenegger.ch/offb_8.html#v8'>Offb&nbsp;8,8</a>.
+  Vgl den <i>verbrannten Berg</i> mit §offb-8-8.
  }
 #}
 #jer-51-26 {
@@ -63811,6 +63810,11 @@
   <i>Jubel über → biblisches/Orte/Babel[Babels] Zerstörung</i>: §offb-18-20
  }
 #}
+#jer-51-53 {
+ {
+  <i>Wenn auch Babel bis zum Himmel hinaufstiege</i> §1mo-11-4
+ }
+#}
 #jer-51-54 {
  {
   TODO: Dieser und der nächste Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
@@ -63827,6 +63831,11 @@
 #jer-51-60 {
  {
   <i>Jeremia schrieb in ein Buch</i> vgl §jer-30-2
+ }
+#}
+#jer-51-63 {
+ {
+  TOOD: Muss deshalb der Euphrat vertrocknen, damit das Buch wieder hervorkommen kann? §offb-16-12
  }
 #}
 #jer-51-64 {
@@ -122180,6 +122189,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Euphrat</i>: <a class='kom' href='#Ioffb-9-14'>Offb&nbsp;9,14</a>. Beachte, auch dort ist ein «sechster Engel» involviert.
  }
+ {
+  TODO: §jer-51-63
+ }
 #}
 #offb-16-13 {
  {
@@ -122300,7 +122312,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>die Braut des Lammes</i> (ohne Gericht!), vgl → biblisches/Bücher/prophetisch/Offenbarung/Die-grosse-Hure-vs-das-neue-Jerusalem
  }
  {
-  <i>Viele Wasser</i>: Vgl <a href='http://bibel.renenyffenegger.ch/jer_51.html#v13'>Jer&nbsp;51,13</a>.
+  <i>Viele Wasser</i>: Vgl §jer-51-13.
  }
  {
   <i>Gericht</i>: Sch2K übersetzt mit «Urteil».
