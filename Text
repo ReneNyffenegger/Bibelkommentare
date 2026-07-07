@@ -1000,8 +1000,11 @@
 #}
 #1mo-3-17 {
  {
-  <i>verfluchter Erdboden</i>:  Noah wird trösten über die vom verfluchten Erdboden herrührende Mühe (<a href='http://bibel.renenyffenegger.ch/1mo_5.html#v29'>1.&nbsp;Mo&nbsp;5,29</a>), nachdem
-  Noah den Altar gebaut hatte, wird der HERR den Erdboden nicht mehr verfluchen (<a href='http://bibel.renenyffenegger.ch/1mo_8.html#v21'>1.&nbsp;Mo&nbsp;8,21</a>).
+  <i>verfluchter Erdboden</i>: Noah wird trösten über die vom verfluchten Erdboden herrührende Mühe (§1mo-5-29), nachdem Noah den Altar gebaut hatte, wird der HERR den Erdboden nicht mehr verfluchen (§1mo-8-21).
+ <br>
+  Siehe auch §1mo-27-27 (wo Isaak sagt, dass der HERR das Feld gesegnet hat).
+ <br>
+  Vgl mit Simon von Kyrene: §+lk-23-26.
  }
  {
   <i>Weil du auf die Stimme deiner Frau gehört hast</i> vgl §1mo-16-2
@@ -1010,16 +1013,10 @@
   Vgl <a class='kom' href='#I1mo-4-11'>1.&nbsp;Mo&nbsp;4,11</a>.
  }
  {
-  Siehe auch <a href='http://bibel.renenyffenegger.ch/1mo_27.html#v27'>1.&nbsp;Mo&nbsp;27,27</a> (wo Isaak sagt, dass der HERR das Feld gesegnet hat).
- }
- {
   Vom Erdboden ernähren vgl <a class='kom' href='#I1mo-2-16'>1.&nbsp;Mo&nbsp;2,16</a>.
  }
  {
   Beachte: durch die (erste) Nennung des Namens «Adam» wird wohl daran erinnert, das er vom Boden genommen ist. («Erde» in <a href='http://bibel.renenyffenegger.ch/1mo_2.html#v7'>1.&nbsp;Mo&nbsp;2,7</a>).
- }
- {
-  <i>so sei der Erdboden verflucht</i> vgl mit Simon von Kyrene: §+lk-23-26.
  }
 #}
 #1mo-3-18 {
@@ -3088,6 +3085,9 @@
  }
 #}
 #1mo-13-16 {
+ {
+  <i>Den Samen wie den Staub der Erde machen</i>: §1mo-28-14, §2chr-1-9
+ }
  {
   <i>Den Staub der Erde zählen</i> Vgl §1mo-15-5, §4mo-23-10
  }
@@ -5372,10 +5372,10 @@
 #}
 #1mo-27-27 {
  {
-  Der Herr hat das Feld nicht gesegnet, sondern verflucht war der Erdboden (<a href='http://bibel.renenyffenegger.ch/1mo_3.html#v17'>1.&nbsp;Mo&nbsp;3,17</a>).
+  Der Herr hat das Feld nicht gesegnet, sondern verflucht war der Erdboden, §1mo-3-17, aber vgl §1mo-8-21
  }
  {
-   TODO: Vgl mit dem <i>Segen</i> in <a class='kom' href='#I1mo-17-6'>1.&nbsp;Mo&nbsp;17,6</a>.
+  TODO: Vgl mit dem <i>Segen</i> in <a class='kom' href='#I1mo-17-6'>1.&nbsp;Mo&nbsp;17,6</a>.
  }
 #}
 #1mo-27-28 {
@@ -5581,6 +5581,9 @@
  }
 #}
 #1mo-28-14 {
+ {
+  <i>Den Samen wie den Staub der Erde machen</i>: §+1mo-13-16
+ }
  {
   <i>in deinem Samen sollen gesegnet werden alle Geschlechter der Erde</i>: §1mo-22-18, §1mo-12-3, §apg-3-25
  }
@@ -6010,16 +6013,14 @@
 #}
 @}
 @1. Mose 32 {
-#1mo-32-1 {
+#1mo-32-2 {
  {
   Dies ist wohl «der Engel, der Jakob von allem Übel erlöst hat», §1mo-48-16
  }
-#}
-#1mo-32-2 {
  {
-   Engel ist im Hebräischen <span class='hebr'>מַלְאֲכֵ֥י</span>, dasselbe Wort das in
-   <a href='http://bibel.renenyffenegger.ch/1mo_32.html#v4'>Vers 4</a> für Boten (<span class='hebr'>מַלְאָכִים֙</span>) verwendet wird.
-   TODO: Warum ist die erste Form eine Mehrzahlform?
+  Engel ist im Hebräischen <span class='hebr'>מַלְאֲכֵ֥י</span>, dasselbe Wort das in
+  <a href='http://bibel.renenyffenegger.ch/1mo_32.html#v4'>Vers 4</a> für Boten (<span class='hebr'>מַלְאָכִים֙</span>) verwendet wird.
+  TODO: Warum ist die erste Form eine Mehrzahlform?
  }
  {
   Jakob ging <i>seines</i> Weges (<span class='hebr'><span class='grey'>לְ</span>דַרְכּ֑<span style='color:red'>וֹ</span></span>). TODO: vgl <a class='kom' href='#I1mo-33-16'>1.&nbsp;Mo&nbsp;33,16</a>.
@@ -8108,7 +8109,7 @@
 #}
 #1mo-48-16 {
  {
-  <i>der Engel, der mich von allem Übel erlöst hat</i> vgl §1mo-32-1, §1mo-32-1-ff
+  <i>der Engel, der mich von allem Übel erlöst hat</i> vgl §1mo-32-2-ff
  }
 #}
 #1mo-48-18 {
@@ -41278,6 +41279,11 @@
 #2chr-1-5 {
  {
   → biblisches/Personen/Bezaleel[Bezaleel]
+ }
+#}
+#2chr-1-9 {
+ {
+  <i>Ein Volk, das zahlreich ist wie der Staub der Erde</i> §+1mo-13-16
  }
 #}
 #2chr-1-10 {
