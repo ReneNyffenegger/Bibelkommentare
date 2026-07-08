@@ -50374,7 +50374,10 @@
 #}
 #ps-74-9 {
  {
-  TODO: Ist die Antwort auf <i>wie lange?</i> in <a href='http://bibel.renenyffenegger.ch/ps_75.html#v3'>Ps&nbsp;75,3</a>?
+  Bezieht sich <i>kein Prophet ist mehr da</i> auf die zwischentestamentliche Periode?
+ }
+ {
+  Wird <i>bis wann</i> in §ps-75-3 beantwortet
  }
 #}
 #ps-74-14 {
@@ -50407,7 +50410,7 @@
   <i>will ich in Geradheit richten</i> vgl §ps-96-10
  }
  {
-  TODO: Ist das die Antwort auf <a class='kom' href='#Ips-74-9'>Ps&nbsp;74,9</a>?
+  Ist das die Antwort auf §+ps-74-9?
  }
 #}
 #ps-75-4 {
@@ -70676,13 +70679,13 @@
 #}
 #mal-3-23 {
  {
-  Vgl mit den Zeichen an Sonne und Mond (<a class='kom' href='#Ijoe-3-4'>Joe&nbsp;3,4</a>).
- }
- {
-  Vgl auch mit <a href='http://bibel.renenyffenegger.ch/lk_1.html#v17'>Lk&nbsp;1,17</a>.
+  <i>Ich sende euch Elia</i> Vgl mit §lk-1-17, §joh-1-21
  }
  {
   Vgl <a class='kom' href='#I5mo-18-15'>5.&nbsp;Mo&nbsp;18,15</a>.
+ }
+ {
+  Vgl mit den Zeichen an Sonne und Mond (<a class='kom' href='#Ijoe-3-4'>Joe&nbsp;3,4</a>).
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
@@ -74090,6 +74093,9 @@
 #mt-13-47 {
  {
   <i>Netz</i> und <i>Meer</i>: <a class='kom' href='#Imt-4-18'>Mt&nbsp;4,18</a>.
+ }
+ {
+  <i>von jeder Art</i>: <span class='gr'>εκ παντος γενους</span>.
  }
 #}
 #mt-13-48 {
@@ -79060,6 +79066,9 @@
  }
 #}
 #mk-7-26 {
+ {
+  <i>von Geburt</i>: <span class='gr'>τω γενει</span>.
+ }
  {
   TODO: <a class='kom' href='#Imt-15-22'>Mt&nbsp;15,22</a>.
  }
@@ -86659,9 +86668,12 @@
 #}
 #joh-1-21 {
  {
-  Offenbar erwarteten sie Elia (<a href='http://bibel.renenyffenegger.ch/mal_3.html#v23'>Mal&nbsp;3,23</a>) (TODO: da er nicht gestorben ist?) oder den Prophet, den Mose angekündigt hat
-  (<a href='http://bibel.renenyffenegger.ch/5mo_18.html#v15'>5.&nbsp;Mo&nbsp;18,15</a>).
-  <br>Vgl auch die 'zwei Zeugen' aus <a class='kom' href='#Ioffb-11-3'>Offb&nbsp;11,3</a>.
+  <i>Bist du Elias</i>: Offenbar erwarteten sie Elia, §mal-3-23.
+ <br>
+  <i>Bist du der Prophet</i>: §5mo-18-15
+ }
+ {
+  Vgl auch die 'zwei Zeugen' aus §+offb-11-3.
  }
  {
   Obwohl → biblisches/Personen/Johannes/Täufer nicht → biblisches/Personen/Elia[Elias] war, sagt der Herr genau dies über Johannes, §mt-11-14
@@ -91755,6 +91767,11 @@
   5000: §+apg-2-41, vgl §apg-4-4
  }
 #}
+#apg-4-6 {
+ {
+  <i>Geschlecht</i>: <span class='gr'>γένος</span> (Strongs 1085)
+ }
+#}
 #apg-4-8 {
  {
    TODO: Beachte: Hier wird Petrus vom Heiligen Geist erfüllt und dann redet er (und Johannes)
@@ -92344,6 +92361,9 @@
 #apg-7-13 {
  {
   Vgl §+1mo-45-1.
+ }
+ {
+  <i>Geschlecht</i>: <span class='gr'>γένος</span> (Strongs 1085). Ebenso in §Vapg-7-19
  }
 #}
 #apg-7-14 {
@@ -94138,6 +94158,9 @@
   <i>Söhne des Geschlechtes Abrahams</i>: vgl mit → biblisches/Personen/Abraham/Same#abraham-vater und «Gottes Geschlecht», §apg-17-29
  }
  {
+  <i>Geschlecht</i>: <span class='gr'>γένος</span> (Strongs 1085).
+ }
+ {
   Vgl §Vapg-13-16
  }
 #}
@@ -94462,7 +94485,7 @@
 #}
 #apg-14-16 {
  {
-  Vgl §apg-17-30
+  <i>Vergangene Geschlechter</i> Vgl §apg-15-21, §apg-17-30
  }
 #}
 #apg-14-17 {
@@ -94694,7 +94717,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/predigen
  }
  {
-  <i>seit alten Geschlechtern her</i>: In Elberfelder und Sch2K mit «von alten Zeiten her», in KJV mit «of old time» übersetzt.
+  <i>seit alten Geschlechtern her</i>: In Elberfelder und Sch2K mit «von alten Zeiten her», in KJV mit «of old time» übersetzt. Vgl §apg-14-16
  }
  {
   <i>in jeder Stadt</i>: §Vapg-15-36
@@ -95345,6 +95368,9 @@
  {
   Das Zitat <i>Denn wir sind sein Geschlecht</i> stammt von → Philosophie/Griechisch/Personen/Aratos-von-Saloi[Aratos] Werk → Philosophie/Griechisch/Personen/Aratos-von-Saloi#aratos-phainomena[Phainomena].
   Aratos bezieht sich mit «sein» auf Zeus.
+ }
+ {
+  <i>Geschlecht</i>: <span class='gr'>γένος</span> (Strongs 1085).
  }
 #}
 #apg-17-29 {
@@ -104489,7 +104515,9 @@
 #}
 #2kor-11-26 {
  {
-  <i>Gefahren vom eigenen Volk</i>: vgl <a href='http://bibel.renenyffenegger.ch/1thes_2.html#v14'>1.&nbsp;Thes&nbsp;2,14</a>.
+  <i>Gefahren von meinem Geschlecht</i>: vgl §1thes-2-14.
+ <br>
+  <i>Geschlecht</i>: <span class='gr'>γένος</span> (Strongs 1085).
  }
  {
   Vgl diese Verse mit ca <a href='http://bibel.renenyffenegger.ch/2kor_6.html#v4'>2. Kor 6,4ff</a>.
@@ -108983,7 +109011,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nachahmer, vgl §1thes-1-6
  }
  {
-  <i>Von eigenen Volksgenossen erleiden</i>: <a class='kom' href='#I2kor-11-26'>2.&nbsp;Kor&nbsp;11,26</a>.
+  <i>Von eigenen Volksgenossen erleiden</i>: §+2kor-11-26.
  }
  {
   <i>Die Versammlungen von Judäa, die → biblisches/Eigene-Uebersetzung/Konkordanz/In-Jesus-Christus[in Christo Jesu sind]</i>: §+gal-1-22, vgl §1thes-1-1
@@ -116183,6 +116211,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>ein auserwähltes Geschlecht</i> vgl §1petr-1-1-2, §1petr-5-13
+ <br>
+  <i>Geschlecht</i>: <span class='gr'>γένος</span> (Strongs 1085).
  }
 #}
 #1petr-2-10 {
