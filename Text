@@ -56632,7 +56632,7 @@
 @Jesaja 5 {
 #jes-5-1 {
  {
-  Dies erinnert an das Gleichnis in <a href='http://bibel.renenyffenegger.ch/mt_21.html#v33'>Mt&nbsp;21,33</a>.
+  Dies erinnert an das Gleichnis in §mt-21-33.
  }
 #}
 #jes-5-2 {
@@ -72304,7 +72304,7 @@
   sonst in keinem andern Evangelium.
  }
  {
-  Vgl <i>gekannt</i> (<span class='gr'>γινώσκω</span>, Strongs 1097) mit <a class='kom' href='#Imt-25-12'>Mt&nbsp;25,12</a>.
+  Vgl <i>gekannt</i> (<span class='gr'>γινώσκω</span>, Strongs 1097) mit §+mt-25-12.
  }
 #}
 #mt-7-24 {
@@ -74766,11 +74766,11 @@
 #}
 #mt-16-27 {
  {
-  TODO:  1878_Russel-Parousia schreibt: «the words,  μέλλει γὰρ, are emphatically placed at the beginning of the sentence, not a simple future, but meaning, The event is impeding, that He shall come; He is about to come»
+  <i>Kommen des Sohnes des Menschen mit Engeln</i>: vgl mit §mt-25-31. Hier «in der Herrlichkeit seines Vaters», dort in «seiner Herrlichkeit».
+  <br>Vgl auch §+1thes-3-13, §2thes-1-7, §lk-9-26, §mk-8-38
  }
  {
-  <i>Kommen des Sohnes des Menschen mit Engeln</i>: vgl mit <a href='http://bibel.renenyffenegger.ch/mt_25.html#v31'>Mt&nbsp;25,31</a>. Hier «in der Herrlichkeit seines Vaters», dort in «seiner Herrlichkeit».
-  <br>Vgl auch <a class='kom' href='#I1thes-3-13'>1.&nbsp;Thes&nbsp;3,13</a> und <a href='http://bibel.renenyffenegger.ch/2thes_1.html#v7'>2.&nbsp;Thes&nbsp;1,7</a>.
+  TODO:  1878_Russel-Parousia schreibt: «the words,  μέλλει γὰρ, are emphatically placed at the beginning of the sentence, not a simple future, but meaning, The event is impeding, that He shall come; He is about to come»
  }
 #}
 #mt-16-28 {
@@ -76529,7 +76529,9 @@
 #}
 #mt-25-12 {
  {
-   TODO: vgl <i>kenne</i> (<span class='gr'>εἴδω</span>, Strongs 1492) mit <a class='kom' href='#Imt-7-23'>Mt&nbsp;7,23</a>.
+  <i>Ich kenne euch nicht</i> vgl §lk-13-27.
+ <br>
+  Vgl <i>kenne</i> (<span class='gr'>εἴδω</span>, Strongs 1492) mit §+mt-7-23.
  }
 #}
 #mt-25-13 {
@@ -79222,7 +79224,7 @@
 #}
 #mk-8-36 {
  {
-  §mt-16-26, §lk-9-25
+  §lk-9-25, vgl §mt-16-26
  }
 #}
 #mk-8-37 {
@@ -79232,7 +79234,7 @@
 #}
 #mk-8-38 {
  {
-  §lk-9-26
+  §lk-9-26, vgl §mt-16-27
  }
  {
   <i>Ehebrecherisches Geschlecht</i> vgl §mt-12-39
@@ -83398,7 +83400,7 @@
 #}
 #lk-9-26 {
  {
-  §mk-8-38
+  §mk-8-38, vgl §mt-16-27
  }
 #}
 #lk-9-27 {
@@ -84357,13 +84359,7 @@
 #}
 #lk-13-6 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
- }
- {
-  vgl §1kor-9-7
- }
- {
-  TODO: vgl dieses Gleichnis mit jenem ab §lk-20-10
+  Vgl dieses → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse[Gleichnis] mit jenem ab §lk-20-9 und §1kor-9-7
  }
 #}
 #lk-13-7 {
@@ -84373,9 +84369,9 @@
 #}
 #lk-13-11 {
  {
-  Wenn der Herr seinen Dienst mit 30 jährig begonnen hat, und er hier noch 30 jährig ist, heisst das, das diese Tochter Abrahams vom Satan gebunden wurde, als der Herr 12 jährig war (§+lk-2-42)
+  Wenn der Herr seinen Dienst mit 30 jährig begonnen hat, und er hier noch 30 jährig ist, heisst das, das diese Tochter Abrahams vom Satan gebunden wurde, als der Herr 12 jährig war, §+lk-2-42.
   <br>
-   Vgl auch mit §Vlk-13-4.
+  Vgl die 18 Jahre auch mit §Vlk-13-4.
  }
 #}
 #lk-13-13 {
@@ -84451,6 +84447,9 @@
  }
 #}
 #lk-13-27 {
+ {
+  <i>ich kenne euch nicht</i> vgl §mt-25-12
+ }
  {
   <i>Übeltäter</i>: wörtlich «Arbeiter der Ungerechtigkeit» (<span class='gr'>οι εργαται της αδικιας</span>).
  }
@@ -85312,17 +85311,13 @@
   Dieses Gleichnis scheint die beiden Gleichnisse von §lk-13-7-ff und §lk-19-11-ff zu verbinden.
  <br>
    Vgl §mt-21-33, §mk-12-1
- }
- {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse
+  <br>
+  Vgl dieses → biblisches/Eigene-Uebersetzung/Konkordanz/Gleichnisse[Gleichnis] mit jenem ab §lk-13-6
  }
 #}
 #lk-20-10 {
  {
   Knechte werden geschlagen, vgl §lk-11-49
- }
- {
-  TODO: vgl dieses Gleichnis  mit jenem ab §lk-13-6
  }
 #}
 #lk-20-13 {
