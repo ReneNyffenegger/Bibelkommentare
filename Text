@@ -52617,6 +52617,11 @@
   <a class='kom' href='#Imt-21-9'>Mt&nbsp;21,9</a> ist.
  }
 #}
+#ps-118-26 {
+ {
+  <i>Gesegnet, der da kommt im Namen Jehovas!</i> vgl §mt-21-9, §mt-23-39, §mk-11-9, §lk-13-35, §joh-12-13
+ }
+#}
 @}
 @Psalm 119 {
 #ps-119-1 {
@@ -65167,6 +65172,9 @@
  <br>
   Vgl mit der Prophezeiung in §jes-23-13
  }
+ {
+  TODO: Vgl §lk-19-43
+ }
 #}
 #hes-26-14 {
  {
@@ -75248,7 +75256,15 @@
   §lk-18-27, §lk-1-37
  }
 #}
+#mt-19-27 {
+ {
+  §mk-10-28, §lk-18-28
+ }
+#}
 #mt-19-28 {
+ {
+  <i>Wiedergeburt</i>: <span class='gr'>παλιγγενεσια</span> (Strongs 3824, 2x). Dieses Wort kommt auch in §tit-3-5 vor.
+ }
  {
   <i>die zwölf Stämme richten</i>, vgl §1kor-6-2-3, §2petr-2-4, §offb-20-4
  <br>
@@ -75473,9 +75489,7 @@
 #}
 #mt-21-9 {
  {
-  <i>Gepriesen, der kommt</i>
-    <a href='http://bibel.renenyffenegger.ch/lk_19.html#v38'>Lk&nbsp;19,38</a>,
-    <a href='http://bibel.renenyffenegger.ch/joh_12.html#v13'>Joh&nbsp;12,13</a>
+  <i>Gepriesen sei, der da kommt</i>: §+ps-118-26, §lk-19-38, §joh-12-13
   <br>
     Beachte <a href='http://bibel.renenyffenegger.ch/mt_23.html#v39'>Mt&nbsp;23,39</a>: Die Juden werden Ihn nicht mehr sehen,
     bis sie sprechen «Gepriesen sei der, welcher kommt im Namen des Herrn». War das <i>Sohn Davids</i> zuviel und hätten
@@ -76052,7 +76066,7 @@
  {
   Vgl <i>im Namen des Herrn kommen</i> mit §mt-24-5.
  <br>
-  <i>gepriesen sei …</i> Vgl §+mt-21-9.
+  <i>gepriesen sei …</i> Vgl §+mt-21-9, §ps-118-26
  }
 #}
 @}
@@ -79584,6 +79598,11 @@
   §lk-1-37, §lk-18-27, §mt-19-26
  }
 #}
+#mk-10-28 {
+ {
+  §mt-19-27, §lk-18-28
+ }
+#}
 #mk-10-29 {
  {
   §lk-18-29
@@ -79707,7 +79726,7 @@
 #}
 #mk-11-9 {
  {
-  §joh-12-13
+  <i>Gepriesen sei, der da kommt</i>: §+ps-118-26
  }
 #}
 #mk-11-10 {
@@ -84499,8 +84518,9 @@
  }
  {
   <i>Ihr werdet mich nicht sehen</i> vgl §lk-17-22, §mk-14-62, §joh-16-16-ff
- <br>
-  <i>… bis ihr sprecht "Gepriesen sei…", §lk-19-38
+ }
+ {
+  <i>Gepriesen sei, der da kommt</i>: §+ps-118-26
  }
 #}
 @}
@@ -84527,7 +84547,7 @@
 #}
 #lk-14-8 {
  {
-  <i>Hochzeit</i>: §+mt-9-15 §+mt-23-12.
+  <i>Hochzeit</i>: §+mt-9-15 §+mt-22-2.
  }
 #}
 #lk-14-10 {
@@ -85072,6 +85092,11 @@
   §lk-1-37
  }
 #}
+#lk-18-28 {
+ {
+  §mt-19-27, §mk-10-28
+ }
+#}
 #lk-18-29 {
  {
   §mk-10-29
@@ -85274,6 +85299,9 @@
 #lk-19-43 {
  {
   <i>einen Wall um dich aufschütten…</i> vgl §2koe-25-1
+ }
+ {
+  TODO: <i>Wall aufschütten</i> vgl §hes-26-8
  }
 #}
 #lk-19-44 {
@@ -89117,7 +89145,7 @@
 #}
 #joh-12-13 {
  {
-  <i>Gepriesen, der kommt</i>: §+mt-21-9, §mk-11-9
+  <i>Gepriesen, der kommt</i>: §+ps-11-8-26, §+mt-21-9, §mk-11-9
  }
  {
   TODO: <i>Palmzweige</i>: <a class='kom' href='#Ioffb-7-9'>Offb&nbsp;7,9</a>.
@@ -112271,10 +112299,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Vgl §apg-10-34-35
  }
  {
-   Vgl mit <i>Wasser und Geist</i> in §joh-3-5.
+  Vgl mit <i>Wasser und Geist</i> in §joh-3-5.
  }
  {
-   <i>Waschung</i> als → biblisches/Lehre/Bilder-im-Alten-Testament#wasser-waschung[Bild] auf die Wiedergeburt. Vgl. §eph-5-26
+  <i>Waschung</i> als → biblisches/Lehre/Bilder-im-Alten-Testament#wasser-waschung[Bild] auf die Wiedergeburt. Vgl. §eph-5-26
+ }
+ {
+  <i>Wiedergeburt</i>: <span class='gr'>παλιγγενεσια</span> (Strongs 3824, 2x). Dieses Wort kommt auch in §mt-19-28 vor.
  }
  {
   TODO: <i>Wiedergeburt</i>: §+joh-3-3.
