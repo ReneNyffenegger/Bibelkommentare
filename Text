@@ -24314,10 +24314,14 @@
 #}
 #5mo-32-35 {
  {
-  <i>Mein ist die Rache</i>: <a class='kom' href='#Iroem-12-19'>Röm&nbsp;12,19</a>,
-  <a href='http://bibel.renenyffenegger.ch/hebr_10.html#v30'>Hebr&nbsp;10,30</a>.
-  <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/ps_58.html#v11'>Ps 58,11-12</a>,
-      <a href='http://bibel.renenyffenegger.ch/ps_94.html#v1'>Ps&nbsp;94,1</a>.
+  <i>Mein ist die Rache</i>: §+roem-12-19, §hebr-10-30, vgl §lk-21-22
+ <br>
+  Vgl auch <a href='http://bibel.renenyffenegger.ch/ps_58.html#v11'>Ps 58,11-12</a>, <a href='http://bibel.renenyffenegger.ch/ps_94.html#v1'>Ps&nbsp;94,1</a>.
+ }
+#}
+#5mo-32-36 {
+ {
+  <i>Der Herr wird sein Volk richten</i>: §hebr-10-30
  }
 #}
 #5mo-32-39 {
@@ -28054,8 +28058,12 @@
 #}
 #ri-10-4 {
  {
-   <i>30 Söhne</i> vgl §ri-12-9
-   <br><i>30 Eselsfüllen</i>: vgl <a href='http://bibel.renenyffenegger.ch/ri_12.html#v14'>Ri&nbsp;12,14</a>.
+  <i>30 Söhne</i> vgl §ri-12-9
+ <br>
+  <i>Auf 30 Eseln reiten</i>: vgl §ri-12-14, §sach-9-9
+ }
+ {
+  <i>Eseln</i>: <span class='hebr'>עֲיָרִ֔ים</span>, <i>Städte</i>: <span class='hebr'>עֲיָרִ֖ים</span>. Vgl mit <i>Jair</i>: <span class='hebr'>יָאִ֗יר</span>.
  }
 #}
 #ri-10-6 {
@@ -28213,7 +28221,7 @@
 #}
 #ri-12-14 {
  {
-  <i>30 Eselsfüllen</i>: <a class='kom' href='#Iri-10-4'>Ri&nbsp;10,4</a>
+  <i>Auf 70 Eseln reiten</i>: §+ri-10-4
  }
 #}
 #ri-12-15 {
@@ -44556,7 +44564,10 @@
 #}
 #esr-5-2 {
  {
-   → biblisches/Personen/Schealtiel
+  → biblisches/Personen/Schealtiel
+ }
+ {
+  <i>Sie fingen an, das Haus Gottes zu bauen, und mit Ihnen die Propheten…</i> vgl §hag-1-8
  }
 #}
 #esr-5-5 {
@@ -55489,7 +55500,7 @@
 #}
 #pred-2-5 {
  {
-  <i>Parkanlagen</i> ist im Grundtext eigentlich <span class='hebr'>פַּרְדֵּס</span> (→ biblisches/Grundtext/Wörter/H6508-G3857-Paradies[Paradies]), vgl §hl-4-13
+  <i>Parkanlagen</i> ist im Grundtext eigentlich <span class='hebr'>פַרְדֵּסִ֑ים</span> (→ biblisches/Grundtext/Wörter/H6508-G3857-Paradies[Paradiese]), vgl §hl-4-13
  }
 #}
 #pred-2-15 {
@@ -69880,6 +69891,11 @@
   TODO: Ihr trinkt: eigtl. Ihr berauscht euch?
  }
 #}
+#hag-1-8 {
+ {
+  <i>Baut das Haus</i>: §esr-5-2
+ }
+#}
 #hag-1-9 {
  {
   TODO: <i>ich blies hinein</i> vgl §mal-1-13
@@ -70349,6 +70365,9 @@
    Teilweise zitiert in §joh-12-15 (siehe → biblisches/Bücher/Evangelien/Abschnitte/Jesu-zwei-Einzüge-in-Jerusalem)
  }
  {
+  <i>Auf einem Esel reiten</i> vgl §+ri-10-4
+ }
+ {
   <i>Siehe</i>: → biblisches/Eigene-Uebersetzung/Konkordanz/König-Knecht-Mann-Gott
  }
 #}
@@ -70717,7 +70736,7 @@
 @}
 }
 }
- NT
+{ NT
 { Evangelien
 { Matthäus
 { 1-10
@@ -71227,7 +71246,7 @@
   Mit der Gleichsetzung der Pharisäer und Sadduzäern als Schlangenbrut deutet Johannes wohl darauf hin, daß sie der «Same der Schlange» sind: §1mo-3-15, vgl §joh-8-44.
  }
  {
-  <i>Wer hat euch gewiesen, dem kommenden → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn zu entfliehen</i>: §lk-3-7, §joh-3-36
+  <i>Wer hat euch gewiesen, dem kommenden → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Zorn zu entfliehen</i>: §lk-3-7, vgl §joh-3-36, §1thes-1-10
  }
  {
   <i>Zorn in den Evangelien</i>: <ul>
@@ -71985,6 +72004,9 @@
 #mt-5-47 {
  {
   <i>die Zöllner</i>: Elberfelder überstzt mit «die von den Nationen».
+ }
+ {
+  <span class='gt'>Mehrheitstext hat <i>Freunde</i> anstelle von <i>Brüder</i>. MT unt TR haben <i>ebenso</i> anstelle von <i>dasselbe</i>.</span>
  }
 #}
 #mt-5-48 {
@@ -73873,6 +73895,9 @@
   In den Versen 5, 7 und 8 ist das Griechische Wort, welches mit «anderes» überstezt wurde,
   → biblisches/Grundtext/Wörter/G243-allos_G2087-heteros[ἄλλος], in §lk-8-6-10 ist es
   → biblisches/Grundtext/Wörter/G243-allos_G2087-heteros[ἕτερος].
+ }
+ {
+  Der Samen geht zwar <i>alsbald</i> auf (vgl §Vmt-13-20), aber bei Drangsal oder Verfolgung ärgert er sich auch alsbald, §Vmt-13-21.
  }
 #}
 #mt-13-8 {
@@ -76007,6 +76032,9 @@
  {
   Vgl §lk-11-48
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden
+ }
 #}
 #mt-23-33 {
  {
@@ -76149,8 +76177,13 @@
   <i>Kriege und Kriegsgerüchte</i> vgl §lk-21-9, §+dan-9-26
  }
  {
-  <i>Noch nicht das Ende</i>, aber «der Anfang der Wehen» (Vers 8). Vers 14: «dann wird das Ende kommen».
-  Vers 21: «grosse Drangsal» (vgl V. 15, und Vers 29)
+  <i>Noch nicht das Ende</i>, aber «der Anfang der Wehen» (§Vmt-24-8). §Vmt-24-14: «dann wird das Ende kommen».
+  §Vmt-24-21: «grosse Drangsal».
+ <br>
+  Das Ende ist wohl, wenn die Auswerwählten versammelt werden, §Vmt-24-31. Bis dahin gilt es, auszuharren, §Vmt-24-13.
+ }
+ {
+  <i>dies alles muss geschehen</i>: Der Herr nennt im Zusammenhang seiner Endzeitrede auch, dass das Evangelium allen Nationen gepredigt werden muß, §mk-13-10
  }
  {
   TODO: Was sind denn schon diese irdische Kriege im Vergleich mit dem kosmischen Krieg, §offb-16-14, §offb-19-19, §offb-20-8?
@@ -76330,6 +76363,9 @@
   Vgl → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen/Himmel (Vgl §+lk-21-25)
   <br>
   Beachte, dass Israel aufhört, ein Volk zu sein, sobald die Ordnung der Sonne, Mond und Sterne aufhören (§jer-31-35-36).
+ }
+ {
+  <i>alsbald</i> §+lk-21-9
  }
 #}
 #mt-24-30 {
@@ -76610,7 +76646,7 @@
   <i>kommen werden</i>: vgl <a class='kom' href='#Imt-24-3'>Mt&nbsp;24,3</a>.
  }
  {
-  <i>Kommen des Sohnes des Menschen mit Engeln</i>: vgl §+mt-16-27.
+  <i>Kommen des Sohnes des Menschen mit heiligen Engeln</i>: vgl §+mt-16-27, §1thes-3-13
  }
  {
   <span class='gt'>NA lässt «heilig» weg</span>
@@ -80067,6 +80103,9 @@
 #mk-13-10 {
  {
   §mt-24-14
+ }
+ {
+  Allen Nationen <i>muß</i> das Evangelium gepredigt werden: §+mt-24-6
  }
 #}
 #mk-13-11 {
@@ -84423,6 +84462,9 @@
  {
   Vgl die <i>Tochter Abrahams</i> mit Zachäus, dem → biblisches/Personen/Abraham/Same#abraham-vater[Sohn Abrahams] in §+lk-19-9.
  }
+ {
+  <i>Welche der Satan 18 Jahre gebunden hat</i>. Beachte, dass der Satan 1000 Jahre gebunden wurde, §offb-20-2
+ }
 #}
 #lk-13-18 {
  {
@@ -85519,6 +85561,9 @@
  {
   <i>Empörungen</i>: <span class='gr'>ἀκαταστασία</span> (Strongs 181). Dieses Wort wird in §1kor-14-33 mit «Unordnung» übersetzt, wo es im  Kontrast zu Frieden gebraucht wird, hier wird Empörung im Zussamenhang mit Krieg gestellt.
  }
+ {
+  Hier ist das Ende <i>nicht alsbald</i> (<span class='gr'>ουκ ευθεως</span>), aber nach der «Drangsal jener Tage» (§mt-24-21-28) wird die Sonne <i>alsbald</i> verfinstert werden, §mt-24-29
+ }
 #}
 #lk-21-10 {
  {
@@ -85592,6 +85637,9 @@
 #lk-21-22 {
  {
   <i>auf das alles erfüllt werde, was geschrieben steht</i> vgl §lk-22-37, §lk-24-44
+ }
+ {
+  <i>Tage der Rache</i> vgl §5mo-32-35
  }
 #}
 #lk-21-23 {
@@ -108913,7 +108961,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #1thes-1-10 {
  {
-  <i>Vor dem Zorn erretten</i>: Vgl §+roem-5-9, §1thes-2-16 (Zorn kommt über die Juden) und §1thes-5-9
+  <i>Von dem kommenden Zorn erretten</i>: Vgl §mt-3-7, §+roem-5-9, §1thes-2-16 (Zorn kommt über die Juden) und §1thes-5-9
  }
  {
   → biblisches/Bücher/Paulus/Thessalonicher#thes-wiederkunft[Erwähnung der Wiederkunft in den Thessalonicherbriefen]
@@ -109430,7 +109478,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte die Ähnlichkeit der hier geschilderten Ereignisse mit §mt-24-30-ff (und dass Paulus diese Dinge im
   «→ biblisches/Eigene-Uebersetzung/Konkordanz/Wort/Gott#wort-des-herrn[Wort des Herrn]» sagt):<ul>
     <li>Das Kommen des Herrn
-    <li>Erzengels
+    <li>Erzengel
     <li>Posaune
     <li>in Wolken entrückt werden
     <li>beim Herrn sein
@@ -109788,7 +109836,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2thes-1-10 {
  {
-  <i>wenn er kommen wird</i>: <a class='kom' href='#I1thes-3-13'>1.&nbsp;Thes&nbsp;3,13</a>.
+  <i>wenn er kommen wird, um an jenem Tag verherrlicht zu werden in seinen Heiligen</i> vgl §1thes-3-13
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
@@ -109841,13 +109889,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
  }
  {
-   <span class='gt'>NA hat «Tag des Herrn» statt «Tag des Christus».</span>
- }
- {
   <i>noch durch Word, noch durch Brief</i> vgl §V2thes-2-15, §2thes-3-14
  }
  {
   Möglicherweise könnte das Ende des Verses auch übersetzt werden mit «als ob der Tag Christi gegenwärtig (<span class='gr'>ενεστηκεν</span>, Strongs 1764) wäre». vgl §2tim-3-1
+ }
+ {
+  <span class='gt'>NA hat «Tag des Herrn» statt «Tag des Christus».</span>
  }
 #}
 #2thes-2-3 {
@@ -109887,7 +109935,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Bücher/Paulus/Thessalonicher/2/Kapitel-02/Der-Zurückhaltende
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst
+  <i>Und <b>jetzt</b> → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst[wisst ihr], was zurückhält</i>: Evtl. deutet dies darauf hin, dass die Thessaloniker <i>jetzt</i> verstehen,
+  was Paulus gelehrt hat, als er bei ihnen war (und was sie damals nicht verstanden).
  }
  {
   TODO: <a href='https://www.askelm.com/restoring/res019.htm'>askelm.com</a>: Since it is clear in Paul’s comments that he had been giving the
@@ -110062,8 +110111,8 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Die Thessaloniker sollen sich zurückziehen von jedem Bruder, der unordentlich wandelt, aber es hat unordentliche
   unter ihnen (Vers 11).
-         <br>Beachte: Paulus lebte nicht unordentlich (Vers 7)
-         <br>Beachte auch, dass man (sogar?) <i>keinen Umgang</i> haben darf mit jemanden, der dem brieflichen Wort nicht gehorcht.
+ <br>Beachte: Paulus lebte nicht unordentlich (Vers 7)
+ <br>Beachte auch, dass man (sogar?) <i>keinen Umgang</i> haben darf mit jemanden, der dem brieflichen Wort nicht gehorcht.
  }
  {
   Siehe auch <a class='kom' href='#I1thes-4-1'>1.&nbsp;Thes&nbsp;4,1</a>.
@@ -114219,7 +114268,10 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-10-30 {
  {
-  <i>Die Rache ist mein</i>: <a class='kom' href='#I5mo-32-35'>5.&nbsp;Mo&nbsp;32,35</a>.
+  <i>Die Rache ist mein</i>: §+5mo-32-35.
+ }
+ {
+  <i>Der Her wird sein Volk richten</i>: §5mo-32-36
  }
 #}
 #hebr-10-31 {
@@ -123106,7 +123158,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>→ biblisches/Eigene-Uebersetzung/Konkordanz/Drache, Teufel, Satan</i>: vgl §+offb-12-9.
  }
  {
-  <i>Gebundener Satan</i> vgl §jud-1-6
+  <i>Gebundener Satan</i> vgl §jud-1-6, §lk-13-16
  }
  {
   <span class='gt'>Mehrheitstext hat «welche der Teufel und der Satan ist, <i>der den ganzen Erdkreis verführt</i>…». Vgl §offb-12-9, §Voffb-20-9</span>
