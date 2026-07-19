@@ -60231,7 +60231,7 @@
 #}
 #jes-65-2 {
  {
-   Wird in <a class='kom' href='#Iroem-10-21'>Röm&nbsp;10,21</a> zitiert.
+  In §+roem-10-21 zitiert.
  }
 #}
 #jes-65-3 {
@@ -73093,7 +73093,9 @@
    Vgl mit → biblisches/Personen/Paulus, der den Namen des Herrn vor Nationen, Könige und die Söhne Israels tragen soll, §apg-9-15.
  }
  {
-  <i>den Nationen zu Zeugnis</i>: die Jünger sollen nicht auf den «Weg der Nationen gehen», §mt-10-5
+  <i>den Nationen zu Zeugnis</i>: die Jünger sollen nicht auf den «Weg der Nationen gehen», §Vmt-10-5.
+ <br>
+  Vgl §mt-24-14
  }
 #}
 #mt-10-19 {
@@ -76277,6 +76279,9 @@
   <br>
    Vgl mit dem «ewigen Evangelium», das in der → biblisches/Bücher/prophetisch/Offenbarung[Offenbarung] auch vor dem Ende gepredigt wird: §offb-14-6-ff.
  }
+ {
+  <i>Allen Nationen zum Zeugnis</i> §mt-10-18
+ }
 #}
 #mt-24-15 {
  {
@@ -77121,14 +77126,22 @@
   <i>Da verließen ihn die Jünger alle und flohen</i>, §Vmt-26-31, §mk-14-50, vgl §joh-16-32
  }
 #}
+#mt-26-57 {
+ {
+  §mk-14-53, §lk-22-54, §joh-18-12
+ }
+#}
 #mt-26-59 {
+ {
+  §mk-14-55
+ }
  {
   <i>Hoher Rat</i>: <a class='kom' href='#Imt-5-22'>Mt&nbsp;5,22</a>.
  }
 #}
 #mt-26-60 {
  {
-  <i>Zwei falsche Zeugen</i> vgl §mt-18-16, §offb-11-3
+  <i>Viele falsche Zeugen</i>: §mk-14-56, vgl §mt-18-16, §apg-6-13, §offb-11-3
  }
 #}
 #mt-26-61 {
@@ -77141,9 +77154,17 @@
   Vgl §joh-2-19-21, §mt-27-40
  }
 #}
+#mt-26-62 {
+ {
+  <i>Antwortest du nichts? Was zeugen diese gegen dich?</i> §mt-27-13-14
+ }
+#}
 #mt-26-63 {
  {
-  <i>Sohn Gottes</i>: <a class='kom' href='#Imt-8-29'>Mt&nbsp;8,29</a>.
+  <i>Bist du der Christus</i>: §mk-14-61, §lk-22-67. Vgl  §mt-27-11
+ }
+ {
+  <i>Sohn Gottes</i>: §+mt-8-29.
  }
 #}
 #mt-26-64 {
@@ -77249,12 +77270,13 @@
 #}
 #mt-27-11 {
  {
-  §mk-15-2, §lk-23-3, §joh-18-33
+  <i>Bist du der König der Juden?</i> §mk-15-2, §lk-23-3, §joh-18-33. Vgl §mt-26-63
  }
  {
   Nachdem nun geklärt ist, dass Er der König der Juden ist, gibt es nichts mehr zu sagen (Vers 14).
   Vgl auch «Bist du der Christus» in <a href='http://bibel.renenyffenegger.ch/mk_14.html#v61'>Mk&nbsp;14,61</a>.
-         <br>Vgl auch <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v1'>Hebr 1,1 ff</a>.
+ <br>
+  Vgl auch <a href='http://bibel.renenyffenegger.ch/hebr_1.html#v1'>Hebr 1,1 ff</a>.
  }
  {
   <i>König der Juden</i>: vgl die Frage in §mt-2-2.
@@ -77273,6 +77295,9 @@
 #mt-27-14 {
  {
   §mk-15-5
+ }
+ {
+  <i>Er antwortete nicht auf einziges Wort</i> §mt-26-62
  }
  {
   TODO <i>sich verwundern</i>: <a class='kom' href='#Imt-8-10'>Mt&nbsp;8,10</a>
@@ -80548,9 +80573,19 @@
   Vgl §1mo-39-12
  }
 #}
+#mk-14-53 {
+ {
+  §mt-26-57, §lk-22-54, §joh-18-12
+ }
+#}
 #mk-14-54 {
  {
   <i>Feuer</i>: <span class='gr'>φῶς</span>, egtl. «Licht», vgl §lk-22-56
+ }
+#}
+#mk-14-55 {
+ {
+  §mt-26-59
  }
 #}
 #mk-14-58 {
@@ -80591,7 +80626,7 @@
   <i>zur Rechten der Macht sitzen</i> vgl §+ps-110-1
  }
  {
-  <i>ich bin's</i> §joh-18-6
+  <i>ich bin's</i> §joh-18-6, vgl §lk-22-58
  }
  {
   <i>kommen mit den Wolken des Himmels</i> vgl §mk-13-26
@@ -80607,7 +80642,15 @@
   §lk-22-64 
  }
  {
+  <i>Die Diener gaben ihm Backenstreiche</i>: §+joh-18-22
+ }
+ {
   TODO: εβαλλον oder ελαβον?
+ }
+#}
+#mk-14-68 {
+ {
+  <i>Ich weiß nicht, … was du sagst</i> §lk-22-60
  }
 #}
 #mk-14-70 {
@@ -81707,6 +81750,8 @@
 #lk-2-36 {
  {
   Vgl die <i>Prophetin Anna</i> mit dem »Menschen Simeon« (§+lk-2-25). Im Gegensatz zu ihr wird bei ihm weder Name eines Vorfahren noch sein Stamm genannt.
+ <br>
+  Vgl ihren Namen auch mit dem Namen des Hohepriester Annas, §lk-3-2
  }
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet
@@ -81834,7 +81879,9 @@
 #}
 #lk-3-2 {
  {
-  Annas ist der Schwiegervater von Kajaphas (§+joh-18-13)
+  <i>Annas</i> ist der Schwiegervater von Kajaphas, §+joh-18-13
+ <br>
+  Vgl seinen Namen mit dem der Prophetin Anna, §lk-2-36
  }
 #}
 #lk-3-3 {
@@ -82217,6 +82264,9 @@
 #lk-4-20 {
  {
   Beachte, die Schrift wurde vor den <i>Ohren</i> erfüllt, es waren aber die <i>Augen</i> (Vers 19) auf ihn gerichtet.
+ }
+ {
+  TODO: <i>aller Augen waren auf ihn gerichtet</i> vgl §lk-22-56 (Strongs 816)
  }
 #}
 #lk-4-21 {
@@ -86054,7 +86104,7 @@
 #}
 #lk-22-53 {
  {
-  <i>ihr habt die Hände nicht gegen mich ausgestreckt</i> vgl §joh-7-44, §lk-20-19, §lk-9-44
+  <i>ihr habt die Hände nicht gegen mich ausgestreckt</i> vgl §joh-7-44, §lk-20-19, §lk-9-44, §jes-65-2, §roem-10-21
  }
  {
   <i>eure Stunde</i> vgl §Vlk-22-14, vgl mit «meine Stunde» (die noch nicht gekommen ist), §joh-2-4
@@ -86063,9 +86113,17 @@
   <i>die Gewalt der Finsternis</i> vgl §joh-1-5
  }
 #}
+#lk-22-54 {
+ {
+  §mt-26-57, §mk-14-53, §joh-18-12
+ }
+#}
 #lk-22-55 {
  {
   <i>Petrus in der Mitte</i> vgl §apg-1-15
+ }
+ {
+  <i>Feuer</i>: <span class='gr'>πῦρ</span>. Vgl nächster Vers und §joh-18-18.
  }
 #}
 #lk-22-56 {
@@ -86073,7 +86131,17 @@
   Diese <i>gewisse Magd</i> ist eine von den Mägden des Hohepriesters, §mk-14-66
  }
  {
-  <i>Feuer</i>: <span class='gr'>φῶς</span>, egtl. «Licht», vgl §mk-15-54. In §Vlk-22-55 ist das Wort, das mit «Feuer» übersetzt wird <span class='gr'>πῦρ</span>.
+  <i>Feuer</i>: <span class='gr'>φῶς</span>, egtl. «Licht», vgl §mk-14-54, §Vlk-22-55.
+ }
+#}
+#lk-22-58 {
+ {
+  <i>Ich bin's nicht</i> §joh-18-25. Vgl §joh-1-21, §mk-14-62
+ }
+#}
+#lk-22-60 {
+ {
+  <i>ich weiß nicht, was du sagt</i> §mk-14-68
  }
 #}
 #lk-22-61 {
@@ -90346,13 +90414,14 @@
   <br>Vgl auch <i>Einsetzung des Mahles</i> <a class='kom' href='#Imt-26-26'>Mt&nbsp;26,26</a>.
  }
 #}
+#joh-18-12 {
+ {
+  §mt-26-57, §lk-22-54, §mk-14-53
+ }
+#}
 #joh-18-13 {
  {
-  Annas und Kajaphas werden auch in §lk-3-2 und §apg-4-6 erwähnt.
- }
- {
-   TODO: Sind das dieselben Hannas und Kajaphas wie in <a href='http://bibel.renenyffenegger.ch/apg_4.html#v6'>Apg&nbsp;4,6</a> (wo aber Hannas
-   der Hohepriester ist)?
+  Annas und Kajaphas werden auch in §lk-3-2 und §apg-4-6 erwähnt, in §apg-4-6 ist aber Annas der Hoheprieseter.
  }
 #}
 #joh-18-14 {
@@ -90367,17 +90436,27 @@
 #}
 #joh-18-18 {
  {
-  <i>Kohlenfeuer</i> §joh-21-9
+  <i>Kohlenfeuer</i> (<span class='gr'>ἀνθρακιά</span>, Strongs 439, 2x): §joh-21-9. Vgl §lk-22-55
  }
 #}
 #joh-18-19 {
  {
-  <i>frage … über seine Lehre</i> vgl §apg-17-19
+  <i>fragte … über seine Lehre</i> vgl §apg-17-19
  }
 #}
 #joh-18-20 {
  {
   → biblisches/Bücher/Evangelien/Johannes/index#strongs-3954-joh
+ }
+#}
+#joh-18-21 {
+ {
+  <i>Frage die, welche gehört…, die wissen …</i>. Wenn sie Ihn aber leugnen, dann sagen sie aber nichts, vgl §Vjoh-18-17.
+ }
+#}
+#joh-18-22 {
+ {
+  <i>sie gaben Ihm Backenstreiche</i>: §mk-14-65, §joh-19-3
  }
 #}
 #joh-18-24 {
@@ -90387,7 +90466,7 @@
 #}
 #joh-18-25 {
  {
-  <i>Ich bin's nicht</i> vgl §Vjoh-18-6
+  <i>Ich bin's nicht</i> vgl §Vjoh-18-6, §lk-22-58
  }
 #}
 #joh-18-28 {
@@ -90478,6 +90557,9 @@
 #joh-19-3 {
  {
   §mt-27-29, §mk-15-18
+ }
+ {
+  <i>Sie gaben ihm Backenstreiche</i>: §+joh-18-22
  }
 #}
 #joh-19-4 {
@@ -90653,7 +90735,10 @@
 #}
 #joh-19-35 {
  {
-  <i>damit ihr glaubt</i>: <a class='kom' href='#Ijoh-6-35'>Joh&nbsp;6,35</a>.
+  <i>sein Zeugnis ist wahrhaftig</i> §joh-21-24
+ }
+ {
+  <i>damit ihr glaubt</i>: §+joh-6-35.
  }
 #}
 #joh-19-36 {
@@ -90935,6 +91020,11 @@
  }
  {
   TODO: §+mt-20-23
+ }
+#}
+#joh-21-24 {
+ {
+  <i>wir wissen, daß sein Zeugnis wahr ist</i> §joh-19-35
  }
 #}
 #joh-21-25 {
@@ -91486,7 +91576,7 @@
 #}
 #apg-2-32 {
  {
-  <i>Zeuge der Auferstehung</i>: <a class='kom' href='#Iapg-1-22'>Apg&nbsp;1,22</a>.
+  <i>Zeuge der Auferstehung</i>: §+apg-1-22.
  }
 #}
 #apg-2-33 {
@@ -91910,6 +92000,9 @@
  }
 #}
 #apg-4-6 {
+ {
+  <i>Annas, der Hohepriester, und Kajaphas</i>: §joh-18-13
+ }
  {
   <i>Geschlecht</i>: <span class='gr'>γένος</span> (Strongs 1085)
  }
@@ -92403,9 +92496,17 @@
   Vgl <a class='kom' href='#Iapg-7-37'>Apg&nbsp;7,37</a>.
  }
 #}
+#apg-6-13 {
+ {
+  <i>falsche Zeugen aufstellen</i>: §mt-26-60
+ }
+#}
 #apg-6-14 {
  {
-   <i>Gebräuche Moses</i> vgl §apg-15-1
+  TODO: <i>wird diese Stätte zerstören</i> vgl ...
+ }
+ {
+  <i>Gebräuche Moses</i> vgl §apg-15-1
  }
 #}
 @}
@@ -99451,7 +99552,7 @@
 #}
 #roem-10-21 {
  {
-  Zitat von <a href='http://bibel.renenyffenegger.ch/jes_65.html#v2'>Jes&nbsp;65,2</a>.
+  Zitat von §jes-65-2. Vgl §lk-22-53
  }
  {
   <i>ein widersprechendes Volk</i>: §apg-28-19, vgl §tit-1-9
