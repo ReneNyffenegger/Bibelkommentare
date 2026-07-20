@@ -66582,8 +66582,11 @@
 #}
 #dan-2-45 {
  {
-  <i> Der große Gott hat dem König kundgetan, was nach diesem geschehen wird</i> vgl §offb-1-1 (<i>kundgetan</i> ist in der Altgriechischen Septuaginta
+  <i>Der große Gott hat dem König kundgetan, was nach diesem geschehen wird</i> vgl §offb-1-1 (<i>kundgetan</i> ist in der Altgriechischen Septuaginta
   <span class='gr'>ἐσόμενα</span> (also das gleiche Wort wie in der Offenbarung), nicht aber im Theodotion‑Text der LXX).
+ }
+ {
+  <i>ohne Hände</i> vgl §dan-8-25
  }
 #}
 #dan-2-46 {
@@ -67144,7 +67147,7 @@
 #}
 #dan-7-25 {
  {
-  <i>er wird Worte reden gegen den Höchsten und die Heiligen der höchsten Örter vernichten</i> vgl §Vdan-7-8, §Vdan-7-20, §dan-11-36, §offb-13-5
+  <i>er wird Worte reden gegen den Höchsten und die Heiligen der höchsten Örter vernichten</i> vgl §Vdan-7-8, §Vdan-7-20, §dan-8-25, §dan-11-36, §offb-13-5
  }
  {
   <i>Eine Zeit, zwei Zeiten und eine halbe Zeit</i> entspricht möglicherweise den 1260 Tagen (vgl §offb-12-6 mit §offb-12-14)
@@ -67315,7 +67318,13 @@
 #}
 #dan-8-25 {
  {
-    TODO: §+2thes-2-8.
+  <i>gegen den Fürsten der Fürsten wird er sich auflehnen</i> vgl §+dan-7-25
+ }
+ {
+  <i>ohne Menschenhand zerschmettern werden</i> vgl §dan-2-45
+ }
+ {
+  TODO: §+2thes-2-8.
  }
 #}
 #dan-8-26 {
@@ -67854,16 +67863,19 @@
 #}
 #dan-12-7 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/offb_10.html#v6'>Offb&nbsp;10,6</a>.
+  <i>wenn die Zerschmetterung der Kraft des heiligen Volkes vollbracht sein wird</i> vgl §dan-11-36
  }
  {
-  TODO: <i>zu Ende gehen</i> (Strongs 3615) auch mit 'vollenden' übersetzt, siehe auch <a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>.
+  Vgl §offb-10-6.
  }
  {
   <i>Bei dem schwören, der ewig lebt</i>: vgl §offb-10-5-ff
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Volk/heilig
+ }
+ {
+  TODO: <i>zu Ende gehen</i> (Strongs 3615) auch mit 'vollenden' übersetzt, siehe auch <a class='kom' href='#I1mo-2-1'>1.&nbsp;Mo&nbsp;2,1</a>.
  }
 #}
 #dan-12-9 {
@@ -82901,7 +82913,7 @@
   §mt-12-35
  }
  {
-  <i>aus der Fülle des Herzens redet der Mund</i> vgl §jak-3-5-ff
+  <i>aus der Fülle des Herzens redet der Mund</i> vgl §lk-19-22, §jak-3-5-ff
  }
 #}
 #lk-6-46 {
@@ -85441,7 +85453,7 @@
   Vgl §mt-25-26
  }
  {
-  <i>Aus deinem Mund werde ich dich richten</i> vgl §joh-12-48.
+  <i>Aus deinem Mund werde ich dich richten</i> vgl §lk-6-45, §joh-12-48.
  }
 #}
 #lk-19-28 {
@@ -86152,7 +86164,7 @@
 #}
 #lk-22-55 {
  {
-  <i>Petrus in der Mitte</i> vgl §apg-1-15
+  <i>Petrus in der Mitte</i> vgl §apg-1-15, §apg-4-7-8
  }
  {
   <i>Feuer</i>: <span class='gr'>πῦρ</span>. Vgl nächster Vers und §joh-18-18.
@@ -86184,6 +86196,11 @@
 #lk-22-64 {
  {
   §mk-14-65
+ }
+#}
+#lk-22-65 {
+ {
+  TODO <i>gegen Ihn lästern</i>: §offb-13-5-6
  }
 #}
 #lk-22-66 {
@@ -92050,9 +92067,12 @@
 #}
 #apg-4-8 {
  {
-   TODO: Beachte: Hier wird Petrus vom Heiligen Geist erfüllt und dann redet er (und Johannes)
-   freimütig (Vers 13). Vgl auch Vers 31 (wo alle mit heiligem Geist erfüllt
-   werden). TODO: Vgl <a href='http://bibel.renenyffenegger.ch/apg_2.html#v4'>Apg&nbsp;2,4</a>.
+  <i>Petrus in der Mitte</i> vgl §lk-22-55, §apg-1-15
+ }
+ {
+  TODO: Beachte: Hier wird Petrus vom Heiligen Geist erfüllt und dann redet er (und Johannes)
+  freimütig (Vers 13). Vgl auch Vers 31 (wo alle mit heiligem Geist erfüllt
+  werden). TODO: Vgl <a href='http://bibel.renenyffenegger.ch/apg_2.html#v4'>Apg&nbsp;2,4</a>.
  }
  {
   Vgl <a class='kom' href='#Iapg-2-17'>Apg&nbsp;2,17</a>.
@@ -121885,6 +121905,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Gott lästern, und alle, die im Himmel wohnen</i> vgl §offb-16-11
+ }
+ {
+  TODO: Vgl §lk-22-65
  }
 #}
 #offb-13-7 {
