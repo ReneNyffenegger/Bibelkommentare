@@ -973,6 +973,9 @@
  {
   TODO <i>setzen</i> (Strongs H7896) kommt im Zusammenang mit Seth in §1mo-4-25 vor.
  }
+ {
+  TODO: Hat diese <i>Ferse</i> etwas mit §ps-41-10 zu tun.
+ }
 #}
 #1mo-3-16 {
  {
@@ -49246,7 +49249,10 @@
 @Psalm 41 {
 #ps-41-10 {
  {
-   §joh-13-18   
+  §joh-13-18
+ }
+ {
+  TODO: Hat diese <i>Ferse</i> etwas mit §1mo-3-15 zu tun?
  }
 #}
 #ps-41-14 {
@@ -71075,6 +71081,9 @@
   Vor seinem Tod wurde Er gefragt, ob er König der Juden (§mt-27-11) und der Christus (§mt-26-63) ist.
  }
  {
+  <i>Schätze</i>: in Sch2K mit «Schatzkästchen, in KJV mit «treasures» übersetzt.
+ }
+ {
   TODO: Vgl §+1mo-37-25.
  }
 #}
@@ -77070,6 +77079,11 @@
   <i>Hände der Sünder</i>: <a class='kom' href='#Imt-17-22'>Mt&nbsp;17,22</a>.
  }
 #}
+#mt-26-47 {
+ {
+  §mk-14-43, §lk-22-47, §joh-18-3
+ }
+#}
 #mt-26-48 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Zeichen: §+mt-12-38.
@@ -78362,6 +78376,11 @@
  }
  {
   TODO: Nicht nur → biblisches/Personen/Jakobus#jakobus-sohn-alphaeus[Jakobus] war ein Sohn des Alphäus, sondern auch Matthäus und Thaddäus, ebenso in §lk-6-15 und §apg-1-13
+ }
+#}
+#mk-3-20 {
+ {
+  TODO: <i>kommen</i>: <span class='gr'>συνέρχομαι</span>. Evtl. besser mit «zusammenkommen» oder «versammeln» (wie z. B. in §mk-14-53) übersetzt.
  }
 #}
 #mk-3-21 {
@@ -80533,6 +80552,11 @@
   <i>ruht aus</i> vgl §mk-6-31
  }
 #}
+#mk-14-43 {
+ {
+  §mt-26-47, §lk-22-47, §joh-18-3
+ }
+#}
 #mk-14-45 {
  {
   <i>und küsste ihn sehr</i>: §+mt-26-49
@@ -80552,7 +80576,7 @@
 #}
 #mk-14-49 {
  {
-  im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel lehrend: vgl §mt-26-55, §mk-12-35, §lk-2-46
+  (Täglich) im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel lehrend: vgl §mt-26-55, §joh-18-20, §mk-12-35, §lk-2-46
  }
  {
   <i>auf dass die Schriften erfüllt wurden</i> vgl §mk-15-28, §mt-26-54
@@ -85485,6 +85509,11 @@
   Vgl §+jes-56-7
  }
 #}
+#lk-19-47 {
+ {
+  <i>Er lehrte täglich im Tempel</i> §joh-18-20
+ }
+#}
 @}
 @Lukas 20 {
 #lk-20-4 {
@@ -86083,6 +86112,9 @@
  }
 #}
 #lk-22-47 {
+ {
+  §mt-26-47, §mk-14-43, §joh-18-3
+ }
  {
   <i>um ihn zu küssen</i>: §+mt-26-49
  }
@@ -89368,7 +89400,9 @@
 #}
 #joh-12-23 {
  {
-  <i>Die Stunde ist (noch nicht) gekommen</i>: <a class='kom' href='#Ijoh-2-4'>Joh&nbsp;2,4</a>.
+  <i>Die Stunde ist (noch nicht) gekommen</i>: §+joh-2-4.
+ <br>
+  <i>… dass der Sohn des Menschen verherrlicht werde</i>: §joh-13-31
  }
  {
    <i>verherrlicht</i>: <a class='kom' href='#Ijoh-7-39'>Joh&nbsp;7,39</a>.
@@ -89724,8 +89758,9 @@
 #}
 #joh-13-31 {
  {
-  <i>verherrlicht</i>: <a class='kom' href='#Ijoh-7-39'>Joh&nbsp;7,39</a>.
-  <br>Beachte: hier soll der 'Sohn des Menschen' verherrlicht werden, in <a href='http://bibel.renenyffenegger.ch/joh_17.html#v1'>Joh&nbsp;17,1</a> der Sohn Seines Vaters.
+  <i>Jetzt ist der Sohn des Menschen verherrlicht,</i>: §+joh-7-39, §joh-12-23
+ <br>
+  Beachte: hier soll der 'Sohn des Menschen' verherrlicht werden, in <a href='http://bibel.renenyffenegger.ch/joh_17.html#v1'>Joh&nbsp;17,1</a> der Sohn Seines Vaters.
  }
 #}
 #joh-13-33 {
@@ -90358,6 +90393,9 @@
 @Johannes 18 {
 #joh-18-3 {
  {
+  §mt-26-47, §mk-14-43§, lk-22-47
+ }
+ {
   Sie kommen mit <i>Fackeln</i> zum Licht!
  }
  {
@@ -90369,7 +90407,7 @@
 #}
 #joh-18-4 {
  {
-  Vgl <a class='kom' href='#Ijoh-13-1'>Joh&nbsp;13,1</a>.
+  <i>Jesus, der alles wusste</i> Vgl §+joh-13-1.
  }
 #}
 #joh-18-5 {
@@ -90445,6 +90483,9 @@
  }
 #}
 #joh-18-20 {
+ {
+  <i>ich habe allezeit in der Synagoge und im Tempel gelehrt</i>, §mk-14-49, §lk-19-47
+ }
  {
   → biblisches/Bücher/Evangelien/Johannes/index#strongs-3954-joh
  }
