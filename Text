@@ -4042,6 +4042,11 @@
   <i>Richter</i>: siehe <a class='kom' href='#I1mo-19-9'>1.&nbsp;Mo&nbsp;19,9</a>, §ri-11-27
  }
 #}
+#1mo-18-32 {
+ {
+  <i>Ich will nicht verderben um der zehn willen</i> vgl §jer-5-1
+ }
+#}
 @}
 @1. Mose 19 {
 #1mo-19-1 {
@@ -13670,6 +13675,9 @@
 #2mo-34-29 {
  {
   Die Tafeln, die Mose gemacht hat, legte er in die Lade, die auch er gemacht hat; und dort blieben sie, siehe <a href='http://bibel.renenyffenegger.ch/5mo_10.html#v5'>5.&nbsp;Mo&nbsp;10,5</a>.
+ }
+ {
+  <i>strahlte</i>: <span class='gr'>קָרַ֛ן</span> (Strongs 7160), wörtlich «hornte» (also ein aus «Horn» gebildetes Verb). Ebenso in §V2mo-34-30 und §V2mo-34-35. Vgl §hab-3-4
  }
 #}
 #2mo-34-33 {
@@ -27096,7 +27104,7 @@
 #}
 #jos-24-32 {
  {
-  <i>Joseph liess die Kinder Israels schwören, seine Gebeine von Ägypten heraufzuführen</i>: <a class='kom' href='#I1mo-50-25'>1.&nbsp;Mo&nbsp;50,25</a>.
+  <i>Joseph liess die Kinder Israels schwören, seine Gebeine von Ägypten heraufzuführen</i>: §+1mo-50-25.
  }
  {
   <i>Stück Land in → biblisches/Orte/Sichem</i>: <a class='kom' href='#I1mo-33-19'>1.&nbsp;Mo&nbsp;33,19</a>.
@@ -37118,7 +37126,7 @@
   §2chr-33-1
  }
  {
-  Manasse wurde drei Jahre nach der Verlängerung von Hiskias Leben geboren, §2koe-20-6
+  → biblisches/Personen/Könige/Juda/Manasse wurde drei Jahre nach der Verlängerung von Hiskias Leben geboren, §2koe-20-6
  }
  {
   Wegen Manasse und was er in Jerusalem getan hat will der HERR vielerlei über das Volk bringen (<a href='http://bibel.renenyffenegger.ch/jer_15.html#v3'>Jer 15,3-4</a>).
@@ -39552,8 +39560,11 @@
 #}
 #1chr-9-12 {
  {
-   <i>Malkija</i> (<span class='hebr'>מַלְכִּיָּה</span>, Strongs H4441). Diese Strong Nummer wird in
-   <a href='http://bibel.renenyffenegger.ch/1chr_24.html#v9'>1.&nbsp;Chr&nbsp;24,9</a> mit 'Malchija' wiedergegeben.
+  <i>Adaja, der Sohn Jerochams, des Sohnes Paschchurs, des Sohnes Malkijas</i> vgl §neh-11-12
+ }
+ {
+  <i>Malkija</i> (<span class='hebr'>מַלְכִּיָּה</span>, Strongs H4441). Diese Strong Nummer wird in
+  <a href='http://bibel.renenyffenegger.ch/1chr_24.html#v9'>1.&nbsp;Chr&nbsp;24,9</a> mit 'Malchija' wiedergegeben.
  }
  {
   <i>Paschhur</i> (der Sohn Malkijas): <a href='http://bibel.renenyffenegger.ch/neh_11.html#v12'>Neh&nbsp;11,12</a>,
@@ -43224,6 +43235,9 @@
 #}
 #2chr-28-3 {
  {
+  <i>Im Tal des Sohnes Hinnoms</i> wurden die Höhen des Tophets gebaut (§jer-7-31), welche → biblisches/Personen/Josia verunreinigte, damit niemand mehr dem Molech durchs Feuer gehen ließ, §2koe-23-10.
+ }
+ {
   <i>nach den Gräueln der Nationen, die Jehova vor den Kindern Israel ausgetrieben hatte</i> §+2koe-16-3
  }
 #}
@@ -43834,6 +43848,9 @@
 #}
 #2chr-35-25 {
  {
+  → biblisches/Personen/Josia
+ }
+ {
   <i>Klagelied</i>: §+2sam-1-17.
  }
  {
@@ -44211,6 +44228,11 @@
  }
  {
    <i>Lod und Ono</i>: §+1chr-8-12.
+ }
+#}
+#esr-2-38 {
+ {
+  §neh-7-41
  }
 #}
 #esr-2-40 {
@@ -45568,6 +45590,11 @@
    <i>Lod und Ono</i>: §+1chr-8-12.
  }
 #}
+#neh-7-41 {
+ {
+  §esr-2-38
+ }
+#}
 #neh-7-43 {
  {
   §esr-2-40
@@ -46158,10 +46185,10 @@
 #}
 #neh-11-12 {
  {
-  → biblisches/Personen/Perez/index
+  <i>Adaja, der Sohn Jerochams, … des Sohnes Paschchurs, des Sohnes Malkijas</i> vgl §1chr-9-12
  }
  {
-  <i>Paschhur, der Sohn Milkijas</i>: <a class='kom' href='#I1chr-9-12'>1.&nbsp;Chr&nbsp;9,12</a>.
+  → biblisches/Personen/Perez
  }
 #}
 #neh-11-17 {
@@ -46804,6 +46831,11 @@
 #}
 @}
 @Hiob 3 {
+#hi-3-1 {
+ {
+  TODO: Vgl §jer-20-14-ff
+ }
+#}
 #hi-3-5 {
  {
   <i>Todesschatten</i>: <a class='kom' href='#I4mo-33-41'>4.&nbsp;Mo&nbsp;33,41</a>.
@@ -48634,8 +48666,7 @@
 #}
 #ps-26-6 {
  {
-  <i>Hände in Unschuld waschen</i>: vgl <a href='http://bibel.renenyffenegger.ch/ps_73.html#v13'>Ps&nbsp;73,13</a>,
-  <a href='http://bibel.renenyffenegger.ch/mt_27.html#v24'>Mt&nbsp;27,24</a>.
+  <i>Hände in Unschuld waschen</i>: vgl §ps-73-13, §mt-27-24.
  }
  {
   Vgl §+ps-25-7
@@ -50374,7 +50405,7 @@
 #}
 #ps-73-13 {
  {
-  <i>Hände in Unschuld waschen</i>: <a class='kom' href='#Ips-26-6'>Ps&nbsp;26,6</a>.
+  <i>Hände in Unschuld waschen</i>: §+ps-26-6.
  }
 #}
 #ps-73-21 {
@@ -60412,7 +60443,7 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#aufenthaltsort-von-propheten-oder-priester
  }
  {
-  Jeremia, der Sohn <i>Hilki(j)as</i>: <a class='kom' href='#I2koe-22-4'>2.&nbsp;Kö&nbsp;22,4</a>.
+  → biblisches/Personen/Jeremia, der Sohn <i>Hilki(j)as</i>: <a class='kom' href='#I2koe-22-4'>2.&nbsp;Kö&nbsp;22,4</a>.
   <br>Jeremias Vorfahren sind offenbar aus Anatot, diese Anatotiter trachten Jeremia nach dem Leben. Deshalb soll von ihnen kein Überrest übrigbleiben, §+jer-11-21.
  }
 #}
@@ -60639,7 +60670,7 @@
 #}
 #jer-4-7 {
  {
-  TODO: Ist dies der gleiche Löwe wie in §dan-7-4
+  <i>Ein Löwe steigt herau</i>: §jer-5-6. Dies ist vermutlich der Löwe, der auch in §dan-7-4 geschildert wird.
  }
 #}
 #jer-4-10 {
@@ -60653,6 +60684,11 @@
 #jer-4-11 {
  {
   <i>Wind</i>: <span class='hebr'>ר֣וּחַ</span> (Strongs 7307).
+ }
+#}
+#jer-4-15 {
+ {
+  TODO: <i>von Dan … her</i>: §jer-8-16
  }
 #}
 #jer-4-19 {
@@ -60686,6 +60722,11 @@
 #}
 @}
 @Jeremia 5 {
+#jer-5-1 {
+ {
+  <i>ob einer da ist, … so will ich vergeben</i> vgl §1mo-18-32
+ }
+#}
 #jer-5-4 {
  {
   TODO <i>Geringe</i>: <a class='kom' href='#Ijer-39-10'>Jer&nbsp;39,10</a>.
@@ -60694,6 +60735,11 @@
 #jer-5-5 {
  {
   <i>zerbrochenes Joch</i> vgl §jer-2-10
+ }
+#}
+#jer-5-6 {
+ {
+  <i>Löwe</i>: §jer-4-7
  }
 #}
 #jer-5-9 {
@@ -60742,6 +60788,11 @@
   Vgl §Vjer-5-9
  }
 #}
+#jer-5-31 {
+ {
+  TODO: <i>die Propheten weissagen falsch</i>, §jer-6-13, §jer-8-10, §jer-14-13-ff
+ }
+#}
 @}
 @Jeremia 6 {
 #jer-6-1 {
@@ -60760,6 +60811,14 @@
 #jer-6-10 {
  {
     → biblisches/Eigene-Uebersetzung/Konkordanz/Beschneidung
+ }
+#}
+#jer-6-13 {
+ {
+  §jer-8-10
+ }
+ {
+  TODO: <i>vom Propheten bis zum Priester üben sie allesamt Falschheit</i>: §jer-5-31
  }
 #}
 #jer-6-14 {
@@ -60826,6 +60885,9 @@
 #}
 #jer-7-2 {
  {
+  <i>Stelle dich in das Tor des Hauses des HERRN</i> vgl §jer-17-19
+ }
+ {
   TODO: Gehören diese Tore zum Haus des Herrn? Hat das Haus nicht nur eine Tür?
  }
 #}
@@ -60852,7 +60914,7 @@
 #}
 #jer-7-12 {
  {
-  <i>Silo</i>: <a class='kom' href='#Ijos-18-1'>Jos&nbsp;18,1</a>. Vgl <a href='http://bibel.renenyffenegger.ch/jer_26.html#v6'>Jer&nbsp;26,6</a>.
+  <i>Silo</i>: §+jos-18-1. Vgl §jer-26-6.
  }
 #}
 #jer-7-13 {
@@ -60867,8 +60929,7 @@
 #}
 #jer-7-16 {
  {
-  Keine Fürbitte für dieses Volk: <a href='http://bibel.renenyffenegger.ch/jer_11.html#v14'>Jer&nbsp;11,14</a>,
-  <a href='http://bibel.renenyffenegger.ch/jer_14.html#v11'>Jer&nbsp;14,11</a>.
+  Keine Fürbitte sür dieses Volk: §jer-11-14, §jer-14-11.
  }
 #}
 #jer-7-18 {
@@ -60908,10 +60969,10 @@
 #jer-7-31 {
  {
   Der HERR spricht über die Zukunft des <i>Tophets</i> durch Jeremia in §jer-19-6-ff.
- <br
+ <br>
   Interessanterweise verunreinigt Josua, der zeitgliche mit Jeremia lebte, das Tophet: §+2koe-23-10.
  <br>
-  S. a. §jes-30-33
+  S. a. §2chr-28-3 und §jes-30-33
  }
 #}
 #jer-7-32 {
@@ -60940,6 +61001,9 @@
  {
   Vgl auch mit <i>David wird wieder auferstehen</i>: <a class='kom' href='#I1koe-2-10'>1.&nbsp;Kö&nbsp;2,10</a>.
  }
+ {
+  TODO: Sind das diese <i>Gebeine</i>, über die Hesekiel weissagt, §hes-37-1-ff
+ }
 #}
 #jer-8-11 {
  {
@@ -60952,6 +61016,9 @@
  }
  {
   TODO: <i>erzittert das ganze Land</i> oder «erbebt die Erde»? vgl §jes-13-13, §jer-10-10, §jer-49-20, §jer-50-46, §jer-51-29
+ }
+ {
+  TODO: <i>Von Dan her</i>: §jer-4-15
  }
 #}
 #jer-8-20 {
@@ -61057,7 +61124,7 @@
 #jer-10-7 {
  {
   <i>König der Nationen</i>: <a href='http://bibel.renenyffenegger.ch/offb_15.html#v3'>Offb&nbsp;15,3</a>.
-  <br>Vgl «Könige der der Nationen» <a href='http://bibel.renenyffenegger.ch/lk_22.html#v25'>Lk&nbsp;22,25</a>.
+  <br>Vgl «Könige der Nationen» <a href='http://bibel.renenyffenegger.ch/lk_22.html#v25'>Lk&nbsp;22,25</a>.
  }
 #}
 #jer-10-9 {
@@ -61158,6 +61225,9 @@
 @Jeremia 11 {
 #jer-11-3 {
  {
+  <i>Verflucht sei der Mann</i> vgl §jer-17-5, §jer-20-15
+ }
+ {
   TODO: vgl <a class='kom' href='#Ijer-7-32'>Jer&nbsp;7,32</a>.
  }
 #}
@@ -61250,6 +61320,17 @@
 #}
 @}
 @Jeremia 13 {
+#jer-13-4 {
+ {
+  <i>geh an den Euphrat und verbirg ihn dort in einer Felsenspalte</i> Vgl §jer-51-63
+ }
+#}
+#jer-13-12 {
+ {
+  <i>Krug</i> <span class='hebr'>נֶבֶל</span> (Strongs 5035) könnte wohl besser (wie auch in §1sam-10-3) mit «Schlauch» übersetzt werden. In der Septuaginta wird dieses Wort mit
+  <span class='gr'>ἀσκός</span> (Strongs 779) übersetzt. Vgl §mt-9-17
+ }
+#}
 #jer-13-18 {
  {
   <i>Köngigin</i>: Sch2K übersetzt mit «Gebieterin», KJV mit «queen». Vgl §+1koe-11-19.
@@ -61287,7 +61368,7 @@
 #}
 #jer-14-11 {
  {
-  Keine Fürbitte für dieses Volk: <a class='kom' href='#Ijer-7-16'>Jer&nbsp;7,16</a>.
+  Keine Fürbitte für dieses Volk: §+jer-7-16.
  }
 #}
 #jer-14-12 {
@@ -61299,7 +61380,10 @@
 #}
 #jer-14-14 {
  {
-   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet: vgl §+5mo-13-2.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet: vgl §+5mo-13-2.
+ }
+ {
+  TODO: <i>Die Propheten weissagen Lüge</i> §jer-5-31
  }
 #}
 #jer-14-18 {
@@ -61318,6 +61402,9 @@
  {
   → biblisches/Personen/Mose als Vertreter des Gesetzes, → biblisches/Personen/Samuel als Vertreter der Propheten, vgl §apg-3-24
  }
+ {
+  Vgl §hes-14-14
+ }
 #}
 #jer-15-2 {
  {
@@ -61329,7 +61416,7 @@
   <i>Ich will sie zur Mißhandlung hingeben allen Königreichen der Erde</i> vgl §jer-24-9, §jer-29-18, §jer-34-1, §jer-34-17
  }
  {
-  <i>Manasse</i>: <a class='kom' href='#I2koe-21-1'>2.&nbsp;Kö&nbsp;21,1</a>.
+  → biblisches/Personen/Könige/Juda/Manasse: §+2koe-21-1.
  }
 #}
 #jer-15-9 {
@@ -61410,6 +61497,9 @@
  {
   <i>Auf den Menschen vertrauen und Fleisch zu seinem Arm machen</i> vgl §phil-3-3.
  }
+ {
+  <i>Verflucht sei der Mann</i> vgl §jer-11-3, §jer-20-15
+ }
 #}
 #jer-17-8 {
  {
@@ -61438,6 +61528,11 @@
   In die Erde schreiben: vgl §joh-8-6.
  }
 #}
+#jer-17-19 {
+ {
+  <i>Stelle dich in das Tor der Kinder des Volkes</i> vgl §jer-7-2
+ }
+#}
 #jer-17-23 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nacken/verhärten §jer-7-26, §jer-19-15
@@ -61462,7 +61557,7 @@
 #}
 #jer-18-6 {
  {
-  Vgl §jer-18-2-ff, §+roem-9-21, §jes-64-7
+  Vgl §+roem-9-21, §jes-64-7
  }
 #}
 #jer-18-11 {
@@ -61566,6 +61661,16 @@
 #jer-20-12 {
  {
   <i>Nieren und Herz sehen</i> vgl §+jer-11-20
+ }
+#}
+#jer-20-14 {
+ {
+  TODO: Vgl §hi-3-1-ff
+ }
+#}
+#jer-20-15 {
+ {
+  <i>Verflucht sei der Mann</i> vgl §jer-11-3, §jer-17-5
  }
 #}
 #jer-20-18 {
@@ -63514,9 +63619,9 @@
   <i>Löwe vom Dickicht</i>, <i>auserwählt ist, über sie setzen</i> auch in <a href='http://bibel.renenyffenegger.ch/jer_50.html#v44'>Jer&nbsp;50,44</a>.
  }
  {
-  TODO: Ist dieser Löwe, der wie der Adler heraufzieht und seine Flügel über Bozraausbreitet (§Vjer-49-22) der gleiche Löwe wie in §dan-7-4?
+  TODO: Ist dieser Löwe, der wie der Adler heraufzieht und seine Flügel über Bozraausbreitet (§Vjer-49-22) der gleiche Löwe wie in §dan-7-4? Vgl §jer-4-7.
  }
-#}
+#} 
 #jer-49-21 {
  {
   TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
@@ -63900,6 +64005,9 @@
  }
 #}
 #jer-51-63 {
+ {
+  <i>binde einen Stein daran und wirf es mitten in den Euphrat</i> Vgl §jer-13-4
+ }
  {
   TODO: Muss deshalb der Euphrat vertrocknen, damit das Buch wieder hervorkommen kann? §offb-16-12
  }
@@ -64794,9 +64902,12 @@
 #}
 #hes-14-14 {
  {
-  → biblisches/Personen/Noah/index, → biblisches/Personen/Daniel, → biblisches/Personen/Hiob
+  → biblisches/Personen/Noah, → biblisches/Personen/Daniel, → biblisches/Personen/Hiob
  <br>
   Vgl §hes-28-3
+ }
+ {
+  Vgl §jer-15-1
  }
 #}
 @}
@@ -65739,6 +65850,11 @@
 #}
 @}
 @Hesekiel 37 {
+#hes-37-1 {
+ {
+  TODO: Sind dies die <i>Gebeine</i> von §jer-8-1
+ }
+#}
 #hes-37-5 {
  {
   <i>Ich bringe Odem in euch, daß ihr lebendig werdet.</i> vgl §Vhes-37-14, §1mo-2-7
@@ -67037,8 +67153,11 @@
   Die → biblisches/Grundtext/LXX[Septuaginta] übersetzt mit «Löwin».
  }
  {
+  Dieser <i>Löwe</i> ist vermutlich derselbe, der auch in §jer-4-7 genannt wird.
+ }
+ {
   TODO:
-   <i>Löwe</i> vgl §jes-5-29, §jer-4-7, §jer-25-38, §jer-49-19, §jer-50-17
+   <i>Löwe</i> vgl §jes-5-29, §jer-25-38, §jer-49-19, §jer-50-17
   <br>
    <i>Adlersflügel</i> §5mo-28-49, §kla-4-19, §hes-17-3 (vgl dazu §hes-17-11), §hab-1-8
  }
@@ -69745,7 +69864,7 @@
 #}
 #hab-3-4 {
  {
-  Beachte <i>Strahlen</i> (<span class='hebr'>קֶרֶן</span>, Strongs 7161) ist dasselbe Wort, welches oft mit 'Horn' übersetzt wird.
+  Beachte <i>Strahlen</i> (<span class='hebr'>קֶרֶן</span>, Strongs 7161) ist dasselbe Wort, welches oft mit «Horn» übersetzt wird. Vgl §2mo-34-29.
  }
 #}
 #hab-3-7 {
@@ -72843,6 +72962,9 @@
 #mt-9-17 {
  {
   §mk-2-22, §lk-5-37
+ }
+ {
+  Vgl §jer-13-12
  }
 #}
 #mt-9-18 {
@@ -76342,7 +76464,7 @@
    Vgl mit dem «ewigen Evangelium», das in der → biblisches/Bücher/prophetisch/Offenbarung[Offenbarung] auch vor dem Ende gepredigt wird: §offb-14-6-ff.
  }
  {
-  <i>Allen Nationen zum Zeugnis</i> §mt-10-18
+  <i>Allen Nationen zum Zeugnis</i> §mt-10-18, vgl §mk-13-9
  }
 #}
 #mt-24-15 {
@@ -77200,7 +77322,7 @@
 #}
 #mt-26-59 {
  {
-  §mk-14-55
+  <i>Zeugnis wider Jesus suchen</i>: §mt-27-13, §mk-14-55
  }
  {
   <i>Hoher Rat</i>: <a class='kom' href='#Imt-5-22'>Mt&nbsp;5,22</a>.
@@ -77356,7 +77478,7 @@
 #}
 #mt-27-13 {
  {
-  <i>Hände in Unschuld waschen</i>: <a class='kom' href='#Ips-26-6'>Ps&nbsp;26,6</a>.
+  <i>wider dich zeugen</i> §mt-26-59
  }
 #}
 #mt-27-14 {
@@ -77409,6 +77531,8 @@
  }
  {
   <i>Hände waschen</i> vgl §+5mo-21-6, §mt-15-20
+ <br>
+  <i>… in Unschuld</i>: §+ps-26-6.
  }
  {
   <i>Blut dieses Gerechten</i> vgl §mt-23-35
@@ -78280,7 +78404,7 @@
 #}
 #mk-2-22 {
  {
-  §lk-5-37
+  §mt-9-17, §lk-5-37
  }
  {
   Das Wort <i>neu</i> beim Wein ist <span class='gr'>νέος</span> (Strongs 3501) bei den Schläuchen
@@ -80233,14 +80357,13 @@
  }
  {
   <i>vor Statthalter und Könige gestellt werden</i> vgl §mt-10-18, §apg-9-15
+ <br>
+  <i>… ihnen zu einem Zeugnis</i> vgl §mt-24-14
  }
 #}
 #mk-13-10 {
  {
-  §mt-24-14
- }
- {
-  Allen Nationen <i>muß</i> das Evangelium gepredigt werden: §+mt-24-6
+  Allen Nationen <i>muß</i> das Evangelium gepredigt werden: §+mt-24-6, §mt-24-14
  }
 #}
 #mk-13-11 {
@@ -86829,7 +86952,7 @@
   An Johannes' Schein wollten sich die Menschen nur <i>eine Stunde</i> erfreuen (<a href='http://bibel.renenyffenegger.ch/joh_5.html#v35'>Joh&nbsp;5,35</a>).
  }
  {
-  <i>damit alle an ihn glaubten</i> vgl §joh-20-30-31 → biblisches/Bücher/Evangelien/Johannes/index#grund-des-buches-joh[Grund des Johannes-Evangeliums].
+  <i>damit alle an ihn glaubten</i> vgl §joh-19-35, §joh-20-30-31 → biblisches/Bücher/Evangelien/Johannes/index#grund-des-buches-joh[Grund des Johannes-Evangeliums].
  }
  {
   <i>Glauben</i>:
@@ -90622,6 +90745,9 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Jesus/Grund-für-Kommen
  }
  {
+  <i>dass ich der Wahrheit Zeugnis gebe</i> vgl §joh-19-35
+ }
+ {
   <i>Jeder, der aus der Wahrheit ist, hört meine Stimme</i> vgl §joh-10-16
  }
  {
@@ -90834,10 +90960,10 @@
 #}
 #joh-19-35 {
  {
-  <i>sein Zeugnis ist wahrhaftig</i> §joh-21-24
+  <i>sein Zeugnis ist wahrhaftig</i> §joh-21-24, vgl §joh-18-37 und mit denen, die falsches Zeugnis wider Jesus suchten, §mt-26-59
  }
  {
-  <i>damit ihr glaubt</i>: §+joh-6-35.
+  <i>damit ihr glaubt</i>: §joh-1-7, §+joh-6-35.
  }
 #}
 #joh-19-36 {
