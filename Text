@@ -62745,6 +62745,11 @@
   Baruch: <a class='kom' href='#Ijer-32-12'>Jer&nbsp;32,12</a>.
  }
 #}
+#jer-36-6 {
+ {
+  <i>lies aus der Rolle</i> vgl §jer-51-61
+ }
+#}
 #jer-36-9 {
  {
   TODO: Das fünfte Jahr Jojakims müsste wohl das zweite Jahr Nebukadnezars gewesen sein, wo Nebukadnezar
@@ -62912,6 +62917,11 @@
   Vgl <a class='kom' href='#I2koe-25-1'>2.&nbsp;Kö&nbsp;25,1</a>.
  }
 #}
+#jer-39-2 {
+ {
+  Vgl §jer-52-5-7
+ }
+#}
 #jer-39-3 {
  {
   Einige vermuten, dass <i>Nergal-Scharezer</i> der → biblisches/Chronologie/Babylonische-Könige#nergal-sarra-usur[Babylonische König Nergal-šarra-uṣur] war.
@@ -62936,7 +62946,15 @@
    TODO: siehe <a class='kom' href='#Ihes-6-14'>Hes&nbsp;6,14</a>.
  }
 #}
+#jer-39-6 {
+ {
+  §jer-52-10
+ }
+#}
 #jer-39-7 {
+ {
+  §jer-52-11
+ }
  {
   <i>Und er blendete die Augen → biblisches/Personen/Mattanja-Zedekia[Zedekias]</i> vgl §+jer-34-3
  }
@@ -62955,6 +62973,9 @@
  }
 #}
 #jer-39-10 {
+ {
+  Vgl §jer-52-16
+ }
  {
   <i>Zurückgebliebene Geringe des Landes</i>: vgl
      <a href='http://bibel.renenyffenegger.ch/jer_40.html#v7'>Jer&nbsp;40,7</a>,
@@ -63873,9 +63894,14 @@
   <i>Jeremia schrieb in ein Buch</i> vgl §jer-30-2
  }
 #}
+#jer-51-61 {
+ {
+  <i>lies alle diese Worte</i> vgl §jer-36-6
+ }
+#}
 #jer-51-63 {
  {
-  TOOD: Muss deshalb der Euphrat vertrocknen, damit das Buch wieder hervorkommen kann? §offb-16-12
+  TODO: Muss deshalb der Euphrat vertrocknen, damit das Buch wieder hervorkommen kann? §offb-16-12
  }
 #}
 #jer-51-64 {
@@ -63891,7 +63917,7 @@
   §2chr-36-11, §2koe-24-18
  }
  {
-  → biblisches/Personen/Mattanja-Zedekia
+  → biblisches/Personen/Mattanja-Zedekia, → biblisches/Personen/Hamutal
  }
 #}
 #jer-52-4 {
@@ -63902,6 +63928,11 @@
   <i>Belagerungstürme</i>: §hes-4-2
  }
 #}
+#jer-52-5 {
+ {
+  Vgl §jer-39-1-ff
+ }
+#}
 #jer-52-6 {
  {
   §2koe-25-3
@@ -63910,6 +63941,16 @@
 #jer-52-7 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tor#tore-jerusalems
+ }
+#}
+#jer-52-10 {
+ {
+  §jer-39-6
+ }
+#}
+#jer-52-11 {
+ {
+  §jer-39-7
  }
 #}
 #jer-52-12 {
@@ -63943,15 +63984,15 @@
 #}
 #jer-52-16 {
  {
+  Vgl §jer-39-10
+ }
+ {
   Hier wurden die Geringen zurückgelassen, in §2koe-24-16 wurden die Mächtigen weggeführt, vgl §2koe-25-12
  }
 #}
 #jer-52-23 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde
- }
- {
-  → biblisches/Personen/Hamutal
  }
 #}
 #jer-52-25 {
@@ -70846,7 +70887,7 @@
   → biblisches/Personen/Mattanja-Zedekia[Zedekia] fehlt im königlichen Stammbaum.
  }
  {
-  Beachte, Matthäus erwähnt nicht, dass diese Wegführung beendet worden wäre.  
+  Beachte, Matthäus erwähnt nicht, dass diese Wegführung beendet worden wäre.
  }
  {
   <i>Wegführung nach → biblisches/Orte/Babel[Babylon]</i> wäre wohl genauer übersetzt mit «babylonische Wegführung». Ebenso §Vmt-1-12 und §Vmt-1-17.
@@ -70921,7 +70962,7 @@
   <i>Und sie wird einen Sohn gebären, und du sollst seinen Namen Jesus heissen</i> §lk-1-31, §Vmt-1-25, §lk-1-13. Er wurde am achten Tag, da man ihn beschneiden sollte, mit diesem Namen genannt, §lk-2-21
  }
  {
-  <i>Er wird sein Volk erretten aus ihren Sünden</i>: §mt-26-28, §lk-24-47, §apg-10-43. Vgl §mt-2-6, §lk-2-11, §lk-1-68-ff,  §joh-1-29 
+  <i>Er wird sein Volk erretten aus ihren Sünden</i>: §mt-26-28, §lk-24-47, §apg-10-43. Vgl §mt-2-6, §lk-2-11, §lk-1-68-ff,  §joh-1-29
  }
  {
   Vgl §ps-130-8, §lk-24-21
