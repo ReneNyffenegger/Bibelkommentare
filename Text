@@ -71118,6 +71118,9 @@
 #}
 #mt-1-25 {
  {
+  <i>bis sie ihren erstgeborenen Sohn geboren hatte</i> §lk-2-7
+ }
+ {
   <i>hieß seinen Namen Jesus</i> §+lk-2-21, §Vmt-1-21
  }
 #}
@@ -81743,6 +81746,9 @@
 #lk-2-7 {
  {
   → biblisches/Chronologie/Geburt-Jesus-Christus: §mt-2-1
+ }
+ {
+  <i>sie gebar ihren erstgeborenen Sohn</i> §mt-1-25
  }
  {
   Nach der Geburt Jesu wurde Er in <i>Windeln</i> gewickelt und in eine <i>Krippe</i> gelegt; nach Seinem Tod wurde Er in <i>leinene Tücher gewickelt</i> (§mt-27-59, §mk-15-46, §lk-23-53, §joh-19-40) und in eine
@@ -94548,6 +94554,9 @@
   → biblisches/Personen/Paulus wandte sich → biblisches/Personen/Paulus#paulus-juden-zuerst[zuerst an die Juden].
  }
  {
+  TODO: Hier gehen sie <i>am Tag des Sabbats</i> in die Synagoge, in §apg-16-13 gehen sie hinaus vor das Tor, wo es gebräuchlich war, das Gebet zu verrichten.
+ }
+ {
   TODO: Was passiert mit Paulus' <i>Gefährten</i>? Ab Vers 43 scheinen nur noch Paulus und Barnabas zu wirken.
  }
 #}
@@ -95436,6 +95445,11 @@
  }
  {
   TODO: Paulus hatte offenbar einen Kampf in Philippi (<a href='http://bibel.renenyffenegger.ch/phil_1.html#v30'>Phil&nbsp;1,30</a>).
+ }
+#}
+#apg-16-13 {
+ {
+  <i>Tag des Sabbats</i> vgl §apg-13-14
  }
 #}
 #apg-16-14 {
@@ -99913,6 +99927,8 @@
 #roem-11-16 {
  {
   <i>Erstling</i>, in Sch2K mit «Erstlingsgabe» übersetzt, s.a. <a class='kom' href='#Iroem-8-23'>Röm&nbsp;8,23</a>.
+ <br>
+  Der Erstling wird in §1kor-15-20-23 auf Christus gedeutet.
  }
 #}
 #roem-11-17 {
@@ -101823,7 +101839,7 @@
    <i>Dem Satan überliefern</i> §1tim-1-20
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag des Herrn Jesus] §2kor-1-14
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN#tag-des-christus[Tag des Herrn Jesus]: §2kor-1-14
  }
  {
   Vgl <i>Verderben</i> (<span class='gr'>ὄλεθρος</span>, Strongs 3639, 4x) mit <span class='gr'>ἀπώλεια</span> (Strongs 684) zB
@@ -110277,7 +110293,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
  }
  {
-  <i>noch durch Word, noch durch Brief</i> vgl §V2thes-2-15, §2thes-3-14
+  <i>noch durch Wort, noch durch Brief</i> vgl §V2thes-2-15, §2thes-3-14
  }
  {
   Möglicherweise könnte das Ende des Verses auch übersetzt werden mit «als ob der Tag Christi gegenwärtig (<span class='gr'>ενεστηκεν</span>, Strongs 1764) wäre». vgl §2tim-3-1
@@ -113096,6 +113112,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
 #}
 #hebr-1-6 {
+ {
+  Möglicherweise wäre dieser Vers besser übersetzt mit «Und wiederum, wenn er aber den Erstgeborenen in den Erdkreis einführt, …». Beide Möglichkeiten seien grammatikalisch möglich.
+ <br>
+  Diese Variante scheint aber nicht gut zu §hebr-2-7-8 passen.
+ }
  {
   Vgl <i>den Erstgeborenen</i> mit der «Versammlung der Erstgeborenen», §hebr-12-23
  }
