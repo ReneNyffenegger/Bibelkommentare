@@ -75592,7 +75592,7 @@
 #}
 #mt-19-30 {
  {
-  <i>Erste und Letzte</i>: §mt-20-16, §mk-9-35, §mk-10-31, §lk-13-30
+  <i>Erste und Letzte</i>: §mt-20-16, §mt-20-27, §mk-9-35, §mk-10-31, §lk-13-30
  }
 #}
 @}
@@ -75710,7 +75710,12 @@
 #}
 #mt-20-26 {
  {
-  Vgl §joh-13-16, §mt-18-1
+  Vgl §joh-13-16, §mt-18-1, §mt-23-11
+ }
+#}
+#mt-20-27 {
+ {
+  <i>Wer der Erste sein will</i> Vgl §Vmt-20-16, §mt-19-30, §mk-10-44
  }
 #}
 #mt-20-28 {
@@ -76191,7 +76196,7 @@
 #}
 #mt-23-5 {
  {
-  <i>Denkzettel</i>: Sch2K übersetzt mit «Gebetsriemen»
+  <i>Denkzettel</i> (<span class='gr'>φυλακτήριον</span>, Strongs 5540, 1x): Sch2K übersetzt mit «Gebetsriemen»
  }
 #}
 #mt-23-6 {
@@ -76205,6 +76210,11 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen: in Elb05 mit «Gastmählern» in Sch2K mit «Mahlzeiten», in KJV mit «feasts» übersetzt.
  }
 #}
+#mt-23-7 {
+ {
+  <i>Die Begrüßungen auf den Märkten lieben</i> §mk-12-38, §lk-11-43
+ }
+#}
 #mt-23-8 {
  {
   <i>einer ist euer Lehrer</i> vgl §joh-13-13, §mt-10-24
@@ -76216,6 +76226,9 @@
  }
 #}
 #mt-23-11 {
+ {
+  Vgl §mk-10-43, §mt-20-26
+ }
  {
   <i>Wer ist der Grösste</i>: <a href='http://bibel.renenyffenegger.ch/mt_18.html#v1'>Mt&nbsp;18,1</a>.
  }
@@ -76275,6 +76288,9 @@
 #}
 #mt-23-23 {
  {
+  <i>ihr verzehntet die Krausemünze…</i> §lk-11-42
+ }
+ {
   <i>Gericht</i>: <span class='gr'>κρίσις</span> (Strongs 2920), in Sch2K mit «Recht» in KJV mit «Judgement» übersetzt.
  }
 #}
@@ -76296,6 +76312,11 @@
   <i>von außen zwar gerecht…</i> vgl §lk-20-20
  }
 #}
+#mt-23-29 {
+ {
+  §lk-11-47
+ }
+#}
 #mt-23-31 {
  {
   Vgl §lk-11-48
@@ -76307,6 +76328,11 @@
 #mt-23-33 {
  {
   <i>Otternbrut</i>: §+mt-3-7
+ }
+#}
+#mt-23-34 {
+ {
+  §lk-11-49, vgl §apg-7-52
  }
 #}
 #mt-23-35 {
@@ -77793,8 +77819,10 @@
 #}
 #mt-27-52 {
  {
-  <i>aus den Gräbern heraus</i>: <a class='kom' href='#Ips-107-20'>Ps&nbsp;107,20</a>,
-  <a href='http://bibel.renenyffenegger.ch/mt_8.html#v28'>Mt&nbsp;8,28</a>.
+  <i>aus den Gräbern heraus</i>: <a class='kom' href='#Ips-107-20'>Ps&nbsp;107,20</a>, <a href='http://bibel.renenyffenegger.ch/mt_8.html#v28'>Mt&nbsp;8,28</a>.
+ }
+ {
+  David war nicht unter denen, die hier auferweckt wurden, §apg-2-29
  }
 #}
 #mt-27-53 {
@@ -79515,7 +79543,7 @@
 #}
 #mk-8-15 {
  {
-   <i>Sauerteig der Pharisäer und Sauerteig des → biblisches/Personen/Herodes</i>, vgl mit dem «Sauerteig der Pharisäer und Sadduzäer» §+mt-16-6.
+  <i>Sauerteig der Pharisäer und Sauerteig des → biblisches/Personen/Herodes</i>, vgl mit dem «Sauerteig der Pharisäer und Sadduzäer» §+mt-16-6.
  }
 #}
 #mk-8-17 {
@@ -80025,6 +80053,16 @@
    → biblisches/Grundtext/Scriptio-continua 
  }
 #}
+#mk-10-43 {
+ {
+  <i>wer groß werden will, soll Diener sein</i> §mt-23-11
+ }
+#}
+#mk-10-44 {
+ {
+  §mt-20-27
+ }
+#}
 #mk-10-45 {
  {
   <i>ist nicht gekommen, um bedient zu werden…</i>: §joh-13-4-5
@@ -80338,6 +80376,14 @@
   Als er im → biblisches/Eigene-Uebersetzung/Konkordanz/Tempel lehrte: vgl §mk-14-49, §mt-26-55, §+lk-2-46
  }
 #}
+#mk-12-38 {
+ {
+  <i>Hütet euch vor den Schriftgelehrten, die in langen Gewändern einhergehen wollen …</i> §lk-20-46
+ }
+ {
+  <i>Die Begrüßungen auf den Märkten lieben</i> §mt-23-7, §lk-11-43
+ }
+#}
 #mk-12-39 {
  {
    → biblisches/Eigene-Uebersetzung/Konkordanz/Abendessen
@@ -80350,10 +80396,13 @@
 #}
 #mk-12-41 {
  {
-  <i>Opferkasten</i>: s. a. <a href='http://bibel.renenyffenegger.ch/joh_8.html#v20'>Joh&nbsp;8,20</a>.
+  §lk-21-1
  }
  {
   <i>Geld</i>: <span class='gr'>χαλκός</span> (Strongs 5475), wird auch mit «Kupfer» übersetzt, z. Bl §mt-10-9
+ }
+ {
+  TODO: <i>Opferkasten</i>: s. a. <a href='http://bibel.renenyffenegger.ch/joh_8.html#v20'>Joh&nbsp;8,20</a>.
  }
 #}
 #mk-12-42 {
@@ -84429,9 +84478,17 @@
   <i>alles ist euch rein</i> vgl §tit-1-15, vgl §+mk-7-18
  }
 #}
+#lk-11-42 {
+ {
+  <i>ihr verzehntet die Krausemünze…</i> §mt-23-23, vgl §lk-18-12
+ }
+#}
 #lk-11-43 {
  {
   <i>ihr liebt den ersten Sitz in den → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge[Synagogen]</i> §lk-20-46
+ }
+ {
+  <i>Die Begrüßungen auf den Märkten lieben</i> §mt-23-7, §mk-12-38
  }
 #}
 #lk-11-44 {
@@ -84452,6 +84509,9 @@
 #}
 #lk-11-47 {
  {
+  §mt-23-29
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden, vgl §+lk-13-33
  }
  {
@@ -84464,6 +84524,9 @@
  }
 #}
 #lk-11-49 {
+ {
+  §mt-23-34, vgl §apg-7-52
+ }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet, → biblisches/Eigene-Uebersetzung/Konkordanz/Apostel, vgl §eph-2-20, §2petr-3-2
  }
@@ -85454,6 +85517,11 @@
   <i>betete bei sich selbst</i> kann angeblich auch übersetzt werden mit «betete zu sich selbst».
  }
 #}
+#lk-18-12 {
+ {
+  <i>ich verzehnte alles</i> vgl §lk-11-42
+ }
+#}
 #lk-18-13 {
  {
   Vgl mit den Volksmengen, die sich an die <i>Brust schlagen</i>, §lk-23-48.
@@ -85877,6 +85945,9 @@
 #}
 #lk-20-46 {
  {
+  <i>Hütet euch vor den Schriftgelehrten, die in langen Gewändern einhergehen wollen …</i> vgl §mk-12-38
+ }
+ {
   Sie lieben den ersten Sitz in den → biblisches/Eigene-Uebersetzung/Konkordanz/Synagoge[Synagogen]: §lk-11-43, §mt-23-6
  }
  {
@@ -85893,6 +85964,9 @@
 { 21-24
 @Lukas 21 {
 #lk-21-1 {
+ {
+  §mk-12-41
+ }
  {
   TODO: <i>aufblicken</i> (<span class='gr'>ἀναβλέπω</span>, Strongs 308) wird zB in <a href='http://bibel.renenyffenegger.ch/apg_9.html#v12'>Apg&nbsp;9,12</a> mit
   'wieder sehend' übersetzt.
@@ -88227,6 +88301,9 @@
  }
  {
   → biblisches/Bücher/Evangelien/Johannes#joh-stunde
+ }
+ {
+  <i>Gräber</i> könnte evtl. konsistenter mit «Grüfte» übersetzt werden (Strongs 3419), vgl §Vjoh-11-31, §lk-23-53
  }
 #}
 #joh-5-29 {
@@ -91828,6 +91905,9 @@
   <i>Männer und Brüder</i>: <a class='kom' href='#Iapg-1-16'>Apg&nbsp;1,16</a>.
  }
  {
+  <i>Davids Grab ist unter uns bis auf diesen Tag</i> vgl §mt-27-52
+ }
+ {
   TODO <i>freimütig</i> (<span class='gr'>παρρησία</span>, Strongs 3954): vgl <a href='http://bibel.renenyffenegger.ch/apg_4.html#v13'>Apg&nbsp;4,13</a>,
   <a href='http://bibel.renenyffenegger.ch/apg_4.html#v29'>Apg 4,29-31</a>,
   <a href='http://bibel.renenyffenegger.ch/apg_9.html#v27'>Apg 9,27-29</a> (<span class='gr'>παρρησιάζομαι</span>, Strongs 3955),
@@ -93151,7 +93231,7 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet[Propheten], die → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet#propheten-toeten[getötet] werden.
   <br>
-   Vgl §mt-5-13
+   Vgl §mt-5-12, §mt-23-34, §lk-11-49
  }
  {
   Vgl mit Judas, dem Verräter, §lk-6-16
