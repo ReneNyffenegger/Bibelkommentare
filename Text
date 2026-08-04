@@ -17071,7 +17071,7 @@
 #}
 #3mo-26-29 {
  {
-  Vgl §jer-19-9
+  Vgl §jer-19-9, §kla-2-20, §2koe-25-3
  }
 #}
 #3mo-26-30 {
@@ -23458,6 +23458,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Bastard. S.a.:
   → biblisches/Personen/Perez/Judas-Sohn#zehn-geschlechter-von-perez
+ }
+ {
+  Vgl §kla-1-10
  }
 #}
 #5mo-23-4 {
@@ -37782,7 +37785,7 @@
   Vgl mit §jer-52-6.
  }
  {
-  Vgl <i>Hungersnot</i> mit <a href='http://bibel.renenyffenegger.ch/jer_14.html#v18'>Jer&nbsp;14,18</a>.
+  Vgl <i>Hungersnot</i> mit §jer-14-18, §jer-19-9, §kla-2-20
  }
 #}
 #2koe-25-4 {
@@ -60380,6 +60383,9 @@
  {
   §apg-7-49, §apg-17-24
  }
+ {
+  <i>Schemel seiner Füße</i>: §kla-2-1
+ }
 #}
 #jes-66-2 {
  {
@@ -61640,9 +61646,14 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Speise-für-Vögel-und-Tiere
  }
 #}
+#jer-19-8 {
+ {
+  <i>der an ihr vorberzieht, … wird zischen über alle ihre Plagen</i> §kla-2-15
+ }
+#}
 #jer-19-9 {
  {
-  <i>ich werde sie das Fleisch ihrer Söhne und das Fleisch ihrer Töchter essen lassen</i> vgl §3mo-26-29
+  <i>ich werde sie das Fleisch ihrer Söhne und das Fleisch ihrer Töchter essen lassen</i> vgl §3mo-26-29, §2koe-25-3, §kla-2-10
  <br>
   → Geschichte/Israel/Personen/Flavius-Josephus[Josephus] berichtet in → Geschichte/Israel/Quellen/Geschichte-des-jüdischen-Krieges von <i>Maria von Bethesob</i>, die ihr Kind in der Jerusalemer Belagerung
   gegessen hat <a href="https://de.wikisource.org/wiki/Seite:JosephusBellumGermanKohout.djvu/463">Buch VI, 201 ff</a>
@@ -64194,6 +64205,16 @@
   <i>Wie</i> (<span class='hebr'>אֵיכָ֣ה</span>) hat die gleichen Konsonanten wie «wo bist du» in §1mo-3-9.
  }
 #}
+#kla-1-7 {
+ {
+  <i>Tage der Vorzeit</i>: §kla-2-17
+ }
+#}
+#kla-1-10 {
+ {
+  <i>Sie sollen nicht in deine Versammlung kommen</i> vgl §5mo-23-3
+ }
+#}
 #kla-1-15 {
  {
   Beachte, die <i>Töchter Judas</i> frohlocken um Gottes Gerichte willen, §+ps-48-12
@@ -64204,8 +64225,18 @@
   <i>Meine Eingeweide wallen</i> §kla-2-11
  }
 #}
+#kla-1-22 {
+ {
+  TODO <i>tue ihnen, wie du mir getan hast</i>: das geht wohl in Erfüllung, wenn die Perser Babylon besiegen.
+ }
+#}
 @}
 @Klagelieder 2 {
+#kla-2-1 {
+ {
+  <i>Schemel seiner Füße</i>: §jes-66-1
+ }
+#}
 #kla-2-7 {
  {
   TODO: Dieser Vers enthält Strongs 6963, welches oft mit Stimme übersetzt wird.
@@ -64221,9 +64252,17 @@
   <i>meine Eingeweide wallen</i> §kla-1-20
  }
 #}
+#kla-2-13 {
+ {
+  TODO: dies ist der letzte Vers in den Klageliedern, wo «trösten» vorkommt.
+ }
+#}
 #kla-2-15 {
  {
   <i>Tochter Jerusalem, … der Schönheit Vollendung</i> vgl §ps-50-2
+ }
+ {
+  <i>Die des Weges ziehen, … zischen</i> vgl §jer-19-8
  }
 #}
 #kla-2-16 {
@@ -64238,10 +64277,18 @@
  {
   <i>erhöhtes Horn</i>: <a class='kom' href='#I1sam-2-1'>1.&nbsp;Sam&nbsp;2,1</a>.
  }
+ {
+  <i>Tage der Vorzeit</i>: §kla-1-7
+ }
 #}
 #kla-2-19 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Nachtwache
+ }
+#}
+#kla-2-20 {
+ {
+  <i>Sollen Frauen ihre Leibesfrucht essen</i> vgl §kla-4-10, §jer-19-9, §2koe-25-3
  }
 #}
 @}
@@ -64281,6 +64328,11 @@
 #kla-4-5 {
  {
   TODO <i>Misthaufen</i>: <a class='kom' href='#Idan-2-5'>Dan&nbsp;2,5</a>.
+ }
+#}
+#kla-4-10 {
+ {
+  <i>haben ihre Kinder gekocht</i> vgl §kla-2-20
  }
 #}
 #kla-4-13 {
