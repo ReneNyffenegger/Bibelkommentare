@@ -24235,6 +24235,11 @@
   <i>Ist er nicht dein Vater?</i> §2mo-4-22
  }
 #}
+#5mo-32-7 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/der-Vorzeit
+ }
+#}
 #5mo-32-8 {
  {
   <i>voneinander scheiden</i>: <span class='hebr'>פָּרַד</span> (Strongs 6504) wird in §+1mo-10-5 und §1mo-10-32 mit «verteilen» übersetzt.
@@ -36999,6 +37004,11 @@
   <a href='http://bibel.renenyffenegger.ch/dan_12.html#v5'>Dan&nbsp;12,5</a>
  }
 #}
+#2koe-19-25 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/der-Vorzeit
+ }
+#}
 #2koe-19-26 {
  {
   §jes-37-27
@@ -37018,6 +37028,9 @@
  }
  {
   <i>pflanzt Weinberge und eßt ihre Frucht</i> §lk-13-6, §1kor-9-17
+ }
+ {
+  Ein <i>Zeichen</i> erhielt auch Hiskia: §2koe-20-8
  }
  {
   TODO: §+3mo-25-22.
@@ -37074,6 +37087,11 @@
  {
   Beachte: das Zeichen der Heilung wird an <i>Stufen</i> sichtbar werden. Hiskia wird 15 Jahre länger leben. Es gibt → biblisches/Bücher/Ketuvim/Psalmen/Stufenlieder[15 Stufenlieder] (Psalm 120 bis Psalm 134). Davon sind bei
   zehn, entsprechend den Stufen, die die Sonne zurückgegangen ist, die Verfasser nicht bekannt.
+ }
+#}
+#2koe-20-8 {
+ {
+  Ein <i>Zeichen</i> erhielt auch Sanherib, §2koe-19-29
  }
 #}
 #2koe-20-9 {
@@ -44579,6 +44597,9 @@
 #esr-4-15 {
  {
   <i>Buch der Denkwürdigkeiten</i> (<span class='hebr'>סְפַר־דָּכְרָ֨נַיָּ֜א</span>): vgl §esr-6-2
+ }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/der-Vorzeit
  }
 #}
 #esr-4-18 {
@@ -53375,6 +53396,9 @@
  {
   <i>Werk Seiner Hände</i>: <a class='kom' href='#I5mo-2-7'>5.&nbsp;Mo&nbsp;2,7</a>.
  }
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/der-Vorzeit
+ }
 #}
 #ps-143-8 {
  {
@@ -57972,10 +57996,9 @@
 #}
 #jes-22-11 {
  {
-  <i>seit langem bereitet</i>: vgl
-  <a href='http://bibel.renenyffenegger.ch/jes_23.html#v7'>Jes&nbsp;23,7</a>,
+  <i>von vernher gebildet</i>: vgl §jes-23-7,
   <a href='http://bibel.renenyffenegger.ch/jes_25.html#v1'>Jes&nbsp;25,1</a>,
-  <a href='http://bibel.renenyffenegger.ch/jes_37.html#v26'>Jes&nbsp;37,26</a>,
+  §jes-37-26,
   <a href='http://bibel.renenyffenegger.ch/jes_45.html#v21'>Jes&nbsp;45,21</a>,
   <a href='http://bibel.renenyffenegger.ch/jes_46.html#v10'>Jes&nbsp;46,10</a>,
   <a href='http://bibel.renenyffenegger.ch/jes_51.html#v9'>Jes&nbsp;51,9</a>
@@ -58041,7 +58064,7 @@
 #}
 #jes-23-7 {
  {
-  <i>uralter Vorzeit</i>: <a href='http://bibel.renenyffenegger.ch/jes_22.html#v11'>Jes&nbsp;22,11</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/der-Vorzeit, vgl §jes-22-11
  }
 #}
 #jes-23-8 {
@@ -58775,7 +58798,7 @@
 #}
 #jes-37-26 {
  {
-  <i>Tage der Vorzeit</i>: <a href='http://bibel.renenyffenegger.ch/jes_22.html#v11'>Jes&nbsp;22,11</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/der-Vorzeit, vgl §jes-22-11.
  }
 #}
 #jes-37-27 {
@@ -59610,7 +59633,7 @@
 #}
 #jes-51-9 {
  {
-  <i>Tage der Vorzeit</i>: <a class='kom' href='#Ijes-22-11'>Jes&nbsp;22,11</a>.
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/der-Vorzeit: <a class='kom' href='#Ijes-22-11'>Jes&nbsp;22,11</a>.
  }
  {
   Vgl den <i>durchbohrten Drachen</i> mit <a class='kom' href='#Ihi-26-13'>Hi&nbsp;26,13</a>.
@@ -64207,7 +64230,7 @@
 #}
 #kla-1-7 {
  {
-  <i>Tage der Vorzeit</i>: §kla-2-17
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/der-Vorzeit: §kla-2-17
  }
 #}
 #kla-1-10 {
@@ -64278,7 +64301,7 @@
   <i>erhöhtes Horn</i>: <a class='kom' href='#I1sam-2-1'>1.&nbsp;Sam&nbsp;2,1</a>.
  }
  {
-  <i>Tage der Vorzeit</i>: §kla-1-7
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/der-Vorzeit: §kla-1-7
  }
 #}
 #kla-2-19 {
@@ -69813,6 +69836,11 @@
  }
  {
   <i>Städte Mazors</i>: offenbar könnte dies auch mit «feste Städte» oder übersetzt werden (analog §2chr-8-5, vgl §2chr-11-5); KJV übersetzt mit « fortified cities, and from the fortress even to the river».
+ }
+#}
+#mi-7-14 {
+ {
+  → biblisches/Eigene-Uebersetzung/Konkordanz/Tag/der-Vorzeit
  }
 #}
 #mi-7-17 {
