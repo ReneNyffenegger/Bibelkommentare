@@ -3530,7 +3530,7 @@
 #}
 #1mo-15-14 {
  {
-  <i>Ich werde die Nation auch richten</i>: diese Nation ist Ägypten, und deren Gericht beginnt etwa in <a class='kom' href='#I2mo-6-6'>2.&nbsp;Mo&nbsp;6,6</a>.
+  <i>Ich werde die Nation auch richten</i>: diese Nation ist Ägypten, und deren Gericht beginnt etwa in §+2mo-6-6.
  }
  {
   <i>sie werden ausziehen mit grosser Habe</i> vgl §2mo-3-22
@@ -9089,7 +9089,10 @@
 #}
 #2mo-6-6 {
  {
-  <i>durch grosse Gerichte</i>: dies wurde bereits Abraham in <a class='kom' href='#I1mo-15-14'>1.&nbsp;Mo&nbsp;15,14</a> angekündigt.
+  <i>durch grosse Gerichte</i>: dies wurde bereits Abraham in §+1mo-15-14 angekündigt.
+ }
+ {
+  <i>mit ausgestrecktem Arm erlösen</i> vgl §2mo-15-16, §5mo-4-34
  }
 #}
 #2mo-6-7 {
@@ -10430,6 +10433,9 @@
 #2mo-15-16 {
  {
   §ps-105-38
+ }
+ {
+  <i>ob der Größe deines Armes</i> vgl §2mo-6-6
  }
 #}
 #2mo-15-17 {
@@ -18088,6 +18094,9 @@
  {
   <i>gekochter Bug vom Widder</i>:§+2mo-29-31 und §+1sam-2-13.
  }
+ {
+  TODO <i>Hände</i> kann wohl wörtlicher mit «Arme» übersetzt werden.
+ }
 #}
 #4mo-6-24 {
  {
@@ -21899,6 +21908,9 @@
  {
   <i>aus der Mitte</i>: oder «aus dem Innern».
  }
+ {
+  <i>mit ausgestrecktem Arm</i> vgl §2mo-6-6, §5mo-5-15, §5mo-7-19
+ }
 #}
 #5mo-4-35 {
  {
@@ -22035,6 +22047,9 @@
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Knecht#israel-knechte-aegyptens[Wir waren Knechte des Pharao], → biblisches/Eigene-Uebersetzung/Konkordanz/Sabbat/index,
   → biblisches/Eigene-Uebersetzung/Konkordanz/Aegypten/heraufführen
+ }
+ {
+  <i>mit ausgestrecktem Arm</i> vgl §2mo-6-6, §5mo-4-34
  }
 #}
 #5mo-5-16 {
@@ -22283,6 +22298,9 @@
  }
  {
   <i>der grossen Versuchungen, die deine Augen gesehen …</i>: vgl <a href='http://bibel.renenyffenegger.ch/5mo_29.html#v2'>5.&nbsp;Mo&nbsp;29,2</a>, <a class='kom' href='#I5mo-4-34'>5.&nbsp;Mo&nbsp;4,34</a>.
+ }
+ {
+  <i>mit ausgestrecktem Arm</i> vgl §5mo-4-34
  }
 #}
 #5mo-7-20 {
@@ -67670,6 +67688,9 @@
   <i>ohne Menschenhand zerschmettern werden</i> vgl §dan-2-45
  }
  {
+  <i>zerschmettert werden</i>: <span class='hebr'>יִשָּׁבֵֽר</span> (Strongs 7665). Dieses Verb wird in diesem Kapitel sonst mit «zerbrechen» übersetzt (Verse 7, 8 u. 22). Vgl §dan-11-4
+ }
+ {
   TODO: §+2thes-2-8.
  }
 #}
@@ -68045,7 +68066,10 @@
 #}
 #dan-11-4 {
  {
-  Sein Reich wird nach den → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde[vier Winden] des Himmels zerteilt werden, vgl §+dan-8-8, §jer-49-36
+  Sein Reich wird nach den → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde[vier Winden] des Himmels zertrümmert werden, vgl §+dan-8-8, §jer-49-36
+ }
+ {
+  <i>zertrümmert werden</i>: <span class='hebr'>תִּשָּׁבֵ֣ר</span> (Strongs 7665): §+dan-8-25, §Vdan-11-20
  }
 #}
 #dan-11-5 {
@@ -68061,6 +68085,11 @@
 #dan-11-7 {
  {
   <i>Schössling und Spross</i>: <a class='kom' href='#Ijes-11-1'>Jes&nbsp;11,1</a>.
+ }
+#}
+#dan-11-15 {
+ {
+  TODO: Sollte <i>Streitkräfte des Südens</i> mit «Arme des Südens» übersetzt werden. Vgl §Vdan-11-6, §Vdan-11-26, §Vdan-11-31
  }
 #}
 #dan-11-16 {
@@ -68081,6 +68110,11 @@
 #dan-11-24 {
  {
   TODO <i>Mitten im Frieden</i> wird in Elberfelder mit 'Unversehens' übersetzt. KJV: 'He shall enter peaceably'.
+ }
+#}
+#dan-11-25 {
+ {
+  <i>bis zur bestimmten Zeit</i>: §Vdan-11-27
  }
 #}
 #dan-11-26 {
@@ -68113,6 +68147,9 @@
  {
   TODO: <i>zum Abfall verleiten</i> dasselbe Wort wie für 'entweihen', siehe auch <a class='kom' href='#I4mo-35-33'>4.&nbsp;Mo&nbsp;35,33</a>.
  }
+ {
+  TODO: <i>Abfall</i> vgl §2thes-2-3
+ }
 #}
 #dan-11-33 {
  {
@@ -68121,10 +68158,13 @@
 #}
 #dan-11-35 {
  {
-  <i>um sie zu läutern und reinigen</i> vgl §dan-12-10
+  <i>um sie zu läutern und zu reinigen und weiß zu machen</i> vgl §dan-12-10, §+offb-6-11
  }
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#zeit-des-endes[Zeit des Endes] vgl §Vdan-11-27, §Vdan-11-40, §+dan-8-17
+ }
+ {
+  TODO: Verzieht sich es sich noch bis zur bestimmten Zeit, weil «etwas» zurückhält, §2thes-2-6?
  }
 #}
 #dan-11-36 {
@@ -110596,6 +110636,12 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Judas Iskariot wurde auch <i>Sohn des Verderbens</i> genannt: §joh-17-12.
  }
+ {
+  <span class='gt'>MT/TR: Mensch der Sünde, NA: Mensch der Gesetzlosigkeit</span>, vgl Verse 7-8
+ }
+ {
+  TODO: <i>Abfall</i> vgl §dan-11-32
+ }
 #}
 #2thes-2-4 {
  {
@@ -110622,6 +110668,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>Und <b>jetzt</b> → biblisches/Eigene-Uebersetzung/Konkordanz/Wissen/ihr-wisst#ihr-wisst[wisst ihr], was zurückhält</i>: Evtl. deutet dies darauf hin, dass die Thessaloniker <i>jetzt</i> verstehen,
   was Paulus gelehrt hat, als er bei ihnen war (und was sie damals nicht verstanden).
+ }
+ {
+  TODO: <i>was zurückhält, daß er zu seiner Zeit geoffenbart werde</i> vgl §dan-11-35
  }
  {
   TODO: <a href='https://www.askelm.com/restoring/res019.htm'>askelm.com</a>: Since it is clear in Paul’s comments that he had been giving the
@@ -121025,7 +121074,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   → biblisches/Eigene-Uebersetzung/Konkordanz/vollkommen#vollendeter-mensch[vollendet]
  }
  {
-  <i>ein weißes Gewand gegeben</i> vgl §offb-19-8
+  <i>ein weißes Gewand gegeben</i> vgl §offb-7-13, §offb-19-8, §dan-11-35
  }
  {
   <i>ruhen</i> §offb-14-13
