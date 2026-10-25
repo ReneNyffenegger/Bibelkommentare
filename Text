@@ -8556,12 +8556,11 @@
 @2. Mose 2 {
 #2mo-2-2 {
  {
-   Durch Glauben fürchteten die Eltern das Gebot des Königs nicht
+  Durch Glauben fürchteten die Eltern das Gebot des Königs nicht
   (<a href='http://bibel.renenyffenegger.ch/hebr_11.html#v23'>Hebr&nbsp;11,23</a>).
  }
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/apg_7.html#v20'>Apg&nbsp;7,20</a>: Mose war auch schön vor Gott.
-  Vgl auch <a href='http://bibel.renenyffenegger.ch/hebr_11.html#v23'>Hebr&nbsp;11,23</a>.
+  <i>Mose war schön und wurde drei Monate verborgen</i>: vgl §apg-7-20 (Mose war auch schön vor Gott), §hebr-11-23
  }
 #}
 #2mo-2-3 {
@@ -87434,7 +87433,7 @@
   <i>Bist du der Prophet</i>: §5mo-18-15
  }
  {
-  Vgl auch die 'zwei Zeugen' aus §+offb-11-3.
+  Vgl auch mit den «zwei Zeugen» aus §+offb-11-3.
  }
  {
   Obwohl → biblisches/Personen/Johannes/Täufer nicht → biblisches/Personen/Elia[Elias] war, sagt der Herr genau dies über Johannes, §mt-11-14
@@ -88228,6 +88227,11 @@
   TODO: <a href='http://kataiwannhn.de/notes/samariterin.html'>http://kataiwannhn.de/notes/samariterin.html</a>
  }
 #}
+#joh-4-19 {
+ {
+  <i>dass du ein Prophet bist</i>: §+joh-1-21, vgl §Vjoh-4-44
+ }
+#}
 #joh-4-21 {
  {
   → biblisches/Bücher/Evangelien/Johannes#joh-stunde
@@ -88296,13 +88300,13 @@
 #}
 #joh-4-44 {
  {
-  Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet hat keine Ehre im eigenen Vaterland, vgl §mt-13-57, §mk-6-4, §lk-4-24
+  Ein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet hat keine Ehre im eigenen Vaterland, vgl §mt-13-57, §mk-6-4, §lk-4-24, §joh-7-52
  }
  {
   <i>Vaterland</i>: §+mt-13-54.
  }
  {
-  TODO: <i>Prophet</i>: <a class='kom' href='#Ijoh-1-21'>Joh&nbsp;1,21</a>.
+  <i>Prophet</i>: §+joh-1-21, vgl §Vjoh-4-19
  }
 #}
 #joh-4-45 {
@@ -88651,10 +88655,9 @@
 #}
 #joh-6-14 {
  {
-  <i>wahrhaftig der Prophet</i> §joh-7-40
- }
- {
-  TODO: <i>Prophet</i>: §+joh-1-21.
+  <i>wahrhaftig der Prophet</i> §joh-7-40, vgl §+joh-1-21
+ <br>
+  <i>der in die Welt kommen soll</i> vgl §joh-11-27
  }
 #}
 #joh-6-15 {
@@ -89129,10 +89132,10 @@
 #}
 #joh-7-52 {
  {
-  <i>…dass kein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet aus → biblisches/Orte/Galiläa aufsteht</i> vgl §joh-1-45-46
+  <i>…dass kein → biblisches/Eigene-Uebersetzung/Konkordanz/Prophet aus → biblisches/Orte/Galiläa aufsteht</i> vgl §joh-1-45-46, §joh-4-44
  }
  {
-  TODO: <i>Prophet</i>: <a class='kom' href='#Ijoh-1-21'>Joh&nbsp;1,21</a>.
+  <i>Prophet</i>: §+joh-1-21.
  }
 #}
 #joh-7-53 {
@@ -89770,6 +89773,11 @@
 #joh-11-25 {
  {
   <i>Wer an mich glaubt</i>: <a class='kom' href='#Ijoh-6-35'>Joh&nbsp;6,35</a>.
+ }
+#}
+#joh-11-27 {
+ {
+  <i>… der in die Welt kommen soll</i> vgl §joh-6-14
  }
 #}
 #joh-11-33 {
@@ -93220,13 +93228,13 @@
 #}
 #apg-7-20 {
  {
-  <i>Drei Monate</i>: vgl <a href='http://bibel.renenyffenegger.ch/hebr_11.html#v23'>Hebr&nbsp;11,23</a>.
+  <i>Drei Monate</i>: vgl §2mo-2-2, §hebr-11-23.
  }
  {
   <i>ausnehmend schön</i>: <span class='gr'>ἀστεῖος</span> (Strongs 791, 2x). Bei der anderen Stelle, wo dieses Wort vorkommt
-  (<a href='http://bibel.renenyffenegger.ch/hebr_11.html#v23'>Hebr&nbsp;11,23</a>) bezieht es sich auch auf Mose und wird
+  (§hebr-11-23) bezieht es sich auch auf Mose und wird
   mit «schön» übersetzt. Elberfelder übersetzt mit «ausnehmend schön», KJV mit «exceeding fair», Sch2K mit «angenehm».
-  <br>Mose war auch schön in den Augen seiner Mutter: <a href='http://bibel.renenyffenegger.ch/2mo_2.html#v2'>2.&nbsp;Mo&nbsp;2,2</a>.
+  <br>Mose war auch schön in den Augen seiner Mutter: §2mo-2-2.
  }
 #}
 #apg-7-22 {
@@ -115346,11 +115354,11 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #hebr-11-23 {
  {
-  <i>Drei Monate</i>: vgl <a href='http://bibel.renenyffenegger.ch/apg_7.html#v20'>Apg&nbsp;7,20</a>.
+  <i>Drei Monate</i>: vgl §2mo-2-2, §apg-7-20.
  }
  {
-  <i>schön</i>: <span class='gr'>ἀστεῖος</span> (Strongs 791, 2x): vgl <a class='kom' href='#Iapg-7-20'>Apg&nbsp;7,20</a>.
-  Vgl auch <a class='kom' href='#I2mo-2-2'>2.&nbsp;Mo&nbsp;2,2</a>.
+  <i>schön</i>: <span class='gr'>ἀστεῖος</span> (Strongs 791, 2x): vgl §+apg-7-20.
+  Vgl auch §+2mo-2-2.
  }
 #}
 #hebr-11-24 {
