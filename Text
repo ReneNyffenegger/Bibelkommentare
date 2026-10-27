@@ -63577,6 +63577,11 @@
   → biblisches/Eigene-Uebersetzung/Konkordanz/Werk#werk-gottes
  }
 #}
+#jer-48-11 {
+ {
+  <i>Auf den Hefen liegen</i> vgl §zeph-1-12
+ }
+#}
 #jer-48-13 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Gott/Götter#kemosch
@@ -69758,8 +69763,11 @@
 #}
 #mi-3-11 {
  {
-   <i>Geschenke</i>: Vgl <a class='kom' href='#I2koe-20-12'>2.&nbsp;Kö&nbsp;20,12</a>
-   und <a href='http://bibel.renenyffenegger.ch/2chr_32.html#v23'>2.&nbsp;Chr&nbsp;32,23</a>.
+  <i>Ist nicht Jehova in unserer Mitte</i> vgl §zeph-3-17
+ }
+ {
+  <i>Geschenke</i>: Vgl <a class='kom' href='#I2koe-20-12'>2.&nbsp;Kö&nbsp;20,12</a>
+  und <a href='http://bibel.renenyffenegger.ch/2chr_32.html#v23'>2.&nbsp;Chr&nbsp;32,23</a>.
  }
 #}
 #mi-3-12 {
@@ -70039,7 +70047,7 @@
 #}
 #hab-1-8 {
  {
-  TODO: Vgl <i>Wölfe am Abend</i> mit <a href='http://bibel.renenyffenegger.ch/zeph_3.html#v3'>Zeph&nbsp;3,3</a>.
+  <i>Abendwölfe</i> mit §zeph-3-3.
  }
  {
   TODO: <i>fliegen herbei wie ein Adler</i>: §dan-7-4
@@ -70182,6 +70190,11 @@
    <i>Maktesch</i>: <a class='kom' href='#Iri-15-19'>Ri&nbsp;15,19</a>.
  }
 #}
+#zeph-1-12 {
+ {
+  <i>Auf den Hefen liegen</i> vgl §jer-48-11
+ }
+#}
 #zeph-1-14 {
  {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Tag-des-HERRN
@@ -70223,6 +70236,11 @@
   <i>ewige Wüste</i>: <a class='kom' href='#Ijer-25-12'>Jer&nbsp;25,12</a>.
  }
 #}
+#zeph-2-12 {
+ {
+  <i>Äthiopier</i>: od. «Kuschiter», vgl §zeph-1-1
+ }
+#}
 #zeph-2-13 {
  {
   <i>Gericht über → biblisches/Orte/Ninive</i>: §+jon-1-2, §neh-3-7
@@ -70251,7 +70269,7 @@
 @Zephanja 3 {
 #zeph-3-3 {
  {
-  TODO: Vgl <i>Wölfe am Abend</i> mit <a href='http://bibel.renenyffenegger.ch/hab_1.html#v8'>Hab&nbsp;1,8</a>.
+  <i>Abendwölfe</i>: §hab-1-8.
  }
 #}
 #zeph-3-6 {
@@ -70276,9 +70294,19 @@
    → biblisches/Eigene-Uebersetzung/Konkordanz/Berg/heilig
  }
 #}
+#zeph-3-13 {
+ {
+  <i>In ihrem Mund wird keine Zunge des Truges gefunden werden</i> vgl §offb-14-5
+ }
+#}
 #zeph-3-14 {
  {
   <i>Juble, Tochter Zion</i>: vgl §sach-2-14.
+ }
+#}
+#zeph-3-17 {
+ {
+  <i>Jehova … ist in deiner Mitte</i> vgl §mi-3-11
  }
 #}
 #zeph-3-20 {
@@ -122723,7 +122751,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   </span>.
  }
  {
-  <i>In ihrem Mund wurde keine Lüge gefunden</i> vgl §eph-4-25
+  <i>In ihrem Mund wurde keine Lüge gefunden</i> vgl §eph-4-25, §zeph-3-13
  }
 #}
 #offb-14-6 {
