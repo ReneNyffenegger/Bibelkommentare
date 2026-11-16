@@ -48030,6 +48030,9 @@
   <i>Völker richten</i> vgl <a href='http://bibel.renenyffenegger.ch/ps_67.html#v5'>Ps&nbsp;67,5</a>, <a href='http://bibel.renenyffenegger.ch/ps_96.html#v10'>Ps&nbsp;96,10</a>,
   <a href='http://bibel.renenyffenegger.ch/jes_3.html#v13'>Jes&nbsp;3,13</a>, <a href='http://bibel.renenyffenegger.ch/jes_51.html#v5'>Jes&nbsp;51,5</a>
  }
+ {
+  <i>richte mich</i> §ps-26-1, §ps-35-24
+ }
 #}
 #ps-7-10 {
  {
@@ -48732,6 +48735,11 @@
 #}
 @}
 @Psalm 26 {
+#ps-26-1 {
+ {
+  <i>richte mich</i>: §ps-7-9, §ps-35-24
+ }
+#}
 #ps-26-2 {
  {
   <i>Herz und Nieren läutern</i>: §+ps-7-10.
@@ -49115,6 +49123,11 @@
 #ps-35-21 {
  {
   <i>Haha</i>: <a class='kom' href='#Ihi-39-25'>Hi&nbsp;39,25</a>.
+ }
+#}
+#ps-35-24 {
+ {
+  <i>Schaffe mir Recht</i> sollte wohl konsistenter mit «Richte mich» übersetzt werden. Vgl §ps-7-9, §ps-26-1. KJV übersetzt jeweils mit «Judge me».
  }
 #}
 #ps-35-26 {
@@ -67520,6 +67533,11 @@
 #dan-7-21 {
  {
   §offb-13-5-7
+ }
+#}
+#dan-7-22 {
+ {
+  Der Vers kann angeblich auch etwa so übersetzt werden: «…und ein Gericht[surteil] zugunsten den Heiligen … gegeben wurde».
  }
 #}
 #dan-7-24 {
@@ -88981,7 +88999,7 @@
 #}
 #joh-7-5 {
  {
-  <i>Seine Brüder glaubten nicht an ihn</i>, vgl §mk-3-21
+  <i>Seine Brüder glaubten nicht an ihn</i>, vgl §mk-3-21, §2joh-1-4
  }
  {
   Gehörte → biblisches/Personen/Jakobus#jakobus-bruder-des-herrn[Jakobus, der Bruder des Herrn] auch zu diesen Brüdern, die nicht an den Herrn glaubten?
@@ -91139,7 +91157,7 @@
 #}
 #joh-18-36 {
  {
-  <i>Mein Reich ist nicht von dieser Welt</i> vgl §lk-17-20, §offb-11-15, §joh-8-23
+  <i>Mein Reich ist nicht von dieser Welt</i> vgl §lk-17-20, §offb-11-15, §joh-8-23, §hebr-9-11
  }
 #}
 #joh-18-37 {
@@ -91301,11 +91319,12 @@
 #}
 #joh-19-26 {
  {
-  Vgl <a href='http://bibel.renenyffenegger.ch/apg_1.html#v14'>Apg&nbsp;1,14</a>, wo Maria (wieder) die 'Mutter Jesu' genannt wird.
-  <br>Vgl auch <a class='kom' href='#Iapg-12-12'>Apg&nbsp;12,12</a>.
+  Vgl §apg-1-14, wo Maria (wieder) als «Mutter Jesu» genannt wird.
+ <br>
+  Vgl auch §+apg-12-12.
  }
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/den-Jesus-liebte
+  Hat der → biblisches/Eigene-Uebersetzung/Konkordanz/Jünger/den-Jesus-liebte[der Jünger, den Jesus liebte], den zweiten Brief an Maria geschrieben? Vgl §2joh-1-4.
  }
 #}
 #joh-19-27 {
@@ -114750,6 +114769,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Vgl das <i>vollkommnere Zelt</i> mit dem «Vollkommenen», das kommen soll, §1kor-13-10
  }
+ {
+  <i>nicht von dieser Schöpfung</i> vgl §joh-8-23, §joh-18-36
+ }
 #}
 #hebr-9-12 {
  {
@@ -118110,6 +118132,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #2petr-1-15 {
  {
+  <i>dass ihr … imstande seid, euch diese Dinge ins Gedächtnis zu rufen</i> vgl §2petr-3-1
+ }
+ {
   <i>Abschied</i>: <a class='kom' href='#Ilk-9-31'>Lk&nbsp;9,31</a>.
  }
 #}
@@ -118398,10 +118423,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   Beachte, der <i>erste Brief</i> ist an die «an die Fremdlinge &hellip;»,
   der <i>zweite Brief</i> an «die, welche den gleichen kostbaren Glauben &hellip; empfangen haben &hellip;».
-  <br>Vgl auch <i>Grund des Briefes</i>: <a class='kom' href='#I1petr-1-1'>1.&nbsp;Petr&nbsp;1,1</a>.
+  <br>Vgl auch <i>Grund des ersten Briefes</i>: §+1petr-1-1.
  }
  {
-  <i>Geliebte</i>: <a class='kom' href='#Ijak-1-16'>Jak&nbsp;1,16</a>. Auch Verse 8, 14 und 17.
+  <i>durch Erinnerung … damit ihr gedenkt …</i> vgl §2petr-1-15
+ }
+ {
+  <i>Geliebte</i>: §+jak-1-16. Auch Verse 8, 14 und 17.
   <br>Vgl auch mit <a class='kom' href='#Ihebr-6-4'>Hebr&nbsp;6,4</a>.
  }
 #}
@@ -118412,6 +118440,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   Propheten und Apostel, vgl §lk-11-49
+ }
+ {
+  <i>gedenkt der von den heiligen Propheten zuvor gesprochenen Worte …</i> vgl §jud-1-17
  }
  {
   <span class='gt'>TR: durch uns, die Apostel, NA/MT: durch eure Apostel</span>
@@ -119361,6 +119392,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Frau</i>: <span class='gr'>κυρια</span> (Strongs 2959) ist evtl. besser mit «Herrin» übersetzt. Ebenso in §V2joh-1-5.
  }
  {
+  Die <i>auserwählte Frau</i> bezieht sich evtl. auf die Mutter des Herrn, die der Herr als Mutter des Jüngers, den er liebte, eingesetzt hatte, §joh-19-26-27.
+ }
+ {
   TODO: Evtl. wäre <i>Der Älteste</i> besser mit <i>Der Ältere</i> übersetzt worden. Ebenso in §3joh-1-1.
  }
 #}
@@ -119377,6 +119411,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   Beachte: es sind «nur» <i>einige</i> der Kinder, die in der Wahrheit wandeln.
  <br>
   Sch2K übersetzt mit «daß ich unter deinen Kindern solche gefunden habe», KJV mit «that I found of thy children».
+ <br>
+  Unter der Annahme, dass die «auserwählte Frau» (§2joh-1-1) die Mutter Jesu ist, könnte die Tatsache, dass nur einige der Kinder in Wahrheit wandelnd sind, damit erklärt werden,
+  dass Judas, der Bruder des Herrn, zu dieser Zeit noch nicht nicht in der Wahrheit wandelte, vgl §joh-7-5
  }
  {
   Vgl <a class='kom' href='#I1joh-3-21'>1.&nbsp;Joh&nbsp;3,21</a>.
@@ -119489,6 +119526,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  {
   <i>für den Glauben kämpfen</i> §1tim-6-12
  }
+ {
+  <i>ein für allemal</i>: <span class='gr'>απαξ</span> (strongs 530). Dieses Wort wird in §Vjud-1-5 mit «einmal» übersetzt.
+ }
 #}
 #jud-1-4 {
  {
@@ -119514,6 +119554,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
  }
  {
   <i>Ich will euch … erinnern</i>: §+2petr-1-12.
+ }
+ {
+  <i>beim zweiten Mal</i>: <span class='gr'>δευτερον</span>. Elberfelder übersetzt mit «andermal», KJV mit «afterward».
  }
 #}
 #jud-1-6 {
@@ -119581,6 +119624,9 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
   <i>Der Herr schelte dich</i> §sach-3-2.
  }
  {
+  Vgl den <i>Leib Moses</i> mit dem Leib Christi.
+ }
+ {
   Gemäss → Geschichte/Kirche/Personen/Väter/Clemens-von-Alexandria zitiert Judas aus einem nun verschollenen Abschnitt aus der → biblisches/Apokryphen/Himmelfahrt-des-Moses.
  }
 #}
@@ -119645,7 +119691,13 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #jud-1-17 {
  {
-   TODO: Judas, der Bruder des Jakobus, scheint keiner der 12 Apostel (<a class='kom' href='#Imt-10-2'>Mt&nbsp;10,2</a>) gewesen zu sein.
+  Vgl §2petr-3-2
+ }
+ {
+  Judas, der Bruder des Jakobus, bezeichnete sich in diesem Brief nicht als Apostel und scheint keiner der 12 Apostel gewesen zu sein (§+mt-10-2).
+ }
+ {
+  Deutet die Verwendung der Vergangenheitsform («dass sie euch sagten») darauf hin, dass die Apostel bei der Abfassung dieses Briefes bereits verstorben (oder entrückt) waren?
  }
 #}
 #jud-1-18 {
