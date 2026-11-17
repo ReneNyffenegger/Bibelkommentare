@@ -44731,6 +44731,9 @@
  {
   Ähnlicher Text auch in §esr-6-5
  }
+ {
+  <i>Gerät</i> (<span class='hebr'>מָאן</span>, Strongs 3984) wird in §dan-5-2 mit «Gefäss» übersetzt.
+ }
 #}
 #esr-5-16 {
  {
@@ -51894,6 +51897,9 @@
  {
   §+offb-11-11
  }
+ {
+  TODO: Odem = Ruach
+ }
 #}
 #ps-104-32 {
  {
@@ -53283,6 +53289,9 @@
  {
   Vgl §offb-13-15
  }
+ {
+  TODO: Odem = Ruach
+ }
 #}
 #ps-135-18 {
  {
@@ -53701,6 +53710,11 @@
 #ps-150-5 {
  {
   <i>Schallende Zimbel</i>: <a class='kom' href='#I1kor-13-1'>1.&nbsp;Kor&nbsp;13,1</a>. Beachte, dass dort «tönend» das gleiche griechische Wort ist wie LXX hier «klingend» übersetzt.
+ }
+#}
+#ps-150-6 {
+ {
+  TODO: Odem = נְּשָׁמָה
  }
 #}
 @}
@@ -66087,12 +66101,17 @@
 #}
 #hes-37-5 {
  {
-  <i>Ich bringe Odem in euch, daß ihr lebendig werdet.</i> vgl §Vhes-37-14, §1mo-2-7
+  Hier und in den folgenden Versen wird <i>Geist</i> (<span class='hebr'>רוּחַ</span>, Strongs 7307) in Elberfelder und Sch2K mit «Odem», in KJV mit «breath» übersetzt.
+ <br>
+  Vgl §Vhes-37-1, §hab-2-19, §offb-13-15
+ }
+ {
+  <i>Ich bringe Geist in euch, daß ihr lebendig werdet.</i> vgl §Vhes-37-14, §1mo-2-7
  }
 #}
 #hes-37-9 {
  {
-  → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde
+  → biblisches/Eigene-Uebersetzung/Konkordanz/vier-Winde: <span class='hebr'></span>אַרְבַּ֤ע רוּחוֹת֙</span>, also wörtlich die «vier Geister».
  }
 #}
 #hes-37-10 {
@@ -67133,6 +67152,9 @@
   <i>ewig Lebenden</i> §dan-12-2
  }
  {
+  Hier erhebt Nebukadnezar seine Augen zum Himmel, in §dan-5-20-ff wird beschrieben, wie er sich über den Herrn des Himmels erhoben hatte.
+ }
+ {
   → biblisches/Eigene-Uebersetzung/Konkordanz/Endzeit#ende-der-tage[Ende der Tage]
  }
 #}
@@ -67152,6 +67174,9 @@
  }
  {
   Vgl §+2chr-36-7, §esr-5-14
+ }
+ {
+  <i>Gefäß</i> (<span class='hebr'>מָאן</span>, Strongs 3984) wird in §esr-5-14 mit «Gerät» übersetzt.
  }
 #}
 #dan-5-6 {
@@ -67183,6 +67208,9 @@
  {
   §dan-4-30-31
  }
+ {
+  Hier erhebt sich Nebukadnezars Herz, in §dan-4-34 wird beschrieben, wie Nebukadnezar seine Augen zum Himmel erhoben hat.
+ }
 #}
 #dan-5-21 {
  {
@@ -67192,6 +67220,11 @@
 #dan-5-22 {
  {
   → biblisches/Personen/Belsazar
+ }
+#}
+#dan-5-23 {
+ {
+  <i>Odem</i>: <span class='hebr'>נִשְׁמְתָ֥</span> (Strongs 5396)
  }
 #}
 #dan-5-25 {
@@ -68073,6 +68106,11 @@
  }
  {
   <i>ferne Tage</i>: §+dan-8-26
+ }
+#}
+#dan-10-17 {
+ {
+  <i>Odem</i>: <span class='hebr'>נְשָׁמָ֖ה</span> (Strongs H5397)
  }
 #}
 #dan-10-19 {
@@ -70124,6 +70162,9 @@
 #hab-2-19 {
  {
   <i>Kein Odem/Geist im Holz</i> vgl §+offb-13-15
+ }
+ {
+  <i>Geist</i> (<span class='hebr'>רוּחַ</span>, Strongs 7307) wird in Elberfelder und Sch2K mit «Odem», in KJV mit «breath» übersetzt. Vgl §+hes-37-5
  }
 #}
 #hab-2-20 {
@@ -95535,7 +95576,7 @@
 #}
 #apg-15-9 {
  {
-  <i>machte keinen Unterschied…</i> vgl §apg-10-34
+  <i>machte keinen Unterschied…</i> vgl §apg-10-34, §roem-3-22-23
  }
 #}
 #apg-15-12 {
@@ -99075,6 +99116,8 @@
  <br>
   Beachte, dass «unterscheide» in <a href='http://bibel.renenyffenegger.ch/3mo_11.html#v47'>3.&nbsp;Mo&nbsp;11,47</a> in der LXX mit dem entsprechenden Verb <span class='gr'>διαστεῖλαι</span>
   übersetzt wird.
+ <br>
+  Vgl §apg-15-9
  }
  {
   → biblisches/Eigene-Uebersetzung/Varianten/pistis-Christou
@@ -122705,7 +122748,7 @@ Galatians 3:15-21  The law does not void God’s promises June 29, 2014
 #}
 #offb-13-15 {
  {
-  Elberfelder übersetzt <i>Geist</i> mit «Odem»
+  Elberfelder übersetzt <i>Geist</i> mit «Odem». vgl §+hes-35-1
  }
  {
   <i>Dem Bild des Tieres Geist zu geben</i>: §+jer-10-14 und §jer-51-17 (gegossenes Bild ohne Geist) und §hab-2-19 (wo im Holz kein Geist ist)
